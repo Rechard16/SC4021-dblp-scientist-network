@@ -27,7 +27,7 @@ def is_disambiguation(xml):
 
 # Read the CSV file and replace .html with .xml for each URL
 urls = []
-with open('Input\cleaned_url.csv', 'r') as file:
+with open('prev/Input\cleaned_url.csv', 'r') as file:
     reader = csv.reader(file)
     for row in reader:
         url = row[0].replace('.html', '.xml')
