@@ -1,0 +1,498 @@
+<dblpperson name="Zechao Shang" pid="117/3757" n="32">
+<person key="homepages/117/3757" mdate="2021-07-24">
+<author pid="117/3757">Zechao Shang</author>
+<url>http://people.cs.uchicago.edu/~zcshang/</url>
+<url>https://scholar.google.com/citations?user=9DbfdoYAAAAJ</url>
+<url>https://dl.acm.org/profile/81508702931</url>
+<url>https://orcid.org/0000-0002-6409-0792</url>
+<note type="affiliation">University of Chicago</note>
+</person>
+<r><inproceedings key="conf/cloud/RanjanSKE21" mdate="2023-09-30">
+<author pid="303/4540">Nalin Ranjan</author>
+<author pid="117/3757">Zechao Shang</author>
+<author pid="147/1189">Sanjay Krishnan</author>
+<author orcid="0000-0002-4062-8826" pid="75/9436">Aaron J. Elmore</author>
+<title>Version Reconciliation for Collaborative Databases.</title>
+<pages>473-488</pages>
+<year>2021</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/3472883.3486980</ee>
+<crossref>conf/cloud/2021</crossref>
+<url>db/conf/cloud/socc2021.html#RanjanSKE21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/0002SSK21" mdate="2021-06-21">
+<author pid="117/1897-2">Xi Liang 0002</author>
+<author pid="151/3111">Stavros Sintos</author>
+<author pid="117/3757">Zechao Shang</author>
+<author pid="147/1189">Sanjay Krishnan</author>
+<title>Combining Aggregation and Sampling (Nearly) Optimally for Approximate Query Processing.</title>
+<pages>1129-1141</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3457277</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#0002SSK21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/TangSMEK21" mdate="2023-09-30">
+<author pid="155/5478">Dixin Tang</author>
+<author pid="117/3757">Zechao Shang</author>
+<author pid="184/2345">William W. Ma</author>
+<author orcid="0000-0002-4062-8826" pid="75/9436">Aaron J. Elmore</author>
+<author pid="147/1189">Sanjay Krishnan</author>
+<title>Resource-efficient Shared Query Execution via Exploiting Time Slackness.</title>
+<pages>1797-1810</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3457282</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#TangSMEK21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-15994" mdate="2021-04-07">
+<author pid="117/1897-2">Xi Liang 0002</author>
+<author pid="151/3111">Stavros Sintos</author>
+<author pid="117/3757">Zechao Shang</author>
+<author pid="147/1189">Sanjay Krishnan</author>
+<title>Combining Aggregation and Sampling (Nearly) Optimally for Approximate Query Processing.</title>
+<year>2021</year>
+<volume>abs/2103.15994</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.15994</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-15994</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2110-01778" mdate="2021-10-08">
+<author pid="303/4540">Nalin Ranjan</author>
+<author pid="117/3757">Zechao Shang</author>
+<author pid="75/9436">Aaron J. Elmore</author>
+<author pid="147/1189">Sanjay Krishnan</author>
+<title>Version Reconciliation for Collaborative Databases.</title>
+<year>2021</year>
+<volume>abs/2110.01778</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2110.01778</ee>
+<url>db/journals/corr/corr2110.html#abs-2110-01778</url>
+</article>
+</r>
+<r><article key="journals/pvldb/TangSEKF20" mdate="2023-09-30">
+<author pid="155/5478">Dixin Tang</author>
+<author pid="117/3757">Zechao Shang</author>
+<author orcid="0000-0002-4062-8826" pid="75/9436">Aaron J. Elmore</author>
+<author pid="147/1189">Sanjay Krishnan</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<title>CrocodileDB in Action: Resource-Efficient Query Execution by Exploiting Time Slackness.</title>
+<pages>2937-2940</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2937-tang.pdf</ee>
+<ee>https://doi.org/10.14778/3415478.3415513</ee>
+<url>db/journals/pvldb/pvldb13.html#TangSEKF20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/ShangLTDEKF20" mdate="2023-09-30">
+<author pid="117/3757">Zechao Shang</author>
+<author pid="117/1897-2">Xi Liang 0002</author>
+<author pid="155/5478">Dixin Tang</author>
+<author orcid="0000-0003-0879-4995" pid="50/7680-2">Cong Ding 0002</author>
+<author orcid="0000-0002-4062-8826" pid="75/9436">Aaron J. Elmore</author>
+<author pid="147/1189">Sanjay Krishnan</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<title>CrocodileDB: Efficient Database Execution through Intelligent Deferment.</title>
+<year>2020</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2020/papers/p14-shang-cidr20.pdf</ee>
+<crossref>conf/cidr/2020</crossref>
+<url>db/conf/cidr/cidr2020.html#ShangLTDEKF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/0002SKEF20" mdate="2023-09-30">
+<author pid="117/1897-2">Xi Liang 0002</author>
+<author pid="117/3757">Zechao Shang</author>
+<author pid="147/1189">Sanjay Krishnan</author>
+<author orcid="0000-0002-4062-8826" pid="75/9436">Aaron J. Elmore</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<title>Fast and Reliable Missing Data Contingency Analysis with Predicate-Constraints.</title>
+<pages>285-295</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389785</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#0002SKEF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/TangSEKF20" mdate="2023-09-30">
+<author pid="155/5478">Dixin Tang</author>
+<author pid="117/3757">Zechao Shang</author>
+<author orcid="0000-0002-4062-8826" pid="75/9436">Aaron J. Elmore</author>
+<author pid="147/1189">Sanjay Krishnan</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<title>Thrifty Query Execution via Incrementability.</title>
+<pages>1241-1256</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389756</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#TangSEKF20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-04139" mdate="2020-04-14">
+<author pid="117/1897-2">Xi Liang 0002</author>
+<author pid="117/3757">Zechao Shang</author>
+<author pid="75/9436">Aaron J. Elmore</author>
+<author pid="147/1189">Sanjay Krishnan</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<title>Fast and Reliable Missing Data Contingency Analysis with Predicate-Constraints.</title>
+<year>2020</year>
+<volume>abs/2004.04139</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.04139</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-04139</url>
+</article>
+</r>
+<r><article key="journals/pvldb/TangSEKF19" mdate="2023-09-30">
+<author pid="155/5478">Dixin Tang</author>
+<author pid="117/3757">Zechao Shang</author>
+<author orcid="0000-0002-4062-8826" pid="75/9436">Aaron J. Elmore</author>
+<author pid="147/1189">Sanjay Krishnan</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<title>Intermittent Query Processing.</title>
+<pages>1427-1441</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1427-tang.pdf</ee>
+<ee>https://doi.org/10.14778/3342263.3342278</ee>
+<url>db/journals/pvldb/pvldb12.html#TangSEKF19</url>
+</article>
+</r>
+<r><article key="journals/sigops/KrishnanEFPSDL19" mdate="2023-09-30">
+<author pid="147/1189">Sanjay Krishnan</author>
+<author orcid="0000-0002-4062-8826" pid="75/9436">Aaron J. Elmore</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="163/0545">John Paparrizos</author>
+<author pid="117/3757">Zechao Shang</author>
+<author pid="191/0540">Adam Dziedzic</author>
+<author orcid="0000-0001-9061-787X" pid="42/469-2">Rui Liu 0002</author>
+<title>Artificial Intelligence in Resource-Constrained and Shared Environments.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<volume>53</volume>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3352020.3352022</ee>
+<url>db/journals/sigops/sigops53.html#KrishnanEFPSDL19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/Zhang0XCS19" mdate="2022-10-02">
+<author pid="68/1980">Zhiwei Zhang</author>
+<author orcid="0000-0002-3650-0301" pid="98/5766-1">Xin Huang 0001</author>
+<author orcid="0000-0001-9404-5848" pid="x/JianliangXu">Jianliang Xu</author>
+<author pid="07/1560">Byron Choi</author>
+<author pid="117/3757">Zechao Shang</author>
+<title>Keyword-Centric Community Search.</title>
+<pages>422-433</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00045</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#Zhang0XCS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ShangYZ19" mdate="2019-06-11">
+<author pid="117/3757">Zechao Shang</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author pid="68/1980">Zhiwei Zhang</author>
+<title>TuFast: A Lightweight Parallelization Library for Graph Analytics.</title>
+<pages>710-721</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00069</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#ShangYZ19</url>
+</inproceedings>
+</r>
+<r><article key="journals/fcsc/HuangYS18" mdate="2018-02-19">
+<author pid="121/4333">Weihuang Huang</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author pid="117/3757">Zechao Shang</author>
+<title>Handling query skew in large indexes: a view based approach.</title>
+<pages>146-162</pages>
+<year>2018</year>
+<volume>12</volume>
+<journal>Frontiers Comput. Sci.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11704-016-5525-3</ee>
+<url>db/journals/fcsc/fcsc12.html#HuangYS18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ShangBEF18" mdate="2023-09-30">
+<author pid="117/3757">Zechao Shang</author>
+<author pid="168/0291">Will Brackenbury</author>
+<author orcid="0000-0002-4062-8826" pid="75/9436">Aaron J. Elmore</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<title>CYADB: A Database that Covers Your Ask.</title>
+<pages>2038-2041</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p2038-shang.pdf</ee>
+<ee>https://doi.org/10.14778/3229863.3236254</ee>
+<url>db/journals/pvldb/pvldb11.html#ShangBEF18</url>
+</article>
+</r>
+<r><article key="journals/tkde/HuangZSY18" mdate="2018-04-11">
+<author pid="121/4333">Weihuang Huang</author>
+<author orcid="0000-0003-4924-7824" pid="171/4868">Yikai Zhang 0001</author>
+<author orcid="0000-0002-6409-0792" pid="117/3757">Zechao Shang</author>
+<author orcid="0000-0002-9738-827X" pid="y/JXuYu">Jeffrey Xu Yu</author>
+<title>To Meet or Not to Meet: Finding the Shortest Paths in Road Networks.</title>
+<pages>772-785</pages>
+<year>2018</year>
+<volume>30</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TKDE.2017.2777851</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2017.2777851</ee>
+<url>db/journals/tkde/tkde30.html#HuangZSY18</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/ShangYE18" mdate="2023-09-30">
+<author pid="117/3757">Zechao Shang</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author orcid="0000-0002-4062-8826" pid="75/9436">Aaron J. Elmore</author>
+<title>RushMon: Real-time Isolation Anomalies Monitoring.</title>
+<pages>647-662</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3196932</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#ShangYE18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/Shang17" mdate="2020-03-12">
+<author pid="117/3757">Zechao Shang</author>
+<title>Next Generation Consistency Enforcement.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_105.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#Shang17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/ShangY17" mdate="2020-03-12">
+<author pid="117/3757">Zechao Shang</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<title>My Weak Consistency is Strong.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/papers/p115-shang-cidr17.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#ShangY17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adc/HuangYS16" mdate="2017-05-23">
+<author pid="121/4333">Weihuang Huang</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author pid="117/3757">Zechao Shang</author>
+<title>A Sketch-First Approach for Finding TSP.</title>
+<pages>123-136</pages>
+<year>2016</year>
+<booktitle>ADC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-46922-5_10</ee>
+<crossref>conf/adc/2016</crossref>
+<url>db/conf/adc/adc2016.html#HuangYS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ShangLYZC16" mdate="2020-09-30">
+<author pid="117/3757">Zechao Shang</author>
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author pid="68/1980">Zhiwei Zhang</author>
+<author pid="85/5637-1">Hong Cheng 0001</author>
+<title>Graph Analytics Through Fine-Grained Parallelism.</title>
+<pages>463-478</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2915238</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#ShangLYZC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adc/HuangYS15" mdate="2017-05-23">
+<author pid="121/4333">Weihuang Huang</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author pid="117/3757">Zechao Shang</author>
+<title>Handling Query Skew in Large Indexes: A View Based Approach.</title>
+<pages>180-193</pages>
+<year>2015</year>
+<booktitle>ADC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-19548-3_15</ee>
+<crossref>conf/adc/2015</crossref>
+<url>db/conf/adc/adc2015.html#HuangYS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZhangYQS15" mdate="2022-01-04">
+<author pid="68/1980">Zhiwei Zhang</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin 0001</author>
+<author pid="117/3757">Zechao Shang</author>
+<title>Divide &amp; Conquer: I/O Efficient Depth-First Search.</title>
+<pages>445-458</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2723740</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#ZhangYQS15</url>
+</inproceedings>
+</r>
+<r><article key="journals/isci/LiYHCS14" mdate="2020-09-30">
+<author pid="37/548">Rong-Hua Li</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author pid="98/5766-1">Xin Huang 0001</author>
+<author pid="85/5637-1">Hong Cheng 0001</author>
+<author pid="117/3757">Zechao Shang</author>
+<title>Measuring the impact of MVC attack in large complex networks.</title>
+<pages>685-702</pages>
+<year>2014</year>
+<volume>278</volume>
+<journal>Inf. Sci.</journal>
+<ee>https://doi.org/10.1016/j.ins.2014.03.085</ee>
+<url>db/journals/isci/isci278.html#LiYHCS14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ShangY14" mdate="2020-04-25">
+<author pid="117/3757">Zechao Shang</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<title>Auto-Approximation of Graph Computing.</title>
+<pages>1833-1844</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>14</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p1833-shang.pdf</ee>
+<ee>https://doi.org/10.14778/2733085.2733090</ee>
+<url>db/journals/pvldb/pvldb7.html#ShangY14</url>
+</article>
+</r>
+<r><article key="journals/vldb/ChengSCWY14" mdate="2020-09-30">
+<author pid="06/4171">James Cheng</author>
+<author pid="117/3757">Zechao Shang</author>
+<author pid="85/5637-1">Hong Cheng 0001</author>
+<author pid="w/HaixunWang">Haixun Wang</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<title>Efficient processing of k-hop reachability queries.</title>
+<pages>227-252</pages>
+<year>2014</year>
+<volume>23</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-013-0346-6</ee>
+<url>db/journals/vldb/vldb23.html#ChengSCWY14</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/ShangY13" mdate="2023-03-24">
+<author pid="117/3757">Zechao Shang</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<title>Catch the Wind: Graph workload balancing on cloud.</title>
+<pages>553-564</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544855</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544855</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#ShangY13</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/ChengSCWY12" mdate="2020-09-30">
+<author pid="06/4171">James Cheng</author>
+<author pid="117/3757">Zechao Shang</author>
+<author pid="85/5637-1">Hong Cheng 0001</author>
+<author pid="w/HaixunWang">Haixun Wang</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<title>K-Reach: Who is in Your Small World.</title>
+<pages>1292-1303</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p1292_jamescheng_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2350229.2350247</ee>
+<url>db/journals/pvldb/pvldb5.html#ChengSCWY12</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/LiYHCS12" mdate="2020-09-30">
+<author pid="37/548">Rong-Hua Li</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author pid="98/5766-1">Xin Huang 0001</author>
+<author pid="85/5637-1">Hong Cheng 0001</author>
+<author pid="117/3757">Zechao Shang</author>
+<title>Measuring robustness of complex networks under MVC attack.</title>
+<pages>1512-1516</pages>
+<year>2012</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2396761.2398463</ee>
+<crossref>conf/cikm/2012</crossref>
+<url>db/conf/cikm/cikm2012.html#LiYHCS12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1207-0913" mdate="2018-08-13">
+<author pid="37/548">Rong-Hua Li</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author pid="117/3757">Zechao Shang</author>
+<title>Estimating Node Influenceability in Social Networks</title>
+<ee type="oa">http://arxiv.org/abs/1207.0913</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1207.0913</volume>
+<url>db/journals/corr/corr1207.html#abs-1207-0913</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1208-0090" mdate="2020-09-30">
+<author pid="06/4171">James Cheng</author>
+<author pid="117/3757">Zechao Shang</author>
+<author pid="85/5637-1">Hong Cheng 0001</author>
+<author pid="w/HaixunWang">Haixun Wang</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<title>K-Reach: Who is in Your Small World</title>
+<ee type="oa">http://arxiv.org/abs/1208.0090</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1208.0090</volume>
+<url>db/journals/corr/corr1208.html#abs-1208-0090</url>
+</article>
+</r>
+<coauthors n="26" nc="1">
+<co c="0"><na f="b/Brackenbury:Will" pid="168/0291">Will Brackenbury</na></co>
+<co c="0"><na f="c/Cheng_0001:Hong" pid="85/5637-1">Hong Cheng 0001</na></co>
+<co c="0"><na f="c/Cheng:James" pid="06/4171">James Cheng</na></co>
+<co c="0"><na f="c/Choi:Byron" pid="07/1560">Byron Choi</na></co>
+<co c="0"><na f="d/Ding_0002:Cong" pid="50/7680-2">Cong Ding 0002</na></co>
+<co c="0"><na f="d/Dziedzic:Adam" pid="191/0540">Adam Dziedzic</na></co>
+<co c="0"><na f="e/Elmore:Aaron_J=" pid="75/9436">Aaron J. Elmore</na></co>
+<co c="0"><na f="f/Franklin:Michael_J=" pid="f/MJFranklin">Michael J. Franklin</na></co>
+<co c="0"><na f="h/Huang:Weihuang" pid="121/4333">Weihuang Huang</na></co>
+<co c="0"><na f="h/Huang_0001:Xin" pid="98/5766-1">Xin Huang 0001</na></co>
+<co c="0"><na f="k/Krishnan:Sanjay" pid="147/1189">Sanjay Krishnan</na></co>
+<co c="0"><na f="l/Li_0001:Feifei" pid="l/FeifeiLi">Feifei Li 0001</na></co>
+<co c="0" n="2"><na f="l/Li:Ronghua" pid="37/548">Ronghua Li</na><na>Rong-Hua Li</na></co>
+<co c="0"><na f="l/Liang_0002:Xi" pid="117/1897-2">Xi Liang 0002</na></co>
+<co c="0"><na f="l/Liu_0002:Rui" pid="42/469-2">Rui Liu 0002</na></co>
+<co c="0"><na f="m/Ma:William_W=" pid="184/2345">William W. Ma</na></co>
+<co c="0"><na f="p/Paparrizos:John" pid="163/0545">John Paparrizos</na></co>
+<co c="0"><na f="q/Qin_0001:Lu" pid="51/5585">Lu Qin 0001</na></co>
+<co c="0"><na f="r/Ranjan:Nalin" pid="303/4540">Nalin Ranjan</na></co>
+<co c="0"><na f="s/Sintos:Stavros" pid="151/3111">Stavros Sintos</na></co>
+<co c="0"><na f="t/Tang:Dixin" pid="155/5478">Dixin Tang</na></co>
+<co c="0"><na f="w/Wang:Haixun" pid="w/HaixunWang">Haixun Wang</na></co>
+<co c="0"><na f="x/Xu:Jianliang" pid="x/JianliangXu">Jianliang Xu</na></co>
+<co c="0"><na f="y/Yu:Jeffrey_Xu" pid="y/JXuYu">Jeffrey Xu Yu</na></co>
+<co c="0"><na f="z/Zhang_0001:Yikai" pid="171/4868">Yikai Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Zhiwei" pid="68/1980">Zhiwei Zhang</na></co>
+</coauthors>
+</dblpperson>

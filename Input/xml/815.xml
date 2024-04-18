@@ -1,0 +1,2029 @@
+<dblpperson name="Stratos Idreos" pid="i/StratosIdreos" n="117">
+<person key="homepages/i/StratosIdreos" mdate="2021-04-19">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<url>http://stratos.seas.harvard.edu/</url>
+<url>https://scholar.google.com/citations?user=rg6Bl5YAAAAJ</url>
+<url>https://dl.acm.org/profile/81100365529</url>
+<note type="affiliation">Harvard University</note>
+</person>
+<r><article key="journals/ftdb/AthanassoulisIS23" mdate="2023-11-12">
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="s/DennisShasha">Dennis E. Shasha</author>
+<title>Data Structures for Data-Intensive Applications: Tradeoffs and Design Guidelines.</title>
+<pages>1-168</pages>
+<year>2023</year>
+<volume>13</volume>
+<journal>Found. Trends Databases</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1561/1900000059</ee>
+<url>db/journals/ftdb/ftdb13.html#AthanassoulisIS23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ZardbaniMIK23" mdate="2023-10-23">
+<author pid="261/1953">Fatemeh Zardbani</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="08/5342">Panagiotis Karras</author>
+<title>Adaptive Indexing of Objects with Spatial Extent.</title>
+<pages>2248-2260</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p2248-karras.pdf</ee>
+<ee>https://doi.org/10.14778/3598581.3598596</ee>
+<url>db/journals/pvldb/pvldb16.html#ZardbaniMIK23</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/Idreos23" mdate="2024-02-02">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>The Data Systems Grammar: Self-designing Systems for the era of AI.</title>
+<pages>1</pages>
+<year>2023</year>
+<booktitle>IEEE Big Data</booktitle>
+<ee>https://doi.org/10.1109/BigData59044.2023.10386122</ee>
+<crossref>conf/bigdataconf/2023</crossref>
+<url>db/conf/bigdataconf/bigdataconf2023.html#Idreos23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SaxenaGII23" mdate="2023-07-27">
+<author pid="167/2106">Hemant Saxena</author>
+<author pid="42/3296">Lukasz Golab</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<title>Real-Time LSM-Trees for HTAP Workloads.</title>
+<pages>1208-1220</pages>
+<year>2023</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE55515.2023.00097</ee>
+<crossref>conf/icde/2023</crossref>
+<url>db/conf/icde/icde2023.html#SaxenaGII23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ideal/MishraHDSI23" mdate="2023-12-31">
+<author orcid="0000-0002-5216-5400" pid="349/5492">Aakash Mishra</author>
+<author orcid="0009-0000-2438-3761" pid="239/9099">Jeremy Hsu</author>
+<author orcid="0000-0002-4722-4066" pid="361/3570">Frank D'Agostino</author>
+<author pid="124/2281">Utku Sirin</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Rapid and Low-Cost Evaluation of Multi-fidelity Scheduling Algorithms for Hyperparameter Optimization.</title>
+<pages>64-69</pages>
+<year>2023</year>
+<booktitle>IDEAL</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-48232-8_7</ee>
+<crossref>conf/ideal/2023</crossref>
+<url>db/conf/ideal/ideal2023.html#MishraHDSI23</url>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/AbadiAABBBBCCDD22" mdate="2024-02-05">
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="a/DavidGAndersen">David G. Andersen</author>
+<author pid="47/8816">Peter Bailis</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="d/XinLunaDong">Luna Dong</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="f/JulianaFreire">Juliana Freire</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="m/SergeyMelnik">Sergey Melnik 0001</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="o/BengChinOoi">Beng Chin Ooi</author>
+<author pid="o/FatmaOzcan">Fatma Ozcan</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<title>The Seattle report on database research.</title>
+<pages>72-79</pages>
+<year>2022</year>
+<volume>65</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<ee>https://doi.org/10.1145/3524284</ee>
+<url>db/journals/cacm/cacm65.html#AbadiAABBBBCCDD22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/VaidyaKCKMI22" mdate="2023-10-23">
+<author pid="188/6341">Kapil Vaidya</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="139/7927">Subarna Chatterjee</author>
+<author pid="214/6009">Eric R. Knorr</author>
+<author pid="74/838">Michael Mitzenmacher</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>SNARF: A Learning-Enhanced Range Filter.</title>
+<pages>1632-1644</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>8</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p1632-vaidya.pdf</ee>
+<ee>https://doi.org/10.14778/3529337.3529347</ee>
+<url>db/journals/pvldb/pvldb15.html#VaidyaKCKMI22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/Wang0IOA22" mdate="2023-11-12">
+<author pid="30/2063">Ruihong Wang</author>
+<author pid="64/1071-1">Jianguo Wang 0001</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author orcid="0000-0002-8126-1717" pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<author orcid="0000-0001-8169-7775" pid="a/WGAref">Walid G. Aref</author>
+<title>The Case for Distributed Shared-Memory Databases with RDMA-Enabled Memory Disaggregation.</title>
+<pages>15-22</pages>
+<year>2022</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p15-wang.pdf</ee>
+<ee>https://doi.org/10.14778/3561261.3561263</ee>
+<url>db/journals/pvldb/pvldb16.html#Wang0IOA22</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/HentschelSI22" mdate="2023-03-21">
+<author pid="213/7863">Brian Hentschel</author>
+<author orcid="0000-0002-7386-768X" pid="124/2281">Utku Sirin</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Entropy-Learned Hashing: Constant Time Hashing with Controllable Uniformity.</title>
+<pages>1640-1654</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3517894</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#HentschelSI22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KnorrLLLZIM22" mdate="2022-06-14">
+<author pid="214/6009">Eric R. Knorr</author>
+<author pid="322/1443">Baptiste Lemaire</author>
+<author pid="267/6394">Andrew Lim</author>
+<author pid="117/5965">Siqiang Luo</author>
+<author pid="13/8730">Huanchen Zhang</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="74/838">Michael Mitzenmacher</author>
+<title>Proteus: A Self-Designing Range Filter.</title>
+<pages>1670-1684</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3526167</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#KnorrLLLZIM22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Amer-YahiaBDILS22" mdate="2022-06-14">
+<author pid="a/SihemAmerYahia">Sihem Amer-Yahia</author>
+<author pid="b/SSBhowmick">Sourav S. Bhowmick</author>
+<author pid="d/XinLunaDong">Xin Luna Dong</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Publication Culture and Review Processes in the Data Management Community: An Open Discussion.</title>
+<pages>2501-2502</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3528413</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#Amer-YahiaBDILS22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-01503" mdate="2022-07-06">
+<author pid="214/6009">Eric R. Knorr</author>
+<author pid="322/1443">Baptiste Lemaire</author>
+<author pid="267/6394">Andrew Lim</author>
+<author pid="117/5965">Siqiang Luo</author>
+<author pid="13/8730">Huanchen Zhang</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="74/838">Michael Mitzenmacher</author>
+<title>Proteus: A Self-Designing Range Filter.</title>
+<year>2022</year>
+<volume>abs/2207.01503</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.01503</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-01503</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-03027" mdate="2023-03-21">
+<author pid="30/2063">Ruihong Wang</author>
+<author pid="64/1071-1">Jianguo Wang 0001</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author orcid="0000-0002-8126-1717" pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<title>The Case for Distributed Shared-Memory Databases with RDMA-Enabled Memory Disaggregation.</title>
+<year>2022</year>
+<volume>abs/2207.03027</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.03027</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-03027</url>
+</article>
+</r>
+<r><article key="journals/cacm/Idreos21" mdate="2021-04-23">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Technical perspective: The strength of SuRF.</title>
+<pages>165</pages>
+<year>2021</year>
+<volume>64</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3450261</ee>
+<url>db/journals/cacm/cacm64.html#Idreos21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/IdreosI21" mdate="2021-08-27">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="i/ZacharyGIves">Zack Ives</author>
+<title>Front Matter.</title>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/FrontMatterVol14No11.pdf</ee>
+<url>db/journals/pvldb/pvldb14.html#IdreosI21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChatterjeeJQI21" mdate="2022-04-21">
+<author pid="139/7927">Subarna Chatterjee</author>
+<author pid="205/2407">Meena Jagadeesan</author>
+<author pid="181/5874">Wilson Qin</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Cosine: A Cloud-Cost Optimized Self-Designing Key-Value Storage Engine.</title>
+<pages>112-126</pages>
+<year>2021</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol15/p112-chatterjee.pdf</ee>
+<ee>https://doi.org/10.14778/3485450.3485461</ee>
+<url>db/journals/pvldb/pvldb15.html#ChatterjeeJQI21</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl-nllp/TriasWJI21" mdate="2023-11-08">
+<author pid="360/0723">Fernando Trias</author>
+<author pid="18/5598">Hongming Wang</author>
+<author pid="52/4070">Sylvain Jaume</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Named Entity Recognition in Historic Legal Text: A Transformer and State Machine Ensemble Method.</title>
+<pages>172-179</pages>
+<year>2021</year>
+<booktitle>NLLP@EMNLP</booktitle>
+<ee>https://aclanthology.org/2021.nllp-1.18</ee>
+<crossref>conf/acl-nllp/2021</crossref>
+<url>db/conf/acl-nllp/nllp2021.html#TriasWJI21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/JensenLZIK21" mdate="2021-03-19">
+<author pid="287/6628">Anders Hammersh&#248;j Jensen</author>
+<author pid="287/7025">Frederik Lauridsen</author>
+<author pid="261/1953">Fatemeh Zardbani</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="08/5342">Panagiotis Karras</author>
+<title>Revisiting Multidimensional Adaptive Indexing [Experiment &amp; Analysis].</title>
+<pages>469-474</pages>
+<year>2021</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.5441/002/edbt.2021.53</ee>
+<crossref>conf/edbt/2021</crossref>
+<url>db/conf/edbt/edbt2021.html#JensenLZIK21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/WasayI21" mdate="2021-06-23">
+<author pid="149/9304">Abdul Wasay</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>More or Less: When and How to Build Convolutional Neural Network Ensembles.</title>
+<year>2021</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=z5Z023VBmDZ</ee>
+<crossref>conf/iclr/2021</crossref>
+<url>db/conf/iclr/iclr2021.html#WasayI21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/WasayCI21" mdate="2021-06-21">
+<author pid="149/9304">Abdul Wasay</author>
+<author pid="139/7927">Subarna Chatterjee</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Deep Learning: Systems and Responsibility.</title>
+<pages>2867-2875</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3457541</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#WasayCI21</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigmod/2021" mdate="2021-06-21">
+<editor pid="l/GuoliangLi">Guoliang Li 0001</editor>
+<editor pid="05/299">Zhanhuai Li</editor>
+<editor pid="i/StratosIdreos">Stratos Idreos</editor>
+<editor pid="s/DiveshSrivastava">Divesh Srivastava</editor>
+<title>SIGMOD '21: International Conference on Management of Data, Virtual Event, China, June 20-25, 2021.</title>
+<publisher>ACM</publisher>
+<booktitle>SIGMOD Conference</booktitle>
+<year>2021</year>
+<isbn>978-1-4503-8343-1</isbn>
+<ee>https://doi.org/10.1145/3448016</ee>
+<url>db/conf/sigmod/sigmod2021.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-06801" mdate="2021-01-22">
+<author pid="167/2106">Hemant Saxena</author>
+<author pid="42/3296">Lukasz Golab</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<title>Real-Time LSM-Trees for HTAP Workloads.</title>
+<year>2021</year>
+<volume>abs/2101.06801</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.06801</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-06801</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/IdreosLSS21" mdate="2021-12-06">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<author pid="s/MargoISeltzer">Margo I. Seltzer</author>
+<title>Data Structures for Modern Memory and Storage Hierarchies (Dagstuhl Seminar 21283).</title>
+<pages>38-53</pages>
+<year>2021</year>
+<volume>11</volume>
+<journal>Dagstuhl Reports</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.11.6.38</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports11.html#IdreosLSS21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/HentschelID20" mdate="2022-03-12">
+<author pid="266/2814">Kyle Deeds</author>
+<author pid="213/7863">Brian Hentschel</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Stacked Filters: Learning to Filter by Structure.</title>
+<pages>600-612</pages>
+<year>2020</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p600-hentschel.pdf</ee>
+<ee>https://doi.org/10.14778/3436905.3436919</ee>
+<url>db/journals/pvldb/pvldb14.html#HentschelID20</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/AndrienkoADFFIK20" mdate="2023-03-10">
+<author pid="a/GennadyLAndrienko">Gennady L. Andrienko</author>
+<author pid="a/NataliaVAndrienko">Natalia V. Andrienko</author>
+<author pid="50/863">Steven Mark Drucker</author>
+<author pid="f/JeanDanielFekete">Jean-Daniel Fekete</author>
+<author pid="89/5155">Danyel Fisher</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="93/5838">Kwan-Liu Ma</author>
+<author pid="03/2919">Jock D. Mackinlay</author>
+<author pid="93/99">Antti Oulasvirta</author>
+<author pid="81/2498">Tobias Schreck</author>
+<author pid="s/HeidrunSchumann">Heidrun Schumann</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="17/6040">David Auber</author>
+<author pid="57/7247">Nikos Bikakis</author>
+<author orcid="0000-0001-7189-9816" pid="c/PKChrysanthis">Panos K. Chrysanthis</author>
+<author pid="44/2379">George Papastefanatos</author>
+<author pid="s/MohamedASharaf">Mohamed A. Sharaf</author>
+<title>Big Data Visualization and Analytics: Future Research Challenges and Emerging Applications.</title>
+<year>2020</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2578/BigVis1.pdf</ee>
+<crossref>conf/edbt/2020w</crossref>
+<url>db/conf/edbt/edbt2020w.html#AndrienkoADFFIK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mlsys/WasayHLCI20" mdate="2020-06-18">
+<author pid="149/9304">Abdul Wasay</author>
+<author pid="213/7863">Brian Hentschel</author>
+<author pid="227/3088">Yuze Liao</author>
+<author pid="143/4869">Sanyuan Chen</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>MotherNets: Rapid Deep Ensemble Learning.</title>
+<year>2020</year>
+<booktitle>MLSys</booktitle>
+<ee>https://proceedings.mlsys.org/book/301.pdf</ee>
+<crossref>conf/mlsys/2020</crossref>
+<url>db/conf/mlsys/mlsys2020.html#WasayHLCI20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LuoCKDQI20" mdate="2021-10-14">
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="139/7927">Subarna Chatterjee</author>
+<author pid="266/5764">Rafael Ketsetsidis</author>
+<author pid="129/6927">Niv Dayan</author>
+<author pid="181/5874">Wilson Qin</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Rosetta: A Robust Space-Time Optimized Range Filter for Key-Value Stores.</title>
+<pages>2071-2086</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389731</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#LuoCKDQI20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/IdreosC20" mdate="2020-06-05">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="71/4417">Mark Callaghan</author>
+<title>Key-Value Storage Engines.</title>
+<pages>2667-2672</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3383133</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#IdreosC20</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/IdreosZCQWHKDGK19" mdate="2020-03-10">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="17/9799">Kostas Zoumpatianos</author>
+<author pid="139/7927">Subarna Chatterjee</author>
+<author pid="181/5874">Wilson Qin</author>
+<author pid="149/9304">Abdul Wasay</author>
+<author pid="213/7863">Brian Hentschel</author>
+<author pid="202/1791">Mike S. Kester</author>
+<author pid="129/6927">Niv Dayan</author>
+<author pid="215/3969">Demi Guo</author>
+<author pid="145/9914">Minseo Kang</author>
+<author pid="211/5630">Yiyou Sun</author>
+<title>Learning Data Structure Alchemy.</title>
+<pages>47-58</pages>
+<year>2019</year>
+<volume>42</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<ee type="oa">http://sites.computer.org/debull/A19june/p47.pdf</ee>
+<url>db/journals/debu/debu42.html#IdreosZCQWHKDGK19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AthanassoulisBI19" mdate="2022-06-23">
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<author pid="131/4384">Kenneth S. B&#248;gh</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Optimal Column Layout for Hybrid Workloads.</title>
+<pages>2393-2407</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p2393-athanassoulis.pdf</ee>
+<ee>https://doi.org/10.14778/3358701.3358707</ee>
+<url>db/journals/pvldb/pvldb12.html#AthanassoulisBI19</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Idreos19" mdate="2020-03-06">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Technical Perspective: Succinct Range Filters.</title>
+<pages>77</pages>
+<year>2019</year>
+<volume>48</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3371316.3371334</ee>
+<url>db/journals/sigmod/sigmod48.html#Idreos19</url>
+</article>
+</r>
+<r><article key="journals/sigmod/AbadiAABBBBCCDD19" mdate="2024-02-05">
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="a/DavidGAndersen">David G. Andersen</author>
+<author pid="47/8816">Peter Bailis</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="d/XinLunaDong">Luna Dong</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="f/JulianaFreire">Juliana Freire</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="m/SergeyMelnik">Sergey Melnik 0001</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="o/BengChinOoi">Beng Chin Ooi</author>
+<author orcid="0000-0002-4418-4724" pid="o/FatmaOzcan">Fatma Ozcan</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<title>The Seattle Report on Database Research.</title>
+<pages>44-53</pages>
+<year>2019</year>
+<volume>48</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3385658.3385668</ee>
+<ee>https://www.wikidata.org/entity/Q118946092</ee>
+<url>db/journals/sigmod/sigmod48.html#AbadiAABBBBCCDD19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/IdreosDQAHRLJGL19" mdate="2020-03-12">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="129/6927">Niv Dayan</author>
+<author pid="181/5874">Wilson Qin</author>
+<author pid="233/6247">Mali Akmanalp</author>
+<author pid="233/6276">Sophie Hilgard</author>
+<author pid="09/3382">Andrew Ross</author>
+<author pid="233/6273">James Lennon</author>
+<author pid="83/2171">Varun Jain</author>
+<author pid="204/7805">Harshita Gupta</author>
+<author pid="09/6661">David Li</author>
+<author pid="149/1342">Zichen Zhu</author>
+<title>Design Continuums and the Path Toward Self-Designing Key-Value Stores that Know and Learn.</title>
+<year>2019</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2019/papers/p143-idreos-cidr19.pdf</ee>
+<crossref>conf/cidr/2019</crossref>
+<url>db/conf/cidr/cidr2019.html#IdreosDQAHRLJGL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DayanI19" mdate="2019-06-22">
+<author pid="129/6927">Niv Dayan</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>The Log-Structured Merge-Bush &amp; the Wacky Continuum.</title>
+<pages>449-466</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3319903</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#DayanI19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/IdreosK19" mdate="2019-06-22">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>From Auto-tuning One Size Fits All to Self-designed and Learned Data-intensive Systems.</title>
+<pages>2054-2059</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3314034</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#IdreosK19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-05443" mdate="2019-07-17">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="129/6927">Niv Dayan</author>
+<author pid="181/5874">Wilson Qin</author>
+<author pid="233/6247">Mali Akmanalp</author>
+<author pid="233/6276">Sophie Hilgard</author>
+<author pid="09/3382">Andrew Ross</author>
+<author pid="233/6273">James Lennon</author>
+<author pid="83/2171">Varun Jain</author>
+<author pid="204/7805">Harshita Gupta</author>
+<author pid="09/6661">David Li</author>
+<author pid="149/1342">Zichen Zhu</author>
+<title>Learning Key-Value Store Design.</title>
+<year>2019</year>
+<volume>abs/1907.05443</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.05443</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-05443</url>
+</article>
+</r>
+<r><article key="journals/debu/IdreosZADHKGMQW18" mdate="2020-03-10">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="17/9799">Kostas Zoumpatianos</author>
+<author pid="82/7402">Manos Athanassoulis</author>
+<author pid="129/6927">Niv Dayan</author>
+<author pid="213/7863">Brian Hentschel</author>
+<author pid="64/10989">Michael S. Kester</author>
+<author pid="215/3969">Demi Guo</author>
+<author pid="131/4096">Lukas M. Maas</author>
+<author pid="181/5874">Wilson Qin</author>
+<author pid="149/9304">Abdul Wasay</author>
+<author pid="211/5630">Yiyou Sun</author>
+<title>The Periodic Table of Data Structures.</title>
+<pages>64-75</pages>
+<year>2018</year>
+<volume>41</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<ee type="oa">http://sites.computer.org/debull/A18sept/p64.pdf</ee>
+<url>db/journals/debu/debu41.html#IdreosZADHKGMQW18</url>
+</article>
+</r>
+<r><article key="journals/tods/DayanAI18" mdate="2020-09-05">
+<author pid="129/6927">Niv Dayan</author>
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Optimal Bloom Filters and Adaptive Merging for LSM-Trees.</title>
+<pages>16:1-16:48</pages>
+<year>2018</year>
+<volume>43</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3276980</ee>
+<url>db/journals/tods/tods43.html#DayanAI18</url>
+</article>
+</r>
+<r><article key="journals/vldb/Borovica-GajicI18" mdate="2018-08-11">
+<author orcid="0000-0003-3503-4123" pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="40/4880">Marcin Zukowski</author>
+<author pid="44/5620">Campbell Fraser</author>
+<title>Smooth Scan: robust access path selection without cardinality estimation.</title>
+<pages>521-545</pages>
+<year>2018</year>
+<volume>27</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00778-018-0507-8</ee>
+<url>db/journals/vldb/vldb27.html#Borovica-GajicI18</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/DayanI18" mdate="2018-11-21">
+<author pid="129/6927">Niv Dayan</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores via Adaptive Removal of Superfluous Merging.</title>
+<pages>505-520</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3196927</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#DayanI18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/IdreosZHKG18" mdate="2018-11-21">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="17/9799">Kostas Zoumpatianos</author>
+<author pid="213/7863">Brian Hentschel</author>
+<author pid="64/10989">Michael S. Kester</author>
+<author pid="215/3969">Demi Guo</author>
+<title>The Data Calculator: Data Structure Design and Cost Synthesis from First Principles and Learned Cost Models.</title>
+<pages>535-550</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3199671</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#IdreosZHKG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HentschelKI18" mdate="2018-11-21">
+<author pid="213/7863">Brian Hentschel</author>
+<author pid="64/10989">Michael S. Kester</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Column Sketches: A Scan Accelerator for Rapid and Robust Predicate Evaluation.</title>
+<pages>857-872</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3196911</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#HentschelKI18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-02066" mdate="2018-09-02">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="17/9799">Kostas Zoumpatianos</author>
+<author pid="213/7863">Brian Hentschel</author>
+<author pid="64/10989">Michael S. Kester</author>
+<author pid="215/3969">Demi Guo</author>
+<title>The Internals of the Data Calculator.</title>
+<year>2018</year>
+<volume>abs/1808.02066</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.02066</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-02066</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-04270" mdate="2018-10-05">
+<author pid="149/9304">Abdul Wasay</author>
+<author pid="227/3088">Yuze Liao</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Rapid Training of Very Large Ensembles of Diverse Neural Networks.</title>
+<year>2018</year>
+<volume>abs/1809.04270</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.04270</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-04270</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/Idreos17" mdate="2020-03-12">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>The Automatic Scientist will be a Data System.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_67.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#Idreos17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KennedyHIMNT017" mdate="2023-03-24">
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="15/5105">D. Richard Hipp</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="m/AmelieMarian">Am&#233;lie Marian</author>
+<author pid="28/568">Arnab Nandi 0001</author>
+<author pid="01/4825">Carmela Troncoso</author>
+<author pid="41/3679">Eugene Wu 0002</author>
+<title>Small Data.</title>
+<pages>1475-1476</pages>
+<year>2017</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2017.216</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2017.216</ee>
+<crossref>conf/icde/2017</crossref>
+<url>db/conf/icde/icde2017.html#KennedyHIMNT017</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DayanAI17" mdate="2021-10-14">
+<author pid="129/6927">Niv Dayan</author>
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Monkey: Optimal Navigable Key-Value Store.</title>
+<pages>79-94</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3064054</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#DayanAI17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/WasayWDI17" mdate="2018-11-06">
+<author pid="149/9304">Abdul Wasay</author>
+<author pid="199/6364">Xinding Wei</author>
+<author pid="129/6927">Niv Dayan</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Data Canopy: Accelerating Exploratory Statistical Analysis.</title>
+<pages>557-572</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3064051</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#WasayWDI17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KesterAI17" mdate="2021-10-14">
+<author pid="64/10989">Michael S. Kester</author>
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Access Path Selection in Main-Memory Optimized Data Systems: Should I Scan or Should I Probe?</title>
+<pages>715-730</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3064049</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#KesterAI17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/IdreosMK17" mdate="2018-08-13">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="131/4096">Lukas M. Maas</author>
+<author pid="202/1791">Mike S. Kester</author>
+<title>Evolutionary Data Systems.</title>
+<year>2017</year>
+<volume>abs/1706.05714</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1706.05714</ee>
+<url>db/journals/corr/corr1706.html#IdreosMK17</url>
+</article>
+</r>
+<r><article key="journals/vldb/ZoumpatianosIP16" mdate="2017-07-26">
+<author orcid="0000-0002-6221-8254" pid="17/9799">Kostas Zoumpatianos</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="p/ThemisPalpanas">Themis Palpanas</author>
+<title>ADS: the adaptive data series index.</title>
+<pages>843-866</pages>
+<year>2016</year>
+<volume>25</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00778-016-0442-5</ee>
+<url>db/journals/vldb/vldb25.html#ZoumpatianosIP16</url>
+</article>
+</r>
+<r><inproceedings key="conf/birte/IdreosADGKMZ16" mdate="2019-10-11">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="82/7402">Manos Athanassoulis</author>
+<author pid="129/6927">Niv Dayan</author>
+<author pid="215/3969">Demi Guo</author>
+<author pid="202/1791">Mike S. Kester</author>
+<author pid="131/4096">Lukas M. Maas</author>
+<author pid="17/9799">Kostas Zoumpatianos</author>
+<title>Past and Future Steps for Adaptive Storage Data Systems: From Shallow to Deep Adaptivity.</title>
+<pages>85-94</pages>
+<year>2016</year>
+<booktitle>BIRTE (Revised Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-24124-7_6</ee>
+<crossref>conf/birte/2017s</crossref>
+<url>db/conf/birte/birte2017s.html#IdreosADGKMZ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/AthanassoulisKM16" mdate="2021-01-29">
+<author pid="82/7402">Manos Athanassoulis</author>
+<author pid="64/10989">Michael S. Kester</author>
+<author pid="131/4096">Lukas M. Maas</author>
+<author pid="84/2124">Radu Stoica</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="71/4417">Mark Callaghan</author>
+<title>Designing Access Methods: The RUM Conjecture.</title>
+<pages>461-466</pages>
+<year>2016</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2016.42</ee>
+<crossref>conf/edbt/2016</crossref>
+<url>db/conf/edbt/edbt2016.html#AthanassoulisKM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KarrasNSBAI16" mdate="2018-11-06">
+<author pid="08/5342">Panagiotis Karras</author>
+<author pid="181/5713">Artyom Nikitin</author>
+<author pid="181/5807">Muhammad Saad</author>
+<author pid="181/5720">Rudrika Bhatt</author>
+<author pid="181/5834">Denis Antyukhov</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Adaptive Indexing over Encrypted Numeric Data.</title>
+<pages>171-183</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2882932</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#KarrasNSBAI16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DayanBI16" mdate="2020-03-27">
+<author pid="129/6927">Niv Dayan</author>
+<author orcid="0000-0002-0234-5374" pid="b/PBonnet">Philippe Bonnet</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>GeckoFTL: Scalable Flash Translation Techniques For Very Large Flash Devices.</title>
+<pages>327-342</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2915219</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#DayanBI16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AthanassoulisYI16" mdate="2023-08-19">
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<author orcid="0000-0002-9754-9264" pid="43/180-7">Zheng Yan 0007</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>UpBit: Scalable In-Memory Updatable Bitmap Indexing.</title>
+<pages>1319-1332</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2915964</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#AthanassoulisYI16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AthanassoulisI16" mdate="2018-11-06">
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Design Tradeoffs of Data Access Methods.</title>
+<pages>2195-2200</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2912569</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#AthanassoulisI16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LiuI16" mdate="2018-11-06">
+<author pid="181/5748">Zezhou Liu</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Main Memory Adaptive Denormalization.</title>
+<pages>2253-2254</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2914835</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#LiuI16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/QinI16" mdate="2018-11-06">
+<author pid="181/5874">Wilson Qin</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Adaptive Data Skipping in Main-Memory Systems.</title>
+<pages>2255-2256</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2914836</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#QinI16</url>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/AlagiannisBBIA15" mdate="2018-11-06">
+<author pid="00/7933">Ioannis Alagiannis</author>
+<author orcid="0000-0003-3503-4123" pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="61/2926">Miguel Branco</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>NoDB: efficient query execution on raw data files.</title>
+<pages>112-121</pages>
+<year>2015</year>
+<volume>58</volume>
+<journal>Commun. ACM</journal>
+<number>12</number>
+<ee>https://doi.org/10.1145/2830508</ee>
+<url>db/journals/cacm/cacm58.html#AlagiannisBBIA15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ZoumpatianosIP15" mdate="2020-04-25">
+<author pid="17/9799">Kostas Zoumpatianos</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="p/ThemisPalpanas">Themis Palpanas</author>
+<title>RINSE: Interactive Data Series Exploration with ADS+.</title>
+<pages>1912-1915</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1912-zoumpatianos.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824099</ee>
+<url>db/journals/pvldb/pvldb8.html#ZoumpatianosIP15</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Idreos15" mdate="2020-03-06">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>DASlab: The Data Systems Laboratory at Harvard SEAS.</title>
+<pages>46-51</pages>
+<year>2015</year>
+<volume>44</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2783888.2783903</ee>
+<url>db/journals/sigmod/sigmod44.html#Idreos15</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdata/WasayAI15" mdate="2017-06-15">
+<author pid="149/9304">Abdul Wasay</author>
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Queriosity: Automated Data Exploration.</title>
+<pages>716-719</pages>
+<year>2015</year>
+<booktitle>BigData Congress</booktitle>
+<ee>https://doi.org/10.1109/BigDataCongress.2015.116</ee>
+<crossref>conf/bigdata/2015</crossref>
+<url>db/conf/bigdata/bigdata2015.html#WasayAI15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/XiBAI15" mdate="2022-12-07">
+<author pid="135/8437">Sam Likun Xi</author>
+<author pid="163/0640">Oreoluwa Babarinsa</author>
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Beyond the Wall: Near-Data Processing for Databases.</title>
+<pages>2:1-2:10</pages>
+<year>2015</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2771937.2771945</ee>
+<crossref>conf/damon/2015</crossref>
+<url>db/conf/damon/damon2015.html#XiBAI15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/Borovica-GajicI15" mdate="2023-03-23">
+<author orcid="0000-0003-3503-4123" pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="40/4880">Marcin Zukowski</author>
+<author pid="44/5620">Campbell Fraser</author>
+<title>Smooth Scan: Statistics-oblivious access paths.</title>
+<pages>315-326</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113294</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113294</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#Borovica-GajicI15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/IdreosPC15" mdate="2018-11-06">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="37/3024">Olga Papaemmanouil</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<title>Overview of Data Exploration Techniques.</title>
+<pages>277-281</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2731084</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#IdreosPC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/PetrakiIM15" mdate="2018-11-06">
+<author pid="75/10051">Eleni Petraki</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<title>Holistic Indexing in Main-memory Column-stores.</title>
+<pages>1153-1166</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2723719</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#PetrakiIM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BabarinsaI15" mdate="2018-11-06">
+<author pid="163/0640">Oreoluwatomiwa O. Babarinsa</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>JAFAR: Near-Data Processing for Databases.</title>
+<pages>2069-2070</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2764942</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#BabarinsaI15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/PantelaI15" mdate="2018-11-06">
+<author pid="163/0526">Styliani Pantela</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>One Loop Does Not Fit All.</title>
+<pages>2073-2074</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2764944</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#PantelaI15</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/LeeABCDHI0LLMMPQRSSSZ14" mdate="2020-04-25">
+<author pid="28/3904">Jae-Gil Lee 0001</author>
+<author pid="24/2608">Gopi K. Attaluri</author>
+<author pid="33/3527">Ronald Barber</author>
+<author pid="135/4688">Naresh Chainani</author>
+<author pid="89/9320">Oliver Draese</author>
+<author pid="05/11154">Frederick Ho</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/MinSooKim2">Min-Soo Kim 0002</author>
+<author pid="31/3001">Sam Lightstone</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/KonstantinosMorfonios">Konstantinos Morfonios</author>
+<author pid="37/276">Keshava Murthy</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="q/LinQiao">Lin Qiao</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="135/4711">Vincent Kulandai Samy</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="s/KnutStolze">Knut Stolze</author>
+<author pid="48/6735">Liping Zhang</author>
+<title>Joins on Encoded and Partitioned Data.</title>
+<pages>1355-1366</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p1355-lee.pdf</ee>
+<ee>https://doi.org/10.14778/2733004.2733008</ee>
+<url>db/journals/pvldb/pvldb7.html#LeeABCDHI0LLMMPQRSSSZ14</url>
+</article>
+</r>
+<r><article key="journals/tlsdkcs/TryfonopoulosIKR14" mdate="2022-01-03">
+<author orcid="0000-0003-0640-9088" pid="91/5548">Christos Tryfonopoulos</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="40/4517">Manolis Koubarakis</author>
+<author pid="51/5262">Paraskevi Raftopoulou</author>
+<title>Distributed Large-Scale Information Filtering.</title>
+<pages>91-122</pages>
+<year>2014</year>
+<volume>13</volume>
+<journal>Trans. Large Scale Data Knowl. Centered Syst.</journal>
+<ee>https://doi.org/10.1007/978-3-642-54426-2_4</ee>
+<crossref>journals/tlsdkcs/2014-13</crossref>
+<url>db/journals/tlsdkcs/tlsdkcs13.html#TryfonopoulosIKR14</url>
+</article>
+</r>
+<r><article key="journals/vldb/GraefeHIKMS14" mdate="2017-05-28">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="38/648">Felix Halim</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="s/BernhardSeeger">Bernhard Seeger</author>
+<title>Transactional support for adaptive indexing.</title>
+<pages>303-328</pages>
+<year>2014</year>
+<volume>23</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-013-0345-7</ee>
+<url>db/journals/vldb/vldb23.html#GraefeHIKMS14</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/PirkPIMK14" mdate="2018-11-06">
+<author pid="08/3969">Holger Pirk</author>
+<author pid="75/10051">Eleni Petraki</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>Database cracking: fancy scan, not poor man's sort!</title>
+<pages>4:1-4:8</pages>
+<year>2014</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2619228.2619232</ee>
+<crossref>conf/damon/2014</crossref>
+<url>db/conf/damon/damon2014.html#PirkPIMK14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LiarouI14" mdate="2023-03-23">
+<author pid="88/6520">Erietta Liarou</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>dbTouch in action database kernels for touch-based data exploration.</title>
+<pages>1262-1265</pages>
+<year>2014</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2014.6816756</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2014.6816756</ee>
+<crossref>conf/icde/2014</crossref>
+<url>db/conf/icde/icde2014.html#LiarouI14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AlagiannisIA14" mdate="2018-11-06">
+<author pid="00/7933">Ioannis Alagiannis</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>H2O: a hands-free adaptive store.</title>
+<pages>1103-1114</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2610502</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#AlagiannisIA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZoumpatianosIP14" mdate="2018-11-06">
+<author pid="17/9799">Kostas Zoumpatianos</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="p/ThemisPalpanas">Themis Palpanas</author>
+<title>Indexing for interactive exploration of big data series.</title>
+<pages>1555-1566</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2610498</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#ZoumpatianosIP14</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/edbt/2014" mdate="2018-01-16">
+<editor pid="a/SihemAmerYahia">Sihem Amer-Yahia</editor>
+<editor pid="c/VassilisChristophides">Vassilis Christophides</editor>
+<editor pid="41/5464">Anastasios Kementsietsidis</editor>
+<editor pid="g/MinosNGarofalakis">Minos N. Garofalakis</editor>
+<editor pid="i/StratosIdreos">Stratos Idreos</editor>
+<editor pid="02/7933">Vincent Leroy 0001</editor>
+<title>Proceedings of the 17th International Conference on Extending Database Technology, EDBT 2014, Athens, Greece, March 24-28, 2014.</title>
+<booktitle>EDBT</booktitle>
+<publisher>OpenProceedings.org</publisher>
+<year>2014</year>
+<url>db/conf/edbt/edbt2014.html</url>
+<ee>http://openproceedings.org/html/pages/2014_edbt.html</ee>
+</proceedings>
+</r>
+<r><article key="journals/ftdb/AbadiBHIM13" mdate="2023-08-08">
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="38/6308">Stavros Harizopoulos</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>The Design and Implementation of Modern Column-Oriented Database Systems.</title>
+<pages>197-280</pages>
+<year>2013</year>
+<volume>5</volume>
+<journal>Found. Trends Databases</journal>
+<number>3</number>
+<ee>https://doi.org/10.1561/1900000024</ee>
+<url>db/journals/ftdb/ftdb5.html#AbadiBHIM13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/IdreosL13" mdate="2020-03-12">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="88/6520">Erietta Liarou</author>
+<title>dbTouch: Analytics at your Fingertips.</title>
+<year>2013</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2013/Papers/CIDR13_Paper13.pdf</ee>
+<crossref>conf/cidr/2013</crossref>
+<url>db/conf/cidr/cidr2013.html#IdreosL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/LiarouIMK13" mdate="2018-11-06">
+<author pid="88/6520">Erietta Liarou</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>Enhanced stream processing in a DBMS kernel.</title>
+<pages>501-512</pages>
+<year>2013</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/2452376.2452435</ee>
+<crossref>conf/edbt/2013</crossref>
+<url>db/conf/edbt/edbt2013.html#LiarouIMK13</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/BarberBCDHHIKKLLLMMMPQRSSS12" mdate="2020-09-30">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="17/11155">Peter Bendel</author>
+<author pid="61/9320">Marco Czech</author>
+<author pid="89/9320">Oliver Draese</author>
+<author pid="05/11154">Frederick Ho</author>
+<author pid="22/1571">Namik Hrle</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/MinSooKim2">Min-Soo Kim 0002</author>
+<author pid="04/9919">Oliver Koeth</author>
+<author pid="28/3904">Jae-Gil Lee 0001</author>
+<author pid="07/4483">Tianchao Tim Li</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/KonstantinosMorfonios">Konstantinos Morfonios</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="37/276">Keshava Murthy</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="q/LinQiao">Lin Qiao</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="s/KnutStolze">Knut Stolze</author>
+<author pid="16/6170">Sandor Szabo</author>
+<title>Business Analytics in (a) Blink.</title>
+<pages>9-14</pages>
+<year>2012</year>
+<volume>35</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A12mar/blink.pdf</ee>
+<url>db/journals/debu/debu35.html#BarberBCDHHIKKLLLMMMPQRSSS12</url>
+</article>
+</r>
+<r><article key="journals/debu/IdreosGNMMK12" mdate="2020-03-10">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="72/4341">Fabian Groffen</author>
+<author pid="82/1319">Niels Nes</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="66/4188">K. Sjoerd Mullender</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>MonetDB: Two Decades of Research in Column-oriented Database Architectures.</title>
+<pages>40-45</pages>
+<year>2012</year>
+<volume>35</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A12mar/monetdb.pdf</ee>
+<url>db/journals/debu/debu35.html#IdreosGNMMK12</url>
+</article>
+</r>
+<r><article key="journals/pvldb/HalimIKY12" mdate="2020-04-25">
+<author pid="38/648">Felix Halim</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="08/5342">Panagiotis Karras</author>
+<author pid="y/RolandHCYap">Roland H. C. Yap</author>
+<title>Stochastic Database Cracking: Towards Robust Adaptive Indexing in Main-Memory Column-Stores.</title>
+<pages>502-513</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p502_felixhalim_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2168651.2168652</ee>
+<url>db/journals/pvldb/pvldb5.html#HalimIKY12</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GraefeHIKM12" mdate="2020-04-25">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="38/648">Felix Halim</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<title>Concurrency Control for Adaptive Indexing.</title>
+<pages>656-667</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>7</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p656_goetzgraefe_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2180912.2180918</ee>
+<url>db/journals/pvldb/pvldb5.html#GraefeHIKM12</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiarouIMK12" mdate="2020-04-25">
+<author pid="88/6520">Erietta Liarou</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>MonetDB/DataCell: Online Analytics in a Streaming Column-Store.</title>
+<pages>1910-1913</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p1910_eriettaliarou_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2367502.2367535</ee>
+<ee>https://www.wikidata.org/entity/Q56812621</ee>
+<url>db/journals/pvldb/pvldb5.html#LiarouIMK12</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AlagiannisBBIA12" mdate="2020-04-25">
+<author pid="00/7933">Ioannis Alagiannis</author>
+<author pid="36/10568">Renata Borovica</author>
+<author pid="61/2926">Miguel Branco</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>NoDB in Action: Adaptive Query Processing on Raw Data.</title>
+<pages>1942-1945</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p1942_ioannisalagiannis_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2367502.2367543</ee>
+<url>db/journals/pvldb/pvldb5.html#AlagiannisBBIA12</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/IdreosMG12" mdate="2018-11-06">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Adaptive indexing in modern database kernels.</title>
+<pages>566-569</pages>
+<year>2012</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/2247596.2247667</ee>
+<crossref>conf/edbt/2012</crossref>
+<url>db/conf/edbt/edbt2012.html#IdreosMG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AlagiannisBBIA12" mdate="2018-11-06">
+<author pid="00/7933">Ioannis Alagiannis</author>
+<author orcid="0000-0003-3503-4123" pid="36/10568">Renata Borovica</author>
+<author pid="61/2926">Miguel Branco</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>NoDB: efficient query execution on raw data files.</title>
+<pages>241-252</pages>
+<year>2012</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2213836.2213864</ee>
+<crossref>conf/sigmod/2012</crossref>
+<url>db/conf/sigmod/sigmod2012.html#AlagiannisBBIA12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1203-0055" mdate="2018-08-13">
+<author pid="38/648">Felix Halim</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="08/5342">Panagiotis Karras</author>
+<author pid="y/RolandHCYap">Roland H. C. Yap</author>
+<title>Stochastic Database Cracking: Towards Robust Adaptive Indexing in Main-Memory Column-Stores</title>
+<ee type="oa">http://arxiv.org/abs/1203.0055</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1203.0055</volume>
+<url>db/journals/corr/corr1203.html#abs-1203-0055</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1203-6405" mdate="2018-08-13">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="38/648">Felix Halim</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<title>Concurrency Control for Adaptive Indexing</title>
+<ee type="oa">http://arxiv.org/abs/1203.6405</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1203.6405</volume>
+<url>db/journals/corr/corr1203.html#abs-1203-6405</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/ercim/Idreos12" mdate="2019-05-22">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Cracking Big Data.</title>
+<year>2012</year>
+<volume>2012</volume>
+<journal>ERCIM News</journal>
+<number>89</number>
+<ee type="oa">http://ercim-news.ercim.eu/en89/special/cracking-big-data</ee>
+<url>db/journals/ercim/ercim2012.html#Idreos12</url>
+</article>
+</r>
+<r><article key="journals/pvldb/IdreosMKG11" mdate="2020-04-25">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Merging What's Cracked, Cracking What's Merged: Adaptive Indexing in Main-Memory Column-Stores.</title>
+<pages>585-597</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p586-idreos.pdf</ee>
+<ee>https://doi.org/10.14778/2002938.2002944</ee>
+<url>db/journals/pvldb/pvldb4.html#IdreosMKG11</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KerstenIML11" mdate="2020-04-25">
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="88/6520">Erietta Liarou</author>
+<title>The Researcher's Guide to the Data Deluge: Querying a Scientific Database in Just a Few Seconds.</title>
+<pages>1474-1477</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p1474-kersten.pdf</ee>
+<url>db/journals/pvldb/pvldb4.html#KerstenIML11</url>
+</article>
+</r>
+<r><article key="journals/sigmod/BonnetMBCGGHIIJKKMOPRTYFS11" mdate="2024-02-01">
+<author orcid="0000-0002-0234-5374" pid="b/PBonnet">Philippe Bonnet</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="30/8166">Matias Bj&#248;rling</author>
+<author pid="54/6265">Wei Cao</author>
+<author pid="366/8237-6">Javier Gonz&#225;lez 0006</author>
+<author pid="01/10306">Joel A. Granados</author>
+<author pid="69/9381">Nancy Hall</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="i/MilenaIvanova">Milena Ivanova</author>
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="54/1720">David Koop</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="74/10305">Christine Reilly</author>
+<author pid="77/228">Dimitris Tsirogiannis</author>
+<author pid="58/3771">Cong Yu 0001</author>
+<author orcid="0000-0003-3915-7075" pid="f/JulianaFreire">Juliana Freire</author>
+<author pid="s/DennisShasha">Dennis E. Shasha</author>
+<title>Repeatability and workability evaluation of SIGMOD 2011.</title>
+<pages>45-48</pages>
+<year>2011</year>
+<volume>40</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2034863.2034873</ee>
+<ee>https://www.wikidata.org/entity/Q60396850</ee>
+<url>db/journals/sigmod/sigmod40.html#BonnetMBCGGHIIJKKMOPRTYFS11</url>
+</article>
+</r>
+<r><inproceedings key="conf/birte/BarberBCDHHIKKLLLMMMPQRSSS11" mdate="2020-09-30">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="17/11155">Peter Bendel</author>
+<author pid="61/9320">Marco Czech</author>
+<author pid="89/9320">Oliver Draese</author>
+<author pid="05/11154">Frederick Ho</author>
+<author pid="22/1571">Namik Hrle</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/MinSooKim2">Min-Soo Kim 0002</author>
+<author pid="04/9919">Oliver Koeth</author>
+<author pid="28/3904">Jae-Gil Lee 0001</author>
+<author pid="07/4483">Tianchao Tim Li</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/KonstantinosMorfonios">Konstantinos Morfonios</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="37/276">Keshava Murthy</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="q/LinQiao">Lin Qiao</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="16/6170">Sandor Szabo</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="s/KnutStolze">Knut Stolze</author>
+<title>Blink: Not Your Father's Database!</title>
+<pages>1-22</pages>
+<year>2011</year>
+<booktitle>BIRTE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33500-6_1</ee>
+<crossref>conf/birte/2011</crossref>
+<url>db/conf/birte/birte2011.html#BarberBCDHHIKKLLLMMMPQRSSS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/IdreosAJA11" mdate="2020-03-12">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="00/7933">Ioannis Alagiannis</author>
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Here are my Data Files. Here are my Queries. Where are my Results?</title>
+<pages>57-68</pages>
+<year>2011</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2011/Papers/CIDR11_Paper7.pdf</ee>
+<crossref>conf/cidr/2011</crossref>
+<url>db/conf/cidr/cidr2011.html#IdreosAJA11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/IdreosKNR10" mdate="2023-03-24">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>Estimating the compression fraction of an index using sampling.</title>
+<pages>441-444</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447871</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447871</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#IdreosKNR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpctc/GraefeIKM10" mdate="2017-05-23">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<title>Benchmarking Adaptive Indexing.</title>
+<pages>169-184</pages>
+<year>2010</year>
+<booktitle>TPCTC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-18206-8_13</ee>
+<crossref>conf/tpctc/2010</crossref>
+<url>db/conf/tpctc/tpctc2010.html#GraefeIKM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/LiarouGI09" mdate="2018-11-06">
+<author pid="88/6520">Erietta Liarou</author>
+<author pid="32/935">Romulo Goncalves</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Exploiting the power of relational databases for efficient stream processing.</title>
+<pages>323-334</pages>
+<year>2009</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1516360.1516398</ee>
+<crossref>conf/edbt/2009</crossref>
+<url>db/conf/edbt/edbt2009.html#LiarouGI09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/IdreosKM09" mdate="2018-11-06">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<title>Self-organizing tuple reconstruction in column-stores.</title>
+<pages>297-308</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559878</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#IdreosKM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/IdreosLK08" mdate="2018-11-06">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="88/6520">Erietta Liarou</author>
+<author pid="40/4517">Manolis Koubarakis</author>
+<title>Continuous multi-way joins over distributed hash tables.</title>
+<pages>594-605</pages>
+<year>2008</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1353343.1353415</ee>
+<crossref>conf/edbt/2008</crossref>
+<url>db/conf/edbt/edbt2008.html#IdreosLK08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/IdreosKM07" mdate="2020-03-12">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<title>Database Cracking.</title>
+<pages>68-78</pages>
+<year>2007</year>
+<crossref>conf/cidr/2007</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2007/papers/cidr07p07.pdf</ee>
+<url>db/conf/cidr/cidr2007.html#IdreosKM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/LiarouIK07" mdate="2018-06-26">
+<author pid="88/6520">Erietta Liarou</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="40/4517">Manolis Koubarakis</author>
+<title>Continuous RDF Query Processing over DHTs.</title>
+<pages>324-339</pages>
+<year>2007</year>
+<crossref>conf/semweb/2007</crossref>
+<booktitle>ISWC/ASWC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-76298-0_24</ee>
+<url>db/conf/semweb/iswc2007.html#LiarouIK07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/IdreosKM07" mdate="2018-11-06">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<title>Updating a cracked database.</title>
+<pages>413-424</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247527</ee>
+<url>db/conf/sigmod/sigmod2007.html#IdreosKM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/IdreosTK06" mdate="2023-03-23">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author orcid="0000-0003-0640-9088" pid="91/5548">Christos Tryfonopoulos</author>
+<author pid="40/4517">Manolis Koubarakis</author>
+<title>Distributed Evaluation of Continuous Equi-join Queries over Large Structured Overlay Networks.</title>
+<pages>43</pages>
+<year>2006</year>
+<crossref>conf/icde/2006</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2006.50</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2006.50</ee>
+<url>db/conf/icde/icde2006.html#IdreosTK06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/LiarouIK06" mdate="2021-09-07">
+<author pid="88/6520">Erietta Liarou</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="40/4517">Manolis Koubarakis</author>
+<title>Evaluating Conjunctive Triple Pattern Queries over Large Structured Overlay Networks.</title>
+<pages>399-413</pages>
+<year>2006</year>
+<crossref>conf/semweb/2006</crossref>
+<booktitle>ISWC</booktitle>
+<ee type="oa">https://doi.org/10.1007/11926078_29</ee>
+<url>db/conf/semweb/iswc2006.html#LiarouIK06</url>
+</inproceedings>
+</r>
+<r><incollection key="books/daglib/p/ChiritaIKN06" mdate="2019-08-03">
+<author pid="c/PAChirita">Paul-Alexandru Chirita</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="40/4517">Manolis Koubarakis</author>
+<author pid="n/WolfgangNejdl">Wolfgang Nejdl</author>
+<title>Designing Semantic Publish/Subscribe Networks Using Super-Peers.</title>
+<pages>159-179</pages>
+<year>2006</year>
+<crossref>books/daglib/0014626</crossref>
+<booktitle>Semantic Web and Peer-to-Peer</booktitle>
+<ee>https://doi.org/10.1007/3-540-28347-1_9</ee>
+<url>db/books/daglib/0014626.html#ChiritaIKN06</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/coregrid/KaoudiMMLIK05" mdate="2017-05-25">
+<author pid="65/1457">Zoi Kaoudi</author>
+<author pid="74/5534">Iris Miliaraki</author>
+<author pid="46/949">Matoula Magiridou</author>
+<author pid="88/6520">Erietta Liarou</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="40/4517">Manolis Koubarakis</author>
+<title>Semantic Grid Resource Discovery in Atlas.</title>
+<pages>185-199</pages>
+<year>2005</year>
+<booktitle>Knowledge and Data Management in GRIDs</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-37831-2_12</ee>
+<crossref>conf/coregrid/2005kdmg</crossref>
+<url>db/conf/coregrid/coregrid-kdmg2005.html#KaoudiMMLIK05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbisp2p/LiarouIK05" mdate="2017-05-23">
+<author pid="88/6520">Erietta Liarou</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="40/4517">Manolis Koubarakis</author>
+<title>Publish/Subscribe with RDF Data over Large Structured Overlay Networks.</title>
+<pages>135-146</pages>
+<year>2005</year>
+<crossref>conf/dbisp2p/2006</crossref>
+<booktitle>DBISP2P</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-71661-7_12</ee>
+<url>db/conf/dbisp2p/dbisp2p2006.html#LiarouIK05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ercimdl/TryfonopoulosIK05" mdate="2022-01-03">
+<author orcid="0000-0003-0640-9088" pid="91/5548">Christos Tryfonopoulos</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="40/4517">Manolis Koubarakis</author>
+<title>LibraRing: An Architecture for Distributed Digital Libraries Based on DHTs.</title>
+<pages>25-36</pages>
+<year>2005</year>
+<crossref>conf/ercimdl/2005</crossref>
+<booktitle>ECDL</booktitle>
+<ee>https://doi.org/10.1007/11551362_3</ee>
+<url>db/conf/ercimdl/ecdl2005.html#TryfonopoulosIK05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/TryfonopoulosIK05" mdate="2022-01-03">
+<author orcid="0000-0003-0640-9088" pid="91/5548">Christos Tryfonopoulos</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="40/4517">Manolis Koubarakis</author>
+<title>Publish/subscribe functionality in IR environments using structured overlay networks.</title>
+<pages>322-329</pages>
+<year>2005</year>
+<crossref>conf/sigir/2005</crossref>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/1076034.1076090</ee>
+<url>db/conf/sigir/sigir2005.html#TryfonopoulosIK05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/IdreosKT04" mdate="2022-01-03">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="40/4517">Manolis Koubarakis</author>
+<author orcid="0000-0003-0640-9088" pid="91/5548">Christos Tryfonopoulos</author>
+<title>P2P-DIET: One-Time and Continuous Queries in Super-Peer Networks.</title>
+<pages>851-853</pages>
+<ee>https://doi.org/10.1007/978-3-540-24741-8_56</ee>
+<year>2004</year>
+<crossref>conf/edbt/2004</crossref>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt2004.html#IdreosKT04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbtw/IdreosTKD04" mdate="2022-01-03">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author orcid="0000-0003-0640-9088" pid="91/5548">Christos Tryfonopoulos</author>
+<author pid="40/4517">Manolis Koubarakis</author>
+<author pid="20/6911">Yannis Drougas</author>
+<title>Query Processing in Super-Peer Networks with Languages Based on Information Retrieval: The P2P-DIET Approach.</title>
+<pages>496-505</pages>
+<ee>https://doi.org/10.1007/978-3-540-30192-9_49</ee>
+<year>2004</year>
+<crossref>conf/edbtw/2004</crossref>
+<booktitle>EDBT Workshops</booktitle>
+<url>db/conf/edbtw/edbtw2004.html#IdreosTKD04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esws/ChiritaIKN04" mdate="2017-05-24">
+<author pid="c/PAChirita">Paul-Alexandru Chirita</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="40/4517">Manolis Koubarakis</author>
+<author pid="n/WolfgangNejdl">Wolfgang Nejdl</author>
+<title>Publish/Subscribe for RDF-based P2P Networks.</title>
+<pages>182-197</pages>
+<ee>https://doi.org/10.1007/978-3-540-25956-5_13</ee>
+<year>2004</year>
+<crossref>conf/esws/2004</crossref>
+<booktitle>ESWS</booktitle>
+<url>db/conf/esws/esws2004.html#ChiritaIKN04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/setn/IdreosK04" mdate="2017-05-22">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="40/4517">Manolis Koubarakis</author>
+<title>P2P-DIET: Ad-hoc and Continuous Queries in Peer-to-Peer Networks Using Mobile Agents.</title>
+<pages>23-32</pages>
+<ee>https://doi.org/10.1007/978-3-540-24674-9_4</ee>
+<year>2004</year>
+<crossref>conf/setn/2004</crossref>
+<booktitle>SETN</booktitle>
+<url>db/conf/setn/setn2004.html#IdreosK04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/IdreosKT04" mdate="2018-11-06">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="40/4517">Manolis Koubarakis</author>
+<author pid="91/5548">Christos Tryfonopoulos</author>
+<title>P2P-DIET: An Extensible P2P Service that Unifies Ad-hoc and Continuous Querying in Super-Peer Networks.</title>
+<year>2004</year>
+<crossref>conf/sigmod/2004</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1007568.1007704</ee>
+<ee>http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/D-115.pdf</ee>
+<url>db/conf/sigmod/sigmod2004.html#IdreosKT04</url>
+<pages>933-934</pages>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/KoubarakisTID03" mdate="2022-01-03">
+<author pid="40/4517">Manolis Koubarakis</author>
+<author orcid="0000-0003-0640-9088" pid="91/5548">Christos Tryfonopoulos</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="20/6911">Yannis Drougas</author>
+<title>Selective information dissemination in P2P networks: problems and solutions.</title>
+<pages>71-76</pages>
+<year>2003</year>
+<volume>32</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/945721.945736</ee>
+<url>db/journals/sigmod/sigmod32.html#KoubarakisTID03</url>
+</article>
+</r>
+<coauthors n="207" nc="2">
+<co c="0" n="2"><na f="a/Abadi:Daniel_J=" pid="a/DJAbadi">Daniel J. Abadi</na><na>Daniel Abadi</na></co>
+<co c="0"><na f="a/Ailamaki:Anastasia" pid="a/AnastassiaAilamaki">Anastasia Ailamaki</na></co>
+<co c="0"><na f="a/Akmanalp:Mali" pid="233/6247">Mali Akmanalp</na></co>
+<co c="0"><na f="a/Alagiannis:Ioannis" pid="00/7933">Ioannis Alagiannis</na></co>
+<co c="0"><na f="a/Amer=Yahia:Sihem" pid="a/SihemAmerYahia">Sihem Amer-Yahia</na></co>
+<co c="0"><na f="a/Andersen:David_G=" pid="a/DavidGAndersen">David G. Andersen</na></co>
+<co c="0"><na f="a/Andrienko:Gennady_L=" pid="a/GennadyLAndrienko">Gennady L. Andrienko</na></co>
+<co c="0"><na f="a/Andrienko:Natalia_V=" pid="a/NataliaVAndrienko">Natalia V. Andrienko</na></co>
+<co c="0"><na f="a/Antyukhov:Denis" pid="181/5834">Denis Antyukhov</na></co>
+<co c="0"><na f="a/Aref:Walid_G=" pid="a/WGAref">Walid G. Aref</na></co>
+<co c="0"><na f="a/Athanassoulis:Manos" pid="82/7402">Manos Athanassoulis</na></co>
+<co c="0"><na f="a/Attaluri:Gopi_K=" pid="24/2608">Gopi K. Attaluri</na></co>
+<co c="0"><na f="a/Auber:David" pid="17/6040">David Auber</na></co>
+<co c="0" n="2"><na f="b/Babarinsa:Oreoluwa" pid="163/0640">Oreoluwa Babarinsa</na><na>Oreoluwatomiwa O. Babarinsa</na></co>
+<co c="0"><na f="b/Bailis:Peter" pid="47/8816">Peter Bailis</na></co>
+<co c="0"><na f="b/Balazinska:Magdalena" pid="b/MagdalenaBalazinska">Magdalena Balazinska</na></co>
+<co c="0" n="2"><na f="b/Barber:Ron" pid="33/3527">Ron Barber</na><na>Ronald Barber</na></co>
+<co c="0"><na f="b/Bendel:Peter" pid="17/11155">Peter Bendel</na></co>
+<co c="0"><na f="b/Bernstein:Philip_A=" pid="b/PhilipABernstein">Philip A. Bernstein</na></co>
+<co c="0"><na f="b/Bhatt:Rudrika" pid="181/5720">Rudrika Bhatt</na></co>
+<co c="0"><na f="b/Bhowmick:Sourav_S=" pid="b/SSBhowmick">Sourav S. Bhowmick</na></co>
+<co c="0"><na f="b/Bikakis:Nikos" pid="57/7247">Nikos Bikakis</na></co>
+<co c="0"><na f="b/Bj=oslash=rling:Matias" pid="30/8166">Matias Bj&#248;rling</na></co>
+<co c="0"><na f="b/B=oslash=gh:Kenneth_S=" pid="131/4384">Kenneth S. B&#248;gh</na></co>
+<co c="0"><na f="b/Boncz:Peter_A=" pid="b/PeterABoncz">Peter A. Boncz</na></co>
+<co c="0"><na f="b/Bonnet:Philippe" pid="b/PBonnet">Philippe Bonnet</na></co>
+<co c="0" n="2"><na f="b/Borovica:Renata" pid="36/10568">Renata Borovica</na><na>Renata Borovica-Gajic</na></co>
+<co c="0"><na f="b/Branco:Miguel" pid="61/2926">Miguel Branco</na></co>
+<co c="0"><na f="c/Callaghan:Mark" pid="71/4417">Mark Callaghan</na></co>
+<co c="0"><na f="c/Cao:Wei" pid="54/6265">Wei Cao</na></co>
+<co c="0"><na f="c/Chainani:Naresh" pid="135/4688">Naresh Chainani</na></co>
+<co c="0"><na f="c/Chatterjee:Subarna" pid="139/7927">Subarna Chatterjee</na></co>
+<co c="0"><na f="c/Chaudhuri:Surajit" pid="c/SurajitChaudhuri">Surajit Chaudhuri</na></co>
+<co c="0"><na f="c/Chen:Sanyuan" pid="143/4869">Sanyuan Chen</na></co>
+<co c="0"><na f="c/Cheung:Alvin" pid="16/4915">Alvin Cheung</na></co>
+<co c="0"><na f="c/Chirita:Paul=Alexandru" pid="c/PAChirita">Paul-Alexandru Chirita</na></co>
+<co c="0"><na f="c/Christophides:Vassilis" pid="c/VassilisChristophides">Vassilis Christophides</na></co>
+<co c="0"><na f="c/Chrysanthis:Panos_K=" pid="c/PKChrysanthis">Panos K. Chrysanthis</na></co>
+<co c="0"><na f="c/Czech:Marco" pid="61/9320">Marco Czech</na></co>
+<co c="0"><na f="d/D=Agostino:Frank" pid="361/3570">Frank D'Agostino</na></co>
+<co c="0"><na f="d/Dayan:Niv" pid="129/6927">Niv Dayan</na></co>
+<co c="0"><na f="d/Deeds:Kyle" pid="266/2814">Kyle Deeds</na></co>
+<co c="0"><na f="d/Doan:AnHai" pid="d/AnHaiDoan">AnHai Doan</na></co>
+<co c="0" n="3"><na f="d/Dong_0001:Xin" pid="d/XinLunaDong">Xin Dong 0001</na><na>Xin Luna Dong</na><na>Luna Dong</na></co>
+<co c="0"><na f="d/Draese:Oliver" pid="89/9320">Oliver Draese</na></co>
+<co c="0"><na f="d/Drougas:Yannis" pid="20/6911">Yannis Drougas</na></co>
+<co c="0"><na f="d/Drucker:Steven_Mark" pid="50/863">Steven Mark Drucker</na></co>
+<co c="0"><na f="f/Fekete:Jean=Daniel" pid="f/JeanDanielFekete">Jean-Daniel Fekete</na></co>
+<co c="0"><na f="f/Fisher:Danyel" pid="89/5155">Danyel Fisher</na></co>
+<co c="0"><na f="f/Franklin:Michael_J=" pid="f/MJFranklin">Michael J. Franklin</na></co>
+<co c="0"><na f="f/Fraser:Campbell" pid="44/5620">Campbell Fraser</na></co>
+<co c="0"><na f="f/Freire:Juliana" pid="f/JulianaFreire">Juliana Freire</na></co>
+<co c="0"><na f="g/Garofalakis:Minos_N=" pid="g/MinosNGarofalakis">Minos N. Garofalakis</na></co>
+<co c="0"><na f="g/Golab:Lukasz" pid="42/3296">Lukasz Golab</na></co>
+<co c="0"><na f="g/Goncalves:Romulo" pid="32/935">Romulo Goncalves</na></co>
+<co c="0"><na f="g/Gonz=aacute=lez_0006:Javier" pid="366/8237-6">Javier Gonz&#225;lez 0006</na></co>
+<co c="0"><na f="g/Graefe:Goetz" pid="g/GoetzGraefe">Goetz Graefe</na></co>
+<co c="0"><na f="g/Granados:Joel_A=" pid="01/10306">Joel A. Granados</na></co>
+<co c="0"><na f="g/Groffen:Fabian" pid="72/4341">Fabian Groffen</na></co>
+<co c="0"><na f="g/Guo:Demi" pid="215/3969">Demi Guo</na></co>
+<co c="0"><na f="g/Gupta:Harshita" pid="204/7805">Harshita Gupta</na></co>
+<co c="0"><na f="h/Halevy:Alon_Y=" pid="h/AlonYHalevy">Alon Y. Halevy</na></co>
+<co c="0"><na f="h/Halim:Felix" pid="38/648">Felix Halim</na></co>
+<co c="0"><na f="h/Hall:Nancy" pid="69/9381">Nancy Hall</na></co>
+<co c="0"><na f="h/Harizopoulos:Stavros" pid="38/6308">Stavros Harizopoulos</na></co>
+<co c="0"><na f="h/Hellerstein:Joseph_M=" pid="h/JosephMHellerstein">Joseph M. Hellerstein</na></co>
+<co c="0"><na f="h/Hentschel:Brian" pid="213/7863">Brian Hentschel</na></co>
+<co c="0"><na f="h/Hilgard:Sophie" pid="233/6276">Sophie Hilgard</na></co>
+<co c="0"><na f="h/Hipp:D=_Richard" pid="15/5105">D. Richard Hipp</na></co>
+<co c="0"><na f="h/Ho:Frederick" pid="05/11154">Frederick Ho</na></co>
+<co c="0"><na f="h/Hrle:Namik" pid="22/1571">Namik Hrle</na></co>
+<co c="0"><na f="h/Hsu:Jeremy" pid="239/9099">Jeremy Hsu</na></co>
+<co c="0"><na f="i/Ilyas:Ihab_F=" pid="i/IhabFIlyas">Ihab F. Ilyas</na></co>
+<co c="0"><na f="i/Ivanova:Milena" pid="i/MilenaIvanova">Milena Ivanova</na></co>
+<co c="0" n="2"><na f="i/Ives:Zachary_G=" pid="i/ZacharyGIves">Zachary G. Ives</na><na>Zack Ives</na></co>
+<co c="0"><na f="j/Jagadeesan:Meena" pid="205/2407">Meena Jagadeesan</na></co>
+<co c="0"><na f="j/Jain:Varun" pid="83/2171">Varun Jain</na></co>
+<co c="1"><na f="j/Jaume:Sylvain" pid="52/4070">Sylvain Jaume</na></co>
+<co c="0"><na f="j/Jensen:Anders_Hammersh=oslash=j" pid="287/6628">Anders Hammersh&#248;j Jensen</na></co>
+<co c="0"><na f="j/Johnson_0001:Ryan" pid="98/3414-1">Ryan Johnson 0001</na></co>
+<co c="0"><na f="k/Kang:Minseo" pid="145/9914">Minseo Kang</na></co>
+<co c="0"><na f="k/Kaoudi:Zoi" pid="65/1457">Zoi Kaoudi</na></co>
+<co c="0"><na f="k/Karras:Panagiotis" pid="08/5342">Panagiotis Karras</na></co>
+<co c="0"><na f="k/Kaushik:Raghav" pid="09/2901">Raghav Kaushik</na></co>
+<co c="0"><na f="k/Kementsietsidis:Anastasios" pid="41/5464">Anastasios Kementsietsidis</na></co>
+<co c="0"><na f="k/Kennedy:Oliver" pid="75/5478">Oliver Kennedy</na></co>
+<co c="0"><na f="k/Kersten:Martin_L=" pid="k/MartinLKersten">Martin L. Kersten</na></co>
+<co c="0"><na f="k/Kester:Michael_S=" pid="64/10989">Michael S. Kester</na></co>
+<co c="0"><na f="k/Kester:Mike_S=" pid="202/1791">Mike S. Kester</na></co>
+<co c="0"><na f="k/Ketsetsidis:Rafael" pid="266/5764">Rafael Ketsetsidis</na></co>
+<co c="0"><na f="k/Kim_0002:Min=Soo" pid="k/MinSooKim2">Min-Soo Kim 0002</na></co>
+<co c="0" n="2"><na f="k/Knorr:Eric" pid="214/6009">Eric Knorr</na><na>Eric R. Knorr</na></co>
+<co c="0"><na f="k/Koeth:Oliver" pid="04/9919">Oliver Koeth</na></co>
+<co c="0"><na f="k/Koop:David" pid="54/1720">David Koop</na></co>
+<co c="0"><na f="k/Kossmann:Donald" pid="k/DonaldKossmann">Donald Kossmann</na></co>
+<co c="0"><na f="k/Koubarakis:Manolis" pid="40/4517">Manolis Koubarakis</na></co>
+<co c="0"><na f="k/Kraska:Tim" pid="26/6037">Tim Kraska</na></co>
+<co c="0"><na f="k/Krishnamurthy:Sailesh" pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</na></co>
+<co c="0" n="2"><na f="k/KulandaiSamy:Vincent" pid="135/4711">Vincent KulandaiSamy</na><na>Vincent Kulandai Samy</na></co>
+<co c="0"><na f="k/Kuno:Harumi_A=" pid="02/451">Harumi A. Kuno</na></co>
+<co c="0"><na f="l/Lauridsen:Frederik" pid="287/7025">Frederik Lauridsen</na></co>
+<co c="0"><na f="l/Lee_0001:Jae=Gil" pid="28/3904">Jae-Gil Lee 0001</na></co>
+<co c="0"><na f="l/Lehner:Wolfgang" pid="l/WLehner">Wolfgang Lehner</na></co>
+<co c="0"><na f="l/Leis:Viktor" pid="10/11150">Viktor Leis</na></co>
+<co c="0"><na f="l/Lemaire:Baptiste" pid="322/1443">Baptiste Lemaire</na></co>
+<co c="0"><na f="l/Lennon:James" pid="233/6273">James Lennon</na></co>
+<co c="0"><na f="l/Leroy_0001:Vincent" pid="02/7933">Vincent Leroy 0001</na></co>
+<co c="0"><na f="l/Li:David" pid="09/6661">David Li</na></co>
+<co c="0"><na f="l/Li_0001:Guoliang" pid="l/GuoliangLi">Guoliang Li 0001</na></co>
+<co c="0" n="2"><na f="l/Li:Tianchao" pid="07/4483">Tianchao Li</na><na>Tianchao Tim Li</na></co>
+<co c="0"><na f="l/Li:Zhanhuai" pid="05/299">Zhanhuai Li</na></co>
+<co c="0"><na f="l/Liao:Yuze" pid="227/3088">Yuze Liao</na></co>
+<co c="0"><na f="l/Liarou:Erietta" pid="88/6520">Erietta Liarou</na></co>
+<co c="0"><na f="l/Lightstone:Sam" pid="31/3001">Sam Lightstone</na></co>
+<co c="0"><na f="l/Lim:Andrew" pid="267/6394">Andrew Lim</na></co>
+<co c="-1"><na f="l/Liu:Zezhou" pid="181/5748">Zezhou Liu</na></co>
+<co c="0"><na f="l/Lohman:Guy_M=" pid="21/2457">Guy M. Lohman</na></co>
+<co c="0"><na f="l/Luo:Siqiang" pid="117/5965">Siqiang Luo</na></co>
+<co c="0"><na f="m/Ma:Kwan=Liu" pid="93/5838">Kwan-Liu Ma</na></co>
+<co c="0"><na f="m/Maas:Lukas_M=" pid="131/4096">Lukas M. Maas</na></co>
+<co c="0"><na f="m/Mackinlay:Jock_D=" pid="03/2919">Jock D. Mackinlay</na></co>
+<co c="0"><na f="m/Madden_0001:Samuel" pid="m/SamuelMadden">Samuel Madden 0001</na></co>
+<co c="0"><na f="m/Magiridou:Matoula" pid="46/949">Matoula Magiridou</na></co>
+<co c="0"><na f="m/Mamoulis:Nikos" pid="34/6253">Nikos Mamoulis</na></co>
+<co c="0"><na f="m/Manegold:Stefan" pid="m/StefanManegold">Stefan Manegold</na></co>
+<co c="0"><na f="m/Marian:Am=eacute=lie" pid="m/AmelieMarian">Am&#233;lie Marian</na></co>
+<co c="0"><na f="m/Markl:Volker" pid="m/VMarkl">Volker Markl</na></co>
+<co c="0"><na f="m/Melnik_0001:Sergey" pid="m/SergeyMelnik">Sergey Melnik 0001</na></co>
+<co c="0"><na f="m/Miliaraki:Iris" pid="74/5534">Iris Miliaraki</na></co>
+<co c="0"><na f="m/Milo:Tova" pid="m/TovaMilo">Tova Milo</na></co>
+<co c="0"><na f="m/Mishra:Aakash" pid="349/5492">Aakash Mishra</na></co>
+<co c="0"><na f="m/Mitzenmacher:Michael" pid="74/838">Michael Mitzenmacher</na></co>
+<co c="0"><na f="m/Mohan_0001:C=" pid="m/CMohan">C. Mohan 0001</na></co>
+<co c="0"><na f="m/Morfonios:Konstantinos" pid="m/KonstantinosMorfonios">Konstantinos Morfonios</na></co>
+<co c="0"><na f="m/Mullender:K=_Sjoerd" pid="66/4188">K. Sjoerd Mullender</na></co>
+<co c="0"><na f="m/M=uuml=ller_0001:Ren=eacute=" pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</na></co>
+<co c="0"><na f="m/Murthy:Keshava" pid="37/276">Keshava Murthy</na></co>
+<co c="0"><na f="n/Nandi_0001:Arnab" pid="28/568">Arnab Nandi 0001</na></co>
+<co c="0"><na f="n/Narasayya:Vivek_R=" pid="n/VivekRNarasayya">Vivek R. Narasayya</na></co>
+<co c="0"><na f="n/Nejdl:Wolfgang" pid="n/WolfgangNejdl">Wolfgang Nejdl</na></co>
+<co c="0"><na f="n/Nes:Niels" pid="82/1319">Niels Nes</na></co>
+<co c="0"><na f="n/Neumann_0001:Thomas" pid="n/ThomasNeumann">Thomas Neumann 0001</na></co>
+<co c="0"><na f="n/Nikitin:Artyom" pid="181/5713">Artyom Nikitin</na></co>
+<co c="0"><na f="o/Olteanu:Dan" pid="o/DanOlteanu">Dan Olteanu</na></co>
+<co c="0"><na f="o/Ooi:Beng_Chin" pid="o/BengChinOoi">Beng Chin Ooi</na></co>
+<co c="0"><na f="o/Oulasvirta:Antti" pid="93/99">Antti Oulasvirta</na></co>
+<co c="0" n="2"><na f="=/=Ouml=zcan:Fatma" pid="o/FatmaOzcan">Fatma &#214;zcan</na><na>Fatma Ozcan</na></co>
+<co c="0"><na f="=/=Ouml=zsu:M=_Tamer" pid="o/MTamerOzsu">M. Tamer &#214;zsu</na></co>
+<co c="0"><na f="p/Palpanas:Themis" pid="p/ThemisPalpanas">Themis Palpanas</na></co>
+<co c="0"><na f="p/Pandis:Ippokratis" pid="p/IppokratisPandis">Ippokratis Pandis</na></co>
+<co c="-1"><na f="p/Pantela:Styliani" pid="163/0526">Styliani Pantela</na></co>
+<co c="0"><na f="p/Papaemmanouil:Olga" pid="37/3024">Olga Papaemmanouil</na></co>
+<co c="0"><na f="p/Papastefanatos:George" pid="44/2379">George Papastefanatos</na></co>
+<co c="0"><na f="p/Papotti:Paolo" pid="p/PaoloPapotti">Paolo Papotti</na></co>
+<co c="0"><na f="p/Patel:Jignesh_M=" pid="p/JMPatel">Jignesh M. Patel</na></co>
+<co c="0"><na f="p/Pavlo:Andrew" pid="58/4127">Andrew Pavlo</na></co>
+<co c="0"><na f="p/Petraki:Eleni" pid="75/10051">Eleni Petraki</na></co>
+<co c="0"><na f="p/Pirk:Holger" pid="08/3969">Holger Pirk</na></co>
+<co c="0"><na f="p/Popa:Raluca_A=" pid="91/275">Raluca A. Popa</na></co>
+<co c="0"><na f="q/Qiao:Lin" pid="q/LinQiao">Lin Qiao</na></co>
+<co c="0"><na f="q/Qin:Wilson" pid="181/5874">Wilson Qin</na></co>
+<co c="0"><na f="r/Raftopoulou:Paraskevi" pid="51/5262">Paraskevi Raftopoulou</na></co>
+<co c="0"><na f="r/Ramakrishnan:Raghu" pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</na></co>
+<co c="0"><na f="r/Ramamurthy:Ravishankar" pid="02/4973">Ravishankar Ramamurthy</na></co>
+<co c="0"><na f="r/Raman:Vijayshankar" pid="r/VijayshankarRaman">Vijayshankar Raman</na></co>
+<co c="0"><na f="r/R=eacute=:Christopher" pid="r/ChristopherRe">Christopher R&#233;</na></co>
+<co c="0"><na f="r/Reilly:Christine" pid="74/10305">Christine Reilly</na></co>
+<co c="0"><na f="r/Ross:Andrew" pid="09/3382">Andrew Ross</na></co>
+<co c="0"><na f="s/Saad:Muhammad" pid="181/5807">Muhammad Saad</na></co>
+<co c="0"><na f="s/Sattler:Kai=Uwe" pid="s/KaiUweSattler">Kai-Uwe Sattler</na></co>
+<co c="0"><na f="s/Saxena:Hemant" pid="167/2106">Hemant Saxena</na></co>
+<co c="0"><na f="s/Schreck:Tobias" pid="81/2498">Tobias Schreck</na></co>
+<co c="0"><na f="s/Schumann:Heidrun" pid="s/HeidrunSchumann">Heidrun Schumann</na></co>
+<co c="0"><na f="s/Seeger:Bernhard" pid="s/BernhardSeeger">Bernhard Seeger</na></co>
+<co c="0"><na f="s/Seltzer:Margo_I=" pid="s/MargoISeltzer">Margo I. Seltzer</na></co>
+<co c="0"><na f="s/Sharaf:Mohamed_A=" pid="s/MohamedASharaf">Mohamed A. Sharaf</na></co>
+<co c="0"><na f="s/Shasha:Dennis_E=" pid="s/DennisShasha">Dennis E. Shasha</na></co>
+<co c="0"><na f="s/Sidle:Richard" pid="84/3614">Richard Sidle</na></co>
+<co c="0"><na f="s/Sirin:Utku" pid="124/2281">Utku Sirin</na></co>
+<co c="0"><na f="s/Srivastava:Divesh" pid="s/DiveshSrivastava">Divesh Srivastava</na></co>
+<co c="0"><na f="s/Stoica:Radu" pid="84/2124">Radu Stoica</na></co>
+<co c="0"><na f="s/Stolze:Knut" pid="s/KnutStolze">Knut Stolze</na></co>
+<co c="0"><na f="s/Stonebraker:Michael" pid="s/MichaelStonebraker">Michael Stonebraker</na></co>
+<co c="0"><na f="s/Suciu:Dan" pid="s/DanSuciu">Dan Suciu</na></co>
+<co c="0"><na f="s/Sun:Yiyou" pid="211/5630">Yiyou Sun</na></co>
+<co c="0"><na f="s/Szabo:Sandor" pid="16/6170">Sandor Szabo</na></co>
+<co c="1"><na f="t/Trias:Fernando" pid="360/0723">Fernando Trias</na></co>
+<co c="0"><na f="t/Troncoso:Carmela" pid="01/4825">Carmela Troncoso</na></co>
+<co c="0"><na f="t/Tryfonopoulos:Christos" pid="91/5548">Christos Tryfonopoulos</na></co>
+<co c="0"><na f="t/Tsirogiannis:Dimitris" pid="77/228">Dimitris Tsirogiannis</na></co>
+<co c="0"><na f="v/Vaidya:Kapil" pid="188/6341">Kapil Vaidya</na></co>
+<co c="1"><na f="w/Wang:Hongming" pid="18/5598">Hongming Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Jianguo" pid="64/1071-1">Jianguo Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Ruihong" pid="30/2063">Ruihong Wang</na></co>
+<co c="0"><na f="w/Wasay:Abdul" pid="149/9304">Abdul Wasay</na></co>
+<co c="0"><na f="w/Wei:Xinding" pid="199/6364">Xinding Wei</na></co>
+<co c="0"><na f="w/Wu_0002:Eugene" pid="41/3679">Eugene Wu 0002</na></co>
+<co c="0"><na f="x/Xi:Sam_Likun" pid="135/8437">Sam Likun Xi</na></co>
+<co c="0"><na f="y/Yan_0007:Zheng" pid="43/180-7">Zheng Yan 0007</na></co>
+<co c="0"><na f="y/Yap:Roland_H=_C=" pid="y/RolandHCYap">Roland H. C. Yap</na></co>
+<co c="0"><na f="y/Yu_0001:Cong" pid="58/3771">Cong Yu 0001</na></co>
+<co c="0"><na f="z/Zardbani:Fatemeh" pid="261/1953">Fatemeh Zardbani</na></co>
+<co c="0"><na f="z/Zhang:Huanchen" pid="13/8730">Huanchen Zhang</na></co>
+<co c="0"><na f="z/Zhang:Liping" pid="48/6735">Liping Zhang</na></co>
+<co c="0"><na f="z/Zhu:Zichen" pid="149/1342">Zichen Zhu</na></co>
+<co c="0"><na f="z/Zoumpatianos:Kostas" pid="17/9799">Kostas Zoumpatianos</na></co>
+<co c="0"><na f="z/Zukowski:Marcin" pid="40/4880">Marcin Zukowski</na></co>
+</coauthors>
+</dblpperson>

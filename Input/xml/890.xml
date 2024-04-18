@@ -1,0 +1,1198 @@
+<dblpperson name="Vijayshankar Raman" pid="r/VijayshankarRaman" n="55">
+<person key="homepages/r/VijayshankarRaman" mdate="2016-02-09">
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<note type="affiliation">IBM Research</note>
+<url>http://domino.research.ibm.com/comm/research_people.nsf/pages/rshankar.index.html</url>
+</person>
+<r><article key="journals/pvldb/AgiwalLMRSZZCCD21" mdate="2023-10-12">
+<author pid="09/5497">Ankur Agiwal</author>
+<author pid="83/713">Kevin Lai</author>
+<author pid="181/5860">Gokul Nath Babu Manoharan</author>
+<author pid="r/IndrajitRoy">Indrajit Roy 0001</author>
+<author pid="57/2958">Jagan Sankaranarayanan</author>
+<author pid="55/2270">Hao Zhang</author>
+<author pid="61/6876-2">Tao Zou 0002</author>
+<author pid="60/5999">Jim Chen</author>
+<author pid="50/6996">Min Chen</author>
+<author pid="61/6981">Ming Dai</author>
+<author pid="03/6177">Thanh Do</author>
+<author pid="97/11269">Haoyu Gao</author>
+<author pid="138/8037">Haoyan Geng</author>
+<author pid="99/6359">Raman Grover</author>
+<author pid="95/6229">Bo Huang</author>
+<author pid="300/4302">Yanlai Huang</author>
+<author pid="176/3454">Adam Li</author>
+<author pid="129/8164">Jianyi Liang</author>
+<author pid="64/4492">Tao Lin</author>
+<author pid="33/4528">Li Liu</author>
+<author pid="64/424">Yao Liu</author>
+<author pid="07/10342">Xi Mao</author>
+<author pid="300/4364">Maya Meng</author>
+<author pid="164/5082">Prashant Mishra</author>
+<author pid="65/3147">Jay Patel</author>
+<author pid="300/4456">Rajesh Sr</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="05/6852">Sourashis Roy</author>
+<author pid="125/1222">Mayank Singh Shishodia</author>
+<author pid="215/5537">Tianhang Sun</author>
+<author pid="26/8239">Justin Tang</author>
+<author pid="84/284">Jun'ichi Tatemura</author>
+<author pid="165/3098">Sagar Trehan</author>
+<author pid="125/2331">Ramkumar Vadali</author>
+<author pid="300/4338">Prasanna Venkatasubramanian</author>
+<author pid="300/4097">Joey Zhang</author>
+<author pid="88/1075">Kefei Zhang</author>
+<author pid="33/7992">Yupu Zhang</author>
+<author pid="142/2235">Zeleng Zhuang</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="a/DivyakantAgrawal">Divy Agrawal</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<author pid="300/4622">Sujata Kosalge</author>
+<author pid="59/2465">Hakan Hacig&#252;m&#252;s</author>
+<title>Napa: Powering Scalable Data Warehousing with Robust Query Performance at Google.</title>
+<pages>2986-2998</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2986-sankaranarayanan.pdf</ee>
+<ee>https://doi.org/10.14778/3476311.3476377</ee>
+<url>db/journals/pvldb/pvldb14.html#AgiwalLMRSZZCCD21</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/BarberSTTWGGL0M19" mdate="2021-03-31">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="16/5412">Adam J. Storm</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<author pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="07/11533">Yingjun Wu</author>
+<author pid="96/122">Christian Garcia-Arellano</author>
+<author pid="192/4573">Ronen Grosman</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/3614">Richard Sidle</author>
+<title>WiSer: A Highly Available HTAP DBMS for IoT Applications.</title>
+<pages>268-277</pages>
+<year>2019</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData47090.2019.9006519</ee>
+<crossref>conf/bigdataconf/2019</crossref>
+<url>db/conf/bigdataconf/bigdataconf2019.html#BarberSTTWGGL0M19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/LuoTTBRS19" mdate="2022-12-19">
+<author orcid="0000-0002-2180-7749" pid="46/4719-2">Chen Luo 0002</author>
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<author pid="33/3527">Ronald Barber</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/3614">Richard Sidle</author>
+<title>Umzi: Unified Multi-Zone Indexing for Large-Scale HTAP.</title>
+<pages>1-12</pages>
+<year>2019</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2019.02</ee>
+<crossref>conf/edbt/2019</crossref>
+<url>db/conf/edbt/edbt2019.html#LuoTTBRS19</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/bdt/BarberRSTT19" mdate="2019-02-14">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<author pid="86/9726">Pinar T&#246;z&#252;n</author>
+<title>Wildfire: HTAP for Big Data.</title>
+<year>2019</year>
+<booktitle>Encyclopedia of Big Data Technologies</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-63962-8_257-1</ee>
+<crossref>reference/bdt/2019</crossref>
+<url>db/reference/bdt/1.html#BarberRSTT19</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-01908" mdate="2020-09-30">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="96/122">Christian Garcia-Arellano</author>
+<author pid="192/4573">Ronen Grosman</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="16/5412">Adam J. Storm</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<author pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="07/11533">Yingjun Wu</author>
+<title>WiSer: A Highly Available HTAP DBMS for IoT Applications.</title>
+<year>2019</year>
+<volume>abs/1908.01908</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.01908</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-01908</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/BarberGGMRSSSTT17" mdate="2021-01-21">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="96/122">Christian Garcia-Arellano</author>
+<author pid="192/4573">Ronen Grosman</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="192/4569">Matt Spilchen</author>
+<author pid="16/5412">Adam J. Storm</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="60/6783">Daniel C. Zilio</author>
+<author pid="181/5812">Matt Huras</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/CMohan">Chandrasekaran Mohan</author>
+<author pid="o/FatmaOzcan">Fatma &#214;zcan</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<title>Evolving Databases for New-Gen Big Data Applications.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/papers/p123-barber-cidr17.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#BarberGGMRSSSTT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BarberHLMMOPRSS16" mdate="2021-10-14">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="181/5812">Matt Huras</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author orcid="0000-0002-4418-4724" pid="o/FatmaOzcan">Fatma &#214;zcan</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="181/5779">Oleg Sidorkin</author>
+<author pid="16/5412">Adam J. Storm</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<title>Wildfire: Concurrent Blazing Data Ingest and Analytics.</title>
+<pages>2077-2080</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2899406</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#BarberHLMMOPRSS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BarberLRSLS15" mdate="2023-03-24">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="31/3001">Sam Lightstone</author>
+<author pid="48/5807">Berni Schiefer</author>
+<title>In-memory BLU acceleration in IBM's DB2 and dashDB: Optimized for modern workloads and hardware architectures.</title>
+<pages>1246-1252</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113372</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113372</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#BarberLRSLS15</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/LeeABCDHI0LLMMPQRSSSZ14" mdate="2020-04-25">
+<author pid="28/3904">Jae-Gil Lee 0001</author>
+<author pid="24/2608">Gopi K. Attaluri</author>
+<author pid="33/3527">Ronald Barber</author>
+<author pid="135/4688">Naresh Chainani</author>
+<author pid="89/9320">Oliver Draese</author>
+<author pid="05/11154">Frederick Ho</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/MinSooKim2">Min-Soo Kim 0002</author>
+<author pid="31/3001">Sam Lightstone</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/KonstantinosMorfonios">Konstantinos Morfonios</author>
+<author pid="37/276">Keshava Murthy</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="q/LinQiao">Lin Qiao</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="135/4711">Vincent Kulandai Samy</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="s/KnutStolze">Knut Stolze</author>
+<author pid="48/6735">Liping Zhang</author>
+<title>Joins on Encoded and Partitioned Data.</title>
+<pages>1355-1366</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p1355-lee.pdf</ee>
+<ee>https://doi.org/10.14778/2733004.2733008</ee>
+<url>db/journals/pvldb/pvldb7.html#LeeABCDHI0LLMMPQRSSSZ14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BarberLPRSACLS14" mdate="2020-04-25">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="24/2608">Gopi K. Attaluri</author>
+<author pid="135/4688">Naresh Chainani</author>
+<author pid="31/3001">Sam Lightstone</author>
+<author pid="53/26">David Sharpe</author>
+<title>Memory-Efficient Hash Joins.</title>
+<pages>353-364</pages>
+<year>2014</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p353-barber.pdf</ee>
+<ee>https://doi.org/10.14778/2735496.2735499</ee>
+<url>db/journals/pvldb/pvldb8.html#BarberLPRSACLS14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/RamanABCKKLLLLMMPSSSSZ13" mdate="2020-09-30">
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="24/2608">Gopi K. Attaluri</author>
+<author pid="33/3527">Ronald Barber</author>
+<author pid="135/4688">Naresh Chainani</author>
+<author pid="135/4645">David Kalmuk</author>
+<author pid="135/4711">Vincent KulandaiSamy</author>
+<author pid="42/5193">Jens Leenstra</author>
+<author pid="31/3001">Sam Lightstone</author>
+<author pid="57/6681">Shaorong Liu</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="135/4723">Tim Malkemus</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="48/5807">Berni Schiefer</author>
+<author pid="53/26">David Sharpe</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="16/5412">Adam J. Storm</author>
+<author pid="48/6735">Liping Zhang</author>
+<title>DB2 with BLU Acceleration: So Much More than Just a Column Store.</title>
+<pages>1080-1091</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p1080-barber.pdf</ee>
+<ee>https://doi.org/10.14778/2536222.2536233</ee>
+<url>db/journals/pvldb/pvldb6.html#RamanABCKKLLLLMMPSSSSZ13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/LiPMRL13" mdate="2020-09-30">
+<author pid="49/612">Yinan Li</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<title>NUMA-aware algorithms: the case of data shuffling.</title>
+<year>2013</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2013/Papers/CIDR13_Paper121.pdf</ee>
+<crossref>conf/cidr/2013</crossref>
+<url>db/conf/cidr/cidr2013.html#LiPMRL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloud/BarberLMPRW13" mdate="2023-09-01">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="04/5188">Winfried W. Wilcke</author>
+<title>Go, server, go!: parallel computing with moving servers.</title>
+<pages>8:1-8:8</pages>
+<year>2013</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/2523616.2523634</ee>
+<crossref>conf/cloud/2013</crossref>
+<url>db/conf/cloud/socc2013.html#BarberLMPRW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gi/StolzeLRSB13" mdate="2023-07-04">
+<author pid="s/KnutStolze">Knut Stolze</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="55/9320">Felix Beier</author>
+<title>Evolutionary Integration of In-Memory Database Technology into IBM's Enterprise DB2 Database Systems.</title>
+<pages>461-471</pages>
+<year>2013</year>
+<booktitle>GI-Jahrestagung</booktitle>
+<crossref>conf/gi/2013</crossref>
+<url>db/conf/gi/gi2013.html#StolzeLRSB13</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/20771</ee>
+</inproceedings>
+</r>
+<r><article key="journals/debu/BarberBCDHHIKKLLLMMMPQRSSS12" mdate="2020-09-30">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="17/11155">Peter Bendel</author>
+<author pid="61/9320">Marco Czech</author>
+<author pid="89/9320">Oliver Draese</author>
+<author pid="05/11154">Frederick Ho</author>
+<author pid="22/1571">Namik Hrle</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/MinSooKim2">Min-Soo Kim 0002</author>
+<author pid="04/9919">Oliver Koeth</author>
+<author pid="28/3904">Jae-Gil Lee 0001</author>
+<author pid="07/4483">Tianchao Tim Li</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/KonstantinosMorfonios">Konstantinos Morfonios</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="37/276">Keshava Murthy</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="q/LinQiao">Lin Qiao</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="s/KnutStolze">Knut Stolze</author>
+<author pid="16/6170">Sandor Szabo</author>
+<title>Business Analytics in (a) Blink.</title>
+<pages>9-14</pages>
+<year>2012</year>
+<volume>35</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A12mar/blink.pdf</ee>
+<url>db/journals/debu/debu35.html#BarberBCDHHIKKLLLMMMPQRSSS12</url>
+</article>
+</r>
+<r><inproceedings key="conf/birte/BarberBCDHHIKKLLLMMMPQRSSS11" mdate="2020-09-30">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="17/11155">Peter Bendel</author>
+<author pid="61/9320">Marco Czech</author>
+<author pid="89/9320">Oliver Draese</author>
+<author pid="05/11154">Frederick Ho</author>
+<author pid="22/1571">Namik Hrle</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/MinSooKim2">Min-Soo Kim 0002</author>
+<author pid="04/9919">Oliver Koeth</author>
+<author pid="28/3904">Jae-Gil Lee 0001</author>
+<author pid="07/4483">Tianchao Tim Li</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/KonstantinosMorfonios">Konstantinos Morfonios</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="37/276">Keshava Murthy</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="q/LinQiao">Lin Qiao</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="16/6170">Sandor Szabo</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="s/KnutStolze">Knut Stolze</author>
+<title>Blink: Not Your Father's Database!</title>
+<pages>1-22</pages>
+<year>2011</year>
+<booktitle>BIRTE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33500-6_1</ee>
+<crossref>conf/birte/2011</crossref>
+<url>db/conf/birte/birte2011.html#BarberBCDHHIKKLLLMMMPQRSSS11</url>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/PatonCCRSNYF09" mdate="2018-11-14">
+<author orcid="0000-0003-2008-6617" pid="p/NWPaton">Norman W. Paton</author>
+<author pid="03/821">Jorge Buenabad Ch&#225;vez</author>
+<author pid="86/6574">Mengsong Chen</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="46/4288">Garret Swart</author>
+<author pid="n/InderpalNarang">Inderpal Narang</author>
+<author pid="53/3223">Daniel M. Yellin</author>
+<author pid="f/AAAFernandes">Alvaro A. A. Fernandes</author>
+<title>Autonomic query parallelization using non-dedicated computers: an evaluation of adaptivity options.</title>
+<pages>119-140</pages>
+<year>2009</year>
+<volume>18</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-007-0090-x</ee>
+<ee>https://www.wikidata.org/entity/Q57393502</ee>
+<url>db/journals/vldb/vldb18.html#PatonCCRSNYF09</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/StolzeRSD09" mdate="2023-07-04">
+<author pid="s/KnutStolze">Knut Stolze</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="89/9320">Oliver Draese</author>
+<title>Bringing BLINK Closer to the Full Power of SQL.</title>
+<pages>157-166</pages>
+<year>2009</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2009</crossref>
+<url>db/conf/btw/btw2009.html#StolzeRSD09</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/20442</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings144/article4699.html</ee>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/QiaoRRHL08" mdate="2023-01-20">
+<author pid="q/LinQiao">Lin Qiao</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="95/459">Frederick Reiss 0001</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<title>Main-memory scan sharing for multi-core CPUs.</title>
+<pages>610-621</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1453924.pdf</ee>
+<ee>https://doi.org/10.14778/1453856.1453924</ee>
+<url>db/journals/pvldb/pvldb1.html#QiaoRRHL08</url>
+</article>
+</r>
+<r><article key="journals/pvldb/JohnsonRSS08" mdate="2020-04-25">
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="46/4288">Garret Swart</author>
+<title>Row-wise parallel predicate evaluation.</title>
+<pages>622-634</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1453925.pdf</ee>
+<ee>https://doi.org/10.14778/1453856.1453925</ee>
+<url>db/journals/pvldb/pvldb1.html#JohnsonRSS08</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/RamanSQRDKNS08" mdate="2023-03-23">
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="46/4288">Garret Swart</author>
+<author pid="q/LinQiao">Lin Qiao</author>
+<author pid="95/459">Frederick Reiss 0001</author>
+<author pid="60/6249">Vijay Dialani</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="n/InderpalNarang">Inderpal Narang</author>
+<author pid="84/3614">Richard Sidle</author>
+<title>Constant-Time Query Processing.</title>
+<pages>60-69</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497414</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497414</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#RamanSQRDKNS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KrauthgamerMRR08" mdate="2023-03-24">
+<author pid="k/RobertKrauthgamer">Robert Krauthgamer</author>
+<author pid="23/6337">Aranyak Mehta</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="04/4980">Atri Rudra</author>
+<title>Greedy List Intersection.</title>
+<pages>1033-1042</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497512</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497512</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#KrauthgamerMRR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/QiaoRNPCFRCYL08" mdate="2023-03-23">
+<author pid="q/LinQiao">Lin Qiao</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="n/InderpalNarang">Inderpal Narang</author>
+<author pid="64/6001-5">Prashant Pandey 0005</author>
+<author pid="89/2753">David D. Chambliss</author>
+<author pid="03/3841">Gene Fuh</author>
+<author pid="82/840">James A. Ruddy</author>
+<author pid="12/746">Ying-Lin Chen</author>
+<author pid="35/6288">Kou-Horng Yang</author>
+<author pid="83/1583">Fen-Ling Ling</author>
+<title>Integration of Server, Storage and Database Stack: Moving Processing Towards Data.</title>
+<pages>1200-1208</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497529</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497529</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#QiaoRNPCFRCYL08</url>
+</inproceedings>
+</r>
+<r><article key="journals/ftdb/DeshpandeIR07" mdate="2020-04-25">
+<author pid="d/AmolDeshpande">Amol Deshpande</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<title>Adaptive Query Processing.</title>
+<pages>1-140</pages>
+<year>2007</year>
+<volume>1</volume>
+<journal>Found. Trends Databases</journal>
+<number>1</number>
+<ee>https://doi.org/10.1561/1900000001</ee>
+<url>db/journals/ftdb/ftdb1.html#DeshpandeIR07</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/HollowayRSD07" mdate="2018-11-06">
+<author pid="45/2302">Allison L. Holloway</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="46/4288">Garret Swart</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<title>How to barter bits for chronons: compression and bandwidth trade offs for database scans.</title>
+<pages>389-400</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247525</ee>
+<url>db/conf/sigmod/sigmod2007.html#HollowayRSD07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/RamanQHNCYL07" mdate="2018-11-06">
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="q/LinQiao">Lin Qiao</author>
+<author pid="82/1911">Wei Han</author>
+<author pid="n/InderpalNarang">Inderpal Narang</author>
+<author pid="12/746">Ying-Lin Chen</author>
+<author pid="35/6288">Kou-Horng Yang</author>
+<author pid="83/1583">Fen-Ling Ling</author>
+<title>Lazy, adaptive rid-list intersection, and its application to index anding.</title>
+<pages>773-784</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247566</ee>
+<url>db/conf/sigmod/sigmod2007.html#RamanQHNCYL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/IvesDR07" mdate="2020-03-12">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="d/AmolDeshpande">Amol Deshpande</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<title>Adaptive query processing: Why, How, When, and What Next?</title>
+<pages>1426-1427</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/tutorials/p1426-deshpande.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#IvesDR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/EwenKMR06" mdate="2017-05-21">
+<author pid="84/6339">Stephan Ewen</author>
+<author pid="86/2924">Holger Kache</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<title>Progressive Query Optimization for Federated Queries.</title>
+<pages>847-864</pages>
+<year>2006</year>
+<crossref>conf/edbt/2006</crossref>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1007/11687238_50</ee>
+<url>db/conf/edbt/edbt2006.html#EwenKMR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icac/PatonRSN06" mdate="2021-08-09">
+<author pid="p/NWPaton">Norman W. Paton</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="46/4288">Garret Swart</author>
+<author pid="n/InderpalNarang">Inderpal Narang</author>
+<title>Autonomic Query Parallelization using Non-dedicated Computers: An Evaluation of Adaptivity Options.</title>
+<pages>221-230</pages>
+<year>2006</year>
+<booktitle>ICAC</booktitle>
+<ee>https://doi.org/10.1109/ICAC.2006.1662402</ee>
+<crossref>conf/icac/2006</crossref>
+<url>db/conf/icac/icac2006.html#PatonRSN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DeshpandeHR06" mdate="2018-11-06">
+<author pid="d/AmolDeshpande">Amol Deshpande</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<title>Adaptive query processing: why, how, when, what next.</title>
+<pages>806-807</pages>
+<year>2006</year>
+<crossref>conf/sigmod/2006</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1142473.1142603</ee>
+<url>db/conf/sigmod/sigmod2006.html#DeshpandeHR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/RamanS06" mdate="2020-03-12">
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="46/4288">Garret Swart</author>
+<title>How to Wring a Table Dry: Entropy Compression of Relations and Querying of Compressed Relations.</title>
+<pages>858-869</pages>
+<year>2006</year>
+<crossref>conf/vldb/2006</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1164201</ee>
+<ee type="oa">http://www.vldb.org/conf/2006/p858-raman.pdf</ee>
+<url>db/conf/vldb/vldb2006.html#RamanS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/KacheHMRE06" mdate="2020-03-12">
+<author pid="86/2924">Holger Kache</author>
+<author pid="62/2450">Wook-Shin Han</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/6339">Stephan Ewen</author>
+<title>POP/FED: Progressive Query Optimization for Federated Queries in DB2.</title>
+<pages>1175-1178</pages>
+<year>2006</year>
+<crossref>conf/vldb/2006</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1164237</ee>
+<ee type="oa">http://www.vldb.org/conf/2006/p1175-kache.pdf</ee>
+<url>db/conf/vldb/vldb2006.html#KacheHMRE06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LiBRHCN05" mdate="2023-03-23">
+<author pid="60/5978">Wen-Syan Li</author>
+<author pid="83/1738">Vishal S. Batra</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="82/1911">Wei Han</author>
+<author pid="c/KSelcukCandan">K. Sel&#231;uk Candan</author>
+<author pid="n/InderpalNarang">Inderpal Narang</author>
+<title>Load and Network Aware Query Routing for Information Integration.</title>
+<pages>927-938</pages>
+<year>2005</year>
+<crossref>conf/icde/2005</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2005.83</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2005.83</ee>
+<url>db/conf/icde/icde2005.html#LiBRHCN05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HaasKLMPRZ05" mdate="2018-11-06">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="49/5973">Mokhtar Kandil</author>
+<author pid="l/AlbertoLerner">Alberto Lerner</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="01/734">Ivan Popivanov</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="60/6783">Daniel C. Zilio</author>
+<title>Automated statistics collection in action.</title>
+<pages>933-935</pages>
+<year>2005</year>
+<crossref>conf/sigmod/2005</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1066157.1066293</ee>
+<url>db/conf/sigmod/sigmod2005.html#HaasKLMPRZ05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/RamanHN05" mdate="2020-03-12">
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="82/1911">Wei Han</author>
+<author pid="n/InderpalNarang">Inderpal Narang</author>
+<title>Parallel Querying with Non-Dedicated Computers.</title>
+<pages>61-72</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/archives/website/2005/program/paper/tue/p61-raman.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083603</ee>
+<url>db/conf/vldb/vldb2005.html#RamanHN05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/LiBRHN05" mdate="2020-03-12">
+<author pid="60/5978">Wen-Syan Li</author>
+<author pid="83/1738">Vishal S. Batra</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="82/1911">Wei Han</author>
+<author pid="n/InderpalNarang">Inderpal Narang</author>
+<title>QoS-based Data Access and Placement for Federated Information Systems.</title>
+<pages>1358-1362</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2005/papers/p1358-li.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083775</ee>
+<url>db/conf/vldb/vldb2005.html#LiBRHN05</url>
+</inproceedings>
+</r>
+<r><article key="journals/ibmsj/BourbonnaisGHHMNR04" mdate="2020-03-13">
+<author pid="92/4695">Serge Bourbonnais</author>
+<author pid="18/387">Vitthal M. Gogate</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="94/6153">Randy W. Horman</author>
+<author pid="24/3465">Susan Malaika</author>
+<author pid="n/InderpalNarang">Inderpal Narang</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<title>Towards an information infrastructure for the grid.</title>
+<pages>665-688</pages>
+<year>2004</year>
+<volume>43</volume>
+<journal>IBM Syst. J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1147/sj.434.0665</ee>
+<url>db/journals/ibmsj/ibmsj43.html#BourbonnaisGHHMNR04</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/MarklRSLP04" mdate="2018-11-06">
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="64/3571">David E. Simmen</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<title>Robust Query Processing through Progressive Optimization.</title>
+<year>2004</year>
+<crossref>conf/sigmod/2004</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2004.html#MarklRSLP04</url>
+<pages>659-670</pages>
+<ee>https://doi.org/10.1145/1007568.1007642</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/AboulnagaHLLMPR04" mdate="2023-09-30">
+<author orcid="0000-0001-6693-7099" pid="01/3996">Ashraf Aboulnaga</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="31/3001">Sam Lightstone</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="01/734">Ivan Popivanov</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<title>Automated Statistics Collection in DB2 UDB.</title>
+<year>2004</year>
+<crossref>conf/vldb/2004</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2004.html#AboulnagaHLLMPR04</url>
+<pages>1146-1157</pages>
+<ee>http://www.vldb.org/conf/2004/IND5P3.PDF</ee>
+<ee>https://doi.org/10.1016/B978-012088469-8.50100-5</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/RamanMSLP04" mdate="2019-06-07">
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="64/3571">David E. Simmen</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<title>Progressive Optimization in Action.</title>
+<pages>1337-1340</pages>
+<year>2004</year>
+<crossref>conf/vldb/2004</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://www.vldb.org/conf/2004/DEMP22.PDF</ee>
+<ee>https://doi.org/10.1016/B978-012088469-8.50141-8</ee>
+<url>db/conf/vldb/vldb2004.html#RamanMSLP04</url>
+</inproceedings>
+</r>
+<r><article key="journals/ibmsj/MarklLR03" mdate="2020-03-13">
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<title>LEO: An autonomic query optimizer for DB2.</title>
+<pages>98-106</pages>
+<year>2003</year>
+<volume>42</volume>
+<journal>IBM Syst. J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1147/sj.421.0098</ee>
+<url>db/journals/ibmsj/ibmsj42.html#MarklLR03</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/ChandrasekaranDFHHKMRRS03" mdate="2023-08-08">
+<author pid="62/2845">Sirish Chandrasekaran</author>
+<author pid="41/2531">Owen Cooper</author>
+<author pid="d/AmolDeshpande">Amol Deshpande</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="82/5918-1">Wei Hong 0001</author>
+<author pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="95/459">Frederick Reiss 0001</author>
+<author pid="s/MehulAShah">Mehul A. Shah</author>
+<title>TelegraphCQ: Continuous Dataflow Processing for an Uncertain World.</title>
+<year>2003</year>
+<crossref>conf/cidr/2003</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://www-db.cs.wisc.edu/cidr/cidr2003/program/p24.pdf</ee>
+<url>db/conf/cidr/cidr2003.html#ChandrasekaranDFHHKMRRS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/RamanDH03" mdate="2023-03-24">
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="d/AmolDeshpande">Amol Deshpande</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Using State Modules for Adaptive Query Processing.</title>
+<pages>353-364</pages>
+<ee>https://doi.org/10.1109/ICDE.2003.1260805</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2003.1260805</ee>
+<year>2003</year>
+<crossref>conf/icde/2003</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2003.html#RamanDH03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MaddenSHR02" mdate="2023-08-08">
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="s/MehulAShah">Mehul A. Shah</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<title>Continuously adaptive continuous queries over streams.</title>
+<pages>49-60</pages>
+<year>2002</year>
+<crossref>conf/sigmod/2002</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/564691.564698</ee>
+<url>db/conf/sigmod/sigmod2002.html#MaddenSHR02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/RamanH02" mdate="2018-11-06">
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Partial results for online query processing.</title>
+<pages>275-286</pages>
+<year>2002</year>
+<crossref>conf/sigmod/2002</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/564691.564723</ee>
+<url>db/conf/sigmod/sigmod2002.html#RamanH02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/RamanH01" mdate="2020-03-12">
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Potter's Wheel: An Interactive Data Cleaning System.</title>
+<year>2001</year>
+<crossref>conf/vldb/2001</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2001.html#RamanH01</url>
+<pages>381-390</pages>
+<ee type="oa">http://www.vldb.org/conf/2001/P381.pdf</ee>
+</inproceedings>
+</r>
+<r><article key="journals/datamine/HellersteinAR00" mdate="2017-05-20">
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="17/6696">Ron Avnur</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<title>Informix under CONTROL: Online Query Processing.</title>
+<pages>281-314</pages>
+<year>2000</year>
+<volume>4</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>4</number>
+<url>db/journals/datamine/datamine4.html#HellersteinAR00</url>
+<ee>https://doi.org/10.1023/A:1009835310546</ee>
+</article>
+</r>
+<r><article key="journals/debu/HellersteinFCDHMRS00" mdate="2024-04-04">
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="62/2845">Sirish Chandrasekaran</author>
+<author pid="d/AmolDeshpande">Amol Deshpande</author>
+<author pid="h/KirstenHildrum">Kris Hildrum</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="s/MehulAShah">Mehul A. Shah</author>
+<title>Adaptive Query Processing: Technology in Evolution.</title>
+<pages>7-18</pages>
+<year>2000</year>
+<ee type="oa">http://sites.computer.org/debull/A00june/A00JUN-CD.pdf</ee>
+<volume>23</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<url>db/journals/debu/debu23.html#HellersteinFCDHMRS00</url>
+</article>
+</r>
+<r><article key="journals/vldb/RamanRH00" mdate="2017-05-28">
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="61/601">Bhaskaran Raman</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Online dynamic reordering.</title>
+<pages>247-260</pages>
+<year>2000</year>
+<volume>9</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s007780000032</ee>
+<url>db/journals/vldb/vldb9.html#RamanRH00</url>
+</article>
+</r>
+<r><article key="journals/computer/HellersteinACHORRH99" mdate="2020-08-12">
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="17/6696">Ron Avnur</author>
+<author pid="53/3446">Andy Chou</author>
+<author pid="78/3835">Christian Hidber</author>
+<author pid="o/ChristopherOlston">Chris Olston</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="32/5664">Tali Roth</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>Interactive data Analysis: The Control Project.</title>
+<pages>51-59</pages>
+<year>1999</year>
+<volume>32</volume>
+<journal>Computer</journal>
+<number>8</number>
+<url>db/journals/computer/computer32.html#HellersteinACHORRH99</url>
+<ee>https://doi.org/10.1109/2.781635</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/2.781635</ee>
+</article>
+</r>
+<r><inproceedings key="conf/dmkd/RamanCH99" mdate="2017-02-08">
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="53/3446">Andy Chou</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Scalable Spreadsheets for Interactive Data Analysis.</title>
+<year>1999</year>
+<crossref>conf/dmkd/1999</crossref>
+<booktitle>1999 ACM SIGMOD Workshop on Research Issues in Data Mining and Knowledge Discovery</booktitle>
+<ee>http://www.almaden.ibm.com/cs/dmkd/papers/raman.ps</ee>
+<url>db/conf/dmkd/dmkd1999.html#RamanCH99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/Raman99" mdate="2018-11-06">
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<title>Locality Preserving Dictionaries: Theory and Application to Clustering in Databases.</title>
+<pages>337-345</pages>
+<year>1999</year>
+<booktitle>PODS</booktitle>
+<cdrom>DiSC2_1/out/papers/pods/localitypreservvi.pdf</cdrom>
+<url>db/conf/pods/pods99.html#Raman99</url>
+<crossref>conf/pods/99</crossref>
+<ee>https://doi.org/10.1145/303976.304009</ee>
+<cite label="BBK98">conf/sigmod/BerchtoldBK98</cite>
+<cite label="CLR90">...</cite>
+<cite label="DNO98">...</cite>
+<cite label="GG97">journals/sigmod/GrayG97</cite>
+<cite label="GK97">...</cite>
+<cite label="HS66">journals/jacm/HennieS66</cite>
+<cite label="IMRV97">conf/stoc/IndykMRV97</cite>
+<cite label="Jag97">journals/ipl/Jagadish97</cite>
+<cite label="JS94">conf/pods/JohnsonS89</cite>
+<cite label="LS96">conf/stoc/LinialS96</cite>
+<cite label="PK98">...</cite>
+<cite label="RvIG98">...</cite>
+<cite label="Yao78">journals/acta/Yao78</cite>
+<cite label="ZS96">conf/sigmod/ZouS96</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/RamanRH99" mdate="2020-03-12">
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="61/601">Bhaskaran Raman</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Online Dynamic Reordering for Interactive Data Processing.</title>
+<pages>709-720</pages>
+<year>1999</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb99.html#RamanRH99</url>
+<crossref>conf/vldb/99</crossref>
+<ee type="oa">http://www.vldb.org/conf/1999/P66.pdf</ee>
+<cite label="A+96">conf/icde/AikenCSW96</cite>
+<cite label="A+97">conf/sigmod/AcharyaFZ97</cite>
+<cite label="AZ96">journals/vldb/AntoshenkovZ96</cite>
+<cite label="Bat79">...</cite>
+<cite label="Bat90">...</cite>
+<cite label="BM85">journals/cacm/BlairM85</cite>
+<cite label="C+98">conf/sigmod/ChaudhuriMN98</cite>
+<cite label="CD97">conf/sigmod/ChaudhuriD97</cite>
+<cite label="CK97">conf/sigmod/CareyK97</cite>
+<cite label="Exc">...</cite>
+<cite label="G+96">conf/icde/GrayBLP96</cite>
+<cite label="GM98">conf/sigmod/GibbonsM98</cite>
+<cite label="Gra93">journals/csur/Graefe93</cite>
+<cite label="H+">...</cite>
+<cite label="Haa97">conf/ssdbm/Haas97</cite>
+<cite label="HH99">conf/sigmod/HaasH99</cite>
+<cite label="H+97">conf/sigmod/HellersteinHW97</cite>
+<cite label="H+98">journals/computer/HellersteinACHORRH99</cite>
+<cite label="HN96">conf/sigmod/HellersteinN96</cite>
+<cite label="OJ93">...</cite>
+<cite label="S+96">conf/sigmod/SeshadriHPLRSSS96</cite>
+<cite label="SS">...</cite>
+<cite label="Sto89">journals/sigmod/Stonebraker89</cite>
+<cite label="vR75">books/bu/Rijsbergen79</cite>
+<cite label="Z+">conf/sigmod/ZhaoDN97</cite>
+</inproceedings>
+</r>
+<r><article key="journals/cn/MohanMV98" mdate="2020-02-19">
+<author pid="m/GMohan">Gurusamy Mohan</author>
+<author pid="78/4000">C. Siva Ram Murthy</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<title>Permutation Routing in Wavelength-Routed Wrapped-Around Shuffle Networks Using Fewer Wavelengths.</title>
+<pages>2349-2358</pages>
+<year>1998</year>
+<volume>30</volume>
+<journal>Comput. Networks</journal>
+<number>24</number>
+<url>db/journals/cn/cn30.html#MohanMV98</url>
+<ee>https://doi.org/10.1016/S0169-7552(98)00257-8</ee>
+<ee>https://www.wikidata.org/entity/Q56956786</ee>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/AvnurHLORRRW98" mdate="2021-03-11">
+<author pid="17/6696">Ron Avnur</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="80/3551">Bruce Lo</author>
+<author pid="o/ChristopherOlston">Chris Olston</author>
+<author pid="61/601">Bhaskaran Raman</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="32/5664">Tali Roth</author>
+<author pid="34/6809">Kirk Wylie</author>
+<title>CONTROL: Continuous Output and Navigation Technology with Refinement On-Line.</title>
+<pages>567-569</pages>
+<year>1998</year>
+<crossref>conf/sigmod/98</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod98.html#AvnurHLORRRW98</url>
+<ee>https://doi.org/10.1145/276304.276383</ee>
+<ee>https://doi.org/10.1145/276305.276383</ee>
+<cdrom>SIGMOD98/P567.PDF</cdrom>
+<cite>...</cite>
+<cite>journals/debu/Hellerstein97</cite>
+<cite>conf/sigmod/HellersteinHW97</cite>
+</inproceedings>
+</r>
+<coauthors n="154" nc="2">
+<co c="0"><na f="a/Aboulnaga:Ashraf" pid="01/3996">Ashraf Aboulnaga</na></co>
+<co c="0"><na f="a/Agiwal:Ankur" pid="09/5497">Ankur Agiwal</na></co>
+<co c="0" n="2"><na f="a/Agrawal:Divyakant" pid="a/DivyakantAgrawal">Divyakant Agrawal</na><na>Divy Agrawal</na></co>
+<co c="0"><na f="a/Attaluri:Gopi_K=" pid="24/2608">Gopi K. Attaluri</na></co>
+<co c="0"><na f="a/Avnur:Ron" pid="17/6696">Ron Avnur</na></co>
+<co c="0" n="2"><na f="b/Barber:Ron" pid="33/3527">Ron Barber</na><na>Ronald Barber</na></co>
+<co c="0"><na f="b/Batra:Vishal_S=" pid="83/1738">Vishal S. Batra</na></co>
+<co c="0"><na f="b/Beier:Felix" pid="55/9320">Felix Beier</na></co>
+<co c="0"><na f="b/Bendel:Peter" pid="17/11155">Peter Bendel</na></co>
+<co c="0"><na f="b/Bourbonnais:Serge" pid="92/4695">Serge Bourbonnais</na></co>
+<co c="0"><na f="c/Candan:K=_Sel=ccedil=uk" pid="c/KSelcukCandan">K. Sel&#231;uk Candan</na></co>
+<co c="0"><na f="c/Chainani:Naresh" pid="135/4688">Naresh Chainani</na></co>
+<co c="0"><na f="c/Chambliss:David_D=" pid="89/2753">David D. Chambliss</na></co>
+<co c="0"><na f="c/Chandrasekaran:Sirish" pid="62/2845">Sirish Chandrasekaran</na></co>
+<co c="0"><na f="c/Ch=aacute=vez:Jorge_Buenabad" pid="03/821">Jorge Buenabad Ch&#225;vez</na></co>
+<co c="0"><na f="c/Chen:Jim" pid="60/5999">Jim Chen</na></co>
+<co c="0"><na f="c/Chen:Mengsong" pid="86/6574">Mengsong Chen</na></co>
+<co c="0"><na f="c/Chen:Min" pid="50/6996">Min Chen</na></co>
+<co c="0"><na f="c/Chen:Ying=Lin" pid="12/746">Ying-Lin Chen</na></co>
+<co c="0"><na f="c/Chou:Andy" pid="53/3446">Andy Chou</na></co>
+<co c="0"><na f="c/Cooper:Owen" pid="41/2531">Owen Cooper</na></co>
+<co c="0"><na f="c/Czech:Marco" pid="61/9320">Marco Czech</na></co>
+<co c="0"><na f="d/Dai:Ming" pid="61/6981">Ming Dai</na></co>
+<co c="0"><na f="d/Deshpande:Amol" pid="d/AmolDeshpande">Amol Deshpande</na></co>
+<co c="0"><na f="d/DeWitt:David_J=" pid="d/DJDeWitt">David J. DeWitt</na></co>
+<co c="0"><na f="d/Dialani:Vijay" pid="60/6249">Vijay Dialani</na></co>
+<co c="0"><na f="d/Do:Thanh" pid="03/6177">Thanh Do</na></co>
+<co c="0"><na f="d/Draese:Oliver" pid="89/9320">Oliver Draese</na></co>
+<co c="0"><na f="e/Ewen:Stephan" pid="84/6339">Stephan Ewen</na></co>
+<co c="0"><na f="f/Fernandes:Alvaro_A=_A=" pid="f/AAAFernandes">Alvaro A. A. Fernandes</na></co>
+<co c="0"><na f="f/Franklin:Michael_J=" pid="f/MJFranklin">Michael J. Franklin</na></co>
+<co c="0"><na f="f/Fuh:Gene" pid="03/3841">Gene Fuh</na></co>
+<co c="0"><na f="g/Gao:Haoyu" pid="97/11269">Haoyu Gao</na></co>
+<co c="0"><na f="g/Garcia=Arellano:Christian" pid="96/122">Christian Garcia-Arellano</na></co>
+<co c="0"><na f="g/Geng:Haoyan" pid="138/8037">Haoyan Geng</na></co>
+<co c="0"><na f="g/Gogate:Vitthal_M=" pid="18/387">Vitthal M. Gogate</na></co>
+<co c="0"><na f="g/Graefe:Goetz" pid="g/GoetzGraefe">Goetz Graefe</na></co>
+<co c="0"><na f="g/Grosman:Ronen" pid="192/4573">Ronen Grosman</na></co>
+<co c="0"><na f="g/Grover:Raman" pid="99/6359">Raman Grover</na></co>
+<co c="0"><na f="h/Haas:Laura_M=" pid="h/LauraMHaas">Laura M. Haas</na></co>
+<co c="0"><na f="h/Haas:Peter_J=" pid="h/PeterJHaas">Peter J. Haas</na></co>
+<co c="0"><na f="h/Hacig=uuml=m=uuml=s:Hakan" pid="59/2465">Hakan Hacig&#252;m&#252;s</na></co>
+<co c="0"><na f="h/Han:Wei" pid="82/1911">Wei Han</na></co>
+<co c="0"><na f="h/Han:Wook=Shin" pid="62/2450">Wook-Shin Han</na></co>
+<co c="0"><na f="h/Hellerstein:Joseph_M=" pid="h/JosephMHellerstein">Joseph M. Hellerstein</na></co>
+<co c="0"><na f="h/Hidber:Christian" pid="78/3835">Christian Hidber</na></co>
+<co c="0" n="2"><na f="h/Hildrum:Kirsten" pid="h/KirstenHildrum">Kirsten Hildrum</na><na>Kris Hildrum</na></co>
+<co c="0"><na f="h/Ho:Frederick" pid="05/11154">Frederick Ho</na></co>
+<co c="0"><na f="h/Holloway:Allison_L=" pid="45/2302">Allison L. Holloway</na></co>
+<co c="0"><na f="h/Hong_0001:Wei" pid="82/5918-1">Wei Hong 0001</na></co>
+<co c="0"><na f="h/Horman:Randy_W=" pid="94/6153">Randy W. Horman</na></co>
+<co c="0"><na f="h/Hrle:Namik" pid="22/1571">Namik Hrle</na></co>
+<co c="0"><na f="h/Huang:Bo" pid="95/6229">Bo Huang</na></co>
+<co c="0"><na f="h/Huang:Yanlai" pid="300/4302">Yanlai Huang</na></co>
+<co c="0"><na f="h/Huras:Matt" pid="181/5812">Matt Huras</na></co>
+<co c="0"><na f="i/Idreos:Stratos" pid="i/StratosIdreos">Stratos Idreos</na></co>
+<co c="0"><na f="i/Ives:Zachary_G=" pid="i/ZacharyGIves">Zachary G. Ives</na></co>
+<co c="0"><na f="j/Johnson_0001:Ryan" pid="98/3414-1">Ryan Johnson 0001</na></co>
+<co c="0"><na f="k/Kache:Holger" pid="86/2924">Holger Kache</na></co>
+<co c="0"><na f="k/Kalmuk:David" pid="135/4645">David Kalmuk</na></co>
+<co c="0"><na f="k/Kandil:Mokhtar" pid="49/5973">Mokhtar Kandil</na></co>
+<co c="0"><na f="k/Kim_0002:Min=Soo" pid="k/MinSooKim2">Min-Soo Kim 0002</na></co>
+<co c="0"><na f="k/Koeth:Oliver" pid="04/9919">Oliver Koeth</na></co>
+<co c="0"><na f="k/Kosalge:Sujata" pid="300/4622">Sujata Kosalge</na></co>
+<co c="0"><na f="k/Kossmann:Donald" pid="k/DonaldKossmann">Donald Kossmann</na></co>
+<co c="0"><na f="k/Krauthgamer:Robert" pid="k/RobertKrauthgamer">Robert Krauthgamer</na></co>
+<co c="0"><na f="k/Krishnamurthy:Sailesh" pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</na></co>
+<co c="0" n="2"><na f="k/KulandaiSamy:Vincent" pid="135/4711">Vincent KulandaiSamy</na><na>Vincent Kulandai Samy</na></co>
+<co c="0"><na f="l/Lai:Kevin" pid="83/713">Kevin Lai</na></co>
+<co c="0"><na f="l/Lee_0001:Jae=Gil" pid="28/3904">Jae-Gil Lee 0001</na></co>
+<co c="0"><na f="l/Leenstra:Jens" pid="42/5193">Jens Leenstra</na></co>
+<co c="0"><na f="l/Lerner:Alberto" pid="l/AlbertoLerner">Alberto Lerner</na></co>
+<co c="0"><na f="l/Li:Adam" pid="176/3454">Adam Li</na></co>
+<co c="0" n="2"><na f="l/Li:Tianchao" pid="07/4483">Tianchao Li</na><na>Tianchao Tim Li</na></co>
+<co c="0"><na f="l/Li:Wen=Syan" pid="60/5978">Wen-Syan Li</na></co>
+<co c="0"><na f="l/Li:Yinan" pid="49/612">Yinan Li</na></co>
+<co c="0"><na f="l/Liang:Jianyi" pid="129/8164">Jianyi Liang</na></co>
+<co c="0"><na f="l/Lightstone:Sam" pid="31/3001">Sam Lightstone</na></co>
+<co c="0"><na f="l/Lin:Tao" pid="64/4492">Tao Lin</na></co>
+<co c="0"><na f="l/Ling:Fen=Ling" pid="83/1583">Fen-Ling Ling</na></co>
+<co c="0"><na f="l/Liu:Li" pid="33/4528">Li Liu</na></co>
+<co c="0"><na f="l/Liu:Shaorong" pid="57/6681">Shaorong Liu</na></co>
+<co c="0"><na f="l/Liu:Yao" pid="64/424">Yao Liu</na></co>
+<co c="0"><na f="l/Lo:Bruce" pid="80/3551">Bruce Lo</na></co>
+<co c="0"><na f="l/Lohman:Guy_M=" pid="21/2457">Guy M. Lohman</na></co>
+<co c="0"><na f="l/Luo_0002:Chen" pid="46/4719-2">Chen Luo 0002</na></co>
+<co c="0"><na f="m/Madden_0001:Samuel" pid="m/SamuelMadden">Samuel Madden 0001</na></co>
+<co c="0"><na f="m/Malaika:Susan" pid="24/3465">Susan Malaika</na></co>
+<co c="0"><na f="m/Malkemus:Tim" pid="135/4723">Tim Malkemus</na></co>
+<co c="0"><na f="m/Manoharan:Gokul_Nath_Babu" pid="181/5860">Gokul Nath Babu Manoharan</na></co>
+<co c="0"><na f="m/Mao:Xi" pid="07/10342">Xi Mao</na></co>
+<co c="0"><na f="m/Markl:Volker" pid="m/VMarkl">Volker Markl</na></co>
+<co c="0"><na f="m/Mehta:Aranyak" pid="23/6337">Aranyak Mehta</na></co>
+<co c="0"><na f="m/Meng:Maya" pid="300/4364">Maya Meng</na></co>
+<co c="0"><na f="m/Mishra:Prashant" pid="164/5082">Prashant Mishra</na></co>
+<co c="0" n="2"><na f="m/Mohan_0001:C=" pid="m/CMohan">C. Mohan 0001</na><na>Chandrasekaran Mohan</na></co>
+<co c="1"><na f="m/Mohan:Gurusamy" pid="m/GMohan">Gurusamy Mohan</na></co>
+<co c="0"><na f="m/Morfonios:Konstantinos" pid="m/KonstantinosMorfonios">Konstantinos Morfonios</na></co>
+<co c="0"><na f="m/M=uuml=ller_0001:Ren=eacute=" pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</na></co>
+<co c="1"><na f="m/Murthy:C=_Siva_Ram" pid="78/4000">C. Siva Ram Murthy</na></co>
+<co c="0"><na f="m/Murthy:Keshava" pid="37/276">Keshava Murthy</na></co>
+<co c="0"><na f="n/Narang:Inderpal" pid="n/InderpalNarang">Inderpal Narang</na></co>
+<co c="0"><na f="n/Naughton:Jeffrey_F=" pid="n/JeffreyFNaughton">Jeffrey F. Naughton</na></co>
+<co c="0" n="2"><na f="o/Olston:Christopher" pid="o/ChristopherOlston">Christopher Olston</na><na>Chris Olston</na></co>
+<co c="0"><na f="=/=Ouml=zcan:Fatma" pid="o/FatmaOzcan">Fatma &#214;zcan</na></co>
+<co c="0"><na f="p/Pandey_0005:Prashant" pid="64/6001-5">Prashant Pandey 0005</na></co>
+<co c="0"><na f="p/Pandis:Ippokratis" pid="p/IppokratisPandis">Ippokratis Pandis</na></co>
+<co c="0"><na f="p/Patel:Jay" pid="65/3147">Jay Patel</na></co>
+<co c="0"><na f="p/Paton:Norman_W=" pid="p/NWPaton">Norman W. Paton</na></co>
+<co c="0"><na f="p/Pirahesh:Hamid" pid="p/HamidPirahesh">Hamid Pirahesh</na></co>
+<co c="0"><na f="p/Popivanov:Ivan" pid="01/734">Ivan Popivanov</na></co>
+<co c="0"><na f="q/Qiao:Lin" pid="q/LinQiao">Lin Qiao</na></co>
+<co c="0"><na f="r/Raman:Bhaskaran" pid="61/601">Bhaskaran Raman</na></co>
+<co c="0"><na f="r/Reiss_0001:Frederick" pid="95/459">Frederick Reiss 0001</na></co>
+<co c="0"><na f="r/Roth:Tali" pid="32/5664">Tali Roth</na></co>
+<co c="0"><na f="r/Roy_0001:Indrajit" pid="r/IndrajitRoy">Indrajit Roy 0001</na></co>
+<co c="0"><na f="r/Roy:Sourashis" pid="05/6852">Sourashis Roy</na></co>
+<co c="0"><na f="r/Ruddy:James_A=" pid="82/840">James A. Ruddy</na></co>
+<co c="0"><na f="r/Rudra:Atri" pid="04/4980">Atri Rudra</na></co>
+<co c="0"><na f="s/Sankaranarayanan:Jagan" pid="57/2958">Jagan Sankaranarayanan</na></co>
+<co c="0"><na f="s/Schiefer:Berni" pid="48/5807">Berni Schiefer</na></co>
+<co c="0"><na f="s/Shah:Mehul_A=" pid="s/MehulAShah">Mehul A. Shah</na></co>
+<co c="0"><na f="s/Sharpe:David" pid="53/26">David Sharpe</na></co>
+<co c="0"><na f="s/Shishodia:Mayank_Singh" pid="125/1222">Mayank Singh Shishodia</na></co>
+<co c="0"><na f="s/Sidle:Richard" pid="84/3614">Richard Sidle</na></co>
+<co c="0"><na f="s/Sidorkin:Oleg" pid="181/5779">Oleg Sidorkin</na></co>
+<co c="0"><na f="s/Simmen:David_E=" pid="64/3571">David E. Simmen</na></co>
+<co c="0"><na f="s/Spilchen:Matt" pid="192/4569">Matt Spilchen</na></co>
+<co c="0"><na f="s/Sr:Rajesh" pid="300/4456">Rajesh Sr</na></co>
+<co c="0"><na f="s/Stolze:Knut" pid="s/KnutStolze">Knut Stolze</na></co>
+<co c="0"><na f="s/Storm:Adam_J=" pid="16/5412">Adam J. Storm</na></co>
+<co c="0"><na f="s/Sun:Tianhang" pid="215/5537">Tianhang Sun</na></co>
+<co c="0"><na f="s/Swart:Garret" pid="46/4288">Garret Swart</na></co>
+<co c="0"><na f="s/Szabo:Sandor" pid="16/6170">Sandor Szabo</na></co>
+<co c="0"><na f="t/Tang:Justin" pid="26/8239">Justin Tang</na></co>
+<co c="0"><na f="t/Tatemura:Jun=ichi" pid="84/284">Jun'ichi Tatemura</na></co>
+<co c="0"><na f="t/Tian:Yuanyuan" pid="27/3375">Yuanyuan Tian</na></co>
+<co c="0"><na f="t/T=ouml=z=uuml=n:Pinar" pid="86/9726">Pinar T&#246;z&#252;n</na></co>
+<co c="0"><na f="t/Trehan:Sagar" pid="165/3098">Sagar Trehan</na></co>
+<co c="0"><na f="v/Vadali:Ramkumar" pid="125/2331">Ramkumar Vadali</na></co>
+<co c="0"><na f="v/Venkatasubramanian:Prasanna" pid="300/4338">Prasanna Venkatasubramanian</na></co>
+<co c="0"><na f="w/Wilcke:Winfried_W=" pid="04/5188">Winfried W. Wilcke</na></co>
+<co c="0"><na f="w/Wu:Yingjun" pid="07/11533">Yingjun Wu</na></co>
+<co c="0"><na f="w/Wylie:Kirk" pid="34/6809">Kirk Wylie</na></co>
+<co c="0"><na f="y/Yang:Kou=Horng" pid="35/6288">Kou-Horng Yang</na></co>
+<co c="0"><na f="y/Yellin:Daniel_M=" pid="53/3223">Daniel M. Yellin</na></co>
+<co c="0"><na f="z/Zhang:Hao" pid="55/2270">Hao Zhang</na></co>
+<co c="0"><na f="z/Zhang:Joey" pid="300/4097">Joey Zhang</na></co>
+<co c="0"><na f="z/Zhang:Kefei" pid="88/1075">Kefei Zhang</na></co>
+<co c="0"><na f="z/Zhang:Liping" pid="48/6735">Liping Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yupu" pid="33/7992">Yupu Zhang</na></co>
+<co c="0"><na f="z/Zhuang:Zeleng" pid="142/2235">Zeleng Zhuang</na></co>
+<co c="0"><na f="z/Zilio:Daniel_C=" pid="60/6783">Daniel C. Zilio</na></co>
+<co c="0"><na f="z/Zou_0002:Tao" pid="61/6876-2">Tao Zou 0002</na></co>
+</coauthors>
+</dblpperson>

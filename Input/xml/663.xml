@@ -1,0 +1,2727 @@
+<dblpperson name="Peter R. Pietzuch" pid="45/4887" n="159">
+<person key="homepages/45/4887" mdate="2023-02-18">
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="45/4887">Peter Robert Pietzuch</author>
+<url>http://www.doc.ic.ac.uk/~prp/</url>
+<url>https://scholar.google.com/citations?user=vYcHYoYAAAAJ</url>
+<url>https://dl.acm.org/profile/81100419671</url>
+<url>https://orcid.org/0000-0002-6963-5640</url>
+<note type="affiliation">Imperial College London, UK</note>
+<note type="affiliation" label="PhD 2004">University of Cambridge, UK</note>
+</person>
+<r><inproceedings key="conf/sesame/SegarraFBP24" mdate="2024-04-01">
+<author orcid="0000-0003-3455-7563" pid="242/3155">Carlos Segarra</author>
+<author orcid="0009-0006-3655-2378" pid="331/8504">Tobin Feldman-Fitzthum</author>
+<author orcid="0009-0002-1433-9104" pid="95/7975">Daniele Buono</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>Serverless Confidential Containers: Challenges and Opportunities.</title>
+<pages>32-40</pages>
+<year>2024</year>
+<booktitle>SESAME@EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3642977.3652097</ee>
+<crossref>conf/sesame/2024</crossref>
+<url>db/conf/sesame/sesame2024.html#SegarraFBP24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/osdi/SartakovVGESP23" mdate="2023-07-15">
+<author pid="151/4092">Vasily A. Sartakov</author>
+<author pid="44/1754">Llu&#237;s Vilanova</author>
+<author pid="228/3960">Munir Geden</author>
+<author pid="55/684">David M. Eyers</author>
+<author pid="76/125">Takahiro Shinagawa</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>ORC: Increasing Cloud Memory Density via Object Reuse with Capabilities.</title>
+<pages>573-587</pages>
+<year>2023</year>
+<booktitle>OSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/osdi23/presentation/sartakov</ee>
+<crossref>conf/osdi/2023</crossref>
+<url>db/conf/osdi/osdi2023.html#SartakovVGESP23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/BergmanSSPV23" mdate="2023-07-15">
+<author pid="184/8323">Shai Bergman</author>
+<author pid="94/2996">Mark Silberstein</author>
+<author pid="76/125">Takahiro Shinagawa</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="44/1754">Llu&#237;s Vilanova</author>
+<title>Translation Pass-Through for Near-Native Paging Performance in VMs.</title>
+<pages>753-768</pages>
+<year>2023</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/atc23/presentation/bergman</ee>
+<crossref>conf/usenix/2023</crossref>
+<url>db/conf/usenix/usenix2023.html#BergmanSSPV23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/Zhu0CCCS0PC23" mdate="2023-07-15">
+<author pid="135/5671">Huanzhou Zhu</author>
+<author pid="94/4810-19">Bo Zhao 0019</author>
+<author pid="67/6383">Gang Chen</author>
+<author pid="74/5429">Weifeng Chen</author>
+<author pid="204/2235">Yijie Chen</author>
+<author pid="09/6041">Liang Shi</author>
+<author pid="170/1496-1">Yaodong Yang 0001</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="09/3666">Lei Chen</author>
+<title>MSRL: Distributed Reinforcement Learning with Dataflow Fragments.</title>
+<pages>977-993</pages>
+<year>2023</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/atc23/presentation/zhu-huanzhou</ee>
+<crossref>conf/usenix/2023</crossref>
+<url>db/conf/usenix/usenix2023.html#Zhu0CCCS0PC23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-11358" mdate="2023-02-24">
+<author pid="245/9052">Simon Shillaker</author>
+<author pid="242/3155">Carlos Segarra</author>
+<author pid="340/7802">Eleftheria Mappoura</author>
+<author pid="340/7997">Mayeul Fournial</author>
+<author pid="44/1754">Llu&#237;s Vilanova</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Faabric: Fine-Grained Distribution of Scientific Workloads in the Cloud.</title>
+<year>2023</year>
+<volume>abs/2302.11358</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.11358</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-11358</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-10863" mdate="2023-11-12">
+<author pid="247/8284">Zeyuan Tan</author>
+<author pid="310/3660">Xiulong Yuan</author>
+<author pid="263/2256">Congjie He</author>
+<author pid="243/1127">Man-Kit Sit</author>
+<author pid="35/1964">Guo Li</author>
+<author orcid="0000-0002-9726-3397" pid="239/4537">Xiaoze Liu</author>
+<author pid="199/8336">Baole Ai</author>
+<author pid="80/1651-2">Kai Zeng 0002</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="81/10470">Luo Mai</author>
+<title>Quiver: Supporting GPUs for Low-Latency, High-Throughput GNN Serving with Workload Awareness.</title>
+<year>2023</year>
+<volume>abs/2305.10863</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.10863</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-10863</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-05181" mdate="2024-01-04">
+<author pid="270/9067">Marcel Wagenl&#228;nder</author>
+<author pid="35/1964">Guo Li</author>
+<author pid="94/4810-19">Bo Zhao 0019</author>
+<author pid="81/10470">Luo Mai</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>TENPLEX: Changing Resources of Deep Learning Jobs using Parallelizable Tensor Collections.</title>
+<year>2023</year>
+<volume>abs/2312.05181</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.05181</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-05181</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-11796" mdate="2024-01-16">
+<author pid="144/6258">Shujie Cui</author>
+<author pid="248/5938-3">Haohua Li 0003</author>
+<author pid="11/4067">Yuanhong Li</author>
+<author pid="36/5594">Zhi Zhang</author>
+<author pid="44/1754">Llu&#237;s Vilanova</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>QuanShield: Protecting against Side-Channels Attacks using Self-Destructing Enclaves.</title>
+<year>2023</year>
+<volume>abs/2312.11796</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.11796</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-11796</url>
+</article>
+</r>
+<r><inproceedings key="conf/nsdi/ShamisPC0FACCDK22" mdate="2022-07-06">
+<author pid="168/8978">Alex Shamis</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="305/7661">Burcu Canakci</author>
+<author pid="c/MiguelCastro">Miguel Castro 0001</author>
+<author pid="f/CedricFournet">C&#233;dric Fournet</author>
+<author pid="293/9402">Edward Ashton</author>
+<author pid="256/9362">Amaury Chamayou</author>
+<author pid="136/0910">Sylvan Clebsch</author>
+<author pid="121/1113">Antoine Delignat-Lavaud</author>
+<author pid="293/8000">Matthew Kerner</author>
+<author pid="293/8636">Julien Maffre</author>
+<author pid="176/4974">Olga Vrousgou</author>
+<author pid="17/3100">Christoph M. Wintersteiger</author>
+<author pid="35/6770">Manuel Costa</author>
+<author pid="30/4468">Mark Russinovich</author>
+<title>IA-CCF: Individual Accountability for Permissioned Ledgers.</title>
+<pages>467-491</pages>
+<year>2022</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi22/presentation/shamis</ee>
+<crossref>conf/nsdi/2022</crossref>
+<url>db/conf/nsdi/nsdi2022.html#ShamisPC0FACCDK22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/osdi/SartakovVESP22" mdate="2022-10-11">
+<author pid="151/4092">Vasily A. Sartakov</author>
+<author pid="44/1754">Llu&#237;s Vilanova</author>
+<author pid="55/684">David M. Eyers</author>
+<author pid="76/125">Takahiro Shinagawa</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>CAP-VMs: Capability-Based Isolation and Sharing in the Cloud.</title>
+<pages>597-612</pages>
+<year>2022</year>
+<booktitle>OSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/osdi22/presentation/sartakov</ee>
+<crossref>conf/osdi/2022</crossref>
+<url>db/conf/osdi/osdi2022.html#SartakovVESP22</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/22/LopezASPBVSTFP22" mdate="2022-12-07">
+<author pid="63/4811">Pedro Garc&#237;a L&#243;pez</author>
+<author pid="69/1023">Marc S&#225;nchez Artigas</author>
+<author pid="245/9052">Simon Shillaker</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="59/4355">David Breitgand</author>
+<author pid="116/9589">Gil Vernik</author>
+<author orcid="0000-0002-0573-2572" pid="09/5760">Pierre Sutra</author>
+<author pid="245/9010">Tristan Tarrant</author>
+<author pid="89/10073">Ana Juan Ferrer</author>
+<author pid="33/4670">Gerard Par&#237;s</author>
+<title>Trade-Offs and Challenges of Serverless Data Analytics.</title>
+<pages>41-61</pages>
+<year>2022</year>
+<booktitle>Technologies and Applications for Big Data Value</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78307-5_3</ee>
+<crossref>books/sp/22/CA2022</crossref>
+<url>db/books/collections/CA2022.html#LopezASPBVSTFP22</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2202-05732" mdate="2022-02-18">
+<author pid="151/4092">Vasily A. Sartakov</author>
+<author pid="44/1754">Llu&#237;s Vilanova</author>
+<author pid="55/684">David M. Eyers</author>
+<author pid="76/125">Takahiro Shinagawa</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>CAP-VMs: Capability-Based Isolation and Sharing for Microservices.</title>
+<year>2022</year>
+<volume>abs/2202.05732</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2202.05732</ee>
+<url>db/journals/corr/corr2202.html#abs-2202-05732</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-15359" mdate="2022-06-01">
+<author pid="205/8037">Yoshimichi Nakatsuka</author>
+<author pid="205/2579">Ercan Ozturk</author>
+<author pid="168/8978">Alex Shamis</author>
+<author pid="30/9784">Andrew Paverd</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>CTR: Checkpoint, Transfer, and Restore for Secure Enclaves.</title>
+<year>2022</year>
+<volume>abs/2205.15359</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.15359</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-15359</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-15757" mdate="2022-07-06">
+<author pid="168/8978">Alex Shamis</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="121/1113">Antoine Delignat-Lavaud</author>
+<author pid="30/9784">Andrew Paverd</author>
+<author pid="35/6770">Manuel Costa</author>
+<title>Dropbear: Machine Learning Marketplaces made Trustworthy with Byzantine Model Agreement.</title>
+<year>2022</year>
+<volume>abs/2205.15757</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.15757</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-15757</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-00882" mdate="2023-02-10">
+<author pid="135/5671">Huanzhou Zhu</author>
+<author orcid="0000-0002-0768-3444" pid="94/4810-19">Bo Zhao 0019</author>
+<author pid="67/6383">Gang Chen</author>
+<author pid="74/5429">Weifeng Chen</author>
+<author pid="204/2235">Yijie Chen</author>
+<author pid="09/6041">Liang Shi</author>
+<author pid="170/1496-1">Yaodong Yang 0001</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="09/3666">Lei Chen</author>
+<title>MSRL: Distributed Reinforcement Learning with Dataflow Fragments.</title>
+<year>2022</year>
+<volume>abs/2210.00882</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.00882</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-00882</url>
+</article>
+</r>
+<r><article key="journals/pvldb/TheodorakisKPP21" mdate="2022-04-21">
+<author pid="227/0831">Georgios Theodorakis</author>
+<author pid="206/8057">Fotios Kounelis</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="08/3969">Holger Pirk</author>
+<title>Scabbard: Single-Node Fault-Tolerant Stream Processing.</title>
+<pages>361-374</pages>
+<year>2021</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol15/p361-theodorakis.pdf</ee>
+<ee>https://doi.org/10.14778/3489496.3489515</ee>
+<url>db/journals/pvldb/pvldb15.html#TheodorakisKPP21</url>
+</article>
+</r>
+<r><inproceedings key="conf/asplos/SartakovVP21" mdate="2022-01-08">
+<author orcid="0000-0003-1894-2621" pid="151/4092">Vasily A. Sartakov</author>
+<author orcid="0000-0002-1452-840X" pid="44/1754">Llu&#237;s Vilanova</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>CubicleOS: a library OS with software componentisation for practical isolation.</title>
+<pages>546-558</pages>
+<year>2021</year>
+<booktitle>ASPLOS</booktitle>
+<ee>https://doi.org/10.1145/3445814.3446731</ee>
+<crossref>conf/asplos/2021</crossref>
+<url>db/conf/asplos/asplos2021.html#SartakovVP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurosys/ThalheimUPBP21" mdate="2022-10-02">
+<author pid="180/5598">J&#246;rg Thalheim</author>
+<author orcid="0000-0003-0375-2235" pid="290/8217">Harshavardhan Unnibhavi</author>
+<author pid="161/6100">Christian Priebe</author>
+<author pid="35/8319">Pramod Bhatotia</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>rkt-io: a direct I/O stack for shielded execution.</title>
+<pages>490-506</pages>
+<year>2021</year>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3447786.3456255</ee>
+<crossref>conf/eurosys/2021</crossref>
+<url>db/conf/eurosys/eurosys2021.html#ThalheimUPBP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vee/SartakovOEVP21" mdate="2022-01-08">
+<author orcid="0000-0003-1894-2621" pid="151/4092">Vasily A. Sartakov</author>
+<author orcid="0000-0003-3751-477X" pid="213/7353">Daniel O'Keeffe</author>
+<author orcid="0000-0002-7284-8006" pid="55/684">David M. Eyers</author>
+<author orcid="0000-0002-1452-840X" pid="44/1754">Llu&#237;s Vilanova</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>Spons &amp; Shields: practical isolation for trusted execution.</title>
+<pages>186-200</pages>
+<year>2021</year>
+<booktitle>VEE</booktitle>
+<ee>https://doi.org/10.1145/3453933.3454024</ee>
+<crossref>conf/vee/2021</crossref>
+<url>db/conf/vee/vee2021.html#SartakovOEVP21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-13429" mdate="2021-05-04">
+<author pid="217/5536">Andreas Grammenos</author>
+<author pid="52/2675">Evangelia Kalyvianaki</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Pronto: Federated Task Scheduling.</title>
+<year>2021</year>
+<volume>abs/2104.13429</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.13429</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-13429</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-13116" mdate="2021-06-01">
+<author pid="168/8978">Alex Shamis</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="c/MiguelCastro">Miguel Castro 0001</author>
+<author pid="293/9402">Edward Ashton</author>
+<author pid="256/9362">Amaury Chamayou</author>
+<author pid="136/0910">Sylvan Clebsch</author>
+<author pid="121/1113">Antoine Delignat-Lavaud</author>
+<author pid="f/CedricFournet">C&#233;dric Fournet</author>
+<author pid="293/8000">Matthew Kerner</author>
+<author pid="293/8636">Julien Maffre</author>
+<author pid="35/6770">Manuel Costa</author>
+<author pid="30/4468">Mark Russinovich</author>
+<title>PAC: Practical Accountability for CCF.</title>
+<year>2021</year>
+<volume>abs/2105.13116</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.13116</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-13116</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/TheodorakisPP20" mdate="2021-01-29">
+<author pid="227/0831">Georgios Theodorakis</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="08/3969">Holger Pirk</author>
+<title>SlideSide: A fast Incremental Stream Processing Algorithm for Multiple Queries.</title>
+<pages>435-438</pages>
+<year>2020</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2020.51</ee>
+<crossref>conf/edbt/2020</crossref>
+<url>db/conf/edbt/edbt2020.html#TheodorakisPP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hotcloud/WagenlanderMLP20" mdate="2021-02-09">
+<author pid="270/9067">Marcel Wagenl&#228;nder</author>
+<author pid="81/10470">Luo Mai</author>
+<author pid="35/1964">Guo Li</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Spotnik: Designing Distributed Machine Learning for Transient Cloud Resources.</title>
+<year>2020</year>
+<booktitle>HotCloud</booktitle>
+<ee type="oa">https://www.usenix.org/conference/hotcloud20/presentation/wagenl%C3%A4nder</ee>
+<crossref>conf/hotcloud/2020</crossref>
+<url>db/conf/hotcloud/hotcloud2020.html#WagenlanderMLP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/osdi/MaiLWFBP20" mdate="2021-02-02">
+<author pid="81/10470">Luo Mai</author>
+<author pid="35/1964">Guo Li</author>
+<author pid="270/9067">Marcel Wagenl&#228;nder</author>
+<author pid="232/8116">Konstantinos Fertakis</author>
+<author pid="237/9453">Andrei-Octavian Brabete</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>KungFu: Making Training in Distributed Machine Learning Adaptive.</title>
+<pages>937-954</pages>
+<year>2020</year>
+<booktitle>OSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/osdi20/presentation/mai</ee>
+<crossref>conf/osdi/2020</crossref>
+<url>db/conf/osdi/osdi2020.html#MaiLWFBP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/TheodorakisKPP20" mdate="2020-06-05">
+<author pid="227/0831">Georgios Theodorakis</author>
+<author pid="85/4903">Alexandros Koliousis</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="08/3969">Holger Pirk</author>
+<title>LightSaber: Efficient Window Aggregation on Multi-core Processors.</title>
+<pages>2505-2521</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389753</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#TheodorakisKPP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/ShillakerP20" mdate="2021-02-01">
+<author pid="245/9052">Simon Shillaker</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Faasm: Lightweight Isolation for Efficient Stateful Serverless Computing.</title>
+<pages>419-433</pages>
+<year>2020</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/atc20/presentation/shillaker</ee>
+<crossref>conf/usenix/2020</crossref>
+<url>db/conf/usenix/usenix2020.html#ShillakerP20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-09344" mdate="2021-01-23">
+<author orcid="0000-0002-2464-0139" pid="245/9052">Simon Shillaker</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Faasm: Lightweight Isolation for Efficient Stateful Serverless Computing.</title>
+<year>2020</year>
+<volume>abs/2002.09344</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.09344</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-09344</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-11068" mdate="2020-09-10">
+<author pid="96/4578">Angelos Bilas</author>
+<author pid="03/3188">Dejan Kostic</author>
+<author pid="99/3621">Kostas Magoutis</author>
+<author pid="m/EvangelosPMarkatos">Evangelos P. Markatos</author>
+<author pid="45/2517">Dushyanth Narayanan</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="s/MargoISeltzer">Margo I. Seltzer</author>
+<title>The EuroSys 2020 Online Conference: Experience and lessons learned.</title>
+<year>2020</year>
+<volume>abs/2006.11068</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.11068</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-11068</url>
+</article>
+</r>
+<r><article key="journals/jcloudc/BritoFKPPFFRGRP19" mdate="2023-09-30">
+<author pid="25/4955">Andrey Brito</author>
+<author pid="f/ChristofFetzer">Christof Fetzer</author>
+<author pid="64/3482">Stefan K&#246;psell</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author orcid="0000-0002-3064-5315" pid="52/4916">Marcelo Pasin</author>
+<author orcid="0000-0003-1574-6721" pid="f/PascalFelber">Pascal Felber</author>
+<author orcid="0000-0003-4685-299X" pid="55/2902">Keiko Ver&#244;nica Ono Fonseca</author>
+<author pid="70/959">Marcelo de Oliveira Rosa</author>
+<author orcid="0000-0002-1534-9032" pid="68/6898">Luiz Celso Gomes Jr.</author>
+<author orcid="0000-0001-8302-4654" pid="204/2222">Rodrigo Jardim Riella</author>
+<author pid="98/9056">Charles B. Prado</author>
+<author pid="50/943">Luiz Fernando Rust da Costa Carmo</author>
+<author orcid="0000-0001-5325-8863" pid="96/3518">Daniel E. Lucani</author>
+<author pid="150/6322">M&#225;rton &#193;kos Sipos</author>
+<author pid="259/7606">L&#225;szl&#243; Nagy</author>
+<author orcid="0000-0002-4606-4718" pid="82/11338">Marcell Feh&#233;r</author>
+<title>Secure end-to-end processing of smart metering data.</title>
+<pages>19</pages>
+<year>2019</year>
+<volume>8</volume>
+<journal>J. Cloud Comput.</journal>
+<ee type="oa">https://doi.org/10.1186/s13677-019-0141-z</ee>
+<url>db/journals/jcloudc/jcloudc8.html#BritoFKPPFFRGRP19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KoliousisWWMCP19" mdate="2023-05-26">
+<author orcid="0000-0003-3006-9802" pid="85/4903">Alexandros Koliousis</author>
+<author pid="185/9185">Pijika Watcharapichat</author>
+<author orcid="0000-0003-3325-7227" pid="61/267">Matthias Weidlich 0001</author>
+<author pid="81/10470">Luo Mai</author>
+<author pid="47/6119">Paolo Costa</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Crossbow: Scaling Deep Learning with Small Batch Sizes on Multi-GPU Servers.</title>
+<pages>1399-1413</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1399-koliousis.pdf</ee>
+<ee>https://doi.org/10.14778/3342263.3342276</ee>
+<url>db/journals/pvldb/pvldb12.html#KoliousisWWMCP19</url>
+</article>
+</r>
+<r><article key="journals/sigops/MaiKLBP19" mdate="2020-07-14">
+<author pid="81/10470">Luo Mai</author>
+<author pid="85/4903">Alexandros Koliousis</author>
+<author pid="35/1964">Guo Li</author>
+<author pid="237/9453">Andrei-Octavian Brabete</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Taming Hyper-parameters in Deep Learning Systems.</title>
+<pages>52-58</pages>
+<year>2019</year>
+<volume>53</volume>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3352020.3352029</ee>
+<url>db/journals/sigops/sigops53.html#MaiKLBP19</url>
+</article>
+</r>
+<r><article key="journals/tcc/CleggLGRHKSPW19" mdate="2020-06-21">
+<author orcid="0000-0001-7241-6679" pid="47/5557">Richard G. Clegg</author>
+<author pid="40/2410">Raul Landa</author>
+<author orcid="0000-0001-8077-8610" pid="42/7041">David Griffin 0001</author>
+<author pid="88/1966">Miguel Rio</author>
+<author pid="01/1377">Peter Hughes</author>
+<author pid="80/6613">Ian Kegel</author>
+<author pid="50/6042">Tim Stevens</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="51/3003">Doug Williams</author>
+<title>Faces in the Clouds: Long-Duration, Multi-User, Cloud-Assisted Video Conferencing.</title>
+<pages>756-769</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCC.2017.2680440</ee>
+<url>db/journals/tcc/tcc7.html#CleggLGRHKSPW19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/PirkGP19" mdate="2020-03-12">
+<author pid="08/3969">Holger Pirk</author>
+<author pid="32/7263">Jana Giceva</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Thriving in the No Man's Land between Compilers and Databases.</title>
+<year>2019</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2019/papers/p91-pirk-cidr19.pdf</ee>
+<crossref>conf/cidr/2019</crossref>
+<url>db/conf/cidr/cidr2019.html#PirkGP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloud/GarefalakisKP19" mdate="2020-05-19">
+<author pid="126/7608">Panagiotis Garefalakis</author>
+<author pid="59/7992">Konstantinos Karanasos</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Neptune: Scheduling Suspendable Tasks for Unified Stream/Batch Applications.</title>
+<pages>233-245</pages>
+<year>2019</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/3357223.3362724</ee>
+<crossref>conf/cloud/2019</crossref>
+<url>db/conf/cloud/socc2019.html#GarefalakisKP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dais/SegarraDLAPS19" mdate="2023-09-30">
+<author orcid="0000-0003-3455-7563" pid="242/3155">Carlos Segarra</author>
+<author orcid="0000-0002-7183-6257" pid="98/8108">Ricard Delgado-Gonzalo</author>
+<author orcid="0000-0001-8082-973X" pid="18/4179">Mathieu Lemay</author>
+<author pid="139/0414">Pierre-Louis Aublin</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author orcid="0000-0003-1493-6603" pid="15/2850">Valerio Schiavoni</author>
+<title>Using Trusted Execution Environments for Secure Stream Processing of Medical Data - (Case Study Paper).</title>
+<pages>91-107</pages>
+<year>2019</year>
+<booktitle>DAIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-22496-7_6</ee>
+<crossref>conf/dais/2019</crossref>
+<url>db/conf/dais/dais2019.html#SegarraDLAPS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sosp/LindNEKSP19" mdate="2019-10-21">
+<author pid="188/9951">Joshua Lind</author>
+<author pid="203/9047">Oded Naor</author>
+<author pid="86/8318">Ittay Eyal</author>
+<author pid="115/7963">Florian Kelbert</author>
+<author pid="s/EminGunSirer">Emin G&#252;n Sirer</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Teechain: a secure payment network with asynchronous blockchain access.</title>
+<pages>63-79</pages>
+<year>2019</year>
+<booktitle>SOSP</booktitle>
+<ee>https://doi.org/10.1145/3341301.3359627</ee>
+<crossref>conf/sosp/2019</crossref>
+<url>db/conf/sosp/sosp2019.html#LindNEKSP19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-02244" mdate="2023-05-26">
+<author pid="85/4903">Alexandros Koliousis</author>
+<author pid="185/9185">Pijika Watcharapichat</author>
+<author pid="61/267">Matthias Weidlich 0001</author>
+<author pid="81/10470">Luo Mai</author>
+<author pid="47/6119">Paolo Costa</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>CROSSBOW: Scaling Deep Learning with Small Batch Sizes on Multi-GPU Servers.</title>
+<year>2019</year>
+<volume>abs/1901.02244</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.02244</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-02244</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-07072" mdate="2019-06-24">
+<author pid="242/3155">Carlos Segarra</author>
+<author pid="98/8108">Ricard Delgado-Gonzalo</author>
+<author pid="18/4179">Mathieu Lemay</author>
+<author pid="139/0414">Pierre-Louis Aublin</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="15/2850">Valerio Schiavoni</author>
+<title>Using Trusted Execution Environments for Secure Stream Processing of Medical Data.</title>
+<year>2019</year>
+<volume>abs/1906.07072</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.07072</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-07072</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-11465" mdate="2019-08-01">
+<author pid="63/4811">Pedro Garc&#237;a L&#243;pez</author>
+<author pid="69/1023">Marc S&#225;nchez Artigas</author>
+<author pid="245/9052">Simon Shillaker</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="59/4355">David Breitgand</author>
+<author pid="116/9589">Gil Vernik</author>
+<author pid="09/5760">Pierre Sutra</author>
+<author pid="245/9010">Tristan Tarrant</author>
+<author pid="89/10073">Ana Juan Ferrer</author>
+<title>ServerMix: Tradeoffs and Challenges of Serverless Data Analytics.</title>
+<year>2019</year>
+<volume>abs/1907.11465</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.11465</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-11465</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-11143" mdate="2019-09-04">
+<author pid="161/6100">Christian Priebe</author>
+<author pid="55/755">Divya Muthukumaran</author>
+<author pid="188/9951">Joshua Lind</author>
+<author pid="135/5671">Huanzhou Zhu</author>
+<author pid="144/6258">Shujie Cui</author>
+<author pid="151/4092">Vasily A. Sartakov</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>SGX-LKL: Securing the Host OS Interface for Trusted Execution.</title>
+<year>2019</year>
+<volume>abs/1908.11143</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.11143</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-11143</url>
+</article>
+</r>
+<r><article key="journals/pvldb/OKeeffeSP18" mdate="2020-04-25">
+<author pid="24/8298">Dan O'Keeffe</author>
+<author pid="74/5471">Theodoros Salonidis</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Frontier: Resilient Edge Processing for the Internet of Things.</title>
+<pages>1178-1191</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1178-okeeffe.pdf</ee>
+<ee>https://doi.org/10.14778/3231751.3231767</ee>
+<url>db/journals/pvldb/pvldb11.html#OKeeffeSP18</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsn/GoltzscheRNVWSA18" mdate="2023-03-24">
+<author pid="189/0097">David Goltzsche</author>
+<author pid="214/8329">Signe R&#252;sch</author>
+<author pid="191/5180">Manuel Nieke</author>
+<author pid="220/3097">S&#233;bastien Vaucher</author>
+<author pid="185/6233">Nico Weichbrodt</author>
+<author orcid="0000-0003-1493-6603" pid="15/2850">Valerio Schiavoni</author>
+<author pid="139/0414">Pierre-Louis Aublin</author>
+<author pid="47/6119">Paolo Costa</author>
+<author pid="f/ChristofFetzer">Christof Fetzer</author>
+<author orcid="0000-0003-1574-6721" pid="f/PascalFelber">Pascal Felber</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="27/2697">R&#252;diger Kapitza</author>
+<title>EndBox: Scalable Middlebox Functions Using Client-Side Trusted Execution.</title>
+<pages>386-397</pages>
+<year>2018</year>
+<booktitle>DSN</booktitle>
+<ee>https://doi.org/10.1109/DSN.2018.00048</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DSN.2018.00048</ee>
+<crossref>conf/dsn/2018</crossref>
+<url>db/conf/dsn/dsn2018.html#GoltzscheRNVWSA18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurosys/GarefalakisKPSR18" mdate="2018-11-21">
+<author pid="126/7608">Panagiotis Garefalakis</author>
+<author pid="59/7992">Konstantinos Karanasos</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="217/6729">Arun Suresh</author>
+<author pid="07/1315">Sriram Rao</author>
+<title>Medea: scheduling of long running applications in shared production clusters.</title>
+<pages>4:1-4:13</pages>
+<year>2018</year>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3190508.3190549</ee>
+<crossref>conf/eurosys/2018</crossref>
+<url>db/conf/eurosys/eurosys2018.html#GarefalakisKPSR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurosys/AublinKOMPLKFEP18" mdate="2020-09-05">
+<author pid="139/0414">Pierre-Louis Aublin</author>
+<author pid="115/7963">Florian Kelbert</author>
+<author pid="24/8298">Dan O'Keeffe</author>
+<author pid="55/755">Divya Muthukumaran</author>
+<author pid="161/6100">Christian Priebe</author>
+<author pid="188/9951">Joshua Lind</author>
+<author pid="42/7656">Robert Krahn</author>
+<author pid="f/ChristofFetzer">Christof Fetzer</author>
+<author orcid="0000-0002-7284-8006" pid="55/684">David M. Eyers</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>LibSEAL: revealing service integrity violations using trusted execution.</title>
+<pages>24:1-24:15</pages>
+<year>2018</year>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3190508.3190547</ee>
+<crossref>conf/eurosys/2018</crossref>
+<url>db/conf/eurosys/eurosys2018.html#AublinKOMPLKFEP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/grades/ErbMKSCMP18" mdate="2020-09-05">
+<author pid="117/6830">Benjamin Erb</author>
+<author orcid="0000-0002-2937-6306" pid="188/4715">Dominik Mei&#223;ner</author>
+<author pid="46/306">Frank Kargl</author>
+<author pid="201/4815">Benjamin A. Steer</author>
+<author orcid="0000-0002-5745-1609" pid="41/5008">F&#233;lix Cuadrado</author>
+<author pid="146/0411">Domagoj Margan</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Graphtides: a framework for evaluating stream-based graph processing platforms.</title>
+<pages>3:1-3:10</pages>
+<year>2018</year>
+<booktitle>GRADES/NDA@SIGMOD/PODS</booktitle>
+<ee>https://doi.org/10.1145/3210259.3210262</ee>
+<crossref>conf/grades/2018</crossref>
+<url>db/conf/grades/grades2018.html#ErbMKSCMP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/FernandezCWWMP18" mdate="2023-05-26">
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author orcid="0000-0002-1427-9888" pid="119/6371">William Culhane</author>
+<author pid="185/9185">Pijika Watcharapichat</author>
+<author orcid="0000-0003-3325-7227" pid="61/267">Matthias Weidlich 0001</author>
+<author pid="185/9284">Victoria Lopez Morales</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Meta-Dataflows: Efficient Exploratory Dataflow Jobs.</title>
+<pages>1157-1172</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3183760</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#FernandezCWWMP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/systor/LindNEKPS18" mdate="2022-08-16">
+<author pid="188/9951">Joshua Lind</author>
+<author pid="203/9047">Oded Naor</author>
+<author pid="86/8318">Ittay Eyal</author>
+<author pid="115/7963">Florian Kelbert</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="s/EminGunSirer">Emin G&#252;n Sirer</author>
+<title>Teechain: Reducing Storage Costs on the Blockchain With Offline Payment Channels.</title>
+<pages>125</pages>
+<year>2018</year>
+<booktitle>SYSTOR</booktitle>
+<ee>https://doi.org/10.1145/3211890.3211904</ee>
+<ee>https://www.wikidata.org/entity/Q111687988</ee>
+<crossref>conf/systor/2018</crossref>
+<url>db/conf/systor/systor2018.html#LindNEKPS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/TheodorakisKPP18" mdate="2020-03-12">
+<author pid="227/0831">Georgios Theodorakis</author>
+<author pid="85/4903">Alexandros Koliousis</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="08/3969">Holger Pirk</author>
+<title>Hammer Slide: Work- and CPU-efficient Streaming Window Aggregation.</title>
+<pages>34-41</pages>
+<year>2018</year>
+<booktitle>ADMS@VLDB</booktitle>
+<ee type="oa">http://www.adms-conf.org/2018-camera-ready/SIMDWindowPaper_ADMS%2718.pdf</ee>
+<crossref>conf/vldb/2018adms</crossref>
+<url>db/conf/vldb/adms2018.html#TheodorakisKPP18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-01783" mdate="2018-08-13">
+<author pid="115/7963">Florian Kelbert</author>
+<author pid="188/9991">Franz Gregor</author>
+<author pid="189/6914">Rafael Pires</author>
+<author pid="64/3482">Stefan K&#246;psell</author>
+<author pid="52/4916">Marcelo Pasin</author>
+<author pid="199/8673">Aur&#233;lien Havet</author>
+<author pid="15/2850">Valerio Schiavoni</author>
+<author pid="f/PascalFelber">Pascal Felber</author>
+<author pid="f/ChristofFetzer">Christof Fetzer</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>SecureCloud: Secure Big Data Processing in Untrusted Clouds.</title>
+<year>2018</year>
+<volume>abs/1805.01783</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.01783</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-01783</url>
+</article>
+</r>
+<r><article key="journals/pvldb/RupprechtCP17" mdate="2022-10-02">
+<author pid="91/9320">Lukas Rupprecht</author>
+<author orcid="0000-0002-1427-9888" pid="119/6371">William Culhane</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>SquirrelJoin: Network-Aware Distributed Join Processing with Lazy Partitioning.</title>
+<pages>1250-1261</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p1250-rupprecht.pdf</ee>
+<ee>https://doi.org/10.14778/3137628.3137636</ee>
+<url>db/journals/pvldb/pvldb10.html#RupprechtCP17</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/KelbertGPKPHSFF17" mdate="2020-10-25">
+<author pid="115/7963">Florian Kelbert</author>
+<author pid="188/9991">Franz Gregor</author>
+<author orcid="0000-0002-7826-1599" pid="189/6914">Rafael Pires</author>
+<author pid="64/3482">Stefan K&#246;psell</author>
+<author orcid="0000-0002-3064-5315" pid="52/4916">Marcelo Pasin</author>
+<author pid="199/8673">Aurelien Havet</author>
+<author orcid="0000-0003-1493-6603" pid="15/2850">Valerio Schiavoni</author>
+<author orcid="0000-0003-1574-6721" pid="f/PascalFelber">Pascal Felber</author>
+<author pid="f/ChristofFetzer">Christof Fetzer</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>SecureCloud: Secure big data processing in untrusted clouds.</title>
+<pages>282-285</pages>
+<year>2017</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2017.7926999</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3130444</ee>
+<crossref>conf/date/2017</crossref>
+<url>db/conf/date/date2017.html#KelbertGPKPHSFF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/MarganP17" mdate="2018-11-06">
+<author pid="146/0411">Domagoj Margan</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Large-Scale Stream Graph Processing: Doctoral Symposium.</title>
+<pages>378-381</pages>
+<year>2017</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/3093742.3093907</ee>
+<crossref>conf/debs/2017</crossref>
+<url>db/conf/debs/debs2017.html#MarganP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurosec/GoltzscheWMRPK17" mdate="2018-11-06">
+<author pid="189/0097">David Goltzsche</author>
+<author pid="154/0974">Colin Wulf</author>
+<author pid="55/755">Divya Muthukumaran</author>
+<author pid="64/4020">Konrad Rieck</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="27/2697">R&#252;diger Kapitza</author>
+<title>TrustJS: Trusted Client-side Execution of JavaScript.</title>
+<pages>7:1-7:6</pages>
+<year>2017</year>
+<booktitle>EUROSEC</booktitle>
+<ee>https://doi.org/10.1145/3065913.3065917</ee>
+<crossref>conf/eurosec/2017</crossref>
+<url>db/conf/eurosec/eurosec2017.html#GoltzscheWMRPK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ic2e/RupprechtZOPH17" mdate="2023-03-23">
+<author pid="91/9320">Lukas Rupprecht</author>
+<author pid="60/2536">Rui Zhang</author>
+<author pid="199/8846">Bill Owen</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="56/3008">Dean Hildebrand</author>
+<title>SwiftAnalytics: Optimizing Object Storage for Big Data Analytics.</title>
+<pages>245-251</pages>
+<year>2017</year>
+<booktitle>IC2E</booktitle>
+<ee>https://doi.org/10.1109/IC2E.2017.19</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IC2E.2017.19</ee>
+<crossref>conf/ic2e/2017</crossref>
+<url>db/conf/ic2e/ic2e2017.html#RupprechtZOPH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/Pietzuch17" mdate="2018-11-06">
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>SABER: hybrid data processing with heterogeneous servers.</title>
+<pages>12</pages>
+<year>2017</year>
+<booktitle>ACTIVE@Middleware</booktitle>
+<ee>https://doi.org/10.1145/3155889.3157071</ee>
+<crossref>conf/middleware/2017active</crossref>
+<url>db/conf/middleware/active2017.html#Pietzuch17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/LindPMOAKRGEKFP17" mdate="2021-02-01">
+<author pid="188/9951">Joshua Lind</author>
+<author pid="161/6100">Christian Priebe</author>
+<author pid="55/755">Divya Muthukumaran</author>
+<author pid="24/8298">Dan O'Keeffe</author>
+<author pid="139/0414">Pierre-Louis Aublin</author>
+<author pid="115/7963">Florian Kelbert</author>
+<author pid="191/2285">Tobias Reiher</author>
+<author pid="189/0097">David Goltzsche</author>
+<author pid="55/684">David M. Eyers</author>
+<author pid="27/2697">R&#252;diger Kapitza</author>
+<author pid="f/ChristofFetzer">Christof Fetzer</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Glamdring: Automatic Application Partitioning for Intel SGX.</title>
+<pages>285-298</pages>
+<year>2017</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/atc17/technical-sessions/presentation/lind</ee>
+<crossref>conf/usenix/2017</crossref>
+<url>db/conf/usenix/usenix2017.html#LindPMOAKRGEKFP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/SultanaGGWSCMBS17" mdate="2023-03-21">
+<author pid="72/3034">Nik Sultana</author>
+<author pid="200/8639">Salvator Galea</author>
+<author pid="200/8803">David Greaves</author>
+<author pid="58/9687">Marcin W&#243;jcik</author>
+<author pid="203/1632">Jonny Shipton</author>
+<author pid="47/5557">Richard G. Clegg</author>
+<author pid="81/10470">Luo Mai</author>
+<author pid="180/5790">Pietro Bressana</author>
+<author orcid="0000-0002-2825-6660" pid="49/6828">Robert Soul&#233;</author>
+<author pid="28/5155">Richard Mortier</author>
+<author pid="47/6119">Paolo Costa</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="c/JonCrowcroft">Jon Crowcroft</author>
+<author pid="95/2279-2">Andrew W. Moore 0002</author>
+<author pid="24/8146">Noa Zilberman</author>
+<title>Emu: Rapid Prototyping of Networking Services.</title>
+<pages>459-471</pages>
+<year>2017</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/atc17/technical-sessions/presentation/sultana</ee>
+<crossref>conf/usenix/2017</crossref>
+<url>db/conf/usenix/usenix2017.html#SultanaGGWSCMBS17</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/middleware/2017" mdate="2018-11-06">
+<editor pid="21/2983">K. R. Jayaram</editor>
+<editor pid="62/2403">Anshul Gandhi</editor>
+<editor pid="k/BettinaKemme">Bettina Kemme</editor>
+<editor pid="45/4887">Peter R. Pietzuch</editor>
+<title>Proceedings of the 18th ACM/IFIP/USENIX Middleware Conference, Las Vegas, NV, USA, December 11 - 15, 2017</title>
+<booktitle>Middleware</booktitle>
+<publisher>ACM</publisher>
+<year>2017</year>
+<isbn>978-1-4503-4720-4</isbn>
+<ee>https://doi.org/10.1145/3135974</ee>
+<url>db/conf/middleware/middleware2017.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/SultanaGGWZCMMP17" mdate="2021-01-23">
+<author pid="72/3034">Nik Sultana</author>
+<author pid="200/8639">Salvator Galea</author>
+<author pid="200/8803">David Greaves</author>
+<author pid="58/9687">Marcin W&#243;jcik</author>
+<author orcid="0000-0002-3655-2873" pid="24/8146">Noa Zilberman</author>
+<author pid="47/5557">Richard G. Clegg</author>
+<author pid="81/10470">Luo Mai</author>
+<author pid="28/5155">Richard Mortier</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="c/JonCrowcroft">Jon Crowcroft</author>
+<author pid="95/2279-2">Andrew W. Moore 0002</author>
+<title>Extending programs with debug-related features, with application to hardware development.</title>
+<year>2017</year>
+<volume>abs/1705.09902</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1705.09902</ee>
+<url>db/journals/corr/corr1705.html#SultanaGGWZCMMP17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LindEKNPS17" mdate="2018-08-13">
+<author pid="188/9951">Joshua Lind</author>
+<author pid="86/8318">Ittay Eyal</author>
+<author pid="115/7963">Florian Kelbert</author>
+<author pid="203/9047">Oded Naor</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="s/EminGunSirer">Emin G&#252;n Sirer</author>
+<title>Teechain: Scalable Blockchain Payments using Trusted Execution Environments.</title>
+<year>2017</year>
+<volume>abs/1707.05454</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1707.05454</ee>
+<url>db/journals/corr/corr1707.html#LindEKNPS17</url>
+</article>
+</r>
+<r><article key="journals/tmc/PamborisP16" mdate="2017-05-28">
+<author pid="61/7545">Andreas Pamboris</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>C-RAM: Breaking Mobile Device Memory Barriers Using the Cloud.</title>
+<pages>2692-2705</pages>
+<year>2016</year>
+<volume>15</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TMC.2015.2513040</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TMC.2015.2513040</ee>
+<url>db/journals/tmc/tmc15.html#PamborisP16</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccnc/BaguenaSPSPM16" mdate="2018-11-02">
+<author pid="14/10643">Miguel Baguena</author>
+<author pid="s/GeorgeSamaras">George Samaras</author>
+<author pid="61/7545">Andreas Pamboris</author>
+<author pid="84/5608">Mihail L. Sichitiu</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author orcid="0000-0003-3753-0403" pid="22/2967">Pietro Manzoni</author>
+<title>Towards enabling hyper-responsive mobile apps through network edge assistance.</title>
+<pages>399-404</pages>
+<year>2016</year>
+<booktitle>CCNC</booktitle>
+<ee>https://doi.org/10.1109/CCNC.2016.7444813</ee>
+<crossref>conf/ccnc/2016</crossref>
+<url>db/conf/ccnc/ccnc2016.html#BaguenaSPSPM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloud/WatcharapichatM16" mdate="2018-11-06">
+<author pid="185/9185">Pijika Watcharapichat</author>
+<author pid="185/9284">Victoria Lopez Morales</author>
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Ako: Decentralised Deep Learning with Partial Gradient Exchange.</title>
+<pages>84-97</pages>
+<year>2016</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/2987550.2987586</ee>
+<crossref>conf/cloud/2016</crossref>
+<url>db/conf/cloud/socc2016.html#WatcharapichatM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/KoliousisWFWCP16" mdate="2023-05-26">
+<author pid="85/4903">Alexandros Koliousis</author>
+<author pid="61/267">Matthias Weidlich 0001</author>
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="w/AlexanderLWolf">Alexander L. Wolf</author>
+<author pid="47/6119">Paolo Costa</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>The SABER system for window-based hybrid stream processing with GPGPUs: demo.</title>
+<pages>354-357</pages>
+<year>2016</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/2933267.2933291</ee>
+<crossref>conf/debs/2016</crossref>
+<url>db/conf/debs/debs2016.html#KoliousisWFWCP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esorics/WeichbrodtKPK16" mdate="2017-05-23">
+<author pid="185/6233">Nico Weichbrodt</author>
+<author pid="62/8322">Anil Kurmus</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="27/2697">R&#252;diger Kapitza</author>
+<title>AsyncShock: Exploiting Synchronisation Bugs in Intel SGX Enclaves.</title>
+<pages>440-457</pages>
+<year>2016</year>
+<booktitle>ESORICS (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-45744-4_22</ee>
+<crossref>conf/esorics/2016-1</crossref>
+<url>db/conf/esorics/esorics2016-1.html#WeichbrodtKPK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/FernandezGP16" mdate="2023-03-23">
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="126/7608">Panagiotis Garefalakis</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Java2SDG: Stateful big data processing for the masses.</title>
+<pages>1390-1393</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498352</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498352</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#FernandezGP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/PapagiannisWMP16" mdate="2016-11-17">
+<author pid="45/4905">Ioannis Papagiannis</author>
+<author pid="185/9185">Pijika Watcharapichat</author>
+<author pid="55/755">Divya Muthukumaran</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>BrowserFlow: Imprecise Data Flow Tracking to Prevent Accidental Data Disclosure.</title>
+<pages>9</pages>
+<year>2016</year>
+<booktitle>Middleware</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2988345</ee>
+<crossref>conf/middleware/2016</crossref>
+<url>db/conf/middleware/middleware2016.html#PapagiannisWMP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/BrennerWGWLFPK16" mdate="2016-11-17">
+<author pid="130/2908">Stefan Brenner</author>
+<author pid="154/0974">Colin Wulf</author>
+<author pid="189/0097">David Goltzsche</author>
+<author pid="185/6233">Nico Weichbrodt</author>
+<author pid="119/0666">Matthias Lorenz</author>
+<author pid="f/ChristofFetzer">Christof Fetzer</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="27/2697">R&#252;diger Kapitza</author>
+<title>SecureKeeper: Confidential ZooKeeper using Intel SGX.</title>
+<pages>14</pages>
+<year>2016</year>
+<booktitle>Middleware</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2988350</ee>
+<crossref>conf/middleware/2016</crossref>
+<url>db/conf/middleware/middleware2016.html#BrennerWGWLFPK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/osdi/ArnautovTGKMPLM16" mdate="2021-02-02">
+<author pid="156/3300">Sergei Arnautov</author>
+<author pid="189/0114">Bohdan Trach</author>
+<author pid="188/9991">Franz Gregor</author>
+<author pid="46/7509">Thomas Knauth</author>
+<author pid="45/9936">Andr&#233; Martin</author>
+<author pid="161/6100">Christian Priebe</author>
+<author pid="188/9951">Joshua Lind</author>
+<author pid="55/755">Divya Muthukumaran</author>
+<author pid="24/8298">Dan O'Keeffe</author>
+<author pid="30/7684">Mark Stillwell</author>
+<author pid="189/0097">David Goltzsche</author>
+<author pid="55/684">David M. Eyers</author>
+<author pid="27/2697">R&#252;diger Kapitza</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="f/ChristofFetzer">Christof Fetzer</author>
+<title>SCONE: Secure Linux Containers with Intel SGX.</title>
+<pages>689-703</pages>
+<year>2016</year>
+<booktitle>OSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/osdi16/technical-sessions/presentation/arnautov</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3026930</ee>
+<crossref>conf/osdi/2016</crossref>
+<url>db/conf/osdi/osdi2016.html#ArnautovTGKMPLM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KalyvianakiFSP16" mdate="2018-11-06">
+<author pid="52/2675">Evangelia Kalyvianaki</author>
+<author pid="28/7636">Marco Fiscato</author>
+<author pid="74/5471">Theodoros Salonidis</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>THEMIS: Fairness in Federated Stream Processing under Overload.</title>
+<pages>541-553</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2882943</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#KalyvianakiFSP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KoliousisWFWCP16" mdate="2023-05-26">
+<author orcid="0000-0003-3006-9802" pid="85/4903">Alexandros Koliousis</author>
+<author orcid="0000-0003-3325-7227" pid="61/267">Matthias Weidlich 0001</author>
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="w/AlexanderLWolf">Alexander L. Wolf</author>
+<author pid="47/6119">Paolo Costa</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>SABER: Window-Based Hybrid Stream Processing for Heterogeneous Architectures.</title>
+<pages>555-569</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2882906</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#KoliousisWFWCP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/OgdenTP16" mdate="2018-11-06">
+<author pid="137/6714">Peter Ogden</author>
+<author pid="93/438">David B. Thomas</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>AT-GIS: Highly Parallel Spatial Query Processing with Associative Transducers.</title>
+<pages>1041-1054</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2882962</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#OgdenTP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/AlimCMRSCPWSCMM16" mdate="2021-02-01">
+<author pid="121/2785">Abdul Alim</author>
+<author pid="47/5557">Richard G. Clegg</author>
+<author pid="81/10470">Luo Mai</author>
+<author pid="91/9320">Lukas Rupprecht</author>
+<author pid="146/2879">Eric Seckler</author>
+<author pid="47/6119">Paolo Costa</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="w/AlexanderLWolf">Alexander L. Wolf</author>
+<author pid="72/3034">Nik Sultana</author>
+<author pid="c/JonCrowcroft">Jon Crowcroft</author>
+<author pid="32/1528">Anil Madhavapeddy</author>
+<author pid="95/2279-2">Andrew W. Moore 0002</author>
+<author pid="28/5155">Richard Mortier</author>
+<author pid="89/10257">Masoud Koleini</author>
+<author pid="182/6708">Luis Oviedo</author>
+<author pid="56/2822">Matteo Migliavacca</author>
+<author pid="57/6908">Derek McAuley</author>
+<title>FLICK: Developing and Running Application-Specific Network Services.</title>
+<pages>1-14</pages>
+<year>2016</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/atc16/technical-sessions/presentation/alim</ee>
+<crossref>conf/usenix/2016</crossref>
+<url>db/conf/usenix/usenix2016.html#AlimCMRSCPWSCMM16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/eurosys/2016" mdate="2020-11-12">
+<editor pid="86/4141">Cristian Cadar</editor>
+<editor pid="45/4887">Peter R. Pietzuch</editor>
+<editor pid="k/KimberlyKeeton">Kimberly Keeton</editor>
+<editor pid="87/6689">Rodrigo Rodrigues 0001</editor>
+<title>Proceedings of the Eleventh European Conference on Computer Systems, EuroSys 2016, London, United Kingdom, April 18-21, 2016</title>
+<publisher>ACM</publisher>
+<booktitle>EuroSys</booktitle>
+<year>2016</year>
+<isbn>978-1-4503-4240-7</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=2901318</ee>
+<url>db/conf/eurosys/eurosys2016.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/LindEPS16" mdate="2018-08-13">
+<author pid="188/9951">Joshua Lind</author>
+<author pid="86/8318">Ittay Eyal</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="s/EminGunSirer">Emin G&#252;n Sirer</author>
+<title>Teechan: Payment Channels Using Trusted Execution Environments.</title>
+<year>2016</year>
+<volume>abs/1612.07766</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1612.07766</ee>
+<url>db/journals/corr/corr1612.html#LindEPS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccs/MuthukumaranOPE15" mdate="2020-11-10">
+<author pid="55/755">Divya Muthukumaran</author>
+<author pid="24/8298">Dan O'Keeffe</author>
+<author pid="161/6100">Christian Priebe</author>
+<author orcid="0000-0002-7284-8006" pid="55/684">David M. Eyers</author>
+<author pid="90/2355">Brian Shand</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>FlowWatcher: Defending against Data Disclosure Vulnerabilities in Web Applications.</title>
+<pages>603-615</pages>
+<year>2015</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/2810103.2813639</ee>
+<crossref>conf/ccs/2015</crossref>
+<url>db/conf/ccs/ccs2015.html#MuthukumaranOPE15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/FernandezPKNRKL15" mdate="2020-03-12">
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="116/2694">Jay Kreps</author>
+<author pid="72/7536">Neha Narkhede</author>
+<author pid="r/JunRao">Jun Rao</author>
+<author pid="13/5975">Joel Koshy</author>
+<author pid="54/208">Dong Lin</author>
+<author pid="117/5983">Chris Riccomini</author>
+<author pid="40/3179">Guozhang Wang</author>
+<title>Liquid: Unifying Nearline and Offline Big Data Integration.</title>
+<year>2015</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2015/Papers/CIDR15_Paper25u.pdf</ee>
+<crossref>conf/cidr/2015</crossref>
+<url>db/conf/cidr/cidr2015.html#FernandezPKNRKL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/PamborisP15" mdate="2023-03-23">
+<author pid="61/7545">Andreas Pamboris</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Edge Reduce: Eliminating Mobile Network Traffic Using Application-Specific Edge Proxies.</title>
+<pages>72-82</pages>
+<year>2015</year>
+<booktitle>MOBILESoft</booktitle>
+<ee>https://doi.org/10.1109/MobileSoft.2015.19</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MobileSoft.2015.19</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2825056</ee>
+<crossref>conf/icse/2015mobilesoft</crossref>
+<url>db/conf/icse/mobilesoft2015.html#PamborisP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mascots/ChenROPFK15" mdate="2023-03-23">
+<author pid="16/3283-15">Xi Chen 0015</author>
+<author pid="91/9320">Lukas Rupprecht</author>
+<author orcid="0000-0002-1112-1284" pid="82/2642">Rasha Osman</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="38/5577">Felipe Franciosi</author>
+<author pid="37/1901">William J. Knottenbelt</author>
+<title>CloudScope: Diagnosing and Managing Performance Interference in Multi-tenant Clouds.</title>
+<pages>164-173</pages>
+<year>2015</year>
+<booktitle>MASCOTS</booktitle>
+<ee>https://doi.org/10.1109/MASCOTS.2015.35</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MASCOTS.2015.35</ee>
+<crossref>conf/mascots/2015</crossref>
+<url>db/conf/mascots/mascots2015.html#ChenROPFK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/milcom/OKeeffeSP15" mdate="2017-05-26">
+<author pid="24/8298">Dan O'Keeffe</author>
+<author pid="74/5471">Theodoros Salonidis</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Network-aware stream query processing in mobile ad-hoc networks.</title>
+<pages>1335-1340</pages>
+<year>2015</year>
+<booktitle>MILCOM</booktitle>
+<ee>https://doi.org/10.1109/MILCOM.2015.7357630</ee>
+<crossref>conf/milcom/2015</crossref>
+<url>db/conf/milcom/milcom2015.html#OKeeffeSP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobiquitous/BaguenaPPSM15" mdate="2017-05-21">
+<author pid="14/10643">Miguel Baguena</author>
+<author pid="61/7545">Andreas Pamboris</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="84/5608">Mihail L. Sichitiu</author>
+<author pid="22/2967">Pietro Manzoni</author>
+<title>Better Performance in LTE Networks with Edge Assistance: The World of Warcraft Case.</title>
+<pages>279-280</pages>
+<year>2015</year>
+<booktitle>MobiQuitous</booktitle>
+<ee>https://doi.org/10.4108/eai.22-7-2015.2260154</ee>
+<crossref>conf/mobiquitous/2015</crossref>
+<url>db/conf/mobiquitous/mobiquitous2015.html#BaguenaPPSM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobisys/PamborisBWMP15" mdate="2018-11-06">
+<author pid="61/7545">Andreas Pamboris</author>
+<author pid="14/10643">Miguel Baguena</author>
+<author pid="w/AlexanderLWolf">Alexander L. Wolf</author>
+<author orcid="0000-0003-3753-0403" pid="22/2967">Pietro Manzoni</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Demo: : NOMAD: An Edge Cloud Platform for Hyper-Responsive Mobile Apps.</title>
+<pages>459</pages>
+<year>2015</year>
+<booktitle>MobiSys</booktitle>
+<ee>https://doi.org/10.1145/2742647.2745928</ee>
+<crossref>conf/mobisys/2015</crossref>
+<url>db/conf/mobisys/mobisys2015.html#PamborisBWMP15</url>
+</inproceedings>
+</r>
+<r><article key="journals/tnsm/BaconEPSPP14" mdate="2020-09-05">
+<author pid="b/JeanBacon">Jean Bacon</author>
+<author orcid="0000-0002-7284-8006" pid="55/684">David M. Eyers</author>
+<author orcid="0000-0001-6876-1306" pid="144/4204">Thomas F. J.-M. Pasquier</author>
+<author pid="53/3181">Jatinder Singh</author>
+<author pid="45/4905">Ioannis Papagiannis</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>Information Flow Control for Secure Cloud Computing.</title>
+<pages>76-89</pages>
+<year>2014</year>
+<volume>11</volume>
+<journal>IEEE Trans. Netw. Serv. Manag.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TNSM.2013.122313.130423</ee>
+<url>db/journals/tnsm/tnsm11.html#BaconEPSPP14</url>
+</article>
+</r>
+<r><article key="journals/tse/SongCP14" mdate="2017-06-09">
+<author pid="137/1341">JaeSeung Song</author>
+<author orcid="0000-0002-3599-7264" pid="86/4141">Cristian Cadar</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>SymbexNet: Testing Network Protocol Implementations with Symbolic Execution and Rule-Based Specifications.</title>
+<pages>695-709</pages>
+<year>2014</year>
+<volume>40</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TSE.2014.2323977</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSE.2014.2323977</ee>
+<url>db/journals/tse/tse40.html#SongCP14</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccs/PriebeMKESKP14" mdate="2018-11-06">
+<author pid="161/6100">Christian Priebe</author>
+<author pid="55/755">Divya Muthukumaran</author>
+<author pid="24/8298">Dan O'Keeffe</author>
+<author pid="55/684">David M. Eyers</author>
+<author pid="90/2355">Brian Shand</author>
+<author pid="27/2697">R&#252;diger Kapitza</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>CloudSafetyNet: Detecting Data Leakage between Cloud Tenants.</title>
+<pages>117-128</pages>
+<year>2014</year>
+<booktitle>CCSW</booktitle>
+<ee>https://doi.org/10.1145/2664168.2664174</ee>
+<crossref>conf/ccs/2014ccsw</crossref>
+<url>db/conf/ccs/ccsw2014.html#PriebeMKESKP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conext/MaiRACMPW14" mdate="2018-11-06">
+<author pid="81/10470">Luo Mai</author>
+<author pid="91/9320">Lukas Rupprecht</author>
+<author pid="121/2785">Abdul Alim</author>
+<author pid="47/6119">Paolo Costa</author>
+<author pid="56/2822">Matteo Migliavacca</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="w/AlexanderLWolf">Alexander L. Wolf</author>
+<title>NetAgg: Using Middleboxes for Application-specific On-path Aggregation in Data Centres.</title>
+<pages>249-262</pages>
+<year>2014</year>
+<booktitle>CoNEXT</booktitle>
+<ee>https://doi.org/10.1145/2674005.2674996</ee>
+<crossref>conf/conext/2014</crossref>
+<url>db/conf/conext/conext2014.html#MaiRACMPW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/FernandezWPG14" mdate="2023-05-26">
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author orcid="0000-0003-3325-7227" pid="61/267">Matthias Weidlich 0001</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<author pid="g/AvigdorGal">Avigdor Gal</author>
+<title>Scalable stateful stream processing for smart grids.</title>
+<pages>276-281</pages>
+<year>2014</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/2611286.2611326</ee>
+<crossref>conf/debs/2014</crossref>
+<url>db/conf/debs/debs2014.html#FernandezWPG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/TangLWHSP14" mdate="2023-03-24">
+<author pid="09/1770">Yuzhe Richard Tang</author>
+<author pid="l/LingLiu">Ling Liu 0001</author>
+<author pid="12/2633-6">Ting Wang 0006</author>
+<author pid="13/6380-1">Xin Hu 0001</author>
+<author pid="86/4992">Reiner Sailer</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>Outsourcing multi-version key-value stores with verifiable data freshness.</title>
+<pages>1214-1217</pages>
+<year>2014</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2014.6816744</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2014.6816744</ee>
+<crossref>conf/icde/2014</crossref>
+<url>db/conf/icde/icde2014.html#TangLWHSP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsoc/FrischbierPB14" mdate="2023-07-27">
+<author pid="09/8731">Sebastian Frischbier</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="b/APBuchmann">Alejandro P. Buchmann</author>
+<title>Managing Expectations: Runtime Negotiation of Information Quality Requirements in Event-Based Systems.</title>
+<pages>199-213</pages>
+<year>2014</year>
+<booktitle>ICSOC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-45391-9_14</ee>
+<crossref>conf/icsoc/2014</crossref>
+<url>db/conf/icsoc/icsoc2014.html#FrischbierPB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soca/FrischbierTGMEEPB14" mdate="2023-03-24">
+<author pid="09/8731">Sebastian Frischbier</author>
+<author pid="156/4653">Erman Turan</author>
+<author pid="53/3438">Michael Gesmann</author>
+<author pid="05/7380">Alessandro Margara</author>
+<author orcid="0000-0002-7284-8006" pid="55/684">David M. Eyers</author>
+<author pid="14/4443">Patrick Th. Eugster</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="b/APBuchmann">Alejandro P. Buchmann</author>
+<title>Effective Runtime Monitoring of Distributed Event-Based Enterprise Systems with ASIA.</title>
+<pages>41-48</pages>
+<year>2014</year>
+<booktitle>SOCA</booktitle>
+<ee>https://doi.org/10.1109/SOCA.2014.25</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SOCA.2014.25</ee>
+<crossref>conf/soca/2014</crossref>
+<url>db/conf/soca/soca2014.html#FrischbierTGMEEPB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/FernandezMKP14" mdate="2021-02-01">
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="56/2822">Matteo Migliavacca</author>
+<author pid="52/2675">Evangelia Kalyvianaki</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Making State Explicit for Imperative Big Data Processing.</title>
+<pages>49-60</pages>
+<year>2014</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/atc14/technical-sessions/presentation/castro-fernandez</ee>
+<crossref>conf/usenix/2014</crossref>
+<url>db/conf/usenix/usenix2014.html#FernandezMKP14</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dais/2014" mdate="2019-05-14">
+<editor pid="99/3621">Kostas Magoutis</editor>
+<editor pid="45/4887">Peter R. Pietzuch</editor>
+<title>Distributed Applications and Interoperable Systems - 14th IFIP WG 6.1 International Conference, DAIS 2014, Held as Part of the 9th International Federated Conference on Distributed Computing Techniques, DisCoTec 2014, Berlin, Germany, June 3-5, 2014, Proceedings</title>
+<year>2014</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>8460</volume>
+<ee>https://doi.org/10.1007/978-3-662-43352-2</ee>
+<isbn>978-3-662-43351-5</isbn>
+<booktitle>DAIS</booktitle>
+<url>db/conf/dais/dais2014.html</url>
+</proceedings>
+</r>
+<r><article key="journals/pvldb/OgdenTP13" mdate="2020-04-25">
+<author pid="137/6714">Peter Ogden</author>
+<author pid="93/438">David B. Thomas</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Scalable XML Query Processing using Parallel Pushdown Transducers.</title>
+<pages>1738-1749</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>14</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p1738-ogden.pdf</ee>
+<ee>https://doi.org/10.14778/2556549.2556558</ee>
+<url>db/journals/pvldb/pvldb6.html#OgdenTP13</url>
+</article>
+</r>
+<r><inproceedings key="conf/aosd/FrischbierMFEEP13" mdate="2018-11-06">
+<author pid="09/8731">Sebastian Frischbier</author>
+<author pid="05/7380">Alessandro Margara</author>
+<author pid="85/2676">Tobias Freudenreich</author>
+<author pid="14/4443">Patrick Eugster</author>
+<author pid="55/684">David M. Eyers</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>Aggregation for implicit invocations.</title>
+<pages>109-120</pages>
+<year>2013</year>
+<crossref>conf/aosd/2013</crossref>
+<booktitle>AOSD</booktitle>
+<ee>https://doi.org/10.1145/2451436.2451450</ee>
+<url>db/conf/aosd/aosd2013.html#FrischbierMFEEP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccsw/FernandezMKP13" mdate="2018-08-23">
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="56/2822">Matteo Migliavacca</author>
+<author pid="52/2675">Evangelia Kalyvianaki</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>Scalable and Fault-tolerant Stateful Stream Processing.</title>
+<pages>11-18</pages>
+<year>2013</year>
+<booktitle>ICCSW</booktitle>
+<ee type="oa">https://doi.org/10.4230/OASIcs.ICCSW.2013.11</ee>
+<crossref>conf/iccsw/2013</crossref>
+<url>db/conf/iccsw/iccsw2013.html#FernandezMKP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/AllaniGP13" mdate="2020-06-15">
+<author pid="37/6437">Mouna Allani</author>
+<author orcid="0000-0002-3952-9273" pid="54/2229">Beno&#238;t Garbinato</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>Hyphen: a hybrid protocol for generic overlay construction in P2P environments.</title>
+<pages>423-430</pages>
+<year>2013</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2480362.2480448</ee>
+<crossref>conf/sac/2013</crossref>
+<url>db/conf/sac/sac2013.html#AllaniGP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcomm/MaiRCMPW13" mdate="2021-03-11">
+<author pid="81/10470">Luo Mai</author>
+<author pid="91/9320">Lukas Rupprecht</author>
+<author pid="47/6119">Paolo Costa</author>
+<author pid="56/2822">Matteo Migliavacca</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<author pid="w/AlexanderLWolf">Alexander L. Wolf</author>
+<title>Supporting application-specific in-network processing in data centres.</title>
+<pages>519-520</pages>
+<year>2013</year>
+<booktitle>SIGCOMM</booktitle>
+<ee>https://doi.org/10.1145/2486001.2491733</ee>
+<ee>https://doi.org/10.1145/2534169.2491733</ee>
+<crossref>conf/sigcomm/2013</crossref>
+<url>db/conf/sigcomm/sigcomm2013.html#MaiRCMPW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/FernandezMKP13" mdate="2018-11-06">
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="56/2822">Matteo Migliavacca</author>
+<author pid="52/2675">Evangelia Kalyvianaki</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>Integrating scale out and fault tolerance in stream processing using operator state management.</title>
+<pages>725-736</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2465282</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#FernandezMKP13</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/debs/2013" mdate="2016-11-17">
+<editor pid="c/SChakravarthy">Sharma Chakravarthy</editor>
+<editor pid="62/1192">Susan Darling Urban</editor>
+<editor pid="45/4887">Peter R. Pietzuch</editor>
+<editor pid="r/EARundensteiner">Elke A. Rundensteiner</editor>
+<title>The 7th ACM International Conference on Distributed Event-Based Systems, DEBS '13, Arlington, TX, USA - June 29 - July 03, 2013</title>
+<publisher>ACM</publisher>
+<booktitle>DEBS</booktitle>
+<year>2013</year>
+<isbn>978-1-4503-1758-0</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=2488222</ee>
+<url>db/conf/debs/debs2013.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/eurosys/2013clouddp" mdate="2023-04-14">
+<editor pid="f/PauloJPFerreira">Paulo Ferreira 0001</editor>
+<editor pid="73/843">Zbigniew Jerzak</editor>
+<editor pid="45/4887">Peter R. Pietzuch</editor>
+<title>Proceedings of the 3rd International Workshop on Cloud Data and Platforms, CloudDP@EuroSys 2013, Prague, Czech Republic, April 14-17, 2013</title>
+<booktitle>CloudDP@EuroSys</booktitle>
+<publisher>ACM</publisher>
+<year>2013</year>
+<isbn>978-1-4503-2075-7</isbn>
+<ee>https://doi.org/10.1145/2460756</ee>
+<url>db/conf/eurosys/clouddp2013.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ppna/AllaniGP12" mdate="2021-10-04">
+<author pid="37/6437">Mouna Allani</author>
+<author orcid="0000-0002-3952-9273" pid="54/2229">Beno&#238;t Garbinato</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>Chams: Churn-aware overlay construction for media streaming.</title>
+<pages>412-427</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Peer-to-Peer Netw. Appl.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s12083-012-0161-7</ee>
+<url>db/journals/ppna/ppna5.html#AllaniGP12</url>
+</article>
+</r>
+<r><inproceedings key="conf/arc/DenholmTPL12" mdate="2017-06-01">
+<author pid="69/10319">Stewart Denholm</author>
+<author pid="39/6802">Kuen Hung Tsoi</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<author pid="l/WayneLuk">Wayne Luk</author>
+<title>Efficient Communication for FPGA Clusters.</title>
+<pages>335-341</pages>
+<year>2012</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-28365-9_29</ee>
+<crossref>conf/arc/2012</crossref>
+<url>db/conf/arc/arc2012.html#DenholmTPL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/PapagiannisP12" mdate="2018-11-06">
+<author pid="45/4905">Ioannis Papagiannis</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>CloudFilter: practical control of sensitive data propagation to the cloud.</title>
+<pages>97-102</pages>
+<year>2012</year>
+<booktitle>CCSW</booktitle>
+<ee>https://doi.org/10.1145/2381913.2381931</ee>
+<crossref>conf/ccs/2012ccsw</crossref>
+<url>db/conf/ccs/ccsw2012.html#PapagiannisP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurosys/EyersFMFPE12" mdate="2022-01-03">
+<author pid="55/684">David M. Eyers</author>
+<author pid="85/2676">Tobias Freudenreich</author>
+<author pid="05/7380">Alessandro Margara</author>
+<author pid="09/8731">Sebastian Frischbier</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<author pid="14/4443">Patrick Eugster</author>
+<title>Living in the present: on-the-fly information processing in scalable web architectures.</title>
+<pages>6:1-6:6</pages>
+<year>2012</year>
+<booktitle>CloudCP@EuroSys</booktitle>
+<ee>https://doi.org/10.1145/2168697.2168703</ee>
+<crossref>conf/eurosys/2012cloudcp</crossref>
+<url>db/conf/eurosys/cloudcp2012.html#EyersFMFPE12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CervinoKSP12" mdate="2023-03-23">
+<author pid="13/8193">Javier Cervi&#241;o</author>
+<author pid="52/2675">Evangelia Kalyvianaki</author>
+<author orcid="0000-0002-7269-8079" pid="24/6459">Joaqu&#237;n Salvach&#250;a</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>Adaptive Provisioning of Stream Processing Systems in the Cloud.</title>
+<pages>295-301</pages>
+<year>2012</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2012.40</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2012.40</ee>
+<crossref>conf/icde/2012w</crossref>
+<url>db/conf/icde/icdew2012.html#CervinoKSP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nsdi/CostaMPW12" mdate="2021-02-02">
+<author pid="47/6119">Paolo Costa</author>
+<author pid="56/2822">Matteo Migliavacca</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="w/AlexanderLWolf">Alexander L. Wolf</author>
+<title>NaaS: Network-as-a-Service in the Cloud.</title>
+<year>2012</year>
+<booktitle>Hot-ICE</booktitle>
+<ee type="oa">https://www.usenix.org/conference/hot-ice12/workshop-program/presentation/costa</ee>
+<crossref>conf/nsdi/2012hotice</crossref>
+<url>db/conf/nsdi/hotice2012.html#CostaMPW12</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/eurosys/2012hotcdp" mdate="2022-01-05">
+<editor pid="f/ChristofFetzer">Christof Fetzer</editor>
+<editor pid="27/2404">Flavio Junqueira</editor>
+<editor pid="45/4887">Peter R. Pietzuch</editor>
+<title>Proceedings of the 1st International Workshop on Hot Topics in Cloud Data Processing, HotCDP '12, Bern, Switzerland, April 10, 2012</title>
+<booktitle>HotCDP@EuroSys</booktitle>
+<publisher>ACM</publisher>
+<year>2012</year>
+<isbn>978-1-4503-1162-5</isbn>
+<ee>https://doi.org/10.1145/2169090</ee>
+<url>db/conf/eurosys/hotcdp2012.html</url>
+</proceedings>
+</r>
+<r><article key="journals/concurrency/EyersRZWP11" mdate="2020-09-05">
+<author orcid="0000-0002-7284-8006" pid="55/684">David M. Eyers</author>
+<author pid="21/5885">Ramani Routray</author>
+<author pid="60/2536">Rui Zhang</author>
+<author pid="94/10027">Douglas Willcocks</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>Configuring large-scale storage using a middleware with machine learning.</title>
+<pages>2063-2077</pages>
+<year>2011</year>
+<volume>23</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>17</number>
+<ee>https://doi.org/10.1002/cpe.1716</ee>
+<url>db/journals/concurrency/concurrency23.html#EyersRZWP11</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEcloud/ZhangRECSWP11" mdate="2023-03-24">
+<author pid="60/2536">Rui Zhang</author>
+<author pid="21/5885">Ramani Routray</author>
+<author pid="55/684">David M. Eyers</author>
+<author pid="89/2753">David D. Chambliss</author>
+<author pid="03/2866">Prasenjit Sarkar</author>
+<author pid="94/10027">Douglas Willcocks</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>IO Tetris: Deep Storage Consolidation for the Cloud via Fine-Grained Workload Analysis.</title>
+<pages>700-707</pages>
+<year>2011</year>
+<booktitle>IEEE CLOUD</booktitle>
+<ee>https://doi.org/10.1109/CLOUD.2011.103</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CLOUD.2011.103</ee>
+<crossref>conf/IEEEcloud/2011</crossref>
+<url>db/conf/IEEEcloud/IEEEcloud2011.html#ZhangRECSWP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/almodep/Pietzuch11" mdate="2017-05-26">
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Building Secure Event Processing Applications.</title>
+<pages>11-11</pages>
+<year>2011</year>
+<booktitle>AlMoDEP</booktitle>
+<ee>https://doi.org/10.1145/2031792.2031794</ee>
+<crossref>conf/almodep/2011</crossref>
+<url>db/conf/almodep/almodep2011.html#Pietzuch11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asap/DenholmTPL11" mdate="2023-03-24">
+<author pid="69/10319">Stewart Denholm</author>
+<author pid="39/6802">Kuen Hung Tsoi</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<author pid="l/WayneLuk">Wayne Luk</author>
+<title>CusComNet: A customisable network for reconfigurable heterogeneous clusters.</title>
+<pages>9-16</pages>
+<year>2011</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.2011.6043231</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ASAP.2011.6043231</ee>
+<crossref>conf/asap/2011</crossref>
+<url>db/conf/asap/asap2011.html#DenholmTPL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icccn/SongMCP11" mdate="2017-05-17">
+<author pid="137/1341">JaeSeung Song</author>
+<author pid="61/3846">Tiejun Ma</author>
+<author pid="86/4141">Cristian Cadar</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Rule-Based Verification of Network Protocol Implementations Using Symbolic Execution.</title>
+<pages>1-8</pages>
+<year>2011</year>
+<booktitle>ICCCN</booktitle>
+<ee>https://doi.org/10.1109/ICCCN.2011.6005945</ee>
+<crossref>conf/icccn/2011</crossref>
+<url>db/conf/icccn/icccn2011.html#SongMCP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KleimingerKP11" mdate="2023-03-23">
+<author pid="03/9584">Wilhelm Kleiminger</author>
+<author pid="52/2675">Evangelia Kalyvianaki</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>Balancing load in stream processing with the cloud.</title>
+<pages>16-21</pages>
+<year>2011</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2011.5767653</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2011.5767653</ee>
+<crossref>conf/icde/2011w</crossref>
+<url>db/conf/icde/icdew2011.html#KleimingerKP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KalyvianakiWVKP11" mdate="2023-12-03">
+<author pid="52/2675">Evangelia Kalyvianaki</author>
+<author pid="33/4966">Wolfram Wiesemann</author>
+<author pid="33/1532">Quang Hieu Vu</author>
+<author pid="35/479-1">Daniel Kuhn 0001</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>SQPR: Stream query planning with reuse.</title>
+<pages>840-851</pages>
+<year>2011</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2011.5767851</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2011.5767851</ee>
+<crossref>conf/icde/2011</crossref>
+<url>db/conf/icde/icde2011.html#KalyvianakiWVKP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/HosekMPEESBP11" mdate="2020-09-05">
+<author pid="27/8264-1">Petr Hosek 0001</author>
+<author pid="56/2822">Matteo Migliavacca</author>
+<author pid="45/4905">Ioannis Papagiannis</author>
+<author orcid="0000-0002-7284-8006" pid="55/684">David M. Eyers</author>
+<author pid="216/2954">David Evans 0002</author>
+<author pid="90/2355">Brian Shand</author>
+<author pid="b/JeanBacon">Jean Bacon</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>SafeWeb: A Middleware for Securing Ruby-Based Web Applications.</title>
+<pages>491-511</pages>
+<year>2011</year>
+<booktitle>Middleware</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-25821-3_25</ee>
+<crossref>conf/middleware/2011</crossref>
+<url>db/conf/middleware/middleware2011.html#HosekMPEESBP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/MaP11" mdate="2018-06-26">
+<author pid="61/3846">Tiejun Ma</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>Femtocell Coverage Optimisation Using Statistical Verification.</title>
+<pages>343-354</pages>
+<year>2011</year>
+<booktitle>Networking (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-20757-0_27</ee>
+<crossref>conf/networking/2011-1</crossref>
+<url>db/conf/networking/networking2011-1.html#MaP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pam/HaddowHLLDP11" mdate="2017-05-23">
+<author pid="31/9557">Thom Haddow</author>
+<author pid="77/9557">Sing Wang Ho</author>
+<author pid="49/727">Jonathan Ledlie</author>
+<author pid="23/3990">Cristian Lumezanu</author>
+<author pid="58/5876">Moez Draief</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>On the Feasibility of Bandwidth Detouring.</title>
+<pages>81-91</pages>
+<year>2011</year>
+<booktitle>PAM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-19260-9_9</ee>
+<crossref>conf/pam/2011</crossref>
+<url>db/conf/pam/pam2011.html#HaddowHLLDP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webapps/PapagiannisMP11" mdate="2016-11-17">
+<author pid="45/4905">Ioannis Papagiannis</author>
+<author pid="56/2822">Matteo Migliavacca</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>PHP Aspis: Using Partial Taint Tracking to Protect Against Injection Attacks.</title>
+<year>2011</year>
+<booktitle>WebApps</booktitle>
+<ee>https://www.usenix.org/conference/webapps11/php-aspis-using-partial-taint-tracking-protect-against-injection-attacks</ee>
+<crossref>conf/webapps/2011</crossref>
+<url>db/conf/webapps/webapps2011.html#PapagiannisMP11</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigarch/TsoiTPL10" mdate="2020-07-30">
+<author pid="39/6802">Kuen Hung Tsoi</author>
+<author pid="14/7955">Anson H. T. Tse</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="l/WayneLuk">Wayne Luk</author>
+<title>Programming framework for clusters with heterogeneous accelerators.</title>
+<pages>53-59</pages>
+<year>2010</year>
+<volume>38</volume>
+<journal>SIGARCH Comput. Archit. News</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1926367.1926377</ee>
+<url>db/journals/sigarch/sigarch38.html#TsoiTPL10</url>
+</article>
+</r>
+<r><inproceedings key="conf/asap/WrayLP10" mdate="2023-03-24">
+<author pid="56/8571">Stephen Wray</author>
+<author pid="l/WayneLuk">Wayne Luk</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Exploring algorithmic trading in reconfigurable hardware.</title>
+<pages>325-328</pages>
+<year>2010</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.2010.5540966</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ASAP.2010.5540966</ee>
+<crossref>conf/asap/2010</crossref>
+<url>db/conf/asap/asap2010.html#WrayLP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/WrayLP10" mdate="2023-03-24">
+<author pid="56/8571">Stephen Wray</author>
+<author pid="l/WayneLuk">Wayne Luk</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>Run-Time Reconfiguration for a Reconfigurable Algorithmic Trading Engine.</title>
+<pages>163-166</pages>
+<year>2010</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2010.39</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/FPL.2010.39</ee>
+<crossref>conf/fpl/2010</crossref>
+<url>db/conf/fpl/fpl2010.html#WrayLP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/MaletP10" mdate="2018-11-06">
+<author pid="170/7521">Barnaby Malet</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Resource allocation across multiple cloud data centres.</title>
+<pages>5</pages>
+<year>2010</year>
+<booktitle>MGC@Middleware</booktitle>
+<ee>https://doi.org/10.1145/1890799.1890804</ee>
+<crossref>conf/middleware/2010mgc</crossref>
+<url>db/conf/middleware/mgc2010.html#MaletP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/BaconEEMPS10" mdate="2018-06-26">
+<author pid="b/JeanBacon">Jean Bacon</author>
+<author pid="216/2954">David Evans 0002</author>
+<author pid="55/684">David M. Eyers</author>
+<author pid="56/2822">Matteo Migliavacca</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="90/2355">Brian Shand</author>
+<title>Enforcing End-to-End Application Security in the Cloud - (Big Ideas Paper).</title>
+<pages>293-312</pages>
+<year>2010</year>
+<booktitle>Middleware</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-16955-7_15</ee>
+<crossref>conf/middleware/2010</crossref>
+<url>db/conf/middleware/middleware2010.html#BaconEEMPS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/MigliavaccaPESBP10" mdate="2020-09-05">
+<author pid="56/2822">Matteo Migliavacca</author>
+<author pid="45/4905">Ioannis Papagiannis</author>
+<author orcid="0000-0002-7284-8006" pid="55/684">David M. Eyers</author>
+<author pid="90/2355">Brian Shand</author>
+<author pid="b/JeanBacon">Jean Bacon</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Distributed Middleware Enforcement of Event Flow Security Policy.</title>
+<pages>334-354</pages>
+<year>2010</year>
+<booktitle>Middleware</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-16955-7_17</ee>
+<crossref>conf/middleware/2010</crossref>
+<url>db/conf/middleware/middleware2010.html#MigliavaccaPESBP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/percom/SongMP10" mdate="2023-03-24">
+<author pid="137/1341">JaeSeung Song</author>
+<author pid="61/3846">Tiejun Ma</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>Towards automated verification of autonomous networks: A case study in self-configuration.</title>
+<pages>582-587</pages>
+<year>2010</year>
+<booktitle>PerCom Workshops</booktitle>
+<ee>https://doi.org/10.1109/PERCOMW.2010.5470504</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PERCOMW.2010.5470504</ee>
+<crossref>conf/percom/2010w</crossref>
+<url>db/conf/percom/percomw2010.html#SongMP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/policy/RoutrayZEWPS10" mdate="2023-03-23">
+<author pid="21/5885">Ramani Routray</author>
+<author pid="60/2536">Rui Zhang</author>
+<author pid="55/684">David M. Eyers</author>
+<author pid="94/10027">Douglas Willcocks</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<author pid="03/2866">Prasenjit Sarkar</author>
+<title>Policy Generation Framework for Large-Scale Storage Infrastructures.</title>
+<pages>65-72</pages>
+<year>2010</year>
+<booktitle>POLICY</booktitle>
+<ee>https://doi.org/10.1109/POLICY.2010.30</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/POLICY.2010.30</ee>
+<crossref>conf/policy/2010</crossref>
+<url>db/conf/policy/policy2010.html#RoutrayZEWPS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/CadarPW10" mdate="2018-11-06">
+<author orcid="0000-0002-3599-7264" pid="86/4141">Cristian Cadar</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<author pid="w/AlexanderLWolf">Alexander L. Wolf</author>
+<title>Multiplicity computing: a vision of software engineering for next-generation computing platform applications.</title>
+<pages>81-86</pages>
+<year>2010</year>
+<booktitle>FoSER</booktitle>
+<ee>https://doi.org/10.1145/1882362.1882380</ee>
+<crossref>conf/sigsoft/2010foser</crossref>
+<url>db/conf/sigsoft/foser2010.html#CadarPW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/MigliavaccaPESBP10" mdate="2021-02-01">
+<author pid="56/2822">Matteo Migliavacca</author>
+<author pid="45/4905">Ioannis Papagiannis</author>
+<author pid="55/684">David M. Eyers</author>
+<author pid="90/2355">Brian Shand</author>
+<author pid="b/JeanBacon">Jean Bacon</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>DEFCON: High-Performance Event Processing with Information Security.</title>
+<year>2010</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenix-atc-10/defcon-high-performance-event-processing-information-security</ee>
+<crossref>conf/usenix/2010</crossref>
+<url>db/conf/usenix/usenix2010.html#MigliavaccaPESBP10</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/debs/2010" mdate="2010-09-01">
+<editor pid="b/JeanBacon">Jean Bacon</editor>
+<editor pid="45/4887">Peter R. Pietzuch</editor>
+<editor pid="s/JSSventek">Joe Sventek</editor>
+<editor pid="c/UgurCetintemel">Ugur &#199;etintemel</editor>
+<title>Proceedings of the Fourth ACM International Conference on Distributed Event-Based Systems, DEBS 2010, Cambridge, United Kingdom, July 12-15, 2010</title>
+<isbn>978-1-60558-927-5</isbn>
+<booktitle>DEBS</booktitle>
+<publisher>ACM</publisher>
+<year>2010</year>
+<url>db/conf/debs/debs2010.html</url>
+</proceedings>
+</r>
+<r><article key="journals/it/BaconESSMP09" mdate="2023-08-28">
+<author pid="b/JeanBacon">Jean Bacon</author>
+<author orcid="0000-0002-7284-8006" pid="55/684">David M. Eyers</author>
+<author pid="53/3181">Jatinder Singh</author>
+<author pid="90/2355">Brian Shand</author>
+<author pid="56/2822">Matteo Migliavacca</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>Security in Multi-domain Event-based Systems (Sicherheit in ereignis-basierten Mehrdom&#228;nensystemen).</title>
+<pages>277-284</pages>
+<year>2009</year>
+<volume>51</volume>
+<journal>it Inf. Technol.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1524/itit.2009.0552</ee>
+<ee>https://www.wikidata.org/entity/Q115722380</ee>
+<url>db/journals/it/it51.html#BaconESSMP09</url>
+</article>
+</r>
+<r><inproceedings key="conf/debs/PapagiannisMPSEB09" mdate="2018-11-06">
+<author pid="45/4905">Ioannis Papagiannis</author>
+<author pid="56/2822">Matteo Migliavacca</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="90/2355">Brian Shand</author>
+<author pid="55/684">David M. Eyers</author>
+<author pid="b/JeanBacon">Jean Bacon</author>
+<title>PrivateFlow: decentralised information flow control in event based middleware.</title>
+<year>2009</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/1619258.1619306</ee>
+<crossref>conf/debs/2009</crossref>
+<url>db/conf/debs/debs2009.html#PapagiannisMPSEB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/Schultz-MollerMP09" mdate="2018-11-06">
+<author pid="15/6472">Nicholas Poul Schultz-M&#248;ller</author>
+<author pid="56/2822">Matteo Migliavacca</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Distributed complex event processing with query rewriting.</title>
+<year>2009</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/1619258.1619264</ee>
+<crossref>conf/debs/2009</crossref>
+<url>db/conf/debs/debs2009.html#Schultz-MollerMP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/KosticPJP09" mdate="2019-09-25">
+<author orcid="0000-0002-1256-1070" pid="03/3188">Dejan Kostic</author>
+<author pid="63/6649">Guillaume Pierre</author>
+<author pid="27/2404">Flavio Junqueira</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>Introduction.</title>
+<pages>589</pages>
+<year>2009</year>
+<booktitle>Euro-Par</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-03869-3_55</ee>
+<crossref>conf/europar/2009</crossref>
+<url>db/conf/europar/europar2009.html#KosticPJP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iptps/HoHLDP09" mdate="2022-04-14">
+<author pid="77/9557">Sing Wang Ho</author>
+<author pid="31/9557">Thom Haddow</author>
+<author pid="49/727">Jonathan Ledlie</author>
+<author pid="58/5876">Moez Draief</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Deconstructing internet paths: an approach for AS-level detour route discovery.</title>
+<pages>8</pages>
+<year>2009</year>
+<booktitle>IPTPS</booktitle>
+<ee type="archive">http://www.iptps.org/papers-2009/ho.pdf</ee>
+<crossref>conf/iptps/2009</crossref>
+<url>db/conf/iptps/iptps2009.html#HoHLDP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/EyersRZWP09" mdate="2018-11-06">
+<author pid="55/684">David M. Eyers</author>
+<author pid="21/5885">Ramani Routray</author>
+<author pid="60/2536">Rui Zhang</author>
+<author pid="94/10027">Douglas Willcocks</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>Towards a middleware for configuring large-scale storage infrastructures.</title>
+<pages>3</pages>
+<year>2009</year>
+<booktitle>MGC@Middleware</booktitle>
+<ee>https://doi.org/10.1145/1657120.1657123</ee>
+<crossref>conf/middleware/2009mgc</crossref>
+<url>db/conf/middleware/mgc2009.html#EyersRZWP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/EyersRBPMPS09" mdate="2011-04-27">
+<author pid="55/684">David M. Eyers</author>
+<author pid="70/2430">Ben Roberts</author>
+<author pid="b/JeanBacon">Jean Bacon</author>
+<author pid="45/4905">Ioannis Papagiannis</author>
+<author pid="56/2822">Matteo Migliavacca</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="90/2355">Brian Shand</author>
+<title>Event-processing middleware with information flow control.</title>
+<pages>32</pages>
+<year>2009</year>
+<booktitle>Middleware (Companion)</booktitle>
+<ee>http://portal.acm.org/citation.cfm?id=1657022&amp;CFID=19943241&amp;CFTOKEN=14084437</ee>
+<crossref>conf/middleware/2008comp</crossref>
+<url>db/conf/middleware/comp2009.html#EyersRBPMPS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conext/BallP08" mdate="2018-11-06">
+<author pid="82/4077">Nicholas Ball</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>Distributed content delivery using load-aware network coordinates.</title>
+<pages>77</pages>
+<year>2008</year>
+<booktitle>CoNEXT</booktitle>
+<ee>https://doi.org/10.1145/1544012.1544089</ee>
+<crossref>conf/conext/2008</crossref>
+<url>db/conf/conext/conext2008.html#BallP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/BaconESP08" mdate="2018-11-06">
+<author pid="b/JeanBacon">Jean Bacon</author>
+<author pid="55/684">David M. Eyers</author>
+<author pid="53/3181">Jatinder Singh</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>Access control in publish/subscribe systems.</title>
+<pages>23-34</pages>
+<year>2008</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/1385989.1385993</ee>
+<crossref>conf/debs/2008</crossref>
+<url>db/conf/debs/debs2008.html#BaconESP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurosys/Pietzuch08" mdate="2022-04-09">
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>Challenges in dependable internet-scale stream processing.</title>
+<pages>25-28</pages>
+<year>2008</year>
+<booktitle>WDDDM@EuroSys</booktitle>
+<ee>https://doi.org/10.1145/1435523.1435528</ee>
+<crossref>conf/eurosys/2008wdddm</crossref>
+<url>db/conf/eurosys/wdddm2008.html#Pietzuch08</url>
+</inproceedings>
+</r>
+<r><article key="journals/dsonline/PietzuchMF07" mdate="2022-06-13">
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<author pid="17/6562">Gero M&#252;hl</author>
+<author pid="73/1084">Ludger Fiege</author>
+<title>Distributed Event-Based Systems: An Emerging Community.</title>
+<year>2007</year>
+<volume>8</volume>
+<journal>IEEE Distributed Syst. Online</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MDSO.2007.8</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MDSO.2007.8</ee>
+<url>db/journals/dsonline/dsonline8.html#PietzuchMF07</url>
+</article>
+</r>
+<r><inproceedings key="conf/debs/PietzuchEKS07" mdate="2018-11-06">
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<author pid="55/684">David M. Eyers</author>
+<author pid="k/SamuelKounev">Samuel Kounev</author>
+<author pid="90/2355">Brian Shand</author>
+<title>Towards a common API for publish/subscribe.</title>
+<pages>152-157</pages>
+<year>2007</year>
+<crossref>conf/debs/2007</crossref>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/1266894.1266924</ee>
+<url>db/conf/debs/debs2007.html#PietzuchEKS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iptps/LedlieMSP07" mdate="2022-04-14">
+<author pid="49/727">Jonathan Ledlie</author>
+<author pid="74/838">Michael Mitzenmacher</author>
+<author pid="s/MargoISeltzer">Margo I. Seltzer</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Wired Geometric Routing.</title>
+<year>2007</year>
+<booktitle>IPTPS</booktitle>
+<ee type="archive">http://www.iptps.org/papers-2007/LedliePietzuch.pdf</ee>
+<crossref>conf/iptps/2007</crossref>
+<url>db/conf/iptps/iptps2007.html#LedlieMSP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nsdi/RoseMPLRW07" mdate="2021-02-02">
+<author pid="41/3098">Ian Rose</author>
+<author pid="16/3580">Rohan Murty</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="49/727">Jonathan Ledlie</author>
+<author pid="r/MRoussopoulos">Mema Roussopoulos</author>
+<author pid="w/MattWelsh">Matt Welsh</author>
+<title>Cobra: Content-based Filtering and Aggregation of Blogs and RSS Feeds.</title>
+<year>2007</year>
+<crossref>conf/nsdi/2007</crossref>
+<booktitle>NSDI</booktitle>
+<ee type="oa">http://www.usenix.org/events/nsdi07/tech/rose.html</ee>
+<url>db/conf/nsdi/nsdi2007.html#RoseMPLRW07</url>
+</inproceedings>
+</r>
+<r><book key="books/daglib/0016438" mdate="2017-05-29">
+<author pid="17/6562">Gero M&#252;hl</author>
+<author pid="73/1084">Ludger Fiege</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>Distributed event-based systems.</title>
+<pages>I-XVIII, 1-384</pages>
+<publisher>Springer</publisher>
+<year>2006</year>
+<isbn>978-3-540-32651-9</isbn>
+<ee>https://doi.org/10.1007/3-540-32653-7</ee>
+</book>
+</r>
+<r><inproceedings key="conf/icdcs/LedliePS06" mdate="2023-03-24">
+<author pid="49/727">Jonathan Ledlie</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<author pid="s/MargoISeltzer">Margo I. Seltzer</author>
+<title>Stable and Accurate Network Coordinates.</title>
+<pages>74</pages>
+<year>2006</year>
+<crossref>conf/icdcs/2006</crossref>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS.2006.79</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDCS.2006.79</ee>
+<url>db/conf/icdcs/icdcs2006.html#LedliePS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcsw/PietzuchLMS06" mdate="2023-03-24">
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<author pid="49/727">Jonathan Ledlie</author>
+<author pid="74/838">Michael Mitzenmacher</author>
+<author pid="s/MargoISeltzer">Margo I. Seltzer</author>
+<title>Network-Aware Overlays with Network Coordinates.</title>
+<pages>12</pages>
+<year>2006</year>
+<crossref>conf/icdcsw/2006</crossref>
+<booktitle>ICDCS Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDCSW.2006.76</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDCSW.2006.76</ee>
+<url>db/conf/icdcsw/icdcsw2006.html#PietzuchLMS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/PietzuchLSRWS06" mdate="2023-03-24">
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<author pid="49/727">Jonathan Ledlie</author>
+<author pid="90/733">Jeffrey Shneidman</author>
+<author pid="r/MRoussopoulos">Mema Roussopoulos</author>
+<author pid="w/MattWelsh">Matt Welsh</author>
+<author pid="s/MargoISeltzer">Margo I. Seltzer</author>
+<title>Network-Aware Operator Placement for Stream-Processing Systems.</title>
+<pages>49</pages>
+<year>2006</year>
+<crossref>conf/icde/2006</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2006.105</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2006.105</ee>
+<url>db/conf/icde/icde2006.html#PietzuchLSRWS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fast/PietzuchLS05" mdate="2021-02-02">
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="49/727">Jonathan Ledlie</author>
+<author pid="s/MargoISeltzer">Margo I. Seltzer</author>
+<title>Supporting Network Coordinates on PlanetLab.</title>
+<year>2005</year>
+<booktitle>WORLDS</booktitle>
+<ee type="oa">https://www.usenix.org/conference/worlds-05/supporting-network-coordinates-planetlab</ee>
+<crossref>conf/fast/2005worlds</crossref>
+<url>db/conf/fast/worlds2005.html#PietzuchLS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ShneidmanPWSR05" mdate="2023-03-24">
+<author pid="90/733">Jeffrey Shneidman</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<author pid="w/MattWelsh">Matt Welsh</author>
+<author pid="s/MargoISeltzer">Margo I. Seltzer</author>
+<author pid="r/MRoussopoulos">Mema Roussopoulos</author>
+<title>A Cost-Space Approach to Distributed Query Optimization in Stream Based Overlays.</title>
+<pages>1182</pages>
+<year>2005</year>
+<crossref>conf/icde/2005w</crossref>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2005.161</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2005.161</ee>
+<url>db/conf/icde/icdew2005.html#ShneidmanPWSR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iptps/PietzuchSLWSR05" mdate="2017-05-26">
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="90/733">Jeffrey Shneidman</author>
+<author pid="49/727">Jonathan Ledlie</author>
+<author pid="w/MattWelsh">Matt Welsh</author>
+<author pid="s/MargoISeltzer">Margo I. Seltzer</author>
+<author pid="r/MRoussopoulos">Mema Roussopoulos</author>
+<title>Evaluating DHT-Based Service Placement for Stream-Based Overlays.</title>
+<pages>275-286</pages>
+<year>2005</year>
+<crossref>conf/iptps/2005</crossref>
+<booktitle>IPTPS</booktitle>
+<ee>https://doi.org/10.1007/11558989_25</ee>
+<url>db/conf/iptps/iptps2005.html#PietzuchSLWSR05</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ethos/Pietzuch04" mdate="2022-04-05">
+<author pid="45/4887">Peter Robert Pietzuch</author>
+<title>Hermes: a scalable event-based middleware.</title>
+<year>2004</year>
+<school>University of Cambridge, UK</school>
+<ee>https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.615829</ee>
+<note type="source">British Library, EThOS</note>
+</phdthesis>
+</r>
+<r><article key="journals/network/PietzuchSB04" mdate="2020-09-11">
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<author pid="90/2355">Brian Shand</author>
+<author pid="b/JeanBacon">Jean Bacon</author>
+<title>Composite Event Detection as a Generic Middleware Extension.</title>
+<pages>44-55</pages>
+<year>2004</year>
+<volume>18</volume>
+<journal>IEEE Netw.</journal>
+<number>1</number>
+<url>db/journals/network/network18.html#PietzuchSB04</url>
+<ee>https://doi.org/10.1109/MNET.2004.1265833</ee>
+</article>
+</r>
+<r><inproceedings key="conf/debs/BelokosztolszkiEPBM03" mdate="2018-11-06">
+<author pid="51/3332">Andr&#225;s Belokosztolszki</author>
+<author pid="55/684">David M. Eyers</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<author pid="b/JeanBacon">Jean Bacon</author>
+<author pid="36/5483">Ken Moody</author>
+<title>Role-based access control for publish/subscribe middleware architectures.</title>
+<year>2003</year>
+<crossref>conf/debs/2003</crossref>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/966618.966622</ee>
+<url>db/conf/debs/debs2003.html#BelokosztolszkiEPBM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/PietzuchB03" mdate="2018-11-06">
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<author pid="b/JeanBacon">Jean Bacon</author>
+<title>Peer-to-peer overlay broker networks in an event-based middleware.</title>
+<year>2003</year>
+<crossref>conf/debs/2003</crossref>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/966618.966628</ee>
+<url>db/conf/debs/debs2003.html#PietzuchB03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexaw/DragovicKHP03" mdate="2023-03-24">
+<author pid="85/2995">Boris Dragovic</author>
+<author pid="40/413">Evangelos Kotsovinos</author>
+<author pid="69/6457">Steven Hand 0001</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<title>XenoTrust: Event-based distributed trust management.</title>
+<pages>410-414</pages>
+<year>2003</year>
+<crossref>conf/dexaw/2003</crossref>
+<booktitle>DEXA Workshops</booktitle>
+<ee>https://doi.org/10.1109/DEXA.2003.1232056</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DEXA.2003.1232056</ee>
+<url>db/conf/dexaw/dexaw2003.html#DragovicKHP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/PietzuchSB03" mdate="2017-05-25">
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="90/2355">Brian Shand</author>
+<author pid="b/JeanBacon">Jean Bacon</author>
+<title>A Framework for Event Composition in Distributed Systems.</title>
+<pages>62-82</pages>
+<ee>https://doi.org/10.1007/3-540-44892-6_4</ee>
+<year>2003</year>
+<crossref>conf/middleware/2003</crossref>
+<booktitle>Middleware</booktitle>
+<url>db/conf/middleware/middleware2003.html#PietzuchSB03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/PietzuchB03" mdate="2017-05-25">
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="39/840">Sumeer Bhola</author>
+<title>Congestion Control in a Reliable Scalable Message-Oriented Middleware.</title>
+<pages>202-221</pages>
+<ee>https://doi.org/10.1007/3-540-44892-6_11</ee>
+<year>2003</year>
+<crossref>conf/middleware/2003</crossref>
+<booktitle>Middleware</booktitle>
+<url>db/conf/middleware/middleware2003.html#PietzuchB03</url>
+</inproceedings>
+</r>
+<r><article key="journals/cm/CrowcroftBPCN02" mdate="2023-08-28">
+<author pid="c/JonCrowcroft">Jon Crowcroft</author>
+<author pid="b/JeanBacon">Jean Bacon</author>
+<author orcid="0000-0002-6963-5640" pid="45/4887">Peter R. Pietzuch</author>
+<author pid="c/GeorgeCoulouris">George Coulouris</author>
+<author pid="78/471">Hani Naguib</author>
+<title>Channel islands in a reflective ocean: large-scale event distribution in heterogeneous networks.</title>
+<pages>112-115</pages>
+<year>2002</year>
+<volume>40</volume>
+<journal>IEEE Commun. Mag.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/MCOM.2002.1031837</ee>
+<ee>https://www.wikidata.org/entity/Q114629086</ee>
+<url>db/journals/cm/cm40.html#CrowcroftBPCN02</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdcsw/PietzuchB02" mdate="2023-03-24">
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="b/JeanBacon">Jean Bacon</author>
+<title>Hermes: A Distributed Event-Based Middleware Architecture.</title>
+<pages>611-618</pages>
+<year>2002</year>
+<crossref>conf/icdcsw/2002</crossref>
+<booktitle>ICDCS Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDCSW.2002.1030837</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDCSW.2002.1030837</ee>
+<url>db/conf/icdcsw/icdcsw2002.html#PietzuchB02</url>
+</inproceedings>
+</r>
+<coauthors n="274" nc="1">
+<co c="0"><na f="a/Ai:Baole" pid="199/8336">Baole Ai</na></co>
+<co c="0"><na f="a/Alim:Abdul" pid="121/2785">Abdul Alim</na></co>
+<co c="0"><na f="a/Allani:Mouna" pid="37/6437">Mouna Allani</na></co>
+<co c="0"><na f="a/Arnautov:Sergei" pid="156/3300">Sergei Arnautov</na></co>
+<co c="0"><na f="a/Artigas:Marc_S=aacute=nchez" pid="69/1023">Marc S&#225;nchez Artigas</na></co>
+<co c="0"><na f="a/Ashton:Edward" pid="293/9402">Edward Ashton</na></co>
+<co c="0"><na f="a/Aublin:Pierre=Louis" pid="139/0414">Pierre-Louis Aublin</na></co>
+<co c="0"><na f="b/Bacon:Jean" pid="b/JeanBacon">Jean Bacon</na></co>
+<co c="0"><na f="b/Baguena:Miguel" pid="14/10643">Miguel Baguena</na></co>
+<co c="-1"><na f="b/Ball:Nicholas" pid="82/4077">Nicholas Ball</na></co>
+<co c="0"><na f="b/Belokosztolszki:Andr=aacute=s" pid="51/3332">Andr&#225;s Belokosztolszki</na></co>
+<co c="0"><na f="b/Bergman:Shai" pid="184/8323">Shai Bergman</na></co>
+<co c="0"><na f="b/Bhatotia:Pramod" pid="35/8319">Pramod Bhatotia</na></co>
+<co c="0"><na f="b/Bhola:Sumeer" pid="39/840">Sumeer Bhola</na></co>
+<co c="0"><na f="b/Bilas:Angelos" pid="96/4578">Angelos Bilas</na></co>
+<co c="0"><na f="b/Brabete:Andrei=Octavian" pid="237/9453">Andrei-Octavian Brabete</na></co>
+<co c="0"><na f="b/Breitgand:David" pid="59/4355">David Breitgand</na></co>
+<co c="0"><na f="b/Brenner:Stefan" pid="130/2908">Stefan Brenner</na></co>
+<co c="0"><na f="b/Bressana:Pietro" pid="180/5790">Pietro Bressana</na></co>
+<co c="0"><na f="b/Brito:Andrey" pid="25/4955">Andrey Brito</na></co>
+<co c="0"><na f="b/Buchmann:Alejandro_P=" pid="b/APBuchmann">Alejandro P. Buchmann</na></co>
+<co c="0"><na f="b/Buono:Daniele" pid="95/7975">Daniele Buono</na></co>
+<co c="0"><na f="c/Cadar:Cristian" pid="86/4141">Cristian Cadar</na></co>
+<co c="0"><na f="c/Canakci:Burcu" pid="305/7661">Burcu Canakci</na></co>
+<co c="0"><na f="c/Carmo:Luiz_Fernando_Rust_da_Costa" pid="50/943">Luiz Fernando Rust da Costa Carmo</na></co>
+<co c="0"><na f="c/Castro_0001:Miguel" pid="c/MiguelCastro">Miguel Castro 0001</na></co>
+<co c="0"><na f="c/Cervi=ntilde=o:Javier" pid="13/8193">Javier Cervi&#241;o</na></co>
+<co c="0"><na f="=/=Ccedil=etintemel:Ugur" pid="c/UgurCetintemel">Ugur &#199;etintemel</na></co>
+<co c="0"><na f="c/Chakravarthy:Sharma" pid="c/SChakravarthy">Sharma Chakravarthy</na></co>
+<co c="0"><na f="c/Chamayou:Amaury" pid="256/9362">Amaury Chamayou</na></co>
+<co c="0"><na f="c/Chambliss:David_D=" pid="89/2753">David D. Chambliss</na></co>
+<co c="0"><na f="c/Chen:Gang" pid="67/6383">Gang Chen</na></co>
+<co c="0"><na f="c/Chen:Lei" pid="09/3666">Lei Chen</na></co>
+<co c="0"><na f="c/Chen:Weifeng" pid="74/5429">Weifeng Chen</na></co>
+<co c="0"><na f="c/Chen_0015:Xi" pid="16/3283-15">Xi Chen 0015</na></co>
+<co c="0"><na f="c/Chen:Yijie" pid="204/2235">Yijie Chen</na></co>
+<co c="0"><na f="c/Clebsch:Sylvan" pid="136/0910">Sylvan Clebsch</na></co>
+<co c="0"><na f="c/Clegg:Richard_G=" pid="47/5557">Richard G. Clegg</na></co>
+<co c="0"><na f="c/Costa:Manuel" pid="35/6770">Manuel Costa</na></co>
+<co c="0"><na f="c/Costa:Paolo" pid="47/6119">Paolo Costa</na></co>
+<co c="0"><na f="c/Coulouris:George" pid="c/GeorgeCoulouris">George Coulouris</na></co>
+<co c="0"><na f="c/Crowcroft:Jon" pid="c/JonCrowcroft">Jon Crowcroft</na></co>
+<co c="0"><na f="c/Cuadrado:F=eacute=lix" pid="41/5008">F&#233;lix Cuadrado</na></co>
+<co c="0"><na f="c/Cui:Shujie" pid="144/6258">Shujie Cui</na></co>
+<co c="0"><na f="c/Culhane:William" pid="119/6371">William Culhane</na></co>
+<co c="0"><na f="d/Delgado=Gonzalo:Ricard" pid="98/8108">Ricard Delgado-Gonzalo</na></co>
+<co c="0"><na f="d/Delignat=Lavaud:Antoine" pid="121/1113">Antoine Delignat-Lavaud</na></co>
+<co c="0"><na f="d/Denholm:Stewart" pid="69/10319">Stewart Denholm</na></co>
+<co c="0"><na f="d/Dragovic:Boris" pid="85/2995">Boris Dragovic</na></co>
+<co c="0"><na f="d/Draief:Moez" pid="58/5876">Moez Draief</na></co>
+<co c="0"><na f="e/Erb:Benjamin" pid="117/6830">Benjamin Erb</na></co>
+<co c="0" n="2"><na f="e/Eugster:Patrick" pid="14/4443">Patrick Eugster</na><na>Patrick Th. Eugster</na></co>
+<co c="0"><na f="e/Evans_0002:David" pid="216/2954">David Evans 0002</na></co>
+<co c="0"><na f="e/Eyal:Ittay" pid="86/8318">Ittay Eyal</na></co>
+<co c="0"><na f="e/Eyers:David_M=" pid="55/684">David M. Eyers</na></co>
+<co c="0"><na f="f/Feh=eacute=r:Marcell" pid="82/11338">Marcell Feh&#233;r</na></co>
+<co c="0"><na f="f/Felber:Pascal" pid="f/PascalFelber">Pascal Felber</na></co>
+<co c="0"><na f="f/Feldman=Fitzthum:Tobin" pid="331/8504">Tobin Feldman-Fitzthum</na></co>
+<co c="0"><na f="f/Fernandez:Raul_Castro" pid="131/4202">Raul Castro Fernandez</na></co>
+<co c="0"><na f="f/Ferreira_0001:Paulo" pid="f/PauloJPFerreira">Paulo Ferreira 0001</na></co>
+<co c="0"><na f="f/Ferrer:Ana_Juan" pid="89/10073">Ana Juan Ferrer</na></co>
+<co c="0"><na f="f/Fertakis:Konstantinos" pid="232/8116">Konstantinos Fertakis</na></co>
+<co c="0"><na f="f/Fetzer:Christof" pid="f/ChristofFetzer">Christof Fetzer</na></co>
+<co c="0"><na f="f/Fiege:Ludger" pid="73/1084">Ludger Fiege</na></co>
+<co c="0"><na f="f/Fiscato:Marco" pid="28/7636">Marco Fiscato</na></co>
+<co c="0"><na f="f/Fonseca:Keiko_Ver=ocirc=nica_Ono" pid="55/2902">Keiko Ver&#244;nica Ono Fonseca</na></co>
+<co c="0"><na f="f/Fournet:C=eacute=dric" pid="f/CedricFournet">C&#233;dric Fournet</na></co>
+<co c="0"><na f="f/Fournial:Mayeul" pid="340/7997">Mayeul Fournial</na></co>
+<co c="0"><na f="f/Franciosi:Felipe" pid="38/5577">Felipe Franciosi</na></co>
+<co c="0"><na f="f/Freudenreich:Tobias" pid="85/2676">Tobias Freudenreich</na></co>
+<co c="0"><na f="f/Frischbier:Sebastian" pid="09/8731">Sebastian Frischbier</na></co>
+<co c="0"><na f="g/Gal:Avigdor" pid="g/AvigdorGal">Avigdor Gal</na></co>
+<co c="0"><na f="g/Galea:Salvator" pid="200/8639">Salvator Galea</na></co>
+<co c="0"><na f="g/Gandhi:Anshul" pid="62/2403">Anshul Gandhi</na></co>
+<co c="0"><na f="g/Garbinato:Beno=icirc=t" pid="54/2229">Beno&#238;t Garbinato</na></co>
+<co c="0"><na f="g/Garefalakis:Panagiotis" pid="126/7608">Panagiotis Garefalakis</na></co>
+<co c="0"><na f="g/Geden:Munir" pid="228/3960">Munir Geden</na></co>
+<co c="0"><na f="g/Gesmann:Michael" pid="53/3438">Michael Gesmann</na></co>
+<co c="0"><na f="g/Giceva:Jana" pid="32/7263">Jana Giceva</na></co>
+<co c="0"><na f="g/Goltzsche:David" pid="189/0097">David Goltzsche</na></co>
+<co c="0"><na f="g/Gomes_Jr=:Luiz_Celso" pid="68/6898">Luiz Celso Gomes Jr.</na></co>
+<co c="0"><na f="g/Grammenos:Andreas" pid="217/5536">Andreas Grammenos</na></co>
+<co c="0"><na f="g/Greaves:David" pid="200/8803">David Greaves</na></co>
+<co c="0"><na f="g/Gregor:Franz" pid="188/9991">Franz Gregor</na></co>
+<co c="0"><na f="g/Griffin_0001:David" pid="42/7041">David Griffin 0001</na></co>
+<co c="0"><na f="h/Haddow:Thom" pid="31/9557">Thom Haddow</na></co>
+<co c="0"><na f="h/Hand_0001:Steven" pid="69/6457">Steven Hand 0001</na></co>
+<co c="0" n="2"><na f="h/Havet:Aurelien" pid="199/8673">Aurelien Havet</na><na>Aur&#233;lien Havet</na></co>
+<co c="0"><na f="h/He:Congjie" pid="263/2256">Congjie He</na></co>
+<co c="0"><na f="h/Hildebrand:Dean" pid="56/3008">Dean Hildebrand</na></co>
+<co c="0"><na f="h/Ho:Sing_Wang" pid="77/9557">Sing Wang Ho</na></co>
+<co c="0"><na f="h/Hosek_0001:Petr" pid="27/8264-1">Petr Hosek 0001</na></co>
+<co c="0"><na f="h/Hu_0001:Xin" pid="13/6380-1">Xin Hu 0001</na></co>
+<co c="0"><na f="h/Hughes:Peter" pid="01/1377">Peter Hughes</na></co>
+<co c="0"><na f="j/Jayaram:K=_R=" pid="21/2983">K. R. Jayaram</na></co>
+<co c="0"><na f="j/Jerzak:Zbigniew" pid="73/843">Zbigniew Jerzak</na></co>
+<co c="0" n="2"><na f="j/Junqueira:Flavio_Paiva" pid="27/2404">Flavio Paiva Junqueira</na><na>Flavio Junqueira</na></co>
+<co c="0"><na f="k/Kalyvianaki:Evangelia" pid="52/2675">Evangelia Kalyvianaki</na></co>
+<co c="0"><na f="k/Kapitza:R=uuml=diger" pid="27/2697">R&#252;diger Kapitza</na></co>
+<co c="0"><na f="k/Karanasos:Konstantinos" pid="59/7992">Konstantinos Karanasos</na></co>
+<co c="0"><na f="k/Kargl:Frank" pid="46/306">Frank Kargl</na></co>
+<co c="0"><na f="k/Keeton:Kimberly" pid="k/KimberlyKeeton">Kimberly Keeton</na></co>
+<co c="0"><na f="k/Kegel:Ian" pid="80/6613">Ian Kegel</na></co>
+<co c="0"><na f="k/Kelbert:Florian" pid="115/7963">Florian Kelbert</na></co>
+<co c="0"><na f="k/Kemme:Bettina" pid="k/BettinaKemme">Bettina Kemme</na></co>
+<co c="0"><na f="k/Kerner:Matthew" pid="293/8000">Matthew Kerner</na></co>
+<co c="0"><na f="k/Kleiminger:Wilhelm" pid="03/9584">Wilhelm Kleiminger</na></co>
+<co c="0"><na f="k/Knauth:Thomas" pid="46/7509">Thomas Knauth</na></co>
+<co c="0"><na f="k/Knottenbelt:William_J=" pid="37/1901">William J. Knottenbelt</na></co>
+<co c="0"><na f="k/Koleini:Masoud" pid="89/10257">Masoud Koleini</na></co>
+<co c="0"><na f="k/Koliousis:Alexandros" pid="85/4903">Alexandros Koliousis</na></co>
+<co c="0"><na f="k/K=ouml=psell:Stefan" pid="64/3482">Stefan K&#246;psell</na></co>
+<co c="0"><na f="k/Koshy:Joel" pid="13/5975">Joel Koshy</na></co>
+<co c="0"><na f="k/Kostic:Dejan" pid="03/3188">Dejan Kostic</na></co>
+<co c="0"><na f="k/Kotsovinos:Evangelos" pid="40/413">Evangelos Kotsovinos</na></co>
+<co c="0"><na f="k/Kounelis:Fotios" pid="206/8057">Fotios Kounelis</na></co>
+<co c="0"><na f="k/Kounev:Samuel" pid="k/SamuelKounev">Samuel Kounev</na></co>
+<co c="0"><na f="k/Krahn:Robert" pid="42/7656">Robert Krahn</na></co>
+<co c="0"><na f="k/Kreps:Jay" pid="116/2694">Jay Kreps</na></co>
+<co c="0"><na f="k/Kuhn_0001:Daniel" pid="35/479-1">Daniel Kuhn 0001</na></co>
+<co c="0"><na f="k/Kurmus:Anil" pid="62/8322">Anil Kurmus</na></co>
+<co c="0"><na f="l/Landa:Raul" pid="40/2410">Raul Landa</na></co>
+<co c="0"><na f="l/Ledlie:Jonathan" pid="49/727">Jonathan Ledlie</na></co>
+<co c="0"><na f="l/Lemay:Mathieu" pid="18/4179">Mathieu Lemay</na></co>
+<co c="0"><na f="l/Li:Guo" pid="35/1964">Guo Li</na></co>
+<co c="0"><na f="l/Li_0003:Haohua" pid="248/5938-3">Haohua Li 0003</na></co>
+<co c="0"><na f="l/Li:Yuanhong" pid="11/4067">Yuanhong Li</na></co>
+<co c="0"><na f="l/Lin:Dong" pid="54/208">Dong Lin</na></co>
+<co c="0"><na f="l/Lind:Joshua" pid="188/9951">Joshua Lind</na></co>
+<co c="0"><na f="l/Liu_0001:Ling" pid="l/LingLiu">Ling Liu 0001</na></co>
+<co c="0"><na f="l/Liu:Xiaoze" pid="239/4537">Xiaoze Liu</na></co>
+<co c="0"><na f="l/L=oacute=pez:Pedro_Garc=iacute=a" pid="63/4811">Pedro Garc&#237;a L&#243;pez</na></co>
+<co c="0"><na f="l/Lorenz:Matthias" pid="119/0666">Matthias Lorenz</na></co>
+<co c="0" n="2"><na f="l/Lucani:Daniel_Enrique" pid="96/3518">Daniel Enrique Lucani</na><na>Daniel E. Lucani</na></co>
+<co c="0"><na f="l/Luk:Wayne" pid="l/WayneLuk">Wayne Luk</na></co>
+<co c="0"><na f="l/Lumezanu:Cristian" pid="23/3990">Cristian Lumezanu</na></co>
+<co c="0"><na f="m/Ma:Tiejun" pid="61/3846">Tiejun Ma</na></co>
+<co c="0"><na f="m/Madhavapeddy:Anil" pid="32/1528">Anil Madhavapeddy</na></co>
+<co c="0"><na f="m/Maffre:Julien" pid="293/8636">Julien Maffre</na></co>
+<co c="0"><na f="m/Magoutis:Kostas" pid="99/3621">Kostas Magoutis</na></co>
+<co c="0"><na f="m/Mai:Luo" pid="81/10470">Luo Mai</na></co>
+<co c="-1"><na f="m/Malet:Barnaby" pid="170/7521">Barnaby Malet</na></co>
+<co c="0"><na f="m/Manzoni:Pietro" pid="22/2967">Pietro Manzoni</na></co>
+<co c="0"><na f="m/Mappoura:Eleftheria" pid="340/7802">Eleftheria Mappoura</na></co>
+<co c="0"><na f="m/Margan:Domagoj" pid="146/0411">Domagoj Margan</na></co>
+<co c="0"><na f="m/Margara:Alessandro" pid="05/7380">Alessandro Margara</na></co>
+<co c="0"><na f="m/Markatos:Evangelos_P=" pid="m/EvangelosPMarkatos">Evangelos P. Markatos</na></co>
+<co c="0"><na f="m/Martin:Andr=eacute=" pid="45/9936">Andr&#233; Martin</na></co>
+<co c="0"><na f="m/McAuley:Derek" pid="57/6908">Derek McAuley</na></co>
+<co c="0"><na f="m/Mei=szlig=ner:Dominik" pid="188/4715">Dominik Mei&#223;ner</na></co>
+<co c="0"><na f="m/Migliavacca:Matteo" pid="56/2822">Matteo Migliavacca</na></co>
+<co c="0"><na f="m/Mitzenmacher:Michael" pid="74/838">Michael Mitzenmacher</na></co>
+<co c="0"><na f="m/Moody:Ken" pid="36/5483">Ken Moody</na></co>
+<co c="0"><na f="m/Moore_0002:Andrew_W=" pid="95/2279-2">Andrew W. Moore 0002</na></co>
+<co c="0"><na f="m/Morales:Victoria_Lopez" pid="185/9284">Victoria Lopez Morales</na></co>
+<co c="0"><na f="m/Mortier:Richard" pid="28/5155">Richard Mortier</na></co>
+<co c="0"><na f="m/M=uuml=hl:Gero" pid="17/6562">Gero M&#252;hl</na></co>
+<co c="0"><na f="m/Murty:Rohan" pid="16/3580">Rohan Murty</na></co>
+<co c="0"><na f="m/Muthukumaran:Divya" pid="55/755">Divya Muthukumaran</na></co>
+<co c="0"><na f="n/Naguib:Hani" pid="78/471">Hani Naguib</na></co>
+<co c="0"><na f="n/Nagy:L=aacute=szl=oacute=" pid="259/7606">L&#225;szl&#243; Nagy</na></co>
+<co c="0"><na f="n/Nakatsuka:Yoshimichi" pid="205/8037">Yoshimichi Nakatsuka</na></co>
+<co c="0"><na f="n/Naor:Oded" pid="203/9047">Oded Naor</na></co>
+<co c="0"><na f="n/Narayanan:Dushyanth" pid="45/2517">Dushyanth Narayanan</na></co>
+<co c="0"><na f="n/Narkhede:Neha" pid="72/7536">Neha Narkhede</na></co>
+<co c="0"><na f="n/Nieke:Manuel" pid="191/5180">Manuel Nieke</na></co>
+<co c="0"><na f="o/Ogden:Peter" pid="137/6714">Peter Ogden</na></co>
+<co c="0"><na f="o/O=Keeffe:Dan" pid="24/8298">Dan O'Keeffe</na></co>
+<co c="0"><na f="o/O=Keeffe:Daniel" pid="213/7353">Daniel O'Keeffe</na></co>
+<co c="0"><na f="o/Osman:Rasha" pid="82/2642">Rasha Osman</na></co>
+<co c="0"><na f="o/Oviedo:Luis" pid="182/6708">Luis Oviedo</na></co>
+<co c="0"><na f="o/Owen:Bill" pid="199/8846">Bill Owen</na></co>
+<co c="0"><na f="o/Ozturk:Ercan" pid="205/2579">Ercan Ozturk</na></co>
+<co c="0"><na f="p/Pamboris:Andreas" pid="61/7545">Andreas Pamboris</na></co>
+<co c="0"><na f="p/Papagiannis:Ioannis" pid="45/4905">Ioannis Papagiannis</na></co>
+<co c="0"><na f="p/Par=iacute=s:Gerard" pid="33/4670">Gerard Par&#237;s</na></co>
+<co c="0"><na f="p/Pasin:Marcelo" pid="52/4916">Marcelo Pasin</na></co>
+<co c="0" n="2"><na f="p/Pasquier:Thomas" pid="144/4204">Thomas Pasquier</na><na>Thomas F. J.-M. Pasquier</na></co>
+<co c="0"><na f="p/Paverd:Andrew" pid="30/9784">Andrew Paverd</na></co>
+<co c="0"><na f="p/Pierre:Guillaume" pid="63/6649">Guillaume Pierre</na></co>
+<co c="0"><na f="p/Pires:Rafael" pid="189/6914">Rafael Pires</na></co>
+<co c="0"><na f="p/Pirk:Holger" pid="08/3969">Holger Pirk</na></co>
+<co c="0"><na f="p/Prado:Charles_B=" pid="98/9056">Charles B. Prado</na></co>
+<co c="0"><na f="p/Priebe:Christian" pid="161/6100">Christian Priebe</na></co>
+<co c="0"><na f="r/Rao:Jun" pid="r/JunRao">Jun Rao</na></co>
+<co c="0"><na f="r/Rao:Sriram" pid="07/1315">Sriram Rao</na></co>
+<co c="0"><na f="r/Reiher:Tobias" pid="191/2285">Tobias Reiher</na></co>
+<co c="0"><na f="r/Riccomini:Chris" pid="117/5983">Chris Riccomini</na></co>
+<co c="0"><na f="r/Rieck:Konrad" pid="64/4020">Konrad Rieck</na></co>
+<co c="0"><na f="r/Riella:Rodrigo_Jardim" pid="204/2222">Rodrigo Jardim Riella</na></co>
+<co c="0"><na f="r/Rio:Miguel" pid="88/1966">Miguel Rio</na></co>
+<co c="0"><na f="r/Roberts:Ben" pid="70/2430">Ben Roberts</na></co>
+<co c="0"><na f="r/Rodrigues_0001:Rodrigo" pid="87/6689">Rodrigo Rodrigues 0001</na></co>
+<co c="0"><na f="r/Rosa:Marcelo_de_Oliveira" pid="70/959">Marcelo de Oliveira Rosa</na></co>
+<co c="0"><na f="r/Rose:Ian" pid="41/3098">Ian Rose</na></co>
+<co c="0"><na f="r/Roussopoulos:Mema" pid="r/MRoussopoulos">Mema Roussopoulos</na></co>
+<co c="0"><na f="r/Routray:Ramani" pid="21/5885">Ramani Routray</na></co>
+<co c="0"><na f="r/Rundensteiner:Elke_A=" pid="r/EARundensteiner">Elke A. Rundensteiner</na></co>
+<co c="0"><na f="r/Rupprecht:Lukas" pid="91/9320">Lukas Rupprecht</na></co>
+<co c="0"><na f="r/R=uuml=sch:Signe" pid="214/8329">Signe R&#252;sch</na></co>
+<co c="0"><na f="r/Russinovich:Mark" pid="30/4468">Mark Russinovich</na></co>
+<co c="0"><na f="s/Sailer:Reiner" pid="86/4992">Reiner Sailer</na></co>
+<co c="0"><na f="s/Salonidis:Theodoros" pid="74/5471">Theodoros Salonidis</na></co>
+<co c="0"><na f="s/Salvach=uacute=a:Joaqu=iacute=n" pid="24/6459">Joaqu&#237;n Salvach&#250;a</na></co>
+<co c="0"><na f="s/Samaras:George" pid="s/GeorgeSamaras">George Samaras</na></co>
+<co c="0"><na f="s/Sarkar:Prasenjit" pid="03/2866">Prasenjit Sarkar</na></co>
+<co c="0"><na f="s/Sartakov:Vasily_A=" pid="151/4092">Vasily A. Sartakov</na></co>
+<co c="0"><na f="s/Schiavoni:Valerio" pid="15/2850">Valerio Schiavoni</na></co>
+<co c="0"><na f="s/Schultz=M=oslash=ller:Nicholas_Poul" pid="15/6472">Nicholas Poul Schultz-M&#248;ller</na></co>
+<co c="0"><na f="s/Seckler:Eric" pid="146/2879">Eric Seckler</na></co>
+<co c="0"><na f="s/Segarra:Carlos" pid="242/3155">Carlos Segarra</na></co>
+<co c="0"><na f="s/Seltzer:Margo_I=" pid="s/MargoISeltzer">Margo I. Seltzer</na></co>
+<co c="0"><na f="s/Shamis:Alex" pid="168/8978">Alex Shamis</na></co>
+<co c="0"><na f="s/Shand:Brian" pid="90/2355">Brian Shand</na></co>
+<co c="0"><na f="s/Shi:Liang" pid="09/6041">Liang Shi</na></co>
+<co c="0"><na f="s/Shillaker:Simon" pid="245/9052">Simon Shillaker</na></co>
+<co c="0"><na f="s/Shinagawa:Takahiro" pid="76/125">Takahiro Shinagawa</na></co>
+<co c="0"><na f="s/Shipton:Jonny" pid="203/1632">Jonny Shipton</na></co>
+<co c="0"><na f="s/Shneidman:Jeffrey" pid="90/733">Jeffrey Shneidman</na></co>
+<co c="0"><na f="s/Sichitiu:Mihail_L=" pid="84/5608">Mihail L. Sichitiu</na></co>
+<co c="0"><na f="s/Silberstein:Mark" pid="94/2996">Mark Silberstein</na></co>
+<co c="0"><na f="s/Singh:Jatinder" pid="53/3181">Jatinder Singh</na></co>
+<co c="0" n="2"><na f="s/Sipos:M=aacute=rton" pid="150/6322">M&#225;rton Sipos</na><na>M&#225;rton &#193;kos Sipos</na></co>
+<co c="0"><na f="s/Sirer:Emin_G=uuml=n" pid="s/EminGunSirer">Emin G&#252;n Sirer</na></co>
+<co c="0"><na f="s/Sit:Man=Kit" pid="243/1127">Man-Kit Sit</na></co>
+<co c="0" n="2"><na f="s/Song:Jaeseung" pid="137/1341">Jaeseung Song</na><na>JaeSeung Song</na></co>
+<co c="0"><na f="s/Soul=eacute=:Robert" pid="49/6828">Robert Soul&#233;</na></co>
+<co c="0"><na f="s/Steer:Benjamin_A=" pid="201/4815">Benjamin A. Steer</na></co>
+<co c="0"><na f="s/Stevens:Tim" pid="50/6042">Tim Stevens</na></co>
+<co c="0"><na f="s/Stillwell:Mark" pid="30/7684">Mark Stillwell</na></co>
+<co c="0"><na f="s/Sultana:Nik" pid="72/3034">Nik Sultana</na></co>
+<co c="0"><na f="s/Suresh:Arun" pid="217/6729">Arun Suresh</na></co>
+<co c="0"><na f="s/Sutra:Pierre" pid="09/5760">Pierre Sutra</na></co>
+<co c="0" n="2"><na f="s/Sventek:Joseph_S=" pid="s/JSSventek">Joseph S. Sventek</na><na>Joe Sventek</na></co>
+<co c="0"><na f="t/Tan:Zeyuan" pid="247/8284">Zeyuan Tan</na></co>
+<co c="0" n="2"><na f="t/Tang:Yuzhe" pid="09/1770">Yuzhe Tang</na><na>Yuzhe Richard Tang</na></co>
+<co c="0"><na f="t/Tarrant:Tristan" pid="245/9010">Tristan Tarrant</na></co>
+<co c="0"><na f="t/Thalheim:J=ouml=rg" pid="180/5598">J&#246;rg Thalheim</na></co>
+<co c="0"><na f="t/Theodorakis:Georgios" pid="227/0831">Georgios Theodorakis</na></co>
+<co c="0"><na f="t/Thomas:David_B=" pid="93/438">David B. Thomas</na></co>
+<co c="0"><na f="t/Trach:Bohdan" pid="189/0114">Bohdan Trach</na></co>
+<co c="0"><na f="t/Tse:Anson_H=_T=" pid="14/7955">Anson H. T. Tse</na></co>
+<co c="0"><na f="t/Tsoi:Kuen_Hung" pid="39/6802">Kuen Hung Tsoi</na></co>
+<co c="0"><na f="t/Turan:Erman" pid="156/4653">Erman Turan</na></co>
+<co c="0"><na f="u/Unnibhavi:Harshavardhan" pid="290/8217">Harshavardhan Unnibhavi</na></co>
+<co c="0"><na f="u/Urban:Susan_Darling" pid="62/1192">Susan Darling Urban</na></co>
+<co c="0"><na f="v/Vaucher:S=eacute=bastien" pid="220/3097">S&#233;bastien Vaucher</na></co>
+<co c="0"><na f="v/Vernik:Gil" pid="116/9589">Gil Vernik</na></co>
+<co c="0"><na f="v/Vilanova:Llu=iacute=s" pid="44/1754">Llu&#237;s Vilanova</na></co>
+<co c="0"><na f="v/Vrousgou:Olga" pid="176/4974">Olga Vrousgou</na></co>
+<co c="0"><na f="v/Vu:Quang_Hieu" pid="33/1532">Quang Hieu Vu</na></co>
+<co c="0"><na f="w/Wagenl=auml=nder:Marcel" pid="270/9067">Marcel Wagenl&#228;nder</na></co>
+<co c="0"><na f="w/Wang:Guozhang" pid="40/3179">Guozhang Wang</na></co>
+<co c="0"><na f="w/Wang_0006:Ting" pid="12/2633-6">Ting Wang 0006</na></co>
+<co c="0"><na f="w/Watcharapichat:Pijika" pid="185/9185">Pijika Watcharapichat</na></co>
+<co c="0"><na f="w/Weichbrodt:Nico" pid="185/6233">Nico Weichbrodt</na></co>
+<co c="0"><na f="w/Weidlich_0001:Matthias" pid="61/267">Matthias Weidlich 0001</na></co>
+<co c="0"><na f="w/Welsh:Matt" pid="w/MattWelsh">Matt Welsh</na></co>
+<co c="0"><na f="w/Wiesemann:Wolfram" pid="33/4966">Wolfram Wiesemann</na></co>
+<co c="0"><na f="w/Willcocks:Douglas" pid="94/10027">Douglas Willcocks</na></co>
+<co c="0"><na f="w/Williams:Doug" pid="51/3003">Doug Williams</na></co>
+<co c="0"><na f="w/Wintersteiger:Christoph_M=" pid="17/3100">Christoph M. Wintersteiger</na></co>
+<co c="0"><na f="w/W=oacute=jcik:Marcin" pid="58/9687">Marcin W&#243;jcik</na></co>
+<co c="0"><na f="w/Wolf:Alexander_L=" pid="w/AlexanderLWolf">Alexander L. Wolf</na></co>
+<co c="0"><na f="w/Wray:Stephen" pid="56/8571">Stephen Wray</na></co>
+<co c="0"><na f="w/Wulf:Colin" pid="154/0974">Colin Wulf</na></co>
+<co c="0"><na f="y/Yang_0001:Yaodong" pid="170/1496-1">Yaodong Yang 0001</na></co>
+<co c="0"><na f="y/Yuan:Xiulong" pid="310/3660">Xiulong Yuan</na></co>
+<co c="0"><na f="z/Zeng_0002:Kai" pid="80/1651-2">Kai Zeng 0002</na></co>
+<co c="0"><na f="z/Zhang:Rui" pid="60/2536">Rui Zhang</na></co>
+<co c="0"><na f="z/Zhang:Zhi" pid="36/5594">Zhi Zhang</na></co>
+<co c="0"><na f="z/Zhao_0019:Bo" pid="94/4810-19">Bo Zhao 0019</na></co>
+<co c="0"><na f="z/Zhu:Huanzhou" pid="135/5671">Huanzhou Zhu</na></co>
+<co c="0"><na f="z/Zilberman:Noa" pid="24/8146">Noa Zilberman</na></co>
+</coauthors>
+</dblpperson>

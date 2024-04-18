@@ -1,0 +1,1359 @@
+<dblpperson name="Jens Dittrich" pid="d/JensPeterDittrich" n="93">
+<person key="homepages/d/JensPeterDittrich" mdate="2022-12-12">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="d/JensPeterDittrich">Jens-Peter Dittrich</author>
+<url>https://infosys.cs.uni-saarland.de/people/dittrich.php</url>
+<url>https://www.youtube.com/user/jensdit</url>
+<url>https://scholar.google.com/citations?user=fykfPiwAAAAJ</url>
+<url>https://www.linkedin.com/in/jensdittrich</url>
+<url>https://twitter.com/jensdittrich</url>
+<url>https://www.wikidata.org/entity/Q111983314</url>
+<note type="affiliation">Saarland University, Information Systems Group</note>
+<note type="isnot">Jens Dietrich 0001</note>
+</person>
+<r><article key="journals/pacmmod/HaffnerD23" mdate="2023-06-15">
+<author orcid="0009-0003-8796-1129" pid="144/5813">Immanuel Haffner</author>
+<author orcid="0000-0003-1015-804X" pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>Efficiently Computing Join Orders with Heuristic Search.</title>
+<pages>73:1-73:26</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3588927</ee>
+<url>db/journals/pacmmod/pacmmod1.html#HaffnerD23</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/HaffnerD23" mdate="2023-07-19">
+<author pid="144/5813">Immanuel Haffner</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>mutable: A Modern DBMS for Research and Fast Prototyping.</title>
+<year>2023</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2023/papers/p41-haffner.pdf</ee>
+<crossref>conf/cidr/2023</crossref>
+<url>db/conf/cidr/cidr2023.html#HaffnerD23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/HaffnerD23" mdate="2023-04-14">
+<author pid="144/5813">Immanuel Haffner</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>A simplified Architecture for Fast, Adaptive Compilation and Execution of SQL Queries.</title>
+<pages>1-13</pages>
+<year>2023</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.48786/edbt.2023.01</ee>
+<crossref>conf/edbt/2023</crossref>
+<url>db/conf/edbt/edbt2023.html#HaffnerD23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-00638" mdate="2023-12-08">
+<author pid="247/5690">Joris Nix</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>What if an SQL Statement Returned a Database?</title>
+<year>2023</year>
+<volume>abs/2312.00638</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.00638</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-00638</url>
+</article>
+</r>
+<r><article key="journals/dbsk/Dittrich22" mdate="2023-02-15">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>The Big Data Analytics Group at Saarland University.</title>
+<pages>269-272</pages>
+<year>2022</year>
+<month>November</month>
+<volume>22</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s13222-022-00424-z</ee>
+<url>db/journals/dbsk/dbsk22.html#Dittrich22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/MaltryD22" mdate="2023-10-23">
+<author pid="276/5977">Marcel Maltry</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>A Critical Analysis of Recursive Model Indexes.</title>
+<pages>1079-1091</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p1079-maltry.pdf</ee>
+<ee>https://doi.org/10.14778/3510397.3510405</ee>
+<url>db/journals/pvldb/pvldb15.html#MaltryD22</url>
+</article>
+</r>
+<r><article key="journals/dbsk/DittrichM21" mdate="2022-03-16">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="276/5977">Marcel Maltry</author>
+<title>Database (Lecture) Streams on the Cloud.</title>
+<pages>11-18</pages>
+<year>2021</year>
+<volume>21</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s13222-021-00365-z</ee>
+<ee>https://www.wikidata.org/entity/Q108126682</ee>
+<url>db/journals/dbsk/dbsk21.html#DittrichM21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DittrichNS21" mdate="2022-04-21">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="247/5690">Joris Nix</author>
+<author pid="03/11165">Christian Sch&#246;n</author>
+<title>The next 50 Years in Database Indexing or: The Case for Automatically Generated Index Structures.</title>
+<pages>527-540</pages>
+<year>2021</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol15/p527-dittrich.pdf</ee>
+<ee>https://doi.org/10.14778/3494124.3494136</ee>
+<url>db/journals/pvldb/pvldb15.html#DittrichNS21</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/Schuhknecht0DA21" mdate="2022-07-18">
+<author pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="132/8249-2">Ankur Sharma 0002</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="04/9142">Divya Agrawal</author>
+<title>chainifyDB: How to get rid of your Blockchain and use your DBMS instead.</title>
+<year>2021</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2021/papers/cidr2021_paper04.pdf</ee>
+<crossref>conf/cidr/2021</crossref>
+<url>db/conf/cidr/cidr2021.html#Schuhknecht0DA21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-15098" mdate="2021-05-04">
+<author pid="144/5813">Immanuel Haffner</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>Fast Compilation and Execution of SQL Queries with WebAssembly.</title>
+<year>2021</year>
+<volume>abs/2104.15098</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.15098</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-15098</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2106-16166" mdate="2021-07-05">
+<author pid="276/5977">Marcel Maltry</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>A Critical Analysis of Recursive Model Indexes.</title>
+<year>2021</year>
+<volume>abs/2106.16166</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2106.16166</ee>
+<url>db/journals/corr/corr2106.html#abs-2106-16166</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/DittrichN20" mdate="2020-03-12">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="247/5690">Joris Nix</author>
+<title>The Case for Deep Query Optimisation.</title>
+<year>2020</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2020/papers/p3-dittrich-cidr20.pdf</ee>
+<crossref>conf/cidr/2020</crossref>
+<url>db/conf/cidr/cidr2020.html#DittrichN20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-10669" mdate="2020-09-23">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="247/5690">Joris Nix</author>
+<author pid="03/11165">Christian Sch&#246;n</author>
+<title>There is No Such Thing as an "Index"! or: The next 500 Indexing Papers.</title>
+<year>2020</year>
+<volume>abs/2009.10669</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.10669</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-10669</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-07011" mdate="2020-10-20">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="276/5977">Marcel Maltry</author>
+<title>Database (Lecture) Streams on the Cloud: An Experience Report on Teaching an Undergrad Database Lecture during a Pandemic.</title>
+<year>2020</year>
+<volume>abs/2010.07011</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.07011</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-07011</url>
+</article>
+</r>
+<r><article key="journals/dbsk/DittrichNRH19" mdate="2019-08-20">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="n/FelixNaumann">Felix Naumann</author>
+<author pid="r/NRitter">Norbert Ritter</author>
+<author pid="h/TheoHarder">Theo H&#228;rder</author>
+<title>Editorial.</title>
+<pages>83-85</pages>
+<year>2019</year>
+<volume>19</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s13222-019-00321-y</ee>
+<url>db/journals/dbsk/dbsk19.html#DittrichNRH19</url>
+</article>
+</r>
+<r><inproceedings key="conf/kdd/SchonD019" mdate="2019-07-28">
+<author pid="03/11165">Christian Sch&#246;n</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="06/10014-3">Richard M&#252;ller 0003</author>
+<title>The Error is the Feature: How to Forecast Lightning using a Model Prediction Error.</title>
+<pages>2979-2988</pages>
+<year>2019</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/3292500.3330682</ee>
+<crossref>conf/kdd/2019</crossref>
+<url>db/conf/kdd/kdd2019.html#SchonD019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SharmaSAD19" mdate="2024-02-05">
+<author pid="132/8249-2">Ankur Sharma 0002</author>
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="04/9142">Divya Agrawal</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>Blurring the Lines between Blockchains and Database Systems: the Case of Hyperledger Fabric.</title>
+<pages>105-122</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3319883</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#SharmaSAD19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-08341" mdate="2019-08-26">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="247/5690">Joris Nix</author>
+<title>The Case for Deep Query Optimisation.</title>
+<year>2019</year>
+<volume>abs/1908.08341</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.08341</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-08341</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-01277" mdate="2020-01-02">
+<author pid="03/11165">Christian Sch&#246;n</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>Make Thunderbolts Less Frightening - Predicting Extreme Weather Using Deep Learning.</title>
+<year>2019</year>
+<volume>abs/1912.01277</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.01277</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-01277</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-04820" mdate="2020-01-02">
+<author pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="132/8249-2">Ankur Sharma 0002</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="04/9142">Divya Agrawal</author>
+<title>ChainifyDB: How to Blockchainify any Data Management System.</title>
+<year>2019</year>
+<volume>abs/1912.04820</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.04820</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-04820</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/HaffnerSD18" mdate="2024-02-05">
+<author pid="144/5813">Immanuel Haffner</author>
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>An analysis and comparison of database cracking kernels.</title>
+<pages>10:1-10:10</pages>
+<year>2018</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3211922.3211930</ee>
+<crossref>conf/damon/2018</crossref>
+<url>db/conf/damon/damon2018.html#HaffnerSD18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SchuhknechtDL18" mdate="2024-02-05">
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="228/6056">Laurent Linden</author>
+<title>Adaptive Adaptive Indexing.</title>
+<pages>665-676</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00066</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00066</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#SchuhknechtDL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SharmaSD18" mdate="2024-02-05">
+<author pid="132/8249-2">Ankur Sharma 0002</author>
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>Accelerating Analytical Processing in MVCC using Fine-Granular High-Frequency Virtual Snapshotting.</title>
+<pages>245-258</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3196904</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#SharmaSD18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-05643" mdate="2019-09-24">
+<author pid="132/8249-2">Ankur Sharma 0002</author>
+<author pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>The Case for Automatic Database Administration using Deep Reinforcement Learning.</title>
+<year>2018</year>
+<volume>abs/1801.05643</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.05643</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-05643</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-13177" mdate="2019-09-24">
+<author pid="132/8249-2">Ankur Sharma 0002</author>
+<author pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="04/9142">Divya Agrawal</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>How to Databasify a Blockchain: the Case of Hyperledger Fabric.</title>
+<year>2018</year>
+<volume>abs/1810.13177</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.13177</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-13177</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-09496" mdate="2018-12-03">
+<author pid="03/11165">Christian Sch&#246;n</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="06/10014-3">Richard M&#252;ller 0003</author>
+<title>The Error is the Feature: how to Forecast Lightning using a Model Prediction Error.</title>
+<year>2018</year>
+<volume>abs/1811.09496</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.09496</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-09496</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/GembalczykSD17" mdate="2024-02-05">
+<author pid="195/7348">David Gembalczyk</author>
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>An Experimental Analysis of Different Key-Value Stores and Relational Databases.</title>
+<pages>351-360</pages>
+<year>2017</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2017</crossref>
+<url>db/conf/btw/btw2017.html#GembalczykSD17</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/639</ee>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-04284" mdate="2019-09-24">
+<author pid="132/8249-2">Ankur Sharma 0002</author>
+<author pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>Accelerating Analytical Processing in MVCC using Fine-Granular High-Frequency Virtual Snapshotting.</title>
+<year>2017</year>
+<volume>abs/1709.04284</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.04284</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-04284</url>
+</article>
+</r>
+<r><book key="books/x/dittrich2016" mdate="2020-03-12">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>Patterns in Data Management: A Flipped Textbook</title>
+<publisher>CreateSpace Independent Publishing Platform</publisher>
+<year>2016</year>
+<pages>1-308</pages>
+<isbn>9781523853960</isbn>
+<ee type="oa">https://bigdata.uni-saarland.de/datenbankenlernen/book.pdf</ee>
+</book>
+</r>
+<r><article key="journals/pvldb/SchuhknechtDS16" mdate="2024-02-05">
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="132/8249-2">Ankur Sharma 0002</author>
+<title>RUMA has it: Rewired User-space Memory Access is Possible!</title>
+<pages>768-779</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p768-schuhknecht.pdf</ee>
+<ee>https://doi.org/10.14778/2977797.2977803</ee>
+<url>db/journals/pvldb/pvldb9.html#SchuhknechtDS16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BohmDMPS16" mdate="2020-04-25">
+<author pid="92/6505">Alexander B&#246;hm 0002</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="14/6671">Niloy Mukherjee</author>
+<author pid="185/4296">Ippokrantis Pandis</author>
+<author pid="40/2065">Rajkumar Sen</author>
+<title>Operational Analytics Data Management Systems.</title>
+<pages>1601-1604</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p1601-boehm.pdf</ee>
+<ee>https://doi.org/10.14778/3007263.3007319</ee>
+<url>db/journals/pvldb/pvldb9.html#BohmDMPS16</url>
+</article>
+</r>
+<r><article key="journals/vldb/SchuhknechtJD16" mdate="2017-07-26">
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="24/8510">Alekh Jindal</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>An experimental evaluation and analysis of database cracking.</title>
+<pages>27-52</pages>
+<year>2016</year>
+<volume>25</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-015-0397-y</ee>
+<url>db/journals/vldb/vldb25.html#SchuhknechtJD16</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/SchuhCD16" mdate="2018-11-06">
+<author pid="117/4940">Stefan Schuh</author>
+<author pid="05/3054">Xiao Chen</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>An Experimental Comparison of Thirteen Relational Equi-Joins in Main Memory.</title>
+<pages>1961-1976</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2882917</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#SchuhCD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/PalatinusD16" mdate="2017-05-25">
+<author pid="133/9967">Endre Palatinus</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>Runtime Fragility in Main Memory.</title>
+<pages>150-165</pages>
+<year>2016</year>
+<booktitle>ADMS/IMDM@VLDB</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-56111-0_9</ee>
+<crossref>conf/vldb/2016adms</crossref>
+<url>db/conf/vldb/adms2016.html#PalatinusD16</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/SchuhknechtKD15" mdate="2024-02-05">
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="162/3686">Pankaj Khanchandani</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>On the Surprising Difficulty of Simple Things: the Case of Radix Partitioning.</title>
+<pages>934-937</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p934-schuhknecht.pdf</ee>
+<ee>https://doi.org/10.14778/2777598.2777602</ee>
+<url>db/journals/pvldb/pvldb8.html#SchuhknechtKD15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DittrichB15" mdate="2020-04-25">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="166/8393">Patrick Bender</author>
+<title>Janiform Intra-Document Analytics for Reproducible Research.</title>
+<pages>1972-1975</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1972-dittrich.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824114</ee>
+<url>db/journals/pvldb/pvldb8.html#DittrichB15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/0007AD15" mdate="2020-04-25">
+<author pid="01/322-7">Stefan Richter 0007</author>
+<author pid="24/8074">Victor Alvarez 0001</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>A Seven-Dimensional Analysis of Hashing Methods and its Implications on Query Processing.</title>
+<pages>96-107</pages>
+<year>2015</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p96-richter.pdf</ee>
+<ee>https://doi.org/10.14778/2850583.2850585</ee>
+<url>db/journals/pvldb/pvldb9.html#0007AD15</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/Dittrich15" mdate="2015-05-28">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>The Case for Small Data Management.</title>
+<pages>27-28</pages>
+<year>2015</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2015</crossref>
+<url>db/conf/btw/btw2015.html#Dittrich15</url>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings241/article17.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/Dittrich15" mdate="2020-03-12">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>The Case for Small Data Management.</title>
+<year>2015</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2015/Papers/11_Abstract17DJ.pdf</ee>
+<crossref>conf/cidr/2015</crossref>
+<url>db/conf/cidr/cidr2015.html#Dittrich15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SchuhD15" mdate="2023-03-23">
+<author pid="117/4940">Stefan Schuh</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>AIR: Adaptive Index Replacement in Hadoop.</title>
+<pages>22-29</pages>
+<year>2015</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2015.7129539</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2015.7129539</ee>
+<crossref>conf/icde/2015w</crossref>
+<url>db/conf/icde/icdew2015.html#SchuhD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/Alvarez0CD15" mdate="2023-03-23">
+<author pid="24/8074">Victor Alvarez 0001</author>
+<author pid="01/322-7">Stefan Richter 0007</author>
+<author pid="05/3054">Xiao Chen</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>A comparison of adaptive radix trees and hash tables.</title>
+<pages>1227-1238</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113370</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113370</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#Alvarez0CD15</url>
+</inproceedings>
+</r>
+<r><article key="journals/dbsk/Dittrich14" mdate="2017-05-18">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>Die Umgedrehte Vorlesung - Chancen f&#252;r die Informatiklehre.</title>
+<pages>69-76</pages>
+<year>2014</year>
+<volume>14</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s13222-013-0143-9</ee>
+<url>db/journals/dbsk/dbsk14.html#Dittrich14</url>
+</article>
+</r>
+<r><article key="journals/vldb/0007QSD14" mdate="2023-06-26">
+<author pid="01/322-7">Stefan Richter 0007</author>
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="117/4940">Stefan Schuh</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>Towards zero-overhead static and adaptive indexing in Hadoop.</title>
+<pages>469-494</pages>
+<year>2014</year>
+<volume>23</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00778-013-0332-z</ee>
+<url>db/journals/vldb/vldb23.html#0007QSD14</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/AlvarezSD014" mdate="2024-02-05">
+<author pid="24/8074">Victor Alvarez 0001</author>
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="01/322-7">Stefan Richter 0007</author>
+<title>Main memory adaptive indexing for multi-core systems.</title>
+<pages>3:1-3:10</pages>
+<year>2014</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2619228.2619231</ee>
+<crossref>conf/damon/2014</crossref>
+<url>db/conf/damon/damon2014.html#AlvarezSD014</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/AlvarezSD014" mdate="2019-08-23">
+<author pid="24/8074">Victor Alvarez 0001</author>
+<author pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="01/322-7">Stefan Richter 0007</author>
+<title>Main Memory Adaptive Indexing for Multi-core Systems.</title>
+<year>2014</year>
+<volume>abs/1404.2034</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1404.2034</ee>
+<url>db/journals/corr/corr1404.html#AlvarezSD014</url>
+</article>
+</r>
+<r><article key="journals/dbsk/DittrichRS13" mdate="2017-05-18">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="01/322-7">Stefan Richter 0007</author>
+<author pid="117/4940">Stefan Schuh</author>
+<title>Efficient OR Hadoop: Why Not Both?</title>
+<pages>17-22</pages>
+<year>2013</year>
+<volume>13</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s13222-012-0111-9</ee>
+<url>db/journals/dbsk/dbsk13.html#DittrichRS13</url>
+</article>
+</r>
+<r><article key="journals/debu/DittrichRSQ13" mdate="2023-06-26">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="01/322-7">Stefan Richter 0007</author>
+<author pid="117/4940">Stefan Schuh</author>
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<title>Efficient OR Hadoop: Why not both?</title>
+<pages>15-23</pages>
+<year>2013</year>
+<volume>36</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A13mar/jens.pdf</ee>
+<url>db/journals/debu/debu36.html#DittrichRSQ13</url>
+</article>
+</r>
+<r><article key="journals/pvldb/JindalPPD13" mdate="2020-04-25">
+<author pid="24/8510">Alekh Jindal</author>
+<author pid="133/9967">Endre Palatinus</author>
+<author pid="131/5108">Vladimir Pavlov</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>A Comparison of Knives for Bread Slicing.</title>
+<pages>361-372</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p361-jindal.pdf</ee>
+<ee>https://doi.org/10.14778/2536336.2536338</ee>
+<url>db/journals/pvldb/pvldb6.html#JindalPPD13</url>
+</article>
+</r>
+<r><article key="journals/pvldb/0007DSF13" mdate="2020-04-25">
+<author pid="01/322-7">Stefan Richter 0007</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="117/4940">Stefan Schuh</author>
+<author pid="135/4701">Tobias Frey</author>
+<title>Mosquito: Another One Bites the Data Upload STream.</title>
+<pages>1274-1277</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p1274-dittrich.pdf</ee>
+<ee>https://doi.org/10.14778/2536274.2536294</ee>
+<url>db/journals/pvldb/pvldb6.html#0007DSF13</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SchuhknechtJD13" mdate="2024-02-05">
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="24/8510">Alekh Jindal</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>The Uncracked Pieces in Database Cracking.</title>
+<pages>97-108</pages>
+<year>2013</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p97-schuhknecht.pdf</ee>
+<ee>https://doi.org/10.14778/2732228.2732229</ee>
+<url>db/journals/pvldb/pvldb7.html#SchuhknechtJD13</url>
+</article>
+</r>
+<r><article key="journals/pvldb/CongD13" mdate="2020-04-25">
+<author pid="33/3180">Gao Cong</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>Front Matter.</title>
+<pages>i-ix</pages>
+<year>2013</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/FrontMatterVol7No2.pdf</ee>
+<url>db/journals/pvldb/pvldb7.html#CongD13</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEcloud/SchadQD13" mdate="2023-06-26">
+<author pid="07/1890">J&#246;rg Schad</author>
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>Elephant, Do Not Forget Everything! Efficient Processing of Growing Datasets.</title>
+<pages>252-259</pages>
+<year>2013</year>
+<booktitle>IEEE CLOUD</booktitle>
+<ee>https://doi.org/10.1109/CLOUD.2013.67</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CLOUD.2013.67</ee>
+<crossref>conf/IEEEcloud/2013</crossref>
+<url>db/conf/IEEEcloud/IEEEcloud2013.html#SchadQD13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/Dittrich13" mdate="2013-05-16">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>Say No! No! and No!</title>
+<year>2013</year>
+<booktitle>CIDR</booktitle>
+<ee>http://www.youtube.com/watch?v=fXc-QDJBXpw</ee>
+<crossref>conf/cidr/2013</crossref>
+<url>db/conf/cidr/cidr2013.html#Dittrich13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/JindalQD13" mdate="2020-03-12">
+<author pid="24/8510">Alekh Jindal</author>
+<author pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>WWHow! Freeing Data Storage from Cages.</title>
+<year>2013</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2013/Papers/CIDR13_Paper92.pdf</ee>
+<crossref>conf/cidr/2013</crossref>
+<url>db/conf/cidr/cidr2013.html#JindalQD13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/JindalSDKB13" mdate="2020-03-12">
+<author pid="24/8510">Alekh Jindal</author>
+<author pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="129/6896">Karen Khachatryan</author>
+<author pid="129/6950">Alexander Bunte</author>
+<title>How Achaeans Would Construct Columns in Troy.</title>
+<year>2013</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2013/Papers/CIDR13_Paper95.pdf</ee>
+<crossref>conf/cidr/2013</crossref>
+<url>db/conf/cidr/cidr2013.html#JindalSDKB13</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/DittrichQRSJS12" mdate="2023-06-26">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="01/322-7">Stefan Richter 0007</author>
+<author pid="117/4940">Stefan Schuh</author>
+<author pid="24/8510">Alekh Jindal</author>
+<author pid="07/1890">J&#246;rg Schad</author>
+<title>Only Aggressive Elephants are Fast Elephants.</title>
+<pages>1591-1602</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p1591_jensdittrich_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2350229.2350272</ee>
+<url>db/journals/pvldb/pvldb5.html#DittrichQRSJS12</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DittrichQ12" mdate="2023-06-26">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<title>Efficient Big Data Processing in Hadoop MapReduce.</title>
+<pages>2014-2015</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p2014_jensdittrich_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2367502.2367562</ee>
+<url>db/journals/pvldb/pvldb5.html#DittrichQ12</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1208-0287" mdate="2018-08-13">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="01/322-7">Stefan Richter 0007</author>
+<author pid="117/4940">Stefan Schuh</author>
+<author pid="24/8510">Alekh Jindal</author>
+<author pid="07/1890">J&#246;rg Schad</author>
+<title>Only Aggressive Elephants are Fast Elephants</title>
+<ee type="oa">http://arxiv.org/abs/1208.0287</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1208.0287</volume>
+<url>db/journals/corr/corr1208.html#abs-1208-0287</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1212-3480" mdate="2018-08-13">
+<author pid="01/322-7">Stefan Richter 0007</author>
+<author pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="117/4940">Stefan Schuh</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>Towards Zero-Overhead Adaptive Indexing in Hadoop</title>
+<ee type="oa">http://arxiv.org/abs/1212.3480</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1212.3480</volume>
+<url>db/journals/corr/corr1212.html#abs-1212-3480</url>
+</article>
+</r>
+<r><article key="journals/geoinformatica/DittrichBS11" mdate="2017-05-28">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="28/1678">Lukas Blunschi</author>
+<author pid="70/4277">Marcos Antonio Vaz Salles</author>
+<title>MOVIES: indexing moving objects by shooting index images.</title>
+<pages>727-767</pages>
+<year>2011</year>
+<volume>15</volume>
+<journal>GeoInformatica</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10707-011-0122-y</ee>
+<url>db/journals/geoinformatica/geoinformatica15.html#DittrichBS11</url>
+</article>
+</r>
+<r><inproceedings key="conf/birte/JindalD11" mdate="2017-05-17">
+<author pid="24/8510">Alekh Jindal</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>Relax and Let the Database Do the Partitioning Online.</title>
+<pages>65-80</pages>
+<year>2011</year>
+<booktitle>BIRTE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33500-6_5</ee>
+<crossref>conf/birte/2011</crossref>
+<url>db/conf/birte/birte2011.html#JindalD11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/DittrichFGLRS09" mdate="2023-07-04">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="36/7116">Franz F&#228;rber</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="l/HenrikLoeser">Henrik Loeser</author>
+<author pid="37/9320">Wilfried Reimann</author>
+<author pid="60/5572">Harald Sch&#246;ning</author>
+<title>"One Size Fits All": An Idea Whose Time Has Come and Gone?</title>
+<pages>703-704</pages>
+<year>2011</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2011</crossref>
+<url>db/conf/btw/btw2011.html#DittrichFGLRS09</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/19613</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings180/article54.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/DittrichJ11" mdate="2020-03-12">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="24/8510">Alekh Jindal</author>
+<title>Towards a One Size Fits All Database Architecture.</title>
+<pages>195-198</pages>
+<year>2011</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2011/Papers/CIDR11_Paper25.pdf</ee>
+<crossref>conf/cidr/2011</crossref>
+<url>db/conf/cidr/cidr2011.html#DittrichJ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloud/JindalQD11" mdate="2023-06-26">
+<author pid="24/8510">Alekh Jindal</author>
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>Trojan data layouts: right shoes for a running elephant.</title>
+<pages>21</pages>
+<year>2011</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/2038916.2038937</ee>
+<crossref>conf/cloud/2011</crossref>
+<url>db/conf/cloud/socc2011.html#JindalQD11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/Quiane-RuizPSD11" mdate="2023-06-26">
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="54/4903">Christoph Pinkel</author>
+<author pid="07/1890">J&#246;rg Schad</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>RAFTing MapReduce: Fast recovery on the RAFT.</title>
+<pages>589-600</pages>
+<year>2011</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2011.5767877</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2011.5767877</ee>
+<crossref>conf/icde/2011</crossref>
+<url>db/conf/icde/icde2011.html#Quiane-RuizPSD11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Quiane-RuizPSD11" mdate="2023-06-26">
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="54/4903">Christoph Pinkel</author>
+<author pid="07/1890">J&#246;rg Schad</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>RAFT at work: speeding-up mapreduce applications under task and node failures.</title>
+<pages>1225-1228</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989460</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#Quiane-RuizPSD11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1102-3523" mdate="2018-08-13">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>PaperBricks: An Alternative to Complete-Story Peer Reviewing</title>
+<ee type="oa">http://arxiv.org/abs/1102.3523</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1102.3523</volume>
+<url>db/journals/corr/corr1102.html#abs-1102-3523</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SchadDQ10" mdate="2023-06-26">
+<author pid="07/1890">J&#246;rg Schad</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<title>Runtime Measurements in the Cloud: Observing, Analyzing, and Reducing Variance.</title>
+<pages>460-471</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/E02.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920902</ee>
+<url>db/journals/pvldb/pvldb3.html#SchadDQ10</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DittrichQJKSS10" mdate="2023-06-26">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="24/8510">Alekh Jindal</author>
+<author pid="70/8510">Yagiz Kargin</author>
+<author pid="36/8510">Vinay Setty</author>
+<author pid="07/1890">J&#246;rg Schad</author>
+<title>Hadoop++: Making a Yellow Elephant Run Like a Cheetah (Without It Even Noticing).</title>
+<pages>518-529</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R46.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920908</ee>
+<url>db/journals/pvldb/pvldb3.html#DittrichQJKSS10</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BedathurBDMW10" mdate="2023-08-28">
+<author pid="b/SrikantaJBedathur">Srikanta J. Bedathur</author>
+<author pid="b/KlausBerberich">Klaus Berberich</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="w/GerhardWeikum">Gerhard Weikum</author>
+<title>Interesting-Phrase Mining for Ad-Hoc Text Analytics.</title>
+<pages>1348-1357</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R119.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1921007</ee>
+<ee>https://www.wikidata.org/entity/Q114254002</ee>
+<url>db/journals/pvldb/pvldb3.html#BedathurBDMW10</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Dittrich10" mdate="2020-03-06">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>Paper bricks: an alternative to complete-story peer reviewing.</title>
+<pages>31-36</pages>
+<year>2010</year>
+<volume>39</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1978915.1978923</ee>
+<url>db/journals/sigmod/sigmod39.html#Dittrich10</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/SallesDB10" mdate="2023-03-24">
+<author pid="70/4277">Marcos Antonio Vaz Salles</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="28/1678">Lukas Blunschi</author>
+<title>Intensional associations in dataspaces.</title>
+<pages>984-987</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447833</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447833</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#SallesDB10</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/DittrichSB09" mdate="2020-03-10">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="70/4277">Marcos Antonio Vaz Salles</author>
+<author pid="28/1678">Lukas Blunschi</author>
+<title>iMeMex: From Search to Information Integration and Back.</title>
+<pages>28-35</pages>
+<year>2009</year>
+<volume>32</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<ee type="oa">http://sites.computer.org/debull/A09June/dittrich_persearch1.pdf</ee>
+<url>db/journals/debu/debu32.html#DittrichSB09</url>
+</article>
+</r>
+<r><inproceedings key="conf/bncod/Dittrich09" mdate="2018-06-26">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>The iMeMex Dataspace Management System: Architecture, Concepts, and Lessons Learned.</title>
+<pages>7</pages>
+<year>2009</year>
+<booktitle>BNCOD</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-02843-4_3</ee>
+<crossref>conf/bncod/2009</crossref>
+<url>db/conf/bncod/bncod2009.html#Dittrich09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/DittrichBS09" mdate="2017-05-24">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="28/1678">Lukas Blunschi</author>
+<author pid="70/4277">Marcos Antonio Vaz Salles</author>
+<title>Indexing Moving Objects Using Short-Lived Throwaway Indexes.</title>
+<pages>189-207</pages>
+<year>2009</year>
+<booktitle>SSTD</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02982-0_14</ee>
+<crossref>conf/ssd/2009</crossref>
+<url>db/conf/ssd/sstd2009.html#DittrichBS09</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/DittrichBS08" mdate="2020-04-25">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="28/1678">Lukas Blunschi</author>
+<author pid="70/4277">Marcos Antonio Vaz Salles</author>
+<title>Dwarfs in the rearview mirror: how big are they really?</title>
+<pages>1586-1597</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1454230.pdf</ee>
+<ee>https://doi.org/10.14778/1454159.1454230</ee>
+<url>db/journals/pvldb/pvldb1.html#DittrichBS08</url>
+</article>
+</r>
+<r><article key="journals/sigmod/ManolescuAADMPSSZS08" mdate="2020-03-06">
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author pid="36/3556">Loredana Afanasiev</author>
+<author pid="31/4097">Andrei Arion</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="p/NeoklisPolyzotis">Neoklis Polyzotis</author>
+<author pid="91/5430">Karl Schnaitter</author>
+<author orcid="0000-0002-7909-5369" pid="12/225">Pierre Senellart</author>
+<author pid="44/6565">Spyros Zoupanos</author>
+<author pid="s/DennisShasha">Dennis E. Shasha</author>
+<title>The repeatability experiment of SIGMOD 2008.</title>
+<pages>39-45</pages>
+<year>2008</year>
+<volume>37</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1374780.1374791</ee>
+<url>db/journals/sigmod/sigmod37.html#ManolescuAADMPSSZS08</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/SallesDB08" mdate="2023-03-24">
+<author pid="70/4277">Marcos Antonio Vaz Salles</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="28/1678">Lukas Blunschi</author>
+<title>Adding structure to web search with itrails [position paper].</title>
+<pages>262-265</pages>
+<year>2008</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2008.4498329</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2008.4498329</ee>
+<crossref>conf/icde/2008w</crossref>
+<url>db/conf/icde/icdew2008.html#SallesDB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/DittrichBFGKS07" mdate="2023-07-04">
+<author pid="d/JensPeterDittrich">Jens-Peter Dittrich</author>
+<author pid="28/1678">Lukas Blunschi</author>
+<author pid="33/5446">Markus F&#228;rber</author>
+<author pid="22/789">Olivier Ren&#233; Girard</author>
+<author pid="70/574">Shant Kirakos Karakashian</author>
+<author pid="70/4277">Marcos Antonio Vaz Salles</author>
+<title>From Personal Desktops to Personal Dataspaces: A Report on Building the iMeMex Personal Dataspace Management System.</title>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/31805</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings103/article1405.html</ee>
+<pages>292-308</pages>
+<year>2007</year>
+<crossref>conf/btw/2007</crossref>
+<booktitle>BTW</booktitle>
+<url>db/conf/btw/btw2007.html#DittrichBFGKS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/BlunschiDGKS07" mdate="2020-03-12">
+<author pid="28/1678">Lukas Blunschi</author>
+<author pid="d/JensPeterDittrich">Jens-Peter Dittrich</author>
+<author pid="22/789">Olivier Ren&#233; Girard</author>
+<author pid="70/574">Shant Kirakos Karakashian</author>
+<author pid="70/4277">Marcos Antonio Vaz Salles</author>
+<title>A Dataspace Odyssey: The iMeMex Personal Dataspace Management System (Demo).</title>
+<pages>114-119</pages>
+<year>2007</year>
+<crossref>conf/cidr/2007</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2007/papers/cidr07p13.pdf</ee>
+<url>db/conf/cidr/cidr2007.html#BlunschiDGKS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/DittrichDJKS07" mdate="2023-03-24">
+<author pid="d/JensPeterDittrich">Jens-Peter Dittrich</author>
+<author pid="57/2740">Cristian Duda</author>
+<author pid="55/5371">Bjorn Jarisch</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="70/4277">Marcos Antonio Vaz Salles</author>
+<title>Bringing Precision to Desktop Search: A Predicate-based Desktop Search Architecture.</title>
+<pages>1461-1465</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.369036</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2007.369036</ee>
+<url>db/conf/icde/icde2007.html#DittrichDJKS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/SallesDKGB07" mdate="2020-03-12">
+<author pid="70/4277">Marcos Antonio Vaz Salles</author>
+<author pid="d/JensPeterDittrich">Jens-Peter Dittrich</author>
+<author pid="70/574">Shant Kirakos Karakashian</author>
+<author pid="22/789">Olivier Ren&#233; Girard</author>
+<author pid="28/1678">Lukas Blunschi</author>
+<title>iTrails: Pay-as-you-go Information Integration in Dataspaces.</title>
+<pages>663-674</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/research/p663-vazsalles.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#SallesDKGB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/DittrichS06" mdate="2020-03-12">
+<author pid="d/JensPeterDittrich">Jens-Peter Dittrich</author>
+<author pid="70/4277">Marcos Antonio Vaz Salles</author>
+<title>iDM: A Unified and Versatile Data Model for Personal Dataspace Management.</title>
+<pages>367-378</pages>
+<year>2006</year>
+<crossref>conf/vldb/2006</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1164160</ee>
+<ee type="oa">http://www.vldb.org/conf/2006/p367-dittrich.pdf</ee>
+<url>db/conf/vldb/vldb2006.html#DittrichS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/FischerKD05" mdate="2018-11-06">
+<author pid="d/JensPeterDittrich">Jens-Peter Dittrich</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>AGILE: Adaptive Indexing for Context-Aware Information Filters.</title>
+<year>2005</year>
+<crossref>conf/sigmod/2005</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2005.html#FischerKD05</url>
+<pages>215-226</pages>
+<ee>https://doi.org/10.1145/1066157.1066183</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/DittrichKK05" mdate="2020-03-12">
+<author pid="d/JensPeterDittrich">Jens-Peter Dittrich</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="54/1533">Alexander Kreutz</author>
+<title>Bridging the Gap between OLAP and SQL.</title>
+<pages>1031-1042</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/archives/website/2005/program/paper/tue/p1031-dittrich.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083711</ee>
+<url>db/conf/vldb/vldb2005.html#DittrichKK05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/DittrichSKB05" mdate="2020-03-12">
+<author pid="d/JensPeterDittrich">Jens-Peter Dittrich</author>
+<author pid="70/4277">Marcos Antonio Vaz Salles</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="28/1678">Lukas Blunschi</author>
+<title>iMeMex: Escapes from the Personal Information Jungle.</title>
+<pages>1306-1309</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2005/papers/p1306-dittrich.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083759</ee>
+<url>db/conf/vldb/vldb2005.html#DittrichSKB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/DittrichSTW03" mdate="2018-11-06">
+<author pid="d/JensPeterDittrich">Jens-Peter Dittrich</author>
+<author pid="s/BernhardSeeger">Bernhard Seeger</author>
+<author pid="41/1162">David Scot Taylor</author>
+<author pid="w/PeterWidmayer">Peter Widmayer</author>
+<title>On producing join results early.</title>
+<pages>134-142</pages>
+<year>2003</year>
+<crossref>conf/pods/2003</crossref>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/773153.773167</ee>
+<url>db/conf/pods/pods2003.html#DittrichSTW03</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/de/Dittrich2003" mdate="2021-07-17">
+<author pid="d/JensPeterDittrich">Jens-Peter Dittrich</author>
+<title>Generische Joinverarbeitung am Beispiel des Similarity-Join.</title>
+<year>2002</year>
+<pages>1-143</pages>
+<school>University of Marburg, Germany</school>
+<ee>http://archiv.ub.uni-marburg.de/diss/z2002/0335/</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:hebis:04-z2002-03352</ee>
+<ee>https://d-nb.info/965421287</ee>
+<ee>https://d-nb.info/972795472</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/vldb/DittrichSTW02" mdate="2020-03-12">
+<author pid="d/JensPeterDittrich">Jens-Peter Dittrich</author>
+<author pid="s/BernhardSeeger">Bernhard Seeger</author>
+<author pid="41/1162">David Scot Taylor</author>
+<author pid="w/PeterWidmayer">Peter Widmayer</author>
+<title>Progressive Merge Join: A Generic and Non-blocking Sort-based Join Algorithm.</title>
+<year>2002</year>
+<crossref>conf/vldb/2002</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2002/S09P03.pdf</ee>
+<ee>https://doi.org/10.1016/B978-155860869-6/50034-2</ee>
+<url>db/conf/vldb/vldb2002.html#DittrichSTW02</url>
+<pages>299-310</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/DittrichS01" mdate="2021-03-22">
+<author pid="d/JensPeterDittrich">Jens-Peter Dittrich</author>
+<author pid="s/BernhardSeeger">Bernhard Seeger</author>
+<title>GESS: a scalable similarity-join algorithm for mining large data sets in high dimensional spaces.</title>
+<pages>47-56</pages>
+<year>2001</year>
+<crossref>conf/kdd/2001</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/502512.502524</ee>
+<url>db/conf/kdd/kdd2001.html#DittrichS01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/SeegerBBKSDS01" mdate="2020-03-12">
+<author pid="23/4820">Jochen Van den Bercken</author>
+<author pid="86/3018">Bj&#246;rn Blohsfeld</author>
+<author pid="d/JensPeterDittrich">Jens-Peter Dittrich</author>
+<author pid="55/2913">J&#252;rgen Kr&#228;mer</author>
+<author pid="80/1068">Tobias Sch&#228;fer</author>
+<author pid="03/2314-6">Martin Schneider 0006</author>
+<author pid="s/BernhardSeeger">Bernhard Seeger</author>
+<title>XXL - A Library Approach to Supporting Efficient Implementations of Advanced Database Queries.</title>
+<year>2001</year>
+<crossref>conf/vldb/2001</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2001.html#SeegerBBKSDS01</url>
+<pages>39-48</pages>
+<ee type="oa">http://www.vldb.org/conf/2001/P039.pdf</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/DittrichS00" mdate="2023-03-24">
+<author pid="d/JensPeterDittrich">Jens-Peter Dittrich</author>
+<author pid="s/BernhardSeeger">Bernhard Seeger</author>
+<title>Data Redundancy and Duplicate Detection in Spatial Join Processing.</title>
+<pages>535-546</pages>
+<year>2000</year>
+<crossref>conf/icde/2000</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2000.839452</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2000.839452</ee>
+<url>db/conf/icde/icde2000.html#DittrichS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BerckenDS00" mdate="2021-03-12">
+<ee>https://doi.org/10.1145/342009.336562</ee>
+<ee>https://doi.org/10.1145/335191.336562</ee>
+<author pid="23/4820">Jochen Van den Bercken</author>
+<author pid="d/JensPeterDittrich">Jens-Peter Dittrich</author>
+<author pid="s/BernhardSeeger">Bernhard Seeger</author>
+<title>javax.XXL: A prototype for a Library of Query processing Algorithms.</title>
+<pages>588</pages>
+<year>2000</year>
+<crossref>conf/sigmod/2000</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2000.html#BerckenDS00</url>
+<cite>conf/edbt/BerckenSS00</cite>
+<cite>conf/sigmod/CareyDFHMNSSTTWZ94</cite>
+<cite>conf/icde/DittrichS00</cite>
+<cite>journals/tkde/Graefe94</cite>
+<cite>conf/vldb/HellersteinNP95</cite>
+<cite>books/cu/MehlhornN99</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<coauthors n="71" nc="2">
+<co c="0"><na f="a/Afanasiev:Loredana" pid="36/3556">Loredana Afanasiev</na></co>
+<co c="0"><na f="a/Agrawal:Divya" pid="04/9142">Divya Agrawal</na></co>
+<co c="0"><na f="a/Alvarez_0001:Victor" pid="24/8074">Victor Alvarez 0001</na></co>
+<co c="0"><na f="a/Arion:Andrei" pid="31/4097">Andrei Arion</na></co>
+<co c="0"><na f="b/Bedathur:Srikanta_J=" pid="b/SrikantaJBedathur">Srikanta J. Bedathur</na></co>
+<co c="-1"><na f="b/Bender:Patrick" pid="166/8393">Patrick Bender</na></co>
+<co c="0"><na f="b/Berberich:Klaus" pid="b/KlausBerberich">Klaus Berberich</na></co>
+<co c="0"><na f="b/Bercken:Jochen_Van_den" pid="23/4820">Jochen Van den Bercken</na></co>
+<co c="0"><na f="b/Blohsfeld:Bj=ouml=rn" pid="86/3018">Bj&#246;rn Blohsfeld</na></co>
+<co c="0"><na f="b/Blunschi:Lukas" pid="28/1678">Lukas Blunschi</na></co>
+<co c="0"><na f="b/B=ouml=hm_0002:Alexander" pid="92/6505">Alexander B&#246;hm 0002</na></co>
+<co c="0"><na f="b/Bunte:Alexander" pid="129/6950">Alexander Bunte</na></co>
+<co c="0"><na f="c/Chen:Xiao" pid="05/3054">Xiao Chen</na></co>
+<co c="0"><na f="c/Cong:Gao" pid="33/3180">Gao Cong</na></co>
+<co c="0"><na f="d/Duda:Cristian" pid="57/2740">Cristian Duda</na></co>
+<co c="0"><na f="f/F=auml=rber:Franz" pid="36/7116">Franz F&#228;rber</na></co>
+<co c="0"><na f="f/F=auml=rber:Markus" pid="33/5446">Markus F&#228;rber</na></co>
+<co c="0"><na f="f/Fischer_0001:Peter_M=" pid="f/PeterMFischer1">Peter M. Fischer 0001</na></co>
+<co c="0"><na f="f/Frey:Tobias" pid="135/4701">Tobias Frey</na></co>
+<co c="0"><na f="g/Gembalczyk:David" pid="195/7348">David Gembalczyk</na></co>
+<co c="0"><na f="g/Girard:Olivier_Ren=eacute=" pid="22/789">Olivier Ren&#233; Girard</na></co>
+<co c="0"><na f="g/Graefe:Goetz" pid="g/GoetzGraefe">Goetz Graefe</na></co>
+<co c="0"><na f="h/Haffner:Immanuel" pid="144/5813">Immanuel Haffner</na></co>
+<co c="0"><na f="h/H=auml=rder:Theo" pid="h/TheoHarder">Theo H&#228;rder</na></co>
+<co c="0"><na f="j/Jarisch:Bjorn" pid="55/5371">Bjorn Jarisch</na></co>
+<co c="0"><na f="j/Jindal:Alekh" pid="24/8510">Alekh Jindal</na></co>
+<co c="0"><na f="k/Karakashian:Shant_Kirakos" pid="70/574">Shant Kirakos Karakashian</na></co>
+<co c="0"><na f="k/Kargin:Yagiz" pid="70/8510">Yagiz Kargin</na></co>
+<co c="0"><na f="k/Khachatryan:Karen" pid="129/6896">Karen Khachatryan</na></co>
+<co c="0"><na f="k/Khanchandani:Pankaj" pid="162/3686">Pankaj Khanchandani</na></co>
+<co c="0"><na f="k/Kossmann:Donald" pid="k/DonaldKossmann">Donald Kossmann</na></co>
+<co c="0"><na f="k/Kr=auml=mer:J=uuml=rgen" pid="55/2913">J&#252;rgen Kr&#228;mer</na></co>
+<co c="0"><na f="k/Kreutz:Alexander" pid="54/1533">Alexander Kreutz</na></co>
+<co c="0"><na f="l/Linden:Laurent" pid="228/6056">Laurent Linden</na></co>
+<co c="0"><na f="l/Loeser:Henrik" pid="l/HenrikLoeser">Henrik Loeser</na></co>
+<co c="-1"><na f="m/Maltry:Marcel" pid="276/5977">Marcel Maltry</na></co>
+<co c="0"><na f="m/Mamoulis:Nikos" pid="34/6253">Nikos Mamoulis</na></co>
+<co c="0"><na f="m/Manegold:Stefan" pid="m/StefanManegold">Stefan Manegold</na></co>
+<co c="0"><na f="m/Manolescu:Ioana" pid="m/IoanaManolescu">Ioana Manolescu</na></co>
+<co c="0"><na f="m/Mukherjee:Niloy" pid="14/6671">Niloy Mukherjee</na></co>
+<co c="1"><na f="m/M=uuml=ller_0003:Richard" pid="06/10014-3">Richard M&#252;ller 0003</na></co>
+<co c="0"><na f="n/Naumann:Felix" pid="n/FelixNaumann">Felix Naumann</na></co>
+<co c="1"><na f="n/Nix:Joris" pid="247/5690">Joris Nix</na></co>
+<co c="0"><na f="p/Palatinus:Endre" pid="133/9967">Endre Palatinus</na></co>
+<co c="0"><na f="p/Pandis:Ippokrantis" pid="185/4296">Ippokrantis Pandis</na></co>
+<co c="0"><na f="p/Pavlov:Vladimir" pid="131/5108">Vladimir Pavlov</na></co>
+<co c="0"><na f="p/Pinkel:Christoph" pid="54/4903">Christoph Pinkel</na></co>
+<co c="0"><na f="p/Polyzotis:Neoklis" pid="p/NeoklisPolyzotis">Neoklis Polyzotis</na></co>
+<co c="0"><na f="q/Quian=eacute==Ruiz:Jorge=Arnulfo" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</na></co>
+<co c="0"><na f="r/Reimann:Wilfried" pid="37/9320">Wilfried Reimann</na></co>
+<co c="0"><na f="r/Richter_0007:Stefan" pid="01/322-7">Stefan Richter 0007</na></co>
+<co c="0"><na f="r/Ritter:Norbert" pid="r/NRitter">Norbert Ritter</na></co>
+<co c="0"><na f="s/Salles:Marcos_Antonio_Vaz" pid="70/4277">Marcos Antonio Vaz Salles</na></co>
+<co c="0"><na f="s/Schad:J=ouml=rg" pid="07/1890">J&#246;rg Schad</na></co>
+<co c="0"><na f="s/Sch=auml=fer:Tobias" pid="80/1068">Tobias Sch&#228;fer</na></co>
+<co c="0"><na f="s/Schnaitter:Karl" pid="91/5430">Karl Schnaitter</na></co>
+<co c="0"><na f="s/Schneider_0006:Martin" pid="03/2314-6">Martin Schneider 0006</na></co>
+<co c="1"><na f="s/Sch=ouml=n:Christian" pid="03/11165">Christian Sch&#246;n</na></co>
+<co c="0"><na f="s/Sch=ouml=ning:Harald" pid="60/5572">Harald Sch&#246;ning</na></co>
+<co c="0"><na f="s/Schuh:Stefan" pid="117/4940">Stefan Schuh</na></co>
+<co c="0"><na f="s/Schuhknecht:Felix_Martin" pid="129/6818">Felix Martin Schuhknecht</na></co>
+<co c="0"><na f="s/Seeger:Bernhard" pid="s/BernhardSeeger">Bernhard Seeger</na></co>
+<co c="0"><na f="s/Sen:Rajkumar" pid="40/2065">Rajkumar Sen</na></co>
+<co c="0"><na f="s/Senellart:Pierre" pid="12/225">Pierre Senellart</na></co>
+<co c="0"><na f="s/Setty:Vinay" pid="36/8510">Vinay Setty</na></co>
+<co c="0"><na f="s/Sharma_0002:Ankur" pid="132/8249-2">Ankur Sharma 0002</na></co>
+<co c="0"><na f="s/Shasha:Dennis_E=" pid="s/DennisShasha">Dennis E. Shasha</na></co>
+<co c="0"><na f="t/Taylor:David_Scot" pid="41/1162">David Scot Taylor</na></co>
+<co c="0"><na f="w/Weikum:Gerhard" pid="w/GerhardWeikum">Gerhard Weikum</na></co>
+<co c="0"><na f="w/Widmayer:Peter" pid="w/PeterWidmayer">Peter Widmayer</na></co>
+<co c="0"><na f="z/Zoupanos:Spyros" pid="44/6565">Spyros Zoupanos</na></co>
+</coauthors>
+</dblpperson>

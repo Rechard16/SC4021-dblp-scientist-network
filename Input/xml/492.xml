@@ -1,0 +1,197 @@
+<dblpperson name="Lucas Lersch" pid="180/3171" n="13">
+<person key="homepages/180/3171" mdate="2016-05-25">
+<author pid="180/3171">Lucas Lersch</author>
+</person>
+<r><phdthesis key="phd/dnb/Lersch21" mdate="2021-07-17">
+<author pid="180/3171">Lucas Lersch</author>
+<title>Leveraging Non-Volatile Memory in Modern Storage Management Architectures.</title>
+<year>2021</year>
+<school>Dresden University of Technology, Germany</school>
+<ee>https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-748879</ee>
+<ee>https://d-nb.info/1234239159</ee>
+</phdthesis>
+</r>
+<r><article key="journals/pvldb/LerschSOL20" mdate="2023-09-30">
+<author pid="180/3171">Lucas Lersch</author>
+<author pid="177/6046">Ivan Schreter</author>
+<author pid="135/3665">Ismail Oukid</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<title>Enabling Low Tail Latency on Multicore Key-Value Stores.</title>
+<pages>1091-1104</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>7</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p1091-lersch.pdf</ee>
+<ee>https://doi.org/10.14778/3384345.3384356</ee>
+<url>db/journals/pvldb/pvldb13.html#LerschSOL20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/HaoL0O20" mdate="2021-03-23">
+<author pid="255/9284">Xiangpeng Hao</author>
+<author pid="180/3171">Lucas Lersch</author>
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="135/3665">Ismail Oukid</author>
+<title>PiBench Online: Interactive Benchmarking of Persistent Memory Indexes.</title>
+<pages>2817-2820</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2817-hao.pdf</ee>
+<ee>https://doi.org/10.14778/3415478.3415483</ee>
+<url>db/journals/pvldb/pvldb13.html#HaoL0O20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LerschHOWW19" mdate="2021-03-23">
+<author pid="180/3171">Lucas Lersch</author>
+<author pid="255/9284">Xiangpeng Hao</author>
+<author pid="135/3665">Ismail Oukid</author>
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="76/5682">Thomas Willhalm</author>
+<title>Evaluating Persistent Memory Range Indexes.</title>
+<pages>574-587</pages>
+<year>2019</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p574-lersch.pdf</ee>
+<ee>https://doi.org/10.14778/3372716.3372728</ee>
+<url>db/journals/pvldb/pvldb13.html#LerschHOWW19</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/LerschLO19" mdate="2023-09-30">
+<author pid="180/3171">Lucas Lersch</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="135/3665">Ismail Oukid</author>
+<title>Persistent Buffer Management with Optimistic Consistency.</title>
+<pages>14:1-14:3</pages>
+<year>2019</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3329785.3329931</ee>
+<crossref>conf/damon/2019</crossref>
+<url>db/conf/damon/damon2019.html#LerschLO19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-06760" mdate="2023-09-30">
+<author pid="180/3171">Lucas Lersch</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="135/3665">Ismail Oukid</author>
+<title>Persistent Buffer Management with Optimistic Consistency.</title>
+<year>2019</year>
+<volume>abs/1905.06760</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.06760</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-06760</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-07431" mdate="2019-08-26">
+<author pid="135/3665">Ismail Oukid</author>
+<author pid="180/3171">Lucas Lersch</author>
+<title>On the Diversity of Memory and Storage Technologies.</title>
+<year>2019</year>
+<volume>abs/1908.07431</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.07431</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-07431</url>
+</article>
+</r>
+<r><article key="journals/dbsk/OukidL18" mdate="2018-08-11">
+<author orcid="0000-0002-4253-4989" pid="135/3665">Ismail Oukid</author>
+<author pid="180/3171">Lucas Lersch</author>
+<title>On the Diversity of Memory and Storage Technologies.</title>
+<pages>121-127</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s13222-018-0287-8</ee>
+<url>db/journals/dbsk/dbsk18.html#OukidL18</url>
+</article>
+</r>
+<r><article key="journals/dbsk/GotzeRLLO18" mdate="2019-10-19">
+<author orcid="0000-0002-5076-5007" pid="180/3158">Philipp G&#246;tze</author>
+<author orcid="0000-0002-6365-4592" pid="219/9679">Alexander van Renen</author>
+<author pid="180/3171">Lucas Lersch</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="135/3665">Ismail Oukid</author>
+<title>Data Management on Non-Volatile Memory: A Perspective.</title>
+<pages>171-182</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s13222-018-0301-1</ee>
+<url>db/journals/dbsk/dbsk18.html#GotzeRLLO18</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/LerschOSL17" mdate="2023-09-30">
+<author pid="180/3171">Lucas Lersch</author>
+<author pid="135/3665">Ismail Oukid</author>
+<author pid="177/6046">Ivan Schreter</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<title>Rethinking DRAM Caching for LSMs in an NVRAM Environment.</title>
+<pages>326-340</pages>
+<year>2017</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-66917-5_22</ee>
+<crossref>conf/adbis/2017</crossref>
+<url>db/conf/adbis/adbis2017.html#LerschOSL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/LerschOLS17" mdate="2023-09-30">
+<author pid="180/3171">Lucas Lersch</author>
+<author pid="135/3665">Ismail Oukid</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="177/6046">Ivan Schreter</author>
+<title>An analysis of LSM caching in NVRAM.</title>
+<pages>9:1-9:5</pages>
+<year>2017</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3076113.3076123</ee>
+<crossref>conf/damon/2017</crossref>
+<url>db/conf/damon/damon2017.html#LerschOLS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adbis/SauerLHG16" mdate="2017-05-21">
+<author pid="37/10151">Caetano Sauer</author>
+<author pid="180/3171">Lucas Lersch</author>
+<author pid="h/TheoHarder">Theo H&#228;rder</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Update Propagation Strategies for High-Performance OLTP.</title>
+<pages>152-165</pages>
+<year>2016</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44039-2_11</ee>
+<crossref>conf/adbis/2016</crossref>
+<url>db/conf/adbis/adbis2016.html#SauerLHG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gvd/LerschSH16" mdate="2023-03-10">
+<author pid="180/3171">Lucas Lersch</author>
+<author pid="37/10151">Caetano Sauer</author>
+<author pid="h/TheoHarder">Theo H&#228;rder</author>
+<title>Decoupling Persistence Services from DBMS Buffer Management.</title>
+<pages>80-85</pages>
+<year>2016</year>
+<booktitle>GvD</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1594/paper15.pdf</ee>
+<crossref>conf/gvd/2016</crossref>
+<url>db/conf/gvd/gvd2016.html#LerschSH16</url>
+</inproceedings>
+</r>
+<coauthors n="12" nc="1">
+<co c="0"><na f="g/G=ouml=tze:Philipp" pid="180/3158">Philipp G&#246;tze</na></co>
+<co c="0"><na f="g/Graefe:Goetz" pid="g/GoetzGraefe">Goetz Graefe</na></co>
+<co c="0"><na f="h/Hao:Xiangpeng" pid="255/9284">Xiangpeng Hao</na></co>
+<co c="0"><na f="h/H=auml=rder:Theo" pid="h/TheoHarder">Theo H&#228;rder</na></co>
+<co c="0"><na f="l/Lehner:Wolfgang" pid="l/WLehner">Wolfgang Lehner</na></co>
+<co c="0"><na f="l/Leis:Viktor" pid="10/11150">Viktor Leis</na></co>
+<co c="0"><na f="o/Oukid:Ismail" pid="135/3665">Ismail Oukid</na></co>
+<co c="0"><na f="r/Renen:Alexander_van" pid="219/9679">Alexander van Renen</na></co>
+<co c="0"><na f="s/Sauer:Caetano" pid="37/10151">Caetano Sauer</na></co>
+<co c="0"><na f="s/Schreter:Ivan" pid="177/6046">Ivan Schreter</na></co>
+<co c="0"><na f="w/Wang_0001:Tianzheng" pid="57/10948-1">Tianzheng Wang 0001</na></co>
+<co c="0"><na f="w/Willhalm:Thomas" pid="76/5682">Thomas Willhalm</na></co>
+</coauthors>
+</dblpperson>

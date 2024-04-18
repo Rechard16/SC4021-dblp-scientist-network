@@ -1,0 +1,1954 @@
+<dblpperson name="Zachary G. Ives" pid="i/ZacharyGIves" n="116">
+<person key="homepages/i/ZacharyGIves" mdate="2023-09-25">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="i/ZacharyGIves">Zack Ives</author>
+<note type="affiliation">University of Pennsylvania, Philadelphia, PA, USA</note>
+<url>http://www.cis.upenn.edu/~zives/</url>
+<url>https://scholar.google.com/citations?user=2wJaIkEAAAAJ</url>
+<url>https://dl.acm.org/profile/81100336696</url>
+<url>https://twitter.com/zgives</url>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2306-01926" mdate="2023-08-08">
+<author pid="211/2509">Jiaming Liang</author>
+<author pid="17/6060-4">Lei Cao 0004</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<title>RITA: Group Attention is All You Need for Timeseries Analytics.</title>
+<year>2023</year>
+<volume>abs/2306.01926</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2306.01926</ee>
+<url>db/journals/corr/corr2306.html#abs-2306-01926</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-01025" mdate="2023-12-08">
+<author pid="168/4496">Peizhi Wu</author>
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Adding Domain Knowledge to Query-Driven Learned Databases.</title>
+<year>2023</year>
+<volume>abs/2312.01025</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.01025</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-01025</url>
+</article>
+</r>
+<r><proceedings key="conf/sigmod/2022" mdate="2023-03-16">
+<editor pid="i/ZacharyGIves">Zachary G. Ives</editor>
+<editor pid="b/ABonifati">Angela Bonifati</editor>
+<editor pid="a/AmrElAbbadi">Amr El Abbadi</editor>
+<title>SIGMOD '22: International Conference on Management of Data, Philadelphia, PA, USA, June 12 - 17, 2022</title>
+<publisher>ACM</publisher>
+<booktitle>SIGMOD Conference</booktitle>
+<year>2022</year>
+<isbn>978-1-4503-9249-5</isbn>
+<ee>https://doi.org/10.1145/3514221</ee>
+<url>db/conf/sigmod/sigmod2022.html</url>
+</proceedings>
+</r>
+<r><article key="journals/cacm/Ives21" mdate="2021-02-17">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Technical perspective: Solving the signal reconstruction problem at scale.</title>
+<pages>105</pages>
+<year>2021</year>
+<volume>64</volume>
+<journal>Commun. ACM</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3441688</ee>
+<url>db/journals/cacm/cacm64.html#Ives21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/IdreosI21" mdate="2021-08-27">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="i/ZacharyGIves">Zack Ives</author>
+<title>Front Matter.</title>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/FrontMatterVol14No11.pdf</ee>
+<url>db/journals/pvldb/pvldb14.html#IdreosI21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/Ives21" mdate="2023-03-16">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>The future of data(base) education: Is the "cow book" dead?</title>
+<pages>3239-3240</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p3239-ives.pdf</ee>
+<ee>https://doi.org/10.14778/3476311.3476394</ee>
+<url>db/journals/pvldb/pvldb14.html#Ives21</url>
+</article>
+</r>
+<r><article key="journals/sigmod/IvesGGKP21" mdate="2022-12-18">
+<author pid="i/ZacharyGIves">Zack Ives</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="32/7263">Jana Giceva</author>
+<author pid="30/4308-1">Arun Kumar 0001</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<title>VLDB Panel Summary: "The Future of Data(base) Education: Is the Cow Book Dead?".</title>
+<pages>23-26</pages>
+<year>2021</year>
+<volume>50</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3503780.3503786</ee>
+<url>db/journals/sigmod/sigmod50.html#IvesGGKP21</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/ZhangIR20a" mdate="2021-08-09">
+<author pid="64/6544">Yi Zhang</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="r/DanRoth">Dan Roth</author>
+<title>What is Your Article Based On? Inferring Fine-grained Provenance.</title>
+<pages>5894-5903</pages>
+<year>2021</year>
+<booktitle>ACL/IJCNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2021.acl-long.458</ee>
+<ee type="oa">https://aclanthology.org/2021.acl-long.458</ee>
+<crossref>conf/acl/2021-1</crossref>
+<url>db/conf/acl/acl2021-1.html#ZhangIR20a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/AlurHIKMNSTX21" mdate="2022-01-03">
+<author pid="a/RAlur">Rajeev Alur</author>
+<author pid="295/3334">Phillip Hilliard</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="238/2969">Konstantinos Kallas</author>
+<author pid="48/6846">Konstantinos Mamouras</author>
+<author pid="125/2180">Filip Niksic</author>
+<author orcid="0000-0002-8428-7736" pid="202/9985">Caleb Stanford</author>
+<author pid="t/ValTannen">Val Tannen</author>
+<author pid="242/4544">Anton Xue</author>
+<title>Synchronization Schemas.</title>
+<pages>1-18</pages>
+<year>2021</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/3452021.3458317</ee>
+<crossref>conf/pods/2021</crossref>
+<url>db/conf/pods/pods2021.html#AlurHIKMNSTX21</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/ZhengI20" mdate="2021-03-23">
+<author pid="44/5519">Nan Zheng</author>
+<author pid="i/ZacharyGIves">Zack Ives</author>
+<title>Compact, Tamper-Resistant Archival of Fine-Grained Provenance.</title>
+<pages>485-497</pages>
+<year>2020</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p485-zheng.pdf</ee>
+<ee>https://doi.org/10.14778/3436905.3436909</ee>
+<url>db/journals/pvldb/pvldb14.html#ZhengI20</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/ZhangIR20" mdate="2021-08-06">
+<author pid="64/6544">Yi Zhang</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="r/DanRoth">Dan Roth</author>
+<title>"Who said it, and Why?" Provenance for Natural Language Claims.</title>
+<pages>4416-4426</pages>
+<year>2020</year>
+<booktitle>ACL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.acl-main.406</ee>
+<ee type="oa">https://aclanthology.org/2020.acl-main.406/</ee>
+<crossref>conf/acl/2020</crossref>
+<url>db/conf/acl/acl2020.html#ZhangIR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZhangI20" mdate="2022-08-16">
+<author pid="64/6544">Yi Zhang</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Finding Related Tables in Data Lakes for Interactive Data Science.</title>
+<pages>1951-1966</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389726</ee>
+<ee>https://www.wikidata.org/entity/Q112290956</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#ZhangI20</url>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/Ives19" mdate="2019-05-09">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Technical perspective: Compressing matrices for large-scale machine learning.</title>
+<pages>82</pages>
+<year>2019</year>
+<volume>62</volume>
+<journal>Commun. ACM</journal>
+<number>5</number>
+<ee>https://doi.org/10.1145/3318219</ee>
+<url>db/journals/cacm/cacm62.html#Ives19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ZhangI19" mdate="2022-08-16">
+<author pid="64/6544">Yi Zhang</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Juneau: Data Lake Management for Jupyter.</title>
+<pages>1902-1905</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1902-zhang.pdf</ee>
+<ee>https://doi.org/10.14778/3352063.3352095</ee>
+<ee>https://www.wikidata.org/entity/Q111514890</ee>
+<url>db/journals/pvldb/pvldb12.html#ZhangI19</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Ives19" mdate="2020-03-06">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Technical Perspective: Efficient Signal Reconstruction for a Broad Range of Applications.</title>
+<pages>41</pages>
+<year>2019</year>
+<volume>48</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3371316.3371326</ee>
+<url>db/journals/sigmod/sigmod48.html#Ives19</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/ZhangIR19" mdate="2021-08-06">
+<author pid="64/6544">Yi Zhang</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="r/DanRoth">Dan Roth</author>
+<title>Evidence-based Trustworthiness.</title>
+<pages>413-423</pages>
+<year>2019</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/p19-1040</ee>
+<ee type="oa">https://aclanthology.org/P19-1040/</ee>
+<crossref>conf/acl/2019-1</crossref>
+<url>db/conf/acl/acl2019-1.html#ZhangIR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/IvesZHZ19" mdate="2020-03-12">
+<author pid="i/ZacharyGIves">Zack Ives</author>
+<author pid="64/6544">Yi Zhang</author>
+<author pid="233/6289">Soonbo Han</author>
+<author pid="44/5519">Nan Zheng</author>
+<title>Dataset Relationship Management.</title>
+<year>2019</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2019/papers/p55-ives-cidr19.pdf</ee>
+<crossref>conf/cidr/2019</crossref>
+<url>db/conf/cidr/cidr2019.html#IvesZHZ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhengAI19" mdate="2020-05-30">
+<author pid="44/5519">Nan Zheng</author>
+<author pid="147/2931">Abdussalam Alawini</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Fine-Grained Provenance for Matching &amp; ETL.</title>
+<pages>184-195</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00025</ee>
+<ee>https://www.wikidata.org/entity/Q90599267</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#ZhengAI19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/MamourasSAIT19" mdate="2020-10-25">
+<author pid="48/6846">Konstantinos Mamouras</author>
+<author orcid="0000-0002-8428-7736" pid="202/9985">Caleb Stanford</author>
+<author pid="a/RAlur">Rajeev Alur</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="t/ValTannen">Val Tannen</author>
+<title>Data-trace types for distributed stream processing systems.</title>
+<pages>670-685</pages>
+<year>2019</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3314221.3314580</ee>
+<ee>https://www.wikidata.org/entity/Q90912090</ee>
+<crossref>conf/pldi/2019</crossref>
+<url>db/conf/pldi/pldi2019.html#MamourasSAIT19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-05900" mdate="2019-12-02">
+<author pid="56/1483">Soichiro Hidaka</author>
+<author pid="28/2411">Yasunori Ishihara</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Proceedings of the Third Workshop on Software Foundations for Data Interoperability (SFDI2019+), October 28, 2019, Fukuoka, Japan.</title>
+<year>2019</year>
+<volume>abs/1911.05900</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.05900</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-05900</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Ives18" mdate="2020-03-06">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Technical Perspective: : From Think Parallel to Think Sequential.</title>
+<pages>14</pages>
+<year>2018</year>
+<volume>47</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3277006.3277010</ee>
+<url>db/journals/sigmod/sigmod47.html#Ives18</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Ives18a" mdate="2020-03-06">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Technical Perspective: : Natural Language Explanations for Query Results.</title>
+<pages>41</pages>
+<year>2018</year>
+<volume>47</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3277006.3277016</ee>
+<url>db/journals/sigmod/sigmod47.html#Ives18a</url>
+</article>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Ives18" mdate="2019-02-14">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Adaptive Stream Processing.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_11</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/a2.html#Ives18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Ives18a" mdate="2019-02-14">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Query Processing in Data Integration Systems.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_80668</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/q2.html#Ives18a</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Ives18b" mdate="2019-02-14">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Updates and Transactions in Peer-to-Peer Systems.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_1222</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/u2.html#Ives18b</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Ives18c" mdate="2019-02-14">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>XML Publishing.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_784</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/x2.html#Ives18c</url>
+</incollection>
+</r>
+<r><article key="journals/bigdata/AlexanderDIJM17" mdate="2022-10-02">
+<author pid="250/5347">Lewis Alexander</author>
+<author pid="51/7888">Sanjiv R. Das</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<author orcid="0000-0002-9488-0517" pid="12/1067">Claire Monteleoni</author>
+<title>Research Challenges in Financial Data Modeling and Analysis.</title>
+<pages>177-188</pages>
+<year>2017</year>
+<volume>5</volume>
+<journal>Big Data</journal>
+<number>3</number>
+<ee>https://doi.org/10.1089/big.2016.0074</ee>
+<ee>https://www.wikidata.org/entity/Q38620559</ee>
+<url>db/journals/bigdata/bigdata5.html#AlexanderDIJM17</url>
+</article>
+</r>
+<r><article key="journals/jpdc/WangCHSLPI17" mdate="2021-10-14">
+<author orcid="0000-0002-4582-3401" pid="01/7039-2">Zhuo Wang 0002</author>
+<author pid="16/1091-1">Qun Chen 0001</author>
+<author pid="195/2531">Boyi Hou</author>
+<author pid="117/5838">Bo Suo</author>
+<author pid="05/299">Zhanhuai Li</author>
+<author pid="69/4450-7">Wei Pan 0007</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Parallelizing maximal clique and k-plex enumeration over graph data.</title>
+<pages>79-91</pages>
+<year>2017</year>
+<volume>106</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<ee>https://doi.org/10.1016/j.jpdc.2017.03.003</ee>
+<url>db/journals/jpdc/jpdc106.html#WangCHSLPI17</url>
+</article>
+</r>
+<r><article key="journals/pervasive/KumarAAaCEEGHHI17" mdate="2024-02-05">
+<author pid="07/2616-1">Santosh Kumar 0001</author>
+<author pid="a/GDAbowd">Gregory D. Abowd</author>
+<author pid="185/8348">William T. Abraham</author>
+<author pid="11/9168">Mustafa al'Absi</author>
+<author orcid="0000-0001-9824-3323" pid="10/2670">Duen Horng Chau</author>
+<author pid="70/4039">Emre Ertin</author>
+<author pid="e/DeborahEstrin">Deborah Estrin</author>
+<author pid="g/DeepakGanesan">Deepak Ganesan</author>
+<author pid="198/3768">Timothy Hnat</author>
+<author pid="13/9662">Syed Monowar Hossain</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="84/11057">Jacqueline Kerr</author>
+<author orcid="0000-0002-2626-3410" pid="03/7058">Benjamin M. Marlin</author>
+<author pid="05/3845">Susan A. Murphy</author>
+<author orcid="0000-0003-1793-5462" pid="r/JMRehg">James M. Rehg</author>
+<author pid="167/8303">Inbal Nahum-Shani</author>
+<author pid="185/8103">Vivek Shetty</author>
+<author pid="07/529">Ida Sim</author>
+<author orcid="0000-0003-0692-9868" pid="185/3941">Bonnie Spring</author>
+<author orcid="0000-0002-3782-9192" pid="s/ManiBSrivastava">Mani B. Srivastava</author>
+<author pid="185/3936">David W. Wetter</author>
+<title>Center of Excellence for Mobile Sensor Data-to-Knowledge (MD2K).</title>
+<pages>18-22</pages>
+<year>2017</year>
+<volume>16</volume>
+<journal>IEEE Pervasive Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MPRV.2017.29</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MPRV.2017.29</ee>
+<ee>https://www.wikidata.org/entity/Q47144577</ee>
+<url>db/journals/pervasive/pervasive16.html#KumarAAaCEEGHHI17</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Ives17" mdate="2020-03-06">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Technical Perspective: Scaling Machine Learning via Compressed Linear Algebra.</title>
+<pages>41</pages>
+<year>2017</year>
+<volume>46</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3093754.3093764</ee>
+<url>db/journals/sigmod/sigmod46.html#Ives17</url>
+</article>
+</r>
+<r><inproceedings key="conf/pldi/MamourasRAIK17" mdate="2023-11-12">
+<author pid="48/6846">Konstantinos Mamouras</author>
+<author orcid="0000-0003-2879-0932" pid="03/10548">Mukund Raghothaman</author>
+<author pid="a/RAlur">Rajeev Alur</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="k/SanjeevKhanna">Sanjeev Khanna</author>
+<title>StreamQRE: modular specification and efficient evaluation of quantitative queries over streaming data.</title>
+<pages>693-708</pages>
+<year>2017</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3062341.3062369</ee>
+<ee>https://doi.org/10.1145/3140587.3062369</ee>
+<ee>https://www.wikidata.org/entity/Q89311678</ee>
+<crossref>conf/pldi/2017</crossref>
+<url>db/conf/pldi/pldi2017.html#MamourasRAIK17</url>
+</inproceedings>
+</r>
+<r><article key="journals/dase/HouWCSFLI16" mdate="2021-02-23">
+<author pid="195/2531">Boyi Hou</author>
+<author orcid="0000-0001-9383-9507" pid="01/7039-2">Zhuo Wang 0002</author>
+<author pid="16/1091-1">Qun Chen 0001</author>
+<author pid="117/5838">Bo Suo</author>
+<author pid="74/2770">Chao Fang</author>
+<author pid="05/299">Zhanhuai Li</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Efficient Maximal Clique Enumeration Over Graph Data.</title>
+<pages>219-230</pages>
+<year>2016</year>
+<volume>1</volume>
+<journal>Data Sci. Eng.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1007/s41019-017-0033-5</ee>
+<ee>https://www.wikidata.org/entity/Q59467416</ee>
+<url>db/journals/dase/dase1.html#HouWCSFLI16</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Ives16" mdate="2020-03-06">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Technical Perspective: Implicit Parallelism through Deep Language Embedding.</title>
+<pages>50</pages>
+<year>2016</year>
+<volume>45</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2949741.2949753</ee>
+<url>db/journals/sigmod/sigmod45.html#Ives16</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Ives16a" mdate="2020-03-06">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Technical Perspective: k-Shape: Efficient and Accurate Clustering of Time Series.</title>
+<pages>68</pages>
+<year>2016</year>
+<volume>45</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2949741.2949757</ee>
+<url>db/journals/sigmod/sigmod45.html#Ives16a</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasfaa/ChenFWSLI16" mdate="2021-10-14">
+<author pid="16/1091-1">Qun Chen 0001</author>
+<author pid="74/2770">Chao Fang</author>
+<author orcid="0000-0002-4582-3401" pid="01/7039-2">Zhuo Wang 0002</author>
+<author pid="117/5838">Bo Suo</author>
+<author pid="05/299">Zhanhuai Li</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Parallelizing Maximal Clique Enumeration Over Graph Data.</title>
+<pages>249-264</pages>
+<year>2016</year>
+<booktitle>DASFAA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-32049-6_16</ee>
+<crossref>conf/dasfaa/2016-2</crossref>
+<url>db/conf/dasfaa/dasfaa2016-2.html#ChenFWSLI16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LiuIL16" mdate="2023-02-12">
+<author pid="89/1149">Mengmeng Liu</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author orcid="0000-0002-4757-1746" pid="75/3108">Boon Thau Loo</author>
+<title>Enabling Incremental Query Re-Optimization.</title>
+<pages>1705-1720</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2915212</ee>
+<ee>https://www.wikidata.org/entity/Q38703716</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#LiuIL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tapp/YanTI16" mdate="2021-02-02">
+<author pid="92/8164">Zhepeng Yan</author>
+<author pid="t/ValTannen">Val Tannen</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Fine-grained Provenance for Linear Algebra Operators.</title>
+<year>2016</year>
+<booktitle>TaPP</booktitle>
+<ee type="oa">https://www.usenix.org/conference/tapp16/workshop-program/presentation/yan</ee>
+<crossref>conf/tapp/2016</crossref>
+<url>db/conf/tapp/tapp2016.html#YanTI16</url>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/YanZITY15" mdate="2017-05-28">
+<author pid="92/8164">Zhepeng Yan</author>
+<author pid="44/5519">Nan Zheng</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="86/687">Partha Pratim Talukdar</author>
+<author pid="58/3771">Cong Yu 0001</author>
+<title>Active learning in keyword search-based data integration.</title>
+<pages>611-631</pages>
+<year>2015</year>
+<volume>24</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-014-0374-x</ee>
+<url>db/journals/vldb/vldb24.html#YanZITY15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/IvesYZLW15" mdate="2020-03-12">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="92/8164">Zhepeng Yan</author>
+<author pid="44/5519">Nan Zheng</author>
+<author pid="79/4859">Brian Litt</author>
+<author pid="160/4618">Joost B. Wagenaar</author>
+<title>Looking at Everything in Context.</title>
+<year>2015</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2015/Papers/CIDR15_Paper10.pdf</ee>
+<crossref>conf/cidr/2015</crossref>
+<url>db/conf/cidr/cidr2015.html#IvesYZLW15</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigmod/2015" mdate="2015-11-12">
+<editor pid="s/TimosKSellis">Timos K. Sellis</editor>
+<editor pid="d/SBDavidson">Susan B. Davidson</editor>
+<editor pid="i/ZacharyGIves">Zachary G. Ives</editor>
+<title>Proceedings of the 2015 ACM SIGMOD International Conference on Management of Data, Melbourne, Victoria, Australia, May 31 - June 4, 2015</title>
+<publisher>ACM</publisher>
+<booktitle>SIGMOD Conference</booktitle>
+<year>2015</year>
+<isbn>978-1-4503-2758-9</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=2723372</ee>
+<url>db/conf/sigmod/sigmod2015.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ccr/AndersonBBCCCFHIKLLMNSSRWWY14" mdate="2023-09-30">
+<author pid="a/ThomasEAnderson">Tom Anderson 0003</author>
+<author orcid="0000-0003-2400-149X" pid="b/KPBirman">Ken Birman</author>
+<author pid="64/10305">Robert M. Broberg</author>
+<author orcid="0000-0001-5955-9229" pid="09/384">Matthew Caesar 0001</author>
+<author pid="c/DouglasComer">Douglas Comer</author>
+<author pid="70/10305">Chase Cotton</author>
+<author pid="65/1370">Michael J. Freedman</author>
+<author pid="60/4358">Andreas Haeberlen</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author>
+<author pid="54/3889">William H. Lehr</author>
+<author orcid="0000-0002-4757-1746" pid="75/3108">Boon Thau Loo</author>
+<author pid="m/DMazieres">David Mazi&#232;res</author>
+<author pid="58/1326">Antonio Nicolosi</author>
+<author pid="s/JonathanMSmith">Jonathan M. Smith</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<author pid="r/RvRenesse">Robbert van Renesse</author>
+<author pid="00/2879">Michael Walfish</author>
+<author pid="w/HakimWeatherspoon">Hakim Weatherspoon</author>
+<author pid="33/8321">Christopher S. Yoo</author>
+<title>A brief overview of the NEBULA future internet architecture.</title>
+<pages>81-86</pages>
+<year>2014</year>
+<volume>44</volume>
+<journal>Comput. Commun. Rev.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2656877.2656889</ee>
+<url>db/journals/ccr/ccr44.html#AndersonBBCCCFHIKLLMNSSRWWY14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LiuIL14" mdate="2018-08-13">
+<author pid="89/1149">Mengmeng Liu</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="75/3108">Boon Thau Loo</author>
+<title>Enabling Incremental Query Re-Optimization.</title>
+<year>2014</year>
+<volume>abs/1409.6288</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1409.6288</ee>
+<url>db/journals/corr/corr1409.html#LiuIL14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/YanZITY13" mdate="2020-04-25">
+<author pid="92/8164">Zhepeng Yan</author>
+<author pid="44/5519">Nan Zheng</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="86/687">Partha Pratim Talukdar</author>
+<author pid="58/3771">Cong Yu 0001</author>
+<title>Actively Soliciting Feedback for Query Answers in Keyword Search-Based Data Integration.</title>
+<pages>205-216</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p205-ives.pdf</ee>
+<ee>https://doi.org/10.14778/2535569.2448954</ee>
+<url>db/journals/pvldb/pvldb6.html#YanZITY13</url>
+</article>
+</r>
+<r><article key="journals/pvldb/Ives13" mdate="2020-04-25">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Front Matter.</title>
+<pages>i-ix</pages>
+<year>2013</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/FrontMatterVol7No3.pdf</ee>
+<url>db/journals/pvldb/pvldb7.html#Ives13</url>
+</article>
+</r>
+<r><article key="journals/tods/KarvounarakisGIT13" mdate="2022-06-10">
+<author pid="k/GregoryKarvounarakis">Grigoris Karvounarakis</author>
+<author pid="g/ToddJGreen">Todd J. Green</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="t/ValTannen">Val Tannen</author>
+<title>Collaborative data sharing via update exchange and provenance.</title>
+<pages>19</pages>
+<year>2013</year>
+<volume>38</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>http://doi.acm.org/10.1145/2500127</ee>
+<url>db/journals/tods/tods38.html#KarvounarakisGIT13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/DeutchIMT13" mdate="2020-03-12">
+<author pid="98/6876">Daniel Deutch</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author pid="t/ValTannen">Val Tannen</author>
+<title>Caravan: Provisioning for What-If Analysis.</title>
+<year>2013</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2013/Papers/CIDR13_Paper100.pdf</ee>
+<crossref>conf/cidr/2013</crossref>
+<url>db/conf/cidr/cidr2013.html#DeutchIMT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fia/AndersonBBCCCFHIKLLMNSSRWWY13" mdate="2023-09-30">
+<author pid="a/ThomasEAnderson">Tom Anderson 0003</author>
+<author orcid="0000-0003-2400-149X" pid="b/KPBirman">Ken Birman</author>
+<author pid="64/10305">Robert M. Broberg</author>
+<author orcid="0000-0001-5955-9229" pid="09/384">Matthew Caesar 0001</author>
+<author pid="c/DouglasComer">Douglas Comer</author>
+<author pid="70/10305">Chase Cotton</author>
+<author pid="65/1370">Michael J. Freedman</author>
+<author pid="60/4358">Andreas Haeberlen</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author>
+<author pid="54/3889">William H. Lehr</author>
+<author pid="75/3108">Boon Thau Loo</author>
+<author pid="m/DMazieres">David Mazi&#232;res</author>
+<author pid="58/1326">Antonio Nicolosi</author>
+<author pid="s/JonathanMSmith">Jonathan M. Smith</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<author pid="r/RvRenesse">Robbert van Renesse</author>
+<author pid="00/2879">Michael Walfish</author>
+<author pid="w/HakimWeatherspoon">Hakim Weatherspoon</author>
+<author pid="33/8321">Christopher S. Yoo</author>
+<title>The NEBULA Future Internet Architecture.</title>
+<pages>16-26</pages>
+<year>2013</year>
+<booktitle>Future Internet Assembly</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-38082-2_2</ee>
+<crossref>conf/fia/2013</crossref>
+<url>db/conf/fia/fia2013.html#AndersonBBCCCFHIKLLMNSSRWWY13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pst/ChangGHILSV13" mdate="2023-03-23">
+<author pid="80/3338">Jian Chang</author>
+<author pid="134/6420">Peter Gebhard</author>
+<author pid="60/4358">Andreas Haeberlen</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="l/InsupLee">Insup Lee 0001</author>
+<author pid="31/4030">Oleg Sokolsky</author>
+<author pid="53/6806">Krishna K. Venkatasubramanian</author>
+<title>TrustForge: Flexible access control for collaborative crowd-sourced environment.</title>
+<pages>291-300</pages>
+<year>2013</year>
+<crossref>conf/pst/2013</crossref>
+<booktitle>PST</booktitle>
+<ee>https://doi.org/10.1109/PST.2013.6596065</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PST.2013.6596065</ee>
+<url>db/conf/pst/pst2013.html#ChangGHILSV13</url>
+</inproceedings>
+</r>
+<r><book key="books/daglib/0029346" mdate="2014-03-12">
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Principles of Data Integration.</title>
+<pages>I-XVIII, 1-497</pages>
+<publisher>Morgan Kaufmann</publisher>
+<year>2012</year>
+<isbn>978-0-12-416044-6</isbn>
+<ee>http://research.cs.wisc.edu/dibook/</ee>
+<ee>http://store.elsevier.com/product.jsp?isbn=9780124160446</ee>
+</book>
+</r>
+<r><article key="journals/cn/MaoLIS12" mdate="2020-02-19">
+<author pid="m/YunMao">Yun Mao</author>
+<author pid="75/3108">Boon Thau Loo</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="s/JonathanMSmith">Jonathan M. Smith</author>
+<title>MOSAIC: Declarative platform for dynamic overlay composition.</title>
+<pages>64-84</pages>
+<year>2012</year>
+<volume>56</volume>
+<journal>Comput. Networks</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.comnet.2011.08.006</ee>
+<url>db/journals/cn/cn56.html#MaoLIS12</url>
+</article>
+</r>
+<r><article key="journals/pvldb/MihaylovIG12" mdate="2020-04-25">
+<author pid="63/4646">Svilen R. Mihaylov</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="g/SudiptoGuha">Sudipto Guha</author>
+<title>REX: Recursive, Delta-Based Data-Centric Computation.</title>
+<pages>1280-1291</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p1280_svilenrmihaylov_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2350229.2350246</ee>
+<url>db/journals/pvldb/pvldb5.html#MihaylovIG12</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ZhouMRLHILS12" mdate="2023-02-12">
+<author pid="72/1077">Wenchao Zhou</author>
+<author pid="133/9882">Suyog Mapara</author>
+<author pid="99/9975">Yiqing Ren</author>
+<author pid="37/4190-25">Yang Li 0025</author>
+<author pid="60/4358">Andreas Haeberlen</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author orcid="0000-0002-4757-1746" pid="75/3108">Boon Thau Loo</author>
+<author pid="57/3752">Micah Sherr</author>
+<title>Distributed Time-aware Provenance.</title>
+<pages>49-60</pages>
+<year>2012</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p49-zhou.pdf</ee>
+<ee>https://doi.org/10.14778/2535568.2448939</ee>
+<url>db/journals/pvldb/pvldb6.html#ZhouMRLHILS12</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/GreenI12" mdate="2023-03-23">
+<author pid="g/ToddJGreen">Todd J. Green</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Recomputing Materialized Instances after Changes to Mappings and Data.</title>
+<pages>330-341</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.107</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2012.107</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#GreenI12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tapp/IvesHFG12" mdate="2021-02-02">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="60/4358">Andreas Haeberlen</author>
+<author pid="12/4774">Tao Feng</author>
+<author pid="36/5673">Wolfgang Gatterbauer</author>
+<title>Querying Provenance for Ranking and Recommending.</title>
+<year>2012</year>
+<booktitle>TaPP</booktitle>
+<ee type="oa">https://www.usenix.org/conference/tapp12/workshop-program/presentation/ives</ee>
+<crossref>conf/tapp/2012</crossref>
+<url>db/conf/tapp/tapp2012.html#IvesHFG12</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/webdb/2012" mdate="2012-11-20">
+<editor pid="i/ZacharyGIves">Zachary G. Ives</editor>
+<editor pid="v/YannisVelegrakis">Yannis Velegrakis</editor>
+<title>Proceedings of the 15th International Workshop on the Web and Databases 2012, WebDB 2012, Scottsdale, AZ, USA, May 20, 2012</title>
+<booktitle>WebDB</booktitle>
+<year>2012</year>
+<url>db/conf/webdb/webdb2012.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1208-0089" mdate="2018-08-13">
+<author pid="63/4646">Svilen R. Mihaylov</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="g/SudiptoGuha">Sudipto Guha</author>
+<title>REX: Recursive, Delta-Based Data-Centric Computation</title>
+<ee type="oa">http://arxiv.org/abs/1208.0089</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1208.0089</volume>
+<url>db/journals/corr/corr1208.html#abs-1208-0089</url>
+</article>
+</r>
+<r><article key="journals/mst/GreenIT11" mdate="2017-05-28">
+<author pid="g/ToddJGreen">Todd J. Green</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="t/ValTannen">Val Tannen</author>
+<title>Reconcilable Differences.</title>
+<pages>460-488</pages>
+<year>2011</year>
+<volume>49</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00224-011-9323-x</ee>
+<url>db/journals/mst/mst49.html#GreenIT11</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/JacobI11" mdate="2018-11-06">
+<author pid="76/747">Marie Jacob</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Sharing work in keyword search over databases.</title>
+<pages>577-588</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989384</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#JacobI11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZhouFSTHILS11" mdate="2018-11-06">
+<author pid="72/1077">Wenchao Zhou</author>
+<author pid="76/9726">Qiong Fei</author>
+<author pid="07/9727">Shengzhi Sun</author>
+<author pid="73/3197">Tao Tao</author>
+<author pid="60/4358">Andreas Haeberlen</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="75/3108">Boon Thau Loo</author>
+<author pid="57/3752">Micah Sherr</author>
+<title>NetTrails: a declarative platform for maintaining and querying provenance in distributed systems.</title>
+<pages>1323-1326</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989488</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#ZhouFSTHILS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tapp/ZhouDHIL11" mdate="2021-02-02">
+<author pid="72/1077">Wenchao Zhou</author>
+<author pid="19/5147">Ling Ding</author>
+<author pid="60/4358">Andreas Haeberlen</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="75/3108">Boon Thau Loo</author>
+<title>TAP: Time-aware Provenance for Distributed Systems.</title>
+<year>2011</year>
+<booktitle>TaPP</booktitle>
+<ee type="oa">https://www.usenix.org/conference/tapp11/tap-time-aware-provenance-distributed-systems</ee>
+<crossref>conf/tapp/2011</crossref>
+<url>db/conf/tapp/tapp2011.html#ZhouDHIL11</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/GreenKIT10" mdate="2020-03-10">
+<author pid="g/ToddJGreen">Todd J. Green</author>
+<author pid="k/GregoryKarvounarakis">Grigoris Karvounarakis</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="t/ValTannen">Val Tannen</author>
+<title>Provenance in ORCHESTRA.</title>
+<pages>9-16</pages>
+<year>2010</year>
+<volume>33</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<ee type="oa">http://sites.computer.org/debull/A10sept/green.pdf</ee>
+<url>db/journals/debu/debu33.html#GreenKIT10</url>
+</article>
+</r>
+<r><article key="journals/is/BhideHIM10" mdate="2017-05-20">
+<author pid="40/4935">Manish Bhide</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="85/6670">Mukesh K. Mohania</author>
+<title>Foreword.</title>
+<pages>139</pages>
+<year>2010</year>
+<volume>35</volume>
+<journal>Inf. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.is.2009.08.001</ee>
+<url>db/journals/is/is35.html#BhideHIM10</url>
+</article>
+</r>
+<r><article key="journals/pvldb/MihaylovJIG10" mdate="2020-04-25">
+<author pid="63/4646">Svilen R. Mihaylov</author>
+<author pid="76/747">Marie Jacob</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="g/SudiptoGuha">Sudipto Guha</author>
+<title>Dynamic Join Optimization in Multi-Hop Wireless Sensor Networks.</title>
+<pages>1279-1290</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R113.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920999</ee>
+<url>db/journals/pvldb/pvldb3.html#MihaylovJIG10</url>
+</article>
+</r>
+<r><article key="journals/sigmod/LiuMBJILG10" mdate="2020-03-06">
+<author pid="89/1149">Mengmeng Liu</author>
+<author pid="63/4646">Svilen R. Mihaylov</author>
+<author pid="09/1115">Zhuowei Bao</author>
+<author pid="76/747">Marie Jacob</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="75/3108">Boon Thau Loo</author>
+<author pid="g/SudiptoGuha">Sudipto Guha</author>
+<title>SmartCIS: integrating digital and physical environments.</title>
+<pages>48-53</pages>
+<year>2010</year>
+<volume>39</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1860702.1860711</ee>
+<url>db/journals/sigmod/sigmod39.html#LiuMBJILG10</url>
+</article>
+</r>
+<r><article key="journals/tkde/LiuTZIL10" mdate="2017-05-20">
+<author pid="89/1149">Mengmeng Liu</author>
+<author pid="53/3231">Nicholas E. Taylor</author>
+<author pid="72/1077">Wenchao Zhou</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="75/3108">Boon Thau Loo</author>
+<title>Maintaining Recursive Views of Regions and Connectivity in Networks.</title>
+<pages>1126-1141</pages>
+<year>2010</year>
+<volume>22</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TKDE.2010.65</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2010.65</ee>
+<url>db/journals/tkde/tkde22.html#LiuTZIL10</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/TaylorI10" mdate="2023-03-24">
+<author pid="53/3231">Nicholas E. Taylor</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Reliable storage and querying for collaborative data sharing systems.</title>
+<pages>40-51</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447876</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447876</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#TaylorI10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/TalukdarIP10" mdate="2018-11-14">
+<author pid="86/687">Partha Pratim Talukdar</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="p/FernandoCNPereira">Fernando C. N. Pereira</author>
+<title>Automatically incorporating new sources in keyword search-based data integration.</title>
+<pages>387-398</pages>
+<year>2010</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1807167.1807211</ee>
+<ee>https://www.wikidata.org/entity/Q56569998</ee>
+<crossref>conf/sigmod/2010</crossref>
+<url>db/conf/sigmod/sigmod2010.html#TalukdarIP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KarvounarakisIT10" mdate="2018-11-06">
+<author pid="k/GregoryKarvounarakis">Grigoris Karvounarakis</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="t/ValTannen">Val Tannen</author>
+<title>Querying data provenance.</title>
+<pages>951-962</pages>
+<year>2010</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1807167.1807269</ee>
+<crossref>conf/sigmod/2010</crossref>
+<url>db/conf/sigmod/sigmod2010.html#KarvounarakisIT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/IvesKMJTTAMG09" mdate="2020-03-12">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="k/CAKnoblock">Craig A. Knoblock</author>
+<author pid="m/SMinton">Steven Minton</author>
+<author pid="76/747">Marie Jacob</author>
+<author pid="86/687">Partha Pratim Talukdar</author>
+<author pid="06/6036">Rattapoom Tuchinda</author>
+<author pid="75/6070">Jos&#233; Luis Ambite</author>
+<author pid="83/3033">Maria Muslea</author>
+<author pid="48/4029">Cenk Gazen</author>
+<title>Interactive Data Integration through Smart Copy &amp; Paste.</title>
+<year>2009</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://www-db.cs.wisc.edu/cidr/cidr2009/Paper_71.pdf</ee>
+<crossref>conf/cidr/2009</crossref>
+<url>db/conf/cidr/cidr2009.html#IvesKMJTTAMG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dils/Ives09" mdate="2017-05-25">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Data Integration and Exchange for Scientific Collaboration.</title>
+<pages>1-4</pages>
+<year>2009</year>
+<booktitle>DILS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02879-3_1</ee>
+<crossref>conf/dils/2009</crossref>
+<url>db/conf/dils/dils2009.html#Ives09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LiuTZIL09" mdate="2023-03-23">
+<author pid="89/1149">Mengmeng Liu</author>
+<author pid="53/3231">Nicholas E. Taylor</author>
+<author pid="72/1077">Wenchao Zhou</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="75/3108">Boon Thau Loo</author>
+<title>Recursive Computation of Regions and Connectivity in Networks.</title>
+<pages>1108-1119</pages>
+<year>2009</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2009.36</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2009.36</ee>
+<crossref>conf/icde/2009</crossref>
+<url>db/conf/icde/icde2009.html#LiuTZIL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/GreenIT09" mdate="2018-11-06">
+<author pid="g/ToddJGreen">Todd J. Green</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="t/ValTannen">Val Tannen</author>
+<title>Reconcilable differences.</title>
+<pages>212-224</pages>
+<year>2009</year>
+<booktitle>ICDT</booktitle>
+<ee>https://doi.org/10.1145/1514894.1514920</ee>
+<crossref>conf/icdt/2009</crossref>
+<url>db/conf/icdt/icdt2009.html#GreenIT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LiuMBJILG09" mdate="2018-11-06">
+<author pid="89/1149">Mengmeng Liu</author>
+<author pid="63/4646">Svilen R. Mihaylov</author>
+<author pid="09/1115">Zhuowei Bao</author>
+<author pid="76/747">Marie Jacob</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="75/3108">Boon Thau Loo</author>
+<author pid="g/SudiptoGuha">Sudipto Guha</author>
+<title>SmartCIS: integrating digital and physical environments.</title>
+<pages>1111-1114</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559996</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#LiuMBJILG09</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Ives09" mdate="2017-07-12">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Adaptive Stream Processing.</title>
+<pages>52-56</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_11</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/a.html#Ives09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Ives09a" mdate="2017-07-12">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Updates and Transactions in Peer-to-Peer Systems.</title>
+<pages>3241-3244</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_1222</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/u.html#Ives09a</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Ives09b" mdate="2017-07-12">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>XML Publishing.</title>
+<pages>3613-3616</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_784</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/x.html#Ives09b</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0909-1769" mdate="2018-08-13">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="k/CAKnoblock">Craig A. Knoblock</author>
+<author pid="m/SMinton">Steven Minton</author>
+<author pid="76/747">Marie Jacob</author>
+<author pid="86/687">Partha Pratim Talukdar</author>
+<author pid="06/6036">Rattapoom Tuchinda</author>
+<author pid="75/6070">Jos&#233; Luis Ambite</author>
+<author pid="83/3033">Maria Muslea</author>
+<author pid="48/4029">Cenk Gazen</author>
+<title>Interactive Data Integration through Smart Copy &amp; Paste</title>
+<ee type="oa">http://arxiv.org/abs/0909.1769</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0909.1769</volume>
+<url>db/journals/corr/corr0909.html#abs-0909-1769</url>
+</article>
+</r>
+<r><article key="journals/pvldb/TalukdarJMCIPG08" mdate="2020-04-25">
+<author pid="86/687">Partha Pratim Talukdar</author>
+<author pid="76/747">Marie Jacob</author>
+<author pid="42/3311">Muhammad Salman Mehmood</author>
+<author pid="74/6961">Koby Crammer</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="p/FernandoCNPereira">Fernando C. N. Pereira</author>
+<author pid="g/SudiptoGuha">Sudipto Guha</author>
+<title>Learning to create data-integrating queries.</title>
+<pages>785-796</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1453941.pdf</ee>
+<ee>https://doi.org/10.14778/1453856.1453941</ee>
+<url>db/journals/pvldb/pvldb1.html#TalukdarJMCIPG08</url>
+</article>
+</r>
+<r><article key="journals/sigmod/IvesGKTTTJP08" mdate="2020-03-06">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="g/ToddJGreen">Todd J. Green</author>
+<author pid="k/GregoryKarvounarakis">Grigoris Karvounarakis</author>
+<author pid="53/3231">Nicholas E. Taylor</author>
+<author pid="t/ValTannen">Val Tannen</author>
+<author pid="86/687">Partha Pratim Talukdar</author>
+<author pid="76/747">Marie Jacob</author>
+<author pid="p/FernandoCNPereira">Fernando C. N. Pereira</author>
+<title>The ORCHESTRA Collaborative Data Sharing System.</title>
+<pages>26-32</pages>
+<year>2008</year>
+<volume>37</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1462571.1462577</ee>
+<url>db/journals/sigmod/sigmod37.html#IvesGKTTTJP08</url>
+</article>
+</r>
+<r><inproceedings key="conf/conext/MaoLIS08" mdate="2018-11-06">
+<author pid="m/YunMao">Yun Mao</author>
+<author pid="75/3108">Boon Thau Loo</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="s/JonathanMSmith">Jonathan M. Smith</author>
+<title>MOSAIC: unified declarative platform for dynamic overlay composition.</title>
+<pages>5</pages>
+<year>2008</year>
+<booktitle>CoNEXT</booktitle>
+<ee>https://doi.org/10.1145/1544012.1544017</ee>
+<crossref>conf/conext/2008</crossref>
+<url>db/conf/conext/conext2008.html#MaoLIS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dmsn/MihaylovJIG08" mdate="2018-11-06">
+<author pid="63/4646">Svilen R. Mihaylov</author>
+<author pid="76/747">Marie Jacob</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="g/SudiptoGuha">Sudipto Guha</author>
+<title>A substrate for in-network sensor data integration.</title>
+<pages>35-41</pages>
+<year>2008</year>
+<booktitle>DMSN</booktitle>
+<ee>https://doi.org/10.1145/1402050.1402059</ee>
+<crossref>conf/dmsn/2008</crossref>
+<url>db/conf/dmsn/dmsn2008.html#MihaylovJIG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/IvesT08" mdate="2023-03-24">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="53/3231">Nicholas E. Taylor</author>
+<title>Sideways Information Passing for Push-Style Query Processing.</title>
+<pages>774-783</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497486</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497486</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#IvesT08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webdb/KarvounarakisI08" mdate="2008-08-26">
+<author pid="k/GregoryKarvounarakis">Grigoris Karvounarakis</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Bidirectional Mappings for Data and Update Exchange.</title>
+<year>2008</year>
+<booktitle>WebDB</booktitle>
+<ee>http://webdb2008.como.polimi.it/images/stories/WebDB2008/paper35.pdf</ee>
+<crossref>conf/webdb/2008</crossref>
+<url>db/conf/webdb/webdb2008.html#KarvounarakisI08</url>
+</inproceedings>
+</r>
+<r><article key="journals/ftdb/DeshpandeIR07" mdate="2020-04-25">
+<author pid="d/AmolDeshpande">Amol Deshpande</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<title>Adaptive Query Processing.</title>
+<pages>1-140</pages>
+<year>2007</year>
+<volume>1</volume>
+<journal>Found. Trends Databases</journal>
+<number>1</number>
+<ee>https://doi.org/10.1561/1900000001</ee>
+<url>db/journals/ftdb/ftdb1.html#DeshpandeIR07</url>
+</article>
+</r>
+<r><inproceedings key="conf/semweb/AuerBKLCI07" mdate="2022-12-07">
+<author orcid="0000-0002-0698-2864" pid="05/6406">S&#246;ren Auer</author>
+<author orcid="0000-0003-2367-0237" pid="b/ChristianBizer">Christian Bizer</author>
+<author pid="81/3336">Georgi Kobilarov</author>
+<author pid="71/4882">Jens Lehmann 0001</author>
+<author pid="18/1671">Richard Cyganiak</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>DBpedia: A Nucleus for a Web of Open Data.</title>
+<pages>722-735</pages>
+<year>2007</year>
+<crossref>conf/semweb/2007</crossref>
+<booktitle>ISWC/ASWC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-76298-0_52</ee>
+<ee>https://www.wikidata.org/entity/Q27910422</ee>
+<url>db/conf/semweb/iswc2007.html#AuerBKLCI07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GreenKTBIT07" mdate="2018-11-06">
+<author pid="g/ToddJGreen">Todd J. Green</author>
+<author pid="k/GregoryKarvounarakis">Gregory Karvounarakis</author>
+<author pid="53/3231">Nicholas E. Taylor</author>
+<author pid="22/4339">Olivier Biton</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="t/ValTannen">Val Tannen</author>
+<title>ORCHESTRA: facilitating collaborative data sharing.</title>
+<pages>1131-1133</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247631</ee>
+<url>db/conf/sigmod/sigmod2007.html#GreenKTBIT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/GreenKIT07" mdate="2020-03-12">
+<author pid="g/ToddJGreen">Todd J. Green</author>
+<author pid="k/GregoryKarvounarakis">Grigoris Karvounarakis</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="t/ValTannen">Val Tannen</author>
+<title>Update Exchange with Mappings and Provenance.</title>
+<pages>675-686</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/research/p675-green.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#GreenKIT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/IvesDR07" mdate="2020-03-12">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="d/AmolDeshpande">Amol Deshpande</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<title>Adaptive query processing: Why, How, When, and What Next?</title>
+<pages>1426-1427</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/tutorials/p1426-deshpande.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#IvesDR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/TaylorI06" mdate="2018-11-06">
+<author pid="53/3231">Nicholas E. Taylor</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Reconciling while tolerating disagreement in collaborative data sharing.</title>
+<pages>13-24</pages>
+<year>2006</year>
+<crossref>conf/sigmod/2006</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1142473.1142476</ee>
+<url>db/conf/sigmod/sigmod2006.html#TaylorI06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/AnandCSIL06" mdate="2023-01-26">
+<author pid="63/4816">Madhukar Anand</author>
+<author pid="69/986">Eric Cronin</author>
+<author pid="57/3752">Micah Sherr</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="l/InsupLee">Insup Lee 0001</author>
+<title>Sensor Network Security: More Interesting Than You Think.</title>
+<year>2006</year>
+<booktitle>HotSec</booktitle>
+<ee type="oa">https://www.usenix.org/conference/hotsec-06/sensor-network-security-more-interesting-you-think</ee>
+<crossref>conf/uss/2006hotsec</crossref>
+<url>db/conf/uss/hotsec2006.html#AnandCSIL06</url>
+</inproceedings>
+</r>
+<r><incollection key="books/daglib/p/IvesHMT06" mdate="2019-08-03">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="75/972">Peter Mork</author>
+<author pid="56/1548">Igor Tatarinov</author>
+<title>Scalable, Peer-Based Mediation Across XML Schemas and Ontologies.</title>
+<pages>235-258</pages>
+<year>2006</year>
+<crossref>books/daglib/0014626</crossref>
+<booktitle>Semantic Web and Peer-to-Peer</booktitle>
+<ee>https://doi.org/10.1007/3-540-28347-1_13</ee>
+<url>db/books/daglib/0014626.html#IvesHMT06</url>
+</incollection>
+</r>
+<r><article key="journals/vldb/HalevyIST05" mdate="2024-02-05">
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<author pid="56/1548">Igor Tatarinov</author>
+<title>Schema mediation for large-scale semantic data sharing.</title>
+<pages>68-83</pages>
+<year>2005</year>
+<volume>14</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-003-0116-y</ee>
+<url>db/journals/vldb/vldb14.html#HalevyIST05</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/IvesKKC05" mdate="2020-03-12">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="58/1379">Nitin Khandelwal</author>
+<author pid="87/4750">Aneesh Kapur</author>
+<author pid="21/4509">Murat Cakir</author>
+<title>ORCHESTRA: Rapid, Collaborative Sharing of Dynamic Data.</title>
+<pages>107-118</pages>
+<year>2005</year>
+<crossref>conf/cidr/2005</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2005/papers/P09.pdf</ee>
+<url>db/conf/cidr/cidr2005.html#IvesKKC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dmsn/AnandIL05" mdate="2023-01-26">
+<author pid="63/4816">Madhukar Anand</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="l/InsupLee">Insup Lee 0001</author>
+<title>Quantifying eavesdropping vulnerability in sensor networks.</title>
+<pages>3-9</pages>
+<year>2005</year>
+<booktitle>DMSN</booktitle>
+<ee>https://doi.org/10.1145/1080885.1080887</ee>
+<crossref>conf/dmsn/2005</crossref>
+<url>db/conf/dmsn/dmsn2005.html#AnandIL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/BernsteinDHIJMOSWW05" mdate="2020-03-12">
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="h/AHeuer">Andreas Heuer 0001</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="m/HolgerMeyer">Holger Meyer 0001</author>
+<author pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<author pid="w/KyuYoungWhang">Kyu-Young Whang</author>
+<author pid="w/JenniferWidom">Jennifer Widom</author>
+<title>Database Publication Practices.</title>
+<pages>1241-1246</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/archives/website/2005/program/paper/wed/p1241-bernstein.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083737</ee>
+<url>db/conf/vldb/vldb2005.html#BernsteinDHIJMOSWW05</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/xsym/2005" mdate="2019-05-14">
+<editor pid="b/SBressan">St&#233;phane Bressan</editor>
+<editor pid="c/StefanoCeri">Stefano Ceri</editor>
+<editor pid="318/5521">Ela Hunt</editor>
+<editor pid="i/ZacharyGIves">Zachary G. Ives</editor>
+<editor pid="b/ZohraBellahsene">Zohra Bellahsene</editor>
+<editor pid="59/3443">Michael Rys</editor>
+<editor pid="u/RainerUnland">Rainer Unland</editor>
+<title>Database and XML Technologies, Third International XML Database Symposium, XSym 2005, Trondheim, Norway, August 28-29, 2005, Proceedings</title>
+<year>2005</year>
+<volume>3671</volume>
+<isbn>3-540-28583-0</isbn>
+<booktitle>XSym</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<ee>https://doi.org/10.1007/11547273</ee>
+<url>db/conf/xsym/xsym2005.html</url>
+</proceedings>
+</r>
+<r><article key="journals/sigmod/IvesLM04" mdate="2020-03-06">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="l/BertramLudascher">Bertram Lud&#228;scher</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<title>Reminiscences on Influential Papers - Kenneth A. Ross.</title>
+<pages>49-50</pages>
+<year>2004</year>
+<volume>33</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1031570.1031581</ee>
+<url>db/journals/sigmod/sigmod33.html#IvesLM04</url>
+</article>
+</r>
+<r><article key="journals/tkde/HalevyIMMST04" mdate="2024-02-05">
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="76/5642">Jayant Madhavan</author>
+<author pid="75/972">Peter Mork</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<author pid="56/1548">Igor Tatarinov</author>
+<title>The Piazza Peer Data Management System.</title>
+<pages>787-798</pages>
+<year>2004</year>
+<volume>16</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TKDE.2004.1318562</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2004.1318562</ee>
+<url>db/journals/tkde/tkde16.html#HalevyIMMST04</url>
+</article>
+</r>
+<r><article key="journals/ws/IvesHMT04" mdate="2019-01-29">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="75/972">Peter Mork</author>
+<author pid="56/1548">Igor Tatarinov</author>
+<title>Piazza: mediation and integration infrastructure for Semantic Web data.</title>
+<pages>155-175</pages>
+<year>2004</year>
+<volume>1</volume>
+<journal>J. Web Semant.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.websem.2003.11.003</ee>
+<url>db/journals/ws/ws1.html#IvesHMT04</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/IvesHW04" mdate="2018-11-06">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="w/DanielSWeld">Daniel S. Weld</author>
+<title>Adapting to Source Properties in Processing Data Integration Queries.</title>
+<year>2004</year>
+<crossref>conf/sigmod/2004</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2004.html#IvesHW04</url>
+<pages>395-406</pages>
+<ee>https://doi.org/10.1145/1007568.1007613</ee>
+<ee>http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/R-581.pdf</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/FranklinWWBHDAI04" mdate="2018-11-06">
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="w/JenniferWidom">Jennifer Widom</author>
+<author pid="w/GerhardWeikum">Gerhard Weikum</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="a/AnastassiaAilamaki">Anastassia Ailamaki</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Rethinking the Conference Reviewing Process - Panel.</title>
+<year>2004</year>
+<crossref>conf/sigmod/2004</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1007568.1007720</ee>
+<ee>http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/panel.pdf</ee>
+<url>db/conf/sigmod/sigmod2004.html#FranklinWWBHDAI04</url>
+<pages>957</pages>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/TatarinovIMHSDDKMM03" mdate="2024-02-05">
+<author pid="56/1548">Igor Tatarinov</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="76/5642">Jayant Madhavan</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<author pid="03/6610">Nilesh N. Dalvi</author>
+<author pid="d/XinLunaDong">Xin Dong 0001</author>
+<author pid="57/3137">Yana Kadiyska</author>
+<author pid="m/GeromeMiklau">Gerome Miklau</author>
+<author pid="75/972">Peter Mork</author>
+<title>The Piazza peer data management project.</title>
+<pages>47-52</pages>
+<year>2003</year>
+<volume>32</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/945721.945732</ee>
+<url>db/journals/sigmod/sigmod32.html#TatarinovIMHSDDKMM03</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/HalevyED03" mdate="2020-03-12">
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="e/OEtzioni">Oren Etzioni</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="76/5642">Jayant Madhavan</author>
+<author pid="159/4555">Luke K. McDowell</author>
+<author pid="56/1548">Igor Tatarinov</author>
+<title>Crossing the Structure Chasm.</title>
+<year>2003</year>
+<crossref>conf/cidr/2003</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://www-db.cs.wisc.edu/cidr/cidr2003/program/p11.pdf</ee>
+<url>db/conf/cidr/cidr2003.html#HalevyED03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/HalevyIST03" mdate="2024-02-05">
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<author pid="56/1548">Igor Tatarinov</author>
+<title>Schema Mediation in Peer Data Management Systems.</title>
+<pages>505-516</pages>
+<ee>https://doi.org/10.1109/ICDE.2003.1260817</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2003.1260817</ee>
+<year>2003</year>
+<crossref>conf/icde/2003</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2003.html#HalevyIST03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/HalevyIMT03" mdate="2018-11-06">
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="75/972">Peter Mork</author>
+<author pid="56/1548">Igor Tatarinov</author>
+<title>Piazza: data management infrastructure for semantic web applications.</title>
+<pages>556-567</pages>
+<year>2003</year>
+<crossref>conf/www/2003</crossref>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/775152.775231</ee>
+<url>db/conf/www/www2003.html#HalevyIMT03</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigmod/2003" mdate="2021-03-11">
+<editor pid="h/AlonYHalevy">Alon Y. Halevy</editor>
+<editor pid="i/ZacharyGIves">Zachary G. Ives</editor>
+<editor pid="d/AnHaiDoan">AnHai Doan</editor>
+<title>Proceedings of the 2003 ACM SIGMOD International Conference on Management of Data, San Diego, California, USA, June 9-12, 2003</title>
+<booktitle>SIGMOD Conference</booktitle>
+<publisher>ACM</publisher>
+<year>2003</year>
+<isbn>1-58113-634-X</isbn>
+<ee>https://doi.org/10.1145/872757</ee>
+<url>db/conf/sigmod/sigmod2003.html</url>
+</proceedings>
+</r>
+<r><article key="journals/sigmod/LuoI02" mdate="2020-10-26">
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<title>Interviewing During a Tight Job Market.</title>
+<pages>90-96</pages>
+<year>2002</year>
+<volume>31</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/601858.601879</ee>
+<url>db/journals/sigmod/sigmod31.html#LuoI02</url>
+</article>
+</r>
+<r><article key="journals/vldb/IvesHW02" mdate="2017-05-28">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="w/DanielSWeld">Daniel S. Weld</author>
+<title>An XML query engine for network-bound data.</title>
+<pages>380-402</pages>
+<year>2002</year>
+<volume>11</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00778-002-0078-5</ee>
+<url>db/journals/vldb/vldb11.html#IvesHW02</url>
+</article>
+</r>
+<r><article key="journals/debu/IvesHW01" mdate="2020-03-10">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="w/DanielSWeld">Daniel S. Weld</author>
+<title>Integrating Network-Bound XML Data.</title>
+<pages>20-26</pages>
+<year>2001</year>
+<ee type="oa">http://sites.computer.org/debull/A01JUN-CD.pdf</ee>
+<volume>24</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<url>db/journals/debu/debu24.html#IvesHW01</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/TatarinovIHW01" mdate="2021-03-12">
+<author pid="56/1548">Igor Tatarinov</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="w/DanielSWeld">Daniel S. Weld</author>
+<title>Updating XML.</title>
+<pages>413-424</pages>
+<year>2001</year>
+<crossref>conf/sigmod/2001</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2001.html#TatarinovIHW01</url>
+<ee>https://doi.org/10.1145/375663.375720</ee>
+<ee>https://doi.org/10.1145/376284.375720</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webdb/GribbleHIRS01" mdate="2017-02-08">
+<author pid="g/StevenDGribble">Steven D. Gribble</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="51/2440">Maya Rodrig</author>
+<author pid="s/DanSuciu">Dan Suciu</author>
+<title>What Can Database Do for Peer-to-Peer?</title>
+<pages>31-36</pages>
+<year>2001</year>
+<crossref>conf/webdb/2001</crossref>
+<booktitle>WebDB</booktitle>
+<url>db/conf/webdb/webdb2001.html#GribbleHIRS01</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/IvesLWFF00" mdate="2024-04-04">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="h/AlonYHalevy">Alon Y. Levy</author>
+<author pid="w/DanielSWeld">Daniel S. Weld</author>
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="305/2786">Marc T. Friedman</author>
+<title>Adaptive Query Processing for Internet Applications.</title>
+<pages>19-26</pages>
+<year>2000</year>
+<ee type="oa">http://sites.computer.org/debull/A00june/A00JUN-CD.pdf</ee>
+<volume>23</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<url>db/journals/debu/debu23.html#IvesLWFF00</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/IvesLPST00" mdate="2021-03-12">
+<ee>https://doi.org/10.1145/342009.335492</ee>
+<ee>https://doi.org/10.1145/335191.335492</ee>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="h/AlonYHalevy">Alon Y. Levy</author>
+<author pid="76/5642">Jayant Madhavan</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<author pid="17/3782">Stefan Saroiu</author>
+<author pid="56/1548">Igor Tatarinov</author>
+<author pid="75/6239">Shiori Betzler</author>
+<author pid="45/3274">Qiong Chen</author>
+<author pid="68/5051">Ewa Jaslikowska</author>
+<author pid="60/3775">Jing Su</author>
+<author pid="05/4101">Wai Tak Theodora Yeung</author>
+<title>Self-Organizing Data Sharing Communities with SAGRES.</title>
+<pages>582</pages>
+<year>2000</year>
+<crossref>conf/sigmod/2000</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2000.html#IvesLPST00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/waim/IvesL00" mdate="2017-05-21">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="20/6679">Ying Lu</author>
+<title>XML Query Languages in Practice: An Evaluation.</title>
+<pages>29-40</pages>
+<ee>https://doi.org/10.1007/3-540-45151-X_3</ee>
+<year>2000</year>
+<crossref>conf/waim/2000</crossref>
+<booktitle>Web-Age Information Management</booktitle>
+<url>db/conf/waim/waim2000.html#IvesL00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webdb/CareyFILSSS00" mdate="2017-11-07">
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="20/6679">Ying Lu</author>
+<author pid="s/JShanmugasundaram">Jayavel Shanmugasundaram</author>
+<author pid="03/6706">Eugene J. Shekita</author>
+<author pid="s/IyerNSubramanian">Subbu N. Subramanian</author>
+<title>XPERANTO: Publishing Object-Relational Data as XML.</title>
+<pages>105-110</pages>
+<year>2000</year>
+<crossref>conf/webdb/2000i</crossref>
+<booktitle>WebDB (Informal Proceedings)</booktitle>
+<ee>http://www.research.att.com/conf/webdb2000/PAPERS/7b.ps</ee>
+<url>db/conf/webdb/webdb2000.html#CareyFILSSS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/IvesFFLW99" mdate="2021-11-03">
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="70/3007">Daniela Florescu</author>
+<author pid="305/2786">Marc T. Friedman</author>
+<author pid="h/AlonYHalevy">Alon Y. Levy</author>
+<author pid="w/DanielSWeld">Daniel S. Weld</author>
+<title>An Adaptive Query Execution System for Data Integration.</title>
+<cdrom>DiSC2_1/out/papers/sigmod/anadaptivequeryzadam.pdf</cdrom>
+<pages>299-310</pages>
+<year>1999</year>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod99.html#IvesFFLW99</url>
+<crossref>conf/sigmod/99</crossref>
+<ee>https://doi.org/10.1145/304182.304209</ee>
+<ee>https://doi.org/10.1145/304181.304209</ee>
+<cite>conf/sigmod/AdaliCPS96</cite>
+<cite>journals/vldb/AntoshenkovZ96</cite>
+<cite>journals/jiis/ArensKS96</cite>
+<cite>conf/sigmod/Blakeley96</cite>
+<cite>conf/cikm/BouganimKV98</cite>
+<cite>conf/sigmod/Cohen98</cite>
+<cite>journals/dpd/EvrendilekDNO97</cite>
+<cite>conf/vldb/FlorescuKLP97</cite>
+<cite>conf/ijcai/FriedmanW97</cite>
+<cite>journals/jiis/Garcia-MolinaPQRSUVW97</cite>
+<cite>journals/csur/Graefe93</cite>
+<cite>conf/sigmod/ColeG94</cite>
+<cite>conf/vldb/HaasKWY97</cite>
+<cite>journals/dpd/HongS93</cite>
+<cite>conf/sigmod/KabraD98</cite>
+<cite>conf/ijcai/KushmerickWD97</cite>
+<cite>conf/vldb/LevyRO96</cite>
+<cite>conf/cikm/NagD98</cite>
+<cite>...</cite>
+<cite>journals/vldb/StonebrakerALPSSSY96</cite>
+<cite>journals/tkde/TomasicRV98</cite>
+<cite>conf/sigmod/UrhanFA98</cite>
+<cite>conf/vldb/VenkataramanZ98</cite>
+<cite>conf/pdis/WilschutA91</cite>
+<cite>conf/sigmod/WoelkBJOTU95</cite>
+<cite>journals/tods/WongY76</cite>
+<cite>conf/edbt/YerneniPAG98</cite>
+</inproceedings>
+</r>
+<coauthors n="189" nc="2">
+<co c="0"><na f="a/Abbadi:Amr_El" pid="a/AmrElAbbadi">Amr El Abbadi</na></co>
+<co c="0"><na f="a/Abowd:Gregory_D=" pid="a/GDAbowd">Gregory D. Abowd</na></co>
+<co c="0"><na f="a/Abraham:William_T=" pid="185/8348">William T. Abraham</na></co>
+<co c="0" n="2"><na f="a/Ailamaki:Anastasia" pid="a/AnastassiaAilamaki">Anastasia Ailamaki</na><na>Anastassia Ailamaki</na></co>
+<co c="0"><na f="a/al=Absi:Mustafa" pid="11/9168">Mustafa al'Absi</na></co>
+<co c="0"><na f="a/Alawini:Abdussalam" pid="147/2931">Abdussalam Alawini</na></co>
+<co c="0"><na f="a/Alexander:Lewis" pid="250/5347">Lewis Alexander</na></co>
+<co c="0"><na f="a/Alur:Rajeev" pid="a/RAlur">Rajeev Alur</na></co>
+<co c="0"><na f="a/Ambite:Jos=eacute=_Luis" pid="75/6070">Jos&#233; Luis Ambite</na></co>
+<co c="0"><na f="a/Anand:Madhukar" pid="63/4816">Madhukar Anand</na></co>
+<co c="0" n="2"><na f="a/Anderson:Thomas_E=" pid="a/ThomasEAnderson">Thomas E. Anderson</na><na>Tom Anderson 0003</na></co>
+<co c="0"><na f="a/Auer:S=ouml=ren" pid="05/6406">S&#246;ren Auer</na></co>
+<co c="0"><na f="b/Bao:Zhuowei" pid="09/1115">Zhuowei Bao</na></co>
+<co c="0"><na f="b/Bellahsene:Zohra" pid="b/ZohraBellahsene">Zohra Bellahsene</na></co>
+<co c="0"><na f="b/Bernstein:Philip_A=" pid="b/PhilipABernstein">Philip A. Bernstein</na></co>
+<co c="0"><na f="b/Betzler:Shiori" pid="75/6239">Shiori Betzler</na></co>
+<co c="0"><na f="b/Bhide:Manish" pid="40/4935">Manish Bhide</na></co>
+<co c="0" n="2"><na f="b/Birman:Kenneth_P=" pid="b/KPBirman">Kenneth P. Birman</na><na>Ken Birman</na></co>
+<co c="0"><na f="b/Biton:Olivier" pid="22/4339">Olivier Biton</na></co>
+<co c="0"><na f="b/Bizer:Christian" pid="b/ChristianBizer">Christian Bizer</na></co>
+<co c="0"><na f="b/Bonifati:Angela" pid="b/ABonifati">Angela Bonifati</na></co>
+<co c="0"><na f="b/Bressan:St=eacute=phane" pid="b/SBressan">St&#233;phane Bressan</na></co>
+<co c="0"><na f="b/Broberg:Robert_M=" pid="64/10305">Robert M. Broberg</na></co>
+<co c="0"><na f="c/Caesar_0001:Matthew" pid="09/384">Matthew Caesar 0001</na></co>
+<co c="0" n="2"><na f="=/=Ccedil=akir:Murat_Perit" pid="21/4509">Murat Perit &#199;akir</na><na>Murat Cakir</na></co>
+<co c="0"><na f="c/Cao_0004:Lei" pid="17/6060-4">Lei Cao 0004</na></co>
+<co c="0"><na f="c/Carey_0001:Michael_J=" pid="31/3455">Michael J. Carey 0001</na></co>
+<co c="0"><na f="c/Ceri:Stefano" pid="c/StefanoCeri">Stefano Ceri</na></co>
+<co c="0"><na f="c/Chang:Jian" pid="80/3338">Jian Chang</na></co>
+<co c="0" n="2"><na f="c/Chau:Polo" pid="10/2670">Polo Chau</na><na>Duen Horng Chau</na></co>
+<co c="0"><na f="c/Chen:Qiong" pid="45/3274">Qiong Chen</na></co>
+<co c="0"><na f="c/Chen_0001:Qun" pid="16/1091-1">Qun Chen 0001</na></co>
+<co c="0"><na f="c/Comer:Douglas" pid="c/DouglasComer">Douglas Comer</na></co>
+<co c="0"><na f="c/Cotton:Chase" pid="70/10305">Chase Cotton</na></co>
+<co c="0"><na f="c/Crammer:Koby" pid="74/6961">Koby Crammer</na></co>
+<co c="0"><na f="c/Cronin:Eric" pid="69/986">Eric Cronin</na></co>
+<co c="0"><na f="c/Cyganiak:Richard" pid="18/1671">Richard Cyganiak</na></co>
+<co c="0"><na f="d/Dalvi:Nilesh_N=" pid="03/6610">Nilesh N. Dalvi</na></co>
+<co c="0"><na f="d/Das:Sanjiv_R=" pid="51/7888">Sanjiv R. Das</na></co>
+<co c="0"><na f="d/Davidson:Susan_B=" pid="d/SBDavidson">Susan B. Davidson</na></co>
+<co c="0"><na f="d/Deshpande:Amol" pid="d/AmolDeshpande">Amol Deshpande</na></co>
+<co c="0"><na f="d/Deutch:Daniel" pid="98/6876">Daniel Deutch</na></co>
+<co c="0"><na f="d/DeWitt:David_J=" pid="d/DJDeWitt">David J. DeWitt</na></co>
+<co c="0"><na f="d/Ding:Ling" pid="19/5147">Ling Ding</na></co>
+<co c="0"><na f="d/Doan:AnHai" pid="d/AnHaiDoan">AnHai Doan</na></co>
+<co c="0"><na f="d/Dong_0001:Xin" pid="d/XinLunaDong">Xin Dong 0001</na></co>
+<co c="0"><na f="e/Ertin:Emre" pid="70/4039">Emre Ertin</na></co>
+<co c="0"><na f="e/Estrin:Deborah" pid="e/DeborahEstrin">Deborah Estrin</na></co>
+<co c="0"><na f="e/Etzioni:Oren" pid="e/OEtzioni">Oren Etzioni</na></co>
+<co c="0"><na f="f/Fang:Chao" pid="74/2770">Chao Fang</na></co>
+<co c="0"><na f="f/Fei:Qiong" pid="76/9726">Qiong Fei</na></co>
+<co c="0"><na f="f/Feng:Tao" pid="12/4774">Tao Feng</na></co>
+<co c="0"><na f="f/Florescu:Daniela" pid="70/3007">Daniela Florescu</na></co>
+<co c="0"><na f="f/Franklin:Michael_J=" pid="f/MJFranklin">Michael J. Franklin</na></co>
+<co c="0"><na f="f/Freedman:Michael_J=" pid="65/1370">Michael J. Freedman</na></co>
+<co c="0"><na f="f/Friedman:Marc_T=" pid="305/2786">Marc T. Friedman</na></co>
+<co c="0"><na f="g/Ganesan:Deepak" pid="g/DeepakGanesan">Deepak Ganesan</na></co>
+<co c="0"><na f="g/Gatterbauer:Wolfgang" pid="36/5673">Wolfgang Gatterbauer</na></co>
+<co c="0"><na f="g/Gazen:Cenk" pid="48/4029">Cenk Gazen</na></co>
+<co c="0"><na f="g/Gebhard:Peter" pid="134/6420">Peter Gebhard</na></co>
+<co c="0"><na f="g/Gehrke:Johannes" pid="g/JohannesGehrke">Johannes Gehrke</na></co>
+<co c="0"><na f="g/Giceva:Jana" pid="32/7263">Jana Giceva</na></co>
+<co c="0"><na f="g/Green:Todd_J=" pid="g/ToddJGreen">Todd J. Green</na></co>
+<co c="0" n="2"><na f="g/Gribble:Steve_D=" pid="g/StevenDGribble">Steve D. Gribble</na><na>Steven D. Gribble</na></co>
+<co c="0"><na f="g/Guha:Sudipto" pid="g/SudiptoGuha">Sudipto Guha</na></co>
+<co c="0"><na f="h/Haas:Laura_M=" pid="h/LauraMHaas">Laura M. Haas</na></co>
+<co c="0"><na f="h/Haeberlen:Andreas" pid="60/4358">Andreas Haeberlen</na></co>
+<co c="0" n="2"><na f="h/Halevy:Alon_Y=" pid="h/AlonYHalevy">Alon Y. Halevy</na><na>Alon Y. Levy</na></co>
+<co c="0"><na f="h/Han:Soonbo" pid="233/6289">Soonbo Han</na></co>
+<co c="0"><na f="h/Heuer_0001:Andreas" pid="h/AHeuer">Andreas Heuer 0001</na></co>
+<co c="1"><na f="h/Hidaka:Soichiro" pid="56/1483">Soichiro Hidaka</na></co>
+<co c="0"><na f="h/Hilliard:Phillip" pid="295/3334">Phillip Hilliard</na></co>
+<co c="0"><na f="h/Hnat:Timothy" pid="198/3768">Timothy Hnat</na></co>
+<co c="0"><na f="h/Hossain:Syed_Monowar" pid="13/9662">Syed Monowar Hossain</na></co>
+<co c="0"><na f="h/Hou:Boyi" pid="195/2531">Boyi Hou</na></co>
+<co c="0"><na f="i/Idreos:Stratos" pid="i/StratosIdreos">Stratos Idreos</na></co>
+<co c="1"><na f="i/Ishihara:Yasunori" pid="28/2411">Yasunori Ishihara</na></co>
+<co c="0"><na f="j/Jacob:Marie" pid="76/747">Marie Jacob</na></co>
+<co c="0"><na f="j/Jagadish:H=_V=" pid="j/HVJagadish">H. V. Jagadish</na></co>
+<co c="0"><na f="j/Jaslikowska:Ewa" pid="68/5051">Ewa Jaslikowska</na></co>
+<co c="0"><na f="j/Jensen:Christian_S=" pid="j/ChristianSJensen">Christian S. Jensen</na></co>
+<co c="0"><na f="k/Kadiyska:Yana" pid="57/3137">Yana Kadiyska</na></co>
+<co c="0"><na f="k/Kallas:Konstantinos" pid="238/2969">Konstantinos Kallas</na></co>
+<co c="0"><na f="k/Kapur:Aneesh" pid="87/4750">Aneesh Kapur</na></co>
+<co c="0" n="2"><na f="k/Karvounarakis:Gregory" pid="k/GregoryKarvounarakis">Gregory Karvounarakis</na><na>Grigoris Karvounarakis</na></co>
+<co c="0"><na f="k/Kerr:Jacqueline" pid="84/11057">Jacqueline Kerr</na></co>
+<co c="0"><na f="k/Khandelwal:Nitin" pid="58/1379">Nitin Khandelwal</na></co>
+<co c="0"><na f="k/Khanna:Sanjeev" pid="k/SanjeevKhanna">Sanjeev Khanna</na></co>
+<co c="0"><na f="k/Knoblock:Craig_A=" pid="k/CAKnoblock">Craig A. Knoblock</na></co>
+<co c="0"><na f="k/Kobilarov:Georgi" pid="81/3336">Georgi Kobilarov</na></co>
+<co c="0"><na f="k/Krishnamurthy:Arvind" pid="k/AKrishnamurthy">Arvind Krishnamurthy</na></co>
+<co c="0"><na f="k/Kumar_0001:Arun" pid="30/4308-1">Arun Kumar 0001</na></co>
+<co c="0"><na f="k/Kumar_0001:Santosh" pid="07/2616-1">Santosh Kumar 0001</na></co>
+<co c="0"><na f="l/Lee_0001:Insup" pid="l/InsupLee">Insup Lee 0001</na></co>
+<co c="0"><na f="l/Lehmann_0001:Jens" pid="71/4882">Jens Lehmann 0001</na></co>
+<co c="0"><na f="l/Lehr:William_H=" pid="54/3889">William H. Lehr</na></co>
+<co c="0"><na f="l/Li_0001:Guoliang" pid="l/GuoliangLi">Guoliang Li 0001</na></co>
+<co c="0"><na f="l/Li_0025:Yang" pid="37/4190-25">Yang Li 0025</na></co>
+<co c="0"><na f="l/Li:Zhanhuai" pid="05/299">Zhanhuai Li</na></co>
+<co c="0"><na f="l/Liang:Jiaming" pid="211/2509">Jiaming Liang</na></co>
+<co c="0"><na f="l/Litt:Brian" pid="79/4859">Brian Litt</na></co>
+<co c="0"><na f="l/Liu:Mengmeng" pid="89/1149">Mengmeng Liu</na></co>
+<co c="0"><na f="l/Loo:Boon_Thau" pid="75/3108">Boon Thau Loo</na></co>
+<co c="0"><na f="l/Lu:Ying" pid="20/6679">Ying Lu</na></co>
+<co c="0"><na f="l/Lud=auml=scher:Bertram" pid="l/BertramLudascher">Bertram Lud&#228;scher</na></co>
+<co c="0"><na f="l/Luo_0001:Qiong" pid="l/QiongLuo">Qiong Luo 0001</na></co>
+<co c="0"><na f="m/Madden_0001:Samuel" pid="m/SamuelMadden">Samuel Madden 0001</na></co>
+<co c="0"><na f="m/Madhavan:Jayant" pid="76/5642">Jayant Madhavan</na></co>
+<co c="0"><na f="m/Mamouras:Konstantinos" pid="48/6846">Konstantinos Mamouras</na></co>
+<co c="0"><na f="m/Manolescu:Ioana" pid="m/IoanaManolescu">Ioana Manolescu</na></co>
+<co c="0"><na f="m/Mao:Yun" pid="m/YunMao">Yun Mao</na></co>
+<co c="0"><na f="m/Mapara:Suyog" pid="133/9882">Suyog Mapara</na></co>
+<co c="0"><na f="m/Marcus:Ryan" pid="175/1473">Ryan Marcus</na></co>
+<co c="0"><na f="m/Marlin:Benjamin_M=" pid="03/7058">Benjamin M. Marlin</na></co>
+<co c="0"><na f="m/Mazi=egrave=res:David" pid="m/DMazieres">David Mazi&#232;res</na></co>
+<co c="0"><na f="m/McDowell:Luke_K=" pid="159/4555">Luke K. McDowell</na></co>
+<co c="0"><na f="m/Mehmood:Muhammad_Salman" pid="42/3311">Muhammad Salman Mehmood</na></co>
+<co c="0"><na f="m/Meyer_0001:Holger" pid="m/HolgerMeyer">Holger Meyer 0001</na></co>
+<co c="0"><na f="m/Mihaylov:Svilen_R=" pid="63/4646">Svilen R. Mihaylov</na></co>
+<co c="0"><na f="m/Miklau:Gerome" pid="m/GeromeMiklau">Gerome Miklau</na></co>
+<co c="0"><na f="m/Milo:Tova" pid="m/TovaMilo">Tova Milo</na></co>
+<co c="0"><na f="m/Minton:Steven" pid="m/SMinton">Steven Minton</na></co>
+<co c="0"><na f="m/Mohania:Mukesh_K=" pid="85/6670">Mukesh K. Mohania</na></co>
+<co c="0"><na f="m/Monteleoni:Claire" pid="12/1067">Claire Monteleoni</na></co>
+<co c="0"><na f="m/Mork:Peter" pid="75/972">Peter Mork</na></co>
+<co c="0"><na f="m/Murphy:Susan_A=" pid="05/3845">Susan A. Murphy</na></co>
+<co c="0"><na f="m/Muslea:Maria" pid="83/3033">Maria Muslea</na></co>
+<co c="0"><na f="n/Nahum=Shani:Inbal" pid="167/8303">Inbal Nahum-Shani</na></co>
+<co c="0"><na f="n/Nicolosi:Antonio" pid="58/1326">Antonio Nicolosi</na></co>
+<co c="0"><na f="n/Niksic:Filip" pid="125/2180">Filip Niksic</na></co>
+<co c="0"><na f="=/=Ouml=zsu:M=_Tamer" pid="o/MTamerOzsu">M. Tamer &#214;zsu</na></co>
+<co c="0"><na f="p/Pan_0007:Wei" pid="69/4450-7">Wei Pan 0007</na></co>
+<co c="0" n="2"><na f="p/Pereira_0003:Fernando" pid="p/FernandoCNPereira">Fernando Pereira 0003</na><na>Fernando C. N. Pereira</na></co>
+<co c="0"><na f="p/Pottinger:Rachel" pid="68/1297">Rachel Pottinger</na></co>
+<co c="0" n="2"><na f="p/Pustulka:Elzbieta" pid="318/5521">Elzbieta Pustulka</na><na>Ela Hunt</na></co>
+<co c="0"><na f="r/Raghothaman:Mukund" pid="03/10548">Mukund Raghothaman</na></co>
+<co c="0"><na f="r/Raman:Vijayshankar" pid="r/VijayshankarRaman">Vijayshankar Raman</na></co>
+<co c="0"><na f="r/Rehg:James_M=" pid="r/JMRehg">James M. Rehg</na></co>
+<co c="0"><na f="r/Ren:Yiqing" pid="99/9975">Yiqing Ren</na></co>
+<co c="0"><na f="r/Renesse:Robbert_van" pid="r/RvRenesse">Robbert van Renesse</na></co>
+<co c="0"><na f="r/Rodrig:Maya" pid="51/2440">Maya Rodrig</na></co>
+<co c="0"><na f="r/Roth:Dan" pid="r/DanRoth">Dan Roth</na></co>
+<co c="0"><na f="r/Rys:Michael" pid="59/3443">Michael Rys</na></co>
+<co c="0"><na f="s/Saroiu:Stefan" pid="17/3782">Stefan Saroiu</na></co>
+<co c="0"><na f="s/Sellis:Timos_K=" pid="s/TimosKSellis">Timos K. Sellis</na></co>
+<co c="0"><na f="s/Shanmugasundaram:Jayavel" pid="s/JShanmugasundaram">Jayavel Shanmugasundaram</na></co>
+<co c="0"><na f="s/Shekita:Eugene_J=" pid="03/6706">Eugene J. Shekita</na></co>
+<co c="0"><na f="s/Sherr:Micah" pid="57/3752">Micah Sherr</na></co>
+<co c="0"><na f="s/Shetty:Vivek" pid="185/8103">Vivek Shetty</na></co>
+<co c="0"><na f="s/Sim:Ida" pid="07/529">Ida Sim</na></co>
+<co c="0"><na f="s/Smith:Jonathan_M=" pid="s/JonathanMSmith">Jonathan M. Smith</na></co>
+<co c="0"><na f="s/Snodgrass:Richard_T=" pid="s/RichardTSnodgrass">Richard T. Snodgrass</na></co>
+<co c="0"><na f="s/Sokolsky:Oleg" pid="31/4030">Oleg Sokolsky</na></co>
+<co c="0"><na f="s/Spring:Bonnie" pid="185/3941">Bonnie Spring</na></co>
+<co c="0"><na f="s/Srivastava:Mani_B=" pid="s/ManiBSrivastava">Mani B. Srivastava</na></co>
+<co c="0"><na f="s/Stanford:Caleb" pid="202/9985">Caleb Stanford</na></co>
+<co c="0"><na f="s/Stoica:Ion" pid="s/IonStoica">Ion Stoica</na></co>
+<co c="0"><na f="s/Su:Jing" pid="60/3775">Jing Su</na></co>
+<co c="0" n="2"><na f="s/Subramanian:Iyer_N=" pid="s/IyerNSubramanian">Iyer N. Subramanian</na><na>Subbu N. Subramanian</na></co>
+<co c="0"><na f="s/Suciu:Dan" pid="s/DanSuciu">Dan Suciu</na></co>
+<co c="0"><na f="s/Sun:Shengzhi" pid="07/9727">Shengzhi Sun</na></co>
+<co c="0"><na f="s/Suo:Bo" pid="117/5838">Bo Suo</na></co>
+<co c="0" n="2"><na f="t/Talukdar:Partha_P=" pid="86/687">Partha P. Talukdar</na><na>Partha Pratim Talukdar</na></co>
+<co c="0"><na f="t/Tannen:Val" pid="t/ValTannen">Val Tannen</na></co>
+<co c="0"><na f="t/Tao:Tao" pid="73/3197">Tao Tao</na></co>
+<co c="0"><na f="t/Tatarinov:Igor" pid="56/1548">Igor Tatarinov</na></co>
+<co c="0"><na f="t/Taylor:Nicholas_E=" pid="53/3231">Nicholas E. Taylor</na></co>
+<co c="0"><na f="t/Tuchinda:Rattapoom" pid="06/6036">Rattapoom Tuchinda</na></co>
+<co c="0"><na f="u/Unland:Rainer" pid="u/RainerUnland">Rainer Unland</na></co>
+<co c="0"><na f="v/Velegrakis:Yannis" pid="v/YannisVelegrakis">Yannis Velegrakis</na></co>
+<co c="0"><na f="v/Venkatasubramanian:Krishna_K=" pid="53/6806">Krishna K. Venkatasubramanian</na></co>
+<co c="0"><na f="w/Wagenaar:Joost_B=" pid="160/4618">Joost B. Wagenaar</na></co>
+<co c="0"><na f="w/Walfish:Michael" pid="00/2879">Michael Walfish</na></co>
+<co c="0"><na f="w/Wang_0002:Zhuo" pid="01/7039-2">Zhuo Wang 0002</na></co>
+<co c="0"><na f="w/Weatherspoon:Hakim" pid="w/HakimWeatherspoon">Hakim Weatherspoon</na></co>
+<co c="0"><na f="w/Weikum:Gerhard" pid="w/GerhardWeikum">Gerhard Weikum</na></co>
+<co c="0"><na f="w/Weld:Daniel_S=" pid="w/DanielSWeld">Daniel S. Weld</na></co>
+<co c="0"><na f="w/Wetter:David_W=" pid="185/3936">David W. Wetter</na></co>
+<co c="0"><na f="w/Whang:Kyu=Young" pid="w/KyuYoungWhang">Kyu-Young Whang</na></co>
+<co c="0"><na f="w/Widom:Jennifer" pid="w/JenniferWidom">Jennifer Widom</na></co>
+<co c="0"><na f="w/Wu:Peizhi" pid="168/4496">Peizhi Wu</na></co>
+<co c="0"><na f="x/Xue:Anton" pid="242/4544">Anton Xue</na></co>
+<co c="0"><na f="y/Yan:Zhepeng" pid="92/8164">Zhepeng Yan</na></co>
+<co c="0"><na f="y/Yeung:Wai_Tak_Theodora" pid="05/4101">Wai Tak Theodora Yeung</na></co>
+<co c="0"><na f="y/Yoo:Christopher_S=" pid="33/8321">Christopher S. Yoo</na></co>
+<co c="0"><na f="y/Yu_0001:Cong" pid="58/3771">Cong Yu 0001</na></co>
+<co c="0"><na f="z/Zhang:Yi" pid="64/6544">Yi Zhang</na></co>
+<co c="0"><na f="z/Zheng:Nan" pid="44/5519">Nan Zheng</na></co>
+<co c="0"><na f="z/Zhou:Wenchao" pid="72/1077">Wenchao Zhou</na></co>
+</coauthors>
+</dblpperson>

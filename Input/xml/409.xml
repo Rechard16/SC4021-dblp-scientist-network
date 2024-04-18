@@ -1,0 +1,915 @@
+<dblpperson name="Jonathan Goldstein" pid="g/JonathanGoldstein" n="47">
+<person key="homepages/g/JonathanGoldstein" mdate="2016-02-03">
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<note type="affiliation">Microsoft Research</note>
+<url>http://research.microsoft.com/~jongold/</url>
+</person>
+<r><inproceedings key="conf/chi/YuanRMNSRLPGV0H22" mdate="2023-11-12">
+<author orcid="0000-0003-2988-5001" pid="33/6315-10">Ye Yuan 0010</author>
+<author pid="h/NathalieHenry">Nathalie Riche</author>
+<author orcid="0000-0002-5473-2448" pid="38/166">Nicolai Marquardt</author>
+<author pid="199/3059">Molly Jane Nicholas</author>
+<author pid="27/9660">Teddy Seyed</author>
+<author pid="177/8707">Hugo Romat</author>
+<author pid="52/5103">Bongshin Lee</author>
+<author pid="59/2625">Michel Pahud</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="121/4944">Rojin Vishkaie</author>
+<author orcid="0000-0001-9655-9519" pid="79/7439-1">Christian Holz 0001</author>
+<author pid="40/5624">Ken Hinckley</author>
+<title>Understanding Multi-Device Usage Patterns: Physical Device Configurations and Fragmented Workflows.</title>
+<pages>64:1-64:22</pages>
+<year>2022</year>
+<booktitle>CHI</booktitle>
+<ee>https://doi.org/10.1145/3491102.3517702</ee>
+<crossref>conf/chi/2022</crossref>
+<url>db/conf/chi/chi2022.html#YuanRMNSRLPGV0H22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/Goldstein22" mdate="2022-09-20">
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<title>From parsing, to query processing, to resiliency: Deriving unexpected value from database technology through componentization.</title>
+<year>2022</year>
+<booktitle>CDMS@VLDB</booktitle>
+<ee>https://cdmsworkshop.github.io/2022/Proceedings/Keynotes/Abstract_JonathanGoldstein.pdf</ee>
+<crossref>conf/vldb/2022cdms</crossref>
+<url>db/conf/vldb/cdms2022.html#Goldstein22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/amcc/AvilaFHMCGPJ21" mdate="2023-08-30">
+<author pid="298/1697">Allan M. Avila</author>
+<author pid="00/4583">Maria Fonoberova</author>
+<author pid="h/JoaoPedroHespanha">Jo&#227;o P. Hespanha 0001</author>
+<author pid="76/6498">Igor Mezic</author>
+<author pid="298/1550">Daniel Clymer</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="133/6709">Marco A. Pravia</author>
+<author pid="286/7904">Daniel Javorsek</author>
+<title>Game Balancing using Koopman-based Learning.</title>
+<pages>710-717</pages>
+<year>2021</year>
+<booktitle>ACC</booktitle>
+<ee>https://doi.org/10.23919/ACC50511.2021.9483027</ee>
+<crossref>conf/amcc/2021</crossref>
+<url>db/conf/amcc/amcc2021.html#AvilaFHMCGPJ21</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/GoldsteinABBCGL20" mdate="2023-03-07">
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="166/8392">Ahmed S. Abdelhamid</author>
+<author pid="69/2517-1">Mike Barnett 0001</author>
+<author pid="84/1935">Sebastian Burckhardt</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="130/2894">Darren Gehring</author>
+<author pid="139/8104">Niel Lebeck</author>
+<author pid="140/8227">Christopher Meiklejohn</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="34/3982">Ryan Newton</author>
+<author pid="257/8737">Rahee Peshawaria</author>
+<author pid="194/3943">Tal Zaccai</author>
+<author pid="68/1122">Irene Zhang</author>
+<title>A.M.B.R.O.S.I.A: Providing Performant Virtual Resiliency for Distributed Applications.</title>
+<pages>588-601</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p588-goldstein.pdf</ee>
+<ee>https://doi.org/10.14778/3377369.3377370</ee>
+<url>db/journals/pvldb/pvldb13.html#GoldsteinABBCGL20</url>
+</article>
+</r>
+<r><inproceedings key="conf/uist/BrudyLPR0WSPZJC20" mdate="2023-11-12">
+<author pid="42/11300">Frederik Brudy</author>
+<author pid="77/10579">David Ledo</author>
+<author pid="59/2625">Michel Pahud</author>
+<author pid="h/NathalieHenry">Nathalie Henry Riche</author>
+<author orcid="0000-0001-9655-9519" pid="79/7439-1">Christian Holz 0001</author>
+<author pid="276/4023">Anand Waghmare</author>
+<author pid="199/3056">Hemant Bhaskar Surale</author>
+<author pid="56/6925">Marcus Peinado</author>
+<author pid="158/4724">Xiaokuan Zhang</author>
+<author pid="256/1012">Shannon Joyner</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="b/WilliamBuxton">William Buxton</author>
+<author pid="40/5624">Ken Hinckley</author>
+<title>SurfaceFleet: Exploring Distributed Interactions Unbounded from Device, Application, User, and Time.</title>
+<pages>7-21</pages>
+<year>2020</year>
+<booktitle>UIST</booktitle>
+<ee>https://doi.org/10.1145/3379337.3415874</ee>
+<crossref>conf/uist/2020</crossref>
+<url>db/conf/uist/uist2020.html#BrudyLPR0WSPZJC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChandramouliGL18" mdate="2023-03-24">
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="49/612">Yinan Li</author>
+<title>Impatience Is a Virtue: Revisiting Disorder in High-Performance Log Analytics.</title>
+<pages>677-688</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00067</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00067</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#ChandramouliGL18</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/ChandramouliG17" mdate="2020-04-25">
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<title>Shrink - Prescribing Resiliency Solutions for Streaming.</title>
+<pages>505-516</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p505-goldstein.pdf</ee>
+<ee>https://doi.org/10.14778/3055540.3055544</ee>
+<url>db/journals/pvldb/pvldb10.html#ChandramouliG17</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiKCGK17" mdate="2020-04-25">
+<author pid="49/612">Yinan Li</author>
+<author pid="142/7802">Nikos R. Katsipoulakis</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Mison: A Fast JSON Parser for Data Analytics.</title>
+<pages>1118-1129</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p1118-li.pdf</ee>
+<ee>https://doi.org/10.14778/3115404.3115416</ee>
+<url>db/journals/pvldb/pvldb10.html#LiKCGK17</url>
+</article>
+</r>
+<r><inproceedings key="conf/bncod/NikolicCG17" mdate="2022-10-11">
+<author pid="57/10355-1">Milos Nikolic 0001</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<title>Enabling Deep Analytics in Stream Processing Systems.</title>
+<pages>94-98</pages>
+<year>2017</year>
+<booktitle>BICOD</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-60795-5_9</ee>
+<crossref>conf/bncod/2017</crossref>
+<url>db/conf/bncod/bicod2017.html#NikolicCG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/ChandramouliGGK17" mdate="2021-11-30">
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="02/3658">Justin J. Levandoski</author>
+<author pid="173/9193">Renato Marroqu&#237;n</author>
+<author pid="70/8577">Wenlei Xie</author>
+<title>READY: Completeness is in the Eye of the Beholder.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/papers/p18-chandramouli-cidr17.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#ChandramouliGGK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/NikolicCG17" mdate="2022-10-11">
+<author pid="57/10355-1">Milos Nikolic 0001</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<title>Enabling Signal Processing over Data Streams.</title>
+<pages>95-108</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3035935</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#NikolicCG17</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/ChandramouliFGE16" mdate="2020-04-25">
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="66/9726">Ahmed Eldawy</author>
+<author pid="127/6195">Abdul Quamar</author>
+<title>Quill: Efficient, Transferable, and Rich Analytics at Scale.</title>
+<pages>1623-1634</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>14</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p1623-chandramouli.pdf</ee>
+<ee>https://doi.org/10.14778/3007328.3007329</ee>
+<url>db/journals/pvldb/pvldb9.html#ChandramouliFGE16</url>
+</article>
+</r>
+<r><inproceedings key="conf/chi/BattleFDBCG16" mdate="2023-03-07">
+<author pid="91/7584">Leilani Battle</author>
+<author orcid="0000-0002-9019-5889" pid="89/5155">Danyel Fisher</author>
+<author pid="d/RobertDeLine">Robert DeLine</author>
+<author pid="69/2517-1">Mike Barnett 0001</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<title>Making Sense of Temporal Queries with Interactive Visualization.</title>
+<pages>5433-5443</pages>
+<year>2016</year>
+<booktitle>CHI</booktitle>
+<ee>https://doi.org/10.1145/2858036.2858408</ee>
+<crossref>conf/chi/2016</crossref>
+<url>db/conf/chi/chi2016.html#BattleFDBCG16</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/ChandramouliGBT15" mdate="2023-03-07">
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="69/2517-1">Mike Barnett 0001</author>
+<author pid="53/1820">James F. Terwilliger</author>
+<title>Trill: Engineering a Library for Diverse Analytics.</title>
+<pages>51-60</pages>
+<year>2015</year>
+<volume>38</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A15dec/p51.pdf</ee>
+<url>db/journals/debu/debu38.html#ChandramouliGBT15</url>
+</article>
+</r>
+<r><inproceedings key="conf/vl/DeLineFCG0TW15" mdate="2023-03-23">
+<author pid="d/RobertDeLine">Robert DeLine</author>
+<author orcid="0000-0002-9019-5889" pid="89/5155">Danyel Fisher</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="69/2517-1">Michael Barnett 0001</author>
+<author pid="53/1820">James F. Terwilliger</author>
+<author pid="08/7942">John Wernsing</author>
+<title>Tempe: Live scripting for live data.</title>
+<pages>137-141</pages>
+<year>2015</year>
+<booktitle>VL/HCC</booktitle>
+<ee>https://doi.org/10.1109/VLHCC.2015.7357208</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/VLHCC.2015.7357208</ee>
+<crossref>conf/vl/2015</crossref>
+<url>db/conf/vl/vlhcc2015.html#DeLineFCG0TW15</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/ChandramouliGBDPTW14" mdate="2023-03-07">
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="69/2517-1">Mike Barnett 0001</author>
+<author pid="d/RobertDeLine">Robert DeLine</author>
+<author pid="27/1418">John C. Platt</author>
+<author pid="53/1820">James F. Terwilliger</author>
+<author pid="08/7942">John Wernsing</author>
+<title>Trill: A High-Performance Incremental Query Processor for Diverse Analytics.</title>
+<pages>401-412</pages>
+<year>2014</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p401-chandramouli.pdf</ee>
+<ee>https://doi.org/10.14778/2735496.2735503</ee>
+<url>db/journals/pvldb/pvldb8.html#ChandramouliGBDPTW14</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/ChandramouliG14" mdate="2020-05-30">
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<title>Patience is a virtue: revisiting merge and sort on modern processors.</title>
+<pages>731-742</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2593662</ee>
+<ee>https://www.wikidata.org/entity/Q93858163</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#ChandramouliG14</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/SantosTCG13" mdate="2020-04-25">
+<author pid="26/7259">Ivo Santos</author>
+<author pid="79/422">Marcel Tilly</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<title>DiAl: Distributed Streaming Analytics Anywhere, Anytime.</title>
+<pages>1386-1389</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p1386-santos.pdf</ee>
+<ee>https://doi.org/10.14778/2536274.2536322</ee>
+<url>db/journals/pvldb/pvldb6.html#SantosTCG13</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChandramouliGQ13" mdate="2020-04-25">
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="127/6195">Abdul Quamar</author>
+<title>Scalable Progressive Analytics on Big Data in the Cloud.</title>
+<pages>1726-1737</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>14</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p1726-chandramouli.pdf</ee>
+<ee>https://doi.org/10.14778/2556549.2556557</ee>
+<url>db/journals/pvldb/pvldb6.html#ChandramouliGQ13</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/BarnettCDDFGMP13" mdate="2023-03-07">
+<author pid="69/2517-1">Mike Barnett 0001</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="d/RobertDeLine">Robert DeLine</author>
+<author pid="50/863">Steven Mark Drucker</author>
+<author orcid="0000-0002-9019-5889" pid="89/5155">Danyel Fisher</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="79/5435">Patrick Morrison</author>
+<author pid="27/1418">John C. Platt</author>
+<title>Stat!: an interactive analytics environment for big data.</title>
+<pages>1013-1016</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2463683</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#BarnettCDDFGMP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChandramouliGD12" mdate="2023-03-24">
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="91/3250">Songyun Duan</author>
+<title>Temporal Analytics on Big Data for Web Advertising.</title>
+<pages>90-101</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.55</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2012.55</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#ChandramouliGD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChandramouliMG12" mdate="2023-03-24">
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<title>Physically Independent Stream Merging.</title>
+<pages>150-161</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.25</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2012.25</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#ChandramouliMG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChandramouliGBRS11" mdate="2023-03-23">
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="b/RogerSBarga">Roger S. Barga</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="26/7259">Ivo Santos</author>
+<title>Accurate latency estimation in a distributed event processing system.</title>
+<pages>255-266</pages>
+<year>2011</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2011.5767926</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2011.5767926</ee>
+<crossref>conf/icde/2011</crossref>
+<url>db/conf/icde/icde2011.html#ChandramouliGBRS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AliCGS11" mdate="2023-03-24">
+<author pid="a/MHAli">Mohamed H. Ali</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="43/6617">Roman Schindlauer</author>
+<title>The extensibility framework in Microsoft StreamInsight.</title>
+<pages>1242-1253</pages>
+<year>2011</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2011.5767878</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2011.5767878</ee>
+<crossref>conf/icde/2011</crossref>
+<url>db/conf/icde/icde2011.html#AliCGS11</url>
+</inproceedings>
+</r>
+<r><article key="journals/computer/ChandramouliAGSR10" mdate="2020-08-12">
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="a/MHAli">Mohamed H. Ali</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="74/4606">Beysim Sezgin</author>
+<author pid="55/7258">Balan Sethu Raman</author>
+<title>Data Stream Management Systems for Computational Finance.</title>
+<pages>45-52</pages>
+<year>2010</year>
+<volume>43</volume>
+<journal>Computer</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/MC.2010.346</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MC.2010.346</ee>
+<url>db/journals/computer/computer43.html#ChandramouliAGSR10</url>
+</article>
+</r>
+<r><article key="journals/ijcip/HareG10" mdate="2020-02-21">
+<author pid="152/9439">Forrest Hare</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<title>The interdependent security problem in the defense industrial base: An agent-based model on a social network.</title>
+<pages>128-139</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Int. J. Crit. Infrastructure Prot.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1016/j.ijcip.2010.07.001</ee>
+<url>db/journals/ijcip/ijcip3.html#HareG10</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChandramouliGM10" mdate="2020-04-25">
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<title>High-Performance Dynamic Pattern Matching over Disordered Streams.</title>
+<pages>220-231</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R19.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920873</ee>
+<url>db/journals/pvldb/pvldb3.html#ChandramouliGM10</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChandramouliGM09" mdate="2020-04-25">
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<title>On-the-fly Progress Detection in Iterative Stream Queries.</title>
+<pages>241-252</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-224.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687655</ee>
+<url>db/journals/pvldb/pvldb2.html#ChandramouliGM09</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AliGRSTVWZKALRKSGBCGBLNWMSNG09" mdate="2020-04-25">
+<author pid="a/MHAli">Mohamed H. Ali</author>
+<author pid="74/7259">Ciprian Gerea</author>
+<author pid="55/7258">Balan Sethu Raman</author>
+<author pid="74/4606">Beysim Sezgin</author>
+<author pid="68/7258">Tiho Tarnavski</author>
+<author pid="51/7259">Tomer Verona</author>
+<author pid="37/1304">Ping Wang</author>
+<author pid="30/6748">Peter Zabback</author>
+<author pid="45/7259">Anton Kirilov</author>
+<author pid="28/4012">Asvin Ananthanarayan</author>
+<author pid="15/5997">Ming Lu</author>
+<author pid="63/7258">Alex Raizman</author>
+<author pid="05/4051">Ramkumar Krishnan</author>
+<author pid="43/6617">Roman Schindlauer</author>
+<author pid="90/1374">Torsten Grabs</author>
+<author pid="72/7259">Sharon Bjeletich</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="70/7259">Sudin Bhat</author>
+<author pid="22/1805">Ying Li</author>
+<author pid="09/7259">Vincenzo Di Nicola</author>
+<author pid="67/1201">Xianfang Wang</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<author pid="26/7259">Ivo Santos</author>
+<author pid="63/433">Olivier Nano</author>
+<author pid="67/7258">Stephan Grell</author>
+<title>Microsoft CEP Server and Online Behavioral Targeting.</title>
+<pages>1558-1561</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-1019.pdf</ee>
+<ee>https://doi.org/10.14778/1687553.1687590</ee>
+<url>db/journals/pvldb/pvldb2.html#AliGRSTVWZKALRKSGBCGBLNWMSNG09</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/BargaGAH07" mdate="2020-03-12">
+<author pid="b/RogerSBarga">Roger S. Barga</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="a/MHAli">Mohamed H. Ali</author>
+<author pid="h/MingshengHong">Mingsheng Hong</author>
+<title>Consistent Streaming Through Time: A Vision for Event Stream Processing.</title>
+<pages>363-374</pages>
+<year>2007</year>
+<crossref>conf/cidr/2007</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2007/papers/cidr07p42.pdf</ee>
+<url>db/conf/cidr/cidr2007.html#BargaGAH07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhouLGD07" mdate="2023-03-23">
+<author pid="84/2644">Jingren Zhou</author>
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="33/4992">Luping Ding</author>
+<title>Dynamic Materialized Views.</title>
+<pages>526-535</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.367898</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2007.367898</ee>
+<url>db/conf/icde/icde2007.html#ZhouLGD07</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0612115" mdate="2018-08-13">
+<author pid="b/RogerSBarga">Roger S. Barga</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="a/MHAli">Mohamed H. Ali</author>
+<author pid="h/MingshengHong">Mingsheng Hong</author>
+<title>Consistent Streaming Through Time: A Vision for Event Stream Processing</title>
+<ee type="oa">http://arxiv.org/abs/cs/0612115</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0612115</volume>
+<url>db/journals/corr/corr0612.html#abs-cs-0612115</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvdb/RamakrishnanGS05" mdate="2018-11-06">
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="s/UriShaft">Uri Shaft</author>
+<title>Similarity search in high-dimensional datasets.</title>
+<pages>1-2</pages>
+<year>2005</year>
+<booktitle>CVDB</booktitle>
+<ee>https://doi.org/10.1145/1160939.1160941</ee>
+<crossref>conf/cvdb/2005</crossref>
+<url>db/conf/cvdb/cvdb2005.html#RamakrishnanGS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvdb/SmithDGGSR05" mdate="2018-11-06">
+<author pid="s/JohnRSmith">John R. Smith</author>
+<author pid="88/6921">David S. Doermann</author>
+<author pid="g/AmarnathGupta">Amarnath Gupta</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="s/UriShaft">Uri Shaft</author>
+<author pid="53/5171">Nalini K. Ratha</author>
+<title>Multimedia applications: beyond similarity searches.</title>
+<pages>71-72</pages>
+<year>2005</year>
+<booktitle>CVDB</booktitle>
+<ee>https://doi.org/10.1145/1160939.1160957</ee>
+<crossref>conf/cvdb/2005</crossref>
+<url>db/conf/cvdb/cvdb2005.html#SmithDGGSR05</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/LarsonGGZ04" mdate="2020-08-19">
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="21/6876">Hongfei Guo</author>
+<author pid="84/2644">Jingren Zhou</author>
+<title>MTCache: Mid-Tier Database Caching for SQL Server.</title>
+<pages>35-40</pages>
+<year>2004</year>
+<volume>27</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<ee type="oa">http://sites.computer.org/debull/A04june/plarson.ps</ee>
+<url>db/journals/debu/debu27.html#LarsonGGZ04</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsmml/GoldsteinPB04" mdate="2017-05-25">
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="27/1418">John C. Platt</author>
+<author pid="b/ChristopherJCBurges">Christopher J. C. Burges</author>
+<title>Redundant Bit Vectors for Quickly Searching High-Dimensional Regions.</title>
+<pages>137-158</pages>
+<year>2004</year>
+<crossref>conf/dsmml/2004</crossref>
+<booktitle>Deterministic and Statistical Methods in Machine Learning</booktitle>
+<ee>https://doi.org/10.1007/11559887_9</ee>
+<url>db/conf/dsmml/dsmml2004.html#GoldsteinPB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LarsonGZ04" mdate="2023-03-24">
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="84/2644">Jingren Zhou</author>
+<title>MTCache: Transparent Mid-Tier Database Caching in SQL Server.</title>
+<pages>177-188</pages>
+<year>2004</year>
+<crossref>conf/icde/2004</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2004.1319994</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2004.1319994</ee>
+<url>db/conf/icde/icde2004.html#LarsonGZ04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GuoLRG04" mdate="2018-11-06">
+<author pid="21/6876">Hongfei Guo</author>
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<title>Relaxed Currency and Consistency: How to Say "Good Enough" in SQL.</title>
+<year>2004</year>
+<crossref>conf/sigmod/2004</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2004.html#GuoLRG04</url>
+<pages>815-826</pages>
+<ee>https://doi.org/10.1145/1007568.1007661</ee>
+<ee>http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/R-184.pdf</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GuoRLG04" mdate="2018-11-06">
+<author pid="21/6876">Hongfei Guo</author>
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<title>Support for Relaxed Currency and Consistency Constraints in MTCache.</title>
+<year>2004</year>
+<crossref>conf/sigmod/2004</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1007568.1007706</ee>
+<ee>http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/D-141.pdf</ee>
+<url>db/conf/sigmod/sigmod2004.html#GuoRLG04</url>
+<pages>937-938</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/BurgesPG03" mdate="2018-11-06">
+<author pid="b/ChristopherJCBurges">Christopher J. C. Burges</author>
+<author pid="27/1418">John C. Platt</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<title>Identifying audio clips with <i>RARE</i>.</title>
+<pages>444-445</pages>
+<year>2003</year>
+<crossref>conf/mm/2003</crossref>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/957013.957104</ee>
+<url>db/conf/mm/mm2003.html#BurgesPG03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LarsonG03" mdate="2018-11-06">
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="84/2644">Jingren Zhou</author>
+<title>Transparent Mid-Tier Database Caching in SQL Server.</title>
+<pages>661</pages>
+<year>2003</year>
+<crossref>conf/sigmod/2003</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/872757.872848</ee>
+<url>db/conf/sigmod/sigmod2003.html#LarsonG03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GoldsteinL01" mdate="2021-03-12">
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<title>Optimizing Queries Using Materialized Views: A practical, scalable solution.</title>
+<pages>331-342</pages>
+<year>2001</year>
+<crossref>conf/sigmod/2001</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2001.html#GoldsteinL01</url>
+<ee>https://doi.org/10.1145/375663.375706</ee>
+<ee>https://doi.org/10.1145/376284.375706</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GoldsteinR00" mdate="2023-03-24">
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<title>Squeezing the Most out of Relational Database Systems.</title>
+<pages>81</pages>
+<year>2000</year>
+<crossref>conf/icde/2000</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2000.839389</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2000.839389</ee>
+<url>db/conf/icde/icde2000.html#GoldsteinR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/GoldsteinR00" mdate="2020-03-12">
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<title>Contrast Plots and P-Sphere Trees: Space vs. Time in Nearest Neighbour Searches.</title>
+<pages>429-440</pages>
+<ee type="oa">http://www.vldb.org/conf/2000/P429.pdf</ee>
+<year>2000</year>
+<crossref>conf/vldb/2000</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2000.html#GoldsteinR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/BeyerGRS99" mdate="2018-11-14">
+<ee>https://doi.org/10.1007/3-540-49257-7_15</ee>
+<ee>https://www.wikidata.org/entity/Q56431348</ee>
+<crossref>conf/icdt/99</crossref>
+<author pid="b/KevinSBeyer">Kevin S. Beyer</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="s/UriShaft">Uri Shaft</author>
+<title>When Is ''Nearest Neighbor'' Meaningful?</title>
+<pages>217-235</pages>
+<year>1999</year>
+<booktitle>ICDT</booktitle>
+<url>db/conf/icdt/icdt99.html#BeyerGRS99</url>
+<cite>conf/fodo/AgrawalFS93</cite>
+<cite>...</cite>
+<cite>conf/spieSR/AngLO95</cite>
+<cite>...</cite>
+<cite>conf/compgeom/AryaMN95</cite>
+<cite>conf/soda/AryaMNSW94</cite>
+<cite>...</cite>
+<cite>conf/vldb/BelussiF95</cite>
+<cite>journals/toms/BentleyWY80</cite>
+<cite>conf/sigmod/BerchtoldBBKK97</cite>
+<cite>conf/pods/BerchtoldBKK97</cite>
+<cite>journals/ipl/Bern93</cite>
+<cite>...</cite>
+<cite>conf/sigmod/BozkayaO97</cite>
+<cite>journals/jiis/FaloutsosBFHNPE94</cite>
+<cite>conf/vldb/FaloutsosG96</cite>
+<cite>conf/pods/FaloutsosK94</cite>
+<cite>journals/jiis/FayyadSWD95</cite>
+<cite>conf/sigmod/KatayamaS97</cite>
+<cite>journals/vldb/LinJF94</cite>
+<cite>...</cite>
+<cite>conf/icde/MehrotraG93</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/spieSR/PentlandPS94</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/icde/WhiteJ96</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GoldsteinRS98" mdate="2023-03-24">
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="s/UriShaft">Uri Shaft</author>
+<title>Compressing Relations and Indexes.</title>
+<pages>370-379</pages>
+<cdrom>ICDE98/P370.pdf</cdrom>
+<year>1998</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde98.html#GoldsteinRS98</url>
+<crossref>conf/icde/98</crossref>
+<ee>https://doi.org/10.1109/ICDE.1998.655800</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.1998.655800</ee>
+<cite>journals/tse/Bassiouni85</cite>
+<cite>journals/acta/BayerM72</cite>
+<cite>conf/sigmod/BeckmannKSS90</cite>
+<cite>conf/vldb/BerchtoldKK96</cite>
+<cite>conf/vldb/EggersOS81</cite>
+<cite>...</cite>
+<cite>conf/sigmod/Guttman84</cite>
+<cite>books/wi/Kimball96</cite>
+<cite>conf/vldb/SeegerK90</cite>
+<cite>journals/tit/ZivL77</cite>
+<cite>conf/icde/LeuteneggerEL97</cite>
+<cite>journals/vldb/LinJF94</cite>
+<cite>conf/icde/NgR95</cite>
+<cite>journals/tods/NievergeltHS84</cite>
+<cite>conf/sigmod/ONeilQ97</cite>
+<cite>journals/sigmod/RothH93</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/GoldsteinRSY97" mdate="2018-11-06">
+<crossref>conf/pods/97</crossref>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="s/UriShaft">Uri Shaft</author>
+<author pid="88/2377">Jie-Bing Yu</author>
+<title>Processing Queries By Linear Constraints.</title>
+<pages>257-267</pages>
+<year>1997</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods97.html#GoldsteinRSY97</url>
+<ee>https://doi.org/10.1145/263661.263689</ee>
+<cdrom>journals/anthology/cd1-3:PODS97/P257.PDF</cdrom>
+<cdrom>journals/anthology/dvd1:text/1-3/PODS97/P257.PDF</cdrom>
+<cite>conf/sigmod/BeckmannKSS90</cite>
+<cite>...</cite>
+<cite>conf/vldb/DeWittKLPY94</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigmod/Guttman84</cite>
+<cite>conf/ssd/KriegelS89</cite>
+<cite>conf/vldb/SeegerK90</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/tods/NievergeltHS84</cite>
+<cite>...</cite>
+<cite>conf/sigmod/Robinson81</cite>
+<cite>conf/vldb/SellisRF87</cite>
+</inproceedings>
+</r>
+<coauthors n="100" nc="2">
+<co c="0"><na f="a/Abdelhamid:Ahmed_S=" pid="166/8392">Ahmed S. Abdelhamid</na></co>
+<co c="0"><na f="a/Ali:Mohamed_H=" pid="a/MHAli">Mohamed H. Ali</na></co>
+<co c="0"><na f="a/Ananthanarayan:Asvin" pid="28/4012">Asvin Ananthanarayan</na></co>
+<co c="1"><na f="a/Avila:Allan_M=" pid="298/1697">Allan M. Avila</na></co>
+<co c="0"><na f="b/Barga:Roger_S=" pid="b/RogerSBarga">Roger S. Barga</na></co>
+<co c="0" n="2"><na f="b/Barnett_0001:Michael" pid="69/2517-1">Michael Barnett 0001</na><na>Mike Barnett 0001</na></co>
+<co c="0"><na f="b/Battle:Leilani" pid="91/7584">Leilani Battle</na></co>
+<co c="0"><na f="b/Beyer:Kevin_S=" pid="b/KevinSBeyer">Kevin S. Beyer</na></co>
+<co c="0"><na f="b/Bhat:Sudin" pid="70/7259">Sudin Bhat</na></co>
+<co c="0"><na f="b/Bjeletich:Sharon" pid="72/7259">Sharon Bjeletich</na></co>
+<co c="0"><na f="b/Brudy:Frederik" pid="42/11300">Frederik Brudy</na></co>
+<co c="0"><na f="b/Burckhardt:Sebastian" pid="84/1935">Sebastian Burckhardt</na></co>
+<co c="0"><na f="b/Burges:Christopher_J=_C=" pid="b/ChristopherJCBurges">Christopher J. C. Burges</na></co>
+<co c="0"><na f="b/Buxton:William" pid="b/WilliamBuxton">William Buxton</na></co>
+<co c="0"><na f="c/Chandramouli:Badrish" pid="01/2861">Badrish Chandramouli</na></co>
+<co c="1"><na f="c/Clymer:Daniel" pid="298/1550">Daniel Clymer</na></co>
+<co c="0"><na f="d/DeLine:Robert" pid="d/RobertDeLine">Robert DeLine</na></co>
+<co c="0"><na f="d/Ding:Luping" pid="33/4992">Luping Ding</na></co>
+<co c="0"><na f="d/Doermann:David_S=" pid="88/6921">David S. Doermann</na></co>
+<co c="0"><na f="d/Drucker:Steven_Mark" pid="50/863">Steven Mark Drucker</na></co>
+<co c="0"><na f="d/Duan:Songyun" pid="91/3250">Songyun Duan</na></co>
+<co c="0"><na f="e/Eldawy:Ahmed" pid="66/9726">Ahmed Eldawy</na></co>
+<co c="0"><na f="f/Fernandez:Raul_Castro" pid="131/4202">Raul Castro Fernandez</na></co>
+<co c="0"><na f="f/Fisher:Danyel" pid="89/5155">Danyel Fisher</na></co>
+<co c="1"><na f="f/Fonoberova:Maria" pid="00/4583">Maria Fonoberova</na></co>
+<co c="0"><na f="g/Gehring:Darren" pid="130/2894">Darren Gehring</na></co>
+<co c="0"><na f="g/Gehrke:Johannes" pid="g/JohannesGehrke">Johannes Gehrke</na></co>
+<co c="0"><na f="g/Gerea:Ciprian" pid="74/7259">Ciprian Gerea</na></co>
+<co c="0"><na f="g/Grabs:Torsten" pid="90/1374">Torsten Grabs</na></co>
+<co c="0"><na f="g/Grell:Stephan" pid="67/7258">Stephan Grell</na></co>
+<co c="0"><na f="g/Guo:Hongfei" pid="21/6876">Hongfei Guo</na></co>
+<co c="0"><na f="g/Gupta:Amarnath" pid="g/AmarnathGupta">Amarnath Gupta</na></co>
+<co c="-1"><na f="h/Hare:Forrest" pid="152/9439">Forrest Hare</na></co>
+<co c="1" n="2"><na f="h/Hespanha:Jo=atilde=o_Pedro" pid="h/JoaoPedroHespanha">Jo&#227;o Pedro Hespanha</na><na>Jo&#227;o P. Hespanha 0001</na></co>
+<co c="0"><na f="h/Hinckley:Ken" pid="40/5624">Ken Hinckley</na></co>
+<co c="0"><na f="h/Holz_0001:Christian" pid="79/7439-1">Christian Holz 0001</na></co>
+<co c="0"><na f="h/Hong:Mingsheng" pid="h/MingshengHong">Mingsheng Hong</na></co>
+<co c="1"><na f="j/Javorsek:Daniel" pid="286/7904">Daniel Javorsek</na></co>
+<co c="0"><na f="j/Joyner:Shannon" pid="256/1012">Shannon Joyner</na></co>
+<co c="0"><na f="k/Katsipoulakis:Nikos_R=" pid="142/7802">Nikos R. Katsipoulakis</na></co>
+<co c="0"><na f="k/Kirilov:Anton" pid="45/7259">Anton Kirilov</na></co>
+<co c="0"><na f="k/Kossmann:Donald" pid="k/DonaldKossmann">Donald Kossmann</na></co>
+<co c="0"><na f="k/Krishnan:Ramkumar" pid="05/4051">Ramkumar Krishnan</na></co>
+<co c="0"><na f="l/Larson:Per==Aring=ke" pid="l/PALarson">Per-&#197;ke Larson</na></co>
+<co c="0"><na f="l/Lebeck:Niel" pid="139/8104">Niel Lebeck</na></co>
+<co c="0"><na f="l/Ledo:David" pid="77/10579">David Ledo</na></co>
+<co c="0"><na f="l/Lee:Bongshin" pid="52/5103">Bongshin Lee</na></co>
+<co c="0"><na f="l/Levandoski:Justin_J=" pid="02/3658">Justin J. Levandoski</na></co>
+<co c="0"><na f="l/Li:Yinan" pid="49/612">Yinan Li</na></co>
+<co c="0"><na f="l/Li:Ying" pid="22/1805">Ying Li</na></co>
+<co c="0"><na f="l/Lu:Ming" pid="15/5997">Ming Lu</na></co>
+<co c="0"><na f="m/Maier_0001:David" pid="m/DavidMaier">David Maier 0001</na></co>
+<co c="0"><na f="m/Marquardt:Nicolai" pid="38/166">Nicolai Marquardt</na></co>
+<co c="0"><na f="m/Marroqu=iacute=n:Renato" pid="173/9193">Renato Marroqu&#237;n</na></co>
+<co c="0"><na f="m/Meiklejohn:Christopher" pid="140/8227">Christopher Meiklejohn</na></co>
+<co c="1"><na f="m/Mezic:Igor" pid="76/6498">Igor Mezic</na></co>
+<co c="0"><na f="m/Minhas:Umar_Farooq" pid="99/6349">Umar Farooq Minhas</na></co>
+<co c="0"><na f="m/Morrison:Patrick" pid="79/5435">Patrick Morrison</na></co>
+<co c="0"><na f="n/Nano:Olivier" pid="63/433">Olivier Nano</na></co>
+<co c="0"><na f="n/Newton:Ryan" pid="34/3982">Ryan Newton</na></co>
+<co c="0" n="2"><na f="n/Nicholas:Molly_Jane_Pearce" pid="199/3059">Molly Jane Pearce Nicholas</na><na>Molly Jane Nicholas</na></co>
+<co c="0"><na f="n/Nicola:Vincenzo_Di" pid="09/7259">Vincenzo Di Nicola</na></co>
+<co c="0"><na f="n/Nikolic_0001:Milos" pid="57/10355-1">Milos Nikolic 0001</na></co>
+<co c="0"><na f="p/Pahud:Michel" pid="59/2625">Michel Pahud</na></co>
+<co c="0"><na f="p/Peinado:Marcus" pid="56/6925">Marcus Peinado</na></co>
+<co c="0"><na f="p/Peshawaria:Rahee" pid="257/8737">Rahee Peshawaria</na></co>
+<co c="0"><na f="p/Platt:John_C=" pid="27/1418">John C. Platt</na></co>
+<co c="1"><na f="p/Pravia:Marco_A=" pid="133/6709">Marco A. Pravia</na></co>
+<co c="0"><na f="q/Quamar:Abdul" pid="127/6195">Abdul Quamar</na></co>
+<co c="0"><na f="r/Raizman:Alex" pid="63/7258">Alex Raizman</na></co>
+<co c="0"><na f="r/Ramakrishnan:Raghu" pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</na></co>
+<co c="0"><na f="r/Raman:Balan_Sethu" pid="55/7258">Balan Sethu Raman</na></co>
+<co c="0"><na f="r/Ratha:Nalini_K=" pid="53/5171">Nalini K. Ratha</na></co>
+<co c="0" n="2"><na f="r/Riche:Nathalie_Henry" pid="h/NathalieHenry">Nathalie Henry Riche</na><na>Nathalie Riche</na></co>
+<co c="0"><na f="r/Riedewald:Mirek" pid="r/MirekRiedewald">Mirek Riedewald</na></co>
+<co c="0"><na f="r/Romat:Hugo" pid="177/8707">Hugo Romat</na></co>
+<co c="0"><na f="s/Santos:Ivo" pid="26/7259">Ivo Santos</na></co>
+<co c="0"><na f="s/Schindlauer:Roman" pid="43/6617">Roman Schindlauer</na></co>
+<co c="0"><na f="s/Seyed:Teddy" pid="27/9660">Teddy Seyed</na></co>
+<co c="0"><na f="s/Sezgin:Beysim" pid="74/4606">Beysim Sezgin</na></co>
+<co c="0"><na f="s/Shaft:Uri" pid="s/UriShaft">Uri Shaft</na></co>
+<co c="0"><na f="s/Smith:John_R=" pid="s/JohnRSmith">John R. Smith</na></co>
+<co c="0"><na f="s/Surale:Hemant_Bhaskar" pid="199/3056">Hemant Bhaskar Surale</na></co>
+<co c="0"><na f="t/Tarnavski:Tiho" pid="68/7258">Tiho Tarnavski</na></co>
+<co c="0"><na f="t/Terwilliger:James_F=" pid="53/1820">James F. Terwilliger</na></co>
+<co c="0"><na f="t/Tilly:Marcel" pid="79/422">Marcel Tilly</na></co>
+<co c="0"><na f="v/Verona:Tomer" pid="51/7259">Tomer Verona</na></co>
+<co c="0"><na f="v/Vishkaie:Rojin" pid="121/4944">Rojin Vishkaie</na></co>
+<co c="0"><na f="w/Waghmare:Anand" pid="276/4023">Anand Waghmare</na></co>
+<co c="0"><na f="w/Wang:Ping" pid="37/1304">Ping Wang</na></co>
+<co c="0"><na f="w/Wang:Xianfang" pid="67/1201">Xianfang Wang</na></co>
+<co c="0" n="2"><na f="w/Wernsing:John_Robert" pid="08/7942">John Robert Wernsing</na><na>John Wernsing</na></co>
+<co c="0"><na f="x/Xie:Wenlei" pid="70/8577">Wenlei Xie</na></co>
+<co c="0"><na f="y/Yu:Jie=Bing" pid="88/2377">Jie-Bing Yu</na></co>
+<co c="0"><na f="y/Yuan_0010:Ye" pid="33/6315-10">Ye Yuan 0010</na></co>
+<co c="0"><na f="z/Zabback:Peter" pid="30/6748">Peter Zabback</na></co>
+<co c="0"><na f="z/Zaccai:Tal" pid="194/3943">Tal Zaccai</na></co>
+<co c="0"><na f="z/Zhang:Irene" pid="68/1122">Irene Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xiaokuan" pid="158/4724">Xiaokuan Zhang</na></co>
+<co c="0"><na f="z/Zhou:Jingren" pid="84/2644">Jingren Zhou</na></co>
+</coauthors>
+</dblpperson>

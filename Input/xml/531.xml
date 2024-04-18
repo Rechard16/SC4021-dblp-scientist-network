@@ -1,0 +1,1772 @@
+<dblpperson name="Matteo Interlandi" pid="49/10034" n="87">
+<person key="homepages/49/10034" mdate="2023-11-28">
+<author pid="49/10034">Matteo Interlandi</author>
+<note type="affiliation">Microsoft, USA</note>
+<url>https://orcid.org/0000-0002-5756-8321</url>
+<url>https://www.wikidata.org/entity/Q90102701</url>
+</person>
+<r><article key="journals/pvldb/LiuPIH23" mdate="2023-10-23">
+<author pid="147/1343">Chunwei Liu</author>
+<author pid="287/9591">Anna Pavlenko</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="180/5761">Brandon Haynes</author>
+<title>A Deep Dive into Common Open Formats for Analytical DBMSs.</title>
+<pages>3044-3056</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p3044-liu.pdf</ee>
+<ee>https://doi.org/10.14778/3611479.3611507</ee>
+<url>db/journals/pvldb/pvldb16.html#LiuPIH23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/Liu0PZMSIKTC23" mdate="2023-11-27">
+<author pid="42/469">Rui Liu</author>
+<author pid="131/4168-1">Kwanghyun Park 0001</author>
+<author pid="135/5141">Fotis Psallidas</author>
+<author pid="33/7023">Xiaoyong Zhu</author>
+<author pid="27/9833">Jinghui Mo</author>
+<author pid="08/2832">Rathijit Sen</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="59/7992">Konstantinos Karanasos</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<author pid="26/8398">Jes&#250;s Camacho-Rodr&#237;guez</author>
+<title>Optimizing Data Pipelines for Machine Learning in Feature Stores.</title>
+<pages>4230-4239</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p4230-camacho-rodriguez.pdf</ee>
+<url>db/journals/pvldb/pvldb16.html#Liu0PZMSIKTC23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/CaoSIAK23" mdate="2024-03-26">
+<author pid="215/3492">Jiashen Cao</author>
+<author pid="08/2832">Rathijit Sen</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="127/3025">Joy Arulraj</author>
+<author pid="87/5743">Hyesoon Kim</author>
+<title>GPU Database Systems Characterization and Optimization.</title>
+<pages>441-454</pages>
+<year>2023</year>
+<month>November</month>
+<volume>17</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol17/p441-cao.pdf</ee>
+<url>db/journals/pvldb/pvldb17.html#CaoSIAK23</url>
+</article>
+</r>
+<r><article key="journals/tkde/PaganelliSPIG23" mdate="2023-11-01">
+<author orcid="0000-0001-8119-895X" pid="206/0032">Matteo Paganelli</author>
+<author orcid="0000-0002-4830-579X" pid="167/4586">Paolo Sottovia</author>
+<author orcid="0000-0003-0757-2725" pid="131/4168-1">Kwanghyun Park 0001</author>
+<author orcid="0000-0002-5756-8321" pid="49/10034">Matteo Interlandi</author>
+<author orcid="0000-0001-6864-568X" pid="g/FrancescoGuerra">Francesco Guerra 0001</author>
+<title>Pushing ML Predictions Into DBMSs.</title>
+<pages>10295-10308</pages>
+<year>2023</year>
+<month>October</month>
+<volume>35</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>10</number>
+<ee type="oa">https://doi.org/10.1109/TKDE.2023.3269592</ee>
+<url>db/journals/tkde/tkde35.html#PaganelliSPIG23</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/GandhiAFGZSCCI23" mdate="2023-07-19">
+<author pid="261/9216">Apurva Gandhi</author>
+<author pid="328/6465">Yuki Asada</author>
+<author pid="328/6205">Victor Fu</author>
+<author pid="288/0004">Advitya Gemawat</author>
+<author pid="67/10189">Lihao Zhang</author>
+<author pid="08/2832">Rathijit Sen</author>
+<author pid="c/CarloCurino">Carlo Curino</author>
+<author pid="26/8398">Jes&#250;s Camacho-Rodr&#237;guez</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<title>The Tensor Data Platform: Towards an AI-centric Database System.</title>
+<year>2023</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2023/papers/p68-gandhi.pdf</ee>
+<crossref>conf/cidr/2023</crossref>
+<url>db/conf/cidr/cidr2023.html#GandhiAFGZSCCI23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/CuiZBCHLR0SI23" mdate="2023-07-07">
+<author orcid="0009-0005-9362-3585" pid="42/3805">Wei Cui</author>
+<author orcid="0000-0002-0646-5365" pid="291/4798">Qianxi Zhang</author>
+<author orcid="0009-0004-2703-7177" pid="65/5338">Spyros Blanas</author>
+<author orcid="0009-0008-9151-6024" pid="26/8398">Jes&#250;s Camacho-Rodr&#237;guez</author>
+<author orcid="0000-0002-1501-9586" pid="180/5761">Brandon Haynes</author>
+<author orcid="0009-0004-5483-2862" pid="49/612">Yinan Li</author>
+<author orcid="0000-0002-3484-0038" pid="02/4973">Ravi Ramamurthy</author>
+<author orcid="0000-0003-4014-4757" pid="76/185-5">Peng Cheng 0005</author>
+<author orcid="0000-0003-4736-2837" pid="08/2832">Rathijit Sen</author>
+<author orcid="0000-0002-5756-8321" pid="49/10034">Matteo Interlandi</author>
+<title>Query Processing on Gaming Consoles.</title>
+<pages>86-88</pages>
+<year>2023</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3592980.3595313</ee>
+<crossref>conf/damon/2023</crossref>
+<url>db/conf/damon/damon2023.html#CuiZBCHLR0SI23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/NegiBAKLGI23" mdate="2023-07-27">
+<author pid="221/2301">Parimarjan Negi</author>
+<author pid="116/5046">Laurent Bindschaedler</author>
+<author pid="37/8397">Mohammad Alizadeh</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="150/7163">Jyoti Leeka</author>
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<title>Unshackling Database Benchmarking from Synthetic Workloads.</title>
+<pages>3659-3662</pages>
+<year>2023</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE55515.2023.00292</ee>
+<crossref>conf/icde/2023</crossref>
+<url>db/conf/icde/icde2023.html#NegiBAKLGI23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/0001IJ23" mdate="2023-06-15">
+<author orcid="0000-0003-1344-3663" pid="75/887">Matthias Boehm 0001</author>
+<author orcid="0000-0002-5756-8321" pid="49/10034">Matteo Interlandi</author>
+<author orcid="0009-0001-5458-9370" pid="j/ChrisJermaine">Chris Jermaine</author>
+<title>Optimizing Tensor Computations: From Applications to Compilation and Runtime Techniques.</title>
+<pages>53-59</pages>
+<year>2023</year>
+<booktitle>SIGMOD Conference Companion</booktitle>
+<ee>https://doi.org/10.1145/3555041.3589407</ee>
+<crossref>conf/sigmod/2023c</crossref>
+<url>db/conf/sigmod/sigmod2023c.html#0001IJ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZhuTCKAACCCDFGH23" mdate="2023-06-15">
+<author orcid="0009-0005-6857-7505" pid="68/6811">Yiwen Zhu</author>
+<author orcid="0000-0002-6835-8434" pid="27/3375">Yuanyuan Tian</author>
+<author orcid="0000-0001-7217-4702" pid="243/9227">Joyce Cahoon</author>
+<author orcid="0009-0007-8534-0889" pid="159/6290">Subru Krishnan</author>
+<author orcid="0009-0001-3842-6547" pid="201/5636">Ankita Agarwal</author>
+<author orcid="0009-0005-0457-8429" pid="243/2494">Rana Alotaibi</author>
+<author orcid="0009-0008-9151-6024" pid="26/8398">Jes&#250;s Camacho-Rodr&#237;guez</author>
+<author orcid="0009-0006-2807-2577" pid="348/7815">Bibin Chundatt</author>
+<author orcid="0009-0005-6201-1674" pid="59/11411">Andrew Chung</author>
+<author orcid="0009-0006-7524-2970" pid="348/7886">Niharika Dutta</author>
+<author orcid="0009-0000-3248-655X" pid="273/7169">Andrew Fogarty</author>
+<author orcid="0009-0009-2547-8610" pid="81/10578">Anja Gruenheid</author>
+<author orcid="0000-0002-1501-9586" pid="180/5761">Brandon Haynes</author>
+<author orcid="0000-0002-5756-8321" pid="49/10034">Matteo Interlandi</author>
+<author orcid="0009-0004-4552-6900" pid="295/3511">Minu Iyer</author>
+<author orcid="0009-0006-2312-9204" pid="295/3659">Nick Jurgens</author>
+<author orcid="0009-0007-1561-9382" pid="348/7770">Sumeet Khushalani</author>
+<author orcid="0000-0002-5108-6743" pid="248/7832">Brian Kroth</author>
+<author orcid="0009-0008-0132-0555" pid="58/1076">Manoj Kumar</author>
+<author orcid="0000-0003-2920-1431" pid="150/7163">Jyoti Leeka</author>
+<author orcid="0009-0002-4774-0965" pid="120/1311">Sergiy Matusevych</author>
+<author orcid="0009-0006-8357-9303" pid="246/9804">Minni Mittal</author>
+<author pid="38/4335-24">Andreas M&#252;ller 0024</author>
+<author orcid="0009-0006-9186-477X" pid="158/4409">Kartheek Muthyala</author>
+<author orcid="0009-0006-7769-6351" pid="348/7879">Harsha Nagulapalli</author>
+<author orcid="0009-0003-4566-6965" pid="130/0322">Yoonjae Park</author>
+<author orcid="0009-0006-6041-9622" pid="23/5134">Hiren Patel</author>
+<author orcid="0009-0006-7442-4254" pid="287/9591">Anna Pavlenko</author>
+<author orcid="0000-0002-8578-307X" pid="71/7422">Olga Poppe</author>
+<author orcid="0009-0000-5814-3379" pid="348/7894">Santhosh Ravindran</author>
+<author orcid="0009-0005-0741-5190" pid="55/8723">Karla Saur</author>
+<author orcid="0000-0003-4736-2837" pid="08/2832">Rathijit Sen</author>
+<author orcid="0009-0000-2340-2203" pid="222/9616">Steve Suh</author>
+<author orcid="0009-0005-0549-8383" pid="86/2773">Arijit Tarafdar</author>
+<author orcid="0000-0002-3889-6637" pid="266/5841">Kunal Waghray</author>
+<author orcid="0009-0009-0282-0460" pid="80/968">Demin Wang</author>
+<author orcid="0000-0003-3712-7358" pid="c/CarloCurino">Carlo Curino</author>
+<author orcid="0009-0007-5086-7664" pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<title>Towards Building Autonomous Data Services on Azure.</title>
+<pages>217-224</pages>
+<year>2023</year>
+<booktitle>SIGMOD Conference Companion</booktitle>
+<ee>https://doi.org/10.1145/3555041.3589674</ee>
+<crossref>conf/sigmod/2023c</crossref>
+<url>db/conf/sigmod/sigmod2023c.html#ZhuTCKAACCCDFGH23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-00734" mdate="2023-02-09">
+<author pid="215/3492">Jiashen Cao</author>
+<author pid="08/2832">Rathijit Sen</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="127/3025">Joy Arulraj</author>
+<author pid="87/5743">Hyesoon Kim</author>
+<title>Revisiting Query Performance in GPU Database Systems.</title>
+<year>2023</year>
+<volume>abs/2302.00734</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.00734</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-00734</url>
+</article>
+</r>
+<r><article key="journals/pvldb/HeNBSSPCCKI22" mdate="2023-10-28">
+<author pid="16/5283-2">Dong He 0002</author>
+<author pid="182/0250">Supun Chathuranga Nakandala</author>
+<author pid="274/6051">Dalitso Banda</author>
+<author pid="08/2832">Rathijit Sen</author>
+<author pid="55/8723">Karla Saur</author>
+<author orcid="0000-0003-0757-2725" pid="131/4168-1">Kwanghyun Park 0001</author>
+<author pid="c/CarloCurino">Carlo Curino</author>
+<author pid="26/8398">Jes&#250;s Camacho-Rodr&#237;guez</author>
+<author pid="59/7992">Konstantinos Karanasos</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<title>Query Processing on Tensor Computation Runtimes.</title>
+<pages>2811-2825</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p2811-he.pdf</ee>
+<ee>https://doi.org/10.14778/3551793.3551833</ee>
+<url>db/journals/pvldb/pvldb15.html#HeNBSSPCCKI22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AsadaFGGZGNBSI22" mdate="2023-10-23">
+<author pid="328/6465">Yuki Asada</author>
+<author pid="328/6205">Victor Fu</author>
+<author pid="261/9216">Apurva Gandhi</author>
+<author pid="288/0004">Advitya Gemawat</author>
+<author pid="67/10189">Lihao Zhang</author>
+<author pid="71/5332">Vivek Gupta</author>
+<author pid="275/3836">Ehi Nosakhare</author>
+<author pid="274/6051">Dalitso Banda</author>
+<author pid="08/2832">Rathijit Sen</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<title>Share the Tensor Tea: How Databases can Leverage the Machine Learning Ecosystem.</title>
+<pages>3598-3601</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p3598-interlandi.pdf</ee>
+<ee>https://doi.org/10.14778/3554821.3554853</ee>
+<url>db/journals/pvldb/pvldb15.html#AsadaFGGZGNBSI22</url>
+</article>
+</r>
+<r><article key="journals/sigmod/PsallidasZKHIKK22" mdate="2022-08-08">
+<author pid="135/5141">Fotis Psallidas</author>
+<author pid="68/6811">Yiwen Zhu</author>
+<author pid="185/0781">Bojan Karlas</author>
+<author pid="217/1922">Jordan Henkel</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="159/6290">Subru Krishnan</author>
+<author pid="248/7832">Brian Kroth</author>
+<author pid="181/5872">K. Venkatesh Emani</author>
+<author pid="29/85">Wentao Wu 0001</author>
+<author pid="97/919-1">Ce Zhang 0001</author>
+<author pid="89/6502">Markus Weimer</author>
+<author pid="08/7992">Avrilia Floratou</author>
+<author pid="c/CarloCurino">Carlo Curino</author>
+<author pid="59/7992">Konstantinos Karanasos</author>
+<title>Data Science Through the Looking Glass: Analysis of Millions of GitHub Notebooks and ML.NET Pipelines.</title>
+<pages>30-37</pages>
+<year>2022</year>
+<volume>51</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3552490.3552496</ee>
+<url>db/journals/sigmod/sigmod51.html#PsallidasZKHIKK22</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/ParkSBSIK22" mdate="2022-10-02">
+<author orcid="0000-0003-0757-2725" pid="131/4168-1">Kwanghyun Park 0001</author>
+<author pid="55/8723">Karla Saur</author>
+<author pid="274/6051">Dalitso Banda</author>
+<author pid="08/2832">Rathijit Sen</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="59/7992">Konstantinos Karanasos</author>
+<title>End-to-end Optimization of Machine Learning Prediction Queries.</title>
+<pages>587-601</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3526141</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#ParkSBSIK22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZhangIM0GLFHPJ22" mdate="2022-06-14">
+<author pid="124/6700">Wangda Zhang</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="35/5613">Paul Mineiro</author>
+<author pid="157/8412-1">Shi Qiao 0001</author>
+<author pid="183/8535">Nasim Ghazanfari</author>
+<author pid="322/1455">Karlen Lie</author>
+<author pid="305/2786">Marc T. Friedman</author>
+<author pid="72/2879">Rafah Hosn</author>
+<author pid="23/5134">Hiren Patel</author>
+<author pid="24/8510">Alekh Jindal</author>
+<title>Deploying a Steered Query Optimizer in Production at Microsoft.</title>
+<pages>2299-2311</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3526052</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#ZhangIM0GLFHPJ22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-01877" mdate="2023-03-28">
+<author pid="16/5283-2">Dong He 0002</author>
+<author pid="182/0250">Supun Nakandala</author>
+<author pid="274/6051">Dalitso Banda</author>
+<author pid="08/2832">Rathijit Sen</author>
+<author pid="55/8723">Karla Saur</author>
+<author orcid="0000-0003-0757-2725" pid="131/4168-1">Kwanghyun Park 0001</author>
+<author pid="c/CarloCurino">Carlo Curino</author>
+<author pid="26/8398">Jes&#250;s Camacho-Rodr&#237;guez</author>
+<author pid="59/7992">Konstantinos Karanasos</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<title>Query Processing on Tensor Computation Runtimes.</title>
+<year>2022</year>
+<volume>abs/2203.01877</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.01877</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-01877</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2204-11131" mdate="2022-04-28">
+<author pid="185/0781">Bojan Karlas</author>
+<author pid="187/5498">David Dao</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="50/3402-26">Bo Li 0026</author>
+<author pid="118/7229">Sebastian Schelter</author>
+<author pid="29/85">Wentao Wu 0001</author>
+<author pid="97/919-1">Ce Zhang 0001</author>
+<title>Data Debugging with Shapley Importance over End-to-End Machine Learning Pipelines.</title>
+<year>2022</year>
+<volume>abs/2204.11131</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2204.11131</ee>
+<url>db/journals/corr/corr2204.html#abs-2204-11131</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-00136" mdate="2022-10-02">
+<author orcid="0000-0003-0757-2725" pid="131/4168-1">Kwanghyun Park 0001</author>
+<author pid="55/8723">Karla Saur</author>
+<author pid="274/6051">Dalitso Banda</author>
+<author pid="08/2832">Rathijit Sen</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="59/7992">Konstantinos Karanasos</author>
+<title>End-to-end Optimization of Machine Learning Prediction Queries.</title>
+<year>2022</year>
+<volume>abs/2206.00136</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.00136</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-00136</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2209-04579" mdate="2023-03-28">
+<author pid="328/6465">Yuki Asada</author>
+<author pid="328/6205">Victor Fu</author>
+<author pid="261/9216">Apurva Gandhi</author>
+<author pid="288/0004">Advitya Gemawat</author>
+<author pid="67/10189">Lihao Zhang</author>
+<author pid="16/5283-2">Dong He 0002</author>
+<author pid="71/5332">Vivek Gupta</author>
+<author pid="275/3836">Ehi Nosakhare</author>
+<author pid="274/6051">Dalitso Banda</author>
+<author pid="08/2832">Rathijit Sen</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<title>Share the Tensor Tea: How Databases can Leverage the Machine Learning Ecosystem.</title>
+<year>2022</year>
+<volume>abs/2209.04579</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2209.04579</ee>
+<url>db/journals/corr/corr2209.html#abs-2209-04579</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-13625" mdate="2022-10-28">
+<author pid="124/6700">Wangda Zhang</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="35/5613">Paul Mineiro</author>
+<author pid="157/8412-1">Shi Qiao 0001</author>
+<author pid="183/8535">Nasim Ghazanfari</author>
+<author pid="322/1455">Karlen Lie</author>
+<author pid="305/2786">Marc T. Friedman</author>
+<author pid="72/2879">Rafah Hosn</author>
+<author pid="23/5134">Hiren Patel</author>
+<author pid="24/8510">Alekh Jindal</author>
+<title>Deploying a Steered Query Optimizer in Production at Microsoft.</title>
+<year>2022</year>
+<volume>abs/2210.13625</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.13625</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-13625</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-02753" mdate="2022-11-09">
+<author pid="261/9216">Apurva Gandhi</author>
+<author pid="328/6465">Yuki Asada</author>
+<author pid="328/6205">Victor Fu</author>
+<author pid="288/0004">Advitya Gemawat</author>
+<author pid="67/10189">Lihao Zhang</author>
+<author pid="08/2832">Rathijit Sen</author>
+<author pid="c/CarloCurino">Carlo Curino</author>
+<author pid="26/8398">Jes&#250;s Camacho-Rodr&#237;guez</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<title>The Tensor Data Platform: Towards an AI-centric Database System.</title>
+<year>2022</year>
+<volume>abs/2211.02753</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.02753</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-02753</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KoutsoukosNKSAI21" mdate="2023-08-28">
+<author pid="195/1301">Dimitrios Koutsoukos</author>
+<author pid="182/0250">Supun Nakandala</author>
+<author pid="59/7992">Konstantinos Karanasos</author>
+<author pid="55/8723">Karla Saur</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<title>Tensors: An abstraction for general data processing.</title>
+<pages>1797-1804</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p1797-koutsoukos.pdf</ee>
+<ee>https://doi.org/10.14778/3467861.3467869</ee>
+<ee>https://www.wikidata.org/entity/Q114053630</ee>
+<url>db/journals/pvldb/pvldb14.html#KoutsoukosNKSAI21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ZhuIRDPBSJ21" mdate="2024-04-02">
+<author orcid="0009-0005-6857-7505" pid="68/6811">Yiwen Zhu</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="33/4379-8">Abhishek Roy 0008</author>
+<author pid="300/4248">Krishnadhan Das</author>
+<author pid="23/5134">Hiren Patel</author>
+<author pid="219/9681">Malay Bag</author>
+<author pid="190/3918">Hitesh Sharma</author>
+<author pid="24/8510">Alekh Jindal</author>
+<title>Phoebe: A Learning-based Checkpoint Optimizer.</title>
+<pages>2505-2518</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2505-zhu.pdf</ee>
+<ee>https://doi.org/10.14778/3476249.3476298</ee>
+<url>db/journals/pvldb/pvldb14.html#ZhuIRDPBSJ21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/JindalI21" mdate="2022-04-21">
+<author pid="24/8510">Alekh Jindal</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<title>Machine Learning for Cloud Data Systems: the Promise, the Progress, and the Path Forward.</title>
+<pages>3202-3205</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p3202-jindal.pdf</ee>
+<ee>https://doi.org/10.14778/3476311.3476408</ee>
+<url>db/journals/pvldb/pvldb14.html#JindalI21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/YuAKPZCWI21" mdate="2022-04-21">
+<author pid="217/6778">Gyeong-In Yu</author>
+<author pid="48/8399">Saeed Amizadeh</author>
+<author pid="93/2394">Sehoon Kim</author>
+<author pid="223/9977">Artidoro Pagnoni</author>
+<author pid="97/919-1">Ce Zhang 0001</author>
+<author pid="34/3515">Byung-Gon Chun</author>
+<author pid="89/6502">Markus Weimer</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<title>WindTunnel: Towards Differentiable ML Pipelines Beyond a Single Modele.</title>
+<pages>11-20</pages>
+<year>2021</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol15/p11-yu.pdf</ee>
+<ee>https://doi.org/10.14778/3485450.3485452</ee>
+<url>db/journals/pvldb/pvldb15.html#YuAKPZCWI21</url>
+</article>
+</r>
+<r><article key="journals/tpds/LiIPWZ21" mdate="2022-10-02">
+<author orcid="0000-0001-5806-5120" pid="32/238">Youfu Li</author>
+<author orcid="0000-0002-5756-8321" pid="49/10034">Matteo Interlandi</author>
+<author orcid="0000-0003-4110-5813" pid="135/5141">Fotis Psallidas</author>
+<author orcid="0000-0002-8180-2886" pid="w/WeiWang">Wei Wang 0010</author>
+<author pid="z/CZaniolo">Carlo Zaniolo</author>
+<title>SEIZE: Runtime Inspection for Parallel Dataflow Systems.</title>
+<pages>842-854</pages>
+<year>2021</year>
+<volume>32</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TPDS.2020.3035170</ee>
+<url>db/journals/tpds/tpds32.html#LiIPWZ21</url>
+</article>
+</r>
+<r><inproceedings key="conf/sebd/PaganelliSMI021" mdate="2023-03-10">
+<author pid="206/0032">Matteo Paganelli</author>
+<author pid="167/4586">Paolo Sottovia</author>
+<author pid="82/8707">Antonio Maccioni</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="g/FrancescoGuerra">Francesco Guerra 0001</author>
+<title>Using Descriptions for Explaining Entity Matches (Discussion Paper).</title>
+<pages>291-298</pages>
+<year>2021</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2994/paper31.pdf</ee>
+<crossref>conf/sebd/2021</crossref>
+<url>db/conf/sebd/sebd2021.html#PaganelliSMI021</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/NegiIMAKFJ21" mdate="2023-09-30">
+<author pid="221/2301">Parimarjan Negi</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author orcid="0000-0002-1279-1124" pid="175/1473">Ryan Marcus</author>
+<author pid="37/8397">Mohammad Alizadeh</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="305/2786">Marc T. Friedman</author>
+<author pid="24/8510">Alekh Jindal</author>
+<title>Steering Query Optimizers: A Practical Take on Big Data Workloads.</title>
+<pages>2557-2569</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3457568</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#NegiIMAKFJ21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BuonoPSI021" mdate="2022-04-09">
+<author pid="285/1283">Francesco Del Buono</author>
+<author pid="206/0032">Matteo Paganelli</author>
+<author pid="167/4586">Paolo Sottovia</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author orcid="0000-0001-6864-568X" pid="g/FrancescoGuerra">Francesco Guerra 0001</author>
+<title>Transforming ML Predictive Pipelines into SQL with MASQ.</title>
+<pages>2696-2700</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3452771</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#BuonoPSI021</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2110-02313" mdate="2021-10-08">
+<author pid="68/6811">Yiwen Zhu</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="33/4379">Abhishek Roy</author>
+<author pid="300/4248">Krishnadhan Das</author>
+<author pid="23/5134">Hiren Patel</author>
+<author pid="219/9681">Malay Bag</author>
+<author pid="190/3918">Hitesh Sharma</author>
+<author pid="24/8510">Alekh Jindal</author>
+<title>Phoebe: A Learning-based Checkpoint Optimizer.</title>
+<year>2021</year>
+<volume>abs/2110.02313</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2110.02313</ee>
+<url>db/journals/corr/corr2110.html#abs-2110-02313</url>
+</article>
+</r>
+<r><article key="journals/is/PaganelliSMIG20" mdate="2020-06-30">
+<author orcid="0000-0001-8119-895X" pid="206/0032">Matteo Paganelli</author>
+<author pid="167/4586">Paolo Sottovia</author>
+<author pid="82/8707">Antonio Maccioni</author>
+<author orcid="0000-0002-5756-8321" pid="49/10034">Matteo Interlandi</author>
+<author orcid="0000-0001-6864-568X" pid="g/FrancescoGuerra">Francesco Guerra 0001</author>
+<title>Explaining data with descriptions.</title>
+<pages>101549</pages>
+<year>2020</year>
+<volume>92</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2020.101549</ee>
+<url>db/journals/is/is92.html#PaganelliSMIG20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/AgrawalCCFGIJKK20" mdate="2024-04-02">
+<author pid="200/2342">Ashvin Agrawal</author>
+<author pid="248/7850">Rony Chatterjee</author>
+<author pid="c/CarloCurino">Carlo Curino</author>
+<author pid="08/7992">Avrilia Floratou</author>
+<author pid="248/7525">Neha Godwal</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="24/8510">Alekh Jindal</author>
+<author pid="59/7992">Konstantinos Karanasos</author>
+<author pid="159/6290">Subru Krishnan</author>
+<author pid="248/7832">Brian Kroth</author>
+<author pid="150/7163">Jyoti Leeka</author>
+<author pid="131/4168-1">Kwanghyun Park 0001</author>
+<author pid="23/5134">Hiren Patel</author>
+<author pid="71/7422">Olga Poppe</author>
+<author pid="135/5141">Fotis Psallidas</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="33/4379-8">Abhishek Roy 0008</author>
+<author pid="55/8723">Karla Saur</author>
+<author pid="08/2832">Rathijit Sen</author>
+<author pid="89/6502">Markus Weimer</author>
+<author pid="248/7522">Travis Wright</author>
+<author pid="68/6811">Yiwen Zhu</author>
+<title>Cloudy with high chance of DBMS: a 10-year prediction for Enterprise-Grade ML.</title>
+<year>2020</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2020/papers/p8-agrawal-cidr20.pdf</ee>
+<crossref>conf/cidr/2020</crossref>
+<url>db/conf/cidr/cidr2020.html#AgrawalCCFGIJKK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/KaranasosIPSPPX20" mdate="2022-07-22">
+<author pid="59/7992">Konstantinos Karanasos</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="135/5141">Fotis Psallidas</author>
+<author pid="08/2832">Rathijit Sen</author>
+<author pid="131/4168-1">Kwanghyun Park 0001</author>
+<author pid="01/734">Ivan Popivanov</author>
+<author pid="135/0135">Doris Xin</author>
+<author pid="182/0250">Supun Nakandala</author>
+<author pid="159/6290">Subru Krishnan</author>
+<author pid="89/6502">Markus Weimer</author>
+<author pid="98/809">Yuan Yu</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="c/CarloCurino">Carlo Curino</author>
+<title>Extending Relational Query Processing with ML Inference.</title>
+<year>2020</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2020/papers/p24-karanasos-cidr20.pdf</ee>
+<crossref>conf/cidr/2020</crossref>
+<url>db/conf/cidr/cidr2020.html#KaranasosIPSPPX20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/LiIP0Z20" mdate="2022-10-02">
+<author pid="32/238">Youfu Li</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="135/5141">Fotis Psallidas</author>
+<author orcid="0000-0002-8180-2886" pid="w/WeiWang">Wei Wang 0010</author>
+<author pid="z/CZaniolo">Carlo Zaniolo</author>
+<title>SEIZE User Desired Moments: Runtime Inspection for Parallel Dataflow Systems.</title>
+<pages>1199-1200</pages>
+<year>2020</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS47774.2020.00147</ee>
+<crossref>conf/icdcs/2020</crossref>
+<url>db/conf/icdcs/icdcs2020.html#LiIP0Z20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/KarlasIR0ZBELXW20" mdate="2021-03-09">
+<author pid="185/0781">Bojan Karlas</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="215/5117">C&#233;dric Renggli</author>
+<author pid="29/85">Wentao Wu 0001</author>
+<author pid="97/919-1">Ce Zhang 0001</author>
+<author pid="273/0112">Deepak Mukunthu Iyappan Babu</author>
+<author pid="273/0250">Jordan Edwards</author>
+<author pid="273/0104">Chris Lauren</author>
+<author pid="273/0174">Andy Xu</author>
+<author pid="89/6502">Markus Weimer</author>
+<title>Building Continuous Integration Services for Machine Learning.</title>
+<pages>2407-2415</pages>
+<year>2020</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/3394486.3403290</ee>
+<crossref>conf/kdd/2020</crossref>
+<url>db/conf/kdd/kdd2020.html#KarlasIR0ZBELXW20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/osdi/NakandalaSYKCWI20" mdate="2021-02-02">
+<author pid="182/0250">Supun Nakandala</author>
+<author pid="55/8723">Karla Saur</author>
+<author pid="217/6778">Gyeong-In Yu</author>
+<author pid="59/7992">Konstantinos Karanasos</author>
+<author pid="c/CarloCurino">Carlo Curino</author>
+<author pid="89/6502">Markus Weimer</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<title>A Tensor Compiler for Unified Machine Learning Prediction Serving.</title>
+<pages>899-917</pages>
+<year>2020</year>
+<booktitle>OSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/osdi20/presentation/nakandala</ee>
+<crossref>conf/osdi/2020</crossref>
+<url>db/conf/osdi/osdi2020.html#NakandalaSYKCWI20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-04804" mdate="2020-10-20">
+<author pid="182/0250">Supun Nakandala</author>
+<author pid="55/8723">Karla Saur</author>
+<author pid="217/6778">Gyeong-In Yu</author>
+<author pid="59/7992">Konstantinos Karanasos</author>
+<author pid="c/CarloCurino">Carlo Curino</author>
+<author pid="89/6502">Markus Weimer</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<title>A Tensor Compiler for Unified Machine Learning Prediction Serving.</title>
+<year>2020</year>
+<volume>abs/2010.04804</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.04804</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-04804</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/PaganelliSMI019" mdate="2022-04-09">
+<author orcid="0000-0001-8119-895X" pid="206/0032">Matteo Paganelli</author>
+<author pid="167/4586">Paolo Sottovia</author>
+<author pid="82/8707">Antonio Maccioni</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author orcid="0000-0001-6864-568X" pid="g/FrancescoGuerra">Francesco Guerra 0001</author>
+<title>Understanding Data in the Blink of an Eye.</title>
+<pages>2885-2888</pages>
+<year>2019</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3357384.3357849</ee>
+<crossref>conf/cikm/2019</crossref>
+<url>db/conf/cikm/cikm2019.html#PaganelliSMI019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloud/RamjitIWN19" mdate="2021-03-14">
+<author pid="252/6200">Lana Ramjit</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="41/3679">Eugene Wu 0002</author>
+<author pid="123/3350-1">Ravi Netravali</author>
+<title>Acorn: Aggressive Result Caching in Distributed Data Processing Frameworks.</title>
+<pages>206-219</pages>
+<year>2019</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/3357223.3362702</ee>
+<crossref>conf/cloud/2019</crossref>
+<url>db/conf/cloud/socc2019.html#RamjitIWN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isit/YangIGKAW19" mdate="2023-03-21">
+<author pid="04/4176">Yaoqing Yang</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="54/5626">Pulkit Grover</author>
+<author orcid="0000-0002-8060-5581" pid="31/2011">Soummya Kar</author>
+<author pid="48/8399">Saeed Amizadeh</author>
+<author pid="89/6502">Markus Weimer</author>
+<title>Coded Elastic Computing.</title>
+<pages>2654-2658</pages>
+<year>2019</year>
+<booktitle>ISIT</booktitle>
+<ee>https://doi.org/10.1109/ISIT.2019.8849212</ee>
+<crossref>conf/isit/2019</crossref>
+<url>db/conf/isit/isit2019.html#YangIGKAW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/AhmedABCCDDEFFG19" mdate="2021-10-14">
+<author pid="97/6801">Zeeshan Ahmed</author>
+<author pid="48/8399">Saeed Amizadeh</author>
+<author pid="13/1269">Mikhail Bilenko</author>
+<author pid="73/11003">Rogan Carr</author>
+<author pid="135/6840">Wei-Sheng Chin</author>
+<author pid="64/3188">Yael Dekel</author>
+<author pid="85/2654">Xavier Dupr&#233;</author>
+<author pid="241/6293">Vadim Eksarevskiy</author>
+<author pid="241/6311">Senja Filipi</author>
+<author pid="156/0184">Tom Finley</author>
+<author pid="02/648">Abhishek Goswami</author>
+<author orcid="0000-0002-8685-8360" pid="241/6232">Monte Hoover</author>
+<author pid="241/5899">Scott Inglis</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="241/5999">Najeeb Kazmi</author>
+<author pid="241/6055">Gleb Krivosheev</author>
+<author pid="241/6174">Pete Luferenko</author>
+<author pid="241/6153">Ivan Matantsev</author>
+<author pid="120/1311">Sergiy Matusevych</author>
+<author pid="47/442">Shahab Moradi</author>
+<author pid="241/5913">Gani Nazirov</author>
+<author pid="66/6098">Justin Ormont</author>
+<author pid="126/2957">Gal Oshri</author>
+<author pid="223/9977">Artidoro Pagnoni</author>
+<author pid="194/7624">Jignesh Parmar</author>
+<author pid="241/5960">Prabhat Roy</author>
+<author pid="241/5886">Mohammad Zeeshan Siddiqui</author>
+<author pid="89/6502">Markus Weimer</author>
+<author pid="120/9742">Shauheen Zahirazami</author>
+<author pid="68/6811">Yiwen Zhu</author>
+<title>Machine Learning at Microsoft with ML.NET.</title>
+<pages>2448-2458</pages>
+<year>2019</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/3292500.3330667</ee>
+<crossref>conf/kdd/2019</crossref>
+<url>db/conf/kdd/kdd2019.html#AhmedABCCDDEFFG19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-05715" mdate="2019-05-28">
+<author pid="97/6801">Zeeshan Ahmed</author>
+<author pid="48/8399">Saeed Amizadeh</author>
+<author pid="13/1269">Mikhail Bilenko</author>
+<author pid="73/11003">Rogan Carr</author>
+<author pid="135/6840">Wei-Sheng Chin</author>
+<author pid="64/3188">Yael Dekel</author>
+<author pid="85/2654">Xavier Dupr&#233;</author>
+<author pid="241/6293">Vadim Eksarevskiy</author>
+<author pid="241/6210">Eric Erhardt</author>
+<author pid="241/6204">Costin Eseanu</author>
+<author pid="241/6311">Senja Filipi</author>
+<author pid="156/0184">Tom Finley</author>
+<author pid="02/648">Abhishek Goswami</author>
+<author pid="241/6232">Monte Hoover</author>
+<author pid="241/5899">Scott Inglis</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="241/5875">Shon Katzenberger</author>
+<author pid="241/5999">Najeeb Kazmi</author>
+<author pid="241/6055">Gleb Krivosheev</author>
+<author pid="241/6174">Pete Luferenko</author>
+<author pid="241/6153">Ivan Matantsev</author>
+<author pid="120/1311">Sergiy Matusevych</author>
+<author pid="47/442">Shahab Moradi</author>
+<author pid="241/5913">Gani Nazirov</author>
+<author pid="66/6098">Justin Ormont</author>
+<author pid="126/2957">Gal Oshri</author>
+<author pid="223/9977">Artidoro Pagnoni</author>
+<author pid="194/7624">Jignesh Parmar</author>
+<author pid="241/5960">Prabhat Roy</author>
+<author pid="30/8024">Sarthak Shah</author>
+<author pid="241/5886">Mohammad Zeeshan Siddiqui</author>
+<author pid="89/6502">Markus Weimer</author>
+<author pid="120/9742">Shauheen Zahirazami</author>
+<author pid="68/6811">Yiwen Zhu</author>
+<title>Machine Learning at Microsoft with ML .NET.</title>
+<year>2019</year>
+<volume>abs/1905.05715</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.05715</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-05715</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-03822" mdate="2019-06-14">
+<author pid="217/6778">Gyeong-In Yu</author>
+<author pid="48/8399">Saeed Amizadeh</author>
+<author pid="223/9977">Artidoro Pagnoni</author>
+<author pid="34/3515">Byung-Gon Chun</author>
+<author pid="89/6502">Markus Weimer</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<title>Making Classical Machine Learning Pipelines Differentiable: A Neural Translation Approach.</title>
+<year>2019</year>
+<volume>abs/1906.03822</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.03822</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-03822</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-00084" mdate="2024-04-03">
+<author pid="200/2342">Ashvin Agrawal</author>
+<author pid="248/7850">Rony Chatterjee</author>
+<author pid="c/CarloCurino">Carlo Curino</author>
+<author pid="08/7992">Avrilia Floratou</author>
+<author pid="248/7525">Neha Godwal</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="24/8510">Alekh Jindal</author>
+<author pid="59/7992">Konstantinos Karanasos</author>
+<author pid="159/6290">Subru Krishnan</author>
+<author pid="248/7832">Brian Kroth</author>
+<author pid="150/7163">Jyoti Leeka</author>
+<author pid="131/4168-1">Kwanghyun Park 0001</author>
+<author pid="23/5134">Hiren Patel</author>
+<author pid="71/7422">Olga Poppe</author>
+<author pid="135/5141">Fotis Psallidas</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="33/4379-8">Abhishek Roy 0008</author>
+<author pid="55/8723">Karla Saur</author>
+<author pid="08/2832">Rathijit Sen</author>
+<author pid="89/6502">Markus Weimer</author>
+<author pid="248/7522">Travis Wright</author>
+<author pid="68/6811">Yiwen Zhu</author>
+<title>Cloudy with high chance of DBMS: A 10-year prediction for Enterprise-Grade ML.</title>
+<year>2019</year>
+<volume>abs/1909.00084</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.00084</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-00084</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-00231" mdate="2022-07-22">
+<author pid="59/7992">Konstantinos Karanasos</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="135/0135">Doris Xin</author>
+<author pid="135/5141">Fotis Psallidas</author>
+<author pid="08/2832">Rathijit Sen</author>
+<author pid="131/4168-1">Kwanghyun Park 0001</author>
+<author pid="01/734">Ivan Popivanov</author>
+<author pid="182/0250">Supun Nakandala</author>
+<author pid="159/6290">Subru Krishnan</author>
+<author pid="89/6502">Markus Weimer</author>
+<author pid="98/809">Yuan Yu</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="c/CarloCurino">Carlo Curino</author>
+<title>Extending Relational Query Processing with ML Inference.</title>
+<year>2019</year>
+<volume>abs/1911.00231</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.00231</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-00231</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-09536" mdate="2021-01-12">
+<author pid="135/5141">Fotis Psallidas</author>
+<author pid="68/6811">Yiwen Zhu</author>
+<author pid="185/0781">Bojan Karlas</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="08/7992">Avrilia Floratou</author>
+<author pid="59/7992">Konstantinos Karanasos</author>
+<author pid="29/85">Wentao Wu 0001</author>
+<author pid="97/919-1">Ce Zhang 0001</author>
+<author pid="159/6290">Subru Krishnan</author>
+<author pid="c/CarloCurino">Carlo Curino</author>
+<author pid="89/6502">Markus Weimer</author>
+<title>Data Science through the looking glass and what we found there.</title>
+<year>2019</year>
+<volume>abs/1912.09536</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.09536</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-09536</url>
+</article>
+</r>
+<r><article key="journals/debu/InterlandiC17" mdate="2020-03-10">
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="88/2774">Tyson Condie</author>
+<title>Supporting Data Provenance in Data-Intensive Scalable Computing Systems.</title>
+<pages>63-73</pages>
+<year>2018</year>
+<volume>41</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A18mar/p63.pdf</ee>
+<url>db/journals/debu/debu41.html#InterlandiC17</url>
+</article>
+</r>
+<r><article key="journals/debu/LeeSCWI18" mdate="2020-03-10">
+<author pid="144/8351">Yunseong Lee</author>
+<author pid="141/9129">Alberto Scolari</author>
+<author pid="34/3515">Byung-Gon Chun</author>
+<author pid="89/6502">Markus Weimer</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<title>From the Edge to the Cloud: Model Serving in ML.NET.</title>
+<pages>46-53</pages>
+<year>2018</year>
+<volume>41</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A18dec/p46.pdf</ee>
+<url>db/journals/debu/debu41.html#LeeSCWI18</url>
+</article>
+</r>
+<r><article key="journals/tplp/CondieDISYZ18" mdate="2020-02-13">
+<author pid="88/2774">Tyson Condie</author>
+<author pid="66/10236">Ariyam Das</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="135/4675">Alexander Shkapsky</author>
+<author pid="34/8165">Mohan Yang</author>
+<author pid="z/CZaniolo">Carlo Zaniolo</author>
+<title>Scaling-up reasoning and advanced analytics on BigData.</title>
+<pages>806-845</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>5-6</number>
+<ee>https://doi.org/10.1017/S1471068418000418</ee>
+<url>db/journals/tplp/tplp18.html#CondieDISYZ18</url>
+</article>
+</r>
+<r><article key="journals/tplp/InterlandiT18" mdate="2020-02-13">
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="t/LetiziaTanca">Letizia Tanca</author>
+<title>A datalog-based computational model for coordination-free, data-parallel systems.</title>
+<pages>874-927</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>5-6</number>
+<ee>https://doi.org/10.1017/S147106841800042X</ee>
+<url>db/journals/tplp/tplp18.html#InterlandiT18</url>
+</article>
+</r>
+<r><article key="journals/vldb/InterlandiESGTK18" mdate="2020-05-30">
+<author orcid="0000-0002-5756-8321" pid="49/10034">Matteo Interlandi</author>
+<author pid="227/1664">Ari Ekmekji</author>
+<author pid="30/2760">Kshitij Shah</author>
+<author pid="172/6776">Muhammad Ali Gulzar</author>
+<author pid="136/1039">Sai Deep Tetali</author>
+<author pid="56/5320">Miryung Kim</author>
+<author pid="93/4679">Todd D. Millstein</author>
+<author pid="88/2774">Tyson Condie</author>
+<title>Adding data provenance support to Apache Spark.</title>
+<pages>595-615</pages>
+<year>2018</year>
+<volume>27</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-017-0474-5</ee>
+<ee>https://www.wikidata.org/entity/Q90102704</ee>
+<url>db/journals/vldb/vldb27.html#InterlandiESGTK18</url>
+</article>
+</r>
+<r><inproceedings key="conf/amw/ZanioloYIDSC18" mdate="2023-03-10">
+<author pid="z/CZaniolo">Carlo Zaniolo</author>
+<author pid="34/8165">Mohan Yang</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="66/10236">Ariyam Das</author>
+<author pid="135/4675">Alexander Shkapsky</author>
+<author pid="88/2774">Tyson Condie</author>
+<title>Declarative BigData Algorithms via Aggregates and Relational Database Dependencies.</title>
+<year>2018</year>
+<booktitle>AMW</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2100/paper2.pdf</ee>
+<crossref>conf/amw/2018</crossref>
+<url>db/conf/amw/amw2018.html#ZanioloYIDSC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloud/LiLDI18" mdate="2022-10-02">
+<author pid="32/238">Youfu Li</author>
+<author pid="32/10146">Mingda Li</author>
+<author orcid="0000-0002-1146-4535" pid="19/5147">Ling Ding</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<title>RIOS: Runtime Integrated Optimizer for Spark.</title>
+<pages>275-287</pages>
+<year>2018</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/3267809.3267814</ee>
+<crossref>conf/cloud/2018</crossref>
+<url>db/conf/cloud/socc2018.html#LiLDI18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclp/ZanioloYIDSC18" mdate="2019-05-16">
+<author pid="z/CZaniolo">Carlo Zaniolo</author>
+<author pid="34/8165">Mohan Yang</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="66/10236">Ariyam Das</author>
+<author pid="135/4675">Alexander Shkapsky</author>
+<author pid="88/2774">Tyson Condie</author>
+<title>Declarative Algorithms in Datalog with Extrema: Their Formal Semantics Simplified.</title>
+<pages>9:1-9:3</pages>
+<year>2018</year>
+<booktitle>ICLP (Technical Communications)</booktitle>
+<ee type="oa">https://doi.org/10.4230/OASIcs.ICLP.2018.9</ee>
+<crossref>conf/iclp/2018</crossref>
+<url>db/conf/iclp/iclp2018.html#ZanioloYIDSC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/osdi/LeeSCSWI18" mdate="2021-02-02">
+<author pid="144/8351">Yunseong Lee</author>
+<author pid="141/9129">Alberto Scolari</author>
+<author pid="34/3515">Byung-Gon Chun</author>
+<author pid="94/5486">Marco Domenico Santambrogio</author>
+<author pid="89/6502">Markus Weimer</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<title>PRETZEL: Opening the Black Box of Machine Learning Prediction Serving Systems.</title>
+<pages>611-626</pages>
+<year>2018</year>
+<booktitle>OSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/osdi18/presentation/lee</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3291213</ee>
+<crossref>conf/osdi/2018</crossref>
+<url>db/conf/osdi/osdi2018.html#LeeSCSWI18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1807-02957" mdate="2018-08-13">
+<author pid="88/2774">Tyson Condie</author>
+<author pid="66/10236">Ariyam Das</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="135/4675">Alexander Shkapsky</author>
+<author pid="34/8165">Mohan Yang</author>
+<author pid="z/CZaniolo">Carlo Zaniolo</author>
+<title>Scaling-Up Reasoning and Advanced Analytics on BigData.</title>
+<year>2018</year>
+<volume>abs/1807.02957</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1807.02957</ee>
+<url>db/journals/corr/corr1807.html#abs-1807-02957</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-06115" mdate="2018-10-30">
+<author pid="144/8351">Yunseong Lee</author>
+<author pid="141/9129">Alberto Scolari</author>
+<author pid="34/3515">Byung-Gon Chun</author>
+<author pid="94/5486">Marco Domenico Santambrogio</author>
+<author pid="89/6502">Markus Weimer</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<title>PRETZEL: Opening the Black Box of Machine Learning Prediction Serving Systems.</title>
+<year>2018</year>
+<volume>abs/1810.06115</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.06115</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-06115</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-06411" mdate="2023-09-30">
+<author pid="04/4176">Yaoqing Yang</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="54/5626">Pulkit Grover</author>
+<author orcid="0000-0002-8060-5581" pid="31/2011">Soummya Kar</author>
+<author pid="48/8399">Saeed Amizadeh</author>
+<author pid="89/6502">Markus Weimer</author>
+<title>Coded Elastic Computing.</title>
+<year>2018</year>
+<volume>abs/1812.06411</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.06411</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-06411</url>
+</article>
+</r>
+<r><article key="journals/tocs/ChunCCCCCDIJJLL17" mdate="2018-11-06">
+<author pid="34/3515">Byung-Gon Chun</author>
+<author pid="88/2774">Tyson Condie</author>
+<author pid="89/3250">Yingda Chen</author>
+<author pid="32/3261">Brian Cho</author>
+<author pid="59/11411">Andrew Chung</author>
+<author pid="c/CarloCurino">Carlo Curino</author>
+<author pid="20/11411">Chris Douglas</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="208/0038">Beomyeol Jeon</author>
+<author pid="163/1557">Joo Seong Jeong</author>
+<author pid="205/6847">Gyewon Lee</author>
+<author pid="144/8351">Yunseong Lee</author>
+<author pid="163/0613">Tony Majestro</author>
+<author pid="m/DahliaMalkhi">Dahlia Malkhi</author>
+<author pid="120/1311">Sergiy Matusevych</author>
+<author pid="145/7726">Brandon Myers</author>
+<author pid="155/9912">Mariia Mykhailova</author>
+<author pid="63/1469">Shravan M. Narayanamurthy</author>
+<author pid="185/9311">Joseph Noor</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="07/1315">Sriram Rao</author>
+<author pid="54/129">Russell Sears</author>
+<author pid="74/4606">Beysim Sezgin</author>
+<author pid="205/6864">Taegeon Um</author>
+<author pid="163/0549">Julia Wang</author>
+<author pid="89/6502">Markus Weimer</author>
+<author pid="163/1540">Youngseok Yang</author>
+<title>Apache REEF: Retainable Evaluator Execution Framework.</title>
+<pages>5:1-5:31</pages>
+<year>2017</year>
+<volume>35</volume>
+<journal>ACM Trans. Comput. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3132037</ee>
+<url>db/journals/tocs/tocs35.html#ChunCCCCCDIJJLL17</url>
+</article>
+</r>
+<r><article key="journals/tplp/ZanioloYDSCI17" mdate="2020-02-13">
+<author pid="z/CZaniolo">Carlo Zaniolo</author>
+<author pid="34/8165">Mohan Yang</author>
+<author pid="66/10236">Ariyam Das</author>
+<author pid="135/4675">Alexander Shkapsky</author>
+<author pid="88/2774">Tyson Condie</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<title>Fixpoint semantics and optimization of recursive Datalog programs with aggregates.</title>
+<pages>1048-1065</pages>
+<year>2017</year>
+<volume>17</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>5-6</number>
+<ee>https://doi.org/10.1017/S1471068417000436</ee>
+<url>db/journals/tplp/tplp17.html#ZanioloYDSCI17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cloud/GulzarIHLCK17" mdate="2020-05-30">
+<author pid="172/6776">Muhammad Ali Gulzar</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="182/6753">Xueyuan Han</author>
+<author pid="32/10146">Mingda Li</author>
+<author pid="88/2774">Tyson Condie</author>
+<author pid="56/5320">Miryung Kim</author>
+<title>Automated debugging in data-intensive scalable computing.</title>
+<pages>520-534</pages>
+<year>2017</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/3127479.3131624</ee>
+<ee>https://www.wikidata.org/entity/Q90124149</ee>
+<crossref>conf/cloud/2017</crossref>
+<url>db/conf/cloud/socc2017.html#GulzarIHLCK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/ScolariLWI17" mdate="2023-03-23">
+<author orcid="0000-0002-5862-8787" pid="141/9129">Alberto Scolari</author>
+<author pid="144/8351">Yunseong Lee</author>
+<author pid="89/6502">Markus Weimer</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<title>Towards Accelerating Generic Machine Learning Prediction Pipelines.</title>
+<pages>431-434</pages>
+<year>2017</year>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD.2017.76</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCD.2017.76</ee>
+<crossref>conf/iccd/2017</crossref>
+<url>db/conf/iccd/iccd2017.html#ScolariLWI17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ieeehpcs/InterlandiLB017" mdate="2018-11-02">
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="139/2367">Julien Lacroix</author>
+<author pid="b/OmarBoucelma">Omar Boucelma</author>
+<author orcid="0000-0001-6864-568X" pid="g/FrancescoGuerra">Francesco Guerra 0001</author>
+<title>Cleaning MapReduce Workflows.</title>
+<pages>74-78</pages>
+<year>2017</year>
+<booktitle>HPCS</booktitle>
+<ee>https://doi.org/10.1109/HPCS.2017.22</ee>
+<crossref>conf/ieeehpcs/2017</crossref>
+<url>db/conf/ieeehpcs/ieeehpcs2017.html#InterlandiLB017</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GulzarICK17" mdate="2018-11-06">
+<author pid="172/6776">Muhammad Ali Gulzar</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="88/2774">Tyson Condie</author>
+<author pid="56/5320">Miryung Kim</author>
+<title>Debugging Big Data Analytics in Spark with <i>BigDebug</i>.</title>
+<pages>1627-1630</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3058737</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#GulzarICK17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/ZanioloYIDSC17" mdate="2018-08-13">
+<author pid="z/CZaniolo">Carlo Zaniolo</author>
+<author pid="34/8165">Mohan Yang</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="66/10236">Ariyam Das</author>
+<author pid="135/4675">Alexander Shkapsky</author>
+<author pid="88/2774">Tyson Condie</author>
+<title>Fixpoint Semantics and Optimization of Recursive Datalog Programs with Aggregates.</title>
+<year>2017</year>
+<volume>abs/1707.05681</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1707.05681</ee>
+<url>db/journals/corr/corr1707.html#ZanioloYIDSC17</url>
+</article>
+</r>
+<r><article key="journals/is/BergamaschiGILV16" mdate="2021-10-14">
+<author orcid="0000-0001-8087-6587" pid="b/SBergamaschi">Sonia Bergamaschi</author>
+<author orcid="0000-0001-6864-568X" pid="g/FrancescoGuerra">Francesco Guerra 0001</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="08/694">Raquel Trillo Lado</author>
+<author orcid="0000-0001-6332-0296" pid="v/YannisVelegrakis">Yannis Velegrakis</author>
+<title>Combining user and database perspective for solving keyword queries over relational databases.</title>
+<pages>1-19</pages>
+<year>2016</year>
+<volume>55</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2015.07.005</ee>
+<url>db/journals/is/is55.html#BergamaschiGILV16</url>
+</article>
+</r>
+<r><inproceedings key="conf/amw/ZanioloYDI16" mdate="2023-03-10">
+<author pid="z/CZaniolo">Carlo Zaniolo</author>
+<author pid="34/8165">Mohan Yang</author>
+<author pid="66/10236">Ariyam Das</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<title>The Magic of Pushing Extrema into Recursion: Simple, Powerful Datalog Programs.</title>
+<year>2016</year>
+<booktitle>AMW</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1644/paper16.pdf</ee>
+<crossref>conf/amw/2016</crossref>
+<url>db/conf/amw/amw2016.html#ZanioloYDI16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloud/HuangWYFICC16" mdate="2020-05-30">
+<author pid="47/10313">Muhuan Huang</author>
+<author pid="52/328-10">Di Wu 0010</author>
+<author pid="144/6124">Cody Hao Yu</author>
+<author pid="44/10032">Zhenman Fang</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="88/2774">Tyson Condie</author>
+<author pid="c/JasonCong">Jason Cong</author>
+<title>Programming and Runtime Support to Blaze FPGA Accelerator Deployment at Datacenter Scale.</title>
+<pages>456-469</pages>
+<year>2016</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/2987550.2987569</ee>
+<ee>https://www.wikidata.org/entity/Q87605997</ee>
+<crossref>conf/cloud/2016</crossref>
+<url>db/conf/cloud/socc2016.html#HuangWYFICC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloud/InterlandiTGNCK16" mdate="2020-05-30">
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="136/1039">Sai Deep Tetali</author>
+<author pid="172/6776">Muhammad Ali Gulzar</author>
+<author pid="185/9311">Joseph Noor</author>
+<author pid="88/2774">Tyson Condie</author>
+<author pid="56/5320">Miryung Kim</author>
+<author pid="93/4679">Todd D. Millstein</author>
+<title>Optimizing Interactive Development of Data-Intensive Applications.</title>
+<pages>510-522</pages>
+<year>2016</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/2987550.2987565</ee>
+<ee>https://www.wikidata.org/entity/Q87824917</ee>
+<crossref>conf/cloud/2016</crossref>
+<url>db/conf/cloud/socc2016.html#InterlandiTGNCK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hotcloud/GulzarHIMTMK16" mdate="2021-02-09">
+<author pid="172/6776">Muhammad Ali Gulzar</author>
+<author pid="182/6753">Xueyuan Han</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="182/6249">Shaghayegh Mardani</author>
+<author pid="136/1039">Sai Deep Tetali</author>
+<author pid="93/4679">Todd D. Millstein</author>
+<author pid="56/5320">Miryung Kim</author>
+<title>Interactive Debugging for Big Data Analytics.</title>
+<year>2016</year>
+<booktitle>HotCloud</booktitle>
+<ee type="oa">https://www.usenix.org/conference/hotcloud16/workshop-program/presentation/gulzar</ee>
+<crossref>conf/hotcloud/2016</crossref>
+<url>db/conf/hotcloud/hotcloud2016.html#GulzarHIMTMK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/GulzarIYTCMK16" mdate="2021-08-10">
+<author pid="172/6776">Muhammad Ali Gulzar</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="171/4914">Seunghyun Yoo</author>
+<author pid="136/1039">Sai Deep Tetali</author>
+<author pid="88/2774">Tyson Condie</author>
+<author pid="93/4679">Todd D. Millstein</author>
+<author pid="56/5320">Miryung Kim</author>
+<title>BigDebug: debugging primitives for interactive big data processing in spark.</title>
+<pages>784-795</pages>
+<year>2016</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/2884781.2884813</ee>
+<ee>https://ieeexplore.ieee.org/document/7886956/</ee>
+<ee>https://www.wikidata.org/entity/Q31113336</ee>
+<crossref>conf/icse/2016</crossref>
+<url>db/conf/icse/icse2016.html#GulzarIYTCMK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ShkapskyYICCZ16" mdate="2018-11-14">
+<author pid="135/4675">Alexander Shkapsky</author>
+<author pid="34/8165">Mohan Yang</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="11/7424">Hsuan Chiu</author>
+<author pid="88/2774">Tyson Condie</author>
+<author pid="z/CZaniolo">Carlo Zaniolo</author>
+<title>Big Data Analytics with Datalog Queries on Spark.</title>
+<pages>1135-1149</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2915229</ee>
+<ee>https://www.wikidata.org/entity/Q36408599</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#ShkapskyYICCZ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/GulzarICK16" mdate="2018-11-06">
+<author pid="172/6776">Muhammad Ali Gulzar</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="88/2774">Tyson Condie</author>
+<author pid="56/5320">Miryung Kim</author>
+<title>BigDebug: interactive debugger for big data analytics in Apache Spark.</title>
+<pages>1033-1037</pages>
+<year>2016</year>
+<booktitle>SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/2950290.2983930</ee>
+<crossref>conf/sigsoft/2016</crossref>
+<url>db/conf/sigsoft/fse2016.html#GulzarICK16</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/InterlandiSTGYK15" mdate="2020-04-25">
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="30/2760">Kshitij Shah</author>
+<author pid="136/1039">Sai Deep Tetali</author>
+<author pid="172/6776">Muhammad Ali Gulzar</author>
+<author pid="171/4914">Seunghyun Yoo</author>
+<author pid="56/5320">Miryung Kim</author>
+<author pid="93/4679">Todd D. Millstein</author>
+<author pid="88/2774">Tyson Condie</author>
+<title>Titian: Data Provenance Support in Spark.</title>
+<pages>216-227</pages>
+<year>2015</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p216-interlandi.pdf</ee>
+<ee>https://doi.org/10.14778/2850583.2850595</ee>
+<url>db/journals/pvldb/pvldb9.html#InterlandiSTGYK15</url>
+</article>
+</r>
+<r><inproceedings key="conf/amw/InterlandiT15" mdate="2023-03-10">
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="t/LetiziaTanca">Letizia Tanca</author>
+<title>On the CALM Principle for BSP Computation.</title>
+<year>2015</year>
+<booktitle>AMW</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1378/AMW_2015_paper_27.pdf</ee>
+<crossref>conf/amw/2015</crossref>
+<url>db/conf/amw/amw2015.html#InterlandiT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/InterlandiT15" mdate="2023-03-23">
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Proof positive and negative in data cleaning.</title>
+<pages>18-29</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113269</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113269</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#InterlandiT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sebd/InterlandiSB14" mdate="2014-11-14">
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="151/8293">Giovanni Simonini</author>
+<author pid="b/SBergamaschi">Sonia Bergamaschi</author>
+<title>Towards Declarative Imperative Data-parallel Systems.</title>
+<pages>97-104</pages>
+<year>2014</year>
+<booktitle>SEBD</booktitle>
+<crossref>conf/sebd/2014</crossref>
+<url>db/conf/sebd/sebd2014.html#InterlandiSB14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/InterlandiT14" mdate="2018-08-13">
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="t/LetiziaTanca">Letizia Tanca</author>
+<title>On the CALM Principle for Bulk Synchronous Parallel Computation.</title>
+<year>2014</year>
+<volume>abs/1405.7264</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1405.7264</ee>
+<url>db/journals/corr/corr1405.html#InterlandiT14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BergamaschiGILV13" mdate="2022-12-07">
+<author pid="b/SBergamaschi">Sonia Bergamaschi</author>
+<author orcid="0000-0001-6864-568X" pid="g/FrancescoGuerra">Francesco Guerra 0001</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="08/694">Raquel Trillo Lado</author>
+<author pid="v/YannisVelegrakis">Yannis Velegrakis</author>
+<title>QUEST: A Keyword Search System for Relational Data based on Semantic and Machine Learning Techniques.</title>
+<pages>1222-1225</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p1222-guerra.pdf</ee>
+<ee>https://doi.org/10.14778/2536274.2536281</ee>
+<url>db/journals/pvldb/pvldb6.html#BergamaschiGILV13</url>
+</article>
+</r>
+<r><inproceedings key="conf/amw/InterlandiTB13" mdate="2023-03-10">
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="t/LetiziaTanca">Letizia Tanca</author>
+<author pid="b/SBergamaschi">Sonia Bergamaschi</author>
+<title>Datalog in Time and Space, Synchronously.</title>
+<year>2013</year>
+<booktitle>AMW</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1087/paper2.pdf</ee>
+<crossref>conf/amw/2013</crossref>
+<url>db/conf/amw/amw2013.html#InterlandiTB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sebd/BergamaschiGIRT13" mdate="2017-11-14">
+<author pid="b/SBergamaschi">Sonia Bergamaschi</author>
+<author pid="g/FrancescoGuerra">Francesco Guerra 0001</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="60/10315">Silvia Rota</author>
+<author pid="08/694">Raquel Trillo</author>
+<author pid="v/YannisVelegrakis">Yannis Velegrakis</author>
+<title>Using a HMM based approach for mapping keyword queries into database terms.</title>
+<pages>239-246</pages>
+<year>2013</year>
+<booktitle>SEBD</booktitle>
+<crossref>conf/sebd/2013</crossref>
+<url>db/conf/sebd/sebd2013.html#BergamaschiGIRT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/datalog/Interlandi12" mdate="2017-05-26">
+<author pid="49/10034">Matteo Interlandi</author>
+<title>Reasoning about Knowledge in Distributed Systems Using Datalog.</title>
+<pages>99-110</pages>
+<year>2012</year>
+<booktitle>Datalog</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-32925-8_11</ee>
+<crossref>conf/datalog/2012</crossref>
+<url>db/conf/datalog/datalog2012.html#Interlandi12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/Interlandi12" mdate="2017-05-25">
+<author pid="49/10034">Matteo Interlandi</author>
+<title>Knowlog: A Declarative Language for Reasoning about Knowledge in Distributed Systems.</title>
+<pages>572-577</pages>
+<year>2012</year>
+<booktitle>ER</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-34002-4_47</ee>
+<crossref>conf/er/2012</crossref>
+<url>db/conf/er/er2012.html#Interlandi12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BergamaschiILPV12" mdate="2023-03-23">
+<author orcid="0000-0001-8087-6587" pid="b/SBergamaschi">Sonia Bergamaschi</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="69/5213">Mario Longo</author>
+<author orcid="0000-0002-3345-176X" pid="60/3612">Laura Po</author>
+<author orcid="0000-0001-9262-2939" pid="65/4364">Maurizio Vincini</author>
+<title>A Meta-language for MDX Queries in eLog Business Solution.</title>
+<pages>1417-1428</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.100</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2012.100</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#BergamaschiILPV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sebd/Interlandi12" mdate="2012-10-18">
+<author pid="49/10034">Matteo Interlandi</author>
+<title>Enhancing Datalog with Epistemic Operators to Reason About Knowledge in Distributed Systems.</title>
+<pages>265-270</pages>
+<year>2012</year>
+<booktitle>SEBD</booktitle>
+<ee>http://sebd2012.dei.unipd.it/documents/188475/d5a010bb-df0f-481a-960a-4b235fbac95d</ee>
+<crossref>conf/sebd/2012</crossref>
+<url>db/conf/sebd/sebd2012.html#Interlandi12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sebd/BergamaschiFIV11" mdate="2012-05-28">
+<author pid="b/SBergamaschi">Sonia Bergamaschi</author>
+<author pid="79/11437">Fabio Ferrari</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="65/4364">Maurizio Vincini</author>
+<title>MediaPresenter, a Web Platform for Multimedia Content Management.</title>
+<pages>437-</pages>
+<year>2011</year>
+<booktitle>SEBD</booktitle>
+<crossref>conf/sebd/2011</crossref>
+<url>db/conf/sebd/sebd2011.html#BergamaschiFIV11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hase/PazziIP10" mdate="2023-03-24">
+<author orcid="0000-0003-4112-6972" pid="13/2923">Luca Pazzi</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="52/1409">Marco Pradelli</author>
+<title>Automatic Fault Behavior Detection and Modeling by a State-Based Specification Method.</title>
+<pages>166-167</pages>
+<year>2010</year>
+<booktitle>HASE</booktitle>
+<ee>https://doi.org/10.1109/HASE.2010.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HASE.2010.17</ee>
+<crossref>conf/hase/2010</crossref>
+<url>db/conf/hase/hase2010.html#PazziIP10</url>
+</inproceedings>
+</r>
+<coauthors n="211" nc="2">
+<co c="0"><na f="a/Agarwal:Ankita" pid="201/5636">Ankita Agarwal</na></co>
+<co c="0"><na f="a/Agrawal:Ashvin" pid="200/2342">Ashvin Agrawal</na></co>
+<co c="0"><na f="a/Ahmed:Zeeshan" pid="97/6801">Zeeshan Ahmed</na></co>
+<co c="0"><na f="a/Alizadeh:Mohammad" pid="37/8397">Mohammad Alizadeh</na></co>
+<co c="0"><na f="a/Alonso:Gustavo" pid="a/GustavoAlonso">Gustavo Alonso</na></co>
+<co c="0"><na f="a/Alotaibi:Rana" pid="243/2494">Rana Alotaibi</na></co>
+<co c="0"><na f="a/Amizadeh:Saeed" pid="48/8399">Saeed Amizadeh</na></co>
+<co c="0"><na f="a/Arulraj:Joy" pid="127/3025">Joy Arulraj</na></co>
+<co c="0"><na f="a/Asada:Yuki" pid="328/6465">Yuki Asada</na></co>
+<co c="0"><na f="b/Babu:Deepak_Mukunthu_Iyappan" pid="273/0112">Deepak Mukunthu Iyappan Babu</na></co>
+<co c="0"><na f="b/Bag:Malay" pid="219/9681">Malay Bag</na></co>
+<co c="0"><na f="b/Banda:Dalitso" pid="274/6051">Dalitso Banda</na></co>
+<co c="0"><na f="b/Bergamaschi:Sonia" pid="b/SBergamaschi">Sonia Bergamaschi</na></co>
+<co c="0"><na f="b/Bilenko:Mikhail" pid="13/1269">Mikhail Bilenko</na></co>
+<co c="0"><na f="b/Bindschaedler:Laurent" pid="116/5046">Laurent Bindschaedler</na></co>
+<co c="0"><na f="b/Blanas:Spyros" pid="65/5338">Spyros Blanas</na></co>
+<co c="0"><na f="b/Boehm_0001:Matthias" pid="75/887">Matthias Boehm 0001</na></co>
+<co c="0"><na f="b/Boucelma:Omar" pid="b/OmarBoucelma">Omar Boucelma</na></co>
+<co c="0"><na f="b/Buono:Francesco_Del" pid="285/1283">Francesco Del Buono</na></co>
+<co c="0"><na f="c/Cahoon:Joyce" pid="243/9227">Joyce Cahoon</na></co>
+<co c="0"><na f="c/Camacho=Rodr=iacute=guez:Jes=uacute=s" pid="26/8398">Jes&#250;s Camacho-Rodr&#237;guez</na></co>
+<co c="0"><na f="c/Cao:Jiashen" pid="215/3492">Jiashen Cao</na></co>
+<co c="0"><na f="c/Carr:Rogan" pid="73/11003">Rogan Carr</na></co>
+<co c="0"><na f="c/Chatterjee:Rony" pid="248/7850">Rony Chatterjee</na></co>
+<co c="0"><na f="c/Chen:Yingda" pid="89/3250">Yingda Chen</na></co>
+<co c="0"><na f="c/Cheng_0005:Peng" pid="76/185-5">Peng Cheng 0005</na></co>
+<co c="0"><na f="c/Chin:Wei=Sheng" pid="135/6840">Wei-Sheng Chin</na></co>
+<co c="0"><na f="c/Chiu:Hsuan" pid="11/7424">Hsuan Chiu</na></co>
+<co c="0"><na f="c/Cho:Brian" pid="32/3261">Brian Cho</na></co>
+<co c="0"><na f="c/Chun:Byung=Gon" pid="34/3515">Byung-Gon Chun</na></co>
+<co c="0"><na f="c/Chundatt:Bibin" pid="348/7815">Bibin Chundatt</na></co>
+<co c="0"><na f="c/Chung:Andrew" pid="59/11411">Andrew Chung</na></co>
+<co c="0"><na f="c/Condie:Tyson" pid="88/2774">Tyson Condie</na></co>
+<co c="0"><na f="c/Cong:Jason" pid="c/JasonCong">Jason Cong</na></co>
+<co c="0"><na f="c/Cui:Wei" pid="42/3805">Wei Cui</na></co>
+<co c="0"><na f="c/Curino:Carlo" pid="c/CarloCurino">Carlo Curino</na></co>
+<co c="0"><na f="d/Dao:David" pid="187/5498">David Dao</na></co>
+<co c="0"><na f="d/Das:Ariyam" pid="66/10236">Ariyam Das</na></co>
+<co c="0"><na f="d/Das:Krishnadhan" pid="300/4248">Krishnadhan Das</na></co>
+<co c="0"><na f="d/Dekel:Yael" pid="64/3188">Yael Dekel</na></co>
+<co c="0"><na f="d/Ding:Ling" pid="19/5147">Ling Ding</na></co>
+<co c="0"><na f="d/Douglas:Chris" pid="20/11411">Chris Douglas</na></co>
+<co c="0"><na f="d/Dupr=eacute=:Xavier" pid="85/2654">Xavier Dupr&#233;</na></co>
+<co c="0"><na f="d/Dutta:Niharika" pid="348/7886">Niharika Dutta</na></co>
+<co c="0"><na f="e/Edwards:Jordan" pid="273/0250">Jordan Edwards</na></co>
+<co c="0"><na f="e/Ekmekji:Ari" pid="227/1664">Ari Ekmekji</na></co>
+<co c="0"><na f="e/Eksarevskiy:Vadim" pid="241/6293">Vadim Eksarevskiy</na></co>
+<co c="0"><na f="e/Emani:K=_Venkatesh" pid="181/5872">K. Venkatesh Emani</na></co>
+<co c="0"><na f="e/Erhardt:Eric" pid="241/6210">Eric Erhardt</na></co>
+<co c="0"><na f="e/Eseanu:Costin" pid="241/6204">Costin Eseanu</na></co>
+<co c="0"><na f="f/Fang:Zhenman" pid="44/10032">Zhenman Fang</na></co>
+<co c="0"><na f="f/Ferrari:Fabio" pid="79/11437">Fabio Ferrari</na></co>
+<co c="0"><na f="f/Filipi:Senja" pid="241/6311">Senja Filipi</na></co>
+<co c="0"><na f="f/Finley:Tom" pid="156/0184">Tom Finley</na></co>
+<co c="0"><na f="f/Floratou:Avrilia" pid="08/7992">Avrilia Floratou</na></co>
+<co c="0"><na f="f/Fogarty:Andrew" pid="273/7169">Andrew Fogarty</na></co>
+<co c="0"><na f="f/Friedman:Marc_T=" pid="305/2786">Marc T. Friedman</na></co>
+<co c="0"><na f="f/Fu:Victor" pid="328/6205">Victor Fu</na></co>
+<co c="0"><na f="g/Gandhi:Apurva" pid="261/9216">Apurva Gandhi</na></co>
+<co c="0"><na f="g/Gemawat:Advitya" pid="288/0004">Advitya Gemawat</na></co>
+<co c="0"><na f="g/Ghazanfari:Nasim" pid="183/8535">Nasim Ghazanfari</na></co>
+<co c="0"><na f="g/Godwal:Neha" pid="248/7525">Neha Godwal</na></co>
+<co c="0"><na f="g/Goswami:Abhishek" pid="02/648">Abhishek Goswami</na></co>
+<co c="0"><na f="g/Grover:Pulkit" pid="54/5626">Pulkit Grover</na></co>
+<co c="0"><na f="g/Gruenheid:Anja" pid="81/10578">Anja Gruenheid</na></co>
+<co c="0"><na f="g/Guerra_0001:Francesco" pid="g/FrancescoGuerra">Francesco Guerra 0001</na></co>
+<co c="0"><na f="g/Gulzar:Muhammad_Ali" pid="172/6776">Muhammad Ali Gulzar</na></co>
+<co c="0"><na f="g/Gupta:Vivek" pid="71/5332">Vivek Gupta</na></co>
+<co c="0"><na f="h/Han:Xueyuan" pid="182/6753">Xueyuan Han</na></co>
+<co c="0"><na f="h/Haynes:Brandon" pid="180/5761">Brandon Haynes</na></co>
+<co c="0"><na f="h/He_0002:Dong" pid="16/5283-2">Dong He 0002</na></co>
+<co c="0"><na f="h/Henkel:Jordan" pid="217/1922">Jordan Henkel</na></co>
+<co c="0"><na f="h/Hoover:Monte" pid="241/6232">Monte Hoover</na></co>
+<co c="0"><na f="h/Hosn:Rafah" pid="72/2879">Rafah Hosn</na></co>
+<co c="0"><na f="h/Huang:Muhuan" pid="47/10313">Muhuan Huang</na></co>
+<co c="0"><na f="i/Inglis:Scott" pid="241/5899">Scott Inglis</na></co>
+<co c="0"><na f="i/Iyer:Minu" pid="295/3511">Minu Iyer</na></co>
+<co c="0"><na f="j/Jeon:Beomyeol" pid="208/0038">Beomyeol Jeon</na></co>
+<co c="0"><na f="j/Jeong:Joo_Seong" pid="163/1557">Joo Seong Jeong</na></co>
+<co c="0"><na f="j/Jermaine:Chris" pid="j/ChrisJermaine">Chris Jermaine</na></co>
+<co c="0"><na f="j/Jindal:Alekh" pid="24/8510">Alekh Jindal</na></co>
+<co c="0"><na f="j/Jurgens:Nick" pid="295/3659">Nick Jurgens</na></co>
+<co c="0"><na f="k/Kar:Soummya" pid="31/2011">Soummya Kar</na></co>
+<co c="0"><na f="k/Karanasos:Konstantinos" pid="59/7992">Konstantinos Karanasos</na></co>
+<co c="0"><na f="k/Karlas:Bojan" pid="185/0781">Bojan Karlas</na></co>
+<co c="0"><na f="k/Katzenberger:Shon" pid="241/5875">Shon Katzenberger</na></co>
+<co c="0"><na f="k/Kazmi:Najeeb" pid="241/5999">Najeeb Kazmi</na></co>
+<co c="0"><na f="k/Khushalani:Sumeet" pid="348/7770">Sumeet Khushalani</na></co>
+<co c="0"><na f="k/Kim:Hyesoon" pid="87/5743">Hyesoon Kim</na></co>
+<co c="0"><na f="k/Kim:Miryung" pid="56/5320">Miryung Kim</na></co>
+<co c="0"><na f="k/Kim:Sehoon" pid="93/2394">Sehoon Kim</na></co>
+<co c="0"><na f="k/Koutsoukos:Dimitrios" pid="195/1301">Dimitrios Koutsoukos</na></co>
+<co c="0"><na f="k/Kraska:Tim" pid="26/6037">Tim Kraska</na></co>
+<co c="0"><na f="k/Krishnan:Subru" pid="159/6290">Subru Krishnan</na></co>
+<co c="0"><na f="k/Krivosheev:Gleb" pid="241/6055">Gleb Krivosheev</na></co>
+<co c="0"><na f="k/Kroth:Brian" pid="248/7832">Brian Kroth</na></co>
+<co c="0"><na f="k/Kumar:Manoj" pid="58/1076">Manoj Kumar</na></co>
+<co c="0"><na f="l/Lacroix:Julien" pid="139/2367">Julien Lacroix</na></co>
+<co c="0" n="2"><na f="l/Lado:Raquel_Trillo" pid="08/694">Raquel Trillo Lado</na><na>Raquel Trillo</na></co>
+<co c="0"><na f="l/Lauren:Chris" pid="273/0104">Chris Lauren</na></co>
+<co c="0"><na f="l/Lee:Gyewon" pid="205/6847">Gyewon Lee</na></co>
+<co c="0"><na f="l/Lee:Yunseong" pid="144/8351">Yunseong Lee</na></co>
+<co c="0"><na f="l/Leeka:Jyoti" pid="150/7163">Jyoti Leeka</na></co>
+<co c="0"><na f="l/Li_0026:Bo" pid="50/3402-26">Bo Li 0026</na></co>
+<co c="0"><na f="l/Li:Mingda" pid="32/10146">Mingda Li</na></co>
+<co c="0"><na f="l/Li:Yinan" pid="49/612">Yinan Li</na></co>
+<co c="0"><na f="l/Li:Youfu" pid="32/238">Youfu Li</na></co>
+<co c="0"><na f="l/Lie:Karlen" pid="322/1455">Karlen Lie</na></co>
+<co c="0"><na f="l/Liu:Chunwei" pid="147/1343">Chunwei Liu</na></co>
+<co c="0"><na f="l/Liu:Rui" pid="42/469">Rui Liu</na></co>
+<co c="0"><na f="l/Longo:Mario" pid="69/5213">Mario Longo</na></co>
+<co c="0"><na f="l/Luferenko:Pete" pid="241/6174">Pete Luferenko</na></co>
+<co c="0"><na f="m/Maccioni:Antonio" pid="82/8707">Antonio Maccioni</na></co>
+<co c="0"><na f="m/Majestro:Tony" pid="163/0613">Tony Majestro</na></co>
+<co c="0"><na f="m/Malkhi:Dahlia" pid="m/DahliaMalkhi">Dahlia Malkhi</na></co>
+<co c="0"><na f="m/Marcus:Ryan" pid="175/1473">Ryan Marcus</na></co>
+<co c="0"><na f="m/Mardani:Shaghayegh" pid="182/6249">Shaghayegh Mardani</na></co>
+<co c="0"><na f="m/Matantsev:Ivan" pid="241/6153">Ivan Matantsev</na></co>
+<co c="0"><na f="m/Matusevych:Sergiy" pid="120/1311">Sergiy Matusevych</na></co>
+<co c="0"><na f="m/Millstein:Todd_D=" pid="93/4679">Todd D. Millstein</na></co>
+<co c="0"><na f="m/Mineiro:Paul" pid="35/5613">Paul Mineiro</na></co>
+<co c="0"><na f="m/Mittal:Minni" pid="246/9804">Minni Mittal</na></co>
+<co c="0"><na f="m/Mo:Jinghui" pid="27/9833">Jinghui Mo</na></co>
+<co c="0"><na f="m/Moradi:Shahab" pid="47/442">Shahab Moradi</na></co>
+<co c="0"><na f="m/M=uuml=ller_0024:Andreas" pid="38/4335-24">Andreas M&#252;ller 0024</na></co>
+<co c="0"><na f="m/Muthyala:Kartheek" pid="158/4409">Kartheek Muthyala</na></co>
+<co c="0"><na f="m/Myers:Brandon" pid="145/7726">Brandon Myers</na></co>
+<co c="0"><na f="m/Mykhailova:Mariia" pid="155/9912">Mariia Mykhailova</na></co>
+<co c="0"><na f="n/Nagulapalli:Harsha" pid="348/7879">Harsha Nagulapalli</na></co>
+<co c="0" n="2"><na f="n/Nakandala:Supun" pid="182/0250">Supun Nakandala</na><na>Supun Chathuranga Nakandala</na></co>
+<co c="0"><na f="n/Narayanamurthy:Shravan_M=" pid="63/1469">Shravan M. Narayanamurthy</na></co>
+<co c="0"><na f="n/Nazirov:Gani" pid="241/5913">Gani Nazirov</na></co>
+<co c="0"><na f="n/Negi:Parimarjan" pid="221/2301">Parimarjan Negi</na></co>
+<co c="0"><na f="n/Netravali:Ravi" pid="123/3350-1">Ravi Netravali</na></co>
+<co c="0"><na f="n/Noor:Joseph" pid="185/9311">Joseph Noor</na></co>
+<co c="0"><na f="n/Nosakhare:Ehi" pid="275/3836">Ehi Nosakhare</na></co>
+<co c="0"><na f="o/Ormont:Justin" pid="66/6098">Justin Ormont</na></co>
+<co c="0"><na f="o/Oshri:Gal" pid="126/2957">Gal Oshri</na></co>
+<co c="0"><na f="p/Paganelli:Matteo" pid="206/0032">Matteo Paganelli</na></co>
+<co c="0"><na f="p/Pagnoni:Artidoro" pid="223/9977">Artidoro Pagnoni</na></co>
+<co c="0"><na f="p/Park_0001:Kwanghyun" pid="131/4168-1">Kwanghyun Park 0001</na></co>
+<co c="0"><na f="p/Park:Yoonjae" pid="130/0322">Yoonjae Park</na></co>
+<co c="0"><na f="p/Parmar:Jignesh" pid="194/7624">Jignesh Parmar</na></co>
+<co c="0"><na f="p/Patel:Hiren" pid="23/5134">Hiren Patel</na></co>
+<co c="0"><na f="p/Pavlenko:Anna" pid="287/9591">Anna Pavlenko</na></co>
+<co c="1"><na f="p/Pazzi:Luca" pid="13/2923">Luca Pazzi</na></co>
+<co c="0"><na f="p/Po:Laura" pid="60/3612">Laura Po</na></co>
+<co c="0"><na f="p/Popivanov:Ivan" pid="01/734">Ivan Popivanov</na></co>
+<co c="0"><na f="p/Poppe:Olga" pid="71/7422">Olga Poppe</na></co>
+<co c="1"><na f="p/Pradelli:Marco" pid="52/1409">Marco Pradelli</na></co>
+<co c="0"><na f="p/Psallidas:Fotis" pid="135/5141">Fotis Psallidas</na></co>
+<co c="0"><na f="q/Qiao_0001:Shi" pid="157/8412-1">Shi Qiao 0001</na></co>
+<co c="0"><na f="r/Ramakrishnan:Raghu" pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</na></co>
+<co c="0" n="2"><na f="r/Ramamurthy:Ravishankar" pid="02/4973">Ravishankar Ramamurthy</na><na>Ravi Ramamurthy</na></co>
+<co c="0"><na f="r/Ramjit:Lana" pid="252/6200">Lana Ramjit</na></co>
+<co c="0"><na f="r/Rao:Sriram" pid="07/1315">Sriram Rao</na></co>
+<co c="0"><na f="r/Ravindran:Santhosh" pid="348/7894">Santhosh Ravindran</na></co>
+<co c="0"><na f="r/Renggli:C=eacute=dric" pid="215/5117">C&#233;dric Renggli</na></co>
+<co c="0"><na f="r/Rota:Silvia" pid="60/10315">Silvia Rota</na></co>
+<co c="0"><na f="r/Roy:Abhishek" pid="33/4379">Abhishek Roy</na></co>
+<co c="0"><na f="r/Roy_0008:Abhishek" pid="33/4379-8">Abhishek Roy 0008</na></co>
+<co c="0"><na f="r/Roy:Prabhat" pid="241/5960">Prabhat Roy</na></co>
+<co c="0" n="2"><na f="s/Santambrogio:Marco_D=" pid="94/5486">Marco D. Santambrogio</na><na>Marco Domenico Santambrogio</na></co>
+<co c="0"><na f="s/Saur:Karla" pid="55/8723">Karla Saur</na></co>
+<co c="0"><na f="s/Schelter:Sebastian" pid="118/7229">Sebastian Schelter</na></co>
+<co c="0"><na f="s/Scolari:Alberto" pid="141/9129">Alberto Scolari</na></co>
+<co c="0"><na f="s/Sears:Russell" pid="54/129">Russell Sears</na></co>
+<co c="0"><na f="s/Sen:Rathijit" pid="08/2832">Rathijit Sen</na></co>
+<co c="0"><na f="s/Sezgin:Beysim" pid="74/4606">Beysim Sezgin</na></co>
+<co c="0"><na f="s/Shah:Kshitij" pid="30/2760">Kshitij Shah</na></co>
+<co c="0"><na f="s/Shah:Sarthak" pid="30/8024">Sarthak Shah</na></co>
+<co c="0"><na f="s/Sharma:Hitesh" pid="190/3918">Hitesh Sharma</na></co>
+<co c="0"><na f="s/Shkapsky:Alexander" pid="135/4675">Alexander Shkapsky</na></co>
+<co c="0"><na f="s/Siddiqui:Mohammad_Zeeshan" pid="241/5886">Mohammad Zeeshan Siddiqui</na></co>
+<co c="0"><na f="s/Simonini:Giovanni" pid="151/8293">Giovanni Simonini</na></co>
+<co c="0"><na f="s/Sottovia:Paolo" pid="167/4586">Paolo Sottovia</na></co>
+<co c="0"><na f="s/Suh:Steve" pid="222/9616">Steve Suh</na></co>
+<co c="0"><na f="t/Tanca:Letizia" pid="t/LetiziaTanca">Letizia Tanca</na></co>
+<co c="0"><na f="t/Tang_0001:Nan" pid="27/104-1">Nan Tang 0001</na></co>
+<co c="0"><na f="t/Tarafdar:Arijit" pid="86/2773">Arijit Tarafdar</na></co>
+<co c="0"><na f="t/Tetali:Sai_Deep" pid="136/1039">Sai Deep Tetali</na></co>
+<co c="0"><na f="t/Tian:Yuanyuan" pid="27/3375">Yuanyuan Tian</na></co>
+<co c="0"><na f="u/Um:Taegeon" pid="205/6864">Taegeon Um</na></co>
+<co c="0"><na f="v/Velegrakis:Yannis" pid="v/YannisVelegrakis">Yannis Velegrakis</na></co>
+<co c="0"><na f="v/Vincini:Maurizio" pid="65/4364">Maurizio Vincini</na></co>
+<co c="0"><na f="w/Waghray:Kunal" pid="266/5841">Kunal Waghray</na></co>
+<co c="0"><na f="w/Wang:Demin" pid="80/968">Demin Wang</na></co>
+<co c="0"><na f="w/Wang:Julia" pid="163/0549">Julia Wang</na></co>
+<co c="0"><na f="w/Wang_0010:Wei" pid="w/WeiWang">Wei Wang 0010</na></co>
+<co c="0"><na f="w/Weimer:Markus" pid="89/6502">Markus Weimer</na></co>
+<co c="0"><na f="w/Wright:Travis" pid="248/7522">Travis Wright</na></co>
+<co c="0"><na f="w/Wu_0010:Di" pid="52/328-10">Di Wu 0010</na></co>
+<co c="0"><na f="w/Wu_0002:Eugene" pid="41/3679">Eugene Wu 0002</na></co>
+<co c="0"><na f="w/Wu_0001:Wentao" pid="29/85">Wentao Wu 0001</na></co>
+<co c="0"><na f="x/Xin:Doris" pid="135/0135">Doris Xin</na></co>
+<co c="0"><na f="x/Xu:Andy" pid="273/0174">Andy Xu</na></co>
+<co c="0"><na f="y/Yang:Mohan" pid="34/8165">Mohan Yang</na></co>
+<co c="0"><na f="y/Yang:Yaoqing" pid="04/4176">Yaoqing Yang</na></co>
+<co c="0"><na f="y/Yang:Youngseok" pid="163/1540">Youngseok Yang</na></co>
+<co c="0"><na f="y/Yoo:Seunghyun" pid="171/4914">Seunghyun Yoo</na></co>
+<co c="0"><na f="y/Yu:Cody_Hao" pid="144/6124">Cody Hao Yu</na></co>
+<co c="0"><na f="y/Yu:Gyeong=In" pid="217/6778">Gyeong-In Yu</na></co>
+<co c="0"><na f="y/Yu:Yuan" pid="98/809">Yuan Yu</na></co>
+<co c="0"><na f="z/Zahirazami:Shauheen" pid="120/9742">Shauheen Zahirazami</na></co>
+<co c="0"><na f="z/Zaniolo:Carlo" pid="z/CZaniolo">Carlo Zaniolo</na></co>
+<co c="0"><na f="z/Zhang_0001:Ce" pid="97/919-1">Ce Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Lihao" pid="67/10189">Lihao Zhang</na></co>
+<co c="0"><na f="z/Zhang:Qianxi" pid="291/4798">Qianxi Zhang</na></co>
+<co c="0"><na f="z/Zhang:Wangda" pid="124/6700">Wangda Zhang</na></co>
+<co c="0"><na f="z/Zhu:Xiaoyong" pid="33/7023">Xiaoyong Zhu</na></co>
+<co c="0"><na f="z/Zhu:Yiwen" pid="68/6811">Yiwen Zhu</na></co>
+</coauthors>
+</dblpperson>

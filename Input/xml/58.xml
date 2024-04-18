@@ -1,0 +1,677 @@
+<dblpperson name="Anton Dign&#246;s" pid="96/11411" n="39">
+<person key="homepages/96/11411" mdate="2021-07-24">
+<author pid="96/11411">Anton Dign&#246;s</author>
+<note type="affiliation">Free University of Bozen-Bolzano, Italy</note>
+<url>https://www.inf.unibz.it/~dignoes/</url>
+<url>https://dl.acm.org/profile/81502810495</url>
+<url>https://orcid.org/0000-0002-7621-967X</url>
+</person>
+<r><article key="journals/pvldb/KhelifatiKDDC23" mdate="2024-02-05">
+<author orcid="0000-0003-0991-8099" pid="259/6168">Abdelouahab Khelifati</author>
+<author pid="90/4017">Mourad Khayati</author>
+<author pid="96/11411">Anton Dign&#246;s</author>
+<author pid="09/10814">Djellel Eddine Difallah</author>
+<author pid="71/5578">Philippe Cudr&#233;-Mauroux</author>
+<title>TSM-Bench: Benchmarking Time Series Database Systems for Monitoring Applications.</title>
+<pages>3363-3376</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p3363-khelifati.pdf</ee>
+<ee>https://doi.org/10.14778/3611479.3611532</ee>
+<url>db/journals/pvldb/pvldb16.html#KhelifatiKDDC23</url>
+</article>
+</r>
+<r><article key="journals/tim/MassimoGBBMDVPR23" mdate="2023-09-12">
+<author pid="151/2436">David Massimo</author>
+<author pid="353/9641">Elias Ganthaler</author>
+<author pid="167/1248">Attaullah Buriro</author>
+<author pid="161/0389">Francesco Barile</author>
+<author pid="248/1454">Marco Moraschini</author>
+<author pid="96/11411">Anton Dign&#246;s</author>
+<author pid="46/10006">Thomas Villgrattner</author>
+<author pid="49/4866">Angelika Peer</author>
+<author pid="r/FrancescoRicci">Francesco Ricci 0001</author>
+<title>Estimation of Mass and Lengths of Sintered Workpieces Using Machine Learning Models.</title>
+<pages>1-14</pages>
+<year>2023</year>
+<volume>72</volume>
+<journal>IEEE Trans. Instrum. Meas.</journal>
+<ee type="oa">https://doi.org/10.1109/TIM.2023.3298413</ee>
+<url>db/journals/tim/tim72.html#MassimoGBBMDVPR23</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/MozaffariDHG23" mdate="2023-09-14">
+<author orcid="0000-0002-4217-8179" pid="253/1688">Maryam Mozaffari</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0001-8462-3085" pid="151/7009">Hind Hamrouni</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>NoSQL Schema Extraction from Temporal Conceptual Model: A Case for Cassandra.</title>
+<pages>280-290</pages>
+<year>2023</year>
+<booktitle>ADBIS (Short Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-42941-5_25</ee>
+<crossref>conf/adbis/2023short</crossref>
+<url>db/conf/adbis/adbis2023short.html#MozaffariDHG23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adbis/PrzybylekKHDHKZ23" mdate="2023-09-14">
+<author orcid="0000-0002-8231-709X" pid="90/8118">Adam Przybylek</author>
+<author orcid="0000-0001-6198-1234" pid="187/6053">Aleksandra Karpus</author>
+<author orcid="0000-0002-4452-1647" pid="24/2709">Allel Hadjali</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-0674-9229" pid="26/3914">Carmem S. Hara</author>
+<author orcid="0000-0002-3154-6212" pid="181/9145">Danae Pla Karidi</author>
+<author orcid="0000-0003-1129-3737" pid="42/4927">Ester Zumpano</author>
+<author orcid="0000-0002-1798-0215" pid="98/7475">Fabio Persia</author>
+<author orcid="0000-0001-9545-1821" pid="v/GVargas-Solar">Genoveva Vargas-Solar</author>
+<author orcid="0000-0002-9273-9843" pid="44/2379">George Papastefanatos</author>
+<author orcid="0000-0003-4033-3777" pid="121/0078">Giancarlo Sperl&#236;</author>
+<author orcid="0000-0002-8252-9869" pid="42/4419">Giorgos Giannopoulos</author>
+<author orcid="0000-0003-1319-488X" pid="42/1001">Ivan Lukovic</author>
+<author orcid="0000-0002-1954-8733" pid="08/9059">Julien Aligon</author>
+<author orcid="0000-0003-0784-8402" pid="t/ManolisTerrovitis">Manolis Terrovitis</author>
+<author orcid="0000-0003-4740-0725" pid="122/1797">Marek Grzegorowski</author>
+<author orcid="0000-0002-1536-0872" pid="244/2250">Mariella Bonomo</author>
+<author orcid="0000-0003-2601-3224" pid="f/MirianHalfeldFerrariAlves">Mirian Halfeld Ferrari Alves</author>
+<author orcid="0000-0002-2794-2124" pid="74/2775">Nicolas Labroche</author>
+<author pid="223/8410">Paul Monsarrat</author>
+<author orcid="0000-0003-4112-1426" pid="c/RichardChbeir">Richard Chbeir</author>
+<author orcid="0000-0001-8302-3053" pid="43/5676">Sana Sellami</author>
+<author orcid="0000-0003-2998-0826" pid="200/8936">Seshu Tirupathi</author>
+<author orcid="0000-0003-3833-835X" pid="r/SimonaERombo">Simona E. Rombo</author>
+<author orcid="0000-0002-3992-0096" pid="166/7559">Slavica Kordic</author>
+<author orcid="0000-0003-0059-6062" pid="92/2179">Sonja Ristic</author>
+<author orcid="0000-0002-0939-5462" pid="58/5192">Tommaso Di Noia</author>
+<author orcid="0000-0002-1615-777X" pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<author orcid="0000-0002-0754-7696" pid="97/4042">Vincenzo Moscato</author>
+<title>Databases and Information Systems: Contributions from ADBIS 2023 Workshops and Doctoral Consortium.</title>
+<pages>293-311</pages>
+<year>2023</year>
+<booktitle>ADBIS (Short Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-42941-5_26</ee>
+<crossref>conf/adbis/2023short</crossref>
+<url>db/conf/adbis/adbis2023short.html#PrzybylekKHDHKZ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/MirabiFDGB23" mdate="2023-09-14">
+<author orcid="0000-0003-3803-2756" pid="98/8460">Meghdad Mirabi</author>
+<author orcid="0009-0002-7966-8873" pid="84/8461">Leila Fathi</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0002-2744-7836" pid="45/1559">Carsten Binnig</author>
+<title>A New Primitive for Processing Temporal Joins.</title>
+<pages>106-109</pages>
+<year>2023</year>
+<booktitle>SSTD</booktitle>
+<ee>https://doi.org/10.1145/3609956.3609968</ee>
+<crossref>conf/ssd/2023</crossref>
+<url>db/conf/ssd/sstd2023.html#MirabiFDGB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/CeccarelloDGK23" mdate="2023-08-31">
+<author orcid="0000-0003-2783-0218" pid="124/0019">Matteo Ceccarello</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0002-1186-0300" pid="168/2205">Christina Khnaisser</author>
+<title>Indexing Temporal Relations for Range-Duration Queries.</title>
+<pages>3:1-3:12</pages>
+<year>2023</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1145/3603719.3603732</ee>
+<crossref>conf/ssdbm/2023</crossref>
+<url>db/conf/ssdbm/ssdbm2023.html#CeccarelloDGK23</url>
+</inproceedings>
+</r>
+<r><article key="journals/isci/BlumenthalBDG22" mdate="2023-08-28">
+<author orcid="0000-0001-8651-750X" pid="199/6261">David B. Blumenthal</author>
+<author orcid="0000-0002-4581-7570" pid="87/6300">S&#233;bastien Bougleux</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Enumerating dissimilar minimum cost perfect and error-correcting bipartite matchings for robust data matching.</title>
+<pages>202-221</pages>
+<year>2022</year>
+<volume>596</volume>
+<journal>Inf. Sci.</journal>
+<ee type="oa">https://doi.org/10.1016/j.ins.2022.03.017</ee>
+<ee>https://www.wikidata.org/entity/Q114167378</ee>
+<url>db/journals/isci/isci596.html#BlumenthalBDG22</url>
+</article>
+</r>
+<r><article key="journals/vldb/DignosBGJM22" mdate="2022-02-08">
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="265/2949">Peter Moser</author>
+<title>Leveraging range joins for the computation of overlap joins.</title>
+<pages>75-99</pages>
+<year>2022</year>
+<volume>31</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-021-00692-3</ee>
+<url>db/journals/vldb/vldb31.html#DignosBGJM22</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/GamperCD22" mdate="2022-09-10">
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0003-2783-0218" pid="124/0019">Matteo Ceccarello</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<title>What's New in Temporal Databases?</title>
+<pages>45-58</pages>
+<year>2022</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-15740-0_5</ee>
+<crossref>conf/adbis/2022</crossref>
+<url>db/conf/adbis/adbis2022.html#GamperCD22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adbis/KhnaisserHBDG22" mdate="2022-09-10">
+<author orcid="0000-0002-1186-0300" pid="168/2205">Christina Khnaisser</author>
+<author orcid="0000-0001-8462-3085" pid="151/7009">Hind Hamrouni</author>
+<author orcid="0000-0001-8651-750X" pid="199/6261">David B. Blumenthal</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Querying Temporal Anomalies in Healthcare Information Systems and Beyond.</title>
+<pages>209-222</pages>
+<year>2022</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-15740-0_16</ee>
+<crossref>conf/adbis/2022</crossref>
+<url>db/conf/adbis/adbis2022.html#KhnaisserHBDG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/balt/CharaneCDG22" mdate="2022-07-25">
+<author orcid="0000-0002-0339-5322" pid="322/9791">Adam Charane</author>
+<author orcid="0000-0003-2783-0218" pid="124/0019">Matteo Ceccarello</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Efficient Computation of All-Window Length Correlations.</title>
+<pages>251-266</pages>
+<year>2022</year>
+<booktitle>DB&amp;IS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-09850-5_17</ee>
+<crossref>conf/balt/2022</crossref>
+<url>db/conf/balt/dbis2022.html#CharaneCDG22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-07428" mdate="2022-06-21">
+<author pid="124/0019">Matteo Ceccarello</author>
+<author pid="96/11411">Anton Dign&#246;s</author>
+<author pid="59/6952">Johann Gamper</author>
+<author pid="168/2205">Christina Khnaisser</author>
+<title>Indexing Temporal Relations for Range-Duration Queries.</title>
+<year>2022</year>
+<volume>abs/2206.07428</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.07428</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-07428</url>
+</article>
+</r>
+<r><article key="journals/vldb/PiatovHDP21" mdate="2021-06-04">
+<author pid="118/9925">Danila Piatov</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-1798-0215" pid="98/7475">Fabio Persia</author>
+<title>Cache-efficient sweeping-based interval joins for extended Allen relation predicates.</title>
+<pages>379-402</pages>
+<year>2021</year>
+<volume>30</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00778-020-00650-5</ee>
+<url>db/journals/vldb/vldb30.html#PiatovHDP21</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/LiuCDGM21" mdate="2022-02-08">
+<author orcid="0000-0002-5863-4351" pid="36/5558-4">Tong Liu 0004</author>
+<author pid="47/9244">Paolo Coletti</author>
+<author pid="96/11411">Anton Dign&#246;s</author>
+<author pid="59/6952">Johann Gamper</author>
+<author pid="154/0136-2">Maurizio Murgia 0002</author>
+<title>Correlation graph analytics for stock time series data.</title>
+<pages>666-669</pages>
+<year>2021</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.5441/002/edbt.2021.79</ee>
+<crossref>conf/edbt/2021</crossref>
+<url>db/conf/edbt/edbt2021.html#LiuCDGM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ShekelyanDGG21" mdate="2022-01-03">
+<author orcid="0000-0002-6500-2192" pid="144/3316">Michael Shekelyan</author>
+<author pid="96/11411">Anton Dign&#246;s</author>
+<author pid="59/6952">Johann Gamper</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Approximating Multidimensional Range Counts with Maximum Error Guarantees.</title>
+<pages>1595-1606</pages>
+<year>2021</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE51399.2021.00141</ee>
+<crossref>conf/icde/2021</crossref>
+<url>db/conf/icde/icde2021.html#ShekelyanDGG21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adbis/GamperD20" mdate="2020-08-26">
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<title>Processing Temporal and Time Series Data: Present State and Future Challenges.</title>
+<pages>8-14</pages>
+<year>2020</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-54832-2_2</ee>
+<crossref>conf/adbis/2020</crossref>
+<url>db/conf/adbis/adbis2020.html#GamperD20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-12665" mdate="2020-09-16">
+<author pid="118/9925">Danila Piatov</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="96/11411">Anton Dign&#246;s</author>
+<author pid="98/7475">Fabio Persia</author>
+<title>Cache-Efficient Sweeping-Based Interval Joins for Extended Allen Relation Predicates (Extended Version).</title>
+<year>2020</year>
+<volume>abs/2008.12665</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.12665</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-12665</url>
+</article>
+</r>
+<r><article key="journals/amcs/MahlknechtDK19" mdate="2021-04-09">
+<author orcid="0000-0003-3415-4422" pid="166/9059">Giovanni Mahlknecht</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0001-9133-5671" pid="61/1307">Natalija Kozmina</author>
+<title>Modeling and querying facts with period timestamps in data warehouses.</title>
+<pages>31-49</pages>
+<year>2019</year>
+<volume>29</volume>
+<journal>Int. J. Appl. Math. Comput. Sci.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.2478/amcs-2019-0003</ee>
+<url>db/journals/amcs/amcs29.html#MahlknechtDK19</url>
+</article>
+</r>
+<r><article key="journals/is/PiatovHDG19" mdate="2019-09-25">
+<author pid="118/9925">Danila Piatov</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Interactive and space-efficient multi-dimensional time series subsequence matching.</title>
+<pages>121-135</pages>
+<year>2019</year>
+<volume>82</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2018.08.002</ee>
+<ee>https://www.wikidata.org/entity/Q57985594</ee>
+<url>db/journals/is/is82.html#PiatovHDG19</url>
+</article>
+</r>
+<r><article key="journals/is/ShekelyanDG19" mdate="2021-04-09">
+<author orcid="0000-0002-6500-2192" pid="144/3316">Michael Shekelyan</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Sparse prefix sums: Constant-time range sum queries over sparse multidimensional data cubes.</title>
+<pages>136-147</pages>
+<year>2019</year>
+<volume>82</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2018.06.009</ee>
+<url>db/journals/is/is82.html#ShekelyanDG19</url>
+</article>
+</r>
+<r><article key="journals/mta/FattoDRMBG19" mdate="2020-06-15">
+<author orcid="0000-0003-1084-4701" pid="08/6058">Vincenzo Del Fatto</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author pid="87/1173">Guerriero Raimato</author>
+<author pid="233/4714">Lorenzo Maccioni</author>
+<author pid="116/6286">Yuri Borgianni</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Visual time period analysis: a multimedia analytics application for summarizing and analyzing eye-tracking experiments.</title>
+<pages>32779-32804</pages>
+<year>2019</year>
+<volume>78</volume>
+<journal>Multim. Tools Appl.</journal>
+<number>23</number>
+<ee>https://doi.org/10.1007/s11042-019-07950-1</ee>
+<url>db/journals/mta/mta78.html#FattoDRMBG19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DignosGNGB19" mdate="2023-12-12">
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author pid="09/3012">Boris Glavic</author>
+<author pid="87/9555-2">Xing Niu 0002</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Snapshot Semantics for Temporal Multiset Relations.</title>
+<pages>639-652</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p639-dignoes.pdf</ee>
+<ee>https://doi.org/10.14778/3311880.3311882</ee>
+<url>db/journals/pvldb/pvldb12.html#DignosGNGB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ssd/BehrendDGSVRK19" mdate="2020-06-15">
+<author pid="39/3706">Andreas Behrend</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author pid="83/8749">Philip Schmiegelt</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="150/7584">Matthias Rottmann</author>
+<author pid="66/9464">Karsten Kahl</author>
+<title>Period Index: A Learned 2D Hash Index for Range and Duration Queries.</title>
+<pages>100-109</pages>
+<year>2019</year>
+<booktitle>SSTD</booktitle>
+<ee>https://doi.org/10.1145/3340964.3340965</ee>
+<crossref>conf/ssd/2019</crossref>
+<url>db/conf/ssd/sstd2019.html#BehrendDGSVRK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/DuranMDG19" mdate="2020-06-15">
+<author pid="158/1208">Necati Duran</author>
+<author pid="166/9059">Giovanni Mahlknecht</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>HotPeriods: Visual Correlation Analysis of Interval Data.</title>
+<pages>178-181</pages>
+<year>2019</year>
+<booktitle>SSTD</booktitle>
+<ee>https://doi.org/10.1145/3340964.3340989</ee>
+<crossref>conf/ssd/2019</crossref>
+<url>db/conf/ssd/sstd2019.html#DuranMDG19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-04938" mdate="2023-12-12">
+<author pid="96/11411">Anton Dign&#246;s</author>
+<author pid="09/3012">Boris Glavic</author>
+<author pid="87/9555-2">Xing Niu 0002</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="59/6952">Johann Gamper</author>
+<title>Snapshot Semantics for Temporal Multiset Relations (Extended Version).</title>
+<year>2019</year>
+<volume>abs/1902.04938</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.04938</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-04938</url>
+</article>
+</r>
+<r><inproceedings key="conf/iv/FattoDG18" mdate="2023-03-24">
+<author orcid="0000-0003-1084-4701" pid="08/6058">Vincenzo Del Fatto</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>TIME&#176;DIFF: A Visual Approach to Compare Period Data.</title>
+<pages>38-43</pages>
+<year>2018</year>
+<booktitle>IV</booktitle>
+<ee>https://doi.org/10.1109/iV.2018.00017</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/iV.2018.00017</ee>
+<crossref>conf/iv/2018</crossref>
+<url>db/conf/iv/iv2018.html#FattoDG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/time/BohlenDGJ18" mdate="2022-12-07">
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Database Technology for Processing Temporal Data (Invited Paper).</title>
+<pages>2:1-2:7</pages>
+<year>2018</year>
+<booktitle>TIME</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.TIME.2018.2</ee>
+<crossref>conf/time/2018</crossref>
+<url>db/conf/time/time2018.html#BohlenDGJ18</url>
+</inproceedings>
+</r>
+<r><article key="journals/is/MahlknechtDG17" mdate="2020-06-15">
+<author orcid="0000-0003-3415-4422" pid="166/9059">Giovanni Mahlknecht</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>A scalable dynamic programming scheme for the computation of optimal k-segments for ordered data.</title>
+<pages>2-17</pages>
+<year>2017</year>
+<volume>70</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2016.08.002</ee>
+<url>db/journals/is/is70.html#MahlknechtDG17</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ShekelyanDG17" mdate="2020-06-15">
+<author orcid="0000-0002-6500-2192" pid="144/3316">Michael Shekelyan</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>DigitHist: a Histogram-Based Data Summary with Tight Error Bounds.</title>
+<pages>1514-1525</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p1514-shekelyan.pdf</ee>
+<ee>https://doi.org/10.14778/3137628.3137658</ee>
+<url>db/journals/pvldb/pvldb10.html#ShekelyanDG17</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/ShekelyanDG17" mdate="2020-06-15">
+<author orcid="0000-0002-6500-2192" pid="144/3316">Michael Shekelyan</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Sparse Prefix Sums.</title>
+<pages>120-135</pages>
+<year>2017</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-66917-5_9</ee>
+<crossref>conf/adbis/2017</crossref>
+<url>db/conf/adbis/adbis2017.html#ShekelyanDG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ebiss/BohlenDGJ17" mdate="2022-12-07">
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Temporal Data Management - An Overview.</title>
+<pages>51-83</pages>
+<year>2017</year>
+<booktitle>eBISS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-96655-7_3</ee>
+<crossref>conf/ebiss/2017</crossref>
+<url>db/conf/ebiss/ebiss2017.html#BohlenDGJ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/WellenzohnBDGM17" mdate="2021-10-14">
+<author orcid="0000-0001-6511-7101" pid="156/1683">Kevin Wellenzohn</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author pid="156/1592">Hannes Mitterer</author>
+<title>Continuous Imputation of Missing Values in Streams of Pattern-Determining Time Series.</title>
+<pages>330-341</pages>
+<year>2017</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2017.30</ee>
+<crossref>conf/edbt/2017</crossref>
+<url>db/conf/edbt/edbt2017.html#WellenzohnBDGM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/MahlknechtBDG17" mdate="2020-06-15">
+<author orcid="0000-0003-3415-4422" pid="166/9059">Giovanni Mahlknecht</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>VISOR: Visualizing Summaries of Ordered Data.</title>
+<pages>40:1-40:5</pages>
+<year>2017</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1145/3085504.3091115</ee>
+<crossref>conf/ssdbm/2017</crossref>
+<url>db/conf/ssdbm/ssdbm2017.html#MahlknechtBDG17</url>
+</inproceedings>
+</r>
+<r><article key="journals/tods/DignosBGJ16" mdate="2022-12-07">
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Extending the Kernel of a Relational DBMS with Comprehensive Support for Sequenced Temporal Queries.</title>
+<pages>26:1-26:46</pages>
+<year>2016</year>
+<volume>41</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2967608</ee>
+<url>db/journals/tods/tods41.html#DignosBGJ16</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/PiatovHD16" mdate="2023-03-24">
+<author pid="118/9925">Danila Piatov</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<title>An interval join optimized for modern hardware.</title>
+<pages>1098-1109</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498316</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498316</ee>
+<ee>https://www.wikidata.org/entity/Q57985601</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#PiatovHD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adbis/MahlknechtDG15" mdate="2020-06-15">
+<author orcid="0000-0003-3415-4422" pid="166/9059">Giovanni Mahlknecht</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Efficient Computation of Parsimonious Temporal Aggregation.</title>
+<pages>320-333</pages>
+<year>2015</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23135-8_22</ee>
+<crossref>conf/adbis/2015</crossref>
+<url>db/conf/adbis/adbis2015.html#MahlknechtDG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DignosBG14" mdate="2020-06-15">
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Overlap interval partition join.</title>
+<pages>1459-1470</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2612175</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#DignosBG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/DignosBG13" mdate="2023-03-24">
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Query time scaling of attribute values in interval timestamped databases.</title>
+<pages>1304-1307</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544930</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544930</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#DignosBG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DignosBG12" mdate="2020-06-15">
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Temporal alignment.</title>
+<pages>433-444</pages>
+<year>2012</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2213836.2213886</ee>
+<crossref>conf/sigmod/2012</crossref>
+<url>db/conf/sigmod/sigmod2012.html#DignosBG12</url>
+</inproceedings>
+</r>
+<coauthors n="77" nc="2">
+<co c="0"><na f="a/Aligon:Julien" pid="08/9059">Julien Aligon</na></co>
+<co c="0"><na f="a/Alves:Mirian_Halfeld_Ferrari" pid="f/MirianHalfeldFerrariAlves">Mirian Halfeld Ferrari Alves</na></co>
+<co c="1"><na f="b/Barile:Francesco" pid="161/0389">Francesco Barile</na></co>
+<co c="0"><na f="b/Behrend:Andreas" pid="39/3706">Andreas Behrend</na></co>
+<co c="0"><na f="b/Binnig:Carsten" pid="45/1559">Carsten Binnig</na></co>
+<co c="0"><na f="b/Blumenthal:David_B=" pid="199/6261">David B. Blumenthal</na></co>
+<co c="0"><na f="b/B=ouml=hlen:Michael_H=" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</na></co>
+<co c="0"><na f="b/Bonomo:Mariella" pid="244/2250">Mariella Bonomo</na></co>
+<co c="0"><na f="b/Borgianni:Yuri" pid="116/6286">Yuri Borgianni</na></co>
+<co c="0"><na f="b/Bougleux:S=eacute=bastien" pid="87/6300">S&#233;bastien Bougleux</na></co>
+<co c="1"><na f="b/Buriro:Attaullah" pid="167/1248">Attaullah Buriro</na></co>
+<co c="0"><na f="c/Ceccarello:Matteo" pid="124/0019">Matteo Ceccarello</na></co>
+<co c="0"><na f="c/Charane:Adam" pid="322/9791">Adam Charane</na></co>
+<co c="0"><na f="c/Chbeir:Richard" pid="c/RichardChbeir">Richard Chbeir</na></co>
+<co c="0"><na f="c/Coletti:Paolo" pid="47/9244">Paolo Coletti</na></co>
+<co c="0"><na f="c/Cudr=eacute==Mauroux:Philippe" pid="71/5578">Philippe Cudr&#233;-Mauroux</na></co>
+<co c="0"><na f="d/Difallah:Djellel_Eddine" pid="09/10814">Djellel Eddine Difallah</na></co>
+<co c="0"><na f="d/Duran:Necati" pid="158/1208">Necati Duran</na></co>
+<co c="0"><na f="f/Fathi:Leila" pid="84/8461">Leila Fathi</na></co>
+<co c="0"><na f="f/Fatto:Vincenzo_Del" pid="08/6058">Vincenzo Del Fatto</na></co>
+<co c="0"><na f="g/Gamper:Johann" pid="59/6952">Johann Gamper</na></co>
+<co c="1"><na f="g/Ganthaler:Elias" pid="353/9641">Elias Ganthaler</na></co>
+<co c="0"><na f="g/Garofalakis:Minos_N=" pid="g/MinosNGarofalakis">Minos N. Garofalakis</na></co>
+<co c="0"><na f="g/Giannopoulos:Giorgos" pid="42/4419">Giorgos Giannopoulos</na></co>
+<co c="0"><na f="g/Glavic:Boris" pid="09/3012">Boris Glavic</na></co>
+<co c="0"><na f="g/Grzegorowski:Marek" pid="122/1797">Marek Grzegorowski</na></co>
+<co c="0" n="2"><na f="h/HadjAli:Allel" pid="24/2709">Allel HadjAli</na><na>Allel Hadjali</na></co>
+<co c="0"><na f="h/Hamrouni:Hind" pid="151/7009">Hind Hamrouni</na></co>
+<co c="0"><na f="h/Hara:Carmem_S=" pid="26/3914">Carmem S. Hara</na></co>
+<co c="0"><na f="h/Helmer:Sven" pid="h/SvenHelmer">Sven Helmer</na></co>
+<co c="0"><na f="j/Jensen:Christian_S=" pid="j/ChristianSJensen">Christian S. Jensen</na></co>
+<co c="0"><na f="k/Kahl:Karsten" pid="66/9464">Karsten Kahl</na></co>
+<co c="0"><na f="k/Karidi:Danae_Pla" pid="181/9145">Danae Pla Karidi</na></co>
+<co c="0"><na f="k/Karpus:Aleksandra" pid="187/6053">Aleksandra Karpus</na></co>
+<co c="0"><na f="k/Khayati:Mourad" pid="90/4017">Mourad Khayati</na></co>
+<co c="0"><na f="k/Khelifati:Abdelouahab" pid="259/6168">Abdelouahab Khelifati</na></co>
+<co c="0"><na f="k/Khnaisser:Christina" pid="168/2205">Christina Khnaisser</na></co>
+<co c="0"><na f="k/Kordic:Slavica" pid="166/7559">Slavica Kordic</na></co>
+<co c="0"><na f="k/Kozmina:Natalija" pid="61/1307">Natalija Kozmina</na></co>
+<co c="0"><na f="l/Labroche:Nicolas" pid="74/2775">Nicolas Labroche</na></co>
+<co c="0"><na f="l/Liu_0004:Tong" pid="36/5558-4">Tong Liu 0004</na></co>
+<co c="0"><na f="l/Lukovic:Ivan" pid="42/1001">Ivan Lukovic</na></co>
+<co c="0"><na f="m/Maccioni:Lorenzo" pid="233/4714">Lorenzo Maccioni</na></co>
+<co c="0"><na f="m/Mahlknecht:Giovanni" pid="166/9059">Giovanni Mahlknecht</na></co>
+<co c="1"><na f="m/Massimo:David" pid="151/2436">David Massimo</na></co>
+<co c="0"><na f="m/Mirabi:Meghdad" pid="98/8460">Meghdad Mirabi</na></co>
+<co c="0"><na f="m/Mitterer:Hannes" pid="156/1592">Hannes Mitterer</na></co>
+<co c="0"><na f="m/Monsarrat:Paul" pid="223/8410">Paul Monsarrat</na></co>
+<co c="1"><na f="m/Moraschini:Marco" pid="248/1454">Marco Moraschini</na></co>
+<co c="0"><na f="m/Moscato:Vincenzo" pid="97/4042">Vincenzo Moscato</na></co>
+<co c="0"><na f="m/Moser:Peter" pid="265/2949">Peter Moser</na></co>
+<co c="0"><na f="m/Mozaffari:Maryam" pid="253/1688">Maryam Mozaffari</na></co>
+<co c="0"><na f="m/Murgia_0002:Maurizio" pid="154/0136-2">Maurizio Murgia 0002</na></co>
+<co c="0"><na f="n/Niu_0002:Xing" pid="87/9555-2">Xing Niu 0002</na></co>
+<co c="0"><na f="n/Noia:Tommaso_Di" pid="58/5192">Tommaso Di Noia</na></co>
+<co c="0"><na f="p/Papastefanatos:George" pid="44/2379">George Papastefanatos</na></co>
+<co c="0"><na f="p/Pedersen:Torben_Bach" pid="p/TorbenBachPedersen">Torben Bach Pedersen</na></co>
+<co c="1"><na f="p/Peer:Angelika" pid="49/4866">Angelika Peer</na></co>
+<co c="0"><na f="p/Persia:Fabio" pid="98/7475">Fabio Persia</na></co>
+<co c="0"><na f="p/Piatov:Danila" pid="118/9925">Danila Piatov</na></co>
+<co c="0"><na f="p/Przybylek:Adam" pid="90/8118">Adam Przybylek</na></co>
+<co c="0"><na f="r/Raimato:Guerriero" pid="87/1173">Guerriero Raimato</na></co>
+<co c="1"><na f="r/Ricci_0001:Francesco" pid="r/FrancescoRicci">Francesco Ricci 0001</na></co>
+<co c="0"><na f="r/Ristic:Sonja" pid="92/2179">Sonja Ristic</na></co>
+<co c="0"><na f="r/Rombo:Simona_E=" pid="r/SimonaERombo">Simona E. Rombo</na></co>
+<co c="0"><na f="r/Rottmann:Matthias" pid="150/7584">Matthias Rottmann</na></co>
+<co c="0"><na f="s/Schmiegelt:Philip" pid="83/8749">Philip Schmiegelt</na></co>
+<co c="0"><na f="s/Sellami:Sana" pid="43/5676">Sana Sellami</na></co>
+<co c="0"><na f="s/Shekelyan:Michael" pid="144/3316">Michael Shekelyan</na></co>
+<co c="0"><na f="s/Sperl=igrave=:Giancarlo" pid="121/0078">Giancarlo Sperl&#236;</na></co>
+<co c="0"><na f="t/Terrovitis:Manolis" pid="t/ManolisTerrovitis">Manolis Terrovitis</na></co>
+<co c="0"><na f="t/Tirupathi:Seshu" pid="200/8936">Seshu Tirupathi</na></co>
+<co c="0"><na f="v/Vargas=Solar:Genoveva" pid="v/GVargas-Solar">Genoveva Vargas-Solar</na></co>
+<co c="1"><na f="v/Villgrattner:Thomas" pid="46/10006">Thomas Villgrattner</na></co>
+<co c="0"><na f="v/Voigt:Hannes" pid="19/1082">Hannes Voigt</na></co>
+<co c="0"><na f="w/Wellenzohn:Kevin" pid="156/1683">Kevin Wellenzohn</na></co>
+<co c="0"><na f="z/Zumpano:Ester" pid="42/4927">Ester Zumpano</na></co>
+</coauthors>
+</dblpperson>

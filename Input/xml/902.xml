@@ -1,0 +1,1857 @@
+<dblpperson name="Vivek R. Narasayya" pid="n/VivekRNarasayya" n="103">
+<person key="homepages/n/VivekRNarasayya" mdate="2016-02-03">
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<note type="affiliation">Microsoft Research</note>
+<url>http://research.microsoft.com/~viveknar/</url>
+</person>
+<r><article key="journals/pvldb/LeeDNC23" mdate="2023-10-23">
+<author pid="43/3767">Kukjin Lee</author>
+<author pid="147/1241">Anshuman Dutt</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<title>Analyzing the Impact of Cardinality Estimation on Execution Plans in Microsoft SQL Server.</title>
+<pages>2871-2883</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p2871-dutt.pdf</ee>
+<ee>https://doi.org/10.14778/3611479.3611494</ee>
+<url>db/journals/pvldb/pvldb16.html#LeeDNC23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AroraCDDGKKLLLL23" mdate="2024-03-26">
+<author pid="282/0711">Pankaj Arora</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="71/5974">Sudipto Das</author>
+<author pid="29/3616">Junfeng Dong</author>
+<author pid="361/4879">Cyril George</author>
+<author pid="24/9582">Ajay Kalhan</author>
+<author pid="k/ACKonig">Arnd Christian K&#246;nig</author>
+<author pid="89/6325">Willis Lang</author>
+<author pid="37/9428">Changsong Li</author>
+<author pid="92/2954">Feng Li</author>
+<author pid="51/2773">Jiaqi Liu</author>
+<author pid="131/4096">Lukas M. Maas</author>
+<author pid="361/4896">Akshay Mata</author>
+<author pid="65/5280">Ishai Menache</author>
+<author pid="295/3191">Justin Moeller</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="147/1263">Matthaios Olma</author>
+<author pid="275/3432">Morgan Oslake</author>
+<author pid="361/5049">Elnaz Rezai</author>
+<author pid="74/7863">Yi Shan</author>
+<author pid="33/882">Manoj Syamala</author>
+<author pid="121/4075">Shize Xu</author>
+<author pid="158/9045">Vasileios Zois</author>
+<title>Flexible Resource Allocation for Relational Database-as-a-Service.</title>
+<pages>4202-4215</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p4202-narasayya.pdf</ee>
+<url>db/journals/pvldb/pvldb16.html#AroraCDDGKKLLLL23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KonigSNMN23" mdate="2024-03-26">
+<author pid="k/ACKonig">Arnd Christian K&#246;nig</author>
+<author pid="74/7863">Yi Shan</author>
+<author pid="304/2470">Karan Newatia</author>
+<author pid="207/0065">Luke Marshall</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Solver-In-The-Loop Cluster Resource Management for Database-as-a-Service.</title>
+<pages>4254-4267</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p4254-konig.pdf</ee>
+<url>db/journals/pvldb/pvldb16.html#KonigSNMN23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SiddiquiNDC23" mdate="2024-03-26">
+<author pid="179/2728">Tarique Siddiqui</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="82/5967">Marius Dumitru</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<title>Cache-Efficient Top-k Aggregation over High Cardinality Large Datasets.</title>
+<pages>644-656</pages>
+<year>2023</year>
+<month>December</month>
+<volume>17</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol17/p644-siddiqui.pdf</ee>
+<url>db/journals/pvldb/pvldb17.html#SiddiquiNDC23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/WangNHC22" mdate="2023-10-23">
+<author pid="33/4822">Yue Wang</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="14/7259">Yeye He</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<title>PACk: An Efficient Partition-based Distributed Agglomerative Hierarchical Clustering Algorithm for Deduplication.</title>
+<pages>1132-1145</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p1132-wang.pdf</ee>
+<ee>https://doi.org/10.14778/3514061.3514062</ee>
+<url>db/journals/pvldb/pvldb15.html#WangNHC22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SiddiquiWNC22" mdate="2023-10-23">
+<author pid="179/2728">Tarique Siddiqui</author>
+<author pid="29/85">Wentao Wu 0001</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<title>DISTILL: Low-Overhead Data-Driven Techniques for Filtering and Costing Indexes for Scalable Index Tuning.</title>
+<pages>2019-2031</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p2019-siddiqui.pdf</ee>
+<ee>https://doi.org/10.14778/3547305.3547309</ee>
+<url>db/journals/pvldb/pvldb15.html#SiddiquiWNC22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KonigSZKLMKN22" mdate="2024-03-26">
+<author pid="k/ACKonig">Arnd Christian K&#246;nig</author>
+<author pid="74/7863">Yi Shan</author>
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<author pid="244/9171">Aarati Kakaraparthy</author>
+<author pid="89/6325">Willis Lang</author>
+<author pid="295/3191">Justin Moeller</author>
+<author pid="24/9582">Ajay Kalhan</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Tenant Placement in Over-subscribed Database-as-a-Service Clusters.</title>
+<pages>2559-2571</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p2559-k%f6nig.pdf</ee>
+<ee>https://doi.org/10.14778/3551793.3551814</ee>
+<url>db/journals/pvldb/pvldb15.html#KonigSZKLMKN22</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/SiddiquiJ00NC22" mdate="2022-06-14">
+<author pid="179/2728">Tarique Siddiqui</author>
+<author pid="211/2846">Saehan Jo</author>
+<author pid="29/85">Wentao Wu 0001</author>
+<author pid="09/404-1">Chi Wang 0001</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<title>ISUM: Efficiently Compressing Large and Complex Workloads for Scalable Index Tuning.</title>
+<pages>660-673</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3526152</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#SiddiquiJ00NC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/00010SWNCB22" mdate="2022-06-14">
+<author pid="29/85">Wentao Wu 0001</author>
+<author pid="09/404-1">Chi Wang 0001</author>
+<author pid="179/2728">Tarique Siddiqui</author>
+<author pid="154/6374">Junxiong Wang</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<title>Budget-aware Index Tuning with Reinforcement Learning.</title>
+<pages>1528-1541</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3526128</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#00010SWNCB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/NarasayyaC22" mdate="2022-06-14">
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<title>Multi-Tenant Cloud Data Services: State-of-the-Art, Challenges and Opportunities.</title>
+<pages>2465-2473</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3522566</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#NarasayyaC22</url>
+</inproceedings>
+</r>
+<r><article key="journals/ftdb/NarasayyaC21" mdate="2021-06-04">
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<title>Cloud Data Services: Workloads, Architectures and Multi-Tenancy.</title>
+<pages>1-107</pages>
+<year>2021</year>
+<volume>10</volume>
+<journal>Found. Trends Databases</journal>
+<number>1</number>
+<ee>https://doi.org/10.1561/1900000060</ee>
+<url>db/journals/ftdb/ftdb10.html#NarasayyaC21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SiddiquiCN21" mdate="2022-04-21">
+<author pid="179/2728">Tarique Siddiqui</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>COMPARE: Accelerating Groupwise Comparison in Relational Databases for Data Analytics.</title>
+<pages>2419-2431</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2419-siddiqui.pdf</ee>
+<ee>https://doi.org/10.14778/3476249.3476291</ee>
+<url>db/journals/pvldb/pvldb14.html#SiddiquiCN21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/PotharajuKS0NDP21" mdate="2022-04-21">
+<author pid="92/8486">Rahul Potharaju</author>
+<author pid="222/9645">Terry Kim</author>
+<author pid="220/9205">Eunjin Song</author>
+<author pid="29/85">Wentao Wu 0001</author>
+<author pid="69/4827">Lev Novik</author>
+<author pid="273/6896">Apoorve Dave</author>
+<author pid="69/7215">Pouria Pirzadeh</author>
+<author pid="273/7169">Andrew Fogarty</author>
+<author pid="300/4383">Gurleen Dhody</author>
+<author pid="35/10074">Jiying Li</author>
+<author pid="273/7130">Vidip Acharya</author>
+<author pid="273/7034">Sinduja Ramanujam</author>
+<author pid="b/NicolasBruno">Nicolas Bruno</author>
+<author pid="84/3247">C&#233;sar A. Galindo-Legaria</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="85/3087">Anil Nori</author>
+<author pid="46/9582">Tomas Talius</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<title>Hyperspace: The Indexing Subsystem of Azure Synapse.</title>
+<pages>3043-3055</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p3043-potharaju.pdf</ee>
+<ee>https://doi.org/10.14778/3476311.3476382</ee>
+<url>db/journals/pvldb/pvldb14.html#PotharajuKS0NDP21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DingCGN21" mdate="2022-04-21">
+<author pid="163/0574">Bailu Ding</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>DSB: A Decision Support Benchmark for Workload-Driven and Traditional Database Systems.</title>
+<pages>3376-3388</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p3376-ding.pdf</ee>
+<ee>https://doi.org/10.14778/3484224.3484234</ee>
+<url>db/journals/pvldb/pvldb14.html#DingCGN21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/VaidyaDNC21" mdate="2022-04-21">
+<author pid="188/6341">Kapil Vaidya</author>
+<author pid="147/1241">Anshuman Dutt</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<title>Leveraging Query Logs and Machine Learning for Parametric Query Optimization.</title>
+<pages>401-413</pages>
+<year>2021</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol15/p401-vaidya.pdf</ee>
+<ee>https://doi.org/10.14778/3494124.3494126</ee>
+<url>db/journals/pvldb/pvldb15.html#VaidyaDNC21</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2107-11967" mdate="2021-07-29">
+<author pid="179/2728">Tarique Siddiqui</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>COMPARE: Accelerating Groupwise Comparison in Relational Databases for Data Analytics.</title>
+<year>2021</year>
+<volume>abs/2107.11967</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2107.11967</ee>
+<url>db/journals/corr/corr2107.html#abs-2107-11967</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DuttWNC20" mdate="2020-08-17">
+<author pid="147/1241">Anshuman Dutt</author>
+<author pid="09/404-1">Chi Wang 0001</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<title>Efficiently Approximating Selectivity Functions using Low Overhead Regression Models.</title>
+<pages>2215-2228</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2215-dutt.pdf</ee>
+<url>db/journals/pvldb/pvldb13.html#DuttWNC20</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/DingCN20" mdate="2020-06-05">
+<author pid="163/0574">Bailu Ding</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Bitvector-aware Query Optimization for Decision Support Queries.</title>
+<pages>2011-2026</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389769</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#DingCN20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-03328" mdate="2020-05-09">
+<author pid="163/0574">Bailu Ding</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Bitvector-aware Query Optimization for Decision Support Queries (extended version).</title>
+<year>2020</year>
+<volume>abs/2005.03328</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.03328</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-03328</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DuttWNKNC19" mdate="2020-04-25">
+<author pid="147/1241">Anshuman Dutt</author>
+<author pid="09/404-1">Chi Wang 0001</author>
+<author pid="99/7868">Azade Nazi</author>
+<author pid="k/SrikanthKandula">Srikanth Kandula</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<title>Selectivity Estimation for Range Predicates using Lightweight Models.</title>
+<pages>1044-1057</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1044-dutt.pdf</ee>
+<ee>https://doi.org/10.14778/3329772.3329780</ee>
+<url>db/journals/pvldb/pvldb12.html#DuttWNKNC19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChenWNC19" mdate="2020-04-25">
+<author pid="08/6318">Zhimin Chen</author>
+<author pid="33/4822">Yue Wang</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<title>Customizable and Scalable Fuzzy Join for Big Data.</title>
+<pages>2106-2117</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p2106-chen.pdf</ee>
+<ee>https://doi.org/10.14778/3352063.3352128</ee>
+<url>db/journals/pvldb/pvldb12.html#ChenWNC19</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/DasGIJJNRSXC19" mdate="2023-09-30">
+<author orcid="0009-0007-6154-1504" pid="71/5974">Sudipto Das</author>
+<author pid="243/2521">Miroslav Grbic</author>
+<author pid="208/5534">Igor Ilic</author>
+<author pid="243/2421">Isidora Jovandic</author>
+<author pid="86/10357">Andrija Jovanovic</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="243/2339">Miodrag Radulovic</author>
+<author pid="97/6794">Maja Stikic</author>
+<author pid="224/6709">Gaoxiang Xu</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<title>Automatically Indexing Millions of Databases in Microsoft Azure SQL Database.</title>
+<pages>666-679</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3314035</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#DasGIJJNRSXC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DingDM0CN19" mdate="2023-09-30">
+<author pid="163/0574">Bailu Ding</author>
+<author orcid="0009-0007-6154-1504" pid="71/5974">Sudipto Das</author>
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="29/85">Wentao Wu 0001</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>AI Meets AI: Leveraging Query Executions to Improve Index Recommendations.</title>
+<pages>1241-1258</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3324957</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#DingDM0CN19</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/NaziDNC18" mdate="2020-04-25">
+<author pid="99/7868">Azade Nazi</author>
+<author pid="46/3522">Bolin Ding</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<title>Efficient Estimation of Inclusion Coefficient using HyperLogLog Sketches.</title>
+<pages>1097-1109</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1097-nazi.pdf</ee>
+<ee>https://doi.org/10.14778/3231751.3231759</ee>
+<url>db/journals/pvldb/pvldb11.html#NaziDNC18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DingDWCN18" mdate="2023-09-30">
+<author pid="163/0574">Bailu Ding</author>
+<author orcid="0009-0007-6154-1504" pid="71/5974">Sudipto Das</author>
+<author pid="29/85">Wentao Wu 0001</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Plan Stitch: Harnessing the Best of Many Plans.</title>
+<pages>1123-1136</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1123-ding.pdf</ee>
+<ee>https://doi.org/10.14778/3231751.3231761</ee>
+<url>db/journals/pvldb/pvldb11.html#DingDWCN18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/HeCGZNC18" mdate="2020-04-25">
+<author pid="14/7259">Yeye He</author>
+<author pid="131/4767">Xu Chu</author>
+<author pid="g/KrisGanjam">Kris Ganjam</author>
+<author pid="160/1053">Yudian Zheng</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<title>Transform-Data-by-Example (TDE): An Extensible Search Engine for Data Transformations.</title>
+<pages>1165-1177</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1165-he.pdf</ee>
+<ee>https://doi.org/10.14778/3231751.3231766</ee>
+<url>db/journals/pvldb/pvldb11.html#HeCGZNC18</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/DziedzicWDDNS18" mdate="2023-09-30">
+<author orcid="0000-0001-9786-2296" pid="191/0540">Adam Dziedzic</author>
+<author pid="62/2631-8">Jingjing Wang 0008</author>
+<author orcid="0009-0007-6154-1504" pid="71/5974">Sudipto Das</author>
+<author pid="46/3522">Bolin Ding</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="33/882">Manoj Syamala</author>
+<title>Columnstore and B+ tree - Are Hybrid Physical Designs Important?</title>
+<pages>177-190</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3190660</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#DziedzicWDDNS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HeGLWNCCZ18" mdate="2018-11-21">
+<author pid="14/7259">Yeye He</author>
+<author pid="g/KrisGanjam">Kris Ganjam</author>
+<author pid="43/3767">Kukjin Lee</author>
+<author pid="33/4822">Yue Wang</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="131/4767">Xu Chu</author>
+<author pid="160/1053">Yudian Zheng</author>
+<title>Transform-Data-by-Example (TDE): Extensible Data Transformation in Excel.</title>
+<pages>1785-1788</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3193539</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#HeGLWNCCZ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/IorgulescuAKESN18" mdate="2021-02-01">
+<author pid="145/2121">Calin Iorgulescu</author>
+<author pid="62/2658">Reza Azimi</author>
+<author pid="94/8239">Youngjin Kwon</author>
+<author pid="18/1967">Sameh Elnikety</author>
+<author pid="33/882">Manoj Syamala</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="26/5170">Herodotos Herodotou</author>
+<author pid="223/0833">Paulo Tomita</author>
+<author pid="33/11243">Alex Chen</author>
+<author pid="154/6209">Jack Zhang</author>
+<author pid="88/3634">Junhua Wang</author>
+<title>PerfIso: Performance Isolation for Commercial Latency-Sensitive Services.</title>
+<pages>519-532</pages>
+<year>2018</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/atc18/presentation/iorgulescu</ee>
+<crossref>conf/usenix/2018</crossref>
+<url>db/conf/usenix/usenix2018.html#IorgulescuAKESN18</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/ChaudhuriNW18" mdate="2019-02-14">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="w/GerhardWeikum">Gerhard Weikum</author>
+<title>Database Tuning Using Combinatorial Search.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_33</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/d2.html#ChaudhuriNW18</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/sigmod/DuttNC17" mdate="2018-11-06">
+<author pid="147/1241">Anshuman Dutt</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<title>Leveraging Re-costing for Online Optimization of Parameterized Queries with Guarantees.</title>
+<pages>1539-1554</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3064040</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#DuttNC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LiDSN16" mdate="2023-09-30">
+<author pid="92/2954">Feng Li</author>
+<author orcid="0009-0007-6154-1504" pid="71/5974">Sudipto Das</author>
+<author pid="33/882">Manoj Syamala</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Accelerating Relational Databases by Leveraging Remote Memory and RDMA.</title>
+<pages>355-370</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2882949</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#LiDSN16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LeeKNDCEEKWPNLN16" mdate="2018-11-06">
+<author pid="43/3767">Kukjin Lee</author>
+<author pid="k/ACKonig">Arnd Christian K&#246;nig</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="46/3522">Bolin Ding</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="181/5769">Brent Ellwein</author>
+<author pid="181/5867">Alexey Eksarevskiy</author>
+<author pid="181/5728">Manbeen Kohli</author>
+<author pid="181/5709">Jacob Wyant</author>
+<author pid="181/5738">Praneeta Prakash</author>
+<author pid="94/81">Rimma V. Nehme</author>
+<author pid="79/796">Jiexing Li</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<title>Operator and Query Progress Estimation in Microsoft SQL Server Live Query Statistics.</title>
+<pages>1753-1764</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2903728</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#LeeKNDCEEKWPNLN16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DasLNK16" mdate="2023-09-30">
+<author orcid="0009-0007-6154-1504" pid="71/5974">Sudipto Das</author>
+<author pid="92/2954">Feng Li</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="k/ACKonig">Arnd Christian K&#246;nig</author>
+<title>Automated Demand-driven Resource Scaling in Relational Database-as-a-Service.</title>
+<pages>1923-1934</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2903733</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#DasLNK16</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/NarasayyaMSLSC15" mdate="2020-04-25">
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="65/5280">Ishai Menache</author>
+<author pid="21/6018">Mohit Singh</author>
+<author pid="92/2954">Feng Li</author>
+<author pid="33/882">Manoj Syamala</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<title>Sharing Buffer Pool Memory in Multi-Tenant Relational Database-as-a-Service.</title>
+<pages>726-737</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>7</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p726-narasayya.pdf</ee>
+<ee>https://doi.org/10.14778/2752939.2752942</ee>
+<url>db/journals/pvldb/pvldb8.html#NarasayyaMSLSC15</url>
+</article>
+</r>
+<r><inproceedings key="conf/www/BalakrishnanCN15" mdate="2018-11-06">
+<author pid="28/1624">Shobana Balakrishnan</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>AutoTag 'n Search My Photos: Leveraging the Social Graph for Photo Tagging.</title>
+<pages>163-166</pages>
+<year>2015</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2740908.2742843</ee>
+<crossref>conf/www/2015c</crossref>
+<url>db/conf/www/www2015c.html#BalakrishnanCN15</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/ChaudhuriNS14" mdate="2020-03-10">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="33/882">Manoj Syamala</author>
+<title>Database Application Developer Tools Using Static Analysis and Dynamic Profiling.</title>
+<pages>38-47</pages>
+<year>2014</year>
+<volume>37</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A14mar/p38.pdf</ee>
+<url>db/journals/debu/debu37.html#ChaudhuriNS14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChenNC14" mdate="2022-08-16">
+<author pid="08/6318">Zhimin Chen</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<title>Fast Foreign-Key Detection in Microsoft SQL Server PowerPivot for Excel.</title>
+<pages>1417-1428</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p1417-chen.pdf</ee>
+<ee>https://doi.org/10.14778/2733004.2733014</ee>
+<ee>https://www.wikidata.org/entity/Q113237171</ee>
+<url>db/journals/pvldb/pvldb7.html#ChenNC14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DasNLS13" mdate="2020-04-25">
+<author pid="71/5974">Sudipto Das</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="92/2954">Feng Li</author>
+<author pid="33/882">Manoj Syamala</author>
+<title>CPU Sharing Techniques for Performance Isolation in Multitenant Relational Database-as-a-Service.</title>
+<pages>37-48</pages>
+<year>2013</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p37-das.pdf</ee>
+<ee>https://doi.org/10.14778/2732219.2732223</ee>
+<url>db/journals/pvldb/pvldb7.html#DasNLS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/NarasayyaDSCC13" mdate="2020-03-12">
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="71/5974">Sudipto Das</author>
+<author pid="33/882">Manoj Syamala</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<title>SQLVM: Performance Isolation in Multi-Tenant Relational Database-as-a-Service.</title>
+<year>2013</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2013/Papers/CIDR13_Paper25.pdf</ee>
+<crossref>conf/cidr/2013</crossref>
+<url>db/conf/cidr/cidr2013.html#NarasayyaDSCC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChengCCNS13" mdate="2023-03-24">
+<author pid="181/2732">Tao Cheng</author>
+<author pid="c/KaushikChakrabarti">Kaushik Chakrabarti</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="33/882">Manoj Syamala</author>
+<title>Data services for E-tailers leveraging web search engine assets.</title>
+<pages>1153-1164</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544905</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544905</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#ChengCCNS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/NarasayyaDSCLP13" mdate="2018-11-06">
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="71/5974">Sudipto Das</author>
+<author pid="33/882">Manoj Syamala</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="92/2954">Feng Li</author>
+<author pid="41/4465">Hyunjung Park 0001</author>
+<title>A demonstration of SQLVM: performance isolation in multi-tenant relational database-as-a-service.</title>
+<pages>1077-1080</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2463686</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#NarasayyaDSCLP13</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigmod/2013dbtest" mdate="2013-06-30">
+<editor pid="n/VivekRNarasayya">Vivek R. Narasayya</editor>
+<editor pid="p/NeoklisPolyzotis">Neoklis Polyzotis</editor>
+<title>Proceedings of the Sixth International Workshop on Testing Database Systems, DBTest 2013, New York, NY, USA, June 24, 2013</title>
+<publisher>ACM</publisher>
+<year>2013</year>
+<isbn>978-1-4503-2151-8</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=2479440</ee>
+<booktitle>DBTest</booktitle>
+<url>db/conf/sigmod/dbtest2013.html</url>
+</proceedings>
+</r>
+<r><article key="journals/debu/ArasuCCGKN12" mdate="2020-03-10">
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="08/6318">Zhimin Chen</author>
+<author pid="g/KrisGanjam">Kris Ganjam</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Experiences with using Data Cleaning Technology for Bing Services.</title>
+<pages>14-23</pages>
+<year>2012</year>
+<volume>35</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<ee type="oa">http://sites.computer.org/debull/A12june/cleaning.pdf</ee>
+<url>db/journals/debu/debu35.html#ArasuCCGKN12</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiKNC12" mdate="2022-08-16">
+<author pid="79/796">Jiexing Li</author>
+<author pid="k/ACKonig">Arnd Christian K&#246;nig</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<title>Robust Estimation of Resource Consumption for SQL Queries using Statistical Techniques.</title>
+<pages>1555-1566</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p1555_jiexingli_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2350229.2350269</ee>
+<ee>https://www.wikidata.org/entity/Q113237181</ee>
+<url>db/journals/pvldb/pvldb5.html#LiKNC12</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1201-0234" mdate="2018-08-13">
+<author pid="k/ACKonig">Arnd Christian K&#246;nig</author>
+<author pid="46/3522">Bolin Ding</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>A Statistical Approach Towards Robust Progress Estimation</title>
+<ee type="oa">http://arxiv.org/abs/1201.0234</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1201.0234</volume>
+<url>db/journals/corr/corr1201.html#abs-1201-0234</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1208-0278" mdate="2018-08-13">
+<author pid="79/796">Jiexing Li</author>
+<author pid="k/ACKonig">Arnd Christian K&#246;nig</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<title>Robust Estimation of Resource Consumption for SQL Queries using Statistical Techniques</title>
+<ee type="oa">http://arxiv.org/abs/1208.0278</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1208.0278</volume>
+<url>db/journals/corr/corr1208.html#abs-1208-0278</url>
+</article>
+</r>
+<r><article key="journals/cacm/ChaudhuriDN11" mdate="2018-11-14">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="76/2198">Umeshwar Dayal</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>An overview of business intelligence technology.</title>
+<pages>88-98</pages>
+<year>2011</year>
+<volume>54</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<ee>https://doi.org/10.1145/1978542.1978562</ee>
+<ee>https://www.wikidata.org/entity/Q55967488</ee>
+<url>db/journals/cacm/cacm54.html#ChaudhuriDN11</url>
+</article>
+</r>
+<r><article key="journals/debu/ArasuCCGKN11" mdate="2020-03-10">
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="08/6318">Zhimin Chen</author>
+<author pid="g/KrisGanjam">Kris Ganjam</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Towards a Domain Independent Platform for Data Cleaning.</title>
+<pages>43-50</pages>
+<year>2011</year>
+<volume>34</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<ee type="oa">http://sites.computer.org/debull/A11sept/cleaning.pdf</ee>
+<url>db/journals/debu/debu34.html#ArasuCCGKN11</url>
+</article>
+</r>
+<r><article key="journals/debu/BrunoCKNRS11" mdate="2020-03-10">
+<author pid="b/NicolasBruno">Nicolas Bruno</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="k/ACKonig">Arnd Christian K&#246;nig</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<author pid="33/882">Manoj Syamala</author>
+<title>AutoAdmin Project at Microsoft Research: Lessons Learned.</title>
+<pages>12-19</pages>
+<year>2011</year>
+<volume>34</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A11dec/AutoAdmin1.pdf</ee>
+<url>db/journals/debu/debu34.html#BrunoCKNRS11</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KimuraNS11" mdate="2022-01-18">
+<author pid="98/5721-1">Hideaki Kimura 0001</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="33/882">Manoj Syamala</author>
+<title>Compression Aware Physical Database Design.</title>
+<pages>657-668</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p657-kimura.pdf</ee>
+<ee>https://doi.org/10.14778/2021017.2021023</ee>
+<url>db/journals/pvldb/pvldb4.html#KimuraNS11</url>
+</article>
+</r>
+<r><article key="journals/pvldb/NarasayyaPS11" mdate="2020-04-25">
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="41/4465">Hyunjung Park 0001</author>
+<author pid="33/882">Manoj Syamala</author>
+<title>Automatic Workload Driven Index Defragmentation.</title>
+<pages>1407-1409</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p1407-narasayya.pdf</ee>
+<url>db/journals/pvldb/pvldb4.html#NarasayyaPS11</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChaudhuriN11" mdate="2020-04-25">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>New Frontiers in Business Intelligence.</title>
+<pages>1502-1503</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p1502-chaudhuri-tutorial1.pdf</ee>
+<url>db/journals/pvldb/pvldb4.html#ChaudhuriN11</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KonigDCN11" mdate="2020-04-25">
+<author pid="k/ACKonig">Arnd Christian K&#246;nig</author>
+<author pid="46/3522">Bolin Ding</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>A Statistical Approach Towards Robust Progress Estimation.</title>
+<pages>382-393</pages>
+<year>2011</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p382_arndchristiankonig_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2095686.2095696</ee>
+<url>db/journals/pvldb/pvldb5.html#KonigDCN11</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1109-0736" mdate="2022-01-18">
+<author pid="98/5721-1">Hideaki Kimura 0001</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="33/882">Manoj Syamala</author>
+<title>Compression Aware Physical Database Design</title>
+<ee type="oa">http://arxiv.org/abs/1109.0736</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1109.0736</volume>
+<url>db/journals/corr/corr1109.html#abs-1109-0736</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BrunoNR10" mdate="2020-04-25">
+<author pid="b/NicolasBruno">Nicolas Bruno</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>Slicing Long-Running Queries.</title>
+<pages>530-541</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R47.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920910</ee>
+<url>db/journals/pvldb/pvldb3.html#BrunoNR10</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/IdreosKNR10" mdate="2023-03-24">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>Estimating the compression fraction of an index using sampling.</title>
+<pages>441-444</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447871</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447871</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#IdreosKNR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/NarasayyaS10" mdate="2023-03-24">
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="33/882">Manoj Syamala</author>
+<title>Workload driven index defragmentation.</title>
+<pages>497-508</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447889</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447889</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#NarasayyaS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChaudhuriGNR10" mdate="2023-03-24">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="31/3294">Leo Giakoumakis</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>Rule profiling for query optimizers and their implications.</title>
+<pages>1072-1080</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447870</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447870</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#ChaudhuriGNR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChaudhuriLN10" mdate="2018-11-06">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="73/5604">Hongrae Lee</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Variance aware optimization of parameterized queries.</title>
+<pages>531-542</pages>
+<year>2010</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1807167.1807226</ee>
+<crossref>conf/sigmod/2010</crossref>
+<url>db/conf/sigmod/sigmod2010.html#ChaudhuriLN10</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/ChaudhuriNR09" mdate="2020-04-25">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>Exact Cardinality Query Optimization for Optimizer Testing.</title>
+<pages>994-1005</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-294.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687739</ee>
+<url>db/journals/pvldb/pvldb2.html#ChaudhuriNR09</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/DasguptaNS09" mdate="2023-03-23">
+<author pid="68/4911">Arjun Dasgupta</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="33/882">Manoj Syamala</author>
+<title>A Static Analysis Framework for Database Applications.</title>
+<pages>1403-1414</pages>
+<year>2009</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2009.98</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2009.98</ee>
+<crossref>conf/icde/2009</crossref>
+<url>db/conf/icde/icde2009.html#DasguptaNS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ElmonguiNR09" mdate="2018-11-06">
+<author pid="15/5649">Hicham G. Elmongui</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>A framework for testing query transformation rules.</title>
+<pages>257-268</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559874</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#ElmonguiNR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChaudhuriNS09" mdate="2018-11-06">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="33/882">Manoj Syamala</author>
+<title>Bridging the application and DBMS divide using static analysis and dynamic profiling.</title>
+<pages>1039-1042</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559975</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#ChaudhuriNS09</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/ChaudhuriNW09" mdate="2017-07-12">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="w/GerhardWeikum">Gerhard Weikum</author>
+<title>Database Tuning using Combinatorial Search.</title>
+<pages>738-741</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_33</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/d.html#ChaudhuriNW09</url>
+</incollection>
+</r>
+<r><article key="journals/debu/AilamakiBFLLMNPSSW08" mdate="2020-03-10">
+<author pid="a/AnastassiaAilamaki">Anastassia Ailamaki</author>
+<author pid="b/ShivnathBabu">Shivnath Babu</author>
+<author pid="f/PedroFurtado">Pedro Furtado 0001</author>
+<author pid="31/3001">Sam Lightstone</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/PatrickMartin">Patrick Martin 0001</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="08/3154">Glenn Pauley</author>
+<author pid="s/KennethSalem">Kenneth Salem</author>
+<author pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<author pid="w/GerhardWeikum">Gerhard Weikum</author>
+<title>Report: 3rd Int'l Workshop on Self-Managing Database Systems (SMDB 2008).</title>
+<pages>2-5</pages>
+<year>2008</year>
+<volume>31</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A08dec/lohman-a.pdf</ee>
+<url>db/journals/debu/debu31.html#AilamakiBFLLMNPSSW08</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChaudhuriNR08" mdate="2020-04-25">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>A pay-as-you-go framework for query execution feedback.</title>
+<pages>1141-1152</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1453977.pdf</ee>
+<ee>https://doi.org/10.14778/1453856.1453977</ee>
+<url>db/journals/pvldb/pvldb1.html#ChaudhuriNR08</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/ChaudhuriNR08" mdate="2023-03-24">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>Diagnosing Estimation Errors in Page Counts Using Execution Feedback.</title>
+<pages>1013-1022</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497510</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497510</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#ChaudhuriNR08</url>
+</inproceedings>
+</r>
+<r><article key="journals/tods/ChaudhuriDN07" mdate="2024-02-05">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author orcid="0000-0002-4627-9065" pid="07/1181">Gautam Das 0001</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Optimized stratified sampling for approximate query processing.</title>
+<pages>9</pages>
+<year>2007</year>
+<volume>32</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1242524.1242526</ee>
+<url>db/journals/tods/tods32.html#ChaudhuriDN07</url>
+</article>
+</r>
+<r><inproceedings key="conf/vldb/ChaudhuriN07" mdate="2020-03-12">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Self-Tuning Database Systems: A Decade of Progress.</title>
+<pages>3-14</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/special/p3-chaudhuri.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#ChaudhuriN07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ChaudhuriNS07" mdate="2020-03-12">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="33/882">Manoj Syamala</author>
+<title>Bridging the Application and DBMS Profiling Divide for Database Application Developers.</title>
+<pages>1252-1262</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/industrial/p1252-chaudhuri.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#ChaudhuriNS07</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/AgrawalBCN06" mdate="2020-08-19">
+<author pid="a/SanjayAgrawal">Sanjay Agrawal 0001</author>
+<author pid="b/NicolasBruno">Nicolas Bruno</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>AutoAdmin: Self-Tuning Database SystemsTechnology.</title>
+<pages>7-15</pages>
+<year>2006</year>
+<volume>29</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<ee type="oa">http://sites.computer.org/debull/A06sept/deb1.ps</ee>
+<url>db/journals/debu/debu29.html#AgrawalBCN06</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/AgrawalCN06" mdate="2019-11-21">
+<author pid="a/SanjayAgrawal">Sanjay Agrawal 0001</author>
+<author pid="83/3305">Eric Chu</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Automatic physical design tuning: workload as a sequence.</title>
+<pages>683-694</pages>
+<year>2006</year>
+<crossref>conf/sigmod/2006</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1142473.1142549</ee>
+<url>db/conf/sigmod/sigmod2006.html#AgrawalCN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChenN05" mdate="2018-11-06">
+<author pid="08/6318">Zhimin Chen</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Efficient Computation of Multiple Group By Queries.</title>
+<year>2005</year>
+<crossref>conf/sigmod/2005</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2005.html#ChenN05</url>
+<pages>263-274</pages>
+<ee>https://doi.org/10.1145/1066157.1066188</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChaudhuriGGKNV05" mdate="2018-11-06">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="g/KrisGanjam">Kris Ganjam</author>
+<author pid="g/VenkateshGanti">Venkatesh Ganti</author>
+<author pid="56/16">Rahul Kapoor</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="11/780">Theo Vassilakis</author>
+<title>Data cleaning in microsoft SQL server 2005.</title>
+<pages>918-920</pages>
+<year>2005</year>
+<crossref>conf/sigmod/2005</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1066157.1066287</ee>
+<url>db/conf/sigmod/sigmod2005.html#ChaudhuriGGKNV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AgrawalCKMNS05" mdate="2022-10-02">
+<author pid="a/SanjayAgrawal">Sanjay Agrawal 0001</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="33/6917">Lubor Koll&#225;r</author>
+<author orcid="0000-0002-3789-7670" pid="m/APMarathe">Arunprasad P. Marathe</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="33/882">Manoj Syamala</author>
+<title>Database tuning advisor for microsoft SQL server 2005: demo.</title>
+<pages>930-932</pages>
+<year>2005</year>
+<crossref>conf/sigmod/2005</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1066157.1066292</ee>
+<url>db/conf/sigmod/sigmod2005.html#AgrawalCKMNS05</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/ChaudhuriDN04" mdate="2017-05-20">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="06/3699">Mayur Datar</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Index Selection for Databases: A Hardness Study and a Principled Heuristic Solution.</title>
+<pages>1313-1323</pages>
+<year>2004</year>
+<volume>16</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TKDE.2004.75</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2004.75</ee>
+<url>db/journals/tkde/tkde16.html#ChaudhuriDN04</url>
+</article>
+</r>
+<r><article key="journals/tods/ChaudhuriNS04" mdate="2018-11-06">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="s/SunitaSarawagi">Sunita Sarawagi</author>
+<title>Extracting predicates from mining models for efficient query evaluation.</title>
+<pages>508-544</pages>
+<year>2004</year>
+<volume>29</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1016028.1016031</ee>
+<url>db/journals/tods/tods29.html#ChaudhuriNS04</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/ChaudhuriKN04" mdate="2023-03-24">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="k/ACKonig">Arnd Christian K&#246;nig</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>SQLCM: A Continuous Monitoring Framework for Relational Database Engines.</title>
+<pages>473-484</pages>
+<year>2004</year>
+<crossref>conf/icde/2004</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2004.1320020</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2004.1320020</ee>
+<url>db/conf/icde/icde2004.html#ChaudhuriKN04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AgrawalNY04" mdate="2019-11-21">
+<author pid="a/SanjayAgrawal">Sanjay Agrawal 0001</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="31/4186">Beverly Yang</author>
+<title>Integrating Vertical and Horizontal Partitioning Into Automated Physical Database Design.</title>
+<year>2004</year>
+<crossref>conf/sigmod/2004</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2004.html#AgrawalNY04</url>
+<pages>359-370</pages>
+<ee>https://doi.org/10.1145/1007568.1007609</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChaudhuriNR04" mdate="2018-11-06">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>Estimating Progress of Long Running SQL Queries.</title>
+<year>2004</year>
+<crossref>conf/sigmod/2004</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2004.html#ChaudhuriNR04</url>
+<pages>803-814</pages>
+<ee>https://doi.org/10.1145/1007568.1007659</ee>
+<ee>http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/R-631.pdf</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/AgrawalCKMNS04" mdate="2022-10-02">
+<author pid="a/SanjayAgrawal">Sanjay Agrawal 0001</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="33/6917">Lubor Koll&#225;r</author>
+<author orcid="0000-0002-3789-7670" pid="m/APMarathe">Arunprasad P. Marathe</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="33/882">Manoj Syamala</author>
+<title>Database Tuning Advisor for Microsoft SQL Server 2005.</title>
+<year>2004</year>
+<crossref>conf/vldb/2004</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2004.html#AgrawalCKMNS04</url>
+<pages>1110-1121</pages>
+<ee>https://doi.org/10.1016/B978-012088469-8.50097-8</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AgrawalCDN03" mdate="2023-03-23">
+<author pid="a/RAgrawal">Rakesh Agrawal 0001</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="06/6865">Abhinandan Das</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Automating Layout of Relational Databases.</title>
+<pages>607-618</pages>
+<ee>https://doi.org/10.1109/ICDE.2003.1260825</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2003.1260825</ee>
+<year>2003</year>
+<crossref>conf/icde/2003</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2003.html#AgrawalCDN03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ChaudhuriGN03" mdate="2020-03-12">
+<ee type="oa">http://www.vldb.org/conf/2003/papers/S22P02.pdf</ee>
+<ee>https://doi.org/10.1016/B978-012722442-8/50070-7</ee>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="93/3997">Prasanna Ganesan</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Primitives for Workload Summarization and Implications for SQL.</title>
+<year>2003</year>
+<crossref>conf/vldb/2003</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2003.html#ChaudhuriGN03</url>
+<pages>730-741</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChaudhuriNS02" mdate="2023-03-24">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="s/SunitaSarawagi">Sunita Sarawagi</author>
+<title>Efficient Evaluation of Queries with Mining Predicates.</title>
+<pages>529-540</pages>
+<year>2002</year>
+<crossref>conf/icde/2002</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2002.994772</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2002.994772</ee>
+<url>db/conf/icde/icde2002.html#ChaudhuriNS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChaudhuriGN02" mdate="2018-11-06">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="45/5126">Ashish Kumar Gupta</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Compressing SQL workloads.</title>
+<pages>488-499</pages>
+<year>2002</year>
+<crossref>conf/sigmod/2002</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/564691.564747</ee>
+<url>db/conf/sigmod/sigmod2002.html#ChaudhuriGN02</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/ChaudhuriN01" mdate="2017-05-20">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Automating Statistics Management for Query Optimizers.</title>
+<pages>7-20</pages>
+<year>2001</year>
+<volume>13</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/69.908978</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/69.908978</ee>
+<url>db/journals/tkde/tkde13.html#ChaudhuriN01</url>
+</article>
+</r>
+<r><article key="journals/tkde/ChaudhuriN01a" mdate="2017-05-20">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Correction to 'Automating Statistics Management for Query Optimizers'.</title>
+<pages>526</pages>
+<year>2001</year>
+<volume>13</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TKDE.2001.929907</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2001.929907</ee>
+<url>db/journals/tkde/tkde13.html#ChaudhuriN01a</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/ChaudhuriDMN01" mdate="2024-02-05">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author orcid="0000-0002-4627-9065" pid="07/1181">Gautam Das 0001</author>
+<author pid="06/3699">Mayur Datar</author>
+<author pid="m/RajeevMotwani">Rajeev Motwani 0001</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Overcoming Limitations of Sampling for Aggregation Queries.</title>
+<year>2001</year>
+<crossref>conf/icde/2001</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2001.html#ChaudhuriDMN01</url>
+<pages>534-542</pages>
+<ee>https://doi.org/10.1109/ICDE.2001.914867</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2001.914867</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChaudhuriDN01" mdate="2024-02-05">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author orcid="0000-0002-4627-9065" pid="07/1181">Gautam Das 0001</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>A Robust, Optimization-Based Approach for Approximate Answering of Aggregate Queries.</title>
+<pages>295-306</pages>
+<year>2001</year>
+<crossref>conf/sigmod/2001</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2001.html#ChaudhuriDN01</url>
+<ee>https://doi.org/10.1145/375663.375694</ee>
+<ee>https://doi.org/10.1145/376284.375694</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AgrawalCN01" mdate="2021-03-12">
+<author pid="a/SanjayAgrawal">Sanjay Agrawal 0001</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Materialized View and Index Selection Tool for Microsoft SQL Server 2000.</title>
+<pages>608</pages>
+<year>2001</year>
+<crossref>conf/sigmod/2001</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2001.html#AgrawalCN01</url>
+<ee>https://doi.org/10.1145/375663.375769</ee>
+<ee>https://doi.org/10.1145/376284.375769</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChaudhuriN00" mdate="2023-03-23">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Automating Statistics Management for Query Optimizers.</title>
+<pages>339-348</pages>
+<year>2000</year>
+<crossref>conf/icde/2000</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2000.839433</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2000.839433</ee>
+<url>db/conf/icde/icde2000.html#ChaudhuriN00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/CharikarCMN00" mdate="2023-09-30">
+<author orcid="0000-0003-0807-3389" pid="c/MosesCharikar">Moses Charikar</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="m/RajeevMotwani">Rajeev Motwani 0001</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Towards Estimation Error Guarantees for Distinct Values.</title>
+<pages>268-279</pages>
+<year>2000</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods2000.html#CharikarCMN00</url>
+<crossref>conf/pods/00</crossref>
+<ee>https://doi.org/10.1145/335168.335230</ee>
+<cite>conf/stoc/AlonMS96</cite>
+<cite>journals/is/AstrahanSW87</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigmod/ChaudhuriMN98</cite>
+<cite>conf/sigmod/ChaudhuriMN99</cite>
+<cite>conf/vldb/ChaudhuriN97</cite>
+<cite>journals/tods/FinkelsteinST88</cite>
+<cite>conf/focs/FlajoletM83</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/vldb/HaasNSS95</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/pods/HouOT88</cite>
+<cite>conf/sigmod/HouOT89</cite>
+<cite>books/aw/Knuth73</cite>
+<cite>books/cu/MotwaniR95</cite>
+<cite>conf/icdt/NaughtonS90</cite>
+<cite>phd/Olken93</cite>
+<cite>...</cite>
+<cite>conf/dexa/OzsoyogluDTHR91</cite>
+<cite>conf/sigmod/PoosalaIHS96</cite>
+<cite>...</cite>
+<cite>journals/ipm/Sichel92</cite>
+<cite>...</cite>
+<cite>journals/tods/WhangVT90</cite>
+<cite>books/aw/Zipf49</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/AgrawalCN00" mdate="2020-03-12">
+<author pid="a/SanjayAgrawal">Sanjay Agrawal 0001</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Automated Selection of Materialized Views and Indexes in SQL Databases.</title>
+<pages>496-505</pages>
+<ee type="oa">http://www.vldb.org/conf/2000/P496.pdf</ee>
+<year>2000</year>
+<crossref>conf/vldb/2000</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2000.html#AgrawalCN00</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/ChaudhuriCGNZ99" mdate="2020-03-10">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="11/1472">Eric Christensen</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="74/1997">Michael J. Zwilling</author>
+<title>Self-Tuning Technology in Microsoft SQL Server.</title>
+<pages>20-26</pages>
+<year>1999</year>
+<volume>22</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<url>db/journals/debu/debu22.html#ChaudhuriCGNZ99</url>
+<cdrom>DEBU22-2/P20.pdf</cdrom>
+<ee type="oa">http://sites.computer.org/debull/99june/msft.ps</ee>
+<cite>...</cite>
+<cite>conf/vldb/ChaudhuriN97</cite>
+<cite>...</cite>
+<cite>conf/sigmod/ChaudhuriN98</cite>
+<cite>conf/vldb/GraefeBC98</cite>
+<cite>...</cite>
+<cite>...</cite>
+</article>
+</r>
+<r><inproceedings key="conf/icde/ChaudhuriN99" mdate="2023-03-23">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Index Merging.</title>
+<pages>296-303</pages>
+<cdrom>DiSC2_1/out/papers/icde/00710296.pdf</cdrom>
+<year>1999</year>
+<booktitle>ICDE</booktitle>
+<crossref>conf/icde/99</crossref>
+<ee>https://doi.org/10.1109/ICDE.1999.754945</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.1999.754945</ee>
+<url>db/conf/icde/icde99.html#ChaudhuriN99</url>
+<cite label="CBC93">...</cite>
+<cite label="C92">journals/is/Chu92</cite>
+<cite label="CMN98">conf/sigmod/ChaudhuriMN98</cite>
+<cite label="CN98">conf/sigmod/ChaudhuriN98</cite>
+<cite label="CNITW98">...</cite>
+<cite label="CN97">conf/vldb/ChaudhuriN97</cite>
+<cite label="CY90">conf/icde/CornellY87</cite>
+<cite label="DPP88">journals/is/DePP88</cite>
+<cite label="FON92">conf/edbt/FrankON92</cite>
+<cite label="FST88">journals/tods/FinkelsteinST88</cite>
+<cite label="GHRU97">conf/icde/GuptaHRU97</cite>
+<cite label="HN79">conf/sigmod/HammerN79</cite>
+<cite label="HS75">conf/vldb/HofferS75</cite>
+<cite label="M83">journals/csur/March83</cite>
+<cite label="NCWD84">journals/tods/NavatheCWD84</cite>
+<cite label="NR89">conf/sigmod/NavatheR89</cite>
+<cite label="RS91">conf/vldb/RozenS91</cite>
+<cite label="S98">conf/vldb/Slutz98</cite>
+<cite label="TPC93">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChaudhuriMN99" mdate="2021-03-12">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="m/RajeevMotwani">Rajeev Motwani 0001</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>On Random Sampling over Joins.</title>
+<cdrom>DiSC2_1/out/papers/sigmod/onrandomsamplinsurav.pdf</cdrom>
+<pages>263-274</pages>
+<year>1999</year>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod99.html#ChaudhuriMN99</url>
+<crossref>conf/sigmod/99</crossref>
+<ee>https://doi.org/10.1145/304182.304206</ee>
+<ee>https://doi.org/10.1145/304181.304206</ee>
+<cite>conf/sigmod/ChaudhuriMN98</cite>
+<cite>conf/sigmod/GangulyGMS96</cite>
+<cite>conf/pods/HaasNS94</cite>
+<cite>conf/sigmod/HellersteinHW97</cite>
+<cite>conf/sigmod/HouOD91</cite>
+<cite>journals/tcs/LiptonNSS93</cite>
+<cite>books/cu/MotwaniR95</cite>
+<cite>conf/icdt/NaughtonS90</cite>
+<cite>conf/vldb/OlkenR86</cite>
+<cite>...</cite>
+<cite>conf/sigmod/Piatetsky-ShapiroC84</cite>
+<cite>journals/toms/Vitter85</cite>
+<cite>books/aw/Zipf49</cite>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/LometBCLN98" mdate="2020-03-06">
+<ee>https://doi.org/10.1145/290593.290608</ee>
+<author pid="l/DavidBLomet">David B. Lomet</author>
+<author pid="b/RogerSBarga">Roger S. Barga</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>The Microsoft Database Research Group.</title>
+<pages>81-85</pages>
+<cdrom>sigmodR/27-3/P081.pdf</cdrom>
+<year>1998</year>
+<volume>27</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<url>db/journals/sigmod/sigmod27.html#LometBCLN98</url>
+<cite label="LT95">conf/vldb/LometT95</cite>
+<cite label="L97">...</cite>
+<cite label="L98">conf/icde/Lomet98</cite>
+<cite label="LW98">conf/sigmod/LometW98</cite>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/ChaudhuriN98" mdate="2021-03-11">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>AutoAdmin 'What-if' Index Analysis Utility.</title>
+<pages>367-378</pages>
+<year>1998</year>
+<crossref>conf/sigmod/98</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod98.html#ChaudhuriN98</url>
+<ee>https://doi.org/10.1145/276304.276337</ee>
+<ee>https://doi.org/10.1145/276305.276337</ee>
+<cdrom>SIGMOD98/P367.PDF</cdrom>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigmod/ChaudhuriMN98</cite>
+<cite>conf/vldb/ChaudhuriN97</cite>
+<cite>conf/edbt/FrankON92</cite>
+<cite>journals/tods/FinkelsteinST88</cite>
+<cite>conf/icde/GuptaHRU97</cite>
+<cite>conf/sigmod/HarinarayanRU96</cite>
+<cite>conf/icde/LabioQA97</cite>
+<cite>...</cite>
+<cite>conf/vldb/RozenS91</cite>
+<cite>conf/sigmod/Stonebraker81</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChaudhuriMN98" mdate="2021-03-11">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="m/RajeevMotwani">Rajeev Motwani 0001</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Random Sampling for Histogram Construction: How much is enough?</title>
+<pages>436-447</pages>
+<year>1998</year>
+<crossref>conf/sigmod/98</crossref>
+<ee>https://doi.org/10.1145/276304.276343</ee>
+<ee>https://doi.org/10.1145/276305.276343</ee>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod98.html#ChaudhuriMN98</url>
+<cdrom>SIGMOD98/P436.PDF</cdrom>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/vldb/ChaudhuriN97</cite>
+<cite>journals/tods/FinkelsteinST88</cite>
+<cite>conf/vldb/GibbonsMP97</cite>
+<cite>...</cite>
+<cite>conf/vldb/HaasNSS95</cite>
+<cite>conf/sigmod/HaasS92</cite>
+<cite>conf/sigmod/HouOD91</cite>
+<cite>conf/pods/HouOT88</cite>
+<cite>conf/sigmod/HouOT89</cite>
+<cite>conf/sigmod/IoannidisP95</cite>
+<cite>journals/debu/IoannidisP95</cite>
+<cite>conf/icde/LingS95</cite>
+<cite>conf/pods/LiptonN90</cite>
+<cite>conf/sigmod/LiptonNS90</cite>
+<cite>journals/tcs/LiptonNSS93</cite>
+<cite>books/cu/MotwaniR95</cite>
+<cite>conf/icdt/NaughtonS90</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/dexa/OzsoyogluDTHR91</cite>
+<cite>conf/sigmod/PoosalaIHS96</cite>
+<cite>conf/sigmod/Piatetsky-ShapiroC84</cite>
+<cite>conf/sigmod/SelingerACLP79</cite>
+<cite>books/aw/Zipf49</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChaudhuriN98a" mdate="2021-03-11">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>Microsoft Index Tuning Wizard for SQL Server 7.0.</title>
+<pages>553-554</pages>
+<year>1998</year>
+<crossref>conf/sigmod/98</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod98.html#ChaudhuriN98a</url>
+<ee>https://doi.org/10.1145/276304.276378</ee>
+<ee>https://doi.org/10.1145/276305.276378</ee>
+<cdrom>SIGMOD98/P553.PDF</cdrom>
+<cite>conf/vldb/ChaudhuriN97</cite>
+<cite>conf/sigmod/ChaudhuriN98</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ChaudhuriN97" mdate="2012-09-17">
+<crossref>conf/vldb/97</crossref>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<title>An Efficient Cost-Driven Index Selection Tool for Microsoft SQL Server.</title>
+<pages>146-155</pages>
+<year>1997</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb97.html#ChaudhuriN97</url>
+<ee>http://www.vldb.org/conf/1997/P146.PDF</ee>
+<cite label="CBC">...</cite>
+<cite label="CBC93">...</cite>
+<cite label="CG93">...</cite>
+<cite label="CN97">...</cite>
+<cite label="FON92">conf/edbt/FrankON92</cite>
+<cite label="FST88">journals/tods/FinkelsteinST88</cite>
+<cite label="GHRU97">conf/icde/GuptaHRU97</cite>
+<cite label="Hc76">conf/sigmod/HammerC76</cite>
+<cite label="HE91">...</cite>
+<cite label="RSS96">conf/sigmod/RossSS96</cite>
+<cite label="HRU96">conf/sigmod/HarinarayanRU96</cite>
+<cite label="LQA97">conf/icde/LabioQA97</cite>
+<cite label="RS91">conf/vldb/RozenS91</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/osdi/FeeleyCNL94" mdate="2012-05-21">
+<author pid="f/MJFeeley">Michael J. Feeley</author>
+<author pid="c/JSChase">Jeffrey S. Chase</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="l/HenryMLevy">Henry M. Levy</author>
+<title>Integrating Coherency and Recoverability in Distributed Systems.</title>
+<pages>215-227</pages>
+<year>1994</year>
+<crossref>conf/osdi/1994</crossref>
+<booktitle>OSDI</booktitle>
+<url>db/conf/osdi/osdi94.html#FeeleyCNL94</url>
+<ee>http://dl.acm.org/citation.cfm?id=1267654</ee>
+</inproceedings>
+</r>
+<coauthors n="143" nc="1">
+<co c="0"><na f="a/Acharya:Vidip" pid="273/7130">Vidip Acharya</na></co>
+<co c="0"><na f="a/Agrawal_0001:Rakesh" pid="a/RAgrawal">Rakesh Agrawal 0001</na></co>
+<co c="0"><na f="a/Agrawal_0001:Sanjay" pid="a/SanjayAgrawal">Sanjay Agrawal 0001</na></co>
+<co c="0" n="2"><na f="a/Ailamaki:Anastasia" pid="a/AnastassiaAilamaki">Anastasia Ailamaki</na><na>Anastassia Ailamaki</na></co>
+<co c="0"><na f="a/Arasu:Arvind" pid="a/ArvindArasu">Arvind Arasu</na></co>
+<co c="0"><na f="a/Arora:Pankaj" pid="282/0711">Pankaj Arora</na></co>
+<co c="0"><na f="a/Azimi:Reza" pid="62/2658">Reza Azimi</na></co>
+<co c="0"><na f="b/Babu:Shivnath" pid="b/ShivnathBabu">Shivnath Babu</na></co>
+<co c="0"><na f="b/Balakrishnan:Shobana" pid="28/1624">Shobana Balakrishnan</na></co>
+<co c="0"><na f="b/Barga:Roger_S=" pid="b/RogerSBarga">Roger S. Barga</na></co>
+<co c="0"><na f="b/Bernstein:Philip_A=" pid="b/PhilipABernstein">Philip A. Bernstein</na></co>
+<co c="0"><na f="b/Bruno:Nicolas" pid="b/NicolasBruno">Nicolas Bruno</na></co>
+<co c="0"><na f="c/Chakrabarti:Kaushik" pid="c/KaushikChakrabarti">Kaushik Chakrabarti</na></co>
+<co c="0"><na f="c/Chandramouli:Badrish" pid="01/2861">Badrish Chandramouli</na></co>
+<co c="0"><na f="c/Charikar:Moses" pid="c/MosesCharikar">Moses Charikar</na></co>
+<co c="0"><na f="c/Chase:Jeffrey_S=" pid="c/JSChase">Jeffrey S. Chase</na></co>
+<co c="0"><na f="c/Chaudhuri:Surajit" pid="c/SurajitChaudhuri">Surajit Chaudhuri</na></co>
+<co c="0"><na f="c/Chen:Alex" pid="33/11243">Alex Chen</na></co>
+<co c="0"><na f="c/Chen:Zhimin" pid="08/6318">Zhimin Chen</na></co>
+<co c="0"><na f="c/Cheng:Tao" pid="181/2732">Tao Cheng</na></co>
+<co c="0"><na f="c/Christensen:Eric" pid="11/1472">Eric Christensen</na></co>
+<co c="0"><na f="c/Chu:Eric" pid="83/3305">Eric Chu</na></co>
+<co c="0"><na f="c/Chu:Xu" pid="131/4767">Xu Chu</na></co>
+<co c="0"><na f="d/Das:Abhinandan" pid="06/6865">Abhinandan Das</na></co>
+<co c="0"><na f="d/Das_0001:Gautam" pid="07/1181">Gautam Das 0001</na></co>
+<co c="0"><na f="d/Das:Sudipto" pid="71/5974">Sudipto Das</na></co>
+<co c="0"><na f="d/Dasgupta:Arjun" pid="68/4911">Arjun Dasgupta</na></co>
+<co c="0"><na f="d/Datar:Mayur" pid="06/3699">Mayur Datar</na></co>
+<co c="0"><na f="d/Dave:Apoorve" pid="273/6896">Apoorve Dave</na></co>
+<co c="0"><na f="d/Dayal:Umeshwar" pid="76/2198">Umeshwar Dayal</na></co>
+<co c="0"><na f="d/Dhody:Gurleen" pid="300/4383">Gurleen Dhody</na></co>
+<co c="0"><na f="d/Ding:Bailu" pid="163/0574">Bailu Ding</na></co>
+<co c="0"><na f="d/Ding:Bolin" pid="46/3522">Bolin Ding</na></co>
+<co c="0"><na f="d/Dong:Junfeng" pid="29/3616">Junfeng Dong</na></co>
+<co c="0"><na f="d/Dumitru:Marius" pid="82/5967">Marius Dumitru</na></co>
+<co c="0"><na f="d/Dutt:Anshuman" pid="147/1241">Anshuman Dutt</na></co>
+<co c="0"><na f="d/Dziedzic:Adam" pid="191/0540">Adam Dziedzic</na></co>
+<co c="0"><na f="e/Eksarevskiy:Alexey" pid="181/5867">Alexey Eksarevskiy</na></co>
+<co c="0"><na f="e/Ellwein:Brent" pid="181/5769">Brent Ellwein</na></co>
+<co c="0"><na f="e/Elmongui:Hicham_G=" pid="15/5649">Hicham G. Elmongui</na></co>
+<co c="0"><na f="e/Elnikety:Sameh" pid="18/1967">Sameh Elnikety</na></co>
+<co c="0"><na f="f/Feeley:Michael_J=" pid="f/MJFeeley">Michael J. Feeley</na></co>
+<co c="0"><na f="f/Fogarty:Andrew" pid="273/7169">Andrew Fogarty</na></co>
+<co c="0"><na f="f/Furtado_0001:Pedro" pid="f/PedroFurtado">Pedro Furtado 0001</na></co>
+<co c="0"><na f="g/Galindo=Legaria:C=eacute=sar_A=" pid="84/3247">C&#233;sar A. Galindo-Legaria</na></co>
+<co c="0"><na f="g/Ganesan:Prasanna" pid="93/3997">Prasanna Ganesan</na></co>
+<co c="0"><na f="g/Ganjam:Kris" pid="g/KrisGanjam">Kris Ganjam</na></co>
+<co c="0"><na f="g/Ganti:Venkatesh" pid="g/VenkateshGanti">Venkatesh Ganti</na></co>
+<co c="0"><na f="g/Gehrke:Johannes" pid="g/JohannesGehrke">Johannes Gehrke</na></co>
+<co c="0"><na f="g/George:Cyril" pid="361/4879">Cyril George</na></co>
+<co c="0"><na f="g/Giakoumakis:Leo" pid="31/3294">Leo Giakoumakis</na></co>
+<co c="0"><na f="g/Graefe:Goetz" pid="g/GoetzGraefe">Goetz Graefe</na></co>
+<co c="0"><na f="g/Grbic:Miroslav" pid="243/2521">Miroslav Grbic</na></co>
+<co c="0"><na f="g/Gupta:Ashish_Kumar" pid="45/5126">Ashish Kumar Gupta</na></co>
+<co c="0"><na f="h/He:Yeye" pid="14/7259">Yeye He</na></co>
+<co c="0"><na f="h/Herodotou:Herodotos" pid="26/5170">Herodotos Herodotou</na></co>
+<co c="0"><na f="i/Idreos:Stratos" pid="i/StratosIdreos">Stratos Idreos</na></co>
+<co c="0"><na f="i/Ilic:Igor" pid="208/5534">Igor Ilic</na></co>
+<co c="0"><na f="i/Iorgulescu:Calin" pid="145/2121">Calin Iorgulescu</na></co>
+<co c="0"><na f="j/Jo:Saehan" pid="211/2846">Saehan Jo</na></co>
+<co c="0"><na f="j/Jovandic:Isidora" pid="243/2421">Isidora Jovandic</na></co>
+<co c="0"><na f="j/Jovanovic:Andrija" pid="86/10357">Andrija Jovanovic</na></co>
+<co c="0"><na f="k/Kakaraparthy:Aarati" pid="244/9171">Aarati Kakaraparthy</na></co>
+<co c="0"><na f="k/Kalhan:Ajay" pid="24/9582">Ajay Kalhan</na></co>
+<co c="0"><na f="k/Kandula:Srikanth" pid="k/SrikanthKandula">Srikanth Kandula</na></co>
+<co c="0"><na f="k/Kapoor:Rahul" pid="56/16">Rahul Kapoor</na></co>
+<co c="0"><na f="k/Kaushik:Raghav" pid="09/2901">Raghav Kaushik</na></co>
+<co c="0"><na f="k/Kim:Terry" pid="222/9645">Terry Kim</na></co>
+<co c="0"><na f="k/Kimura_0001:Hideaki" pid="98/5721-1">Hideaki Kimura 0001</na></co>
+<co c="0"><na f="k/Kohli:Manbeen" pid="181/5728">Manbeen Kohli</na></co>
+<co c="0"><na f="k/Koll=aacute=r:Lubor" pid="33/6917">Lubor Koll&#225;r</na></co>
+<co c="0"><na f="k/K=ouml=nig:Arnd_Christian" pid="k/ACKonig">Arnd Christian K&#246;nig</na></co>
+<co c="0"><na f="k/Kwon:Youngjin" pid="94/8239">Youngjin Kwon</na></co>
+<co c="0"><na f="l/Lang:Willis" pid="89/6325">Willis Lang</na></co>
+<co c="0"><na f="l/Larson:Per==Aring=ke" pid="l/PALarson">Per-&#197;ke Larson</na></co>
+<co c="0"><na f="l/Lee:Hongrae" pid="73/5604">Hongrae Lee</na></co>
+<co c="0"><na f="l/Lee:Kukjin" pid="43/3767">Kukjin Lee</na></co>
+<co c="0"><na f="l/Levy:Henry_M=" pid="l/HenryMLevy">Henry M. Levy</na></co>
+<co c="0"><na f="l/Li:Changsong" pid="37/9428">Changsong Li</na></co>
+<co c="0"><na f="l/Li:Feng" pid="92/2954">Feng Li</na></co>
+<co c="0"><na f="l/Li:Jiexing" pid="79/796">Jiexing Li</na></co>
+<co c="0"><na f="l/Li:Jiying" pid="35/10074">Jiying Li</na></co>
+<co c="0"><na f="l/Lightstone:Sam" pid="31/3001">Sam Lightstone</na></co>
+<co c="0"><na f="l/Liu:Jiaqi" pid="51/2773">Jiaqi Liu</na></co>
+<co c="0"><na f="l/Lohman:Guy_M=" pid="21/2457">Guy M. Lohman</na></co>
+<co c="0"><na f="l/Lomet:David_B=" pid="l/DavidBLomet">David B. Lomet</na></co>
+<co c="0"><na f="m/Maas:Lukas_M=" pid="131/4096">Lukas M. Maas</na></co>
+<co c="0"><na f="m/Marathe:Arunprasad_P=" pid="m/APMarathe">Arunprasad P. Marathe</na></co>
+<co c="0"><na f="m/Marcus:Ryan" pid="175/1473">Ryan Marcus</na></co>
+<co c="0"><na f="m/Marshall:Luke" pid="207/0065">Luke Marshall</na></co>
+<co c="0"><na f="m/Martin_0001:Patrick" pid="m/PatrickMartin">Patrick Martin 0001</na></co>
+<co c="0"><na f="m/Mata:Akshay" pid="361/4896">Akshay Mata</na></co>
+<co c="0"><na f="m/Menache:Ishai" pid="65/5280">Ishai Menache</na></co>
+<co c="0"><na f="m/Moeller:Justin" pid="295/3191">Justin Moeller</na></co>
+<co c="0"><na f="m/Motwani_0001:Rajeev" pid="m/RajeevMotwani">Rajeev Motwani 0001</na></co>
+<co c="0"><na f="n/Naughton:Jeffrey_F=" pid="n/JeffreyFNaughton">Jeffrey F. Naughton</na></co>
+<co c="0"><na f="n/Nazi:Azade" pid="99/7868">Azade Nazi</na></co>
+<co c="0"><na f="n/Nehme:Rimma_V=" pid="94/81">Rimma V. Nehme</na></co>
+<co c="0"><na f="n/Newatia:Karan" pid="304/2470">Karan Newatia</na></co>
+<co c="0" n="2"><na f="n/Nori:Anil_K=" pid="85/3087">Anil K. Nori</na><na>Anil Nori</na></co>
+<co c="0"><na f="n/Novik:Lev" pid="69/4827">Lev Novik</na></co>
+<co c="0"><na f="o/Olma:Matthaios" pid="147/1263">Matthaios Olma</na></co>
+<co c="0"><na f="o/Oslake:Morgan" pid="275/3432">Morgan Oslake</na></co>
+<co c="0"><na f="p/Park_0001:Hyunjung" pid="41/4465">Hyunjung Park 0001</na></co>
+<co c="0"><na f="p/Pauley:Glenn" pid="08/3154">Glenn Pauley</na></co>
+<co c="0"><na f="p/Pirzadeh:Pouria" pid="69/7215">Pouria Pirzadeh</na></co>
+<co c="0"><na f="p/Polyzotis:Neoklis" pid="p/NeoklisPolyzotis">Neoklis Polyzotis</na></co>
+<co c="0"><na f="p/Potharaju:Rahul" pid="92/8486">Rahul Potharaju</na></co>
+<co c="0"><na f="p/Prakash:Praneeta" pid="181/5738">Praneeta Prakash</na></co>
+<co c="0"><na f="r/Radulovic:Miodrag" pid="243/2339">Miodrag Radulovic</na></co>
+<co c="0"><na f="r/Ramakrishnan:Raghu" pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</na></co>
+<co c="0"><na f="r/Ramamurthy:Ravishankar" pid="02/4973">Ravishankar Ramamurthy</na></co>
+<co c="0"><na f="r/Ramanujam:Sinduja" pid="273/7034">Sinduja Ramanujam</na></co>
+<co c="0"><na f="r/Rezai:Elnaz" pid="361/5049">Elnaz Rezai</na></co>
+<co c="0"><na f="s/Salem:Kenneth" pid="s/KennethSalem">Kenneth Salem</na></co>
+<co c="0"><na f="s/Sarawagi:Sunita" pid="s/SunitaSarawagi">Sunita Sarawagi</na></co>
+<co c="0"><na f="s/Sattler:Kai=Uwe" pid="s/KaiUweSattler">Kai-Uwe Sattler</na></co>
+<co c="0"><na f="s/Shan:Yi" pid="74/7863">Yi Shan</na></co>
+<co c="0"><na f="s/Siddiqui:Tarique" pid="179/2728">Tarique Siddiqui</na></co>
+<co c="0"><na f="s/Singh:Mohit" pid="21/6018">Mohit Singh</na></co>
+<co c="0"><na f="s/Song:Eunjin" pid="220/9205">Eunjin Song</na></co>
+<co c="0"><na f="s/Stikic:Maja" pid="97/6794">Maja Stikic</na></co>
+<co c="0"><na f="s/Syamala:Manoj" pid="33/882">Manoj Syamala</na></co>
+<co c="0"><na f="t/Talius:Tomas" pid="46/9582">Tomas Talius</na></co>
+<co c="0"><na f="t/Tomita:Paulo" pid="223/0833">Paulo Tomita</na></co>
+<co c="0"><na f="v/Vaidya:Kapil" pid="188/6341">Kapil Vaidya</na></co>
+<co c="0"><na f="v/Vassilakis:Theo" pid="11/780">Theo Vassilakis</na></co>
+<co c="0"><na f="w/Wang_0001:Chi" pid="09/404-1">Chi Wang 0001</na></co>
+<co c="0"><na f="w/Wang_0008:Jingjing" pid="62/2631-8">Jingjing Wang 0008</na></co>
+<co c="0"><na f="w/Wang:Junhua" pid="88/3634">Junhua Wang</na></co>
+<co c="0"><na f="w/Wang:Junxiong" pid="154/6374">Junxiong Wang</na></co>
+<co c="0"><na f="w/Wang:Yue" pid="33/4822">Yue Wang</na></co>
+<co c="0"><na f="w/Weikum:Gerhard" pid="w/GerhardWeikum">Gerhard Weikum</na></co>
+<co c="0"><na f="w/Wu_0001:Wentao" pid="29/85">Wentao Wu 0001</na></co>
+<co c="0"><na f="w/Wyant:Jacob" pid="181/5709">Jacob Wyant</na></co>
+<co c="0"><na f="x/Xu:Gaoxiang" pid="224/6709">Gaoxiang Xu</na></co>
+<co c="0"><na f="x/Xu:Shize" pid="121/4075">Shize Xu</na></co>
+<co c="0"><na f="y/Yang:Beverly" pid="31/4186">Beverly Yang</na></co>
+<co c="0"><na f="z/Zhang:Jack" pid="154/6209">Jack Zhang</na></co>
+<co c="0"><na f="z/Zheng:Yudian" pid="160/1053">Yudian Zheng</na></co>
+<co c="0"><na f="z/Ziegler_0001:Tobias" pid="146/6632">Tobias Ziegler 0001</na></co>
+<co c="0"><na f="z/Zois:Vasileios" pid="158/9045">Vasileios Zois</na></co>
+<co c="0" n="2"><na f="z/Zwilling:Mike" pid="74/1997">Mike Zwilling</na><na>Michael J. Zwilling</na></co>
+</coauthors>
+</dblpperson>

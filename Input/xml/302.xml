@@ -1,0 +1,1290 @@
+<dblpperson name="Hannes Voigt" pid="19/1082" n="69">
+<person key="homepages/19/1082" mdate="2023-11-26">
+<author pid="19/1082">Hannes Voigt</author>
+<note type="affiliation">Neo4j, Leipzig, Germany</note>
+<url>https://orcid.org/0000-0002-2148-9592</url>
+</person>
+<r><inproceedings key="conf/edbt/Rost0BVRHPSV24" mdate="2024-03-22">
+<author pid="238/4349">Christopher Rost</author>
+<author pid="169/8184">Riccardo Tommasini 0001</author>
+<author pid="b/ABonifati">Angela Bonifati</author>
+<author pid="91/4526">Emanuele Della Valle</author>
+<author pid="r/ERahm">Erhard Rahm</author>
+<author pid="295/3446">Keith W. Hare</author>
+<author pid="93/3568">Stefan Plantikow</author>
+<author pid="50/7441">Petra Selmer</author>
+<author pid="19/1082">Hannes Voigt</author>
+<title>Seraph: Continuous Queries on Property Graph Streams.</title>
+<pages>234-247</pages>
+<year>2024</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.48786/edbt.2024.21</ee>
+<crossref>conf/edbt/2024</crossref>
+<url>db/conf/edbt/edbt2024.html#Rost0BVRHPSV24</url>
+</inproceedings>
+</r>
+<r><article key="journals/pacmmod/AnglesBD0GHLLMM23" mdate="2023-07-07">
+<author orcid="0000-0002-6740-9711" pid="36/2474">Renzo Angles</author>
+<author orcid="0000-0002-9582-869X" pid="b/ABonifati">Angela Bonifati</author>
+<author orcid="0000-0002-6664-0620" pid="143/2670">Stefania Dumbrava</author>
+<author orcid="0000-0003-2111-6769" pid="f/GeorgeHLFletcher">George Fletcher 0001</author>
+<author orcid="0000-0002-3166-6708" pid="65/2807">Alastair Green</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author orcid="0009-0002-8102-978X" pid="11/4103">Bei Li</author>
+<author orcid="0000-0002-6698-2735" pid="l/LeonidLibkin">Leonid Libkin</author>
+<author orcid="0000-0002-2325-6004" pid="117/9191">Victor Marsault</author>
+<author orcid="0000-0001-9480-3522" pid="95/3517">Wim Martens</author>
+<author orcid="0000-0003-0989-3717" pid="14/4251">Filip Murlak</author>
+<author orcid="0009-0006-2910-1050" pid="93/3568">Stefan Plantikow</author>
+<author orcid="0000-0002-9141-3008" pid="118/2620">Ognjen Savkovic</author>
+<author orcid="0009-0002-3292-0349" pid="48/3452">Michael Schmidt</author>
+<author orcid="0000-0003-3112-9299" pid="93/3423">Juan Sequeda</author>
+<author orcid="0000-0003-3684-3395" pid="47/5817">Slawek Staworko</author>
+<author orcid="0000-0003-1806-067X" pid="53/10105">Dominik Tomaszuk</author>
+<author orcid="0000-0002-2148-9592" pid="19/1082">Hannes Voigt</author>
+<author orcid="0000-0001-5854-2652" pid="31/8653">Domagoj Vrgoc</author>
+<author orcid="0009-0009-2738-7018" pid="w/MingxiWu">Mingxi Wu</author>
+<author orcid="0009-0003-4658-3774" pid="251/5323">Dusan Zivkovic</author>
+<title>PG-Schema: Schemas for Property Graphs.</title>
+<pages>198:1-198:25</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3589778</ee>
+<url>db/journals/pacmmod/pacmmod1.html#AnglesBD0GHLLMM23</url>
+</article>
+</r>
+<r><article key="journals/vldb/BonifatiV22" mdate="2022-12-07">
+<author orcid="0000-0002-9582-869X" pid="b/ABonifati">Angela Bonifati</author>
+<author pid="19/1082">Hannes Voigt</author>
+<title>Special issue on big graph data management and processing.</title>
+<pages>201-202</pages>
+<year>2022</year>
+<volume>31</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-022-00732-6</ee>
+<url>db/journals/vldb/vldb31.html#BonifatiV22</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/DeutschFGHLLLMM22" mdate="2022-12-07">
+<author pid="d/AlinDeutsch">Alin Deutsch</author>
+<author pid="78/9854">Nadime Francis</author>
+<author pid="65/2807">Alastair Green</author>
+<author pid="306/7635">Keith Hare</author>
+<author pid="11/4103">Bei Li</author>
+<author pid="l/LeonidLibkin">Leonid Libkin</author>
+<author pid="211/6985">Tobias Lindaaker</author>
+<author orcid="0000-0002-2325-6004" pid="117/9191">Victor Marsault</author>
+<author pid="95/3517">Wim Martens</author>
+<author pid="309/5819">Jan Michels</author>
+<author pid="14/4251">Filip Murlak</author>
+<author pid="93/3568">Stefan Plantikow</author>
+<author pid="50/7441">Petra Selmer</author>
+<author pid="130/9761">Oskar van Rest</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="31/8653">Domagoj Vrgoc</author>
+<author pid="w/MingxiWu">Mingxi Wu</author>
+<author pid="36/3923">Fred Zemke</author>
+<title>Graph Pattern Matching in GQL and SQL/PGQ.</title>
+<pages>2246-2258</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3526057</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#DeutschFGHLLLMM22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-10962" mdate="2022-12-02">
+<author pid="36/2474">Renzo Angles</author>
+<author pid="b/ABonifati">Angela Bonifati</author>
+<author pid="143/2670">Stefania Dumbrava</author>
+<author pid="f/GeorgeHLFletcher">George Fletcher 0001</author>
+<author pid="65/2807">Alastair Green</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="11/4103">Bei Li</author>
+<author pid="l/LeonidLibkin">Leonid Libkin</author>
+<author pid="117/9191">Victor Marsault</author>
+<author pid="95/3517">Wim Martens</author>
+<author pid="14/4251">Filip Murlak</author>
+<author pid="93/3568">Stefan Plantikow</author>
+<author pid="118/2620">Ognjen Savkovic</author>
+<author pid="48/3452">Michael Schmidt</author>
+<author pid="93/3423">Juan Sequeda</author>
+<author pid="47/5817">Slawek Staworko</author>
+<author pid="53/10105">Dominik Tomaszuk</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="31/8653">Domagoj Vrgoc</author>
+<author pid="w/MingxiWu">Mingxi Wu</author>
+<author pid="251/5323">Dusan Zivkovic</author>
+<title>PG-Schema: Schemas for Property Graphs.</title>
+<year>2022</year>
+<volume>abs/2211.10962</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.10962</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-10962</url>
+</article>
+</r>
+<r><article key="journals/cacm/SakrBVIAAAABBDV21" mdate="2021-10-14">
+<author pid="s/SherifSakr">Sherif Sakr</author>
+<author pid="b/ABonifati">Angela Bonifati</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="85/2489">Alexandru Iosup</author>
+<author pid="29/9884">Khaled Ammar</author>
+<author pid="36/2474">Renzo Angles</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="76/6735">Marcelo Arenas</author>
+<author pid="136/7953">Maciej Besta</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="d/KhuzaimaDaudjee">Khuzaima Daudjee</author>
+<author pid="91/4526">Emanuele Della Valle</author>
+<author orcid="0000-0002-6664-0620" pid="143/2670">Stefania Dumbrava</author>
+<author pid="29/3132">Olaf Hartig</author>
+<author pid="85/3208">Bernhard Haslhofer</author>
+<author pid="139/4230">Tim Hegeman</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="h/KatjaHose">Katja Hose</author>
+<author orcid="0000-0002-2397-8963" pid="33/5916">Adriana Iamnitchi</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="281/6816">Hugo Kapp</author>
+<author pid="95/3517">Wim Martens</author>
+<author pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<author pid="91/7933">Eric Peukert</author>
+<author pid="93/3568">Stefan Plantikow</author>
+<author pid="205/4727">Mohamed Ragab 0001</author>
+<author pid="93/24">Matei Ripeanu</author>
+<author pid="55/6560">Semih Salihoglu</author>
+<author pid="10/1388-3">Christian Schulz 0003</author>
+<author pid="50/7441">Petra Selmer</author>
+<author pid="93/3423">Juan F. Sequeda</author>
+<author pid="27/3988">Joshua Shinavier</author>
+<author pid="151/1414">G&#225;bor Sz&#225;rnyas</author>
+<author pid="169/8184">Riccardo Tommasini 0001</author>
+<author pid="53/3654">Antonino Tumeo</author>
+<author pid="154/4519">Alexandru Uta</author>
+<author pid="62/3310">Ana Lucia Varbanescu</author>
+<author pid="11/7258">Hsiang-Yun Wu</author>
+<author pid="92/9686">Nikolay Yakovets</author>
+<author pid="81/9436-1">Da Yan 0001</author>
+<author pid="12/6940">Eiko Yoneki</author>
+<title>The future is big graphs: a community view on graph processing systems.</title>
+<pages>62-71</pages>
+<year>2021</year>
+<volume>64</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<ee>https://doi.org/10.1145/3434642</ee>
+<url>db/journals/cacm/cacm64.html#SakrBVIAAAABBDV21</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2111-09228" mdate="2021-11-22">
+<author pid="219/8169">Emanuele Falzone</author>
+<author pid="169/8184">Riccardo Tommasini 0001</author>
+<author pid="91/4526">Emanuele Della Valle</author>
+<author pid="50/7441">Petra Selmer</author>
+<author pid="93/3568">Stefan Plantikow</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="306/7635">Keith Hare</author>
+<author pid="306/7977">Ljubica Lazarevic</author>
+<author pid="211/6985">Tobias Lindaaker</author>
+<title>Semantic Foundations of Seraph Continuous Graph Query Language.</title>
+<year>2021</year>
+<volume>abs/2111.09228</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2111.09228</ee>
+<url>db/journals/corr/corr2111.html#abs-2111-09228</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-06217" mdate="2022-12-07">
+<author pid="d/AlinDeutsch">Alin Deutsch</author>
+<author pid="78/9854">Nadime Francis</author>
+<author pid="65/2807">Alastair Green</author>
+<author pid="306/7635">Keith Hare</author>
+<author pid="11/4103">Bei Li</author>
+<author pid="l/LeonidLibkin">Leonid Libkin</author>
+<author pid="211/6985">Tobias Lindaaker</author>
+<author orcid="0000-0002-2325-6004" pid="117/9191">Victor Marsault</author>
+<author pid="95/3517">Wim Martens</author>
+<author pid="309/5819">Jan Michels</author>
+<author pid="14/4251">Filip Murlak</author>
+<author pid="93/3568">Stefan Plantikow</author>
+<author pid="50/7441">Petra Selmer</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="130/9761">Oskar van Rest</author>
+<author pid="31/8653">Domagoj Vrgoc</author>
+<author pid="w/MingxiWu">Mingxi Wu</author>
+<author pid="36/3923">Fred Zemke</author>
+<title>Graph Pattern Matching in GQL and SQL/PGQ.</title>
+<year>2021</year>
+<volume>abs/2112.06217</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.06217</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-06217</url>
+</article>
+</r>
+<r><article key="journals/vldb/IdrisUVVL20" mdate="2020-07-06">
+<author orcid="0000-0001-9764-2322" pid="84/8571">Muhammad Idris</author>
+<author orcid="0000-0001-9951-2310" pid="131/4268">Mart&#237;n Ugarte</author>
+<author orcid="0000-0001-7793-9049" pid="28/3797">Stijn Vansummeren</author>
+<author orcid="0000-0002-2148-9592" pid="19/1082">Hannes Voigt</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<title>General dynamic Yannakakis: conjunctive queries with theta joins under updates.</title>
+<pages>619-653</pages>
+<year>2020</year>
+<volume>29</volume>
+<journal>VLDB J.</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1007/s00778-019-00590-9</ee>
+<url>db/journals/vldb/vldb29.html#IdrisUVVL20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-06171" mdate="2023-09-30">
+<author pid="s/SherifSakr">Sherif Sakr</author>
+<author pid="b/ABonifati">Angela Bonifati</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="85/2489">Alexandru Iosup</author>
+<author pid="29/9884">Khaled Ammar</author>
+<author pid="36/2474">Renzo Angles</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="76/6735">Marcelo Arenas</author>
+<author pid="136/7953">Maciej Besta</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="d/KhuzaimaDaudjee">Khuzaima Daudjee</author>
+<author pid="91/4526">Emanuele Della Valle</author>
+<author orcid="0000-0002-6664-0620" pid="143/2670">Stefania Dumbrava</author>
+<author pid="29/3132">Olaf Hartig</author>
+<author pid="85/3208">Bernhard Haslhofer</author>
+<author pid="139/4230">Tim Hegeman</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="h/KatjaHose">Katja Hose</author>
+<author pid="33/5916">Adriana Iamnitchi</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="281/6816">Hugo Kapp</author>
+<author pid="95/3517">Wim Martens</author>
+<author pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<author pid="91/7933">Eric Peukert</author>
+<author pid="93/3568">Stefan Plantikow</author>
+<author pid="205/4727">Mohamed Ragab 0001</author>
+<author pid="93/24">Matei Ripeanu</author>
+<author pid="55/6560">Semih Salihoglu</author>
+<author pid="10/1388-3">Christian Schulz 0003</author>
+<author pid="50/7441">Petra Selmer</author>
+<author pid="93/3423">Juan F. Sequeda</author>
+<author pid="27/3988">Joshua Shinavier</author>
+<author pid="151/1414">G&#225;bor Sz&#225;rnyas</author>
+<author orcid="0000-0003-3404-5250" pid="169/8184">Riccardo Tommasini 0001</author>
+<author pid="53/3654">Antonino Tumeo</author>
+<author pid="154/4519">Alexandru Uta</author>
+<author pid="62/3310">Ana Lucia Varbanescu</author>
+<author pid="11/7258">Hsiang-Yun Wu</author>
+<author pid="92/9686">Nikolay Yakovets</author>
+<author pid="81/9436-1">Da Yan 0001</author>
+<author pid="12/6940">Eiko Yoneki</author>
+<title>The Future is Big Graphs! A Community View on Graph Processing Systems.</title>
+<year>2020</year>
+<volume>abs/2012.06171</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.06171</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-06171</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GreenGLLMPSSV19" mdate="2022-12-07">
+<author pid="65/2807">Alastair Green</author>
+<author pid="47/9855">Paolo Guagliardo</author>
+<author orcid="0000-0002-6698-2735" pid="l/LeonidLibkin">Leonid Libkin</author>
+<author pid="211/6985">Tobias Lindaaker</author>
+<author orcid="0000-0002-2325-6004" pid="117/9191">Victor Marsault</author>
+<author pid="93/3568">Stefan Plantikow</author>
+<author pid="123/4624">Martin Schuster</author>
+<author pid="50/7441">Petra Selmer</author>
+<author pid="19/1082">Hannes Voigt</author>
+<title>Updating Graph Databases with Cypher.</title>
+<pages>2242-2253</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p2242-green.pdf</ee>
+<ee>https://doi.org/10.14778/3352063.3352139</ee>
+<url>db/journals/pvldb/pvldb12.html#GreenGLLMPSSV19</url>
+</article>
+</r>
+<r><article key="journals/sigmod/IdrisUVVL19" mdate="2023-09-30">
+<author orcid="0000-0001-9764-2322" pid="84/8571">Muhammad Idris</author>
+<author pid="131/4268">Mart&#237;n Ugarte</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<title>Efficient Query Processing for Dynamically Changing Datasets.</title>
+<pages>33-40</pages>
+<year>2019</year>
+<volume>48</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3371316.3371325</ee>
+<url>db/journals/sigmod/sigmod48.html#IdrisUVVL19</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/AllenHHKLNV19" mdate="2021-01-13">
+<author pid="60/335">David Allen</author>
+<author pid="238/4371">Amy Hodler</author>
+<author pid="34/9762">Michael Hunger</author>
+<author pid="38/8234">Martin Knobloch</author>
+<author pid="238/4344">William Lyon</author>
+<author pid="76/10200">Mark Needham</author>
+<author pid="19/1082">Hannes Voigt</author>
+<title>Understanding Trolls with Efficient Analytics of Large Graphs in Neo4j.</title>
+<pages>377-396</pages>
+<year>2019</year>
+<booktitle>BTW</booktitle>
+<ee type="oa">https://doi.org/10.18420/btw2019-23</ee>
+<crossref>conf/btw/2019</crossref>
+<url>db/conf/btw/btw2019.html#AllenHHKLNV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/BonifatiFGHOV19" mdate="2019-11-07">
+<author orcid="0000-0002-9582-869X" pid="b/ABonifati">Angela Bonifati</author>
+<author pid="81/2020">Peter Furniss</author>
+<author pid="65/2807">Alastair Green</author>
+<author orcid="0000-0002-0817-1029" pid="36/1754">Russ Harmer</author>
+<author pid="236/4773">Eugenia Oshurko</author>
+<author pid="19/1082">Hannes Voigt</author>
+<title>Schema Validation and Evolution for Graph Databases.</title>
+<pages>448-456</pages>
+<year>2019</year>
+<booktitle>ER</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-33223-5_37</ee>
+<crossref>conf/er/2019</crossref>
+<url>db/conf/er/er2019.html#BonifatiFGHOV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/BehrendDGSVRK19" mdate="2020-06-15">
+<author pid="39/3706">Andreas Behrend</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author pid="83/8749">Philip Schmiegelt</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="150/7584">Matthias Rottmann</author>
+<author pid="66/9464">Karsten Kahl</author>
+<title>Period Index: A Learned 2D Hash Index for Range and Duration Queries.</title>
+<pages>100-109</pages>
+<year>2019</year>
+<booktitle>SSTD</booktitle>
+<ee>https://doi.org/10.1145/3340964.3340965</ee>
+<crossref>conf/ssd/2019</crossref>
+<url>db/conf/ssd/sstd2019.html#BehrendDGSVRK19</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/bdt/AnglesRV19" mdate="2019-02-14">
+<author pid="36/2474">Renzo Angles</author>
+<author pid="36/27">Juan L. Reutter</author>
+<author pid="19/1082">Hannes Voigt</author>
+<title>Graph Query Languages.</title>
+<year>2019</year>
+<booktitle>Encyclopedia of Big Data Technologies</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-63962-8_75-1</ee>
+<crossref>reference/bdt/2019</crossref>
+<url>db/reference/bdt/1.html#AnglesRV19</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/bdt/ParadiesV19" mdate="2019-02-14">
+<author pid="31/8766">Marcus Paradies</author>
+<author pid="19/1082">Hannes Voigt</author>
+<title>Graph Representations and Storage.</title>
+<year>2019</year>
+<booktitle>Encyclopedia of Big Data Technologies</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-63962-8_211-1</ee>
+<crossref>reference/bdt/2019</crossref>
+<url>db/reference/bdt/1.html#ParadiesV19</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-06427" mdate="2019-05-21">
+<author pid="b/ABonifati">Angela Bonifati</author>
+<author pid="81/2020">Peter Furniss</author>
+<author pid="65/2807">Alastair Green</author>
+<author pid="36/1754">Russ Harmer</author>
+<author pid="236/4773">Eugenia Oshurko</author>
+<author pid="19/1082">Hannes Voigt</author>
+<title>Schema Validation and Evolution for Graph Databases.</title>
+<year>2019</year>
+<volume>abs/1902.06427</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.06427</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-06427</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-09848" mdate="2023-09-30">
+<author pid="84/8571">Muhammad Idris</author>
+<author pid="131/4268">Mart&#237;n Ugarte</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<title>Conjunctive Queries with Theta Joins Under Updates.</title>
+<year>2019</year>
+<volume>abs/1905.09848</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.09848</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-09848</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/BonifatiISV19" mdate="2020-04-17">
+<author pid="b/ABonifati">Angela Bonifati</author>
+<author pid="85/2489">Alexandru Iosup</author>
+<author pid="s/SherifSakr">Sherif Sakr</author>
+<author pid="19/1082">Hannes Voigt</author>
+<title>Big Graph Processing Systems (Dagstuhl Seminar 19491).</title>
+<pages>1-27</pages>
+<year>2019</year>
+<volume>9</volume>
+<journal>Dagstuhl Reports</journal>
+<number>12</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.9.12.1</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports9.html#BonifatiISV19</url>
+</article>
+</r>
+<r><book key="series/synthesis/2018Bonifati" mdate="2023-10-19">
+<author pid="b/ABonifati">Angela Bonifati</author>
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="92/9686">Nikolay Yakovets</author>
+<title>Querying Graphs</title>
+<publisher>Morgan &amp; Claypool Publishers</publisher>
+<year>2018</year>
+<series href="db/series/synthesis-dtm/index.html">Synthesis Lectures on Data Management</series>
+<isbn>978-3-031-00736-1</isbn>
+<isbn>978-3-031-01864-0</isbn>
+<ee>https://doi.org/10.2200/S00873ED1V01Y201808DTM051</ee>
+<ee>https://doi.org/10.1007/978-3-031-01864-0</ee>
+</book>
+</r>
+<r><article key="journals/isf/HerrmannVRBL18" mdate="2023-09-30">
+<author pid="75/65">Kai Herrmann 0002</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="185/0920">Jonas Rausch</author>
+<author pid="39/3706">Andreas Behrend</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<title>Robust and simple database evolution.</title>
+<pages>45-61</pages>
+<year>2018</year>
+<volume>20</volume>
+<journal>Inf. Syst. Frontiers</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10796-016-9730-2</ee>
+<url>db/journals/isf/isf20.html#HerrmannVRBL18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/IdrisUVVL18" mdate="2023-09-30">
+<author orcid="0000-0001-9764-2322" pid="84/8571">Muhammad Idris</author>
+<author pid="131/4268">Mart&#237;n Ugarte</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<title>Conjunctive Queries with Inequalities Under Updates.</title>
+<pages>733-745</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>7</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p733-idris.pdf</ee>
+<ee>https://doi.org/10.14778/3192965.3192966</ee>
+<url>db/journals/pvldb/pvldb11.html#IdrisUVVL18</url>
+</article>
+</r>
+<r><article key="journals/vldb/HerrmannVPL18" mdate="2023-09-30">
+<author orcid="0000-0001-6791-9722" pid="75/65">Kai Herrmann 0002</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<title>Multi-schema-version data management: data independence in the twenty-first century.</title>
+<pages>547-571</pages>
+<year>2018</year>
+<volume>27</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00778-018-0508-7</ee>
+<url>db/journals/vldb/vldb27.html#HerrmannVPL18</url>
+</article>
+</r>
+<r><inproceedings key="conf/data/MohapatraHVLTL18" mdate="2023-09-30">
+<author pid="225/5860">Aniket Mohapatra</author>
+<author pid="75/65">Kai Herrmann 0002</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="10/7791">Simon L&#252;ders</author>
+<author pid="210/7429">Tsvetan Tsokov</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<title>Seamless Database Evolution for Cloud Applications.</title>
+<pages>197-207</pages>
+<year>2018</year>
+<booktitle>DATA</booktitle>
+<ee>https://doi.org/10.5220/0006845101970207</ee>
+<crossref>conf/data/2018</crossref>
+<url>db/conf/data/data2018.html#MohapatraHVLTL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/data/TetzelVPKL18" mdate="2023-09-30">
+<author pid="203/0119">Frank Tetzel</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="31/8766">Marcus Paradies</author>
+<author pid="67/4705">Romans Kasperovics</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<title>Analysis of Data Structures Involved in RPQ Evaluation.</title>
+<pages>334-343</pages>
+<year>2018</year>
+<booktitle>DATA</booktitle>
+<ee>https://doi.org/10.5220/0006860303340343</ee>
+<crossref>conf/data/2018</crossref>
+<url>db/conf/data/data2018.html#TetzelVPKL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AnglesABBFGLPPS18" mdate="2022-11-10">
+<author pid="36/2474">Renzo Angles</author>
+<author pid="76/6735">Marcelo Arenas</author>
+<author pid="29/5169">Pablo Barcel&#243;</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<author pid="g/ClaudioGutierrez">Claudio Gutierrez 0001</author>
+<author pid="211/6985">Tobias Lindaaker</author>
+<author pid="31/8766">Marcus Paradies</author>
+<author pid="93/3568">Stefan Plantikow</author>
+<author pid="93/3423">Juan F. Sequeda</author>
+<author pid="130/9761">Oskar van Rest</author>
+<author pid="19/1082">Hannes Voigt</author>
+<title>G-CORE: A Core for Future Graph Query Languages.</title>
+<pages>1421-1432</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3190654</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#AnglesABBFGLPPS18</url>
+</inproceedings>
+</r>
+<r><article key="journals/dbsk/VoigtPH17" mdate="2018-06-26">
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="31/8766">Marcus Paradies</author>
+<author orcid="0000-0001-8186-2603" pid="h/TheoHarder">Theo H&#228;rder</author>
+<title>Editorial.</title>
+<pages>97-99</pages>
+<year>2017</year>
+<volume>17</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s13222-017-0260-y</ee>
+<url>db/journals/dbsk/dbsk17.html#VoigtPH17</url>
+</article>
+</r>
+<r><article key="journals/dbsk/ParadiesV17" mdate="2017-07-26">
+<author pid="31/8766">Marcus Paradies</author>
+<author orcid="0000-0002-2148-9592" pid="19/1082">Hannes Voigt</author>
+<title>Big Graph Data Analytics on Single Machines - An Overview.</title>
+<pages>101-112</pages>
+<year>2017</year>
+<volume>17</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s13222-017-0255-8</ee>
+<url>db/journals/dbsk/dbsk17.html#ParadiesV17</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/0001VL17" mdate="2023-07-04">
+<author pid="69/1420-1">Michael Rudolf 0001</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>SPARQLytics: Multidimensional Analytics for RDF.</title>
+<pages>51-60</pages>
+<year>2017</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2017</crossref>
+<url>db/conf/btw/btw2017.html#0001VL17</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/668</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/HerrmannVSL17" mdate="2023-07-04">
+<author pid="75/65">Kai Herrmann 0002</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="181/9138">Thorsten Seyschab</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>InVerDa - The Liquid Database.</title>
+<pages>619-622</pages>
+<year>2017</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2017</crossref>
+<url>db/conf/btw/btw2017.html#HerrmannVSL17</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/671</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/FletcherVY17" mdate="2021-11-15">
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="92/9686">Nikolay Yakovets</author>
+<title>Declarative Graph Querying in Practice and Theory.</title>
+<pages>598-601</pages>
+<year>2017</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2017.79</ee>
+<crossref>conf/edbt/2017</crossref>
+<url>db/conf/edbt/edbt2017.html#FletcherVY17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/KrauseKHVL17" mdate="2023-09-30">
+<author pid="40/7792">Alexander Krause</author>
+<author pid="97/11514">Thomas Kissinger</author>
+<author pid="97/5806">Dirk Habich</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<title>Partitioning Strategy Selection for In-Memory Graph Pattern Matching on Multiprocessor Systems.</title>
+<pages>149-163</pages>
+<year>2017</year>
+<booktitle>Euro-Par</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-64203-1_11</ee>
+<crossref>conf/europar/2017</crossref>
+<url>db/conf/europar/europar2017.html#KrauseKHVL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/grades/TetzelVPL17" mdate="2023-09-30">
+<author pid="203/0119">Frank Tetzel</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="31/8766">Marcus Paradies</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<title>An Analysis of the Feasibility of Graph Compression Techniques for Indexing Regular Path Queries.</title>
+<pages>11:1-11:6</pages>
+<year>2017</year>
+<booktitle>GRADES@SIGMOD/PODS</booktitle>
+<ee>https://doi.org/10.1145/3078447.3078458</ee>
+<crossref>conf/grades/2017</crossref>
+<url>db/conf/grades/grades2017.html#TetzelVPL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HerrmannVBRL17" mdate="2023-09-30">
+<author pid="75/65">Kai Herrmann 0002</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="39/3706">Andreas Behrend</author>
+<author pid="185/0920">Jonas Rausch</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<title>Living in Parallel Realities: Co-Existing Schema Versions with a Bidirectional Database Evolution Language.</title>
+<pages>1101-1116</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3064046</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#HerrmannVBRL17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-01550" mdate="2022-11-10">
+<author pid="36/2474">Renzo Angles</author>
+<author pid="76/6735">Marcelo Arenas</author>
+<author pid="29/5169">Pablo Barcel&#243;</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<author pid="g/ClaudioGutierrez">Claudio Gutierrez 0001</author>
+<author pid="211/6985">Tobias Lindaaker</author>
+<author pid="31/8766">Marcus Paradies</author>
+<author pid="93/3568">Stefan Plantikow</author>
+<author pid="93/3423">Juan F. Sequeda</author>
+<author pid="130/9761">Oskar van Rest</author>
+<author pid="19/1082">Hannes Voigt</author>
+<title>G-CORE: A Core for Future Graph Query Languages.</title>
+<year>2017</year>
+<volume>abs/1712.01550</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.01550</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-01550</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/Jakel0VL16" mdate="2023-09-30">
+<author pid="119/6904">Tobias J&#228;kel</author>
+<author orcid="0000-0001-7312-2891" pid="86/915-01">Thomas K&#252;hn 0001</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<title>Towards a Role-Based Contextual Database.</title>
+<pages>89-103</pages>
+<year>2016</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44039-2_7</ee>
+<crossref>conf/adbis/2016</crossref>
+<url>db/conf/adbis/adbis2016.html#Jakel0VL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ebiss/Voigt16" mdate="2017-07-04">
+<author pid="19/1082">Hannes Voigt</author>
+<title>Declarative Multidimensional Graph Queries.</title>
+<pages>1-37</pages>
+<year>2016</year>
+<booktitle>eBISS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-61164-8_1</ee>
+<crossref>conf/ebiss/2016</crossref>
+<url>db/conf/ebiss/ebiss2016.html#Voigt16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gvd/KrauseVL16" mdate="2023-03-10">
+<author pid="40/7792">Alexander Krause</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>HUGS - A Lightweight Graph Partitioning Approach.</title>
+<pages>68-73</pages>
+<year>2016</year>
+<booktitle>GvD</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1594/paper13.pdf</ee>
+<crossref>conf/gvd/2016</crossref>
+<url>db/conf/gvd/gvd2016.html#KrauseVL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icac/JakelWHVL16" mdate="2023-03-24">
+<author pid="119/6904">Tobias J&#228;kel</author>
+<author pid="169/4726">Martin Wei&#223;bach</author>
+<author pid="75/65">Kai Herrmann 0002</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="143/1810">Max Leuth&#228;user</author>
+<title>Position Paper: Runtime Model for Role-Based Software Systems.</title>
+<pages>380-387</pages>
+<year>2016</year>
+<booktitle>ICAC</booktitle>
+<ee>https://doi.org/10.1109/ICAC.2016.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICAC.2016.17</ee>
+<crossref>conf/icac/2016</crossref>
+<url>db/conf/icac/icac2016.html#JakelWHVL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/HerrmannVSL16" mdate="2023-09-30">
+<author pid="75/65">Kai Herrmann 0002</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="181/9138">Thorsten Seyschab</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<title>InVerDa - co-existing schema versions made foolproof.</title>
+<pages>1362-1365</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498345</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498345</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#HerrmannVSL16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/HerrmannVBRL16" mdate="2023-09-30">
+<author pid="75/65">Kai Herrmann 0002</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="39/3706">Andreas Behrend</author>
+<author pid="185/0920">Jonas Rausch</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<title>Logical Data Independence in the 21st Century - Co-Existing Schema Versions with InVerDa.</title>
+<year>2016</year>
+<volume>abs/1608.05564</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1608.05564</ee>
+<url>db/journals/corr/corr1608.html#HerrmannVBRL16</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/HerrmannVBL15" mdate="2019-05-20">
+<author pid="75/65">Kai Herrmann 0002</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="39/3706">Andreas Behrend</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>CoDEL - A Relationally Complete Language for Database Evolution.</title>
+<pages>63-76</pages>
+<year>2015</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23135-8_5</ee>
+<crossref>conf/adbis/2015</crossref>
+<url>db/conf/adbis/adbis2015.html#HerrmannVBL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/JakelKHVL15" mdate="2015-09-14">
+<author pid="119/6904">Tobias J&#228;kel</author>
+<author pid="86/915-01">Thomas K&#252;hn 0001</author>
+<author pid="160/3941">Stefan Hinkel</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>Relationships for Dynamic Data Types in RSQL.</title>
+<pages>157-176</pages>
+<year>2015</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2015</crossref>
+<url>db/conf/btw/btw2015.html#JakelKHVL15</url>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings241/article5.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/data/HerrmannRVDFSL15" mdate="2019-05-20">
+<author pid="75/65">Kai Herrmann 0002</author>
+<author orcid="0000-0002-2363-5856" pid="88/6608-2">Jan Reimann 0002</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="96/4750">Birgit Demuth</author>
+<author pid="166/4099">Stefan Fromm</author>
+<author pid="166/4101">Robert Stelzmann</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>Database Evolution for Software Product Lines.</title>
+<pages>125-133</pages>
+<year>2015</year>
+<booktitle>DATA</booktitle>
+<ee>https://doi.org/10.5220/0005484101250133</ee>
+<crossref>conf/data/2015</crossref>
+<url>db/conf/data/data2015.html#HerrmannRVDFSL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/VoigtDL15" mdate="2023-03-24">
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="160/3958">Patrick Damme</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>Enjoy FRDM - play with a schema-flexible RDBMS.</title>
+<pages>1460-1463</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113401</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113401</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#VoigtDL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/BehrendGVS15" mdate="2018-11-06">
+<author pid="39/3706">Andreas Behrend</author>
+<author pid="86/6926">Ulrike Griefahn</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="83/8749">Philip Schmiegelt</author>
+<title>Optimizing continuous queries using update propagation with varying granularities.</title>
+<pages>14:1-14:12</pages>
+<year>2015</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1145/2791347.2791368</ee>
+<crossref>conf/ssdbm/2015</crossref>
+<url>db/conf/ssdbm/ssdbm2015.html#BehrendGVS15</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/dnb/Voigt14" mdate="2021-07-17">
+<author pid="19/1082">Hannes Voigt</author>
+<title>Flexibility in data management.</title>
+<year>2014</year>
+<pages>1-167</pages>
+<school>Dresden University of Technology</school>
+<ee>https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa-136681</ee>
+<ee>https://d-nb.info/1050352602</ee>
+<ee>https://d-nb.info/1068445785</ee>
+</phdthesis>
+</r>
+<r><article key="journals/it/HerrmannVL14" mdate="2023-08-28">
+<author pid="75/65">Kai Herrmann 0002</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>Online horizontal partitioning of heterogeneous data.</title>
+<pages>4-12</pages>
+<year>2014</year>
+<volume>56</volume>
+<journal>it Inf. Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1515/itit-2014-1015</ee>
+<ee>https://www.wikidata.org/entity/Q115723315</ee>
+<url>db/journals/it/it56.html#HerrmannVL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/VoigtL14" mdate="2017-05-21">
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>Flexible Relational Data Model - A Common Ground for Schema-Flexible Database Systems.</title>
+<pages>25-38</pages>
+<year>2014</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-10933-6_3</ee>
+<crossref>conf/adbis/2014</crossref>
+<url>db/conf/adbis/adbis2014.html#VoigtL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adbis/VoigtHL14" mdate="2017-05-21">
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="155/9414">Alfred Hanisch</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>Flexs - A Logical Model for Physical Data Layout.</title>
+<pages>85-95</pages>
+<year>2014</year>
+<booktitle>ADBIS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-10518-5_7</ee>
+<crossref>conf/adbis/2014-2</crossref>
+<url>db/conf/adbis/adbis2014-2.html#VoigtHL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/birte/0001VBL14" mdate="2017-05-17">
+<author pid="69/1420-1">Michael Rudolf 0001</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="34/1731">Christof Bornh&#246;vd</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>SynopSys: Foundations for Multidimensional Graph Analytics.</title>
+<pages>159-166</pages>
+<year>2014</year>
+<booktitle>BIRTE</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-46839-5_11</ee>
+<crossref>conf/birte/2014</crossref>
+<url>db/conf/birte/birte2014.html#0001VBL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/HerrmannVL14" mdate="2023-03-24">
+<author pid="75/65">Kai Herrmann 0002</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>Cinderella - Adaptive online partitioning of irregularly structured data.</title>
+<pages>284-291</pages>
+<year>2014</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2014.6818342</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2014.6818342</ee>
+<crossref>conf/icde/2014w</crossref>
+<url>db/conf/icde/icdew2014.html#HerrmannVL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ideas/JakelKVL14" mdate="2020-10-25">
+<author pid="119/6904">Tobias J&#228;kel</author>
+<author orcid="0000-0001-7312-2891" pid="86/915-01">Thomas K&#252;hn 0001</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>RSQL - a query language for dynamic data types.</title>
+<pages>185-194</pages>
+<year>2014</year>
+<booktitle>IDEAS</booktitle>
+<ee>https://doi.org/10.1145/2628194.2628246</ee>
+<crossref>conf/ideas/2014</crossref>
+<url>db/conf/ideas/ideas2014.html#JakelKVL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/JakelVKL13" mdate="2023-07-04">
+<author pid="119/6904">Tobias J&#228;kel</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="97/11514">Thomas Kissinger</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>Pack Indexing for Time-Constrained In-Memory Query Processing.</title>
+<pages>149-163</pages>
+<year>2013</year>
+<booktitle>BTW</booktitle>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/17319</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings214/article6850.html</ee>
+<crossref>conf/btw/2013</crossref>
+<url>db/conf/btw/btw2013.html#JakelVKL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/VoigtKL13" mdate="2018-11-06">
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="97/11514">Thomas Kissinger</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>SMIX: self-managing indexes for dynamic workloads.</title>
+<pages>24:1-24:12</pages>
+<year>2013</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1145/2484838.2484862</ee>
+<crossref>conf/ssdbm/2013</crossref>
+<url>db/conf/ssdbm/ssdbm2013.html#VoigtKL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/data/BornhoevdKLVW12" mdate="2012-09-03">
+<author pid="34/1731">Christof Bornh&#246;vd</author>
+<author pid="38/9320">Robert Kubis</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="29/4488">Horst Werner</author>
+<title>Flexible Information Management, Exploration and Analysis in SAP HANA.</title>
+<pages>15-28</pages>
+<year>2012</year>
+<booktitle>DATA</booktitle>
+<crossref>conf/data/2012</crossref>
+<url>db/conf/data/data2012.html#BornhoevdKLVW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/VoigtJKL12" mdate="2023-03-24">
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="119/6904">Tobias J&#228;kel</author>
+<author pid="97/11514">Thomas Kissinger</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>Adaptive Index Buffer.</title>
+<pages>308-314</pages>
+<year>2012</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2012.39</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2012.39</ee>
+<crossref>conf/icde/2012w</crossref>
+<url>db/conf/icde/icdew2012.html#VoigtJKL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KissingerVL12" mdate="2023-03-23">
+<author pid="97/11514">Thomas Kissinger</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>SMIX Live - A Self-Managing Index Infrastructure for Dynamic Workloads.</title>
+<pages>1225-1228</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.9</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2012.9</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#KissingerVL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/WernerBKV09" mdate="2023-07-04">
+<author pid="29/4488">Horst Werner</author>
+<author pid="34/1731">Christof Bornh&#246;vd</author>
+<author pid="38/9320">Robert Kubis</author>
+<author pid="19/1082">Hannes Voigt</author>
+<title>MOAW: An Agile Visual Modeling and Exploration Tool for Irregularly Structured Data.</title>
+<pages>742-745</pages>
+<year>2011</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2011</crossref>
+<url>db/conf/btw/btw2011.html#WernerBKV09</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/19624</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings180/article34.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbpl/HabichBTSFVL11" mdate="2020-03-12">
+<author pid="97/5806">Dirk Habich</author>
+<author pid="75/887">Matthias B&#246;hm 0001</author>
+<author pid="48/2949">Maik Thiele</author>
+<author pid="78/7402">Benjamin Schlegel</author>
+<author pid="56/2172">Ulrike Fischer</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>Next Generation Database Programming and Execution Environment.</title>
+<year>2011</year>
+<crossref>conf/dbpl/2011</crossref>
+<booktitle>DBPL</booktitle>
+<ee type="oa">http://www.cs.cornell.edu/conferences/dbpl2011/papers/dbpl11-habich.pdf</ee>
+<url>db/conf/dbpl/dbpl2011.html#HabichBTSFVL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ideas/VoigtHKL10" mdate="2019-05-20">
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="75/65">Kai Herrmann 0002</author>
+<author pid="62/7536">Tim Kiefer</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>Listen to the customer: model-driven database design.</title>
+<pages>15-20</pages>
+<year>2010</year>
+<booktitle>IDEAS</booktitle>
+<ee>https://doi.org/10.1145/1866480.1866483</ee>
+<crossref>conf/ideas/2010</crossref>
+<url>db/conf/ideas/ideas2010.html#VoigtHKL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/se/MuhleVL10" mdate="2023-07-04">
+<author pid="09/7977">Henri M&#252;hle</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>Ein begriffsbasierter Ansatz zur semantischen Extraktion von Datenbankschemata.</title>
+<pages>35-42</pages>
+<year>2010</year>
+<booktitle>Software Engineering (Workshops)</booktitle>
+<crossref>conf/se/2010w</crossref>
+<url>db/conf/se/se2010w.html#MuhleVL10</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/20164</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings160/article5489.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/PreisslerVHL09" mdate="2023-07-04">
+<author pid="05/76">Steffen Preissler</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="97/5806">Dirk Habich</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>Stream-Based Web Service Invocation.</title>
+<pages>407-417</pages>
+<year>2009</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2009</crossref>
+<url>db/conf/btw/btw2009.html#PreisslerVHL09</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/20461</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings144/article4667.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/PreisslerVHL09a" mdate="2023-07-04">
+<author pid="05/76">Steffen Preissler</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="97/5806">Dirk Habich</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>Streaming Web Services and Standing Processes.</title>
+<pages>608-611</pages>
+<year>2009</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2009</crossref>
+<url>db/conf/btw/btw2009.html#PreisslerVHL09a</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/20484</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings144/article4668.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gi/VoigtPBL09" mdate="2023-07-04">
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="05/76">Steffen Prei&#223;ler</author>
+<author pid="75/887">Matthias B&#246;hm 0001</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>Anfragegetriebene Indizierung r&#228;umlicher Daten.</title>
+<pages>2056-2070</pages>
+<year>2009</year>
+<booktitle>GI Jahrestagung</booktitle>
+<crossref>conf/gi/2009</crossref>
+<url>db/conf/gi/gi2009.html#VoigtPBL09</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/31183</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings154/article2713.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/HabichPVL09" mdate="2009-09-10">
+<author pid="97/5806">Dirk Habich</author>
+<author pid="05/76">Steffen Preissler</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>Innovative Process Execution in Service-oriented Environments.</title>
+<pages>299-302</pages>
+<year>2009</year>
+<booktitle>ICEIS (1)</booktitle>
+<crossref>conf/iceis/2009-1</crossref>
+<url>db/conf/iceis/iceis2009-1.html#HabichPVL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/VoigtLS08" mdate="2023-03-24">
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="s/KennethSalem">Kenneth Salem</author>
+<title>Poster session: Constrained dynamic physical database design.</title>
+<pages>63-70</pages>
+<year>2008</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2008.4498286</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2008.4498286</ee>
+<crossref>conf/icde/2008w</crossref>
+<url>db/conf/icde/icdew2008.html#VoigtLS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/informatiktage/HartwigVRH06" mdate="2006-05-24">
+<author pid="95/5454">Christoph Hartwig</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="24/6381">Sebastian Richly</author>
+<author pid="97/5806">Dirk Habich</author>
+<title>Modellierung komplexer Workflows in jExam.</title>
+<pages>33-36</pages>
+<year>2006</year>
+<crossref>conf/informatiktage/2006</crossref>
+<booktitle>Informatiktage</booktitle>
+<url>db/conf/informatiktage/informatiktage2006.html#HartwigVRH06</url>
+</inproceedings>
+</r>
+<coauthors n="129" nc="2">
+<co c="1"><na f="a/Allen:David" pid="60/335">David Allen</na></co>
+<co c="0"><na f="a/Ammar:Khaled" pid="29/9884">Khaled Ammar</na></co>
+<co c="0"><na f="a/Angles:Renzo" pid="36/2474">Renzo Angles</na></co>
+<co c="0"><na f="a/Aref:Walid_G=" pid="a/WGAref">Walid G. Aref</na></co>
+<co c="0"><na f="a/Arenas:Marcelo" pid="76/6735">Marcelo Arenas</na></co>
+<co c="0"><na f="b/Barcel=oacute=:Pablo" pid="29/5169">Pablo Barcel&#243;</na></co>
+<co c="0"><na f="b/Behrend:Andreas" pid="39/3706">Andreas Behrend</na></co>
+<co c="0"><na f="b/Besta:Maciej" pid="136/7953">Maciej Besta</na></co>
+<co c="0" n="2"><na f="b/Boehm_0001:Matthias" pid="75/887">Matthias Boehm 0001</na><na>Matthias B&#246;hm 0001</na></co>
+<co c="0"><na f="b/Boncz:Peter_A=" pid="b/PeterABoncz">Peter A. Boncz</na></co>
+<co c="0"><na f="b/Bonifati:Angela" pid="b/ABonifati">Angela Bonifati</na></co>
+<co c="0"><na f="b/Bornh=ouml=vd:Christof" pid="34/1731">Christof Bornh&#246;vd</na></co>
+<co c="0"><na f="d/Damme:Patrick" pid="160/3958">Patrick Damme</na></co>
+<co c="0"><na f="d/Daudjee:Khuzaima" pid="d/KhuzaimaDaudjee">Khuzaima Daudjee</na></co>
+<co c="0"><na f="d/Demuth:Birgit" pid="96/4750">Birgit Demuth</na></co>
+<co c="0"><na f="d/Deutsch:Alin" pid="d/AlinDeutsch">Alin Deutsch</na></co>
+<co c="0"><na f="d/Dign=ouml=s:Anton" pid="96/11411">Anton Dign&#246;s</na></co>
+<co c="0"><na f="d/Dumbrava:Stefania" pid="143/2670">Stefania Dumbrava</na></co>
+<co c="0"><na f="f/Falzone:Emanuele" pid="219/8169">Emanuele Falzone</na></co>
+<co c="0"><na f="f/Fischer:Ulrike" pid="56/2172">Ulrike Fischer</na></co>
+<co c="0" n="2"><na f="f/Fletcher_0001:George" pid="f/GeorgeHLFletcher">George Fletcher 0001</na><na>George H. L. Fletcher</na></co>
+<co c="0"><na f="f/Francis:Nadime" pid="78/9854">Nadime Francis</na></co>
+<co c="0"><na f="f/Fromm:Stefan" pid="166/4099">Stefan Fromm</na></co>
+<co c="0"><na f="f/Furniss:Peter" pid="81/2020">Peter Furniss</na></co>
+<co c="0"><na f="g/Gamper:Johann" pid="59/6952">Johann Gamper</na></co>
+<co c="0"><na f="g/Green:Alastair" pid="65/2807">Alastair Green</na></co>
+<co c="0"><na f="g/Griefahn:Ulrike" pid="86/6926">Ulrike Griefahn</na></co>
+<co c="0"><na f="g/Guagliardo:Paolo" pid="47/9855">Paolo Guagliardo</na></co>
+<co c="0"><na f="g/Gutierrez_0001:Claudio" pid="g/ClaudioGutierrez">Claudio Gutierrez 0001</na></co>
+<co c="0"><na f="h/Habich:Dirk" pid="97/5806">Dirk Habich</na></co>
+<co c="0"><na f="h/Hanisch:Alfred" pid="155/9414">Alfred Hanisch</na></co>
+<co c="0"><na f="h/H=auml=rder:Theo" pid="h/TheoHarder">Theo H&#228;rder</na></co>
+<co c="0"><na f="h/Hare:Keith" pid="306/7635">Keith Hare</na></co>
+<co c="0"><na f="h/Hare:Keith_W=" pid="295/3446">Keith W. Hare</na></co>
+<co c="0" n="2"><na f="h/Harmer:Russell" pid="36/1754">Russell Harmer</na><na>Russ Harmer</na></co>
+<co c="0"><na f="h/Hartig:Olaf" pid="29/3132">Olaf Hartig</na></co>
+<co c="0"><na f="h/Hartwig:Christoph" pid="95/5454">Christoph Hartwig</na></co>
+<co c="0"><na f="h/Haslhofer:Bernhard" pid="85/3208">Bernhard Haslhofer</na></co>
+<co c="0"><na f="h/Hegeman:Tim" pid="139/4230">Tim Hegeman</na></co>
+<co c="0"><na f="h/Herrmann_0002:Kai" pid="75/65">Kai Herrmann 0002</na></co>
+<co c="0"><na f="h/Hidders:Jan" pid="h/JanHidders">Jan Hidders</na></co>
+<co c="0"><na f="h/Hinkel:Stefan" pid="160/3941">Stefan Hinkel</na></co>
+<co c="1"><na f="h/Hodler:Amy" pid="238/4371">Amy Hodler</na></co>
+<co c="0"><na f="h/Hose:Katja" pid="h/KatjaHose">Katja Hose</na></co>
+<co c="1"><na f="h/Hunger:Michael" pid="34/9762">Michael Hunger</na></co>
+<co c="0"><na f="i/Iamnitchi:Adriana" pid="33/5916">Adriana Iamnitchi</na></co>
+<co c="0"><na f="i/Idris:Muhammad" pid="84/8571">Muhammad Idris</na></co>
+<co c="0"><na f="i/Iosup:Alexandru" pid="85/2489">Alexandru Iosup</na></co>
+<co c="0"><na f="j/J=auml=kel:Tobias" pid="119/6904">Tobias J&#228;kel</na></co>
+<co c="0"><na f="k/Kahl:Karsten" pid="66/9464">Karsten Kahl</na></co>
+<co c="0"><na f="k/Kalavri:Vasiliki" pid="132/6943">Vasiliki Kalavri</na></co>
+<co c="0"><na f="k/Kapp:Hugo" pid="281/6816">Hugo Kapp</na></co>
+<co c="0"><na f="k/Kasperovics:Romans" pid="67/4705">Romans Kasperovics</na></co>
+<co c="0"><na f="k/Kiefer:Tim" pid="62/7536">Tim Kiefer</na></co>
+<co c="0"><na f="k/Kissinger:Thomas" pid="97/11514">Thomas Kissinger</na></co>
+<co c="1"><na f="k/Knobloch:Martin" pid="38/8234">Martin Knobloch</na></co>
+<co c="0"><na f="k/Krause:Alexander" pid="40/7792">Alexander Krause</na></co>
+<co c="0"><na f="k/Kubis:Robert" pid="38/9320">Robert Kubis</na></co>
+<co c="0"><na f="k/K=uuml=hn_0001:Thomas" pid="86/915-01">Thomas K&#252;hn 0001</na></co>
+<co c="0"><na f="l/Lazarevic:Ljubica" pid="306/7977">Ljubica Lazarevic</na></co>
+<co c="0"><na f="l/Lehner:Wolfgang" pid="l/WLehner">Wolfgang Lehner</na></co>
+<co c="0"><na f="l/Leuth=auml=user:Max" pid="143/1810">Max Leuth&#228;user</na></co>
+<co c="0"><na f="l/Li:Bei" pid="11/4103">Bei Li</na></co>
+<co c="0"><na f="l/Libkin:Leonid" pid="l/LeonidLibkin">Leonid Libkin</na></co>
+<co c="0"><na f="l/Lindaaker:Tobias" pid="211/6985">Tobias Lindaaker</na></co>
+<co c="0"><na f="l/L=uuml=ders:Simon" pid="10/7791">Simon L&#252;ders</na></co>
+<co c="1"><na f="l/Lyon:William" pid="238/4344">William Lyon</na></co>
+<co c="0"><na f="m/Marsault:Victor" pid="117/9191">Victor Marsault</na></co>
+<co c="0"><na f="m/Martens:Wim" pid="95/3517">Wim Martens</na></co>
+<co c="0"><na f="m/Michels:Jan" pid="309/5819">Jan Michels</na></co>
+<co c="0"><na f="m/Mohapatra:Aniket" pid="225/5860">Aniket Mohapatra</na></co>
+<co c="0"><na f="m/M=uuml=hle:Henri" pid="09/7977">Henri M&#252;hle</na></co>
+<co c="0"><na f="m/Murlak:Filip" pid="14/4251">Filip Murlak</na></co>
+<co c="1"><na f="n/Needham:Mark" pid="76/10200">Mark Needham</na></co>
+<co c="0"><na f="o/Oshurko:Eugenia" pid="236/4773">Eugenia Oshurko</na></co>
+<co c="0"><na f="=/=Ouml=zsu:M=_Tamer" pid="o/MTamerOzsu">M. Tamer &#214;zsu</na></co>
+<co c="0"><na f="p/Paradies:Marcus" pid="31/8766">Marcus Paradies</na></co>
+<co c="0"><na f="p/Pedersen:Torben_Bach" pid="p/TorbenBachPedersen">Torben Bach Pedersen</na></co>
+<co c="0"><na f="p/Peukert:Eric" pid="91/7933">Eric Peukert</na></co>
+<co c="0"><na f="p/Plantikow:Stefan" pid="93/3568">Stefan Plantikow</na></co>
+<co c="0" n="2"><na f="p/Preissler:Steffen" pid="05/76">Steffen Preissler</na><na>Steffen Prei&#223;ler</na></co>
+<co c="0"><na f="r/Ragab_0001:Mohamed" pid="205/4727">Mohamed Ragab 0001</na></co>
+<co c="0"><na f="r/Rahm:Erhard" pid="r/ERahm">Erhard Rahm</na></co>
+<co c="0"><na f="r/Rausch:Jonas" pid="185/0920">Jonas Rausch</na></co>
+<co c="0"><na f="r/Reimann_0002:Jan" pid="88/6608-2">Jan Reimann 0002</na></co>
+<co c="0"><na f="r/Rest:Oskar_van" pid="130/9761">Oskar van Rest</na></co>
+<co c="0"><na f="r/Reutter:Juan_L=" pid="36/27">Juan L. Reutter</na></co>
+<co c="0"><na f="r/Richly:Sebastian" pid="24/6381">Sebastian Richly</na></co>
+<co c="0"><na f="r/Ripeanu:Matei" pid="93/24">Matei Ripeanu</na></co>
+<co c="0"><na f="r/Rost:Christopher" pid="238/4349">Christopher Rost</na></co>
+<co c="0"><na f="r/Rottmann:Matthias" pid="150/7584">Matthias Rottmann</na></co>
+<co c="0"><na f="r/Rudolf_0001:Michael" pid="69/1420-1">Michael Rudolf 0001</na></co>
+<co c="0"><na f="s/Sakr:Sherif" pid="s/SherifSakr">Sherif Sakr</na></co>
+<co c="0"><na f="s/Salem:Kenneth" pid="s/KennethSalem">Kenneth Salem</na></co>
+<co c="0"><na f="s/Salihoglu:Semih" pid="55/6560">Semih Salihoglu</na></co>
+<co c="0"><na f="s/Savkovic:Ognjen" pid="118/2620">Ognjen Savkovic</na></co>
+<co c="0"><na f="s/Schlegel:Benjamin" pid="78/7402">Benjamin Schlegel</na></co>
+<co c="0"><na f="s/Schmidt:Michael" pid="48/3452">Michael Schmidt</na></co>
+<co c="0"><na f="s/Schmiegelt:Philip" pid="83/8749">Philip Schmiegelt</na></co>
+<co c="0"><na f="s/Schulz_0003:Christian" pid="10/1388-3">Christian Schulz 0003</na></co>
+<co c="0"><na f="s/Schuster:Martin" pid="123/4624">Martin Schuster</na></co>
+<co c="0"><na f="s/Selmer:Petra" pid="50/7441">Petra Selmer</na></co>
+<co c="0" n="2"><na f="s/Sequeda:Juan_F=" pid="93/3423">Juan F. Sequeda</na><na>Juan Sequeda</na></co>
+<co c="0"><na f="s/Seyschab:Thorsten" pid="181/9138">Thorsten Seyschab</na></co>
+<co c="0"><na f="s/Shinavier:Joshua" pid="27/3988">Joshua Shinavier</na></co>
+<co c="0" n="2"><na f="s/Staworko:Slawomir" pid="47/5817">Slawomir Staworko</na><na>Slawek Staworko</na></co>
+<co c="0"><na f="s/Stelzmann:Robert" pid="166/4101">Robert Stelzmann</na></co>
+<co c="0"><na f="s/Sz=aacute=rnyas:G=aacute=bor" pid="151/1414">G&#225;bor Sz&#225;rnyas</na></co>
+<co c="0"><na f="t/Tetzel:Frank" pid="203/0119">Frank Tetzel</na></co>
+<co c="0"><na f="t/Thiele:Maik" pid="48/2949">Maik Thiele</na></co>
+<co c="0"><na f="t/Tomaszuk:Dominik" pid="53/10105">Dominik Tomaszuk</na></co>
+<co c="0"><na f="t/Tommasini_0001:Riccardo" pid="169/8184">Riccardo Tommasini 0001</na></co>
+<co c="0"><na f="t/Tsokov:Tsvetan" pid="210/7429">Tsvetan Tsokov</na></co>
+<co c="0"><na f="t/Tumeo:Antonino" pid="53/3654">Antonino Tumeo</na></co>
+<co c="0"><na f="u/Ugarte:Mart=iacute=n" pid="131/4268">Mart&#237;n Ugarte</na></co>
+<co c="0"><na f="u/Uta:Alexandru" pid="154/4519">Alexandru Uta</na></co>
+<co c="0"><na f="v/Valle:Emanuele_Della" pid="91/4526">Emanuele Della Valle</na></co>
+<co c="0"><na f="v/Vansummeren:Stijn" pid="28/3797">Stijn Vansummeren</na></co>
+<co c="0"><na f="v/Varbanescu:Ana_Lucia" pid="62/3310">Ana Lucia Varbanescu</na></co>
+<co c="0"><na f="v/Vrgoc:Domagoj" pid="31/8653">Domagoj Vrgoc</na></co>
+<co c="0"><na f="w/Wei=szlig=bach:Martin" pid="169/4726">Martin Wei&#223;bach</na></co>
+<co c="0"><na f="w/Werner:Horst" pid="29/4488">Horst Werner</na></co>
+<co c="0"><na f="w/Wu:Hsiang=Yun" pid="11/7258">Hsiang-Yun Wu</na></co>
+<co c="0"><na f="w/Wu:Mingxi" pid="w/MingxiWu">Mingxi Wu</na></co>
+<co c="0"><na f="y/Yakovets:Nikolay" pid="92/9686">Nikolay Yakovets</na></co>
+<co c="0"><na f="y/Yan_0001:Da" pid="81/9436-1">Da Yan 0001</na></co>
+<co c="0"><na f="y/Yoneki:Eiko" pid="12/6940">Eiko Yoneki</na></co>
+<co c="0"><na f="z/Zemke:Fred" pid="36/3923">Fred Zemke</na></co>
+<co c="0"><na f="z/Zivkovic:Dusan" pid="251/5323">Dusan Zivkovic</na></co>
+</coauthors>
+</dblpperson>

@@ -1,0 +1,1651 @@
+<dblpperson name="George Kollios" pid="k/GeorgeKollios" n="101">
+<person key="homepages/k/GeorgeKollios" mdate="2023-02-25">
+<author pid="k/GeorgeKollios">George Kollios</author>
+<note type="affiliation">Boston University, USA</note>
+<url>http://www.cs.bu.edu/fac/gkollios/</url>
+<url>https://dl.acm.org/profile/81339510233</url>
+<url>http://www.wikidata.org/entity/Q102157393</url>
+<url>https://mathgenealogy.org/id.php?id=8650</url>
+</person>
+<r><article key="journals/pvldb/QiuKMNK23" mdate="2023-11-27">
+<author pid="183/8137">Lina Qiu</author>
+<author pid="29/7128">Georgios Kellaris</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="65/801">Kobbi Nissim</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>Doquet: Differentially Oblivious Range and Join Queries with Private Data Structures.</title>
+<pages>4160-4173</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p4160-qiu.pdf</ee>
+<url>db/journals/pvldb/pvldb16.html#QiuKMNK23</url>
+</article>
+</r>
+<r><inproceedings key="conf/cocoa/CordnerK23" mdate="2024-01-13">
+<author orcid="0000-0001-6075-1621" pid="215/5232">Nathan Cordner</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>An Efficient Local Search Algorithm for Correlation Clustering on Large Graphs.</title>
+<pages>3-15</pages>
+<year>2023</year>
+<booktitle>COCOA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-49611-0_1</ee>
+<crossref>conf/cocoa/2023-1</crossref>
+<url>db/conf/cocoa/cocoa2023-1.html#CordnerK23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-03818" mdate="2023-07-24">
+<author pid="215/5232">Nathan Cordner</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>Efficient Correlation Clustering Methods for Large Consensus Clustering Instances.</title>
+<year>2023</year>
+<volume>abs/2307.03818</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.03818</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-03818</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccs/BogatovKKNO21" mdate="2021-11-16">
+<author pid="229/4830">Dmytro Bogatov</author>
+<author pid="29/7128">Georgios Kellaris</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="65/801">Kobbi Nissim</author>
+<author pid="55/3477">Adam O'Neill</author>
+<title>&#949;psolute: Efficiently Querying Databases While Providing Differential Privacy.</title>
+<pages>2262-2276</pages>
+<year>2021</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/3460120.3484786</ee>
+<crossref>conf/ccs/2021</crossref>
+<url>db/conf/ccs/ccs2021.html#BogatovKKNO21</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/BogatovKR19" mdate="2021-10-14">
+<author orcid="0000-0002-9357-8834" pid="229/4830">Dmytro Bogatov</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="r/LeonidReyzin">Leonid Reyzin</author>
+<title>A Comparative Evaluation of Order-Revealing Encryption Schemes and Secure Range-Query Protocols.</title>
+<pages>933-947</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>8</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p933-bogatov.pdf</ee>
+<ee>https://doi.org/10.14778/3324301.3324309</ee>
+<url>db/journals/pvldb/pvldb12.html#BogatovKR19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/MengZK18" mdate="2023-03-23">
+<author pid="75/4888">Xianrui Meng</author>
+<author pid="74/8172">Haohan Zhu</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>Top-k Query Processing on Encrypted Databases with Strong Security Guarantees.</title>
+<pages>353-364</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00040</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00040</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#MengZK18</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Kollios18" mdate="2019-02-14">
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>Spatiotemporal Selectivity Estimation.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_363</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/s2.html#Kollios18</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/iacr/BogatovKR18" mdate="2020-05-11">
+<author pid="229/4830">Dmytro Bogatov</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="r/LeonidReyzin">Leonid Reyzin</author>
+<title>A Comparative Evaluation of Order-Preserving and Order-Revealing Schemes and Protocols.</title>
+<pages>953</pages>
+<year>2018</year>
+<volume>2018</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2018/953</ee>
+<url>db/journals/iacr/iacr2018.html#BogatovKR18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ZhuMK17" mdate="2020-04-25">
+<author pid="74/8172">Haohan Zhu</author>
+<author pid="75/4888">Xianrui Meng</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>NED: An Inter-Graph Node Metric Based On Edit Distance.</title>
+<pages>697-708</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p697-zhu.pdf</ee>
+<ee>https://doi.org/10.14778/3055330.3055336</ee>
+<url>db/journals/pvldb/pvldb10.html#ZhuMK17</url>
+</article>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/gis/HadjieleftheriouKTG17" mdate="2017-07-12">
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="t/VassilisJTsotras">Vassilis J. Tsotras</author>
+<author pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<title>Indexing Spatiotemporal Archives.</title>
+<pages>955-966</pages>
+<year>2017</year>
+<booktitle>Encyclopedia of GIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-17885-1_617</ee>
+<crossref>reference/gis/2017</crossref>
+<url>db/reference/gis/gis2017.html#HadjieleftheriouKTG17</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/gis/KolliosTG17" mdate="2017-07-12">
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="t/VassilisJTsotras">Vassilis J. Tsotras</author>
+<author pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<title>Mobile Object Indexing.</title>
+<pages>1256-1266</pages>
+<year>2017</year>
+<booktitle>Encyclopedia of GIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-17885-1_793</ee>
+<crossref>reference/gis/2017</crossref>
+<url>db/reference/gis/gis2017.html#KolliosTG17</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/gis/KolliosVG17" mdate="2017-07-12">
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="04/2562">Michail Vlachos</author>
+<author pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<title>Trajectories, Discovering Similar.</title>
+<pages>2302-2309</pages>
+<year>2017</year>
+<booktitle>Encyclopedia of GIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-17885-1_1401</ee>
+<crossref>reference/gis/2017</crossref>
+<url>db/reference/gis/gis2017.html#KolliosVG17</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/gis/0001HKCT17" mdate="2017-07-12">
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="46/6023">Dihan Cheng</author>
+<author pid="t/ShangHuaTeng">Shang-Hua Teng</author>
+<title>Trip Planning Queries in Road Network Databases.</title>
+<pages>2338-2343</pages>
+<year>2017</year>
+<booktitle>Encyclopedia of GIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-17885-1_1416</ee>
+<crossref>reference/gis/2017</crossref>
+<url>db/reference/gis/gis2017.html#0001HKCT17</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/KellarisKNO17" mdate="2018-08-13">
+<author pid="29/7128">Georgios Kellaris</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="65/801">Kobbi Nissim</author>
+<author pid="55/3477">Adam O'Neill</author>
+<title>Accessing Data while Preserving Privacy.</title>
+<year>2017</year>
+<volume>abs/1706.01552</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1706.01552</ee>
+<url>db/journals/corr/corr1706.html#KellarisKNO17</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccs/KellarisKNO16" mdate="2020-11-10">
+<author orcid="0000-0001-7558-5398" pid="29/7128">Georgios Kellaris</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author orcid="0000-0002-6632-8645" pid="65/801">Kobbi Nissim</author>
+<author pid="55/3477">Adam O'Neill</author>
+<title>Generic Attacks on Secure Outsourced Databases.</title>
+<pages>1329-1340</pages>
+<year>2016</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/2976749.2978386</ee>
+<ee>https://www.wikidata.org/entity/Q59379592</ee>
+<crossref>conf/ccs/2016</crossref>
+<url>db/conf/ccs/ccs2016.html#KellarisKNO16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/ZhuMK16" mdate="2018-08-13">
+<author pid="74/8172">Haohan Zhu</author>
+<author pid="75/4888">Xianrui Meng</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>NED: An Inter-Graph Node Metric Based On Edit Distance.</title>
+<year>2016</year>
+<volume>abs/1602.02358</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.02358</ee>
+<url>db/journals/corr/corr1602.html#ZhuMK16</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccs/MengKNK15" mdate="2020-11-10">
+<author pid="75/4888">Xianrui Meng</author>
+<author pid="66/664">Seny Kamara</author>
+<author orcid="0000-0002-6632-8645" pid="65/801">Kobbi Nissim</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>GRECS: Graph Encryption for Approximate Shortest Distance Queries.</title>
+<pages>504-517</pages>
+<year>2015</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/2810103.2813672</ee>
+<ee>https://www.wikidata.org/entity/Q59379614</ee>
+<crossref>conf/ccs/2015</crossref>
+<url>db/conf/ccs/ccs2015.html#MengKNK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MavroforakisCOK15" mdate="2018-11-06">
+<author pid="127/6731">Charalampos Mavroforakis</author>
+<author pid="65/6557">Nathan Chenette</author>
+<author pid="55/3477">Adam O'Neill</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="c/RanCanetti">Ran Canetti</author>
+<title>Modular Order-Preserving Encryption, Revisited.</title>
+<pages>763-777</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2749455</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#MavroforakisCOK15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/MengZK15" mdate="2018-08-13">
+<author pid="75/4888">Xianrui Meng</author>
+<author pid="74/8172">Haohan Zhu</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>Secure Top-k Query Processing on Encrypted Databases.</title>
+<year>2015</year>
+<volume>abs/1510.05175</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1510.05175</ee>
+<url>db/journals/corr/corr1510.html#MengZK15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/MengKNK15" mdate="2020-05-11">
+<author pid="75/4888">Xianrui Meng</author>
+<author pid="66/664">Seny Kamara</author>
+<author pid="65/801">Kobbi Nissim</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>GRECS: Graph Encryption for Approximate Shortest Distance Queries.</title>
+<pages>266</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/266</ee>
+<url>db/journals/iacr/iacr2015.html#MengKNK15</url>
+</article>
+</r>
+<r><article key="journals/tods/NykielPMKK14" mdate="2018-11-06">
+<author pid="59/5055">Tomasz Nykiel</author>
+<author pid="82/870">Michalis Potamias</author>
+<author pid="24/2530">Chaitanya Mishra</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="k/NickKoudas">Nick Koudas</author>
+<title>Sharing across Multiple MapReduce Jobs.</title>
+<pages>12:1-12:46</pages>
+<year>2014</year>
+<volume>39</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2560796</ee>
+<url>db/journals/tods/tods39.html#NykielPMKK14</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/ZhuMK14" mdate="2021-01-29">
+<author pid="74/8172">Haohan Zhu</author>
+<author pid="75/4888">Xianrui Meng</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>Privacy Preserving Similarity Evaluation of Time Series Data.</title>
+<pages>499-510</pages>
+<year>2014</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2014.45</ee>
+<crossref>conf/edbt/2014</crossref>
+<url>db/conf/edbt/edbt2014.html#ZhuMK14</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/KolliosPT13" mdate="2017-05-20">
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="82/870">Michalis Potamias</author>
+<author pid="t/EvimariaTerzi">Evimaria Terzi</author>
+<title>Clustering Large Probabilistic Graphs.</title>
+<pages>325-336</pages>
+<year>2013</year>
+<volume>25</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TKDE.2011.243</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2011.243</ee>
+<url>db/journals/tkde/tkde25.html#KolliosPT13</url>
+</article>
+</r>
+<r><article key="journals/ijdmb/PapapetrouBK12" mdate="2020-05-11">
+<author orcid="0000-0002-4632-4815" pid="59/3814">Panagiotis Papapetrou</author>
+<author pid="b/GaryBenson">Gary Benson</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>Mining poly-regions in DNA.</title>
+<pages>406-428</pages>
+<year>2012</year>
+<volume>6</volume>
+<journal>Int. J. Data Min. Bioinform.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1504/IJDMB.2012.049278</ee>
+<ee>https://www.wikidata.org/entity/Q46249636</ee>
+<url>db/journals/ijdmb/ijdmb6.html#PapapetrouBK12</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ZhuKA12" mdate="2023-11-12">
+<author pid="74/8172">Haohan Zhu</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author orcid="0000-0002-1281-6168" pid="10/212">Vassilis Athitsos</author>
+<title>A Generic Framework for Efficient and Effective Subsequence Retrieval.</title>
+<pages>1579-1590</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p1579_haohanzhu_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2350229.2350271</ee>
+<url>db/journals/pvldb/pvldb5.html#ZhuKA12</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KotsifakosPHGAK12" mdate="2021-10-14">
+<author pid="72/10355">Alexios Kotsifakos</author>
+<author pid="59/3814">Panagiotis Papapetrou</author>
+<author pid="h/JaakkoHollmen">Jaakko Hollm&#233;n</author>
+<author orcid="0000-0001-6339-1879" pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<author pid="10/212">Vassilis Athitsos</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>Hum-a-song: A Subsequence Matching with Gaps-Range-Tolerances Query-By-Humming System.</title>
+<pages>1930-1933</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p1930_alexioskotsifakos_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2367502.2367540</ee>
+<url>db/journals/pvldb/pvldb5.html#KotsifakosPHGAK12</url>
+</article>
+</r>
+<r><proceedings key="conf/mobide/2012" mdate="2022-09-29">
+<editor pid="k/GeorgeKollios">George Kollios</editor>
+<editor pid="t/YufeiTao">Yufei Tao 0001</editor>
+<editor pid="n/MarioANascimento">Mario A. Nascimento</editor>
+<editor pid="s/MohamedASharaf">Mohamed A. Sharaf</editor>
+<title>Proceedings of the Eleventh ACM International Workshop on Data Engineering for Wireless and Mobile Access, MobiDE 2012, Scottsdale, AZ, USA, May 20, 2012</title>
+<publisher>ACM</publisher>
+<booktitle>MobiDE</booktitle>
+<year>2012</year>
+<isbn>978-1-4503-1442-8</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=2258056</ee>
+<url>db/conf/mobide/mobide2012.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1208-0286" mdate="2018-08-13">
+<author pid="74/8172">Haohan Zhu</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="10/212">Vassilis Athitsos</author>
+<title>A Generic Framework for Efficient and Effective Subsequence Retrieval</title>
+<ee type="oa">http://arxiv.org/abs/1208.0286</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1208.0286</volume>
+<url>db/journals/corr/corr1208.html#abs-1208-0286</url>
+</article>
+</r>
+<r><article key="journals/tods/PapapetrouAPKG11" mdate="2023-11-12">
+<author orcid="0000-0002-4632-4815" pid="59/3814">Panagiotis Papapetrou</author>
+<author orcid="0000-0002-1281-6168" pid="10/212">Vassilis Athitsos</author>
+<author pid="82/870">Michalis Potamias</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author orcid="0000-0001-6339-1879" pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<title>Embedding-based subsequence matching in time-series databases.</title>
+<pages>17:1-17:39</pages>
+<year>2011</year>
+<volume>36</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2000824.2000827</ee>
+<url>db/journals/tods/tods36.html#PapapetrouAPKG11</url>
+</article>
+</r>
+<r><proceedings key="conf/mobide/2011" mdate="2022-09-29">
+<editor pid="k/GeorgeKollios">George Kollios</editor>
+<editor pid="t/YufeiTao">Yufei Tao 0001</editor>
+<title>Proceedings of the Tenth ACM International Workshop on Data Engineering for Wireless and Mobile Access, MobiDE 2011, Athens, Greece, June 12, 2011</title>
+<publisher>ACM</publisher>
+<booktitle>MobiDE</booktitle>
+<year>2011</year>
+<isbn>978-1-4503-0656-0</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=1999309</ee>
+<url>db/conf/mobide/mobide2011.html</url>
+</proceedings>
+</r>
+<r><article key="journals/pvldb/NykielPMKK10" mdate="2020-04-25">
+<author pid="59/5055">Tomasz Nykiel</author>
+<author pid="82/870">Michalis Potamias</author>
+<author pid="24/2530">Chaitanya Mishra</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="k/NickKoudas">Nick Koudas</author>
+<title>MRShare: Sharing Across Multiple Queries in MapReduce.</title>
+<pages>494-505</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R44.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920906</ee>
+<url>db/journals/pvldb/pvldb3.html#NykielPMKK10</url>
+</article>
+</r>
+<r><article key="journals/pvldb/PotamiasBGK10" mdate="2020-04-25">
+<author pid="82/870">Michalis Potamias</author>
+<author pid="b/FBonchi">Francesco Bonchi</author>
+<author pid="g/AristidesGionis">Aristides Gionis</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>k-Nearest Neighbors in Uncertain Graphs.</title>
+<pages>997-1008</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R89.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920967</ee>
+<url>db/journals/pvldb/pvldb3.html#PotamiasBGK10</url>
+</article>
+</r>
+<r><article key="journals/tissec/LiHKR10" mdate="2018-11-06">
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="r/LeonidReyzin">Leonid Reyzin</author>
+<title>Authenticated Index Structures for Aggregation Queries.</title>
+<pages>32:1-32:35</pages>
+<year>2010</year>
+<volume>13</volume>
+<journal>ACM Trans. Inf. Syst. Secur.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1880022.1880026</ee>
+<url>db/journals/tissec/tissec13.html#LiHKR10</url>
+</article>
+</r>
+<r><article key="journals/kais/PapapetrouKSG09" mdate="2021-10-14">
+<author orcid="0000-0002-4632-4815" pid="59/3814">Panagiotis Papapetrou</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="s/StanSclaroff">Stan Sclaroff</author>
+<author orcid="0000-0001-6339-1879" pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<title>Mining frequent arrangements of temporal intervals.</title>
+<pages>133-171</pages>
+<year>2009</year>
+<volume>21</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10115-009-0196-0</ee>
+<url>db/journals/kais/kais21.html#PapapetrouKSG09</url>
+</article>
+</r>
+<r><article key="journals/pvldb/PapapetrouAKG09" mdate="2023-11-12">
+<author pid="59/3814">Panagiotis Papapetrou</author>
+<author orcid="0000-0002-1281-6168" pid="10/212">Vassilis Athitsos</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author orcid="0000-0001-6339-1879" pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<title>Reference-Based Alignment in Large Sequence Databases.</title>
+<pages>205-216</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-320.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687651</ee>
+<url>db/journals/pvldb/pvldb2.html#PapapetrouAKG09</url>
+</article>
+</r>
+<r><article key="journals/tods/ConsidineHLBK09" mdate="2018-11-06">
+<author pid="83/3631">Jeffrey Considine</author>
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<author pid="b/JohnWByers">John W. Byers</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>Robust approximate aggregation in sensor data management systems.</title>
+<year>2009</year>
+<volume>34</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1508857.1508863</ee>
+<url>db/journals/tods/tods34.html#ConsidineHLBK09</url>
+<pages>6:1-6:35</pages>
+</article>
+</r>
+<r><article key="journals/tods/YiLCHKS09" mdate="2019-05-21">
+<author pid="43/1219-1">Ke Yi 0001</author>
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Small synopses for group-by query verification on outsourced data streams.</title>
+<year>2009</year>
+<volume>34</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1567274.1567277</ee>
+<url>db/journals/tods/tods34.html#YiLCHKS09</url>
+<pages>15:1-15:42</pages>
+</article>
+</r>
+<r><article key="journals/vldb/YangPPK09" mdate="2020-06-21">
+<author orcid="0000-0002-0549-3882" pid="56/2998-1">Yin Yang 0001</author>
+<author pid="82/75">Stavros Papadopoulos 0001</author>
+<author pid="p/DimitrisPapadias">Dimitris Papadias</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>Authenticated indexing for outsourced spatial databases.</title>
+<pages>631-648</pages>
+<year>2009</year>
+<volume>18</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00778-008-0113-2</ee>
+<url>db/journals/vldb/vldb18.html#YangPPK09</url>
+</article>
+</r>
+<r><article key="journals/vldb/KriakovKD09" mdate="2017-05-28">
+<author pid="72/2189">Vassil Kriakov</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="d/AlexDelis">Alex Delis</author>
+<title>Self-tuning management of update-intensive multidimensional data in clusters of workstations.</title>
+<pages>739-764</pages>
+<year>2009</year>
+<volume>18</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00778-008-0121-2</ee>
+<url>db/journals/vldb/vldb18.html#KriakovKD09</url>
+</article>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Kollios09" mdate="2017-07-12">
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>Spatio-Temporal Selectivity Estimation.</title>
+<pages>2739-2741</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_363</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/s.html#Kollios09</url>
+</incollection>
+</r>
+<r><article key="journals/pami/AthitsosASK08" mdate="2023-11-12">
+<author orcid="0000-0002-1281-6168" pid="10/212">Vassilis Athitsos</author>
+<author pid="12/2713">Jonathan Alon</author>
+<author pid="s/StanSclaroff">Stan Sclaroff</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>BoostMap: An Embedding Method for Efficient Nearest Neighbor Retrieval.</title>
+<pages>89-104</pages>
+<year>2008</year>
+<volume>30</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TPAMI.2007.1140</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2007.1140</ee>
+<ee>https://www.wikidata.org/entity/Q44389776</ee>
+<url>db/journals/pami/pami30.html#AthitsosASK08</url>
+</article>
+</r>
+<r><article key="journals/tkde/YiLKS08" mdate="2019-05-21">
+<author pid="43/1219-1">Ke Yi 0001</author>
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Efficient Processing of Top-k Queries in Uncertain Databases with x-Relations.</title>
+<pages>1669-1682</pages>
+<year>2008</year>
+<volume>20</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TKDE.2008.90</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2008.90</ee>
+<url>db/journals/tkde/tkde20.html#YiLKS08</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/AthitsosPPK08" mdate="2023-11-12">
+<author orcid="0000-0002-1281-6168" pid="10/212">Vassilis Athitsos</author>
+<author pid="82/870">Michalis Potamias</author>
+<author orcid="0000-0002-4632-4815" pid="59/3814">Panagiotis Papapetrou</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>Nearest Neighbor Retrieval Using Distance-Based Hashing.</title>
+<pages>327-336</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497441</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497441</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#AthitsosPPK08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YiLHKS08" mdate="2023-03-24">
+<author pid="43/1219-1">Ke Yi 0001</author>
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Randomized Synopses for Query Assurance on Data Streams.</title>
+<pages>416-425</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497450</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497450</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#YiLHKS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YangPPK08" mdate="2023-03-24">
+<author orcid="0000-0002-0549-3882" pid="56/2998-1">Yin Yang 0001</author>
+<author pid="82/75">Stavros Papadopoulos 0001</author>
+<author pid="p/DimitrisPapadias">Dimitris Papadias</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>Spatial Outsourcing for Location-based Services.</title>
+<pages>1082-1091</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497517</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497517</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#YangPPK08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YiLKS08" mdate="2023-03-23">
+<author pid="43/1219-1">Ke Yi 0001</author>
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Efficient Processing of Top-k Queries in Uncertain Databases.</title>
+<pages>1406-1408</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497571</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497571</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#YiLKS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AthitsosPPKG08" mdate="2021-10-14">
+<author pid="10/212">Vassilis Athitsos</author>
+<author orcid="0000-0002-4632-4815" pid="59/3814">Panagiotis Papapetrou</author>
+<author pid="82/870">Michalis Potamias</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author orcid="0000-0001-6339-1879" pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<title>Approximate embedding-based subsequence matching of time series.</title>
+<pages>365-378</pages>
+<year>2008</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1376616.1376656</ee>
+<crossref>conf/sigmod/2008</crossref>
+<url>db/conf/sigmod/sigmod2008.html#AthitsosPPKG08</url>
+</inproceedings>
+</r>
+<r><incollection key="reference/dbsec/LiHKR08" mdate="2017-05-16">
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="r/LeonidReyzin">Leonid Reyzin</author>
+<title>Authenticated Index Structures for Outsourced Databases.</title>
+<pages>115-136</pages>
+<year>2008</year>
+<booktitle>Handbook of Database Security</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-48533-1_5</ee>
+<crossref>reference/dbsec/2008</crossref>
+<url>db/reference/dbsec/dbsec2008.html#LiHKR08</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/gis/HadjieleftheriouKTG08" mdate="2017-07-12">
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="t/VassilisJTsotras">Vassilis J. Tsotras</author>
+<author pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<title>Indexing Spatio-temporal Archives.</title>
+<pages>530-538</pages>
+<year>2008</year>
+<booktitle>Encyclopedia of GIS</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-35973-1_617</ee>
+<crossref>reference/gis/2008</crossref>
+<url>db/reference/gis/gis2008.html#HadjieleftheriouKTG08</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/gis/KolliosTG08" mdate="2017-07-12">
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="t/VassilisJTsotras">Vassilis J. Tsotras</author>
+<author pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<title>Mobile Object Indexing.</title>
+<pages>662-670</pages>
+<year>2008</year>
+<booktitle>Encyclopedia of GIS</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-35973-1_793</ee>
+<crossref>reference/gis/2008</crossref>
+<url>db/reference/gis/gis2008.html#KolliosTG08</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/gis/KolliosVG08" mdate="2017-07-12">
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author orcid="0000-0003-1008-5290" pid="04/2562">Michail Vlachos</author>
+<author pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<title>Trajectories, Discovering Similar.</title>
+<pages>1168-1173</pages>
+<year>2008</year>
+<booktitle>Encyclopedia of GIS</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-35973-1_1401</ee>
+<crossref>reference/gis/2008</crossref>
+<url>db/reference/gis/gis2008.html#KolliosVG08</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/gis/LiHKCT08" mdate="2017-07-12">
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="46/6023">Dihan Cheng</author>
+<author pid="t/ShangHuaTeng">Shang-Hua Teng</author>
+<title>Trip Planning Queries in Road Network Databases.</title>
+<pages>1176-1181</pages>
+<year>2008</year>
+<booktitle>Encyclopedia of GIS</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-35973-1_1416</ee>
+<crossref>reference/gis/2008</crossref>
+<url>db/reference/gis/gis2008.html#LiHKCT08</url>
+</incollection>
+</r>
+<r><article key="journals/tods/AthitsosHKS07" mdate="2023-11-12">
+<author orcid="0000-0002-1281-6168" pid="10/212">Vassilis Athitsos</author>
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="s/StanSclaroff">Stan Sclaroff</author>
+<title>Query-sensitive embeddings.</title>
+<pages>8</pages>
+<year>2007</year>
+<volume>32</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1242524.1242525</ee>
+<url>db/journals/tods/tods32.html#AthitsosHKS07</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdcs/KriakovDK07" mdate="2023-03-24">
+<author pid="72/2189">Vassil Kriakov</author>
+<author pid="d/AlexDelis">Alex Delis</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>Approximate Data Stream Joins in Distributed Systems.</title>
+<pages>5</pages>
+<year>2007</year>
+<crossref>conf/icdcs/2007</crossref>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS.2007.104</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDCS.2007.104</ee>
+<url>db/conf/icdcs/icdcs2007.html#KriakovDK07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/StoevHKT07" mdate="2023-03-23">
+<author pid="75/4774">Stilian Stoev</author>
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="23/3310">Murad S. Taqqu</author>
+<title>Norm, Point, and Distance Estimation Over Multiple Signals Using Max-Stable Distributions.</title>
+<pages>1006-1015</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.368959</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2007.368959</ee>
+<url>db/conf/icde/icde2007.html#StoevHKT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/LaoutarisZBK07" mdate="2019-12-27">
+<author orcid="0000-0002-7361-106X" pid="04/5326">Nikolaos Laoutaris</author>
+<author pid="86/4806">Georgios Zervas</author>
+<author orcid="0000-0003-0798-8835" pid="b/ABestavros">Azer Bestavros</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>The Cache Inference Problem and its Application to Content and Request Routing.</title>
+<pages>848-856</pages>
+<year>2007</year>
+<crossref>conf/infocom/2007</crossref>
+<booktitle>INFOCOM</booktitle>
+<ee>https://doi.org/10.1109/INFCOM.2007.104</ee>
+<ee>https://www.wikidata.org/entity/Q61693703</ee>
+<url>db/conf/infocom/infocom2007.html#LaoutarisZBK07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/LiYHK07" mdate="2020-03-12">
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>Proof-Infused Streams: Enabling Authentication of Sliding Window Queries On Streams.</title>
+<pages>147-158</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/research/p147-li.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#LiYHK07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/PapadimitriouLKY07" mdate="2020-03-12">
+<author pid="73/6671">Spiros Papadimitriou</author>
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="y/PhilipSYu">Philip S. Yu</author>
+<title>Time Series Compressibility and Privacy.</title>
+<pages>459-470</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/research/p459-papadimitriou.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#PapadimitriouLKY07</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ssd/2007" mdate="2019-05-14">
+<editor pid="p/DimitrisPapadias">Dimitris Papadias</editor>
+<editor pid="79/2619">Donghui Zhang</editor>
+<editor pid="k/GeorgeKollios">George Kollios</editor>
+<title>Advances in Spatial and Temporal Databases, 10th International Symposium, SSTD 2007, Boston, MA, USA, July 16-18, 2007, Proceedings</title>
+<booktitle>SSTD</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>4605</volume>
+<publisher>Springer</publisher>
+<year>2007</year>
+<isbn>978-3-540-73539-7</isbn>
+<ee>https://doi.org/10.1007/978-3-540-73540-3</ee>
+<url>db/conf/ssd/sstd2007.html</url>
+</proceedings>
+</r>
+<r><article key="journals/is/SunTPK06" mdate="2023-08-28">
+<author orcid="0000-0003-1512-6426" pid="54/4948">Jimeng Sun 0001</author>
+<author orcid="0000-0003-3883-5452" pid="t/YufeiTao">Yufei Tao 0001</author>
+<author pid="p/DimitrisPapadias">Dimitris Papadias</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>Spatio-temporal join selectivity.</title>
+<pages>793-813</pages>
+<year>2006</year>
+<volume>31</volume>
+<journal>Inf. Syst.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/j.is.2005.02.002</ee>
+<url>db/journals/is/is31.html#SunTPK06</url>
+</article>
+</r>
+<r><article key="journals/vldb/HadjieleftheriouKTG06" mdate="2021-10-14">
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author orcid="0000-0001-5462-9451" pid="t/VassilisJTsotras">Vassilis J. Tsotras</author>
+<author orcid="0000-0001-6339-1879" pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<title>Indexing spatiotemporal archives.</title>
+<pages>143-164</pages>
+<year>2006</year>
+<volume>15</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-004-0151-3</ee>
+<url>db/journals/vldb/vldb15.html#HadjieleftheriouKTG06</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/LiCKB06" mdate="2023-03-24">
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<author pid="68/1344">Ching Chang</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author orcid="0000-0003-0798-8835" pid="b/ABestavros">Azer Bestavros</author>
+<title>Characterizing and Exploiting Reference Locality in Data Stream Applications.</title>
+<pages>81</pages>
+<year>2006</year>
+<crossref>conf/icde/2006</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2006.33</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2006.33</ee>
+<ee>https://www.wikidata.org/entity/Q61693715</ee>
+<url>db/conf/icde/icde2006.html#LiCKB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/PapapetrouBK06" mdate="2023-03-24">
+<author pid="59/3814">Panagiotis Papapetrou</author>
+<author pid="b/GaryBenson">Gary Benson</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>Discovering Frequent Poly-Regions in DNA Sequences.</title>
+<pages>94-98</pages>
+<year>2006</year>
+<crossref>conf/icdm/2006w</crossref>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2006.63</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDMW.2006.63</ee>
+<url>db/conf/icdm/icdmw2006.html#PapapetrouBK06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LiHKR06" mdate="2018-11-06">
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="r/LeonidReyzin">Leonid Reyzin</author>
+<title>Dynamic authenticated index structures for outsourced databases.</title>
+<pages>121-132</pages>
+<year>2006</year>
+<crossref>conf/sigmod/2006</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1142473.1142488</ee>
+<url>db/conf/sigmod/sigmod2006.html#LiHKR06</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/KolliosBCHL05" mdate="2020-08-19">
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="b/JohnWByers">John W. Byers</author>
+<author pid="83/3631">Jeffrey Considine</author>
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<title>Robust Aggregation in Sensor Networks.</title>
+<pages>26-32</pages>
+<year>2005</year>
+<volume>28</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A05mar/kollios.ps</ee>
+<url>db/journals/debu/debu28.html#KolliosBCHL05</url>
+</article>
+</r>
+<r><article key="journals/ml/VlachosKG05" mdate="2021-10-14">
+<author orcid="0000-0003-1008-5290" pid="04/2562">Michail Vlachos</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author orcid="0000-0001-6339-1879" pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<title>Elastic Translation Invariant Matching of Trajectories.</title>
+<pages>301-334</pages>
+<year>2005</year>
+<volume>58</volume>
+<journal>Mach. Learn.</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1007/s10994-005-5830-9</ee>
+<url>db/journals/ml/ml58.html#VlachosKG05</url>
+</article>
+</r>
+<r><article key="journals/vldb/GunopulosKTD05" mdate="2021-10-14">
+<author orcid="0000-0001-6339-1879" pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author orcid="0000-0001-5462-9451" pid="t/VassilisJTsotras">Vassilis J. Tsotras</author>
+<author pid="50/5158">Carlotta Domeniconi</author>
+<title>Selectivity estimators for multidimensional range queries over real attributes.</title>
+<pages>137-154</pages>
+<year>2005</year>
+<volume>14</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-003-0090-4</ee>
+<url>db/journals/vldb/vldb14.html#GunopulosKTD05</url>
+</article>
+</r>
+<r><article key="journals/vldb/KolliosPGT05" mdate="2021-10-14">
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="66/5996">Dimitris Papadopoulos</author>
+<author orcid="0000-0001-6339-1879" pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<author orcid="0000-0001-5462-9451" pid="t/VassilisJTsotras">Vassilis J. Tsotras</author>
+<title>Indexing mobile objects using dual transformations.</title>
+<pages>238-256</pages>
+<year>2005</year>
+<volume>14</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-004-0139-z</ee>
+<url>db/journals/vldb/vldb14.html#KolliosPGT05</url>
+</article>
+</r>
+<r><inproceedings key="conf/gis/ZhouZSCK05" mdate="2018-11-06">
+<author pid="72/5994">Panfeng Zhou</author>
+<author pid="79/2619">Donghui Zhang</author>
+<author pid="s/BettySalzberg">Betty Salzberg</author>
+<author pid="c/GeneCooperman">Gene Cooperman</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>Close pair queries in moving object databases.</title>
+<pages>2-11</pages>
+<year>2005</year>
+<crossref>conf/gis/2005</crossref>
+<booktitle>GIS</booktitle>
+<ee>https://doi.org/10.1145/1097064.1097067</ee>
+<url>db/conf/gis/gis2005.html#ZhouZSCK05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdar/SclaroffBKAALMT05" mdate="2023-03-24">
+<author pid="s/StanSclaroff">Stan Sclaroff</author>
+<author pid="b/MargritBetke">Margrit Betke</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="12/2713">Jonathan Alon</author>
+<author pid="10/212">Vassilis Athitsos</author>
+<author pid="96/4282-53">Rui Li 0053</author>
+<author pid="05/2640">John J. Magee</author>
+<author pid="36/3934">Tai-Peng Tian</author>
+<title>Tracking, Analysis, and Recognition of Human Gestures in Video.</title>
+<pages>806-810</pages>
+<year>2005</year>
+<crossref>conf/icdar/2005</crossref>
+<booktitle>ICDAR</booktitle>
+<ee>https://doi.org/10.1109/ICDAR.2005.243</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDAR.2005.243</ee>
+<url>db/conf/icdar/icdar2005.html#SclaroffBKAALMT05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/PapapetrouKSG05" mdate="2023-03-24">
+<author orcid="0000-0002-4632-4815" pid="59/3814">Panagiotis Papapetrou</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="s/StanSclaroff">Stan Sclaroff</author>
+<author orcid="0000-0001-6339-1879" pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<title>Discovering Frequent Arrangements of Temporal Intervals.</title>
+<pages>354-361</pages>
+<year>2005</year>
+<crossref>conf/icdm/2005</crossref>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2005.50</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDM.2005.50</ee>
+<url>db/conf/icdm/icdm2005.html#PapapetrouKSG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AthitsosHKS05" mdate="2023-11-12">
+<author orcid="0000-0002-1281-6168" pid="10/212">Vassilis Athitsos</author>
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="s/StanSclaroff">Stan Sclaroff</author>
+<title>Query-Sensitive Embeddings.</title>
+<year>2005</year>
+<crossref>conf/sigmod/2005</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2005.html#AthitsosHKS05</url>
+<pages>706-717</pages>
+<ee>https://doi.org/10.1145/1066157.1066238</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/LiCHKT05" mdate="2017-05-24">
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<author pid="46/6023">Dihan Cheng</author>
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="t/ShangHuaTeng">Shang-Hua Teng</author>
+<title>On Trip Planning Queries in Spatial Databases.</title>
+<pages>273-290</pages>
+<year>2005</year>
+<crossref>conf/ssd/2005</crossref>
+<booktitle>SSTD</booktitle>
+<ee>https://doi.org/10.1007/11535331_16</ee>
+<url>db/conf/ssd/sstd2005.html#LiCHKT05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/HadjieleftheriouKBT05" mdate="2020-03-12">
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="02/1163">Petko Bakalov</author>
+<author pid="t/VassilisJTsotras">Vassilis J. Tsotras</author>
+<title>Complex Spatio-Temporal Pattern Queries.</title>
+<pages>877-888</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/archives/website/2005/program/paper/fri/p877-hadjieleftheriou.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083693</ee>
+<url>db/conf/vldb/vldb2005.html#HadjieleftheriouKBT05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/AthitsosASK04" mdate="2023-03-24">
+<author pid="10/212">Vassilis Athitsos</author>
+<author pid="12/2713">Jonathan Alon</author>
+<author pid="s/StanSclaroff">Stan Sclaroff</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>BoostMap: A Method for Efficient Approximate Similarity Rankings.</title>
+<pages>268-275</pages>
+<year>2004</year>
+<crossref>conf/cvpr/2004</crossref>
+<booktitle>CVPR (2)</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2004.52</ee>
+<url>db/conf/cvpr/cvpr2004-2.html#AthitsosASK04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/KriakovDK04" mdate="2017-05-21">
+<author pid="72/2189">Vassil Kriakov</author>
+<author pid="d/AlexDelis">Alex Delis</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>Management of Highly Dynamic Multidimensional Data in a Cluster of Workstations.</title>
+<pages>748-764</pages>
+<ee>https://doi.org/10.1007/978-3-540-24741-8_43</ee>
+<year>2004</year>
+<crossref>conf/edbt/2004</crossref>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt2004.html#KriakovDK04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/TaoKCLP04" mdate="2023-03-24">
+<author orcid="0000-0003-3883-5452" pid="t/YufeiTao">Yufei Tao 0001</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="83/3631">Jeffrey Considine</author>
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<author pid="p/DimitrisPapadias">Dimitris Papadias</author>
+<title>Spatio-Temporal Aggregation Using Sketches.</title>
+<pages>214-225</pages>
+<year>2004</year>
+<crossref>conf/icde/2004</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2004.1319998</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2004.1319998</ee>
+<url>db/conf/icde/icde2004.html#TaoKCLP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ConsidineLKB04" mdate="2023-03-24">
+<author pid="83/3631">Jeffrey Considine</author>
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="b/JohnWByers">John W. Byers</author>
+<title>Approximate Aggregation Techniques for Sensor Databases.</title>
+<pages>449-460</pages>
+<year>2004</year>
+<crossref>conf/icde/2004</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2004.1320018</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2004.1320018</ee>
+<url>db/conf/icde/icde2004.html#ConsidineLKB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/BuzanSK04" mdate="2023-03-24">
+<author pid="88/7039">Dan Buzan</author>
+<author pid="s/StanSclaroff">Stan Sclaroff</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>Extraction and Clustering of Motion Trajectories in Video.</title>
+<pages>521-524</pages>
+<year>2004</year>
+<crossref>conf/icpr/2004</crossref>
+<booktitle>ICPR (2)</booktitle>
+<ee>https://doi.org/10.1109/ICPR.2004.1334287</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICPR.2004.1334287</ee>
+<url>db/conf/icpr/icpr2004-2.html#BuzanSK04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/MamoulisCKHTC04" mdate="2022-09-29">
+<author pid="34/6253">Nikos Mamoulis</author>
+<author orcid="0000-0002-1350-1846" pid="04/492">Huiping Cao</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author orcid="0000-0003-3883-5452" pid="t/YufeiTao">Yufei Tao 0001</author>
+<author pid="c/DWLCheung">David W. Cheung</author>
+<title>Mining, indexing, and querying historical spatiotemporal data.</title>
+<pages>236-245</pages>
+<year>2004</year>
+<crossref>conf/kdd/2004</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/1014052.1014080</ee>
+<url>db/conf/kdd/kdd2004.html#MamoulisCKHTC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/HadjieleftheriouKTKDT04" mdate="2023-03-24">
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="72/2189">Vassil Kriakov</author>
+<author pid="10/5476">Yangui Tao</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="d/AlexDelis">Alex Delis</author>
+<author pid="t/VassilisJTsotras">Vassilis J. Tsotras</author>
+<title>Spatio-Temporal Data Services in a Shared-Nothing Environment.</title>
+<pages>131-134</pages>
+<year>2004</year>
+<crossref>conf/ssdbm/2004</crossref>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SSDBM.2004.65</ee>
+<url>db/conf/ssdbm/ssdbm2004.html#HadjieleftheriouKTKDT04</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/KolliosGKB03" mdate="2021-10-14">
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author orcid="0000-0001-6339-1879" pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<author pid="k/NickKoudas">Nick Koudas</author>
+<author pid="b/SBerchtold">Stefan Berchtold</author>
+<title>Efficient Biased Sampling for Approximate Clustering and Outlier Detection in Large Data Sets.</title>
+<pages>1170-1187</pages>
+<year>2003</year>
+<volume>15</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TKDE.2003.1232271</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2003.1232271</ee>
+<url>db/journals/tkde/tkde15.html#KolliosGKB03</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/AlonSKP03" mdate="2023-03-24">
+<author pid="12/2713">Jonathan Alon</author>
+<author pid="s/StanSclaroff">Stan Sclaroff</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author orcid="0000-0003-3979-1236" pid="98/2506">Vladimir Pavlovic 0001</author>
+<title>Discovering Clusters in Motion Time-Series Data.</title>
+<pages>375-381</pages>
+<year>2003</year>
+<crossref>conf/cvpr/2003</crossref>
+<booktitle>CVPR (1)</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2003.1211378</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2003.1211378</ee>
+<url>db/conf/cvpr/cvpr2003-1.html#AlonSKP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/HadjieleftheriouKGT03" mdate="2021-10-14">
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author orcid="0000-0001-6339-1879" pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<author orcid="0000-0001-5462-9451" pid="t/VassilisJTsotras">Vassilis J. Tsotras</author>
+<title>On-Line Discovery of Dense Areas in Spatio-temporal Databases.</title>
+<pages>306-324</pages>
+<ee>https://doi.org/10.1007/978-3-540-45072-6_18</ee>
+<year>2003</year>
+<crossref>conf/ssd/2003</crossref>
+<booktitle>SSTD</booktitle>
+<url>db/conf/ssd/sstd2003.html#HadjieleftheriouKGT03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/HadjieleftheriouKT03" mdate="2023-03-24">
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author orcid="0000-0001-5462-9451" pid="t/VassilisJTsotras">Vassilis J. Tsotras</author>
+<title>Performance Evaluation of Spatio-temporal Selectivity Estimation Techniques.</title>
+<pages>202-211</pages>
+<year>2003</year>
+<crossref>conf/ssdbm/2003</crossref>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1109/SSDM.2003.1214981</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SSDM.2003.1214981</ee>
+<url>db/conf/ssdbm/ssdbm2003.html#HadjieleftheriouKT03</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/PapadopoulosKGT02" mdate="2020-03-10">
+<author pid="66/5996">Dimitris Papadopoulos</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<author pid="t/VassilisJTsotras">Vassilis J. Tsotras</author>
+<title>Indexing Mobile Objects Using Duality Transforms.</title>
+<pages>18-24</pages>
+<year>2002</year>
+<ee type="oa">http://sites.computer.org/debull/A02JUN-CD.pdf</ee>
+<volume>25</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<url>db/journals/debu/debu25.html#PapadopoulosKGT02</url>
+</article>
+</r>
+<r><article key="journals/tkde/KolliosT02" mdate="2021-10-14">
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author orcid="0000-0001-5462-9451" pid="t/VassilisJTsotras">Vassilis J. Tsotras</author>
+<title>Hashing Methods for Temporal Data.</title>
+<pages>902-919</pages>
+<year>2002</year>
+<volume>14</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TKDE.2002.1019221</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2002.1019221</ee>
+<url>db/journals/tkde/tkde14.html#KolliosT02</url>
+</article>
+</r>
+<r><inproceedings key="conf/dexaw/PapadopoulosKGT02" mdate="2023-03-24">
+<author pid="66/5996">Dimitris Papadopoulos</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author orcid="0000-0001-6339-1879" pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<author orcid="0000-0001-5462-9451" pid="t/VassilisJTsotras">Vassilis J. Tsotras</author>
+<title>Indexing Mobile Objects on the Plane.</title>
+<pages>693-697</pages>
+<year>2002</year>
+<crossref>conf/dexaw/2002</crossref>
+<booktitle>DEXA Workshops</booktitle>
+<ee>https://doi.org/10.1109/DEXA.2002.1045978</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DEXA.2002.1045978</ee>
+<url>db/conf/dexaw/dexaw2002.html#PapadopoulosKGT02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexaw/VlachosGK02" mdate="2023-03-24">
+<author orcid="0000-0003-1008-5290" pid="04/2562">Michail Vlachos</author>
+<author orcid="0000-0001-6339-1879" pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>Robust Similarity Measures for Mobile Object Trajectories.</title>
+<pages>721-728</pages>
+<year>2002</year>
+<crossref>conf/dexaw/2002</crossref>
+<booktitle>DEXA Workshops</booktitle>
+<ee>https://doi.org/10.1109/DEXA.2002.1045983</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DEXA.2002.1045983</ee>
+<url>db/conf/dexaw/dexaw2002.html#VlachosGK02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/HadjieleftheriouKTG02" mdate="2021-10-14">
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author orcid="0000-0001-5462-9451" pid="t/VassilisJTsotras">Vassilis J. Tsotras</author>
+<author orcid="0000-0001-6339-1879" pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<title>Efficient Indexing of Spatiotemporal Objects.</title>
+<pages>251-268</pages>
+<year>2002</year>
+<crossref>conf/edbt/2002</crossref>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1007/3-540-45876-X_17</ee>
+<url>db/conf/edbt/edbt2002.html#HadjieleftheriouKTG02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/VlachosGK02" mdate="2023-03-24">
+<author orcid="0000-0003-1008-5290" pid="04/2562">Michail Vlachos</author>
+<author orcid="0000-0001-6339-1879" pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>Discovering Similar Multidimensional Trajectories.</title>
+<pages>673-684</pages>
+<year>2002</year>
+<crossref>conf/icde/2002</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2002.994784</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2002.994784</ee>
+<url>db/conf/icde/icde2002.html#VlachosGK02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/VlachosDGKK02" mdate="2018-11-06">
+<author pid="04/2562">Michail Vlachos</author>
+<author pid="50/5158">Carlotta Domeniconi</author>
+<author pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="k/NickKoudas">Nick Koudas</author>
+<title>Non-linear dimensionality reduction techniques for classification and visualization.</title>
+<pages>645-651</pages>
+<year>2002</year>
+<crossref>conf/kdd/2002</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/775047.775143</ee>
+<url>db/conf/kdd/kdd2002.html#VlachosDGKK02</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/KolliosTGDH01" mdate="2021-10-14">
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author orcid="0000-0001-5462-9451" pid="t/VassilisJTsotras">Vassilis J. Tsotras</author>
+<author orcid="0000-0001-6339-1879" pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<author pid="d/AlexDelis">Alex Delis</author>
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<title>Indexing Animated Objects Using Spatiotemporal Access Methods.</title>
+<pages>758-777</pages>
+<year>2001</year>
+<volume>13</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/69.956099</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/69.956099</ee>
+<url>db/journals/tkde/tkde13.html#KolliosTGDH01</url>
+</article>
+</r>
+<r><inproceedings key="conf/dmkd/KolliosSB01" mdate="2020-03-12">
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="s/StanSclaroff">Stan Sclaroff</author>
+<author pid="b/MargritBetke">Margrit Betke</author>
+<title>Motion Mining: Discovering Spatio-Temporal Patterns in Databases of Human Motion.</title>
+<year>2001</year>
+<crossref>conf/dmkd/2001</crossref>
+<booktitle>DMKD</booktitle>
+<ee type="oa">http://www.cs.cornell.edu/johannes/papers/dmkd2001-papers/p9_kollios.pdf</ee>
+<url>db/conf/dmkd/dmkd2001.html#KolliosSB01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KolliosGKB01" mdate="2023-03-24">
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author orcid="0000-0001-6339-1879" pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<author pid="k/NickKoudas">Nick Koudas</author>
+<author pid="b/SBerchtold">Stefan Berchtold</author>
+<title>An Efficient Approximation Scheme for Data Mining Tasks.</title>
+<year>2001</year>
+<crossref>conf/icde/2001</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2001.html#KolliosGKB01</url>
+<pages>453-462</pages>
+<ee>https://doi.org/10.1109/ICDE.2001.914858</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2001.914858</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mdic/SclaroffKBR01" mdate="2017-05-24">
+<author pid="s/StanSclaroff">Stan Sclaroff</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="b/MargritBetke">Margrit Betke</author>
+<author pid="75/4261">R&#243;mer Rosales</author>
+<title>Motion Mining.</title>
+<pages>16-32</pages>
+<year>2001</year>
+<crossref>conf/mdic/2001</crossref>
+<booktitle>MDIC</booktitle>
+<ee>https://doi.org/10.1007/3-540-44819-5_2</ee>
+<url>db/conf/mdic/mdic2001.html#SclaroffKBR01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GunopulosKTD00" mdate="2021-10-14">
+<ee>https://doi.org/10.1145/342009.335448</ee>
+<ee>https://doi.org/10.1145/335191.335448</ee>
+<author orcid="0000-0001-6339-1879" pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author orcid="0000-0001-5462-9451" pid="t/VassilisJTsotras">Vassilis J. Tsotras</author>
+<author pid="50/5158">Carlotta Domeniconi</author>
+<title>Approximating Multi-Dimensional Aggregate Range Queries over Real Attributes.</title>
+<pages>463-474</pages>
+<year>2000</year>
+<crossref>conf/sigmod/2000</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2000.html#GunopulosKTD00</url>
+<cite>conf/sigmod/AboulnagaC99</cite>
+<cite>conf/sigmod/AcharyaGPR99a</cite>
+<cite>conf/sigmod/AcharyaPR99</cite>
+<cite>conf/sigmod/BlohsfeldKS99</cite>
+<cite>conf/vldb/ChaudhuriG99</cite>
+<cite>conf/sigmod/ChaudhuriMN98</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/vldb/DonjerkovicR99</cite>
+<cite>conf/sigmod/GibbonsM98</cite>
+<cite>conf/vldb/GibbonsMP97</cite>
+<cite>...</cite>
+<cite>conf/sigmod/HaasS92</cite>
+<cite>conf/sigmod/HellersteinHW97</cite>
+<cite>...</cite>
+<cite>conf/vldb/IoannidisP99</cite>
+<cite>conf/vldb/JagadishKMPSS98</cite>
+<cite>conf/soda/KhannaMP98</cite>
+<cite>conf/vldb/KonigW99</cite>
+<cite>conf/ssdbm/KornJJ99</cite>
+<cite>conf/sigmod/LiptonNS90</cite>
+<cite>conf/sigmod/LeeKC99</cite>
+<cite>conf/sigmod/MatiasVW98</cite>
+<cite>conf/sigmod/MuralikrishnaD88</cite>
+<cite>conf/ssdbm/OlkenR90</cite>
+<cite>conf/ssdbm/PoosalaG99</cite>
+<cite>conf/vldb/PoosalaI97</cite>
+<cite>conf/sigmod/PoosalaIHS96</cite>
+<cite>...</cite>
+<cite>conf/sigmod/SelingerACLP79</cite>
+<cite>conf/kdd/ShanmugasundaramFB99</cite>
+<cite>...</cite>
+<cite>conf/pods/TheodoridisS96</cite>
+<cite>conf/sigmod/VitterW99</cite>
+<cite>conf/cikm/VitterWI98</cite>
+<cite>...</cite>
+<cite>conf/vldb/WeberSB98</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/HellersteinHK99" mdate="2017-05-23">
+<ee>https://doi.org/10.1007/3-540-49257-7_9</ee>
+<crossref>conf/icdt/99</crossref>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="h/LisaHellerstein">Lisa Hellerstein</author>
+<author pid="k/GeorgeKollios">George Kollios</author>
+<title>On the Generation of 2-Dimensional Index Workloads.</title>
+<pages>113-130</pages>
+<year>1999</year>
+<booktitle>ICDT</booktitle>
+<url>db/conf/icdt/icdt99.html#HellersteinHK99</url>
+<cite>conf/vldb/BelussiF95</cite>
+<cite>conf/sigmod/BeckmannKSS90</cite>
+<cite>conf/vldb/EvangelidisLS95</cite>
+<cite>conf/pods/FaloutsosK94</cite>
+<cite>journals/csur/GaedeG98</cite>
+<cite>conf/ssdbm/GuntherOPSS98</cite>
+<cite>books/mk/Gray91</cite>
+<cite>conf/icde/Greene89</cite>
+<cite>conf/sigmod/Guttman84</cite>
+<cite>conf/pods/HellersteinKP97</cite>
+<cite>conf/vldb/HellersteinNP95</cite>
+<cite>conf/cikm/KamelF93</cite>
+<cite>conf/sigmod/KolovsonS91</cite>
+<cite>conf/sigmod/KornackerSH98</cite>
+<cite>conf/pods/KoutsoupiasT98</cite>
+<cite>conf/pods/PagelS96</cite>
+<cite>conf/pods/PagelSTW93</cite>
+<cite>conf/pods/PagelSW95</cite>
+<cite>conf/pods/SamoladasM98</cite>
+<cite>conf/vldb/SellisRF97</cite>
+<cite>...</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mis/KolliosGT99" mdate="2004-10-11">
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<author pid="t/VassilisJTsotras">Vassilis J. Tsotras</author>
+<title>Indexing Animated Objects.</title>
+<pages>28-33</pages>
+<year>1999</year>
+<crossref>conf/mis/1999</crossref>
+<booktitle>Multimedia Information Systems</booktitle>
+<url>db/conf/mis/mis1999.html#KolliosGT99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/KolliosGT99" mdate="2021-10-14">
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author orcid="0000-0001-6339-1879" pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<author orcid="0000-0001-5462-9451" pid="t/VassilisJTsotras">Vassilis J. Tsotras</author>
+<title>On Indexing Mobile Objects.</title>
+<pages>261-272</pages>
+<year>1999</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods99.html#KolliosGT99</url>
+<crossref>conf/pods/99</crossref>
+<cdrom>DiSC2_1/out/papers/pods/onindexingmobilgediv.pdf</cdrom>
+<ee>https://doi.org/10.1145/303976.304002</ee>
+<cite>conf/pods/AgarwalAEFV98</cite>
+<cite>...</cite>
+<cite>journals/cacm/AggarwalV88</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/soda/BaschGH97</cite>
+<cite>journals/vldb/BeckerGOSW96</cite>
+<cite>conf/sigmod/BeckmannKSS90</cite>
+<cite>journals/ipl/BertinoCS97</cite>
+<cite>conf/icalp/ChazelleR92</cite>
+<cite>conf/time/ChomickiR99</cite>
+<cite>journals/jal/Cole86</cite>
+<cite>journals/csur/Comer79</cite>
+<cite>conf/stoc/DriscollSST86</cite>
+<cite>conf/gis/ErwigGSV98</cite>
+<cite>conf/vldb/EvangelidisLS95</cite>
+<cite>journals/csur/GaedeG98</cite>
+<cite>conf/pods/GoldsteinRSY97</cite>
+<cite>conf/icde/Gunther89</cite>
+<cite>conf/sigmod/Guttman84</cite>
+<cite>conf/vldb/HenrichSW89</cite>
+<cite>conf/sigmod/HoelS92</cite>
+<cite>conf/vldb/Jagadish90</cite>
+<cite>conf/cikm/KamelF93</cite>
+<cite>conf/pods/KanellakisRVV93</cite>
+<cite>journals/tkde/KumarTF98</cite>
+<cite>...</cite>
+<cite>books/sp/Overmars83</cite>
+<cite>...</cite>
+<cite>books/aw/Samet90</cite>
+<cite>conf/vldb/SellisRF87</cite>
+<cite>conf/ssd/ShekharY91</cite>
+<cite>conf/icde/SistlaWCD97</cite>
+<cite>conf/soda/SubramanianR95</cite>
+<cite>journals/cj/TayebUW98</cite>
+<cite>conf/icde/WolfsonCDJM98</cite>
+<cite>conf/ssdbm/WolfsonXCJ98</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stdbm/KolliosGT99" mdate="2021-10-14">
+<author pid="k/GeorgeKollios">George Kollios</author>
+<author orcid="0000-0001-6339-1879" pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<author orcid="0000-0001-5462-9451" pid="t/VassilisJTsotras">Vassilis J. Tsotras</author>
+<title>Nearest Neighbor Queries in a Mobile Environment.</title>
+<pages>119-134</pages>
+<ee>https://doi.org/10.1007/3-540-48344-6_7</ee>
+<year>1999</year>
+<crossref>conf/stdbm/1999</crossref>
+<booktitle>Spatio-Temporal Database Management</booktitle>
+<url>db/conf/stdbm/stdbm99.html#KolliosGT99</url>
+</inproceedings>
+</r>
+<coauthors n="77" nc="1">
+<co c="0"><na f="a/Alon:Jonathan" pid="12/2713">Jonathan Alon</na></co>
+<co c="0"><na f="a/Athitsos:Vassilis" pid="10/212">Vassilis Athitsos</na></co>
+<co c="0"><na f="b/Bakalov:Petko" pid="02/1163">Petko Bakalov</na></co>
+<co c="0"><na f="b/Benson:Gary" pid="b/GaryBenson">Gary Benson</na></co>
+<co c="0"><na f="b/Berchtold:Stefan" pid="b/SBerchtold">Stefan Berchtold</na></co>
+<co c="0"><na f="b/Bestavros:Azer" pid="b/ABestavros">Azer Bestavros</na></co>
+<co c="0"><na f="b/Betke:Margrit" pid="b/MargritBetke">Margrit Betke</na></co>
+<co c="0"><na f="b/Bogatov:Dmytro" pid="229/4830">Dmytro Bogatov</na></co>
+<co c="0"><na f="b/Bonchi:Francesco" pid="b/FBonchi">Francesco Bonchi</na></co>
+<co c="0"><na f="b/Buzan:Dan" pid="88/7039">Dan Buzan</na></co>
+<co c="0"><na f="b/Byers:John_W=" pid="b/JohnWByers">John W. Byers</na></co>
+<co c="0"><na f="c/Canetti:Ran" pid="c/RanCanetti">Ran Canetti</na></co>
+<co c="0"><na f="c/Cao:Huiping" pid="04/492">Huiping Cao</na></co>
+<co c="0"><na f="c/Chang:Ching" pid="68/1344">Ching Chang</na></co>
+<co c="0"><na f="c/Chenette:Nathan" pid="65/6557">Nathan Chenette</na></co>
+<co c="0"><na f="c/Cheng:Dihan" pid="46/6023">Dihan Cheng</na></co>
+<co c="0" n="2"><na f="c/Cheung:David_Wai=Lok" pid="c/DWLCheung">David Wai-Lok Cheung</na><na>David W. Cheung</na></co>
+<co c="0"><na f="c/Considine:Jeffrey" pid="83/3631">Jeffrey Considine</na></co>
+<co c="0"><na f="c/Cooperman:Gene" pid="c/GeneCooperman">Gene Cooperman</na></co>
+<co c="-1"><na f="c/Cordner:Nathan" pid="215/5232">Nathan Cordner</na></co>
+<co c="0"><na f="c/Cormode:Graham" pid="c/GrahamCormode">Graham Cormode</na></co>
+<co c="0"><na f="d/Delis:Alex" pid="d/AlexDelis">Alex Delis</na></co>
+<co c="0"><na f="d/Domeniconi:Carlotta" pid="50/5158">Carlotta Domeniconi</na></co>
+<co c="0"><na f="g/Gionis:Aristides" pid="g/AristidesGionis">Aristides Gionis</na></co>
+<co c="0"><na f="g/Gunopulos:Dimitrios" pid="g/DimitriosGunopulos">Dimitrios Gunopulos</na></co>
+<co c="0"><na f="h/Hadjieleftheriou:Marios" pid="86/6294">Marios Hadjieleftheriou</na></co>
+<co c="0"><na f="h/Hellerstein:Joseph_M=" pid="h/JosephMHellerstein">Joseph M. Hellerstein</na></co>
+<co c="0"><na f="h/Hellerstein:Lisa" pid="h/LisaHellerstein">Lisa Hellerstein</na></co>
+<co c="0"><na f="h/Hollm=eacute=n:Jaakko" pid="h/JaakkoHollmen">Jaakko Hollm&#233;n</na></co>
+<co c="0"><na f="k/Kamara:Seny" pid="66/664">Seny Kamara</na></co>
+<co c="0"><na f="k/Kellaris:Georgios" pid="29/7128">Georgios Kellaris</na></co>
+<co c="0"><na f="k/Kotsifakos:Alexios" pid="72/10355">Alexios Kotsifakos</na></co>
+<co c="0"><na f="k/Koudas:Nick" pid="k/NickKoudas">Nick Koudas</na></co>
+<co c="0"><na f="k/Kriakov:Vassil" pid="72/2189">Vassil Kriakov</na></co>
+<co c="0"><na f="l/Laoutaris:Nikolaos" pid="04/5326">Nikolaos Laoutaris</na></co>
+<co c="0"><na f="l/Li_0001:Feifei" pid="l/FeifeiLi">Feifei Li 0001</na></co>
+<co c="0"><na f="l/Li_0053:Rui" pid="96/4282-53">Rui Li 0053</na></co>
+<co c="0"><na f="m/Magee:John_J=" pid="05/2640">John J. Magee</na></co>
+<co c="0"><na f="m/Mamoulis:Nikos" pid="34/6253">Nikos Mamoulis</na></co>
+<co c="0"><na f="m/Mavroforakis:Charalampos" pid="127/6731">Charalampos Mavroforakis</na></co>
+<co c="0"><na f="m/Meng:Xianrui" pid="75/4888">Xianrui Meng</na></co>
+<co c="0"><na f="m/Mishra:Chaitanya" pid="24/2530">Chaitanya Mishra</na></co>
+<co c="0"><na f="n/Nascimento:Mario_A=" pid="n/MarioANascimento">Mario A. Nascimento</na></co>
+<co c="0"><na f="n/Nissim:Kobbi" pid="65/801">Kobbi Nissim</na></co>
+<co c="0"><na f="n/Nykiel:Tomasz" pid="59/5055">Tomasz Nykiel</na></co>
+<co c="0"><na f="o/O=Neill:Adam" pid="55/3477">Adam O'Neill</na></co>
+<co c="0"><na f="p/Papadias:Dimitris" pid="p/DimitrisPapadias">Dimitris Papadias</na></co>
+<co c="0"><na f="p/Papadimitriou:Spiros" pid="73/6671">Spiros Papadimitriou</na></co>
+<co c="0"><na f="p/Papadopoulos:Dimitris" pid="66/5996">Dimitris Papadopoulos</na></co>
+<co c="0"><na f="p/Papadopoulos_0001:Stavros" pid="82/75">Stavros Papadopoulos 0001</na></co>
+<co c="0"><na f="p/Papapetrou:Panagiotis" pid="59/3814">Panagiotis Papapetrou</na></co>
+<co c="0"><na f="p/Pavlovic_0001:Vladimir" pid="98/2506">Vladimir Pavlovic 0001</na></co>
+<co c="0"><na f="p/Potamias:Michalis" pid="82/870">Michalis Potamias</na></co>
+<co c="0"><na f="q/Qiu:Lina" pid="183/8137">Lina Qiu</na></co>
+<co c="0"><na f="r/Reyzin:Leonid" pid="r/LeonidReyzin">Leonid Reyzin</na></co>
+<co c="0"><na f="r/Rosales:R=oacute=mer" pid="75/4261">R&#243;mer Rosales</na></co>
+<co c="0"><na f="s/Salzberg:Betty" pid="s/BettySalzberg">Betty Salzberg</na></co>
+<co c="0"><na f="s/Sclaroff:Stan" pid="s/StanSclaroff">Stan Sclaroff</na></co>
+<co c="0"><na f="s/Sharaf:Mohamed_A=" pid="s/MohamedASharaf">Mohamed A. Sharaf</na></co>
+<co c="0"><na f="s/Srivastava:Divesh" pid="s/DiveshSrivastava">Divesh Srivastava</na></co>
+<co c="0"><na f="s/Stoev:Stilian" pid="75/4774">Stilian Stoev</na></co>
+<co c="0"><na f="s/Sun_0001:Jimeng" pid="54/4948">Jimeng Sun 0001</na></co>
+<co c="0"><na f="t/Tao:Yangui" pid="10/5476">Yangui Tao</na></co>
+<co c="0"><na f="t/Tao_0001:Yufei" pid="t/YufeiTao">Yufei Tao 0001</na></co>
+<co c="0"><na f="t/Taqqu:Murad_S=" pid="23/3310">Murad S. Taqqu</na></co>
+<co c="0"><na f="t/Teng:Shang=Hua" pid="t/ShangHuaTeng">Shang-Hua Teng</na></co>
+<co c="0"><na f="t/Terzi:Evimaria" pid="t/EvimariaTerzi">Evimaria Terzi</na></co>
+<co c="0"><na f="t/Tian:Tai=Peng" pid="36/3934">Tai-Peng Tian</na></co>
+<co c="0"><na f="t/Tsotras:Vassilis_J=" pid="t/VassilisJTsotras">Vassilis J. Tsotras</na></co>
+<co c="0"><na f="v/Vlachos:Michail" pid="04/2562">Michail Vlachos</na></co>
+<co c="0"><na f="y/Yang_0001:Yin" pid="56/2998-1">Yin Yang 0001</na></co>
+<co c="0"><na f="y/Yi_0001:Ke" pid="43/1219-1">Ke Yi 0001</na></co>
+<co c="0"><na f="y/Yu:Philip_S=" pid="y/PhilipSYu">Philip S. Yu</na></co>
+<co c="0"><na f="z/Zervas:Georgios" pid="86/4806">Georgios Zervas</na></co>
+<co c="0"><na f="z/Zhang:Donghui" pid="79/2619">Donghui Zhang</na></co>
+<co c="0"><na f="z/Zhou:Panfeng" pid="72/5994">Panfeng Zhou</na></co>
+<co c="0"><na f="z/Zhu:Haohan" pid="74/8172">Haohan Zhu</na></co>
+</coauthors>
+</dblpperson>

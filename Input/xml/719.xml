@@ -1,0 +1,2816 @@
+<dblpperson name="Ren&#233;e J. Miller" pid="m/RJMiller" n="168">
+<person key="homepages/m/RJMiller" mdate="2022-12-06">
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<note type="affiliation">Northeastern University, Boston, MA, USA</note>
+<note label="former" type="affiliation">University of Toronto, Canada</note>
+<note type="award" label="2018">VLDB Women in Database Research Award</note>
+<note type="award">Presidential Early Career Award for Scientists and Engineers</note>
+<url>https://www.khoury.northeastern.edu/people/renee-miller/</url>
+<url>http://www.cs.toronto.edu/~miller/</url>
+<url>https://scholar.google.com/citations?user=NjeM1LsAAAAJ</url>
+<url>https://dl.acm.org/profile/81100162249</url>
+<url>https://mathgenealogy.org/id.php?id=69614</url>
+<url>https://en.wikipedia.org/wiki/Ren%C3%A9e_Miller</url>
+<url>https://orcid.org/0000-0002-1484-4787</url>
+<url>https://www.wikidata.org/entity/Q14095</url>
+<url>https://www.scopus.com/authid/detail.uri?authorId=55663132400</url>
+<url>https://mathscinet.ams.org/mathscinet/MRAuthorID/714839</url>
+</person>
+<r><inproceedings key="conf/edbt/GlavicMMPSV24" mdate="2024-03-22">
+<author pid="09/3012">Boris Glavic</author>
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="32/5873">Donatello Santoro</author>
+<author pid="157/0004">Enzo Veltri</author>
+<title>Similarity Measures For Incomplete Database Instances.</title>
+<pages>461-473</pages>
+<year>2024</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.48786/edbt.2024.40</ee>
+<crossref>conf/edbt/2024</crossref>
+<url>db/conf/edbt/edbt2024.html#GlavicMMPSV24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-02327" mdate="2024-04-02">
+<author pid="199/3285">Koyena Pal</author>
+<author pid="47/3614">David Bau</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Model Lakes.</title>
+<year>2024</year>
+<volume>abs/2403.02327</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.02327</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-02327</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-14128" mdate="2024-04-09">
+<author pid="146/8297">Grace Fan</author>
+<author pid="200/9072">Roee Shraga</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Gen-T: Table Reclamation in Data Lakes.</title>
+<year>2024</year>
+<volume>abs/2403.14128</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.14128</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-14128</url>
+</article>
+</r>
+<r><article key="journals/pacmmod/KhatiwadaFSCGMR23" mdate="2023-06-15">
+<author orcid="0000-0001-5720-1207" pid="330/3045">Aamod Khatiwada</author>
+<author orcid="0000-0001-9020-3642" pid="146/8297">Grace Fan</author>
+<author orcid="0000-0001-8803-8481" pid="200/9072">Roee Shraga</author>
+<author orcid="0000-0003-2872-1865" pid="200/0201">Zixuan Chen</author>
+<author orcid="0000-0002-9614-0504" pid="36/5673">Wolfgang Gatterbauer</author>
+<author orcid="0000-0002-1484-4787" pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author orcid="0000-0002-6102-7472" pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>SANTOS: Relationship-based Semantic Table Union Search.</title>
+<pages>9:1-9:25</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3588689</ee>
+<url>db/journals/pacmmod/pacmmod1.html#KhatiwadaFSCGMR23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ShragaM23" mdate="2023-10-23">
+<author pid="200/9072">Roee Shraga</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Explaining Dataset Changes for Semantic Data Versioning with Explain-Da-V.</title>
+<pages>1587-1600</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p1587-shraga.pdf</ee>
+<ee>https://doi.org/10.14778/3583140.3583169</ee>
+<url>db/journals/pvldb/pvldb16.html#ShragaM23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/FanWLZM23" mdate="2023-10-23">
+<author pid="146/8297">Grace Fan</author>
+<author pid="92/1375-7">Jin Wang 0007</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="21/802">Dan Zhang</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Semantics-aware Dataset Discovery from Data Lakes with Contextualized Column-based Representation Learning.</title>
+<pages>1726-1739</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>7</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p1726-fan.pdf</ee>
+<ee>https://doi.org/10.14778/3587136.3587146</ee>
+<url>db/journals/pvldb/pvldb16.html#FanWLZM23</url>
+</article>
+</r>
+<r><article key="journals/tkde/NargesianPBZM23" mdate="2023-01-15">
+<author orcid="0000-0002-4710-8719" pid="23/7274">Fatemeh Nargesian</author>
+<author pid="20/2043">Ken Q. Pu</author>
+<author pid="162/8970">Bahar Ghadiri Bashardoost</author>
+<author pid="116/5135">Erkang Zhu</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Data Lake Organization.</title>
+<pages>237-250</pages>
+<year>2023</year>
+<volume>35</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TKDE.2021.3091101</ee>
+<url>db/journals/tkde/tkde35.html#NargesianPBZM23</url>
+</article>
+</r>
+<r><article key="journals/tods/LeventidisRGMR23" mdate="2023-11-09">
+<author orcid="0000-0002-7229-3936" pid="206/9438">Aristotelis Leventidis</author>
+<author orcid="0000-0002-8134-909X" pid="192/0602">Laura Di Rocco</author>
+<author orcid="0000-0002-9614-0504" pid="36/5673">Wolfgang Gatterbauer</author>
+<author orcid="0000-0002-1484-4787" pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author orcid="0000-0002-6102-7472" pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>DomainNet: Homograph Detection and Understanding in Data Lake Disambiguation.</title>
+<pages>9:1-9:40</pages>
+<year>2023</year>
+<month>September</month>
+<volume>48</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3612919</ee>
+<url>db/journals/tods/tods48.html#LeventidisRGMR23</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/Fan00M23" mdate="2023-06-15">
+<author orcid="0000-0001-9020-3642" pid="146/8297">Grace Fan</author>
+<author orcid="0000-0002-3172-6133" pid="92/1375-7">Jin Wang 0007</author>
+<author orcid="0000-0002-0602-149X" pid="52/4954-1">Yuliang Li 0001</author>
+<author orcid="0000-0002-1484-4787" pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Table Discovery in Data Lakes: State-of-the-art and Future Directions.</title>
+<pages>69-75</pages>
+<year>2023</year>
+<booktitle>SIGMOD Conference Companion</booktitle>
+<ee>https://doi.org/10.1145/3555041.3589409</ee>
+<crossref>conf/sigmod/2023c</crossref>
+<url>db/conf/sigmod/sigmod2023c.html#Fan00M23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KhatiwadaSM23" mdate="2023-06-15">
+<author orcid="0000-0001-5720-1207" pid="330/3045">Aamod Khatiwada</author>
+<author orcid="0000-0001-8803-8481" pid="200/9072">Roee Shraga</author>
+<author orcid="0000-0002-1484-4787" pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>DIALITE: Discover, Align and Integrate Open Data Tables.</title>
+<pages>187-190</pages>
+<year>2023</year>
+<booktitle>SIGMOD Conference Companion</booktitle>
+<ee>https://doi.org/10.1145/3555041.3589732</ee>
+<crossref>conf/sigmod/2023c</crossref>
+<url>db/conf/sigmod/sigmod2023c.html#KhatiwadaSM23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-13095" mdate="2023-02-01">
+<author pid="200/9072">Roee Shraga</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Explaining Dataset Changes for Semantic Data Versioning with Explain-Da-V (Technical Report).</title>
+<year>2023</year>
+<volume>abs/2301.13095</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.13095</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-13095</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2304-08285" mdate="2023-04-21">
+<author pid="330/3045">Aamod Khatiwada</author>
+<author pid="200/9072">Roee Shraga</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>DIALITE: Discover, Align and Integrate Open Data Tables.</title>
+<year>2023</year>
+<volume>abs/2304.08285</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.08285</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-08285</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2308-03883" mdate="2023-08-22">
+<author pid="199/3285">Koyena Pal</author>
+<author pid="330/3045">Aamod Khatiwada</author>
+<author pid="200/9072">Roee Shraga</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Generative Benchmark Creation for Table Union Search.</title>
+<year>2023</year>
+<volume>abs/2308.03883</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2308.03883</ee>
+<url>db/journals/corr/corr2308.html#abs-2308-03883</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-02656" mdate="2023-10-19">
+<author pid="238/4380">Mahdi Esmailoghli</author>
+<author pid="189/1008">Christoph Schnell</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="38/8707">Ziawasch Abedjan</author>
+<title>Blend: A Unified Data Discovery System.</title>
+<year>2023</year>
+<volume>abs/2310.02656</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.02656</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-02656</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KhatiwadaSGM22" mdate="2023-10-28">
+<author orcid="0000-0001-5720-1207" pid="330/3045">Aamod Khatiwada</author>
+<author pid="200/9072">Roee Shraga</author>
+<author pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Integrating Data Lake Tables.</title>
+<pages>932-945</pages>
+<year>2022</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p932-khatiwada.pdf</ee>
+<ee>https://doi.org/10.14778/3574245.3574274</ee>
+<url>db/journals/pvldb/pvldb16.html#KhatiwadaSGM22</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2209-13589" mdate="2022-10-06">
+<author pid="330/3045">Aamod Khatiwada</author>
+<author pid="146/8297">Grace Fan</author>
+<author pid="200/9072">Roee Shraga</author>
+<author pid="200/0201">Zixuan Chen</author>
+<author pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>SANTOS: Relationship-based Semantic Table Union Search.</title>
+<year>2022</year>
+<volume>abs/2209.13589</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2209.13589</ee>
+<url>db/journals/corr/corr2209.html#abs-2209-13589</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-01922" mdate="2022-12-04">
+<author pid="146/8297">Grace Fan</author>
+<author pid="92/1375-7">Jin Wang 0007</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="21/802">Dan Zhang</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Semantics-aware Dataset Discovery from Data Lakes with Contextualized Column-based Representation Learning.</title>
+<year>2022</year>
+<volume>abs/2210.01922</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.01922</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-01922</url>
+</article>
+</r>
+<r><article key="journals/pvldb/OuelletteSNBZPM21" mdate="2023-01-03">
+<author pid="300/4191">Paul Ouellette</author>
+<author pid="300/4571">Aidan Sciortino</author>
+<author pid="23/7274">Fatemeh Nargesian</author>
+<author pid="162/8970">Bahar Ghadiri Bashardoost</author>
+<author pid="116/5135">Erkang Zhu</author>
+<author pid="20/2043">Ken Q. Pu</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>RONIN: Data Lake Exploration.</title>
+<pages>2863-2866</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2863-nargesian.pdf</ee>
+<ee>https://doi.org/10.14778/3476311.3476364</ee>
+<url>db/journals/pvldb/pvldb14.html#OuelletteSNBZPM21</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/LeventidisRMRG21" mdate="2024-02-05">
+<author pid="206/9438">Aristotelis Leventidis</author>
+<author pid="192/0602">Laura Di Rocco</author>
+<author orcid="0000-0002-9614-0504" pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>DomainNet: Homograph Detection for Data Lake Disambiguation.</title>
+<pages>13-24</pages>
+<year>2021</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.5441/002/edbt.2021.03</ee>
+<crossref>conf/edbt/2021</crossref>
+<url>db/conf/edbt/edbt2021.html#LeventidisRMRG21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sofsem/BashardoostLM21" mdate="2021-05-31">
+<author orcid="0000-0001-8654-6626" pid="162/8970">Bahar Ghadiri Bashardoost</author>
+<author orcid="0000-0001-6866-7301" pid="96/4108">Kelly A. Lyons</author>
+<author orcid="0000-0002-1484-4787" pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Towards Knowledge Exchange: State-of-the-Art and Open Problems.</title>
+<pages>13-27</pages>
+<year>2021</year>
+<booktitle>SOFSEM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-67731-2_2</ee>
+<crossref>conf/sofsem/2021</crossref>
+<url>db/conf/sofsem/sofsem2021.html#BashardoostLM21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-09940" mdate="2021-03-23">
+<author pid="206/9438">Aristotelis Leventidis</author>
+<author pid="192/0602">Laura Di Rocco</author>
+<author pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>DomainNet: Homograph Detection for Data Lake Disambiguation.</title>
+<year>2021</year>
+<volume>abs/2103.09940</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.09940</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-09940</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BashardoostMLN20" mdate="2020-08-27">
+<author pid="162/8970">Bahar Ghadiri Bashardoost</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="96/4108">Kelly A. Lyons</author>
+<author pid="23/7274">Fatemeh Nargesian</author>
+<title>Knowledge Translation.</title>
+<pages>2018-2032</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2018-bashardoost.pdf</ee>
+<url>db/journals/pvldb/pvldb13.html#BashardoostMLN20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/Christodoulakis20" mdate="2023-05-08">
+<author pid="145/6171">Christina Christodoulakis</author>
+<author pid="272/3053">Eric B. Munson</author>
+<author pid="117/8009">Moshe Gabel</author>
+<author pid="b/AngelaDemkeBrown">Angela Demke Brown</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Pytheas: Pattern-based Table Discovery in CSV Files.</title>
+<pages>2075-2089</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2075-christodoulakis.pdf</ee>
+<url>db/journals/pvldb/pvldb13.html#Christodoulakis20</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/NargesianPZBM20" mdate="2021-02-19">
+<author pid="23/7274">Fatemeh Nargesian</author>
+<author pid="20/2043">Ken Q. Pu</author>
+<author pid="116/5135">Erkang Zhu</author>
+<author orcid="0000-0001-8654-6626" pid="162/8970">Bahar Ghadiri Bashardoost</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Organizing Data Lakes for Navigation.</title>
+<pages>1939-1950</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3380605</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#NargesianPZBM20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-01208" mdate="2020-08-27">
+<author pid="162/8970">Bahar Ghadiri Bashardoost</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="96/4108">Kelly A. Lyons</author>
+<author pid="23/7274">Fatemeh Nargesian</author>
+<title>Knowledge Translation: Extended Technical Report.</title>
+<year>2020</year>
+<volume>abs/2008.01208</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.01208</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-01208</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChoiZBM19" mdate="2020-04-25">
+<author pid="247/8308">Hyewon Choi</author>
+<author pid="116/5135">Erkang Zhu</author>
+<author pid="247/8147">Arsala Bangash</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>VISE: Vehicle Image Search Engine with Traffic Camera.</title>
+<pages>1842-1845</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1842-choi.pdf</ee>
+<ee>https://doi.org/10.14778/3352063.3352080</ee>
+<url>db/journals/pvldb/pvldb12.html#ChoiZBM19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/NargesianZMPA19" mdate="2020-04-25">
+<author pid="23/7274">Fatemeh Nargesian</author>
+<author pid="116/5135">Erkang Zhu</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="20/2043">Ken Q. Pu</author>
+<author pid="61/8235">Patricia C. Arocena</author>
+<title>Data Lake Management: Challenges and Opportunities.</title>
+<pages>1986-1989</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1986-nargesian.pdf</ee>
+<ee>https://doi.org/10.14778/3352063.3352116</ee>
+<url>db/journals/pvldb/pvldb12.html#NargesianZMPA19</url>
+</article>
+</r>
+<r><article key="journals/tkde/KimmigMMG19" mdate="2019-09-05">
+<author orcid="0000-0002-6742-4057" pid="17/3881">Angelika Kimmig</author>
+<author orcid="0000-0002-5966-6339" pid="118/8433">Alex Memory</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="g/LiseGetoor">Lise Getoor</author>
+<title>A Collective, Probabilistic Approach to Schema Mapping Using Diverse Noisy Evidence.</title>
+<pages>1426-1439</pages>
+<year>2019</year>
+<volume>31</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TKDE.2018.2865785</ee>
+<url>db/journals/tkde/tkde31.html#KimmigMMG19</url>
+</article>
+</r>
+<r><article key="journals/vldb/Amer-Yahia0M19" mdate="2019-08-20">
+<author pid="a/SihemAmerYahia">Sihem Amer-Yahia</author>
+<author pid="c/LeiChen0002">Lei Chen 0002</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Thematic issue on data management for graphs.</title>
+<pages>293-294</pages>
+<year>2019</year>
+<volume>28</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s00778-019-00543-2</ee>
+<url>db/journals/vldb/vldb28.html#Amer-Yahia0M19</url>
+</article>
+</r>
+<r><inproceedings key="conf/kdd/BashardoostML19" mdate="2023-03-10">
+<author pid="162/8970">Bahar Ghadiri Bashardoost</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="96/4108">Kelly A. Lyons</author>
+<title>Towards a Benchmark for Knowledge Base Exchange.</title>
+<year>2019</year>
+<booktitle>DI2KG@KDD</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2512/paper5.pdf</ee>
+<crossref>conf/kdd/2019di2kg</crossref>
+<url>db/conf/kdd/di2kg2019.html#BashardoostML19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZhuDNM19" mdate="2021-04-12">
+<author pid="116/5135">Erkang Zhu</author>
+<author pid="71/8700-1">Dong Deng 0001</author>
+<author pid="23/7274">Fatemeh Nargesian</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>JOSIE: Overlap Set Similarity Search for Finding Joinable Tables in Data Lakes.</title>
+<pages>847-864</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3300065</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#ZhuDNM19</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/MillerNZCPA18" mdate="2020-03-10">
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="23/7274">Fatemeh Nargesian</author>
+<author pid="116/5135">Erkang Zhu</author>
+<author pid="145/6171">Christina Christodoulakis</author>
+<author pid="20/2043">Ken Q. Pu</author>
+<author pid="52/1486">Periklis Andritsos</author>
+<title>Making Open Data Transparent: Data Discovery on Open Data.</title>
+<pages>59-70</pages>
+<year>2018</year>
+<volume>41</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<ee type="oa">http://sites.computer.org/debull/A18june/p59.pdf</ee>
+<url>db/journals/debu/debu41.html#MillerNZCPA18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/NargesianZPM18" mdate="2023-08-28">
+<author pid="23/7274">Fatemeh Nargesian</author>
+<author pid="116/5135">Erkang Zhu</author>
+<author pid="20/2043">Ken Q. Pu</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Table Union Search on Open Data.</title>
+<pages>813-825</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>7</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p813-nargesian.pdf</ee>
+<ee>https://doi.org/10.14778/3192965.3192973</ee>
+<ee>https://www.wikidata.org/entity/Q120099227</ee>
+<url>db/journals/pvldb/pvldb11.html#NargesianZPM18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/Miller18" mdate="2020-04-25">
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Open Data Integration.</title>
+<pages>2130-2139</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p2130-miller.pdf</ee>
+<ee>https://doi.org/10.14778/3229863.3240491</ee>
+<url>db/journals/pvldb/pvldb11.html#Miller18</url>
+</article>
+</r>
+<r><inproceedings key="conf/sebd/SantoroAGMMP18" mdate="2023-03-10">
+<author pid="32/5873">Donatello Santoro</author>
+<author pid="61/8235">Patricia C. Arocena</author>
+<author pid="09/3012">Boris Glavic</author>
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="p/PaoloPapotti">Paolo Papotti</author>
+<title>Let's Make It Dirty with BART!</title>
+<year>2018</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2161/paper14.pdf</ee>
+<crossref>conf/sebd/2018</crossref>
+<url>db/conf/sebd/sebd2018.html#SantoroAGMMP18</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/FuxmanM18" mdate="2019-02-14">
+<author pid="90/1367">Ariel Fuxman</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Schema Mapping.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_964</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/s2.html#FuxmanM18</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-07024" mdate="2019-01-01">
+<author pid="23/7274">Fatemeh Nargesian</author>
+<author pid="20/2043">Ken Q. Pu</author>
+<author pid="116/5135">Erkang Zhu</author>
+<author pid="162/8970">Bahar Ghadiri Bashardoost</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Optimizing Organizations for Navigating Data Lakes.</title>
+<year>2018</year>
+<volume>abs/1812.07024</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.07024</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-07024</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ZhuPNM17" mdate="2020-04-25">
+<author pid="116/5135">Erkang Zhu</author>
+<author pid="20/2043">Ken Q. Pu</author>
+<author pid="23/7274">Fatemeh Nargesian</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Interactive Navigation of Open Data Linkages.</title>
+<pages>1837-1840</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p1837-zhu.pdf</ee>
+<ee>https://doi.org/10.14778/3137765.3137788</ee>
+<url>db/journals/pvldb/pvldb10.html#ZhuPNM17</url>
+</article>
+</r>
+<r><article key="journals/sigmod/SadiqDDFILMNZS17" mdate="2022-06-23">
+<author orcid="0000-0001-6739-4145" pid="s/SWSadiq">Shazia Wasim Sadiq</author>
+<author pid="75/6269">Tamraparni Dasu</author>
+<author pid="d/XinLunaDong">Xin Luna Dong</author>
+<author pid="f/JulianaFreire">Juliana Freire</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author orcid="0000-0002-1816-2863" pid="l/SebastianLink">Sebastian Link</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="n/FelixNaumann">Felix Naumann</author>
+<author orcid="0000-0001-6343-1455" pid="z/XiaofangZhou">Xiaofang Zhou 0001</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Data Quality: The Role of Empiricism.</title>
+<pages>35-43</pages>
+<year>2017</year>
+<volume>46</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3186549.3186559</ee>
+<ee>https://www.wikidata.org/entity/Q56605617</ee>
+<url>db/journals/sigmod/sigmod46.html#SadiqDDFILMNZS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cascon/LyonsSMB07" mdate="2020-08-27">
+<author pid="96/4108">Kelly A. Lyons</author>
+<author pid="66/3519">Eleni Stroulia</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="b/KelloggSBooth">Kellogg S. Booth</author>
+<title>Second annual workshop on data driven knowledge mobilization.</title>
+<pages>345</pages>
+<year>2017</year>
+<booktitle>CASCON</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3172855</ee>
+<crossref>conf/cascon/2017</crossref>
+<url>db/conf/cascon/cascon2017.html#LyonsSMB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/DuMGT17" mdate="2021-01-29">
+<author pid="32/724-1">Jiang Du 0001</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="09/3012">Boris Glavic</author>
+<author pid="73/6520-1">Wei Tan 0001</author>
+<title>DeepSea: Progressive Workload-Aware Partitioning of Materialized Views in Scalable Data Analytics.</title>
+<pages>198-209</pages>
+<year>2017</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2017.19</ee>
+<crossref>conf/edbt/2017</crossref>
+<url>db/conf/edbt/edbt2017.html#DuMGT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KimmigMMG17" mdate="2023-03-24">
+<author pid="17/3881">Angelika Kimmig</author>
+<author pid="118/8433">Alex Memory</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="g/LiseGetoor">Lise Getoor</author>
+<title>A Collective, Probabilistic Approach to Schema Mapping.</title>
+<pages>921-932</pages>
+<year>2017</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2017.140</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2017.140</ee>
+<crossref>conf/icde/2017</crossref>
+<url>db/conf/icde/icde2017.html#KimmigMMG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iui/Christodoulakis17" mdate="2018-11-06">
+<author pid="145/6171">Christina Christodoulakis</author>
+<author pid="54/6752">Eser Kandogan</author>
+<author pid="134/9731">Ignacio G. Terrizzano</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>VIQS: Visual Interactive Exploration of Query Semantics.</title>
+<pages>25-32</pages>
+<year>2017</year>
+<booktitle>ESIDA@IUI</booktitle>
+<ee>https://doi.org/10.1145/3038462.3038470</ee>
+<crossref>conf/iui/2017esida</crossref>
+<url>db/conf/iui/esida2017.html#Christodoulakis17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/Miller17" mdate="2018-11-06">
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>The Future of Data Integration.</title>
+<pages>3</pages>
+<year>2017</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/3097983.3105809</ee>
+<crossref>conf/kdd/2017</crossref>
+<url>db/conf/kdd/kdd2017.html#Miller17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/KimmigMMG17" mdate="2018-08-13">
+<author pid="17/3881">Angelika Kimmig</author>
+<author pid="118/8433">Alex Memory</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="g/LiseGetoor">Lise Getoor</author>
+<title>A Collective, Probabilistic Approach to Schema Mapping: Appendix.</title>
+<year>2017</year>
+<volume>abs/1702.03447</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1702.03447</ee>
+<url>db/journals/corr/corr1702.html#KimmigMMG17</url>
+</article>
+</r>
+<r><article key="journals/debu/ArocenaGMMPS16" mdate="2020-03-10">
+<author pid="61/8235">Patricia C. Arocena</author>
+<author pid="09/3012">Boris Glavic</author>
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="32/5873">Donatello Santoro</author>
+<title>Benchmarking Data Curation Systems.</title>
+<pages>47-62</pages>
+<year>2016</year>
+<volume>39</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<ee type="oa">http://sites.computer.org/debull/A16june/p47.pdf</ee>
+<url>db/journals/debu/debu39.html#ArocenaGMMPS16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ZhuNPM16" mdate="2020-04-25">
+<author pid="116/5135">Erkang Zhu</author>
+<author pid="23/7274">Fatemeh Nargesian</author>
+<author pid="20/2043">Ken Q. Pu</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>LSH Ensemble: Internet-Scale Domain Search.</title>
+<pages>1185-1196</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p1185-zhu.pdf</ee>
+<ee>https://doi.org/10.14778/2994509.2994534</ee>
+<url>db/journals/pvldb/pvldb9.html#ZhuNPM16</url>
+</article>
+</r>
+<r><article key="journals/tcci/ChiangAM16" mdate="2020-03-06">
+<author pid="66/2556">Fei Chiang</author>
+<author pid="52/1486">Periklis Andritsos</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Data Driven Discovery of Attribute Dictionaries.</title>
+<pages>69-96</pages>
+<year>2016</year>
+<volume>21</volume>
+<journal>Trans. Comput. Collect. Intell.</journal>
+<ee>https://doi.org/10.1007/978-3-662-49521-6_4</ee>
+<crossref>journals/tcci/2016-21</crossref>
+<url>db/journals/tcci/tcci21.html#ChiangAM16</url>
+</article>
+</r>
+<r><inproceedings key="conf/cascon/LyonsSLMO16" mdate="2017-03-03">
+<author pid="96/4108">Kelly A. Lyons</author>
+<author pid="66/3519">Eleni Stroulia</author>
+<author pid="126/6597">Dixin Luo</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="90/5997">Vio Onut</author>
+<title>Data-driven knowledge mobilization.</title>
+<pages>280-282</pages>
+<year>2016</year>
+<booktitle>CASCON</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3049908</ee>
+<crossref>conf/cascon/2016</crossref>
+<url>db/conf/cascon/cascon2016.html#LyonsSLMO16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SantoroAGMMP16" mdate="2018-11-06">
+<author orcid="0000-0002-5651-8584" pid="32/5873">Donatello Santoro</author>
+<author pid="61/8235">Patricia C. Arocena</author>
+<author orcid="0000-0003-2887-2452" pid="09/3012">Boris Glavic</author>
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<title>BART in Action: Error Generation and Empirical Evaluations of Data-Cleaning Systems.</title>
+<pages>2161-2164</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2899397</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#SantoroAGMMP16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/ZhuNPM16" mdate="2018-08-13">
+<author pid="116/5135">Erkang Zhu</author>
+<author pid="23/7274">Fatemeh Nargesian</author>
+<author pid="20/2043">Ken Q. Pu</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>LSH Ensemble: Internet Scale Domain Search.</title>
+<year>2016</year>
+<volume>abs/1603.07410</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1603.07410</ee>
+<url>db/journals/corr/corr1603.html#ZhuNPM16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ArocenaCGM15" mdate="2020-04-25">
+<author pid="61/8235">Patricia C. Arocena</author>
+<author pid="127/7179">Radu Ciucanu</author>
+<author pid="09/3012">Boris Glavic</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Gain Control over your Integration Evaluations.</title>
+<pages>1960-1963</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1960-Arocena.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824111</ee>
+<url>db/journals/pvldb/pvldb8.html#ArocenaCGM15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ArocenaGMMPS15" mdate="2022-01-03">
+<author pid="61/8235">Patricia C. Arocena</author>
+<author pid="09/3012">Boris Glavic</author>
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="32/5873">Donatello Santoro</author>
+<title>Messing Up with BART: Error Generation for Evaluating Data-Cleaning Algorithms.</title>
+<pages>36-47</pages>
+<year>2015</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p36-arocena.pdf</ee>
+<ee>https://doi.org/10.14778/2850578.2850579</ee>
+<url>db/journals/pvldb/pvldb9.html#ArocenaGMMPS15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ArocenaGCM15" mdate="2023-08-28">
+<author pid="61/8235">Patricia C. Arocena</author>
+<author pid="09/3012">Boris Glavic</author>
+<author pid="127/7179">Radu Ciucanu</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>The iBench Integration Metadata Generator.</title>
+<pages>108-119</pages>
+<year>2015</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p108-arocena.pdf</ee>
+<ee>https://doi.org/10.14778/2850583.2850586</ee>
+<ee>https://www.wikidata.org/entity/Q121782032</ee>
+<url>db/journals/pvldb/pvldb9.html#ArocenaGCM15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ProkoshynaSCMS15" mdate="2020-04-25">
+<author pid="74/5538">Nataliya Prokoshyna</author>
+<author pid="06/9379">Jaroslaw Szlichta</author>
+<author pid="66/2556">Fei Chiang</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Combining Quantitative and Logical Data Cleaning.</title>
+<pages>300-311</pages>
+<year>2015</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p300-prokoshyna.pdf</ee>
+<ee>https://doi.org/10.14778/2856318.2856325</ee>
+<url>db/journals/pvldb/pvldb9.html#ProkoshynaSCMS15</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/KandoganRSHTCM15" mdate="2021-03-31">
+<author pid="54/6752">Eser Kandogan</author>
+<author pid="r/MaryRoth">Mary Roth</author>
+<author pid="20/3569">Peter M. Schwarz</author>
+<author pid="32/6732">Joshua Hui</author>
+<author pid="134/9731">Ignacio G. Terrizzano</author>
+<author pid="145/6171">Christina Christodoulakis</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>LabBook: Metadata-driven social collaborative data analysis.</title>
+<pages>431-440</pages>
+<year>2015</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData.2015.7363784</ee>
+<crossref>conf/bigdataconf/2015</crossref>
+<url>db/conf/bigdataconf/bigdataconf2015.html#KandoganRSHTCM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/HassanzadehM15" mdate="2021-09-07">
+<author orcid="0000-0001-5307-9857" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Automatic Curation of Clinical Trials Data in LinkedCT.</title>
+<pages>270-278</pages>
+<year>2015</year>
+<booktitle>ISWC (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-25010-6_16</ee>
+<crossref>conf/semweb/2015-2</crossref>
+<url>db/conf/semweb/iswc2015-2.html#HassanzadehM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/HassanzadehMNZ15" mdate="2023-03-10">
+<author pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="23/7274">Fatemeh Nargesian</author>
+<author pid="116/5135">Erkang Zhu</author>
+<title>LinkedCT Live: Platform for Online Curation of Clinical Trials Data.</title>
+<year>2015</year>
+<booktitle>ISWC (Posters &amp; Demos)</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1486/paper_114.pdf</ee>
+<crossref>conf/semweb/2015p</crossref>
+<url>db/conf/semweb/iswc2015p.html#HassanzadehMNZ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/BashardoostCYML15" mdate="2021-04-09">
+<author orcid="0000-0001-8654-6626" pid="162/8970">Bahar Ghadiri Bashardoost</author>
+<author pid="145/6171">Christina Christodoulakis</author>
+<author pid="86/1462">Soheil Hassas Yeganeh</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="96/4108">Kelly A. Lyons</author>
+<author orcid="0000-0001-5307-9857" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<title>VizCurator: A Visual Tool for Curating Open Data.</title>
+<pages>195-198</pages>
+<year>2015</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2740908.2742845</ee>
+<crossref>conf/www/2015c</crossref>
+<url>db/conf/www/www2015c.html#BashardoostCYML15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/comad/Miller14" mdate="2020-03-12">
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Big Data Curation.</title>
+<pages>4</pages>
+<year>2014</year>
+<booktitle>COMAD</booktitle>
+<ee type="oa">http://comad.in/comad2014/Proceedings/Keynote2.pdf</ee>
+<crossref>conf/comad/2014</crossref>
+<url>db/conf/comad/comad2014.html#Miller14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/VolkovsCSM14" mdate="2023-03-24">
+<author pid="22/1815">Maksims Volkovs</author>
+<author pid="66/2556">Fei Chiang</author>
+<author pid="06/9379">Jaroslaw Szlichta</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Continuous data cleaning.</title>
+<pages>244-255</pages>
+<year>2014</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2014.6816655</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2014.6816655</ee>
+<crossref>conf/icde/2014</crossref>
+<url>db/conf/icde/icde2014.html#VolkovsCSM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChristodoulakisFM14" mdate="2023-03-24">
+<author pid="145/6171">Christina Christodoulakis</author>
+<author orcid="0000-0003-2996-9790" pid="f/CFaloutsos">Christos Faloutsos</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>VoidWiz: Resolving incompleteness using network effects.</title>
+<pages>1230-1233</pages>
+<year>2014</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2014.6816748</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2014.6816748</ee>
+<ee>https://www.wikidata.org/entity/Q59551224</ee>
+<crossref>conf/icde/2014</crossref>
+<url>db/conf/icde/icde2014.html#ChristodoulakisFM14</url>
+</inproceedings>
+</r>
+<r><book key="series/synthesis/2013Ng" mdate="2023-10-19">
+<author pid="n/RTNg">Raymond T. Ng</author>
+<author pid="61/8235">Patricia C. Arocena</author>
+<author pid="b/DBarbosa">Denilson Barbosa 0001</author>
+<author pid="30/3994">Giuseppe Carenini</author>
+<author pid="68/6898">Luiz Celso Gomes Jr.</author>
+<author pid="71/9163">Stephan Jou</author>
+<author pid="138/2623">Rock Anthony Leung</author>
+<author pid="m/EvangelosEMilios">Evangelos E. Milios</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="m/JohnMylopoulos">John Mylopoulos</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<author orcid="0000-0002-1907-9535" pid="t/FrankWmTompa">Frank Wm. Tompa</author>
+<author pid="33/5374">Eric S. K. Yu</author>
+<title>Perspectives on Business Intelligence</title>
+<year>2013</year>
+<series href="db/series/synthesis-dtm/index.html">Synthesis Lectures on Data Management</series>
+<publisher>Morgan &amp; Claypool Publishers</publisher>
+<pages>1-163</pages>
+<isbn>9781627050937</isbn>
+<isbn>9781627050944</isbn>
+<isbn>978-3-031-00720-0</isbn>
+<isbn>978-3-031-01848-0</isbn>
+<ee>https://doi.org/10.2200/S00491ED1V01Y201303DTM034</ee>
+<ee>https://doi.org/10.1007/978-3-031-01848-0</ee>
+</book>
+</r>
+<r><article key="journals/pvldb/HassanzadehPYMPHH13" mdate="2020-04-25">
+<author orcid="0000-0001-5307-9857" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="20/2043">Ken Q. Pu</author>
+<author pid="86/1462">Soheil Hassas Yeganeh</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="h/ChingTienHo">Howard Ho</author>
+<title>Discovering Linkage Points over Web Data.</title>
+<pages>444-456</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p445-hassanzadeh.pdf</ee>
+<ee>https://doi.org/10.14778/2536336.2536345</ee>
+<ee>https://www.wikidata.org/entity/Q57019370</ee>
+<url>db/journals/pvldb/pvldb6.html#HassanzadehPYMPHH13</url>
+</article>
+</r>
+<r><article key="journals/semweb/XinHFSM13" mdate="2023-08-28">
+<author pid="47/7258">Reynold S. Xin</author>
+<author orcid="0000-0001-5307-9857" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="38/6-1">Christian Fritz 0001</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Publishing bibliographic data on the Semantic Web using BibBase.</title>
+<pages>15-22</pages>
+<year>2013</year>
+<volume>4</volume>
+<journal>Semantic Web</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/SW-2012-0062</ee>
+<ee>https://www.wikidata.org/entity/Q120984724</ee>
+<url>db/journals/semweb/semweb4.html#XinHFSM13</url>
+</article>
+</r>
+<r><article key="journals/vldb/DindarTMHB13" mdate="2017-05-28">
+<author pid="86/7118">Nihal Dindar</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="62/5535">Irina Botan</author>
+<title>Modeling the execution semantics of stream processing engines with SECRET.</title>
+<pages>421-446</pages>
+<year>2013</year>
+<volume>22</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00778-012-0297-3</ee>
+<url>db/journals/vldb/vldb22.html#DindarTMHB13</url>
+</article>
+</r>
+<r><inproceedings key="conf/birthday/GlavicMA13" mdate="2017-05-23">
+<author pid="09/3012">Boris Glavic</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Using SQL for Efficient Generation and Querying of Provenance Information.</title>
+<pages>291-320</pages>
+<year>2013</year>
+<booktitle>In Search of Elegance in the Theory and Practice of Computation</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41660-6_16</ee>
+<crossref>conf/birthday/2013buneman</crossref>
+<url>db/conf/birthday/buneman2013.html#GlavicMA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ArocenaGM13" mdate="2018-11-06">
+<author pid="61/8235">Patricia C. Arocena</author>
+<author orcid="0000-0003-2887-2452" pid="09/3012">Boris Glavic</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Value invention in data exchange.</title>
+<pages>157-168</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2465311</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#ArocenaGM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tapp/GlavicSAM13" mdate="2021-02-02">
+<author pid="09/3012">Boris Glavic</author>
+<author pid="145/3928">Javed Siddique</author>
+<author pid="52/1486">Periklis Andritsos</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Provenance for Data Mining.</title>
+<year>2013</year>
+<booktitle>TaPP</booktitle>
+<ee type="oa">https://www.usenix.org/conference/tapp13/technical-sessions/presentation/glavic</ee>
+<crossref>conf/tapp/2013</crossref>
+<url>db/conf/tapp/tapp2013.html#GlavicSAM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/birte/ArocenaMM12" mdate="2017-05-17">
+<author pid="61/8235">Patricia C. Arocena</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="m/JohnMylopoulos">John Mylopoulos</author>
+<title>The Vivification Problem in Real-Time Business Intelligence: A Vision.</title>
+<pages>37-49</pages>
+<year>2012</year>
+<booktitle>BIRTE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-39872-8_3</ee>
+<crossref>conf/birte/2012</crossref>
+<url>db/conf/birte/birte2012.html#ArocenaMM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChiangAZM12" mdate="2023-03-24">
+<author pid="66/2556">Fei Chiang</author>
+<author pid="52/1486">Periklis Andritsos</author>
+<author pid="116/5135">Erkang Zhu</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>AutoDict: Automated Dictionary Discovery.</title>
+<pages>1277-1280</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.126</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2012.126</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#ChiangAZM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iconference/ChiangM12" mdate="2018-11-06">
+<author pid="66/2556">Fei Chiang</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Automated dictionary discovery for the online marketplace.</title>
+<pages>421-422</pages>
+<year>2012</year>
+<booktitle>iConference</booktitle>
+<ee>https://doi.org/10.1145/2132176.2132233</ee>
+<crossref>conf/iconference/2012</crossref>
+<url>db/conf/iconference/iconference2012.html#ChiangM12</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/12/HassanzadehKLMW12" mdate="2018-11-14">
+<author orcid="0000-0001-5307-9857" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="41/5464">Anastasios Kementsietsidis</author>
+<author pid="55/2304">Lipyeow Lim</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="w/MinWang">Min Wang 0001</author>
+<title>Semantic Link Discovery over Relational Data.</title>
+<pages>193-223</pages>
+<year>2012</year>
+<booktitle>Semantic Search over the Web</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-25008-8_8</ee>
+<ee>https://www.wikidata.org/entity/Q57019382</ee>
+<crossref>books/sp/VGV2012</crossref>
+<url>db/books/collections/VGV2012.html#HassanzadehKLMW12</url>
+</incollection>
+</r>
+<r><article key="journals/pvldb/GlavicDMAH11" mdate="2020-04-25">
+<author pid="09/3012">Boris Glavic</author>
+<author pid="32/724-1">Jiang Du 0001</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<title>Debugging Data Exchange with Vagabond.</title>
+<pages>1383-1386</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p1383-glavic.pdf</ee>
+<url>db/journals/pvldb/pvldb4.html#GlavicDMAH11</url>
+</article>
+</r>
+<r><inproceedings key="conf/cascon/MillerTMSY01" mdate="2021-10-14">
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author orcid="0000-0002-1907-9535" pid="t/FrankWmTompa">Frank Wm. Tompa</author>
+<author pid="66/3221">Sheila A. McIlraith</author>
+<author pid="25/2958">Jacob Slonim</author>
+<author pid="33/5374">Eric S. K. Yu</author>
+<title>NSERC business intelligence network: selected topics.</title>
+<pages>313-315</pages>
+<year>2011</year>
+<booktitle>CASCON</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2093925</ee>
+<crossref>conf/cascon/2011</crossref>
+<url>db/conf/cascon/cascon2011.html#MillerTMSY01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChiangM11" mdate="2023-03-24">
+<author pid="66/2556">Fei Chiang</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>A unified model for data and constraint repair.</title>
+<pages>446-457</pages>
+<year>2011</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2011.5767833</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2011.5767833</ee>
+<crossref>conf/icde/2011</crossref>
+<url>db/conf/icde/icde2011.html#ChiangM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iq/ChiangM11" mdate="2017-08-23">
+<author pid="66/2556">Fei Chiang</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Active repair of data quality rules.</title>
+<year>2011</year>
+<booktitle>ICIQ</booktitle>
+<crossref>conf/iq/2011</crossref>
+<url>db/conf/iq/iq2011.html#ChiangM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tapp/GlavicM11" mdate="2021-02-02">
+<author pid="09/3012">Boris Glavic</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Reexamining Some Holy Grails of Data Provenance.</title>
+<year>2011</year>
+<booktitle>TaPP</booktitle>
+<ee type="oa">https://www.usenix.org/conference/tapp11/reexamining-some-holy-grails-data-provenance</ee>
+<crossref>conf/tapp/2011</crossref>
+<url>db/conf/tapp/tapp2011.html#GlavicM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webdb/HassanzadehYM11" mdate="2012-01-20">
+<author pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="86/1462">Soheil Hassas Yeganeh</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Linking Semistructured Data on the Web.</title>
+<year>2011</year>
+<booktitle>WebDB</booktitle>
+<ee>http://webdb2011.rutgers.edu/papers/Paper%2027/paper27-camera-ready.pdf</ee>
+<crossref>conf/webdb/2011</crossref>
+<url>db/conf/webdb/webdb2011.html#HassanzadehYM11</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigmod/2011" mdate="2021-03-11">
+<editor pid="s/TimosKSellis">Timos K. Sellis</editor>
+<editor pid="m/RJMiller">Ren&#233;e J. Miller</editor>
+<editor pid="41/5464">Anastasios Kementsietsidis</editor>
+<editor pid="v/YannisVelegrakis">Yannis Velegrakis</editor>
+<title>Proceedings of the ACM SIGMOD International Conference on Management of Data, SIGMOD 2011, Athens, Greece, June 12-16, 2011</title>
+<booktitle>SIGMOD Conference</booktitle>
+<publisher>ACM</publisher>
+<year>2011</year>
+<isbn>978-1-4503-0661-4</isbn>
+<ee>https://doi.org/10.1145/1989323</ee>
+<url>db/conf/sigmod/sigmod2011.html</url>
+</proceedings>
+</r>
+<r><article key="journals/pvldb/BotanDDHMT10" mdate="2020-04-25">
+<author pid="62/5535">Irina Botan</author>
+<author pid="40/3351">Roozbeh Derakhshan</author>
+<author pid="86/7118">Nihal Dindar</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>SECRET: A Model for Analysis of the Execution Semantics of Stream Processing Systems.</title>
+<pages>232-243</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R20.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920874</ee>
+<url>db/journals/pvldb/pvldb3.html#BotanDDHMT10</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GlavicAMH10" mdate="2020-04-25">
+<author pid="09/3012">Boris Glavic</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<title>TRAMP: Understanding the Behavior of Schema Mappings through Provenance.</title>
+<pages>1314-1325</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R116.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1921003</ee>
+<url>db/journals/pvldb/pvldb3.html#GlavicAMH10</url>
+</article>
+</r>
+<r><article key="journals/pvldb/HentschelHM10" mdate="2020-04-25">
+<author pid="50/7258-1">Martin Hentschel 0001</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Just-in-time Data Integration in Action.</title>
+<pages>1621-1624</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/D27.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1921055</ee>
+<url>db/journals/pvldb/pvldb3.html#HentschelHM10</url>
+</article>
+</r>
+<r><article key="journals/tweb/ConsensMRV10" mdate="2022-10-02">
+<author orcid="0000-0003-3322-5196" pid="c/MPConsens">Mariano P. Consens</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="98/2201">Flavio Rizzolo</author>
+<author pid="58/6139">Alejandro A. Vaisman</author>
+<title>Exploring XML web collections with DescribeX.</title>
+<year>2010</year>
+<volume>4</volume>
+<journal>ACM Trans. Web</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1806916.1806920</ee>
+<url>db/journals/tweb/tweb4.html#ConsensMRV10</url>
+<pages>11:1-11:46</pages>
+</article>
+</r>
+<r><inproceedings key="conf/amw/Miller10" mdate="2023-03-10">
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Information Integration: a Vision for Integration Independence and Linking Open Data.</title>
+<year>2010</year>
+<booktitle>AMW</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-619/tutorial2.pdf</ee>
+<crossref>conf/amw/2010</crossref>
+<url>db/conf/amw/amw2010.html#Miller10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/PuHDM10" mdate="2018-11-14">
+<author pid="20/2043">Ken Q. Pu</author>
+<author orcid="0000-0001-5307-9857" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="67/8700">Richard Drake</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Online annotation of text streams with structured entities.</title>
+<pages>29-38</pages>
+<year>2010</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1871437.1871446</ee>
+<ee>https://www.wikidata.org/entity/Q57019394</ee>
+<crossref>conf/cikm/2010</crossref>
+<url>db/conf/cikm/cikm2010.html#PuHDM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/FischerEM10" mdate="2018-11-06">
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="e/KyumarsSheykhEsmaili">Kyumars Sheykh Esmaili</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Stream schema: providing and exploiting static metadata for data stream processing.</title>
+<pages>207-218</pages>
+<year>2010</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1739041.1739068</ee>
+<crossref>conf/edbt/2010</crossref>
+<url>db/conf/edbt/edbt2010.html#FischerEM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/i-semantics/HassanzadehXFYDZM10" mdate="2018-11-14">
+<author orcid="0000-0001-5307-9857" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="47/7258">Reynold Xin</author>
+<author pid="38/6-1">Christian Fritz 0001</author>
+<author pid="48/450">Yang Yang</author>
+<author pid="32/724-1">Jiang Du 0001</author>
+<author pid="14/4623">Minghua Zhao</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>BibBase triplified.</title>
+<year>2010</year>
+<booktitle>I-SEMANTICS</booktitle>
+<ee>https://doi.org/10.1145/1839707.1839758</ee>
+<ee>https://www.wikidata.org/entity/Q57019389</ee>
+<crossref>conf/i-semantics/2010</crossref>
+<url>db/conf/i-semantics/i-semantics2010.html#HassanzadehXFYDZM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/HaasMKH10" mdate="2023-03-23">
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="50/7258-1">Martin Hentschel 0001</author>
+<title>A first step towards integration independence.</title>
+<pages>147-150</pages>
+<year>2010</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2010.5452753</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2010.5452753</ee>
+<crossref>conf/icde/2010w</crossref>
+<url>db/conf/icde/icdew2010.html#HaasMKH10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/ArocenaFM10" mdate="2018-11-06">
+<author pid="61/8235">Patricia C. Arocena</author>
+<author pid="90/1367">Ariel Fuxman</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Composing local-as-view mappings: closure and applications.</title>
+<pages>209-218</pages>
+<year>2010</year>
+<booktitle>ICDT</booktitle>
+<ee>https://doi.org/10.1145/1804669.1804696</ee>
+<crossref>conf/icdt/2010</crossref>
+<url>db/conf/icdt/icdt2010.html#ArocenaFM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/XinHFSYZM10" mdate="2023-03-10">
+<author pid="47/7258">Reynold Xin</author>
+<author pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="38/6-1">Christian Fritz 0001</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<author pid="48/450">Yang Yang</author>
+<author pid="14/4623">Minghua Zhao</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Publishing Bibliographic Data on the Semantic Web using BibBase.</title>
+<year>2010</year>
+<booktitle>ISWC (Posters &amp; Demos)</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-658/paper457.pdf</ee>
+<crossref>conf/semweb/2010pd</crossref>
+<url>db/conf/semweb/pd2010.html#XinHFSYZM10</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/birte/2009" mdate="2017-05-17">
+<editor pid="04/4211">Mal&#250; Castellanos</editor>
+<editor pid="76/2198">Umeshwar Dayal</editor>
+<editor pid="m/RJMiller">Ren&#233;e J. Miller</editor>
+<title>Enabling Real-Time Business Intelligence - Third International Workshop, BIRTE 2009, Held at the 35th International Conference on Very Large Databases, VLDB 2009, Lyon, France, August 24, 2009, Revised Selected Papers</title>
+<volume>41</volume>
+<year>2010</year>
+<ee>https://doi.org/10.1007/978-3-642-14559-9</ee>
+<isbn>978-3-642-14558-2</isbn>
+<series href="db/series/lnbip/index.html">Lecture Notes in Business Information Processing</series>
+<publisher>Springer</publisher>
+<booktitle>BIRTE</booktitle>
+<url>db/conf/birte/birte2009.html</url>
+</proceedings>
+</r>
+<r><article key="journals/pvldb/HassanzadehCML09" mdate="2021-04-09">
+<author orcid="0000-0001-5307-9857" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="66/2556">Fei Chiang</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="09/1032">Hyun Chul Lee</author>
+<title>Framework for Evaluating Clustering Algorithms in Duplicate Detection.</title>
+<pages>1282-1293</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-1025.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687771</ee>
+<url>db/journals/pvldb/pvldb2.html#HassanzadehCML09</url>
+</article>
+</r>
+<r><article key="journals/pvldb/HassanzadehXMKLW09" mdate="2021-04-09">
+<author orcid="0000-0001-5307-9857" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="47/7258">Reynold Xin</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="41/5464">Anastasios Kementsietsidis</author>
+<author pid="55/2304">Lipyeow Lim</author>
+<author pid="w/MinWang">Min Wang 0001</author>
+<title>Linkage Query Writer.</title>
+<pages>1590-1593</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-1006.pdf</ee>
+<ee>https://doi.org/10.14778/1687553.1687599</ee>
+<url>db/journals/pvldb/pvldb2.html#HassanzadehXMKLW09</url>
+</article>
+</r>
+<r><article key="journals/vldb/HassanzadehM09" mdate="2018-11-14">
+<author orcid="0000-0001-5307-9857" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Creating probabilistic databases from duplicated data.</title>
+<pages>1141-1166</pages>
+<year>2009</year>
+<volume>18</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-009-0161-2</ee>
+<ee>https://www.wikidata.org/entity/Q57019395</ee>
+<url>db/journals/vldb/vldb18.html#HassanzadehM09</url>
+</article>
+</r>
+<r><inproceedings key="conf/birthday/FaginHHMPV09" mdate="2021-10-14">
+<author pid="f/RonaldFagin">Ronald Fagin</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<author orcid="0000-0001-6332-0296" pid="v/YannisVelegrakis">Yannis Velegrakis</author>
+<title>Clio: Schema Mapping Creation and Data Exchange.</title>
+<pages>198-236</pages>
+<year>2009</year>
+<booktitle>Conceptual Modeling: Foundations and Applications</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02463-4_12</ee>
+<ee>https://www.wikidata.org/entity/Q60431739</ee>
+<crossref>conf/birthday/2009mylopoulos</crossref>
+<url>db/conf/birthday/mylopoulos2009.html#FaginHHMPV09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/HassanzadehKLMW09" mdate="2018-11-14">
+<author orcid="0000-0001-5307-9857" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="41/5464">Anastasios Kementsietsidis</author>
+<author pid="55/2304">Lipyeow Lim</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="w/MinWang">Min Wang 0001</author>
+<title>A framework for semantic link discovery over relational data.</title>
+<pages>1027-1036</pages>
+<year>2009</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1645953.1646084</ee>
+<ee>https://www.wikidata.org/entity/Q57019403</ee>
+<crossref>conf/cikm/2009</crossref>
+<url>db/conf/cikm/cikm2009.html#HassanzadehKLMW09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/DuchateauCBM09" mdate="2018-11-06">
+<author pid="85/2842">Fabien Duchateau</author>
+<author pid="37/4003">Remi Coletta</author>
+<author pid="b/ZohraBellahsene">Zohra Bellahsene</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>(Not) yet another matcher.</title>
+<pages>1537-1540</pages>
+<year>2009</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1645953.1646165</ee>
+<crossref>conf/cikm/2009</crossref>
+<url>db/conf/cikm/cikm2009.html#DuchateauCBM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/DuchateauCBM09a" mdate="2018-11-06">
+<author pid="85/2842">Fabien Duchateau</author>
+<author pid="37/4003">Remi Coletta</author>
+<author pid="b/ZohraBellahsene">Zohra Bellahsene</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>YAM: a schema matcher factory.</title>
+<pages>2079-2080</pages>
+<year>2009</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1645953.1646311</ee>
+<crossref>conf/cikm/2009</crossref>
+<url>db/conf/cikm/cikm2009.html#DuchateauCBM09a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/HaasHKM09" mdate="2017-05-25">
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="50/7258-1">Martin Hentschel 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Schema AND Data: A Holistic Approach to Mapping, Resolution and Fusion in Information Integration.</title>
+<pages>27-40</pages>
+<year>2009</year>
+<booktitle>ER</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04840-1_5</ee>
+<crossref>conf/er/2009</crossref>
+<url>db/conf/er/er2009.html#HaasHKM09</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/FuxmanM09" mdate="2017-07-12">
+<author pid="90/1367">Ariel Fuxman</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Schema Mapping.</title>
+<pages>2481-2488</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_964</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/s.html#FuxmanM09</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0908-0567" mdate="2018-08-13">
+<author pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="41/5464">Anastasios Kementsietsidis</author>
+<author pid="55/2304">Lipyeow Lim</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="w/MinWang">Min Wang 0001</author>
+<title>LinkedCT: A Linked Data Space for Clinical Trials</title>
+<ee type="oa">http://arxiv.org/abs/0908.0567</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0908.0567</volume>
+<url>db/journals/corr/corr0908.html#abs-0908-0567</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChiangM08" mdate="2020-04-25">
+<author pid="66/2556">Fei Chiang</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Discovering data quality rules.</title>
+<pages>1166-1177</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1453980.pdf</ee>
+<ee>https://doi.org/10.14778/1453856.1453980</ee>
+<url>db/journals/pvldb/pvldb1.html#ChiangM08</url>
+</article>
+</r>
+<r><article key="journals/vldb/CatarciM08" mdate="2023-10-22">
+<author orcid="0000-0002-3578-1121" pid="c/TCatarci">Tiziana Catarci</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Guest editorial: special issue on metadata management.</title>
+<pages>1345-1346</pages>
+<year>2008</year>
+<volume>17</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00778-008-0112-3</ee>
+<ee>https://www.wikidata.org/entity/Q122178591</ee>
+<url>db/journals/vldb/vldb17.html#CatarciM08</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/AlexeCMT08" mdate="2023-03-24">
+<author pid="05/6762">Bogdan Alexe</author>
+<author pid="c/LauraChiticariu">Laura Chiticariu</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="t/WangChiewTan">Wang Chiew Tan</author>
+<title>Muse: Mapping Understanding and deSign by Example.</title>
+<pages>10-19</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497409</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497409</ee>
+<ee>https://www.wikidata.org/entity/Q60431737</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#AlexeCMT08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AlexeCMPT08" mdate="2018-11-06">
+<author pid="05/6762">Bogdan Alexe</author>
+<author pid="c/LauraChiticariu">Laura Chiticariu</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="01/3837">Daniel Pepper</author>
+<author pid="t/WangChiewTan">Wang Chiew Tan</author>
+<title>Muse: a system for understanding and designing mappings.</title>
+<pages>1281-1284</pages>
+<year>2008</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1376616.1376755</ee>
+<crossref>conf/sigmod/2008</crossref>
+<url>db/conf/sigmod/sigmod2008.html#AlexeCMPT08</url>
+</inproceedings>
+</r>
+<r><article key="journals/jcss/FuxmanM07" mdate="2021-02-16">
+<author pid="90/1367">Ariel Fuxman</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>First-order query rewriting for inconsistent databases.</title>
+<pages>610-635</pages>
+<year>2007</year>
+<volume>73</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1016/j.jcss.2006.10.013</ee>
+<url>db/journals/jcss/jcss73.html#FuxmanM07</url>
+</article>
+</r>
+<r><inproceedings key="conf/dlog/Miller07" mdate="2023-03-10">
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Retrospective on Clio: Schema Mapping and Data Exchange in Practice.</title>
+<year>2007</year>
+<booktitle>Description Logics</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-250/invited_1.pdf</ee>
+<crossref>conf/dlog/2007</crossref>
+<url>db/conf/dlog/dlog2007.html#Miller07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AnBMM07" mdate="2023-03-23">
+<author pid="54/323">Yuan An</author>
+<author pid="b/ABorgida">Alexander Borgida</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="m/JohnMylopoulos">John Mylopoulos</author>
+<title>A Semantic Approach to Discovering Schema Mapping Expressions.</title>
+<pages>206-215</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.367866</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2007.367866</ee>
+<url>db/conf/icde/icde2007.html#AnBMM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/HernandezHPFMFP07" mdate="2023-03-24">
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="h/ChingTienHo">Howard Ho</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<author pid="90/1367">Ariel Fuxman</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="72/6093">Takeshi Fukuda</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<title>Creating Nested Mappings with Clio.</title>
+<pages>1487-1488</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.369046</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2007.369046</ee>
+<url>db/conf/icde/icde2007.html#HernandezHPFMFP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iqis/Miller07" mdate="2007-12-31">
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Management of Inconsistent and Uncertain Data.</title>
+<pages>7</pages>
+<year>2007</year>
+<crossref>conf/iqis/2007</crossref>
+<booktitle>QDB</booktitle>
+<url>db/conf/iqis/qdb2007.html#Miller07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iqis/HassanzadehSM07" mdate="2008-01-07">
+<author pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Accuracy of Approximate String Joins Using Grams.</title>
+<pages>11-18</pages>
+<year>2007</year>
+<crossref>conf/iqis/2007</crossref>
+<booktitle>QDB</booktitle>
+<url>db/conf/iqis/qdb2007.html#HassanzadehSM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/UdreaGM07" mdate="2018-11-06">
+<author pid="39/4681">Octavian Udrea</author>
+<author pid="g/LiseGetoor">Lise Getoor</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Leveraging data and structure in ontology integration.</title>
+<pages>449-460</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247531</ee>
+<url>db/conf/sigmod/sigmod2007.html#UdreaGM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/LeeLM07" mdate="2023-03-24">
+<author pid="09/1032">Hyun Chul Lee</author>
+<author pid="84/33">Haifeng Liu</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Geographically-Sensitive Link Analysis.</title>
+<pages>628-634</pages>
+<year>2007</year>
+<crossref>conf/webi/2007</crossref>
+<booktitle>Web Intelligence</booktitle>
+<ee>https://doi.org/10.1109/WI.2007.112</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI.2007.112</ee>
+<url>db/conf/webi/webi2007.html#LeeLM07</url>
+</inproceedings>
+</r>
+<r><article key="journals/tods/FuxmanKMT06" mdate="2019-05-09">
+<author pid="90/1367">Ariel Fuxman</author>
+<author pid="k/PGKolaitis">Phokion G. Kolaitis</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="t/WangChiewTan">Wang Chiew Tan</author>
+<title>Peer data exchange.</title>
+<pages>1454-1498</pages>
+<year>2006</year>
+<volume>31</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1189769.1189778</ee>
+<url>db/journals/tods/tods31.html#FuxmanKMT06</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/KanzaMMZ06" mdate="2017-05-21">
+<author pid="k/YaronKanza">Yaron Kanza</author>
+<author pid="m/AOMendelzon">Alberto O. Mendelzon</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="z/ZhengZhang0002">Zheng Zhang 0002</author>
+<title>Authorization-Transparent Access Control for XML Under the Non-Truman Model.</title>
+<pages>222-239</pages>
+<year>2006</year>
+<crossref>conf/edbt/2006</crossref>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1007/11687238_16</ee>
+<url>db/conf/edbt/edbt2006.html#KanzaMMZ06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AndritsosFM06" mdate="2023-03-23">
+<author pid="52/1486">Periklis Andritsos</author>
+<author pid="90/1367">Ariel Fuxman</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Clean Answers over Dirty Databases: A Probabilistic Approach.</title>
+<pages>30</pages>
+<year>2006</year>
+<crossref>conf/icde/2006</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2006.35</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2006.35</ee>
+<url>db/conf/icde/icde2006.html#AndritsosFM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/FuxmanHHMPP06" mdate="2020-03-12">
+<author pid="90/1367">Ariel Fuxman</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="h/ChingTienHo">C. T. Howard Ho</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<title>Nested Mappings: Schema Mapping Reloaded.</title>
+<pages>67-78</pages>
+<year>2006</year>
+<crossref>conf/vldb/2006</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1164135</ee>
+<ee type="oa">http://www.vldb.org/conf/2006/p67-fuxman.pdf</ee>
+<url>db/conf/vldb/vldb2006.html#FuxmanHHMPP06</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/Miller05" mdate="2020-03-06">
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>In memoriam Alberto Oscar Mendelzon.</title>
+<pages>7-12</pages>
+<year>2005</year>
+<volume>34</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1107499.1107509</ee>
+<url>db/journals/sigmod/sigmod34.html#Miller05</url>
+</article>
+</r>
+<r><article key="journals/tcs/FaginKMP05" mdate="2021-02-17">
+<author pid="f/RonaldFagin">Ronald Fagin</author>
+<author pid="k/PGKolaitis">Phokion G. Kolaitis</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<title>Data exchange: semantics and query answering.</title>
+<pages>89-124</pages>
+<year>2005</year>
+<volume>336</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2004.10.033</ee>
+<ee>https://www.wikidata.org/entity/Q60431740</ee>
+<url>db/journals/tcs/tcs336.html#FaginKMP05</url>
+</article>
+</r>
+<r><article key="journals/vldb/OzsuKM05" mdate="2017-06-09">
+<author orcid="0000-0002-8126-1717" pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Special issue: Best papers of VLDB 2004.</title>
+<pages>355-356</pages>
+<year>2005</year>
+<volume>14</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00778-005-0179-z</ee>
+<url>db/journals/vldb/vldb14.html#OzsuKM05</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/VelegrakisMM05" mdate="2023-03-23">
+<author orcid="0000-0001-6332-0296" pid="v/YannisVelegrakis">Yannis Velegrakis</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="m/JohnMylopoulos">John Mylopoulos</author>
+<title>Representing and Querying Data Transformations.</title>
+<year>2005</year>
+<crossref>conf/icde/2005</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2005.html#VelegrakisMM05</url>
+<pages>81-92</pages>
+<ee>https://doi.org/10.1109/ICDE.2005.123</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2005.123</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/FuxmanM05" mdate="2017-05-23">
+<author pid="90/1367">Ariel Fuxman</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>First-Order Query Rewriting for Inconsistent Databases.</title>
+<pages>337-351</pages>
+<ee>https://doi.org/10.1007/978-3-540-30570-5_23</ee>
+<year>2005</year>
+<crossref>conf/icdt/2005</crossref>
+<booktitle>ICDT</booktitle>
+<url>db/conf/icdt/icdt2005.html#FuxmanM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/FuxmanKMT05" mdate="2018-11-06">
+<author pid="90/1367">Ariel Fuxman</author>
+<author pid="k/PGKolaitis">Phokion G. Kolaitis</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="t/WangChiewTan">Wang Chiew Tan</author>
+<title>Peer data exchange.</title>
+<pages>160-171</pages>
+<year>2005</year>
+<crossref>conf/pods/2005</crossref>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1065167.1065188</ee>
+<url>db/conf/pods/pods2005.html#FuxmanKMT05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/FuxmanFM05" mdate="2018-11-06">
+<author pid="90/1367">Ariel Fuxman</author>
+<author pid="00/3482">Elham Fazli</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>ConQuer: Efficient Management of Inconsistent Databases.</title>
+<year>2005</year>
+<crossref>conf/sigmod/2005</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2005.html#FuxmanFM05</url>
+<pages>155-166</pages>
+<ee>https://doi.org/10.1145/1066157.1066176</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/Rodriguez-GianolliGJKKMMM05" mdate="2020-03-12">
+<author pid="61/8235">Patricia Rodr&#237;guez-Gianolli</author>
+<author pid="28/179">Maddalena Garzetti</author>
+<author pid="96/1994-2">Lei Jiang 0002</author>
+<author pid="41/5464">Anastasios Kementsietsidis</author>
+<author pid="85/3509">Iluju Kiringa</author>
+<author pid="81/1909">Mehedi Masud</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="m/JohnMylopoulos">John Mylopoulos</author>
+<title>Data Sharing in the Hyperion Peer Database System.</title>
+<pages>1291-1294</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2005/papers/p1291-rodriguez-gianolli.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083753</ee>
+<url>db/conf/vldb/vldb2005.html#Rodriguez-GianolliGJKKMMM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/FuxmanFM05" mdate="2020-03-12">
+<author pid="90/1367">Ariel Fuxman</author>
+<author pid="43/6913">Diego Fuxman</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>ConQuer: A System for Efficient Querying Over Inconsistent Databases.</title>
+<pages>1354-1357</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2005/papers/p1354-fuxman.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083774</ee>
+<url>db/conf/vldb/vldb2005.html#FuxmanFM05</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/AndritsosFKMV04" mdate="2020-03-06">
+<author pid="52/1486">Periklis Andritsos</author>
+<author pid="90/1367">Ariel Fuxman</author>
+<author pid="41/5464">Anastasios Kementsietsidis</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="v/YannisVelegrakis">Yannis Velegrakis</author>
+<title>Kanata: Adaptation and Evolution in Data Sharing Systems.</title>
+<pages>32-37</pages>
+<year>2004</year>
+<volume>33</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1041410.1041416</ee>
+<url>db/journals/sigmod/sigmod33.html#AndritsosFKMV04</url>
+</article>
+</r>
+<r><article key="journals/vldb/VelegrakisMP04" mdate="2021-10-14">
+<author orcid="0000-0001-6332-0296" pid="v/YannisVelegrakis">Yannis Velegrakis</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<title>Preserving mapping consistency under schema changes.</title>
+<pages>274-293</pages>
+<year>2004</year>
+<volume>13</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00778-004-0136-2</ee>
+<url>db/journals/vldb/vldb13.html#VelegrakisMP04</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/AndritsosTMS04" mdate="2017-05-21">
+<author pid="52/1486">Periklis Andritsos</author>
+<author pid="65/6838">Panayiotis Tsaparas</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="s/KennethCSevcik">Kenneth C. Sevcik</author>
+<title>LIMBO: Scalable Clustering of Categorical Data.</title>
+<pages>123-146</pages>
+<ee>https://doi.org/10.1007/978-3-540-24741-8_9</ee>
+<year>2004</year>
+<crossref>conf/edbt/2004</crossref>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt2004.html#AndritsosTMS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/VelegrakisMPM04" mdate="2023-03-24">
+<author orcid="0000-0001-6332-0296" pid="v/YannisVelegrakis">Yannis Velegrakis</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<author pid="m/JohnMylopoulos">John Mylopoulos</author>
+<title>ToMAS: A System for Adapting Mappings while Schemas Evolve.</title>
+<pages>862</pages>
+<year>2004</year>
+<crossref>conf/icde/2004</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2004.1320090</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2004.1320090</ee>
+<url>db/conf/icde/icde2004.html#VelegrakisMPM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AndritsosMT04" mdate="2022-06-23">
+<author pid="52/1486">Periklis Andritsos</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author orcid="0000-0002-3490-1507" pid="65/6838">Panayiotis Tsaparas</author>
+<title>Information-Theoretic Tools for Mining Database Structure from Large Data Sets.</title>
+<year>2004</year>
+<crossref>conf/sigmod/2004</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2004.html#AndritsosMT04</url>
+<pages>731-742</pages>
+<ee>https://doi.org/10.1145/1007568.1007650</ee>
+</inproceedings>
+</r>
+<r><proceedings key="conf/vldb/2004" mdate="2019-06-07">
+<editor pid="n/MarioANascimento">Mario A. Nascimento</editor>
+<editor pid="o/MTamerOzsu">M. Tamer &#214;zsu</editor>
+<editor pid="k/DonaldKossmann">Donald Kossmann</editor>
+<editor pid="m/RJMiller">Ren&#233;e J. Miller</editor>
+<editor pid="79/2594">Jos&#233; A. Blakeley</editor>
+<editor pid="95/5216">K. Bernhard Schiefer</editor>
+<title>(e)Proceedings of the Thirtieth International Conference on Very Large Data Bases, VLDB 2004, Toronto, Canada, August 31 - September 3 2004</title>
+<publisher href="db/publishers/mkp.html">Morgan Kaufmann</publisher>
+<year>2004</year>
+<isbn>0-12-088469-0</isbn>
+<ee>https://www.sciencedirect.com/book/9780120884698/</ee>
+<url>db/conf/vldb/vldb2004.html</url>
+</proceedings>
+</r>
+<r><article key="journals/debu/Miller03" mdate="2020-03-10">
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Letter from the Special Issue Editor.</title>
+<pages>2</pages>
+<year>2003</year>
+<volume>26</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<ee type="oa">http://sites.computer.org/debull/A03sept/miller.ps</ee>
+<url>db/journals/debu/debu26.html#Miller03</url>
+</article>
+</r>
+<r><article key="journals/debu/MillerA03" mdate="2020-03-10">
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="52/1486">Periklis Andritsos</author>
+<title>Schema Discovery.</title>
+<pages>40-45</pages>
+<year>2003</year>
+<volume>26</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<ee type="oa">http://sites.computer.org/debull/A03sept/toronto.ps</ee>
+<url>db/journals/debu/debu26.html#MillerA03</url>
+</article>
+</r>
+<r><article key="journals/sigmod/ArenasKKKMM03" mdate="2020-03-06">
+<author pid="76/6735">Marcelo Arenas</author>
+<author pid="k/VerenaKantere">Vasiliki Kantere</author>
+<author pid="41/5464">Anastasios Kementsietsidis</author>
+<author pid="85/3509">Iluju Kiringa</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="m/JohnMylopoulos">John Mylopoulos</author>
+<title>The hyperion project: from data integration to data coordination.</title>
+<pages>53-58</pages>
+<year>2003</year>
+<volume>32</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/945721.945733</ee>
+<url>db/journals/sigmod/sigmod32.html#ArenasKKKMM03</url>
+</article>
+</r>
+<r><article key="journals/tcs/EdmondsGLM03" mdate="2021-02-17">
+<author pid="e/JeffEdmonds">Jeff Edmonds</author>
+<author pid="g/JarekGryz">Jarek Gryz</author>
+<author pid="76/5443">Dongming Liang</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Mining for empty spaces in large data sets.</title>
+<pages>435-452</pages>
+<year>2003</year>
+<journal>Theor. Comput. Sci.</journal>
+<number>3</number>
+<volume>296</volume>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(02)00738-7</ee>
+<url>db/journals/tcs/tcs296.html#EdmondsGLM03</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/KementsietsidisAM03" mdate="2023-03-24">
+<author pid="41/5464">Anastasios Kementsietsidis</author>
+<author pid="76/6735">Marcelo Arenas</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Managing Data Mappings in the Hyperion Project.</title>
+<pages>732-734</pages>
+<ee>https://doi.org/10.1109/ICDE.2003.1260851</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2003.1260851</ee>
+<year>2003</year>
+<crossref>conf/icde/2003</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2003.html#KementsietsidisAM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/FaginKMP03" mdate="2017-12-25">
+<author pid="f/RonaldFagin">Ronald Fagin</author>
+<author pid="k/PGKolaitis">Phokion G. Kolaitis</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<title>Data Exchange: Semantics and Query Answering.</title>
+<pages>207-224</pages>
+<year>2003</year>
+<crossref>conf/icdt/2003</crossref>
+<booktitle>ICDT</booktitle>
+<ee>https://doi.org/10.1007/3-540-36285-1_14</ee>
+<url>db/conf/icdt/icdt2003.html#FaginKMP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/FuxmanM03" mdate="2004-07-21">
+<author pid="90/1367">Ariel Fuxman</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Towards Inconsistency Management in Data Integration Systems.</title>
+<pages>143-148</pages>
+<year>2003</year>
+<crossref>conf/ijcai/2003iiweb</crossref>
+<booktitle>IIWeb</booktitle>
+<ee>http://www.isi.edu/info-agents/workshops/ijcai03/papers/fuxman-ijcai3.pdf</ee>
+<url>db/conf/ijcai/ijcai2003iiweb.html#FuxmanM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/AndritsosM03" mdate="2004-07-21">
+<author pid="52/1486">Periklis Andritsos</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Using Categorical Clustering in Schema Discovery.</title>
+<pages>211</pages>
+<year>2003</year>
+<crossref>conf/ijcai/2003iiweb</crossref>
+<booktitle>IIWeb</booktitle>
+<ee>http://www.isi.edu/info-agents/workshops/ijcai03/papers/Miller-ijcai03.pdf</ee>
+<url>db/conf/ijcai/ijcai2003iiweb.html#AndritsosM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KementsietsidisAM03" mdate="2018-11-06">
+<author pid="41/5464">Anastasios Kementsietsidis</author>
+<author pid="76/6735">Marcelo Arenas</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Mapping Data in Peer-to-Peer Systems: Semantics and Algorithmic Issues.</title>
+<pages>325-336</pages>
+<year>2003</year>
+<crossref>conf/sigmod/2003</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2003.html#KementsietsidisAM03</url>
+<ee>https://doi.org/10.1145/872757.872798</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/VelegrakisMP03" mdate="2020-03-12">
+<ee type="oa">http://www.vldb.org/conf/2003/papers/S18P02.pdf</ee>
+<ee>https://doi.org/10.1016/B978-012722442-8/50058-6</ee>
+<author pid="v/YannisVelegrakis">Yannis Velegrakis</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<title>Mapping Adaptation under Evolving Schemas.</title>
+<year>2003</year>
+<crossref>conf/vldb/2003</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2003.html#VelegrakisMP03</url>
+<pages>584-595</pages>
+</inproceedings>
+</r>
+<r><article key="journals/debu/Miller02" mdate="2020-03-10">
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Letter from the Special Issue Editor.</title>
+<pages>2</pages>
+<year>2002</year>
+<ee type="oa">http://sites.computer.org/debull/A02SEP-CD.pdf</ee>
+<volume>25</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<url>db/journals/debu/debu25.html#Miller02</url>
+</article>
+</r>
+<r><article key="journals/debu/AndritsosFFHHHKMNPVVY02" mdate="2020-03-10">
+<author pid="52/1486">Periklis Andritsos</author>
+<author pid="f/RonaldFagin">Ronald Fagin</author>
+<author pid="90/1367">Ariel Fuxman</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="h/ChingTienHo">C. T. Howard Ho</author>
+<author pid="41/5464">Anastasios Kementsietsidis</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="n/FelixNaumann">Felix Naumann</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<author pid="v/YannisVelegrakis">Yannis Velegrakis</author>
+<author pid="13/4768">Charlotte Vilarem</author>
+<author pid="y/LingLingYan">Ling-Ling Yan</author>
+<title>Schema Management.</title>
+<pages>32-38</pages>
+<year>2002</year>
+<ee type="oa">http://sites.computer.org/debull/A02SEP-CD.pdf</ee>
+<volume>25</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<url>db/journals/debu/debu25.html#AndritsosFFHHHKMNPVVY02</url>
+</article>
+</r>
+<r><article key="journals/sigmod/RossKMV02" mdate="2020-03-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="k/FlipKorn">Flip Korn</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="v/KaladharVoruganti">Kaladhar Voruganti</author>
+<title>Reminiscences on Influential Papers.</title>
+<pages>107-108</pages>
+<year>2002</year>
+<volume>31</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/507338.507364</ee>
+<url>db/journals/sigmod/sigmod31.html#RossKMV02</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/PopivanovM02" mdate="2023-03-24">
+<author pid="01/734">Ivan Popivanov</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Similarity Search Over Time-Series Data Using Wavelets.</title>
+<pages>212-221</pages>
+<year>2002</year>
+<crossref>conf/icde/2002</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2002.994711</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2002.994711</ee>
+<url>db/conf/icde/icde2002.html#PopivanovM02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/HernandezPVMNH02" mdate="2023-03-24">
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<author pid="v/YannisVelegrakis">Yannis Velegrakis</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author orcid="0000-0002-4483-1389" pid="n/FelixNaumann">Felix Naumann</author>
+<author pid="h/ChingTienHo">Ching-Tien Ho</author>
+<title>Mapping XML and Relational Schemas with Clio.</title>
+<pages>498-499</pages>
+<year>2002</year>
+<crossref>conf/icde/2002</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2002.994768</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2002.994768</ee>
+<url>db/conf/icde/icde2002.html#HernandezPVMNH02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/PopaVMHF02" mdate="2020-03-12">
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<author pid="v/YannisVelegrakis">Yannis Velegrakis</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="f/RonaldFagin">Ronald Fagin</author>
+<title>Translating Web Data.</title>
+<year>2002</year>
+<crossref>conf/vldb/2002</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2002.html#PopaVMHF02</url>
+<ee type="oa">http://www.vldb.org/conf/2002/S17P02.pdf</ee>
+<ee>https://doi.org/10.1016/B978-155860869-6/50059-7</ee>
+<pages>598-609</pages>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/MillerHHYHFP01" mdate="2020-03-06">
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="y/LingLingYan">Ling-Ling Yan</author>
+<author pid="h/ChingTienHo">C. T. Howard Ho</author>
+<author pid="f/RonaldFagin">Ronald Fagin</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<title>The Clio Project: Managing Heterogeneity.</title>
+<pages>78-83</pages>
+<year>2001</year>
+<volume>30</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/373626.373713</ee>
+<url>db/journals/sigmod/sigmod30.html#MillerHHYHFP01</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdt/EdmondsGLM01" mdate="2017-05-23">
+<author pid="e/JeffEdmonds">Jeff Edmonds</author>
+<author pid="g/JarekGryz">Jarek Gryz</author>
+<author pid="76/5443">Dongming Liang</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Mining for Empty Rectangles in Large Data Sets.</title>
+<year>2001</year>
+<crossref>conf/icdt/2001</crossref>
+<booktitle>ICDT</booktitle>
+<url>db/conf/icdt/icdt2001.html#EdmondsGLM01</url>
+<pages>174-188</pages>
+<ee>https://doi.org/10.1007/3-540-44503-X_12</ee>
+<cite>conf/sigmod/AgrawalIS93</cite>
+<cite>...</cite>
+<cite>journals/debu/BarbaraDFHHIJJNPRS97</cite>
+<cite>journals/siamcomp/ChazelleDL86</cite>
+<cite>conf/vldb/ChengGKLLQS99</cite>
+<cite>...</cite>
+<cite>books/fm/GareyJ79</cite>
+<cite>conf/vldb/JagadishMN99</cite>
+<cite>conf/pricai/LiuWMQ98</cite>
+<cite>conf/ijcai/LiuKH97</cite>
+<cite>conf/sigmod/YangM97</cite>
+<cite>...</cite>
+<cite>journals/algorithmica/Orlowski90</cite>
+<cite>conf/sigmod/ZhangRL96</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwpc/AndritsosM01" mdate="2023-03-23">
+<author pid="52/1486">Periklis Andritsos</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Reverse Engineering Meets Data Analysis.</title>
+<pages>157-166</pages>
+<year>2001</year>
+<crossref>conf/iwpc/2001</crossref>
+<booktitle>IWPC</booktitle>
+<ee>https://doi.org/10.1109/WPC.2001.921727</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WPC.2001.921727</ee>
+<url>db/conf/iwpc/iwpc2001.html#AndritsosM01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/YanMHF01" mdate="2021-03-12">
+<author pid="y/LingLingYan">Ling-Ling Yan</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="f/RonaldFagin">Ronald Fagin</author>
+<title>Data-Driven Understanding and Refinement of Schema Mappings.</title>
+<pages>485-496</pages>
+<year>2001</year>
+<crossref>conf/sigmod/2001</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2001.html#YanMHF01</url>
+<ee>https://doi.org/10.1145/375663.375729</ee>
+<ee>https://doi.org/10.1145/376284.375729</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HernandezMHYHT01" mdate="2021-03-12">
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<title>Clio: A Semi-Automatic Tool For Schema Mapping.</title>
+<pages>607</pages>
+<year>2001</year>
+<crossref>conf/sigmod/2001</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2001.html#HernandezMHYHT01</url>
+<ee>https://doi.org/10.1145/375663.375767</ee>
+<ee>https://doi.org/10.1145/376284.375767</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dmkd/JermaineM00" mdate="2017-02-08">
+<author pid="j/ChrisJermaine">Chris Jermaine</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Approximate Query Answering in High-Dimensional Data Cubes.</title>
+<pages>31-36</pages>
+<year>2000</year>
+<crossref>conf/dmkd/2000</crossref>
+<booktitle>ACM SIGMOD Workshop on Research Issues in Data Mining and Knowledge Discovery</booktitle>
+<url>db/conf/dmkd/dmkd2000.html#JermaineM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/MillerHH00" mdate="2020-03-12">
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<title>Schema Mapping as Query Discovery.</title>
+<pages>77-88</pages>
+<ee type="oa">http://www.vldb.org/conf/2000/P077.pdf</ee>
+<year>2000</year>
+<crossref>conf/vldb/2000</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2000.html#MillerHH00</url>
+<cite label="ACM97">conf/icdt/AbiteboulCM97</cite>
+<cite label="AH88">journals/tcs/AbiteboulH88</cite>
+<cite label="Bel97">conf/ecsqaru/Bell97</cite>
+<cite label="BGH99">...</cite>
+<cite label="BHP94">journals/tods/BrightHP94</cite>
+<cite label="CDSS98">conf/sigmod/CluetDSS98</cite>
+<cite label="CHS+95">conf/ride/CareyHSACFFLNPTWW95</cite>
+<cite label="Dat95">books/aw/Date95</cite>
+<cite label="DPT99">conf/vldb/DeutschPT99</cite>
+<cite label="GL94">conf/sigmod/Galindo-Legaria94</cite>
+<cite label="GLR97">journals/tods/Galindo-LegariaR97</cite>
+<cite label="HMN+99">journals/debu/HaasMNRSW99</cite>
+<cite label="HMPR97">...</cite>
+<cite label="Hul86">journals/siamcomp/Hull86</cite>
+<cite label="HY92">conf/birthday/HullY92</cite>
+<cite label="IBM97">...</cite>
+<cite label="Joh97">journals/dke/Johannesson97</cite>
+<cite label="KMRS92">...</cite>
+<cite label="LMSS95">conf/pods/LevyMSS95</cite>
+<cite label="MG99">...</cite>
+<cite label="MHH00">...</cite>
+<cite label="Mil98">conf/sigmod/Miller98</cite>
+<cite label="MIR93">conf/vldb/MillerIR93</cite>
+<cite label="MIR94">journals/is/MillerIR94</cite>
+<cite label="MOTU93">...</cite>
+<cite label="MZ98">conf/vldb/MiloZ98</cite>
+<cite label="Ora">...</cite>
+<cite label="RCH99">conf/dmkd/RamanCH99</cite>
+<cite label="RR94">journals/tods/RosenthalR94</cite>
+<cite label="RR99">...</cite>
+<cite label="RS97">conf/vldb/RothS97</cite>
+<cite label="RU96">conf/pods/RajaramanU96</cite>
+<cite label="W3C99">...</cite>
+</inproceedings>
+</r>
+<r><article key="journals/debu/HaasMNRSW99" mdate="2020-03-10">
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="28/6723">B. Niswonger</author>
+<author pid="r/MaryRoth">Mary Tork Roth</author>
+<author pid="20/3569">Peter M. Schwarz</author>
+<author pid="68/2431">Edward L. Wimmers</author>
+<title>Transforming Heterogeneous Data with Database Middleware: Beyond Integration.</title>
+<pages>31-36</pages>
+<year>1999</year>
+<volume>22</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<url>db/journals/debu/debu22.html#HaasMNRSW99</url>
+<cdrom>DEBU22-1/P31.pdf</cdrom>
+<ee type="oa">http://sites.computer.org/debull/99mar/ibm.ps</ee>
+<cite label="ACPS96">conf/sigmod/AdaliCPS96</cite>
+<cite label="BLN86">journals/csur/BatiniL86</cite>
+<cite label="Bon95">...</cite>
+<cite label="C95">conf/ride/CareyHSACFFLNPTWW95</cite>
+<cite label="Cat96">books/mk/Cattell96</cite>
+<cite label="Coh98">conf/sigmod/Cohen98</cite>
+<cite label="ETI">...</cite>
+<cite label="HS95">conf/sigmod/HernandezS95</cite>
+<cite label="LSS96">conf/vldb/LakshmananSS96</cite>
+<cite label="ME97">conf/dmkd/MongeE97</cite>
+<cite label="Mil98">conf/sigmod/Miller98</cite>
+<cite label="PGMW95">conf/icde/PapakonstantinouGW95</cite>
+<cite label="Ros92">conf/pods/Ross92</cite>
+<cite label="RR98">...</cite>
+<cite label="RS97">conf/vldb/RothS97</cite>
+<cite label="TRV96">conf/icdcs/TomasicRV96</cite>
+<cite label="Val">...</cite>
+</article>
+</r>
+<r><article key="journals/ijseke/MillerG99" mdate="2020-07-22">
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="50/1234">Ashish Gujarathi</author>
+<title>Mining for Program Structure.</title>
+<pages>499-517</pages>
+<year>1999</year>
+<volume>9</volume>
+<journal>Int. J. Softw. Eng. Knowl. Eng.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1142/S0218194099000280</ee>
+<url>db/journals/ijseke/ijseke9.html#MillerG99</url>
+</article>
+</r>
+<r><article key="journals/comcom/WuML98" mdate="2020-02-20">
+<author pid="71/2167">Chao-Hui Wu</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="l/MingTLiu">Ming T. Liu</author>
+<title>Querying multimedia presentations.</title>
+<pages>1212-1225</pages>
+<year>1998</year>
+<volume>21</volume>
+<journal>Comput. Commun.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1016/S0140-3664(98)00184-4</ee>
+<url>db/journals/comcom/comcom21.html#WuML98</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/Miller98" mdate="2021-03-11">
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Using Schematically Heterogeneous Structures.</title>
+<pages>189-200</pages>
+<year>1998</year>
+<crossref>conf/sigmod/98</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod98.html#Miller98</url>
+<ee>https://doi.org/10.1145/276304.276322</ee>
+<ee>https://doi.org/10.1145/276305.276322</ee>
+<cdrom>SIGMOD98/P189.PDF</cdrom>
+<cite>conf/edbt/YerneniPAG98</cite>
+<cite>journals/computer/AhmedSDKKLRS91</cite>
+<cite>journals/ijcis/ArensCHK93</cite>
+<cite>conf/icde/BarsalouG92</cite>
+<cite>journals/csur/BatiniL86</cite>
+<cite>...</cite>
+<cite>conf/ride/CareyHSACFFLNPTWW95</cite>
+<cite>conf/icde/ChaudhuriKPS95</cite>
+<cite>conf/pods/ChaudhuriV93</cite>
+<cite>conf/ipsj/ChawatheGHPUW94</cite>
+<cite>conf/dbpl/ChenKW89</cite>
+<cite>...</cite>
+<cite>journals/tse/DayalH84</cite>
+<cite>conf/icde/GrayBLP96</cite>
+<cite>journals/siamcomp/Hull86</cite>
+<cite>conf/pods/Hull97</cite>
+<cite>conf/pods/BusscheGV93</cite>
+<cite>journals/vldb/KashyapS96</cite>
+<cite>...</cite>
+<cite>conf/sigmod/KiferKS92</cite>
+<cite>journals/computer/KimS91</cite>
+<cite>conf/sigmod/KrishnamurthyLK91</cite>
+<cite>conf/dood/LakshmananSS93</cite>
+<cite>conf/vldb/LakshmananSS96</cite>
+<cite>conf/pods/LevyMSS95</cite>
+<cite>conf/vldb/LevyRO96</cite>
+<cite>journals/computer/LitwinA86</cite>
+<cite>journals/sigmod/LitwinKK91</cite>
+<cite>...</cite>
+<cite>conf/vldb/MillerIR93</cite>
+<cite>...</cite>
+<cite>conf/icde/PapakonstantinouGW95</cite>
+<cite>conf/pods/Ross92</cite>
+<cite>conf/sigmod/SelingerACLP79</cite>
+<cite>conf/vldb/SrivastavaDJL96</cite>
+<cite>...</cite>
+<cite>journals/vldb/TsatalosSI96</cite>
+</inproceedings>
+</r>
+<r><article key="journals/ieeemm/MillerTW97" mdate="2020-03-13">
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="91/4478">Odysseas G. Tsatalos</author>
+<author pid="59/1855">John H. Williams</author>
+<title>DataWeb: Customizable Database Publishing for the Web.</title>
+<pages>14-21</pages>
+<year>1997</year>
+<volume>4</volume>
+<journal>IEEE Multim.</journal>
+<number>4</number>
+<url>db/journals/ieeemm/ieeemm4.html#MillerTW97</url>
+<ee>https://doi.org/10.1109/93.641875</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/93.641875</ee>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/YangM97" mdate="2021-06-14">
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="25/5151">Yuping Yang</author>
+<title>Association Rules over Interval Data.</title>
+<pages>452-461</pages>
+<year>1997</year>
+<crossref>conf/sigmod/97</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod97.html#YangM97</url>
+<ee>https://doi.org/10.1145/253260.253361</ee>
+<ee>https://doi.org/10.1145/253262.253361</ee>
+<cdrom>SIGMOD97/P452.PDF</cdrom>
+<cite label="AIS93">conf/sigmod/AgrawalIS93</cite>
+<cite label="AS94">conf/vldb/AgrawalS94</cite>
+<cite label="CNFF96">journals/tkde/CheungNFF96</cite>
+<cite label="EKX95">conf/kdd/EsterKX95</cite>
+<cite label="Eve93">books/halsted/Everitt93</cite>
+<cite label="FPSM91">books/mit/PF91/FrawleyPM91</cite>
+<cite label="HCC93">journals/tkde/HanCC93</cite>
+<cite label="HF95">conf/vldb/HanF95</cite>
+<cite label="HS95">conf/icde/HoutsmaS95</cite>
+<cite label="JD88">books/ph/JainD88</cite>
+<cite label="KR90">books/wi/KaufmanR90</cite>
+<cite label="Mil95">...</cite>
+<cite label="MTV94">conf/kdd/MannilaTV94</cite>
+<cite label="NH94">conf/vldb/NgH94</cite>
+<cite label="PCY95">conf/sigmod/ParkCY95</cite>
+<cite label="PS91">books/mit/PF91/Piatetsky91</cite>
+<cite label="PSF91">books/mit/PiatetskyF91</cite>
+<cite label="SA95">conf/vldb/SrikantA95</cite>
+<cite label="SA96">conf/sigmod/SrikantA96</cite>
+<cite label="SON95">conf/vldb/SavasereON95</cite>
+<cite label="Toi96">conf/vldb/Toivonen96</cite>
+<cite label="WM92">...</cite>
+<cite label="ZRL96">conf/sigmod/ZhangRL96</cite>
+<cite label="ZRL97">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/md/HeilerMV96" mdate="2022-07-15">
+<author pid="61/810">Sandra Heiler</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="53/6573">Vincent Ventrone</author>
+<title>Using Metadata to Address Problems of Semantic Interoperability in Large Object Systems.</title>
+<year>1996</year>
+<booktitle>MD</booktitle>
+<ee type="archive">http://www.computer.org/conferen/meta96/rmiller/paper.html</ee>
+<crossref>conf/md/1996</crossref>
+<url>db/conf/md/md1996.html#HeilerMV96</url>
+</inproceedings>
+</r>
+<r><article key="journals/is/MillerIR94" mdate="2017-05-20">
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<title>Schema equivalence in heterogeneous systems: bridging theory and practice.</title>
+<pages>3-31</pages>
+<year>1994</year>
+<volume>19</volume>
+<journal>Inf. Syst.</journal>
+<number>1</number>
+<url>db/journals/is/is19.html#MillerIR94</url>
+<ee>https://doi.org/10.1016/0306-4379(94)90024-8</ee>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/MillerIR94" mdate="2017-05-20">
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<title>Schema Equivalence in Heterogeneous Systems: Bridging Theory and Practice (Extended Abstract).</title>
+<pages>73-80</pages>
+<cdrom>EDBT94/P073.pdf</cdrom>
+<crossref>conf/edbt/94</crossref>
+<year>1994</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt94.html#MillerIR94</url>
+<ee>https://doi.org/10.1007/3-540-57818-8_42</ee>
+<cite>journals/tcs/AbiteboulH88</cite>
+<cite>conf/ride/AlbertAKKS93</cite>
+<cite>conf/vldb/Eick91</cite>
+<cite>journals/siamcomp/Hull86</cite>
+<cite>journals/jacm/HullY84</cite>
+<cite>conf/edbt/Kalinichenko90</cite>
+<cite>journals/tods/MarkowitzS92</cite>
+<cite>journals/is/MillerIR94</cite>
+<cite>conf/er/RosenthalR87</cite>
+</inproceedings>
+</r>
+<r><article key="journals/debu/IoannidisLHMTW93" mdate="2020-03-10">
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<author pid="l/MironLivny">Miron Livny</author>
+<author pid="10/3456">Eben M. Haber</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="91/4478">Odysseas G. Tsatalos</author>
+<author pid="w/JanetLWiener">Janet L. Wiener</author>
+<title>Desktop Experiment Management.</title>
+<pages>19-23</pages>
+<year>1993</year>
+<volume>16</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<cdrom>DEBU/93MAR-CD.PDF</cdrom>
+<url>db/journals/debu/debu16.html#IoannidisLHMTW93</url>
+<ee type="oa">http://sites.computer.org/debull/93MAR-CD.pdf</ee>
+<cite>conf/ifip/IoannidisL89</cite>
+<cite>journals/ijcis/IoannidisL92</cite>
+<cite>journals/sigmod/IoannidisLH92</cite>
+<cite>...</cite>
+<cite>conf/vldb/MillerIR93</cite>
+<cite>conf/ride/MillerIR93</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/dbpl/WienerI93</cite>
+</article>
+</r>
+<r><inproceedings key="conf/ride/MillerIR93" mdate="2023-03-23">
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<title>Understanding Schemas.</title>
+<pages>170-173</pages>
+<year>1993</year>
+<crossref>conf/ride/93</crossref>
+<booktitle>RIDE-IMS</booktitle>
+<url>db/conf/ride/ride93.html#MillerIR93</url>
+<ee>https://doi.org/10.1109/RIDE.1993.281928</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RIDE.1993.281928</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/MillerIR93" mdate="2017-03-29">
+<crossref>conf/vldb/93</crossref>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<title>The Use of Information Capacity in Schema Integration and Translation.</title>
+<pages>120-133</pages>
+<year>1993</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb93.html#MillerIR93</url>
+<ee>http://www.vldb.org/conf/1993/P120.PDF</ee>
+<cite label="AABM82">journals/tcs/AtzeniABM82</cite>
+<cite label="ADD+91">journals/computer/AhmedSDKKLRS91</cite>
+<cite label="AP82">conf/pods/AtzeniP82</cite>
+<cite label="AP86">conf/icde/AtzeniP86</cite>
+<cite label="BC86">conf/sigmod/BiskupC86</cite>
+<cite label="BDK92">conf/edbt/BunemanDK92</cite>
+<cite label="BL84">journals/tse/BatiniL84</cite>
+<cite label="BLN86">journals/csur/BatiniL86</cite>
+<cite label="Bor78">conf/vldb/Borkin78</cite>
+<cite label="DH84">journals/tse/DayalH84</cite>
+<cite label="EHW85">journals/dke/ElmasriWH85</cite>
+<cite label="Eic91">conf/vldb/Eick91</cite>
+<cite label="Hul86">journals/siamcomp/Hull86</cite>
+<cite label="HY84">journals/jacm/HullY84</cite>
+<cite label="Kal90">conf/edbt/Kalinichenko90</cite>
+<cite label="LNE89">journals/tse/LarsonNE89</cite>
+<cite label="MB81">conf/sigmod/MotroB81</cite>
+<cite label="ME84">conf/icde/ManninoE84</cite>
+<cite label="MIR">journals/is/MillerIR94</cite>
+<cite label="Mot87">journals/tse/Motro87</cite>
+<cite label="MS92">journals/tods/MarkowitzS92</cite>
+<cite label="NEL86">journals/computer/NavatheEL86</cite>
+<cite label="Ris82">conf/pods/Rissanen82</cite>
+<cite label="RR87">conf/er/RosenthalR87</cite>
+<cite label="RR89">conf/er/RosenthalR89</cite>
+<cite label="SZ91">journals/dke/ShovalZ91</cite>
+<cite label="Tro93">...</cite>
+<cite label="WE79">conf/er/WiederholdE79</cite>
+</inproceedings>
+</r>
+<coauthors n="173" nc="2">
+<co c="0"><na f="a/Abedjan:Ziawasch" pid="38/8707">Ziawasch Abedjan</na></co>
+<co c="0"><na f="a/Alexe:Bogdan" pid="05/6762">Bogdan Alexe</na></co>
+<co c="0"><na f="a/Alonso:Gustavo" pid="a/GustavoAlonso">Gustavo Alonso</na></co>
+<co c="0"><na f="a/Amer=Yahia:Sihem" pid="a/SihemAmerYahia">Sihem Amer-Yahia</na></co>
+<co c="0"><na f="a/An:Yuan" pid="54/323">Yuan An</na></co>
+<co c="0"><na f="a/Andritsos:Periklis" pid="52/1486">Periklis Andritsos</na></co>
+<co c="0"><na f="a/Arenas:Marcelo" pid="76/6735">Marcelo Arenas</na></co>
+<co c="0" n="2"><na f="a/Arocena:Patricia_C=" pid="61/8235">Patricia C. Arocena</na><na>Patricia Rodr&#237;guez-Gianolli</na></co>
+<co c="0"><na f="b/Bangash:Arsala" pid="247/8147">Arsala Bangash</na></co>
+<co c="0"><na f="b/Barbosa_0001:Denilson" pid="b/DBarbosa">Denilson Barbosa 0001</na></co>
+<co c="0"><na f="b/Bashardoost:Bahar_Ghadiri" pid="162/8970">Bahar Ghadiri Bashardoost</na></co>
+<co c="0"><na f="b/Bau:David" pid="47/3614">David Bau</na></co>
+<co c="0"><na f="b/Bellahsene:Zohra" pid="b/ZohraBellahsene">Zohra Bellahsene</na></co>
+<co c="0"><na f="b/Blakeley:Jos=eacute=_A=" pid="79/2594">Jos&#233; A. Blakeley</na></co>
+<co c="0"><na f="b/Booth:Kellogg_S=" pid="b/KelloggSBooth">Kellogg S. Booth</na></co>
+<co c="0"><na f="b/Borgida:Alexander" pid="b/ABorgida">Alexander Borgida</na></co>
+<co c="0"><na f="b/Botan:Irina" pid="62/5535">Irina Botan</na></co>
+<co c="0"><na f="b/Brown:Angela_Demke" pid="b/AngelaDemkeBrown">Angela Demke Brown</na></co>
+<co c="0"><na f="c/Carenini:Giuseppe" pid="30/3994">Giuseppe Carenini</na></co>
+<co c="0"><na f="c/Castellanos:Mal=uacute=" pid="04/4211">Mal&#250; Castellanos</na></co>
+<co c="0"><na f="c/Catarci:Tiziana" pid="c/TCatarci">Tiziana Catarci</na></co>
+<co c="0"><na f="c/Chen_0002:Lei" pid="c/LeiChen0002">Lei Chen 0002</na></co>
+<co c="0"><na f="c/Chen:Zixuan" pid="200/0201">Zixuan Chen</na></co>
+<co c="0"><na f="c/Chiang:Fei" pid="66/2556">Fei Chiang</na></co>
+<co c="0"><na f="c/Chiticariu:Laura" pid="c/LauraChiticariu">Laura Chiticariu</na></co>
+<co c="0"><na f="c/Choi:Hyewon" pid="247/8308">Hyewon Choi</na></co>
+<co c="0"><na f="c/Christodoulakis:Christina" pid="145/6171">Christina Christodoulakis</na></co>
+<co c="0"><na f="c/Ciucanu:Radu" pid="127/7179">Radu Ciucanu</na></co>
+<co c="0"><na f="c/Coletta:Remi" pid="37/4003">Remi Coletta</na></co>
+<co c="0"><na f="c/Consens:Mariano_P=" pid="c/MPConsens">Mariano P. Consens</na></co>
+<co c="0"><na f="d/Dasu:Tamraparni" pid="75/6269">Tamraparni Dasu</na></co>
+<co c="0"><na f="d/Dayal:Umeshwar" pid="76/2198">Umeshwar Dayal</na></co>
+<co c="0"><na f="d/Deng_0001:Dong" pid="71/8700-1">Dong Deng 0001</na></co>
+<co c="0"><na f="d/Derakhshan:Roozbeh" pid="40/3351">Roozbeh Derakhshan</na></co>
+<co c="0"><na f="d/Dindar:Nihal" pid="86/7118">Nihal Dindar</na></co>
+<co c="0" n="2"><na f="d/Dong_0001:Xin" pid="d/XinLunaDong">Xin Dong 0001</na><na>Xin Luna Dong</na></co>
+<co c="0"><na f="d/Drake:Richard" pid="67/8700">Richard Drake</na></co>
+<co c="0"><na f="d/Du_0001:Jiang" pid="32/724-1">Jiang Du 0001</na></co>
+<co c="0"><na f="d/Duchateau:Fabien" pid="85/2842">Fabien Duchateau</na></co>
+<co c="0"><na f="e/Edmonds:Jeff" pid="e/JeffEdmonds">Jeff Edmonds</na></co>
+<co c="0"><na f="e/Esmaili:Kyumars_Sheykh" pid="e/KyumarsSheykhEsmaili">Kyumars Sheykh Esmaili</na></co>
+<co c="0"><na f="e/Esmailoghli:Mahdi" pid="238/4380">Mahdi Esmailoghli</na></co>
+<co c="0"><na f="f/Fagin:Ronald" pid="f/RonaldFagin">Ronald Fagin</na></co>
+<co c="0"><na f="f/Faloutsos:Christos" pid="f/CFaloutsos">Christos Faloutsos</na></co>
+<co c="0"><na f="f/Fan:Grace" pid="146/8297">Grace Fan</na></co>
+<co c="0"><na f="f/Fazli:Elham" pid="00/3482">Elham Fazli</na></co>
+<co c="0"><na f="f/Fischer_0001:Peter_M=" pid="f/PeterMFischer1">Peter M. Fischer 0001</na></co>
+<co c="0"><na f="f/Freire:Juliana" pid="f/JulianaFreire">Juliana Freire</na></co>
+<co c="0"><na f="f/Fritz_0001:Christian" pid="38/6-1">Christian Fritz 0001</na></co>
+<co c="0"><na f="f/Fukuda:Takeshi" pid="72/6093">Takeshi Fukuda</na></co>
+<co c="0"><na f="f/Fuxman:Ariel" pid="90/1367">Ariel Fuxman</na></co>
+<co c="0"><na f="f/Fuxman:Diego" pid="43/6913">Diego Fuxman</na></co>
+<co c="0"><na f="g/Gabel:Moshe" pid="117/8009">Moshe Gabel</na></co>
+<co c="0"><na f="g/Garzetti:Maddalena" pid="28/179">Maddalena Garzetti</na></co>
+<co c="0"><na f="g/Gatterbauer:Wolfgang" pid="36/5673">Wolfgang Gatterbauer</na></co>
+<co c="0"><na f="g/Getoor:Lise" pid="g/LiseGetoor">Lise Getoor</na></co>
+<co c="0"><na f="g/Glavic:Boris" pid="09/3012">Boris Glavic</na></co>
+<co c="0"><na f="g/Gomes_Jr=:Luiz_Celso" pid="68/6898">Luiz Celso Gomes Jr.</na></co>
+<co c="0"><na f="g/Gryz:Jarek" pid="g/JarekGryz">Jarek Gryz</na></co>
+<co c="-1"><na f="g/Gujarathi:Ashish" pid="50/1234">Ashish Gujarathi</na></co>
+<co c="0"><na f="h/Haas:Laura_M=" pid="h/LauraMHaas">Laura M. Haas</na></co>
+<co c="0"><na f="h/Haber:Eben_M=" pid="10/3456">Eben M. Haber</na></co>
+<co c="0"><na f="h/Hassanzadeh:Oktie" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</na></co>
+<co c="0"><na f="h/Heiler:Sandra" pid="61/810">Sandra Heiler</na></co>
+<co c="0"><na f="h/Hentschel_0001:Martin" pid="50/7258-1">Martin Hentschel 0001</na></co>
+<co c="0"><na f="h/Hern=aacute=ndez:Mauricio_A=" pid="56/451">Mauricio A. Hern&#225;ndez</na></co>
+<co c="0" n="3"><na f="h/Ho:C=_T=_Howard" pid="h/ChingTienHo">C. T. Howard Ho</na><na>Howard Ho</na><na>Ching-Tien Ho</na></co>
+<co c="0"><na f="h/Hui:Joshua" pid="32/6732">Joshua Hui</na></co>
+<co c="0"><na f="i/Ilyas:Ihab_F=" pid="i/IhabFIlyas">Ihab F. Ilyas</na></co>
+<co c="0"><na f="i/Ioannidis:Yannis_E=" pid="i/YEIoannidis">Yannis E. Ioannidis</na></co>
+<co c="0"><na f="j/Jermaine:Chris" pid="j/ChrisJermaine">Chris Jermaine</na></co>
+<co c="0"><na f="j/Jiang_0002:Lei" pid="96/1994-2">Lei Jiang 0002</na></co>
+<co c="0"><na f="j/Jou:Stephan" pid="71/9163">Stephan Jou</na></co>
+<co c="0"><na f="k/Kandogan:Eser" pid="54/6752">Eser Kandogan</na></co>
+<co c="0" n="2"><na f="k/Kantere:Verena" pid="k/VerenaKantere">Verena Kantere</na><na>Vasiliki Kantere</na></co>
+<co c="0"><na f="k/Kanza:Yaron" pid="k/YaronKanza">Yaron Kanza</na></co>
+<co c="0"><na f="k/Kementsietsidis:Anastasios" pid="41/5464">Anastasios Kementsietsidis</na></co>
+<co c="0"><na f="k/Khatiwada:Aamod" pid="330/3045">Aamod Khatiwada</na></co>
+<co c="0"><na f="k/Kimmig:Angelika" pid="17/3881">Angelika Kimmig</na></co>
+<co c="0"><na f="k/Kiringa:Iluju" pid="85/3509">Iluju Kiringa</na></co>
+<co c="0"><na f="k/Kolaitis:Phokion_G=" pid="k/PGKolaitis">Phokion G. Kolaitis</na></co>
+<co c="0"><na f="k/Korn:Flip" pid="k/FlipKorn">Flip Korn</na></co>
+<co c="0"><na f="k/Kossmann:Donald" pid="k/DonaldKossmann">Donald Kossmann</na></co>
+<co c="0"><na f="l/Lee:Hyun_Chul" pid="09/1032">Hyun Chul Lee</na></co>
+<co c="0"><na f="l/Leung:Rock_Anthony" pid="138/2623">Rock Anthony Leung</na></co>
+<co c="0"><na f="l/Leventidis:Aristotelis" pid="206/9438">Aristotelis Leventidis</na></co>
+<co c="0"><na f="l/Li_0001:Yuliang" pid="52/4954-1">Yuliang Li 0001</na></co>
+<co c="0"><na f="l/Liang:Dongming" pid="76/5443">Dongming Liang</na></co>
+<co c="0"><na f="l/Lim:Lipyeow" pid="55/2304">Lipyeow Lim</na></co>
+<co c="0"><na f="l/Link:Sebastian" pid="l/SebastianLink">Sebastian Link</na></co>
+<co c="0"><na f="l/Liu:Haifeng" pid="84/33">Haifeng Liu</na></co>
+<co c="1"><na f="l/Liu:Ming_T=" pid="l/MingTLiu">Ming T. Liu</na></co>
+<co c="0"><na f="l/Livny:Miron" pid="l/MironLivny">Miron Livny</na></co>
+<co c="0"><na f="l/Luo:Dixin" pid="126/6597">Dixin Luo</na></co>
+<co c="0"><na f="l/Lyons:Kelly_A=" pid="96/4108">Kelly A. Lyons</na></co>
+<co c="0"><na f="m/Masud:Mehedi" pid="81/1909">Mehedi Masud</na></co>
+<co c="0"><na f="m/McIlraith:Sheila_A=" pid="66/3221">Sheila A. McIlraith</na></co>
+<co c="0"><na f="m/Mecca:Giansalvatore" pid="m/GMecca">Giansalvatore Mecca</na></co>
+<co c="0"><na f="m/Memory:Alex" pid="118/8433">Alex Memory</na></co>
+<co c="0"><na f="m/Mendelzon:Alberto_O=" pid="m/AOMendelzon">Alberto O. Mendelzon</na></co>
+<co c="0"><na f="m/Milios:Evangelos_E=" pid="m/EvangelosEMilios">Evangelos E. Milios</na></co>
+<co c="0"><na f="m/Munson:Eric_B=" pid="272/3053">Eric B. Munson</na></co>
+<co c="0"><na f="m/Mylopoulos:John" pid="m/JohnMylopoulos">John Mylopoulos</na></co>
+<co c="0"><na f="n/Nargesian:Fatemeh" pid="23/7274">Fatemeh Nargesian</na></co>
+<co c="0"><na f="n/Nascimento:Mario_A=" pid="n/MarioANascimento">Mario A. Nascimento</na></co>
+<co c="0"><na f="n/Naumann:Felix" pid="n/FelixNaumann">Felix Naumann</na></co>
+<co c="0"><na f="n/Ng:Raymond_T=" pid="n/RTNg">Raymond T. Ng</na></co>
+<co c="0"><na f="n/Niswonger:B=" pid="28/6723">B. Niswonger</na></co>
+<co c="0" n="2"><na f="o/Onut:Iosif=Viorel" pid="90/5997">Iosif-Viorel Onut</na><na>Vio Onut</na></co>
+<co c="0"><na f="o/Ouellette:Paul" pid="300/4191">Paul Ouellette</na></co>
+<co c="0"><na f="=/=Ouml=zsu:M=_Tamer" pid="o/MTamerOzsu">M. Tamer &#214;zsu</na></co>
+<co c="0"><na f="p/Pal:Koyena" pid="199/3285">Koyena Pal</na></co>
+<co c="0"><na f="p/Papotti:Paolo" pid="p/PaoloPapotti">Paolo Papotti</na></co>
+<co c="0"><na f="p/Pepper:Daniel" pid="01/3837">Daniel Pepper</na></co>
+<co c="0"><na f="p/Popa_0001:Lucian" pid="p/LucianPopa">Lucian Popa 0001</na></co>
+<co c="0"><na f="p/Popivanov:Ivan" pid="01/734">Ivan Popivanov</na></co>
+<co c="0"><na f="p/Pottinger:Rachel" pid="68/1297">Rachel Pottinger</na></co>
+<co c="0"><na f="p/Prokoshyna:Nataliya" pid="74/5538">Nataliya Prokoshyna</na></co>
+<co c="0"><na f="p/Pu:Ken_Q=" pid="20/2043">Ken Q. Pu</na></co>
+<co c="0"><na f="r/Ramakrishnan:Raghu" pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</na></co>
+<co c="0"><na f="r/Riedewald:Mirek" pid="r/MirekRiedewald">Mirek Riedewald</na></co>
+<co c="0"><na f="r/Rizzolo:Flavio" pid="98/2201">Flavio Rizzolo</na></co>
+<co c="0"><na f="r/Rocco:Laura_Di" pid="192/0602">Laura Di Rocco</na></co>
+<co c="0"><na f="r/Ross:Kenneth_A=" pid="r/KARoss">Kenneth A. Ross</na></co>
+<co c="0" n="2"><na f="r/Roth:Mary" pid="r/MaryRoth">Mary Roth</na><na>Mary Tork Roth</na></co>
+<co c="0"><na f="s/Sadiq:Shazia_Wasim" pid="s/SWSadiq">Shazia Wasim Sadiq</na></co>
+<co c="0"><na f="s/Sadoghi:Mohammad" pid="56/7016">Mohammad Sadoghi</na></co>
+<co c="0"><na f="s/Santoro:Donatello" pid="32/5873">Donatello Santoro</na></co>
+<co c="0"><na f="s/Schiefer:K=_Bernhard" pid="95/5216">K. Bernhard Schiefer</na></co>
+<co c="0"><na f="s/Schnell:Christoph" pid="189/1008">Christoph Schnell</na></co>
+<co c="0"><na f="s/Schwarz:Peter_M=" pid="20/3569">Peter M. Schwarz</na></co>
+<co c="0"><na f="s/Sciortino:Aidan" pid="300/4571">Aidan Sciortino</na></co>
+<co c="0"><na f="s/Sellis:Timos_K=" pid="s/TimosKSellis">Timos K. Sellis</na></co>
+<co c="0"><na f="s/Sevcik:Kenneth_C=" pid="s/KennethCSevcik">Kenneth C. Sevcik</na></co>
+<co c="0"><na f="s/Shraga:Roee" pid="200/9072">Roee Shraga</na></co>
+<co c="0"><na f="s/Siddique:Javed" pid="145/3928">Javed Siddique</na></co>
+<co c="0"><na f="s/Slonim:Jacob" pid="25/2958">Jacob Slonim</na></co>
+<co c="0"><na f="s/Sohrabi:Shirin" pid="51/410">Shirin Sohrabi</na></co>
+<co c="0"><na f="s/Srivastava:Divesh" pid="s/DiveshSrivastava">Divesh Srivastava</na></co>
+<co c="0"><na f="s/Stroulia:Eleni" pid="66/3519">Eleni Stroulia</na></co>
+<co c="0"><na f="s/Szlichta:Jaroslaw" pid="06/9379">Jaroslaw Szlichta</na></co>
+<co c="0"><na f="t/Tan:Wang_Chiew" pid="t/WangChiewTan">Wang Chiew Tan</na></co>
+<co c="0"><na f="t/Tan_0001:Wei" pid="73/6520-1">Wei Tan 0001</na></co>
+<co c="0"><na f="t/Tatbul:Nesime" pid="t/NesimeTatbul">Nesime Tatbul</na></co>
+<co c="0"><na f="t/Terrizzano:Ignacio_G=" pid="134/9731">Ignacio G. Terrizzano</na></co>
+<co c="0"><na f="t/Tompa:Frank_Wm=" pid="t/FrankWmTompa">Frank Wm. Tompa</na></co>
+<co c="0"><na f="t/Tsaparas:Panayiotis" pid="65/6838">Panayiotis Tsaparas</na></co>
+<co c="0"><na f="t/Tsatalos:Odysseas_G=" pid="91/4478">Odysseas G. Tsatalos</na></co>
+<co c="0"><na f="u/Udrea:Octavian" pid="39/4681">Octavian Udrea</na></co>
+<co c="0"><na f="v/Vaisman:Alejandro_A=" pid="58/6139">Alejandro A. Vaisman</na></co>
+<co c="0"><na f="v/Velegrakis:Yannis" pid="v/YannisVelegrakis">Yannis Velegrakis</na></co>
+<co c="0"><na f="v/Veltri:Enzo" pid="157/0004">Enzo Veltri</na></co>
+<co c="0"><na f="v/Ventrone:Vincent" pid="53/6573">Vincent Ventrone</na></co>
+<co c="0"><na f="v/Vilarem:Charlotte" pid="13/4768">Charlotte Vilarem</na></co>
+<co c="0"><na f="v/Volkovs:Maksims" pid="22/1815">Maksims Volkovs</na></co>
+<co c="0"><na f="v/Voruganti:Kaladhar" pid="v/KaladharVoruganti">Kaladhar Voruganti</na></co>
+<co c="0"><na f="w/Wang_0007:Jin" pid="92/1375-7">Jin Wang 0007</na></co>
+<co c="0"><na f="w/Wang_0001:Min" pid="w/MinWang">Min Wang 0001</na></co>
+<co c="0"><na f="w/Wiener:Janet_L=" pid="w/JanetLWiener">Janet L. Wiener</na></co>
+<co c="0"><na f="w/Williams:John_H=" pid="59/1855">John H. Williams</na></co>
+<co c="0"><na f="w/Wimmers:Edward_L=" pid="68/2431">Edward L. Wimmers</na></co>
+<co c="1"><na f="w/Wu:Chao=Hui" pid="71/2167">Chao-Hui Wu</na></co>
+<co c="0" n="2"><na f="x/Xin:Reynold" pid="47/7258">Reynold Xin</na><na>Reynold S. Xin</na></co>
+<co c="0"><na f="y/Yan:Ling=Ling" pid="y/LingLingYan">Ling-Ling Yan</na></co>
+<co c="0"><na f="y/Yang:Yang" pid="48/450">Yang Yang</na></co>
+<co c="-1"><na f="y/Yang:Yuping" pid="25/5151">Yuping Yang</na></co>
+<co c="0"><na f="y/Yeganeh:Soheil_Hassas" pid="86/1462">Soheil Hassas Yeganeh</na></co>
+<co c="0"><na f="y/Yu:Eric_S=_K=" pid="33/5374">Eric S. K. Yu</na></co>
+<co c="0"><na f="z/Zhang:Dan" pid="21/802">Dan Zhang</na></co>
+<co c="0"><na f="z/Zhang_0002:Zheng" pid="z/ZhengZhang0002">Zheng Zhang 0002</na></co>
+<co c="0"><na f="z/Zhao:Minghua" pid="14/4623">Minghua Zhao</na></co>
+<co c="0"><na f="z/Zhou_0001:Xiaofang" pid="z/XiaofangZhou">Xiaofang Zhou 0001</na></co>
+<co c="0"><na f="z/Zhu:Erkang" pid="116/5135">Erkang Zhu</na></co>
+</coauthors>
+</dblpperson>

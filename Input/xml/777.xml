@@ -1,0 +1,744 @@
+<dblpperson name="Amir Shaikhha" pid="143/6186" n="52">
+<person key="homepages/143/6186" mdate="2021-10-05">
+<author pid="143/6186">Amir Shaikhha</author>
+<url>https://amirsh.github.io/</url>
+<url>https://scholar.google.com/citations?user=97wlbikAAAAJ</url>
+<url>https://twitter.com/ashaikhha</url>
+</person>
+<r><inproceedings key="conf/cgo/ShaikhhaHH24" mdate="2024-03-11">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="234/8942">Mathieu Huot</author>
+<author pid="334/2289">Shideh Hashemian</author>
+<title>A Tensor Algebra Compiler for Sparse Differentiation.</title>
+<pages>1-12</pages>
+<year>2024</year>
+<booktitle>CGO</booktitle>
+<ee>https://doi.org/10.1109/CGO57630.2024.10444787</ee>
+<crossref>conf/cgo/2024</crossref>
+<url>db/conf/cgo/cgo2024.html#ShaikhhaHH24</url>
+</inproceedings>
+</r>
+<r><article key="journals/pacmmod/SchleichSS23" mdate="2023-06-15">
+<author orcid="0009-0004-5502-869X" pid="181/5823">Maximilian Schleich</author>
+<author orcid="0000-0002-9062-759X" pid="143/6186">Amir Shaikhha</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<title>Optimizing Tensor Programs on Flexible Storage.</title>
+<pages>37:1-37:27</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3588717</ee>
+<url>db/journals/pacmmod/pacmmod1.html#SchleichSS23</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/GhorbaniHHS23" mdate="2023-12-10">
+<author orcid="0000-0003-3686-2158" pid="148/8563">Mahdi Ghorbani</author>
+<author orcid="0000-0002-5294-9088" pid="234/8942">Mathieu Huot</author>
+<author orcid="0009-0004-3787-3136" pid="334/2289">Shideh Hashemian</author>
+<author orcid="0000-0002-9062-759X" pid="143/6186">Amir Shaikhha</author>
+<title>Compiling Structured Tensor Algebra.</title>
+<pages>204-233</pages>
+<year>2023</year>
+<month>October</month>
+<volume>7</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>OOPSLA2</number>
+<ee type="oa">https://doi.org/10.1145/3622804</ee>
+<url>db/journals/pacmpl/pacmpl7.html#GhorbaniHHS23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GhorbaniS23" mdate="2023-10-23">
+<author pid="148/8563">Mahdi Ghorbani</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<title>Demonstration of OpenDBML, a Framework for Democratizing In-Database Machine Learning.</title>
+<pages>3970-3973</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p3970-shaikhha.pdf</ee>
+<ee>https://doi.org/10.14778/3611540.3611598</ee>
+<url>db/journals/pvldb/pvldb16.html#GhorbaniS23</url>
+</article>
+</r>
+<r><inproceedings key="conf/cc/PanS23" mdate="2023-02-20">
+<author pid="247/8508">Jingwen Pan</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<title>Compiling Discrete Probabilistic Programs for Vectorized Exact Inference.</title>
+<pages>13-24</pages>
+<year>2023</year>
+<booktitle>CC</booktitle>
+<ee>https://doi.org/10.1145/3578360.3580258</ee>
+<crossref>conf/cc/2023</crossref>
+<url>db/conf/cc/cc2023.html#PanS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cc/ShahrokhiS23" mdate="2023-02-20">
+<author pid="322/1001">Hesam Shahrokhi</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<title>Building a Compiled Query Engine in Python.</title>
+<pages>180-190</pages>
+<year>2023</year>
+<booktitle>CC</booktitle>
+<ee>https://doi.org/10.1145/3578360.3580264</ee>
+<crossref>conf/cc/2023</crossref>
+<url>db/conf/cc/cc2023.html#ShahrokhiS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cgo/ShaikhhaKG23" mdate="2023-02-24">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="309/7510">Marios Kelepeshis</author>
+<author pid="148/8563">Mahdi Ghorbani</author>
+<title>Fine-Tuning Data Structures for Query Processing.</title>
+<pages>149-161</pages>
+<year>2023</year>
+<booktitle>CGO</booktitle>
+<ee>https://doi.org/10.1145/3579990.3580016</ee>
+<crossref>conf/cgo/2023</crossref>
+<url>db/conf/cgo/cgo2023.html#ShaikhhaKG23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecoop/ShahrokhiS23" mdate="2023-07-11">
+<author pid="322/1001">Hesam Shahrokhi</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<title>An Efficient Vectorized Hash Table for Batch Computations.</title>
+<pages>27:1-27:27</pages>
+<year>2023</year>
+<booktitle>ECOOP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ECOOP.2023.27</ee>
+<crossref>conf/ecoop/2023</crossref>
+<url>db/conf/ecoop/ecoop2023.html#ShahrokhiS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecoop/ShaikhhaGS23" mdate="2023-07-11">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="148/8563">Mahdi Ghorbani</author>
+<author pid="322/1001">Hesam Shahrokhi</author>
+<title>Hinted Dictionaries: Efficient Functional Ordered Sets and Maps.</title>
+<pages>28:1-28:30</pages>
+<year>2023</year>
+<booktitle>ECOOP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ECOOP.2023.28</ee>
+<crossref>conf/ecoop/2023</crossref>
+<url>db/conf/ecoop/ecoop2023.html#ShaikhhaGS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ShahrokhiGYS23" mdate="2023-06-15">
+<author orcid="0000-0003-1995-6996" pid="322/1001">Hesam Shahrokhi</author>
+<author orcid="0009-0002-8768-4275" pid="348/7797">Callum Groeger</author>
+<author orcid="0009-0002-1074-206X" pid="37/11052">Yizhuo Yang</author>
+<author orcid="0000-0002-9062-759X" pid="143/6186">Amir Shaikhha</author>
+<title>Efficient Query Processing in Python Using Compilation.</title>
+<pages>199-202</pages>
+<year>2023</year>
+<booktitle>SIGMOD Conference Companion</booktitle>
+<ee>https://doi.org/10.1145/3555041.3589735</ee>
+<crossref>conf/sigmod/2023c</crossref>
+<url>db/conf/sigmod/sigmod2023c.html#ShahrokhiGYS23</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/gpce/2023" mdate="2023-10-23">
+<editor pid="73/5666">Coen De Roover</editor>
+<editor pid="r/BernhardRumpe">Bernhard Rumpe</editor>
+<editor pid="143/6186">Amir Shaikhha</editor>
+<title>Proceedings of the 22nd ACM SIGPLAN International Conference on Generative Programming: Concepts and Experiences, GPCE 2023, Cascais, Portugal, October 22-23, 2023</title>
+<booktitle>GPCE</booktitle>
+<publisher>ACM</publisher>
+<year>2023</year>
+<ee>https://doi.org/10.1145/3624007</ee>
+<url>db/conf/gpce/gpce2023.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-07030" mdate="2023-03-16">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="234/8942">Mathieu Huot</author>
+<author pid="334/2289">Shideh Hashemian</author>
+<title>&#8711;SD: Differentiable Programming for Sparse Tensors.</title>
+<year>2023</year>
+<volume>abs/2303.07030</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.07030</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-07030</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/ShaikhhaHSO22" mdate="2023-01-10">
+<author orcid="0000-0002-9062-759X" pid="143/6186">Amir Shaikhha</author>
+<author orcid="0000-0002-5294-9088" pid="234/8942">Mathieu Huot</author>
+<author orcid="0000-0001-8498-8949" pid="201/7571">Jaclyn Smith</author>
+<author orcid="0000-0002-4682-7068" pid="o/DanOlteanu">Dan Olteanu</author>
+<title>Functional collection programming with semi-ring dictionaries.</title>
+<pages>1-33</pages>
+<year>2022</year>
+<volume>6</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>OOPSLA1</number>
+<ee type="oa">https://doi.org/10.1145/3527333</ee>
+<url>db/journals/pacmpl/pacmpl6.html#ShaikhhaHSO22</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecoop/ShaikhhaGS22" mdate="2022-06-23">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="148/8563">Mahdi Ghorbani</author>
+<author pid="322/1001">Hesam Shahrokhi</author>
+<title>Hinted Dictionaries: Efficient Functional Ordered Sets and Maps (Extended Abstract).</title>
+<pages>33:1-33:3</pages>
+<year>2022</year>
+<booktitle>ECOOP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ECOOP.2022.33</ee>
+<crossref>conf/ecoop/2022</crossref>
+<url>db/conf/ecoop/ecoop2022.html#ShaikhhaGS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gpce/Shaikhha22" mdate="2022-12-05">
+<author pid="143/6186">Amir Shaikhha</author>
+<title>Deep Fusion for Efficient Nested Recursive Computations.</title>
+<pages>33-44</pages>
+<year>2022</year>
+<booktitle>GPCE</booktitle>
+<ee>https://doi.org/10.1145/3564719.3568698</ee>
+<crossref>conf/gpce/2022</crossref>
+<url>db/conf/gpce/gpce2022.html#Shaikhha22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-04380" mdate="2022-06-14">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="148/8563">Mahdi Ghorbani</author>
+<author pid="322/1001">Hesam Shahrokhi</author>
+<title>Hinted Dictionaries: Efficient Functional Ordered Sets and Maps.</title>
+<year>2022</year>
+<volume>abs/2206.04380</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.04380</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-04380</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-06267" mdate="2024-02-05">
+<author pid="181/5823">Maximilian Schleich</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<title>Optimizing Tensor Programs on Flexible Storage.</title>
+<year>2022</year>
+<volume>abs/2210.06267</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.06267</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-06267</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-10482" mdate="2022-11-24">
+<author pid="148/8563">Mahdi Ghorbani</author>
+<author pid="234/8942">Mathieu Huot</author>
+<author pid="334/2289">Shideh Hashemian</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<title>Compiling Structured Tensor Algebra.</title>
+<year>2022</year>
+<volume>abs/2211.10482</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.10482</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-10482</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2212-09801" mdate="2023-01-03">
+<author pid="234/8942">Mathieu Huot</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<title>Denotationally Correct, Purely Functional, Efficient Reverse-mode Automatic Differentiation.</title>
+<year>2022</year>
+<volume>abs/2212.09801</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2212.09801</ee>
+<url>db/journals/corr/corr2212.html#abs-2212-09801</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2212-10307" mdate="2023-09-30">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="234/8942">Mathieu Huot</author>
+<author orcid="0000-0002-4193-5123" pid="336/5101">Shabnam Ghasemirad</author>
+<author pid="f/AndrewWFitzgibbon">Andrew W. Fitzgibbon</author>
+<author pid="j/SimonLPeytonJones">Simon Peyton Jones</author>
+<author pid="00/6362">Dimitrios Vytiniotis</author>
+<title>Efficient and Sound Differentiable Programming in a Functional Array-Processing Language.</title>
+<year>2022</year>
+<volume>abs/2212.10307</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2212.10307</ee>
+<url>db/journals/corr/corr2212.html#abs-2212-10307</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ShaikhhaSO21" mdate="2022-04-21">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="181/5823">Maximilian Schleich</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<title>An Intermediate Representation for Hybrid Database and Machine Learning Workloads.</title>
+<pages>2831-2834</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2831-shaikhha.pdf</ee>
+<ee>https://doi.org/10.14778/3476311.3476356</ee>
+<url>db/journals/pvldb/pvldb14.html#ShaikhhaSO21</url>
+</article>
+</r>
+<r><proceedings key="conf/dbpl/2021" mdate="2021-11-02">
+<editor pid="143/6186">Amir Shaikhha</editor>
+<editor pid="89/6071">Norman May</editor>
+<title>DBPL '21: The 18th International Symposium on Database Programming Languages, Copenhagen, Denmark, 16 August 2021</title>
+<publisher>ACM</publisher>
+<booktitle>DBPL</booktitle>
+<year>2021</year>
+<isbn>978-1-4503-8646-3</isbn>
+<ee>https://doi.org/10.1145/3475726</ee>
+<url>db/conf/dbpl/dbpl2021.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-06376" mdate="2021-03-16">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="234/8942">Mathieu Huot</author>
+<author pid="201/7571">Jaclyn Smith</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<title>Functional Collection Programming with Semi-Ring Dictionaries.</title>
+<year>2021</year>
+<volume>abs/2103.06376</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.06376</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-06376</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-13099" mdate="2022-01-04">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="309/7510">Marios Kelepeshis</author>
+<author pid="148/8563">Mahdi Ghorbani</author>
+<title>Fine-Tuning Data Structures for Analytical Query Processing.</title>
+<year>2021</year>
+<volume>abs/2112.13099</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.13099</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-13099</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SmithBNS20" mdate="2022-10-11">
+<author pid="201/7571">Jaclyn Smith</author>
+<author pid="b/MichaelBenedikt">Michael Benedikt</author>
+<author pid="57/10355-1">Milos Nikolic 0001</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<title>Scalable Querying of Nested Data.</title>
+<pages>445-457</pages>
+<year>2020</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p445-smith.pdf</ee>
+<ee>https://doi.org/10.5555/3430915.3442441</ee>
+<url>db/journals/pvldb/pvldb14.html#SmithBNS20</url>
+</article>
+</r>
+<r><article key="journals/tods/ShaikhhaEMEK20" mdate="2020-10-08">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="141/4384">Mohammed Elseidy</author>
+<author pid="275/9257">Stephan Mihaila</author>
+<author pid="185/4285">Daniel Espino</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Synthesis of Incremental Linear Algebra Programs.</title>
+<pages>12:1-12:44</pages>
+<year>2020</year>
+<volume>45</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3385398</ee>
+<url>db/journals/tods/tods45.html#ShaikhhaEMEK20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cgo/ShaikhhaSGO20" mdate="2020-02-27">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="181/5823">Maximilian Schleich</author>
+<author pid="256/5258">Alexandru Ghita</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<title>Multi-layer optimizations for end-to-end data analytics.</title>
+<pages>145-157</pages>
+<year>2020</year>
+<booktitle>CGO</booktitle>
+<ee>https://doi.org/10.1145/3368826.3377923</ee>
+<crossref>conf/cgo/2020</crossref>
+<url>db/conf/cgo/cgo2020.html#ShaikhhaSGO20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gpce/ParreauxS20" mdate="2022-01-08">
+<author orcid="0000-0002-8805-0728" pid="181/5785">Lionel Parreaux</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<title>Multi-stage programming in the large with staged classes.</title>
+<pages>35-49</pages>
+<year>2020</year>
+<booktitle>GPCE</booktitle>
+<ee>https://doi.org/10.1145/3425898.3426961</ee>
+<crossref>conf/gpce/2020</crossref>
+<url>db/conf/gpce/gpce2020.html#ParreauxS20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-03541" mdate="2020-01-17">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="181/5823">Maximilian Schleich</author>
+<author pid="256/5258">Alexandru Ghita</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<title>Multi-layer Optimizations for End-to-End Data Analytics.</title>
+<year>2020</year>
+<volume>abs/2001.03541</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2001.03541</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-03541</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-06381" mdate="2022-10-11">
+<author pid="201/7571">Jaclyn Smith</author>
+<author pid="b/MichaelBenedikt">Michael Benedikt</author>
+<author pid="57/10355-1">Milos Nikolic 0001</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<title>Scalable Querying of Nested Data.</title>
+<year>2020</year>
+<volume>abs/2011.06381</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.06381</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-06381</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-14743" mdate="2021-01-08">
+<author pid="279/2962">Ziniu Wu</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<title>BayesCard: A Unified Bayesian Framework for Cardinality Estimation.</title>
+<year>2020</year>
+<volume>abs/2012.14743</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.14743</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-14743</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/ShaikhhaFVJ19" mdate="2021-02-17">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="f/AndrewWFitzgibbon">Andrew W. Fitzgibbon</author>
+<author pid="00/6362">Dimitrios Vytiniotis</author>
+<author pid="j/SimonLPeytonJones">Simon Peyton Jones</author>
+<title>Efficient differentiable programming in a functional array-processing language.</title>
+<pages>97:1-97:30</pages>
+<year>2019</year>
+<volume>3</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>ICFP</number>
+<ee type="oa">https://doi.org/10.1145/3341701</ee>
+<url>db/journals/pacmpl/pacmpl3.html#ShaikhhaFVJ19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecoop/ShaikhhaP19" mdate="2019-07-10">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="181/5785">Lionel Parreaux</author>
+<title>Finally, a Polymorphic Linear Algebra Language (Pearl).</title>
+<pages>25:1-25:29</pages>
+<year>2019</year>
+<booktitle>ECOOP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ECOOP.2019.25</ee>
+<crossref>conf/ecoop/2019</crossref>
+<url>db/conf/ecoop/ecoop2019.html#ShaikhhaP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gpce/Shaikhha19" mdate="2019-10-30">
+<author pid="143/6186">Amir Shaikhha</author>
+<title>Polymorphic extractors for semantic and portable pattern matching (short paper).</title>
+<pages>61-67</pages>
+<year>2019</year>
+<booktitle>GPCE</booktitle>
+<ee>https://doi.org/10.1145/3357765.3359522</ee>
+<crossref>conf/gpce/2019</crossref>
+<url>db/conf/gpce/gpce2019.html#Shaikhha19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gpce/ShaikhhaJK19" mdate="2019-10-30">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="71/9975">Vojin Jovanovic</author>
+<author pid="k/ChristophKoch">Christoph E. Koch</author>
+<title>Compiler generation for performance-oriented embedded DSLs (short paper).</title>
+<pages>94-101</pages>
+<year>2019</year>
+<booktitle>GPCE</booktitle>
+<ee>https://doi.org/10.1145/3357765.3359520</ee>
+<crossref>conf/gpce/2019</crossref>
+<url>db/conf/gpce/gpce2019.html#ShaikhhaJK19</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ch/Shaikhha18" mdate="2022-08-02">
+<author pid="143/6186">Amir Shaikhha</author>
+<title>Compilation and Code Optimization for Data Analytics.</title>
+<school>EPFL, Switzerland</school>
+<year>2018</year>
+<ee>https://doi.org/10.5075/epfl-thesis-8762</ee>
+<ee>https://infoscience.epfl.ch/record/256683</ee>
+</phdthesis>
+</r>
+<r><article key="journals/jfp/ShaikhhaD018" mdate="2020-10-12">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Push versus pull-based loop fusion in query engines.</title>
+<pages>e10</pages>
+<year>2018</year>
+<volume>28</volume>
+<journal>J. Funct. Program.</journal>
+<ee>https://doi.org/10.1017/S0956796818000102</ee>
+<url>db/journals/jfp/jfp28.html#ShaikhhaD018</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/ParreauxVSK18" mdate="2021-02-17">
+<author pid="181/5785">Lionel Parreaux</author>
+<author pid="145/1655">Antoine Voizard</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="k/ChristophKoch">Christoph E. Koch</author>
+<title>Unifying analytic and statically-typed quasiquotes.</title>
+<pages>13:1-13:33</pages>
+<year>2018</year>
+<volume>2</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>POPL</number>
+<ee type="oa">https://doi.org/10.1145/3158101</ee>
+<url>db/journals/pacmpl/pacmpl2.html#ParreauxVSK18</url>
+</article>
+</r>
+<r><article key="journals/tods/ShaikhhaKK18" mdate="2018-11-21">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="33/8291">Yannis Klonatos</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Building Efficient Query Engines in a High-Level Language.</title>
+<pages>4:1-4:45</pages>
+<year>2018</year>
+<volume>43</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3183653</ee>
+<url>db/journals/tods/tods43.html#ShaikhhaKK18</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-02136" mdate="2020-11-03">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="f/AndrewWFitzgibbon">Andrew W. Fitzgibbon</author>
+<author pid="00/6362">Dimitrios Vytiniotis</author>
+<author pid="j/SimonLPeytonJones">Simon Peyton Jones</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Efficient Differentiable Programming in a Functional Array-Processing Language.</title>
+<year>2018</year>
+<volume>abs/1806.02136</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.02136</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-02136</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1807-09887" mdate="2020-10-12">
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author pid="177/9027">Sachin Basil John</author>
+<author pid="152/5813">Thierry Coppey</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="71/9975">Vojin Jovanovic</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Compiling Database Application Programs.</title>
+<year>2018</year>
+<volume>abs/1807.09887</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1807.09887</ee>
+<url>db/journals/corr/corr1807.html#abs-1807-09887</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-01344" mdate="2018-09-02">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="71/9975">Vojin Jovanovic</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>A Compiler-Compiler for DSL Embedding.</title>
+<year>2018</year>
+<volume>abs/1808.01344</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.01344</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-01344</url>
+</article>
+</r>
+<r><inproceedings key="conf/gpce/ParreauxSK17" mdate="2021-06-23">
+<author pid="181/5785">Lionel Parreaux</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="k/ChristophKoch">Christoph E. Koch</author>
+<title>Quoted staged rewriting: a practical approach to library-defined optimizations.</title>
+<pages>131-145</pages>
+<year>2017</year>
+<booktitle>GPCE</booktitle>
+<ee>https://doi.org/10.1145/3136040.3136043</ee>
+<ee>https://doi.org/10.1145/3170492.3136043</ee>
+<crossref>conf/gpce/2017</crossref>
+<url>db/conf/gpce/gpce2017.html#ParreauxSK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icfp/ShaikhhaFJV17" mdate="2020-11-03">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="f/AndrewWFitzgibbon">Andrew W. Fitzgibbon</author>
+<author pid="j/SimonLPeytonJones">Simon Peyton Jones</author>
+<author pid="00/6362">Dimitrios Vytiniotis</author>
+<title>Destination-passing style for efficient memory management.</title>
+<pages>12-23</pages>
+<year>2017</year>
+<booktitle>FHPC@ICFP</booktitle>
+<ee>https://doi.org/10.1145/3122948.3122949</ee>
+<crossref>conf/icfp/2017fhpc</crossref>
+<url>db/conf/icfp/fhpc2017.html#ShaikhhaFJV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scala/ParreauxSK17" mdate="2018-11-06">
+<author pid="181/5785">Lionel Parreaux</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="k/ChristophKoch">Christoph E. Koch</author>
+<title>Squid: type-safe, hygienic, and reusable quasiquotes.</title>
+<pages>56-66</pages>
+<year>2017</year>
+<booktitle>SCALA@SPLASH</booktitle>
+<ee>https://doi.org/10.1145/3136000.3136005</ee>
+<crossref>conf/scala/2017</crossref>
+<url>db/conf/scala/scala2017.html#ParreauxSK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DashtiJS017" mdate="2023-06-26">
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author orcid="0000-0002-1583-496X" pid="177/9027">Sachin Basil John</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Transaction Repair for Multi-Version Concurrency Control.</title>
+<pages>235-250</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3035919</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#DashtiJS017</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ShaikhhaKPBD016" mdate="2020-10-12">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="33/8291">Yannis Klonatos</author>
+<author pid="181/5785">Lionel Parreaux</author>
+<author pid="181/5819">Lewis Brown</author>
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>How to Architect a Query Compiler.</title>
+<pages>1907-1922</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2915244</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#ShaikhhaKPBD016</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/DashtiJS016" mdate="2020-10-12">
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author pid="177/9027">Sachin Basil John</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Repairing Conflicts among MVCC Transactions.</title>
+<year>2016</year>
+<volume>abs/1603.00542</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1603.00542</ee>
+<url>db/journals/corr/corr1603.html#DashtiJS016</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ShaikhhaD016" mdate="2020-10-12">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Push vs. Pull-Based Loop Fusion in Query Engines.</title>
+<year>2016</year>
+<volume>abs/1610.09166</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.09166</ee>
+<url>db/journals/corr/corr1610.html#ShaikhhaD016</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ShaikhhaK016" mdate="2018-08-13">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="33/8291">Yannis Klonatos</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Building Efficient Query Engines in a High-Level Language.</title>
+<year>2016</year>
+<volume>abs/1612.05566</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1612.05566</ee>
+<url>db/journals/corr/corr1612.html#ShaikhhaK016</url>
+</article>
+</r>
+<r><article key="journals/vldb/KochAKNNLS14" mdate="2022-10-11">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="99/770">Yanif Ahmad</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="57/10355-1">Milos Nikolic 0001</author>
+<author orcid="0000-0001-8669-0011" pid="131/4231">Andres N&#246;tzli</author>
+<author pid="67/4746">Daniel Lupei</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<title>DBToaster: higher-order delta processing for dynamic, frequently fresh views.</title>
+<pages>253-278</pages>
+<year>2014</year>
+<volume>23</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-013-0348-4</ee>
+<url>db/journals/vldb/vldb23.html#KochAKNNLS14</url>
+</article>
+</r>
+<r><inproceedings key="conf/gpce/JovanovicSSNKO14" mdate="2021-06-23">
+<author pid="71/9975">Vojin Jovanovic</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<author orcid="0000-0001-5608-8273" pid="147/8375">Sandro Stucki</author>
+<author pid="120/7909">Vladimir Nikolaev</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="o/MartinOdersky">Martin Odersky</author>
+<title>Yin-yang: concealing the deep embedding of DSLs.</title>
+<pages>73-82</pages>
+<year>2014</year>
+<booktitle>GPCE</booktitle>
+<ee>https://doi.org/10.1145/2658761.2658771</ee>
+<ee>https://doi.org/10.1145/2775053.2658771</ee>
+<crossref>conf/gpce/2014</crossref>
+<url>db/conf/gpce/gpce2014.html#JovanovicSSNKO14</url>
+</inproceedings>
+</r>
+<coauthors n="42" nc="2">
+<co c="0"><na f="a/Ahmad:Yanif" pid="99/770">Yanif Ahmad</na></co>
+<co c="0"><na f="b/Benedikt:Michael" pid="b/MichaelBenedikt">Michael Benedikt</na></co>
+<co c="0"><na f="b/Brown:Lewis" pid="181/5819">Lewis Brown</na></co>
+<co c="0"><na f="c/Coppey:Thierry" pid="152/5813">Thierry Coppey</na></co>
+<co c="0"><na f="d/Dashti_0001:Mohammad" pid="01/4316-1">Mohammad Dashti 0001</na></co>
+<co c="0"><na f="e/Elseidy:Mohammed" pid="141/4384">Mohammed Elseidy</na></co>
+<co c="0"><na f="e/Espino:Daniel" pid="185/4285">Daniel Espino</na></co>
+<co c="0"><na f="f/Fitzgibbon:Andrew_W=" pid="f/AndrewWFitzgibbon">Andrew W. Fitzgibbon</na></co>
+<co c="0"><na f="g/Ghasemirad:Shabnam" pid="336/5101">Shabnam Ghasemirad</na></co>
+<co c="0"><na f="g/Ghita:Alexandru" pid="256/5258">Alexandru Ghita</na></co>
+<co c="0"><na f="g/Ghorbani:Mahdi" pid="148/8563">Mahdi Ghorbani</na></co>
+<co c="0"><na f="g/Groeger:Callum" pid="348/7797">Callum Groeger</na></co>
+<co c="0"><na f="h/Hashemian:Shideh" pid="334/2289">Shideh Hashemian</na></co>
+<co c="0"><na f="h/Huot:Mathieu" pid="234/8942">Mathieu Huot</na></co>
+<co c="0"><na f="j/John:Sachin_Basil" pid="177/9027">Sachin Basil John</na></co>
+<co c="0" n="2"><na f="j/Jones:Simon_L=_Peyton" pid="j/SimonLPeytonJones">Simon L. Peyton Jones</na><na>Simon Peyton Jones</na></co>
+<co c="0"><na f="j/Jovanovic:Vojin" pid="71/9975">Vojin Jovanovic</na></co>
+<co c="0"><na f="k/Kelepeshis:Marios" pid="309/7510">Marios Kelepeshis</na></co>
+<co c="0"><na f="k/Kennedy:Oliver" pid="75/5478">Oliver Kennedy</na></co>
+<co c="0"><na f="k/Klonatos:Yannis" pid="33/8291">Yannis Klonatos</na></co>
+<co c="0" n="2"><na f="k/Koch_0001:Christoph" pid="k/ChristophKoch">Christoph Koch 0001</na><na>Christoph E. Koch</na></co>
+<co c="0"><na f="l/Lupei:Daniel" pid="67/4746">Daniel Lupei</na></co>
+<co c="-1"><na f="m/May:Norman" pid="89/6071">Norman May</na></co>
+<co c="0"><na f="m/Mihaila:Stephan" pid="275/9257">Stephan Mihaila</na></co>
+<co c="0"><na f="n/Nikolaev:Vladimir" pid="120/7909">Vladimir Nikolaev</na></co>
+<co c="0"><na f="n/Nikolic_0001:Milos" pid="57/10355-1">Milos Nikolic 0001</na></co>
+<co c="0"><na f="n/N=ouml=tzli:Andres" pid="131/4231">Andres N&#246;tzli</na></co>
+<co c="0"><na f="o/Odersky:Martin" pid="o/MartinOdersky">Martin Odersky</na></co>
+<co c="0"><na f="o/Olteanu:Dan" pid="o/DanOlteanu">Dan Olteanu</na></co>
+<co c="-1"><na f="p/Pan:Jingwen" pid="247/8508">Jingwen Pan</na></co>
+<co c="0"><na f="p/Parreaux:Lionel" pid="181/5785">Lionel Parreaux</na></co>
+<co c="1"><na f="r/Roover:Coen_De" pid="73/5666">Coen De Roover</na></co>
+<co c="1"><na f="r/Rumpe:Bernhard" pid="r/BernhardRumpe">Bernhard Rumpe</na></co>
+<co c="0"><na f="s/Schleich:Maximilian" pid="181/5823">Maximilian Schleich</na></co>
+<co c="0"><na f="s/Shahrokhi:Hesam" pid="322/1001">Hesam Shahrokhi</na></co>
+<co c="0"><na f="s/Smith:Jaclyn" pid="201/7571">Jaclyn Smith</na></co>
+<co c="0"><na f="s/Stucki:Sandro" pid="147/8375">Sandro Stucki</na></co>
+<co c="0"><na f="s/Suciu:Dan" pid="s/DanSuciu">Dan Suciu</na></co>
+<co c="0"><na f="v/Voizard:Antoine" pid="145/1655">Antoine Voizard</na></co>
+<co c="0"><na f="v/Vytiniotis:Dimitrios" pid="00/6362">Dimitrios Vytiniotis</na></co>
+<co c="-1"><na f="w/Wu:Ziniu" pid="279/2962">Ziniu Wu</na></co>
+<co c="0"><na f="y/Yang:Yizhuo" pid="37/11052">Yizhuo Yang</na></co>
+</coauthors>
+</dblpperson>

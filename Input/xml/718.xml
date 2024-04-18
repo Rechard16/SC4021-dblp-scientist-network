@@ -1,0 +1,681 @@
+<dblpperson name="Ren&#233; M&#252;ller 0001" pid="m/ReneMuller" n="34">
+<person key="homepages/m/ReneMuller" mdate="2021-04-28">
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<note type="affiliation">Huawei Technologies, Switzerland</note>
+<note type="affiliation" label="former">ETH Zurich, Switzerland</note>
+<url>https://dl.acm.org/profile/81418594247</url>
+</person>
+<homonyms n="3">
+<h f="m/M=uuml=ller:Ren=eacute="><name>Ren&#233; M&#252;ller</name>
+</h>
+<h f="m/M=uuml=ller_0002:Ren=eacute="><person key="homepages/275/4204-2" mdate="2020-10-01">
+<author pid="275/4204-2">Ren&#233; M&#252;ller 0002</author>
+<note type="affiliation">Otto von Guericke University, Magdeburg, Germany</note>
+</person>
+</h>
+<h f="m/M=uuml=ller_0003:Ren=eacute="><person key="homepages/275/4204-3" mdate="2023-01-05">
+<author pid="275/4204-3">Ren&#233; M&#252;ller 0003</author>
+<note type="affiliation">Deutsche Hochschule f&#252;r Verwaltungswissenschaften, Speyer, Germany</note>
+</person>
+</h>
+</homonyms>
+<r><inproceedings key="conf/iwmm/Carpen-AmarieVT23" mdate="2024-02-05">
+<author pid="151/0252">Maria Carpen-Amarie</author>
+<author pid="298/8514">Georgios Vavouliotis</author>
+<author orcid="0000-0002-1513-3143" pid="200/8449">Konstantinos Tovletoglou</author>
+<author pid="78/50">Boris Grot</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<title>Concurrent GCs and Modern Java Workloads: A Cache Perspective.</title>
+<pages>71-84</pages>
+<year>2023</year>
+<booktitle>ISMM</booktitle>
+<ee>https://doi.org/10.1145/3591195.3595269</ee>
+<crossref>conf/iwmm/2023</crossref>
+<url>db/conf/iwmm/ismm2023.html#Carpen-AmarieVT23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiswc/ParraviciniM21" mdate="2023-01-10">
+<author pid="202/6701">Alberto Parravicini</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<title>The Cost of Speculation: Revisiting Overheads in the V8 JavaScript Engine.</title>
+<pages>13-23</pages>
+<year>2021</year>
+<booktitle>IISWC</booktitle>
+<ee>https://doi.org/10.1109/IISWC53511.2021.00013</ee>
+<crossref>conf/iiswc/2021</crossref>
+<url>db/conf/iiswc/iiswc2021.html#ParraviciniM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigdataconf/BarberSTTWGGL0M19" mdate="2021-03-31">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="16/5412">Adam J. Storm</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<author pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="07/11533">Yingjun Wu</author>
+<author pid="96/122">Christian Garcia-Arellano</author>
+<author pid="192/4573">Ronen Grosman</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/3614">Richard Sidle</author>
+<title>WiSer: A Highly Available HTAP DBMS for IoT Applications.</title>
+<pages>268-277</pages>
+<year>2019</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData47090.2019.9006519</ee>
+<crossref>conf/bigdataconf/2019</crossref>
+<url>db/conf/bigdataconf/bigdataconf2019.html#BarberSTTWGGL0M19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-01908" mdate="2020-09-30">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="96/122">Christian Garcia-Arellano</author>
+<author pid="192/4573">Ronen Grosman</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="16/5412">Adam J. Storm</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<author pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="07/11533">Yingjun Wu</author>
+<title>WiSer: A Highly Available HTAP DBMS for IoT Applications.</title>
+<year>2019</year>
+<volume>abs/1908.01908</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.01908</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-01908</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/BarberGGMRSSSTT17" mdate="2021-01-21">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="96/122">Christian Garcia-Arellano</author>
+<author pid="192/4573">Ronen Grosman</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="192/4569">Matt Spilchen</author>
+<author pid="16/5412">Adam J. Storm</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="60/6783">Daniel C. Zilio</author>
+<author pid="181/5812">Matt Huras</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/CMohan">Chandrasekaran Mohan</author>
+<author pid="o/FatmaOzcan">Fatma &#214;zcan</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<title>Evolving Databases for New-Gen Big Data Applications.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/papers/p123-barber-cidr17.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#BarberGGMRSSSTT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloud/RosenfeldMTO17" mdate="2021-10-14">
+<author pid="169/7279">Viktor Rosenfeld</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author orcid="0000-0002-4418-4724" pid="o/FatmaOzcan">Fatma &#214;zcan</author>
+<title>Processing Java UDFs in a C++ environment.</title>
+<pages>419-431</pages>
+<year>2017</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/3127479.3132022</ee>
+<crossref>conf/cloud/2017</crossref>
+<url>db/conf/cloud/socc2017.html#RosenfeldMTO17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/SitaridiMKLR16" mdate="2023-03-24">
+<author pid="15/11515">Evangelia A. Sitaridi</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="35/908">Tim Kaldewey</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Massively-Parallel Lossless Data Decompression.</title>
+<pages>242-247</pages>
+<year>2016</year>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1109/ICPP.2016.35</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICPP.2016.35</ee>
+<crossref>conf/icpp/2016</crossref>
+<url>db/conf/icpp/icpp2016.html#SitaridiMKLR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BarberHLMMOPRSS16" mdate="2021-10-14">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="181/5812">Matt Huras</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author orcid="0000-0002-4418-4724" pid="o/FatmaOzcan">Fatma &#214;zcan</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="181/5779">Oleg Sidorkin</author>
+<author pid="16/5412">Adam J. Storm</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<title>Wildfire: Concurrent Blazing Data Ingest and Analytics.</title>
+<pages>2077-2080</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2899406</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#BarberHLMMOPRSS16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/SitaridiMKLR16" mdate="2020-09-30">
+<author pid="15/11515">Evangelia A. Sitaridi</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="35/908">Tim Kaldewey</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Massively-Parallel Lossless Data Decompression.</title>
+<year>2016</year>
+<volume>abs/1606.00519</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1606.00519</ee>
+<url>db/journals/corr/corr1606.html#SitaridiMKLR16</url>
+</article>
+</r>
+<r><inproceedings key="conf/vldb/KarnagelML15" mdate="2020-09-30">
+<author pid="127/0442">Tomas Karnagel</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<title>Optimizing GPU-accelerated Group-By and Aggregation.</title>
+<pages>13-24</pages>
+<year>2015</year>
+<booktitle>ADMS@VLDB</booktitle>
+<ee type="oa">http://www.adms-conf.org/2015/gpu-optimizer-camera-ready.pdf</ee>
+<crossref>conf/vldb/2015adms</crossref>
+<url>db/conf/vldb/adms2015.html#KarnagelML15</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/RamanABCKKLLLLMMPSSSSZ13" mdate="2020-09-30">
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="24/2608">Gopi K. Attaluri</author>
+<author pid="33/3527">Ronald Barber</author>
+<author pid="135/4688">Naresh Chainani</author>
+<author pid="135/4645">David Kalmuk</author>
+<author pid="135/4711">Vincent KulandaiSamy</author>
+<author pid="42/5193">Jens Leenstra</author>
+<author pid="31/3001">Sam Lightstone</author>
+<author pid="57/6681">Shaorong Liu</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="135/4723">Tim Malkemus</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="48/5807">Berni Schiefer</author>
+<author pid="53/26">David Sharpe</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="16/5412">Adam J. Storm</author>
+<author pid="48/6735">Liping Zhang</author>
+<title>DB2 with BLU Acceleration: So Much More than Just a Column Store.</title>
+<pages>1080-1091</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p1080-barber.pdf</ee>
+<ee>https://doi.org/10.14778/2536222.2536233</ee>
+<url>db/journals/pvldb/pvldb6.html#RamanABCKKLLLLMMPSSSSZ13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/LiPMRL13" mdate="2020-09-30">
+<author pid="49/612">Yinan Li</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<title>NUMA-aware algorithms: the case of data shuffling.</title>
+<year>2013</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2013/Papers/CIDR13_Paper121.pdf</ee>
+<crossref>conf/cidr/2013</crossref>
+<url>db/conf/cidr/cidr2013.html#LiPMRL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloud/BarberLMPRW13" mdate="2023-09-01">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="04/5188">Winfried W. Wilcke</author>
+<title>Go, server, go!: parallel computing with moving servers.</title>
+<pages>8:1-8:8</pages>
+<year>2013</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/2523616.2523634</ee>
+<crossref>conf/cloud/2013</crossref>
+<url>db/conf/cloud/socc2013.html#BarberLMPRW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MullerKLM13" mdate="2020-09-30">
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="35/908">Tim Kaldewey</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="02/5355">John McPherson</author>
+<title>WOW: what the world of (data) warehousing can learn from the World of Warcraft.</title>
+<pages>961-964</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2465267</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#MullerKLM13</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/BarberBCDHHIKKLLLMMMPQRSSS12" mdate="2020-09-30">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="17/11155">Peter Bendel</author>
+<author pid="61/9320">Marco Czech</author>
+<author pid="89/9320">Oliver Draese</author>
+<author pid="05/11154">Frederick Ho</author>
+<author pid="22/1571">Namik Hrle</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/MinSooKim2">Min-Soo Kim 0002</author>
+<author pid="04/9919">Oliver Koeth</author>
+<author pid="28/3904">Jae-Gil Lee 0001</author>
+<author pid="07/4483">Tianchao Tim Li</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/KonstantinosMorfonios">Konstantinos Morfonios</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="37/276">Keshava Murthy</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="q/LinQiao">Lin Qiao</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="s/KnutStolze">Knut Stolze</author>
+<author pid="16/6170">Sandor Szabo</author>
+<title>Business Analytics in (a) Blink.</title>
+<pages>9-14</pages>
+<year>2012</year>
+<volume>35</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A12mar/blink.pdf</ee>
+<url>db/journals/debu/debu35.html#BarberBCDHHIKKLLLMMMPQRSSS12</url>
+</article>
+</r>
+<r><article key="journals/vldb/MullerTA12" mdate="2020-09-30">
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Sorting networks on FPGAs.</title>
+<pages>1-23</pages>
+<year>2012</year>
+<volume>21</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-011-0232-z</ee>
+<url>db/journals/vldb/vldb21.html#MullerTA12</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/KaldeweyLMV12" mdate="2020-09-30">
+<author pid="35/908">Tim Kaldewey</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="80/2647">Peter Benjamin Volk</author>
+<title>GPU join processing revisited.</title>
+<pages>55-62</pages>
+<year>2012</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2236584.2236592</ee>
+<crossref>conf/damon/2012</crossref>
+<url>db/conf/damon/damon2012.html#KaldeweyLMV12</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/BonnetMBCGGHIIJKKMOPRTYFS11" mdate="2024-02-01">
+<author orcid="0000-0002-0234-5374" pid="b/PBonnet">Philippe Bonnet</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="30/8166">Matias Bj&#248;rling</author>
+<author pid="54/6265">Wei Cao</author>
+<author pid="366/8237-6">Javier Gonz&#225;lez 0006</author>
+<author pid="01/10306">Joel A. Granados</author>
+<author pid="69/9381">Nancy Hall</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="i/MilenaIvanova">Milena Ivanova</author>
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="54/1720">David Koop</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="74/10305">Christine Reilly</author>
+<author pid="77/228">Dimitris Tsirogiannis</author>
+<author pid="58/3771">Cong Yu 0001</author>
+<author orcid="0000-0003-3915-7075" pid="f/JulianaFreire">Juliana Freire</author>
+<author pid="s/DennisShasha">Dennis E. Shasha</author>
+<title>Repeatability and workability evaluation of SIGMOD 2011.</title>
+<pages>45-48</pages>
+<year>2011</year>
+<volume>40</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2034863.2034873</ee>
+<ee>https://www.wikidata.org/entity/Q60396850</ee>
+<url>db/journals/sigmod/sigmod40.html#BonnetMBCGGHIIJKKMOPRTYFS11</url>
+</article>
+</r>
+<r><article key="journals/tkde/TeubnerMA11" mdate="2020-09-30">
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Frequent Item Computation on a Chip.</title>
+<pages>1169-1181</pages>
+<year>2011</year>
+<volume>23</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TKDE.2010.216</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2010.216</ee>
+<url>db/journals/tkde/tkde23.html#TeubnerMA11</url>
+</article>
+</r>
+<r><inproceedings key="conf/birte/BarberBCDHHIKKLLLMMMPQRSSS11" mdate="2020-09-30">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="17/11155">Peter Bendel</author>
+<author pid="61/9320">Marco Czech</author>
+<author pid="89/9320">Oliver Draese</author>
+<author pid="05/11154">Frederick Ho</author>
+<author pid="22/1571">Namik Hrle</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/MinSooKim2">Min-Soo Kim 0002</author>
+<author pid="04/9919">Oliver Koeth</author>
+<author pid="28/3904">Jae-Gil Lee 0001</author>
+<author pid="07/4483">Tianchao Tim Li</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/KonstantinosMorfonios">Konstantinos Morfonios</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="37/276">Keshava Murthy</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="q/LinQiao">Lin Qiao</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="16/6170">Sandor Szabo</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="s/KnutStolze">Knut Stolze</author>
+<title>Blink: Not Your Father's Database!</title>
+<pages>1-22</pages>
+<year>2011</year>
+<booktitle>BIRTE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33500-6_1</ee>
+<crossref>conf/birte/2011</crossref>
+<url>db/conf/birte/birte2011.html#BarberBCDHHIKKLLLMMMPQRSSS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/TeubnerM11" mdate="2020-09-30">
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<title>How soccer players would do stream joins.</title>
+<pages>625-636</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989389</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#TeubnerM11</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/basesearch/Muller10" mdate="2023-01-02">
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<title>Data Stream Processing on Embedded Devices.</title>
+<year>2010</year>
+<school>ETH Zurich, Z&#252;rich, Switzerland</school>
+<ee>https://hdl.handle.net/20.500.11850/72798</ee>
+<ee>https://doi.org/10.3929/ethz-a-006153077</ee>
+<ee>https://www.base-search.net/Record/482ea151de6bad9c89c4011c9d14918dab3dc20e4d7d85408b6f47d1956be7e9</ee>
+<note type="source">base-search.net (ftethz:oai:www.research-collection.ethz.ch:20.500.11850/72798)</note>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/edbt/MullerT10" mdate="2020-09-30">
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>FPGAs: a new point in the database design space.</title>
+<pages>721-723</pages>
+<year>2010</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1739041.1739137</ee>
+<crossref>conf/edbt/2010</crossref>
+<url>db/conf/edbt/edbt2010.html#MullerT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/TeubnerMA10" mdate="2023-03-24">
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>FPGA acceleration for the frequent item problem.</title>
+<pages>669-680</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447856</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447856</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#TeubnerMA10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MullerTA10" mdate="2020-09-30">
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Glacier: a query-to-hardware compiler.</title>
+<pages>1159-1162</pages>
+<year>2010</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1807167.1807307</ee>
+<crossref>conf/sigmod/2010</crossref>
+<url>db/conf/sigmod/sigmod2010.html#MullerTA10</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/MullerTA09" mdate="2023-10-22">
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Streams on Wires - A Query Compiler for FPGAs.</title>
+<pages>229-240</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-622.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687654</ee>
+<ee>https://www.wikidata.org/entity/Q122235477</ee>
+<url>db/journals/pvldb/pvldb2.html#MullerTA09</url>
+</article>
+</r>
+<r><article key="journals/pvldb/MuellerTA09" mdate="2020-09-30">
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Data Processing on FPGAs.</title>
+<pages>910-921</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-603.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687730</ee>
+<url>db/journals/pvldb/pvldb2.html#MuellerTA09</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/MuellerT09" mdate="2020-09-30">
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>FPGA: what's in it for a database?</title>
+<pages>999-1004</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559965</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#MuellerT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/MullerAK07" mdate="2020-09-30">
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>SwissQM: Next Generation Data Processing in Sensor Networks.</title>
+<pages>1-9</pages>
+<year>2007</year>
+<crossref>conf/cidr/2007</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2007/papers/cidr07p01.pdf</ee>
+<url>db/conf/cidr/cidr2007.html#MullerAK07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurosys/MullerAK07" mdate="2020-09-30">
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>A virtual machine for sensor networks.</title>
+<pages>145-158</pages>
+<year>2007</year>
+<crossref>conf/eurosys/2007</crossref>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/1272996.1273013</ee>
+<url>db/conf/eurosys/eurosys2007.html#MullerAK07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mass/MuellerRDA07" mdate="2024-02-05">
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author orcid="0000-0003-3791-7114" pid="21/4498">Jan S. Rellermeyer</author>
+<author pid="45/1113">Michael Duller</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Demo: A Generic Platform for Sensor Network Applications.</title>
+<pages>1-3</pages>
+<year>2007</year>
+<booktitle>MASS</booktitle>
+<ee>https://doi.org/10.1109/MOBHOC.2007.4428693</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MOBHOC.2007.4428693</ee>
+<crossref>conf/mass/2007</crossref>
+<url>db/conf/mass/mass2007.html#MuellerRDA07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MullerRDAK07" mdate="2024-02-05">
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author orcid="0000-0003-3791-7114" pid="21/4498">Jan S. Rellermeyer</author>
+<author pid="45/1113">Michael Duller</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>A dynamic and flexible sensor network platform.</title>
+<pages>1085-1087</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247615</ee>
+<url>db/conf/sigmod/sigmod2007.html#MullerRDAK07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mass/MullerA06" mdate="2023-03-24">
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Efficient Sharing of Sensor Networks.</title>
+<pages>109-118</pages>
+<year>2006</year>
+<booktitle>MASS</booktitle>
+<ee>https://doi.org/10.1109/MOBHOC.2006.278547</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MOBHOC.2006.278547</ee>
+<crossref>conf/mass/2006</crossref>
+<url>db/conf/mass/mass2006.html#MullerA06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jit/GruntzM02" mdate="2020-09-30">
+<author pid="80/6194">Dominik Gruntz</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<title>Java Smart Ticket Demo Application Scrutinized.</title>
+<pages>121-134</pages>
+<year>2002</year>
+<crossref>conf/jit/2002node</crossref>
+<booktitle>NetObjectDays</booktitle>
+<ee>https://doi.org/10.1007/3-540-36557-5_11</ee>
+<url>db/conf/jit/netobject2002.html#GruntzM02</url>
+</inproceedings>
+</r>
+<coauthors n="82" nc="2">
+<co c="0"><na f="a/Alonso:Gustavo" pid="a/GustavoAlonso">Gustavo Alonso</na></co>
+<co c="0"><na f="a/Attaluri:Gopi_K=" pid="24/2608">Gopi K. Attaluri</na></co>
+<co c="0" n="2"><na f="b/Barber:Ron" pid="33/3527">Ron Barber</na><na>Ronald Barber</na></co>
+<co c="0"><na f="b/Bendel:Peter" pid="17/11155">Peter Bendel</na></co>
+<co c="0"><na f="b/Bj=oslash=rling:Matias" pid="30/8166">Matias Bj&#248;rling</na></co>
+<co c="0"><na f="b/Bonnet:Philippe" pid="b/PBonnet">Philippe Bonnet</na></co>
+<co c="0"><na f="c/Cao:Wei" pid="54/6265">Wei Cao</na></co>
+<co c="1"><na f="c/Carpen=Amarie:Maria" pid="151/0252">Maria Carpen-Amarie</na></co>
+<co c="0"><na f="c/Chainani:Naresh" pid="135/4688">Naresh Chainani</na></co>
+<co c="0"><na f="c/Czech:Marco" pid="61/9320">Marco Czech</na></co>
+<co c="0"><na f="d/Draese:Oliver" pid="89/9320">Oliver Draese</na></co>
+<co c="0"><na f="d/Duller:Michael" pid="45/1113">Michael Duller</na></co>
+<co c="0"><na f="f/Freire:Juliana" pid="f/JulianaFreire">Juliana Freire</na></co>
+<co c="0"><na f="g/Garcia=Arellano:Christian" pid="96/122">Christian Garcia-Arellano</na></co>
+<co c="0"><na f="g/Gonz=aacute=lez_0006:Javier" pid="366/8237-6">Javier Gonz&#225;lez 0006</na></co>
+<co c="0"><na f="g/Granados:Joel_A=" pid="01/10306">Joel A. Granados</na></co>
+<co c="0"><na f="g/Grosman:Ronen" pid="192/4573">Ronen Grosman</na></co>
+<co c="1"><na f="g/Grot:Boris" pid="78/50">Boris Grot</na></co>
+<co c="-1"><na f="g/Gruntz:Dominik" pid="80/6194">Dominik Gruntz</na></co>
+<co c="0"><na f="h/Hall:Nancy" pid="69/9381">Nancy Hall</na></co>
+<co c="0"><na f="h/Ho:Frederick" pid="05/11154">Frederick Ho</na></co>
+<co c="0"><na f="h/Hrle:Namik" pid="22/1571">Namik Hrle</na></co>
+<co c="0"><na f="h/Huras:Matt" pid="181/5812">Matt Huras</na></co>
+<co c="0"><na f="i/Idreos:Stratos" pid="i/StratosIdreos">Stratos Idreos</na></co>
+<co c="0"><na f="i/Ivanova:Milena" pid="i/MilenaIvanova">Milena Ivanova</na></co>
+<co c="0"><na f="j/Johnson_0001:Ryan" pid="98/3414-1">Ryan Johnson 0001</na></co>
+<co c="0"><na f="k/Kaldewey:Tim" pid="35/908">Tim Kaldewey</na></co>
+<co c="0"><na f="k/Kalmuk:David" pid="135/4645">David Kalmuk</na></co>
+<co c="0"><na f="k/Karnagel:Tomas" pid="127/0442">Tomas Karnagel</na></co>
+<co c="0"><na f="k/Kim_0002:Min=Soo" pid="k/MinSooKim2">Min-Soo Kim 0002</na></co>
+<co c="0"><na f="k/Koeth:Oliver" pid="04/9919">Oliver Koeth</na></co>
+<co c="0"><na f="k/Koop:David" pid="54/1720">David Koop</na></co>
+<co c="0"><na f="k/Kossmann:Donald" pid="k/DonaldKossmann">Donald Kossmann</na></co>
+<co c="0"><na f="k/Kraska:Tim" pid="26/6037">Tim Kraska</na></co>
+<co c="0"><na f="k/KulandaiSamy:Vincent" pid="135/4711">Vincent KulandaiSamy</na></co>
+<co c="0"><na f="l/Lee_0001:Jae=Gil" pid="28/3904">Jae-Gil Lee 0001</na></co>
+<co c="0"><na f="l/Leenstra:Jens" pid="42/5193">Jens Leenstra</na></co>
+<co c="0" n="2"><na f="l/Li:Tianchao" pid="07/4483">Tianchao Li</na><na>Tianchao Tim Li</na></co>
+<co c="0"><na f="l/Li:Yinan" pid="49/612">Yinan Li</na></co>
+<co c="0"><na f="l/Lightstone:Sam" pid="31/3001">Sam Lightstone</na></co>
+<co c="0"><na f="l/Liu:Shaorong" pid="57/6681">Shaorong Liu</na></co>
+<co c="0"><na f="l/Lohman:Guy_M=" pid="21/2457">Guy M. Lohman</na></co>
+<co c="0"><na f="m/Malkemus:Tim" pid="135/4723">Tim Malkemus</na></co>
+<co c="0"><na f="m/Manegold:Stefan" pid="m/StefanManegold">Stefan Manegold</na></co>
+<co c="0"><na f="m/McPherson:John" pid="02/5355">John McPherson</na></co>
+<co c="0" n="2"><na f="m/Mohan_0001:C=" pid="m/CMohan">C. Mohan 0001</na><na>Chandrasekaran Mohan</na></co>
+<co c="0"><na f="m/Morfonios:Konstantinos" pid="m/KonstantinosMorfonios">Konstantinos Morfonios</na></co>
+<co c="0"><na f="m/Murthy:Keshava" pid="37/276">Keshava Murthy</na></co>
+<co c="0"><na f="o/Olteanu:Dan" pid="o/DanOlteanu">Dan Olteanu</na></co>
+<co c="0"><na f="=/=Ouml=zcan:Fatma" pid="o/FatmaOzcan">Fatma &#214;zcan</na></co>
+<co c="0"><na f="p/Pandis:Ippokratis" pid="p/IppokratisPandis">Ippokratis Pandis</na></co>
+<co c="0"><na f="p/Papotti:Paolo" pid="p/PaoloPapotti">Paolo Papotti</na></co>
+<co c="-1"><na f="p/Parravicini:Alberto" pid="202/6701">Alberto Parravicini</na></co>
+<co c="0"><na f="p/Pirahesh:Hamid" pid="p/HamidPirahesh">Hamid Pirahesh</na></co>
+<co c="0"><na f="q/Qiao:Lin" pid="q/LinQiao">Lin Qiao</na></co>
+<co c="0"><na f="r/Raman:Vijayshankar" pid="r/VijayshankarRaman">Vijayshankar Raman</na></co>
+<co c="0"><na f="r/Reilly:Christine" pid="74/10305">Christine Reilly</na></co>
+<co c="0"><na f="r/Rellermeyer:Jan_S=" pid="21/4498">Jan S. Rellermeyer</na></co>
+<co c="0"><na f="r/Rosenfeld:Viktor" pid="169/7279">Viktor Rosenfeld</na></co>
+<co c="0"><na f="r/Ross:Kenneth_A=" pid="r/KARoss">Kenneth A. Ross</na></co>
+<co c="0"><na f="s/Schiefer:Berni" pid="48/5807">Berni Schiefer</na></co>
+<co c="0"><na f="s/Sharpe:David" pid="53/26">David Sharpe</na></co>
+<co c="0"><na f="s/Shasha:Dennis_E=" pid="s/DennisShasha">Dennis E. Shasha</na></co>
+<co c="0"><na f="s/Sidle:Richard" pid="84/3614">Richard Sidle</na></co>
+<co c="0"><na f="s/Sidorkin:Oleg" pid="181/5779">Oleg Sidorkin</na></co>
+<co c="0"><na f="s/Sitaridi:Evangelia_A=" pid="15/11515">Evangelia A. Sitaridi</na></co>
+<co c="0"><na f="s/Spilchen:Matt" pid="192/4569">Matt Spilchen</na></co>
+<co c="0"><na f="s/Stolze:Knut" pid="s/KnutStolze">Knut Stolze</na></co>
+<co c="0"><na f="s/Storm:Adam_J=" pid="16/5412">Adam J. Storm</na></co>
+<co c="0"><na f="s/Szabo:Sandor" pid="16/6170">Sandor Szabo</na></co>
+<co c="0"><na f="t/Teubner:Jens" pid="t/JensTeubner">Jens Teubner</na></co>
+<co c="0"><na f="t/Tian:Yuanyuan" pid="27/3375">Yuanyuan Tian</na></co>
+<co c="1"><na f="t/Tovletoglou:Konstantinos" pid="200/8449">Konstantinos Tovletoglou</na></co>
+<co c="0"><na f="t/T=ouml=z=uuml=n:Pinar" pid="86/9726">Pinar T&#246;z&#252;n</na></co>
+<co c="0"><na f="t/Tsirogiannis:Dimitris" pid="77/228">Dimitris Tsirogiannis</na></co>
+<co c="1"><na f="v/Vavouliotis:Georgios" pid="298/8514">Georgios Vavouliotis</na></co>
+<co c="0"><na f="v/Volk:Peter_Benjamin" pid="80/2647">Peter Benjamin Volk</na></co>
+<co c="0"><na f="w/Wilcke:Winfried_W=" pid="04/5188">Winfried W. Wilcke</na></co>
+<co c="0"><na f="w/Wu:Yingjun" pid="07/11533">Yingjun Wu</na></co>
+<co c="0"><na f="y/Yu_0001:Cong" pid="58/3771">Cong Yu 0001</na></co>
+<co c="0"><na f="z/Zhang:Liping" pid="48/6735">Liping Zhang</na></co>
+<co c="0"><na f="z/Zilio:Daniel_C=" pid="60/6783">Daniel C. Zilio</na></co>
+</coauthors>
+</dblpperson>

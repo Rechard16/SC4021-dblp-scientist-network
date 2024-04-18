@@ -1,0 +1,481 @@
+<dblpperson name="Felix Martin Schuhknecht" pid="129/6818" n="34">
+<person key="homepages/129/6818" mdate="2023-03-08">
+<author pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="129/6818">Felix Schuhknecht 0001</author>
+<note type="affiliation">Johannes Gutenberg University of Mainz, Germany</note>
+<note type="affiliation">Saarland University, Department of Computer Science, Germany</note>
+<url>https://infosys.informatik.uni-mainz.de/team/</url>
+<url>https://infosys.uni-saarland.de/people/schuhknecht.php</url>
+<url>https://scholar.google.com/citations?user=djV8l-cAAAAJ</url>
+<url>https://www.linkedin.com/in/felix-martin-schuhknecht-05777a1b</url>
+<url>https://orcid.org/0000-0002-0165-4116</url>
+</person>
+<homonyms n="2">
+<h f="s/Schuhknecht:Felix"><name>Felix Schuhknecht</name>
+</h>
+<h f="s/Schuhknecht_0002:Felix"><person key="homepages/231/5265" mdate="2023-03-08">
+<author pid="231/5265">Felix Schuhknecht 0002</author>
+<note type="affiliation">University of Bamberg, Germany</note>
+</person>
+</h>
+</homonyms>
+<r><inproceedings key="conf/cidr/Schuhknecht24" mdate="2024-04-11">
+<author pid="129/6818">Felix Martin Schuhknecht</author>
+<title>Taking the Shortcut: Actively Incorporating the Virtual Memory Index of the OS to Hardware-Accelerate Database Indexing.</title>
+<year>2024</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2024/papers/p58-schuhknecht.pdf</ee>
+<crossref>conf/cidr/2024</crossref>
+<url>db/conf/cidr/cidr2024.html#Schuhknecht24</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/Henneberg023" mdate="2024-02-05">
+<author pid="300/3940">Justus Henneberg</author>
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Schuhknecht 0001</author>
+<title>RTIndeX: Exploiting Hardware-Accelerated GPU Raytracing for Database Indexing.</title>
+<pages>4268-4281</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p4268-schuhknecht.pdf</ee>
+<url>db/journals/pvldb/pvldb16.html#Henneberg023</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/SchuhknechtJ23" mdate="2024-02-05">
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="330/9442">Simon J&#246;rz</author>
+<title>The Easiest Way of Turning your Relational Database into a Blockchain - and the Cost of Doing So.</title>
+<pages>131-153</pages>
+<year>2023</year>
+<booktitle>BTW</booktitle>
+<ee>https://doi.org/10.18420/BTW2023-07</ee>
+<crossref>conf/btw/2023</crossref>
+<url>db/conf/btw/btw2023.html#SchuhknechtJ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/KerthMPH23" mdate="2024-02-05">
+<author pid="340/7596">Alexander Kerth</author>
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="248/7645">Lukas Pensel</author>
+<author pid="300/3940">Justus Henneberg</author>
+<title>Better Safe than Sorry: Visualizing, Predicting, and Successfully Guiding Courses of Study.</title>
+<pages>665-671</pages>
+<year>2023</year>
+<booktitle>BTW</booktitle>
+<ee>https://doi.org/10.18420/BTW2023-36</ee>
+<crossref>conf/btw/2023</crossref>
+<url>db/conf/btw/btw2023.html#KerthMPH23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/SchuhknechtI23" mdate="2024-02-05">
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="340/7621">Tamjidul Islam</author>
+<title>Inter-Query Parallelism on Heterogeneous Multi-Core CPUs.</title>
+<pages>719-728</pages>
+<year>2023</year>
+<booktitle>BTW</booktitle>
+<ee>https://doi.org/10.18420/BTW2023-45</ee>
+<crossref>conf/btw/2023</crossref>
+<url>db/conf/btw/btw2023.html#SchuhknechtI23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/SchuhknechtH23" mdate="2024-02-05">
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="300/3940">Justus Henneberg</author>
+<title>Towards Adaptive Storage Views in Virtual Memory.</title>
+<year>2023</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2023/papers/p65-schuhknecht.pdf</ee>
+<crossref>conf/cidr/2023</crossref>
+<url>db/conf/cidr/cidr2023.html#SchuhknechtH23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/0001H23" mdate="2023-07-07">
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Schuhknecht 0001</author>
+<author orcid="0009-0008-1076-0640" pid="300/3940">Justus Henneberg</author>
+<title>Accelerating Main-Memory Table Scans with Partial Virtual Views.</title>
+<pages>89-93</pages>
+<year>2023</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3592980.3595315</ee>
+<crossref>conf/damon/2023</crossref>
+<url>db/conf/damon/damon2023.html#0001H23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/0001H23a" mdate="2023-07-07">
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Schuhknecht 0001</author>
+<author orcid="0009-0008-1076-0640" pid="300/3940">Justus Henneberg</author>
+<title>Why Your Experimental Results Might Be Wrong.</title>
+<pages>94-97</pages>
+<year>2023</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3592980.3595317</ee>
+<crossref>conf/damon/2023</crossref>
+<url>db/conf/damon/damon2023.html#0001H23a</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-01139" mdate="2024-02-05">
+<author pid="300/3940">Justus Henneberg</author>
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Schuhknecht 0001</author>
+<title>RTIndeX: Exploiting Hardware-Accelerated GPU Raytracing for Database Indexing.</title>
+<year>2023</year>
+<volume>abs/2303.01139</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.01139</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-01139</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-09124" mdate="2024-02-05">
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Schuhknecht 0001</author>
+<title>Taking the Shortcut: Actively Incorporating the Virtual Memory Index of the OS to Hardware-Accelerate Database Indexing.</title>
+<year>2023</year>
+<volume>abs/2310.09124</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.09124</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-09124</url>
+</article>
+</r>
+<r><inproceedings key="conf/ssdbm/HennebergSRBS22" mdate="2024-02-05">
+<author pid="300/3940">Justus Henneberg</author>
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="302/0565">Philipp Reutter</author>
+<author pid="302/0190">Nils Brast</author>
+<author pid="302/1301">Peter Spichtinger</author>
+<title>Northlight: Declarative and Optimized Analysis of Atmospheric Datasets in SparkSQL.</title>
+<pages>13:1-13:12</pages>
+<year>2022</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1145/3538712.3538715</ee>
+<crossref>conf/ssdbm/2022</crossref>
+<url>db/conf/ssdbm/ssdbm2022.html#HennebergSRBS22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2209-01635" mdate="2024-02-05">
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="300/3940">Justus Henneberg</author>
+<title>Towards Adaptive Storage Views in Virtual Memory.</title>
+<year>2022</year>
+<volume>abs/2209.01635</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2209.01635</ee>
+<url>db/journals/corr/corr2209.html#abs-2209-01635</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-04484" mdate="2024-02-05">
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="330/9442">Simon J&#246;rz</author>
+<title>The Easiest Way of Turning your Relational Database into a Blockchain - and the Cost of Doing So.</title>
+<year>2022</year>
+<volume>abs/2210.04484</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.04484</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-04484</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SchuhknechtPHS21" mdate="2024-02-05">
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="300/4549">Aaron Priesterroth</author>
+<author pid="300/3940">Justus Henneberg</author>
+<author pid="160/7720">Reza Salkhordeh</author>
+<title>AnyOLAP: Analytical Processing of Arbitrary Data-Intensive Applications without ETL.</title>
+<pages>2823-2826</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2823-schuhknecht.pdf</ee>
+<ee>https://doi.org/10.14778/3476311.3476354</ee>
+<url>db/journals/pvldb/pvldb14.html#SchuhknechtPHS21</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/Schuhknecht0DA21" mdate="2022-07-18">
+<author pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="132/8249-2">Ankur Sharma 0002</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="04/9142">Divya Agrawal</author>
+<title>chainifyDB: How to get rid of your Blockchain and use your DBMS instead.</title>
+<year>2021</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2021/papers/cidr2021_paper04.pdf</ee>
+<crossref>conf/cidr/2021</crossref>
+<url>db/conf/cidr/cidr2021.html#Schuhknecht0DA21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/Schuhknecht21" mdate="2024-02-05">
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<title>Talking Blockchains: The Perspective of a Database Researcher.</title>
+<pages>72-75</pages>
+<year>2021</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW53142.2021.00020</ee>
+<crossref>conf/icde/2021w</crossref>
+<url>db/conf/icde/icde2021w.html#Schuhknecht21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2109-08053" mdate="2021-09-22">
+<author pid="300/3940">Justus Henneberg</author>
+<author pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="302/0565">Philipp Reutter</author>
+<author pid="302/0190">Nils Brast</author>
+<author pid="302/1301">Peter Spichtinger</author>
+<title>Northlight: Declarative and Optimized Analysis of Atmospheric Datasets in SparkSQL.</title>
+<year>2021</year>
+<volume>abs/2109.08053</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2109.08053</ee>
+<url>db/journals/corr/corr2109.html#abs-2109-08053</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/SharmaSAD19" mdate="2024-02-05">
+<author pid="132/8249-2">Ankur Sharma 0002</author>
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="04/9142">Divya Agrawal</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>Blurring the Lines between Blockchains and Database Systems: the Case of Hyperledger Fabric.</title>
+<pages>105-122</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3319883</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#SharmaSAD19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-04820" mdate="2020-01-02">
+<author pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="132/8249-2">Ankur Sharma 0002</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="04/9142">Divya Agrawal</author>
+<title>ChainifyDB: How to Blockchainify any Data Management System.</title>
+<year>2019</year>
+<volume>abs/1912.04820</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.04820</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-04820</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/HaffnerSD18" mdate="2024-02-05">
+<author pid="144/5813">Immanuel Haffner</author>
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>An analysis and comparison of database cracking kernels.</title>
+<pages>10:1-10:10</pages>
+<year>2018</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3211922.3211930</ee>
+<crossref>conf/damon/2018</crossref>
+<url>db/conf/damon/damon2018.html#HaffnerSD18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SchuhknechtDL18" mdate="2024-02-05">
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="228/6056">Laurent Linden</author>
+<title>Adaptive Adaptive Indexing.</title>
+<pages>665-676</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00066</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00066</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#SchuhknechtDL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SharmaSD18" mdate="2024-02-05">
+<author pid="132/8249-2">Ankur Sharma 0002</author>
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>Accelerating Analytical Processing in MVCC using Fine-Granular High-Frequency Virtual Snapshotting.</title>
+<pages>245-258</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3196904</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#SharmaSD18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-05643" mdate="2019-09-24">
+<author pid="132/8249-2">Ankur Sharma 0002</author>
+<author pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>The Case for Automatic Database Administration using Deep Reinforcement Learning.</title>
+<year>2018</year>
+<volume>abs/1801.05643</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.05643</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-05643</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-13177" mdate="2019-09-24">
+<author pid="132/8249-2">Ankur Sharma 0002</author>
+<author pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="04/9142">Divya Agrawal</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>How to Databasify a Blockchain: the Case of Hyperledger Fabric.</title>
+<year>2018</year>
+<volume>abs/1810.13177</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.13177</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-13177</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/GembalczykSD17" mdate="2024-02-05">
+<author pid="195/7348">David Gembalczyk</author>
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>An Experimental Analysis of Different Key-Value Stores and Relational Databases.</title>
+<pages>351-360</pages>
+<year>2017</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2017</crossref>
+<url>db/conf/btw/btw2017.html#GembalczykSD17</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/639</ee>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-04284" mdate="2019-09-24">
+<author pid="132/8249-2">Ankur Sharma 0002</author>
+<author pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>Accelerating Analytical Processing in MVCC using Fine-Granular High-Frequency Virtual Snapshotting.</title>
+<year>2017</year>
+<volume>abs/1709.04284</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.04284</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-04284</url>
+</article>
+</r>
+<r><phdthesis key="phd/dnb/Schuhknecht16" mdate="2024-02-05">
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<title>Closing the circle of algorithmic and system-centric database optimization: a comprehensive survey on adaptive indexing, data partitioning, and the rewiring of virtual memory.</title>
+<year>2016</year>
+<school>Saarland University, Saarbr&#252;cken, Germany</school>
+<ee>http://scidok.sulb.uni-saarland.de/volltexte/2016/6718/</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:bsz:291-scidok-67182</ee>
+<ee>https://d-nb.info/1122110634</ee>
+</phdthesis>
+</r>
+<r><article key="journals/pvldb/SchuhknechtDS16" mdate="2024-02-05">
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="132/8249-2">Ankur Sharma 0002</author>
+<title>RUMA has it: Rewired User-space Memory Access is Possible!</title>
+<pages>768-779</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p768-schuhknecht.pdf</ee>
+<ee>https://doi.org/10.14778/2977797.2977803</ee>
+<url>db/journals/pvldb/pvldb9.html#SchuhknechtDS16</url>
+</article>
+</r>
+<r><article key="journals/vldb/SchuhknechtJD16" mdate="2017-07-26">
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="24/8510">Alekh Jindal</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>An experimental evaluation and analysis of database cracking.</title>
+<pages>27-52</pages>
+<year>2016</year>
+<volume>25</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-015-0397-y</ee>
+<url>db/journals/vldb/vldb25.html#SchuhknechtJD16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SchuhknechtKD15" mdate="2024-02-05">
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="162/3686">Pankaj Khanchandani</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>On the Surprising Difficulty of Simple Things: the Case of Radix Partitioning.</title>
+<pages>934-937</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p934-schuhknecht.pdf</ee>
+<ee>https://doi.org/10.14778/2777598.2777602</ee>
+<url>db/journals/pvldb/pvldb8.html#SchuhknechtKD15</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/AlvarezSD014" mdate="2024-02-05">
+<author pid="24/8074">Victor Alvarez 0001</author>
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="01/322-7">Stefan Richter 0007</author>
+<title>Main memory adaptive indexing for multi-core systems.</title>
+<pages>3:1-3:10</pages>
+<year>2014</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2619228.2619231</ee>
+<crossref>conf/damon/2014</crossref>
+<url>db/conf/damon/damon2014.html#AlvarezSD014</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/AlvarezSD014" mdate="2019-08-23">
+<author pid="24/8074">Victor Alvarez 0001</author>
+<author pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="01/322-7">Stefan Richter 0007</author>
+<title>Main Memory Adaptive Indexing for Multi-core Systems.</title>
+<year>2014</year>
+<volume>abs/1404.2034</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1404.2034</ee>
+<url>db/journals/corr/corr1404.html#AlvarezSD014</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SchuhknechtJD13" mdate="2024-02-05">
+<author orcid="0000-0002-0165-4116" pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="24/8510">Alekh Jindal</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<title>The Uncracked Pieces in Database Cracking.</title>
+<pages>97-108</pages>
+<year>2013</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p97-schuhknecht.pdf</ee>
+<ee>https://doi.org/10.14778/2732228.2732229</ee>
+<url>db/journals/pvldb/pvldb7.html#SchuhknechtJD13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/JindalSDKB13" mdate="2020-03-12">
+<author pid="24/8510">Alekh Jindal</author>
+<author pid="129/6818">Felix Martin Schuhknecht</author>
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="129/6896">Karen Khachatryan</author>
+<author pid="129/6950">Alexander Bunte</author>
+<title>How Achaeans Would Construct Columns in Troy.</title>
+<year>2013</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2013/Papers/CIDR13_Paper95.pdf</ee>
+<crossref>conf/cidr/2013</crossref>
+<url>db/conf/cidr/cidr2013.html#JindalSDKB13</url>
+</inproceedings>
+</r>
+<coauthors n="22" nc="2">
+<co c="0"><na f="a/Agrawal:Divya" pid="04/9142">Divya Agrawal</na></co>
+<co c="0"><na f="a/Alvarez_0001:Victor" pid="24/8074">Victor Alvarez 0001</na></co>
+<co c="1"><na f="b/Brast:Nils" pid="302/0190">Nils Brast</na></co>
+<co c="0"><na f="b/Bunte:Alexander" pid="129/6950">Alexander Bunte</na></co>
+<co c="0"><na f="d/Dittrich:Jens" pid="d/JensPeterDittrich">Jens Dittrich</na></co>
+<co c="0"><na f="g/Gembalczyk:David" pid="195/7348">David Gembalczyk</na></co>
+<co c="0"><na f="h/Haffner:Immanuel" pid="144/5813">Immanuel Haffner</na></co>
+<co c="1"><na f="h/Henneberg:Justus" pid="300/3940">Justus Henneberg</na></co>
+<co c="-1"><na f="i/Islam:Tamjidul" pid="340/7621">Tamjidul Islam</na></co>
+<co c="0"><na f="j/Jindal:Alekh" pid="24/8510">Alekh Jindal</na></co>
+<co c="-1"><na f="j/J=ouml=rz:Simon" pid="330/9442">Simon J&#246;rz</na></co>
+<co c="1"><na f="k/Kerth:Alexander" pid="340/7596">Alexander Kerth</na></co>
+<co c="0"><na f="k/Khachatryan:Karen" pid="129/6896">Karen Khachatryan</na></co>
+<co c="0"><na f="k/Khanchandani:Pankaj" pid="162/3686">Pankaj Khanchandani</na></co>
+<co c="0"><na f="l/Linden:Laurent" pid="228/6056">Laurent Linden</na></co>
+<co c="1"><na f="p/Pensel:Lukas" pid="248/7645">Lukas Pensel</na></co>
+<co c="1"><na f="p/Priesterroth:Aaron" pid="300/4549">Aaron Priesterroth</na></co>
+<co c="1"><na f="r/Reutter:Philipp" pid="302/0565">Philipp Reutter</na></co>
+<co c="0"><na f="r/Richter_0007:Stefan" pid="01/322-7">Stefan Richter 0007</na></co>
+<co c="1"><na f="s/Salkhordeh:Reza" pid="160/7720">Reza Salkhordeh</na></co>
+<co c="0"><na f="s/Sharma_0002:Ankur" pid="132/8249-2">Ankur Sharma 0002</na></co>
+<co c="1"><na f="s/Spichtinger:Peter" pid="302/1301">Peter Spichtinger</na></co>
+</coauthors>
+</dblpperson>

@@ -1,0 +1,980 @@
+<dblpperson name="Liu Yang 0005" pid="27/3367-5" n="54">
+<person key="homepages/27/3367-5" mdate="2019-04-05">
+<author pid="27/3367-5">Liu Yang 0005</author>
+<note type="affiliation">University of Massachusetts Amherst, College of Information and Computer Sciences, MA, USA</note>
+<url>https://sites.google.com/site/lyangwww/home</url>
+</person>
+<homonyms n="8">
+<h f="y/Yang:Liu"><person publtype="disambiguation" key="homepages/27/3367" mdate="2018-06-07">
+<author pid="27/3367">Liu Yang</author>
+</person>
+</h>
+<h f="y/Yang_0001:Liu"><person key="homepages/27/3367-1" mdate="2018-08-31">
+<author pid="27/3367-1">Liu Yang 0001</author>
+<note type="affiliation">Yale University, New Haven, CT, USA</note>
+<note label="former" type="affiliation">IBM T.J. Watson Research Center, Yorktown Heights, USA</note>
+<note label="former" type="affiliation">Carnegie Mellon University, Machine Learning Department, Pittsburgh, PA, USA</note>
+<note label="former" type="affiliation">Michigan State University, East Lansing, MI, USA</note>
+<url>http://www.cs.cmu.edu/~liuy/</url>
+</person>
+</h>
+<h f="y/Yang_0002:Liu"><person key="homepages/27/3367-2" mdate="2018-06-07">
+<author pid="27/3367-2">Liu Yang 0002</author>
+<note type="affiliation">Guangzhou University, School of Computer Science and Education Software, China</note>
+<note label="PhD 2013" type="affiliation">South China University of Technology, School of Electronic and Information Engineering, Guangzhou, China</note>
+<url>https://orcid.org/0000-0001-9915-6432</url>
+</person>
+</h>
+<h f="y/Yang_0003:Liu"><person key="homepages/27/3367-3" mdate="2018-08-14">
+<author pid="27/3367-3">Liu Yang 0003</author>
+<note type="affiliation">Chongqing University of Posts and Telecommunications, School of Communication and Information Engineering, China</note>
+<url>https://orcid.org/0000-0002-9450-5469</url>
+<url>https://www.wikidata.org/entity/Q47155693</url>
+</person>
+</h>
+<h f="y/Yang_0004:Liu"><person key="homepages/27/3367-4" mdate="2018-06-07">
+<author pid="27/3367-4">Liu Yang 0004</author>
+<note type="affiliation">Army Engineering University of PLA, College of Communication Engineering, Nanjing, China</note>
+<url>https://orcid.org/0000-0001-7259-9305</url>
+</person>
+</h>
+<h f="y/Yang_0006:Liu"><person key="homepages/27/3367-6" mdate="2018-08-31">
+<author pid="27/3367-6">Liu Yang 0006</author>
+<note type="affiliation">Beijing Jiaotong University, State Key Laboratory of Rail Traffic Control and Safety, China</note>
+<url>https://orcid.org/0000-0002-2948-1296</url>
+</person>
+</h>
+<h f="y/Yang_0007:Liu"><person key="homepages/27/3367-7" mdate="2018-10-18">
+<author pid="27/3367-7">Liu Yang 0007</author>
+<note type="affiliation">Beijing Institute of Technology, School of Automation, China</note>
+<url>https://orcid.org/0000-0002-1475-2719</url>
+</person>
+</h>
+<h f="y/Yang_0008:Liu"><person key="homepages/354/0279" mdate="2024-04-09">
+<author pid="354/0279">Liu Yang 0008</author>
+<note type="affiliation">Hong Kong University of Science and Technology, Department of Computer Science and Engineering, Hong Kong</note>
+<url>https://orcid.org/0000-0002-4393-1791</url>
+</person>
+</h>
+</homonyms>
+<r><inproceedings key="conf/cikm/QuKY0BN21" mdate="2023-09-30">
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="49/8024">Weize Kong</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="76/4874-1">Mingyang Zhang 0001</author>
+<author pid="80/4305">Michael Bendersky</author>
+<author orcid="0000-0003-1423-0854" pid="n/MarcNajork">Marc Najork</author>
+<title>Natural Language Understanding with Privacy-Preserving BERT.</title>
+<pages>1488-1497</pages>
+<year>2021</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3459637.3482281</ee>
+<crossref>conf/cikm/2021</crossref>
+<url>db/conf/cikm/cikm2021.html#QuKY0BN21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/QuYCCKI21" mdate="2022-01-25">
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="152/6215">Cen Chen</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="207/8485">Kalpesh Krishna</author>
+<author pid="148/9178">Mohit Iyyer</author>
+<title>Weakly-Supervised Open-Retrieval Conversational Question Answering.</title>
+<pages>529-543</pages>
+<year>2021</year>
+<booktitle>ECIR (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-72113-8_35</ee>
+<crossref>conf/ecir/2021-1</crossref>
+<url>db/conf/ecir/ecir2021-1.html#QuYCCKI21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/QuZ0CL21" mdate="2022-01-25">
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="150/5324">Hamed Zamani</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="l/ErikGLearnedMiller">Erik G. Learned-Miller</author>
+<title>Passage Retrieval for Outside-Knowledge Visual Question Answering.</title>
+<pages>1753-1757</pages>
+<year>2021</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3404835.3462987</ee>
+<crossref>conf/sigir/2021</crossref>
+<url>db/conf/sigir/sigir2021.html#QuZ0CL21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-02537" mdate="2022-01-25">
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="152/6215">Cen Chen</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="207/8485">Kalpesh Krishna</author>
+<author pid="148/9178">Mohit Iyyer</author>
+<title>Weakly-Supervised Open-Retrieval Conversational Question Answering.</title>
+<year>2021</year>
+<volume>abs/2103.02537</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.02537</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-02537</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-07504" mdate="2022-01-25">
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="49/8024">Weize Kong</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="76/4874-1">Mingyang Zhang 0001</author>
+<author pid="80/4305">Michael Bendersky</author>
+<author orcid="0000-0003-1423-0854" pid="n/MarcNajork">Marc Najork</author>
+<title>Privacy-Adaptive BERT for Natural Language Understanding.</title>
+<year>2021</year>
+<volume>abs/2104.07504</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.07504</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-07504</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-03938" mdate="2022-01-25">
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="150/5324">Hamed Zamani</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="l/ErikGLearnedMiller">Erik G. Learned-Miller</author>
+<title>Passage Retrieval for Outside-Knowledge Visual Question Answering.</title>
+<year>2021</year>
+<volume>abs/2105.03938</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.03938</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-03938</url>
+</article>
+</r>
+<r><article key="journals/ipm/GuoFPYAZWCC20" mdate="2020-11-07">
+<author pid="02/146">Jiafeng Guo</author>
+<author pid="188/2160">Yixing Fan</author>
+<author pid="37/11078">Liang Pang</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author orcid="0000-0002-5030-709X" pid="169/1808">Qingyao Ai</author>
+<author pid="150/5324">Hamed Zamani</author>
+<author pid="78/3213">Chen Wu</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="44/912">Xueqi Cheng</author>
+<title>A Deep Look into neural ranking models for information retrieval.</title>
+<pages>102067</pages>
+<year>2020</year>
+<volume>57</volume>
+<journal>Inf. Process. Manag.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/j.ipm.2019.102067</ee>
+<url>db/journals/ipm/ipm57.html#GuoFPYAZWCC20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/Yang00BN20" mdate="2023-02-23">
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="76/4874-1">Mingyang Zhang 0001</author>
+<author pid="16/6465-12">Cheng Li 0012</author>
+<author pid="80/4305">Michael Bendersky</author>
+<author orcid="0000-0003-1423-0854" pid="n/MarcNajork">Marc Najork</author>
+<title>Beyond 512 Tokens: Siamese Multi-depth Transformer-based Hierarchical Encoder for Long-Form Document Matching.</title>
+<pages>1725-1734</pages>
+<year>2020</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3340531.3411908</ee>
+<crossref>conf/cikm/2020</crossref>
+<url>db/conf/cikm/cikm2020.html#Yang00BN20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/Qu0CQCI20" mdate="2022-01-25">
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="152/6215">Cen Chen</author>
+<author pid="132/3541">Minghui Qiu</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="148/9178">Mohit Iyyer</author>
+<title>Open-Retrieval Conversational Question Answering.</title>
+<pages>539-548</pages>
+<year>2020</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3397271.3401110</ee>
+<crossref>conf/sigir/2020</crossref>
+<url>db/conf/sigir/sigir2020.html#Qu0CQCI20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/WangFG0ZLCJW20" mdate="2022-12-07">
+<author pid="19/1067">Zizhen Wang</author>
+<author pid="188/2160">Yixing Fan</author>
+<author pid="02/146">Jiafeng Guo</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="203/8270-1">Ruqing Zhang 0001</author>
+<author pid="00/6040">Yanyan Lan</author>
+<author pid="44/912">Xueqi Cheng</author>
+<author pid="64/3246">Hui Jiang</author>
+<author pid="09/8705">Xiaozhao Wang</author>
+<title>Match&#178;: A Matching over Matching Model for Similar Question Identification.</title>
+<pages>559-568</pages>
+<year>2020</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3397271.3401143</ee>
+<crossref>conf/sigir/2020</crossref>
+<url>db/conf/sigir/sigir2020.html#WangFG0ZLCJW20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/0005QQCGZCC20" mdate="2022-01-25">
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="132/3541">Minghui Qiu</author>
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="152/6215">Cen Chen</author>
+<author pid="02/146">Jiafeng Guo</author>
+<author pid="82/7829">Yongfeng Zhang</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="34/6243">Haiqing Chen</author>
+<title>IART: Intent-aware Response Ranking with Transformers in Information-seeking Conversation Systems.</title>
+<pages>2592-2598</pages>
+<year>2020</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3366423.3380011</ee>
+<crossref>conf/www/2020</crossref>
+<url>db/conf/www/www2020.html#0005QQCGZCC20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-00571" mdate="2022-01-25">
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="132/3541">Minghui Qiu</author>
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="152/6215">Cen Chen</author>
+<author pid="02/146">Jiafeng Guo</author>
+<author pid="82/7829">Yongfeng Zhang</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="34/6243">Haiqing Chen</author>
+<title>IART: Intent-aware Response Ranking with Transformers in Information-seeking Conversation Systems.</title>
+<year>2020</year>
+<volume>abs/2002.00571</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.00571</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-00571</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-12297" mdate="2023-02-23">
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="76/4874-1">Mingyang Zhang 0001</author>
+<author pid="16/6465-12">Cheng Li 0012</author>
+<author pid="80/4305">Michael Bendersky</author>
+<author orcid="0000-0003-1423-0854" pid="n/MarcNajork">Marc Najork</author>
+<title>Beyond 512 Tokens: Siamese Multi-depth Transformer-based Hierarchical Encoder for Document Matching.</title>
+<year>2020</year>
+<volume>abs/2004.12297</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.12297</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-12297</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-11364" mdate="2022-01-25">
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="152/6215">Cen Chen</author>
+<author pid="132/3541">Minghui Qiu</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="148/9178">Mohit Iyyer</author>
+<title>Open-Retrieval Conversational Question Answering.</title>
+<year>2020</year>
+<volume>abs/2005.11364</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.11364</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-11364</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-11719" mdate="2022-12-07">
+<author pid="19/1067">Zizhen Wang</author>
+<author pid="188/2160">Yixing Fan</author>
+<author pid="02/146">Jiafeng Guo</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="203/8270-1">Ruqing Zhang 0001</author>
+<author pid="00/6040">Yanyan Lan</author>
+<author pid="44/912">Xueqi Cheng</author>
+<author pid="64/3246">Hui Jiang</author>
+<author pid="09/8705">Xiaozhao Wang</author>
+<title>Match<sup>2</sup>: A Matching over Matching Model for Similar Question Identification.</title>
+<year>2020</year>
+<volume>abs/2006.11719</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.11719</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-11719</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-12771" mdate="2021-02-10">
+<author pid="230/3561">Haojie Pan</author>
+<author pid="152/6215">Cen Chen</author>
+<author pid="132/3541">Minghui Qiu</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="50/6349">Feng Ji</author>
+<author pid="51/5022-7">Jun Huang 0007</author>
+<author pid="34/6243">Haiqing Chen</author>
+<title>Learning to Expand: Reinforced Pseudo-relevance Feedback Selection for Information-seeking Conversations.</title>
+<year>2020</year>
+<volume>abs/2011.12771</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.12771</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-12771</url>
+</article>
+</r>
+<r><inproceedings key="conf/chiir/Qu0CZTQ19" mdate="2022-01-25">
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="82/7829">Yongfeng Zhang</author>
+<author orcid="0000-0002-7801-0239" pid="166/2953">Johanne R. Trippas</author>
+<author pid="132/3541">Minghui Qiu</author>
+<title>User Intent Prediction in Information-seeking Conversations.</title>
+<pages>25-33</pages>
+<year>2019</year>
+<booktitle>CHIIR</booktitle>
+<ee>https://doi.org/10.1145/3295750.3298924</ee>
+<crossref>conf/chiir/2019</crossref>
+<url>db/conf/chiir/chiir2019.html#Qu0CZTQ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chiir/Qu0CSZ19" mdate="2022-01-25">
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="98/1631">Falk Scholer</author>
+<author pid="82/7829">Yongfeng Zhang</author>
+<title>Answer Interaction in Non-factoid Question Answering Systems.</title>
+<pages>249-253</pages>
+<year>2019</year>
+<booktitle>CHIIR</booktitle>
+<ee>https://doi.org/10.1145/3295750.3298946</ee>
+<crossref>conf/chiir/2019</crossref>
+<url>db/conf/chiir/chiir2019.html#Qu0CSZ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/0005HQQGCLSL19" mdate="2024-04-11">
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="123/0773-1">Junjie Hu 0001</author>
+<author pid="132/3541">Minghui Qiu</author>
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="92/5339">Jianfeng Gao 0001</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="65/622-3">Xiaodong Liu 0003</author>
+<author pid="37/9376">Yelong Shen</author>
+<author pid="30/3008-1">Jingjing Liu 0001</author>
+<title>A Hybrid Retrieval-Generation Neural Conversation Model.</title>
+<pages>1341-1350</pages>
+<year>2019</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3357384.3357881</ee>
+<crossref>conf/cikm/2019</crossref>
+<url>db/conf/cikm/cikm2019.html#0005HQQGCLSL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/QuYQZCCI19" mdate="2022-01-25">
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="132/3541">Minghui Qiu</author>
+<author pid="82/7829">Yongfeng Zhang</author>
+<author pid="152/6215">Cen Chen</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="148/9178">Mohit Iyyer</author>
+<title>Attentive History Selection for Conversational Question Answering.</title>
+<pages>1391-1400</pages>
+<year>2019</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3357384.3357905</ee>
+<crossref>conf/cikm/2019</crossref>
+<url>db/conf/cikm/cikm2019.html#QuYQZCCI19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictir/SarwarFYA19" mdate="2023-03-10">
+<author pid="98/11239">Sheikh Muhammad Sarwar</author>
+<author pid="26/8735">John Foley</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="10/4537">James Allan</author>
+<title>Sentence Retrieval for Entity List Extraction with a Seed, Context, and Topic.</title>
+<pages>209-212</pages>
+<year>2019</year>
+<booktitle>ICTIR</booktitle>
+<ee>https://doi.org/10.1145/3341981.3344250</ee>
+<crossref>conf/ictir/2019</crossref>
+<url>db/conf/ictir/ictir2019.html#SarwarFYA19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/Qu0QCZI19" mdate="2022-01-25">
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="132/3541">Minghui Qiu</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="82/7829">Yongfeng Zhang</author>
+<author pid="148/9178">Mohit Iyyer</author>
+<title>BERT with History Answer Embedding for Conversational Question Answering.</title>
+<pages>1133-1136</pages>
+<year>2019</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3331184.3331341</ee>
+<crossref>conf/sigir/2019</crossref>
+<url>db/conf/sigir/sigir2019.html#Qu0QCZI19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/QuJQYMCHC19" mdate="2022-01-25">
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="50/6349">Feng Ji</author>
+<author pid="132/3541">Minghui Qiu</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="183/8937">Zhiyu Min</author>
+<author pid="34/6243">Haiqing Chen</author>
+<author pid="51/5022-7">Jun Huang 0007</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<title>Learning to Selectively Transfer: Reinforced Transfer Learning for Deep Text Matching.</title>
+<pages>699-707</pages>
+<year>2019</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/3289600.3290978</ee>
+<crossref>conf/wsdm/2019</crossref>
+<url>db/conf/wsdm/wsdm2019.html#QuJQYMCHC19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-03489" mdate="2022-01-25">
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="82/7829">Yongfeng Zhang</author>
+<author pid="166/2953">Johanne R. Trippas</author>
+<author pid="132/3541">Minghui Qiu</author>
+<title>User Intent Prediction in Information-seeking Conversations.</title>
+<year>2019</year>
+<volume>abs/1901.03489</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.03489</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-03489</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-03491" mdate="2022-01-25">
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="98/1631">Falk Scholer</author>
+<author pid="82/7829">Yongfeng Zhang</author>
+<title>Answer Interaction in Non-factoid Question Answering Systems.</title>
+<year>2019</year>
+<volume>abs/1901.03491</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.03491</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-03491</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-06902" mdate="2019-04-01">
+<author pid="02/146">Jiafeng Guo</author>
+<author pid="188/2160">Yixing Fan</author>
+<author pid="37/11078">Liang Pang</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="169/1808">Qingyao Ai</author>
+<author pid="150/5324">Hamed Zamani</author>
+<author pid="78/3213">Chen Wu</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="44/912">Xueqi Cheng</author>
+<title>A Deep Look into Neural Ranking Models for Information Retrieval.</title>
+<year>2019</year>
+<volume>abs/1903.06902</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.06902</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-06902</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-09068" mdate="2024-04-11">
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="123/0773-1">Junjie Hu 0001</author>
+<author pid="132/3541">Minghui Qiu</author>
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="92/5339">Jianfeng Gao 0001</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="65/622-3">Xiaodong Liu 0003</author>
+<author pid="37/9376">Yelong Shen</author>
+<author pid="30/3008-1">Jingjing Liu 0001</author>
+<title>A Hybrid Retrieval-Generation Neural Conversation Model.</title>
+<year>2019</year>
+<volume>abs/1904.09068</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.09068</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-09068</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-05412" mdate="2022-01-25">
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="132/3541">Minghui Qiu</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="82/7829">Yongfeng Zhang</author>
+<author pid="148/9178">Mohit Iyyer</author>
+<title>BERT with History Answer Embedding for Conversational Question Answering.</title>
+<year>2019</year>
+<volume>abs/1905.05412</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.05412</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-05412</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-09456" mdate="2022-01-25">
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="132/3541">Minghui Qiu</author>
+<author pid="82/7829">Yongfeng Zhang</author>
+<author pid="152/6215">Cen Chen</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="148/9178">Mohit Iyyer</author>
+<title>Attentive History Selection for Conversational Question Answering.</title>
+<year>2019</year>
+<volume>abs/1908.09456</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.09456</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-09456</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/QiuYJZHCCL18" mdate="2021-08-06">
+<author pid="132/3541">Minghui Qiu</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="50/6349">Feng Ji</author>
+<author pid="69/5011">Wei Zhou</author>
+<author pid="51/5022-7">Jun Huang 0007</author>
+<author pid="34/6243">Haiqing Chen</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="99/2649-16">Wei Lin 0016</author>
+<title>Transfer Learning for Context-Aware Question Matching in Information-seeking Conversations in E-commerce.</title>
+<pages>208-213</pages>
+<year>2018</year>
+<booktitle>ACL (2)</booktitle>
+<ee type="oa">https://aclanthology.org/P18-2034/</ee>
+<ee type="oa">https://doi.org/10.18653/v1/P18-2034</ee>
+<crossref>conf/acl/2018-2</crossref>
+<url>db/conf/acl/acl2018-2.html#QiuYJZHCCL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/ZhangCA0C18" mdate="2020-10-25">
+<author pid="82/7829">Yongfeng Zhang</author>
+<author pid="83/6331-17">Xu Chen 0017</author>
+<author orcid="0000-0002-5030-709X" pid="169/1808">Qingyao Ai</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<title>Towards Conversational Search and Recommendation: System Ask, User Respond.</title>
+<pages>177-186</pages>
+<year>2018</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3269206.3271776</ee>
+<crossref>conf/cikm/2018</crossref>
+<url>db/conf/cikm/cikm2018.html#ZhangCA0C18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/YangQQGZCHC18" mdate="2022-01-25">
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="132/3541">Minghui Qiu</author>
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="02/146">Jiafeng Guo</author>
+<author pid="82/7829">Yongfeng Zhang</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="51/5022-7">Jun Huang 0007</author>
+<author pid="34/6243">Haiqing Chen</author>
+<title>Response Ranking with Deep Matching Networks and External Knowledge in Information-seeking Conversation Systems.</title>
+<pages>245-254</pages>
+<year>2018</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3209978.3210011</ee>
+<crossref>conf/sigir/2018</crossref>
+<url>db/conf/sigir/sigir2018.html#YangQQGZCHC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/QuYCTZQ18" mdate="2022-01-25">
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author orcid="0000-0002-7801-0239" pid="166/2953">Johanne R. Trippas</author>
+<author pid="82/7829">Yongfeng Zhang</author>
+<author pid="132/3541">Minghui Qiu</author>
+<title>Analyzing and Characterizing User Intent in Information-seeking Conversations.</title>
+<pages>989-992</pages>
+<year>2018</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3209978.3210124</ee>
+<crossref>conf/sigir/2018</crossref>
+<url>db/conf/sigir/sigir2018.html#QuYCTZQ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/CohenYC18" mdate="2018-11-21">
+<author pid="85/2738">Daniel Cohen</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<title>WikiPassageQA: A Benchmark Collection for Research on Non-factoid Answer Passage Retrieval.</title>
+<pages>1165-1168</pages>
+<year>2018</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3209978.3210118</ee>
+<crossref>conf/sigir/2018</crossref>
+<url>db/conf/sigir/sigir2018.html#CohenYC18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-01641" mdate="2018-08-26">
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="169/1808">Qingyao Ai</author>
+<author pid="02/146">Jiafeng Guo</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<title>aNMM: Ranking Short Answer Texts with Attention-Based Neural Matching Model.</title>
+<year>2018</year>
+<volume>abs/1801.01641</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.01641</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-01641</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-08759" mdate="2023-09-30">
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author orcid="0000-0002-7801-0239" pid="166/2953">Johanne R. Trippas</author>
+<author pid="82/7829">Yongfeng Zhang</author>
+<author pid="132/3541">Minghui Qiu</author>
+<title>Analyzing and Characterizing User Intent in Information-seeking Conversations.</title>
+<year>2018</year>
+<volume>abs/1804.08759</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.08759</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-08759</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-00188" mdate="2022-01-25">
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="132/3541">Minghui Qiu</author>
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="02/146">Jiafeng Guo</author>
+<author pid="82/7829">Yongfeng Zhang</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="51/5022-7">Jun Huang 0007</author>
+<author pid="34/6243">Haiqing Chen</author>
+<title>Response Ranking with Deep Matching Networks and External Knowledge in Information-seeking Conversation Systems.</title>
+<year>2018</year>
+<volume>abs/1805.00188</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.00188</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-00188</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-03797" mdate="2018-08-26">
+<author pid="85/2738">Daniel Cohen</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<title>WikiPassageQA: A Benchmark Collection for Research on Non-factoid Answer Passage Retrieval.</title>
+<year>2018</year>
+<volume>abs/1805.03797</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.03797</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-03797</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-05434" mdate="2020-10-08">
+<author pid="132/3541">Minghui Qiu</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="50/6349">Feng Ji</author>
+<author pid="203/9497">Weipeng Zhao</author>
+<author pid="69/5011">Wei Zhou</author>
+<author pid="51/5022-7">Jun Huang 0007</author>
+<author pid="34/6243">Haiqing Chen</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="99/2649-16">Wei Lin 0016</author>
+<title>Transfer Learning for Context-Aware Question Matching in Information-seeking Conversations in E-commerce.</title>
+<year>2018</year>
+<volume>abs/1806.05434</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.05434</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-05434</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-11561" mdate="2022-01-25">
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="50/6349">Feng Ji</author>
+<author pid="132/3541">Minghui Qiu</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="183/8937">Zhiyu Min</author>
+<author pid="34/6243">Haiqing Chen</author>
+<author pid="51/5022-7">Jun Huang 0007</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<title>Learning to Selectively Transfer: Reinforced Transfer Learning for Deep Text Matching.</title>
+<year>2018</year>
+<volume>abs/1812.11561</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.11561</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-11561</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigir/0019DBA17" mdate="2018-11-06">
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="d/SusanTDumais">Susan T. Dumais</author>
+<author pid="33/6188">Paul N. Bennett</author>
+<author pid="147/9148">Ahmed Hassan Awadallah</author>
+<title>Characterizing and Predicting Enterprise Email Reply Behavior.</title>
+<pages>235-244</pages>
+<year>2017</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3077136.3080782</ee>
+<crossref>conf/sigir/2017</crossref>
+<url>db/conf/sigir/sigir2017.html#0019DBA17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/YangZZGC17" mdate="2018-08-26">
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="150/5324">Hamed Zamani</author>
+<author pid="82/7829">Yongfeng Zhang</author>
+<author pid="02/146">Jiafeng Guo</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<title>Neural Matching Models for Question Retrieval and Next Question Prediction in Conversation.</title>
+<year>2017</year>
+<volume>abs/1707.05409</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1707.05409</ee>
+<url>db/journals/corr/corr1707.html#YangZZGC17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/YangAGC16" mdate="2020-10-25">
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author orcid="0000-0002-5030-709X" pid="169/1808">Qingyao Ai</author>
+<author pid="02/146">Jiafeng Guo</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<title>aNMM: Ranking Short Answer Texts with Attention-Based Neural Matching Model.</title>
+<pages>287-296</pages>
+<year>2016</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2983323.2983818</ee>
+<crossref>conf/cikm/2016</crossref>
+<url>db/conf/cikm/cikm2016.html#YangAGC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/YangASCPCGS16" mdate="2020-10-25">
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author orcid="0000-0002-5030-709X" pid="169/1808">Qingyao Ai</author>
+<author orcid="0000-0001-9913-433X" pid="74/2824">Damiano Spina</author>
+<author pid="76/2484">Ruey-Cheng Chen</author>
+<author pid="37/11078">Liang Pang</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="02/146">Jiafeng Guo</author>
+<author orcid="0000-0001-9094-0810" pid="98/1631">Falk Scholer</author>
+<title>Beyond Factoid QA: Effective Methods for Non-factoid Answer Sentence Retrieval.</title>
+<pages>115-128</pages>
+<year>2016</year>
+<booktitle>ECIR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-30671-1_9</ee>
+<ee>https://www.wikidata.org/entity/Q57583494</ee>
+<crossref>conf/ecir/2016</crossref>
+<url>db/conf/ecir/ecir2016.html#YangASCPCGS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/YangGSMSMC16" mdate="2020-09-08">
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="67/398">Qi Guo</author>
+<author pid="24/4470-8">Yang Song 0008</author>
+<author pid="96/5562">Sha Meng</author>
+<author pid="42/1645">Milad Shokouhi</author>
+<author pid="73/4450">Kieran McDonald</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<title>Modeling User Interests for Zero-Query Ranking.</title>
+<pages>171-184</pages>
+<year>2016</year>
+<booktitle>ECIR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-30671-1_13</ee>
+<crossref>conf/ecir/2016</crossref>
+<url>db/conf/ecir/ecir2016.html#YangGSMSMC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictir/AiYGC16" mdate="2020-10-25">
+<author orcid="0000-0002-5030-709X" pid="169/1808">Qingyao Ai</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="02/146">Jiafeng Guo</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<title>Analysis of the Paragraph Vector Model for Information Retrieval.</title>
+<pages>133-142</pages>
+<year>2016</year>
+<booktitle>ICTIR</booktitle>
+<ee>https://doi.org/10.1145/2970398.2970409</ee>
+<crossref>conf/ictir/2016</crossref>
+<url>db/conf/ictir/ictir2016.html#AiYGC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/AiYGC16" mdate="2020-10-25">
+<author orcid="0000-0002-5030-709X" pid="169/1808">Qingyao Ai</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="02/146">Jiafeng Guo</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<title>Improving Language Estimation with the Paragraph Vector Model for Ad-hoc Retrieval.</title>
+<pages>869-872</pages>
+<year>2016</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2911451.2914688</ee>
+<crossref>conf/sigir/2016</crossref>
+<url>db/conf/sigir/sigir2016.html#AiYGC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coling/YangJHQL14" mdate="2021-08-06">
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="68/1974-1">Jing Jiang 0001</author>
+<author pid="127/0072">Lifu Huang</author>
+<author pid="132/3541">Minghui Qiu</author>
+<author pid="149/1249">Lizi Liao</author>
+<title>Generating Supplementary Travel Guides from Social Media.</title>
+<pages>1670-1681</pages>
+<year>2014</year>
+<booktitle>COLING</booktitle>
+<ee type="oa">https://aclanthology.org/C14-1158/</ee>
+<crossref>conf/coling/2014</crossref>
+<url>db/conf/coling/coling2014.html#YangJHQL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/DuJYSL14" mdate="2023-03-24">
+<author pid="142/2266">Jianguang Du</author>
+<author pid="68/1974-1">Jing Jiang 0001</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="60/5451">Dandan Song</author>
+<author pid="16/3137">Lejian Liao</author>
+<title>Shell Miner: Mining Organizational Phrases in Argumentative Texts in Social Media.</title>
+<pages>797-802</pages>
+<year>2014</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2014.98</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDM.2014.98</ee>
+<crossref>conf/icdm/2014</crossref>
+<url>db/conf/icdm/icdm2014.html#DuJYSL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pakdd/GottipatiQYZJ14" mdate="2019-11-14">
+<author pid="02/10297">Swapna Gottipati</author>
+<author pid="132/3541">Minghui Qiu</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author orcid="0000-0001-6077-4356" pid="77/1985">Feida Zhu 0001</author>
+<author pid="68/1974-1">Jing Jiang 0001</author>
+<title>An Integrated Model for User Attribute Discovery: A Case Study on Political Affiliation Identification.</title>
+<pages>434-446</pages>
+<year>2014</year>
+<booktitle>PAKDD (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-06608-0_36</ee>
+<crossref>conf/pakdd/2014-1</crossref>
+<url>db/conf/pakdd/pakdd2014-1.html#GottipatiQYZJ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/YangQGZJSC13" mdate="2019-11-14">
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="132/3541">Minghui Qiu</author>
+<author pid="02/10297">Swapna Gottipati</author>
+<author orcid="0000-0001-6077-4356" pid="77/1985">Feida Zhu 0001</author>
+<author pid="68/1974-1">Jing Jiang 0001</author>
+<author pid="21/2520">Huiping Sun</author>
+<author pid="70/2509-1">Zhong Chen 0001</author>
+<title>CQArank: jointly model topics and expertise in community question answering.</title>
+<pages>99-108</pages>
+<year>2013</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2505515.2505720</ee>
+<crossref>conf/cikm/2013</crossref>
+<url>db/conf/cikm/cikm2013.html#YangQGZJSC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/QiuYJ13" mdate="2019-02-13">
+<author pid="132/3541">Minghui Qiu</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="68/1974-1">Jing Jiang 0001</author>
+<title>Modeling interaction features for debate side clustering.</title>
+<pages>873-878</pages>
+<year>2013</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2505515.2505634</ee>
+<crossref>conf/cikm/2013</crossref>
+<url>db/conf/cikm/cikm2013.html#QiuYJ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/QiuYJ13" mdate="2021-08-06">
+<author pid="132/3541">Minghui Qiu</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="68/1974-1">Jing Jiang 0001</author>
+<title>Mining User Relations from Online Discussions using Sentiment Analysis and Probabilistic Matrix Factorization.</title>
+<pages>401-410</pages>
+<year>2013</year>
+<booktitle>HLT-NAACL</booktitle>
+<ee type="oa">https://aclanthology.org/N13-1041/</ee>
+<crossref>conf/naacl/2013</crossref>
+<url>db/conf/naacl/naacl2013.html#QiuYJ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socinfo/GottipatiQYZJ13" mdate="2019-11-14">
+<author pid="02/10297">Swapna Gottipati</author>
+<author pid="132/3541">Minghui Qiu</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author orcid="0000-0001-6077-4356" pid="77/1985">Feida Zhu 0001</author>
+<author pid="68/1974-1">Jing Jiang 0001</author>
+<title>Predicting User's Political Party Using Ideological Stances.</title>
+<pages>177-191</pages>
+<year>2013</year>
+<booktitle>SocInfo</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-03260-3_16</ee>
+<crossref>conf/socinfo/2013</crossref>
+<url>db/conf/socinfo/socinfo2013.html#GottipatiQYZJ13</url>
+</inproceedings>
+</r>
+<coauthors n="65" nc="1">
+<co c="0"><na f="a/Ai:Qingyao" pid="169/1808">Qingyao Ai</na></co>
+<co c="0"><na f="a/Allan:James" pid="10/4537">James Allan</na></co>
+<co c="0" n="2"><na f="a/Awadallah_0001:Ahmed" pid="147/9148">Ahmed Awadallah 0001</na><na>Ahmed Hassan Awadallah</na></co>
+<co c="0"><na f="b/Bendersky:Michael" pid="80/4305">Michael Bendersky</na></co>
+<co c="0"><na f="b/Bennett:Paul_N=" pid="33/6188">Paul N. Bennett</na></co>
+<co c="0"><na f="c/Chen:Cen" pid="152/6215">Cen Chen</na></co>
+<co c="0"><na f="c/Chen:Haiqing" pid="34/6243">Haiqing Chen</na></co>
+<co c="0"><na f="c/Chen:Ruey=Cheng" pid="76/2484">Ruey-Cheng Chen</na></co>
+<co c="0"><na f="c/Chen_0017:Xu" pid="83/6331-17">Xu Chen 0017</na></co>
+<co c="0"><na f="c/Chen_0001:Zhong" pid="70/2509-1">Zhong Chen 0001</na></co>
+<co c="0"><na f="c/Cheng:Xueqi" pid="44/912">Xueqi Cheng</na></co>
+<co c="0"><na f="c/Cohen:Daniel" pid="85/2738">Daniel Cohen</na></co>
+<co c="0"><na f="c/Croft:W=_Bruce" pid="c/WBruceCroft">W. Bruce Croft</na></co>
+<co c="0"><na f="d/Du:Jianguang" pid="142/2266">Jianguang Du</na></co>
+<co c="0"><na f="d/Dumais:Susan_T=" pid="d/SusanTDumais">Susan T. Dumais</na></co>
+<co c="0"><na f="f/Fan:Yixing" pid="188/2160">Yixing Fan</na></co>
+<co c="0"><na f="f/Foley:John" pid="26/8735">John Foley</na></co>
+<co c="0"><na f="g/Gao_0001:Jianfeng" pid="92/5339">Jianfeng Gao 0001</na></co>
+<co c="0"><na f="g/Gottipati:Swapna" pid="02/10297">Swapna Gottipati</na></co>
+<co c="0"><na f="g/Guo:Jiafeng" pid="02/146">Jiafeng Guo</na></co>
+<co c="0"><na f="g/Guo:Qi" pid="67/398">Qi Guo</na></co>
+<co c="0"><na f="h/Hu_0001:Junjie" pid="123/0773-1">Junjie Hu 0001</na></co>
+<co c="0"><na f="h/Huang_0007:Jun" pid="51/5022-7">Jun Huang 0007</na></co>
+<co c="0"><na f="h/Huang:Lifu" pid="127/0072">Lifu Huang</na></co>
+<co c="0"><na f="i/Iyyer:Mohit" pid="148/9178">Mohit Iyyer</na></co>
+<co c="0"><na f="j/Ji:Feng" pid="50/6349">Feng Ji</na></co>
+<co c="0"><na f="j/Jiang:Hui" pid="64/3246">Hui Jiang</na></co>
+<co c="0"><na f="j/Jiang_0001:Jing" pid="68/1974-1">Jing Jiang 0001</na></co>
+<co c="0"><na f="k/Kong:Weize" pid="49/8024">Weize Kong</na></co>
+<co c="0"><na f="k/Krishna:Kalpesh" pid="207/8485">Kalpesh Krishna</na></co>
+<co c="0"><na f="l/Lan:Yanyan" pid="00/6040">Yanyan Lan</na></co>
+<co c="0"><na f="l/Learned=Miller:Erik_G=" pid="l/ErikGLearnedMiller">Erik G. Learned-Miller</na></co>
+<co c="0"><na f="l/Li_0012:Cheng" pid="16/6465-12">Cheng Li 0012</na></co>
+<co c="0"><na f="l/Liao:Lejian" pid="16/3137">Lejian Liao</na></co>
+<co c="0"><na f="l/Liao:Lizi" pid="149/1249">Lizi Liao</na></co>
+<co c="0"><na f="l/Lin_0016:Wei" pid="99/2649-16">Wei Lin 0016</na></co>
+<co c="0"><na f="l/Liu_0001:Jingjing" pid="30/3008-1">Jingjing Liu 0001</na></co>
+<co c="0"><na f="l/Liu_0003:Xiaodong" pid="65/622-3">Xiaodong Liu 0003</na></co>
+<co c="0"><na f="m/McDonald:Kieran" pid="73/4450">Kieran McDonald</na></co>
+<co c="0"><na f="m/Meng:Sha" pid="96/5562">Sha Meng</na></co>
+<co c="0"><na f="m/Min:Zhiyu" pid="183/8937">Zhiyu Min</na></co>
+<co c="0"><na f="n/Najork:Marc" pid="n/MarcNajork">Marc Najork</na></co>
+<co c="0"><na f="p/Pan:Haojie" pid="230/3561">Haojie Pan</na></co>
+<co c="0"><na f="p/Pang:Liang" pid="37/11078">Liang Pang</na></co>
+<co c="0"><na f="q/Qiu:Minghui" pid="132/3541">Minghui Qiu</na></co>
+<co c="0"><na f="q/Qu_0001:Chen" pid="148/7268-1">Chen Qu 0001</na></co>
+<co c="0"><na f="s/Sarwar:Sheikh_Muhammad" pid="98/11239">Sheikh Muhammad Sarwar</na></co>
+<co c="0"><na f="s/Scholer:Falk" pid="98/1631">Falk Scholer</na></co>
+<co c="0"><na f="s/Shen:Yelong" pid="37/9376">Yelong Shen</na></co>
+<co c="0"><na f="s/Shokouhi:Milad" pid="42/1645">Milad Shokouhi</na></co>
+<co c="0"><na f="s/Song:Dandan" pid="60/5451">Dandan Song</na></co>
+<co c="0"><na f="s/Song_0008:Yang" pid="24/4470-8">Yang Song 0008</na></co>
+<co c="0"><na f="s/Spina:Damiano" pid="74/2824">Damiano Spina</na></co>
+<co c="0"><na f="s/Sun:Huiping" pid="21/2520">Huiping Sun</na></co>
+<co c="0"><na f="t/Trippas:Johanne_R=" pid="166/2953">Johanne R. Trippas</na></co>
+<co c="0"><na f="w/Wang:Xiaozhao" pid="09/8705">Xiaozhao Wang</na></co>
+<co c="0"><na f="w/Wang:Zizhen" pid="19/1067">Zizhen Wang</na></co>
+<co c="0"><na f="w/Wu:Chen" pid="78/3213">Chen Wu</na></co>
+<co c="0"><na f="z/Zamani:Hamed" pid="150/5324">Hamed Zamani</na></co>
+<co c="0"><na f="z/Zhang_0001:Mingyang" pid="76/4874-1">Mingyang Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang_0001:Ruqing" pid="203/8270-1">Ruqing Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Yongfeng" pid="82/7829">Yongfeng Zhang</na></co>
+<co c="0"><na f="z/Zhao:Weipeng" pid="203/9497">Weipeng Zhao</na></co>
+<co c="0"><na f="z/Zhou:Wei" pid="69/5011">Wei Zhou</na></co>
+<co c="0"><na f="z/Zhu_0001:Feida" pid="77/1985">Feida Zhu 0001</na></co>
+</coauthors>
+</dblpperson>

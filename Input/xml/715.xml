@@ -1,0 +1,271 @@
+<dblpperson name="Rebecca Taft" pid="147/1198" n="13">
+<person key="homepages/147/1198" mdate="2023-02-18">
+<author pid="147/1198">Rebecca Taft</author>
+<author pid="147/1198">Becca Taft</author>
+<url>https://rytaft.github.io/</url>
+<url>http://people.csail.mit.edu/rytaft/</url>
+<note type="affiliation">Cockroach Labs</note>
+<note type="affiliation" label="former">MIT</note>
+</person>
+<r><article key="journals/pvldb/AjmaniSSSTTV22" mdate="2023-10-23">
+<author pid="322/1413">Arul Ajmani</author>
+<author pid="280/0890">Aayush Shah</author>
+<author pid="s/AlexanderShraer">Alexander Shraer</author>
+<author pid="322/1505">Adam Storm</author>
+<author pid="147/1198">Rebecca Taft</author>
+<author pid="46/7898">Oliver Tan</author>
+<author pid="266/5858">Nathan VanBenschoten</author>
+<title>A Demonstration of Multi-Region CockroachDB.</title>
+<pages>3610-3613</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p3610-taft.pdf</ee>
+<ee>https://doi.org/10.14778/3554821.3554856</ee>
+<url>db/journals/pvldb/pvldb15.html#AjmaniSSSTTV22</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/VanBenschotenAG22" mdate="2022-06-14">
+<author pid="266/5858">Nathan VanBenschoten</author>
+<author pid="322/1413">Arul Ajmani</author>
+<author pid="322/1640">Marcus Gartner</author>
+<author pid="266/5861">Andrei Matei</author>
+<author pid="280/0890">Aayush Shah</author>
+<author pid="266/5756">Irfan Sharif</author>
+<author pid="s/AlexanderShraer">Alexander Shraer</author>
+<author pid="322/1505">Adam Storm</author>
+<author pid="147/1198">Rebecca Taft</author>
+<author pid="46/7898">Oliver Tan</author>
+<author pid="31/7965">Andy Woods</author>
+<author pid="322/1567">Peyton Walters</author>
+<title>Enabling the Next Generation of Multi-Region Applications with CockroachDB.</title>
+<pages>2312-2325</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3526053</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#VanBenschotenAG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/TaftSMVLGNWBPBR20" mdate="2020-06-05">
+<author pid="147/1198">Rebecca Taft</author>
+<author pid="266/5756">Irfan Sharif</author>
+<author pid="266/5861">Andrei Matei</author>
+<author pid="266/5858">Nathan VanBenschoten</author>
+<author pid="266/5992">Jordan Lewis</author>
+<author pid="266/6047">Tobias Grieger</author>
+<author pid="266/5945">Kai Niemi</author>
+<author pid="31/7965">Andy Woods</author>
+<author pid="266/5746">Anne Birzin</author>
+<author pid="15/5377">Raphael Poss</author>
+<author pid="252/4309">Paul Bardea</author>
+<author pid="190/0064">Amruta Ranade</author>
+<author pid="266/5947">Ben Darnell</author>
+<author pid="266/5786">Bram Gruneir</author>
+<author pid="266/6073">Justin Jaffray</author>
+<author pid="127/3438">Lucy Zhang</author>
+<author pid="266/5768">Peter Mattis</author>
+<title>CockroachDB: The Resilient Geo-Distributed SQL Database.</title>
+<pages>1493-1509</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3386134</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#TaftSMVLGNWBPBR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/Taft19" mdate="2020-03-12">
+<author pid="147/1198">Rebecca Taft</author>
+<title>Making Neural Network Optimizers Practical.</title>
+<year>2019</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2019/gongshow/abstracts/cidr2019_43.pdf</ee>
+<crossref>conf/cidr/2019</crossref>
+<url>db/conf/cidr/cidr2019.html#Taft19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/TaftESLASMA18" mdate="2023-09-30">
+<author pid="147/1198">Rebecca Taft</author>
+<author pid="28/8503">Nosayba El-Sayed</author>
+<author pid="02/6087">Marco Serafini</author>
+<author pid="09/2321">Yu Lu</author>
+<author orcid="0000-0001-6693-7099" pid="01/3996">Ashraf Aboulnaga</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="219/9673">Ricardo Mayerhofer</author>
+<author pid="228/4818">Francisco Jose Andrade</author>
+<title>P-Store: An Elastic Database System with Predictive Provisioning.</title>
+<pages>205-219</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3190650</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#TaftESLASMA18</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ndltd/Taft17" mdate="2022-05-04">
+<author pid="147/1198">Rebecca Taft</author>
+<title>Elastic database systems.</title>
+<year>2017</year>
+<school>Massachusetts Institute of Technology, Cambridge, USA</school>
+<ee>https://hdl.handle.net/1721.1/113989</ee>
+<note type="source">ndltd.org (oai:dspace.mit.edu:1721.1/113989)</note>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/cidr/Taft17" mdate="2017-01-04">
+<author pid="147/1198">Becca Taft</author>
+<title>Predictive Provisioning: A Progress Report.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#Taft17</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/SerafiniTEPAS16" mdate="2023-09-30">
+<author pid="02/6087">Marco Serafini</author>
+<author pid="147/1198">Rebecca Taft</author>
+<author orcid="0000-0002-4062-8826" pid="75/9436">Aaron J. Elmore</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author orcid="0000-0001-6693-7099" pid="01/3996">Ashraf Aboulnaga</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>Clay: Fine-Grained Adaptive Partitioning for General Database Schemas.</title>
+<pages>445-456</pages>
+<year>2016</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p445-serafini.pdf</ee>
+<ee>https://doi.org/10.14778/3025111.3025125</ee>
+<url>db/journals/pvldb/pvldb10.html#SerafiniTEPAS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/cloud/TaftLDESD16" mdate="2023-09-30">
+<author pid="147/1198">Rebecca Taft</author>
+<author pid="89/6325">Willis Lang</author>
+<author orcid="0000-0002-4218-8502" pid="43/2286">Jennie Duggan</author>
+<author orcid="0000-0002-4062-8826" pid="75/9436">Aaron J. Elmore</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<title>STeP: Scalable Tenant Placement for Managing Database-as-a-Service Deployments.</title>
+<pages>388-400</pages>
+<year>2016</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/2987550.2987575</ee>
+<crossref>conf/cloud/2016</crossref>
+<url>db/conf/cloud/socc2016.html#TaftLDESD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ElmoreATPAA15" mdate="2023-09-30">
+<author orcid="0000-0002-4062-8826" pid="75/9436">Aaron J. Elmore</author>
+<author pid="125/2926">Vaibhav Arora</author>
+<author pid="147/1198">Rebecca Taft</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="a/DivyakantAgrawal">Divyakant Agrawal</author>
+<author pid="a/AmrElAbbadi">Amr El Abbadi</author>
+<title>Squall: Fine-Grained Live Reconfiguration for Partitioned Main Memory Databases.</title>
+<pages>299-313</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2723726</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#ElmoreATPAA15</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/TaftMSDEAPS14" mdate="2023-09-30">
+<author pid="147/1198">Rebecca Taft</author>
+<author pid="m/EssamMansour">Essam Mansour 0001</author>
+<author pid="02/6087">Marco Serafini</author>
+<author orcid="0000-0002-4218-8502" pid="43/2286">Jennie Duggan</author>
+<author orcid="0000-0002-4062-8826" pid="75/9436">Aaron J. Elmore</author>
+<author orcid="0000-0001-6693-7099" pid="01/3996">Ashraf Aboulnaga</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>E-Store: Fine-Grained Elastic Partitioning for Distributed Transaction Processing.</title>
+<pages>245-256</pages>
+<year>2014</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p245-taft.pdf</ee>
+<ee>https://doi.org/10.14778/2735508.2735514</ee>
+<url>db/journals/pvldb/pvldb8.html#TaftMSDEAPS14</url>
+</article>
+</r>
+<r><inproceedings key="conf/ic2e/StonebrakerPTB14" mdate="2023-03-23">
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="58/4127">Andrew Pavlo</author>
+<author pid="147/1198">Rebecca Taft</author>
+<author pid="95/3763">Michael L. Brodie</author>
+<title>Enterprise Database Applications and the Cloud: A Difficult Road Ahead.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>IC2E</booktitle>
+<ee>https://doi.org/10.1109/IC2E.2014.97</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IC2E.2014.97</ee>
+<crossref>conf/ic2e/2014</crossref>
+<url>db/conf/ic2e/ic2e2014.html#StonebrakerPTB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/TaftVSSMS14" mdate="2023-08-08">
+<author pid="147/1198">Rebecca Taft</author>
+<author pid="25/7592">Manasi Vartak</author>
+<author pid="29/1091">Nadathur Rajagopalan Satish</author>
+<author pid="30/3638">Narayanan Sundaram</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>GenBase: a complex analytics genomics benchmark.</title>
+<pages>177-188</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2595633</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#TaftVSSMS14</url>
+</inproceedings>
+</r>
+<coauthors n="44" nc="1">
+<co c="0"><na f="a/Abbadi:Amr_El" pid="a/AmrElAbbadi">Amr El Abbadi</na></co>
+<co c="0"><na f="a/Aboulnaga:Ashraf" pid="01/3996">Ashraf Aboulnaga</na></co>
+<co c="0"><na f="a/Agrawal:Divyakant" pid="a/DivyakantAgrawal">Divyakant Agrawal</na></co>
+<co c="0"><na f="a/Ajmani:Arul" pid="322/1413">Arul Ajmani</na></co>
+<co c="0"><na f="a/Andrade:Francisco_Jose" pid="228/4818">Francisco Jose Andrade</na></co>
+<co c="0"><na f="a/Arora:Vaibhav" pid="125/2926">Vaibhav Arora</na></co>
+<co c="0"><na f="b/Bardea:Paul" pid="252/4309">Paul Bardea</na></co>
+<co c="0"><na f="b/Birzin:Anne" pid="266/5746">Anne Birzin</na></co>
+<co c="0"><na f="b/Brodie:Michael_L=" pid="95/3763">Michael L. Brodie</na></co>
+<co c="0"><na f="d/Darnell:Ben" pid="266/5947">Ben Darnell</na></co>
+<co c="0"><na f="d/DeWitt:David_J=" pid="d/DJDeWitt">David J. DeWitt</na></co>
+<co c="0"><na f="e/El=Sayed:Nosayba" pid="28/8503">Nosayba El-Sayed</na></co>
+<co c="0"><na f="e/Elmore:Aaron_J=" pid="75/9436">Aaron J. Elmore</na></co>
+<co c="0"><na f="g/Gartner:Marcus" pid="322/1640">Marcus Gartner</na></co>
+<co c="0"><na f="g/Grieger:Tobias" pid="266/6047">Tobias Grieger</na></co>
+<co c="0"><na f="g/Gruneir:Bram" pid="266/5786">Bram Gruneir</na></co>
+<co c="0"><na f="j/Jaffray:Justin" pid="266/6073">Justin Jaffray</na></co>
+<co c="0"><na f="l/Lang:Willis" pid="89/6325">Willis Lang</na></co>
+<co c="0"><na f="l/Lewis:Jordan" pid="266/5992">Jordan Lewis</na></co>
+<co c="0"><na f="l/Lu:Yu" pid="09/2321">Yu Lu</na></co>
+<co c="0"><na f="m/Madden_0001:Samuel" pid="m/SamuelMadden">Samuel Madden 0001</na></co>
+<co c="0"><na f="m/Mansour_0001:Essam" pid="m/EssamMansour">Essam Mansour 0001</na></co>
+<co c="0"><na f="m/Matei:Andrei" pid="266/5861">Andrei Matei</na></co>
+<co c="0"><na f="m/Mattis:Peter" pid="266/5768">Peter Mattis</na></co>
+<co c="0"><na f="m/Mayerhofer:Ricardo" pid="219/9673">Ricardo Mayerhofer</na></co>
+<co c="0"><na f="n/Niemi:Kai" pid="266/5945">Kai Niemi</na></co>
+<co c="0"><na f="p/Pavlo:Andrew" pid="58/4127">Andrew Pavlo</na></co>
+<co c="0" n="2"><na f="p/Poss:Raphael_=kena=" pid="15/5377">Raphael 'kena' Poss</na><na>Raphael Poss</na></co>
+<co c="0"><na f="r/Ranade:Amruta" pid="190/0064">Amruta Ranade</na></co>
+<co c="0" n="2"><na f="r/Rogers:Jennie" pid="43/2286">Jennie Rogers</na><na>Jennie Duggan</na></co>
+<co c="0" n="2"><na f="s/Satish:Nadathur" pid="29/1091">Nadathur Satish</na><na>Nadathur Rajagopalan Satish</na></co>
+<co c="0"><na f="s/Serafini:Marco" pid="02/6087">Marco Serafini</na></co>
+<co c="0"><na f="s/Shah:Aayush" pid="280/0890">Aayush Shah</na></co>
+<co c="0"><na f="s/Sharif:Irfan" pid="266/5756">Irfan Sharif</na></co>
+<co c="0"><na f="s/Shraer:Alexander" pid="s/AlexanderShraer">Alexander Shraer</na></co>
+<co c="0"><na f="s/Stonebraker:Michael" pid="s/MichaelStonebraker">Michael Stonebraker</na></co>
+<co c="0"><na f="s/Storm:Adam" pid="322/1505">Adam Storm</na></co>
+<co c="0"><na f="s/Sundaram:Narayanan" pid="30/3638">Narayanan Sundaram</na></co>
+<co c="0"><na f="t/Tan:Oliver" pid="46/7898">Oliver Tan</na></co>
+<co c="0"><na f="v/VanBenschoten:Nathan" pid="266/5858">Nathan VanBenschoten</na></co>
+<co c="0"><na f="v/Vartak:Manasi" pid="25/7592">Manasi Vartak</na></co>
+<co c="0"><na f="w/Walters:Peyton" pid="322/1567">Peyton Walters</na></co>
+<co c="0"><na f="w/Woods:Andy" pid="31/7965">Andy Woods</na></co>
+<co c="0"><na f="z/Zhang:Lucy" pid="127/3438">Lucy Zhang</na></co>
+</coauthors>
+</dblpperson>

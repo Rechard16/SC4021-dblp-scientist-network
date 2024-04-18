@@ -1,0 +1,395 @@
+<dblpperson name="Subhadeep Sarkar" pid="158/4862" n="26">
+<person key="homepages/158/4862" mdate="2023-07-30">
+<author pid="158/4862">Subhadeep Sarkar</author>
+<url>https://orcid.org/0000-0001-5356-203X</url>
+</person>
+<r><article key="journals/tods/SarkarPSZA23" mdate="2023-10-27">
+<author orcid="0000-0001-5356-203X" pid="158/4862">Subhadeep Sarkar</author>
+<author orcid="0000-0002-0926-8316" pid="266/5847">Tarikul Islam Papon</author>
+<author orcid="0009-0006-0131-9277" pid="266/6012">Dimitris Staratzis</author>
+<author orcid="0000-0002-9197-4649" pid="149/1342">Zichen Zhu</author>
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<title>Enabling Timely and Persistent Deletion in LSM-Engines.</title>
+<pages>8:1-8:40</pages>
+<year>2023</year>
+<month>September</month>
+<volume>48</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3599724</ee>
+<url>db/journals/tods/tods48.html#SarkarPSZA23</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/RamanSOA23" mdate="2023-11-12">
+<author pid="256/7421">Aneesh Raman</author>
+<author orcid="0000-0001-5356-203X" pid="158/4862">Subhadeep Sarkar</author>
+<author pid="147/1263">Matthaios Olma</author>
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<title>Indexing for Near-Sorted Data.</title>
+<pages>1475-1488</pages>
+<year>2023</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE55515.2023.00117</ee>
+<crossref>conf/icde/2023</crossref>
+<url>db/conf/icde/icde2023.html#RamanSOA23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SarkarDA23" mdate="2023-11-12">
+<author orcid="0000-0001-5356-203X" pid="158/4862">Subhadeep Sarkar</author>
+<author pid="129/6927">Niv Dayan</author>
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<title>The LSM Design Space and its Read Optimizations.</title>
+<pages>3578-3584</pages>
+<year>2023</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE55515.2023.00273</ee>
+<crossref>conf/icde/2023</crossref>
+<url>db/conf/icde/icde2023.html#SarkarDA23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZhuSA23" mdate="2023-06-15">
+<author orcid="0000-0002-9197-4649" pid="149/1342">Zichen Zhu</author>
+<author orcid="0000-0001-5356-203X" pid="158/4862">Subhadeep Sarkar</author>
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<title>Acheron: Persisting Tombstones in LSM Engines.</title>
+<pages>131-134</pages>
+<year>2023</year>
+<booktitle>SIGMOD Conference Companion</booktitle>
+<ee>https://doi.org/10.1145/3555041.3589719</ee>
+<crossref>conf/sigmod/2023c</crossref>
+<url>db/conf/sigmod/sigmod2023c.html#ZhuSA23</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/AthanassoulisSP22" mdate="2023-09-30">
+<author pid="82/7402">Manos Athanassoulis</author>
+<author orcid="0000-0001-5356-203X" pid="158/4862">Subhadeep Sarkar</author>
+<author pid="266/5847">Tarikul Islam Papon</author>
+<author pid="149/1342">Zichen Zhu</author>
+<author pid="266/6012">Dimitris Staratzis</author>
+<title>Building Deletion-Compliant Data Systems.</title>
+<pages>21-36</pages>
+<year>2022</year>
+<volume>45</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A22mar/p21.pdf</ee>
+<url>db/journals/debu/debu45.html#AthanassoulisSP22</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/SarkarA22" mdate="2023-09-30">
+<author orcid="0000-0001-5356-203X" pid="158/4862">Subhadeep Sarkar</author>
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<title>Query Language Support for Timely Data Deletion.</title>
+<pages>2:429-2:434</pages>
+<year>2022</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.48786/edbt.2022.35</ee>
+<crossref>conf/edbt/2022</crossref>
+<url>db/conf/edbt/edbt2022.html#SarkarA22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SarkarCZA22" mdate="2023-09-30">
+<author orcid="0000-0001-5356-203X" pid="158/4862">Subhadeep Sarkar</author>
+<author pid="14/7729">Kaijie Chen</author>
+<author pid="149/1342">Zichen Zhu</author>
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<title>Compactionary: A Dictionary for LSM Compactions.</title>
+<pages>2429-2432</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3520169</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#SarkarCZA22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SarkarA22" mdate="2023-09-30">
+<author orcid="0000-0001-5356-203X" pid="158/4862">Subhadeep Sarkar</author>
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<title>Dissecting, Designing, and Optimizing LSM-based Data Stores.</title>
+<pages>2489-2497</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3522563</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#SarkarA22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpctc/RamanKSOA22" mdate="2023-09-30">
+<author pid="256/7421">Aneesh Raman</author>
+<author pid="303/7140">Konstantinos Karatsenidis</author>
+<author orcid="0000-0001-5356-203X" pid="158/4862">Subhadeep Sarkar</author>
+<author pid="147/1263">Matthaios Olma</author>
+<author pid="82/7402">Manos Athanassoulis</author>
+<title>BoDS: A Benchmark on Data Sortedness.</title>
+<pages>17-32</pages>
+<year>2022</year>
+<booktitle>TPCTC</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-29576-8_2</ee>
+<crossref>conf/tpctc/2022</crossref>
+<url>db/conf/tpctc/tpctc2022.html#RamanKSOA22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2202-04185" mdate="2022-02-18">
+<author pid="256/7421">Aneesh Raman</author>
+<author pid="158/4862">Subhadeep Sarkar</author>
+<author pid="147/1263">Matthaios Olma</author>
+<author pid="82/7402">Manos Athanassoulis</author>
+<title>OSM-tree: A Sortedness-Aware Index.</title>
+<year>2022</year>
+<volume>abs/2202.04185</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2202.04185</ee>
+<url>db/journals/corr/corr2202.html#abs-2202-04185</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2202-04522" mdate="2022-03-01">
+<author pid="158/4862">Subhadeep Sarkar</author>
+<author pid="266/6012">Dimitris Staratzis</author>
+<author pid="149/1342">Zichen Zhu</author>
+<author pid="82/7402">Manos Athanassoulis</author>
+<title>Constructing and Analyzing the LSM Compaction Design Space (Updated Version).</title>
+<year>2022</year>
+<volume>abs/2202.04522</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2202.04522</ee>
+<url>db/journals/corr/corr2202.html#abs-2202-04522</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SarkarSZA21" mdate="2023-09-30">
+<author orcid="0000-0001-5356-203X" pid="158/4862">Subhadeep Sarkar</author>
+<author pid="266/6012">Dimitris Staratzis</author>
+<author pid="149/1342">Zichen Zhu</author>
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<title>Constructing and Analyzing the LSM Compaction Design Space.</title>
+<pages>2216-2229</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2216-sarkar.pdf</ee>
+<ee>https://doi.org/10.14778/3476249.3476274</ee>
+<url>db/journals/pvldb/pvldb14.html#SarkarSZA21</url>
+</article>
+</r>
+<r><article key="journals/sj/MisraBS21" mdate="2023-09-30">
+<author orcid="0000-0002-2467-6414" pid="36/1023">Sudip Misra</author>
+<author orcid="0000-0002-8478-429X" pid="209/2523">Pradyumna Kumar Bishoyi</author>
+<author orcid="0000-0001-5356-203X" pid="158/4862">Subhadeep Sarkar</author>
+<title>i-MAC: In-Body Sensor MAC in Wireless Body Area Networks for Healthcare IoT.</title>
+<pages>4413-4420</pages>
+<year>2021</year>
+<volume>15</volume>
+<journal>IEEE Syst. J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/JSYST.2020.3020306</ee>
+<url>db/journals/sj/sj15.html#MisraBS21</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/SarkarPSA20" mdate="2023-09-30">
+<author orcid="0000-0001-5356-203X" pid="158/4862">Subhadeep Sarkar</author>
+<author pid="266/5847">Tarikul Islam Papon</author>
+<author pid="266/6012">Dimitris Staratzis</author>
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<title>Lethe: A Tunable Delete-Aware LSM Engine.</title>
+<pages>893-908</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389757</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#SarkarPSA20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-04777" mdate="2020-06-17">
+<author pid="158/4862">Subhadeep Sarkar</author>
+<author pid="266/5847">Tarikul Islam Papon</author>
+<author pid="266/6012">Dimitris Staratzis</author>
+<author pid="82/7402">Manos Athanassoulis</author>
+<title>Lethe: A Tunable Delete-Aware LSM Engine (Updated Version).</title>
+<year>2020</year>
+<volume>abs/2006.04777</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.04777</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-04777</url>
+</article>
+</r>
+<r><article key="journals/tcc/SarkarCM18" mdate="2021-04-09">
+<author orcid="0000-0001-5356-203X" pid="158/4862">Subhadeep Sarkar</author>
+<author pid="139/7927">Subarna Chatterjee</author>
+<author orcid="0000-0002-2467-6414" pid="36/1023">Sudip Misra</author>
+<title>Assessment of the Suitability of Fog Computing in the Context of Internet of Things.</title>
+<pages>46-59</pages>
+<year>2018</year>
+<volume>6</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2015.2485206</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TCC.2015.2485206</ee>
+<ee>https://www.wikidata.org/entity/Q61458492</ee>
+<url>db/journals/tcc/tcc6.html#SarkarCM18</url>
+</article>
+</r>
+<r><inproceedings key="conf/ithings/SarkarBRM18" mdate="2020-10-25">
+<author orcid="0000-0001-5356-203X" pid="158/4862">Subhadeep Sarkar</author>
+<author pid="62/5234">Jean-Pierre Ban&#226;tre</author>
+<author pid="43/3275">Louis Rilling</author>
+<author pid="32/3279">Christine Morin</author>
+<title>Towards Enforcement of the EU GDPR: Enabling Data Erasure.</title>
+<pages>222-229</pages>
+<year>2018</year>
+<booktitle>iThings/GreenCom/CPSCom/SmartData</booktitle>
+<ee>https://doi.org/10.1109/Cybermatics_2018.2018.00067</ee>
+<crossref>conf/ithings/2018</crossref>
+<url>db/conf/ithings/ithings2018.html#SarkarBRM18</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/BhavathankarSM17" mdate="2021-04-09">
+<author pid="204/0258">Prasenjit Bhavathankar</author>
+<author orcid="0000-0001-5356-203X" pid="158/4862">Subhadeep Sarkar</author>
+<author orcid="0000-0002-2467-6414" pid="36/1023">Sudip Misra</author>
+<title>Optimal decision rule-based ex-ante frequency hopping for jamming avoidance in wireless sensor networks.</title>
+<pages>172-185</pages>
+<year>2017</year>
+<volume>128</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2017.03.009</ee>
+<url>db/journals/cn/cn128.html#BhavathankarSM17</url>
+</article>
+</r>
+<r><article key="journals/icl/SarkarCMK17" mdate="2020-10-26">
+<author orcid="0000-0001-5356-203X" pid="158/4862">Subhadeep Sarkar</author>
+<author orcid="0000-0003-3735-5721" pid="139/7927">Subarna Chatterjee</author>
+<author orcid="0000-0002-2467-6414" pid="36/1023">Sudip Misra</author>
+<author pid="208/9756">Rajesh Kudupudi</author>
+<title>Privacy-Aware Blind Cloud Framework for Advanced Healthcare.</title>
+<pages>2492-2495</pages>
+<year>2017</year>
+<volume>21</volume>
+<journal>IEEE Commun. Lett.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/LCOMM.2017.2739141</ee>
+<url>db/journals/icl/icl21.html#SarkarCMK17</url>
+</article>
+</r>
+<r><article key="journals/iet-net/SarkarM16" mdate="2021-04-09">
+<author orcid="0000-0001-5356-203X" pid="158/4862">Subhadeep Sarkar</author>
+<author orcid="0000-0002-2467-6414" pid="36/1023">Sudip Misra</author>
+<title>Theoretical modelling of fog computing: a green computing paradigm to support IoT applications.</title>
+<pages>23-29</pages>
+<year>2016</year>
+<volume>5</volume>
+<journal>IET Networks</journal>
+<number>2</number>
+<ee>https://doi.org/10.1049/iet-net.2015.0034</ee>
+<ee>https://www.wikidata.org/entity/Q61458491</ee>
+<url>db/journals/iet-net/iet-net5.html#SarkarM16</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/SarkarMO16" mdate="2021-04-09">
+<author orcid="0000-0001-5356-203X" pid="158/4862">Subhadeep Sarkar</author>
+<author orcid="0000-0002-2467-6414" pid="36/1023">Sudip Misra</author>
+<author orcid="0000-0002-1569-9657" pid="91/2882">Mohammad S. Obaidat</author>
+<title>Resource Allocation for Wireless Body Area Networks in Presence of Selfish Agents.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2016.7842222</ee>
+<crossref>conf/globecom/2016</crossref>
+<url>db/conf/globecom/globecom2016.html#SarkarMO16</url>
+</inproceedings>
+</r>
+<r><article key="journals/tc/SarkarMBCO15" mdate="2021-04-09">
+<author orcid="0000-0001-5356-203X" pid="158/4862">Subhadeep Sarkar</author>
+<author orcid="0000-0002-2467-6414" pid="36/1023">Sudip Misra</author>
+<author pid="153/0342">Bitan Bandyopadhyay</author>
+<author pid="66/90">Chandan Chakraborty</author>
+<author orcid="0000-0002-1569-9657" pid="91/2882">Mohammad S. Obaidat</author>
+<title>Performance Analysis of IEEE 802.15.6 MAC Protocol under Non-Ideal Channel Conditions and Saturated Traffic Regime.</title>
+<pages>2912-2925</pages>
+<year>2015</year>
+<volume>64</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TC.2015.2389806</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2015.2389806</ee>
+<url>db/journals/tc/tc64.html#SarkarMBCO15</url>
+</article>
+</r>
+<r><article key="journals/titb/MisraS15" mdate="2020-10-26">
+<author orcid="0000-0002-2467-6414" pid="36/1023">Sudip Misra</author>
+<author orcid="0000-0001-5356-203X" pid="158/4862">Subhadeep Sarkar</author>
+<title>Priority-Based Time-Slot Allocation in Wireless Body Area Networks During Medical Emergency Situations: An Evolutionary Game-Theoretic Perspective.</title>
+<pages>541-548</pages>
+<year>2015</year>
+<volume>19</volume>
+<journal>IEEE J. Biomed. Health Informatics</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/JBHI.2014.2313374</ee>
+<ee>https://www.wikidata.org/entity/Q51098417</ee>
+<url>db/journals/titb/titb19.html#MisraS15</url>
+</article>
+</r>
+<r><inproceedings key="conf/icc/ChatterjeeSM15" mdate="2020-10-25">
+<author pid="139/7927">Subarna Chatterjee</author>
+<author orcid="0000-0001-5356-203X" pid="158/4862">Subhadeep Sarkar</author>
+<author pid="36/1023">Sudip Misra</author>
+<title>Quantification of node misbehavior in wireless sensor networks: A social choice-based approach.</title>
+<pages>1479-1484</pages>
+<year>2015</year>
+<booktitle>ICC Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICCW.2015.7247388</ee>
+<crossref>conf/icc/2015w</crossref>
+<url>db/conf/icc/icc2015w.html#ChatterjeeSM15</url>
+</inproceedings>
+</r>
+<r><article key="journals/cloudcomp/SarkarCM14" mdate="2020-10-26">
+<author orcid="0000-0001-5356-203X" pid="158/4862">Subhadeep Sarkar</author>
+<author pid="139/7927">Subarna Chatterjee</author>
+<author pid="36/1023">Sudip Misra</author>
+<title>Evacuation and Emergency Management Using a Federated Cloud.</title>
+<pages>68-76</pages>
+<year>2014</year>
+<volume>1</volume>
+<journal>IEEE Cloud Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/MCC.2014.72</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MCC.2014.72</ee>
+<url>db/journals/cloudcomp/cloudcomp1.html#SarkarCM14</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/SarkarMCO14" mdate="2020-10-25">
+<author orcid="0000-0001-5356-203X" pid="158/4862">Subhadeep Sarkar</author>
+<author pid="36/1023">Sudip Misra</author>
+<author pid="66/90">Chandan Chakraborty</author>
+<author orcid="0000-0002-1569-9657" pid="91/2882">Mohammad S. Obaidat</author>
+<title>Analysis of reliability and throughput under saturation condition of IEEE 802.15.6 CSMA/CA for wireless body area networks.</title>
+<pages>2405-2410</pages>
+<year>2014</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2014.7037168</ee>
+<crossref>conf/globecom/2014</crossref>
+<url>db/conf/globecom/globecom2014.html#SarkarMCO14</url>
+</inproceedings>
+</r>
+<coauthors n="20" nc="1">
+<co c="0"><na f="a/Athanassoulis:Manos" pid="82/7402">Manos Athanassoulis</na></co>
+<co c="0"><na f="b/Ban=acirc=tre:Jean=Pierre" pid="62/5234">Jean-Pierre Ban&#226;tre</na></co>
+<co c="0"><na f="b/Bandyopadhyay:Bitan" pid="153/0342">Bitan Bandyopadhyay</na></co>
+<co c="0"><na f="b/Bhavathankar:Prasenjit" pid="204/0258">Prasenjit Bhavathankar</na></co>
+<co c="0"><na f="b/Bishoyi:Pradyumna_Kumar" pid="209/2523">Pradyumna Kumar Bishoyi</na></co>
+<co c="0"><na f="c/Chakraborty:Chandan" pid="66/90">Chandan Chakraborty</na></co>
+<co c="0"><na f="c/Chatterjee:Subarna" pid="139/7927">Subarna Chatterjee</na></co>
+<co c="0"><na f="c/Chen:Kaijie" pid="14/7729">Kaijie Chen</na></co>
+<co c="0"><na f="d/Dayan:Niv" pid="129/6927">Niv Dayan</na></co>
+<co c="0"><na f="k/Karatsenidis:Konstantinos" pid="303/7140">Konstantinos Karatsenidis</na></co>
+<co c="0"><na f="k/Kudupudi:Rajesh" pid="208/9756">Rajesh Kudupudi</na></co>
+<co c="0"><na f="m/Misra:Sudip" pid="36/1023">Sudip Misra</na></co>
+<co c="0"><na f="m/Morin:Christine" pid="32/3279">Christine Morin</na></co>
+<co c="0"><na f="o/Obaidat:Mohammad_S=" pid="91/2882">Mohammad S. Obaidat</na></co>
+<co c="0"><na f="o/Olma:Matthaios" pid="147/1263">Matthaios Olma</na></co>
+<co c="0"><na f="p/Papon:Tarikul_Islam" pid="266/5847">Tarikul Islam Papon</na></co>
+<co c="0"><na f="r/Raman:Aneesh" pid="256/7421">Aneesh Raman</na></co>
+<co c="0"><na f="r/Rilling:Louis" pid="43/3275">Louis Rilling</na></co>
+<co c="0"><na f="s/Staratzis:Dimitris" pid="266/6012">Dimitris Staratzis</na></co>
+<co c="0"><na f="z/Zhu:Zichen" pid="149/1342">Zichen Zhu</na></co>
+</coauthors>
+</dblpperson>

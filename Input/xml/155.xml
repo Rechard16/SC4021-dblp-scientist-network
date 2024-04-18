@@ -1,0 +1,2102 @@
+<dblpperson name="Curtis E. Dyreson" pid="d/CEDyreson" n="128">
+<person key="homepages/d/CEDyreson" mdate="2020-11-20">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<url>https://cs.usu.edu/people/CurtisDyreson/</url>
+<url>https://scholar.google.com/citations?user=318GQ54AAAAJ</url>
+<url>https://orcid.org/0000-0003-0236-1515</url>
+<note type="affiliation">Utah State University</note>
+</person>
+<r><article key="journals/iandc/DyresonA23" mdate="2023-10-14">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="226/5165">M. A. Manazir Ahsan</author>
+<title>Achieving sequenced SQL with log-segmented timestamps.</title>
+<pages>105065</pages>
+<year>2023</year>
+<month>October</month>
+<volume>294</volume>
+<journal>Inf. Comput.</journal>
+<ee>https://doi.org/10.1016/j.ic.2023.105065</ee>
+<url>db/journals/iandc/iandc294.html#DyresonA23</url>
+</article>
+</r>
+<r><inproceedings key="conf/er/SwamiABD23" mdate="2023-11-09">
+<author pid="360/1084">Shubham Swami</author>
+<author pid="360/0551">Santosh Aryal</author>
+<author orcid="0000-0003-1957-8016" pid="b/SSBhowmick">Sourav S. Bhowmick</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Using a Conceptual Model in Plug-and-Play SQL.</title>
+<pages>145-161</pages>
+<year>2023</year>
+<booktitle>ER</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-47262-6_8</ee>
+<crossref>conf/er/2023</crossref>
+<url>db/conf/er/er2023.html#SwamiABD23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/time/Dyreson23" mdate="2023-09-18">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Optimization of Nonsequenced Queries Using Log-Segmented Timestamps.</title>
+<pages>13:1-13:15</pages>
+<year>2023</year>
+<booktitle>TIME</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.TIME.2023.13</ee>
+<crossref>conf/time/2023</crossref>
+<url>db/conf/time/time2023.html#Dyreson23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coopis/JainDB22" mdate="2022-10-18">
+<author pid="150/2372">Arihant Jain</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author orcid="0000-0003-1957-8016" pid="b/SSBhowmick">Sourav S. Bhowmick</author>
+<title>Generating Plugs and Data Sockets for Plug-and-Play Database Web Services.</title>
+<pages>279-288</pages>
+<year>2022</year>
+<booktitle>CoopIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17834-4_16</ee>
+<crossref>conf/coopis/2022</crossref>
+<url>db/conf/coopis/coopis2022.html#JainDB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/SharmaD22" mdate="2023-06-14">
+<author pid="20/6234-5">Vishal Sharma 0005</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Indexer++: workload-aware online index tuning with transformers and reinforcement learning.</title>
+<pages>372-380</pages>
+<year>2022</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3477314.3507691</ee>
+<crossref>conf/sac/2022</crossref>
+<url>db/conf/sac/sac2022.html#SharmaD22</url>
+</inproceedings>
+</r>
+<r><article key="journals/computing/SharmaLD21" mdate="2023-06-14">
+<author orcid="0000-0002-5054-5522" pid="20/6234-5">Vishal Sharma 0005</author>
+<author pid="22/8024">Kyumin Lee</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Popularity versus quality: analyzing and predicting the success of highly rated crowdfunded projects on Amazon.</title>
+<pages>1939-1958</pages>
+<year>2021</year>
+<volume>103</volume>
+<journal>Computing</journal>
+<number>9</number>
+<ee>https://doi.org/10.1007/s00607-021-00926-w</ee>
+<url>db/journals/computing/computing103.html#SharmaLD21</url>
+</article>
+</r>
+<r><inproceedings key="conf/ideas/SharmaDF21" mdate="2023-06-14">
+<author pid="20/6234-5">Vishal Sharma 0005</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="301/3723">Nicholas Flann</author>
+<title>MANTIS: Multiple Type and Attribute Index Selection using Deep Reinforcement Learning.</title>
+<pages>56-64</pages>
+<year>2021</year>
+<booktitle>IDEAS</booktitle>
+<ee>https://doi.org/10.1145/3472163.3472176</ee>
+<crossref>conf/ideas/2021</crossref>
+<url>db/conf/ideas/ideas2021.html#SharmaDF21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/time/DyresonA21" mdate="2021-09-16">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="226/5165">M. A. Manazir Ahsan</author>
+<title>Achieving a Sequenced, Relational Query Language with Log-Segmented Timestamps.</title>
+<pages>14:1-14:13</pages>
+<year>2021</year>
+<booktitle>TIME</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.TIME.2021.14</ee>
+<crossref>conf/time/2021</crossref>
+<url>db/conf/time/time2021.html#DyresonA21</url>
+</inproceedings>
+</r>
+<r><article publtype="software" key="journals/jossw/KoontzBDP20" mdate="2022-08-16">
+<author orcid="0000-0002-6103-5894" pid="290/2553">Austin Koontz</author>
+<author pid="195/7428">Benjamin Brandt</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author orcid="0000-0002-6241-3164" pid="167/2023">William D. Pearse</author>
+<title>SymbiotaR2: An R Package for Accessing Symbiota2 Data.</title>
+<pages>2917</pages>
+<year>2020</year>
+<volume>5</volume>
+<journal>J. Open Source Softw.</journal>
+<number>55</number>
+<ee type="oa">https://doi.org/10.21105/joss.02917</ee>
+<ee>https://www.wikidata.org/entity/Q111899681</ee>
+<url>db/journals/jossw/jossw5.html#KoontzBDP20</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsaa/MaheshwariDRSW20" mdate="2023-06-14">
+<author pid="279/2130">Aditi Maheshwari</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="279/2634">Jennifer Reeve</author>
+<author pid="20/6234-5">Vishal Sharma 0005</author>
+<author pid="279/2248">Anthony Whaley</author>
+<title>Automating and Analyzing Whole-Farm Carbon Models.</title>
+<pages>429-438</pages>
+<year>2020</year>
+<booktitle>DSAA</booktitle>
+<ee>https://doi.org/10.1109/DSAA49011.2020.00057</ee>
+<crossref>conf/dsaa/2020</crossref>
+<url>db/conf/dsaa/dsaa2020.html#MaheshwariDRSW20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmla/SharmaD20" mdate="2023-06-14">
+<author pid="20/6234-5">Vishal Sharma 0005</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>COVID-19 Screening Using Residual Attention Network an Artificial Intelligence Approach.</title>
+<pages>1354-1361</pages>
+<year>2020</year>
+<booktitle>ICMLA</booktitle>
+<ee>https://doi.org/10.1109/ICMLA51294.2020.00211</ee>
+<crossref>conf/icmla/2020</crossref>
+<url>db/conf/icmla/icmla2020.html#SharmaD20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-05596" mdate="2023-06-14">
+<author pid="20/6234-5">Vishal Sharma 0005</author>
+<author pid="165/2197">Zekun Zhang</author>
+<author pid="267/1479">Zachary Neubert</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Speaker Diarization: Using Recurrent Neural Networks.</title>
+<year>2020</year>
+<volume>abs/2006.05596</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.05596</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-05596</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-16106" mdate="2023-06-14">
+<author pid="20/6234-5">Vishal Sharma 0005</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>COVID-19 detection using Residual Attention Network an Artificial Intelligence approach.</title>
+<year>2020</year>
+<volume>abs/2006.16106</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.16106</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-16106</url>
+</article>
+</r>
+<r><inproceedings key="conf/coinco/GoyalD19" mdate="2022-05-27">
+<author pid="259/9157">Aayush Goyal</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Temporal JSON.</title>
+<pages>135-144</pages>
+<year>2019</year>
+<booktitle>CIC</booktitle>
+<ee>https://doi.org/10.1109/CIC48465.2019.00025</ee>
+<crossref>conf/coinco/2019</crossref>
+<url>db/conf/coinco/cic2019.html#GoyalD19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iri/SuryavanshiDA19" mdate="2020-10-25">
+<author pid="249/2414">Chetna Suryavanshi</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="77/4291">Jonathan Adams</author>
+<title>Renovating Database Queries with Query AutoAwesome.</title>
+<pages>253-260</pages>
+<year>2019</year>
+<booktitle>IRI</booktitle>
+<ee>https://doi.org/10.1109/IRI.2019.00048</ee>
+<crossref>conf/iri/2019</crossref>
+<url>db/conf/iri/iri2019.html#SuryavanshiDA19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adc/AdamsD18" mdate="2020-10-25">
+<author pid="77/4291">Jonathan Adams</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Renovating Database Applications with DBAutoAwesome.</title>
+<pages>94-106</pages>
+<year>2018</year>
+<booktitle>ADC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-92013-9_8</ee>
+<crossref>conf/adc/2018</crossref>
+<url>db/conf/adc/adc2018.html#AdamsD18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icbk/SharmaD18" mdate="2023-06-14">
+<author pid="20/6234-5">Vishal Sharma 0005</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>LINKSOCIAL: Linking User Profiles Across Multiple Social Media Platforms.</title>
+<pages>260-267</pages>
+<year>2018</year>
+<booktitle>ICBK</booktitle>
+<ee>https://doi.org/10.1109/ICBK.2018.00042</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICBK.2018.00042</ee>
+<crossref>conf/icbk/2018</crossref>
+<url>db/conf/icbk/icbk2018.html#SharmaD18</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Dyreson18" mdate="2020-10-26">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Chronon.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_1050</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/c2.html#Dyreson18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Dyreson18a" mdate="2020-10-26">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Physical Clock.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_1063</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/p2.html#Dyreson18a</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Dyreson18b" mdate="2020-10-26">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Temporal Indeterminacy.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_398</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/t2.html#Dyreson18b</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Dyreson18c" mdate="2020-10-26">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Time-Line Clock.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_1062</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/t2.html#Dyreson18c</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/DyresonG18" mdate="2020-10-26">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="268/3862-1">Fabio Grandi 0001</author>
+<title>Temporal XML.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_411</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/t2.html#DyresonG18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/DyresonJS18" mdate="2019-02-14">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>Calendric System.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_1412</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/c2.html#DyresonJS18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/DyresonJS18a" mdate="2019-02-14">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>Now in Temporal Databases.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_248</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/n2.html#DyresonJS18a</url>
+</incollection>
+</r>
+<r><article key="journals/tkde/BhowmickCCD17" mdate="2020-10-26">
+<author orcid="0000-0003-1957-8016" pid="b/SSBhowmick">Sourav S. Bhowmick</author>
+<author pid="94/11104">Huey-Eng Chua</author>
+<author pid="07/1560">Byron Choi</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>VISUAL: Simulation of Visual Subgraph Query Formulation to Enable Automated Performance Benchmarking.</title>
+<pages>1765-1778</pages>
+<year>2017</year>
+<volume>29</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TKDE.2017.2690392</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2017.2690392</ee>
+<url>db/journals/tkde/tkde29.html#BhowmickCCD17</url>
+</article>
+</r>
+<r><inproceedings key="conf/fqas/DyresonB17" mdate="2020-10-25">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author orcid="0000-0003-1957-8016" pid="b/SSBhowmick">Sourav S. Bhowmick</author>
+<title>Plug-and-Play Queries for Temporal Data Sockets.</title>
+<pages>124-136</pages>
+<year>2017</year>
+<booktitle>FQAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-59692-1_11</ee>
+<crossref>conf/fqas/2017</crossref>
+<url>db/conf/fqas/fqas2017.html#DyresonB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/TruongBDK17" mdate="2020-10-25">
+<author pid="99/11145">Ba Quan Truong</author>
+<author orcid="0000-0003-1957-8016" pid="b/SSBhowmick">Sourav S. Bhowmick</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="204/0164">Hong Jing Khok</author>
+<title>ASTERIX: Ambiguity and Missing Element-Aware XML Keyword Search Engine.</title>
+<pages>1317-1320</pages>
+<year>2017</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3077136.3084137</ee>
+<crossref>conf/sigir/2017</crossref>
+<url>db/conf/sigir/sigir2017.html#TruongBDK17</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/BhowmickCD16" mdate="2020-10-26">
+<author orcid="0000-0003-1957-8016" pid="b/SSBhowmick">Sourav S. Bhowmick</author>
+<author pid="07/1560">Byron Choi</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Data-driven Visual Graph Query Interface Construction and Maintenance: Challenges and Opportunities.</title>
+<pages>984-992</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p984-bhowmick.pdf</ee>
+<ee>https://doi.org/10.14778/2994509.2994517</ee>
+<url>db/journals/pvldb/pvldb9.html#BhowmickCD16</url>
+</article>
+</r>
+<r><inproceedings key="conf/hpcc/Dyreson16" mdate="2020-10-25">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Using CouchDB to Compute Temporal Aggregates.</title>
+<pages>1131-1138</pages>
+<year>2016</year>
+<booktitle>HPCC/SmartCity/DSS</booktitle>
+<ee>https://doi.org/10.1109/HPCC-SmartCity-DSS.2016.0159</ee>
+<crossref>conf/hpcc/2016</crossref>
+<url>db/conf/hpcc/hpcc2016.html#Dyreson16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/time/DyresonR16" mdate="2023-03-24">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="174/2208">Venkata A. Rani</author>
+<title>Translating Temporal SQL to Nested SQL.</title>
+<pages>157-166</pages>
+<year>2016</year>
+<booktitle>TIME</booktitle>
+<ee>https://doi.org/10.1109/TIME.2016.24</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/TIME.2016.24</ee>
+<crossref>conf/time/2016</crossref>
+<url>db/conf/time/time2016.html#DyresonR16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/time/2016" mdate="2019-10-16">
+<editor pid="d/CEDyreson">Curtis E. Dyreson</editor>
+<editor pid="50/6388">Michael R. Hansen</editor>
+<editor pid="62/292">Luke Hunsberger</editor>
+<title>23rd International Symposium on Temporal Representation and Reasoning, TIME 2016, Kongens Lyngby, Denmark, October 17-19, 2016</title>
+<booktitle>TIME</booktitle>
+<publisher>IEEE Computer Society</publisher>
+<year>2016</year>
+<isbn>978-1-5090-3825-1</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/7774233/proceeding</ee>
+<ee>https://www.computer.org/csdl/proceedings/time/2016/3825/00/index.html</ee>
+<url>db/conf/time/time2016.html</url>
+</proceedings>
+</r>
+<r><article key="journals/pvldb/DyresonBG15" mdate="2020-10-26">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author orcid="0000-0003-1957-8016" pid="b/SSBhowmick">Sourav S. Bhowmick</author>
+<author pid="147/1205">Ryan Grapp</author>
+<title>Virtual eXist-db: Liberating Hierarchical Queries from the Shackles of Access Path Dependence.</title>
+<pages>1932-1935</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1932-dyreson.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824104</ee>
+<url>db/journals/pvldb/pvldb8.html#DyresonBG15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/BhowmickDCA15" mdate="2020-10-25">
+<author orcid="0000-0003-1957-8016" pid="b/SSBhowmick">Sourav S. Bhowmick</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="07/1560">Byron Choi</author>
+<author pid="169/1777">Min-Hwee Ang</author>
+<title>Interruption-Sensitive Empty Result Feedback: Rethinking the Visual Query Feedback Paradigm for Semistructured Data.</title>
+<pages>723-732</pages>
+<year>2015</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2806416.2806432</ee>
+<crossref>conf/cikm/2015</crossref>
+<url>db/conf/cikm/cikm2015.html#BhowmickDCA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/time/DyresonRS15" mdate="2023-03-24">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="174/2208">Venkata A. Rani</author>
+<author pid="174/2128">Amani Shatnawi</author>
+<title>Unifying Sequenced and Non-sequenced Semantics.</title>
+<pages>38-46</pages>
+<year>2015</year>
+<booktitle>TIME</booktitle>
+<ee>https://doi.org/10.1109/TIME.2015.22</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/TIME.2015.22</ee>
+<crossref>conf/time/2015</crossref>
+<url>db/conf/time/time2015.html#DyresonRS15</url>
+</inproceedings>
+</r>
+<r><article key="journals/geoinformatica/TimkoDP14" mdate="2020-10-26">
+<author pid="78/5835">Igor Timko</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<title>A probabilistic data model and algebra for location-based data warehouses and their implementation.</title>
+<pages>357-403</pages>
+<year>2014</year>
+<volume>18</volume>
+<journal>GeoInformatica</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10707-013-0180-4</ee>
+<url>db/journals/geoinformatica/geoinformatica18.html#TimkoDP14</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/DyresonBG14" mdate="2020-10-25">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author orcid="0000-0003-1957-8016" pid="b/SSBhowmick">Sourav S. Bhowmick</author>
+<author pid="147/1205">Ryan Grapp</author>
+<title>Querying virtual hierarchies using virtual prefix-based numbers.</title>
+<pages>791-802</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2610506</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#DyresonBG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uic/Dyreson14" mdate="2023-03-23">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Vacuuming XML.</title>
+<pages>625-628</pages>
+<year>2014</year>
+<booktitle>UIC/ATC/ScalCom</booktitle>
+<ee>https://doi.org/10.1109/UIC-ATC-ScalCom.2014.36</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/UIC-ATC-ScalCom.2014.36</ee>
+<crossref>conf/uic/2014</crossref>
+<url>db/conf/uic/uic2014.html#Dyreson14</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dasfaa/2014-1" mdate="2019-05-14">
+<editor pid="b/SSBhowmick">Sourav S. Bhowmick</editor>
+<editor pid="d/CEDyreson">Curtis E. Dyreson</editor>
+<editor pid="j/ChristianSJensen">Christian S. Jensen</editor>
+<editor pid="l/MongLiLee">Mong-Li Lee</editor>
+<editor pid="144/3234">Agus Muliantara</editor>
+<editor orcid="0000-0002-7909-7786" pid="t/BernhardThalheim">Bernhard Thalheim</editor>
+<title>Database Systems for Advanced Applications - 19th International Conference, DASFAA 2014, Bali, Indonesia, April 21-24, 2014. Proceedings, Part I</title>
+<year>2014</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>8421</volume>
+<ee>https://doi.org/10.1007/978-3-319-05810-8</ee>
+<ee>https://www.wikidata.org/entity/Q57376283</ee>
+<isbn>978-3-319-05809-2</isbn>
+<booktitle>DASFAA (1)</booktitle>
+<url>db/conf/dasfaa/dasfaa2014-1.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/dasfaa/2014-2" mdate="2019-05-14">
+<editor pid="b/SSBhowmick">Sourav S. Bhowmick</editor>
+<editor pid="d/CEDyreson">Curtis E. Dyreson</editor>
+<editor pid="j/ChristianSJensen">Christian S. Jensen</editor>
+<editor pid="l/MongLiLee">Mong-Li Lee</editor>
+<editor pid="144/3234">Agus Muliantara</editor>
+<editor orcid="0000-0002-7909-7786" pid="t/BernhardThalheim">Bernhard Thalheim</editor>
+<title>Database Systems for Advanced Applications - 19th International Conference, DASFAA 2014, Bali, Indonesia, April 21-24, 2014. Proceedings, Part II</title>
+<year>2014</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>8422</volume>
+<ee>https://doi.org/10.1007/978-3-319-05813-9</ee>
+<ee>https://www.wikidata.org/entity/Q57376281</ee>
+<isbn>978-3-319-05812-2</isbn>
+<booktitle>DASFAA (2)</booktitle>
+<url>db/conf/dasfaa/dasfaa2014-2.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/sigmod/2014" mdate="2016-05-23">
+<editor pid="d/CEDyreson">Curtis E. Dyreson</editor>
+<editor pid="l/FeifeiLi">Feifei Li 0001</editor>
+<editor pid="o/MTamerOzsu">M. Tamer &#214;zsu</editor>
+<title>International Conference on Management of Data, SIGMOD 2014, Snowbird, UT, USA, June 22-27, 2014</title>
+<publisher>ACM</publisher>
+<year>2014</year>
+<isbn>978-1-4503-2376-5</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=2588555</ee>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2014.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/aosd/DyresonFTS13" mdate="2023-06-14">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="96/6523">Omar U. Florez</author>
+<author pid="129/9804">Akshay Thakre</author>
+<author pid="20/6234-5">Vishal Sharma 0005</author>
+<title>Supporting data aspects in pig latin.</title>
+<pages>13-24</pages>
+<year>2013</year>
+<crossref>conf/aosd/2013</crossref>
+<booktitle>AOSD</booktitle>
+<ee>https://doi.org/10.1145/2451436.2451439</ee>
+<url>db/conf/aosd/aosd2013.html#DyresonFTS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cse/FlorezDS13" mdate="2023-03-24">
+<author pid="96/6523">Omar U. Florez</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="68/8013">Junaith Shahabdeen</author>
+<title>What to Reuse?: A Probabilistic Model to Transfer User Annotations in a Surveillance Video.</title>
+<pages>42-49</pages>
+<year>2013</year>
+<booktitle>CSE</booktitle>
+<ee>https://doi.org/10.1109/CSE.2013.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CSE.2013.17</ee>
+<crossref>conf/cse/2013</crossref>
+<url>db/conf/cse/cse2013.html#FlorezDS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/TruongBDS13" mdate="2020-10-25">
+<author pid="99/11145">Ba Quan Truong</author>
+<author orcid="0000-0003-1957-8016" pid="b/SSBhowmick">Sourav S. Bhowmick</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author orcid="0000-0003-0764-4258" pid="78/5155">Aixin Sun</author>
+<title>MESSIAH: missing element-conscious SLCA nodes search in XML data.</title>
+<pages>37-48</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2463699</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#TruongBDS13</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/CurrimCDSTZ12" mdate="2020-12-29">
+<author orcid="0000-0002-5025-811X" pid="83/3958">Faiz Currim</author>
+<author pid="22/5067">Sabah Currim</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<author pid="74/9655">Stephen W. Thomas</author>
+<author pid="60/2536-35">Rui Zhang 0035</author>
+<title>Adding Temporal Constraints to XML Schema.</title>
+<pages>1361-1377</pages>
+<year>2012</year>
+<volume>24</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TKDE.2011.74</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2011.74</ee>
+<url>db/journals/tkde/tkde24.html#CurrimCDSTZ12</url>
+</article>
+</r>
+<r><article key="journals/vldb/AugstenBDG12" mdate="2020-10-26">
+<author orcid="0000-0002-3036-6201" pid="76/3961">Nikolaus Augsten</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Windowed pq-grams for approximate joins of data-centric XML.</title>
+<pages>463-488</pages>
+<year>2012</year>
+<volume>21</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00778-011-0254-6</ee>
+<url>db/journals/vldb/vldb21.html#AugstenBDG12</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/FlorezD12" mdate="2020-10-25">
+<author pid="96/6523">Omar U. Florez</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Is that scene dangerous?: transferring knowledge over a video stream.</title>
+<pages>41-48</pages>
+<year>2012</year>
+<booktitle>PIKM</booktitle>
+<ee>https://doi.org/10.1145/2389686.2389694</ee>
+<crossref>conf/cikm/2012pikm</crossref>
+<url>db/conf/cikm/pikm2012.html#FlorezD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/TruongBD12" mdate="2020-10-25">
+<author pid="99/11145">Ba Quan Truong</author>
+<author orcid="0000-0003-1957-8016" pid="b/SSBhowmick">Sourav S. Bhowmick</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>SINBAD: Towards Structure-Independent Querying of Common Neighbors in XML Databases.</title>
+<pages>156-171</pages>
+<year>2012</year>
+<booktitle>DASFAA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-29038-1_13</ee>
+<crossref>conf/dasfaa/2012-1</crossref>
+<url>db/conf/dasfaa/dasfaa2012-1.html#TruongBD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/DyresonB12" mdate="2023-03-24">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author orcid="0000-0003-1957-8016" pid="b/SSBhowmick">Sourav S. Bhowmick</author>
+<title>Querying XML Data: As You Shape It.</title>
+<pages>642-653</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.65</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2012.65</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#DyresonB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/FlorezD12" mdate="2020-10-25">
+<author pid="96/6523">Omar U. Florez</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Discovering activity interactions in a single pass over a video stream.</title>
+<pages>819-826</pages>
+<year>2012</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2245276.2245435</ee>
+<crossref>conf/sac/2012</crossref>
+<url>db/conf/sac/sac2012.html#FlorezD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/FlorezD11" mdate="2020-10-25">
+<author pid="96/6523">Omar U. Florez</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Scalable similarity search of timeseries with variable dimensionality.</title>
+<pages>2545-2548</pages>
+<year>2011</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2063576.2064015</ee>
+<crossref>conf/cikm/2011</crossref>
+<url>db/conf/cikm/cikm2011.html#FlorezD11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dolap/DyresonF11" mdate="2020-10-25">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="96/6523">Omar U. Florez</author>
+<title>Building a display of missing information in a data sieve.</title>
+<pages>53-60</pages>
+<year>2011</year>
+<booktitle>DOLAP</booktitle>
+<ee>https://doi.org/10.1145/2064676.2064686</ee>
+<crossref>conf/dolap/2011</crossref>
+<url>db/conf/dolap/dolap2011.html#DyresonF11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/Dyreson11" mdate="2020-10-25">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Aspect-oriented relational algebra.</title>
+<pages>377-388</pages>
+<year>2011</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1951365.1951411</ee>
+<crossref>conf/edbt/2011</crossref>
+<url>db/conf/edbt/edbt2011.html#Dyreson11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/DyresonM11" mdate="2020-10-25">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="54/10847">Kalyan G. Mekala</author>
+<title>Prefix-Based Node Numbering for Temporal XML.</title>
+<pages>172-184</pages>
+<year>2011</year>
+<booktitle>WISE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-24434-6_13</ee>
+<crossref>conf/wise/2011</crossref>
+<url>db/conf/wise/wise2011.html#DyresonM11</url>
+</inproceedings>
+</r>
+<r><article key="journals/infsof/AndrewsODMJA10" mdate="2020-10-26">
+<author pid="a/AnnelieseAmschlerAndrews">Anneliese Amschler Andrews</author>
+<author pid="o/AJeffersonOffutt">A. Jefferson Offutt</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="31/4666">Christopher J. Mallery</author>
+<author pid="14/2455">Kshamta Jerath</author>
+<author pid="60/5998">Roger T. Alexander</author>
+<title>Scalability issues with using FSMWeb to test web applications.</title>
+<pages>52-66</pages>
+<year>2010</year>
+<volume>52</volume>
+<journal>Inf. Softw. Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.infsof.2009.06.002</ee>
+<url>db/journals/infsof/infsof52.html#AndrewsODMJA10</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DyresonBM10" mdate="2020-10-26">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author orcid="0000-0003-1957-8016" pid="b/SSBhowmick">Sourav S. Bhowmick</author>
+<author pid="48/7992">Kirankanth Mallampalli</author>
+<title>Using XMorph to Transform XML Data.</title>
+<pages>1541-1544</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/D07.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1921033</ee>
+<url>db/journals/pvldb/pvldb3.html#DyresonBM10</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/DyresonF10" mdate="2020-10-25">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="96/6523">Omar U. Florez</author>
+<title>Data aspects in a relational database.</title>
+<pages>1373-1376</pages>
+<year>2010</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1871437.1871624</ee>
+<crossref>conf/cikm/2010</crossref>
+<url>db/conf/cikm/cikm2010.html#DyresonF10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/FlorezD10" mdate="2020-10-25">
+<author pid="96/6523">Omar U. Florez</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Mining rules to explain activities in videos.</title>
+<pages>1577-1580</pages>
+<year>2010</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1871437.1871676</ee>
+<crossref>conf/cikm/2010</crossref>
+<url>db/conf/cikm/cikm2010.html#FlorezD10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/DyresonBJMZ10" mdate="2023-03-24">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author orcid="0000-0003-1957-8016" pid="b/SSBhowmick">Sourav S. Bhowmick</author>
+<author pid="99/7992">Aswani Rao Jannu</author>
+<author pid="48/7992">Kirankanth Mallampalli</author>
+<author pid="11/2195">Shuohao Zhang</author>
+<title>XMorph: A shape-polymorphic, domain-specific XML data transformation language.</title>
+<pages>844-847</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447839</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447839</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#DyresonBJMZ10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mir/FlorezOD10" mdate="2020-10-25">
+<author pid="96/6523">Omar U. Florez</author>
+<author pid="61/1753">Alexander Ocsa</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Sublinear querying of realistic timeseries and its application to human motion.</title>
+<pages>137-146</pages>
+<year>2010</year>
+<booktitle>Multimedia Information Retrieval</booktitle>
+<ee>https://doi.org/10.1145/1743384.1743411</ee>
+<crossref>conf/mir/2010</crossref>
+<url>db/conf/mir/mir2010.html#FlorezOD10</url>
+</inproceedings>
+</r>
+<r><article key="journals/infsof/RanDABM09" mdate="2020-10-26">
+<author pid="54/6158">Lihua Ran</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="a/AnnelieseAmschlerAndrews">Anneliese Amschler Andrews</author>
+<author pid="96/5178">Ren&#233;e C. Bryce</author>
+<author pid="31/4666">Christopher J. Mallery</author>
+<title>Building test cases and oracles to automate the testing of web database applications.</title>
+<pages>460-477</pages>
+<year>2009</year>
+<volume>51</volume>
+<journal>Inf. Softw. Technol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.infsof.2008.05.016</ee>
+<url>db/journals/infsof/infsof51.html#RanDABM09</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/BhowmickDLN09" mdate="2020-10-25">
+<author orcid="0000-0003-1957-8016" pid="b/SSBhowmick">Sourav S. Bhowmick</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="l/ErwinLeonardi">Erwin Leonardi</author>
+<author pid="09/7537">Zhifeng Ng</author>
+<title>Towards non-directional Xpath evaluation in a RDBMS.</title>
+<pages>1501-1504</pages>
+<year>2009</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1645953.1646156</ee>
+<crossref>conf/cikm/2009</crossref>
+<url>db/conf/cikm/cikm2009.html#BhowmickDLN09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/DyresonJ09" mdate="2020-10-25">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="06/1958">Hao Jin</author>
+<title>A Synthetic, Trend-Based Benchmark for XPath.</title>
+<pages>35-48</pages>
+<year>2009</year>
+<booktitle>DASFAA Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04205-8_5</ee>
+<crossref>conf/dasfaa/2009w</crossref>
+<url>db/conf/dasfaa/dasfaa2009w.html#DyresonJ09</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/DyresonJS09" mdate="2017-07-12">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>Calendric System.</title>
+<pages>305</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_1412</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/c.html#DyresonJS09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Dyreson09" mdate="2017-07-12">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Chronon.</title>
+<pages>329</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_1050</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/c.html#Dyreson09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/DyresonJS09a" mdate="2017-07-12">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>Now in Temporal Databases.</title>
+<pages>1920-1924</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_248</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/n.html#DyresonJS09a</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Dyreson09a" mdate="2017-07-12">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Physical Clock.</title>
+<pages>2108</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_1063</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/p.html#Dyreson09a</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Dyreson09b" mdate="2017-07-12">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Temporal Indeterminacy.</title>
+<pages>2973-2976</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_398</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/t.html#Dyreson09b</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/DyresonG09" mdate="2020-06-30">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="268/3862-1">Fabio Grandi 0001</author>
+<title>Temporal XML.</title>
+<pages>3032-3035</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_411</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/t.html#DyresonG09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Dyreson09c" mdate="2017-07-12">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Time-Line Clock.</title>
+<pages>3120</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_1062</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/t.html#Dyreson09c</url>
+</incollection>
+</r>
+<r><article key="journals/dke/SnodgrassDCCJ08" mdate="2020-12-29">
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author orcid="0000-0002-5025-811X" pid="83/3958">Faiz Currim</author>
+<author pid="22/5067">Sabah Currim</author>
+<author pid="68/4652">Shailesh Joshi</author>
+<title>Validating quicksand: Temporal schema versioning in tauXSchema.</title>
+<pages>223-242</pages>
+<year>2008</year>
+<volume>65</volume>
+<journal>Data Knowl. Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.datak.2007.09.003</ee>
+<url>db/journals/dke/dke65.html#SnodgrassDCCJ08</url>
+</article>
+</r>
+<r><inproceedings key="conf/adc/XuD08" mdate="2019-07-25">
+<author pid="40/1068">Lin Xu</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Approximate Retrieval of XML Data with ApproXPath.</title>
+<pages>115-126</pages>
+<year>2008</year>
+<booktitle>ADC</booktitle>
+<ee>http://crpit.scem.westernsydney.edu.au/abstracts/CRPITV75Xu.html</ee>
+<crossref>conf/adc/2008</crossref>
+<url>db/conf/adc/adc2008.html#XuD08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/JinD08" mdate="2020-10-25">
+<author pid="06/1958">Hao Jin</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Supporting Proscriptive Metadata in an XML DBMS.</title>
+<pages>479-492</pages>
+<year>2008</year>
+<booktitle>DEXA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85654-2_42</ee>
+<crossref>conf/dexa/2008</crossref>
+<url>db/conf/dexa/dexa2008.html#JinD08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexaw/DyresonZ08" mdate="2023-03-24">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="11/2195">Shuohao Zhang</author>
+<title>The Benefits of Utilizing Closeness in XML.</title>
+<pages>269-273</pages>
+<year>2008</year>
+<booktitle>DEXA Workshops</booktitle>
+<ee>https://doi.org/10.1109/DEXA.2008.135</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DEXA.2008.135</ee>
+<crossref>conf/dexaw/2008</crossref>
+<url>db/conf/dexaw/dexaw2008.html#DyresonZ08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AugstenBDG08" mdate="2023-03-24">
+<author orcid="0000-0002-3036-6201" pid="76/3961">Nikolaus Augsten</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Approximate Joins for Data-Centric XML.</title>
+<pages>814-823</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497490</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497490</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#AugstenBDG08</url>
+</inproceedings>
+</r>
+<r><article key="journals/dke/DyresonSCCJ07" mdate="2020-12-29">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<author orcid="0000-0002-5025-811X" pid="83/3958">Faiz Currim</author>
+<author pid="22/5067">Sabah Currim</author>
+<author pid="68/4652">Shailesh Joshi</author>
+<title>Weaving temporal and reliability aspects into a schema tapestry.</title>
+<pages>752-773</pages>
+<year>2007</year>
+<volume>63</volume>
+<journal>Data Knowl. Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.datak.2007.04.006</ee>
+<url>db/journals/dke/dke63.html#DyresonSCCJ07</url>
+</article>
+</r>
+<r><article key="journals/spe/UrgunDSMKSJ07" mdate="2022-12-07">
+<author pid="76/5321">Bedirhan Urgun</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<author pid="19/1927">Jessica K. Miller</author>
+<author pid="k/NickKline">Nick Kline</author>
+<author pid="08/6667">Michael D. Soo</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Integrating multiple calendars using tau-ZAMAN.</title>
+<pages>267-308</pages>
+<year>2007</year>
+<volume>37</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/spe.765</ee>
+<url>db/journals/spe/spe37.html#UrgunDSMKSJ07</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasfaa/ZhangDD06" mdate="2017-05-26">
+<author pid="11/2195">Shuohao Zhang</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="51/5888">Zhe Dang</author>
+<title>Compacting XML Data.</title>
+<pages>767-776</pages>
+<year>2006</year>
+<crossref>conf/dasfaa/2006</crossref>
+<booktitle>DASFAA</booktitle>
+<ee>https://doi.org/10.1007/11733836_54</ee>
+<url>db/conf/dasfaa/dasfaa2006.html#ZhangDD06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dolap/TimkoDP06" mdate="2020-10-25">
+<author pid="78/5835">Igor Timko</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<title>Pre-aggregation with probability distributions.</title>
+<pages>35-42</pages>
+<year>2006</year>
+<crossref>conf/dolap/2006</crossref>
+<booktitle>DOLAP</booktitle>
+<ee>https://doi.org/10.1145/1183512.1183520</ee>
+<url>db/conf/dolap/dolap2006.html#TimkoDP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/DyresonSCC06" mdate="2020-12-29">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<author orcid="0000-0002-5025-811X" pid="83/3958">Faiz Currim</author>
+<author pid="22/5067">Sabah Currim</author>
+<title>Schema-Mediated Exchange of Temporal XML Data.</title>
+<pages>212-227</pages>
+<year>2006</year>
+<crossref>conf/er/2006</crossref>
+<booktitle>ER</booktitle>
+<ee>https://doi.org/10.1007/11901181_17</ee>
+<url>db/conf/er/er2006.html#DyresonSCC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/DyresonSCCJ06" mdate="2023-03-24">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<author orcid="0000-0002-5025-811X" pid="83/3958">Faiz Currim</author>
+<author pid="22/5067">Sabah Currim</author>
+<author pid="68/4652">Shailesh Joshi</author>
+<title>Validating Quicksand: Schema Versioning in \tauXSchema.</title>
+<pages>82</pages>
+<year>2006</year>
+<crossref>conf/icde/2006w</crossref>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2006.161</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2006.161</ee>
+<url>db/conf/icde/icdew2006.html#DyresonSCCJ06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/ZhangD06" mdate="2020-10-25">
+<author pid="11/2195">Shuohao Zhang</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Symmetrically exploiting XML.</title>
+<pages>103-111</pages>
+<year>2006</year>
+<crossref>conf/www/2006</crossref>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/1135777.1135797</ee>
+<url>db/conf/www/www2006.html#ZhangD06</url>
+</inproceedings>
+</r>
+<r><article key="journals/bioinformatics/OConnorDW05" mdate="2020-10-26">
+<author pid="05/491">Timothy R. O'Connor</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="62/2493">John J. Wyrick</author>
+<title>Athena: a resource for rapid visualization and systematic analysis of <i>Arabidopsis</i> promoter sequences.</title>
+<pages>4411-4413</pages>
+<year>2005</year>
+<volume>21</volume>
+<journal>Bioinform.</journal>
+<number>24</number>
+<ee>https://doi.org/10.1093/bioinformatics/bti714</ee>
+<ee>https://www.wikidata.org/entity/Q81349162</ee>
+<url>db/journals/bioinformatics/bioinformatics21.html#OConnorDW05</url>
+</article>
+</r>
+<r><inproceedings key="conf/sac/JinD05" mdate="2020-10-25">
+<author pid="06/1958">Hao Jin</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Sanitizing using metadata in MetaXQuery.</title>
+<pages>1732-1736</pages>
+<year>2005</year>
+<crossref>conf/sac/2005</crossref>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1066677.1067067</ee>
+<url>db/conf/sac/sac2005.html#JinD05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/TimkoDP05" mdate="2012-09-18">
+<author pid="78/5835">Igor Timko</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<title>Probabilistic Data Modeling and Querying for Location-Based Data Warehouses.</title>
+<pages>273-282</pages>
+<year>2005</year>
+<crossref>conf/ssdbm/2005</crossref>
+<booktitle>SSDBM</booktitle>
+<url>db/conf/ssdbm/ssdbm2005.html#TimkoDP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/CurrimCDS04" mdate="2020-12-29">
+<author orcid="0000-0002-5025-811X" pid="83/3958">Faiz Currim</author>
+<author pid="22/5067">Sabah Currim</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>A Tale of Two Schemas: Creating a Temporal XML Schema from a Snapshot Schema with tXSchema.</title>
+<pages>348-365</pages>
+<ee>https://doi.org/10.1007/978-3-540-24741-8_21</ee>
+<year>2004</year>
+<crossref>conf/edbt/2004</crossref>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt2004.html#CurrimCDS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/RanDA04" mdate="2017-05-25">
+<author pid="54/6158">Lihua Ran</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="a/AnnelieseAmschlerAndrews">Anneliese Amschler Andrews</author>
+<title>AutoDBT: A Framework for Automatic Testing of Web Database Applications.</title>
+<pages>181-192</pages>
+<ee>https://doi.org/10.1007/978-3-540-30480-7_20</ee>
+<year>2004</year>
+<crossref>conf/wise/2004</crossref>
+<booktitle>WISE</booktitle>
+<url>db/conf/wise/wise2004.html#RanDA04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/ZhangDS04" mdate="2017-05-25">
+<author pid="11/2195">Shuohao Zhang</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>Schema-Less, Semantics-Based Change Detection for XML Documents.</title>
+<pages>279-290</pages>
+<ee>https://doi.org/10.1007/978-3-540-30480-7_29</ee>
+<year>2004</year>
+<crossref>conf/wise/2004</crossref>
+<booktitle>WISE</booktitle>
+<url>db/conf/wise/wise2004.html#ZhangDS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/JinD04" mdate="2017-05-25">
+<author pid="06/1958">Hao Jin</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Grouping in MetaXQuery.</title>
+<pages>688-693</pages>
+<ee>https://doi.org/10.1007/978-3-540-30480-7_71</ee>
+<year>2004</year>
+<crossref>conf/wise/2004</crossref>
+<booktitle>WISE</booktitle>
+<url>db/conf/wise/wise2004.html#JinD04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/DyresonLW04" mdate="2018-11-06">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="23/1170">Hui-ling Lin</author>
+<author pid="47/1186">Yingxia Wang</author>
+<title>Managing versions of web documents in a transaction-time web server.</title>
+<pages>422-432</pages>
+<year>2004</year>
+<crossref>conf/www/2004</crossref>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/988672.988730</ee>
+<url>db/conf/www/www2004.html#DyresonLW04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Dyreson03" mdate="2018-11-06">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Temporal Coalescing with Now, Granularity, and Incomplete Information.</title>
+<pages>169-180</pages>
+<year>2003</year>
+<crossref>conf/sigmod/2003</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2003.html#Dyreson03</url>
+<ee>https://doi.org/10.1145/872757.872779</ee>
+</inproceedings>
+</r>
+<r><incollection key="books/idea/mddb2003/DyresonPJ03" mdate="2019-08-03">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Incomplete Information in Multidimensional Databases.</title>
+<pages>282-309</pages>
+<year>2003</year>
+<crossref>books/idea/Rafanelli03</crossref>
+<booktitle>Multidimensional Databases</booktitle>
+<url>db/books/collections/mddb2003.html#DyresonPJ03</url>
+<ee>https://doi.org/10.4018/978-1-59140-053-0.ch010</ee>
+</incollection>
+</r>
+<r><inproceedings key="conf/dnis/ZhangD02" mdate="2017-05-17">
+<author pid="11/2195">Shuohao Zhang</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Adding Valid Time to XPath.</title>
+<pages>29-42</pages>
+<year>2002</year>
+<crossref>conf/dnis/2002</crossref>
+<booktitle>DNIS</booktitle>
+<ee>https://doi.org/10.1007/3-540-36233-9_3</ee>
+<url>db/conf/dnis/dnis2002.html#ZhangD02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsn/FranzMBDM02" mdate="2023-03-24">
+<author pid="81/3440">Andy A. Franz</author>
+<author pid="41/5672">Radek Mista</author>
+<author pid="12/5624">David E. Bakken</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="45/292">Muralidhar Medidi</author>
+<title>Mr. Fusion: A Programmable Data Fusion Middleware Subsystem with a Tunable Statistical Profiling Service.</title>
+<pages>273-278</pages>
+<year>2002</year>
+<crossref>conf/dsn/2002</crossref>
+<booktitle>DSN</booktitle>
+<ee>https://doi.org/10.1109/DSN.2002.1028910</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DSN.2002.1028910</ee>
+<url>db/conf/dsn/dsn2002.html#FranzMBDM02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oois/HeD02" mdate="2020-10-25">
+<author pid="25/2271">Haiyun He</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Warp-Edge Optimization in XPath.</title>
+<pages>187-196</pages>
+<year>2002</year>
+<crossref>conf/oois/2002w</crossref>
+<booktitle>OOIS Workshops</booktitle>
+<ee>https://doi.org/10.1007/3-540-46105-1_22</ee>
+<url>db/conf/oois/oois2002w.html#HeD02</url>
+</inproceedings>
+</r>
+<r><article key="journals/is/PedersenJD01" mdate="2022-12-07">
+<author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>A foundation for capturing and querying complex multidimensional data.</title>
+<pages>383-423</pages>
+<year>2001</year>
+<volume>26</volume>
+<journal>Inf. Syst.</journal>
+<number>5</number>
+<url>db/journals/is/is26.html#PedersenJD01</url>
+<ee>https://doi.org/10.1016/S0306-4379(01)00023-0</ee>
+</article>
+</r>
+<r><article key="journals/jodi/DyresonBJ01" mdate="2022-05-24">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>MetaXPath.</title>
+<year>2001</year>
+<volume>2</volume>
+<journal>J. Digit. Inf.</journal>
+<number>2</number>
+<ee type="oa">https://journals.tdl.org/jodi/index.php/jodi/article/view/41</ee>
+<url>db/journals/jodi/jodi2.html#DyresonBJ01</url>
+</article>
+</r>
+<r><inproceedings key="conf/adc/Dyreson01" mdate="2023-03-24">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Towards a temporal world-wide web: a transaction-time server.</title>
+<pages>169-175</pages>
+<year>2001</year>
+<crossref>conf/adc/2001</crossref>
+<booktitle>ADC</booktitle>
+<ee>https://doi.org/10.1109/ADC.2001.904480</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ADC.2001.904480</ee>
+<ee>https://dl.acm.org/citation.cfm?id=545559</ee>
+<url>db/conf/adc/adc2001.html#Dyreson01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dc/DyresonBJ01" mdate="2021-02-10">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>MetaXPath.</title>
+<pages>17-23</pages>
+<year>2001</year>
+<crossref>conf/dc/2001</crossref>
+<booktitle>Dublin Core Conference</booktitle>
+<ee type="oa">http://dcpapers.dublincore.org/pubs/article/view/644</ee>
+<url>db/conf/dc/dc2001.html#DyresonBJ01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/Pedersen01" mdate="2002-07-03">
+<author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Pre-Aggregation for Irregular OLAP Hierarchies with the TreeScape System.</title>
+<year>2001</year>
+<crossref>conf/icde/2001d</crossref>
+<booktitle>ICDE Demo Sessions</booktitle>
+<url>db/conf/icde/icde2001d.html#Pedersen01</url>
+<pages>1-3</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/Dyreson01" mdate="2023-03-24">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Observing Transaction-Time Semantics with TTXPath.</title>
+<pages>193-202</pages>
+<year>2001</year>
+<crossref>conf/wise/2001-1</crossref>
+<booktitle>WISE (1)</booktitle>
+<ee>https://doi.org/10.1109/WISE.2001.996480</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WISE.2001.996480</ee>
+<url>db/conf/wise/wise2001-1.html#Dyreson01</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/DyresonELS00" mdate="2020-10-26">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="e/WSEvans">William S. Evans</author>
+<author pid="10/2774">Hong Lin</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>Efficiently Supported Temporal Granularities.</title>
+<pages>568-587</pages>
+<year>2000</year>
+<volume>12</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/69.868908</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/69.868908</ee>
+<url>db/journals/tkde/tkde12.html#DyresonELS00</url>
+</article>
+</r>
+<r><inproceedings key="conf/vldb/PedersenJD00" mdate="2020-03-12">
+<author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>The TreeScape System: Reuse of Pre-Computed Aggregates over Irregular OLAP Hierarchies.</title>
+<year>2000</year>
+<crossref>conf/vldb/2000</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2000.html#PedersenJD00</url>
+<pages>595-598</pages>
+<ee type="oa">http://www.vldb.org/conf/2000/P595.pdf</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BohlenBD99" mdate="2021-04-09">
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-9781-9690" pid="54/673">Linas Bukauskas</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>The Jungle Database Search Engine.</title>
+<pages>584-586</pages>
+<year>1999</year>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod99.html#BohlenBD99</url>
+<crossref>conf/sigmod/99</crossref>
+<ee>https://doi.org/10.1145/304182.304585</ee>
+<ee>https://doi.org/10.1145/304181.304585</ee>
+<cdrom>DiSC2_1/out/papers/sigmod/thejungledatabamilic.pdf</cdrom>
+<cite label="HCF97">...</cite>
+<cite label="LG98">...</cite>
+<cite label="LSS93">conf/dood/LakshmananSS93</cite>
+<cite label="Mot86">journals/tois/Motro86</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/PedersenJD99" mdate="2023-03-24">
+<author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Supporting Imprecision in Multidimensional Databases Using Granularities.</title>
+<pages>90-101</pages>
+<cdrom>DiSC2_1/out/papers/ssdbm/00460090.pdf</cdrom>
+<year>1999</year>
+<crossref>conf/ssdbm/99</crossref>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1109/SSDM.1999.787624</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SSDM.1999.787624</ee>
+<url>db/conf/ssdbm/ssdbm99.html#PedersenJD99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/DyresonBJ99" mdate="2020-03-12">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Capturing and Querying Multiple Aspects of Semistructured Data.</title>
+<pages>290-301</pages>
+<year>1999</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb99.html#DyresonBJ99</url>
+<crossref>conf/vldb/99</crossref>
+<ee type="oa">http://www.vldb.org/conf/1999/P30.pdf</ee>
+<cite>conf/dexa/AggarwalKM94</cite>
+<cite>conf/icde/ArocenaM98</cite>
+<cite>journals/jodl/AbiteboulQMWW97</cite>
+<cite>...</cite>
+<cite>conf/vldb/BohlenSS96</cite>
+<cite>conf/dbpl/BunemanDS95</cite>
+<cite>conf/sigmod/BunemanDHS96</cite>
+<cite>conf/pods/Buneman97</cite>
+<cite>...</cite>
+<cite>conf/icde/ChawatheAW98</cite>
+<cite>books/aw/CastanoFMS95</cite>
+<cite>...</cite>
+<cite>journals/sigmod/FernandezFLS97</cite>
+<cite>journals/sigmod/FlorescuLM98</cite>
+<cite>conf/vldb/GoldmanW97</cite>
+<cite>conf/webdb/GoldmanW98</cite>
+<cite>...</cite>
+<cite>conf/dagstuhl/JensenDBCEGGHJKKLMMNPPRSSSSSTTW97</cite>
+<cite>journals/is/LudascherHLMS98</cite>
+<cite>...</cite>
+<cite>journals/sigmod/McHughAGQW97</cite>
+<cite>conf/icdt/MiloS99</cite>
+<cite>journals/sigmod/NestorovAM97</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/PedersenJD99" mdate="2020-03-12">
+<author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Extending Practical Pre-Aggregation in On-Line Analytical Processing.</title>
+<pages>663-674</pages>
+<year>1999</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb99.html#PedersenJD99</url>
+<crossref>conf/vldb/99</crossref>
+<ee type="oa">http://www.vldb.org/conf/1999/P62.pdf</ee>
+<cite>conf/vldb/BaralisPT97</cite>
+<cite>...</cite>
+<cite>conf/vldb/SrivastavaDJL96</cite>
+<cite>conf/vldb/Dyreson96</cite>
+<cite>journals/datamine/GrayCBLRVPP97</cite>
+<cite>conf/vldb/GuptaHQ95</cite>
+<cite>conf/icde/GuptaHRU97</cite>
+<cite>conf/icdt/Gupta97</cite>
+<cite>conf/icdt/GuptaM99</cite>
+<cite>conf/sigmod/HarinarayanRU96</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>books/wi/Kimball96</cite>
+<cite>...</cite>
+<cite>conf/ssdbm/LenzS97</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigmod/MumickQM97</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/icde/PedersenJ99</cite>
+<cite>...</cite>
+<cite>conf/sigmod/QuassW97</cite>
+<cite>conf/ssdbm/RafanelliS90</cite>
+<cite>conf/vldb/ShuklaDNR96</cite>
+<cite>conf/vldb/TheodoratosS97</cite>
+<cite>conf/cikm/Widom95</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/vldb/YangKL97</cite>
+</inproceedings>
+</r>
+<r><article key="journals/tods/DyresonS98" mdate="2020-10-26">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>Supporting Valid-Time Indeterminacy.</title>
+<pages>1-57</pages>
+<cdrom>TODS23/P001.PDF</cdrom>
+<year>1998</year>
+<volume>23</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/288086.288087</ee>
+<url>db/journals/tods/tods23.html#DyresonS98</url>
+<cite label="Allen 1983">journals/cacm/Allen83</cite>
+<cite label="Ariav 1986">journals/tods/Ariav86</cite>
+<cite label="Bair et al. 1997">...</cite>
+<cite label="Barbar&#225; et al. 1990">conf/edbt/BarbaraGP90</cite>
+<cite label="Barbara et al. 1992">journals/tkde/BarbaraGP92</cite>
+<cite label="Belnap 1977">...</cite>
+<cite label="B&#246;hlen et al. 1996">conf/vldb/BohlenSS96</cite>
+<cite label="Brusoni et al. 1995">conf/tdb/BrusoniCTP95</cite>
+<cite label="Cavallo and Pittarelli 1987">conf/vldb/CavalloP87</cite>
+<cite label="Clifford et al. 1997">journals/tods/CliffordDIJS97</cite>
+<cite label="Clifford and Rao 1987">conf/tdb/CliffordR87</cite>
+<cite label="Codd 1990">...</cite>
+<cite label="Date 1986">...</cite>
+<cite label="Dean and Boddy 1988">journals/ai/DeanB88</cite>
+<cite label="DeWitt et al. 1991">conf/vldb/DeWittNS91</cite>
+<cite label="Dey and Sarkar 1996">journals/tods/DeyS96</cite>
+<cite label="Dubois and Prade 1989">...</cite>
+<cite label="Dubois et al. 1988">...</cite>
+<cite label="Dutta 1989">conf/icde/Dutta89</cite>
+<cite label="Dyreson 1994">...</cite>
+<cite label="Dyreson 1997">...</cite>
+<cite label="Dyreson and Snodgrass 1993">conf/icde/DyresonS93</cite>
+<cite label="Dyreson and Snodgrass 1995a">books/kl/snodgrass95/DyresonS95c</cite>
+<cite label="Dyreson and Snodgrass 1995b">books/kl/snodgrass95/DyresonS95a</cite>
+<cite label="Dyreson et al. 1995">books/kl/snodgrass95/DyresonSS95</cite>
+<cite label="Fuhr 1990">conf/vldb/Fuhr90</cite>
+<cite label="Fuhr and R&#246;lleke 1997">journals/tois/FuhrR97</cite>
+<cite label="Gadia et al. 1992">conf/vldb/GadiaNP92</cite>
+<cite label="Gelenbe and Hebrail 1986">conf/icde/GelenbeH86</cite>
+<cite label="Goudsmit and Clairborne 1966">...</cite>
+<cite label="Herion and Suemondt 1993">...</cite>
+<cite label="Jensen and Dyreson 1998">conf/dagstuhl/JensenDBCEGGHJKKLMMNPPRSSSSSTTW97</cite>
+<cite label="Kornatzky and Shimony 1993a">journals/dke/KornatzkyS94</cite>
+<cite label="Kornatzky and Shimony 1993b">conf/dexa/KornatzkyS93</cite>
+<cite label="Koubarakis 1993">conf/icde/Koubarakis93</cite>
+<cite label="Kouramajian and Elmasri 1992">...</cite>
+<cite label="Kraus and Subrahmanian 1994">...</cite>
+<cite label="Lakshmanan et al. 1997">journals/tods/LakshmananLRS97</cite>
+<cite label="Lee 1992">conf/vldb/Lee92</cite>
+<cite label="Leung and Muntz 1991">conf/vldb/LeungM92</cite>
+<cite label="Lipski 1979">journals/tods/Lipski79</cite>
+<cite label="Liu and Sunderraman 1990">journals/tods/LiuS90</cite>
+<cite label="Melton 1996">...</cite>
+<cite label="Melton and Simon 1993">books/mk/MeltonS93</cite>
+<cite label="Motro 1990">...</cite>
+<cite label="Ola 1992">conf/icde/Ole92</cite>
+<cite label="Parson 1996">journals/tkde/Parsons96</cite>
+<cite label="Peltey 1991">...</cite>
+<cite label="Prade 1993">...</cite>
+<cite label="Schiel 1987">...</cite>
+<cite label="Snodgrass 1982">...</cite>
+<cite label="Snodgrass et al. 1996">...</cite>
+<cite label="Snoidgrass 1995">books/kl/Snodgrass95</cite>
+<cite label="Soo et al. 1992">...</cite>
+<cite label="Srivastava and Eustace 1994">conf/pldi/SrivastavaE94</cite>
+<cite label="Tansel et al. 1993">books/bc/TanselCGJSS93</cite>
+<cite label="Tseng et al. 1993">journals/dpd/TsengCY93</cite>
+<cite label="Van Beek 1991">...</cite>
+<cite label="Vasanthakumar et al. 1996">journals/debu/RCC96</cite>
+<cite label="Vassiliou 1979">conf/sigmod/Vassiliou79</cite>
+<cite label="Vitek 1983">...</cite>
+<cite label="Wong 1982">journals/tods/Wong82</cite>
+<cite label="Zaniolo 1984">journals/jcss/Zaniolo84</cite>
+<cite label="Zemankova and Kandel 1985">...</cite>
+<cite label="Zim&#225;nyi 1992">...</cite>
+</article>
+</r>
+<r><article key="journals/debu/Dyreson97" mdate="2020-03-10">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Using an Incomplete Data Cube as a Summary Data Sieve.</title>
+<pages>19-26</pages>
+<year>1997</year>
+<volume>20</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<cdrom>DEBU/97MAR-CD.PDF</cdrom>
+<url>db/journals/debu/debu20.html#Dyreson97</url>
+<ee type="oa">http://sites.computer.org/debull/97MAR-CD.pdf</ee>
+<cite>conf/vldb/AgarwalADGNRS96</cite>
+<cite>conf/vldb/Dyreson96</cite>
+<cite>conf/icde/GrayBLP96</cite>
+<cite>conf/sigmod/HarinarayanRU96</cite>
+<cite>conf/vldb/ShuklaDNR96</cite>
+<cite>conf/cikm/Widom95</cite>
+</article>
+</r>
+<r><article key="journals/tods/CliffordDIJS97" mdate="2022-12-07">
+<author pid="11/3810">James Clifford</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="77/5244">Tom&#225;s Isakowitz</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>On the Semantics of "Now" in Databases</title>
+<pages>171-214</pages>
+<cdrom>TODS22/P171.PDF</cdrom>
+<year>1997</year>
+<volume>22</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<url>db/journals/tods/tods22.html#CliffordDIJS97</url>
+<ee>https://doi.org/10.1145/249978.249980</ee>
+<ee>https://www.wikidata.org/entity/Q56571781</ee>
+<cite label="AL-Taha et al. 1994">...</cite>
+<cite label="Ariav et al. 1984">...</cite>
+<cite label="Bassiouni and Llewellyn 1992">journals/cl/BassiouniL92</cite>
+<cite label="Ben-Zvi 1982">...</cite>
+<cite label="Bhargava and Gadia 1989">conf/vldb/BhargavaG89</cite>
+<cite label="Brusoni et al. 1995">conf/tdb/BrusoniCTP95</cite>
+<cite label="Clifford 1993">journals/lncs/Clifford93</cite>
+<cite label="Clifford and Croker 1987">conf/icde/CliffordC87</cite>
+<cite label="Clifford et al. 1993">journals/tods/CliffordC94</cite>
+<cite label="Clifford et al. 1994">...</cite>
+<cite label="Clifford and Isakowitz 1993">...</cite>
+<cite label="Clifford and Isakowitz 1994">conf/edbt/CliffordI94</cite>
+<cite label="Clifford and Tansel 1985">conf/sigmod/CliffordT85</cite>
+<cite label="Clifford and Warren 1983">journals/tods/CliffordW83</cite>
+<cite label="Codd 1970">journals/cacm/Codd70</cite>
+<cite label="Date and White 1990">...</cite>
+<cite label="Dutta 1989">conf/icde/Dutta89</cite>
+<cite label="Dyreson 1994">...</cite>
+<cite label="Dyreson and Snodgrass 1993a">journals/is/DyresonS93</cite>
+<cite label="Dyreson and Snodgrass 1993b">conf/icde/DyresonS93</cite>
+<cite label="Dyreson and Snodgrass 1993c">...</cite>
+<cite label="Elmasri et al. 1990">conf/vldb/ElmasriWK90</cite>
+<cite label="Finger 1992">...</cite>
+<cite label="Fraenkel et al. 1973">...</cite>
+<cite label="Gadia 1988">journals/tods/Gadia88</cite>
+<cite label="Gadia and Nair 1993">...</cite>
+<cite label="Gadia et al. 1992">conf/vldb/GadiaNP92</cite>
+<cite label="Jensen and Mark 1990">...</cite>
+<cite label="Jensen and Mark 1992">journals/tkde/JensenM92</cite>
+<cite label="Jensen and Snodgrass 1992">conf/icde/JensenS92</cite>
+<cite label="Jensen and Snodgrass 1994">journals/tkde/JensenS94</cite>
+<cite label="Jensen and Snodgrass 1996">journals/is/JensenS96</cite>
+<cite label="Jensen et al. 1994a">journals/sigmod/JensenCEGHJ94</cite>
+<cite label="Jensen et al. 1994b">journals/is/JensenSS94</cite>
+<cite label="Kurutach and Franklin 1993">conf/dexa/KurutachF93</cite>
+<cite label="Lipski 1979">journals/tods/Lipski79</cite>
+<cite label="Lorentzos and Johnson 1988">journals/is/LorentzosJ88</cite>
+<cite label="Melton and Simon 1993">books/mk/MeltonS93</cite>
+<cite label="Montague 1974">...</cite>
+<cite label="Navathe and Ahmed 1989">...</cite>
+<cite label="Reiter 1984">...</cite>
+<cite label="Roddick 1992">journals/sigmod/Roddick92a</cite>
+<cite label="Sarda 1990">journals/cj/Sarda90</cite>
+<cite label="Snodgrass 1987">journals/tods/Snodgrass87</cite>
+<cite label="Snodgrass 1993">...</cite>
+<cite label="Snodgrass 1995">books/kl/Snodgrass95</cite>
+<cite label="Snodgrass and Ahn 1985">conf/sigmod/SnodgrassA85</cite>
+<cite label="Sykes 1964">...</cite>
+<cite label="Tansel 1990">...</cite>
+<cite label="Tansel et al. 1993">books/bc/TanselCGJSS93</cite>
+<cite label="Thirumalai and Krishna 1988">...</cite>
+<cite label="Wiederhold et al. 1993">...</cite>
+<cite label="Yau and Chat 1991">...</cite>
+</article>
+</r>
+<r><inproceedings key="conf/dagstuhl/JensenDBCEGGHJKKLMMNPPRSSSSSTTW97" mdate="2022-12-07">
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="11/3810">James Clifford</author>
+<author pid="e/RamezElmasri">Ramez Elmasri</author>
+<author pid="g/ShashiKGadia">Shashi K. Gadia</author>
+<author pid="268/3862-1">Fabio Grandi 0001</author>
+<author orcid="0000-0002-6639-9187" pid="11/719">Patrick J. Hayes</author>
+<author pid="j/SushilJajodia">Sushil Jajodia</author>
+<author pid="25/3777">Wolfgang K&#228;fer</author>
+<author pid="k/NickKline">Nick Kline</author>
+<author pid="26/1286">Nikos A. Lorentzos</author>
+<author pid="23/2367">Yannis G. Mitsopoulos</author>
+<author pid="68/27">Angelo Montanari</author>
+<author pid="99/1770">Daniel A. Nonen</author>
+<author pid="84/3591">Elisa Peressi</author>
+<author pid="p/BarbaraPernici">Barbara Pernici</author>
+<author pid="r/JohnFRoddick">John F. Roddick</author>
+<author pid="s/NandlalLSarda">Nandlal L. Sarda</author>
+<author pid="s/MariaRitaScalas">Maria Rita Scalas</author>
+<author pid="s/ArieSegev">Arie Segev</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<author pid="08/6667">Michael D. Soo</author>
+<author pid="10/3450">Abdullah Uz Tansel</author>
+<author pid="t/PaoloTiberio">Paolo Tiberio</author>
+<author pid="w/GioWiederhold">Gio Wiederhold</author>
+<title>The Consensus Glossary of Temporal Database Concepts - February 1998 Version.</title>
+<pages>367-405</pages>
+<year>1997</year>
+<crossref>conf/dagstuhl/TDB97</crossref>
+<booktitle>Temporal Databases, Dagstuhl</booktitle>
+<url>db/conf/dagstuhl/dagstuhl-tdb97.html#JensenDBCEGGHJKKLMMNPPRSSSSSTTW97</url>
+<ee>https://doi.org/10.1007/BFb0053710</ee>
+<ee>https://www.wikidata.org/entity/Q56580010</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dagstuhl/BettiniDESW97" mdate="2019-08-07">
+<author pid="b/CBettini">Claudio Bettini</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="e/WSEvans">William S. Evans</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<author pid="w/XiaoyangSeanWang">Xiaoyang Sean Wang</author>
+<title>A Glossary of Time Granularity Concepts.</title>
+<pages>406-413</pages>
+<year>1997</year>
+<crossref>conf/dagstuhl/TDB97</crossref>
+<booktitle>Temporal Databases, Dagstuhl</booktitle>
+<url>db/conf/dagstuhl/dagstuhl-tdb97.html#BettiniDESW97</url>
+<ee>https://doi.org/10.1007/BFb0053711</ee>
+</inproceedings>
+</r>
+<r><article key="journals/wwwj/DyresonS96" mdate="2020-08-13">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="s/AnthonyMSloane">Anthony M. Sloane</author>
+<title>The Boomerang White Paper: A Page as You Like It.</title>
+<year>1996</year>
+<volume>1</volume>
+<journal>World Wide Web J.</journal>
+<number>1</number>
+<url>db/journals/wwwj/wwwj1.html#DyresonS96</url>
+</article>
+</r>
+<r><inproceedings key="conf/acse/SloaneD96" mdate="2020-10-25">
+<author orcid="0000-0002-6802-7360" pid="s/AnthonyMSloane">Anthony M. Sloane</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>An interactive self-paced learning environment for the World Wide Web.</title>
+<pages>344-351</pages>
+<year>1996</year>
+<booktitle>ACSE</booktitle>
+<ee>https://doi.org/10.1145/369585.369667</ee>
+<crossref>conf/acse/1996</crossref>
+<url>db/conf/acse/acse1996.html#SloaneD96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/Dyreson96" mdate="2012-09-17">
+<crossref>conf/vldb/96</crossref>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>Information Retrieval from an Incomplete Data Cube.</title>
+<pages>532-543</pages>
+<year>1996</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb96.html#Dyreson96</url>
+<ee>http://www.vldb.org/conf/1996/P532.PDF</ee>
+<cite label="CS81">conf/vldb/ChanS81</cite>
+<cite label="GHQ95">conf/vldb/GuptaHQ95</cite>
+<cite label="HRU95">conf/sigmod/HarinarayanRU96</cite>
+<cite label="JCE+94">journals/sigmod/JensenCEGHJ94</cite>
+<cite label="KEG93">...</cite>
+<cite label="Mal91">...</cite>
+<cite label="Mer74">...</cite>
+<cite label="MS93">books/mk/MeltonS93</cite>
+<cite label="RS90">journals/debu/RafanelliS90</cite>
+<cite label="Sat91">...</cite>
+<cite label="Su83">...</cite>
+<cite label="Wid95">conf/cikm/Widom95</cite>
+<cite label="WJL91">conf/caise/WiederholdJL91</cite>
+<cite label="WJS93">conf/sigmod/WangJS93</cite>
+</inproceedings>
+</r>
+<r><incollection key="books/kl/motroS96/Dyreson96" mdate="2019-08-07">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>A Bibliography on Uncertainty Management in Information Systems.</title>
+<pages>415-458</pages>
+<year>1996</year>
+<crossref>books/kl/motroS96/MS1996</crossref>
+<booktitle>Uncertainty Management in Information Systems</booktitle>
+<url>db/books/collections/MotroS96.html#Dyreson96</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/www/DyresonS95" mdate="2023-09-21">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="s/AnthonyMSloane">Anthony M. Sloane</author>
+<title>The Boomerang White Paper: A Page as You Like It.</title>
+<pages>667-676</pages>
+<year>1995</year>
+<crossref>conf/www/1995f</crossref>
+<booktitle>WWW (Fall)</booktitle>
+<ee>https://doi.org/10.1145/3592626.3592680</ee>
+<url>db/conf/www/www1995f.html#DyresonS95</url>
+</inproceedings>
+</r>
+<r><incollection key="books/kl/snodgrass95/SnodgrassJDKKR95" mdate="2019-08-03">
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="25/3777">Wolfgang K&#228;fer</author>
+<author pid="k/NickKline">Nick Kline</author>
+<author pid="r/JohnFRoddick">John F. Roddick</author>
+<title>A Second Example.</title>
+<pages>47-72</pages>
+<year>1995</year>
+<crossref>books/kl/Snodgrass95</crossref>
+<booktitle>The TSQL2 Temporal Query Language</booktitle>
+<url>db/books/collections/snodgrass95.html#SnodgrassJDKKR95</url>
+<cdrom>tsql2/P047.pdf</cdrom>
+</incollection>
+</r>
+<r><incollection key="books/kl/snodgrass95/DyresonS95" mdate="2019-08-03">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>The Baseline Clock.</title>
+<pages>73-92</pages>
+<year>1995</year>
+<crossref>books/kl/Snodgrass95</crossref>
+<booktitle>The TSQL2 Temporal Query Language</booktitle>
+<url>db/books/collections/snodgrass95.html#DyresonS95</url>
+<cdrom>tsql2/P073.pdf</cdrom>
+</incollection>
+</r>
+<r><incollection key="books/kl/snodgrass95/DyresonSS95" mdate="2019-08-03">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="08/6667">Michael D. Soo</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>The Data Model for Time.</title>
+<pages>93-98</pages>
+<year>1995</year>
+<crossref>books/kl/Snodgrass95</crossref>
+<booktitle>The TSQL2 Temporal Query Language</booktitle>
+<url>db/books/collections/snodgrass95.html#DyresonSS95</url>
+</incollection>
+</r>
+<r><incollection key="books/kl/snodgrass95/DyresonS95a" mdate="2019-08-03">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>Temporal Indeterminancy.</title>
+<pages>325-344</pages>
+<year>1995</year>
+<crossref>books/kl/Snodgrass95</crossref>
+<booktitle>The TSQL2 Temporal Query Language</booktitle>
+<url>db/books/collections/snodgrass95.html#DyresonS95a</url>
+<cdrom>tsql2/P325.pdf</cdrom>
+</incollection>
+</r>
+<r><incollection key="books/kl/snodgrass95/DyresonS95b" mdate="2019-08-03">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>Temporal Granularity.</title>
+<pages>345-382</pages>
+<year>1995</year>
+<crossref>books/kl/Snodgrass95</crossref>
+<booktitle>The TSQL2 Temporal Query Language</booktitle>
+<url>db/books/collections/snodgrass95.html#DyresonS95b</url>
+<cdrom>tsql2/P345.pdf</cdrom>
+</incollection>
+</r>
+<r><incollection key="books/kl/snodgrass95/CliffordDSIJ95" mdate="2019-08-03">
+<author pid="11/3810">James Clifford</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<author pid="77/5244">Tom&#225;s Isakowitz</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>''Now''.</title>
+<pages>383-392</pages>
+<year>1995</year>
+<crossref>books/kl/Snodgrass95</crossref>
+<booktitle>The TSQL2 Temporal Query Language</booktitle>
+<url>db/books/collections/snodgrass95.html#CliffordDSIJ95</url>
+<cdrom>tsql2/P383.pdf</cdrom>
+</incollection>
+</r>
+<r><incollection key="books/kl/snodgrass95/DyresonS95c" mdate="2019-08-03">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>A Timestamp Representation.</title>
+<pages>471-496</pages>
+<year>1995</year>
+<crossref>books/kl/Snodgrass95</crossref>
+<booktitle>The TSQL2 Temporal Query Language</booktitle>
+<url>db/books/collections/snodgrass95.html#DyresonS95c</url>
+<cdrom>tsql2/P471.pdf</cdrom>
+</incollection>
+</r>
+<r><article key="journals/sigmod/SnodgrassAABCDEGJKKKLLRSSS94" mdate="2022-12-07">
+<ee>https://doi.org/10.1145/181550.181562</ee>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<author pid="41/5076">Ilsoo Ahn</author>
+<author pid="93/2221">Gad Ariav</author>
+<author pid="b/DSBatory">Don S. Batory</author>
+<author pid="11/3810">James Clifford</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="e/RamezElmasri">Ramez Elmasri</author>
+<author pid="268/3862-1">Fabio Grandi 0001</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="25/3777">Wolfgang K&#228;fer</author>
+<author pid="k/NickKline">Nick Kline</author>
+<author pid="15/2629">Krishna G. Kulkarni</author>
+<author pid="36/6355">T. Y. Cliff Leung</author>
+<author pid="26/1286">Nikos A. Lorentzos</author>
+<author orcid="0000-0001-7024-0796" pid="r/JohnFRoddick">John F. Roddick</author>
+<author pid="s/ArieSegev">Arie Segev</author>
+<author pid="08/6667">Michael D. Soo</author>
+<author pid="11/4273">Suryanarayana M. Sripada</author>
+<title>TSQL2 Language Specification.</title>
+<pages>65-86</pages>
+<cdrom>sigmodR/23-1/P065.pdf</cdrom>
+<year>1994</year>
+<volume>23</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<url>db/journals/sigmod/sigmod23.html#SnodgrassAABCDEGJKKKLLRSSS94</url>
+</article>
+</r>
+<r><article key="journals/sigmod/SnodgrassAABCDEGJKKKLLRSSS94a" mdate="2022-12-07">
+<ee>https://doi.org/10.1145/187436.187449</ee>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<author pid="41/5076">Ilsoo Ahn</author>
+<author pid="93/2221">Gad Ariav</author>
+<author pid="b/DSBatory">Don S. Batory</author>
+<author pid="11/3810">James Clifford</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="e/RamezElmasri">Ramez Elmasri</author>
+<author pid="268/3862-1">Fabio Grandi 0001</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="25/3777">Wolfgang K&#228;fer</author>
+<author pid="k/NickKline">Nick Kline</author>
+<author pid="15/2629">Krishna G. Kulkarni</author>
+<author pid="36/6355">T. Y. Cliff Leung</author>
+<author pid="26/1286">Nikos A. Lorentzos</author>
+<author orcid="0000-0001-7024-0796" pid="r/JohnFRoddick">John F. Roddick</author>
+<author pid="s/ArieSegev">Arie Segev</author>
+<author pid="08/6667">Michael D. Soo</author>
+<author pid="11/4273">Suryanarayana M. Sripada</author>
+<title>A TSQL2 Tutorial.</title>
+<pages>27-33</pages>
+<cdrom>sigmodR/23-3/P027.pdf</cdrom>
+<year>1994</year>
+<volume>23</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<url>db/journals/sigmod/sigmod23.html#SnodgrassAABCDEGJKKKLLRSSS94a</url>
+</article>
+</r>
+<r><article key="journals/spe/DyresonS94" mdate="2020-10-26">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>Efficient Timestamp Input and Output.</title>
+<pages>89-109</pages>
+<year>1994</year>
+<volume>24</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>1</number>
+<url>db/journals/spe/spe24.html#DyresonS94</url>
+<ee>https://doi.org/10.1002/spe.4380240106</ee>
+</article>
+</r>
+<r><article key="journals/is/DyresonS93" mdate="2020-10-26">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>Timestamp semantics and representation.</title>
+<pages>143-166</pages>
+<year>1993</year>
+<volume>18</volume>
+<journal>Inf. Syst.</journal>
+<number>3</number>
+<url>db/journals/is/is18.html#DyresonS93</url>
+<ee>https://doi.org/10.1016/0306-4379(93)90034-X</ee>
+</article>
+</r>
+<r><inproceedings key="conf/icde/DyresonS93" mdate="2023-03-24">
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>Valid-time Indeterminancy.</title>
+<pages>335-343</pages>
+<cdrom>ICDE93/P335.pdf</cdrom>
+<year>1993</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde93.html#DyresonS93</url>
+<crossref>conf/icde/93</crossref>
+<ee>https://doi.org/10.1109/ICDE.1993.344048</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.1993.344048</ee>
+<cite label="Ariav 1986">journals/tods/Ariav86</cite>
+<cite label="Barbar&#225; et al. 1992">journals/tkde/BarbaraGP92</cite>
+<cite label="Clifford &amp; Tansel 1985">conf/sigmod/CliffordT85</cite>
+<cite label="Clifford &amp; Rao 1987">...</cite>
+<cite label="Codd 1990">...</cite>
+<cite label="Date 1986">...</cite>
+<cite label="DeWitt et al. 1991">conf/vldb/DeWittNS91</cite>
+<cite label="Dubois &amp; Prade 1988">...</cite>
+<cite label="Dutta 1989">conf/icde/Dutta89</cite>
+<cite label="Dyreson &amp; Snodgrass 1992A">...</cite>
+<cite label="Dyreson &amp; Snodgrass 1992B">...</cite>
+<cite label="Gadia et al. 1992">conf/vldb/GadiaNP92</cite>
+<cite label="Jensen et al. 1992">journals/sigmod/JensenCGSS92</cite>
+<cite label="Kahn &amp; Gorry 1977">journals/ai/KahnG77</cite>
+<cite label="Kouramajian &amp; Elmasri 1992">...</cite>
+<cite label="Ladkin 1987">...</cite>
+<cite label="Leung &amp; Muntz 1991">conf/vldb/LeungM92</cite>
+<cite label="Lipski 1979">journals/tods/Lipski79</cite>
+<cite label="Liu &amp; Sunderraman 1990">journals/tods/LiuS90</cite>
+<cite label="Maiocchi &amp; Pernici 1991">journals/tkde/MaiocchiP91</cite>
+<cite label="McKenzie &amp; Snodgrass 1991">...</cite>
+<cite label="Melton 1990">...</cite>
+<cite label="Motro 1990">...</cite>
+<cite label="Ola 1992">conf/icde/Ole92</cite>
+<cite label="Snodgrass 1993">books/bc/tanselCGSS93/Snodgrass93</cite>
+<cite label="Snodgrass et al. 1993">journals/tkde/SnodgrassGM93</cite>
+<cite label="Snodgrass 1987">journals/tods/Snodgrass87</cite>
+<cite label="Stonebraker et al. 1976">journals/tods/StonebrakerWKH76</cite>
+<cite label="Vassiliou 1979">conf/sigmod/Vassiliou79</cite>
+<cite label="Wiederhold et al. 1991">conf/caise/WiederholdJL91</cite>
+<cite label="Zaniolo 1984">journals/jcss/Zaniolo84</cite>
+<cite label="Zemankova &amp; Kandel 1985">journals/ins/Zemankova85</cite>
+</inproceedings>
+</r>
+<coauthors n="113" nc="9">
+<co c="5"><na f="a/Adams:Jonathan" pid="77/4291">Jonathan Adams</na></co>
+<co c="0"><na f="a/Ahn:Ilsoo" pid="41/5076">Ilsoo Ahn</na></co>
+<co c="-1"><na f="a/Ahsan:M=_A=_Manazir" pid="226/5165">M. A. Manazir Ahsan</na></co>
+<co c="2"><na f="a/Alexander:Roger_T=" pid="60/5998">Roger T. Alexander</na></co>
+<co c="2"><na f="a/Andrews:Anneliese_Amschler" pid="a/AnnelieseAmschlerAndrews">Anneliese Amschler Andrews</na></co>
+<co c="0"><na f="a/Ang:Min=Hwee" pid="169/1777">Min-Hwee Ang</na></co>
+<co c="0"><na f="a/Ariav:Gad" pid="93/2221">Gad Ariav</na></co>
+<co c="0"><na f="a/Aryal:Santosh" pid="360/0551">Santosh Aryal</na></co>
+<co c="0"><na f="a/Augsten:Nikolaus" pid="76/3961">Nikolaus Augsten</na></co>
+<co c="2"><na f="b/Bakken:David_E=" pid="12/5624">David E. Bakken</na></co>
+<co c="0"><na f="b/Batory:Don_S=" pid="b/DSBatory">Don S. Batory</na></co>
+<co c="0"><na f="b/Bettini:Claudio" pid="b/CBettini">Claudio Bettini</na></co>
+<co c="0"><na f="b/Bhowmick:Sourav_S=" pid="b/SSBhowmick">Sourav S. Bhowmick</na></co>
+<co c="0"><na f="b/B=ouml=hlen:Michael_H=" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</na></co>
+<co c="3"><na f="b/Brandt:Benjamin" pid="195/7428">Benjamin Brandt</na></co>
+<co c="2"><na f="b/Bryce:Ren=eacute=e_C=" pid="96/5178">Ren&#233;e C. Bryce</na></co>
+<co c="0"><na f="b/Bukauskas:Linas" pid="54/673">Linas Bukauskas</na></co>
+<co c="0"><na f="c/Choi:Byron" pid="07/1560">Byron Choi</na></co>
+<co c="0"><na f="c/Chua:Huey=Eng" pid="94/11104">Huey-Eng Chua</na></co>
+<co c="0"><na f="c/Clifford:James" pid="11/3810">James Clifford</na></co>
+<co c="0"><na f="c/Currim:Faiz" pid="83/3958">Faiz Currim</na></co>
+<co c="0"><na f="c/Currim:Sabah" pid="22/5067">Sabah Currim</na></co>
+<co c="0"><na f="d/Dang:Zhe" pid="51/5888">Zhe Dang</na></co>
+<co c="0"><na f="e/Elmasri:Ramez" pid="e/RamezElmasri">Ramez Elmasri</na></co>
+<co c="0"><na f="e/Evans:William_S=" pid="e/WSEvans">William S. Evans</na></co>
+<co c="1"><na f="f/Flann:Nicholas" pid="301/3723">Nicholas Flann</na></co>
+<co c="1"><na f="f/Florez:Omar_U=" pid="96/6523">Omar U. Florez</na></co>
+<co c="2"><na f="f/Franz:Andy_A=" pid="81/3440">Andy A. Franz</na></co>
+<co c="0"><na f="g/Gadia:Shashi_K=" pid="g/ShashiKGadia">Shashi K. Gadia</na></co>
+<co c="0"><na f="g/Gamper:Johann" pid="59/6952">Johann Gamper</na></co>
+<co c="-1"><na f="g/Goyal:Aayush" pid="259/9157">Aayush Goyal</na></co>
+<co c="0"><na f="g/Grandi_0001:Fabio" pid="268/3862-1">Fabio Grandi 0001</na></co>
+<co c="0"><na f="g/Grapp:Ryan" pid="147/1205">Ryan Grapp</na></co>
+<co c="4"><na f="h/Hansen:Michael_R=" pid="50/6388">Michael R. Hansen</na></co>
+<co c="0"><na f="h/Hayes:Patrick_J=" pid="11/719">Patrick J. Hayes</na></co>
+<co c="-1"><na f="h/He:Haiyun" pid="25/2271">Haiyun He</na></co>
+<co c="4"><na f="h/Hunsberger:Luke" pid="62/292">Luke Hunsberger</na></co>
+<co c="0"><na f="i/Isakowitz:Tom=aacute=s" pid="77/5244">Tom&#225;s Isakowitz</na></co>
+<co c="0"><na f="j/Jain:Arihant" pid="150/2372">Arihant Jain</na></co>
+<co c="0"><na f="j/Jajodia:Sushil" pid="j/SushilJajodia">Sushil Jajodia</na></co>
+<co c="0"><na f="j/Jannu:Aswani_Rao" pid="99/7992">Aswani Rao Jannu</na></co>
+<co c="0"><na f="j/Jensen:Christian_S=" pid="j/ChristianSJensen">Christian S. Jensen</na></co>
+<co c="2"><na f="j/Jerath:Kshamta" pid="14/2455">Kshamta Jerath</na></co>
+<co c="-1"><na f="j/Jin:Hao" pid="06/1958">Hao Jin</na></co>
+<co c="0"><na f="j/Joshi:Shailesh" pid="68/4652">Shailesh Joshi</na></co>
+<co c="0"><na f="k/K=auml=fer:Wolfgang" pid="25/3777">Wolfgang K&#228;fer</na></co>
+<co c="0"><na f="k/Khok:Hong_Jing" pid="204/0164">Hong Jing Khok</na></co>
+<co c="0"><na f="k/Kline:Nick" pid="k/NickKline">Nick Kline</na></co>
+<co c="3"><na f="k/Koontz:Austin" pid="290/2553">Austin Koontz</na></co>
+<co c="0"><na f="k/Kulkarni:Krishna_G=" pid="15/2629">Krishna G. Kulkarni</na></co>
+<co c="1"><na f="l/Lee:Kyumin" pid="22/8024">Kyumin Lee</na></co>
+<co c="0"><na f="l/Lee:Mong=Li" pid="l/MongLiLee">Mong-Li Lee</na></co>
+<co c="0"><na f="l/Leonardi:Erwin" pid="l/ErwinLeonardi">Erwin Leonardi</na></co>
+<co c="0"><na f="l/Leung:T=_Y=_Cliff" pid="36/6355">T. Y. Cliff Leung</na></co>
+<co c="0"><na f="l/Li_0001:Feifei" pid="l/FeifeiLi">Feifei Li 0001</na></co>
+<co c="0"><na f="l/Lin:Hong" pid="10/2774">Hong Lin</na></co>
+<co c="8"><na f="l/Lin:Hui=ling" pid="23/1170">Hui-ling Lin</na></co>
+<co c="0"><na f="l/Lorentzos:Nikos_A=" pid="26/1286">Nikos A. Lorentzos</na></co>
+<co c="1"><na f="m/Maheshwari:Aditi" pid="279/2130">Aditi Maheshwari</na></co>
+<co c="0"><na f="m/Mallampalli:Kirankanth" pid="48/7992">Kirankanth Mallampalli</na></co>
+<co c="2"><na f="m/Mallery:Christopher_J=" pid="31/4666">Christopher J. Mallery</na></co>
+<co c="2"><na f="m/Medidi:Muralidhar" pid="45/292">Muralidhar Medidi</na></co>
+<co c="-1"><na f="m/Mekala:Kalyan_G=" pid="54/10847">Kalyan G. Mekala</na></co>
+<co c="0"><na f="m/Miller:Jessica_K=" pid="19/1927">Jessica K. Miller</na></co>
+<co c="2"><na f="m/Mista:Radek" pid="41/5672">Radek Mista</na></co>
+<co c="0"><na f="m/Mitsopoulos:Yannis_G=" pid="23/2367">Yannis G. Mitsopoulos</na></co>
+<co c="0"><na f="m/Montanari:Angelo" pid="68/27">Angelo Montanari</na></co>
+<co c="0"><na f="m/Muliantara:Agus" pid="144/3234">Agus Muliantara</na></co>
+<co c="1"><na f="n/Neubert:Zachary" pid="267/1479">Zachary Neubert</na></co>
+<co c="0"><na f="n/Ng:Zhifeng" pid="09/7537">Zhifeng Ng</na></co>
+<co c="0"><na f="n/Nonen:Daniel_A=" pid="99/1770">Daniel A. Nonen</na></co>
+<co c="6"><na f="o/O=Connor:Timothy_R=" pid="05/491">Timothy R. O'Connor</na></co>
+<co c="1"><na f="o/Ocsa:Alexander" pid="61/1753">Alexander Ocsa</na></co>
+<co c="2"><na f="o/Offutt:A=_Jefferson" pid="o/AJeffersonOffutt">A. Jefferson Offutt</na></co>
+<co c="0"><na f="=/=Ouml=zsu:M=_Tamer" pid="o/MTamerOzsu">M. Tamer &#214;zsu</na></co>
+<co c="3"><na f="p/Pearse:William_D=" pid="167/2023">William D. Pearse</na></co>
+<co c="0"><na f="p/Pedersen:Torben_Bach" pid="p/TorbenBachPedersen">Torben Bach Pedersen</na></co>
+<co c="0"><na f="p/Peressi:Elisa" pid="84/3591">Elisa Peressi</na></co>
+<co c="0"><na f="p/Pernici:Barbara" pid="p/BarbaraPernici">Barbara Pernici</na></co>
+<co c="2"><na f="r/Ran:Lihua" pid="54/6158">Lihua Ran</na></co>
+<co c="7"><na f="r/Rani:Venkata_A=" pid="174/2208">Venkata A. Rani</na></co>
+<co c="1"><na f="r/Reeve:Jennifer" pid="279/2634">Jennifer Reeve</na></co>
+<co c="0"><na f="r/Roddick:John_F=" pid="r/JohnFRoddick">John F. Roddick</na></co>
+<co c="0"><na f="s/Sarda:Nandlal_L=" pid="s/NandlalLSarda">Nandlal L. Sarda</na></co>
+<co c="0"><na f="s/Scalas:Maria_Rita" pid="s/MariaRitaScalas">Maria Rita Scalas</na></co>
+<co c="0"><na f="s/Segev:Arie" pid="s/ArieSegev">Arie Segev</na></co>
+<co c="1"><na f="s/Shahabdeen:Junaith" pid="68/8013">Junaith Shahabdeen</na></co>
+<co c="1"><na f="s/Sharma_0005:Vishal" pid="20/6234-5">Vishal Sharma 0005</na></co>
+<co c="7"><na f="s/Shatnawi:Amani" pid="174/2128">Amani Shatnawi</na></co>
+<co c="-1"><na f="s/Sloane:Anthony_M=" pid="s/AnthonyMSloane">Anthony M. Sloane</na></co>
+<co c="0"><na f="s/Snodgrass:Richard_T=" pid="s/RichardTSnodgrass">Richard T. Snodgrass</na></co>
+<co c="0"><na f="s/Soo:Michael_D=" pid="08/6667">Michael D. Soo</na></co>
+<co c="0"><na f="s/Sripada:Suryanarayana_M=" pid="11/4273">Suryanarayana M. Sripada</na></co>
+<co c="0"><na f="s/Sun:Aixin" pid="78/5155">Aixin Sun</na></co>
+<co c="5"><na f="s/Suryavanshi:Chetna" pid="249/2414">Chetna Suryavanshi</na></co>
+<co c="0"><na f="s/Swami:Shubham" pid="360/1084">Shubham Swami</na></co>
+<co c="0"><na f="t/Tansel:Abdullah_Uz" pid="10/3450">Abdullah Uz Tansel</na></co>
+<co c="1"><na f="t/Thakre:Akshay" pid="129/9804">Akshay Thakre</na></co>
+<co c="0"><na f="t/Thalheim:Bernhard" pid="t/BernhardThalheim">Bernhard Thalheim</na></co>
+<co c="0"><na f="t/Thomas:Stephen_W=" pid="74/9655">Stephen W. Thomas</na></co>
+<co c="0"><na f="t/Tiberio:Paolo" pid="t/PaoloTiberio">Paolo Tiberio</na></co>
+<co c="0"><na f="t/Timko:Igor" pid="78/5835">Igor Timko</na></co>
+<co c="0"><na f="t/Truong:Ba_Quan" pid="99/11145">Ba Quan Truong</na></co>
+<co c="0"><na f="u/Urgun:Bedirhan" pid="76/5321">Bedirhan Urgun</na></co>
+<co c="0"><na f="w/Wang:Xiaoyang_Sean" pid="w/XiaoyangSeanWang">Xiaoyang Sean Wang</na></co>
+<co c="8"><na f="w/Wang:Yingxia" pid="47/1186">Yingxia Wang</na></co>
+<co c="1"><na f="w/Whaley:Anthony" pid="279/2248">Anthony Whaley</na></co>
+<co c="0"><na f="w/Wiederhold:Gio" pid="w/GioWiederhold">Gio Wiederhold</na></co>
+<co c="6"><na f="w/Wyrick:John_J=" pid="62/2493">John J. Wyrick</na></co>
+<co c="-1"><na f="x/Xu:Lin" pid="40/1068">Lin Xu</na></co>
+<co c="0"><na f="z/Zhang_0035:Rui" pid="60/2536-35">Rui Zhang 0035</na></co>
+<co c="0"><na f="z/Zhang:Shuohao" pid="11/2195">Shuohao Zhang</na></co>
+<co c="1"><na f="z/Zhang:Zekun" pid="165/2197">Zekun Zhang</na></co>
+</coauthors>
+</dblpperson>

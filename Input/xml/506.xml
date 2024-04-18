@@ -1,0 +1,361 @@
+<dblpperson name="Manasi Vartak" pid="25/7592" n="20">
+<person key="homepages/25/7592" mdate="2009-12-08">
+<author pid="25/7592">Manasi Vartak</author>
+</person>
+<r><article key="journals/pvldb/Vartak21" mdate="2022-04-21">
+<author pid="25/7592">Manasi Vartak</author>
+<title>From ML Models to Intelligent Applications: The Rise of MLOps.</title>
+<pages>3419</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p3419-vartak.pdf</ee>
+<ee>https://doi.org/10.14778/3484224.3484240</ee>
+<url>db/journals/pvldb/pvldb14.html#Vartak21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/RekatsinasRVZP19" mdate="2021-01-22">
+<author orcid="0000-0001-6148-1854" pid="51/11411">Theodoros Rekatsinas</author>
+<author pid="77/4620">Sudeepa Roy</author>
+<author pid="25/7592">Manasi Vartak</author>
+<author pid="97/919-1">Ce Zhang 0001</author>
+<author pid="p/NeoklisPolyzotis">Neoklis Polyzotis</author>
+<title>Opportunities for Data Management Research in the Era of Horizontal AI/ML.</title>
+<pages>2323-2324</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p2323-rekatsinas.pdf</ee>
+<ee>https://doi.org/10.14778/3352063.3352149</ee>
+<url>db/journals/pvldb/pvldb12.html#RekatsinasRVZP19</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/SchelterPVS19" mdate="2019-06-22">
+<author pid="118/7229">Sebastian Schelter</author>
+<author pid="p/NeoklisPolyzotis">Neoklis Polyzotis</author>
+<author pid="25/7592">Manasi Vartak</author>
+<author pid="79/8024">Stephan Seufert</author>
+<title>DEEM 2019: Workshop on Data Management for End-to-End Machine Learning.</title>
+<pages>2066-2067</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3323598</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#SchelterPVS19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigmod/2019deem" mdate="2019-06-05">
+<editor pid="118/7229">Sebastian Schelter</editor>
+<editor pid="p/NeoklisPolyzotis">Neoklis Polyzotis</editor>
+<editor pid="79/8024">Stephan Seufert</editor>
+<editor pid="25/7592">Manasi Vartak</editor>
+<title>Proceedings of the 3rd International Workshop on Data Management for End-to-End Machine Learning, DEEM@SIGMOD 2019, Amsterdam, The Netherlands, June 30, 2019</title>
+<publisher>ACM</publisher>
+<booktitle>DEEM@SIGMOD</booktitle>
+<year>2019</year>
+<isbn>978-1-4503-6797-4</isbn>
+<ee>https://doi.org/10.1145/3329486</ee>
+<url>db/conf/sigmod/deem2019.html</url>
+</proceedings>
+</r>
+<r><phdthesis key="phd/ndltd/Vartak18" mdate="2022-05-04">
+<author pid="25/7592">Manasi Vartak</author>
+<title>Infrastructure for model management and model diagnosis.</title>
+<year>2018</year>
+<school>Massachusetts Institute of Technology, Cambridge, USA</school>
+<ee>https://hdl.handle.net/1721.1/118091</ee>
+<note type="source">ndltd.org (oai:dspace.mit.edu:1721.1/118091)</note>
+</phdthesis>
+</r>
+<r><article key="journals/debu/VartakM18" mdate="2023-08-08">
+<author pid="25/7592">Manasi Vartak</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>MODELDB: Opportunities and Challenges in Managing Machine Learning Models.</title>
+<pages>16-25</pages>
+<year>2018</year>
+<volume>41</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A18dec/p16.pdf</ee>
+<url>db/journals/debu/debu41.html#VartakM18</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/VartakTMZ18" mdate="2024-02-05">
+<author pid="25/7592">Manasi Vartak</author>
+<author pid="48/6542">Joana M. F. da Trindade</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author orcid="0000-0002-7547-7204" pid="36/2133">Matei Zaharia</author>
+<title>MISTIQUE: A System to Store and Query Model Intermediates for Model Diagnosis.</title>
+<pages>1285-1300</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3196934</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#VartakTMZ18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-03723" mdate="2023-08-08">
+<author pid="183/9387">Guillaume Leclerc</author>
+<author pid="25/7592">Manasi Vartak</author>
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>Smallify: Learning Network Size while Training.</title>
+<year>2018</year>
+<volume>abs/1806.03723</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.03723</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-03723</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/Vartak17" mdate="2020-03-12">
+<author pid="25/7592">Manasi Vartak</author>
+<title>MODELDB: A System for Machine Learning Model Management.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_112.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#Vartak17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/VartakTMBL17" mdate="2021-01-21">
+<author pid="25/7592">Manasi Vartak</author>
+<author pid="47/1858">Arvind Thiagarajan</author>
+<author pid="149/4092">Conrado Miranda</author>
+<author pid="118/4026">Jeshua Bratman</author>
+<author pid="86/3862">Hugo Larochelle</author>
+<title>A Meta-Learning Perspective on Cold-Start Recommendations for Items.</title>
+<pages>6904-6914</pages>
+<year>2017</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2017/hash/51e6d6e679953c6311757004d8cbbba9-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/7266-a-meta-learning-perspective-on-cold-start-recommendations-for-items</ee>
+<crossref>conf/nips/2017</crossref>
+<url>db/conf/nips/nips2017.html#VartakTMBL17</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/VartakHSMP16" mdate="2023-08-08">
+<author pid="25/7592">Manasi Vartak</author>
+<author pid="131/4166">Silu Huang</author>
+<author pid="179/2728">Tarique Siddiqui</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author orcid="0000-0002-4538-4752" pid="40/7459">Aditya G. Parameswaran</author>
+<title>Towards Visualization Recommendation Systems.</title>
+<pages>34-39</pages>
+<year>2016</year>
+<volume>45</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3092931.3092937</ee>
+<url>db/journals/sigmod/sigmod45.html#VartakHSMP16</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/VartakRRM16" mdate="2023-08-08">
+<author pid="25/7592">Manasi Vartak</author>
+<author pid="10/4751">Venkatesh Raghavan</author>
+<author pid="r/EARundensteiner">Elke A. Rundensteiner</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>Refinement Driven Processing of Aggregation Constrained Queries.</title>
+<pages>101-112</pages>
+<year>2016</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2016.12</ee>
+<crossref>conf/edbt/2016</crossref>
+<url>db/conf/edbt/edbt2016.html#VartakRRM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/VartakSLVHMZ16" mdate="2024-02-05">
+<author pid="25/7592">Manasi Vartak</author>
+<author pid="166/8374">Harihar Subramanyam</author>
+<author pid="181/5960">Wei-En Lee</author>
+<author pid="181/5949">Srinidhi Viswanathan</author>
+<author pid="181/5967">Saadiyah Husnoo</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author orcid="0000-0002-7547-7204" pid="36/2133">Matei Zaharia</author>
+<title>ModelDB: a system for machine learning model management.</title>
+<pages>14</pages>
+<year>2016</year>
+<booktitle>HILDA@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/2939502.2939516</ee>
+<crossref>conf/sigmod/2016hilda</crossref>
+<url>db/conf/sigmod/hilda2016.html#VartakSLVHMZ16</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/ElmoreDSBCGHHKK15" mdate="2023-09-30">
+<author orcid="0000-0002-4062-8826" pid="75/9436">Aaron J. Elmore</author>
+<author orcid="0000-0002-4218-8502" pid="43/2286">Jennie Duggan</author>
+<author pid="s/MichaelStonebraker">Mike Stonebraker</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="86/7615">Vijay Gadepally</author>
+<author pid="27/4508">Jeffrey Heer</author>
+<author pid="h/BillHowe">Bill Howe</author>
+<author pid="25/6583">Jeremy Kepner</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<author pid="56/794">Timothy G. Mattson</author>
+<author pid="82/75">Stavros Papadopoulos 0001</author>
+<author pid="99/1163">Jeff Parkhurst</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="25/7592">Manasi Vartak</author>
+<author pid="z/SBZdonik">Stan Zdonik</author>
+<title>A Demonstration of the BigDAWG Polystore System.</title>
+<pages>1908-1911</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1908-Elmore.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824098</ee>
+<url>db/journals/pvldb/pvldb8.html#ElmoreDSBCGHHKK15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/VartakRMPP15" mdate="2023-08-08">
+<author pid="25/7592">Manasi Vartak</author>
+<author pid="168/0294">Sajjadur Rahman</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author orcid="0000-0002-4538-4752" pid="40/7459">Aditya G. Parameswaran</author>
+<author pid="p/NeoklisPolyzotis">Neoklis Polyzotis</author>
+<title>SEEDB: Efficient Data-Driven Visualization Recommendations to Support Visual Analytics.</title>
+<pages>2182-2193</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p2182-vartak.pdf</ee>
+<ee>https://doi.org/10.14778/2831360.2831371</ee>
+<url>db/journals/pvldb/pvldb8.html#VartakRMPP15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/VartakMPP14" mdate="2023-08-08">
+<author pid="25/7592">Manasi Vartak</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author orcid="0000-0002-4538-4752" pid="40/7459">Aditya G. Parameswaran</author>
+<author pid="p/NeoklisPolyzotis">Neoklis Polyzotis</author>
+<title>SEEDB: Automatically Generating Query Visualizations.</title>
+<pages>1581-1584</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p1581-vartak.pdf</ee>
+<ee>https://doi.org/10.14778/2733004.2733035</ee>
+<url>db/journals/pvldb/pvldb7.html#VartakMPP14</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/TaftVSSMS14" mdate="2023-08-08">
+<author pid="147/1198">Rebecca Taft</author>
+<author pid="25/7592">Manasi Vartak</author>
+<author pid="29/1091">Nadathur Rajagopalan Satish</author>
+<author pid="30/3638">Narayanan Sundaram</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>GenBase: a complex analytics genomics benchmark.</title>
+<pages>177-188</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2595633</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#TaftVSSMS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/VartakM13" mdate="2023-08-08">
+<author pid="25/7592">Manasi Vartak</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>CHIC: a combination-based recommendation system.</title>
+<pages>981-984</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2465270</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#VartakM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/VartakRR10" mdate="2018-11-06">
+<author pid="25/7592">Manasi Vartak</author>
+<author pid="10/4751">Venkatesh Raghavan</author>
+<author pid="r/EARundensteiner">Elke A. Rundensteiner</author>
+<title>QRelX: generating meaningful queries that provide cardinality assurance.</title>
+<pages>1215-1218</pages>
+<year>2010</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1807167.1807323</ee>
+<crossref>conf/sigmod/2010</crossref>
+<url>db/conf/sigmod/sigmod2010.html#VartakRR10</url>
+</inproceedings>
+</r>
+<r><article key="journals/tlt/RazzaqPAVFHK09" mdate="2020-04-03">
+<author pid="67/4">Leena M. Razzaq</author>
+<author pid="12/1693">Jozsef Patvarczki</author>
+<author pid="08/242">Shane F. Almeida</author>
+<author pid="25/7592">Manasi Vartak</author>
+<author pid="33/1441">Mingyu Feng</author>
+<author orcid="0000-0002-3280-288X" pid="97/6300">Neil T. Heffernan</author>
+<author pid="93/3741">Kenneth R. Koedinger</author>
+<title>The ASSISTment Builder: Supporting the Life Cycle of Tutoring System Content Creation.</title>
+<pages>157-166</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>IEEE Trans. Learn. Technol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TLT.2009.23</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TLT.2009.23</ee>
+<url>db/journals/tlt/tlt2.html#RazzaqPAVFHK09</url>
+</article>
+</r>
+<coauthors n="50" nc="2">
+<co c="1"><na f="a/Almeida:Shane_F=" pid="08/242">Shane F. Almeida</na></co>
+<co c="0"><na f="b/Balazinska:Magdalena" pid="b/MagdalenaBalazinska">Magdalena Balazinska</na></co>
+<co c="0"><na f="b/Bratman:Jeshua" pid="118/4026">Jeshua Bratman</na></co>
+<co c="0"><na f="=/=Ccedil=etintemel:Ugur" pid="c/UgurCetintemel">Ugur &#199;etintemel</na></co>
+<co c="0"><na f="e/Elmore:Aaron_J=" pid="75/9436">Aaron J. Elmore</na></co>
+<co c="1"><na f="f/Feng:Mingyu" pid="33/1441">Mingyu Feng</na></co>
+<co c="0"><na f="f/Fernandez:Raul_Castro" pid="131/4202">Raul Castro Fernandez</na></co>
+<co c="0"><na f="g/Gadepally:Vijay" pid="86/7615">Vijay Gadepally</na></co>
+<co c="0"><na f="h/Heer:Jeffrey" pid="27/4508">Jeffrey Heer</na></co>
+<co c="1"><na f="h/Heffernan:Neil_T=" pid="97/6300">Neil T. Heffernan</na></co>
+<co c="0"><na f="h/Howe:Bill" pid="h/BillHowe">Bill Howe</na></co>
+<co c="0"><na f="h/Huang:Silu" pid="131/4166">Silu Huang</na></co>
+<co c="0"><na f="h/Husnoo:Saadiyah" pid="181/5967">Saadiyah Husnoo</na></co>
+<co c="0"><na f="k/Kepner:Jeremy" pid="25/6583">Jeremy Kepner</na></co>
+<co c="1"><na f="k/Koedinger:Kenneth_R=" pid="93/3741">Kenneth R. Koedinger</na></co>
+<co c="0"><na f="k/Kraska:Tim" pid="26/6037">Tim Kraska</na></co>
+<co c="0"><na f="l/Larochelle:Hugo" pid="86/3862">Hugo Larochelle</na></co>
+<co c="0"><na f="l/Leclerc:Guillaume" pid="183/9387">Guillaume Leclerc</na></co>
+<co c="0"><na f="l/Lee:Wei=En" pid="181/5960">Wei-En Lee</na></co>
+<co c="0"><na f="m/Madden_0001:Samuel" pid="m/SamuelMadden">Samuel Madden 0001</na></co>
+<co c="0"><na f="m/Maier_0001:David" pid="m/DavidMaier">David Maier 0001</na></co>
+<co c="0"><na f="m/Mattson:Timothy_G=" pid="56/794">Timothy G. Mattson</na></co>
+<co c="0"><na f="m/Miranda:Conrado" pid="149/4092">Conrado Miranda</na></co>
+<co c="0"><na f="p/Papadopoulos_0001:Stavros" pid="82/75">Stavros Papadopoulos 0001</na></co>
+<co c="0"><na f="p/Parameswaran:Aditya_G=" pid="40/7459">Aditya G. Parameswaran</na></co>
+<co c="0"><na f="p/Parkhurst:Jeff" pid="99/1163">Jeff Parkhurst</na></co>
+<co c="1"><na f="p/Patvarczki:Jozsef" pid="12/1693">Jozsef Patvarczki</na></co>
+<co c="0"><na f="p/Polyzotis:Neoklis" pid="p/NeoklisPolyzotis">Neoklis Polyzotis</na></co>
+<co c="0"><na f="r/Raghavan:Venkatesh" pid="10/4751">Venkatesh Raghavan</na></co>
+<co c="0"><na f="r/Rahman:Sajjadur" pid="168/0294">Sajjadur Rahman</na></co>
+<co c="1"><na f="r/Razzaq:Leena_M=" pid="67/4">Leena M. Razzaq</na></co>
+<co c="0"><na f="r/Rekatsinas:Theodoros" pid="51/11411">Theodoros Rekatsinas</na></co>
+<co c="0" n="2"><na f="r/Rogers:Jennie" pid="43/2286">Jennie Rogers</na><na>Jennie Duggan</na></co>
+<co c="0"><na f="r/Roy:Sudeepa" pid="77/4620">Sudeepa Roy</na></co>
+<co c="0"><na f="r/Rundensteiner:Elke_A=" pid="r/EARundensteiner">Elke A. Rundensteiner</na></co>
+<co c="0" n="2"><na f="s/Satish:Nadathur" pid="29/1091">Nadathur Satish</na><na>Nadathur Rajagopalan Satish</na></co>
+<co c="0"><na f="s/Schelter:Sebastian" pid="118/7229">Sebastian Schelter</na></co>
+<co c="0"><na f="s/Seufert:Stephan" pid="79/8024">Stephan Seufert</na></co>
+<co c="0"><na f="s/Siddiqui:Tarique" pid="179/2728">Tarique Siddiqui</na></co>
+<co c="0" n="2"><na f="s/Stonebraker:Michael" pid="s/MichaelStonebraker">Michael Stonebraker</na><na>Mike Stonebraker</na></co>
+<co c="0"><na f="s/Subramanyam:Harihar" pid="166/8374">Harihar Subramanyam</na></co>
+<co c="0"><na f="s/Sundaram:Narayanan" pid="30/3638">Narayanan Sundaram</na></co>
+<co c="0"><na f="t/Taft:Rebecca" pid="147/1198">Rebecca Taft</na></co>
+<co c="0"><na f="t/Tatbul:Nesime" pid="t/NesimeTatbul">Nesime Tatbul</na></co>
+<co c="0"><na f="t/Thiagarajan:Arvind" pid="47/1858">Arvind Thiagarajan</na></co>
+<co c="0"><na f="t/Trindade:Joana_M=_F=_da" pid="48/6542">Joana M. F. da Trindade</na></co>
+<co c="0"><na f="v/Viswanathan:Srinidhi" pid="181/5949">Srinidhi Viswanathan</na></co>
+<co c="0"><na f="z/Zaharia:Matei" pid="36/2133">Matei Zaharia</na></co>
+<co c="0" n="2"><na f="z/Zdonik:Stanley_B=" pid="z/SBZdonik">Stanley B. Zdonik</na><na>Stan Zdonik</na></co>
+<co c="0"><na f="z/Zhang_0001:Ce" pid="97/919-1">Ce Zhang 0001</na></co>
+</coauthors>
+</dblpperson>

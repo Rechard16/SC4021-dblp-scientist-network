@@ -1,0 +1,882 @@
+<dblpperson name="Yuliang Li 0001" pid="52/4954-1" n="53">
+<person key="homepages/52/4954-1" mdate="2021-07-24">
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<url>https://megagon.ai/team/yuliang-li/</url>
+<url>https://orcid.org/0000-0002-0602-149X</url>
+<note type="affiliation">Megagon Labs, Mountain View, CA, USA</note>
+<note type="affiliation" label="former">University of California, San Diego, USA</note>
+</person>
+<homonyms n="1">
+<h f="l/Li:Yuliang"><person publtype="disambiguation" key="homepages/52/4954" mdate="2019-07-24">
+<author pid="52/4954">Yuliang Li</author>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/pvldb/FanWLZM23" mdate="2023-10-23">
+<author pid="146/8297">Grace Fan</author>
+<author pid="92/1375-7">Jin Wang 0007</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="21/802">Dan Zhang</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Semantics-aware Dataset Discovery from Data Lakes with Contextualized Column-based Representation Learning.</title>
+<pages>1726-1739</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>7</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p1726-fan.pdf</ee>
+<ee>https://doi.org/10.14778/3587136.3587146</ee>
+<url>db/journals/pvldb/pvldb16.html#FanWLZM23</url>
+</article>
+</r>
+<r><article key="journals/vldb/LiLSDT23" mdate="2023-11-09">
+<author orcid="0000-0002-0602-149X" pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="76/7842">Jinfeng Li</author>
+<author pid="322/0272">Yoshi Suhara</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<title>Effective entity matching with transformers.</title>
+<pages>1215-1235</pages>
+<year>2023</year>
+<month>November</month>
+<volume>32</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00778-023-00779-z</ee>
+<url>db/journals/vldb/vldb32.html#LiLSDT23</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/TanD0MSYH23" mdate="2023-08-10">
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<author pid="215/3352">Jane Dwivedi-Yu</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="144/2720">Lambert Mathias</author>
+<author pid="136/9320">Marzieh Saeidi</author>
+<author pid="236/5688">Jing Nathan Yan</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<title>TimelineQA: A Benchmark for Question Answering over Timelines.</title>
+<pages>77-91</pages>
+<year>2023</year>
+<booktitle>ACL (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.findings-acl.6</ee>
+<ee type="oa">https://aclanthology.org/2023.findings-acl.6</ee>
+<crossref>conf/acl/2023f</crossref>
+<url>db/conf/acl/acl2023f.html#TanD0MSYH23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/Tan0RJLHY23" mdate="2023-08-17">
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="67/4105">Pedro Rodriguez</author>
+<author pid="86/4929-1">Richard James 0001</author>
+<author pid="215/5264">Xi Victoria Lin</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="07/7129">Wen-tau Yih</author>
+<title>Reimagining Retrieval Augmented Language Models for Answering Queries.</title>
+<pages>6131-6146</pages>
+<year>2023</year>
+<booktitle>ACL (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.findings-acl.382</ee>
+<ee type="oa">https://aclanthology.org/2023.findings-acl.382</ee>
+<crossref>conf/acl/2023f</crossref>
+<url>db/conf/acl/acl2023f.html#Tan0RJLHY23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/Wang0023" mdate="2023-07-27">
+<author pid="247/9289">Runhui Wang</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="92/1375-7">Jin Wang 0007</author>
+<title>Sudowoodo: Contrastive Self-supervised Learning for Multi-purpose Data Integration and Preparation.</title>
+<pages>1502-1515</pages>
+<year>2023</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE55515.2023.00391</ee>
+<crossref>conf/icde/2023</crossref>
+<url>db/conf/icde/icde2023.html#Wang0023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Fan00M23" mdate="2023-06-15">
+<author orcid="0000-0001-9020-3642" pid="146/8297">Grace Fan</author>
+<author orcid="0000-0002-3172-6133" pid="92/1375-7">Jin Wang 0007</author>
+<author orcid="0000-0002-0602-149X" pid="52/4954-1">Yuliang Li 0001</author>
+<author orcid="0000-0002-1484-4787" pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Table Discovery in Data Lakes: State-of-the-art and Future Directions.</title>
+<pages>69-75</pages>
+<year>2023</year>
+<booktitle>SIGMOD Conference Companion</booktitle>
+<ee>https://doi.org/10.1145/3555041.3589409</ee>
+<crossref>conf/sigmod/2023c</crossref>
+<url>db/conf/sigmod/sigmod2023c.html#Fan00M23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2306-01061" mdate="2023-08-17">
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="67/4105">Pedro Rodriguez</author>
+<author pid="86/4929-1">Richard James 0001</author>
+<author pid="215/5264">Xi Victoria Lin</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="07/7129">Scott Yih</author>
+<title>Reimagining Retrieval Augmented Language Models for Answering Queries.</title>
+<year>2023</year>
+<volume>abs/2306.01061</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2306.01061</ee>
+<url>db/journals/corr/corr2306.html#abs-2306-01061</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2306-01069" mdate="2023-06-12">
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<author pid="215/3352">Jane Dwivedi-Yu</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="144/2720">Lambert Mathias</author>
+<author pid="136/9320">Marzieh Saeidi</author>
+<author pid="236/5688">Jing Nathan Yan</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<title>TimelineQA: A Benchmark for Question Answering over Timelines.</title>
+<year>2023</year>
+<volume>abs/2306.01069</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2306.01069</ee>
+<url>db/journals/corr/corr2306.html#abs-2306-01069</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-04403" mdate="2023-11-14">
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="169/2428">Nitin Kamra</author>
+<author pid="128/0409">Ruta Desai</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<title>Human-Centered Planning.</title>
+<year>2023</year>
+<volume>abs/2311.04403</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.04403</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-04403</url>
+</article>
+</r>
+<r><inproceedings key="conf/deem/Wang022" mdate="2022-07-20">
+<author pid="92/1375-7">Jin Wang 0007</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<title>Minun: evaluating counterfactual explanations for entity matching.</title>
+<pages>7:1-7:11</pages>
+<year>2022</year>
+<booktitle>DEEM@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3533028.3533304</ee>
+<crossref>conf/deem/2022</crossref>
+<url>db/conf/deem/deem2022.html#Wang022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Wang0HK22" mdate="2022-12-04">
+<author pid="92/1375-7">Jin Wang 0007</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="234/3361">Wataru Hirota</author>
+<author pid="54/6752">Eser Kandogan</author>
+<title>Machop: an end-to-end generalized entity matching framework.</title>
+<pages>2:1-2:10</pages>
+<year>2022</year>
+<booktitle>aiDM@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3533702.3534910</ee>
+<crossref>conf/sigmod/2022aidm</crossref>
+<url>db/conf/sigmod/aidm2022.html#Wang0HK22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HuL022" mdate="2023-08-22">
+<author pid="234/1658">Yu-Ching Hu</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author orcid="0000-0001-8383-5203" pid="76/1857-1">Hung-Wei Tseng 0001</author>
+<title>TCUDB: Accelerating Database with Tensor Processors.</title>
+<pages>1360-1374</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3517869</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#HuL022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SuharaL0ZDCT22" mdate="2024-03-19">
+<author pid="44/2973">Yoshihiko Suhara</author>
+<author pid="76/7842">Jinfeng Li</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="21/802">Dan Zhang</author>
+<author pid="74/20">&#199;agatay Demiralp</author>
+<author pid="65/4423-111">Chen Chen 0111</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<title>Annotating Columns with Pre-trained Language Models.</title>
+<pages>1493-1503</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3517906</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#SuharaL0ZDCT22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-04853" mdate="2022-07-20">
+<author pid="92/1375-7">Jin Wang 0007</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="234/3361">Wataru Hirota</author>
+<author pid="54/6752">Eser Kandogan</author>
+<title>Machop: an End-to-End Generalized Entity Matching Framework.</title>
+<year>2022</year>
+<volume>abs/2206.04853</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.04853</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-04853</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-04122" mdate="2022-07-20">
+<author pid="247/9289">Runhui Wang</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="92/1375-7">Jin Wang 0007</author>
+<title>Sudowoodo: Contrastive Self-supervised Learning for Multi-purpose Data Integration and Preparation.</title>
+<year>2022</year>
+<volume>abs/2207.04122</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.04122</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-04122</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-01922" mdate="2022-12-04">
+<author pid="146/8297">Grace Fan</author>
+<author pid="92/1375-7">Jin Wang 0007</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="21/802">Dan Zhang</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Semantics-aware Dataset Discovery from Data Lakes with Contextualized Column-based Representation Learning.</title>
+<year>2022</year>
+<volume>abs/2210.01922</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.01922</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-01922</url>
+</article>
+</r>
+<r><article key="journals/jdiq/LiLSWHT21" mdate="2021-12-23">
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="76/7842">Jinfeng Li</author>
+<author pid="44/2973">Yoshihiko Suhara</author>
+<author pid="92/1375-7">Jin Wang 0007</author>
+<author pid="234/3361">Wataru Hirota</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<title>Deep Entity Matching: Challenges and Opportunities.</title>
+<pages>1:1-1:17</pages>
+<year>2021</year>
+<volume>13</volume>
+<journal>ACM J. Data Inf. Qual.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3431816</ee>
+<url>db/journals/jdiq/jdiq13.html#LiLSWHT21</url>
+</article>
+</r>
+<r><article key="journals/mst/LiWPBP21" mdate="2023-08-28">
+<author orcid="0000-0002-0602-149X" pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="64/1071-1">Jianguo Wang 0001</author>
+<author pid="232/1929">Benjamin S. Pullman</author>
+<author pid="44/4012">Nuno Bandeira</author>
+<author pid="p/YPapakonstantinou">Yannis Papakonstantinou</author>
+<title>Index-based, High-dimensional, Cosine Threshold Querying with Optimality Guarantees.</title>
+<pages>42-83</pages>
+<year>2021</year>
+<volume>65</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00224-020-10009-6</ee>
+<ee>https://www.wikidata.org/entity/Q114868002</ee>
+<url>db/journals/mst/mst65.html#LiWPBP21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/00010MT21" mdate="2022-04-21">
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="117/4879-1">Xiaolan Wang 0001</author>
+<author pid="159/1401">Zhengjie Miao</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<title>Data Augmentation for ML-driven Data Preparation and Integration.</title>
+<pages>3182-3185</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p3182-li.pdf</ee>
+<ee>https://doi.org/10.14778/3476311.3476403</ee>
+<url>db/journals/pvldb/pvldb14.html#00010MT21</url>
+</article>
+</r>
+<r><article key="journals/vldb/LiFLCMHLT21" mdate="2021-03-23">
+<author orcid="0000-0002-0602-149X" pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="220/3063">Aaron Feng</author>
+<author pid="76/7842">Jinfeng Li</author>
+<author pid="97/299">Shuwei Chen</author>
+<author pid="238/2389">Saran Mumick</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="91/1025">Vivian Li</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<title>Querying subjective data.</title>
+<pages>115-140</pages>
+<year>2021</year>
+<volume>30</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-020-00634-5</ee>
+<url>db/journals/vldb/vldb30.html#LiFLCMHLT21</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/Wang0H21" mdate="2021-12-23">
+<author pid="92/1375-7">Jin Wang 0007</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="234/3361">Wataru Hirota</author>
+<title>Machamp: A Generalized Entity Matching Benchmark.</title>
+<pages>4633-4642</pages>
+<year>2021</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3459637.3482008</ee>
+<crossref>conf/cikm/2021</crossref>
+<url>db/conf/cikm/cikm2021.html#Wang0H21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Miao0021" mdate="2021-06-21">
+<author pid="159/1401">Zhengjie Miao</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="117/4879-1">Xiaolan Wang 0001</author>
+<title>Rotom: A Meta-Learned Data Augmentation Framework for Entity Matching, Data Cleaning, Text Classification, and Beyond.</title>
+<pages>1303-1316</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3457258</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#Miao0021</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/Carmeli0SALLT21" mdate="2021-10-14">
+<author pid="179/2145">Nofar Carmeli</author>
+<author pid="117/4879-1">Xiaolan Wang 0001</author>
+<author pid="44/2973">Yoshihiko Suhara</author>
+<author orcid="0000-0003-3027-9690" pid="210/2223">Stefanos Angelidis</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="76/7842">Jinfeng Li</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<title>Constructing Explainable Opinion Graphs from Reviews.</title>
+<pages>3419-3431</pages>
+<year>2021</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3442381.3450081</ee>
+<crossref>conf/www/2021</crossref>
+<url>db/conf/www/www2021.html#Carmeli0SALLT21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-01785" mdate="2024-03-19">
+<author pid="44/2973">Yoshihiko Suhara</author>
+<author pid="76/7842">Jinfeng Li</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="21/802">Dan Zhang</author>
+<author pid="74/20">&#199;agatay Demiralp</author>
+<author pid="65/4423-111">Chen Chen 0111</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<title>Annotating Columns with Pre-trained Language Models.</title>
+<year>2021</year>
+<volume>abs/2104.01785</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.01785</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-01785</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2106-08455" mdate="2023-01-31">
+<author pid="92/1375-7">Jin Wang 0007</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="234/3361">Wataru Hirota</author>
+<title>Machamp: A Generalized Entity Matching Benchmark.</title>
+<year>2021</year>
+<volume>abs/2106.08455</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2106.08455</ee>
+<url>db/journals/corr/corr2106.html#abs-2106-08455</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-07552" mdate="2023-08-22">
+<author pid="234/1658">Yu-Ching Hu</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="76/1857-1">Hung-Wei Tseng 0001</author>
+<title>TCUDB: Accelerating Database with Tensor Processors.</title>
+<year>2021</year>
+<volume>abs/2112.07552</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.07552</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-07552</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiL0T20" mdate="2020-11-24">
+<author pid="76/7842">Jinfeng Li</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="117/4879-1">Xiaolan Wang 0001</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<title>Deep or Simple Models for Semantic Tagging? It Depends on your Data.</title>
+<pages>2549-2562</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2549-li.pdf</ee>
+<url>db/journals/pvldb/pvldb13.html#LiL0T20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/0001LSDT20" mdate="2021-03-23">
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="76/7842">Jinfeng Li</author>
+<author pid="44/2973">Yoshihiko Suhara</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<title>Deep Entity Matching with Pre-Trained Language Models.</title>
+<pages>50-60</pages>
+<year>2020</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p50-li.pdf</ee>
+<ee>https://doi.org/10.14778/3421424.3421431</ee>
+<url>db/journals/pvldb/pvldb14.html#0001LSDT20</url>
+</article>
+</r>
+<r><inproceedings key="conf/chi/ZhangEELDT20" mdate="2020-11-24">
+<author pid="06/2161">Xiong Zhang</author>
+<author pid="90/9226">Jonathan Engel</author>
+<author pid="213/8215">Sara Evensen</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="74/20">&#199;agatay Demiralp</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<title>Teddy: A System for Interactive Review Analysis.</title>
+<pages>1-13</pages>
+<year>2020</year>
+<booktitle>CHI</booktitle>
+<ee>https://doi.org/10.1145/3313831.3376235</ee>
+<crossref>conf/chi/2020</crossref>
+<url>db/conf/chi/chi2020.html#ZhangEELDT20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/WangSNLLCAKT20" mdate="2021-10-14">
+<author pid="117/4879-1">Xiaolan Wang 0001</author>
+<author pid="44/2973">Yoshihiko Suhara</author>
+<author pid="237/9599">Natalie Nuno</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="76/7842">Jinfeng Li</author>
+<author pid="179/2145">Nofar Carmeli</author>
+<author orcid="0000-0003-3027-9690" pid="210/2223">Stefanos Angelidis</author>
+<author pid="264/2941">Eser Kandogann</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<title>ExtremeReader: An interactive explorer for customizable and explainable review summarization.</title>
+<pages>176-180</pages>
+<year>2020</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/3366424.3383535</ee>
+<crossref>conf/www/2020c</crossref>
+<url>db/conf/www/www2020c.html#WangSNLLCAKT20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/MiaoLWT20" mdate="2020-11-24">
+<author pid="159/1401">Zhengjie Miao</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="117/4879-1">Xiaolan Wang 0001</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<title>Snippext: Semi-supervised Opinion Mining with Augmented Data.</title>
+<pages>617-628</pages>
+<year>2020</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3366423.3380144</ee>
+<crossref>conf/www/2020</crossref>
+<url>db/conf/www/www2020.html#MiaoLWT20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-05171" mdate="2020-11-24">
+<author pid="06/2161">Xiong Zhang</author>
+<author pid="90/9226">Jonathan Engel</author>
+<author pid="213/8215">Sara Evensen</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="74/20">&#199;agatay Demiralp</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<title>Teddy: A System for Interactive Review Analysis.</title>
+<year>2020</year>
+<volume>abs/2001.05171</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2001.05171</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-05171</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-03049" mdate="2020-11-24">
+<author pid="159/1401">Zhengjie Miao</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="117/4879-1">Xiaolan Wang 0001</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<title>Snippext: Semi-supervised Opinion Mining with Augmented Data.</title>
+<year>2020</year>
+<volume>abs/2002.03049</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.03049</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-03049</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-13968" mdate="2020-11-24">
+<author pid="220/3063">Aaron Feng</author>
+<author pid="97/299">Shuwei Chen</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="42/4750">Hiroshi Matsuda</author>
+<author pid="62/6410">Hidekazu Tamaki</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<title>Towards Productionizing Subjective Search Systems.</title>
+<year>2020</year>
+<volume>abs/2003.13968</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.13968</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-13968</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-00584" mdate="2020-11-24">
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="76/7842">Jinfeng Li</author>
+<author pid="44/2973">Yoshihiko Suhara</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<title>Deep Entity Matching with Pre-Trained Language Models.</title>
+<year>2020</year>
+<volume>abs/2004.00584</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.00584</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-00584</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-03020" mdate="2024-03-19">
+<author pid="219/6240">Aaron Traylor</author>
+<author pid="65/4423-111">Chen Chen 0111</author>
+<author pid="58/11411">Behzad Golshan</author>
+<author pid="117/4879-1">Xiaolan Wang 0001</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="44/2973">Yoshihiko Suhara</author>
+<author pid="76/7842">Jinfeng Li</author>
+<author pid="74/20">&#199;agatay Demiralp</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<title>Enhancing Review Comprehension with Domain-Specific Commonsense.</title>
+<year>2020</year>
+<volume>abs/2004.03020</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.03020</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-03020</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-00119" mdate="2020-11-24">
+<author pid="179/2145">Nofar Carmeli</author>
+<author pid="117/4879-1">Xiaolan Wang 0001</author>
+<author pid="44/2973">Yoshihiko Suhara</author>
+<author pid="210/2223">Stefanos Angelidis</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="76/7842">Jinfeng Li</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<title>ExplainIt: Explainable Review Summarization with Opinion Causality Graphs.</title>
+<year>2020</year>
+<volume>abs/2006.00119</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.00119</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-00119</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-05651" mdate="2020-11-24">
+<author pid="76/7842">Jinfeng Li</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="117/4879-1">Xiaolan Wang 0001</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<title>Deep or Simple Models for Semantic Tagging? It Depends on your Data [Experiments].</title>
+<year>2020</year>
+<volume>abs/2007.05651</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.05651</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-05651</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiFLMHLT19" mdate="2020-11-24">
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="220/3063">Aaron Feng</author>
+<author pid="76/7842">Jinfeng Li</author>
+<author pid="238/2389">Saran Mumick</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="91/1025">Vivian Li</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<title>Subjective Databases.</title>
+<pages>1330-1343</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1330-li.pdf</ee>
+<ee>https://doi.org/10.14778/3342263.3342271</ee>
+<url>db/journals/pvldb/pvldb12.html#LiFLMHLT19</url>
+</article>
+</r>
+<r><article key="journals/tods/DeutschLV19" mdate="2019-07-24">
+<author pid="d/AlinDeutsch">Alin Deutsch</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="v/VictorVianu">Victor Vianu</author>
+<title>Verification of Hierarchical Artifact Systems.</title>
+<pages>12:1-12:68</pages>
+<year>2019</year>
+<volume>44</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3321487</ee>
+<url>db/journals/tods/tods44.html#DeutschLV19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdt/LiWPBP19" mdate="2021-04-26">
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author orcid="0000-0002-3039-1175" pid="64/1071-1">Jianguo Wang 0001</author>
+<author pid="232/1929">Benjamin S. Pullman</author>
+<author pid="44/4012">Nuno Bandeira</author>
+<author pid="p/YPapakonstantinou">Yannis Papakonstantinou</author>
+<title>Index-Based, High-Dimensional, Cosine Threshold Querying with Optimality Guarantees.</title>
+<pages>11:1-11:20</pages>
+<year>2019</year>
+<booktitle>ICDT</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICDT.2019.11</ee>
+<crossref>conf/icdt/2019</crossref>
+<url>db/conf/icdt/icdt2019.html#LiWPBP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/EvensenFHLLLLMM19" mdate="2020-11-24">
+<author pid="213/8215">Sara Evensen</author>
+<author pid="220/3063">Aaron Feng</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="76/7842">Jinfeng Li</author>
+<author pid="91/1025">Vivian Li</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="19/10216">Huining Liu</author>
+<author pid="m/GeorgeAMihaila">George A. Mihaila</author>
+<author pid="237/9450">John Morales</author>
+<author pid="237/9599">Natalie Nuno</author>
+<author pid="237/9659">Ekaterina Pavlovic</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<author pid="117/4879-1">Xiaolan Wang 0001</author>
+<title>Voyageur: An Experiential Travel Search Engine.</title>
+<pages>3511-5</pages>
+<year>2019</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3308558.3314125</ee>
+<crossref>conf/www/2019</crossref>
+<url>db/conf/www/www2019.html#EvensenFHLLLLMM19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-09661" mdate="2020-11-24">
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="220/3063">Aaron Feng</author>
+<author pid="76/7842">Jinfeng Li</author>
+<author pid="238/2389">Saran Mumick</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="91/1025">Vivian Li</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<title>Subjective Databases.</title>
+<year>2019</year>
+<volume>abs/1902.09661</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.09661</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-09661</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-01498" mdate="2020-11-24">
+<author pid="213/8215">Sara Evensen</author>
+<author pid="220/3063">Aaron Feng</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="76/7842">Jinfeng Li</author>
+<author pid="91/1025">Vivian Li</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="19/10216">Huining Liu</author>
+<author pid="m/GeorgeAMihaila">George A. Mihaila</author>
+<author pid="237/9450">John Morales</author>
+<author pid="237/9599">Natalie Nuno</author>
+<author pid="237/9659">Ekaterina Pavlovic</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<author pid="117/4879-1">Xiaolan Wang 0001</author>
+<title>Voyageur: An Experiential Travel Search Engine.</title>
+<year>2019</year>
+<volume>abs/1903.01498</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.01498</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-01498</url>
+</article>
+</r>
+<r><phdthesis key="phd/basesearch/Li18o" mdate="2019-07-24">
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<title>Verification of Hierarchical Data-Driven Workflows.</title>
+<year>2018</year>
+<school>University of California, San Diego, USA</school>
+<ee>http://www.escholarship.org/uc/item/00q5p2t3</ee>
+<ee>https://www.base-search.net/Record/230e607eb2d05e616caa1ab5534705b2a8c4b6a2ee9e45dcac71d4f86f7a0e1e</ee>
+<note type="source">base-search.net (ftcdlib:qt00q5p2t3)</note>
+</phdthesis>
+</r>
+<r><article key="journals/siglog/DeutschHLV18" mdate="2022-06-10">
+<author pid="d/AlinDeutsch">Alin Deutsch</author>
+<author pid="h/RichardHull">Richard Hull 0001</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="v/VictorVianu">Victor Vianu</author>
+<title>Automatic verification of database-centric systems.</title>
+<pages>37-56</pages>
+<year>2018</year>
+<volume>5</volume>
+<journal>ACM SIGLOG News</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3212019.3212025</ee>
+<url>db/journals/siglog/siglog5.html#DeutschHLV18</url>
+</article>
+</r>
+<r><inproceedings key="conf/icsoc/AstigarragaCCG018" mdate="2019-07-25">
+<author pid="229/3585">Tara Astigarraga</author>
+<author pid="43/1634">Xiaoyan Chen</author>
+<author pid="09/10756">Yaoliang Chen</author>
+<author pid="184/8069">Jingxiao Gu</author>
+<author pid="h/RichardHull">Richard Hull 0001</author>
+<author pid="46/4987">Limei Jiao</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="91/10961-2">Petr Novotn&#253; 0002</author>
+<title>Empowering Business-Level Blockchain Users with a Rules Framework for Smart Contracts.</title>
+<pages>111-128</pages>
+<year>2018</year>
+<booktitle>ICSOC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-03596-9_8</ee>
+<crossref>conf/icsoc/2018</crossref>
+<url>db/conf/icsoc/icsoc2018.html#AstigarragaCCG018</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-07695" mdate="2021-04-26">
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="64/1071-1">Jianguo Wang 0001</author>
+<author pid="232/1929">Benjamin S. Pullman</author>
+<author pid="44/4012">Nuno Bandeira</author>
+<author pid="p/YPapakonstantinou">Yannis Papakonstantinou</author>
+<title>Index-based, High-dimensional, Cosine Threshold Querying with Optimality Guarantees.</title>
+<year>2018</year>
+<volume>abs/1812.07695</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.07695</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-07695</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiDV17" mdate="2020-04-25">
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="d/AlinDeutsch">Alin Deutsch</author>
+<author pid="v/VictorVianu">Victor Vianu</author>
+<title>VERIFAS: A Practical Verifier for Artifact Systems.</title>
+<pages>283-296</pages>
+<year>2017</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p283-li.pdf</ee>
+<ee>https://doi.org/10.14778/3157794.3157798</ee>
+<url>db/journals/pvldb/pvldb11.html#LiDV17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LiDV17" mdate="2019-07-24">
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="d/AlinDeutsch">Alin Deutsch</author>
+<author pid="v/VictorVianu">Victor Vianu</author>
+<title>A Spin-based Verifier for Artifact Systems.</title>
+<year>2017</year>
+<volume>abs/1705.09427</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1705.09427</ee>
+<url>db/journals/corr/corr1705.html#LiDV17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/DeutschLV17" mdate="2019-07-24">
+<author pid="d/AlinDeutsch">Alin Deutsch</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="v/VictorVianu">Victor Vianu</author>
+<title>VERIFAS: A Practical Verifier for Artifact Systems.</title>
+<year>2017</year>
+<volume>abs/1705.10007</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1705.10007</ee>
+<url>db/journals/corr/corr1705.html#DeutschLV17</url>
+</article>
+</r>
+<r><inproceedings key="conf/pods/DeutschLV16" mdate="2019-07-24">
+<author pid="d/AlinDeutsch">Alin Deutsch</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="v/VictorVianu">Victor Vianu</author>
+<title>Verification of Hierarchical Artifact Systems.</title>
+<pages>179-194</pages>
+<year>2016</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/2902251.2902275</ee>
+<crossref>conf/pods/2016</crossref>
+<url>db/conf/pods/pods2016.html#DeutschLV16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/DeutschLV16" mdate="2019-07-24">
+<author pid="d/AlinDeutsch">Alin Deutsch</author>
+<author pid="52/4954-1">Yuliang Li 0001</author>
+<author pid="v/VictorVianu">Victor Vianu</author>
+<title>Verification of Hierarchical Artifact Systems.</title>
+<year>2016</year>
+<volume>abs/1604.00967</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1604.00967</ee>
+<url>db/journals/corr/corr1604.html#DeutschLV16</url>
+</article>
+</r>
+<coauthors n="61" nc="1">
+<co c="0"><na f="a/Angelidis:Stefanos" pid="210/2223">Stefanos Angelidis</na></co>
+<co c="0"><na f="a/Astigarraga:Tara" pid="229/3585">Tara Astigarraga</na></co>
+<co c="0"><na f="b/Bandeira:Nuno" pid="44/4012">Nuno Bandeira</na></co>
+<co c="0"><na f="c/Carmeli:Nofar" pid="179/2145">Nofar Carmeli</na></co>
+<co c="0"><na f="c/Chen_0111:Chen" pid="65/4423-111">Chen Chen 0111</na></co>
+<co c="0"><na f="c/Chen:Shuwei" pid="97/299">Shuwei Chen</na></co>
+<co c="0"><na f="c/Chen:Xiaoyan" pid="43/1634">Xiaoyan Chen</na></co>
+<co c="0"><na f="c/Chen:Yaoliang" pid="09/10756">Yaoliang Chen</na></co>
+<co c="0"><na f="d/Demiralp:=Ccedil=agatay" pid="74/20">&#199;agatay Demiralp</na></co>
+<co c="0"><na f="d/Desai:Ruta" pid="128/0409">Ruta Desai</na></co>
+<co c="0"><na f="d/Deutsch:Alin" pid="d/AlinDeutsch">Alin Deutsch</na></co>
+<co c="0"><na f="d/Doan:AnHai" pid="d/AnHaiDoan">AnHai Doan</na></co>
+<co c="0"><na f="d/Dwivedi=Yu:Jane" pid="215/3352">Jane Dwivedi-Yu</na></co>
+<co c="0"><na f="e/Engel:Jonathan" pid="90/9226">Jonathan Engel</na></co>
+<co c="0"><na f="e/Evensen:Sara" pid="213/8215">Sara Evensen</na></co>
+<co c="0"><na f="f/Fan:Grace" pid="146/8297">Grace Fan</na></co>
+<co c="0"><na f="f/Feng:Aaron" pid="220/3063">Aaron Feng</na></co>
+<co c="0"><na f="g/Golshan:Behzad" pid="58/11411">Behzad Golshan</na></co>
+<co c="0"><na f="g/Gu:Jingxiao" pid="184/8069">Jingxiao Gu</na></co>
+<co c="0"><na f="h/Halevy:Alon_Y=" pid="h/AlonYHalevy">Alon Y. Halevy</na></co>
+<co c="0"><na f="h/Hirota:Wataru" pid="234/3361">Wataru Hirota</na></co>
+<co c="0"><na f="h/Hu:Yu=Ching" pid="234/1658">Yu-Ching Hu</na></co>
+<co c="0"><na f="h/Hull_0001:Richard" pid="h/RichardHull">Richard Hull 0001</na></co>
+<co c="0"><na f="j/James_0001:Richard" pid="86/4929-1">Richard James 0001</na></co>
+<co c="0"><na f="j/Jiao:Limei" pid="46/4987">Limei Jiao</na></co>
+<co c="0"><na f="k/Kamra:Nitin" pid="169/2428">Nitin Kamra</na></co>
+<co c="0"><na f="k/Kandogan:Eser" pid="54/6752">Eser Kandogan</na></co>
+<co c="0"><na f="k/Kandogann:Eser" pid="264/2941">Eser Kandogann</na></co>
+<co c="0"><na f="l/Li:Jinfeng" pid="76/7842">Jinfeng Li</na></co>
+<co c="0"><na f="l/Li:Vivian" pid="91/1025">Vivian Li</na></co>
+<co c="0"><na f="l/Lin:Xi_Victoria" pid="215/5264">Xi Victoria Lin</na></co>
+<co c="0"><na f="l/Liu:Huining" pid="19/10216">Huining Liu</na></co>
+<co c="0"><na f="m/Mathias:Lambert" pid="144/2720">Lambert Mathias</na></co>
+<co c="0"><na f="m/Matsuda:Hiroshi" pid="42/4750">Hiroshi Matsuda</na></co>
+<co c="0"><na f="m/Miao:Zhengjie" pid="159/1401">Zhengjie Miao</na></co>
+<co c="0"><na f="m/Mihaila:George_A=" pid="m/GeorgeAMihaila">George A. Mihaila</na></co>
+<co c="0"><na f="m/Miller:Ren=eacute=e_J=" pid="m/RJMiller">Ren&#233;e J. Miller</na></co>
+<co c="0"><na f="m/Morales:John" pid="237/9450">John Morales</na></co>
+<co c="0"><na f="m/Mumick:Saran" pid="238/2389">Saran Mumick</na></co>
+<co c="0"><na f="n/Novotn=yacute=_0002:Petr" pid="91/10961-2">Petr Novotn&#253; 0002</na></co>
+<co c="0"><na f="n/Nuno:Natalie" pid="237/9599">Natalie Nuno</na></co>
+<co c="0"><na f="p/Papakonstantinou:Yannis" pid="p/YPapakonstantinou">Yannis Papakonstantinou</na></co>
+<co c="0"><na f="p/Pavlovic:Ekaterina" pid="237/9659">Ekaterina Pavlovic</na></co>
+<co c="0"><na f="p/Pullman:Benjamin_S=" pid="232/1929">Benjamin S. Pullman</na></co>
+<co c="0" n="2"><na f="r/Rodr=iacute=guez:Pedro" pid="67/4105">Pedro Rodr&#237;guez</na><na>Pedro Rodriguez</na></co>
+<co c="0"><na f="s/Saeidi:Marzieh" pid="136/9320">Marzieh Saeidi</na></co>
+<co c="0"><na f="s/Suhara:Yoshi" pid="322/0272">Yoshi Suhara</na></co>
+<co c="0"><na f="s/Suhara:Yoshihiko" pid="44/2973">Yoshihiko Suhara</na></co>
+<co c="0"><na f="t/Tamaki:Hidekazu" pid="62/6410">Hidekazu Tamaki</na></co>
+<co c="0" n="2"><na f="t/Tan:Wang_Chiew" pid="t/WangChiewTan">Wang Chiew Tan</na><na>Wang-Chiew Tan</na></co>
+<co c="0"><na f="t/Traylor:Aaron" pid="219/6240">Aaron Traylor</na></co>
+<co c="0"><na f="t/Tseng_0001:Hung=Wei" pid="76/1857-1">Hung-Wei Tseng 0001</na></co>
+<co c="0"><na f="v/Vianu:Victor" pid="v/VictorVianu">Victor Vianu</na></co>
+<co c="0"><na f="w/Wang_0001:Jianguo" pid="64/1071-1">Jianguo Wang 0001</na></co>
+<co c="0"><na f="w/Wang_0007:Jin" pid="92/1375-7">Jin Wang 0007</na></co>
+<co c="0"><na f="w/Wang:Runhui" pid="247/9289">Runhui Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Xiaolan" pid="117/4879-1">Xiaolan Wang 0001</na></co>
+<co c="0"><na f="y/Yan:Jing_Nathan" pid="236/5688">Jing Nathan Yan</na></co>
+<co c="0" n="2"><na f="y/Yih:Scott" pid="07/7129">Scott Yih</na><na>Wen-tau Yih</na></co>
+<co c="0"><na f="z/Zhang:Dan" pid="21/802">Dan Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xiong" pid="06/2161">Xiong Zhang</na></co>
+</coauthors>
+</dblpperson>

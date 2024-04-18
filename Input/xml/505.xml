@@ -1,0 +1,2255 @@
+<dblpperson name="Man Lung Yiu" pid="23/282" n="144">
+<person key="homepages/23/282" mdate="2020-09-18">
+<author pid="23/282">Man Lung Yiu</author>
+<url>https://www4.comp.polyu.edu.hk/~csmlyiu/</url>
+<url>https://scholar.google.com/citations?user=PfUoXAEAAAAJ</url>
+<url>https://dl.acm.org/profile/81100069377</url>
+<url>https://orcid.org/0000-0002-9619-4924</url>
+<note type="affiliation">Hong Kong Polytechnic University, Hong Kong, SAR, China</note>
+</person>
+<r><article key="journals/pacmmod/Wang0YLMT23" mdate="2023-06-20">
+<author orcid="0000-0002-0339-6552" pid="35/5625">Fang Wang</author>
+<author orcid="0000-0002-2122-915X" pid="07/2626-2">Xiao Yan 0002</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0003-0760-5267" pid="57/2281-14">Shuai Li 0014</author>
+<author orcid="0009-0006-8516-3723" pid="322/1503">Zunyao Mao</author>
+<author orcid="0000-0001-8424-0092" pid="43/2474-16">Bo Tang 0016</author>
+<title>Speeding Up End-to-end Query Execution via Learning-based Progressive Cardinality Estimation.</title>
+<pages>28:1-28:25</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3588708</ee>
+<url>db/journals/pacmmod/pacmmod1.html#Wang0YLMT23</url>
+</article>
+</r>
+<r><article key="journals/geoinformatica/TangYMZW22" mdate="2022-04-09">
+<author orcid="0000-0001-8424-0092" pid="43/2474-16">Bo Tang 0016</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0002-8835-430X" pid="m/KyriakosMouratidis">Kyriakos Mouratidis</author>
+<author pid="123/4950">Jiahao Zhang</author>
+<author pid="78/2022-37">Kai Wang 0037</author>
+<title>On discovering motifs and frequent patterns in spatial trajectories with discrete Fr&#233;chet distance.</title>
+<pages>29-66</pages>
+<year>2022</year>
+<volume>26</volume>
+<journal>GeoInformatica</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10707-021-00438-x</ee>
+<url>db/journals/geoinformatica/geoinformatica26.html#TangYMZW22</url>
+</article>
+</r>
+<r><article key="journals/tkde/ChanUCYM22" mdate="2022-05-18">
+<author orcid="0000-0001-5851-7967" pid="166/7652">Tsz Nam Chan</author>
+<author pid="38/4996">Leong Hou U</author>
+<author orcid="0000-0002-9480-9809" pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="300/4550">Shivansh Mittal</author>
+<title>Efficient Algorithms for Kernel Aggregation Queries.</title>
+<pages>2726-2739</pages>
+<year>2022</year>
+<volume>34</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TKDE.2020.3018376</ee>
+<url>db/journals/tkde/tkde34.html#ChanUCYM22</url>
+</article>
+</r>
+<r><article key="journals/tkde/ZhangYTL22" mdate="2022-10-18">
+<author pid="123/4950">Jiahao Zhang</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0001-8424-0092" pid="43/2474-16">Bo Tang 0016</author>
+<author orcid="0000-0003-3370-471X" pid="181/2689-1">Qing Li 0001</author>
+<title>Fast Error-Bounded Distance Distribution Computation.</title>
+<pages>5364-5377</pages>
+<year>2022</year>
+<volume>34</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TKDE.2021.3058241</ee>
+<url>db/journals/tkde/tkde34.html#ZhangYTL22</url>
+</article>
+</r>
+<r><inproceedings key="conf/cloud/Liu0ZD0ZSZMZYWJ22" mdate="2023-03-02">
+<author pid="66/10511">Haotian Liu</author>
+<author pid="43/2474-16">Bo Tang 0016</author>
+<author pid="60/4400">Jiashu Zhang</author>
+<author pid="322/1472">Yangshen Deng</author>
+<author pid="07/2626-2">Xiao Yan 0002</author>
+<author pid="60/9006">Xinying Zheng</author>
+<author pid="170/1662">Qiaomu Shen</author>
+<author pid="06/6575-2">Dan Zeng 0002</author>
+<author pid="322/1503">Zunyao Mao</author>
+<author pid="273/7079">Chaozu Zhang</author>
+<author pid="304/2163">Zhengxin You</author>
+<author pid="52/253">Zhihao Wang</author>
+<author pid="322/1414">Runzhe Jiang</author>
+<author pid="35/5625">Fang Wang</author>
+<author pid="23/282">Man Lung Yiu</author>
+<author pid="55/2893-3">Huan Li 0003</author>
+<author pid="295/3192">Mingji Han</author>
+<author pid="69/5902">Qian Li</author>
+<author pid="322/1657">Zhenghai Luo</author>
+<title>GHive: accelerating analytical query processing in apache hive via CPU-GPU heterogeneous computing.</title>
+<pages>158-172</pages>
+<year>2022</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/3542929.3563503</ee>
+<crossref>conf/cloud/2022</crossref>
+<url>db/conf/cloud/socc2022.html#Liu0ZD0ZSZMZYWJ22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LiYC22" mdate="2022-08-05">
+<author pid="11/751-11">Zhe Li 0011</author>
+<author pid="23/282">Man Lung Yiu</author>
+<author pid="166/7652">Tsz Nam Chan</author>
+<title>PAW: Data Partitioning Meets Workload Variance.</title>
+<pages>123-135</pages>
+<year>2022</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE53745.2022.00014</ee>
+<crossref>conf/icde/2022</crossref>
+<url>db/conf/icde/icde2022.html#LiYC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhangYTL22" mdate="2024-02-05">
+<author pid="123/4950">Jiahao Zhang</author>
+<author pid="23/282">Man Lung Yiu</author>
+<author pid="43/2474-16">Bo Tang 0016</author>
+<author orcid="0000-0003-3370-471X" pid="181/2689-1">Qing Li 0001</author>
+<title>Fast Error-Bounded Distance Distribution Computation (Extended Abstract).</title>
+<pages>1527-1528</pages>
+<year>2022</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE53745.2022.00140</ee>
+<crossref>conf/icde/2022</crossref>
+<url>db/conf/icde/icde2022.html#ZhangYTL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Zhang0YYL22" mdate="2022-08-05">
+<author pid="123/4950">Jiahao Zhang</author>
+<author pid="43/2474-16">Bo Tang 0016</author>
+<author pid="23/282">Man Lung Yiu</author>
+<author pid="07/2626-2">Xiao Yan 0002</author>
+<author pid="295/3318">Keming Li</author>
+<title>T-LevelIndex: Towards Efficient Query Processing in Continuous Preference Space.</title>
+<pages>2149-2162</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3526182</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#Zhang0YYL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LiuTZDZSYZMZYWJ22" mdate="2024-02-05">
+<author pid="66/10511">Haotian Liu</author>
+<author pid="43/2474-16">Bo Tang 0016</author>
+<author pid="60/4400">Jiashu Zhang</author>
+<author pid="322/1472">Yangshen Deng</author>
+<author pid="60/9006">Xinying Zheng</author>
+<author orcid="0000-0002-6510-0964" pid="170/1662">Qiaomu Shen</author>
+<author pid="07/2626-2">Xiao Yan 0002</author>
+<author pid="06/6575-2">Dan Zeng 0002</author>
+<author pid="322/1503">Zunyao Mao</author>
+<author pid="273/7079">Chaozu Zhang</author>
+<author pid="304/2163">Zhengxin You</author>
+<author pid="52/253">Zhihao Wang</author>
+<author pid="322/1414">Runzhe Jiang</author>
+<author pid="35/5625">Fang Wang</author>
+<author pid="23/282">Man Lung Yiu</author>
+<author pid="55/2893-3">Huan Li 0003</author>
+<author pid="295/3192">Mingji Han</author>
+<author pid="69/5902">Qian Li</author>
+<author pid="322/1657">Zhenghai Luo</author>
+<title>GHive: A Demonstration of GPU-Accelerated Query Processing in Apache Hive.</title>
+<pages>2417-2420</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3520166</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#LiuTZDZSYZMZYWJ22</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/ChanYU21" mdate="2023-09-30">
+<author orcid="0000-0001-5851-7967" pid="166/7652">Tsz Nam Chan</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0002-5135-5165" pid="38/4996">Leong Hou U</author>
+<title>The Power of Bounds: Answering Approximate Earth Mover's Distance with Parametric Bounds.</title>
+<pages>768-781</pages>
+<year>2021</year>
+<volume>33</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TKDE.2019.2931969</ee>
+<url>db/journals/tkde/tkde33.html#ChanYU21</url>
+</article>
+</r>
+<r><article key="journals/tsc/LiXY21" mdate="2023-08-28">
+<author orcid="0000-0003-0092-2462" pid="34/2997">Yu Li</author>
+<author orcid="0000-0001-8852-2601" pid="21/7971">Wenjian Xu</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>Client-Side Service for Recommending Rewarding Routes to Mobile Crowdsourcing Workers.</title>
+<pages>1995-2010</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>IEEE Trans. Serv. Comput.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TSC.2019.2905564</ee>
+<ee>https://www.wikidata.org/entity/Q114372848</ee>
+<url>db/journals/tsc/tsc14.html#LiXY21</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/0011CYJ21" mdate="2022-12-07">
+<author pid="11/751-11">Zhe Li 0011</author>
+<author pid="166/7652">Tsz Nam Chan</author>
+<author pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>PolyFit: Polynomial-based Indexing Approach for Fast Approximate Range Aggregate Queries.</title>
+<pages>241-252</pages>
+<year>2021</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.5441/002/edbt.2021.22</ee>
+<crossref>conf/edbt/2021</crossref>
+<url>db/conf/edbt/edbt2021.html#0011CYJ21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/WangYS21" mdate="2021-06-25">
+<author pid="35/5625">Fang Wang</author>
+<author pid="23/282">Man Lung Yiu</author>
+<author pid="08/6845">Zili Shao</author>
+<title>Accelerating Similarity-based Mining Tasks on High-dimensional Data by Processing-in-memory.</title>
+<pages>1859-1864</pages>
+<year>2021</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE51399.2021.00167</ee>
+<crossref>conf/icde/2021</crossref>
+<url>db/conf/icde/icde2021.html#WangYS21</url>
+</inproceedings>
+</r>
+<r><article key="journals/www/ShaoYT20" mdate="2023-04-12">
+<author pid="02/5139-1">Jie Shao 0001</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="16/482">Masashi Toyoda</author>
+<title>Guest editorial: special issue on Web and big data 2019.</title>
+<pages>2003-2004</pages>
+<year>2020</year>
+<volume>23</volume>
+<journal>World Wide Web</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11280-020-00797-9</ee>
+<url>db/journals/www/www23.html#ShaoYT20</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/ChanYU20" mdate="2023-09-30">
+<author orcid="0000-0001-5851-7967" pid="166/7652">Tsz Nam Chan</author>
+<author pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0002-5135-5165" pid="38/4996">Leong Hou U</author>
+<title>The Power of Bounds: Answering Approximate Earth Mover's Distance with Parametric Bounds (Extended abstract).</title>
+<pages>2022-2023</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00230</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#ChanYU20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChanCY20" mdate="2023-06-26">
+<author orcid="0000-0001-5851-7967" pid="166/7652">Tsz Nam Chan</author>
+<author orcid="0000-0002-9480-9809" pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>QUAD: Quadratic-Bound-based Kernel Density Visualization.</title>
+<pages>35-50</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3380561</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#ChanCY20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-08031" mdate="2020-03-24">
+<author pid="11/751-11">Zhe Li 0011</author>
+<author pid="166/7652">Tsz Nam Chan</author>
+<author pid="23/282">Man Lung Yiu</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>PolyFit: Polynomial-based Indexing Approach for Fast Approximate Range Aggregate Queries.</title>
+<year>2020</year>
+<volume>abs/2003.08031</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.08031</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-08031</url>
+</article>
+</r>
+<r><article key="journals/pvldb/TangMYC19" mdate="2020-12-22">
+<author pid="43/2474-16">Bo Tang 0016</author>
+<author orcid="0000-0002-8835-430X" pid="m/KyriakosMouratidis">Kyriakos Mouratidis</author>
+<author pid="23/282">Man Lung Yiu</author>
+<author pid="86/541">Zhenyu Chen</author>
+<title>Creating Top Ranking Options in the Continuous Option and Preference Space.</title>
+<pages>1181-1194</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1181-tang.pdf</ee>
+<ee>https://doi.org/10.14778/3339490.3339500</ee>
+<url>db/journals/pvldb/pvldb12.html#TangMYC19</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/ZhangTY19" mdate="2021-07-25">
+<author pid="123/4950">Jiahao Zhang</author>
+<author pid="43/2474-16">Bo Tang 0016</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>Fast Trajectory Range Query with Discrete Frechet Distance.</title>
+<pages>634-637</pages>
+<year>2019</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2019.74</ee>
+<crossref>conf/edbt/2019</crossref>
+<url>db/conf/edbt/edbt2019.html#ZhangTY19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChanYU19" mdate="2023-09-30">
+<author orcid="0000-0001-5851-7967" pid="166/7652">Tsz Nam Chan</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0002-5135-5165" pid="38/4996">Leong Hou U</author>
+<title>KARL: Fast Kernel Aggregation Queries.</title>
+<pages>542-553</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00055</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#ChanYU19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mdm/0011LY19" mdate="2021-07-25">
+<author pid="11/751-11">Zhe Li 0011</author>
+<author pid="34/2997">Yu Li</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>A Spatial Insight for UGC Apps: Fast Similarity Search on Keyword-Induced Point Groups.</title>
+<pages>371-372</pages>
+<year>2019</year>
+<booktitle>MDM</booktitle>
+<ee>https://doi.org/10.1109/MDM.2019.00-26</ee>
+<crossref>conf/mdm/2019</crossref>
+<url>db/conf/mdm/mdm2019.html#0011LY19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/apweb/2019-1" mdate="2023-03-28">
+<editor pid="02/5139-1">Jie Shao 0001</editor>
+<editor pid="23/282">Man Lung Yiu</editor>
+<editor pid="16/482">Masashi Toyoda</editor>
+<editor pid="89/6013">Dongxiang Zhang</editor>
+<editor pid="35/7092-59">Wei Wang 0059</editor>
+<editor pid="55/5031">Bin Cui 0001</editor>
+<title>Web and Big Data - Third International Joint Conference, APWeb-WAIM 2019, Chengdu, China, August 1-3, 2019, Proceedings, Part I</title>
+<booktitle>APWeb/WAIM (1)</booktitle>
+<publisher>Springer</publisher>
+<year>2019</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>11641</volume>
+<isbn>978-3-030-26071-2</isbn>
+<isbn>978-3-030-26072-9</isbn>
+<ee>https://doi.org/10.1007/978-3-030-26072-9</ee>
+<url>db/conf/apweb/apweb2019-1.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/apweb/2019-2" mdate="2023-03-28">
+<editor pid="02/5139-1">Jie Shao 0001</editor>
+<editor pid="23/282">Man Lung Yiu</editor>
+<editor pid="16/482">Masashi Toyoda</editor>
+<editor pid="89/6013">Dongxiang Zhang</editor>
+<editor pid="35/7092-59">Wei Wang 0059</editor>
+<editor pid="55/5031">Bin Cui 0001</editor>
+<title>Web and Big Data - Third International Joint Conference, APWeb-WAIM 2019, Chengdu, China, August 1-3, 2019, Proceedings, Part II</title>
+<booktitle>APWeb/WAIM (2)</booktitle>
+<publisher>Springer</publisher>
+<year>2019</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>11642</volume>
+<isbn>978-3-030-26074-3</isbn>
+<isbn>978-3-030-26075-0</isbn>
+<ee>https://doi.org/10.1007/978-3-030-26075-0</ee>
+<url>db/conf/apweb/apweb2019-2.html</url>
+</proceedings>
+</r>
+<r><article key="journals/is/LuYX18" mdate="2021-07-25">
+<author orcid="0000-0003-1199-6678" pid="l/HuaLu">Hua Lu 0001</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="64/1308">Xike Xie</author>
+<title>Querying spatial data by dominators in neighborhood.</title>
+<pages>71-85</pages>
+<year>2018</year>
+<volume>77</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2018.06.001</ee>
+<url>db/journals/is/is77.html#LuYX18</url>
+</article>
+</r>
+<r><article key="journals/isci/LuoSYJP18" mdate="2018-09-13">
+<author pid="137/0095">Jingjing Luo</author>
+<author orcid="0000-0002-6114-0766" pid="40/1788">Xianfang Sun</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="51/7090">Longcun Jin</author>
+<author pid="37/3454">Xinyi Peng</author>
+<title>Piecewise linear regression-based single image super-resolution via Hadamard transform.</title>
+<pages>315-330</pages>
+<year>2018</year>
+<volume>462</volume>
+<journal>Inf. Sci.</journal>
+<ee>https://doi.org/10.1016/j.ins.2018.06.030</ee>
+<url>db/journals/isci/isci462.html#LuoSYJP18</url>
+</article>
+</r>
+<r><inproceedings key="conf/gis/LiLY18" mdate="2021-07-25">
+<author pid="11/751-11">Zhe Li 0011</author>
+<author pid="34/2997">Yu Li</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>Fast similarity search on keyword-induced point groups.</title>
+<pages>109-118</pages>
+<year>2018</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/3274895.3274920</ee>
+<crossref>conf/gis/2018</crossref>
+<url>db/conf/gis/gis2018.html#LiLY18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LiCGYZ18" mdate="2023-03-23">
+<author pid="09/11146">Wengen Li</author>
+<author pid="c/JiannongCao">Jiannong Cao 0001</author>
+<author pid="89/2685">Jihong Guan</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="52/6744">Shuigeng Zhou</author>
+<title>Efficient Retrieval of Bounded-Cost Informative Routes.</title>
+<pages>1811-1812</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00263</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00263</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#LiCGYZ18</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/snam/MatsumotoHY18" mdate="2019-05-29">
+<author orcid="0000-0003-1388-2906" pid="91/10057">Takazumi Matsumoto</author>
+<author pid="h/EdwardHung">Edward Hung</author>
+<author pid="23/282">Man Lung Yiu</author>
+<title>Outlier Detection with Uncertain Data Using Graphics Processors.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+<ee>https://doi.org/10.1007/978-1-4939-7131-2_376</ee>
+<crossref>reference/snam/2018</crossref>
+<url>db/reference/snam/snam2018.html#MatsumotoHY18</url>
+</incollection>
+</r>
+<r><article key="journals/geoinformatica/LiYM17" mdate="2021-07-25">
+<author pid="158/9269">Pui Hang Li</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0002-8835-430X" pid="m/KyriakosMouratidis">Kyriakos Mouratidis</author>
+<title>Discovering historic traffic-tolerant paths in road networks.</title>
+<pages>1-32</pages>
+<year>2017</year>
+<volume>21</volume>
+<journal>GeoInformatica</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10707-016-0265-y</ee>
+<url>db/journals/geoinformatica/geoinformatica21.html#LiYM17</url>
+</article>
+</r>
+<r><article key="journals/is/WongSLYWZCK17" mdate="2024-02-05">
+<author pid="131/4190">Petrie Wong</author>
+<author pid="194/9025">Cliz Sun</author>
+<author pid="80/2320">Eric Lo 0001</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0002-5766-2115" pid="70/4432-1">Xiaowei Wu 0001</author>
+<author pid="132/9340">Zhichao Zhao</author>
+<author pid="c/THHubertChan">T.-H. Hubert Chan</author>
+<author pid="k/BenKao">Ben Kao</author>
+<title>Finding k most influential edges on flow graphs.</title>
+<pages>93-105</pages>
+<year>2017</year>
+<volume>65</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2016.12.002</ee>
+<url>db/journals/is/is65.html#WongSLYWZCK17</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiUYK17" mdate="2020-04-25">
+<author pid="55/6910">Ye Li</author>
+<author pid="38/4996">Leong Hou U</author>
+<author pid="23/282">Man Lung Yiu</author>
+<author pid="163/0667">Ngai Meng Kou</author>
+<title>An Experimental Study on Hub Labeling based Shortest Path Algorithms.</title>
+<pages>445-457</pages>
+<year>2017</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p445-li.pdf</ee>
+<ee>https://doi.org/10.1145/3186728.3164141</ee>
+<url>db/journals/pvldb/pvldb11.html#LiUYK17</url>
+</article>
+</r>
+<r><article key="journals/tkde/ChanYH17" mdate="2021-07-25">
+<author orcid="0000-0001-5851-7967" pid="166/7652">Tsz Nam Chan</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="233/0688">Kien A. Hua</author>
+<title>Efficient Sub-Window Nearest Neighbor Search on Matrix.</title>
+<pages>784-797</pages>
+<year>2017</year>
+<volume>29</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TKDE.2016.2633357</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2016.2633357</ee>
+<url>db/journals/tkde/tkde29.html#ChanYH17</url>
+</article>
+</r>
+<r><article key="journals/tkde/LiCGYZ17" mdate="2021-07-25">
+<author pid="09/11146">Wengen Li</author>
+<author pid="c/JiannongCao">Jiannong Cao 0001</author>
+<author pid="89/2685">Jihong Guan</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="52/6744">Shuigeng Zhou</author>
+<title>Efficient Retrieval of Bounded-Cost Informative Routes.</title>
+<pages>2182-2196</pages>
+<year>2017</year>
+<volume>29</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TKDE.2017.2721408</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2017.2721408</ee>
+<url>db/journals/tkde/tkde29.html#LiCGYZ17</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/TangYMW17" mdate="2023-01-30">
+<author pid="43/2474-16">Bo Tang 0016</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0002-8835-430X" pid="m/KyriakosMouratidis">Kyriakos Mouratidis</author>
+<author pid="78/2022-37">Kai Wang 0037</author>
+<title>Efficient Motif Discovery in Spatial Trajectories Using Discrete Fr&#233;chet Distance.</title>
+<pages>378-389</pages>
+<year>2017</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2017.34</ee>
+<crossref>conf/edbt/2017</crossref>
+<url>db/conf/edbt/edbt2017.html#TangYMW17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/LiTUYG17" mdate="2023-09-30">
+<author pid="82/6387">Yuhong Li</author>
+<author pid="43/2474-16">Bo Tang 0016</author>
+<author orcid="0000-0002-5135-5165" pid="38/4996">Leong Hou U</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="95/6295">Zhiguo Gong</author>
+<title>Fast Subsequence Search on Time Series Data.</title>
+<pages>514-517</pages>
+<year>2017</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2017.58</ee>
+<crossref>conf/edbt/2017</crossref>
+<url>db/conf/edbt/edbt2017.html#LiTUYG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/TangYH17" mdate="2023-03-24">
+<author pid="43/2474-16">Bo Tang 0016</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="233/0688">Kien A. Hua</author>
+<title>Exploit Every Bit: Effective Caching for High-Dimensional Nearest Neighbor Search.</title>
+<pages>45-46</pages>
+<year>2017</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2017.29</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2017.29</ee>
+<crossref>conf/icde/2017</crossref>
+<url>db/conf/icde/icde2017.html#TangYH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/TangMY17" mdate="2021-07-25">
+<author pid="43/2474-16">Bo Tang 0016</author>
+<author orcid="0000-0002-8835-430X" pid="m/KyriakosMouratidis">Kyriakos Mouratidis</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>Determining the Impact Regions of Competing Options in Preference Space.</title>
+<pages>805-820</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3064044</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#TangMY17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LiCYM17" mdate="2021-07-25">
+<author pid="66/3387-57">Hui Li 0057</author>
+<author orcid="0000-0001-5851-7967" pid="166/7652">Tsz Nam Chan</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<title>FEXIPRO: Fast and Exact Inner Product Retrieval in Recommender Systems.</title>
+<pages>835-850</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3064009</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#LiCYM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/TangHYDZ17" mdate="2022-06-22">
+<author pid="43/2474-16">Bo Tang 0016</author>
+<author pid="23/3395">Shi Han</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="55/5564-1">Rui Ding 0001</author>
+<author pid="87/461-1">Dongmei Zhang 0001</author>
+<title>Extracting Top-K Insights from Multi-dimensional Data.</title>
+<pages>1509-1524</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3035922</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#TangHYDZ17</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/gis/YiuTM17" mdate="2022-09-29">
+<author pid="23/282">Man Lung Yiu</author>
+<author pid="t/YufeiTao">Yufei Tao 0001</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<title>Indexing, BDual Tree.</title>
+<pages>973-979</pages>
+<year>2017</year>
+<booktitle>Encyclopedia of GIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-17885-1_600</ee>
+<crossref>reference/gis/2017</crossref>
+<url>db/reference/gis/gis2017.html#YiuTM17</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/gis/PapadiasYMT17" mdate="2022-09-29">
+<author pid="p/DimitrisPapadias">Dimitris Papadias</author>
+<author pid="23/282">Man Lung Yiu</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="t/YufeiTao">Yufei Tao 0001</author>
+<title>Nearest Neighbor Queries in Network Databases.</title>
+<pages>1426-1433</pages>
+<year>2017</year>
+<booktitle>Encyclopedia of GIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-17885-1_864</ee>
+<crossref>reference/gis/2017</crossref>
+<url>db/reference/gis/gis2017.html#PapadiasYMT17</url>
+</incollection>
+</r>
+<r><article key="journals/tkde/XieJYDYJ16" mdate="2022-12-07">
+<author pid="64/1308">Xike Xie</author>
+<author pid="52/3440">Peiquan Jin</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="32/724-7">Jiang Du 0007</author>
+<author pid="74/2356">Mingxuan Yuan</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Enabling Scalable Geographic Service Sharing with Weighted Imprecise Voronoi Cells.</title>
+<pages>439-453</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TKDE.2015.2464804</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2015.2464804</ee>
+<url>db/journals/tkde/tkde28.html#XieJYDYJ16</url>
+</article>
+</r>
+<r><article key="journals/tkde/TangYH16" mdate="2021-07-25">
+<author pid="43/2474-16">Bo Tang 0016</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="233/0688">Kien A. Hua</author>
+<title>Exploit Every Bit: Effective Caching for High-Dimensional Nearest Neighbor Search.</title>
+<pages>1175-1188</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TKDE.2016.2515603</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2016.2515603</ee>
+<url>db/journals/tkde/tkde28.html#TangYH16</url>
+</article>
+</r>
+<r><article key="journals/vldb/LiUYG16" mdate="2023-09-30">
+<author pid="82/6387">Yuhong Li</author>
+<author orcid="0000-0002-5135-5165" pid="38/4996">Leong Hou U</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="95/6295">Zhiguo Gong</author>
+<title>Efficient discovery of longest-lasting correlation in sequence databases.</title>
+<pages>767-790</pages>
+<year>2016</year>
+<volume>25</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00778-016-0432-7</ee>
+<url>db/journals/vldb/vldb25.html#LiUYG16</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/XieJYDJY16" mdate="2023-03-23">
+<author pid="64/1308">Xike Xie</author>
+<author pid="52/3440">Peiquan Jin</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="32/724-7">Jiang Du 0007</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="74/2356">Mingxuan Yuan</author>
+<title>Enabling scalable geographic service sharing with weighted imprecise Voronoi cells.</title>
+<pages>1522-1523</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498405</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498405</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#XieJYDJY16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LiaoUYG16" mdate="2023-09-30">
+<author pid="167/8186">Bailong Liao</author>
+<author orcid="0000-0002-5135-5165" pid="38/4996">Leong Hou U</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="95/6295">Zhiguo Gong</author>
+<title>Beyond millisecond latency kNN search on commodity machine.</title>
+<pages>1524-1525</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498406</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498406</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#LiaoUYG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/TangYLU16" mdate="2023-09-30">
+<author pid="43/2474-16">Bo Tang 0016</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="82/6387">Yuhong Li</author>
+<author orcid="0000-0002-5135-5165" pid="38/4996">Leong Hou U</author>
+<title>Exploit Every Cycle: Vectorized Time Series Algorithms on Modern Commodity CPUs.</title>
+<pages>18-39</pages>
+<year>2016</year>
+<booktitle>ADMS/IMDM@VLDB</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-56111-0_2</ee>
+<crossref>conf/vldb/2016adms</crossref>
+<url>db/conf/vldb/adms2016.html#TangYLU16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/waim/LiCGYZ16" mdate="2021-07-25">
+<author pid="09/11146">Wengen Li</author>
+<author orcid="0000-0002-2725-2529" pid="c/JiannongCao">Jiannong Cao 0001</author>
+<author pid="89/2685">Jihong Guan</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="52/6744">Shuigeng Zhou</author>
+<title>Retrieving Routes of Interest Over Road Networks.</title>
+<pages>109-123</pages>
+<year>2016</year>
+<booktitle>WAIM (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-39937-9_9</ee>
+<ee>https://www.wikidata.org/entity/Q60247610</ee>
+<crossref>conf/waim/2016-1</crossref>
+<url>db/conf/waim/waim2016-1.html#LiCGYZ16</url>
+</inproceedings>
+</r>
+<r><article key="journals/dpd/MatsumotoHY15" mdate="2020-05-18">
+<author orcid="0000-0003-1388-2906" pid="91/10057">Takazumi Matsumoto</author>
+<author pid="h/EdwardHung">Edward Hung</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>Parallel outlier detection on uncertain data for GPUs.</title>
+<pages>417-447</pages>
+<year>2015</year>
+<volume>33</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10619-014-7155-9</ee>
+<url>db/journals/dpd/dpd33.html#MatsumotoHY15</url>
+</article>
+</r>
+<r><article key="journals/geoinformatica/XuCYLP15" mdate="2021-07-25">
+<author orcid="0000-0001-8852-2601" pid="21/7971">Wenjian Xu</author>
+<author orcid="0000-0002-9566-0743" pid="77/6228">Chi-Yin Chow</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0003-3370-471X" pid="181/2689-1">Qing Li 0001</author>
+<author orcid="0000-0002-8508-5060" pid="67/3327">Chung Keung Poon</author>
+<title>MobiFeed: A location-aware news feed framework for moving users.</title>
+<pages>633-669</pages>
+<year>2015</year>
+<volume>19</volume>
+<journal>GeoInformatica</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10707-014-0223-5</ee>
+<url>db/journals/geoinformatica/geoinformatica19.html#XuCYLP15</url>
+</article>
+</r>
+<r><article key="journals/tkde/LiY15" mdate="2017-06-08">
+<author pid="34/2997">Yu Li</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>Route-Saver: Leveraging Route APIs for Accurate and Efficient Query Processing at Location-Based Services.</title>
+<pages>235-249</pages>
+<year>2015</year>
+<volume>27</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TKDE.2014.2324597</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2014.2324597</ee>
+<url>db/journals/tkde/tkde27.html#LiY15</url>
+</article>
+</r>
+<r><article key="journals/tkde/LiTYM15" mdate="2021-07-25">
+<author pid="l/JingLi-41">Jing Li 0041</author>
+<author pid="76/7127">Jeppe Rishede Thomsen</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<title>Efficient Notification of Meeting Points for Moving Groups via Independent Safe Regions.</title>
+<pages>1767-1781</pages>
+<year>2015</year>
+<volume>27</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TKDE.2014.2334304</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2014.2334304</ee>
+<url>db/journals/tkde/tkde27.html#LiTYM15</url>
+</article>
+</r>
+<r><article key="journals/tkde/LiaoUYG15" mdate="2023-09-30">
+<author pid="167/8186">Bailong Liao</author>
+<author orcid="0000-0002-5135-5165" pid="38/4996">Leong Hou U</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="95/6295">Zhiguo Gong</author>
+<title>Beyond Millisecond Latency <i>k</i>NN Search on Commodity Machine.</title>
+<pages>2618-2631</pages>
+<year>2015</year>
+<volume>27</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TKDE.2015.2426702</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2015.2426702</ee>
+<url>db/journals/tkde/tkde27.html#LiaoUYG15</url>
+</article>
+</r>
+<r><article key="journals/tmc/YungLLY15" mdate="2021-07-25">
+<author pid="51/9582">Duncan Yung</author>
+<author pid="34/2997">Yu Li</author>
+<author pid="80/2320">Eric Lo 0001</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>Efficient Authentication of Continuously Moving k NN Queries.</title>
+<pages>1806-1819</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TMC.2014.2365203</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TMC.2014.2365203</ee>
+<url>db/journals/tmc/tmc14.html#YungLLY15</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/LiLYX15" mdate="2021-07-25">
+<author pid="34/2997">Yu Li</author>
+<author pid="80/2320">Eric Lo 0001</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0001-8852-2601" pid="21/7971">Wenjian Xu</author>
+<title>Query Optimization over Cloud Data Market.</title>
+<pages>229-240</pages>
+<year>2015</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2015.21</ee>
+<crossref>conf/edbt/2015</crossref>
+<url>db/conf/edbt/edbt2015.html#LiLYX15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/XuTY15" mdate="2023-03-24">
+<author pid="80/7820">Chuanfei Xu</author>
+<author pid="43/2474-16">Bo Tang 0016</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>Diversified caching for replicated web search engines.</title>
+<pages>207-218</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113285</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113285</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#XuTY15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LiUYG15" mdate="2023-09-30">
+<author pid="82/6387">Yuhong Li</author>
+<author orcid="0000-0002-5135-5165" pid="38/4996">Leong Hou U</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="95/6295">Zhiguo Gong</author>
+<title>Quick-motif: An efficient and scalable framework for exact motif discovery.</title>
+<pages>579-590</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113316</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113316</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#LiUYG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/MatsumotoY15" mdate="2023-03-24">
+<author orcid="0000-0003-1388-2906" pid="91/10057">Takazumi Matsumoto</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>Accelerating Exact Similarity Search on CPU-GPU Systems.</title>
+<pages>320-329</pages>
+<year>2015</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2015.125</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDM.2015.125</ee>
+<crossref>conf/icdm/2015</crossref>
+<url>db/conf/icdm/icdm2015.html#MatsumotoY15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/LiYX15" mdate="2021-07-25">
+<author pid="34/2997">Yu Li</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0001-8852-2601" pid="21/7971">Wenjian Xu</author>
+<title>Oriented Online Route Recommendation for Spatial Crowdsourcing Task Workers.</title>
+<pages>137-156</pages>
+<year>2015</year>
+<booktitle>SSTD</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-22363-6_8</ee>
+<crossref>conf/ssd/2015</crossref>
+<url>db/conf/ssd/sstd2015.html#LiYX15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/ChanYH15" mdate="2021-07-25">
+<author orcid="0000-0001-5851-7967" pid="166/7652">Tsz Nam Chan</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="233/0688">Kien A. Hua</author>
+<title>A Progressive Approach for Similarity Search on Matrix.</title>
+<pages>373-390</pages>
+<year>2015</year>
+<booktitle>SSTD</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-22363-6_20</ee>
+<crossref>conf/ssd/2015</crossref>
+<url>db/conf/ssd/sstd2015.html#ChanYH15</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/CaoCJY14" mdate="2022-12-07">
+<author orcid="0000-0002-3519-7013" pid="77/2970-1">Xin Cao 0001</author>
+<author orcid="0000-0002-4430-6373" pid="33/3180">Gao Cong</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="23/282">Man Lung Yiu</author>
+<title>Retrieving Regions of Interest for User Exploration.</title>
+<pages>733-744</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p733-cao.pdf</ee>
+<ee>https://doi.org/10.14778/2732939.2732946</ee>
+<url>db/journals/pvldb/pvldb7.html#CaoCJY14</url>
+</article>
+</r>
+<r><article key="journals/tkde/UZYLG14" mdate="2023-09-30">
+<author orcid="0000-0002-5135-5165" pid="38/4996">Leong Hou U</author>
+<author pid="143/9552">Hong Jun Zhao</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="82/6387">Yuhong Li</author>
+<author pid="95/6295">Zhiguo Gong</author>
+<title>Towards Online Shortest Path Computation.</title>
+<pages>1012-1025</pages>
+<year>2014</year>
+<volume>26</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TKDE.2013.176</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2013.176</ee>
+<url>db/journals/tkde/tkde26.html#UZYLG14</url>
+</article>
+</r>
+<r><article key="journals/tkde/JeungLSY14" mdate="2021-03-17">
+<author pid="39/2670">Hoyoung Jeung</author>
+<author orcid="0000-0003-1199-6678" pid="l/HuaLu">Hua Lu 0001</author>
+<author pid="55/1967">Saket Sathe 0001</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>Managing Evolving Uncertainty in Trajectory Databases.</title>
+<pages>1692-1705</pages>
+<year>2014</year>
+<volume>26</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TKDE.2013.141</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2013.141</ee>
+<url>db/journals/tkde/tkde26.html#JeungLSY14</url>
+</article>
+</r>
+<r><article key="journals/tkde/XieYCL14" mdate="2023-06-26">
+<author pid="64/1308">Xike Xie</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0002-9480-9809" pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0003-1199-6678" pid="l/HuaLu">Hua Lu 0001</author>
+<title>Scalable Evaluation of Trajectory Queries over Imprecise Location Data.</title>
+<pages>2029-2044</pages>
+<year>2014</year>
+<volume>26</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TKDE.2013.77</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2013.77</ee>
+<url>db/journals/tkde/tkde26.html#XieYCL14</url>
+</article>
+</r>
+<r><article key="journals/tois/WangLYTWL14" mdate="2021-02-25">
+<author pid="64/1071-1">Jianguo Wang 0001</author>
+<author pid="80/2320">Eric Lo 0001</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="94/8174">Jiancong Tong</author>
+<author pid="71/4292-1">Gang Wang 0001</author>
+<author pid="25/1221-1">Xiaoguang Liu 0001</author>
+<title>Cache Design of SSD-Based Search Engine Architectures: An Experimental Study.</title>
+<pages>21:1-21:26</pages>
+<year>2014</year>
+<volume>32</volume>
+<journal>ACM Trans. Inf. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2661629</ee>
+<url>db/journals/tois/tois32.html#WangLYTWL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasfaa/WongYLLYZ14" mdate="2020-10-08">
+<author pid="131/4190">Petrie Wong</author>
+<author pid="51/9582">Duncan Yung</author>
+<author pid="38/7537">Ming-Hay Luk</author>
+<author pid="80/2320">Eric Lo 0001</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="z/KennyQiliZhu">Kenny Q. Zhu</author>
+<title>Efficient Processing of Which-Edge Questions on Shortest Path Queries.</title>
+<pages>251-265</pages>
+<year>2014</year>
+<booktitle>DASFAA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-05810-8_17</ee>
+<crossref>conf/dasfaa/2014-1</crossref>
+<url>db/conf/dasfaa/dasfaa2014-1.html#WongYLLYZ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/ThomsenYJ14" mdate="2022-12-07">
+<author pid="76/7127">Jeppe Rishede Thomsen</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Concise caching of driving instructions.</title>
+<pages>23-32</pages>
+<year>2014</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/2666310.2666401</ee>
+<crossref>conf/gis/2014</crossref>
+<url>db/conf/gis/gis2014.html#ThomsenYJ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/LiYM14" mdate="2018-11-06">
+<author pid="158/9269">Pui Hang Li</author>
+<author pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0002-8835-430X" pid="m/KyriakosMouratidis">Kyriakos Mouratidis</author>
+<title>Historical traffic-tolerant paths in road networks.</title>
+<pages>477-480</pages>
+<year>2014</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/2666310.2666483</ee>
+<crossref>conf/gis/2014</crossref>
+<url>db/conf/gis/gis2014.html#LiYM14</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/LiUYG13" mdate="2023-09-30">
+<author pid="82/6387">Yuhong Li</author>
+<author orcid="0000-0002-5135-5165" pid="38/4996">Leong Hou U</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="95/6295">Zhiguo Gong</author>
+<title>Discovering Longest-lasting Correlation in Sequence Databases.</title>
+<pages>1666-1677</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>14</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p1666-u.pdf</ee>
+<ee>https://doi.org/10.14778/2556549.2556552</ee>
+<url>db/journals/pvldb/pvldb6.html#LiUYG13</url>
+</article>
+</r>
+<r><article key="journals/tkde/WangLY13" mdate="2020-10-08">
+<author pid="64/1071-1">Jianguo Wang 0001</author>
+<author orcid="0000-0003-2679-3945" pid="80/2320">Eric Lo 0001</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>Identifying the Most Connected Vertices in Hidden Bipartite Graphs Using Group Testing.</title>
+<pages>2245-2256</pages>
+<year>2013</year>
+<volume>25</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TKDE.2012.178</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2012.178</ee>
+<url>db/journals/tkde/tkde25.html#WangLY13</url>
+</article>
+</r>
+<r><article key="journals/tods/WuYJ13" mdate="2022-12-07">
+<author pid="81/6181">Dingming Wu 0001</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Moving spatial keyword queries: Formulation, methods, and analysis.</title>
+<pages>7</pages>
+<year>2013</year>
+<volume>38</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2445583.2445590</ee>
+<url>db/journals/tods/tods38.html#WuYJ13</url>
+</article>
+</r>
+<r><article key="journals/vldb/XieCYSC13" mdate="2023-06-26">
+<author pid="64/1308">Xike Xie</author>
+<author orcid="0000-0002-9480-9809" pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="31/7993">Liwen Sun</author>
+<author pid="25/1610">Jinchuan Chen</author>
+<title>UV-diagram: a voronoi diagram for uncertain spatial databases.</title>
+<pages>319-344</pages>
+<year>2013</year>
+<volume>22</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s00778-012-0290-x</ee>
+<url>db/journals/vldb/vldb22.html#XieCYSC13</url>
+</article>
+</r>
+<r><inproceedings key="conf/hicss/ChaiLYWL13" mdate="2023-03-24">
+<author orcid="0000-0003-1560-845X" pid="17/9024">Junyi Chai 0001</author>
+<author pid="l/JNKLiu">James N. K. Liu</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="13/5641">Hongwei Wang</author>
+<author pid="117/3245">Anming Li</author>
+<title>A Novel Dynamic Skyline Operation for Multicriteria Decision Support.</title>
+<pages>1183-1192</pages>
+<year>2013</year>
+<booktitle>HICSS</booktitle>
+<ee>https://doi.org/10.1109/HICSS.2013.49</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HICSS.2013.49</ee>
+<crossref>conf/hicss/2013</crossref>
+<url>db/conf/hicss/hicss2013.html#ChaiLYWL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LiYM13" mdate="2023-03-23">
+<author pid="l/JingLi-41">Jing Li 0041</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<title>Efficient notification of meeting points for moving groups via independent safe regions.</title>
+<pages>422-433</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544844</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544844</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#LiYM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/WangLYTWL13" mdate="2021-02-25">
+<author pid="64/1071-1">Jianguo Wang 0001</author>
+<author orcid="0000-0003-2679-3945" pid="80/2320">Eric Lo 0001</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="94/8174">Jiancong Tong</author>
+<author pid="71/4292-1">Gang Wang 0001</author>
+<author pid="25/1221-1">Xiaoguang Liu 0001</author>
+<title>The impact of solid state drive on search engine cache management.</title>
+<pages>693-702</pages>
+<year>2013</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2484028.2484046</ee>
+<crossref>conf/sigir/2013</crossref>
+<url>db/conf/sigir/sigir2013.html#WangLYTWL13</url>
+</inproceedings>
+</r>
+<r><article key="journals/dke/YungYL12" mdate="2020-10-08">
+<author pid="51/9582">Duncan Yung</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0003-2679-3945" pid="80/2320">Eric Lo 0001</author>
+<title>A safe-exit approach for efficient network-based moving range queries.</title>
+<pages>126-147</pages>
+<year>2012</year>
+<volume>72</volume>
+<journal>Data Knowl. Eng.</journal>
+<ee>https://doi.org/10.1016/j.datak.2011.10.001</ee>
+<url>db/journals/dke/dke72.html#YungYL12</url>
+</article>
+</r>
+<r><article key="journals/pvldb/MouratidisY12" mdate="2020-04-25">
+<author orcid="0000-0002-8835-430X" pid="m/KyriakosMouratidis">Kyriakos Mouratidis</author>
+<author pid="23/282">Man Lung Yiu</author>
+<title>Shortest Path Computation with No Information Leakage.</title>
+<pages>692-703</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>8</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p692_kyriakosmouratidis_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2212351.2212352</ee>
+<url>db/journals/pvldb/pvldb5.html#MouratidisY12</url>
+</article>
+</r>
+<r><article key="journals/tkde/YiuAJK12" mdate="2022-12-07">
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0002-1091-9948" pid="a/IraAssent">Ira Assent</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author orcid="0000-0002-5060-1360" pid="97/3036">Panos Kalnis</author>
+<title>Outsourced Similarity Search on Metric Data Assets.</title>
+<pages>338-352</pages>
+<year>2012</year>
+<volume>24</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TKDE.2010.222</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2010.222</ee>
+<url>db/journals/tkde/tkde24.html#YiuAJK12</url>
+</article>
+</r>
+<r><article key="journals/tkde/YiuLY12" mdate="2020-10-08">
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0003-2679-3945" pid="80/2320">Eric Lo 0001</author>
+<author pid="51/9582">Duncan Yung</author>
+<title>Measuring the Sky: On Computing Data Cubes via Skylining the Measures.</title>
+<pages>492-505</pages>
+<year>2012</year>
+<volume>24</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TKDE.2010.253</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2010.253</ee>
+<url>db/journals/tkde/tkde24.html#YiuLY12</url>
+</article>
+</r>
+<r><article key="journals/tkde/WuYCJ12" mdate="2022-12-07">
+<author pid="81/6181">Dingming Wu 0001</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0002-4430-6373" pid="33/3180">Gao Cong</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Joint Top-K Spatial Keyword Query Processing.</title>
+<pages>1889-1903</pages>
+<year>2012</year>
+<volume>24</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TKDE.2011.172</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2011.172</ee>
+<url>db/journals/tkde/tkde24.html#WuYCJ12</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/YungLY12" mdate="2020-10-08">
+<author pid="51/9582">Duncan Yung</author>
+<author orcid="0000-0003-2679-3945" pid="80/2320">Eric Lo 0001</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>Authentication of moving range queries.</title>
+<pages>1372-1381</pages>
+<year>2012</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2396761.2398441</ee>
+<crossref>conf/cikm/2012</crossref>
+<url>db/conf/cikm/cikm2012.html#YungLY12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/CaoCCJQSWY12" mdate="2022-12-07">
+<author pid="77/2970-1">Xin Cao 0001</author>
+<author pid="37/10606">Lisi Chen</author>
+<author orcid="0000-0002-4430-6373" pid="33/3180">Gao Cong</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="92/5150">Qiang Qu</author>
+<author pid="119/6313">Anders Skovsgaard</author>
+<author pid="81/6181">Dingming Wu 0001</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>Spatial Keyword Querying.</title>
+<pages>16-29</pages>
+<year>2012</year>
+<booktitle>ER</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-34002-4_2</ee>
+<crossref>conf/er/2012</crossref>
+<url>db/conf/er/er2012.html#CaoCCJQSWY12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/XuCYLP12" mdate="2018-11-06">
+<author orcid="0000-0001-8852-2601" pid="21/7971">Wenjian Xu</author>
+<author orcid="0000-0002-9566-0743" pid="77/6228">Chi-Yin Chow</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0003-3370-471X" pid="181/2689-1">Qing Li 0001</author>
+<author orcid="0000-0002-8508-5060" pid="67/3327">Chung Keung Poon</author>
+<title>MobiFeed: a location-aware news feed system for mobile users.</title>
+<pages>538-541</pages>
+<year>2012</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/2424321.2424409</ee>
+<crossref>conf/gis/2012</crossref>
+<url>db/conf/gis/gis2012.html#XuCYLP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ThomsenYJ12" mdate="2022-12-07">
+<author pid="76/7127">Jeppe Rishede Thomsen</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Effective caching of shortest paths for location-based services.</title>
+<pages>313-324</pages>
+<year>2012</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2213836.2213872</ee>
+<crossref>conf/sigmod/2012</crossref>
+<url>db/conf/sigmod/sigmod2012.html#ThomsenYJ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/XieCY12" mdate="2023-06-26">
+<author pid="64/1308">Xike Xie</author>
+<author orcid="0000-0002-9480-9809" pid="89/2619">Reynold Cheng</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>Evaluating Trajectory Queries over Imprecise Location Data.</title>
+<pages>56-74</pages>
+<year>2012</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31235-9_4</ee>
+<crossref>conf/ssdbm/2012</crossref>
+<url>db/conf/ssdbm/ssdbm2012.html#XieCY12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1204-6076" mdate="2018-08-13">
+<author pid="m/KyriakosMouratidis">Kyriakos Mouratidis</author>
+<author pid="23/282">Man Lung Yiu</author>
+<title>Shortest Path Computation with No Information Leakage</title>
+<ee type="oa">http://arxiv.org/abs/1204.6076</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1204.6076</volume>
+<url>db/journals/corr/corr1204.html#abs-1204-6076</url>
+</article>
+</r>
+<r><article key="journals/tkde/YiuLMV11" mdate="2019-09-16">
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0003-1199-6678" pid="l/HuaLu">Hua Lu 0001</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="16/2376">Michail Vaitis</author>
+<title>Ranking Spatial Data by Quality Preferences.</title>
+<pages>433-446</pages>
+<year>2011</year>
+<volume>23</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TKDE.2010.119</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2010.119</ee>
+<url>db/journals/tkde/tkde23.html#YiuLMV11</url>
+</article>
+</r>
+<r><article key="journals/tkde/LuY11" mdate="2019-09-16">
+<author orcid="0000-0003-1199-6678" pid="l/HuaLu">Hua Lu 0001</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>On Computing Farthest Dominated Locations.</title>
+<pages>928-941</pages>
+<year>2011</year>
+<volume>23</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TKDE.2010.45</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2010.45</ee>
+<url>db/journals/tkde/tkde23.html#LuY11</url>
+</article>
+</r>
+<r><article key="journals/tods/YiuJML11" mdate="2022-12-07">
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author orcid="0000-0002-0008-6890" pid="17/1189">Jesper M&#248;ller</author>
+<author orcid="0000-0003-1199-6678" pid="l/HuaLu">Hua Lu 0001</author>
+<title>Design and analysis of a ranking approach to private location-based services.</title>
+<pages>10:1-10:42</pages>
+<year>2011</year>
+<volume>36</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1966385.1966388</ee>
+<url>db/journals/tods/tods36.html#YiuJML11</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/WuYJC11" mdate="2023-03-24">
+<author pid="81/6181">Dingming Wu 0001</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author orcid="0000-0002-4430-6373" pid="33/3180">Gao Cong</author>
+<title>Efficient continuously moving top-k spatial keyword query processing.</title>
+<pages>541-552</pages>
+<year>2011</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2011.5767861</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2011.5767861</ee>
+<crossref>conf/icde/2011</crossref>
+<url>db/conf/icde/icde2011.html#WuYJC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YiuLY11" mdate="2023-03-23">
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0003-2679-3945" pid="80/2320">Eric Lo 0001</author>
+<author pid="51/9582">Duncan Yung</author>
+<title>Authentication of moving kNN queries.</title>
+<pages>565-576</pages>
+<year>2011</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2011.5767829</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2011.5767829</ee>
+<crossref>conf/icde/2011</crossref>
+<url>db/conf/icde/icde2011.html#YiuLY11</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/Zheng2011/JeungYJ11" mdate="2017-05-16">
+<author pid="39/2670">Hoyoung Jeung</author>
+<author pid="23/282">Man Lung Yiu</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Trajectory Pattern Mining.</title>
+<pages>143-177</pages>
+<year>2011</year>
+<booktitle>Computing with Spatial Trajectories</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-1629-6_5</ee>
+<crossref>books/sp/zheng11</crossref>
+<url>db/books/collections/Zheng2011.html#JeungYJ11</url>
+</incollection>
+</r>
+<r><article key="journals/pvldb/YiuUST10" mdate="2023-09-30">
+<author pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0002-5135-5165" pid="38/4996">Leong Hou U</author>
+<author orcid="0000-0002-2046-6110" pid="48/2122">Simonas Saltenis</author>
+<author pid="61/7259">Kostas Tzoumas</author>
+<title>Efficient Proximity Detection among Mobile Users via Self-Tuning Policies.</title>
+<pages>985-996</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R88.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920966</ee>
+<url>db/journals/pvldb/pvldb3.html#YiuUST10</url>
+</article>
+</r>
+<r><article key="journals/tkde/MouratidisY10" mdate="2018-11-02">
+<author orcid="0000-0002-8835-430X" pid="m/KyriakosMouratidis">Kyriakos Mouratidis</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>Anonymous Query Processing in Road Networks.</title>
+<pages>2-15</pages>
+<year>2010</year>
+<volume>22</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TKDE.2009.48</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2009.48</ee>
+<url>db/journals/tkde/tkde22.html#MouratidisY10</url>
+</article>
+</r>
+<r><article key="journals/tods/UMYM10" mdate="2023-09-30">
+<author orcid="0000-0002-5135-5165" pid="38/4996">Leong Hou U</author>
+<author orcid="0000-0002-8835-430X" pid="m/KyriakosMouratidis">Kyriakos Mouratidis</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<title>Optimal matching between spatial datasets under capacity constraints.</title>
+<year>2010</year>
+<volume>35</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1735886.1735888</ee>
+<url>db/journals/tods/tods35.html#UMYM10</url>
+<pages>9:1-9:44</pages>
+</article>
+</r>
+<r><article key="journals/vldb/YiuGJK10" mdate="2022-12-07">
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="80/6521">Gabriel Ghinita</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author orcid="0000-0002-5060-1360" pid="97/3036">Panos Kalnis</author>
+<title>Enabling search services on outsourced private spatial data.</title>
+<pages>363-384</pages>
+<year>2010</year>
+<volume>19</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00778-009-0169-7</ee>
+<url>db/journals/vldb/vldb19.html#YiuGJK10</url>
+</article>
+</r>
+<r><article key="journals/vldb/JeungYZJ10" mdate="2022-12-07">
+<author pid="39/2670">Hoyoung Jeung</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0001-6343-1455" pid="z/XiaofangZhou">Xiaofang Zhou 0001</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Path prediction and predictive range querying in road network databases.</title>
+<pages>585-602</pages>
+<year>2010</year>
+<volume>19</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00778-010-0181-y</ee>
+<url>db/journals/vldb/vldb19.html#JeungYZJ10</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/YiuLM10" mdate="2023-03-24">
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="92/7126">Yimin Lin</author>
+<author orcid="0000-0002-8835-430X" pid="m/KyriakosMouratidis">Kyriakos Mouratidis</author>
+<title>Efficient verification of shortest path search via authenticated hints.</title>
+<pages>237-248</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447914</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447914</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#YiuLM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/MouratidisLY10" mdate="2023-03-23">
+<author orcid="0000-0002-8835-430X" pid="m/KyriakosMouratidis">Kyriakos Mouratidis</author>
+<author pid="92/7126">Yimin Lin</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>Preference queries in large multi-cost transportation networks.</title>
+<pages>533-544</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447851</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447851</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#MouratidisLY10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChengXYCS10" mdate="2023-06-26">
+<author orcid="0000-0002-9480-9809" pid="89/2619">Reynold Cheng</author>
+<author pid="64/1308">Xike Xie</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="25/1610">Jinchuan Chen</author>
+<author pid="31/7993">Liwen Sun</author>
+<title>UV-diagram: A Voronoi diagram for uncertain data.</title>
+<pages>796-807</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447917</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447917</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#ChengXYCS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mdm/SiksnysTSY10" mdate="2023-03-23">
+<author pid="04/7129">Laurynas Siksnys</author>
+<author pid="76/7127">Jeppe Rishede Thomsen</author>
+<author orcid="0000-0002-2046-6110" pid="48/2122">Simonas Saltenis</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>Private and Flexible Proximity Detection in Mobile Social Networks.</title>
+<pages>75-84</pages>
+<year>2010</year>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1109/MDM.2010.43</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MDM.2010.43</ee>
+<crossref>conf/mdm/2010</crossref>
+<url>db/conf/mdm/mdm2010.html#SiksnysTSY10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1002-0963" mdate="2019-12-03">
+<author pid="39/2670">Hoyoung Jeung</author>
+<author pid="23/282">Man Lung Yiu</author>
+<author pid="z/XiaofangZhou">Xiaofang Zhou 0001</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="s/HTShen">Heng Tao Shen</author>
+<title>Discovery of Convoys in Trajectory Databases</title>
+<ee type="oa">http://arxiv.org/abs/1002.0963</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1002.0963</volume>
+<url>db/journals/corr/corr1002.html#abs-1002-0963</url>
+</article>
+</r>
+<r><article key="journals/geoinformatica/YiuMB09" mdate="2019-10-19">
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author orcid="0000-0002-8964-0746" pid="76/5890">Spiridon Bakiras</author>
+<title>Retrieval of Spatial Join Pattern Instances from Sensor Networks.</title>
+<pages>57-84</pages>
+<year>2009</year>
+<volume>13</volume>
+<journal>GeoInformatica</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10707-007-0043-y</ee>
+<url>db/journals/geoinformatica/geoinformatica13.html#YiuMB09</url>
+</article>
+</r>
+<r><article key="journals/pvldb/TzoumasYJ09" mdate="2022-12-07">
+<author pid="61/7259">Kostas Tzoumas</author>
+<author pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Workload-Aware Indexing of Continuously Moving Objects.</title>
+<pages>1186-1197</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-225.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687761</ee>
+<url>db/journals/pvldb/pvldb2.html#TzoumasYJ09</url>
+</article>
+</r>
+<r><article key="journals/tkde/YiuMDTV09" mdate="2022-09-29">
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="17/1076">Xiangyuan Dai</author>
+<author orcid="0000-0003-3883-5452" pid="t/YufeiTao">Yufei Tao 0001</author>
+<author pid="16/2376">Michail Vaitis</author>
+<title>Efficient Evaluation of Probabilistic Advanced Spatial Queries on Existentially Uncertain Data.</title>
+<pages>108-122</pages>
+<year>2009</year>
+<volume>21</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TKDE.2008.135</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2008.135</ee>
+<url>db/journals/tkde/tkde21.html#YiuMDTV09</url>
+</article>
+</r>
+<r><article key="journals/vldb/YiuM09" mdate="2017-06-09">
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<title>Multi-dimensional top-<i>k</i> dominating queries.</title>
+<pages>695-718</pages>
+<year>2009</year>
+<volume>18</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00778-008-0117-y</ee>
+<url>db/journals/vldb/vldb18.html#YiuM09</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/LukYL09" mdate="2020-10-08">
+<author pid="38/7537">Ming-Hay Luk</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0003-2679-3945" pid="80/2320">Eric Lo 0001</author>
+<title>Group-by skyline query processing in relational engines.</title>
+<pages>1433-1436</pages>
+<year>2009</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1645953.1646138</ee>
+<crossref>conf/cikm/2009</crossref>
+<url>db/conf/cikm/cikm2009.html#LukYL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esorics/JensenLY09" mdate="2022-12-07">
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author orcid="0000-0003-1199-6678" pid="l/HuaLu">Hua Lu 0001</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>Location Privacy Techniques in Client-Server Architectures.</title>
+<pages>31-58</pages>
+<year>2009</year>
+<booktitle>Privacy in Location-Based Applications</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-03511-1_2</ee>
+<crossref>conf/esorics/2009-5599</crossref>
+<url>db/conf/esorics/lncs5599.html#JensenLY09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YiuGJK09" mdate="2023-03-23">
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="80/6521">Gabriel Ghinita</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="97/3036">Panos Kalnis</author>
+<title>Outsourcing Search Services on Private Spatial Data.</title>
+<pages>1140-1143</pages>
+<year>2009</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2009.185</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2009.185</ee>
+<crossref>conf/icde/2009</crossref>
+<url>db/conf/icde/icde2009.html#YiuGJK09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mdm/LinYM09" mdate="2023-03-23">
+<author pid="02/7753">Zhifeng Lin</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<title>Thresholded Range Aggregation in Sensor Networks.</title>
+<pages>162-171</pages>
+<year>2009</year>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1109/MDM.2009.27</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MDM.2009.27</ee>
+<crossref>conf/mdm/2009</crossref>
+<url>db/conf/mdm/mdm2009.html#LinYM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/SiksnysTSYA09" mdate="2017-06-05">
+<author pid="04/7129">Laurynas Siksnys</author>
+<author pid="76/7127">Jeppe Rishede Thomsen</author>
+<author orcid="0000-0002-2046-6110" pid="48/2122">Simonas Saltenis</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="86/7127">Ove Andersen</author>
+<title>A Location Privacy Aware Friend Locator.</title>
+<pages>405-410</pages>
+<year>2009</year>
+<booktitle>SSTD</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02982-0_29</ee>
+<crossref>conf/ssd/2009</crossref>
+<url>db/conf/ssd/sstd2009.html#SiksnysTSYA09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/LuY09" mdate="2019-09-16">
+<author orcid="0000-0003-1199-6678" pid="l/HuaLu">Hua Lu 0001</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>Identifying the Most Endangered Objects from Spatial Datasets.</title>
+<pages>608-626</pages>
+<year>2009</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02279-1_43</ee>
+<crossref>conf/ssdbm/2009</crossref>
+<url>db/conf/ssdbm/ssdbm2009.html#LuY09</url>
+</inproceedings>
+</r>
+<r><article key="journals/dke/YiuMH08" mdate="2023-11-12">
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author orcid="0000-0001-8905-2832" pid="42/5855">Vagelis Hristidis</author>
+<title>Extracting k most important groups from data efficiently.</title>
+<pages>289-310</pages>
+<year>2008</year>
+<volume>66</volume>
+<journal>Data Knowl. Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.datak.2008.04.001</ee>
+<url>db/journals/dke/dke66.html#YiuMH08</url>
+</article>
+</r>
+<r><article key="journals/pvldb/JeungYZJS08" mdate="2022-12-07">
+<author pid="39/2670">Hoyoung Jeung</author>
+<author pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0001-6343-1455" pid="z/XiaofangZhou">Xiaofang Zhou 0001</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="s/HTShen">Heng Tao Shen</author>
+<title>Discovery of convoys in trajectory databases.</title>
+<pages>1068-1080</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1453971.pdf</ee>
+<ee>https://doi.org/10.14778/1453856.1453971</ee>
+<url>db/journals/pvldb/pvldb1.html#JeungYZJS08</url>
+</article>
+</r>
+<r><article key="journals/tkde/UMY08" mdate="2023-09-30">
+<author orcid="0000-0002-5135-5165" pid="38/4996">Leong Hou U</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>Computation and Monitoring of Exclusive Closest Pairs.</title>
+<pages>1641-1654</pages>
+<year>2008</year>
+<volume>20</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TKDE.2008.85</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2008.85</ee>
+<url>db/journals/tkde/tkde20.html#UMY08</url>
+</article>
+</r>
+<r><article key="journals/vldb/YiuTM08" mdate="2022-09-29">
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0003-3883-5452" pid="t/YufeiTao">Yufei Tao 0001</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<title>The <i>B</i><sup><i>dual</i></sup>-Tree: indexing moving objects by space filling curves in the dual space.</title>
+<year>2008</year>
+<volume>17</volume>
+<number>3</number>
+<pages>379-400</pages>
+<journal>VLDB J.</journal>
+<ee>https://doi.org/10.1007/s00778-006-0013-2</ee>
+<url>db/journals/vldb/vldb17.html#YiuTM08</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/YiuKM08" mdate="2018-11-06">
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="08/5342">Panagiotis Karras</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<title>Ring-constrained join: deriving fair middleman locations from pointsets via a geometric constraint.</title>
+<pages>606-617</pages>
+<year>2008</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1353343.1353416</ee>
+<crossref>conf/edbt/2008</crossref>
+<url>db/conf/edbt/edbt2008.html#YiuKM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YiuMK08" mdate="2023-03-23">
+<author pid="23/282">Man Lung Yiu</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="08/5342">Panagiotis Karras</author>
+<title>Common Influence Join: A Natural Join Operation for Spatial Pointsets.</title>
+<pages>100-109</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497418</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497418</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#YiuMK08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YiuJHL08" mdate="2023-03-24">
+<author pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="88/1466">Xuegang Huang</author>
+<author orcid="0000-0003-1199-6678" pid="l/HuaLu">Hua Lu 0001</author>
+<title>SpaceTwist: Managing the Trade-Offs Among Location Privacy, Query Performance, and Query Accuracy in Mobile Services.</title>
+<pages>366-375</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497445</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497445</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#YiuJHL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobide/LuJY08" mdate="2022-12-07">
+<author orcid="0000-0003-1199-6678" pid="l/HuaLu">Hua Lu 0001</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<title>PAD: privacy-area aware, dummy-based location privacy in mobile services.</title>
+<pages>16-23</pages>
+<year>2008</year>
+<booktitle>MobiDE</booktitle>
+<ee>https://doi.org/10.1145/1626536.1626540</ee>
+<crossref>conf/mobide/2008</crossref>
+<url>db/conf/mobide/mobide2008.html#LuJY08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/UYMM08" mdate="2023-09-30">
+<author orcid="0000-0002-5135-5165" pid="38/4996">Leong Hou U</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0002-8835-430X" pid="m/KyriakosMouratidis">Kyriakos Mouratidis</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<title>Capacity constrained assignment in spatial databases.</title>
+<pages>15-28</pages>
+<year>2008</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1376616.1376621</ee>
+<crossref>conf/sigmod/2008</crossref>
+<url>db/conf/sigmod/sigmod2008.html#UYMM08</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/gis/YiuTM08" mdate="2022-09-29">
+<author pid="23/282">Man Lung Yiu</author>
+<author orcid="0000-0003-3883-5452" pid="t/YufeiTao">Yufei Tao 0001</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<title>Indexing, BDual Tree.</title>
+<pages>497-502</pages>
+<year>2008</year>
+<booktitle>Encyclopedia of GIS</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-35973-1_600</ee>
+<crossref>reference/gis/2008</crossref>
+<url>db/reference/gis/gis2008.html#YiuTM08</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/gis/PapadiasYMT08" mdate="2022-09-29">
+<author pid="p/DimitrisPapadias">Dimitris Papadias</author>
+<author pid="23/282">Man Lung Yiu</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author orcid="0000-0003-3883-5452" pid="t/YufeiTao">Yufei Tao 0001</author>
+<title>Nearest Neighbor Queries in Network Databases.</title>
+<pages>772-776</pages>
+<year>2008</year>
+<booktitle>Encyclopedia of GIS</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-35973-1_864</ee>
+<crossref>reference/gis/2008</crossref>
+<url>db/reference/gis/gis2008.html#PapadiasYMT08</url>
+</incollection>
+</r>
+<r><article key="journals/tkde/YiuM07" mdate="2017-06-08">
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<title>Reverse Nearest Neighbors Search in Ad Hoc Subspaces.</title>
+<pages>412-426</pages>
+<year>2007</year>
+<volume>19</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TKDE.2007.47</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2007.47</ee>
+<url>db/journals/tkde/tkde19.html#YiuM07</url>
+</article>
+</r>
+<r><article key="journals/tods/MamoulisYCC07" mdate="2018-11-06">
+<author pid="34/6253">Nikos Mamoulis</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="53/903">Kit Hung Cheng</author>
+<author pid="c/DWLCheung">David W. Cheung</author>
+<title>Efficient top-<i>k</i> aggregation of ranked inputs.</title>
+<pages>19</pages>
+<year>2007</year>
+<volume>32</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1272743.1272749</ee>
+<url>db/journals/tods/tods32.html#MamoulisYCC07</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/YiuDMV07" mdate="2023-03-24">
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="17/1076">Xiangyuan Dai</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="16/2376">Michail Vaitis</author>
+<title>Top-k Spatial Preference Queries.</title>
+<pages>1076-1085</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.368966</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2007.368966</ee>
+<url>db/conf/icde/icde2007.html#YiuDMV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/UMY07" mdate="2017-05-24">
+<author pid="38/4996">Leong Hou U</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="23/282">Man Lung Yiu</author>
+<title>Continuous Monitoring of Exclusive Closest Pairs.</title>
+<pages>1-19</pages>
+<year>2007</year>
+<crossref>conf/ssd/2007</crossref>
+<booktitle>SSTD</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73540-3_1</ee>
+<url>db/conf/ssd/sstd2007.html#UMY07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/YiuMB07" mdate="2023-03-24">
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author orcid="0000-0002-8964-0746" pid="76/5890">Spiridon Bakiras</author>
+<title>Retrieval of Spatial Join Pattern Instances from Sensor Networks.</title>
+<pages>25</pages>
+<year>2007</year>
+<crossref>conf/ssdbm/2007</crossref>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1109/SSDBM.2007.41</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SSDBM.2007.41</ee>
+<url>db/conf/ssdbm/ssdbm2007.html#YiuMB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/YiuM07" mdate="2020-03-12">
+<author pid="23/282">Man Lung Yiu</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<title>Efficient Processing of Top-k Dominating Queries on Multi-Dimensional Data.</title>
+<pages>483-494</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/research/p483-yiu.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#YiuM07</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hk/Yiu06" mdate="2023-07-27">
+<author pid="23/282">Man Lung Yiu</author>
+<title>Advanced query processing on spatial networks</title>
+<school>University of Hong Kong</school>
+<year>2006</year>
+<ee>https://doi.org/10.5353/th_b3627936</ee>
+</phdthesis>
+</r>
+<r><article key="journals/tkde/YiuPMT06" mdate="2022-09-29">
+<author pid="23/282">Man Lung Yiu</author>
+<author pid="p/DimitrisPapadias">Dimitris Papadias</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author orcid="0000-0003-3883-5452" pid="t/YufeiTao">Yufei Tao 0001</author>
+<title>Reverse Nearest Neighbors in Large Graphs.</title>
+<pages>540-553</pages>
+<year>2006</year>
+<volume>18</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>4</number>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2006.67</ee>
+<url>db/journals/tkde/tkde18.html#YiuPMT06</url>
+</article>
+</r>
+<r><article key="journals/tkde/TaoYM06" mdate="2022-09-29">
+<author orcid="0000-0003-3883-5452" pid="t/YufeiTao">Yufei Tao 0001</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<title>Reverse Nearest Neighbor Search in Metric Spaces.</title>
+<pages>1239-1252</pages>
+<year>2006</year>
+<volume>18</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TKDE.2006.148</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2006.148</ee>
+<url>db/journals/tkde/tkde18.html#TaoYM06</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/YiuMT06" mdate="2022-09-29">
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author orcid="0000-0003-3883-5452" pid="t/YufeiTao">Yufei Tao 0001</author>
+<title>Efficient Quantile Retrieval on Multi-dimensional Data.</title>
+<pages>167-185</pages>
+<year>2006</year>
+<crossref>conf/edbt/2006</crossref>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1007/11687238_13</ee>
+<url>db/conf/edbt/edbt2006.html#YiuMT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/MamoulisCYC06" mdate="2023-03-24">
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="53/903">Kit Hung Cheng</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="c/DWLCheung">David W. Cheung</author>
+<title>Efficient Aggregation of Ranked Inputs.</title>
+<pages>72</pages>
+<year>2006</year>
+<crossref>conf/icde/2006</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2006.54</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2006.54</ee>
+<url>db/conf/icde/icde2006.html#MamoulisCYC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YiuM06" mdate="2023-03-24">
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<title>Reverse Nearest Neighbors Search in Ad-hoc Subspaces.</title>
+<pages>76</pages>
+<year>2006</year>
+<crossref>conf/icde/2006</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2006.129</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2006.129</ee>
+<url>db/conf/icde/icde2006.html#YiuM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/MouratidisYPM06" mdate="2020-03-12">
+<author pid="m/KyriakosMouratidis">Kyriakos Mouratidis</author>
+<author pid="23/282">Man Lung Yiu</author>
+<author pid="p/DimitrisPapadias">Dimitris Papadias</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<title>Continuous Nearest Neighbor Monitoring in Road Networks.</title>
+<pages>43-54</pages>
+<year>2006</year>
+<crossref>conf/vldb/2006</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1164133</ee>
+<ee type="oa">http://www.vldb.org/conf/2006/p43-mouratidis.pdf</ee>
+<url>db/conf/vldb/vldb2006.html#MouratidisYPM06</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/YiuM05" mdate="2017-06-08">
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<title>Iterative Projected Clustering by Subspace Mining.</title>
+<pages>176-189</pages>
+<year>2005</year>
+<volume>17</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TKDE.2005.29</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2005.29</ee>
+<url>db/journals/tkde/tkde17.html#YiuM05</url>
+</article>
+</r>
+<r><article key="journals/tkde/YiuMP05" mdate="2017-06-08">
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="p/DimitrisPapadias">Dimitris Papadias</author>
+<title>Aggregate Nearest Neighbor Queries in Road Networks.</title>
+<pages>820-833</pages>
+<year>2005</year>
+<volume>17</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TKDE.2005.87</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2005.87</ee>
+<url>db/journals/tkde/tkde17.html#YiuMP05</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/PapadiasYMT05" mdate="2023-03-23">
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="p/DimitrisPapadias">Dimitris Papadias</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author orcid="0000-0003-3883-5452" pid="t/YufeiTao">Yufei Tao 0001</author>
+<title>Reverse Nearest Neighbors in Large Graphs.</title>
+<year>2005</year>
+<crossref>conf/icde/2005</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2005.html#PapadiasYMT05</url>
+<pages>186-187</pages>
+<ee>https://doi.org/10.1109/ICDE.2005.124</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2005.124</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/TaoYPMH05" mdate="2022-09-29">
+<author orcid="0000-0003-3883-5452" pid="t/YufeiTao">Yufei Tao 0001</author>
+<author orcid="0000-0002-9619-4924" pid="23/282">Man Lung Yiu</author>
+<author pid="p/DimitrisPapadias">Dimitris Papadias</author>
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<title>RPJ: Producing Fast Join Results on Streams through Rate-based Optimization.</title>
+<year>2005</year>
+<crossref>conf/sigmod/2005</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2005.html#TaoYPMH05</url>
+<pages>371-382</pages>
+<ee>https://doi.org/10.1145/1066157.1066200</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/DaiYMTV05" mdate="2022-09-29">
+<author pid="17/1076">Xiangyuan Dai</author>
+<author pid="23/282">Man Lung Yiu</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author orcid="0000-0003-3883-5452" pid="t/YufeiTao">Yufei Tao 0001</author>
+<author pid="16/2376">Michail Vaitis</author>
+<title>Probabilistic Spatial Queries on Existentially Uncertain Data.</title>
+<pages>400-417</pages>
+<year>2005</year>
+<crossref>conf/ssd/2005</crossref>
+<booktitle>SSTD</booktitle>
+<ee>https://doi.org/10.1007/11535331_23</ee>
+<url>db/conf/ssd/sstd2005.html#DaiYMTV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/MamoulisY04" mdate="2017-05-21">
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="23/282">Man Lung Yiu</author>
+<title>Non-contiguous Sequence Pattern Queries.</title>
+<pages>783-800</pages>
+<ee>https://doi.org/10.1007/978-3-540-24741-8_45</ee>
+<year>2004</year>
+<crossref>conf/edbt/2004</crossref>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt2004.html#MamoulisY04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/YiuM04" mdate="2018-11-06">
+<author pid="23/282">Man Lung Yiu</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<title>Clustering Objects on a Spatial Network.</title>
+<year>2004</year>
+<crossref>conf/sigmod/2004</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2004.html#YiuM04</url>
+<pages>443-454</pages>
+<ee>https://doi.org/10.1145/1007568.1007619</ee>
+<ee>http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/R-283.pdf</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/YiuM03" mdate="2023-03-24">
+<author pid="23/282">Man Lung Yiu</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<title>Frequent-Pattern based Iterative Projected Clustering.</title>
+<pages>689-692</pages>
+<year>2003</year>
+<crossref>conf/icdm/2003</crossref>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2003.1251009</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDM.2003.1251009</ee>
+<url>db/conf/icdm/icdm2003.html#YiuM03</url>
+</inproceedings>
+</r>
+<coauthors n="123" nc="3">
+<co c="0"><na f="a/Andersen:Ove" pid="86/7127">Ove Andersen</na></co>
+<co c="0"><na f="a/Assent:Ira" pid="a/IraAssent">Ira Assent</na></co>
+<co c="0"><na f="b/Bakiras:Spiridon" pid="76/5890">Spiridon Bakiras</na></co>
+<co c="0"><na f="c/Cao_0001:Jiannong" pid="c/JiannongCao">Jiannong Cao 0001</na></co>
+<co c="0"><na f="c/Cao_0001:Xin" pid="77/2970-1">Xin Cao 0001</na></co>
+<co c="1"><na f="c/Chai_0001:Junyi" pid="17/9024">Junyi Chai 0001</na></co>
+<co c="0"><na f="c/Chan:T==H=_Hubert" pid="c/THHubertChan">T.-H. Hubert Chan</na></co>
+<co c="0"><na f="c/Chan:Tsz_Nam" pid="166/7652">Tsz Nam Chan</na></co>
+<co c="0"><na f="c/Chen:Jinchuan" pid="25/1610">Jinchuan Chen</na></co>
+<co c="0"><na f="c/Chen:Lisi" pid="37/10606">Lisi Chen</na></co>
+<co c="0"><na f="c/Chen:Zhenyu" pid="86/541">Zhenyu Chen</na></co>
+<co c="0"><na f="c/Cheng:Kit_Hung" pid="53/903">Kit Hung Cheng</na></co>
+<co c="0"><na f="c/Cheng:Reynold" pid="89/2619">Reynold Cheng</na></co>
+<co c="0" n="2"><na f="c/Cheung:David_Wai=Lok" pid="c/DWLCheung">David Wai-Lok Cheung</na><na>David W. Cheung</na></co>
+<co c="0"><na f="c/Chow:Chi=Yin" pid="77/6228">Chi-Yin Chow</na></co>
+<co c="0"><na f="c/Cong:Gao" pid="33/3180">Gao Cong</na></co>
+<co c="0"><na f="c/Cui_0001:Bin" pid="55/5031">Bin Cui 0001</na></co>
+<co c="0"><na f="d/Dai:Xiangyuan" pid="17/1076">Xiangyuan Dai</na></co>
+<co c="0"><na f="d/Deng:Yangshen" pid="322/1472">Yangshen Deng</na></co>
+<co c="0"><na f="d/Ding_0001:Rui" pid="55/5564-1">Rui Ding 0001</na></co>
+<co c="0"><na f="d/Du_0007:Jiang" pid="32/724-7">Jiang Du 0007</na></co>
+<co c="0"><na f="g/Ghinita:Gabriel" pid="80/6521">Gabriel Ghinita</na></co>
+<co c="0"><na f="g/Gong:Zhiguo" pid="95/6295">Zhiguo Gong</na></co>
+<co c="0"><na f="g/Guan:Jihong" pid="89/2685">Jihong Guan</na></co>
+<co c="0"><na f="h/Hadjieleftheriou:Marios" pid="86/6294">Marios Hadjieleftheriou</na></co>
+<co c="0"><na f="h/Han:Mingji" pid="295/3192">Mingji Han</na></co>
+<co c="0"><na f="h/Han:Shi" pid="23/3395">Shi Han</na></co>
+<co c="0"><na f="h/Hristidis:Vagelis" pid="42/5855">Vagelis Hristidis</na></co>
+<co c="0"><na f="h/Hua:Kien_A=" pid="233/0688">Kien A. Hua</na></co>
+<co c="0"><na f="h/Huang:Xuegang" pid="88/1466">Xuegang Huang</na></co>
+<co c="0"><na f="h/Hung:Edward" pid="h/EdwardHung">Edward Hung</na></co>
+<co c="0"><na f="j/Jensen:Christian_S=" pid="j/ChristianSJensen">Christian S. Jensen</na></co>
+<co c="0"><na f="j/Jeung:Hoyoung" pid="39/2670">Hoyoung Jeung</na></co>
+<co c="0"><na f="j/Jiang:Runzhe" pid="322/1414">Runzhe Jiang</na></co>
+<co c="2"><na f="j/Jin:Longcun" pid="51/7090">Longcun Jin</na></co>
+<co c="0"><na f="j/Jin:Peiquan" pid="52/3440">Peiquan Jin</na></co>
+<co c="0"><na f="k/Kalnis:Panos" pid="97/3036">Panos Kalnis</na></co>
+<co c="0"><na f="k/Kao:Ben" pid="k/BenKao">Ben Kao</na></co>
+<co c="0"><na f="k/Karras:Panagiotis" pid="08/5342">Panagiotis Karras</na></co>
+<co c="0"><na f="k/Kou:Ngai_Meng" pid="163/0667">Ngai Meng Kou</na></co>
+<co c="1"><na f="l/Li:Anming" pid="117/3245">Anming Li</na></co>
+<co c="0"><na f="l/Li_0003:Huan" pid="55/2893-3">Huan Li 0003</na></co>
+<co c="0"><na f="l/Li_0057:Hui" pid="66/3387-57">Hui Li 0057</na></co>
+<co c="0"><na f="l/Li_0041:Jing" pid="l/JingLi-41">Jing Li 0041</na></co>
+<co c="0"><na f="l/Li:Keming" pid="295/3318">Keming Li</na></co>
+<co c="0"><na f="l/Li:Pui_Hang" pid="158/9269">Pui Hang Li</na></co>
+<co c="0"><na f="l/Li:Qian" pid="69/5902">Qian Li</na></co>
+<co c="0"><na f="l/Li_0001:Qing" pid="181/2689-1">Qing Li 0001</na></co>
+<co c="0"><na f="l/Li_0014:Shuai" pid="57/2281-14">Shuai Li 0014</na></co>
+<co c="0"><na f="l/Li:Wengen" pid="09/11146">Wengen Li</na></co>
+<co c="0"><na f="l/Li:Ye" pid="55/6910">Ye Li</na></co>
+<co c="0"><na f="l/Li:Yu" pid="34/2997">Yu Li</na></co>
+<co c="0"><na f="l/Li:Yuhong" pid="82/6387">Yuhong Li</na></co>
+<co c="0"><na f="l/Li_0011:Zhe" pid="11/751-11">Zhe Li 0011</na></co>
+<co c="0"><na f="l/Liao:Bailong" pid="167/8186">Bailong Liao</na></co>
+<co c="0"><na f="l/Lin:Yimin" pid="92/7126">Yimin Lin</na></co>
+<co c="0"><na f="l/Lin:Zhifeng" pid="02/7753">Zhifeng Lin</na></co>
+<co c="0"><na f="l/Liu:Haotian" pid="66/10511">Haotian Liu</na></co>
+<co c="1" n="2"><na f="l/Liu:James_Nga=Kwok" pid="l/JNKLiu">James Nga-Kwok Liu</na><na>James N. K. Liu</na></co>
+<co c="0"><na f="l/Liu_0001:Xiaoguang" pid="25/1221-1">Xiaoguang Liu 0001</na></co>
+<co c="0"><na f="l/Lo_0001:Eric" pid="80/2320">Eric Lo 0001</na></co>
+<co c="0"><na f="l/Lu_0001:Hua" pid="l/HuaLu">Hua Lu 0001</na></co>
+<co c="0"><na f="l/Luk:Ming=Hay" pid="38/7537">Ming-Hay Luk</na></co>
+<co c="2"><na f="l/Luo:Jingjing" pid="137/0095">Jingjing Luo</na></co>
+<co c="0"><na f="l/Luo:Zhenghai" pid="322/1657">Zhenghai Luo</na></co>
+<co c="0"><na f="m/Mamoulis:Nikos" pid="34/6253">Nikos Mamoulis</na></co>
+<co c="0"><na f="m/Mao:Zunyao" pid="322/1503">Zunyao Mao</na></co>
+<co c="0"><na f="m/Matsumoto:Takazumi" pid="91/10057">Takazumi Matsumoto</na></co>
+<co c="0"><na f="m/Mittal:Shivansh" pid="300/4550">Shivansh Mittal</na></co>
+<co c="0"><na f="m/M=oslash=ller:Jesper" pid="17/1189">Jesper M&#248;ller</na></co>
+<co c="0"><na f="m/Mouratidis:Kyriakos" pid="m/KyriakosMouratidis">Kyriakos Mouratidis</na></co>
+<co c="0"><na f="p/Papadias:Dimitris" pid="p/DimitrisPapadias">Dimitris Papadias</na></co>
+<co c="2"><na f="p/Peng:Xinyi" pid="37/3454">Xinyi Peng</na></co>
+<co c="0"><na f="p/Poon:Chung_Keung" pid="67/3327">Chung Keung Poon</na></co>
+<co c="0"><na f="q/Qu:Qiang" pid="92/5150">Qiang Qu</na></co>
+<co c="0"><na f="s/Saltenis:Simonas" pid="48/2122">Simonas Saltenis</na></co>
+<co c="0"><na f="s/Sathe_0001:Saket" pid="55/1967">Saket Sathe 0001</na></co>
+<co c="0"><na f="s/Shao_0001:Jie" pid="02/5139-1">Jie Shao 0001</na></co>
+<co c="0"><na f="s/Shao:Zili" pid="08/6845">Zili Shao</na></co>
+<co c="0"><na f="s/Shen:Heng_Tao" pid="s/HTShen">Heng Tao Shen</na></co>
+<co c="0"><na f="s/Shen:Qiaomu" pid="170/1662">Qiaomu Shen</na></co>
+<co c="0"><na f="s/Siksnys:Laurynas" pid="04/7129">Laurynas Siksnys</na></co>
+<co c="0"><na f="s/Skovsgaard:Anders" pid="119/6313">Anders Skovsgaard</na></co>
+<co c="0"><na f="s/Sun:Cliz" pid="194/9025">Cliz Sun</na></co>
+<co c="0"><na f="s/Sun:Liwen" pid="31/7993">Liwen Sun</na></co>
+<co c="2"><na f="s/Sun:Xianfang" pid="40/1788">Xianfang Sun</na></co>
+<co c="0"><na f="t/Tang_0016:Bo" pid="43/2474-16">Bo Tang 0016</na></co>
+<co c="0"><na f="t/Tao_0001:Yufei" pid="t/YufeiTao">Yufei Tao 0001</na></co>
+<co c="0"><na f="t/Thomsen:Jeppe_Rishede" pid="76/7127">Jeppe Rishede Thomsen</na></co>
+<co c="0"><na f="t/Tong:Jiancong" pid="94/8174">Jiancong Tong</na></co>
+<co c="0"><na f="t/Toyoda:Masashi" pid="16/482">Masashi Toyoda</na></co>
+<co c="0"><na f="t/Tzoumas:Kostas" pid="61/7259">Kostas Tzoumas</na></co>
+<co c="0"><na f="u/U:Leong_Hou" pid="38/4996">Leong Hou U</na></co>
+<co c="0"><na f="v/Vaitis:Michail" pid="16/2376">Michail Vaitis</na></co>
+<co c="0"><na f="w/Wang:Fang" pid="35/5625">Fang Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Gang" pid="71/4292-1">Gang Wang 0001</na></co>
+<co c="1"><na f="w/Wang:Hongwei" pid="13/5641">Hongwei Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Jianguo" pid="64/1071-1">Jianguo Wang 0001</na></co>
+<co c="0"><na f="w/Wang_0037:Kai" pid="78/2022-37">Kai Wang 0037</na></co>
+<co c="0"><na f="w/Wang_0059:Wei" pid="35/7092-59">Wei Wang 0059</na></co>
+<co c="0" n="2"><na f="w/Wang:ZhiHao" pid="52/253">ZhiHao Wang</na><na>Zhihao Wang</na></co>
+<co c="0"><na f="w/Wong:Petrie" pid="131/4190">Petrie Wong</na></co>
+<co c="0"><na f="w/Wu_0001:Dingming" pid="81/6181">Dingming Wu 0001</na></co>
+<co c="0"><na f="w/Wu_0001:Xiaowei" pid="70/4432-1">Xiaowei Wu 0001</na></co>
+<co c="0"><na f="x/Xie:Xike" pid="64/1308">Xike Xie</na></co>
+<co c="0"><na f="x/Xu:Chuanfei" pid="80/7820">Chuanfei Xu</na></co>
+<co c="0"><na f="x/Xu:Wenjian" pid="21/7971">Wenjian Xu</na></co>
+<co c="0"><na f="y/Yan_0002:Xiao" pid="07/2626-2">Xiao Yan 0002</na></co>
+<co c="0"><na f="y/You:Zhengxin" pid="304/2163">Zhengxin You</na></co>
+<co c="0"><na f="y/Yuan:Mingxuan" pid="74/2356">Mingxuan Yuan</na></co>
+<co c="0"><na f="y/Yung:Duncan" pid="51/9582">Duncan Yung</na></co>
+<co c="0"><na f="z/Zeng_0002:Dan" pid="06/6575-2">Dan Zeng 0002</na></co>
+<co c="0"><na f="z/Zhang:Chaozu" pid="273/7079">Chaozu Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Dongmei" pid="87/461-1">Dongmei Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Dongxiang" pid="89/6013">Dongxiang Zhang</na></co>
+<co c="0"><na f="z/Zhang:Jiahao" pid="123/4950">Jiahao Zhang</na></co>
+<co c="0"><na f="z/Zhang:Jiashu" pid="60/4400">Jiashu Zhang</na></co>
+<co c="0"><na f="z/Zhao:Hong_Jun" pid="143/9552">Hong Jun Zhao</na></co>
+<co c="0"><na f="z/Zhao:Zhichao" pid="132/9340">Zhichao Zhao</na></co>
+<co c="0"><na f="z/Zheng:Xinying" pid="60/9006">Xinying Zheng</na></co>
+<co c="0"><na f="z/Zhou:Shuigeng" pid="52/6744">Shuigeng Zhou</na></co>
+<co c="0"><na f="z/Zhou_0001:Xiaofang" pid="z/XiaofangZhou">Xiaofang Zhou 0001</na></co>
+<co c="0"><na f="z/Zhu:Kenny_Q=" pid="z/KennyQiliZhu">Kenny Q. Zhu</na></co>
+</coauthors>
+</dblpperson>

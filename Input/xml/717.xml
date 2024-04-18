@@ -1,0 +1,915 @@
+<dblpperson name="Renata Borovica" pid="36/10568" n="52">
+<person key="homepages/36/10568" mdate="2019-04-17">
+<author pid="36/10568">Renata Borovica</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<note type="affiliation">University of Melbourne, School of Computing and Information Systems, Australia</note>
+<url>http://renata.borovica-gajic.com/</url>
+<url>https://scholar.google.com/citations?user=HYkhTeYAAAAJ</url>
+<url>https://orcid.org/0000-0003-3503-4123</url>
+</person>
+<r><proceedings key="conf/adc/2023" mdate="2023-11-16">
+<editor pid="20/3716">Zhifeng Bao</editor>
+<editor pid="36/10568">Renata Borovica-Gajic</editor>
+<editor pid="251/9579">Ruihong Qiu</editor>
+<editor pid="115/9072">Farhana Murtaza Choudhury</editor>
+<editor pid="73/908-1">Zhengyi Yang 0001</editor>
+<title>Databases Theory and Applications - 34th Australasian Database Conference, ADC 2023, Melbourne, VIC, Australia, November 1-3, 2023, Proceedings</title>
+<booktitle>ADC</booktitle>
+<publisher>Springer</publisher>
+<year>2024</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>14386</volume>
+<isbn>978-3-031-47842-0</isbn>
+<isbn>978-3-031-47843-7</isbn>
+<ee>https://doi.org/10.1007/978-3-031-47843-7</ee>
+<url>db/conf/adc/adc2023.html</url>
+</proceedings>
+</r>
+<r><article key="journals/kais/OetomoPBR23" mdate="2023-09-12">
+<author orcid="0000-0002-2948-8770" pid="236/5094">Bastian Oetomo</author>
+<author pid="236/4914">R. Malinga Perera</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="90/1092">Benjamin I. P. Rubinstein</author>
+<title>Cutting to the chase with warm-start contextual bandits.</title>
+<pages>3533-3565</pages>
+<year>2023</year>
+<month>September</month>
+<volume>65</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>9</number>
+<ee type="oa">https://doi.org/10.1007/s10115-023-01861-2</ee>
+<url>db/journals/kais/kais65.html#OetomoPBR23</url>
+</article>
+</r>
+<r><article key="journals/pacmmod/LanBCB23" mdate="2023-07-07">
+<author orcid="0009-0007-4433-9232" pid="66/3149">Hai Lan</author>
+<author orcid="0000-0003-2477-381X" pid="20/3716">Zhifeng Bao</author>
+<author orcid="0000-0002-1902-9087" pid="03/489">J. Shane Culpepper</author>
+<author orcid="0000-0003-3503-4123" pid="36/10568">Renata Borovica-Gajic</author>
+<title>Updatable Learned Indexes Meet Disk-Resident DBMS - From Evaluations to Design Choices.</title>
+<pages>139:1-139:22</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3589284</ee>
+<url>db/journals/pacmmod/pacmmod1.html#LanBCB23</url>
+</article>
+</r>
+<r><article key="journals/sigmod/AmerYahiaAABBBCCCCDDAFFJKMMMOOPR23" mdate="2023-10-28">
+<author pid="a/SihemAmerYahia">Sihem Amer-Yahia</author>
+<author pid="a/DivyakantAgrawal">Divyakant Agrawal</author>
+<author pid="88/9060">Yael Amsterdamer</author>
+<author pid="b/SSBhowmick">Sourav S. Bhowmick</author>
+<author pid="b/ABonifati">Angela Bonifati</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="26/8398">Jes&#250;s Camacho-Rodr&#237;guez</author>
+<author pid="c/BarbaraCatania">Barbara Catania</author>
+<author pid="c/PKChrysanthis">Panos K. Chrysanthis</author>
+<author pid="c/CarloCurino">Carlo Curino</author>
+<author pid="d/JeromeDarmont">J&#233;r&#244;me Darmont</author>
+<author pid="d/GDobbie">Gillian Dobbie</author>
+<author pid="a/AmrElAbbadi">Amr El Abbadi</author>
+<author pid="08/7992">Avrilia Floratou</author>
+<author pid="f/JulianaFreire">Juliana Freire</author>
+<author pid="24/8510">Alekh Jindal</author>
+<author pid="k/VanaKalogeraki">Vana Kalogeraki</author>
+<author pid="224/6467">Sujaya Maiyya</author>
+<author orcid="0000-0001-7346-6002" pid="04/1835">Alexandra Meliou</author>
+<author pid="200/8759">Madhulika Mohanty</author>
+<author pid="200/8321">Behrooz Omidvar-Tehrani</author>
+<author pid="o/FatmaOzcan">Fatma &#214;zcan</author>
+<author pid="142/8998">Liat Peterfreund</author>
+<author pid="28/5654">Wenny Rahayu</author>
+<author pid="s/SWSadiq">Shazia Sadiq 0001</author>
+<author pid="43/5676">Sana Sellami</author>
+<author pid="124/2281">Utku Sirin</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<author pid="t/BMThuraisingham">Bhavani Thuraisingham</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<author pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="v/GVargas-Solar">Genoveva Vargas-Solar</author>
+<author pid="36/8142">Neeraja J. Yadwadkar</author>
+<author pid="151/5215">Victor Zakhary</author>
+<author pid="08/7259">Meihui Zhang 0001</author>
+<title>Diversity, Equity and Inclusion Activities in Database Conferences: A 2022 Report.</title>
+<pages>38-42</pages>
+<year>2023</year>
+<month>June</month>
+<volume>52</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3615952.3615964</ee>
+<url>db/journals/sigmod/sigmod52.html#AmerYahiaAABBBCCCCDDAFFJKMMMOOPR23</url>
+</article>
+</r>
+<r><article key="journals/sigmod/BorovicaGajic23" mdate="2023-11-17">
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<title>Reminiscences on Influential Papers.</title>
+<pages>36-38</pages>
+<year>2023</year>
+<month>September</month>
+<volume>52</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3631504.3631512</ee>
+<url>db/journals/sigmod/sigmod52.html#BorovicaGajic23</url>
+</article>
+</r>
+<r><article key="journals/tist/GunarathnaXTKB23" mdate="2023-10-27">
+<author orcid="0000-0001-8797-8439" pid="250/9703">Udesh Gunarathna</author>
+<author orcid="0000-0002-9085-2041" pid="20/5372">Hairuo Xie</author>
+<author orcid="0000-0001-5014-1969" pid="22/544">Egemen Tanin</author>
+<author orcid="0000-0001-7080-5064" pid="47/5584">Shanika Karunasekera</author>
+<author orcid="0000-0003-3503-4123" pid="36/10568">Renata Borovica-Gajic</author>
+<title>Real-time Road Network Optimization with Coordinated Reinforcement Learning.</title>
+<pages>72:1-72:30</pages>
+<year>2023</year>
+<month>August</month>
+<volume>14</volume>
+<journal>ACM Trans. Intell. Syst. Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3603379</ee>
+<url>db/journals/tist/tist14.html#GunarathnaXTKB23</url>
+</article>
+</r>
+<r><article key="journals/tkde/PereraORB23" mdate="2024-03-08">
+<author orcid="0000-0003-1622-3244" pid="236/4914">R. Malinga Perera</author>
+<author orcid="0000-0002-2948-8770" pid="236/5094">Bastian Oetomo</author>
+<author orcid="0000-0002-2947-6980" pid="90/1092">Benjamin I. P. Rubinstein</author>
+<author orcid="0000-0003-3503-4123" pid="36/10568">Renata Borovica-Gajic</author>
+<title>No DBA? No Regret! Multi-Armed Bandits for Index Tuning of Analytical and HTAP Workloads With Provable Guarantees.</title>
+<pages>12855-12872</pages>
+<year>2023</year>
+<month>December</month>
+<volume>35</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>12</number>
+<ee type="oa">https://doi.org/10.1109/TKDE.2023.3271664</ee>
+<url>db/journals/tkde/tkde35.html#PereraORB23</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/LiuQKSBR23" mdate="2023-09-30">
+<author pid="185/5792">Guanli Liu</author>
+<author orcid="0000-0001-6501-9050" pid="41/1074-1">Jianzhong Qi 0001</author>
+<author pid="57/1331">Lars Kulik</author>
+<author pid="350/2175">Kazuya Soga</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="90/1092">Benjamin I. P. Rubinstein</author>
+<title>Efficient Index Learning via Model Reuse and Fine-tuning.</title>
+<pages>60-66</pages>
+<year>2023</year>
+<booktitle>ICDEW</booktitle>
+<ee>https://doi.org/10.1109/ICDEW58674.2023.00015</ee>
+<crossref>conf/icde/2023w</crossref>
+<url>db/conf/icde/icde2023w.html#LiuQKSBR23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-01237" mdate="2023-05-05">
+<author pid="66/3149">Hai Lan</author>
+<author pid="20/3716">Zhifeng Bao</author>
+<author pid="03/489">J. Shane Culpepper</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<title>Updatable Learned Indexes Meet Disk-Resident DBMS - From Evaluations to Design Choices.</title>
+<year>2023</year>
+<volume>abs/2305.01237</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.01237</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-01237</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2306-02604" mdate="2023-06-13">
+<author pid="66/3149">Hai Lan</author>
+<author pid="20/3716">Zhifeng Bao</author>
+<author pid="03/489">J. Shane Culpepper</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="03/1299">Yu Dong</author>
+<title>A Simple Yet High-Performing On-disk Learned Index: Can We Have Our Cake and Eat it Too?</title>
+<year>2023</year>
+<volume>abs/2306.02604</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2306.02604</ee>
+<url>db/journals/corr/corr2306.html#abs-2306-02604</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-14666" mdate="2023-10-30">
+<author pid="359/3827">Farzaneh Zirak</author>
+<author pid="115/9072">Farhana Murtaza Choudhury</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<title>SeLeP: Learning Based Semantic Prefetching for Exploratory Database Workloads.</title>
+<year>2023</year>
+<volume>abs/2310.14666</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.14666</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-14666</url>
+</article>
+</r>
+<r><article key="journals/csur/MuralidharBB22" mdate="2023-01-31">
+<author orcid="0000-0003-3222-3738" pid="29/949">Rajeev Muralidhar</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="b/RajkumarBuyya">Rajkumar Buyya</author>
+<title>Energy Efficient Computing Systems: Architectures, Abstractions and Modeling to Techniques and Standards.</title>
+<pages>236:1-236:37</pages>
+<year>2022</year>
+<month>January</month>
+<volume>54</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>11s</number>
+<ee>https://doi.org/10.1145/3511094</ee>
+<url>db/journals/csur/csur54.html#MuralidharBB22</url>
+</article>
+</r>
+<r><article key="journals/gis/SundaramNBT22" mdate="2022-11-13">
+<author orcid="0000-0003-1388-1401" pid="273/5114">Rajesh Chittor Sundaram</author>
+<author orcid="0000-0001-7640-4624" pid="147/2957">Elham Naghizade</author>
+<author orcid="0000-0003-3503-4123" pid="36/10568">Renata Borovica-Gajic</author>
+<author orcid="0000-0002-5736-4679" pid="76/4384">Martin Tomko</author>
+<title>Can you fixme? An intrinsic classification of contributor-identified spatial data issues using topic models.</title>
+<pages>1-30</pages>
+<year>2022</year>
+<volume>36</volume>
+<journal>Int. J. Geogr. Inf. Sci.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1080/13658816.2021.1893323</ee>
+<url>db/journals/gis/gis36.html#SundaramNBT22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/PereraORB22" mdate="2023-10-23">
+<author pid="236/4914">R. Malinga Perera</author>
+<author pid="236/5094">Bastian Oetomo</author>
+<author pid="90/1092">Benjamin I. P. Rubinstein</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<title>HMAB: Self-Driving Hierarchy of Bandits for Integrated Physical Database Design Tuning.</title>
+<pages>216-229</pages>
+<year>2022</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p216-perera.pdf</ee>
+<ee>https://doi.org/10.14778/3565816.3565824</ee>
+<url>db/journals/pvldb/pvldb16.html#PereraORB22</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Amer-YahiaABBBB22" mdate="2023-09-30">
+<author pid="a/SihemAmerYahia">Sihem Amer-Yahia</author>
+<author pid="88/9060">Yael Amsterdamer</author>
+<author pid="b/SSBhowmick">Sourav S. Bhowmick</author>
+<author orcid="0000-0002-9582-869X" pid="b/ABonifati">Angela Bonifati</author>
+<author orcid="0000-0002-0234-5374" pid="b/PBonnet">Philippe Bonnet</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="c/BarbaraCatania">Barbara Catania</author>
+<author pid="20/5348">Tania Cerquitelli</author>
+<author pid="00/2669">Silvia Chiusano</author>
+<author pid="c/PKChrysanthis">Panos K. Chrysanthis</author>
+<author pid="c/CarloCurino">Carlo Curino</author>
+<author pid="d/JeromeDarmont">J&#233;r&#244;me Darmont</author>
+<author pid="a/AmrElAbbadi">Amr El Abbadi</author>
+<author pid="08/7992">Avrilia Floratou</author>
+<author pid="f/JulianaFreire">Juliana Freire</author>
+<author pid="24/8510">Alekh Jindal</author>
+<author pid="k/VanaKalogeraki">Vana Kalogeraki</author>
+<author pid="k/GeorgiaKoutrika">Georgia Koutrika</author>
+<author pid="30/4308">Arun Kumar</author>
+<author pid="224/6467">Sujaya Maiyya</author>
+<author orcid="0000-0001-7346-6002" pid="04/1835">Alexandra Meliou</author>
+<author pid="200/8759">Madhulika Mohanty</author>
+<author pid="n/FelixNaumann">Felix Naumann</author>
+<author pid="314/0273">Nele Sina Noack</author>
+<author pid="o/FatmaOzcan">Fatma &#214;zcan</author>
+<author pid="142/8998">Liat Peterfreund</author>
+<author pid="28/5654">Wenny Rahayu</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="v/GVargas-Solar">Genoveva Vargas-Solar</author>
+<author pid="36/8142">Neeraja J. Yadwadkar</author>
+<author pid="08/7259">Meihui Zhang 0001</author>
+<title>Diversity and Inclusion Activities in Database Conferences: A 2021 Report.</title>
+<pages>69-73</pages>
+<year>2022</year>
+<volume>51</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3552490.3552510</ee>
+<url>db/journals/sigmod/sigmod51.html#Amer-YahiaABBBB22</url>
+</article>
+</r>
+<r><inproceedings key="conf/debs/IslamBK22" mdate="2022-10-02">
+<author orcid="0000-0003-4922-7807" pid="209/2859">Muhammed Tawfiqul Islam</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="47/5584">Shanika Karunasekera</author>
+<title>A multi-level caching architecture for stateful stream computation.</title>
+<pages>67-78</pages>
+<year>2022</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/3524860.3539803</ee>
+<crossref>conf/debs/2022</crossref>
+<url>db/conf/debs/debs2022.html#IslamBK22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/GunarathnaBKT22" mdate="2022-11-24">
+<author pid="250/9703">Udesh Gunarathna</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="47/5584">Shanika Karunasekera</author>
+<author pid="22/544">Egemen Tanin</author>
+<title>e-SMARTS: a system to simulate intelligent traffic management solutions (demo paper).</title>
+<pages>21:1-21:4</pages>
+<year>2022</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/3557915.3560955</ee>
+<crossref>conf/gis/2022</crossref>
+<url>db/conf/gis/gis2022.html#GunarathnaBKT22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/GunarathnaBKT22a" mdate="2022-11-24">
+<author pid="250/9703">Udesh Gunarathna</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="47/5584">Shanika Karunasekera</author>
+<author pid="22/544">Egemen Tanin</author>
+<title>Dynamic graph combinatorial optimization with multi-attention deep reinforcement learning.</title>
+<pages>22:1-22:12</pages>
+<year>2022</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/3557915.3560956</ee>
+<crossref>conf/gis/2022</crossref>
+<url>db/conf/gis/gis2022.html#GunarathnaBKT22a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/XieBTKGOS22" mdate="2022-11-24">
+<author pid="20/5372">Hairuo Xie</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="22/544">Egemen Tanin</author>
+<author pid="47/5584">Shanika Karunasekera</author>
+<author pid="250/9703">Udesh Gunarathna</author>
+<author pid="334/2271">Gilbert Oppy</author>
+<author pid="79/6924">Majid Sarvi</author>
+<title>A simulation study on prioritizing connected freight vehicles at intersections for traffic flow optimization (industrial paper).</title>
+<pages>53:1-53:10</pages>
+<year>2022</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/3557915.3560988</ee>
+<crossref>conf/gis/2022</crossref>
+<url>db/conf/gis/gis2022.html#XieBTKGOS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ivs/GunarathnaKBT22" mdate="2022-07-26">
+<author pid="250/9703">Udesh Gunarathna</author>
+<author pid="47/5584">Shanika Karunasekera</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="22/544">Egemen Tanin</author>
+<title>Real-Time Intelligent Autonomous Intersection Management Using Reinforcement Learning.</title>
+<pages>135-144</pages>
+<year>2022</year>
+<booktitle>IV</booktitle>
+<ee>https://doi.org/10.1109/IV51971.2022.9827188</ee>
+<crossref>conf/ivs/2022</crossref>
+<url>db/conf/ivs/ivs2022.html#GunarathnaKBT22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2201-04895" mdate="2022-01-20">
+<author pid="250/9703">Udesh Gunarathna</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="47/5584">Shanika Karunasekera</author>
+<author pid="22/544">Egemen Tanin</author>
+<title>Solving Dynamic Graph Problems with Multi-Attention Deep Reinforcement Learning.</title>
+<year>2022</year>
+<volume>abs/2201.04895</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2201.04895</ee>
+<url>db/journals/corr/corr2201.html#abs-2201-04895</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2202-04224" mdate="2022-02-18">
+<author pid="250/9703">Udesh Gunarathna</author>
+<author pid="47/5584">Shanika Karunasekera</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="22/544">Egemen Tanin</author>
+<title>Intelligent Autonomous Intersection Management.</title>
+<year>2022</year>
+<volume>abs/2202.04224</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2202.04224</ee>
+<url>db/journals/corr/corr2202.html#abs-2202-04224</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-11575" mdate="2022-08-01">
+<author pid="308/9528">Matthias Bachfischer</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="90/1092">Benjamin I. P. Rubinstein</author>
+<title>Testing the Robustness of Learned Index Structures.</title>
+<year>2022</year>
+<volume>abs/2207.11575</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.11575</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-11575</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/Borovica-GajicG22" mdate="2022-11-15">
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="211/1749">Allison W. Lee</author>
+<author pid="37/10151">Caetano Sauer</author>
+<author pid="86/9726">Pinar T&#246;z&#252;n</author>
+<title>Database Indexing and Query Processing (Dagstuhl Seminar 22111).</title>
+<pages>82-96</pages>
+<year>2022</year>
+<volume>12</volume>
+<journal>Dagstuhl Reports</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.12.3.82</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports12.html#Borovica-GajicG22</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/PereraORB21" mdate="2021-06-25">
+<author pid="236/4914">R. Malinga Perera</author>
+<author pid="236/5094">Bastian Oetomo</author>
+<author pid="90/1092">Benjamin I. P. Rubinstein</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<title>DBA bandits: Self-driving index tuning under ad-hoc, analytical workloads with safety guarantees.</title>
+<pages>600-611</pages>
+<year>2021</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE51399.2021.00058</ee>
+<crossref>conf/icde/2021</crossref>
+<url>db/conf/icde/icde2021.html#PereraORB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/OetomoPBR21" mdate="2022-01-31">
+<author pid="236/5094">Bastian Oetomo</author>
+<author pid="236/4914">R. Malinga Perera</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="90/1092">Benjamin I. P. Rubinstein</author>
+<title>Cutting to the Chase with Warm-Start Contextual Bandits.</title>
+<pages>459-468</pages>
+<year>2021</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM51629.2021.00057</ee>
+<crossref>conf/icdm/2021</crossref>
+<url>db/conf/icdm/icdm2021.html#OetomoPBR21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2108-10130" mdate="2021-08-27">
+<author pid="236/4914">R. Malinga Perera</author>
+<author pid="236/5094">Bastian Oetomo</author>
+<author pid="90/1092">Benjamin I. P. Rubinstein</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<title>No DBA? No regret! Multi-armed bandits for index tuning of analytical and HTAP workloads with provable guarantees.</title>
+<year>2021</year>
+<volume>abs/2108.10130</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2108.10130</ee>
+<url>db/journals/corr/corr2108.html#abs-2108-10130</url>
+</article>
+</r>
+<r><article key="journals/tgis/SundaramNBT20" mdate="2021-05-14">
+<author orcid="0000-0003-1388-1401" pid="273/5114">Rajesh Chittor Sundaram</author>
+<author orcid="0000-0001-7640-4624" pid="147/2957">Elham Naghizade</author>
+<author orcid="0000-0003-3503-4123" pid="36/10568">Renata Borovica-Gajic</author>
+<author orcid="0000-0002-5736-4679" pid="76/4384">Martin Tomko</author>
+<title>Harnessing spatio-temporal patterns in data for nominal attribute imputation.</title>
+<pages>1001-1032</pages>
+<year>2020</year>
+<volume>24</volume>
+<journal>Trans. GIS</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1111/tgis.12617</ee>
+<url>db/journals/tgis/tgis24.html#SundaramNBT20</url>
+</article>
+</r>
+<r><inproceedings key="conf/adc/SetiawanRB20" mdate="2020-10-25">
+<author pid="257/0588">Naufal Fikri Setiawan</author>
+<author pid="90/1092">Benjamin I. P. Rubinstein</author>
+<author orcid="0000-0003-3503-4123" pid="36/10568">Renata Borovica-Gajic</author>
+<title>Function Interpolation for Learned Index Structures.</title>
+<pages>68-80</pages>
+<year>2020</year>
+<booktitle>ADC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-39469-1_6</ee>
+<crossref>conf/adc/2020</crossref>
+<url>db/conf/adc/adc2020.html#SetiawanRB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/XuKBA020" mdate="2021-04-09">
+<author pid="04/5753">Yixin Xu</author>
+<author pid="57/1331">Lars Kulik</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="176/1508">Abdullah AlDwyish</author>
+<author orcid="0000-0001-6501-9050" pid="41/1074-1">Jianzhong Qi 0001</author>
+<title>Highly Efficient and Scalable Multi-hop Ride-sharing.</title>
+<pages>215-226</pages>
+<year>2020</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/3397536.3422235</ee>
+<crossref>conf/gis/2020</crossref>
+<url>db/conf/gis/gis2020.html#XuKBA020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/0004CBWX020" mdate="2023-03-21">
+<author orcid="0000-0002-8943-0191" pid="87/4982-4">Mo Li 0004</author>
+<author pid="115/9072">Farhana Murtaza Choudhury</author>
+<author orcid="0000-0003-3503-4123" pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="140/6525">Zhiqiong Wang</author>
+<author pid="35/3175">Junchang Xin</author>
+<author orcid="0000-0002-9059-330X" pid="l/JianxinLi">Jianxin Li 0001</author>
+<title>CrashSim: An Efficient Algorithm for Computing SimRank over Static and Temporal Graphs.</title>
+<pages>1141-1152</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00103</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#0004CBWX020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/GunarathnaXTKB20" mdate="2021-03-01">
+<author pid="250/9703">Udesh Gunarathna</author>
+<author pid="20/5372">Hairuo Xie</author>
+<author pid="22/544">Egemen Tanin</author>
+<author pid="47/5584">Shanika Karunasekera</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<title>Real-Time Lane Configuration with Coordinated Reinforcement Learning.</title>
+<pages>291-307</pages>
+<year>2020</year>
+<booktitle>ECML/PKDD (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-67667-4_18</ee>
+<crossref>conf/pkdd/2020-4</crossref>
+<url>db/conf/pkdd/pkdd2020-4.html#GunarathnaXTKB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/Xu0BK20" mdate="2021-04-09">
+<author pid="04/5753">Yixin Xu</author>
+<author orcid="0000-0001-6501-9050" pid="41/1074-1">Jianzhong Qi 0001</author>
+<author orcid="0000-0003-3503-4123" pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="57/1331">Lars Kulik</author>
+<title>GeoPrune: Efficiently Matching Trips in Ride-sharing Through Geometric Properties.</title>
+<pages>5:1-5:12</pages>
+<year>2020</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1145/3400903.3400912</ee>
+<crossref>conf/ssdbm/2020</crossref>
+<url>db/conf/ssdbm/ssdbm2020.html#Xu0BK20</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/adc/2020" mdate="2020-01-27">
+<editor pid="36/10568">Renata Borovica-Gajic</editor>
+<editor pid="41/1074-1">Jianzhong Qi 0001</editor>
+<editor pid="57/3195-1">Weiqing Wang 0001</editor>
+<title>Databases Theory and Applications - 31st Australasian Database Conference, ADC 2020, Melbourne, VIC, Australia, February 3-7, 2020, Proceedings</title>
+<booktitle>ADC</booktitle>
+<publisher>Springer</publisher>
+<year>2020</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>12008</volume>
+<isbn>978-3-030-39468-4</isbn>
+<isbn>978-3-030-39469-1</isbn>
+<ee>https://doi.org/10.1007/978-3-030-39469-1</ee>
+<url>db/conf/adc/adc2020.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-09976" mdate="2020-07-28">
+<author pid="29/949">Rajeev Muralidhar</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="b/RajkumarBuyya">Rajkumar Buyya</author>
+<title>Energy Efficient Computing Systems: Architectures, Abstractions and Modeling to Techniques and Standards.</title>
+<year>2020</year>
+<volume>abs/2007.09976</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.09976</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-09976</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-09208" mdate="2020-10-21">
+<author pid="236/4914">Malinga Perera</author>
+<author pid="236/5094">Bastian Oetomo</author>
+<author pid="90/1092">Benjamin I. P. Rubinstein</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<title>DBA bandits: Self-driving index tuning under ad-hoc, analytical workloads with safety guarantees.</title>
+<year>2020</year>
+<volume>abs/2010.09208</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.09208</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-09208</url>
+</article>
+</r>
+<r><article key="journals/cacm/AppuswamyGBA19" mdate="2020-10-26">
+<author orcid="0000-0001-5887-4091" pid="57/1978">Raja Appuswamy</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author orcid="0000-0003-3503-4123" pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>The five-minute rule 30 years later and its impact on the storage hierarchy.</title>
+<pages>114-120</pages>
+<year>2019</year>
+<volume>62</volume>
+<journal>Commun. ACM</journal>
+<number>11</number>
+<ee>https://doi.org/10.1145/3318163</ee>
+<url>db/journals/cacm/cacm62.html#AppuswamyGBA19</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-07500" mdate="2019-05-21">
+<author pid="236/5094">Bastian Oetomo</author>
+<author pid="236/4914">Malinga Perera</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="90/1092">Benjamin I. P. Rubinstein</author>
+<title>A Note on Bounding Regret of the C$^2$UCB Contextual Combinatorial Bandit.</title>
+<year>2019</year>
+<volume>abs/1902.07500</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.07500</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-07500</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-01831" mdate="2020-01-27">
+<author pid="04/5753">Yixin Xu</author>
+<author pid="41/1074-1">Jianzhong Qi 0001</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="57/1331">Lars Kulik</author>
+<title>GeoPrune: Efficiently Finding Shareable Vehicles Based on Geometric Properties.</title>
+<year>2019</year>
+<volume>abs/1907.01831</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.01831</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-01831</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-06788" mdate="2019-10-16">
+<author pid="250/9703">Udesh Gunarathna</author>
+<author pid="20/5372">Hairuo Xie</author>
+<author pid="22/544">Egemen Tanin</author>
+<author pid="47/5584">Shanika Karunasekera</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<title>Dynamic Graph Configuration with Reinforcement Learning for Connected Autonomous Vehicle Trajectories.</title>
+<year>2019</year>
+<volume>abs/1910.06788</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.06788</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-06788</url>
+</article>
+</r>
+<r><article key="journals/vldb/Borovica-GajicI18" mdate="2018-08-11">
+<author orcid="0000-0003-3503-4123" pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="40/4880">Marcin Zukowski</author>
+<author pid="44/5620">Campbell Fraser</author>
+<title>Smooth Scan: robust access path selection without cardinality estimation.</title>
+<pages>521-545</pages>
+<year>2018</year>
+<volume>27</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00778-018-0507-8</ee>
+<url>db/journals/vldb/vldb27.html#Borovica-GajicI18</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasfaa/XuQBK18" mdate="2020-10-25">
+<author pid="04/5753">Yixin Xu</author>
+<author orcid="0000-0001-6501-9050" pid="41/1074-1">Jianzhong Qi 0001</author>
+<author orcid="0000-0003-3503-4123" pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="57/1331">Lars Kulik</author>
+<title>Finding All Nearest Neighbors with a Single Graph Traversal.</title>
+<pages>221-238</pages>
+<year>2018</year>
+<booktitle>DASFAA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-91452-7_15</ee>
+<crossref>conf/dasfaa/2018-1</crossref>
+<url>db/conf/dasfaa/dasfaa2018-1.html#XuQBK18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/AppuswamyBGA17" mdate="2020-03-12">
+<author pid="57/1978">Raja Appuswamy</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>The Five-minute Rule Thirty Years Later and its Impact on the Storage Hierarchy.</title>
+<pages>1-8</pages>
+<year>2017</year>
+<booktitle>ADMS@VLDB</booktitle>
+<ee type="oa">http://www.adms-conf.org/2017/camera-ready/5minute-rule.pdf</ee>
+<crossref>conf/vldb/2017adms</crossref>
+<url>db/conf/vldb/adms2017.html#AppuswamyBGA17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/Borovica-GajicG17" mdate="2020-10-01">
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="211/1749">Allison W. Lee</author>
+<title>Robust Performance in Database Query Processing (Dagstuhl Seminar 17222).</title>
+<pages>169-180</pages>
+<year>2017</year>
+<volume>7</volume>
+<journal>Dagstuhl Reports</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.7.5.169</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports7.html#Borovica-GajicG17</url>
+</article>
+</r>
+<r><phdthesis key="phd/ch/Borovica-Gajic16" mdate="2022-07-29">
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<title>Toward timely, predictable and cost-effective data analytics.</title>
+<school>EPFL, Switzerland</school>
+<year>2016</year>
+<ee>https://doi.org/10.5075/epfl-thesis-7140</ee>
+<ee>https://infoscience.epfl.ch/record/222504</ee>
+</phdthesis>
+</r>
+<r><article key="journals/pvldb/Borovica-GajicA16" mdate="2020-10-26">
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author orcid="0000-0001-5887-4091" pid="57/1978">Raja Appuswamy</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Cheap Data Analytics using Cold Storage Devices.</title>
+<pages>1029-1040</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p1029-borovica.pdf</ee>
+<ee>https://doi.org/10.14778/2994509.2994521</ee>
+<url>db/journals/pvldb/pvldb9.html#Borovica-GajicA16</url>
+</article>
+</r>
+<r><article key="journals/cacm/AlagiannisBBIA15" mdate="2018-11-06">
+<author pid="00/7933">Ioannis Alagiannis</author>
+<author orcid="0000-0003-3503-4123" pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="61/2926">Miguel Branco</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>NoDB: efficient query execution on raw data files.</title>
+<pages>112-121</pages>
+<year>2015</year>
+<volume>58</volume>
+<journal>Commun. ACM</journal>
+<number>12</number>
+<ee>https://doi.org/10.1145/2830508</ee>
+<url>db/journals/cacm/cacm58.html#AlagiannisBBIA15</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/Borovica-GajicI15" mdate="2023-03-23">
+<author orcid="0000-0003-3503-4123" pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="40/4880">Marcin Zukowski</author>
+<author pid="44/5620">Campbell Fraser</author>
+<title>Smooth Scan: Statistics-oblivious access paths.</title>
+<pages>315-326</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113294</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113294</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#Borovica-GajicI15</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/AlagiannisBBIA12" mdate="2020-04-25">
+<author pid="00/7933">Ioannis Alagiannis</author>
+<author pid="36/10568">Renata Borovica</author>
+<author pid="61/2926">Miguel Branco</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>NoDB in Action: Adaptive Query Processing on Raw Data.</title>
+<pages>1942-1945</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p1942_ioannisalagiannis_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2367502.2367543</ee>
+<url>db/journals/pvldb/pvldb5.html#AlagiannisBBIA12</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/BorovicaAA12" mdate="2018-11-06">
+<author orcid="0000-0003-3503-4123" pid="36/10568">Renata Borovica</author>
+<author pid="00/7933">Ioannis Alagiannis</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Automated physical designers: what you see is (not) what you get.</title>
+<pages>9</pages>
+<year>2012</year>
+<booktitle>DBTest</booktitle>
+<ee>https://doi.org/10.1145/2304510.2304522</ee>
+<crossref>conf/sigmod/2012dbtest</crossref>
+<url>db/conf/sigmod/dbtest2012.html#BorovicaAA12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AlagiannisBBIA12" mdate="2018-11-06">
+<author pid="00/7933">Ioannis Alagiannis</author>
+<author orcid="0000-0003-3503-4123" pid="36/10568">Renata Borovica</author>
+<author pid="61/2926">Miguel Branco</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>NoDB: efficient query execution on raw data files.</title>
+<pages>241-252</pages>
+<year>2012</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2213836.2213864</ee>
+<crossref>conf/sigmod/2012</crossref>
+<url>db/conf/sigmod/sigmod2012.html#AlagiannisBBIA12</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/HeinisBABTA11" mdate="2020-03-10">
+<author pid="h/ThomasHeinis">Thomas Heinis</author>
+<author pid="61/2926">Miguel Branco</author>
+<author pid="00/7933">Ioannis Alagiannis</author>
+<author pid="36/10568">Renata Borovica</author>
+<author pid="33/10568">Farhan Tauheed</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Challenges and Opportunities in Self-Managing Scientific Databases.</title>
+<pages>44-52</pages>
+<year>2011</year>
+<volume>34</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A11dec/epfl.pdf</ee>
+<url>db/journals/debu/debu34.html#HeinisBABTA11</url>
+</article>
+</r>
+<coauthors n="89" nc="1">
+<co c="0"><na f="a/Abbadi:Amr_El" pid="a/AmrElAbbadi">Amr El Abbadi</na></co>
+<co c="0"><na f="a/Agrawal:Divyakant" pid="a/DivyakantAgrawal">Divyakant Agrawal</na></co>
+<co c="0"><na f="a/Ailamaki:Anastasia" pid="a/AnastassiaAilamaki">Anastasia Ailamaki</na></co>
+<co c="0"><na f="a/Alagiannis:Ioannis" pid="00/7933">Ioannis Alagiannis</na></co>
+<co c="0"><na f="a/AlDwyish:Abdullah" pid="176/1508">Abdullah AlDwyish</na></co>
+<co c="0"><na f="a/Amer=Yahia:Sihem" pid="a/SihemAmerYahia">Sihem Amer-Yahia</na></co>
+<co c="0"><na f="a/Amsterdamer:Yael" pid="88/9060">Yael Amsterdamer</na></co>
+<co c="0"><na f="a/Appuswamy:Raja" pid="57/1978">Raja Appuswamy</na></co>
+<co c="0"><na f="b/Bachfischer:Matthias" pid="308/9528">Matthias Bachfischer</na></co>
+<co c="0"><na f="b/Bao:Zhifeng" pid="20/3716">Zhifeng Bao</na></co>
+<co c="0"><na f="b/Bhowmick:Sourav_S=" pid="b/SSBhowmick">Sourav S. Bhowmick</na></co>
+<co c="0"><na f="b/Bonifati:Angela" pid="b/ABonifati">Angela Bonifati</na></co>
+<co c="0"><na f="b/Bonnet:Philippe" pid="b/PBonnet">Philippe Bonnet</na></co>
+<co c="0"><na f="b/Branco:Miguel" pid="61/2926">Miguel Branco</na></co>
+<co c="0"><na f="b/Buyya:Rajkumar" pid="b/RajkumarBuyya">Rajkumar Buyya</na></co>
+<co c="0"><na f="c/Camacho=Rodr=iacute=guez:Jes=uacute=s" pid="26/8398">Jes&#250;s Camacho-Rodr&#237;guez</na></co>
+<co c="0"><na f="c/Catania:Barbara" pid="c/BarbaraCatania">Barbara Catania</na></co>
+<co c="0"><na f="c/Cerquitelli:Tania" pid="20/5348">Tania Cerquitelli</na></co>
+<co c="0"><na f="c/Chiusano:Silvia" pid="00/2669">Silvia Chiusano</na></co>
+<co c="0"><na f="c/Choudhury:Farhana_Murtaza" pid="115/9072">Farhana Murtaza Choudhury</na></co>
+<co c="0"><na f="c/Chrysanthis:Panos_K=" pid="c/PKChrysanthis">Panos K. Chrysanthis</na></co>
+<co c="0"><na f="c/Culpepper:J=_Shane" pid="03/489">J. Shane Culpepper</na></co>
+<co c="0"><na f="c/Curino:Carlo" pid="c/CarloCurino">Carlo Curino</na></co>
+<co c="0"><na f="d/Darmont:J=eacute=r=ocirc=me" pid="d/JeromeDarmont">J&#233;r&#244;me Darmont</na></co>
+<co c="0"><na f="d/Dobbie:Gillian" pid="d/GDobbie">Gillian Dobbie</na></co>
+<co c="0"><na f="d/Dong:Yu" pid="03/1299">Yu Dong</na></co>
+<co c="0"><na f="f/Floratou:Avrilia" pid="08/7992">Avrilia Floratou</na></co>
+<co c="0"><na f="f/Fraser:Campbell" pid="44/5620">Campbell Fraser</na></co>
+<co c="0"><na f="f/Freire:Juliana" pid="f/JulianaFreire">Juliana Freire</na></co>
+<co c="0"><na f="g/Graefe:Goetz" pid="g/GoetzGraefe">Goetz Graefe</na></co>
+<co c="0"><na f="g/Gunarathna:Udesh" pid="250/9703">Udesh Gunarathna</na></co>
+<co c="0"><na f="h/Heinis:Thomas" pid="h/ThomasHeinis">Thomas Heinis</na></co>
+<co c="0"><na f="i/Idreos:Stratos" pid="i/StratosIdreos">Stratos Idreos</na></co>
+<co c="0"><na f="i/Islam:Muhammed_Tawfiqul" pid="209/2859">Muhammed Tawfiqul Islam</na></co>
+<co c="0"><na f="j/Jindal:Alekh" pid="24/8510">Alekh Jindal</na></co>
+<co c="0"><na f="k/Kalogeraki:Vana" pid="k/VanaKalogeraki">Vana Kalogeraki</na></co>
+<co c="0"><na f="k/Karunasekera:Shanika" pid="47/5584">Shanika Karunasekera</na></co>
+<co c="0"><na f="k/Koutrika:Georgia" pid="k/GeorgiaKoutrika">Georgia Koutrika</na></co>
+<co c="0"><na f="k/Kulik:Lars" pid="57/1331">Lars Kulik</na></co>
+<co c="0"><na f="k/Kumar:Arun" pid="30/4308">Arun Kumar</na></co>
+<co c="0"><na f="l/Lan:Hai" pid="66/3149">Hai Lan</na></co>
+<co c="0"><na f="l/Lee:Allison_W=" pid="211/1749">Allison W. Lee</na></co>
+<co c="0"><na f="l/Li_0001:Jianxin" pid="l/JianxinLi">Jianxin Li 0001</na></co>
+<co c="0"><na f="l/Li_0004:Mo" pid="87/4982-4">Mo Li 0004</na></co>
+<co c="0"><na f="l/Liu:Guanli" pid="185/5792">Guanli Liu</na></co>
+<co c="0"><na f="m/Maiyya:Sujaya" pid="224/6467">Sujaya Maiyya</na></co>
+<co c="0"><na f="m/Meliou:Alexandra" pid="04/1835">Alexandra Meliou</na></co>
+<co c="0"><na f="m/Mohanty:Madhulika" pid="200/8759">Madhulika Mohanty</na></co>
+<co c="0"><na f="m/Muralidhar:Rajeev" pid="29/949">Rajeev Muralidhar</na></co>
+<co c="0"><na f="n/Naghizade:Elham" pid="147/2957">Elham Naghizade</na></co>
+<co c="0"><na f="n/Naumann:Felix" pid="n/FelixNaumann">Felix Naumann</na></co>
+<co c="0"><na f="n/Noack:Nele_Sina" pid="314/0273">Nele Sina Noack</na></co>
+<co c="0"><na f="o/Oetomo:Bastian" pid="236/5094">Bastian Oetomo</na></co>
+<co c="0"><na f="o/Omidvar=Tehrani:Behrooz" pid="200/8321">Behrooz Omidvar-Tehrani</na></co>
+<co c="0"><na f="o/Oppy:Gilbert" pid="334/2271">Gilbert Oppy</na></co>
+<co c="0"><na f="=/=Ouml=zcan:Fatma" pid="o/FatmaOzcan">Fatma &#214;zcan</na></co>
+<co c="0" n="2"><na f="p/Perera:Malinga" pid="236/4914">Malinga Perera</na><na>R. Malinga Perera</na></co>
+<co c="0"><na f="p/Peterfreund:Liat" pid="142/8998">Liat Peterfreund</na></co>
+<co c="0"><na f="q/Qi_0001:Jianzhong" pid="41/1074-1">Jianzhong Qi 0001</na></co>
+<co c="0"><na f="q/Qiu:Ruihong" pid="251/9579">Ruihong Qiu</na></co>
+<co c="0"><na f="r/Rahayu:Wenny" pid="28/5654">Wenny Rahayu</na></co>
+<co c="0"><na f="r/Rubinstein:Benjamin_I=_P=" pid="90/1092">Benjamin I. P. Rubinstein</na></co>
+<co c="0" n="2"><na f="s/Sadiq:Shazia_Wasim" pid="s/SWSadiq">Shazia Wasim Sadiq</na><na>Shazia Sadiq 0001</na></co>
+<co c="0"><na f="s/Sarvi:Majid" pid="79/6924">Majid Sarvi</na></co>
+<co c="0"><na f="s/Sauer:Caetano" pid="37/10151">Caetano Sauer</na></co>
+<co c="0"><na f="s/Sellami:Sana" pid="43/5676">Sana Sellami</na></co>
+<co c="0"><na f="s/Setiawan:Naufal_Fikri" pid="257/0588">Naufal Fikri Setiawan</na></co>
+<co c="0"><na f="s/Sirin:Utku" pid="124/2281">Utku Sirin</na></co>
+<co c="0"><na f="s/Soga:Kazuya" pid="350/2175">Kazuya Soga</na></co>
+<co c="0"><na f="s/Sundaram:Rajesh_Chittor" pid="273/5114">Rajesh Chittor Sundaram</na></co>
+<co c="0" n="2"><na f="t/Tan:Wang_Chiew" pid="t/WangChiewTan">Wang Chiew Tan</na><na>Wang-Chiew Tan</na></co>
+<co c="0"><na f="t/Tanin:Egemen" pid="22/544">Egemen Tanin</na></co>
+<co c="0"><na f="t/Tauheed:Farhan" pid="33/10568">Farhan Tauheed</na></co>
+<co c="0"><na f="t/Thuraisingham:Bhavani" pid="t/BMThuraisingham">Bhavani Thuraisingham</na></co>
+<co c="0"><na f="t/Tian:Yuanyuan" pid="27/3375">Yuanyuan Tian</na></co>
+<co c="0"><na f="t/Tomko:Martin" pid="76/4384">Martin Tomko</na></co>
+<co c="0"><na f="t/T=ouml=z=uuml=n:Pinar" pid="86/9726">Pinar T&#246;z&#252;n</na></co>
+<co c="0"><na f="v/Vargas=Solar:Genoveva" pid="v/GVargas-Solar">Genoveva Vargas-Solar</na></co>
+<co c="0"><na f="w/Wang_0001:Weiqing" pid="57/3195-1">Weiqing Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Zhiqiong" pid="140/6525">Zhiqiong Wang</na></co>
+<co c="0"><na f="x/Xie:Hairuo" pid="20/5372">Hairuo Xie</na></co>
+<co c="0"><na f="x/Xin:Junchang" pid="35/3175">Junchang Xin</na></co>
+<co c="0"><na f="x/Xu:Yixin" pid="04/5753">Yixin Xu</na></co>
+<co c="0"><na f="y/Yadwadkar:Neeraja_J=" pid="36/8142">Neeraja J. Yadwadkar</na></co>
+<co c="0"><na f="y/Yang_0001:Zhengyi" pid="73/908-1">Zhengyi Yang 0001</na></co>
+<co c="0"><na f="z/Zakhary:Victor" pid="151/5215">Victor Zakhary</na></co>
+<co c="0"><na f="z/Zhang_0001:Meihui" pid="08/7259">Meihui Zhang 0001</na></co>
+<co c="0"><na f="z/Zirak:Farzaneh" pid="359/3827">Farzaneh Zirak</na></co>
+<co c="0"><na f="z/Zukowski:Marcin" pid="40/4880">Marcin Zukowski</na></co>
+</coauthors>
+</dblpperson>

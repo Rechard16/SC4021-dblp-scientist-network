@@ -1,0 +1,492 @@
+<dblpperson name="Ibrahim Sabek" pid="16/8981" n="33">
+<person key="homepages/16/8981" mdate="2011-01-14">
+<author pid="16/8981">Ibrahim Sabek</author>
+</person>
+<r><article key="journals/pvldb/SabekK23" mdate="2023-10-23">
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>The Case for Learned In-Memory Joins.</title>
+<pages>1749-1762</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>7</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p1749-sabek.pdf</ee>
+<ee>https://doi.org/10.14778/3587136.3587148</ee>
+<url>db/journals/pvldb/pvldb16.html#SabekK23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/0001SLC23" mdate="2023-10-23">
+<author pid="223/0816-1">Wenjia He 0001</author>
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="232/1859">Yuze Lou</author>
+<author pid="82/231">Michael J. Cafarella</author>
+<title>PAINE Demo: Optimizing Video Selection Queries With Commonsense Knowledge.</title>
+<pages>3902-3905</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p3902-he.pdf</ee>
+<ee>https://doi.org/10.14778/3611540.3611581</ee>
+<url>db/journals/pvldb/pvldb16.html#0001SLC23</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-06354" mdate="2023-09-30">
+<author pid="51/1618">Varun Pandey</author>
+<author pid="219/9679">Alexander van Renen</author>
+<author orcid="0000-0001-8873-5455" pid="164/7451">Eleni Tzirita Zacharatou</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="145/8597">Jialin Ding</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Enhancing In-Memory Spatial Indexing with Learned Search.</title>
+<year>2023</year>
+<volume>abs/2309.06354</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.06354</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-06354</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SabekVHKMK22" mdate="2023-10-23">
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="188/6341">Kapil Vaidya</author>
+<author pid="296/3942">Dominik Horn</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="74/838">Michael Mitzenmacher</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Can Learned Models Replace Hash Functions?</title>
+<pages>532-545</pages>
+<year>2022</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p532-sabek.pdf</ee>
+<ee>https://doi.org/10.14778/3570690.3570702</ee>
+<url>db/journals/pvldb/pvldb16.html#SabekVHKMK22</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/SabekUK22" mdate="2022-06-14">
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="322/1566">Tenzin Samten Ukyab</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>LSched: A Workload-Aware Learned Query Scheduler for Analytical Database Systems.</title>
+<pages>1228-1242</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3526158</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#SabekUK22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/ZacharatouKSPDM21" mdate="2022-07-18">
+<author orcid="0000-0001-8873-5455" pid="164/7451">Eleni Tzirita Zacharatou</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="51/1618">Varun Pandey</author>
+<author pid="05/264">Harish Doraiswamy</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<title>The Case for Distance-Bounded Spatial Approximations.</title>
+<year>2021</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2021/papers/cidr2021_paper19.pdf</ee>
+<crossref>conf/cidr/2021</crossref>
+<url>db/conf/cidr/cidr2021.html#ZacharatouKSPDM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mdm/SabekM21" mdate="2021-07-13">
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<title>Machine Learning Meets Big Spatial Data (Revised).</title>
+<pages>5-8</pages>
+<year>2021</year>
+<booktitle>MDM</booktitle>
+<ee>https://doi.org/10.1109/MDM52706.2021.00014</ee>
+<crossref>conf/mdm/2021</crossref>
+<url>db/conf/mdm/mdm2021.html#SabekM21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2107-01464" mdate="2021-07-07">
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="188/6341">Kapil Vaidya</author>
+<author pid="296/3942">Dominik Horn</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>When Are Learned Models Better Than Hash Functions?</title>
+<year>2021</year>
+<volume>abs/2107.01464</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2107.01464</ee>
+<url>db/journals/corr/corr2107.html#abs-2107-01464</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2111-08824" mdate="2021-11-22">
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>The Case for Learned In-Memory Joins.</title>
+<year>2021</year>
+<volume>abs/2111.08824</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2111.08824</ee>
+<url>db/journals/corr/corr2111.html#abs-2111-08824</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/SabekM20" mdate="2020-06-05">
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<title>Sya: Enabling Spatial Awareness inside Probabilistic Knowledge Base Construction.</title>
+<pages>1177-1188</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00106</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#SabekM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SabekM20a" mdate="2020-06-05">
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<title>Machine Learning Meets Big Spatial Data.</title>
+<pages>1782-1785</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00169</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#SabekM20a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/PandeyRKDSK20" mdate="2020-12-27">
+<author pid="51/1618">Varun Pandey</author>
+<author pid="219/9679">Alexander van Renen</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="145/8597">Jialin Ding</author>
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>The Case for Learned Spatial Indexes.</title>
+<year>2020</year>
+<booktitle>AIDB@VLDB</booktitle>
+<ee>https://drive.google.com/file/d/1Q_kmSPhM86FeeZb8Kz196eNIn7uWcu8L/view?usp=sharing</ee>
+<crossref>conf/vldb/2020aidb</crossref>
+<url>db/conf/vldb/aidb2020.html#PandeyRKDSK20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-10349" mdate="2020-08-28">
+<author pid="51/1618">Varun Pandey</author>
+<author pid="219/9679">Alexander van Renen</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="145/8597">Jialin Ding</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>The Case for Learned Spatial Indexes.</title>
+<year>2020</year>
+<volume>abs/2008.10349</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.10349</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-10349</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-12548" mdate="2020-10-27">
+<author pid="164/7451">Eleni Tzirita Zacharatou</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="51/1618">Varun Pandey</author>
+<author pid="05/264">Harish Doraiswamy</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<title>The Case for Distance-Bounded Spatial Approximations.</title>
+<year>2020</year>
+<volume>abs/2010.12548</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.12548</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-12548</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SabekMM19" mdate="2023-06-26">
+<author pid="16/8981">Ibrahim Sabek</author>
+<author orcid="0000-0003-2127-2681" pid="147/1231">Mashaal Musleh</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<title>Flash in Action: Scalable Spatial Data Analysis Using Markov Logic Networks.</title>
+<pages>1834-1837</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1834-sabek.pdf</ee>
+<ee>https://doi.org/10.14778/3352063.3352078</ee>
+<url>db/journals/pvldb/pvldb12.html#SabekMM19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SabekM19" mdate="2020-04-25">
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<title>Machine Learning Meets Big Spatial Data.</title>
+<pages>1982-1985</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1982-sabek.pdf</ee>
+<ee>https://doi.org/10.14778/3352063.3352115</ee>
+<url>db/journals/pvldb/pvldb12.html#SabekM19</url>
+</article>
+</r>
+<r><article key="journals/sigspatial/Sabek19" mdate="2020-05-27">
+<author pid="16/8981">Ibrahim Sabek</author>
+<title>Flash: scalable spatial probabilistic graphical modeling.</title>
+<pages>3-6</pages>
+<year>2019</year>
+<volume>11</volume>
+<journal>ACM SIGSPATIAL Special</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3383653.3383654</ee>
+<url>db/journals/sigspatial/sigspatial11.html#Sabek19</url>
+</article>
+</r>
+<r><article key="journals/tsas/SabekMM19" mdate="2023-06-26">
+<author pid="16/8981">Ibrahim Sabek</author>
+<author orcid="0000-0003-2127-2681" pid="147/1231">Mashaal Musleh</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<title>RegRocket: Scalable Multinomial Autologistic Regression with Unordered Categorical Variables Using Markov Logic Networks.</title>
+<pages>27:1-27:27</pages>
+<year>2019</year>
+<volume>5</volume>
+<journal>ACM Trans. Spatial Algorithms Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3366459</ee>
+<url>db/journals/tsas/tsas5.html#SabekMM19</url>
+</article>
+</r>
+<r><inproceedings key="conf/gis/Sabek19" mdate="2019-11-14">
+<author pid="16/8981">Ibrahim Sabek</author>
+<title>Towards Scalable Spatial Probabilistic Graphical Modeling.</title>
+<pages>606-607</pages>
+<year>2019</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/3347146.3363461</ee>
+<crossref>conf/gis/2019</crossref>
+<url>db/conf/gis/gis2019.html#Sabek19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SabekCM19" mdate="2019-06-11">
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<title>CRA: Enabling Data-Intensive Applications in Containerized Environments.</title>
+<pages>1762-1765</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00192</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#SabekCM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/Sabek19" mdate="2023-03-10">
+<author pid="16/8981">Ibrahim Sabek</author>
+<title>Adopting Markov Logic Networks for Big Spatial Data and Applications.</title>
+<year>2019</year>
+<booktitle>PhD@VLDB</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2399/paper02.pdf</ee>
+<crossref>conf/vldb/2019phd</crossref>
+<url>db/conf/vldb/phd2019.html#Sabek19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/SabekMM18" mdate="2023-06-26">
+<author pid="16/8981">Ibrahim Sabek</author>
+<author orcid="0000-0003-2127-2681" pid="147/1231">Mashaal Musleh</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<title>TurboReg: a framework for scaling up spatial logistic regression models.</title>
+<pages>129-138</pages>
+<year>2018</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/3274895.3274987</ee>
+<crossref>conf/gis/2018</crossref>
+<url>db/conf/gis/gis2018.html#SabekMM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SabekMM18" mdate="2023-06-26">
+<author pid="16/8981">Ibrahim Sabek</author>
+<author orcid="0000-0003-2127-2681" pid="147/1231">Mashaal Musleh</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<title>A Demonstration of Sya: A Spatial Probabilistic Knowledge Base Construction System.</title>
+<pages>1689-1692</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3193558</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#SabekMM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/SabekM17" mdate="2018-11-21">
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<title>On Spatial Joins in MapReduce.</title>
+<pages>21:1-21:10</pages>
+<year>2017</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/3139958.3139967</ee>
+<crossref>conf/gis/2017</crossref>
+<url>db/conf/gis/gis2017.html#SabekM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/EldawySEBAM17" mdate="2020-06-15">
+<author orcid="0000-0002-6584-1455" pid="66/9726">Ahmed Eldawy</author>
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="176/1553">Mostafa Elganainy</author>
+<author pid="176/1493">Ammar Bakeer</author>
+<author pid="147/9764">Ahmed Abdelmotaleb</author>
+<author pid="94/5893">Mohamed F. Mokbel</author>
+<title>Sphinx: Empowering Impala for Efficient Execution of SQL Queries on Big Spatial Data.</title>
+<pages>65-83</pages>
+<year>2017</year>
+<booktitle>SSTD</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-64367-0_4</ee>
+<crossref>conf/ssd/2017</crossref>
+<url>db/conf/ssd/sstd2017.html#EldawySEBAM17</url>
+</inproceedings>
+</r>
+<r><article key="journals/tmc/SabekYV15" mdate="2021-04-09">
+<author pid="16/8981">Ibrahim Sabek</author>
+<author orcid="0000-0002-2063-4364" pid="52/727">Moustafa Youssef 0001</author>
+<author orcid="0000-0003-1902-9877" pid="40/4747">Athanasios V. Vasilakos</author>
+<title>ACE: An Accurate and Efficient Multi-Entity Device-Free WLAN Localization System.</title>
+<pages>261-273</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TMC.2014.2320265</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TMC.2014.2320265</ee>
+<ee>https://www.wikidata.org/entity/Q57661014</ee>
+<url>db/journals/tmc/tmc14.html#SabekYV15</url>
+</article>
+</r>
+<r><inproceedings key="conf/wcnc/Abdel-NasserSSY13" mdate="2021-02-24">
+<author pid="132/7817">Heba Abdel-Nasser</author>
+<author pid="132/7933">Reham Samir</author>
+<author pid="16/8981">Ibrahim Sabek</author>
+<author orcid="0000-0002-2063-4364" pid="52/727">Moustafa Youssef 0001</author>
+<title>MonoPHY: Mono-stream-based device-free WLAN localization via physical layer information.</title>
+<pages>4546-4551</pages>
+<year>2013</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.2013.6555311</ee>
+<ee>https://www.wikidata.org/entity/Q57661088</ee>
+<crossref>conf/wcnc/2013</crossref>
+<url>db/conf/wcnc/wcnc2013.html#Abdel-NasserSSY13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/SabekYEH13" mdate="2018-08-13">
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="28/1245">Noha A. Yousri</author>
+<author pid="62/2391">Nagwa M. El-Makky</author>
+<author pid="132/9354">Mona Habib</author>
+<title>Intelligent Hybrid Man-Machine Translation Quality Estimation.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1307.1872</ee>
+<volume>abs/1307.1872</volume>
+<url>db/journals/corr/corr1307.html#SabekYEH13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/SabekY13" mdate="2021-02-24">
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="52/727">Moustafa Youssef 0001</author>
+<title>MonoStream: A Minimal-Hardware High Accuracy Device-free WLAN Localization System.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1308.0768</ee>
+<volume>abs/1308.0768</volume>
+<url>db/journals/corr/corr1308.html#SabekY13</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/SabekY12" mdate="2021-02-24">
+<author pid="16/8981">Ibrahim Sabek</author>
+<author orcid="0000-0002-2063-4364" pid="52/727">Moustafa Youssef 0001</author>
+<title>Multi-entity device-free WLAN localization.</title>
+<pages>2018-2023</pages>
+<year>2012</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2012.6503412</ee>
+<ee>https://www.wikidata.org/entity/Q57661125</ee>
+<crossref>conf/globecom/2012</crossref>
+<url>db/conf/globecom/globecom2012.html#SabekY12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/SabekY12" mdate="2021-02-24">
+<author pid="16/8981">Ibrahim Sabek</author>
+<author orcid="0000-0002-2063-4364" pid="52/727">Moustafa Youssef 0001</author>
+<title>SPOT demo: multi-entity device-free WLAN localization.</title>
+<pages>87-88</pages>
+<year>2012</year>
+<booktitle>WiNTECH@MOBICOM</booktitle>
+<ee>https://doi.org/10.1145/2348688.2348708</ee>
+<ee>https://www.wikidata.org/entity/Q57661143</ee>
+<crossref>conf/mobicom/2012wintech</crossref>
+<url>db/conf/mobicom/wintech2012.html#SabekY12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1207-4265" mdate="2021-02-24">
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="52/727">Moustafa Youssef 0001</author>
+<title>Spot: An accurate and efficient multi-entity device-free WLAN localization system</title>
+<ee type="oa">http://arxiv.org/abs/1207.4265</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1207.4265</volume>
+<url>db/journals/corr/corr1207.html#abs-1207-4265</url>
+</article>
+</r>
+<r><inproceedings key="conf/isda/ElgoharyNSSBY10" mdate="2024-01-02">
+<author pid="03/8978">Ahmed Elgohary</author>
+<author pid="17/8980">Hussein Nomir</author>
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="49/8981">Mohamed Samir</author>
+<author pid="57/8981">Moustafa Badawy</author>
+<author orcid="0000-0003-1918-0331" pid="28/1245">Noha A. Yousri</author>
+<title>Wiki-rec: A semantic-based recommendation system using Wikipedia as an ontology.</title>
+<pages>1465-1470</pages>
+<year>2010</year>
+<booktitle>ISDA</booktitle>
+<ee>https://doi.org/10.1109/ISDA.2010.5687117</ee>
+<crossref>conf/isda/2010</crossref>
+<url>db/conf/isda/isda2010.html#ElgoharyNSSBY10</url>
+</inproceedings>
+</r>
+<coauthors n="35" nc="1">
+<co c="0"><na f="a/Abdelmotaleb:Ahmed" pid="147/9764">Ahmed Abdelmotaleb</na></co>
+<co c="0" n="2"><na f="a/Abdelnasser:Heba" pid="132/7817">Heba Abdelnasser</na><na>Heba Abdel-Nasser</na></co>
+<co c="0"><na f="b/Badawy:Moustafa" pid="57/8981">Moustafa Badawy</na></co>
+<co c="0"><na f="b/Bakeer:Ammar" pid="176/1493">Ammar Bakeer</na></co>
+<co c="0"><na f="c/Cafarella:Michael_J=" pid="82/231">Michael J. Cafarella</na></co>
+<co c="0"><na f="c/Chandramouli:Badrish" pid="01/2861">Badrish Chandramouli</na></co>
+<co c="0"><na f="d/Ding:Jialin" pid="145/8597">Jialin Ding</na></co>
+<co c="0"><na f="d/Doraiswamy:Harish" pid="05/264">Harish Doraiswamy</na></co>
+<co c="0"><na f="e/El=Makky:Nagwa_M=" pid="62/2391">Nagwa M. El-Makky</na></co>
+<co c="0"><na f="e/Eldawy:Ahmed" pid="66/9726">Ahmed Eldawy</na></co>
+<co c="0"><na f="e/Elganainy:Mostafa" pid="176/1553">Mostafa Elganainy</na></co>
+<co c="0"><na f="e/Elgohary:Ahmed" pid="03/8978">Ahmed Elgohary</na></co>
+<co c="0"><na f="h/Habib:Mona" pid="132/9354">Mona Habib</na></co>
+<co c="0"><na f="h/He_0001:Wenjia" pid="223/0816-1">Wenjia He 0001</na></co>
+<co c="0"><na f="h/Horn:Dominik" pid="296/3942">Dominik Horn</na></co>
+<co c="0"><na f="k/Kemper:Alfons" pid="k/AlfonsKemper">Alfons Kemper</na></co>
+<co c="0"><na f="k/Kipf:Andreas" pid="167/6469">Andreas Kipf</na></co>
+<co c="0"><na f="k/Kraska:Tim" pid="26/6037">Tim Kraska</na></co>
+<co c="0"><na f="l/Lou:Yuze" pid="232/1859">Yuze Lou</na></co>
+<co c="0"><na f="m/Markl:Volker" pid="m/VMarkl">Volker Markl</na></co>
+<co c="0"><na f="m/Minhas:Umar_Farooq" pid="99/6349">Umar Farooq Minhas</na></co>
+<co c="0"><na f="m/Mitzenmacher:Michael" pid="74/838">Michael Mitzenmacher</na></co>
+<co c="0"><na f="m/Mokbel:Mohamed_F=" pid="94/5893">Mohamed F. Mokbel</na></co>
+<co c="0"><na f="m/Musleh:Mashaal" pid="147/1231">Mashaal Musleh</na></co>
+<co c="0"><na f="n/Nomir:Hussein" pid="17/8980">Hussein Nomir</na></co>
+<co c="0"><na f="p/Pandey:Varun" pid="51/1618">Varun Pandey</na></co>
+<co c="0"><na f="r/Renen:Alexander_van" pid="219/9679">Alexander van Renen</na></co>
+<co c="0"><na f="s/Samir:Mohamed" pid="49/8981">Mohamed Samir</na></co>
+<co c="0"><na f="s/Samir:Reham" pid="132/7933">Reham Samir</na></co>
+<co c="0"><na f="u/Ukyab:Tenzin_Samten" pid="322/1566">Tenzin Samten Ukyab</na></co>
+<co c="0"><na f="v/Vaidya:Kapil" pid="188/6341">Kapil Vaidya</na></co>
+<co c="0"><na f="v/Vasilakos:Athanasios_V=" pid="40/4747">Athanasios V. Vasilakos</na></co>
+<co c="0"><na f="y/Yousri:Noha_A=" pid="28/1245">Noha A. Yousri</na></co>
+<co c="0"><na f="y/Youssef_0001:Moustafa" pid="52/727">Moustafa Youssef 0001</na></co>
+<co c="0"><na f="z/Zacharatou:Eleni_Tzirita" pid="164/7451">Eleni Tzirita Zacharatou</na></co>
+</coauthors>
+</dblpperson>

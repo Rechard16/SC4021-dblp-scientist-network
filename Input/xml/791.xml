@@ -1,0 +1,1539 @@
+<dblpperson name="Shimin Chen" pid="c/ShiminChen" n="76">
+<person key="homepages/c/ShiminChen" mdate="2023-12-19">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<note type="affiliation">Chinese Academy of Sciences, Institute of Computing Technology, State Key Laboratory of Computer Architecture, Beijing, China</note>
+<note type="affiliation">University of Chinese Academy of Sciences (UCAS), Beijing, China</note>
+<note type="affiliation" label="former">Intel Labs, Pittsburgh, PA, USA</note>
+<note type="affiliation" label="former, PhD 2005">Carnegie Mellon University, School of Computer Science, Pittsburgh, PA, USA</note>
+<url>http://www-2.cs.cmu.edu/~chensm/</url>
+<url>http://www.carch.ac.cn/yjdw/yjy/201906/t20190628_497180.html</url>
+<url>https://scholar.google.com/citations?user=mGPuiasAAAAJ</url>
+<url>https://orcid.org/0009-0000-1043-6236</url>
+</person>
+<r><article key="journals/pacmmod/LiuC23" mdate="2023-06-15">
+<author orcid="0000-0003-3897-1155" pid="234/9416">Zhuoxuan Liu</author>
+<author orcid="0009-0000-1043-6236" pid="c/ShiminChen">Shimin Chen</author>
+<title>Pea Hash: A Performant Extendible Adaptive Hashing Index.</title>
+<pages>108:1-108:25</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3588962</ee>
+<url>db/journals/pacmmod/pacmmod1.html#LiuC23</url>
+</article>
+</r>
+<r><article key="journals/pacmmod/YangC23" mdate="2024-01-13">
+<author orcid="0009-0007-1031-8708" pid="363/8064">Zehai Yang</author>
+<author orcid="0009-0000-1043-6236" pid="c/ShiminChen">Shimin Chen</author>
+<title>MOST: Model-Based Compression with Outlier Storage for Time Series Data.</title>
+<pages>250:1-250:29</pages>
+<year>2023</year>
+<month>December</month>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3626737</ee>
+<url>db/journals/pacmmod/pacmmod1.html#YangC23</url>
+</article>
+</r>
+<r><article key="journals/vldb/LiuCC23" mdate="2023-02-10">
+<author orcid="0000-0003-2225-8558" pid="37/2109">Gang Liu</author>
+<author pid="287/9977">Leying Chen</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<title>Zen+: a robust NUMA-aware OLTP engine optimized for non-volatile main memory.</title>
+<pages>123-148</pages>
+<year>2023</year>
+<month>January</month>
+<volume>32</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-022-00737-1</ee>
+<url>db/journals/vldb/vldb32.html#LiuCC23</url>
+</article>
+</r>
+<r><article key="journals/dpd/HerodotouCCHDWC22" mdate="2022-03-21">
+<author pid="26/5170">Herodotos Herodotou</author>
+<author pid="c/PKChrysanthis">Panos K. Chrysanthis</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="40/4895">Meichun Hsu</author>
+<author pid="d/KhuzaimaDaudjee">Khuzaima Daudjee</author>
+<author pid="07/11533">Yingjun Wu</author>
+<author pid="116/0694">Constantinos Costa</author>
+<title>Introduction to the special issue on self&#8209;managing and hardware&#8209;optimized database systems 2020.</title>
+<pages>1-3</pages>
+<year>2022</year>
+<volume>40</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10619-021-07335-0</ee>
+<url>db/journals/dpd/dpd40.html#HerodotouCCHDWC22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LeeXMC22" mdate="2023-10-28">
+<author orcid="0000-0002-2527-5049" pid="14/1395-16">Leon Lee 0001</author>
+<author pid="322/1423">Siphrey Xie</author>
+<author pid="322/1501">Yunus Ma</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<title>Index Checkpoints for Instant Recovery in In-Memory Database Systems.</title>
+<pages>1671-1683</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>8</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p1671-lee.pdf</ee>
+<ee>https://doi.org/10.14778/3529337.3529350</ee>
+<url>db/journals/pvldb/pvldb15.html#LeeXMC22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/HuangC22" mdate="2023-10-23">
+<author pid="275/0053">Zichun Huang</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<title>Density-optimized Intersection-free Mapping and Matrix Multiplication for Join-Project Operations.</title>
+<pages>2244-2256</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p2244-chen.pdf</ee>
+<ee>https://doi.org/10.14778/3547305.3547326</ee>
+<url>db/journals/pvldb/pvldb15.html#HuangC22</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/LiCGWCG22" mdate="2024-03-19">
+<author pid="64/6025">Wei Li</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="241/7332">Jianyang Gu</author>
+<author pid="46/2005">Ning Wang</author>
+<author pid="65/4423-114">Chen Chen 0114</author>
+<author pid="28/4272">Yandong Guo</author>
+<title>MV-TAL: Mulit-view Temporal Action Localization in Naturalistic Driving.</title>
+<pages>3241-3247</pages>
+<year>2022</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee>https://doi.org/10.1109/CVPRW56347.2022.00366</ee>
+<crossref>conf/cvpr/2022w</crossref>
+<url>db/conf/cvpr/cvpr2022w.html#LiCGWCG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/GiancolaCDMSKZB22" mdate="2024-03-19">
+<author pid="173/3571">Silvio Giancola</author>
+<author pid="222/2684">Anthony Cioppa</author>
+<author pid="222/2767">Adrien Deli&#232;ge</author>
+<author pid="290/7333">Floriane Magera</author>
+<author orcid="0000-0001-5787-4276" pid="326/8810">Vladimir Somers</author>
+<author pid="26/4180">Le Kang</author>
+<author pid="05/3403">Xin Zhou</author>
+<author pid="80/1760">Olivier Barnich</author>
+<author pid="57/3965">Christophe De Vleeschouwer</author>
+<author pid="48/3455">Alexandre Alahi</author>
+<author orcid="0000-0002-5534-587X" pid="37/2516">Bernard Ghanem</author>
+<author pid="83/4730">Marc Van Droogenbroeck</author>
+<author pid="330/2756">Abdulrahman Darwish</author>
+<author pid="44/8313">Adrien Maglo</author>
+<author pid="116/4644">Albert Clap&#233;s</author>
+<author pid="330/3431">Andreas Luyts</author>
+<author pid="247/9276">Andrei Boiarov</author>
+<author pid="330/3002">Artur Xarles</author>
+<author pid="202/5038">Astrid Orcesi</author>
+<author pid="206/3208">Avijit Shah</author>
+<author pid="218/2727">Baoyu Fan</author>
+<author orcid="0000-0002-2781-5053" pid="180/9973">Bharath Comandur</author>
+<author pid="65/4423-114">Chen Chen 0114</author>
+<author pid="94/4084">Chen Zhang</author>
+<author pid="81/3-2">Chen Zhao 0002</author>
+<author pid="195/4866">Chengzhi Lin</author>
+<author pid="330/3351">Cheuk-Yiu Chan</author>
+<author pid="330/3800">Chun Chuen Hui</author>
+<author pid="303/5073">Dengjie Li</author>
+<author pid="29/3081">Fan Yang</author>
+<author pid="19/7748">Fan Liang</author>
+<author pid="131/6851">Fang Da</author>
+<author pid="62/3960">Feng Yan</author>
+<author pid="274/2282">Fufu Yu</author>
+<author pid="218/5173">Guanshuo Wang</author>
+<author pid="33/3977">H. Anthony Chan</author>
+<author pid="59/2802">He Zhu</author>
+<author orcid="0000-0002-1302-6475" pid="277/1885">Hongwei Kan</author>
+<author pid="294/3974">Jiaming Chu</author>
+<author pid="69/4427">Jianming Hu</author>
+<author pid="241/7332">Jianyang Gu</author>
+<author pid="03/5287">Jin Chen</author>
+<author pid="10/594">Jo&#227;o V. B. Soares</author>
+<author pid="249/9358">Jonas Theiner</author>
+<author pid="330/2812">Jorge De Corte</author>
+<author orcid="0000-0002-4544-4698" pid="128/7924">Jos&#233; Henrique Brito</author>
+<author pid="29/4190">Jun Zhang</author>
+<author pid="83/5144">Junjie Li</author>
+<author pid="62/10704-6">Junwei Liang 0006</author>
+<author pid="323/9555">Leqi Shen</author>
+<author pid="74/3608-2">Lin Ma 0002</author>
+<author pid="228/8994">Lingchi Chen</author>
+<author orcid="0000-0001-9469-4928" pid="330/2386">Miguel Santos Marques</author>
+<author pid="330/3633">Mike Azatov</author>
+<author pid="330/3677">Nikita Kasatkin</author>
+<author pid="46/2005">Ning Wang</author>
+<author pid="66/3090">Qiong Jia</author>
+<author pid="72/5867">Quoc-Cuong Pham</author>
+<author pid="45/52">Ralph Ewerth</author>
+<author pid="10/8738">Ran Song</author>
+<author pid="262/1327">Rengang Li</author>
+<author pid="60/11432">Rikke Gade</author>
+<author pid="330/3292">Ruben Debien</author>
+<author pid="144/1374">Runze Zhang</author>
+<author pid="56/6112">Sangrok Lee</author>
+<author orcid="0000-0003-0617-8873" pid="77/5527">Sergio Escalera</author>
+<author pid="04/2910-6">Shan Jiang 0006</author>
+<author pid="68/10008">Shigeyuki Odashima</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="28/3193">Shoichi Masui</author>
+<author pid="119/6735">Shouhong Ding</author>
+<author pid="330/3682">Sin-wai Chan</author>
+<author pid="23/7930">Siyu Chen</author>
+<author pid="15/1848">Tallal El Shabrawy</author>
+<author pid="94/5035">Tao He</author>
+<author orcid="0000-0001-7584-5209" pid="12/6781">Thomas B. Moeslund</author>
+<author pid="61/5203">Wan-Chi Siu</author>
+<author pid="10/4661-21">Wei Zhang 0021</author>
+<author pid="64/6025-12">Wei Li 0012</author>
+<author pid="163/4080">Xiangwei Wang</author>
+<author pid="116/7143-1">Xiao Tan 0001</author>
+<author pid="10/8076">Xiaochuan Li</author>
+<author pid="155/5599">Xiaolin Wei</author>
+<author pid="177/0181">Xiaoqing Ye</author>
+<author pid="87/3144">Xing Liu</author>
+<author pid="06/3244">Xinying Wang</author>
+<author pid="28/4272">Yandong Guo</author>
+<author pid="171/5841">Yaqian Zhao</author>
+<author pid="99/111-1">Yi Yu 0001</author>
+<author pid="63/5869">Yingying Li</author>
+<author pid="51/6071">Yue He</author>
+<author pid="198/2504">Yujie Zhong</author>
+<author pid="41/294-3">Zhenhua Guo 0003</author>
+<author pid="89/6935-1">Zhiheng Li 0001</author>
+<title>SoccerNet 2022 Challenges Results.</title>
+<pages>75-86</pages>
+<year>2022</year>
+<booktitle>MMSports@MM</booktitle>
+<ee>https://doi.org/10.1145/3552437.3558545</ee>
+<crossref>conf/mm/2022mmsports</crossref>
+<url>db/conf/mm/mmsports2022.html#GiancolaCDMSKZB22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2204-02674" mdate="2022-04-12">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="65/4423">Chen Chen</author>
+<author pid="64/6025">Wei Li</author>
+<author pid="20/7012">Xunqiang Tao</author>
+<author pid="28/4272">Yandong Guo</author>
+<title>Faster-TAD: Towards Temporal Action Detection with Proposal Generation and Classification in a Unified Network.</title>
+<year>2022</year>
+<volume>abs/2204.02674</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2204.02674</ee>
+<url>db/journals/corr/corr2204.html#abs-2204-02674</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2204-02688" mdate="2022-04-12">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="64/6025">Wei Li</author>
+<author pid="65/4423">Chen Chen</author>
+<author pid="241/7332">Jianyang Gu</author>
+<author pid="294/3974">Jiaming Chu</author>
+<author pid="20/7012">Xunqiang Tao</author>
+<author pid="28/4272">Yandong Guo</author>
+<title>SEAL: A Large-scale Video Dataset of Multi-grained Spatio-temporally Action Localization.</title>
+<year>2022</year>
+<volume>abs/2204.02688</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2204.02688</ee>
+<url>db/journals/corr/corr2204.html#abs-2204-02688</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-04995" mdate="2022-06-20">
+<author pid="275/0053">Zichun Huang</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<title>Density-optimized Intersection-free Mapping and Matrix Multiplication for Join-Project Operations (extended version).</title>
+<year>2022</year>
+<volume>abs/2206.04995</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.04995</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-04995</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-02365" mdate="2024-03-07">
+<author pid="173/3571">Silvio Giancola</author>
+<author pid="222/2684">Anthony Cioppa</author>
+<author pid="222/2767">Adrien Deli&#232;ge</author>
+<author pid="290/7333">Floriane Magera</author>
+<author pid="326/8810">Vladimir Somers</author>
+<author pid="26/4180">Le Kang</author>
+<author pid="05/3403">Xin Zhou</author>
+<author pid="80/1760">Olivier Barnich</author>
+<author pid="57/3965">Christophe De Vleeschouwer</author>
+<author pid="48/3455">Alexandre Alahi</author>
+<author pid="37/2516">Bernard Ghanem</author>
+<author pid="83/4730">Marc Van Droogenbroeck</author>
+<author pid="330/2756">Abdulrahman Darwish</author>
+<author pid="44/8313">Adrien Maglo</author>
+<author pid="116/4644">Albert Clap&#233;s</author>
+<author pid="330/3431">Andreas Luyts</author>
+<author pid="247/9276">Andrei Boiarov</author>
+<author pid="330/3002">Artur Xarles</author>
+<author pid="202/5038">Astrid Orcesi</author>
+<author pid="206/3208">Avijit Shah</author>
+<author pid="218/2727">Baoyu Fan</author>
+<author pid="180/9973">Bharath Comandur</author>
+<author pid="65/4423">Chen Chen</author>
+<author pid="94/4084">Chen Zhang</author>
+<author pid="81/3-2">Chen Zhao 0002</author>
+<author pid="195/4866">Chengzhi Lin</author>
+<author pid="330/3351">Cheuk-Yiu Chan</author>
+<author pid="330/3800">Chun Chuen Hui</author>
+<author pid="303/5073">Dengjie Li</author>
+<author pid="29/3081">Fan Yang</author>
+<author pid="19/7748">Fan Liang</author>
+<author pid="131/6851">Fang Da</author>
+<author pid="62/3960">Feng Yan</author>
+<author pid="274/2282">Fufu Yu</author>
+<author pid="218/5173">Guanshuo Wang</author>
+<author pid="33/3977">H. Anthony Chan</author>
+<author pid="59/2802">He Zhu</author>
+<author pid="277/1885">Hongwei Kan</author>
+<author pid="294/3974">Jiaming Chu</author>
+<author pid="69/4427">Jianming Hu</author>
+<author pid="241/7332">Jianyang Gu</author>
+<author pid="03/5287">Jin Chen</author>
+<author pid="10/594">Jo&#227;o V. B. Soares</author>
+<author pid="249/9358">Jonas Theiner</author>
+<author pid="330/2812">Jorge De Corte</author>
+<author orcid="0000-0002-4544-4698" pid="128/7924">Jos&#233; Henrique Brito</author>
+<author pid="29/4190">Jun Zhang</author>
+<author pid="83/5144">Junjie Li</author>
+<author pid="62/10704-6">Junwei Liang 0006</author>
+<author pid="323/9555">Leqi Shen</author>
+<author pid="74/3608-2">Lin Ma 0002</author>
+<author pid="228/8994">Lingchi Chen</author>
+<author pid="330/2386">Miguel Santos Marques</author>
+<author pid="330/3633">Mike Azatov</author>
+<author pid="330/3677">Nikita Kasatkin</author>
+<author pid="46/2005">Ning Wang</author>
+<author pid="66/3090">Qiong Jia</author>
+<author pid="72/5867">Quoc-Cuong Pham</author>
+<author pid="45/52">Ralph Ewerth</author>
+<author pid="10/8738">Ran Song</author>
+<author pid="262/1327">Rengang Li</author>
+<author pid="60/11432">Rikke Gade</author>
+<author pid="330/3292">Ruben Debien</author>
+<author pid="144/1374">Runze Zhang</author>
+<author pid="56/6112">Sangrok Lee</author>
+<author pid="77/5527">Sergio Escalera</author>
+<author pid="04/2910-6">Shan Jiang 0006</author>
+<author pid="68/10008">Shigeyuki Odashima</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="28/3193">Shoichi Masui</author>
+<author pid="119/6735">Shouhong Ding</author>
+<author pid="330/3682">Sin-wai Chan</author>
+<author pid="23/7930">Siyu Chen</author>
+<author pid="15/1848">Tallal El Shabrawy</author>
+<author pid="94/5035">Tao He</author>
+<author pid="12/6781">Thomas B. Moeslund</author>
+<author pid="61/5203">Wan-Chi Siu</author>
+<author pid="10/4661-21">Wei Zhang 0021</author>
+<author pid="64/6025-12">Wei Li 0012</author>
+<author pid="163/4080">Xiangwei Wang</author>
+<author pid="116/7143-1">Xiao Tan 0001</author>
+<author pid="10/8076">Xiaochuan Li</author>
+<author pid="155/5599">Xiaolin Wei</author>
+<author pid="177/0181">Xiaoqing Ye</author>
+<author pid="87/3144">Xing Liu</author>
+<author pid="06/3244">Xinying Wang</author>
+<author pid="28/4272">Yandong Guo</author>
+<author pid="171/5841">Yaqian Zhao</author>
+<author pid="99/111-1">Yi Yu 0001</author>
+<author pid="63/5869">Yingying Li</author>
+<author pid="51/6071">Yue He</author>
+<author pid="198/2504">Yujie Zhong</author>
+<author pid="41/294-3">Zhenhua Guo 0003</author>
+<author pid="89/6935-1">Zhiheng Li 0001</author>
+<title>SoccerNet 2022 Challenges Results.</title>
+<year>2022</year>
+<volume>abs/2210.02365</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.02365</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-02365</url>
+</article>
+</r>
+<r><article key="journals/jcst/NiuC21" mdate="2021-08-23">
+<author pid="164/1416">Songjie Niu</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<title>TransGPerf: Exploiting Transfer Learning for Modeling Distributed Graph Computation Performance.</title>
+<pages>778-791</pages>
+<year>2021</year>
+<volume>36</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s11390-021-1356-2</ee>
+<url>db/journals/jcst/jcst36.html#NiuC21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiuCC21" mdate="2022-10-02">
+<author orcid="0000-0003-2225-8558" pid="37/2109">Gang Liu</author>
+<author pid="287/9977">Leying Chen</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<title>Zen: a High-Throughput Log-Free OLTP Engine for Non-Volatile Main Memory.</title>
+<pages>835-848</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p835-liu.pdf</ee>
+<ee>https://doi.org/10.14778/3446095.3446105</ee>
+<url>db/journals/pvldb/pvldb14.html#LiuCC21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/WuZCCWX21" mdate="2022-08-11">
+<author pid="141/3659">Jiacheng Wu</author>
+<author pid="66/4615-2">Yong Zhang 0002</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="87/1254-52">Yu Chen 0052</author>
+<author pid="92/1375-7">Jin Wang 0007</author>
+<author pid="x/ChunxiaoXing">Chunxiao Xing</author>
+<title>Updatable Learned Index with Precise Positions.</title>
+<pages>1276-1288</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>8</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p1276-wu.pdf</ee>
+<ee>https://doi.org/10.14778/3457390.3457393</ee>
+<url>db/journals/pvldb/pvldb14.html#WuZCCWX21</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/DingCMM21" mdate="2022-07-18">
+<author pid="239/6042">Mengsu Ding</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="166/5158">Nantia Makrynioti</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<title>Progressive Join Algorithms Considering User Preference.</title>
+<year>2021</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2021/papers/cidr2021_paper02.pdf</ee>
+<crossref>conf/cidr/2021</crossref>
+<url>db/conf/cidr/cidr2021.html#DingCMM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fast/MaCCLZKW21" mdate="2021-08-12">
+<author pid="291/2449">Shaonan Ma</author>
+<author pid="91/6670">Kang Chen</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="198/2565">Mengxing Liu</author>
+<author pid="291/3177">Jianglang Zhu</author>
+<author pid="66/10178">Hongbo Kang</author>
+<author pid="38/880">Yongwei Wu</author>
+<title>ROART: Range-query Optimized Persistent ART.</title>
+<pages>1-16</pages>
+<year>2021</year>
+<booktitle>FAST</booktitle>
+<ee type="oa">https://www.usenix.org/conference/fast21/presentation/ma</ee>
+<crossref>conf/fast/2021</crossref>
+<url>db/conf/fast/fast2021.html#MaCCLZKW21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChenC21" mdate="2021-06-09">
+<author pid="287/9977">Leying Chen</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<title>How Does Updatable Learned Index Perform on Non-Volatile Main Memory?</title>
+<pages>66-71</pages>
+<year>2021</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW53142.2021.00019</ee>
+<crossref>conf/icde/2021w</crossref>
+<url>db/conf/icde/icde2021w.html#ChenC21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-05520" mdate="2022-08-11">
+<author pid="141/3659">Jiacheng Wu</author>
+<author pid="66/4615-2">Yong Zhang 0002</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="92/1375-7">Jin Wang 0007</author>
+<author pid="87/1254-52">Yu Chen 0052</author>
+<author pid="x/ChunxiaoXing">Chunxiao Xing</author>
+<title>Updatable Learned Index with Precise Positions.</title>
+<year>2021</year>
+<volume>abs/2104.05520</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.05520</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-05520</url>
+</article>
+</r>
+<r><article key="journals/dpd/ChenCDHS20" mdate="2022-04-09">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author orcid="0000-0001-7189-9816" pid="c/PKChrysanthis">Panos K. Chrysanthis</author>
+<author pid="d/KhuzaimaDaudjee">Khuzaima Daudjee</author>
+<author pid="40/4895">Meichun Hsu</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Introduction to the special issue on Self-managing and Hardware-Optimized Database Systems 2019.</title>
+<pages>767-769</pages>
+<year>2020</year>
+<volume>38</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10619-020-07313-y</ee>
+<url>db/journals/dpd/dpd38.html#ChenCDHS20</url>
+</article>
+</r>
+<r><article key="journals/dpd/LiuC20" mdate="2020-10-08">
+<author pid="244/1583">Jihang Liu</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<title>Initial experience with 3D XPoint main memory.</title>
+<pages>865-880</pages>
+<year>2020</year>
+<volume>38</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10619-019-07277-8</ee>
+<url>db/journals/dpd/dpd38.html#LiuC20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiuCW20" mdate="2021-03-23">
+<author pid="244/1583">Jihang Liu</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="119/1240">Lujun Wang</author>
+<title>LB+-Trees: Optimizing Persistent Index Performance on 3DXPoint Memory.</title>
+<pages>1078-1090</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>7</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p1078-liu.pdf</ee>
+<ee>https://doi.org/10.14778/3384345.3384355</ee>
+<url>db/journals/pvldb/pvldb13.html#LiuCW20</url>
+</article>
+</r>
+<r><article key="journals/bigdatama/HanLCC19" mdate="2020-05-09">
+<author pid="10/8243">Wentao Han</author>
+<author pid="60/2811">Kaiwei Li</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="60/810">Wenguang Chen</author>
+<title>Auxo: a temporal graph management system.</title>
+<pages>58-71</pages>
+<year>2019</year>
+<volume>2</volume>
+<journal>Big Data Min. Anal.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.26599/BDMA.2018.9020030</ee>
+<url>db/journals/bigdatama/bigdatama2.html#HanLCC19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/LiuC19" mdate="2019-07-05">
+<author pid="244/1583">Jihang Liu</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<title>Initial Experience with 3D XPoint Main Memory.</title>
+<pages>300-305</pages>
+<year>2019</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2019.00009</ee>
+<crossref>conf/icde/2019w</crossref>
+<url>db/conf/icde/icde2019w.html#LiuC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/DingC19" mdate="2019-06-11">
+<author pid="239/6042">Mengsu Ding</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<title>Efficient Partitioning and Query Processing of Spatio-Temporal Graphs with Trillion Edges.</title>
+<pages>1714-1717</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00180</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#DingC19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-09610" mdate="2019-04-26">
+<author pid="239/6042">Mengsu Ding</author>
+<author pid="239/6073">Muqiao Yang</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<title>Storing and Querying Large-Scale Spatio-Temporal Graphs with High-Throughput Edge Insertions.</title>
+<year>2019</year>
+<volume>abs/1904.09610</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.09610</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-09610</url>
+</article>
+</r>
+<r><proceedings key="conf/birte/2018" mdate="2022-04-09">
+<editor pid="04/4211">Mal&#250; Castellanos</editor>
+<editor orcid="0000-0001-7189-9816" pid="c/PKChrysanthis">Panos K. Chrysanthis</editor>
+<editor pid="01/2861">Badrish Chandramouli</editor>
+<editor pid="c/ShiminChen">Shimin Chen</editor>
+<title>Proceedings of the International Workshop on Real-Time Business Intelligence and Analytics, BIRTE 2018, Rio de Janeiro, Brazil, August 27, 2018</title>
+<publisher>ACM</publisher>
+<booktitle>BIRTE</booktitle>
+<year>2018</year>
+<ee>https://doi.org/10.1145/3242153</ee>
+<url>db/conf/birte/birte2018.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-00280" mdate="2018-08-13">
+<author pid="204/3834">Dongyan Zhou</author>
+<author pid="164/1416">Songjie Niu</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<title>Efficient Graph Computation for Node2Vec.</title>
+<year>2018</year>
+<volume>abs/1805.00280</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.00280</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-00280</url>
+</article>
+</r>
+<r><article key="journals/pvldb/WangZC17" mdate="2020-04-25">
+<author pid="66/7776">Zhiyi Wang</author>
+<author pid="204/3834">Dongyan Zhou</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<title>STEED: An Analytical Database System for TrEE-structured Data.</title>
+<pages>1897-1900</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p1897-chen.pdf</ee>
+<ee>https://doi.org/10.14778/3137765.3137803</ee>
+<url>db/journals/pvldb/pvldb10.html#WangZC17</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/ZhangCY17" mdate="2023-03-24">
+<author pid="66/2444">Yanfeng Zhang</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="49/6363">Ge Yu 0001</author>
+<title>Efficient Distributed Density Peaks for Clustering Large Data Sets in MapReduce.</title>
+<pages>67-68</pages>
+<year>2017</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2017.40</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2017.40</ee>
+<crossref>conf/icde/2017</crossref>
+<url>db/conf/icde/icde2017.html#ZhangCY17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/WangC17" mdate="2018-11-06">
+<author pid="66/7776">Zhiyi Wang</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<title>Exploiting Common Patterns for Tree-Structured Data.</title>
+<pages>883-896</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3035956</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#WangC17</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/ZhangCY16" mdate="2017-10-27">
+<author pid="66/2444">Yanfeng Zhang</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="49/6363">Ge Yu 0001</author>
+<title>Efficient Distributed Density Peaks for Clustering Large Data Sets in MapReduce.</title>
+<pages>3218-3230</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TKDE.2016.2609423</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2016.2609423</ee>
+<url>db/journals/tkde/tkde28.html#ZhangCY16</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/SongC16" mdate="2023-03-24">
+<author pid="181/9130">Dongxiao Song</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<title>Exploiting SIMD for complex numerical predicates.</title>
+<pages>143-149</pages>
+<year>2016</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2016.7495635</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2016.7495635</ee>
+<crossref>conf/icde/2016w</crossref>
+<url>db/conf/icde/icdew2016.html#SongC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhangCWY16" mdate="2023-03-24">
+<author pid="66/2444">Yanfeng Zhang</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="64/5630">Qiang Wang</author>
+<author pid="49/6363">Ge Yu 0001</author>
+<title>i2MapReduce: Incremental mapreduce for mining evolving big data.</title>
+<pages>1482-1483</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498385</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498385</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#ZhangCWY16</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/ChenJ15" mdate="2020-04-25">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="47/2670">Qin Jin</author>
+<title>Persistent B+-Trees in Non-Volatile Main Memory.</title>
+<pages>786-797</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>7</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p786-chen.pdf</ee>
+<ee>https://doi.org/10.14778/2752939.2752947</ee>
+<url>db/journals/pvldb/pvldb8.html#ChenJ15</url>
+</article>
+</r>
+<r><article key="journals/sigmod/ChenLM15" mdate="2020-10-26">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<author pid="m/XiaofengMeng-1">Xiaofeng Meng 0001</author>
+<title>Report on the International Workshop on Big Data Management on Emerging Hardware (HardBD 2015).</title>
+<pages>60-61</pages>
+<year>2015</year>
+<volume>44</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2854006.2854018</ee>
+<url>db/journals/sigmod/sigmod44.html#ChenLM15</url>
+</article>
+</r>
+<r><article key="journals/tkde/ZhangCWY15" mdate="2017-10-27">
+<author pid="66/2444">Yanfeng Zhang</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="64/5630">Qiang Wang</author>
+<author pid="49/6363">Ge Yu 0001</author>
+<title>i<sup>2</sup> MapReduce: Incremental MapReduce for Mining Evolving Big Data.</title>
+<pages>1906-1919</pages>
+<year>2015</year>
+<volume>27</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TKDE.2015.2397438</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2015.2397438</ee>
+<url>db/journals/tkde/tkde27.html#ZhangCWY15</url>
+</article>
+</r>
+<r><article key="journals/tmm/ChenJBSCY15" mdate="2020-10-08">
+<author pid="99/6879-1">Jia Chen 0001</author>
+<author pid="47/2670">Qin Jin</author>
+<author pid="31/529">Shenghua Bao</author>
+<author pid="87/1363">Zhong Su</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="43/5685-1">Yong Yu 0001</author>
+<title>Exploitation and Exploration Balanced Hierarchical Summary for Landmark Images.</title>
+<pages>1773-1786</pages>
+<year>2015</year>
+<volume>17</volume>
+<journal>IEEE Trans. Multim.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TMM.2015.2460111</ee>
+<url>db/journals/tmm/tmm17.html#ChenJBSCY15</url>
+</article>
+</r>
+<r><article key="journals/tods/AthanassoulisCA15" mdate="2018-11-06">
+<author pid="82/7402">Manos Athanassoulis</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="84/2124">Radu Stoica</author>
+<title>Online Updates on Data Warehouses via Judicious Use of Solid-State Storage.</title>
+<pages>6:1-6:42</pages>
+<year>2015</year>
+<volume>40</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2699484</ee>
+<url>db/journals/tods/tods40.html#AthanassoulisCA15</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/NiuC15" mdate="2023-03-23">
+<author pid="164/1416">Songjie Niu</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<title>Optimizing CPU cache performance for Pregel-like graph computation.</title>
+<pages>149-154</pages>
+<year>2015</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2015.7129568</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2015.7129568</ee>
+<crossref>conf/icde/2015w</crossref>
+<url>db/conf/icde/icdew2015.html#NiuC15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/ZhangCWY15" mdate="2018-08-13">
+<author pid="66/2444">Yanfeng Zhang</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="64/5630">Qiang Wang</author>
+<author pid="49/6363">Ge Yu 0001</author>
+<title>i2MapReduce: Incremental MapReduce for Mining Evolving Big Data.</title>
+<year>2015</year>
+<volume>abs/1501.04854</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1501.04854</ee>
+<url>db/journals/corr/corr1501.html#ZhangCWY15</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/CaoCMFW14" mdate="2021-01-29">
+<author pid="69/8078">Zhao Cao</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="82/9726">Dongzhe Ma</author>
+<author pid="43/6576">Jianhua Feng</author>
+<author pid="181/2695">Min Wang</author>
+<title>Efficient and Flexible Index Access in MapReduce.</title>
+<pages>61-72</pages>
+<year>2014</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2014.07</ee>
+<crossref>conf/edbt/2014</crossref>
+<url>db/conf/edbt/edbt2014.html#CaoCMFW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/CaoCLWW13" mdate="2020-03-12">
+<author pid="69/8078">Zhao Cao</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="l/FeifeiLi">Feifei Li 0001</author>
+<author pid="w/MinWang">Min Wang 0001</author>
+<author pid="w/XiaoyangSeanWang">Xiaoyang Sean Wang</author>
+<title>LogKV: Exploiting Key-Value Stores for Log Processing.</title>
+<year>2013</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2013/Papers/CIDR13_Paper46.pdf</ee>
+<crossref>conf/cidr/2013</crossref>
+<url>db/conf/cidr/cidr2013.html#CaoCLWW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloudi/ZhangC13" mdate="2018-11-06">
+<author pid="66/2444">Yanfeng Zhang</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<title>i<sup>2</sup>MapReduce: incremental iterative MapReduce.</title>
+<pages>3:1-3:4</pages>
+<year>2013</year>
+<booktitle>Cloud-I</booktitle>
+<ee>https://doi.org/10.1145/2501928.2501930</ee>
+<crossref>conf/cloudi/2013</crossref>
+<url>db/conf/cloudi/cloudi2013.html#ZhangC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/ChenZCFLW13" mdate="2024-03-28">
+<author pid="76/3584">Lijiang Chen</author>
+<author pid="49/7820">Yibing Zhao</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author orcid="0009-0003-1904-787X" pid="03/2511-1">Hui Fang 0001</author>
+<author pid="14/3692">Chengkai Li 0001</author>
+<author pid="w/MinWang">Min Wang 0001</author>
+<title>iPLUG: Personalized List Recommendation in Twitter.</title>
+<pages>88-103</pages>
+<year>2013</year>
+<booktitle>WISE (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41154-0_7</ee>
+<crossref>conf/wise/2013-2</crossref>
+<url>db/conf/wise/wise2013-2.html#ChenZCFLW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/JiangHCCYLW13" mdate="2023-11-02">
+<author pid="273/6545">Peng Jiang 0002</author>
+<author pid="75/8573">Huiman Hou</author>
+<author pid="76/3584">Lijiang Chen</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="11/3083">Conglei Yao</author>
+<author pid="14/3692">Chengkai Li 0001</author>
+<author pid="w/MinWang">Min Wang 0001</author>
+<title>Wiki3C: exploiting wikipedia for context-aware concept categorization.</title>
+<pages>345-354</pages>
+<year>2013</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/2433396.2433441</ee>
+<ee>https://www.wikidata.org/entity/Q66711114</ee>
+<crossref>conf/wsdm/2013</crossref>
+<url>db/conf/wsdm/wsdm2013.html#JiangHCCYLW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEpact/GoodsteinCGKM12" mdate="2021-08-11">
+<author pid="45/7934">Michelle L. Goodstein</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="59/5000">Michael A. Kozuch</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Chrysalis analysis: incorporating synchronization arcs in dataflow-analysis-based parallel monitoring.</title>
+<pages>201-212</pages>
+<year>2012</year>
+<booktitle>PACT</booktitle>
+<ee>https://doi.org/10.1145/2370816.2370847</ee>
+<ee>https://ieeexplore.ieee.org/document/7842933/</ee>
+<crossref>conf/IEEEpact/2012</crossref>
+<url>db/conf/IEEEpact/pact2012.html#GoodsteinCGKM12</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/damon/2012" mdate="2018-11-06">
+<editor pid="c/ShiminChen">Shimin Chen</editor>
+<editor pid="38/6308">Stavros Harizopoulos</editor>
+<title>Proceedings of the Eighth International Workshop on Data Management on New Hardware, DaMoN 2012, Scottsdale, AZ, USA, May 21, 2012</title>
+<publisher>ACM</publisher>
+<booktitle>DaMoN</booktitle>
+<year>2012</year>
+<isbn>978-1-4503-1445-9</isbn>
+<ee>https://doi.org/10.1145/2236584</ee>
+<url>db/conf/damon/damon2012.html</url>
+</proceedings>
+</r>
+<r><article key="journals/sigops/ChenGKM11" mdate="2020-07-14">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="59/5000">Michael Kozuch</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Log-based architectures: using multicore to help software behave correctly.</title>
+<pages>84-91</pages>
+<year>2011</year>
+<volume>45</volume>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1945023.1945034</ee>
+<url>db/journals/sigops/sigops45.html#ChenGKM11</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccs/ZhuHAGC11" mdate="2020-11-10">
+<author pid="82/3167-10">Yan Zhu 0010</author>
+<author pid="02/2870">Hongxin Hu</author>
+<author pid="a/GailJoonAhn">Gail-Joon Ahn</author>
+<author pid="33/10782">Xiaorui Gong</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<title>Poster: temporal attribute-based encryption in clouds.</title>
+<pages>881-884</pages>
+<year>2011</year>
+<booktitle>CCS</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=2093517</ee>
+<crossref>conf/ccs/2011</crossref>
+<url>db/conf/ccs/ccs2011.html#ZhuHAGC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/ChenGN11" mdate="2020-03-12">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="85/6293">Suman Nath</author>
+<title>Rethinking Database Algorithms for Phase Change Memory.</title>
+<pages>21-31</pages>
+<year>2011</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2011/Papers/CIDR11_Paper3.pdf</ee>
+<crossref>conf/cidr/2011</crossref>
+<url>db/conf/cidr/cidr2011.html#ChenGN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/colcom/ZhuHAHC11" mdate="2021-08-08">
+<author pid="82/3167-10">Yan Zhu 0010</author>
+<author pid="02/2870">Hongxin Hu</author>
+<author pid="a/GailJoonAhn">Gail-Joon Ahn</author>
+<author pid="31/10872">Yujing Han</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<title>Collaborative integrity verification in hybrid clouds.</title>
+<pages>191-200</pages>
+<year>2011</year>
+<booktitle>CollaborateCom</booktitle>
+<ee>https://doi.org/10.4108/icst.collaboratecom.2011.247089</ee>
+<ee>https://ieeexplore.ieee.org/document/6144804/</ee>
+<crossref>conf/colcom/2011</crossref>
+<url>db/conf/colcom/colcom2011.html#ZhuHAHC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/SnyderCCL11" mdate="2020-06-15">
+<author pid="83/9733">Sean M. Snyder</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author orcid="0000-0001-7189-9816" pid="c/PKChrysanthis">Panos K. Chrysanthis</author>
+<author pid="l/ALabrinidis">Alexandros Labrinidis</author>
+<title>QMD: exploiting flash for energy efficient disk arrays.</title>
+<pages>41-49</pages>
+<year>2011</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/1995441.1995447</ee>
+<crossref>conf/damon/2011</crossref>
+<url>db/conf/damon/damon2011.html#SnyderCCL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/GengCWWYZ11" mdate="2023-03-24">
+<author pid="45/10331">Yifeng Geng</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="38/880">Yongwei Wu</author>
+<author pid="68/6480">Ryan Wu</author>
+<author pid="67/3001">Guangwen Yang</author>
+<author pid="45/6990">Weimin Zheng</author>
+<title>Location-Aware MapReduce in Virtual Cloud.</title>
+<pages>275-284</pages>
+<year>2011</year>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1109/ICPP.2011.40</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICPP.2011.40</ee>
+<crossref>conf/icpp/2011</crossref>
+<url>db/conf/icpp/icpp2011.html#GengCWWYZ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AthanassoulisCAGS11" mdate="2018-11-06">
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="84/2124">Radu Stoica</author>
+<title>MaSM: efficient online updates in data warehouses.</title>
+<pages>865-876</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989414</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#AthanassoulisCAGS11</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/AthanassoulisACGS10" mdate="2020-03-10">
+<author pid="82/7402">Manos Athanassoulis</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="84/2124">Radu Stoica</author>
+<title>Flash in a DBMS: Where and How?</title>
+<pages>28-34</pages>
+<year>2010</year>
+<volume>33</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A10dec/athanassoulis.pdf</ee>
+<url>db/journals/debu/debu33.html#AthanassoulisACGS10</url>
+</article>
+</r>
+<r><article key="journals/sigmod/ChenAAGJPS10" mdate="2020-03-06">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="82/7402">Manos Athanassoulis</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="84/2124">Radu Stoica</author>
+<title>TPC-E vs. TPC-C: characterizing the new TPC-E benchmark via an I/O comparison study.</title>
+<pages>5-10</pages>
+<year>2010</year>
+<volume>39</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1942776.1942778</ee>
+<url>db/journals/sigmod/sigmod39.html#ChenAAGJPS10</url>
+</article>
+</r>
+<r><inproceedings key="conf/asplos/GoodsteinVCGKM10" mdate="2021-07-07">
+<author pid="45/7934">Michelle L. Goodstein</author>
+<author pid="22/6647">Evangelos Vlachos</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="59/5000">Michael A. Kozuch</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Butterfly analysis: adapting dataflow analysis to dynamic parallel monitoring.</title>
+<pages>257-270</pages>
+<year>2010</year>
+<booktitle>ASPLOS</booktitle>
+<ee>https://doi.org/10.1145/1736020.1736050</ee>
+<ee>https://doi.org/10.1145/1735970.1736050</ee>
+<ee>https://doi.org/10.1145/1735971.1736050</ee>
+<crossref>conf/asplos/2010</crossref>
+<url>db/conf/asplos/asplos2010.html#GoodsteinVCGKM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asplos/VlachosGKCFGM10" mdate="2021-07-07">
+<author pid="22/6647">Evangelos Vlachos</author>
+<author pid="45/7934">Michelle L. Goodstein</author>
+<author pid="59/5000">Michael A. Kozuch</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="f/BabakFalsafi">Babak Falsafi</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>ParaLog: enabling and accelerating online parallel monitoring of multithreaded applications.</title>
+<pages>271-284</pages>
+<year>2010</year>
+<booktitle>ASPLOS</booktitle>
+<ee>https://doi.org/10.1145/1736020.1736051</ee>
+<ee>https://doi.org/10.1145/1735970.1736051</ee>
+<ee>https://doi.org/10.1145/1735971.1736051</ee>
+<crossref>conf/asplos/2010</crossref>
+<url>db/conf/asplos/asplos2010.html#VlachosGKCFGM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/RuwaseCGM10" mdate="2021-06-22">
+<author pid="72/2838">Olatunji Ruwase</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Decoupled lifeguards: enabling path optimizations for dynamic correctness checking tools.</title>
+<pages>25-35</pages>
+<year>2010</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/1806596.1806600</ee>
+<ee>https://doi.org/10.1145/1809028.1806600</ee>
+<crossref>conf/pldi/2010</crossref>
+<url>db/conf/pldi/pldi2010.html#RuwaseCGM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChenGN10" mdate="2022-10-02">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author orcid="0000-0001-7813-9756" pid="85/6293">Suman Nath</author>
+<title>PR-join: a non-blocking join achieving higher early result rate with statistical guarantees.</title>
+<pages>147-158</pages>
+<year>2010</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1807167.1807186</ee>
+<crossref>conf/sigmod/2010</crossref>
+<url>db/conf/sigmod/sigmod2010.html#ChenGN10</url>
+</inproceedings>
+</r>
+<r><article key="journals/micro/ChenKGRSMRVFR09" mdate="2017-05-20">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="59/5000">Michael Kozuch</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="11/5668">Michael P. Ryan</author>
+<author pid="15/5184">Theodoros Strigkos</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<author pid="72/2838">Olatunji Ruwase</author>
+<author pid="22/6647">Evangelos Vlachos</author>
+<author pid="f/BabakFalsafi">Babak Falsafi</author>
+<author pid="09/5113">Vijaya Ramachandran</author>
+<title>Flexible Hardware Acceleration for Instruction-Grain Lifeguards.</title>
+<pages>62-72</pages>
+<year>2009</year>
+<volume>29</volume>
+<journal>IEEE Micro</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MM.2009.6</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MM.2009.6</ee>
+<url>db/journals/micro/micro29.html#ChenKGRSMRVFR09</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/Chen09" mdate="2018-11-06">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<title>FlashLogging: exploiting flash devices for synchronous logging performance.</title>
+<pages>73-86</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559855</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#Chen09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isca/ChenKSFGMRRRV08" mdate="2023-03-24">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="59/5000">Michael Kozuch</author>
+<author pid="15/5184">Theodoros Strigkos</author>
+<author pid="f/BabakFalsafi">Babak Falsafi</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<author pid="09/5113">Vijaya Ramachandran</author>
+<author pid="72/2838">Olatunji Ruwase</author>
+<author pid="11/5668">Michael P. Ryan</author>
+<author pid="22/6647">Evangelos Vlachos</author>
+<title>Flexible Hardware Acceleration for Instruction-Grain Program Monitoring.</title>
+<pages>377-388</pages>
+<year>2008</year>
+<booktitle>ISCA</booktitle>
+<ee>https://doi.org/10.1109/ISCA.2008.20</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCA.2008.20</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1382153</ee>
+<crossref>conf/isca/2008</crossref>
+<url>db/conf/isca/isca2008.html#ChenKSFGMRRRV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/BlellochCGRCK08" mdate="2012-12-07">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="05/3310">Rezaul Alam Chowdhury</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="09/5113">Vijaya Ramachandran</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="59/5000">Michael Kozuch</author>
+<title>Provably good multicore cache performance for divide-and-conquer algorithms.</title>
+<pages>501-510</pages>
+<year>2008</year>
+<booktitle>SODA</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1347082.1347137</ee>
+<crossref>conf/soda/2008</crossref>
+<url>db/conf/soda/soda2008.html#BlellochCGRCK08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/RuwaseGMRCKR08" mdate="2018-11-06">
+<author pid="72/2838">Olatunji Ruwase</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<author pid="09/5113">Vijaya Ramachandran</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="59/5000">Michael Kozuch</author>
+<author pid="11/5668">Michael P. Ryan</author>
+<title>Parallelizing dynamic information flow tracking.</title>
+<pages>35-45</pages>
+<year>2008</year>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/1378533.1378538</ee>
+<crossref>conf/spaa/2008</crossref>
+<url>db/conf/spaa/spaa2008.html#RuwaseGMRCKR08</url>
+</inproceedings>
+</r>
+<r><article key="journals/tods/ChenAGM07" mdate="2018-11-06">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="a/AnastassiaAilamaki">Anastassia Ailamaki</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Improving hash join performance through prefetching.</title>
+<pages>17</pages>
+<year>2007</year>
+<volume>32</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1272743.1272747</ee>
+<url>db/journals/tods/tods32.html#ChenAGM07</url>
+</article>
+</r>
+<r><inproceedings key="conf/spaa/ChenGKLABFFHMW07" mdate="2022-10-02">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="59/5000">Michael Kozuch</author>
+<author pid="49/5998">Vasileios Liaskovitis</author>
+<author pid="a/AnastassiaAilamaki">Anastassia Ailamaki</author>
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="f/BabakFalsafi">Babak Falsafi</author>
+<author pid="25/1812">Limor Fix</author>
+<author orcid="0000-0002-1137-8100" pid="h/NikolaosHardavellas">Nikos Hardavellas</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<author pid="99/769">Chris Wilkerson</author>
+<title>Scheduling threads for constructive cache sharing on CMPs.</title>
+<pages>105-115</pages>
+<year>2007</year>
+<crossref>conf/spaa/2007</crossref>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/1248377.1248396</ee>
+<url>db/conf/spaa/spaa2007.html#ChenGKLABFFHMW07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asplos/ChenFGKMTAFGLS06" mdate="2018-11-06">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="f/BabakFalsafi">Babak Falsafi</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="59/5000">Michael Kozuch</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<author pid="04/3074">Radu Teodorescu</author>
+<author pid="a/AnastassiaAilamaki">Anastassia Ailamaki</author>
+<author pid="25/1812">Limor Fix</author>
+<author pid="g/GregoryRGanger">Gregory R. Ganger</author>
+<author pid="11/1186-2">Bin Lin 0002</author>
+<author pid="52/1925">Steven W. Schlosser</author>
+<title>Log-based architectures for general-purpose monitoring of deployed code.</title>
+<pages>63-65</pages>
+<year>2006</year>
+<crossref>conf/asplos/2006asid</crossref>
+<booktitle>ASID</booktitle>
+<ee>https://doi.org/10.1145/1181309.1181319</ee>
+<url>db/conf/asplos/asid2006.html#ChenFGKMTAFGLS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/LiaskovitisCGABFFHKMW06" mdate="2018-11-06">
+<author pid="49/5998">Vasileios Liaskovitis</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="a/AnastassiaAilamaki">Anastassia Ailamaki</author>
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="f/BabakFalsafi">Babak Falsafi</author>
+<author pid="25/1812">Limor Fix</author>
+<author pid="h/NikolaosHardavellas">Nikos Hardavellas</author>
+<author pid="59/5000">Michael Kozuch</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<author pid="99/769">Chris Wilkerson</author>
+<title>Parallel depth first vs. work stealing schedulers on CMP architectures.</title>
+<pages>330</pages>
+<year>2006</year>
+<crossref>conf/spaa/2006</crossref>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/1148109.1148167</ee>
+<url>db/conf/spaa/spaa2006.html#LiaskovitisCGABFFHKMW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dcoss/ChenGN05" mdate="2022-10-02">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author orcid="0000-0001-7813-9756" pid="85/6293">Suman Nath</author>
+<title>Database-Centric Programming for Wide-Area Sensor Systems.</title>
+<pages>89-108</pages>
+<year>2005</year>
+<crossref>conf/dcoss/2005</crossref>
+<booktitle>DCOSS</booktitle>
+<ee>https://doi.org/10.1007/11502593_10</ee>
+<url>db/conf/dcoss/dcoss2005.html#ChenGN05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ChenAGM05" mdate="2020-03-12">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="a/AnastassiaAilamaki">Anastassia Ailamaki</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Inspector Joins.</title>
+<pages>817-828</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/archives/website/2005/program/paper/thu/p817-chen.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083687</ee>
+<url>db/conf/vldb/vldb2005.html#ChenAGM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChenAGM04" mdate="2023-03-24">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="a/AnastassiaAilamaki">Anastassia Ailamaki</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Improving Hash Join Performance through Prefetching.</title>
+<pages>116-127</pages>
+<year>2004</year>
+<crossref>conf/icde/2004</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2004.1319989</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2004.1319989</ee>
+<url>db/conf/icde/icde2004.html#ChenAGM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BargaCL04" mdate="2023-03-23">
+<author pid="b/RogerSBarga">Roger S. Barga</author>
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="l/DavidBLomet">David B. Lomet</author>
+<title>Improving Logging and Recovery Performance in Phoenix/App.</title>
+<pages>486-497</pages>
+<year>2004</year>
+<crossref>conf/icde/2004</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2004.1320021</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2004.1320021</ee>
+<url>db/conf/icde/icde2004.html#BargaCL04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChenGMV02" mdate="2018-11-06">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<author pid="73/4409">Gary Valentin</author>
+<title>Fractal prefetching B&#177;Trees: optimizing both cache and disk performance.</title>
+<pages>157-168</pages>
+<year>2002</year>
+<crossref>conf/sigmod/2002</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/564691.564710</ee>
+<url>db/conf/sigmod/sigmod2002.html#ChenGMV02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChenGM01" mdate="2021-03-12">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Improving Index Performance through Prefetching.</title>
+<pages>235-246</pages>
+<year>2001</year>
+<crossref>conf/sigmod/2001</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2001.html#ChenGM01</url>
+<ee>https://doi.org/10.1145/375663.375688</ee>
+<ee>https://doi.org/10.1145/376284.375688</ee>
+</inproceedings>
+</r>
+<coauthors n="202" nc="4">
+<co c="0"><na f="a/Ahn:Gail=Joon" pid="a/GailJoonAhn">Gail-Joon Ahn</na></co>
+<co c="0" n="2"><na f="a/Ailamaki:Anastasia" pid="a/AnastassiaAilamaki">Anastasia Ailamaki</na><na>Anastassia Ailamaki</na></co>
+<co c="0"><na f="a/Alahi:Alexandre" pid="48/3455">Alexandre Alahi</na></co>
+<co c="0"><na f="a/Athanassoulis:Manos" pid="82/7402">Manos Athanassoulis</na></co>
+<co c="0"><na f="a/Azatov:Mike" pid="330/3633">Mike Azatov</na></co>
+<co c="0"><na f="b/Bao:Shenghua" pid="31/529">Shenghua Bao</na></co>
+<co c="0"><na f="b/Barga:Roger_S=" pid="b/RogerSBarga">Roger S. Barga</na></co>
+<co c="0"><na f="b/Barnich:Olivier" pid="80/1760">Olivier Barnich</na></co>
+<co c="0"><na f="b/Blelloch:Guy_E=" pid="b/GEBlelloch">Guy E. Blelloch</na></co>
+<co c="0"><na f="b/Boiarov:Andrei" pid="247/9276">Andrei Boiarov</na></co>
+<co c="0" n="2"><na f="b/Brito_0001:Jos=eacute=" pid="128/7924">Jos&#233; Brito 0001</na><na>Jos&#233; Henrique Brito</na></co>
+<co c="0"><na f="c/Cao:Zhao" pid="69/8078">Zhao Cao</na></co>
+<co c="0"><na f="c/Castellanos:Mal=uacute=" pid="04/4211">Mal&#250; Castellanos</na></co>
+<co c="0"><na f="c/Chan:Cheuk=Yiu" pid="330/3351">Cheuk-Yiu Chan</na></co>
+<co c="0"><na f="c/Chan:H=_Anthony" pid="33/3977">H. Anthony Chan</na></co>
+<co c="0"><na f="c/Chan:Sin=wai" pid="330/3682">Sin-wai Chan</na></co>
+<co c="0"><na f="c/Chandramouli:Badrish" pid="01/2861">Badrish Chandramouli</na></co>
+<co c="0"><na f="c/Chen:Chen" pid="65/4423">Chen Chen</na></co>
+<co c="0"><na f="c/Chen_0114:Chen" pid="65/4423-114">Chen Chen 0114</na></co>
+<co c="0"><na f="c/Chen_0001:Jia" pid="99/6879-1">Jia Chen 0001</na></co>
+<co c="0"><na f="c/Chen:Jin" pid="03/5287">Jin Chen</na></co>
+<co c="0"><na f="c/Chen:Kang" pid="91/6670">Kang Chen</na></co>
+<co c="0"><na f="c/Chen:Leying" pid="287/9977">Leying Chen</na></co>
+<co c="0"><na f="c/Chen:Lijiang" pid="76/3584">Lijiang Chen</na></co>
+<co c="0"><na f="c/Chen:Lingchi" pid="228/8994">Lingchi Chen</na></co>
+<co c="0"><na f="c/Chen:Siyu" pid="23/7930">Siyu Chen</na></co>
+<co c="0"><na f="c/Chen:Wenguang" pid="60/810">Wenguang Chen</na></co>
+<co c="0"><na f="c/Chen_0052:Yu" pid="87/1254-52">Yu Chen 0052</na></co>
+<co c="0"><na f="c/Chowdhury:Rezaul_Alam" pid="05/3310">Rezaul Alam Chowdhury</na></co>
+<co c="0"><na f="c/Chrysanthis:Panos_K=" pid="c/PKChrysanthis">Panos K. Chrysanthis</na></co>
+<co c="0"><na f="c/Chu:Jiaming" pid="294/3974">Jiaming Chu</na></co>
+<co c="0"><na f="c/Cioppa:Anthony" pid="222/2684">Anthony Cioppa</na></co>
+<co c="0"><na f="c/Clap=eacute=s:Albert" pid="116/4644">Albert Clap&#233;s</na></co>
+<co c="0"><na f="c/Comandur:Bharath" pid="180/9973">Bharath Comandur</na></co>
+<co c="0"><na f="c/Corte:Jorge_De" pid="330/2812">Jorge De Corte</na></co>
+<co c="0"><na f="c/Costa:Constantinos" pid="116/0694">Constantinos Costa</na></co>
+<co c="0"><na f="d/Da:Fang" pid="131/6851">Fang Da</na></co>
+<co c="0"><na f="d/Darwish:Abdulrahman" pid="330/2756">Abdulrahman Darwish</na></co>
+<co c="0"><na f="d/Daudjee:Khuzaima" pid="d/KhuzaimaDaudjee">Khuzaima Daudjee</na></co>
+<co c="0"><na f="d/Debien:Ruben" pid="330/3292">Ruben Debien</na></co>
+<co c="0"><na f="d/Deli=egrave=ge:Adrien" pid="222/2767">Adrien Deli&#232;ge</na></co>
+<co c="0"><na f="d/Ding:Mengsu" pid="239/6042">Mengsu Ding</na></co>
+<co c="0"><na f="d/Ding:Shouhong" pid="119/6735">Shouhong Ding</na></co>
+<co c="0"><na f="d/Droogenbroeck:Marc_Van" pid="83/4730">Marc Van Droogenbroeck</na></co>
+<co c="0" n="2"><na f="e/Elshabrawy:Tallal" pid="15/1848">Tallal Elshabrawy</na><na>Tallal El Shabrawy</na></co>
+<co c="0"><na f="e/Escalera:Sergio" pid="77/5527">Sergio Escalera</na></co>
+<co c="0"><na f="e/Ewerth:Ralph" pid="45/52">Ralph Ewerth</na></co>
+<co c="0"><na f="f/Falsafi:Babak" pid="f/BabakFalsafi">Babak Falsafi</na></co>
+<co c="0"><na f="f/Fan:Baoyu" pid="218/2727">Baoyu Fan</na></co>
+<co c="0"><na f="f/Fang_0001:Hui" pid="03/2511-1">Hui Fang 0001</na></co>
+<co c="0"><na f="f/Feng:Jianhua" pid="43/6576">Jianhua Feng</na></co>
+<co c="0"><na f="f/Fix:Limor" pid="25/1812">Limor Fix</na></co>
+<co c="0"><na f="g/Gade:Rikke" pid="60/11432">Rikke Gade</na></co>
+<co c="0"><na f="g/Ganger:Gregory_R=" pid="g/GregoryRGanger">Gregory R. Ganger</na></co>
+<co c="0"><na f="g/Geng:Yifeng" pid="45/10331">Yifeng Geng</na></co>
+<co c="0"><na f="g/Ghanem:Bernard" pid="37/2516">Bernard Ghanem</na></co>
+<co c="0"><na f="g/Giancola:Silvio" pid="173/3571">Silvio Giancola</na></co>
+<co c="0"><na f="g/Gibbons:Phillip_B=" pid="g/PhillipBGibbons">Phillip B. Gibbons</na></co>
+<co c="0"><na f="g/Gong:Xiaorui" pid="33/10782">Xiaorui Gong</na></co>
+<co c="0"><na f="g/Goodstein:Michelle_L=" pid="45/7934">Michelle L. Goodstein</na></co>
+<co c="0"><na f="g/Gu:Jianyang" pid="241/7332">Jianyang Gu</na></co>
+<co c="0"><na f="g/Guo:Yandong" pid="28/4272">Yandong Guo</na></co>
+<co c="0"><na f="g/Guo_0003:Zhenhua" pid="41/294-3">Zhenhua Guo 0003</na></co>
+<co c="0"><na f="h/Han:Wentao" pid="10/8243">Wentao Han</na></co>
+<co c="0"><na f="h/Han:Yujing" pid="31/10872">Yujing Han</na></co>
+<co c="0"><na f="h/Hardavellas:Nikos" pid="h/NikolaosHardavellas">Nikos Hardavellas</na></co>
+<co c="0"><na f="h/Harizopoulos:Stavros" pid="38/6308">Stavros Harizopoulos</na></co>
+<co c="0"><na f="h/He:Tao" pid="94/5035">Tao He</na></co>
+<co c="0"><na f="h/He:Yue" pid="51/6071">Yue He</na></co>
+<co c="0"><na f="h/Herodotou:Herodotos" pid="26/5170">Herodotos Herodotou</na></co>
+<co c="0"><na f="h/Hou:Huiman" pid="75/8573">Huiman Hou</na></co>
+<co c="0"><na f="h/Hsu:Meichun" pid="40/4895">Meichun Hsu</na></co>
+<co c="0"><na f="h/Hu:Hongxin" pid="02/2870">Hongxin Hu</na></co>
+<co c="0"><na f="h/Hu:Jianming" pid="69/4427">Jianming Hu</na></co>
+<co c="-1"><na f="h/Huang:Zichun" pid="275/0053">Zichun Huang</na></co>
+<co c="0"><na f="h/Hui:Chun_Chuen" pid="330/3800">Chun Chuen Hui</na></co>
+<co c="0"><na f="j/Jia:Qiong" pid="66/3090">Qiong Jia</na></co>
+<co c="0"><na f="j/Jiang_0002:Peng" pid="273/6545">Peng Jiang 0002</na></co>
+<co c="0"><na f="j/Jiang_0006:Shan" pid="04/2910-6">Shan Jiang 0006</na></co>
+<co c="0"><na f="j/Jin:Qin" pid="47/2670">Qin Jin</na></co>
+<co c="0"><na f="j/Johnson_0001:Ryan" pid="98/3414-1">Ryan Johnson 0001</na></co>
+<co c="0"><na f="k/Kan:Hongwei" pid="277/1885">Hongwei Kan</na></co>
+<co c="0"><na f="k/Kang:Hongbo" pid="66/10178">Hongbo Kang</na></co>
+<co c="0"><na f="k/Kang:Le" pid="26/4180">Le Kang</na></co>
+<co c="0"><na f="k/Kasatkin:Nikita" pid="330/3677">Nikita Kasatkin</na></co>
+<co c="0" n="2"><na f="k/Kozuch:Michael_A=" pid="59/5000">Michael A. Kozuch</na><na>Michael Kozuch</na></co>
+<co c="0"><na f="l/Labrinidis:Alexandros" pid="l/ALabrinidis">Alexandros Labrinidis</na></co>
+<co c="1"><na f="l/Lee_0001:Leon" pid="14/1395-16">Leon Lee 0001</na></co>
+<co c="0"><na f="l/Lee:Sangrok" pid="56/6112">Sangrok Lee</na></co>
+<co c="0"><na f="l/Li_0001:Chengkai" pid="14/3692">Chengkai Li 0001</na></co>
+<co c="0"><na f="l/Li:Dengjie" pid="303/5073">Dengjie Li</na></co>
+<co c="0"><na f="l/Li_0001:Feifei" pid="l/FeifeiLi">Feifei Li 0001</na></co>
+<co c="0"><na f="l/Li:Junjie" pid="83/5144">Junjie Li</na></co>
+<co c="0"><na f="l/Li:Kaiwei" pid="60/2811">Kaiwei Li</na></co>
+<co c="0" n="2"><na f="l/Li:RenGang" pid="262/1327">RenGang Li</na><na>Rengang Li</na></co>
+<co c="0"><na f="l/Li:Wei" pid="64/6025">Wei Li</na></co>
+<co c="0"><na f="l/Li_0012:Wei" pid="64/6025-12">Wei Li 0012</na></co>
+<co c="0"><na f="l/Li:Xiaochuan" pid="10/8076">Xiaochuan Li</na></co>
+<co c="0"><na f="l/Li:Yingying" pid="63/5869">Yingying Li</na></co>
+<co c="0"><na f="l/Li_0001:Zhiheng" pid="89/6935-1">Zhiheng Li 0001</na></co>
+<co c="0"><na f="l/Liang:Fan" pid="19/7748">Fan Liang</na></co>
+<co c="0"><na f="l/Liang_0006:Junwei" pid="62/10704-6">Junwei Liang 0006</na></co>
+<co c="0"><na f="l/Liaskovitis:Vasileios" pid="49/5998">Vasileios Liaskovitis</na></co>
+<co c="0"><na f="l/Lin_0002:Bin" pid="11/1186-2">Bin Lin 0002</na></co>
+<co c="0"><na f="l/Lin:Chengzhi" pid="195/4866">Chengzhi Lin</na></co>
+<co c="0"><na f="l/Liu:Gang" pid="37/2109">Gang Liu</na></co>
+<co c="3"><na f="l/Liu:Jihang" pid="244/1583">Jihang Liu</na></co>
+<co c="0"><na f="l/Liu:Mengxing" pid="198/2565">Mengxing Liu</na></co>
+<co c="0"><na f="l/Liu:Xing" pid="87/3144">Xing Liu</na></co>
+<co c="-1"><na f="l/Liu:Zhuoxuan" pid="234/9416">Zhuoxuan Liu</na></co>
+<co c="0"><na f="l/Lomet:David_B=" pid="l/DavidBLomet">David B. Lomet</na></co>
+<co c="0"><na f="l/Luo_0001:Qiong" pid="l/QiongLuo">Qiong Luo 0001</na></co>
+<co c="0"><na f="l/Luyts:Andreas" pid="330/3431">Andreas Luyts</na></co>
+<co c="0"><na f="m/Ma:Dongzhe" pid="82/9726">Dongzhe Ma</na></co>
+<co c="0"><na f="m/Ma_0002:Lin" pid="74/3608-2">Lin Ma 0002</na></co>
+<co c="0"><na f="m/Ma:Shaonan" pid="291/2449">Shaonan Ma</na></co>
+<co c="1"><na f="m/Ma:Yunus" pid="322/1501">Yunus Ma</na></co>
+<co c="0"><na f="m/Magera:Floriane" pid="290/7333">Floriane Magera</na></co>
+<co c="0"><na f="m/Maglo:Adrien" pid="44/8313">Adrien Maglo</na></co>
+<co c="0"><na f="m/Makrynioti:Nantia" pid="166/5158">Nantia Makrynioti</na></co>
+<co c="0"><na f="m/Manegold:Stefan" pid="m/StefanManegold">Stefan Manegold</na></co>
+<co c="0"><na f="m/Marques:Miguel_Santos" pid="330/2386">Miguel Santos Marques</na></co>
+<co c="0"><na f="m/Masui:Shoichi" pid="28/3193">Shoichi Masui</na></co>
+<co c="0"><na f="m/Meng_0001:Xiaofeng" pid="m/XiaofengMeng-1">Xiaofeng Meng 0001</na></co>
+<co c="0"><na f="m/Moeslund:Thomas_B=" pid="12/6781">Thomas B. Moeslund</na></co>
+<co c="0"><na f="m/Mowry:Todd_C=" pid="65/4120">Todd C. Mowry</na></co>
+<co c="0"><na f="n/Nath:Suman" pid="85/6293">Suman Nath</na></co>
+<co c="2"><na f="n/Niu:Songjie" pid="164/1416">Songjie Niu</na></co>
+<co c="0"><na f="o/Odashima:Shigeyuki" pid="68/10008">Shigeyuki Odashima</na></co>
+<co c="0"><na f="o/Orcesi:Astrid" pid="202/5038">Astrid Orcesi</na></co>
+<co c="0"><na f="p/Pandis:Ippokratis" pid="p/IppokratisPandis">Ippokratis Pandis</na></co>
+<co c="0" n="2"><na f="p/Pham:Quoc_Cuong" pid="72/5867">Quoc Cuong Pham</na><na>Quoc-Cuong Pham</na></co>
+<co c="0"><na f="r/Ramachandran:Vijaya" pid="09/5113">Vijaya Ramachandran</na></co>
+<co c="0"><na f="r/Ruwase:Olatunji" pid="72/2838">Olatunji Ruwase</na></co>
+<co c="0"><na f="r/Ryan:Michael_P=" pid="11/5668">Michael P. Ryan</na></co>
+<co c="0"><na f="s/Sadoghi:Mohammad" pid="56/7016">Mohammad Sadoghi</na></co>
+<co c="0"><na f="s/Schlosser:Steven_W=" pid="52/1925">Steven W. Schlosser</na></co>
+<co c="0"><na f="s/Shah:Avijit" pid="206/3208">Avijit Shah</na></co>
+<co c="0"><na f="s/Shen:Leqi" pid="323/9555">Leqi Shen</na></co>
+<co c="0"><na f="s/Siu:Wan=Chi" pid="61/5203">Wan-Chi Siu</na></co>
+<co c="0"><na f="s/Snyder:Sean_M=" pid="83/9733">Sean M. Snyder</na></co>
+<co c="0"><na f="s/Soares:Jo=atilde=o_V=_B=" pid="10/594">Jo&#227;o V. B. Soares</na></co>
+<co c="0"><na f="s/Somers:Vladimir" pid="326/8810">Vladimir Somers</na></co>
+<co c="0"><na f="s/Song:Dongxiao" pid="181/9130">Dongxiao Song</na></co>
+<co c="0"><na f="s/Song:Ran" pid="10/8738">Ran Song</na></co>
+<co c="0"><na f="s/Stoica:Radu" pid="84/2124">Radu Stoica</na></co>
+<co c="0"><na f="s/Strigkos:Theodoros" pid="15/5184">Theodoros Strigkos</na></co>
+<co c="0"><na f="s/Su:Zhong" pid="87/1363">Zhong Su</na></co>
+<co c="0"><na f="t/Tan_0001:Xiao" pid="116/7143-1">Xiao Tan 0001</na></co>
+<co c="0"><na f="t/Tao:Xunqiang" pid="20/7012">Xunqiang Tao</na></co>
+<co c="0"><na f="t/Teodorescu:Radu" pid="04/3074">Radu Teodorescu</na></co>
+<co c="0"><na f="t/Theiner:Jonas" pid="249/9358">Jonas Theiner</na></co>
+<co c="0"><na f="v/Valentin:Gary" pid="73/4409">Gary Valentin</na></co>
+<co c="0"><na f="v/Vlachos:Evangelos" pid="22/6647">Evangelos Vlachos</na></co>
+<co c="0"><na f="v/Vleeschouwer:Christophe_De" pid="57/3965">Christophe De Vleeschouwer</na></co>
+<co c="0"><na f="w/Wang:Guanshuo" pid="218/5173">Guanshuo Wang</na></co>
+<co c="0"><na f="w/Wang_0007:Jin" pid="92/1375-7">Jin Wang 0007</na></co>
+<co c="3"><na f="w/Wang:Lujun" pid="119/1240">Lujun Wang</na></co>
+<co c="0"><na f="w/Wang:Min" pid="181/2695">Min Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Min" pid="w/MinWang">Min Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Ning" pid="46/2005">Ning Wang</na></co>
+<co c="0"><na f="w/Wang:Qiang" pid="64/5630">Qiang Wang</na></co>
+<co c="0"><na f="w/Wang:Xiangwei" pid="163/4080">Xiangwei Wang</na></co>
+<co c="0"><na f="w/Wang:Xiaoyang_Sean" pid="w/XiaoyangSeanWang">Xiaoyang Sean Wang</na></co>
+<co c="0"><na f="w/Wang:Xinying" pid="06/3244">Xinying Wang</na></co>
+<co c="2"><na f="w/Wang:Zhiyi" pid="66/7776">Zhiyi Wang</na></co>
+<co c="0"><na f="w/Wei:Xiaolin" pid="155/5599">Xiaolin Wei</na></co>
+<co c="0"><na f="w/Wilkerson:Chris" pid="99/769">Chris Wilkerson</na></co>
+<co c="0"><na f="w/Wu:Jiacheng" pid="141/3659">Jiacheng Wu</na></co>
+<co c="0"><na f="w/Wu:Ryan" pid="68/6480">Ryan Wu</na></co>
+<co c="0"><na f="w/Wu:Yingjun" pid="07/11533">Yingjun Wu</na></co>
+<co c="0"><na f="w/Wu:Yongwei" pid="38/880">Yongwei Wu</na></co>
+<co c="0"><na f="x/Xarles:Artur" pid="330/3002">Artur Xarles</na></co>
+<co c="1"><na f="x/Xie:Siphrey" pid="322/1423">Siphrey Xie</na></co>
+<co c="0"><na f="x/Xing:Chunxiao" pid="x/ChunxiaoXing">Chunxiao Xing</na></co>
+<co c="0"><na f="y/Yan:Feng" pid="62/3960">Feng Yan</na></co>
+<co c="0"><na f="y/Yang:Fan" pid="29/3081">Fan Yang</na></co>
+<co c="0"><na f="y/Yang:Guangwen" pid="67/3001">Guangwen Yang</na></co>
+<co c="0"><na f="y/Yang:Muqiao" pid="239/6073">Muqiao Yang</na></co>
+<co c="-1"><na f="y/Yang:Zehai" pid="363/8064">Zehai Yang</na></co>
+<co c="0"><na f="y/Yao:Conglei" pid="11/3083">Conglei Yao</na></co>
+<co c="0"><na f="y/Ye:Xiaoqing" pid="177/0181">Xiaoqing Ye</na></co>
+<co c="0"><na f="y/Yu:Fufu" pid="274/2282">Fufu Yu</na></co>
+<co c="0"><na f="y/Yu_0001:Ge" pid="49/6363">Ge Yu 0001</na></co>
+<co c="0"><na f="y/Yu_0001:Yi" pid="99/111-1">Yi Yu 0001</na></co>
+<co c="0"><na f="y/Yu_0001:Yong" pid="43/5685-1">Yong Yu 0001</na></co>
+<co c="0"><na f="z/Zhang:Chen" pid="94/4084">Chen Zhang</na></co>
+<co c="0"><na f="z/Zhang:Jun" pid="29/4190">Jun Zhang</na></co>
+<co c="0"><na f="z/Zhang:Runze" pid="144/1374">Runze Zhang</na></co>
+<co c="0"><na f="z/Zhang_0021:Wei" pid="10/4661-21">Wei Zhang 0021</na></co>
+<co c="0"><na f="z/Zhang:Yanfeng" pid="66/2444">Yanfeng Zhang</na></co>
+<co c="0"><na f="z/Zhang_0002:Yong" pid="66/4615-2">Yong Zhang 0002</na></co>
+<co c="0"><na f="z/Zhao_0002:Chen" pid="81/3-2">Chen Zhao 0002</na></co>
+<co c="0"><na f="z/Zhao:Yaqian" pid="171/5841">Yaqian Zhao</na></co>
+<co c="0"><na f="z/Zhao:Yibing" pid="49/7820">Yibing Zhao</na></co>
+<co c="0"><na f="z/Zheng:Weimin" pid="45/6990">Weimin Zheng</na></co>
+<co c="0"><na f="z/Zhong:Yujie" pid="198/2504">Yujie Zhong</na></co>
+<co c="2"><na f="z/Zhou:Dongyan" pid="204/3834">Dongyan Zhou</na></co>
+<co c="0"><na f="z/Zhou:Xin" pid="05/3403">Xin Zhou</na></co>
+<co c="0"><na f="z/Zhu:He" pid="59/2802">He Zhu</na></co>
+<co c="0"><na f="z/Zhu:Jianglang" pid="291/3177">Jianglang Zhu</na></co>
+<co c="0"><na f="z/Zhu_0010:Yan" pid="82/3167-10">Yan Zhu 0010</na></co>
+</coauthors>
+</dblpperson>

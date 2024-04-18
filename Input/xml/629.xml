@@ -1,0 +1,737 @@
+<dblpperson name="Odysseas Papapetrou" pid="p/OdysseasPapapetrou" n="48">
+<person key="homepages/p/OdysseasPapapetrou" mdate="2022-02-15">
+<author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<note type="affiliation">Eindhoven University of Technology, The Netherlands</note>
+<note type="affiliation" label="former">L3S Research Center, Hanover, Germany</note>
+<url>https://research.tue.nl/en/persons/odysseas-papapetrou</url>
+<url>https://dl.acm.org/profile/81100405577</url>
+<url>https://orcid.org/0000-0003-0045-1648</url>
+</person>
+<r><article key="journals/vldb/dHondtMP24" mdate="2024-03-16">
+<author orcid="0000-0001-9069-0591" pid="252/7565">Jens E. d'Hondt</author>
+<author pid="318/0581">Koen Minartz</author>
+<author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<title>Efficient detection of multivariate correlations with different correlation measures.</title>
+<pages>481-505</pages>
+<year>2024</year>
+<volume>33</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s00778-023-00815-y</ee>
+<url>db/journals/vldb/vldb33.html#dHondtMP24</url>
+</article>
+</r>
+<r><article key="journals/pvldb/PunterPG23" mdate="2024-03-26">
+<author pid="356/6974">Wieger R. Punter</author>
+<author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>OmniSketch: Efficient Multi-Dimensional High-Velocity Stream Analytics with Arbitrary Predicates.</title>
+<pages>319-331</pages>
+<year>2023</year>
+<month>November</month>
+<volume>17</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol17/p319-punter.pdf</ee>
+<url>db/journals/pvldb/pvldb17.html#PunterPG23</url>
+</article>
+</r>
+<r><inproceedings key="conf/debs/SiachamisPFPDK23" mdate="2023-07-07">
+<author orcid="0000-0002-4618-2028" pid="276/5371">George Siachamis</author>
+<author orcid="0000-0002-3017-5704" pid="254/2650">Kyriakos Psarakis</author>
+<author orcid="0000-0002-0160-0855" pid="146/7861">Marios Fragkoulis</author>
+<author orcid="0000-0003-0477-4399" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author orcid="0000-0003-4850-3312" pid="d/ArievanDeursen">Arie van Deursen</author>
+<author orcid="0000-0002-6717-2945" pid="64/7497">Asterios Katsifodimos</author>
+<title>Adaptive Distributed Streaming Similarity Joins.</title>
+<pages>25-36</pages>
+<year>2023</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/3583678.3596891</ee>
+<crossref>conf/debs/2023</crossref>
+<url>db/conf/debs/debs2023.html#SiachamisPFPDK23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-06051" mdate="2023-09-15">
+<author pid="356/6974">Wieger R. Punter</author>
+<author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>OmniSketch: Efficient Multi-Dimensional High-Velocity Stream Analytics with Arbitrary Predicates.</title>
+<year>2023</year>
+<volume>abs/2309.06051</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.06051</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-06051</url>
+</article>
+</r>
+<r><article key="journals/pvldb/MinartzdP22" mdate="2023-10-28">
+<author pid="318/0581">Koen Minartz</author>
+<author orcid="0000-0001-9069-0591" pid="252/7565">Jens E. d'Hondt</author>
+<author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<title>Multivariate correlations discovery in static and streaming data.</title>
+<pages>1266-1278</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol15/p1266-papapetrou.pdf</ee>
+<ee>https://doi.org/10.14778/3514061.3514072</ee>
+<url>db/journals/pvldb/pvldb15.html#MinartzdP22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/Zeakis0SPK22" mdate="2023-10-28">
+<author orcid="0000-0001-5336-8157" pid="273/7006">Alexandros Zeakis</author>
+<author orcid="0000-0002-6118-5227" pid="s/DimitriosSkoutas">Dimitrios Skoutas 0001</author>
+<author pid="19/4428">Dimitris Sacharidis</author>
+<author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="40/4517">Manolis Koubarakis</author>
+<title>TokenJoin: Efficient Filtering for Set Similarity Join with Maximum Weighted Bipartite Matching.</title>
+<pages>790-802</pages>
+<year>2022</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p790-skoutas.pdf</ee>
+<ee>https://doi.org/10.14778/3574245.3574263</ee>
+<url>db/journals/pvldb/pvldb16.html#Zeakis0SPK22</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/ShahrivariPF22" mdate="2023-08-18">
+<author pid="261/1922">Hamid Shahrivari</author>
+<author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="f/GeorgeHLFletcher">George Fletcher 0001</author>
+<title>Workload Prediction for Adaptive Approximate Query Processing.</title>
+<pages>217-222</pages>
+<year>2022</year>
+<booktitle>IEEE Big Data</booktitle>
+<ee>https://doi.org/10.1109/BigData55660.2022.10020614</ee>
+<crossref>conf/bigdataconf/2022</crossref>
+<url>db/conf/bigdataconf/bigdataconf2022.html#ShahrivariPF22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/WildenbergNP21" mdate="2023-03-10">
+<author pid="290/0579">Ylaise van den Wildenberg</author>
+<author pid="290/0008">Wouter W. L. Nuijten</author>
+<author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<title>Easy Spark.</title>
+<year>2021</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2841/SIMPLIFY_7.pdf</ee>
+<crossref>conf/edbt/2021w</crossref>
+<url>db/conf/edbt/edbt2021w.html#WildenbergNP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/ShahrivariOPSA20" mdate="2022-02-21">
+<author pid="261/1922">Hamid Shahrivari</author>
+<author pid="147/1263">Matthaios Olma</author>
+<author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author orcid="0000-0002-6118-5227" pid="s/DimitriosSkoutas">Dimitrios Skoutas 0001</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>A Parallel and Distributed Approach for Diversified Top-k Best Region Search.</title>
+<pages>265-276</pages>
+<year>2020</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2020.24</ee>
+<crossref>conf/edbt/2020</crossref>
+<url>db/conf/edbt/edbt2020.html#ShahrivariOPSA20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/0001PPDG19" mdate="2022-12-07">
+<author pid="75/6117-1">Grigorios Chrysos 0001</author>
+<author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author orcid="0000-0003-3533-2761" pid="04/3696">Dionisios N. Pnevmatikatos</author>
+<author pid="72/5409">Apostolos Dollas</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Data Stream Statistics Over Sliding Windows: How to Summarize 150 Million Updates Per Second on a Single Node.</title>
+<pages>278-285</pages>
+<year>2019</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2019.00052</ee>
+<crossref>conf/fpl/2019</crossref>
+<url>db/conf/fpl/fpl2019.html#0001PPDG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/OlmaPAA19" mdate="2020-10-25">
+<author pid="147/1263">Matthaios Olma</author>
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author orcid="0000-0001-5887-4091" pid="57/1978">Raja Appuswamy</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Taster: Self-Tuning, Elastic and Online Approximate Query Processing.</title>
+<pages>482-493</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00050</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#OlmaPAA19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/ZhuFYPW19" mdate="2021-11-15">
+<author pid="56/7058">Kaijie Zhu</author>
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<author pid="92/9686">Nikolay Yakovets</author>
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="20/473">Yuqing Wu</author>
+<title>Scalable temporal clique enumeration.</title>
+<pages>120-129</pages>
+<year>2019</year>
+<booktitle>SSTD</booktitle>
+<ee>https://doi.org/10.1145/3340964.3340987</ee>
+<crossref>conf/ssd/2019</crossref>
+<url>db/conf/ssd/sstd2019.html#ZhuFYPW19</url>
+</inproceedings>
+</r>
+<r><article key="journals/dpd/PapapetrouG18" mdate="2020-10-26">
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Monitoring distributed fragmented skylines.</title>
+<pages>675-715</pages>
+<year>2018</year>
+<volume>36</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10619-018-7223-7</ee>
+<url>db/journals/dpd/dpd36.html#PapapetrouG18</url>
+</article>
+</r>
+<r><article key="journals/tods/DemertzisPPDGP18" mdate="2020-10-26">
+<author pid="181/5758">Ioannis Demertzis</author>
+<author pid="82/75">Stavros Papadopoulos 0001</author>
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="p/CharalamposPapamanthou">Charalampos Papamanthou</author>
+<title>Practical Private Range Search in Depth.</title>
+<pages>2:1-2:52</pages>
+<year>2018</year>
+<volume>43</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3167971</ee>
+<url>db/journals/tods/tods43.html#DemertzisPPDGP18</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/DemertzisPPDG16" mdate="2020-10-25">
+<author pid="181/5758">Ioannis Demertzis</author>
+<author pid="82/75">Stavros Papadopoulos 0001</author>
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Practical Private Range Search Revisited.</title>
+<pages>185-198</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2882911</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#DemertzisPPDG16</url>
+</inproceedings>
+</r>
+<r><article key="journals/ppna/PapapetrouSS15" mdate="2021-10-04">
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="s/WolfSiberski">Wolf Siberski</author>
+<author pid="s/StefanSiersdorfer">Stefan Siersdorfer</author>
+<title>Efficient model sharing for scalable collaborative classification.</title>
+<pages>384-398</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Peer-to-Peer Netw. Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s12083-014-0259-1</ee>
+<url>db/journals/ppna/ppna8.html#PapapetrouSS15</url>
+</article>
+</r>
+<r><article key="journals/vldb/PapapetrouGD15" mdate="2020-10-26">
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<title>Sketching distributed sliding-window data streams.</title>
+<pages>345-368</pages>
+<year>2015</year>
+<volume>24</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00778-015-0380-7</ee>
+<url>db/journals/vldb/vldb24.html#PapapetrouGD15</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/PapapetrouG14" mdate="2023-03-23">
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Continuous fragmented skylines over distributed streams.</title>
+<pages>124-135</pages>
+<year>2014</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2014.6816645</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2014.6816645</ee>
+<crossref>conf/icde/2014</crossref>
+<url>db/conf/icde/icde2014.html#PapapetrouG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/ZerrPD14" mdate="2023-03-10">
+<author pid="72/4968">Sergej Zerr</author>
+<author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="84/2154">Elena Demidova</author>
+<title>HEALTH+Z: Confidential Provider Selection in Collaborative Healthcare P2P Networks.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>PIR@SIGIR</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1225/pir2014_submission_5.pdf</ee>
+<crossref>conf/sigir/2014pir</crossref>
+<url>db/conf/sigir/pir2014.html#ZerrPD14</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/ChristodoulakisGPDSIPS13" mdate="2022-01-03">
+<author orcid="0000-0003-4786-0924" pid="66/2056">Stavros Christodoulakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author orcid="0000-0001-7436-5852" pid="91/2869">Euripides G. M. Petrakis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="17/5839">Vasilis Samoladas</author>
+<author orcid="0000-0002-4922-6639" pid="68/3366">Ekaterini Ioannou</author>
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="17/7550">Stelios Sotiriadis</author>
+<title>Data management research at the technical university of crete.</title>
+<pages>61-66</pages>
+<year>2013</year>
+<volume>42</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2590989.2590999</ee>
+<url>db/journals/sigmod/sigmod42.html#ChristodoulakisGPDSIPS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/vldb/KoppMPM13" mdate="2023-03-10">
+<author pid="123/7492">Christine Kopp</author>
+<author pid="64/5523">Michael Mock</author>
+<author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="23/6304-1">Michael May 0001</author>
+<title>Large-scale Online Mobility Monitoring with Exponential Histograms.</title>
+<pages>61-66</pages>
+<year>2013</year>
+<booktitle>BD3@VLDB</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1018/paper8.pdf</ee>
+<crossref>conf/vldb/2013bd3</crossref>
+<url>db/conf/vldb/bd32013.html#KoppMPM13</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/PapapetrouGD12" mdate="2020-10-26">
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<title>Sketch-based Querying of Distributed Sliding-Window Data Streams.</title>
+<pages>992-1003</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p992_odysseaspapapetrou_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2336664.2336672</ee>
+<url>db/journals/pvldb/pvldb5.html#PapapetrouGD12</url>
+</article>
+</r>
+<r><article key="journals/tkde/PapapetrouSF12" mdate="2020-10-26">
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="s/WolfSiberski">Wolf Siberski</author>
+<author pid="f/NFuhr">Norbert Fuhr</author>
+<title>Decentralized Probabilistic Text Clustering.</title>
+<pages>1848-1861</pages>
+<year>2012</year>
+<volume>24</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TKDE.2011.120</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2011.120</ee>
+<url>db/journals/tkde/tkde24.html#PapapetrouSF12</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1207-0139" mdate="2018-08-13">
+<author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<title>Sketch-based Querying of Distributed Sliding-Window Data Streams</title>
+<ee type="oa">http://arxiv.org/abs/1207.0139</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1207.0139</volume>
+<url>db/journals/corr/corr1207.html#abs-1207-0139</url>
+</article>
+</r>
+<r><phdthesis key="phd/de/Papapetrou2011" mdate="2021-07-17">
+<author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<title>Approximate algorithms for efficient indexing, clustering, and classification in Peer-to-peer networks.</title>
+<year>2011</year>
+<school>University of Hanover</school>
+<ee type="oa">http://edok01.tib.uni-hannover.de/edoks/e01dh11/657022330.pdf</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:gbv:089-6570223301</ee>
+<ee>https://d-nb.info/1012727882</ee>
+<ee>https://d-nb.info/1013287142</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/dasfaa/PapapetrouC11" mdate="2020-10-25">
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="17/1237">Ling Chen</author>
+<title>XStreamCluster: An Efficient Algorithm for Streaming XML Data Clustering.</title>
+<pages>496-510</pages>
+<year>2011</year>
+<booktitle>DASFAA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-20149-3_36</ee>
+<crossref>conf/dasfaa/2011-1</crossref>
+<url>db/conf/dasfaa/dasfaa2011-1.html#PapapetrouC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/PapapetrouIS11" mdate="2022-02-21">
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author orcid="0000-0002-4922-6639" pid="68/3366">Ekaterini Ioannou</author>
+<author orcid="0000-0002-6118-5227" pid="s/DimitriosSkoutas">Dimitrios Skoutas 0001</author>
+<title>Efficient discovery of frequent subgraph patterns in uncertain graph databases.</title>
+<pages>355-366</pages>
+<year>2011</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1951365.1951408</ee>
+<crossref>conf/edbt/2011</crossref>
+<url>db/conf/edbt/edbt2011.html#PapapetrouIS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/PapapetrouSS11" mdate="2020-10-25">
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="s/WolfSiberski">Wolf Siberski</author>
+<author pid="s/StefanSiersdorfer">Stefan Siersdorfer</author>
+<title>Collaborative classification over P2P networks.</title>
+<pages>97-98</pages>
+<year>2011</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/1963192.1963242</ee>
+<crossref>conf/www/2011c</crossref>
+<url>db/conf/www/www2011c.html#PapapetrouSS11</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/PapapetrouSN10" mdate="2022-04-09">
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="s/WolfSiberski">Wolf Siberski</author>
+<author orcid="0000-0003-3374-2193" pid="n/WolfgangNejdl">Wolfgang Nejdl</author>
+<title>PCIR: Combining DHTs and peer clusters for efficient full-text P2P indexing.</title>
+<pages>2019-2040</pages>
+<year>2010</year>
+<volume>54</volume>
+<journal>Comput. Networks</journal>
+<number>12</number>
+<ee>https://doi.org/10.1016/j.comnet.2010.03.025</ee>
+<url>db/journals/cn/cn54.html#PapapetrouSN10</url>
+</article>
+</r>
+<r><article key="journals/dpd/PapapetrouSN10" mdate="2022-04-09">
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="s/WolfSiberski">Wolf Siberski</author>
+<author orcid="0000-0003-3374-2193" pid="n/WolfgangNejdl">Wolfgang Nejdl</author>
+<title>Cardinality estimation and dynamic length adaptation for Bloom filters.</title>
+<pages>119-156</pages>
+<year>2010</year>
+<volume>28</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1007/s10619-010-7067-2</ee>
+<url>db/journals/dpd/dpd28.html#PapapetrouSN10</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecir/PapapetrouSF10" mdate="2017-05-21">
+<author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="s/WolfSiberski">Wolf Siberski</author>
+<author pid="f/NFuhr">Norbert Fuhr</author>
+<title>Text Clustering for Peer-to-Peer Networks with Probabilistic Guarantees.</title>
+<pages>293-305</pages>
+<year>2010</year>
+<booktitle>ECIR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-12275-0_27</ee>
+<crossref>conf/ecir/2010</crossref>
+<url>db/conf/ecir/ecir2010.html#PapapetrouSF10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esws/IoannouPSN10" mdate="2022-04-09">
+<author pid="68/3366">Ekaterini Ioannou</author>
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author orcid="0000-0002-6118-5227" pid="s/DimitriosSkoutas">Dimitrios Skoutas 0001</author>
+<author orcid="0000-0003-3374-2193" pid="n/WolfgangNejdl">Wolfgang Nejdl</author>
+<title>Efficient Semantic-Aware Detection of Near Duplicate Resources.</title>
+<pages>136-150</pages>
+<year>2010</year>
+<booktitle>ESWC (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-13489-0_10</ee>
+<crossref>conf/esws/2010-2</crossref>
+<url>db/conf/esws/eswc2010-2.html#IoannouPSN10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwe/PapapetrouPIS10" mdate="2022-02-21">
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author orcid="0000-0002-7298-9431" pid="32/1624">George Papadakis 0001</author>
+<author pid="68/3366">Ekaterini Ioannou</author>
+<author orcid="0000-0002-6118-5227" pid="s/DimitriosSkoutas">Dimitrios Skoutas 0001</author>
+<title>Efficient Term Cloud Generation for Streaming Web Content.</title>
+<pages>385-399</pages>
+<year>2010</year>
+<booktitle>ICWE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-13911-6_26</ee>
+<crossref>conf/icwe/2010</crossref>
+<url>db/conf/icwe/icwe2010.html#PapapetrouPIS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/p2p/PapapetrouRSN10" mdate="2022-04-09">
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="62/58">Sukriti Ramesh</author>
+<author pid="s/StefanSiersdorfer">Stefan Siersdorfer</author>
+<author orcid="0000-0003-3374-2193" pid="n/WolfgangNejdl">Wolfgang Nejdl</author>
+<title>Optimizing Near Duplicate Detection for P2P Networks.</title>
+<pages>1-10</pages>
+<year>2010</year>
+<booktitle>Peer-to-Peer Computing</booktitle>
+<ee>https://doi.org/10.1109/P2P.2010.5570001</ee>
+<crossref>conf/p2p/2010</crossref>
+<url>db/conf/p2p/p2p2010.html#PapapetrouRSN10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbisp2p/PapapetrouSLN08" mdate="2008-12-08">
+<author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="s/WolfSiberski">Wolf Siberski</author>
+<author pid="51/823">Fabian Leitritz</author>
+<author pid="n/WolfgangNejdl">Wolfgang Nejdl</author>
+<title>Exploiting Distribution Skew for Scalable P2P Text Clustering.</title>
+<pages>1-12</pages>
+<year>2008</year>
+<booktitle>DBISP2P</booktitle>
+<ee>http://www.vldb.org/conf/2008/workshops/WProc_dbisp2p08/Paper_14.pdf</ee>
+<crossref>conf/dbisp2p/2008</crossref>
+<url>db/conf/dbisp2p/dbisp2p2008.html#PapapetrouSLN08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcit/RameshPS08" mdate="2020-10-25">
+<author pid="62/58">Sukriti Ramesh</author>
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="s/WolfSiberski">Wolf Siberski</author>
+<title>Optimizing Distributed Joins with Bloom Filters.</title>
+<pages>145-156</pages>
+<year>2008</year>
+<booktitle>ICDCIT</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-89737-8_15</ee>
+<crossref>conf/icdcit/2008</crossref>
+<url>db/conf/icdcit/icdcit2008.html#RameshPS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/PapapetrouSBN07" mdate="2023-03-24">
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="s/WolfSiberski">Wolf Siberski</author>
+<author orcid="0000-0002-5443-1215" pid="b/WTBalke">Wolf-Tilo Balke</author>
+<author orcid="0000-0003-3374-2193" pid="n/WolfgangNejdl">Wolfgang Nejdl</author>
+<title>DHTs over Peer Clusters for Distributed Information Retrieval.</title>
+<pages>84-93</pages>
+<year>2007</year>
+<crossref>conf/aina/2007</crossref>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2007.60</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AINA.2007.60</ee>
+<url>db/conf/aina/aina2007.html#PapapetrouSBN07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/MichaelNPS07" mdate="2023-03-24">
+<author pid="21/6730">Loizos Michael</author>
+<author orcid="0000-0003-3374-2193" pid="n/WolfgangNejdl">Wolfgang Nejdl</author>
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="s/WolfSiberski">Wolf Siberski</author>
+<title>Improving distributed join efficiency with extended bloom filter operations.</title>
+<pages>187-194</pages>
+<year>2007</year>
+<crossref>conf/aina/2007</crossref>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2007.80</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AINA.2007.80</ee>
+<url>db/conf/aina/aina2007.html#MichaelNPS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/CoiHKLOPS07" mdate="2012-10-26">
+<author pid="27/3639">Juri Luca De Coi</author>
+<author pid="40/3446">Eelco Herder</author>
+<author pid="93/5159">Arne Wolf Koesling</author>
+<author pid="52/980">Christoph Lofi</author>
+<author pid="o/DanielOlmedilla">Daniel Olmedilla</author>
+<author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="s/WolfSiberski">Wolf Siberski</author>
+<title>A Model for Competence Gap Analysis.</title>
+<pages>304-312</pages>
+<year>2007</year>
+<booktitle>WEBIST (3)</booktitle>
+<crossref>conf/webist/2007-3</crossref>
+<url>db/conf/webist/webist2007-3.html#CoiHKLOPS07</url>
+</inproceedings>
+</r>
+<r><article key="journals/scp/PapadopoulosSP06" mdate="2021-02-17">
+<author orcid="0000-0001-9250-4916" pid="p/GeorgeAngelosPapadopoulos">George A. Papadopoulos</author>
+<author pid="26/2585">Aristos Stavrou</author>
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<title>An implementation framework for Software Architectures based on the coordination paradigm.</title>
+<pages>27-67</pages>
+<year>2006</year>
+<volume>60</volume>
+<journal>Sci. Comput. Program.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1016/j.scico.2005.06.002</ee>
+<url>db/journals/scp/scp60.html#PapadopoulosSP06</url>
+</article>
+</r>
+<r><inproceedings key="conf/otm/PapapetrouMBW05" mdate="2020-10-25">
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="m/SebastianMichel">Sebastian Michel 0001</author>
+<author pid="b/MatthiasBender">Matthias Bender 0001</author>
+<author pid="w/GerhardWeikum">Gerhard Weikum</author>
+<title>On the Usage of Global Document Occurrences in Peer-to-Peer Information Systems.</title>
+<pages>310-328</pages>
+<year>2005</year>
+<crossref>conf/otm/2005-3</crossref>
+<booktitle>OTM Conferences (1)</booktitle>
+<ee>https://doi.org/10.1007/11575771_21</ee>
+<url>db/conf/otm/otm2005-1c.html#PapapetrouMBW05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adbis/PapapetrouS04" mdate="2019-08-06">
+<author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="s/GeorgeSamaras">George Samaras</author>
+<title>Ipmicra: Toward a Distributed and Adaptable Location Aware Web Crawler.</title>
+<year>2004</year>
+<crossref>conf/adbis/2004l</crossref>
+<booktitle>ADBIS (Local Proceedings)</booktitle>
+<ee type="archive">http://www.sztaki.hu/conferences/ADBIS/12-Samaras.pdf</ee>
+<url>db/conf/adbis/adbis2004l.html#PapapetrouS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coopis/PapapetrouS04" mdate="2017-05-25">
+<author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="s/GeorgeSamaras">George Samaras</author>
+<title>Minimizing the Network Distance in Distributed Web Crawling.</title>
+<pages>581-596</pages>
+<ee>https://doi.org/10.1007/978-3-540-30468-5_36</ee>
+<year>2004</year>
+<crossref>conf/coopis/2004-1</crossref>
+<booktitle>CoopIS/DOA/ODBASE (1)</booktitle>
+<url>db/conf/coopis/coopis2004-1.html#PapapetrouS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ic/PapapetrouS04" mdate="2004-11-19">
+<author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="s/GeorgeSamaras">George Samaras</author>
+<title>IPMicra: An IP-address based Location Aware Distributed Web Crawler.</title>
+<pages>694-699</pages>
+<year>2004</year>
+<crossref>conf/ic/2004-2</crossref>
+<booktitle>International Conference on Internet Computing</booktitle>
+<url>db/conf/ic/ic2004-2.html#PapapetrouS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/PapapetrouP04" mdate="2018-11-06">
+<author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="p/GeorgeAngelosPapadopoulos">George A. Papadopoulos</author>
+<title>Aspect Oriented Programming for a component-based real life application: a case study.</title>
+<pages>1554-1558</pages>
+<year>2004</year>
+<crossref>conf/sac/2004</crossref>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/967900.968210</ee>
+<url>db/conf/sac/sac2004.html#PapapetrouP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/PapapetrouS04" mdate="2020-10-25">
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="s/GeorgeSamaras">George Samaras</author>
+<title>Distributed location aware web crawling.</title>
+<pages>468-469</pages>
+<year>2004</year>
+<crossref>conf/www/2004at</crossref>
+<booktitle>WWW (Alternate Track Papers &amp; Posters)</booktitle>
+<ee>https://doi.org/10.1145/1013367.1013529</ee>
+<url>db/conf/www/www2004at.html#PapapetrouS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adbis/PapapetrouPS03" mdate="2017-05-21">
+<author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="39/6943">Stavros Papastavrou</author>
+<author pid="s/GeorgeSamaras">George Samaras</author>
+<title>UCYMICRA: Distributed Indexing of the Web Using Migrating Crawlers.</title>
+<pages>133-147</pages>
+<ee>https://doi.org/10.1007/978-3-540-39403-7_12</ee>
+<year>2003</year>
+<crossref>conf/adbis/2003</crossref>
+<booktitle>ADBIS</booktitle>
+<url>db/conf/adbis/adbis2003.html#PapapetrouPS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/PapapetrouPS03" mdate="2013-07-17">
+<author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="39/6943">Stavros Papastavrou</author>
+<author pid="s/GeorgeSamaras">George Samaras</author>
+<title>Distributed Indexing of the Web Using Migrating Crawlers.</title>
+<year>2003</year>
+<crossref>conf/www/2003p</crossref>
+<booktitle>WWW (Posters)</booktitle>
+<ee>http://www2003.org/cdrom/papers/poster/p304/p304-papapetrou.htm</ee>
+<url>db/conf/www/www2003p.html#PapapetrouPS03</url>
+</inproceedings>
+</r>
+<coauthors n="62" nc="4">
+<co c="0"><na f="a/Ailamaki:Anastasia" pid="a/AnastassiaAilamaki">Anastasia Ailamaki</na></co>
+<co c="0"><na f="a/Appuswamy:Raja" pid="57/1978">Raja Appuswamy</na></co>
+<co c="0"><na f="b/Balke:Wolf=Tilo" pid="b/WTBalke">Wolf-Tilo Balke</na></co>
+<co c="0"><na f="b/Bender_0001:Matthias" pid="b/MatthiasBender">Matthias Bender 0001</na></co>
+<co c="0"><na f="c/Chen:Ling" pid="17/1237">Ling Chen</na></co>
+<co c="0"><na f="c/Christodoulakis:Stavros" pid="66/2056">Stavros Christodoulakis</na></co>
+<co c="0"><na f="c/Chrysos_0001:Grigorios" pid="75/6117-1">Grigorios Chrysos 0001</na></co>
+<co c="0"><na f="c/Coi:Juri_Luca_De" pid="27/3639">Juri Luca De Coi</na></co>
+<co c="0"><na f="d/Deligiannakis:Antonios" pid="d/ADeligiannakis">Antonios Deligiannakis</na></co>
+<co c="0"><na f="d/Demertzis:Ioannis" pid="181/5758">Ioannis Demertzis</na></co>
+<co c="0"><na f="d/Demidova:Elena" pid="84/2154">Elena Demidova</na></co>
+<co c="0"><na f="d/Deursen:Arie_van" pid="d/ArievanDeursen">Arie van Deursen</na></co>
+<co c="2"><na f="d/d=Hondt:Jens_E=" pid="252/7565">Jens E. d'Hondt</na></co>
+<co c="0"><na f="d/Dollas:Apostolos" pid="72/5409">Apostolos Dollas</na></co>
+<co c="0" n="2"><na f="f/Fletcher_0001:George" pid="f/GeorgeHLFletcher">George Fletcher 0001</na><na>George H. L. Fletcher</na></co>
+<co c="0"><na f="f/Fragkoulis:Marios" pid="146/7861">Marios Fragkoulis</na></co>
+<co c="0"><na f="f/Fuhr:Norbert" pid="f/NFuhr">Norbert Fuhr</na></co>
+<co c="0"><na f="g/Garofalakis:Minos_N=" pid="g/MinosNGarofalakis">Minos N. Garofalakis</na></co>
+<co c="0"><na f="h/Herder:Eelco" pid="40/3446">Eelco Herder</na></co>
+<co c="0"><na f="i/Ioannou:Ekaterini" pid="68/3366">Ekaterini Ioannou</na></co>
+<co c="0"><na f="k/Katsifodimos:Asterios" pid="64/7497">Asterios Katsifodimos</na></co>
+<co c="0"><na f="k/Koesling:Arne_Wolf" pid="93/5159">Arne Wolf Koesling</na></co>
+<co c="0"><na f="k/Kopp:Christine" pid="123/7492">Christine Kopp</na></co>
+<co c="0"><na f="k/Koubarakis:Manolis" pid="40/4517">Manolis Koubarakis</na></co>
+<co c="0"><na f="l/Leitritz:Fabian" pid="51/823">Fabian Leitritz</na></co>
+<co c="0"><na f="l/Lofi:Christoph" pid="52/980">Christoph Lofi</na></co>
+<co c="0"><na f="m/May_0001:Michael" pid="23/6304-1">Michael May 0001</na></co>
+<co c="0"><na f="m/Michael:Loizos" pid="21/6730">Loizos Michael</na></co>
+<co c="0"><na f="m/Michel_0001:Sebastian" pid="m/SebastianMichel">Sebastian Michel 0001</na></co>
+<co c="2"><na f="m/Minartz:Koen" pid="318/0581">Koen Minartz</na></co>
+<co c="0"><na f="m/Mock:Michael" pid="64/5523">Michael Mock</na></co>
+<co c="0"><na f="n/Nejdl:Wolfgang" pid="n/WolfgangNejdl">Wolfgang Nejdl</na></co>
+<co c="3"><na f="n/Nuijten:Wouter_W=_L=" pid="290/0008">Wouter W. L. Nuijten</na></co>
+<co c="0"><na f="o/Olma:Matthaios" pid="147/1263">Matthaios Olma</na></co>
+<co c="0"><na f="o/Olmedilla:Daniel" pid="o/DanielOlmedilla">Daniel Olmedilla</na></co>
+<co c="0"><na f="p/Papadakis_0001:George" pid="32/1624">George Papadakis 0001</na></co>
+<co c="1" n="2"><na f="p/Papadopoulos:George_Angelos" pid="p/GeorgeAngelosPapadopoulos">George Angelos Papadopoulos</na><na>George A. Papadopoulos</na></co>
+<co c="0"><na f="p/Papadopoulos_0001:Stavros" pid="82/75">Stavros Papadopoulos 0001</na></co>
+<co c="0"><na f="p/Papamanthou:Charalampos" pid="p/CharalamposPapamanthou">Charalampos Papamanthou</na></co>
+<co c="1"><na f="p/Papastavrou:Stavros" pid="39/6943">Stavros Papastavrou</na></co>
+<co c="0"><na f="p/Petrakis:Euripides_G=_M=" pid="91/2869">Euripides G. M. Petrakis</na></co>
+<co c="0"><na f="p/Pnevmatikatos:Dionisios_N=" pid="04/3696">Dionisios N. Pnevmatikatos</na></co>
+<co c="0"><na f="p/Psarakis:Kyriakos" pid="254/2650">Kyriakos Psarakis</na></co>
+<co c="0"><na f="p/Punter:Wieger_R=" pid="356/6974">Wieger R. Punter</na></co>
+<co c="0"><na f="r/Ramesh:Sukriti" pid="62/58">Sukriti Ramesh</na></co>
+<co c="0"><na f="s/Sacharidis:Dimitris" pid="19/4428">Dimitris Sacharidis</na></co>
+<co c="1"><na f="s/Samaras:George" pid="s/GeorgeSamaras">George Samaras</na></co>
+<co c="0"><na f="s/Samoladas:Vasilis" pid="17/5839">Vasilis Samoladas</na></co>
+<co c="0"><na f="s/Shahrivari:Hamid" pid="261/1922">Hamid Shahrivari</na></co>
+<co c="0"><na f="s/Siachamis:George" pid="276/5371">George Siachamis</na></co>
+<co c="0"><na f="s/Siberski:Wolf" pid="s/WolfSiberski">Wolf Siberski</na></co>
+<co c="0"><na f="s/Siersdorfer:Stefan" pid="s/StefanSiersdorfer">Stefan Siersdorfer</na></co>
+<co c="0"><na f="s/Skoutas_0001:Dimitrios" pid="s/DimitriosSkoutas">Dimitrios Skoutas 0001</na></co>
+<co c="0"><na f="s/Sotiriadis:Stelios" pid="17/7550">Stelios Sotiriadis</na></co>
+<co c="1"><na f="s/Stavrou:Aristos" pid="26/2585">Aristos Stavrou</na></co>
+<co c="0"><na f="w/Weikum:Gerhard" pid="w/GerhardWeikum">Gerhard Weikum</na></co>
+<co c="3"><na f="w/Wildenberg:Ylaise_van_den" pid="290/0579">Ylaise van den Wildenberg</na></co>
+<co c="0"><na f="w/Wu:Yuqing" pid="20/473">Yuqing Wu</na></co>
+<co c="0"><na f="y/Yakovets:Nikolay" pid="92/9686">Nikolay Yakovets</na></co>
+<co c="0"><na f="z/Zeakis:Alexandros" pid="273/7006">Alexandros Zeakis</na></co>
+<co c="0"><na f="z/Zerr:Sergej" pid="72/4968">Sergej Zerr</na></co>
+<co c="0"><na f="z/Zhu:Kaijie" pid="56/7058">Kaijie Zhu</na></co>
+</coauthors>
+</dblpperson>

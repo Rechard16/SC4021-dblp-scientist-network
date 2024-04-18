@@ -1,0 +1,732 @@
+<dblpperson name="Vasiliki Kalavri" pid="132/6943" n="39">
+<person key="homepages/132/6943" mdate="2013-07-24">
+<author pid="132/6943">Vasiliki Kalavri</author>
+</person>
+<r><article key="journals/vldb/FragkoulisCKK24" mdate="2024-03-16">
+<author pid="146/7861">Marios Fragkoulis</author>
+<author pid="90/7704">Paris Carbone</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author orcid="0000-0002-6717-2945" pid="64/7497">Asterios Katsifodimos</author>
+<title>A survey on the evolution of stream processing systems.</title>
+<pages>507-541</pages>
+<year>2024</year>
+<volume>33</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s00778-023-00819-8</ee>
+<url>db/journals/vldb/vldb33.html#FragkoulisCKK24</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/HorchidanCKCK24" mdate="2024-03-22">
+<author pid="289/3171">Sonia Horchidan</author>
+<author pid="77/7648">Po-Hao Chen</author>
+<author pid="320/9449">Emmanouil Kritharakis</author>
+<author pid="90/7704">Paris Carbone</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<title>Crayfish: Navigating the Labyrinth of Machine Learning Inference in Stream Processing Systems.</title>
+<pages>676-689</pages>
+<year>2024</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.48786/edbt.2024.58</ee>
+<crossref>conf/edbt/2024</crossref>
+<url>db/conf/edbt/edbt2024.html#HorchidanCKCK24</url>
+</inproceedings>
+</r>
+<r><article key="journals/tpds/BestaFKKH23" mdate="2023-06-02">
+<author orcid="0000-0002-6550-7916" pid="136/7953">Maciej Besta</author>
+<author pid="37/9373">Marc Fischer</author>
+<author orcid="0000-0001-8219-4862" pid="132/6943">Vasiliki Kalavri</author>
+<author pid="76/6407">Michael Kapralov</author>
+<author orcid="0000-0002-1333-9797" pid="16/3869">Torsten Hoefler</author>
+<title>Practice of Streaming Processing of Dynamic Graphs: Concepts, Models, and Systems.</title>
+<pages>1860-1876</pages>
+<year>2023</year>
+<month>June</month>
+<volume>34</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TPDS.2021.3131677</ee>
+<url>db/journals/tpds/tpds34.html#BestaFKKH23</url>
+</article>
+</r>
+<r><inproceedings key="conf/nsdi/LiagourisKFV23" mdate="2023-05-11">
+<author pid="95/9170">John Liagouris</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="81/7083">Muhammad Faisal</author>
+<author pid="59/6288">Mayank Varia</author>
+<title>SECRECY: Secure collaborative analytics in untrusted clouds.</title>
+<pages>1031-1056</pages>
+<year>2023</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi23/presentation/liagouris</ee>
+<crossref>conf/nsdi/2023</crossref>
+<url>db/conf/nsdi/nsdi2023.html#LiagourisKFV23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/FaisalZLKV23" mdate="2023-10-18">
+<author pid="81/7083">Muhammad Faisal</author>
+<author pid="39/9312">Jerry Zhang</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="59/6288">Mayank Varia</author>
+<title>TVA: A multi-party computation system for secure and expressive time series analytics.</title>
+<year>2023</year>
+<booktitle>USENIX Security Symposium</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenixsecurity23/presentation/faisal</ee>
+<crossref>conf/uss/2023</crossref>
+<url>db/conf/uss/uss2023.html#FaisalZLKV23</url>
+<pages>5395-5412</pages>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/FaisalZLKV23" mdate="2023-08-04">
+<author pid="81/7083">Muhammad Faisal</author>
+<author pid="39/9312">Jerry Zhang</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="59/6288">Mayank Varia</author>
+<title>TVA: A multi-party computation system for secure and expressive time series analytics.</title>
+<pages>1120</pages>
+<year>2023</year>
+<volume>2023</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2023/1120</ee>
+<url>db/journals/iacr/iacr2023.html#FaisalZLKV23</url>
+</article>
+</r>
+<r><inproceedings key="conf/bidede/WangLK22" mdate="2022-05-16">
+<author pid="99/4437">Yuanli Wang</author>
+<author pid="295/9554">Baiqing Lyu</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<title>The <i>non-expert tax</i>: quantifying the cost of auto-scaling in cloud-based data stream analytics.</title>
+<pages>7:1-7:7</pages>
+<year>2022</year>
+<booktitle>BiDEDE@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3530050.3532925</ee>
+<crossref>conf/bidede/2022</crossref>
+<url>db/conf/bidede/bidede2022.html#WangLK22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/deem/HorchidanKKC22" mdate="2022-05-25">
+<author pid="289/3171">Sonia Horchidan</author>
+<author pid="320/9449">Emmanouil Kritharakis</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="90/7704">Paris Carbone</author>
+<title>Evaluating model serving strategies over streaming data.</title>
+<pages>4:1-4:5</pages>
+<year>2022</year>
+<booktitle>DEEM@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3533028.3533308</ee>
+<crossref>conf/deem/2022</crossref>
+<url>db/conf/deem/deem2022.html#HorchidanKKC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurosys/AsyabiWLKB22" mdate="2022-03-30">
+<author pid="170/7678">Esmail Asyabi</author>
+<author pid="99/4437">Yuanli Wang</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="b/ABestavros">Azer Bestavros</author>
+<title>A new benchmark harness for systematic and robust evaluation of streaming state stores.</title>
+<pages>559-574</pages>
+<year>2022</year>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3492321.3519592</ee>
+<crossref>conf/eurosys/2022</crossref>
+<url>db/conf/eurosys/eurosys2022.html#AsyabiWLKB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/PeriniRCK22" mdate="2024-02-05">
+<author orcid="0000-0001-5006-9979" pid="246/0524">Massimo Perini</author>
+<author pid="186/4493">Giorgia Ramponi</author>
+<author pid="90/7704">Paris Carbone</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<title>Learning on streaming graphs with experience replay.</title>
+<pages>470-478</pages>
+<year>2022</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3477314.3507113</ee>
+<crossref>conf/sac/2022</crossref>
+<url>db/conf/sac/sac2022.html#PeriniRCK22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZwolakAHCK22" mdate="2022-08-23">
+<author pid="326/9189">Michal Zwolak</author>
+<author pid="128/4170">Zainab Abbas</author>
+<author pid="289/3171">Sonia Horchidan</author>
+<author pid="90/7704">Paris Carbone</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<title><i>GCNSplit</i>: bounding the state of streaming graph partitioning.</title>
+<pages>3:1-3:12</pages>
+<year>2022</year>
+<booktitle>aiDM@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3533702.3534920</ee>
+<crossref>conf/sigmod/2022aidm</crossref>
+<url>db/conf/sigmod/aidm2022.html#ZwolakAHCK22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KalavriS22" mdate="2022-06-14">
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="55/6560">Semih Salihoglu</author>
+<title>GRADES-NDA'22: 5th International Workshop on Graph Data management Experiences and Systems (GRADES) and Network Data Analytics (NDA).</title>
+<pages>2546-2547</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3524074</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#KalavriS22</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/grades/2022" mdate="2022-05-24">
+<editor pid="132/6943">Vasiliki Kalavri</editor>
+<editor pid="55/6560">Semih Salihoglu</editor>
+<title>GRADES-NDA '22: Proceedings of the 5th ACM SIGMOD Joint International Workshop on Graph Data Management Experiences &amp; Systems (GRADES) and Network Data Analytics (NDA), Philadelphia, Pennsylvania, USA, 12 June 2022</title>
+<publisher>ACM</publisher>
+<booktitle>GRADES-NDA@SIGMOD</booktitle>
+<year>2022</year>
+<isbn>978-1-4503-9384-3</isbn>
+<ee>https://doi.org/10.1145/3534540</ee>
+<url>db/conf/grades/grades2022.html</url>
+</proceedings>
+</r>
+<r><article key="journals/cacm/SakrBVIAAAABBDV21" mdate="2021-10-14">
+<author pid="s/SherifSakr">Sherif Sakr</author>
+<author pid="b/ABonifati">Angela Bonifati</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="85/2489">Alexandru Iosup</author>
+<author pid="29/9884">Khaled Ammar</author>
+<author pid="36/2474">Renzo Angles</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="76/6735">Marcelo Arenas</author>
+<author pid="136/7953">Maciej Besta</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="d/KhuzaimaDaudjee">Khuzaima Daudjee</author>
+<author pid="91/4526">Emanuele Della Valle</author>
+<author orcid="0000-0002-6664-0620" pid="143/2670">Stefania Dumbrava</author>
+<author pid="29/3132">Olaf Hartig</author>
+<author pid="85/3208">Bernhard Haslhofer</author>
+<author pid="139/4230">Tim Hegeman</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="h/KatjaHose">Katja Hose</author>
+<author orcid="0000-0002-2397-8963" pid="33/5916">Adriana Iamnitchi</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="281/6816">Hugo Kapp</author>
+<author pid="95/3517">Wim Martens</author>
+<author pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<author pid="91/7933">Eric Peukert</author>
+<author pid="93/3568">Stefan Plantikow</author>
+<author pid="205/4727">Mohamed Ragab 0001</author>
+<author pid="93/24">Matei Ripeanu</author>
+<author pid="55/6560">Semih Salihoglu</author>
+<author pid="10/1388-3">Christian Schulz 0003</author>
+<author pid="50/7441">Petra Selmer</author>
+<author pid="93/3423">Juan F. Sequeda</author>
+<author pid="27/3988">Joshua Shinavier</author>
+<author pid="151/1414">G&#225;bor Sz&#225;rnyas</author>
+<author pid="169/8184">Riccardo Tommasini 0001</author>
+<author pid="53/3654">Antonino Tumeo</author>
+<author pid="154/4519">Alexandru Uta</author>
+<author pid="62/3310">Ana Lucia Varbanescu</author>
+<author pid="11/7258">Hsiang-Yun Wu</author>
+<author pid="92/9686">Nikolay Yakovets</author>
+<author pid="81/9436-1">Da Yan 0001</author>
+<author pid="12/6940">Eiko Yoneki</author>
+<title>The future is big graphs: a community view on graph processing systems.</title>
+<pages>62-71</pages>
+<year>2021</year>
+<volume>64</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<ee>https://doi.org/10.1145/3434642</ee>
+<url>db/journals/cacm/cacm64.html#SakrBVIAAAABBDV21</url>
+</article>
+</r>
+<r><article key="journals/jsys/RazaMAKI21" mdate="2023-03-21">
+<author orcid="0000-0003-4096-8377" pid="28/9187-3">Ali Raza 0003</author>
+<author pid="m/IbrahimMatta">Ibrahim Matta</author>
+<author pid="124/7278">Nabeel Akhtar</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="28/10038">Vatche Isahagian</author>
+<title>SoK: Function-As-A-Service: From An Application Developer's Perspective.</title>
+<year>2021</year>
+<month>September</month>
+<volume>1</volume>
+<journal>J. Syst. Res.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5070/sr31154815</ee>
+<url>db/journals/jsys/jsys1.html#RazaMAKI21</url>
+</article>
+</r>
+<r><proceedings key="conf/sigmod/2021grades" mdate="2021-07-14">
+<editor pid="132/6943">Vasiliki Kalavri</editor>
+<editor pid="92/9686">Nikolay Yakovets</editor>
+<title>GRADES-NDA '21: Proceedings of the 4th ACM SIGMOD Joint International Workshop on Graph Data Management Experiences &amp; Systems (GRADES) and Network Data Analytics (NDA), Virtual Event, China, 20 June 2021.</title>
+<publisher>ACM</publisher>
+<booktitle>GRADES-NDA@SIGMOD</booktitle>
+<year>2021</year>
+<isbn>978-1-4503-8477-3</isbn>
+<ee>https://doi.org/10.1145/3461837</ee>
+<url>db/conf/sigmod/grades2021.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-01048" mdate="2021-02-09">
+<author pid="95/9170">John Liagouris</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="81/7083">Muhammad Faisal</author>
+<author pid="59/6288">Mayank Varia</author>
+<title>Secrecy: Secure collaborative analytics on secret-shared data.</title>
+<year>2021</year>
+<volume>abs/2102.01048</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.01048</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-01048</url>
+</article>
+</r>
+<r><inproceedings key="conf/hotstorage/KalavriL20" mdate="2021-02-02">
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="95/9170">John Liagouris</author>
+<title>In support of workload-aware streaming state management.</title>
+<year>2020</year>
+<booktitle>HotStorage</booktitle>
+<ee type="oa">https://www.usenix.org/conference/hotstorage20/presentation/kalavri</ee>
+<crossref>conf/hotstorage/2020</crossref>
+<url>db/conf/hotstorage/hotstorage2020.html#KalavriL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/CarboneFKK20" mdate="2020-06-05">
+<author pid="90/7704">Paris Carbone</author>
+<author pid="146/7861">Marios Fragkoulis</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="64/7497">Asterios Katsifodimos</author>
+<title>Beyond Analytics: The Evolution of Stream Processing Systems.</title>
+<pages>2651-2658</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3383131</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#CarboneFKK20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-00842" mdate="2020-08-07">
+<author pid="146/7861">Marios Fragkoulis</author>
+<author pid="90/7704">Paris Carbone</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="64/7497">Asterios Katsifodimos</author>
+<title>A Survey on the Evolution of Stream Processing Systems.</title>
+<year>2020</year>
+<volume>abs/2008.00842</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.00842</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-00842</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-06171" mdate="2023-09-30">
+<author pid="s/SherifSakr">Sherif Sakr</author>
+<author pid="b/ABonifati">Angela Bonifati</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="85/2489">Alexandru Iosup</author>
+<author pid="29/9884">Khaled Ammar</author>
+<author pid="36/2474">Renzo Angles</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="76/6735">Marcelo Arenas</author>
+<author pid="136/7953">Maciej Besta</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="d/KhuzaimaDaudjee">Khuzaima Daudjee</author>
+<author pid="91/4526">Emanuele Della Valle</author>
+<author orcid="0000-0002-6664-0620" pid="143/2670">Stefania Dumbrava</author>
+<author pid="29/3132">Olaf Hartig</author>
+<author pid="85/3208">Bernhard Haslhofer</author>
+<author pid="139/4230">Tim Hegeman</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="h/KatjaHose">Katja Hose</author>
+<author pid="33/5916">Adriana Iamnitchi</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="281/6816">Hugo Kapp</author>
+<author pid="95/3517">Wim Martens</author>
+<author pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<author pid="91/7933">Eric Peukert</author>
+<author pid="93/3568">Stefan Plantikow</author>
+<author pid="205/4727">Mohamed Ragab 0001</author>
+<author pid="93/24">Matei Ripeanu</author>
+<author pid="55/6560">Semih Salihoglu</author>
+<author pid="10/1388-3">Christian Schulz 0003</author>
+<author pid="50/7441">Petra Selmer</author>
+<author pid="93/3423">Juan F. Sequeda</author>
+<author pid="27/3988">Joshua Shinavier</author>
+<author pid="151/1414">G&#225;bor Sz&#225;rnyas</author>
+<author orcid="0000-0003-3404-5250" pid="169/8184">Riccardo Tommasini 0001</author>
+<author pid="53/3654">Antonino Tumeo</author>
+<author pid="154/4519">Alexandru Uta</author>
+<author pid="62/3310">Ana Lucia Varbanescu</author>
+<author pid="11/7258">Hsiang-Yun Wu</author>
+<author pid="92/9686">Nikolay Yakovets</author>
+<author pid="81/9436-1">Da Yan 0001</author>
+<author pid="12/6940">Eiko Yoneki</author>
+<title>The Future is Big Graphs! A Community View on Graph Processing Systems.</title>
+<year>2020</year>
+<volume>abs/2012.06171</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.06171</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-06171</url>
+</article>
+</r>
+<r><article key="journals/pvldb/HoffmannLMKLR19" mdate="2024-02-05">
+<author pid="188/9957-1">Moritz Hoffmann 0001</author>
+<author orcid="0000-0002-9303-452X" pid="181/5922">Andrea Lattuada</author>
+<author pid="59/563">Frank McSherry</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="r/TimothyRoscoe">Timothy Roscoe</author>
+<title>Megaphone: Latency-conscious state migration for distributed streaming dataflows.</title>
+<pages>1002-1015</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1002-hoffmann.pdf</ee>
+<ee>https://doi.org/10.14778/3329772.3329777</ee>
+<url>db/journals/pvldb/pvldb12.html#HoffmannLMKLR19</url>
+</article>
+</r>
+<r><inproceedings key="conf/birte/BrookesKL19" mdate="2019-10-09">
+<author pid="250/3338">Matthew Brookes</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="95/9170">John Liagouris</author>
+<title>FASTER State Management for Timely Dataflow.</title>
+<pages>4:1-4:3</pages>
+<year>2019</year>
+<booktitle>BIRTE</booktitle>
+<ee>https://doi.org/10.1145/3350489.3350493</ee>
+<crossref>conf/birte/2019</crossref>
+<url>db/conf/birte/birte2019.html#BrookesKL19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-12740" mdate="2020-01-04">
+<author pid="136/7953">Maciej Besta</author>
+<author pid="37/9373">Marc Fischer</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="76/6407">Michael Kapralov</author>
+<author pid="16/3869">Torsten Hoefler</author>
+<title>Practice of Streaming and Dynamic Graphs: Concepts, Models, Systems, and Parallelism.</title>
+<year>2019</year>
+<volume>abs/1912.12740</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.12740</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-12740</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AbbasKCV18" mdate="2020-04-25">
+<author pid="128/4170">Zainab Abbas</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="90/7704">Paris Carbone</author>
+<author orcid="0000-0002-6779-7435" pid="47/1386">Vladimir Vlassov</author>
+<title>Streaming Graph Partitioning: An Experimental Study.</title>
+<pages>1590-1603</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1590-abbas.pdf</ee>
+<ee>https://doi.org/10.14778/3236187.3236208</ee>
+<url>db/journals/pvldb/pvldb11.html#AbbasKCV18</url>
+</article>
+</r>
+<r><article key="journals/tkde/KalavriVH18" mdate="2023-08-28">
+<author orcid="0000-0001-8219-4862" pid="132/6943">Vasiliki Kalavri</author>
+<author orcid="0000-0002-6779-7435" pid="47/1386">Vladimir Vlassov</author>
+<author pid="h/SeifHaridi">Seif Haridi</author>
+<title>High-Level Programming Abstractions for Distributed Graph Processing.</title>
+<pages>305-324</pages>
+<year>2018</year>
+<volume>30</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TKDE.2017.2762294</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2017.2762294</ee>
+<ee>https://www.wikidata.org/entity/Q114824236</ee>
+<url>db/journals/tkde/tkde30.html#KalavriVH18</url>
+</article>
+</r>
+<r><inproceedings key="conf/nsdi/HoffmannLLKDWCR18" mdate="2023-05-19">
+<author pid="188/9957-1">Moritz Hoffmann 0001</author>
+<author pid="181/5922">Andrea Lattuada</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="66/4739">Desislava C. Dimitrova</author>
+<author pid="204/9338">Sebastian Wicki</author>
+<author pid="151/7519">Zaheer Chothia</author>
+<author pid="r/TimothyRoscoe">Timothy Roscoe</author>
+<title>SnailTrail: Generalizing Critical Paths for Online Analysis of Distributed Dataflows.</title>
+<pages>95-110</pages>
+<year>2018</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi18/presentation/hoffmann</ee>
+<crossref>conf/nsdi/2018</crossref>
+<url>db/conf/nsdi/nsdi2018.html#HoffmannLLKDWCR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/osdi/KalavriLHDFR18" mdate="2023-05-19">
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="188/9957-1">Moritz Hoffmann 0001</author>
+<author pid="66/4739">Desislava C. Dimitrova</author>
+<author pid="125/6236">Matthew Forshaw</author>
+<author pid="r/TimothyRoscoe">Timothy Roscoe</author>
+<title>Three steps is all you need: fast, accurate, automatic scaling decisions for distributed streaming dataflows.</title>
+<pages>783-798</pages>
+<year>2018</year>
+<booktitle>OSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/osdi18/presentation/kalavri</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3291226</ee>
+<crossref>conf/osdi/2018</crossref>
+<url>db/conf/osdi/osdi2018.html#KalavriLHDFR18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-06893" mdate="2023-05-19">
+<author orcid="0000-0002-8235-7665" pid="66/4739">Desislava C. Dimitrova</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="204/9338">Sebastian Wicki</author>
+<author pid="188/9957-1">Moritz Hoffmann 0001</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="r/TimothyRoscoe">Timothy Roscoe</author>
+<title>DeltaPath: dataflow-based high-performance incremental routing.</title>
+<year>2018</year>
+<volume>abs/1808.06893</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.06893</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-06893</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-01371" mdate="2023-05-19">
+<author pid="188/9957-1">Moritz Hoffmann 0001</author>
+<author pid="181/5922">Andrea Lattuada</author>
+<author pid="59/563">Frank McSherry</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="r/TimothyRoscoe">Timothy Roscoe</author>
+<title>Megaphone: Live state migration for distributed streaming dataflows.</title>
+<year>2018</year>
+<volume>abs/1812.01371</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.01371</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-01371</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigcomm/DimitrovaLHKWR17" mdate="2023-05-19">
+<author pid="66/4739">Desislava C. Dimitrova</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="188/9957-1">Moritz Hoffmann 0001</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="204/9338">Sebastian Wicki</author>
+<author pid="r/TimothyRoscoe">Timothy Roscoe</author>
+<title>Quick Incremental Routing Logic for Dynamic Network Graphs.</title>
+<pages>9-11</pages>
+<year>2017</year>
+<booktitle>SIGCOMM Posters and Demos</booktitle>
+<ee>https://doi.org/10.1145/3123878.3131968</ee>
+<crossref>conf/sigcomm/2017p</crossref>
+<url>db/conf/sigcomm/p2017.html#DimitrovaLHKWR17</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/KalavriSL16" mdate="2020-04-25">
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author orcid="0000-0002-3133-1537" pid="69/4914">Tiago Simas</author>
+<author pid="75/2905">Dionysios Logothetis</author>
+<title>The shortest path is not always a straight line.</title>
+<pages>672-683</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p672-kalavri.pdf</ee>
+<ee>https://doi.org/10.14778/2947618.2947623</ee>
+<ee>https://www.wikidata.org/entity/Q63365687</ee>
+<url>db/journals/pvldb/pvldb9.html#KalavriSL16</url>
+</article>
+</r>
+<r><inproceedings key="conf/pam/KalavriBVP16" mdate="2017-05-23">
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="12/8780">Jeremy Blackburn</author>
+<author pid="01/6280">Matteo Varvello</author>
+<author pid="70/3728">Konstantina Papagiannaki</author>
+<title>Like a Pack of Wolves: Community Structure of Web Trackers.</title>
+<pages>42-54</pages>
+<year>2016</year>
+<booktitle>PAM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-30505-9_4</ee>
+<crossref>conf/pam/2016</crossref>
+<url>db/conf/pam/pam2016.html#KalavriBVP16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/KalavriVH16" mdate="2018-08-13">
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="47/1386">Vladimir Vlassov</author>
+<author pid="h/SeifHaridi">Seif Haridi</author>
+<title>High-Level Programming Abstractions for Distributed Graph Processing.</title>
+<year>2016</year>
+<volume>abs/1607.02646</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1607.02646</ee>
+<url>db/journals/corr/corr1607.html#KalavriVH16</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/KalavriETVMH14" mdate="2020-03-12">
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="84/6339">Stephan Ewen</author>
+<author pid="61/7259">Kostas Tzoumas</author>
+<author pid="47/1386">Vladimir Vlassov</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="h/SeifHaridi">Seif Haridi</author>
+<title>Asymmetry in Large-Scale Graph Analysis, Explained.</title>
+<year>2014</year>
+<booktitle>GRADES</booktitle>
+<ee>https://doi.org/10.1145/2621934.2621940</ee>
+<ee type="oa">http://event.cwi.nl/grades2014/04-kalavri.pdf</ee>
+<crossref>conf/sigmod/2014grades</crossref>
+<url>db/conf/sigmod/grades2014.html#KalavriETVMH14</url>
+<pages>4:1-4:7</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloudcom/KalavriBV13" mdate="2023-03-24">
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="142/7810">Vaidas Brundza</author>
+<author orcid="0000-0002-6779-7435" pid="47/1386">Vladimir Vlassov</author>
+<title>Block Sampling: Efficient Accurate Online Aggregation in MapReduce.</title>
+<pages>250-257</pages>
+<year>2013</year>
+<booktitle>CloudCom (1)</booktitle>
+<ee>https://doi.org/10.1109/CloudCom.2013.40</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CloudCom.2013.40</ee>
+<crossref>conf/cloudcom/2013-1</crossref>
+<url>db/conf/cloudcom/cloudcom2013-1.html#KalavriBV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cse/KalavriSV13" mdate="2023-03-24">
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="26/512">Hui Shang</author>
+<author orcid="0000-0002-6779-7435" pid="47/1386">Vladimir Vlassov</author>
+<title>m2r2: A Framework for Results Materialization and Reuse in High-Level Dataflow Systems for Big Data.</title>
+<pages>894-901</pages>
+<year>2013</year>
+<booktitle>CSE</booktitle>
+<ee>https://doi.org/10.1109/CSE.2013.134</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CSE.2013.134</ee>
+<crossref>conf/cse/2013</crossref>
+<url>db/conf/cse/cse2013.html#KalavriSV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/KalavriVB13" mdate="2018-11-02">
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author orcid="0000-0002-6779-7435" pid="47/1386">Vladimir Vlassov</author>
+<author pid="65/5718">Per Brand</author>
+<title>PonIC: Using Stratosphere to Speed Up Pig Analytics.</title>
+<pages>279-290</pages>
+<year>2013</year>
+<booktitle>Euro-Par</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-40047-6_30</ee>
+<crossref>conf/europar/2013</crossref>
+<url>db/conf/europar/europar2013.html#KalavriVB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trustcom/KalavriV13" mdate="2023-03-24">
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author orcid="0000-0002-6779-7435" pid="47/1386">Vladimir Vlassov</author>
+<title>MapReduce: Limitations, Optimizations and Open Issues.</title>
+<pages>1031-1038</pages>
+<year>2013</year>
+<booktitle>TrustCom/ISPA/IUCC</booktitle>
+<ee>https://doi.org/10.1109/TrustCom.2013.126</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/TrustCom.2013.126</ee>
+<crossref>conf/trustcom/2013</crossref>
+<url>db/conf/trustcom/trustcom2013.html#KalavriV13</url>
+</inproceedings>
+</r>
+<coauthors n="87" nc="1">
+<co c="0"><na f="a/Abbas:Zainab" pid="128/4170">Zainab Abbas</na></co>
+<co c="0"><na f="a/Akhtar:Nabeel" pid="124/7278">Nabeel Akhtar</na></co>
+<co c="0"><na f="a/Ammar:Khaled" pid="29/9884">Khaled Ammar</na></co>
+<co c="0"><na f="a/Angles:Renzo" pid="36/2474">Renzo Angles</na></co>
+<co c="0"><na f="a/Aref:Walid_G=" pid="a/WGAref">Walid G. Aref</na></co>
+<co c="0"><na f="a/Arenas:Marcelo" pid="76/6735">Marcelo Arenas</na></co>
+<co c="0"><na f="a/Asyabi:Esmail" pid="170/7678">Esmail Asyabi</na></co>
+<co c="0"><na f="b/Besta:Maciej" pid="136/7953">Maciej Besta</na></co>
+<co c="0"><na f="b/Bestavros:Azer" pid="b/ABestavros">Azer Bestavros</na></co>
+<co c="0"><na f="b/Blackburn:Jeremy" pid="12/8780">Jeremy Blackburn</na></co>
+<co c="0"><na f="b/Boncz:Peter_A=" pid="b/PeterABoncz">Peter A. Boncz</na></co>
+<co c="0"><na f="b/Bonifati:Angela" pid="b/ABonifati">Angela Bonifati</na></co>
+<co c="0"><na f="b/Brand:Per" pid="65/5718">Per Brand</na></co>
+<co c="0"><na f="b/Brookes:Matthew" pid="250/3338">Matthew Brookes</na></co>
+<co c="0"><na f="b/Brundza:Vaidas" pid="142/7810">Vaidas Brundza</na></co>
+<co c="0"><na f="c/Carbone:Paris" pid="90/7704">Paris Carbone</na></co>
+<co c="0"><na f="c/Chen:Po=Hao" pid="77/7648">Po-Hao Chen</na></co>
+<co c="0"><na f="c/Chothia:Zaheer" pid="151/7519">Zaheer Chothia</na></co>
+<co c="0"><na f="d/Daudjee:Khuzaima" pid="d/KhuzaimaDaudjee">Khuzaima Daudjee</na></co>
+<co c="0"><na f="d/Dimitrova:Desislava_C=" pid="66/4739">Desislava C. Dimitrova</na></co>
+<co c="0"><na f="d/Dumbrava:Stefania" pid="143/2670">Stefania Dumbrava</na></co>
+<co c="0"><na f="e/Ewen:Stephan" pid="84/6339">Stephan Ewen</na></co>
+<co c="0"><na f="f/Faisal:Muhammad" pid="81/7083">Muhammad Faisal</na></co>
+<co c="0"><na f="f/Fischer:Marc" pid="37/9373">Marc Fischer</na></co>
+<co c="0"><na f="f/Forshaw:Matthew" pid="125/6236">Matthew Forshaw</na></co>
+<co c="0"><na f="f/Fragkoulis:Marios" pid="146/7861">Marios Fragkoulis</na></co>
+<co c="0"><na f="h/Haridi:Seif" pid="h/SeifHaridi">Seif Haridi</na></co>
+<co c="0"><na f="h/Hartig:Olaf" pid="29/3132">Olaf Hartig</na></co>
+<co c="0"><na f="h/Haslhofer:Bernhard" pid="85/3208">Bernhard Haslhofer</na></co>
+<co c="0"><na f="h/Hegeman:Tim" pid="139/4230">Tim Hegeman</na></co>
+<co c="0"><na f="h/Hidders:Jan" pid="h/JanHidders">Jan Hidders</na></co>
+<co c="0"><na f="h/Hoefler:Torsten" pid="16/3869">Torsten Hoefler</na></co>
+<co c="0"><na f="h/Hoffmann_0001:Moritz" pid="188/9957-1">Moritz Hoffmann 0001</na></co>
+<co c="0" n="2"><na f="h/Horchidan:Sonia=Florina" pid="289/3171">Sonia-Florina Horchidan</na><na>Sonia Horchidan</na></co>
+<co c="0"><na f="h/Hose:Katja" pid="h/KatjaHose">Katja Hose</na></co>
+<co c="0"><na f="i/Iamnitchi:Adriana" pid="33/5916">Adriana Iamnitchi</na></co>
+<co c="0"><na f="i/Iosup:Alexandru" pid="85/2489">Alexandru Iosup</na></co>
+<co c="0"><na f="i/Isahagian:Vatche" pid="28/10038">Vatche Isahagian</na></co>
+<co c="0"><na f="k/Kapp:Hugo" pid="281/6816">Hugo Kapp</na></co>
+<co c="0"><na f="k/Kapralov:Michael" pid="76/6407">Michael Kapralov</na></co>
+<co c="0"><na f="k/Katsifodimos:Asterios" pid="64/7497">Asterios Katsifodimos</na></co>
+<co c="0"><na f="k/Kritharakis:Emmanouil" pid="320/9449">Emmanouil Kritharakis</na></co>
+<co c="0"><na f="l/Lattuada:Andrea" pid="181/5922">Andrea Lattuada</na></co>
+<co c="0"><na f="l/Liagouris:John" pid="95/9170">John Liagouris</na></co>
+<co c="0"><na f="l/Logothetis:Dionysios" pid="75/2905">Dionysios Logothetis</na></co>
+<co c="0"><na f="l/Lyu:Baiqing" pid="295/9554">Baiqing Lyu</na></co>
+<co c="0"><na f="m/Markl:Volker" pid="m/VMarkl">Volker Markl</na></co>
+<co c="0"><na f="m/Martens:Wim" pid="95/3517">Wim Martens</na></co>
+<co c="0"><na f="m/Matta:Ibrahim" pid="m/IbrahimMatta">Ibrahim Matta</na></co>
+<co c="0"><na f="m/McSherry:Frank" pid="59/563">Frank McSherry</na></co>
+<co c="0"><na f="=/=Ouml=zsu:M=_Tamer" pid="o/MTamerOzsu">M. Tamer &#214;zsu</na></co>
+<co c="0"><na f="p/Papagiannaki:Konstantina" pid="70/3728">Konstantina Papagiannaki</na></co>
+<co c="0"><na f="p/Perini:Massimo" pid="246/0524">Massimo Perini</na></co>
+<co c="0"><na f="p/Peukert:Eric" pid="91/7933">Eric Peukert</na></co>
+<co c="0"><na f="p/Plantikow:Stefan" pid="93/3568">Stefan Plantikow</na></co>
+<co c="0"><na f="r/Ragab_0001:Mohamed" pid="205/4727">Mohamed Ragab 0001</na></co>
+<co c="0"><na f="r/Ramponi:Giorgia" pid="186/4493">Giorgia Ramponi</na></co>
+<co c="0"><na f="r/Raza_0003:Ali" pid="28/9187-3">Ali Raza 0003</na></co>
+<co c="0"><na f="r/Ripeanu:Matei" pid="93/24">Matei Ripeanu</na></co>
+<co c="0"><na f="r/Roscoe:Timothy" pid="r/TimothyRoscoe">Timothy Roscoe</na></co>
+<co c="0"><na f="s/Sakr:Sherif" pid="s/SherifSakr">Sherif Sakr</na></co>
+<co c="0"><na f="s/Salihoglu:Semih" pid="55/6560">Semih Salihoglu</na></co>
+<co c="0"><na f="s/Schulz_0003:Christian" pid="10/1388-3">Christian Schulz 0003</na></co>
+<co c="0"><na f="s/Selmer:Petra" pid="50/7441">Petra Selmer</na></co>
+<co c="0"><na f="s/Sequeda:Juan_F=" pid="93/3423">Juan F. Sequeda</na></co>
+<co c="0"><na f="s/Shang:Hui" pid="26/512">Hui Shang</na></co>
+<co c="0"><na f="s/Shinavier:Joshua" pid="27/3988">Joshua Shinavier</na></co>
+<co c="0"><na f="s/Simas:Tiago" pid="69/4914">Tiago Simas</na></co>
+<co c="0"><na f="s/Sz=aacute=rnyas:G=aacute=bor" pid="151/1414">G&#225;bor Sz&#225;rnyas</na></co>
+<co c="0"><na f="t/Tommasini_0001:Riccardo" pid="169/8184">Riccardo Tommasini 0001</na></co>
+<co c="0"><na f="t/Tumeo:Antonino" pid="53/3654">Antonino Tumeo</na></co>
+<co c="0"><na f="t/Tzoumas:Kostas" pid="61/7259">Kostas Tzoumas</na></co>
+<co c="0"><na f="u/Uta:Alexandru" pid="154/4519">Alexandru Uta</na></co>
+<co c="0"><na f="v/Valle:Emanuele_Della" pid="91/4526">Emanuele Della Valle</na></co>
+<co c="0"><na f="v/Varbanescu:Ana_Lucia" pid="62/3310">Ana Lucia Varbanescu</na></co>
+<co c="0"><na f="v/Varia:Mayank" pid="59/6288">Mayank Varia</na></co>
+<co c="0"><na f="v/Varvello:Matteo" pid="01/6280">Matteo Varvello</na></co>
+<co c="0"><na f="v/Vlassov:Vladimir" pid="47/1386">Vladimir Vlassov</na></co>
+<co c="0"><na f="v/Voigt:Hannes" pid="19/1082">Hannes Voigt</na></co>
+<co c="0"><na f="w/Wang:Yuanli" pid="99/4437">Yuanli Wang</na></co>
+<co c="0"><na f="w/Wicki:Sebastian" pid="204/9338">Sebastian Wicki</na></co>
+<co c="0"><na f="w/Wu:Hsiang=Yun" pid="11/7258">Hsiang-Yun Wu</na></co>
+<co c="0"><na f="y/Yakovets:Nikolay" pid="92/9686">Nikolay Yakovets</na></co>
+<co c="0"><na f="y/Yan_0001:Da" pid="81/9436-1">Da Yan 0001</na></co>
+<co c="0"><na f="y/Yoneki:Eiko" pid="12/6940">Eiko Yoneki</na></co>
+<co c="0"><na f="z/Zhang:Jerry" pid="39/9312">Jerry Zhang</na></co>
+<co c="0"><na f="z/Zwolak:Michal" pid="326/9189">Michal Zwolak</na></co>
+</coauthors>
+</dblpperson>

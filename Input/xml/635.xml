@@ -1,0 +1,222 @@
+<dblpperson name="Orestis Polychroniou" pid="131/4377" n="13">
+<person key="homepages/131/4377" mdate="2013-06-26">
+<author pid="131/4377">Orestis Polychroniou</author>
+</person>
+<r><inproceedings key="conf/sigmod/ArmenatzoglouBB22" mdate="2022-06-14">
+<author pid="58/1327">Nikos Armenatzoglou</author>
+<author pid="322/1659">Sanuj Basu</author>
+<author pid="322/1671">Naga Bhanoori</author>
+<author pid="92/6334">Mengchu Cai</author>
+<author pid="135/4688">Naresh Chainani</author>
+<author pid="322/1398">Kiran Chinta</author>
+<author pid="25/1585">Venkatraman Govindaraju</author>
+<author pid="g/ToddJGreen">Todd J. Green</author>
+<author pid="80/3921">Monish Gupta</author>
+<author pid="67/9320">Sebastian Hillig</author>
+<author pid="322/1405">Eric Hotinger</author>
+<author pid="322/1488">Yan Leshinksy</author>
+<author pid="322/1478">Jintian Liang</author>
+<author pid="322/1672">Michael McCreedy</author>
+<author pid="131/4779">Fabian Nagel</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="147/1187">Panos Parchas</author>
+<author pid="15/5643">Rahul Pathak</author>
+<author pid="131/4377">Orestis Polychroniou</author>
+<author pid="44/8127">Foyzur Rahman</author>
+<author pid="28/5706">Gaurav Saxena</author>
+<author pid="55/500">Gokul Soundararajan</author>
+<author pid="s/SriramSubramanian">Sriram Subramanian</author>
+<author pid="06/965">Doug Terry</author>
+<title>Amazon Redshift Re-invented.</title>
+<pages>2205-2217</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3526045</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#ArmenatzoglouBB22</url>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/PolychroniouR20" mdate="2020-12-31">
+<author orcid="0000-0002-3164-0137" pid="131/4377">Orestis Polychroniou</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>VIP: A SIMD vectorized analytical query engine.</title>
+<pages>1243-1261</pages>
+<year>2020</year>
+<volume>29</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00778-020-00621-w</ee>
+<url>db/journals/vldb/vldb29.html#PolychroniouR20</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/PolychroniouR19" mdate="2019-06-23">
+<author pid="131/4377">Orestis Polychroniou</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Towards Practical Vectorized Analytical Query Engines.</title>
+<pages>10:1-10:7</pages>
+<year>2019</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3329785.3329928</ee>
+<crossref>conf/damon/2019</crossref>
+<url>db/conf/damon/damon2019.html#PolychroniouR19</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/us/Polychroniou18" mdate="2022-04-19">
+<author pid="131/4377">Orestis Polychroniou</author>
+<title>Analytical Query Execution Optimized for all Layers of Modern Hardware.</title>
+<school>Columbia University, USA</school>
+<year>2018</year>
+<ee>https://doi.org/10.7916/D8Q25G8H</ee>
+</phdthesis>
+</r>
+<r><article key="journals/tods/PolychroniouZR18" mdate="2022-06-10">
+<author pid="131/4377">Orestis Polychroniou</author>
+<author pid="124/6700">Wangda Zhang</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Distributed Joins and Data Placement for Minimal Network Traffic.</title>
+<pages>14:1-14:45</pages>
+<year>2018</year>
+<volume>43</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3241039</ee>
+<url>db/journals/tods/tods43.html#PolychroniouZR18</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/SitaridiPR16" mdate="2018-11-06">
+<author pid="15/11515">Evangelia A. Sitaridi</author>
+<author pid="131/4377">Orestis Polychroniou</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>SIMD-accelerated regular expression matching.</title>
+<pages>8:1-8:7</pages>
+<year>2016</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2933349.2933357</ee>
+<crossref>conf/damon/2016</crossref>
+<url>db/conf/damon/damon2016.html#SitaridiPR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/PolychroniouR15" mdate="2018-11-06">
+<author pid="131/4377">Orestis Polychroniou</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Efficient Lightweight Compression Alongside Fast Scans.</title>
+<pages>9:1-9:6</pages>
+<year>2015</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2771937.2771943</ee>
+<crossref>conf/damon/2015</crossref>
+<url>db/conf/damon/damon2015.html#PolychroniouR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/PolychroniouRR15" mdate="2018-11-06">
+<author pid="131/4377">Orestis Polychroniou</author>
+<author pid="61/4142">Arun Raghavan</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Rethinking SIMD Vectorization for In-Memory Databases.</title>
+<pages>1493-1508</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2747645</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#PolychroniouRR15</url>
+</inproceedings>
+</r>
+<r><article key="journals/tocs/WuPBKR14" mdate="2023-06-26">
+<author orcid="0000-0002-3574-3440" pid="23/3943">Lisa Wu 0001</author>
+<author pid="131/4377">Orestis Polychroniou</author>
+<author pid="131/5135">Raymond J. Barker</author>
+<author orcid="0000-0001-6243-5753" pid="29/10949">Martha A. Kim</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Energy Analysis of Hardware and Software Range Partitioning.</title>
+<pages>8:1-8:24</pages>
+<year>2014</year>
+<volume>32</volume>
+<journal>ACM Trans. Comput. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2638550</ee>
+<url>db/journals/tocs/tocs32.html#WuPBKR14</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/PolychroniouR14" mdate="2018-11-06">
+<author pid="131/4377">Orestis Polychroniou</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Vectorized Bloom filters for advanced SIMD processors.</title>
+<pages>6:1-6:6</pages>
+<year>2014</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2619228.2619234</ee>
+<crossref>conf/damon/2014</crossref>
+<url>db/conf/damon/damon2014.html#PolychroniouR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/PolychroniouR14" mdate="2018-11-06">
+<author pid="131/4377">Orestis Polychroniou</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>A comprehensive study of main-memory partitioning and its application to large-scale comparison- and radix-sort.</title>
+<pages>755-766</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2610522</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#PolychroniouR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/PolychroniouSR14" mdate="2018-11-06">
+<author pid="131/4377">Orestis Polychroniou</author>
+<author pid="40/2065">Rajkumar Sen</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Track join: distributed joins with minimal network traffic.</title>
+<pages>1483-1494</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2610521</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#PolychroniouSR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/PolychroniouR13" mdate="2018-11-06">
+<author pid="131/4377">Orestis Polychroniou</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>High throughput heavy hitter aggregation for modern SIMD processors.</title>
+<pages>6</pages>
+<year>2013</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2485278.2485284</ee>
+<crossref>conf/damon/2013</crossref>
+<url>db/conf/damon/damon2013.html#PolychroniouR13</url>
+</inproceedings>
+</r>
+<coauthors n="31" nc="1">
+<co c="0"><na f="a/Armenatzoglou:Nikos" pid="58/1327">Nikos Armenatzoglou</na></co>
+<co c="0"><na f="b/Barker:Raymond_J=" pid="131/5135">Raymond J. Barker</na></co>
+<co c="0"><na f="b/Basu:Sanuj" pid="322/1659">Sanuj Basu</na></co>
+<co c="0"><na f="b/Bhanoori:Naga" pid="322/1671">Naga Bhanoori</na></co>
+<co c="0"><na f="c/Cai:Mengchu" pid="92/6334">Mengchu Cai</na></co>
+<co c="0"><na f="c/Chainani:Naresh" pid="135/4688">Naresh Chainani</na></co>
+<co c="0"><na f="c/Chinta:Kiran" pid="322/1398">Kiran Chinta</na></co>
+<co c="0"><na f="g/Govindaraju:Venkatraman" pid="25/1585">Venkatraman Govindaraju</na></co>
+<co c="0"><na f="g/Green:Todd_J=" pid="g/ToddJGreen">Todd J. Green</na></co>
+<co c="0"><na f="g/Gupta:Monish" pid="80/3921">Monish Gupta</na></co>
+<co c="0"><na f="h/Hillig:Sebastian" pid="67/9320">Sebastian Hillig</na></co>
+<co c="0"><na f="h/Hotinger:Eric" pid="322/1405">Eric Hotinger</na></co>
+<co c="0"><na f="k/Kim:Martha_A=" pid="29/10949">Martha A. Kim</na></co>
+<co c="0"><na f="l/Leshinksy:Yan" pid="322/1488">Yan Leshinksy</na></co>
+<co c="0"><na f="l/Liang:Jintian" pid="322/1478">Jintian Liang</na></co>
+<co c="0"><na f="m/McCreedy:Michael" pid="322/1672">Michael McCreedy</na></co>
+<co c="0"><na f="n/Nagel:Fabian" pid="131/4779">Fabian Nagel</na></co>
+<co c="0"><na f="p/Pandis:Ippokratis" pid="p/IppokratisPandis">Ippokratis Pandis</na></co>
+<co c="0"><na f="p/Parchas:Panos" pid="147/1187">Panos Parchas</na></co>
+<co c="0"><na f="p/Pathak:Rahul" pid="15/5643">Rahul Pathak</na></co>
+<co c="0"><na f="r/Raghavan:Arun" pid="61/4142">Arun Raghavan</na></co>
+<co c="0"><na f="r/Rahman:Foyzur" pid="44/8127">Foyzur Rahman</na></co>
+<co c="0"><na f="r/Ross:Kenneth_A=" pid="r/KARoss">Kenneth A. Ross</na></co>
+<co c="0"><na f="s/Saxena:Gaurav" pid="28/5706">Gaurav Saxena</na></co>
+<co c="0"><na f="s/Sen:Rajkumar" pid="40/2065">Rajkumar Sen</na></co>
+<co c="0"><na f="s/Sitaridi:Evangelia_A=" pid="15/11515">Evangelia A. Sitaridi</na></co>
+<co c="0"><na f="s/Soundararajan:Gokul" pid="55/500">Gokul Soundararajan</na></co>
+<co c="0"><na f="s/Subramanian:Sriram" pid="s/SriramSubramanian">Sriram Subramanian</na></co>
+<co c="0" n="2"><na f="t/Terry:Douglas_B=" pid="06/965">Douglas B. Terry</na><na>Doug Terry</na></co>
+<co c="0" n="2"><na f="w/Wills:Lisa_Wu" pid="23/3943">Lisa Wu Wills</na><na>Lisa Wu 0001</na></co>
+<co c="0"><na f="z/Zhang:Wangda" pid="124/6700">Wangda Zhang</na></co>
+</coauthors>
+</dblpperson>

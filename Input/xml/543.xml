@@ -1,0 +1,310 @@
+<dblpperson name="Max Heimel" pid="77/3753" n="18">
+<person key="homepages/77/3753" mdate="2022-12-20">
+<author pid="77/3753">Max Heimel</author>
+<note type="affiliation">Snowflake Inc.</note>
+<note label="former" type="affiliation">Technical University of Berlin, Germany</note>
+</person>
+<r><phdthesis key="phd/dnb/Heimel18" mdate="2021-07-17">
+<author pid="77/3753">Max Heimel</author>
+<title>Data processing on heterogeneous hardware.</title>
+<year>2018</year>
+<school>Technical University of Berlin, Germany</school>
+<ee>https://nbn-resolving.org/urn:nbn:de:101:1-2018081502022240921098</ee>
+<ee>https://d-nb.info/1164498258</ee>
+</phdthesis>
+</r>
+<r><article key="journals/pvldb/KieferHBM17" mdate="2023-09-30">
+<author orcid="0000-0001-8662-4591" pid="160/1082">Martin Kiefer</author>
+<author pid="77/3753">Max Heimel</author>
+<author pid="25/11440">Sebastian Bre&#223;</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<title>Estimating Join Selectivities using Bandwidth-Optimized Kernel Density Models.</title>
+<pages>2085-2096</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p2085-kiefer.pdf</ee>
+<ee>https://doi.org/10.14778/3151106.3151112</ee>
+<url>db/journals/pvldb/pvldb10.html#KieferHBM17</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/HeimelKM15" mdate="2023-09-30">
+<author pid="77/3753">Max Heimel</author>
+<author orcid="0000-0001-8662-4591" pid="160/1082">Martin Kiefer</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<title>Demonstrating Transfer-Efficient Sample Maintenance on Graphics Cards.</title>
+<pages>513-516</pages>
+<year>2015</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2015.46</ee>
+<crossref>conf/edbt/2015</crossref>
+<url>db/conf/edbt/edbt2015.html#HeimelKM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HeimelKM15" mdate="2023-09-30">
+<author pid="77/3753">Max Heimel</author>
+<author orcid="0000-0001-8662-4591" pid="160/1082">Martin Kiefer</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<title>Self-Tuning, GPU-Accelerated Kernel Density Models for Multidimensional Selectivity Estimation.</title>
+<pages>1477-1492</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2749438</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#HeimelKM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/RosenfeldHVM15" mdate="2020-03-12">
+<author pid="169/7279">Viktor Rosenfeld</author>
+<author pid="77/3753">Max Heimel</author>
+<author pid="169/7285">Christoph Viebig</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<title>The Operator Variant Selection Problem on Heterogeneous Hardware.</title>
+<pages>1-12</pages>
+<year>2015</year>
+<booktitle>ADMS@VLDB</booktitle>
+<ee type="oa">http://www.adms-conf.org/2015/ADMS_Viktor_Rosenfeld_CR.pdf</ee>
+<crossref>conf/vldb/2015adms</crossref>
+<url>db/conf/vldb/adms2015.html#RosenfeldHVM15</url>
+</inproceedings>
+</r>
+<r><article key="journals/dke/BressSHSLBS14" mdate="2017-05-20">
+<author pid="25/11440">Sebastian Bre&#223;</author>
+<author pid="99/1780">Norbert Siegmund</author>
+<author pid="77/3753">Max Heimel</author>
+<author pid="125/3311">Michael Saecker</author>
+<author pid="51/2915">Tobias Lauer</author>
+<author pid="b/LadjelBellatreche">Ladjel Bellatreche</author>
+<author pid="s/GunterSaake">Gunter Saake</author>
+<title>Load-aware inter-co-processor parallelism in database query processing.</title>
+<pages>60-79</pages>
+<year>2014</year>
+<volume>93</volume>
+<journal>Data Knowl. Eng.</journal>
+<ee>https://doi.org/10.1016/j.datak.2014.07.003</ee>
+<url>db/journals/dke/dke93.html#BressSHSLBS14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BressHSKMS14" mdate="2020-04-25">
+<author pid="25/11440">Sebastian Bre&#223;</author>
+<author pid="77/3753">Max Heimel</author>
+<author pid="125/3311">Michael Saecker</author>
+<author pid="149/5949">Bastian K&#246;cher</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="s/GunterSaake">Gunter Saake</author>
+<title>Ocelot/HyPE: Optimized Data Processing on Heterogeneous Hardware.</title>
+<pages>1609-1612</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p1609-bress.pdf</ee>
+<ee>https://doi.org/10.14778/2733004.2733042</ee>
+<url>db/journals/pvldb/pvldb7.html#BressHSKMS14</url>
+</article>
+</r>
+<r><article key="journals/tlsdkcs/BressHSBS14" mdate="2020-05-19">
+<author pid="25/11440">Sebastian Bre&#223;</author>
+<author pid="77/3753">Max Heimel</author>
+<author pid="99/1780">Norbert Siegmund</author>
+<author pid="b/LadjelBellatreche">Ladjel Bellatreche</author>
+<author pid="s/GunterSaake">Gunter Saake</author>
+<title>GPU-Accelerated Database Systems: Survey and Open Challenges.</title>
+<pages>1-35</pages>
+<year>2014</year>
+<volume>15</volume>
+<journal>Trans. Large Scale Data Knowl. Centered Syst.</journal>
+<ee>https://doi.org/10.1007/978-3-662-45761-0_1</ee>
+<crossref>journals/tlsdkcs/2014-15</crossref>
+<url>db/journals/tlsdkcs/tlsdkcs15.html#BressHSBS14</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/BroneskeBHS14" mdate="2021-01-29">
+<author pid="98/11442">David Broneske</author>
+<author pid="25/11440">Sebastian Bre&#223;</author>
+<author pid="77/3753">Max Heimel</author>
+<author pid="s/GunterSaake">Gunter Saake</author>
+<title>Toward Hardware-Sensitive Database Operations.</title>
+<pages>229-234</pages>
+<year>2014</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2014.22</ee>
+<crossref>conf/edbt/2014</crossref>
+<url>db/conf/edbt/edbt2014.html#BroneskeBHS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/HeimelHMBSM14" mdate="2021-01-29">
+<author pid="77/3753">Max Heimel</author>
+<author pid="142/9207">Filip Haase</author>
+<author pid="142/9181">Martin Meinke</author>
+<author pid="25/11440">Sebastian Bre&#223;</author>
+<author pid="125/3311">Michael Saecker</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<title>Demonstrating Self-Learning Algorithm Adaptivity in a Hardware-Oblivious Database Engine.</title>
+<pages>616-619</pages>
+<year>2014</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2014.57</ee>
+<crossref>conf/edbt/2014</crossref>
+<url>db/conf/edbt/edbt2014.html#HeimelHMBSM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KarnagelHLHLHM14" mdate="2018-11-06">
+<author pid="127/0442">Tomas Karnagel</author>
+<author pid="147/1188">Matthias Hille</author>
+<author pid="147/1167">Mario Ludwig</author>
+<author pid="97/5806">Dirk Habich</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="77/3753">Max Heimel</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<title>Demonstrating efficient query processing in heterogeneous environments.</title>
+<pages>693-696</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2594526</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#KarnagelHLHLHM14</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/HeimelSPMM13" mdate="2020-04-25">
+<author pid="77/3753">Max Heimel</author>
+<author pid="125/3311">Michael Saecker</author>
+<author pid="08/3969">Holger Pirk</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<title>Hardware-Oblivious Parallelism for In-Memory Column-Stores.</title>
+<pages>709-720</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p709-heimel.pdf</ee>
+<ee>https://doi.org/10.14778/2536360.2536370</ee>
+<url>db/journals/pvldb/pvldb6.html#HeimelSPMM13</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/BressHSBS13" mdate="2017-05-21">
+<author pid="25/11440">Sebastian Bre&#223;</author>
+<author pid="77/3753">Max Heimel</author>
+<author pid="99/1780">Norbert Siegmund</author>
+<author pid="b/LadjelBellatreche">Ladjel Bellatreche</author>
+<author pid="s/GunterSaake">Gunter Saake</author>
+<title>Exploring the Design Space of a GPU-Aware Database Architecture.</title>
+<pages>225-234</pages>
+<year>2013</year>
+<booktitle>ADBIS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-01863-8_25</ee>
+<crossref>conf/adbis/2013-2</crossref>
+<url>db/conf/adbis/adbis2013-2.html#BressHSBS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Heimel13" mdate="2018-11-06">
+<author pid="77/3753">Max Heimel</author>
+<title>Designing a database system for modern processing architectures.</title>
+<pages>13-18</pages>
+<year>2013</year>
+<booktitle>SIGMOD/PODS Ph.D. Symposium</booktitle>
+<ee>https://doi.org/10.1145/2483574.2483577</ee>
+<crossref>conf/sigmod/2013phd</crossref>
+<url>db/conf/sigmod/phd2013.html#Heimel13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/HeimelM12" mdate="2020-03-12">
+<author pid="77/3753">Max Heimel</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<title>A First Step Towards GPU-assisted Query Optimization.</title>
+<pages>33-44</pages>
+<year>2012</year>
+<booktitle>ADMS@VLDB</booktitle>
+<crossref>conf/vldb/2012adms</crossref>
+<ee type="oa">http://www.adms-conf.org/heimel_adms12.pdf</ee>
+<url>db/conf/vldb/adms2012.html#HeimelM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/AlexandrovEHHKMNW09" mdate="2023-07-04">
+<author pid="42/8510">Alexander Alexandrov 0001</author>
+<author pid="84/6339">Stephan Ewen</author>
+<author pid="77/3753">Max Heimel</author>
+<author pid="55/6773">Fabian Hueske</author>
+<author pid="24/2656">Odej Kao</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="65/2422">Erik Nijkamp</author>
+<author pid="31/2570">Daniel Warneke</author>
+<title>MapReduce and PACT - Comparing Data Parallel Programming Models.</title>
+<pages>25-44</pages>
+<year>2011</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2011</crossref>
+<url>db/conf/btw/btw2011.html#AlexandrovEHHKMNW09</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/19608</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings180/article10.html</ee>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/AlexandrovBEHHKMNW10" mdate="2020-04-25">
+<author pid="42/8510">Alexander Alexandrov 0001</author>
+<author pid="61/5093">Dominic Battr&#233;</author>
+<author pid="84/6339">Stephan Ewen</author>
+<author pid="77/3753">Max Heimel</author>
+<author pid="55/6773">Fabian Hueske</author>
+<author pid="24/2656">Odej Kao</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="65/2422">Erik Nijkamp</author>
+<author pid="31/2570">Daniel Warneke</author>
+<title>Massively Parallel Data Analysis with PACTs on Nephele.</title>
+<pages>1625-1628</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/D28.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1921056</ee>
+<url>db/journals/pvldb/pvldb3.html#AlexandrovBEHHKMNW10</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/HeimelMM09" mdate="2023-07-04">
+<author pid="77/3753">Max Heimel</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="37/276">Keshava Murthy</author>
+<title>A Bayesian Approach to Estimating the Selectivity of Conjunctive Predicates.</title>
+<pages>47-56</pages>
+<year>2009</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2009</crossref>
+<url>db/conf/btw/btw2009.html#HeimelMM09</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/20492</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings144/article4685.html</ee>
+</inproceedings>
+</r>
+<coauthors n="29" nc="1">
+<co c="0"><na f="a/Alexandrov_0001:Alexander" pid="42/8510">Alexander Alexandrov 0001</na></co>
+<co c="0"><na f="b/Battr=eacute=:Dominic" pid="61/5093">Dominic Battr&#233;</na></co>
+<co c="0"><na f="b/Bellatreche:Ladjel" pid="b/LadjelBellatreche">Ladjel Bellatreche</na></co>
+<co c="0"><na f="b/Bre=szlig=:Sebastian" pid="25/11440">Sebastian Bre&#223;</na></co>
+<co c="0"><na f="b/Broneske:David" pid="98/11442">David Broneske</na></co>
+<co c="0"><na f="e/Ewen:Stephan" pid="84/6339">Stephan Ewen</na></co>
+<co c="0"><na f="h/Haase:Filip" pid="142/9207">Filip Haase</na></co>
+<co c="0"><na f="h/Habich:Dirk" pid="97/5806">Dirk Habich</na></co>
+<co c="0"><na f="h/Hille:Matthias" pid="147/1188">Matthias Hille</na></co>
+<co c="0"><na f="h/Hueske:Fabian" pid="55/6773">Fabian Hueske</na></co>
+<co c="0"><na f="k/Kao:Odej" pid="24/2656">Odej Kao</na></co>
+<co c="0"><na f="k/Karnagel:Tomas" pid="127/0442">Tomas Karnagel</na></co>
+<co c="0"><na f="k/Kiefer:Martin" pid="160/1082">Martin Kiefer</na></co>
+<co c="0"><na f="k/K=ouml=cher:Bastian" pid="149/5949">Bastian K&#246;cher</na></co>
+<co c="0"><na f="l/Lauer:Tobias" pid="51/2915">Tobias Lauer</na></co>
+<co c="0"><na f="l/Lehner:Wolfgang" pid="l/WLehner">Wolfgang Lehner</na></co>
+<co c="0"><na f="l/Ludwig:Mario" pid="147/1167">Mario Ludwig</na></co>
+<co c="0"><na f="m/Manegold:Stefan" pid="m/StefanManegold">Stefan Manegold</na></co>
+<co c="0"><na f="m/Markl:Volker" pid="m/VMarkl">Volker Markl</na></co>
+<co c="0"><na f="m/Meinke:Martin" pid="142/9181">Martin Meinke</na></co>
+<co c="0"><na f="m/Murthy:Keshava" pid="37/276">Keshava Murthy</na></co>
+<co c="0"><na f="n/Nijkamp:Erik" pid="65/2422">Erik Nijkamp</na></co>
+<co c="0"><na f="p/Pirk:Holger" pid="08/3969">Holger Pirk</na></co>
+<co c="0"><na f="r/Rosenfeld:Viktor" pid="169/7279">Viktor Rosenfeld</na></co>
+<co c="0"><na f="s/Saake:Gunter" pid="s/GunterSaake">Gunter Saake</na></co>
+<co c="0"><na f="s/Saecker:Michael" pid="125/3311">Michael Saecker</na></co>
+<co c="0"><na f="s/Siegmund:Norbert" pid="99/1780">Norbert Siegmund</na></co>
+<co c="0"><na f="v/Viebig:Christoph" pid="169/7285">Christoph Viebig</na></co>
+<co c="0"><na f="w/Warneke:Daniel" pid="31/2570">Daniel Warneke</na></co>
+</coauthors>
+</dblpperson>

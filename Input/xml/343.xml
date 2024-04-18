@@ -1,0 +1,280 @@
+<dblpperson name="Iraklis Psaroudakis" pid="133/9910" n="15">
+<person key="homepages/133/9910" mdate="2013-09-04">
+<author pid="133/9910">Iraklis Psaroudakis</author>
+</person>
+<r><inproceedings key="conf/usenix/TrigonakisLFRPD21" mdate="2021-08-12">
+<author pid="93/11190">Vasileios Trigonakis</author>
+<author pid="133/3713">Jean-Pierre Lozi</author>
+<author pid="204/4288">Tom&#225;s Falt&#237;n</author>
+<author pid="203/0041">Nicholas P. Roth</author>
+<author pid="133/9910">Iraklis Psaroudakis</author>
+<author pid="281/7298">Arnaud Delamare</author>
+<author pid="220/5968">Vlad Haprian</author>
+<author pid="145/2121">Calin Iorgulescu</author>
+<author pid="199/2255">Petr Koupy</author>
+<author pid="55/1346">Jinsoo Lee</author>
+<author pid="93/5196">Sungpack Hong</author>
+<author pid="94/3582">Hassan Chafi</author>
+<title>aDFS: An Almost Depth-First-Search Distributed Graph-Querying System.</title>
+<pages>209-224</pages>
+<year>2021</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/atc21/presentation/trigonakis</ee>
+<crossref>conf/usenix/2021</crossref>
+<url>db/conf/usenix/usenix2021.html#TrigonakisLFRPD21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/FirmliTLPWCHC20" mdate="2021-01-25">
+<author pid="283/6833">Soukaina Firmli</author>
+<author pid="93/11190">Vasileios Trigonakis</author>
+<author pid="133/3713">Jean-Pierre Lozi</author>
+<author pid="133/9910">Iraklis Psaroudakis</author>
+<author pid="283/6738">Alexander Weld</author>
+<author pid="42/4681">Dalila Chiadmi</author>
+<author pid="93/5196">Sungpack Hong</author>
+<author pid="94/3582">Hassan Chafi</author>
+<title>CSR++: A Fast, Scalable, Update-Friendly Graph Data Structure.</title>
+<pages>17:1-17:16</pages>
+<year>2020</year>
+<booktitle>OPODIS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.OPODIS.2020.17</ee>
+<crossref>conf/opodis/2020</crossref>
+<url>db/conf/opodis/opodis2020.html#FirmliTLPWCHC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurosys/PsaroudakisKGGL18" mdate="2018-11-21">
+<author pid="133/9910">Iraklis Psaroudakis</author>
+<author pid="145/5124">Stefan Kaestle</author>
+<author pid="133/8749">Matthias Grimmer</author>
+<author pid="53/3236">Daniel Goodman</author>
+<author pid="133/3713">Jean-Pierre Lozi</author>
+<author pid="61/3834">Tim Harris 0001</author>
+<title>Analytics with smart arrays: adaptive and efficient language-independent data.</title>
+<pages>17:1-17:15</pages>
+<year>2018</year>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3190508.3190514</ee>
+<crossref>conf/eurosys/2018</crossref>
+<url>db/conf/eurosys/eurosys2018.html#PsaroudakisKGGL18</url>
+</inproceedings>
+</r>
+<r><book key="series/synthesis/2017Ailamaki" mdate="2023-10-19">
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="88/6520">Erietta Liarou</author>
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="69/9726">Danica Porobic</author>
+<author pid="133/9910">Iraklis Psaroudakis</author>
+<title>Databases on Modern Hardware: How to Stop Underutilization and Love Multicores</title>
+<publisher>Morgan &amp; Claypool Publishers</publisher>
+<year>2017</year>
+<series href="db/series/synthesis-dtm/index.html">Synthesis Lectures on Data Management</series>
+<isbn>978-3-031-00730-9</isbn>
+<isbn>978-3-031-01858-9</isbn>
+<ee>https://doi.org/10.2200/S00774ED1V01Y201704DTM045</ee>
+<ee>https://doi.org/10.1007/978-3-031-01858-9</ee>
+</book>
+</r>
+<r><phdthesis key="phd/ch/Psaroudakis16" mdate="2022-08-02">
+<author pid="133/9910">Iraklis Psaroudakis</author>
+<title>Scaling Up Concurrent Analytical Workloads on Multi-Core Servers.</title>
+<school>EPFL, Switzerland</school>
+<year>2016</year>
+<ee>https://doi.org/10.5075/epfl-thesis-7222</ee>
+<ee>https://infoscience.epfl.ch/record/222869</ee>
+</phdthesis>
+</r>
+<r><article key="journals/pvldb/PsaroudakisSMSA16" mdate="2020-04-25">
+<author pid="133/9910">Iraklis Psaroudakis</author>
+<author pid="135/3664">Tobias Scheuer</author>
+<author pid="89/6071">Norman May</author>
+<author pid="166/8369">Abdelkader Sellami</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Adaptive NUMA-aware data placement and task scheduling for analytical workloads in main-memory column-stores.</title>
+<pages>37-48</pages>
+<year>2016</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p37-psaroudakis.pdf</ee>
+<ee>https://doi.org/10.14778/3015274.3015275</ee>
+<url>db/journals/pvldb/pvldb10.html#PsaroudakisSMSA16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/PsaroudakisSMSA15" mdate="2020-04-25">
+<author pid="133/9910">Iraklis Psaroudakis</author>
+<author pid="135/3664">Tobias Scheuer</author>
+<author pid="89/6071">Norman May</author>
+<author pid="166/8369">Abdelkader Sellami</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Scaling Up Concurrent Main-Memory Column-Store Scans: Towards Adaptive NUMA-aware Data and Task Placement.</title>
+<pages>1442-1453</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1442-psaroudakis.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824043</ee>
+<url>db/journals/pvldb/pvldb8.html#PsaroudakisSMSA15</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/AilamakiLTPP15" mdate="2023-06-26">
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="88/6520">Erietta Liarou</author>
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author orcid="0009-0003-4943-1530" pid="69/9726">Danica Porobic</author>
+<author pid="133/9910">Iraklis Psaroudakis</author>
+<title>How to stop under-utilization and love multicores.</title>
+<pages>1530-1533</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113419</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113419</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#AilamakiLTPP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/WolfPMAS15" mdate="2018-11-06">
+<author pid="12/4465">Florian Wolf</author>
+<author pid="133/9910">Iraklis Psaroudakis</author>
+<author pid="89/6071">Norman May</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<title>Extending database task schedulers for multi-threaded application code.</title>
+<pages>25:1-25:12</pages>
+<year>2015</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1145/2791347.2791379</ee>
+<crossref>conf/ssdbm/2015</crossref>
+<url>db/conf/ssdbm/ssdbm2015.html#WolfPMAS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/PsaroudakisKPILTAL14" mdate="2023-09-30">
+<author pid="133/9910">Iraklis Psaroudakis</author>
+<author pid="97/11514">Thomas Kissinger</author>
+<author orcid="0009-0003-4943-1530" pid="69/9726">Danica Porobic</author>
+<author pid="63/9894">Thomas Ilsche</author>
+<author pid="88/6520">Erietta Liarou</author>
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<title>Dynamic fine-grained scheduling for energy-efficient main-memory queries.</title>
+<pages>1:1-1:7</pages>
+<year>2014</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2619228.2619229</ee>
+<crossref>conf/damon/2014</crossref>
+<url>db/conf/damon/damon2014.html#PsaroudakisKPILTAL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AilamakiLTPP14" mdate="2023-06-26">
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="88/6520">Erietta Liarou</author>
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author orcid="0009-0003-4943-1530" pid="69/9726">Danica Porobic</author>
+<author pid="133/9910">Iraklis Psaroudakis</author>
+<title>How to stop under-utilization and love multicores.</title>
+<pages>189-192</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2588892</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#AilamakiLTPP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/PsaroudakisAOA14" mdate="2018-11-06">
+<author pid="133/9910">Iraklis Psaroudakis</author>
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<author pid="147/1263">Matthaios Olma</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Reactive and proactive sharing across concurrent analytical queries.</title>
+<pages>889-892</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2594514</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#PsaroudakisAOA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpctc/PsaroudakisWM00AS14" mdate="2018-11-02">
+<author pid="133/9910">Iraklis Psaroudakis</author>
+<author pid="12/4465">Florian Wolf</author>
+<author pid="89/6071">Norman May</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="92/6505">Alexander B&#246;hm 0002</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<title>Scaling Up Mixed Workloads: A Battle of Data Freshness, Flexibility, and Scheduling.</title>
+<pages>97-112</pages>
+<year>2014</year>
+<booktitle>TPCTC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-15350-6_7</ee>
+<crossref>conf/tpctc/2014</crossref>
+<url>db/conf/tpctc/tpctc2014.html#PsaroudakisWM00AS14</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/PsaroudakisAA13" mdate="2020-04-25">
+<author pid="133/9910">Iraklis Psaroudakis</author>
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Sharing Data and Work Across Concurrent Analytical Queries.</title>
+<pages>637-648</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p637-psaroudakis.pdf</ee>
+<ee>https://doi.org/10.14778/2536360.2536364</ee>
+<url>db/journals/pvldb/pvldb6.html#PsaroudakisAA13</url>
+</article>
+</r>
+<r><inproceedings key="conf/vldb/PsaroudakisSMA13" mdate="2020-03-12">
+<author pid="133/9910">Iraklis Psaroudakis</author>
+<author pid="135/3664">Tobias Scheuer</author>
+<author pid="89/6071">Norman May</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Task Scheduling for Highly Concurrent Analytical and Transactional Main-Memory Workloads.</title>
+<pages>36-45</pages>
+<year>2013</year>
+<booktitle>ADMS@VLDB</booktitle>
+<crossref>conf/vldb/2013adms</crossref>
+<ee type="oa">http://www.adms-conf.org/2013/psaroudakis_adms13.pdf</ee>
+<url>db/conf/vldb/adms2013.html#PsaroudakisSMA13</url>
+</inproceedings>
+</r>
+<coauthors n="34" nc="1">
+<co c="0"><na f="a/Ailamaki:Anastasia" pid="a/AnastassiaAilamaki">Anastasia Ailamaki</na></co>
+<co c="0"><na f="a/Athanassoulis:Manos" pid="82/7402">Manos Athanassoulis</na></co>
+<co c="0"><na f="b/B=ouml=hm_0002:Alexander" pid="92/6505">Alexander B&#246;hm 0002</na></co>
+<co c="0"><na f="c/Chafi:Hassan" pid="94/3582">Hassan Chafi</na></co>
+<co c="0"><na f="c/Chiadmi:Dalila" pid="42/4681">Dalila Chiadmi</na></co>
+<co c="0"><na f="d/Delamare:Arnaud" pid="281/7298">Arnaud Delamare</na></co>
+<co c="0"><na f="f/Falt=iacute=n:Tom=aacute=s" pid="204/4288">Tom&#225;s Falt&#237;n</na></co>
+<co c="0"><na f="f/Firmli:Soukaina" pid="283/6833">Soukaina Firmli</na></co>
+<co c="0"><na f="g/Goodman:Daniel" pid="53/3236">Daniel Goodman</na></co>
+<co c="0"><na f="g/Grimmer:Matthias" pid="133/8749">Matthias Grimmer</na></co>
+<co c="0"><na f="h/Haprian:Vlad" pid="220/5968">Vlad Haprian</na></co>
+<co c="0"><na f="h/Harris_0001:Tim" pid="61/3834">Tim Harris 0001</na></co>
+<co c="0"><na f="h/Hong:Sungpack" pid="93/5196">Sungpack Hong</na></co>
+<co c="0"><na f="i/Ilsche:Thomas" pid="63/9894">Thomas Ilsche</na></co>
+<co c="0"><na f="i/Iorgulescu:Calin" pid="145/2121">Calin Iorgulescu</na></co>
+<co c="0"><na f="k/Kaestle:Stefan" pid="145/5124">Stefan Kaestle</na></co>
+<co c="0"><na f="k/Kissinger:Thomas" pid="97/11514">Thomas Kissinger</na></co>
+<co c="0"><na f="k/Koupy:Petr" pid="199/2255">Petr Koupy</na></co>
+<co c="0"><na f="l/Lee:Jinsoo" pid="55/1346">Jinsoo Lee</na></co>
+<co c="0"><na f="l/Lehner:Wolfgang" pid="l/WLehner">Wolfgang Lehner</na></co>
+<co c="0"><na f="l/Liarou:Erietta" pid="88/6520">Erietta Liarou</na></co>
+<co c="0"><na f="l/Lozi:Jean=Pierre" pid="133/3713">Jean-Pierre Lozi</na></co>
+<co c="0"><na f="m/May:Norman" pid="89/6071">Norman May</na></co>
+<co c="0"><na f="n/Neumann_0001:Thomas" pid="n/ThomasNeumann">Thomas Neumann 0001</na></co>
+<co c="0"><na f="o/Olma:Matthaios" pid="147/1263">Matthaios Olma</na></co>
+<co c="0"><na f="p/Porobic:Danica" pid="69/9726">Danica Porobic</na></co>
+<co c="0"><na f="r/Roth:Nicholas_P=" pid="203/0041">Nicholas P. Roth</na></co>
+<co c="0"><na f="s/Sattler:Kai=Uwe" pid="s/KaiUweSattler">Kai-Uwe Sattler</na></co>
+<co c="0"><na f="s/Scheuer:Tobias" pid="135/3664">Tobias Scheuer</na></co>
+<co c="0"><na f="s/Sellami:Abdelkader" pid="166/8369">Abdelkader Sellami</na></co>
+<co c="0"><na f="t/T=ouml=z=uuml=n:Pinar" pid="86/9726">Pinar T&#246;z&#252;n</na></co>
+<co c="0"><na f="t/Trigonakis:Vasileios" pid="93/11190">Vasileios Trigonakis</na></co>
+<co c="0"><na f="w/Weld:Alexander" pid="283/6738">Alexander Weld</na></co>
+<co c="0"><na f="w/Wolf:Florian" pid="12/4465">Florian Wolf</na></co>
+</coauthors>
+</dblpperson>

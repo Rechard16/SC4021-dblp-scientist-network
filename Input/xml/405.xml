@@ -1,0 +1,497 @@
+<dblpperson name="John Liagouris" pid="95/9170" n="30">
+<person key="homepages/95/9170" mdate="2011-02-21">
+<author pid="95/9170">John Liagouris</author>
+</person>
+<r><inproceedings key="conf/nsdi/LiagourisKFV23" mdate="2023-05-11">
+<author pid="95/9170">John Liagouris</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="81/7083">Muhammad Faisal</author>
+<author pid="59/6288">Mayank Varia</author>
+<title>SECRECY: Secure collaborative analytics in untrusted clouds.</title>
+<pages>1031-1056</pages>
+<year>2023</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi23/presentation/liagouris</ee>
+<crossref>conf/nsdi/2023</crossref>
+<url>db/conf/nsdi/nsdi2023.html#LiagourisKFV23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/FaisalZLKV23" mdate="2023-10-18">
+<author pid="81/7083">Muhammad Faisal</author>
+<author pid="39/9312">Jerry Zhang</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="59/6288">Mayank Varia</author>
+<title>TVA: A multi-party computation system for secure and expressive time series analytics.</title>
+<year>2023</year>
+<booktitle>USENIX Security Symposium</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenixsecurity23/presentation/faisal</ee>
+<crossref>conf/uss/2023</crossref>
+<url>db/conf/uss/uss2023.html#FaisalZLKV23</url>
+<pages>5395-5412</pages>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/FaisalZLKV23" mdate="2023-08-04">
+<author pid="81/7083">Muhammad Faisal</author>
+<author pid="39/9312">Jerry Zhang</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="59/6288">Mayank Varia</author>
+<title>TVA: A multi-party computation system for secure and expressive time series analytics.</title>
+<pages>1120</pages>
+<year>2023</year>
+<volume>2023</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2023/1120</ee>
+<url>db/journals/iacr/iacr2023.html#FaisalZLKV23</url>
+</article>
+</r>
+<r><inproceedings key="conf/eurosys/AsyabiWLKB22" mdate="2022-03-30">
+<author pid="170/7678">Esmail Asyabi</author>
+<author pid="99/4437">Yuanli Wang</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="b/ABestavros">Azer Bestavros</author>
+<title>A new benchmark harness for systematic and robust evaluation of streaming state stores.</title>
+<pages>559-574</pages>
+<year>2022</year>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3492321.3519592</ee>
+<crossref>conf/eurosys/2022</crossref>
+<url>db/conf/eurosys/eurosys2022.html#AsyabiWLKB22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-01048" mdate="2021-02-09">
+<author pid="95/9170">John Liagouris</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="81/7083">Muhammad Faisal</author>
+<author pid="59/6288">Mayank Varia</author>
+<title>Secrecy: Secure collaborative analytics on secret-shared data.</title>
+<year>2021</year>
+<volume>abs/2102.01048</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.01048</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-01048</url>
+</article>
+</r>
+<r><inproceedings key="conf/hotstorage/KalavriL20" mdate="2021-02-02">
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="95/9170">John Liagouris</author>
+<title>In support of workload-aware streaming state management.</title>
+<year>2020</year>
+<booktitle>HotStorage</booktitle>
+<ee type="oa">https://www.usenix.org/conference/hotstorage20/presentation/kalavri</ee>
+<crossref>conf/hotstorage/2020</crossref>
+<url>db/conf/hotstorage/hotstorage2020.html#KalavriL20</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/HoffmannLMKLR19" mdate="2024-02-05">
+<author pid="188/9957-1">Moritz Hoffmann 0001</author>
+<author orcid="0000-0002-9303-452X" pid="181/5922">Andrea Lattuada</author>
+<author pid="59/563">Frank McSherry</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="r/TimothyRoscoe">Timothy Roscoe</author>
+<title>Megaphone: Latency-conscious state migration for distributed streaming dataflows.</title>
+<pages>1002-1015</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1002-hoffmann.pdf</ee>
+<ee>https://doi.org/10.14778/3329772.3329777</ee>
+<url>db/journals/pvldb/pvldb12.html#HoffmannLMKLR19</url>
+</article>
+</r>
+<r><article key="journals/vldb/TheocharidisLMB19" mdate="2023-09-30">
+<author orcid="0000-0002-1725-1282" pid="204/0120">Konstantinos Theocharidis</author>
+<author orcid="0000-0003-4692-3022" pid="95/9170">John Liagouris</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author orcid="0000-0002-8846-4330" pid="38/4801">Panagiotis Bouros</author>
+<author orcid="0000-0003-0784-8402" pid="t/ManolisTerrovitis">Manolis Terrovitis</author>
+<title>SRX: efficient management of spatial RDF data.</title>
+<pages>703-733</pages>
+<year>2019</year>
+<volume>28</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-019-00554-z</ee>
+<url>db/journals/vldb/vldb28.html#TheocharidisLMB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/birte/BrookesKL19" mdate="2019-10-09">
+<author pid="250/3338">Matthew Brookes</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="95/9170">John Liagouris</author>
+<title>FASTER State Management for Timely Dataflow.</title>
+<pages>4:1-4:3</pages>
+<year>2019</year>
+<booktitle>BIRTE</booktitle>
+<ee>https://doi.org/10.1145/3350489.3350493</ee>
+<crossref>conf/birte/2019</crossref>
+<url>db/conf/birte/birte2019.html#BrookesKL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sosp/WangLNMMTS19" mdate="2019-10-21">
+<author pid="175/6757">Stephanie Wang</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="147/4809">Robert Nishihara</author>
+<author pid="159/2099">Philipp Moritz</author>
+<author pid="251/1809">Ujval Misra</author>
+<author pid="41/6224">Alexey Tumanov</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<title>Lineage stash: fault tolerance off the critical path.</title>
+<pages>338-352</pages>
+<year>2019</year>
+<booktitle>SOSP</booktitle>
+<ee>https://doi.org/10.1145/3341301.3359653</ee>
+<crossref>conf/sosp/2019</crossref>
+<url>db/conf/sosp/sosp2019.html#WangLNMMTS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nsdi/HoffmannLLKDWCR18" mdate="2023-05-19">
+<author pid="188/9957-1">Moritz Hoffmann 0001</author>
+<author pid="181/5922">Andrea Lattuada</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="66/4739">Desislava C. Dimitrova</author>
+<author pid="204/9338">Sebastian Wicki</author>
+<author pid="151/7519">Zaheer Chothia</author>
+<author pid="r/TimothyRoscoe">Timothy Roscoe</author>
+<title>SnailTrail: Generalizing Critical Paths for Online Analysis of Distributed Dataflows.</title>
+<pages>95-110</pages>
+<year>2018</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi18/presentation/hoffmann</ee>
+<crossref>conf/nsdi/2018</crossref>
+<url>db/conf/nsdi/nsdi2018.html#HoffmannLLKDWCR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/osdi/KalavriLHDFR18" mdate="2023-05-19">
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="188/9957-1">Moritz Hoffmann 0001</author>
+<author pid="66/4739">Desislava C. Dimitrova</author>
+<author pid="125/6236">Matthew Forshaw</author>
+<author pid="r/TimothyRoscoe">Timothy Roscoe</author>
+<title>Three steps is all you need: fast, accurate, automatic scaling decisions for distributed streaming dataflows.</title>
+<pages>783-798</pages>
+<year>2018</year>
+<booktitle>OSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/osdi18/presentation/kalavri</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3291226</ee>
+<crossref>conf/osdi/2018</crossref>
+<url>db/conf/osdi/osdi2018.html#KalavriLHDFR18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-06893" mdate="2023-05-19">
+<author orcid="0000-0002-8235-7665" pid="66/4739">Desislava C. Dimitrova</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="204/9338">Sebastian Wicki</author>
+<author pid="188/9957-1">Moritz Hoffmann 0001</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="r/TimothyRoscoe">Timothy Roscoe</author>
+<title>DeltaPath: dataflow-based high-performance incremental routing.</title>
+<year>2018</year>
+<volume>abs/1808.06893</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.06893</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-06893</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-01371" mdate="2023-05-19">
+<author pid="188/9957-1">Moritz Hoffmann 0001</author>
+<author pid="181/5922">Andrea Lattuada</author>
+<author pid="59/563">Frank McSherry</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="r/TimothyRoscoe">Timothy Roscoe</author>
+<title>Megaphone: Live state migration for distributed streaming dataflows.</title>
+<year>2018</year>
+<volume>abs/1812.01371</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.01371</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-01371</url>
+</article>
+</r>
+<r><inproceedings key="conf/eurosys/ChothiaLDR17" mdate="2019-10-19">
+<author pid="151/7519">Zaheer Chothia</author>
+<author orcid="0000-0003-4692-3022" pid="95/9170">John Liagouris</author>
+<author orcid="0000-0002-8235-7665" pid="66/4739">Desislava C. Dimitrova</author>
+<author pid="r/TimothyRoscoe">Timothy Roscoe</author>
+<title>Online Reconstruction of Structural Information from Datacenter Logs.</title>
+<pages>344-358</pages>
+<year>2017</year>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3064176.3064195</ee>
+<crossref>conf/eurosys/2017</crossref>
+<url>db/conf/eurosys/eurosys2017.html#ChothiaLDR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcomm/DimitrovaLHKWR17" mdate="2023-05-19">
+<author pid="66/4739">Desislava C. Dimitrova</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="188/9957-1">Moritz Hoffmann 0001</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="204/9338">Sebastian Wicki</author>
+<author pid="r/TimothyRoscoe">Timothy Roscoe</author>
+<title>Quick Incremental Routing Logic for Dynamic Network Graphs.</title>
+<pages>9-11</pages>
+<year>2017</year>
+<booktitle>SIGCOMM Posters and Demos</booktitle>
+<ee>https://doi.org/10.1145/3123878.3131968</ee>
+<crossref>conf/sigcomm/2017p</crossref>
+<url>db/conf/sigcomm/p2017.html#DimitrovaLHKWR17</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/ChothiaLMR16" mdate="2020-04-25">
+<author pid="151/7519">Zaheer Chothia</author>
+<author orcid="0000-0003-4692-3022" pid="95/9170">John Liagouris</author>
+<author pid="59/563">Frank McSherry</author>
+<author pid="r/TimothyRoscoe">Timothy Roscoe</author>
+<title>Explaining Outputs in Modern Data Analytics.</title>
+<pages>1137-1148</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p1137-chothia.pdf</ee>
+<ee>https://doi.org/10.14778/2994509.2994530</ee>
+<url>db/journals/pvldb/pvldb9.html#ChothiaLMR16</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/BikakisLKPS16" mdate="2023-03-23">
+<author orcid="0000-0001-6859-1941" pid="57/7247">Nikos Bikakis</author>
+<author orcid="0000-0003-4692-3022" pid="95/9170">John Liagouris</author>
+<author pid="164/5555">Maria Krommyda</author>
+<author orcid="0000-0002-9273-9843" pid="44/2379">George Papastefanatos</author>
+<author orcid="0000-0002-9067-5639" pid="s/TimosKSellis">Timos K. Sellis</author>
+<title>graphVizdb: A scalable platform for interactive large graph visualization.</title>
+<pages>1342-1345</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498340</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498340</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#BikakisLKPS16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BikakisLKPS16" mdate="2019-09-17">
+<author pid="57/7247">Nikos Bikakis</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="164/5555">Maria Krommyda</author>
+<author pid="44/2379">George Papastefanatos</author>
+<author orcid="0000-0002-9067-5639" pid="s/TimosKSellis">Timos K. Sellis</author>
+<title>graphVizdb: A Scalable Platform for Interactive Large Graph Visualization.</title>
+<year>2016</year>
+<volume>abs/1602.06401</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.06401</ee>
+<url>db/journals/corr/corr1602.html#BikakisLKPS16</url>
+</article>
+</r>
+<r><phdthesis key="phd/gr/Liagouris15" mdate="2024-01-17">
+<author pid="95/9170">John Liagouris</author>
+<title>&#931;&#951;&#956;&#945;&#963;&#953;&#959;&#955;&#959;&#947;&#953;&#954;&#941;&#962; &#960;&#961;&#959;&#963;&#949;&#947;&#947;&#943;&#963;&#949;&#953;&#962; &#963;&#964;&#951;&#957; &#960;&#961;&#959;&#963;&#964;&#945;&#963;&#943;&#945; &#964;&#951;&#962; &#953;&#948;&#953;&#969;&#964;&#953;&#954;&#972;&#964;&#951;&#964;&#945;&#962; &#963;&#949; &#948;&#949;&#948;&#959;&#956;&#941;&#957;&#945; &#954;&#945;&#964;&#945;&#947;&#961;&#945;&#966;&#974;&#957; &#963;&#965;&#956;&#960;&#949;&#961;&#953;&#966;&#959;&#961;&#940;&#962; &#963;&#964;&#959;&#957; &#953;&#963;&#964;&#972;</title>
+<school>National Technical University of Athens, Greece</school>
+<year>2015</year>
+<note type="source">National Archive of PhD Theses: oai:10442/39783</note>
+<ee>http://hdl.handle.net/10442/hedi/39783</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/esws/BikakisLKPS15" mdate="2024-02-05">
+<author orcid="0000-0001-6859-1941" pid="57/7247">Nikos Bikakis</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="164/5555">Maria Kromida</author>
+<author orcid="0000-0002-9273-9843" pid="44/2379">George Papastefanatos</author>
+<author orcid="0000-0002-9067-5639" pid="s/TimosKSellis">Timos K. Sellis</author>
+<title>Towards Scalable Visual Exploration of Very Large RDF Graphs.</title>
+<pages>9-13</pages>
+<year>2015</year>
+<booktitle>ESWC (Satellite Events)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-25639-9_2</ee>
+<crossref>conf/esws/2015s</crossref>
+<url>db/conf/esws/eswc2015s.html#BikakisLKPS15</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/15/LoukidesLGT15" mdate="2022-10-02">
+<author pid="96/4724">Grigorios Loukides</author>
+<author orcid="0000-0003-4692-3022" pid="95/9170">John Liagouris</author>
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<author orcid="0000-0003-0784-8402" pid="t/ManolisTerrovitis">Manolis Terrovitis</author>
+<title>Utility-Constrained Electronic Health Record Data Publishing Through Generalization and Disassociation.</title>
+<pages>149-177</pages>
+<year>2015</year>
+<booktitle>Medical Data Privacy Handbook</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23633-9_7</ee>
+<crossref>books/sp/GL2015</crossref>
+<url>db/books/collections/GL2015.html#LoukidesLGT15</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/BikakisLKPS15" mdate="2019-09-17">
+<author pid="57/7247">Nikos Bikakis</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="164/5555">Maria Krommyda</author>
+<author pid="44/2379">George Papastefanatos</author>
+<author orcid="0000-0002-9067-5639" pid="s/TimosKSellis">Timos K. Sellis</author>
+<title>Towards Scalable Visual Exploration of Very Large RDF Graphs.</title>
+<year>2015</year>
+<volume>abs/1506.04333</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1506.04333</ee>
+<url>db/journals/corr/corr1506.html#BikakisLKPS15</url>
+</article>
+</r>
+<r><article key="journals/jbi/LoukidesLGT14" mdate="2022-10-02">
+<author orcid="0000-0003-0888-5061" pid="96/4724">Grigorios Loukides</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<author orcid="0000-0003-0784-8402" pid="t/ManolisTerrovitis">Manolis Terrovitis</author>
+<title>Disassociation for electronic health record privacy.</title>
+<pages>46-61</pages>
+<year>2014</year>
+<volume>50</volume>
+<journal>J. Biomed. Informatics</journal>
+<ee type="oa">https://doi.org/10.1016/j.jbi.2014.05.009</ee>
+<ee>https://www.wikidata.org/entity/Q42663149</ee>
+<url>db/journals/jbi/jbi50.html#LoukidesLGT14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiagourisMBT14" mdate="2022-10-02">
+<author orcid="0000-0003-4692-3022" pid="95/9170">John Liagouris</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author orcid="0000-0002-8846-4330" pid="38/4801">Panagiotis Bouros</author>
+<author orcid="0000-0003-0784-8402" pid="t/ManolisTerrovitis">Manolis Terrovitis</author>
+<title>An Effective Encoding Scheme for Spatial RDF Data.</title>
+<pages>1271-1282</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p1271-liagouris.pdf</ee>
+<ee>https://doi.org/10.14778/2732977.2733000</ee>
+<url>db/journals/pvldb/pvldb7.html#LiagourisMBT14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiagourisT14" mdate="2022-10-02">
+<author orcid="0000-0003-4692-3022" pid="95/9170">John Liagouris</author>
+<author orcid="0000-0003-0784-8402" pid="t/ManolisTerrovitis">Manolis Terrovitis</author>
+<title>Efficient Identification of Implicit Facts in Incomplete OWL2-EL Knowledge Bases.</title>
+<pages>1993-2004</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>14</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p1993-liagouris.pdf</ee>
+<ee>https://doi.org/10.14778/2733085.2733104</ee>
+<url>db/journals/pvldb/pvldb7.html#LiagourisT14</url>
+</article>
+</r>
+<r><inproceedings key="conf/ercimdl/BikakisGLSDS13" mdate="2024-02-05">
+<author orcid="0000-0001-6859-1941" pid="57/7247">Nikos Bikakis</author>
+<author orcid="0000-0002-8252-9869" pid="42/4419">Giorgos Giannopoulos</author>
+<author pid="95/9170">John Liagouris</author>
+<author orcid="0000-0002-6118-5227" pid="s/DimitriosSkoutas">Dimitrios Skoutas 0001</author>
+<author orcid="0000-0002-5002-7901" pid="18/5542">Theodore Dalamagas 0001</author>
+<author orcid="0000-0002-9067-5639" pid="s/TimosKSellis">Timos K. Sellis</author>
+<title>RDivF: Diversifying Keyword Search on RDF Graphs.</title>
+<pages>413-416</pages>
+<year>2013</year>
+<booktitle>TPDL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-40501-3_49</ee>
+<ee>https://www.wikidata.org/entity/Q105607468</ee>
+<crossref>conf/ercimdl/2013</crossref>
+<url>db/conf/ercimdl/tpdl2013.html#BikakisGLSDS13</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/TerrovitisLMS12" mdate="2022-10-02">
+<author orcid="0000-0003-0784-8402" pid="t/ManolisTerrovitis">Manolis Terrovitis</author>
+<author orcid="0000-0003-4692-3022" pid="95/9170">John Liagouris</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author orcid="0000-0003-3465-8292" pid="01/5237">Spiros Skiadopoulos</author>
+<title>Privacy Preservation by Disassociation.</title>
+<pages>944-955</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p944_manolisterrovitis_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2336664.2336668</ee>
+<url>db/journals/pvldb/pvldb5.html#TerrovitisLMS12</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1207-0135" mdate="2018-08-13">
+<author pid="t/ManolisTerrovitis">Manolis Terrovitis</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="01/5237">Spiros Skiadopoulos</author>
+<title>Privacy Preservation by Disassociation</title>
+<ee type="oa">http://arxiv.org/abs/1207.0135</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1207.0135</volume>
+<url>db/journals/corr/corr1207.html#abs-1207-0135</url>
+</article>
+</r>
+<r><inproceedings key="conf/w2gis/LiagourisAEPPTV10" mdate="2017-06-05">
+<author pid="95/9170">John Liagouris</author>
+<author pid="08/7128">Spiros Athanasiou</author>
+<author orcid="0000-0002-7719-8938" pid="40/3786">Alexandros Efentakis</author>
+<author pid="09/4198">Stefan Pfennigschmidt</author>
+<author pid="p/DieterPfoser">Dieter Pfoser</author>
+<author pid="96/9170">Eleni Tsigka</author>
+<author pid="v/AVoisard">Agn&#232;s Voisard</author>
+<title>Mobile Task Computing: Beyond Location-Based Services and EBooks.</title>
+<pages>124-141</pages>
+<year>2011</year>
+<booktitle>W2GIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-19173-2_11</ee>
+<crossref>conf/w2gis/2010</crossref>
+<url>db/conf/w2gis/w2gis2010.html#LiagourisAEPPTV10</url>
+</inproceedings>
+</r>
+<coauthors n="42" nc="2">
+<co c="0"><na f="a/Asyabi:Esmail" pid="170/7678">Esmail Asyabi</na></co>
+<co c="1"><na f="a/Athanasiou:Spiros" pid="08/7128">Spiros Athanasiou</na></co>
+<co c="0"><na f="b/Bestavros:Azer" pid="b/ABestavros">Azer Bestavros</na></co>
+<co c="1"><na f="b/Bikakis:Nikos" pid="57/7247">Nikos Bikakis</na></co>
+<co c="1"><na f="b/Bouros:Panagiotis" pid="38/4801">Panagiotis Bouros</na></co>
+<co c="0"><na f="b/Brookes:Matthew" pid="250/3338">Matthew Brookes</na></co>
+<co c="0"><na f="c/Chothia:Zaheer" pid="151/7519">Zaheer Chothia</na></co>
+<co c="1"><na f="d/Dalamagas_0001:Theodore" pid="18/5542">Theodore Dalamagas 0001</na></co>
+<co c="0"><na f="d/Dimitrova:Desislava_C=" pid="66/4739">Desislava C. Dimitrova</na></co>
+<co c="1"><na f="e/Efentakis:Alexandros" pid="40/3786">Alexandros Efentakis</na></co>
+<co c="0"><na f="f/Faisal:Muhammad" pid="81/7083">Muhammad Faisal</na></co>
+<co c="0"><na f="f/Forshaw:Matthew" pid="125/6236">Matthew Forshaw</na></co>
+<co c="1"><na f="g/Giannopoulos:Giorgos" pid="42/4419">Giorgos Giannopoulos</na></co>
+<co c="1"><na f="g/Gkoulalas=Divanis:Aris" pid="64/4944">Aris Gkoulalas-Divanis</na></co>
+<co c="0"><na f="h/Hoffmann_0001:Moritz" pid="188/9957-1">Moritz Hoffmann 0001</na></co>
+<co c="0"><na f="k/Kalavri:Vasiliki" pid="132/6943">Vasiliki Kalavri</na></co>
+<co c="1" n="2"><na f="k/Krommyda:Maria" pid="164/5555">Maria Krommyda</na><na>Maria Kromida</na></co>
+<co c="0"><na f="l/Lattuada:Andrea" pid="181/5922">Andrea Lattuada</na></co>
+<co c="1"><na f="l/Loukides:Grigorios" pid="96/4724">Grigorios Loukides</na></co>
+<co c="1"><na f="m/Mamoulis:Nikos" pid="34/6253">Nikos Mamoulis</na></co>
+<co c="0"><na f="m/McSherry:Frank" pid="59/563">Frank McSherry</na></co>
+<co c="0"><na f="m/Misra:Ujval" pid="251/1809">Ujval Misra</na></co>
+<co c="0"><na f="m/Moritz:Philipp" pid="159/2099">Philipp Moritz</na></co>
+<co c="0"><na f="n/Nishihara:Robert" pid="147/4809">Robert Nishihara</na></co>
+<co c="1"><na f="p/Papastefanatos:George" pid="44/2379">George Papastefanatos</na></co>
+<co c="1"><na f="p/Pfennigschmidt:Stefan" pid="09/4198">Stefan Pfennigschmidt</na></co>
+<co c="1"><na f="p/Pfoser:Dieter" pid="p/DieterPfoser">Dieter Pfoser</na></co>
+<co c="0"><na f="r/Roscoe:Timothy" pid="r/TimothyRoscoe">Timothy Roscoe</na></co>
+<co c="1"><na f="s/Sellis:Timos_K=" pid="s/TimosKSellis">Timos K. Sellis</na></co>
+<co c="1"><na f="s/Skiadopoulos:Spiros" pid="01/5237">Spiros Skiadopoulos</na></co>
+<co c="1"><na f="s/Skoutas_0001:Dimitrios" pid="s/DimitriosSkoutas">Dimitrios Skoutas 0001</na></co>
+<co c="0"><na f="s/Stoica:Ion" pid="s/IonStoica">Ion Stoica</na></co>
+<co c="1"><na f="t/Terrovitis:Manolis" pid="t/ManolisTerrovitis">Manolis Terrovitis</na></co>
+<co c="1"><na f="t/Theocharidis:Konstantinos" pid="204/0120">Konstantinos Theocharidis</na></co>
+<co c="1"><na f="t/Tsigka:Eleni" pid="96/9170">Eleni Tsigka</na></co>
+<co c="0"><na f="t/Tumanov:Alexey" pid="41/6224">Alexey Tumanov</na></co>
+<co c="0"><na f="v/Varia:Mayank" pid="59/6288">Mayank Varia</na></co>
+<co c="1"><na f="v/Voisard:Agn=egrave=s" pid="v/AVoisard">Agn&#232;s Voisard</na></co>
+<co c="0"><na f="w/Wang:Stephanie" pid="175/6757">Stephanie Wang</na></co>
+<co c="0"><na f="w/Wang:Yuanli" pid="99/4437">Yuanli Wang</na></co>
+<co c="0"><na f="w/Wicki:Sebastian" pid="204/9338">Sebastian Wicki</na></co>
+<co c="0"><na f="z/Zhang:Jerry" pid="39/9312">Jerry Zhang</na></co>
+</coauthors>
+</dblpperson>

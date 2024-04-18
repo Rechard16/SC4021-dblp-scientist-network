@@ -1,0 +1,1541 @@
+<dblpperson name="Jens Teubner" pid="t/JensTeubner" n="96">
+<person key="homepages/t/JensTeubner" mdate="2022-02-15">
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="t/JensTeubner">Jens Thilo Teubner</author>
+<url>http://dbis.cs.tu-dortmund.de/cms/en/people/faculty/teubner.html</url>
+<url>https://scholar.google.com/citations?user=SdGU2bMAAAAJ</url>
+<url>https://dl.acm.org/profile/81100036950</url>
+<url>https://orcid.org/0000-0002-0344-5203</url>
+<note type="affiliation">TU Dortmund, Department of Computer Science, Germany</note>
+<note type="affiliation" label="former">ETH Zurich, Department of Computer Science, Switzerland</note>
+<note type="affiliation" label="former">IBM T.J. Watson Research Center, Hawthorne, NY, USA</note>
+<note type="affiliation" label="PhD 2006">Technical University Munich, Germany</note>
+</person>
+<r><inproceedings key="conf/damon/MuhligT23" mdate="2023-07-07">
+<author orcid="0009-0008-2226-6367" pid="222/6290">Jan M&#252;hlig</author>
+<author orcid="0000-0002-0344-5203" pid="t/JensTeubner">Jens Teubner</author>
+<title>Micro Partitioning: Friendly to the Hardware and the Developer.</title>
+<pages>27-34</pages>
+<year>2023</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3592980.3595310</ee>
+<crossref>conf/damon/2023</crossref>
+<url>db/conf/damon/damon2023.html#MuhligT23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/KuhnBHCT23" mdate="2023-07-07">
+<author orcid="0000-0002-1485-140X" pid="198/6736">Roland K&#252;hn</author>
+<author orcid="0009-0006-9061-4189" pid="349/1018">Daniel Biebert</author>
+<author orcid="0000-0001-9992-9415" pid="238/4383">Christian Hakert</author>
+<author orcid="0000-0001-8114-9760" pid="70/1961">Jian-Jia Chen</author>
+<author orcid="0000-0002-0344-5203" pid="t/JensTeubner">Jens Teubner</author>
+<title>Towards Data-Based Cache Optimization of B+-Trees.</title>
+<pages>63-69</pages>
+<year>2023</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3592980.3595316</ee>
+<crossref>conf/damon/2023</crossref>
+<url>db/conf/damon/damon2023.html#KuhnBHCT23</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/edbt/2023" mdate="2023-04-29">
+<editor pid="s/JuliaStoyanovich">Julia Stoyanovich</editor>
+<editor pid="t/JensTeubner">Jens Teubner</editor>
+<editor pid="34/6253">Nikos Mamoulis</editor>
+<editor pid="p/EPitoura">Evaggelia Pitoura</editor>
+<editor pid="222/6290">Jan M&#252;hlig</editor>
+<editor pid="h/KatjaHose">Katja Hose</editor>
+<editor pid="b/SSBhowmick">Sourav S. Bhowmick</editor>
+<editor pid="139/1128">Matteo Lissandrini</editor>
+<title>Proceedings 26th International Conference on Extending Database Technology, EDBT 2023, Ioannina, Greece, March 28-31, 2023.</title>
+<booktitle>EDBT</booktitle>
+<publisher>OpenProceedings.org</publisher>
+<year>2023</year>
+<isbn>978-3-89318-088-2</isbn>
+<url>db/conf/edbt/edbt2023.html</url>
+</proceedings>
+</r>
+<r><article key="journals/vldb/FunkeMT22" mdate="2022-12-07">
+<author orcid="0000-0001-5605-2641" pid="181/5803">Henning Funke</author>
+<author pid="222/6290">Jan M&#252;hlig</author>
+<author orcid="0000-0002-0344-5203" pid="t/JensTeubner">Jens Teubner</author>
+<title>Low-latency query compilation.</title>
+<pages>1171-1184</pages>
+<year>2022</year>
+<volume>31</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00778-022-00741-5</ee>
+<url>db/journals/vldb/vldb31.html#FunkeMT22</url>
+</article>
+</r>
+<r><incollection key="books/degruyter/22/SpaanDMABBTLLR22" mdate="2023-07-28">
+<author pid="16/10867">Bernhard Spaan</author>
+<author pid="308/2274">Hans Dembinski</author>
+<author pid="352/7927">Gerwin Meier</author>
+<author pid="352/7702">Jean-Marco Alameddine</author>
+<author pid="352/7812">Dominik Baack</author>
+<author pid="225/9421">Mirko Bunse</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="195/7378">Thomas Lindemann</author>
+<author pid="352/7750">Maximilian Linhoff</author>
+<author pid="167/3248">Tim Ruhe</author>
+<title>Monte Carlo Simulations.</title>
+<pages>103-143</pages>
+<year>2022</year>
+<booktitle>Mach. Learn. under Resour. Constraints Vol. 2 (2)</booktitle>
+<ee type="oa">https://doi.org/10.1515/9783110785968-005</ee>
+<crossref>books/degruyter/22/MM2022-2</crossref>
+<url>db/books/collections/MM2022-2.html#SpaanDMABBTLLR22</url>
+</incollection>
+</r>
+<r><incollection key="books/degruyter/22/RhodeELT22" mdate="2023-07-28">
+<author pid="125/5750">Wolfgang Rhode</author>
+<author pid="352/7848">Dominik Els&#228;sser</author>
+<author pid="352/7750">Maximilian Linhoff</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Data Storage and Access.</title>
+<pages>145-161</pages>
+<year>2022</year>
+<booktitle>Mach. Learn. under Resour. Constraints Vol. 2 (2)</booktitle>
+<ee type="oa">https://doi.org/10.1515/9783110785968-006</ee>
+<crossref>books/degruyter/22/MM2022-2</crossref>
+<url>db/books/collections/MM2022-2.html#RhodeELT22</url>
+</incollection>
+</r>
+<r><incollection key="books/degruyter/22/LukGFTSBKM22-2" mdate="2023-07-28">
+<author pid="181/5803">Henning Funke</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Processor-Specific Code Transformation.</title>
+<pages>263-271</pages>
+<year>2022</year>
+<booktitle>Mach. Learn. under Resour. Constraints Vol. 1 (1)</booktitle>
+<ee type="oa">https://doi.org/10.1515/9783110785944-006</ee>
+<crossref>books/degruyter/22/MM2022-1</crossref>
+<url>db/books/collections/MM2022-1.html#LukGFTSBKM22-2</url>
+</incollection>
+</r>
+<r><incollection key="books/degruyter/22/ChenSFT22-2" mdate="2023-07-28">
+<author pid="181/5803">Henning Funke</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Communication Architecture for Heterogeneous Hardware.</title>
+<pages>359-403</pages>
+<year>2022</year>
+<booktitle>Mach. Learn. under Resour. Constraints Vol. 1 (1)</booktitle>
+<ee type="oa">https://doi.org/10.1515/9783110785944-008</ee>
+<crossref>books/degruyter/22/MM2022-1</crossref>
+<url>db/books/collections/MM2022-1.html#ChenSFT22-2</url>
+</incollection>
+</r>
+<r><proceedings key="conf/edbt/2022" mdate="2022-10-11">
+<editor pid="s/JuliaStoyanovich">Julia Stoyanovich</editor>
+<editor pid="t/JensTeubner">Jens Teubner</editor>
+<editor pid="47/9855">Paolo Guagliardo</editor>
+<editor pid="57/10355-1">Milos Nikolic 0001</editor>
+<editor pid="89/5672">Andreas Pieris</editor>
+<editor pid="222/6290">Jan M&#252;hlig</editor>
+<editor pid="o/FatmaOzcan">Fatma &#214;zcan</editor>
+<editor pid="118/7229">Sebastian Schelter</editor>
+<editor pid="j/HVJagadish">H. V. Jagadish</editor>
+<editor pid="08/7259">Meihui Zhang 0001</editor>
+<title>Proceedings of the 25th International Conference on Extending Database Technology, EDBT 2022, Edinburgh, UK, March 29 - April 1, 2022.</title>
+<booktitle>EDBT</booktitle>
+<publisher>OpenProceedings.org</publisher>
+<year>2022</year>
+<isbn>978-3-89318-086-8</isbn>
+<url>db/conf/edbt/edbt2022.html</url>
+</proceedings>
+</r>
+<r><article key="journals/pvldb/FunkeT21" mdate="2022-08-16">
+<author pid="181/5803">Henning Funke</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Low-Latency Compilation of SQL Queries to Machine Code.</title>
+<pages>2691-2694</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2691-funke.pdf</ee>
+<ee>https://doi.org/10.14778/3476311.3476321</ee>
+<ee>https://www.wikidata.org/entity/Q113237105</ee>
+<url>db/journals/pvldb/pvldb14.html#FunkeT21</url>
+</article>
+</r>
+<r><inproceedings key="conf/nvmsa/HakertKCCT21" mdate="2023-06-26">
+<author pid="238/4383">Christian Hakert</author>
+<author pid="198/6736">Roland K&#252;hn</author>
+<author orcid="0000-0002-7110-921X" pid="163/9343">Kuan-Hsun Chen</author>
+<author orcid="0000-0001-8114-9760" pid="70/1961">Jian-Jia Chen</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>OCTO+: Optimized Checkpointing of B+ Trees for Non-Volatile Main Memory Wear-Leveling.</title>
+<pages>1-6</pages>
+<year>2021</year>
+<booktitle>NVMSA</booktitle>
+<ee>https://doi.org/10.1109/NVMSA53655.2021.9628460</ee>
+<crossref>conf/nvmsa/2021</crossref>
+<url>db/conf/nvmsa/nvmsa2021.html#HakertKCCT21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MuhligT21" mdate="2021-06-21">
+<author pid="222/6290">Jan M&#252;hlig</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>MxTasks: How to Make Efficient Synchronization and Prefetching Easy.</title>
+<pages>1331-1344</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3457268</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#MuhligT21</url>
+</inproceedings>
+</r>
+<r><article key="journals/dbsk/MuhligMST20" mdate="2021-05-14">
+<author pid="222/6290">Jan M&#252;hlig</author>
+<author pid="08/6354-9">Michael M&#252;ller 0009</author>
+<author pid="s/OlafSpinczyk">Olaf Spinczyk</author>
+<author orcid="0000-0002-0344-5203" pid="t/JensTeubner">Jens Teubner</author>
+<title>mxkernel: A Novel System Software Stack for Data Processing on Modern Hardware.</title>
+<pages>223-230</pages>
+<year>2020</year>
+<volume>20</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s13222-020-00357-5</ee>
+<url>db/journals/dbsk/dbsk20.html#MuhligMST20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/FunkeT20" mdate="2021-03-23">
+<author pid="181/5803">Henning Funke</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Data-Parallel Query Processing on Non-Uniform Data.</title>
+<pages>884-897</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p884-funke.pdf</ee>
+<ee>https://doi.org/10.14778/3380750.3380758</ee>
+<url>db/journals/pvldb/pvldb13.html#FunkeT20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/FunkeT20a" mdate="2021-03-23">
+<author pid="181/5803">Henning Funke</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Like Water and Oil: With a Proper Emulsifier, Query Compilation and Data Parallelism Will Mix Well.</title>
+<pages>2849-2852</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2849-funke.pdf</ee>
+<ee>https://doi.org/10.14778/3415478.3415491</ee>
+<url>db/journals/pvldb/pvldb13.html#FunkeT20a</url>
+</article>
+</r>
+<r><inproceedings key="conf/arcs/MullerLPSTS20" mdate="2021-04-09">
+<author pid="08/6354-9">Michael M&#252;ller 0009</author>
+<author pid="00/3032">Thomas Leich</author>
+<author orcid="0000-0001-6518-1226" pid="52/851">Thilo Pionteck</author>
+<author pid="s/GunterSaake">Gunter Saake</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="s/OlafSpinczyk">Olaf Spinczyk</author>
+<title>He..ro DB: A Concept for Parallel Data Processing on Heterogeneous Hardware.</title>
+<pages>82-96</pages>
+<year>2020</year>
+<booktitle>ARCS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-52794-5_7</ee>
+<crossref>conf/arcs/2020</crossref>
+<url>db/conf/arcs/arcs2020.html#MullerLPSTS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/NollTMB20" mdate="2020-03-12">
+<author pid="67/1152">Stefan Noll</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="89/6071">Norman May</author>
+<author pid="92/6505">Alexander Boehm 0002</author>
+<title>Shared Load(ing): Efficient Bulk Loading into Optimized Storage.</title>
+<year>2020</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2020/papers/p2-noll-cidr20.pdf</ee>
+<crossref>conf/cidr/2020</crossref>
+<url>db/conf/cidr/cidr2020.html#NollTMB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/NollTM020" mdate="2020-06-07">
+<author pid="67/1152">Stefan Noll</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="89/6071">Norman May</author>
+<author pid="92/6505">Alexander B&#246;hm 0002</author>
+<title>Analyzing memory accesses with modern processors.</title>
+<pages>1:1-1:9</pages>
+<year>2020</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3399666.3399896</ee>
+<crossref>conf/damon/2020</crossref>
+<url>db/conf/damon/damon2020.html#NollTM020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/FunkeMT20" mdate="2020-06-07">
+<author pid="181/5803">Henning Funke</author>
+<author pid="222/6290">Jan M&#252;hlig</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Efficient generation of machine code for query compilers.</title>
+<pages>6:1-6:7</pages>
+<year>2020</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3399666.3399925</ee>
+<crossref>conf/damon/2020</crossref>
+<url>db/conf/damon/damon2020.html#FunkeMT20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/GrieskampKT20" mdate="2020-06-07">
+<author pid="249/9977">Florian Grieskamp</author>
+<author pid="198/6736">Roland K&#252;hn</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Variable word length word-aligned hybrid compression.</title>
+<pages>18:1-18:3</pages>
+<year>2020</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3399666.3399935</ee>
+<crossref>conf/damon/2020</crossref>
+<url>db/conf/damon/damon2020.html#GrieskampKT20</url>
+</inproceedings>
+</r>
+<r><article key="journals/dbsk/Teubner19" mdate="2019-03-26">
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Die Arbeitsgruppe Datenbanken und Informationssysteme an der TU Dortmund.</title>
+<pages>61-66</pages>
+<year>2019</year>
+<volume>19</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s13222-019-00309-8</ee>
+<url>db/journals/dbsk/dbsk19.html#Teubner19</url>
+</article>
+</r>
+<r><article key="journals/debu/NollM0MT19" mdate="2020-03-10">
+<author pid="67/1152">Stefan Noll</author>
+<author pid="89/6071">Norman May</author>
+<author pid="92/6505">Alexander B&#246;hm 0002</author>
+<author pid="222/6290">Jan M&#252;hlig</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>From the Application to the CPU: Holistic Resource Management for Modern Database Management Systems.</title>
+<pages>10-21</pages>
+<year>2019</year>
+<volume>42</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A19mar/p10.pdf</ee>
+<url>db/journals/debu/debu42.html#NollM0MT19</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/SattlerK0T19" mdate="2021-01-13">
+<author pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>DFG Priority Program SPP 2037: Scalable Data Management for Future Hardware.</title>
+<pages>273-276</pages>
+<year>2019</year>
+<booktitle>BTW (Workshops)</booktitle>
+<ee type="oa">https://doi.org/10.18420/btw2019-ws-29</ee>
+<crossref>conf/btw/2019w</crossref>
+<url>db/conf/btw/btw2019w.html#SattlerK0T19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/LindemannBDHHMM19" mdate="2021-01-13">
+<author pid="195/7378">Thomas Lindemann</author>
+<author pid="238/4369">Patrick Brinkmann</author>
+<author pid="238/4350">Fadi Dalbah</author>
+<author pid="238/4383">Christian Hakert</author>
+<author pid="238/4352">Philipp-Jan Honysz</author>
+<author pid="238/4342">Daniel Matuszczyk</author>
+<author pid="238/4348">Nikolas M&#252;ller</author>
+<author pid="238/4347">Alexander Schmulbach</author>
+<author pid="238/4378">Stefan Petyov Todorinski</author>
+<author pid="238/4356">Oliver T&#252;selmann</author>
+<author pid="238/4381">Shimon Wonsak</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>MAGPIE: Scalable Data Storage System for Efficient High Volume Data Queries.</title>
+<pages>543-546</pages>
+<year>2019</year>
+<booktitle>BTW</booktitle>
+<ee type="oa">https://doi.org/10.18420/btw2019-41</ee>
+<crossref>conf/btw/2019</crossref>
+<url>db/conf/btw/btw2019.html#LindemannBDHHMM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LindemannKT18" mdate="2023-03-24">
+<author pid="195/7378">Thomas Lindemann</author>
+<author pid="222/5325">Jonas Kauke</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Efficient Stream Processing of Scientific Data.</title>
+<pages>140-145</pages>
+<year>2018</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2018.00029</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2018.00029</ee>
+<crossref>conf/icde/2018w</crossref>
+<url>db/conf/icde/icde2018w.html#LindemannKT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/NollTMB18" mdate="2023-03-24">
+<author pid="67/1152">Stefan Noll</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="89/6071">Norman May</author>
+<author pid="92/6505">Alexander B&#246;hm 0002</author>
+<title>Accelerating Concurrent Workloads with CPU Cache Partitioning.</title>
+<pages>437-448</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00047</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00047</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#NollTMB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/FunkeBNMT18" mdate="2018-11-21">
+<author pid="181/5803">Henning Funke</author>
+<author pid="25/11440">Sebastian Bre&#223;</author>
+<author pid="67/1152">Stefan Noll</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Pipelined Query Processing in Coprocessor Environments.</title>
+<pages>1603-1618</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3183734</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#FunkeBNMT18</url>
+</inproceedings>
+</r>
+<r><article key="journals/dbsk/DorokBTLSM17" mdate="2017-07-10">
+<author pid="147/2911">Sebastian Dorok</author>
+<author pid="25/11440">Sebastian Bre&#223;</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="147/2949">Horstfried L&#228;pple</author>
+<author pid="s/GunterSaake">Gunter Saake</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<title>Efficiently Storing and Analyzing Genome Data in Database Systems.</title>
+<pages>139-154</pages>
+<year>2017</year>
+<volume>17</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s13222-017-0254-9</ee>
+<url>db/journals/dbsk/dbsk17.html#DorokBTLSM17</url>
+</article>
+</r>
+<r><article key="journals/dbsk/NollFT17" mdate="2017-11-24">
+<author orcid="0000-0002-1576-3823" pid="67/1152">Stefan Noll</author>
+<author pid="181/5803">Henning Funke</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Energy Efficiency in Main-Memory Databases.</title>
+<pages>223-232</pages>
+<year>2017</year>
+<volume>17</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s13222-017-0262-9</ee>
+<url>db/journals/dbsk/dbsk17.html#NollFT17</url>
+</article>
+</r>
+<r><article key="journals/it/Teubner17" mdate="2023-08-28">
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>FPGAs for data processing: Current state.</title>
+<pages>125</pages>
+<year>2017</year>
+<volume>59</volume>
+<journal>it Inf. Technol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1515/itit-2016-0046</ee>
+<ee>https://www.wikidata.org/entity/Q115723093</ee>
+<url>db/journals/it/it59.html#Teubner17</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/KussmannBEKLMNS17" mdate="2023-07-04">
+<author pid="195/7311">Michael Ku&#223;mann</author>
+<author pid="195/7316">Maximilian Berens</author>
+<author pid="195/7406">Ulrich Eitschberger</author>
+<author pid="136/1988">Ayse Kilic</author>
+<author pid="195/7378">Thomas Lindemann</author>
+<author pid="26/9760">Frank Meier</author>
+<author pid="195/7305">Ramon Niet</author>
+<author pid="195/7367">Margarete Schellenberg</author>
+<author pid="195/7347">Holger Stevens</author>
+<author pid="195/7319">Julian Wishahi</author>
+<author pid="16/10867">Bernhard Spaan</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>DeLorean: A Storage Layer to Analyze Physical Data at Scale.</title>
+<pages>413-422</pages>
+<year>2017</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2017</crossref>
+<url>db/conf/btw/btw2017.html#KussmannBEKLMNS17</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/643</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/DorokBTLSM17" mdate="2023-07-04">
+<author pid="147/2911">Sebastian Dorok</author>
+<author pid="25/11440">Sebastian Bre&#223;</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="147/2949">Horstfried L&#228;pple</author>
+<author pid="s/GunterSaake">Gunter Saake</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<title>Efficient Storage and Analysis of Genome Data in Databases.</title>
+<pages>423-442</pages>
+<year>2017</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2017</crossref>
+<url>db/conf/btw/btw2017.html#DorokBTLSM17</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/644</ee>
+</inproceedings>
+</r>
+<r><proceedings key="conf/btw/2017" mdate="2021-01-13">
+<editor pid="m/BMitschang">Bernhard Mitschang</editor>
+<editor pid="n/DanielaNicklas">Daniela Nicklas</editor>
+<editor pid="l/FrankLeymann">Frank Leymann</editor>
+<editor pid="60/5572">Harald Sch&#246;ning</editor>
+<editor pid="w/MelanieWeis">Melanie Herschel</editor>
+<editor pid="t/JensTeubner">Jens Teubner</editor>
+<editor pid="h/TheoHarder">Theo H&#228;rder</editor>
+<editor pid="29/3402">Oliver Kopp</editor>
+<editor pid="40/5100">Matthias Wieland 0001</editor>
+<title>Datenbanksysteme f&#252;r Business, Technologie und Web (BTW 2017), 17. Fachtagung des GI-Fachbereichs &#8222;Datenbanken und Informationssysteme" (DBIS), 6.-10. M&#228;rz 2017, Stuttgart, Germany, Proceedings</title>
+<booktitle>BTW</booktitle>
+<publisher>GI</publisher>
+<year>2017</year>
+<isbn>978-3-88579-659-6</isbn>
+<series href="db/series/lni/index.html">LNI</series>
+<volume>P-265</volume>
+<url>db/conf/btw/btw2017.html</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/21090</ee>
+<ee type="oa">http://btw2017.informatik.uni-stuttgart.de/pro/P-265-BTW2017-Tagungsband.pdf</ee>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/AlonsoBT17" mdate="2017-10-19">
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="40/6407">Michaela Blott</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Databases on Future Hardware (Dagstuhl Seminar 17101).</title>
+<pages>1-18</pages>
+<year>2017</year>
+<volume>7</volume>
+<journal>Dagstuhl Reports</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.7.3.1</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports7.html#AlonsoBT17</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/BressFT16" mdate="2018-11-06">
+<author pid="25/11440">Sebastian Bre&#223;</author>
+<author pid="181/5803">Henning Funke</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Robust Query Processing in Co-Processor-accelerated Databases.</title>
+<pages>1891-1906</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2882936</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#BressFT16</url>
+</inproceedings>
+</r>
+<r><article key="journals/dpd/LuoT15" mdate="2020-10-26">
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Special issue on data management on modern hardware.</title>
+<pages>415-416</pages>
+<year>2015</year>
+<volume>33</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s10619-014-7168-4</ee>
+<url>db/journals/dpd/dpd33.html#LuoT15</url>
+</article>
+</r>
+<r><article key="journals/tkde/BalkesenTAO15" mdate="2023-03-21">
+<author pid="45/7587">Cagri Balkesen</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author orcid="0000-0002-8126-1717" pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<title>Main-Memory Hash Joins on Modern Processor Architectures.</title>
+<pages>1754-1766</pages>
+<year>2015</year>
+<volume>27</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TKDE.2014.2313874</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2014.2313874</ee>
+<url>db/journals/tkde/tkde27.html#BalkesenTAO15</url>
+</article>
+</r>
+<r><article key="journals/trets/WoodsAT15" mdate="2020-04-24">
+<author pid="69/8510">Louis Woods</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Parallelizing Data Processing on FPGAs with Shifter Lists.</title>
+<pages>7:1-7:22</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>ACM Trans. Reconfigurable Technol. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2629551</ee>
+<url>db/journals/trets/trets8.html#WoodsAT15</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/SattlerTBB15" mdate="2023-07-04">
+<author pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="55/9320">Felix Beier</author>
+<author pid="25/11440">Sebastian Bre&#223;</author>
+<title>Many-Core-Architekturen zur Datenbankbeschleunigung.</title>
+<pages>269-270</pages>
+<year>2015</year>
+<booktitle>BTW Workshops</booktitle>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/2392</ee>
+<crossref>conf/btw/2015w</crossref>
+<url>db/conf/btw/btw2015w.html#SattlerTBB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/DorokBTS15" mdate="2021-01-29">
+<author pid="147/2911">Sebastian Dorok</author>
+<author pid="25/11440">Sebastian Bre&#223;</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="s/GunterSaake">Gunter Saake</author>
+<title>Flexible Analysis of Plant Genomes in a Database Management System.</title>
+<pages>509-512</pages>
+<year>2015</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2015.45</ee>
+<crossref>conf/edbt/2015</crossref>
+<url>db/conf/edbt/edbt2015.html#DorokBTS15</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/edbt/2015" mdate="2017-12-25">
+<editor pid="a/GustavoAlonso">Gustavo Alonso</editor>
+<editor pid="g/FlorisGeerts">Floris Geerts</editor>
+<editor pid="p/LucianPopa">Lucian Popa 0001</editor>
+<editor pid="29/5169">Pablo Barcel&#243;</editor>
+<editor pid="t/JensTeubner">Jens Teubner</editor>
+<editor pid="131/4268">Mart&#237;n Ugarte</editor>
+<editor pid="b/JVdBussche">Jan Van den Bussche</editor>
+<editor pid="p/JParedaens">Jan Paredaens</editor>
+<title>Proceedings of the 18th International Conference on Extending Database Technology, EDBT 2015, Brussels, Belgium, March 23-27, 2015.</title>
+<booktitle>EDBT</booktitle>
+<publisher>OpenProceedings.org</publisher>
+<year>2015</year>
+<url>db/conf/edbt/edbt2015.html</url>
+</proceedings>
+</r>
+<r><article key="journals/dbsk/HarderT14" mdate="2018-06-26">
+<author pid="h/TheoHarder">Theo H&#228;rder</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Editorial.</title>
+<pages>169-172</pages>
+<year>2014</year>
+<volume>14</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s13222-014-0169-7</ee>
+<url>db/journals/dbsk/dbsk14.html#HarderT14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/RoyTG14" mdate="2020-04-25">
+<author pid="27/10432">Pratanu Roy</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author orcid="0000-0003-2762-0050" pid="32/5357">Rainer Gemulla</author>
+<title>Low-Latency Handshake Join.</title>
+<pages>709-720</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p709-roy.pdf</ee>
+<ee>https://doi.org/10.14778/2732939.2732944</ee>
+<ee>https://www.wikidata.org/entity/Q61867334</ee>
+<url>db/journals/pvldb/pvldb7.html#RoyTG14</url>
+</article>
+</r>
+<r><book key="series/synthesis/2013Teubner" mdate="2023-10-19">
+<author orcid="0000-0002-0344-5203" pid="t/JensTeubner">Jens Teubner</author>
+<author pid="69/8510">Louis Woods</author>
+<title>Data Processing on FPGAs</title>
+<year>2013</year>
+<series href="db/series/synthesis-dtm/index.html">Synthesis Lectures on Data Management</series>
+<publisher>Morgan &amp; Claypool Publishers</publisher>
+<pages>1-118</pages>
+<isbn>9781627050609</isbn>
+<isbn>9781627050616</isbn>
+<isbn>978-3-031-00721-7</isbn>
+<isbn>978-3-031-01849-7</isbn>
+<ee>https://doi.org/10.2200/S00514ED1V01Y201306DTM035</ee>
+<ee>https://doi.org/10.1007/978-3-031-01849-7</ee>
+</book>
+</r>
+<r><article key="journals/pvldb/HaritsaT13" mdate="2020-04-25">
+<author pid="h/JayantRHaritsa">Jayant R. Haritsa</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Front Matter.</title>
+<pages>i-x</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/FrontMatterVol6No6.pdf</ee>
+<url>db/journals/pvldb/pvldb6.html#HaritsaT13</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BalkesenATO13" mdate="2023-03-21">
+<author pid="45/7587">Cagri Balkesen</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author orcid="0000-0002-8126-1717" pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<title>Multi-Core, Main-Memory Joins: Sort vs. Hash Revisited.</title>
+<pages>85-96</pages>
+<year>2013</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p85-balkesen.pdf</ee>
+<ee>https://doi.org/10.14778/2732219.2732227</ee>
+<url>db/journals/pvldb/pvldb7.html#BalkesenATO13</url>
+</article>
+</r>
+<r><article key="journals/tods/TeubnerWN13" mdate="2022-06-10">
+<author orcid="0000-0002-0344-5203" pid="t/JensTeubner">Jens Teubner</author>
+<author pid="69/8510">Louis Woods</author>
+<author pid="54/11411">Chongling Nie</author>
+<title><i>XLynx</i> - An FPGA-based XML filter for hybrid XQuery processing.</title>
+<pages>23</pages>
+<year>2013</year>
+<volume>38</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2536800</ee>
+<url>db/journals/tods/tods38.html#TeubnerWN13</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/BalkesenWT13" mdate="2023-07-04">
+<author pid="45/7587">Cagri Balkesen</author>
+<author pid="69/8510">Louis Woods</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Tutorium: Neue Hardwarearchitekturen f&#252;r das Datenmanagement (DPMH).</title>
+<pages>277-278</pages>
+<year>2013</year>
+<booktitle>BTW Workshops</booktitle>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/17443</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings216/article11.html</ee>
+<crossref>conf/btw/2013w</crossref>
+<url>db/conf/btw/btw2013w.html#BalkesenWT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fccm/WoodsAT13" mdate="2023-03-24">
+<author pid="69/8510">Louis Woods</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author orcid="0000-0002-0344-5203" pid="t/JensTeubner">Jens Teubner</author>
+<title>Parallel Computation of Skyline Queries.</title>
+<pages>1-8</pages>
+<year>2013</year>
+<booktitle>FCCM</booktitle>
+<ee>https://doi.org/10.1109/FCCM.2013.18</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/FCCM.2013.18</ee>
+<crossref>conf/fccm/2013</crossref>
+<url>db/conf/fccm/fccm2013.html#WoodsAT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BalkesenTAO13" mdate="2023-03-23">
+<author pid="45/7587">Cagri Balkesen</author>
+<author orcid="0000-0002-0344-5203" pid="t/JensTeubner">Jens Teubner</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author orcid="0000-0002-8126-1717" pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<title>Main-memory hash joins on multi-core CPUs: Tuning to the underlying hardware.</title>
+<pages>362-373</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544839</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544839</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#BalkesenTAO13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/WoodsTA13" mdate="2018-11-06">
+<author pid="69/8510">Louis Woods</author>
+<author orcid="0000-0002-0344-5203" pid="t/JensTeubner">Jens Teubner</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Less watts, more performance: an intelligent storage engine for data appliances.</title>
+<pages>1073-1076</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2463685</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#WoodsTA13</url>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/MullerTA12" mdate="2020-09-30">
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Sorting networks on FPGAs.</title>
+<pages>1-23</pages>
+<year>2012</year>
+<volume>21</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-011-0232-z</ee>
+<url>db/journals/vldb/vldb21.html#MullerTA12</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/FischerT12" mdate="2023-03-24">
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>MXQuery with Hardware Acceleration.</title>
+<pages>1293-1296</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.130</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2012.130</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#FischerT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/RoyTA12" mdate="2018-11-06">
+<author pid="27/10432">Pratanu Roy</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Efficient frequent item counting in multi-core hardware.</title>
+<pages>1451-1459</pages>
+<year>2012</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/2339530.2339757</ee>
+<crossref>conf/kdd/2012</crossref>
+<url>db/conf/kdd/kdd2012.html#RoyTA12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/TeubnerWN12" mdate="2018-11-06">
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="69/8510">Louis Woods</author>
+<author pid="54/11411">Chongling Nie</author>
+<title>Skeleton automata for FPGAs: reconfiguring without reconstructing.</title>
+<pages>229-240</pages>
+<year>2012</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2213836.2213863</ee>
+<crossref>conf/sigmod/2012</crossref>
+<url>db/conf/sigmod/sigmod2012.html#TeubnerWN12</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/TeubnerMA11" mdate="2020-09-30">
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Frequent Item Computation on a Chip.</title>
+<pages>1169-1181</pages>
+<year>2011</year>
+<volume>23</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TKDE.2010.216</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2010.216</ee>
+<url>db/journals/tkde/tkde23.html#TeubnerMA11</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/TeubnerW09" mdate="2023-07-04">
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="69/8510">Louis Woods</author>
+<title>Snowfall: Hardware Stream Analysis Made Easy.</title>
+<pages>738-741</pages>
+<year>2011</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2011</crossref>
+<url>db/conf/btw/btw2011.html#TeubnerW09</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/19623</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings180/article42.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/WoodsTA11" mdate="2023-03-24">
+<author pid="69/8510">Louis Woods</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Real-time pattern matching with FPGAs.</title>
+<pages>1292-1295</pages>
+<year>2011</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2011.5767937</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2011.5767937</ee>
+<crossref>conf/icde/2011</crossref>
+<url>db/conf/icde/icde2011.html#WoodsTA11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/TeubnerM11" mdate="2020-09-30">
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<title>How soccer players would do stream joins.</title>
+<pages>625-636</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989389</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#TeubnerM11</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/WoodsTA10" mdate="2020-04-25">
+<author pid="69/8510">Louis Woods</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Complex Event Detection at Wire Speed with FPGAs.</title>
+<pages>660-669</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R59.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920926</ee>
+<url>db/journals/pvldb/pvldb3.html#WoodsTA10</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/MullerT10" mdate="2020-09-30">
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>FPGAs: a new point in the database design space.</title>
+<pages>721-723</pages>
+<year>2010</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1739041.1739137</ee>
+<crossref>conf/edbt/2010</crossref>
+<url>db/conf/edbt/edbt2010.html#MullerT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/FreyGKT10" mdate="2023-03-24">
+<author pid="92/2133">Philip Werner Frey</author>
+<author pid="32/935">Romulo Goncalves</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>A Spinning Join That Does Not Get Dizzy.</title>
+<pages>283-292</pages>
+<year>2010</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS.2010.23</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDCS.2010.23</ee>
+<crossref>conf/icdcs/2010</crossref>
+<url>db/conf/icdcs/icdcs2010.html#FreyGKT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/TeubnerMA10" mdate="2023-03-24">
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>FPGA acceleration for the frequent item problem.</title>
+<pages>669-680</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447856</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447856</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#TeubnerMA10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MullerTA10" mdate="2020-09-30">
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Glacier: a query-to-hardware compiler.</title>
+<pages>1159-1162</pages>
+<year>2010</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1807167.1807307</ee>
+<crossref>conf/sigmod/2010</crossref>
+<url>db/conf/sigmod/sigmod2010.html#MullerTA10</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/edbt/2010" mdate="2010-03-18">
+<editor pid="m/IoanaManolescu">Ioana Manolescu</editor>
+<editor pid="s/StefanoSpaccapietra">Stefano Spaccapietra</editor>
+<editor pid="t/JensTeubner">Jens Teubner</editor>
+<editor pid="k/MasaruKitsuregawa">Masaru Kitsuregawa</editor>
+<editor pid="29/4280">Alain L&#233;ger</editor>
+<editor pid="n/FelixNaumann">Felix Naumann</editor>
+<editor pid="a/AnastassiaAilamaki">Anastasia Ailamaki</editor>
+<editor pid="o/FatmaOzcan">Fatma &#214;zcan</editor>
+<title>EDBT 2010, 13th International Conference on Extending Database Technology, Lausanne, Switzerland, March 22-26, 2010, Proceedings</title>
+<volume>426</volume>
+<year>2010</year>
+<isbn>978-1-60558-945-9</isbn>
+<booktitle>EDBT</booktitle>
+<series href="db/series/aicps/index.html">ACM International Conference Proceeding Series</series>
+<publisher>ACM</publisher>
+<url>db/conf/edbt/edbt2010.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ife/Teubner09" mdate="2020-03-04">
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>The relational XQuery puzzle: a look-back on the pieces found so far.</title>
+<pages>37-49</pages>
+<year>2009</year>
+<volume>24</volume>
+<journal>Comput. Sci. Res. Dev.</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1007/s00450-009-0058-8</ee>
+<url>db/journals/ife/ife24.html#Teubner09</url>
+</article>
+</r>
+<r><article key="journals/pvldb/MullerTA09" mdate="2023-10-22">
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Streams on Wires - A Query Compiler for FPGAs.</title>
+<pages>229-240</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-622.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687654</ee>
+<ee>https://www.wikidata.org/entity/Q122235477</ee>
+<url>db/journals/pvldb/pvldb2.html#MullerTA09</url>
+</article>
+</r>
+<r><article key="journals/pvldb/MuellerTA09" mdate="2020-09-30">
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Data Processing on FPGAs.</title>
+<pages>910-921</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-603.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687730</ee>
+<url>db/journals/pvldb/pvldb2.html#MuellerTA09</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/FreyGKT09" mdate="2018-11-06">
+<author pid="92/2133">Philip Werner Frey</author>
+<author pid="32/935">Romulo Goncalves</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Spinning relations: high-speed networks for distributed join processing.</title>
+<pages>27-33</pages>
+<year>2009</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/1565694.1565701</ee>
+<crossref>conf/damon/2009</crossref>
+<url>db/conf/damon/damon2009.html#FreyGKT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/AfanasievGMRT09" mdate="2019-10-19">
+<author pid="36/3556">Loredana Afanasiev</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author orcid="0000-0003-3255-3729" pid="m/MaartenMarx">Maarten Marx</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Recursion in XQuery: put your distributivity safety belt on.</title>
+<pages>345-356</pages>
+<year>2009</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1516360.1516401</ee>
+<crossref>conf/edbt/2009</crossref>
+<url>db/conf/edbt/edbt2009.html#AfanasievGMRT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MuellerT09" mdate="2020-09-30">
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>FPGA: what's in it for a database?</title>
+<pages>999-1004</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559965</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#MuellerT09</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/edbt/2009" mdate="2022-05-04">
+<editor pid="k/MartinLKersten">Martin L. Kersten</editor>
+<editor pid="n/BorisNovikov">Boris Novikov 0001</editor>
+<editor pid="t/JensTeubner">Jens Teubner</editor>
+<editor pid="67/3953">Vladimir Polutin</editor>
+<editor pid="m/StefanManegold">Stefan Manegold</editor>
+<title>EDBT 2009, 12th International Conference on Extending Database Technology, Saint Petersburg, Russia, March 24-26, 2009, Proceedings</title>
+<volume>360</volume>
+<year>2009</year>
+<isbn>978-1-60558-422-5</isbn>
+<booktitle>EDBT</booktitle>
+<series href="db/series/aicps/index.html">ACM International Conference Proceeding Series</series>
+<publisher>ACM</publisher>
+<ee>https://dl.acm.org/doi/10.1145/1516360</ee>
+<url>db/conf/edbt/edbt2009.html</url>
+</proceedings>
+</r>
+<r><article key="journals/debu/GrustRT08" mdate="2020-03-10">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Pathfinder: XQuery Off the Relational Shelf.</title>
+<pages>7-14</pages>
+<year>2008</year>
+<volume>31</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A08dec/pathfinder.pdf</ee>
+<url>db/journals/debu/debu31.html#GrustRT08</url>
+</article>
+</r>
+<r><article key="journals/pvldb/TeubnerGMS08" mdate="2020-04-25">
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="m/SebastianManeth">Sebastian Maneth</author>
+<author pid="s/SherifSakr">Sherif Sakr</author>
+<title>Dependable cardinality forecasts for XQuery.</title>
+<pages>463-477</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1453908.pdf</ee>
+<ee>https://doi.org/10.14778/1453856.1453908</ee>
+<url>db/journals/pvldb/pvldb1.html#TeubnerGMS08</url>
+</article>
+</r>
+<r><article key="journals/sigmod/AlonsoKRTBBFRT08" mdate="2020-03-06">
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="r/TimothyRoscoe">Timothy Roscoe</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="53/6957">Andrew Baumann</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="53/3712">Oriana Riva</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>The ETH Zurich systems group and enterprise computing center.</title>
+<pages>94-99</pages>
+<year>2008</year>
+<volume>37</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1519103.1519120</ee>
+<url>db/journals/sigmod/sigmod37.html#AlonsoKRTBBFRT08</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/Teubner08" mdate="2018-11-06">
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Scalable XQuery type matching.</title>
+<pages>38-48</pages>
+<year>2008</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1353343.1353353</ee>
+<crossref>conf/edbt/2008</crossref>
+<url>db/conf/edbt/edbt2008.html#Teubner08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AfanasievGMRT08" mdate="2023-03-24">
+<author pid="36/3556">Loredana Afanasiev</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author orcid="0000-0003-3255-3729" pid="m/MaartenMarx">Maarten Marx</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>An Inflationary Fixed Point Operator in XQuery.</title>
+<pages>1504-1506</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497604</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497604</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#AfanasievGMRT08</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/edbt/2008" mdate="2008-05-30">
+<editor pid="k/AlfonsKemper">Alfons Kemper</editor>
+<editor pid="v/PatrickValduriez">Patrick Valduriez</editor>
+<editor pid="54/996">Noureddine Mouaddib</editor>
+<editor pid="t/JensTeubner">Jens Teubner</editor>
+<editor pid="b/MBouzeghoub">Mokrane Bouzeghoub</editor>
+<editor pid="m/VMarkl">Volker Markl</editor>
+<editor pid="a/LAmsaleg">Laurent Amsaleg</editor>
+<editor pid="m/IoanaManolescu">Ioana Manolescu</editor>
+<title>EDBT 2008, 11th International Conference on Extending Database Technology, Nantes, France, March 25-29, 2008, Proceedings</title>
+<volume>261</volume>
+<year>2008</year>
+<isbn>978-1-59593-926-5</isbn>
+<booktitle>EDBT</booktitle>
+<series href="db/series/aicps/index.html">ACM International Conference Proceeding Series</series>
+<publisher>ACM</publisher>
+<url>db/conf/edbt/edbt2008.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/btw/Teubner07" mdate="2023-07-04">
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Pathfinder: XQuery Compilation Techniques for Relational Database Targets.</title>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/31816</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings103/article1415.html</ee>
+<pages>465-474</pages>
+<year>2007</year>
+<crossref>conf/btw/2007</crossref>
+<booktitle>BTW</booktitle>
+<url>db/conf/btw/btw2007.html#Teubner07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/RittingerTG07" mdate="2011-05-31">
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>Pathfinder: A Relational Query Optimizer Explores XQuery Terrain.</title>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings103/article1429.html</ee>
+<pages>617-620</pages>
+<year>2007</year>
+<crossref>conf/btw/2007</crossref>
+<booktitle>BTW</booktitle>
+<url>db/conf/btw/btw2007.html#RittingerTG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GrustRT07" mdate="2023-03-24">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>eXrQuy: Order Indifference in XQuery.</title>
+<pages>226-235</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.367868</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2007.367868</ee>
+<url>db/conf/icde/icde2007.html#GrustRT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GrustRT07" mdate="2018-11-06">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Why off-the-shelf RDBMSs are better at XPath than you might expect.</title>
+<pages>949-958</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247591</ee>
+<url>db/conf/sigmod/sigmod2007.html#GrustRT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GrustMRST07" mdate="2019-06-02">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="36/177">Manuel Mayr</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author orcid="0000-0002-2503-523X" pid="s/SherifSakr">Sherif Sakr</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>A SQL: 1999 code generator for the pathfinder xquery compiler.</title>
+<pages>1162-1164</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247642</ee>
+<ee>https://www.wikidata.org/entity/Q62752783</ee>
+<url>db/conf/sigmod/sigmod2007.html#GrustMRST07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ximep/GrustRT07" mdate="2018-11-06">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Data-intensive XQuery debugging with instant replay.</title>
+<year>2007</year>
+<crossref>conf/ximep/2007</crossref>
+<booktitle>XIME-P</booktitle>
+<ee>https://doi.org/10.1145/1328158.1328162</ee>
+<url>db/conf/ximep/ximep2007.html#GrustRT07</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0711-3375" mdate="2018-08-13">
+<author pid="36/3556">Loredana Afanasiev</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="m/MaartenMarx">Maarten Marx</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>An Inflationary Fixed Point Operator in XQuery</title>
+<ee type="oa">http://arxiv.org/abs/0711.3375</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0711.3375</volume>
+<url>db/journals/corr/corr0711.html#abs-0711-3375</url>
+</article>
+</r>
+<r><phdthesis key="phd/de/Teubner2006" mdate="2021-07-17">
+<author pid="t/JensTeubner">Jens Thilo Teubner</author>
+<title>Pathfinder: XQuery compilation techniques for relational database targets.</title>
+<year>2006</year>
+<school>Technical University Munich, Germany</school>
+<pages>1-167</pages>
+<isbn>978-3-89963-440-2</isbn>
+<ee>https://nbn-resolving.org/urn:nbn:de:bvb:91-diss20061115-0920351297</ee>
+<ee>https://d-nb.info/1058138480</ee>
+<ee>https://d-nb.info/982232543</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/edbt/BonczFGKMMRT06" mdate="2017-06-02">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="f/JanFlokstra">Jan Flokstra</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author orcid="0000-0003-2436-1372" pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="66/4188">K. Sjoerd Mullender</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>MonetDB/XQuery-Consistent and Efficient Updates on the Pre/Post Plane.</title>
+<pages>1190-1193</pages>
+<year>2006</year>
+<crossref>conf/edbt/2006</crossref>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1007/11687238_89</ee>
+<url>db/conf/edbt/edbt2006.html#BonczFGKMMRT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BonczGKMRT06" mdate="2018-11-06">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author orcid="0000-0003-2436-1372" pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>MonetDB/XQuery: a fast XQuery processor powered by a relational engine.</title>
+<pages>479-490</pages>
+<year>2006</year>
+<crossref>conf/sigmod/2006</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1142473.1142527</ee>
+<url>db/conf/sigmod/sigmod2006.html#BonczGKMRT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/BonczGKMRT05" mdate="2020-03-12">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Pathfinder: XQuery - The Relational Way.</title>
+<pages>1322-1325</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2005/papers/p1322-boncz.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083764</ee>
+<url>db/conf/vldb/vldb2005.html#BonczGKMRT05</url>
+</inproceedings>
+</r>
+<r><article key="journals/tods/GrustKT04" mdate="2018-11-06">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author orcid="0000-0003-2436-1372" pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Accelerating XPath evaluation in any RDBMS.</title>
+<pages>91-131</pages>
+<year>2004</year>
+<volume>29</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<ee>https://doi.org/10.1145/974750.974754</ee>
+<url>db/journals/tods/tods29.html#GrustKT04</url>
+</article>
+</r>
+<r><inproceedings key="conf/tdm/GrustT04" mdate="2007-02-28">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Relational Algebra: Mother Tongue - XQuery: Fluent.</title>
+<pages>9-16</pages>
+<year>2004</year>
+<crossref>conf/tdm/2004</crossref>
+<booktitle>TDM</booktitle>
+<ee>http://www.ctit.utwente.nl/library/proceedings/tdm04.pdf</ee>
+<url>db/conf/tdm/tdm2004.html#GrustT04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/GrustST04" mdate="2019-06-07">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="s/SherifSakr">Sherif Sakr</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>XQuery on SQL Hosts.</title>
+<year>2004</year>
+<crossref>conf/vldb/2004</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2004.html#GrustST04</url>
+<pages>252-263</pages>
+<ee>http://www.vldb.org/conf/2004/RS7P1.PDF</ee>
+<ee>https://doi.org/10.1016/B978-012088469-8.50025-5</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/MayerGKT04" mdate="2019-06-07">
+<author pid="19/1463">Sabine Mayer</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>An Injection of Tree Awareness: Adding Staircase Join to PostgreSQL.</title>
+<pages>1305-1308</pages>
+<year>2004</year>
+<crossref>conf/vldb/2004</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://www.vldb.org/conf/2004/DEMP14.PDF</ee>
+<ee>https://doi.org/10.1016/B978-012088469-8.50133-9</ee>
+<url>db/conf/vldb/vldb2004.html#MayerGKT04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gvd/TeubnerGK03" mdate="2003-06-03">
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<title>Bridging the GAP Between Relational and Native XML Storage with Staircase Join.</title>
+<pages>85-89</pages>
+<year>2003</year>
+<crossref>conf/gvd/2003</crossref>
+<booktitle>Grundlagen von Datenbanken</booktitle>
+<url>db/conf/gvd/gvd2003.html#TeubnerGK03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/GrustKT03" mdate="2020-03-12">
+<ee type="oa">http://www.vldb.org/conf/2003/papers/S16P03.pdf</ee>
+<ee>https://doi.org/10.1016/B978-012722442-8/50053-7</ee>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Staircase Join: Teach a Relational DBMS to Watch its (Axis) Steps.</title>
+<year>2003</year>
+<crossref>conf/vldb/2003</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2003.html#GrustKT03</url>
+<pages>524-525</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/Teubner03" mdate="2023-03-10">
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Pathfinder: Compiling XQuery for Execution on the Monet Database Engine.</title>
+<year>2003</year>
+<crossref>conf/vldb/2003phd</crossref>
+<booktitle>VLDB PhD Workshop</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-76/teubner.pdf</ee>
+<url>db/conf/vldb/vldb2003phd.html#Teubner03</url>
+</inproceedings>
+</r>
+<coauthors n="127" nc="1">
+<co c="0"><na f="a/Afanasiev:Loredana" pid="36/3556">Loredana Afanasiev</na></co>
+<co c="0"><na f="a/Ailamaki:Anastasia" pid="a/AnastassiaAilamaki">Anastasia Ailamaki</na></co>
+<co c="0"><na f="a/Alameddine:Jean=Marco" pid="352/7702">Jean-Marco Alameddine</na></co>
+<co c="0"><na f="a/Alonso:Gustavo" pid="a/GustavoAlonso">Gustavo Alonso</na></co>
+<co c="0"><na f="a/Amsaleg:Laurent" pid="a/LAmsaleg">Laurent Amsaleg</na></co>
+<co c="0"><na f="b/Baack:Dominik" pid="352/7812">Dominik Baack</na></co>
+<co c="0"><na f="b/Balkesen:Cagri" pid="45/7587">Cagri Balkesen</na></co>
+<co c="0"><na f="b/Barcel=oacute=:Pablo" pid="29/5169">Pablo Barcel&#243;</na></co>
+<co c="0"><na f="b/Baumann:Andrew" pid="53/6957">Andrew Baumann</na></co>
+<co c="0"><na f="b/Beier:Felix" pid="55/9320">Felix Beier</na></co>
+<co c="0"><na f="b/Berens:Maximilian" pid="195/7316">Maximilian Berens</na></co>
+<co c="0"><na f="b/Bhowmick:Sourav_S=" pid="b/SSBhowmick">Sourav S. Bhowmick</na></co>
+<co c="0"><na f="b/Biebert:Daniel" pid="349/1018">Daniel Biebert</na></co>
+<co c="0"><na f="b/Binnig:Carsten" pid="45/1559">Carsten Binnig</na></co>
+<co c="0"><na f="b/Blott:Michaela" pid="40/6407">Michaela Blott</na></co>
+<co c="0" n="2"><na f="b/B=ouml=hm_0002:Alexander" pid="92/6505">Alexander B&#246;hm 0002</na><na>Alexander Boehm 0002</na></co>
+<co c="0"><na f="b/Boncz:Peter_A=" pid="b/PeterABoncz">Peter A. Boncz</na></co>
+<co c="0"><na f="b/Bouzeghoub:Mokrane" pid="b/MBouzeghoub">Mokrane Bouzeghoub</na></co>
+<co c="0"><na f="b/Bre=szlig=:Sebastian" pid="25/11440">Sebastian Bre&#223;</na></co>
+<co c="0"><na f="b/Brinkmann:Patrick" pid="238/4369">Patrick Brinkmann</na></co>
+<co c="0"><na f="b/Bunse:Mirko" pid="225/9421">Mirko Bunse</na></co>
+<co c="0"><na f="b/Bussche:Jan_Van_den" pid="b/JVdBussche">Jan Van den Bussche</na></co>
+<co c="0"><na f="c/Chen:Jian=Jia" pid="70/1961">Jian-Jia Chen</na></co>
+<co c="0"><na f="c/Chen:Kuan=Hsun" pid="163/9343">Kuan-Hsun Chen</na></co>
+<co c="0"><na f="d/Dalbah:Fadi" pid="238/4350">Fadi Dalbah</na></co>
+<co c="0"><na f="d/Dembinski:Hans" pid="308/2274">Hans Dembinski</na></co>
+<co c="0"><na f="d/Dorok:Sebastian" pid="147/2911">Sebastian Dorok</na></co>
+<co c="0"><na f="e/Eitschberger:Ulrich" pid="195/7406">Ulrich Eitschberger</na></co>
+<co c="0"><na f="e/Els=auml=sser:Dominik" pid="352/7848">Dominik Els&#228;sser</na></co>
+<co c="0"><na f="f/Fischer_0001:Peter_M=" pid="f/PeterMFischer1">Peter M. Fischer 0001</na></co>
+<co c="0"><na f="f/Flokstra:Jan" pid="f/JanFlokstra">Jan Flokstra</na></co>
+<co c="0"><na f="f/Frey:Philip_Werner" pid="92/2133">Philip Werner Frey</na></co>
+<co c="0"><na f="f/Funke:Henning" pid="181/5803">Henning Funke</na></co>
+<co c="0"><na f="g/Geerts:Floris" pid="g/FlorisGeerts">Floris Geerts</na></co>
+<co c="0"><na f="g/Gemulla:Rainer" pid="32/5357">Rainer Gemulla</na></co>
+<co c="0"><na f="g/Goncalves:Romulo" pid="32/935">Romulo Goncalves</na></co>
+<co c="0"><na f="g/Grieskamp:Florian" pid="249/9977">Florian Grieskamp</na></co>
+<co c="0"><na f="g/Grust:Torsten" pid="g/TorstenGrust">Torsten Grust</na></co>
+<co c="0"><na f="g/Guagliardo:Paolo" pid="47/9855">Paolo Guagliardo</na></co>
+<co c="0"><na f="h/Hakert:Christian" pid="238/4383">Christian Hakert</na></co>
+<co c="0"><na f="h/H=auml=rder:Theo" pid="h/TheoHarder">Theo H&#228;rder</na></co>
+<co c="0"><na f="h/Haritsa:Jayant_R=" pid="h/JayantRHaritsa">Jayant R. Haritsa</na></co>
+<co c="0"><na f="h/Herschel:Melanie" pid="w/MelanieWeis">Melanie Herschel</na></co>
+<co c="0"><na f="h/Honysz:Philipp=Jan" pid="238/4352">Philipp-Jan Honysz</na></co>
+<co c="0"><na f="h/Hose:Katja" pid="h/KatjaHose">Katja Hose</na></co>
+<co c="0"><na f="j/Jagadish:H=_V=" pid="j/HVJagadish">H. V. Jagadish</na></co>
+<co c="0"><na f="k/Kauke:Jonas" pid="222/5325">Jonas Kauke</na></co>
+<co c="0"><na f="k/Kemper:Alfons" pid="k/AlfonsKemper">Alfons Kemper</na></co>
+<co c="0"><na f="k/Kersten:Martin_L=" pid="k/MartinLKersten">Martin L. Kersten</na></co>
+<co c="0"><na f="k/Keulen:Maurice_van" pid="k/MauricevanKeulen">Maurice van Keulen</na></co>
+<co c="0"><na f="k/Kilic:Ayse" pid="136/1988">Ayse Kilic</na></co>
+<co c="0"><na f="k/Kitsuregawa:Masaru" pid="k/MasaruKitsuregawa">Masaru Kitsuregawa</na></co>
+<co c="0"><na f="k/Kopp:Oliver" pid="29/3402">Oliver Kopp</na></co>
+<co c="0"><na f="k/Kossmann:Donald" pid="k/DonaldKossmann">Donald Kossmann</na></co>
+<co c="0"><na f="k/K=uuml=hn:Roland" pid="198/6736">Roland K&#252;hn</na></co>
+<co c="0"><na f="k/Ku=szlig=mann:Michael" pid="195/7311">Michael Ku&#223;mann</na></co>
+<co c="0"><na f="l/L=auml=pple:Horstfried" pid="147/2949">Horstfried L&#228;pple</na></co>
+<co c="0"><na f="l/L=eacute=ger:Alain" pid="29/4280">Alain L&#233;ger</na></co>
+<co c="0"><na f="l/Leich:Thomas" pid="00/3032">Thomas Leich</na></co>
+<co c="0"><na f="l/Leymann:Frank" pid="l/FrankLeymann">Frank Leymann</na></co>
+<co c="0"><na f="l/Lindemann:Thomas" pid="195/7378">Thomas Lindemann</na></co>
+<co c="0"><na f="l/Linhoff:Maximilian" pid="352/7750">Maximilian Linhoff</na></co>
+<co c="0"><na f="l/Lissandrini:Matteo" pid="139/1128">Matteo Lissandrini</na></co>
+<co c="0"><na f="l/Luo_0001:Qiong" pid="l/QiongLuo">Qiong Luo 0001</na></co>
+<co c="0"><na f="m/Mamoulis:Nikos" pid="34/6253">Nikos Mamoulis</na></co>
+<co c="0"><na f="m/Manegold:Stefan" pid="m/StefanManegold">Stefan Manegold</na></co>
+<co c="0"><na f="m/Maneth:Sebastian" pid="m/SebastianManeth">Sebastian Maneth</na></co>
+<co c="0"><na f="m/Manolescu:Ioana" pid="m/IoanaManolescu">Ioana Manolescu</na></co>
+<co c="0"><na f="m/Markl:Volker" pid="m/VMarkl">Volker Markl</na></co>
+<co c="0"><na f="m/Marx:Maarten" pid="m/MaartenMarx">Maarten Marx</na></co>
+<co c="0"><na f="m/Matuszczyk:Daniel" pid="238/4342">Daniel Matuszczyk</na></co>
+<co c="0"><na f="m/May:Norman" pid="89/6071">Norman May</na></co>
+<co c="0"><na f="m/Mayer:Sabine" pid="19/1463">Sabine Mayer</na></co>
+<co c="0"><na f="m/Mayr:Manuel" pid="36/177">Manuel Mayr</na></co>
+<co c="0"><na f="m/Meier:Frank" pid="26/9760">Frank Meier</na></co>
+<co c="0"><na f="m/Meier:Gerwin" pid="352/7927">Gerwin Meier</na></co>
+<co c="0"><na f="m/Mitschang:Bernhard" pid="m/BMitschang">Bernhard Mitschang</na></co>
+<co c="0"><na f="m/Mouaddib:Noureddine" pid="54/996">Noureddine Mouaddib</na></co>
+<co c="0"><na f="m/M=uuml=hlig:Jan" pid="222/6290">Jan M&#252;hlig</na></co>
+<co c="0"><na f="m/Mullender:K=_Sjoerd" pid="66/4188">K. Sjoerd Mullender</na></co>
+<co c="0"><na f="m/M=uuml=ller_0009:Michael" pid="08/6354-9">Michael M&#252;ller 0009</na></co>
+<co c="0"><na f="m/M=uuml=ller:Nikolas" pid="238/4348">Nikolas M&#252;ller</na></co>
+<co c="0"><na f="m/M=uuml=ller_0001:Ren=eacute=" pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</na></co>
+<co c="0"><na f="n/Naumann:Felix" pid="n/FelixNaumann">Felix Naumann</na></co>
+<co c="0"><na f="n/Neumann_0001:Thomas" pid="n/ThomasNeumann">Thomas Neumann 0001</na></co>
+<co c="0"><na f="n/Nicklas:Daniela" pid="n/DanielaNicklas">Daniela Nicklas</na></co>
+<co c="0"><na f="n/Nie:Chongling" pid="54/11411">Chongling Nie</na></co>
+<co c="0"><na f="n/Niet:Ramon" pid="195/7305">Ramon Niet</na></co>
+<co c="0"><na f="n/Nikolic_0001:Milos" pid="57/10355-1">Milos Nikolic 0001</na></co>
+<co c="0"><na f="n/Noll:Stefan" pid="67/1152">Stefan Noll</na></co>
+<co c="0"><na f="n/Novikov_0001:Boris" pid="n/BorisNovikov">Boris Novikov 0001</na></co>
+<co c="0"><na f="=/=Ouml=zcan:Fatma" pid="o/FatmaOzcan">Fatma &#214;zcan</na></co>
+<co c="0"><na f="=/=Ouml=zsu:M=_Tamer" pid="o/MTamerOzsu">M. Tamer &#214;zsu</na></co>
+<co c="0"><na f="p/Paredaens:Jan" pid="p/JParedaens">Jan Paredaens</na></co>
+<co c="0"><na f="p/Pieris:Andreas" pid="89/5672">Andreas Pieris</na></co>
+<co c="0"><na f="p/Pionteck:Thilo" pid="52/851">Thilo Pionteck</na></co>
+<co c="0"><na f="p/Pitoura:Evaggelia" pid="p/EPitoura">Evaggelia Pitoura</na></co>
+<co c="0"><na f="p/Polutin:Vladimir" pid="67/3953">Vladimir Polutin</na></co>
+<co c="0"><na f="p/Popa_0001:Lucian" pid="p/LucianPopa">Lucian Popa 0001</na></co>
+<co c="0"><na f="r/Rhode:Wolfgang" pid="125/5750">Wolfgang Rhode</na></co>
+<co c="0"><na f="r/Rittinger:Jan" pid="r/JanRittinger">Jan Rittinger</na></co>
+<co c="0"><na f="r/Riva:Oriana" pid="53/3712">Oriana Riva</na></co>
+<co c="0"><na f="r/Roscoe:Timothy" pid="r/TimothyRoscoe">Timothy Roscoe</na></co>
+<co c="0"><na f="r/Roy:Pratanu" pid="27/10432">Pratanu Roy</na></co>
+<co c="0"><na f="r/Ruhe:Tim" pid="167/3248">Tim Ruhe</na></co>
+<co c="0"><na f="s/Saake:Gunter" pid="s/GunterSaake">Gunter Saake</na></co>
+<co c="0"><na f="s/Sakr:Sherif" pid="s/SherifSakr">Sherif Sakr</na></co>
+<co c="0"><na f="s/Sattler:Kai=Uwe" pid="s/KaiUweSattler">Kai-Uwe Sattler</na></co>
+<co c="0"><na f="s/Schellenberg:Margarete" pid="195/7367">Margarete Schellenberg</na></co>
+<co c="0"><na f="s/Schelter:Sebastian" pid="118/7229">Sebastian Schelter</na></co>
+<co c="0"><na f="s/Schmulbach:Alexander" pid="238/4347">Alexander Schmulbach</na></co>
+<co c="0"><na f="s/Sch=ouml=ning:Harald" pid="60/5572">Harald Sch&#246;ning</na></co>
+<co c="0"><na f="s/Spaan:Bernhard" pid="16/10867">Bernhard Spaan</na></co>
+<co c="0"><na f="s/Spaccapietra:Stefano" pid="s/StefanoSpaccapietra">Stefano Spaccapietra</na></co>
+<co c="0"><na f="s/Spinczyk:Olaf" pid="s/OlafSpinczyk">Olaf Spinczyk</na></co>
+<co c="0"><na f="s/Stevens:Holger" pid="195/7347">Holger Stevens</na></co>
+<co c="0"><na f="s/Stoyanovich:Julia" pid="s/JuliaStoyanovich">Julia Stoyanovich</na></co>
+<co c="0"><na f="t/Tatbul:Nesime" pid="t/NesimeTatbul">Nesime Tatbul</na></co>
+<co c="0"><na f="t/Todorinski:Stefan_Petyov" pid="238/4378">Stefan Petyov Todorinski</na></co>
+<co c="0"><na f="t/T=uuml=selmann:Oliver" pid="238/4356">Oliver T&#252;selmann</na></co>
+<co c="0"><na f="u/Ugarte:Mart=iacute=n" pid="131/4268">Mart&#237;n Ugarte</na></co>
+<co c="0"><na f="v/Valduriez:Patrick" pid="v/PatrickValduriez">Patrick Valduriez</na></co>
+<co c="0"><na f="w/Wieland_0001:Matthias" pid="40/5100">Matthias Wieland 0001</na></co>
+<co c="0"><na f="w/Wishahi:Julian" pid="195/7319">Julian Wishahi</na></co>
+<co c="0"><na f="w/Wonsak:Shimon" pid="238/4381">Shimon Wonsak</na></co>
+<co c="0"><na f="w/Woods:Louis" pid="69/8510">Louis Woods</na></co>
+<co c="0"><na f="z/Zhang_0001:Meihui" pid="08/7259">Meihui Zhang 0001</na></co>
+</coauthors>
+</dblpperson>

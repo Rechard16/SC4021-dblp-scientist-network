@@ -1,0 +1,3097 @@
+<dblpperson name="Christoph Koch 0001" pid="k/ChristophKoch" n="208">
+<person key="homepages/k/ChristophKoch" mdate="2023-02-02">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="k/ChristophKoch">Christoph E. Koch</author>
+<url>http://people.epfl.ch/christoph.koch</url>
+<url>https://scholar.google.com/citations?user=bMQIencAAAAJ</url>
+<url>https://dl.acm.org/profile/81100303201</url>
+<url>https://orcid.org/0000-0002-9130-7205</url>
+<note type="affiliation">EPFL DATA Laboratory, Switzerland</note>
+</person>
+<homonyms n="10">
+<h f="k/Koch:Christoph"><name>Christoph Koch</name>
+</h>
+<h f="k/Koch_0002:Christoph"><person key="homepages/85/4323" mdate="2016-01-04">
+<author pid="85/4323">Christoph Koch 0002</author>
+<note type="affiliation">Erziehungswissenschaftliche Hochschule Rheinland-Pfalz, Germany</note>
+</person>
+</h>
+<h f="k/Koch_0003:Christoph"><person key="homepages/85/4323-3" mdate="2016-01-20">
+<author pid="85/4323-3">Christoph Koch 0003</author>
+<note type="affiliation">Universit&#228;t L&#252;beck, Germany</note>
+</person>
+</h>
+<h f="k/Koch_0004:Christoph"><person key="homepages/85/4323-4" mdate="2016-01-04">
+<author pid="85/4323-4">Christoph Koch 0004</author>
+<note type="affiliation">Universit&#228;t Passau, Germany</note>
+</person>
+</h>
+<h f="k/Koch_0005:Christoph"><person key="homepages/85/4323-5" mdate="2016-01-04">
+<author pid="85/4323-5">Christoph Koch 0005</author>
+<note type="affiliation">Friedrich-Schiller-Universit&#228;t Jena</note>
+<note type="affiliation">DATEV eG</note>
+</person>
+</h>
+<h f="k/Koch_0006:Christoph"><person key="homepages/85/4323-6" mdate="2015-12-15">
+<author pid="85/4323-6">Christoph Koch 0006</author>
+<note type="affiliation">Graz University of Technology, Austria</note>
+</person>
+</h>
+<h f="k/Koch_0007:Christoph"><person key="homepages/85/4323-7" mdate="2016-03-03">
+<author pid="85/4323-7">Christoph Koch 0007</author>
+<note type="affiliation">Hamburg University of Technology, Germany</note>
+</person>
+</h>
+<h f="k/Koch_0008:Christoph"><person key="homepages/217/2629" mdate="2018-04-14">
+<author pid="217/2629">Christoph Koch 0008</author>
+<note type="affiliation">University of Warwick, Mathematics Institute, Coventry, UK</note>
+</person>
+</h>
+<h f="k/Koch_0009:Christoph"><person key="homepages/225/1643" mdate="2018-08-28">
+<author pid="225/1643">Christoph Koch 0009</author>
+<note type="affiliation">University Hospital Eppendorf, Germany</note>
+</person>
+</h>
+<h f="k/Koch_0010:Christoph"><person key="homepages/337/6910" mdate="2023-05-24">
+<author pid="337/6910">Christoph Koch 0010</author>
+<note type="affiliation">Max Planck Institute for Human Development, Berlin, Germany</note>
+<url>https://orcid.org/0000-0002-4620-9577</url>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/lmcs/VandevoortKKN23" mdate="2024-01-23">
+<author pid="215/6207">Brecht Vandevoort</author>
+<author pid="147/1168">Bas Ketsman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>Robustness against Read Committed for Transaction Templates with Functional Constraints.</title>
+<year>2023</year>
+<volume>19</volume>
+<journal>Log. Methods Comput. Sci.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.46298/lmcs-19(4:39)2023</ee>
+<url>db/journals/lmcs/lmcs19.html#VandevoortKKN23</url>
+</article>
+</r>
+<r><article key="journals/pacmmod/Tian0N0T23" mdate="2023-07-07">
+<author orcid="0000-0003-4339-1876" pid="218/1533">Zilu Tian</author>
+<author orcid="0000-0003-2041-7201" pid="223/4092-1">Peter Lindner 0001</author>
+<author orcid="0000-0001-8196-5688" pid="271/7712">Markus Nissl</author>
+<author orcid="0000-0002-9130-7205" pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author orcid="0009-0008-6847-7274" pid="t/ValTannen">Val Tannen</author>
+<title>Generalizing Bulk-Synchronous Parallel Processing for Data Science: From Data to Threads and Agent-Based Simulations.</title>
+<pages>151:1-151:28</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3589296</ee>
+<url>db/journals/pacmmod/pacmmod1.html#Tian0N0T23</url>
+</article>
+</r>
+<r><article key="journals/sigmod/VandevoortK0N23" mdate="2024-02-05">
+<author pid="215/6207">Brecht Vandevoort</author>
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>When is it safe to run a transactional workload under Read Committed?</title>
+<pages>36-43</pages>
+<year>2023</year>
+<volume>52</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3604437.3604446</ee>
+<url>db/journals/sigmod/sigmod52.html#VandevoortK0N23</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/VandevoortK0N23" mdate="2023-04-17">
+<author pid="215/6207">Brecht Vandevoort</author>
+<author pid="147/1168">Bas Ketsman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>Detecting Robustness against MVRC for Transaction Programs with Predicate Reads.</title>
+<pages>565-577</pages>
+<year>2023</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.48786/edbt.2023.48</ee>
+<crossref>conf/edbt/2023</crossref>
+<url>db/conf/edbt/edbt2023.html#VandevoortK0N23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/JohnLJ023" mdate="2023-06-15">
+<author orcid="0000-0002-1583-496X" pid="177/9027">Sachin Basil John</author>
+<author orcid="0000-0003-2041-7201" pid="223/4092-1">Peter Lindner 0001</author>
+<author orcid="0009-0001-0989-5926" pid="348/7755">Zhekai Jiang</author>
+<author orcid="0000-0002-9130-7205" pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Aggregation and Exploration of High-Dimensional Data Using the Sudokube Data Cube Engine.</title>
+<pages>175-178</pages>
+<year>2023</year>
+<booktitle>SIGMOD Conference Companion</booktitle>
+<ee>https://doi.org/10.1145/3555041.3589729</ee>
+<crossref>conf/sigmod/2023c</crossref>
+<url>db/conf/sigmod/sigmod2023c.html#JohnLJ023</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-08789" mdate="2023-02-23">
+<author pid="215/6207">Brecht Vandevoort</author>
+<author pid="147/1168">Bas Ketsman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>Detecting Robustness against MVRC for Transaction Programs with Predicate Reads.</title>
+<year>2023</year>
+<volume>abs/2302.08789</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.08789</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-08789</url>
+</article>
+</r>
+<r><article key="journals/pvldb/John022" mdate="2023-10-28">
+<author orcid="0000-0002-1583-496X" pid="177/9027">Sachin Basil John</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>High-dimensional Data Cubes.</title>
+<pages>3828-3840</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p3828-john.pdf</ee>
+<ee>https://doi.org/10.14778/3565838.3565839</ee>
+<url>db/journals/pvldb/pvldb15.html#John022</url>
+</article>
+</r>
+<r><article key="journals/sigmod/KetsmanKNV22" mdate="2023-03-21">
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="215/6207">Brecht Vandevoort</author>
+<title>Concurrency control for database theorists.</title>
+<pages>6-17</pages>
+<year>2022</year>
+<month>December</month>
+<volume>51</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3582302.3582304</ee>
+<url>db/journals/sigmod/sigmod51.html#KetsmanKNV22</url>
+</article>
+</r>
+<r><article key="journals/tods/KetsmanKNV22" mdate="2023-01-31">
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author orcid="0000-0002-9130-7205" pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author orcid="0000-0001-7212-4625" pid="215/6207">Brecht Vandevoort</author>
+<title>Deciding Robustness for Lower SQL Isolation Levels.</title>
+<pages>13:1-13:41</pages>
+<year>2022</year>
+<volume>47</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3561049</ee>
+<url>db/journals/tods/tods47.html#KetsmanKNV22</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdt/VandevoortK0N22" mdate="2022-10-02">
+<author orcid="0000-0001-7212-4625" pid="215/6207">Brecht Vandevoort</author>
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>Robustness Against Read Committed for Transaction Templates with Functional Constraints.</title>
+<pages>16:1-16:17</pages>
+<year>2022</year>
+<booktitle>ICDT</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICDT.2022.16</ee>
+<crossref>conf/icdt/2022</crossref>
+<url>db/conf/icdt/icdt2022.html#VandevoortK0N22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/VandevoortK0N22" mdate="2022-10-02">
+<author orcid="0000-0001-7212-4625" pid="215/6207">Brecht Vandevoort</author>
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>Robustness Against Read Committed: A Free Transactional Lunch.</title>
+<pages>1-14</pages>
+<year>2022</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/3517804.3524162</ee>
+<crossref>conf/pods/2022</crossref>
+<url>db/conf/pods/pods2022.html#VandevoortK0N22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2201-05021" mdate="2022-01-20">
+<author pid="215/6207">Brecht Vandevoort</author>
+<author pid="147/1168">Bas Ketsman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>Robustness against Read Committed for Transaction Templates with Functional Constraints.</title>
+<year>2022</year>
+<volume>abs/2201.05021</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2201.05021</ee>
+<url>db/journals/corr/corr2201.html#abs-2201-05021</url>
+</article>
+</r>
+<r><article key="journals/dbsk/LeserHDEGHKKKKK21" mdate="2023-06-26">
+<author pid="l/UlfLeser">Ulf Leser</author>
+<author orcid="0000-0003-3717-9449" pid="51/10503">Marcus Hilbrich</author>
+<author pid="28/6412">Claudia Draxl</author>
+<author pid="27/1029">Peter Eisert</author>
+<author pid="55/4092">Lars Grunske</author>
+<author pid="13/9629">Patrick Hostert</author>
+<author pid="22/4586">Dagmar Kainm&#252;ller</author>
+<author pid="24/2656">Odej Kao</author>
+<author pid="06/7181">Birte Kehr</author>
+<author pid="24/9748">Timo Kehrer</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="55/3065">Henning Meyerhenke</author>
+<author pid="10/760">Tilmann Rabl</author>
+<author pid="33/2904">Alexander Reinefeld</author>
+<author orcid="0000-0003-3078-8129" pid="10/884">Knut Reinert</author>
+<author orcid="0000-0001-7115-0020" pid="165/6403">Kerstin Ritter</author>
+<author pid="15/503-1">Bj&#246;rn Scheuermann 0001</author>
+<author pid="s/FlorianSchintke">Florian Schintke</author>
+<author pid="s/NicoleSchweikardt">Nicole Schweikardt</author>
+<author pid="61/267">Matthias Weidlich 0001</author>
+<title>The Collaborative Research Center FONDA.</title>
+<pages>255-260</pages>
+<year>2021</year>
+<volume>21</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s13222-021-00397-5</ee>
+<url>db/journals/dbsk/dbsk21.html#LeserHDEGHKKKKK21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/VandevoortK0N21" mdate="2022-10-02">
+<author orcid="0000-0001-7212-4625" pid="215/6207">Brecht Vandevoort</author>
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Robustness against Read Committed for Transaction Templates.</title>
+<pages>2141-2153</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2141-vandevoort.pdf</ee>
+<ee>https://doi.org/10.14778/3476249.3476268</ee>
+<url>db/journals/pvldb/pvldb14.html#VandevoortK0N21</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2107-12239" mdate="2021-07-30">
+<author pid="215/6207">Brecht Vandevoort</author>
+<author pid="147/1168">Bas Ketsman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>Robustness against Read Committed for Transaction Templates.</title>
+<year>2021</year>
+<volume>abs/2107.12239</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2107.12239</ee>
+<url>db/journals/corr/corr2107.html#abs-2107-12239</url>
+</article>
+</r>
+<r><article key="journals/tods/ShaikhhaEMEK20" mdate="2020-10-08">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="141/4384">Mohammed Elseidy</author>
+<author pid="275/9257">Stephan Mihaila</author>
+<author pid="185/4285">Daniel Espino</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Synthesis of Incremental Linear Algebra Programs.</title>
+<pages>12:1-12:44</pages>
+<year>2020</year>
+<volume>45</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3385398</ee>
+<url>db/journals/tods/tods45.html#ShaikhhaEMEK20</url>
+</article>
+</r>
+<r><inproceedings key="conf/asplos/ZarandiGKSTDFK20" mdate="2020-10-25">
+<author orcid="0000-0002-9214-5981" pid="179/2944">Arash Pourhabibi Zarandi</author>
+<author orcid="0000-0002-6165-9461" pid="45/7178-3">Siddharth Gupta 0003</author>
+<author pid="260/5729">Hussein Kassir</author>
+<author pid="148/4025">Mark Sutherland</author>
+<author pid="218/1533">Zilu Tian</author>
+<author pid="165/2485">Mario Paulo Drumond</author>
+<author pid="f/BabakFalsafi">Babak Falsafi</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Optimus Prime: Accelerating Data Transformation in Servers.</title>
+<pages>1203-1216</pages>
+<year>2020</year>
+<booktitle>ASPLOS</booktitle>
+<ee>https://doi.org/10.1145/3373376.3378501</ee>
+<crossref>conf/asplos/2020</crossref>
+<url>db/conf/asplos/asplos2020.html#ZarandiGKSTDFK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/Ketsman020" mdate="2020-03-19">
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Datalog with Negation and Monotonicity.</title>
+<pages>19:1-19:18</pages>
+<year>2020</year>
+<booktitle>ICDT</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICDT.2020.19</ee>
+<crossref>conf/icdt/2020</crossref>
+<url>db/conf/icdt/icdt2020.html#Ketsman020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/Ketsman0NV20" mdate="2022-10-02">
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author orcid="0000-0001-7212-4625" pid="215/6207">Brecht Vandevoort</author>
+<title>Deciding Robustness for Lower SQL Isolation Levels.</title>
+<pages>315-330</pages>
+<year>2020</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/3375395.3387655</ee>
+<crossref>conf/pods/2020</crossref>
+<url>db/conf/pods/pods2020.html#Ketsman0NV20</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigact/Koch19" mdate="2019-12-16">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Database Theory Column Report on PODS 2019.</title>
+<pages>93-94</pages>
+<year>2019</year>
+<volume>50</volume>
+<journal>SIGACT News</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3374857.3374872</ee>
+<url>db/journals/sigact/sigact50.html#Koch19</url>
+</article>
+</r>
+<r><inproceedings key="conf/amw/000119" mdate="2023-03-10">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Query Optimization by Quantifier Elimination.</title>
+<year>2019</year>
+<booktitle>AMW</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2369/keynote04.pdf</ee>
+<crossref>conf/amw/2019</crossref>
+<url>db/conf/amw/amw2019.html#000119</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gpce/ShaikhhaJK19" mdate="2019-10-30">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="71/9975">Vojin Jovanovic</author>
+<author pid="k/ChristophKoch">Christoph E. Koch</author>
+<title>Compiler generation for performance-oriented embedded DSLs (short paper).</title>
+<pages>94-101</pages>
+<year>2019</year>
+<booktitle>GPCE</booktitle>
+<ee>https://doi.org/10.1145/3357765.3359520</ee>
+<crossref>conf/gpce/2019</crossref>
+<url>db/conf/gpce/gpce2019.html#ShaikhhaJK19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/pods/2019" mdate="2019-06-16">
+<editor pid="s/DanSuciu">Dan Suciu</editor>
+<editor pid="22/8384">Sebastian Skritek</editor>
+<editor pid="k/ChristophKoch">Christoph Koch 0001</editor>
+<title>Proceedings of the 38th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of Database Systems, PODS 2019, Amsterdam, The Netherlands, June 30 - July 5, 2019.</title>
+<publisher>ACM</publisher>
+<booktitle>PODS</booktitle>
+<year>2019</year>
+<isbn>978-1-4503-6227-6</isbn>
+<ee>https://dl.acm.org/citation.cfm?id=3294052</ee>
+<url>db/conf/pods/pods2019.html</url>
+</proceedings>
+</r>
+<r><article key="journals/jfp/ShaikhhaD018" mdate="2020-10-12">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Push versus pull-based loop fusion in query engines.</title>
+<pages>e10</pages>
+<year>2018</year>
+<volume>28</volume>
+<journal>J. Funct. Program.</journal>
+<ee>https://doi.org/10.1017/S0956796818000102</ee>
+<url>db/journals/jfp/jfp28.html#ShaikhhaD018</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/ParreauxVSK18" mdate="2021-02-17">
+<author pid="181/5785">Lionel Parreaux</author>
+<author pid="145/1655">Antoine Voizard</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="k/ChristophKoch">Christoph E. Koch</author>
+<title>Unifying analytic and statically-typed quasiquotes.</title>
+<pages>13:1-13:33</pages>
+<year>2018</year>
+<volume>2</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>POPL</number>
+<ee type="oa">https://doi.org/10.1145/3158101</ee>
+<url>db/journals/pacmpl/pacmpl2.html#ParreauxVSK18</url>
+</article>
+</r>
+<r><article key="journals/tods/ShaikhhaKK18" mdate="2018-11-21">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="33/8291">Yannis Klonatos</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Building Efficient Query Engines in a High-Level Language.</title>
+<pages>4:1-4:45</pages>
+<year>2018</year>
+<volume>43</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3183653</ee>
+<url>db/journals/tods/tods43.html#ShaikhhaKK18</url>
+</article>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/000118a" mdate="2019-02-14">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Logical Foundations of Web Data Extraction.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_1155</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/l2.html#000118a</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/000118c" mdate="2019-02-14">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Parameterized Complexity of Queries.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_1244</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/p2.html#000118c</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/000118h" mdate="2019-02-14">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>XML Stream Processing.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_473</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/x2.html#000118h</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/0001O18" mdate="2019-02-14">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<title>Uncertain Data Models.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_80739</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/u2.html#0001O18</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-02136" mdate="2020-11-03">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="f/AndrewWFitzgibbon">Andrew W. Fitzgibbon</author>
+<author pid="00/6362">Dimitrios Vytiniotis</author>
+<author pid="j/SimonLPeytonJones">Simon Peyton Jones</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Efficient Differentiable Programming in a Functional Array-Processing Language.</title>
+<year>2018</year>
+<volume>abs/1806.02136</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.02136</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-02136</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1807-09887" mdate="2020-10-12">
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author pid="177/9027">Sachin Basil John</author>
+<author pid="152/5813">Thierry Coppey</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="71/9975">Vojin Jovanovic</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Compiling Database Application Programs.</title>
+<year>2018</year>
+<volume>abs/1807.09887</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1807.09887</ee>
+<url>db/journals/corr/corr1807.html#abs-1807-09887</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-01344" mdate="2018-09-02">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="71/9975">Vojin Jovanovic</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>A Compiler-Compiler for DSL Embedding.</title>
+<year>2018</year>
+<volume>abs/1808.01344</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.01344</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-01344</url>
+</article>
+</r>
+<r><article key="journals/cacm/TrummerK17" mdate="2018-11-06">
+<author pid="85/9079">Immanuel Trummer</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Multi-objective parametric query optimization.</title>
+<pages>81-89</pages>
+<year>2017</year>
+<volume>60</volume>
+<journal>Commun. ACM</journal>
+<number>10</number>
+<ee>https://doi.org/10.1145/3068612</ee>
+<url>db/journals/cacm/cacm60.html#TrummerK17</url>
+</article>
+</r>
+<r><article key="journals/expert/PanYAK17" mdate="2020-03-06">
+<author pid="86/7788">Weike Pan</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<author pid="a/CharuCAggarwal">Charu C. Aggarwal</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Big Data.</title>
+<pages>7-8</pages>
+<year>2017</year>
+<volume>32</volume>
+<journal>IEEE Intell. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MIS.2017.32</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIS.2017.32</ee>
+<url>db/journals/expert/expert32.html#PanYAK17</url>
+</article>
+</r>
+<r><article key="journals/vldb/Trummer017" mdate="2017-07-26">
+<author orcid="0000-0002-7203-2349" pid="85/9079">Immanuel Trummer</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Multi-objective parametric query optimization.</title>
+<pages>107-124</pages>
+<year>2017</year>
+<volume>26</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-016-0439-0</ee>
+<url>db/journals/vldb/vldb26.html#Trummer017</url>
+</article>
+</r>
+<r><inproceedings key="conf/gpce/ParreauxSK17" mdate="2021-06-23">
+<author pid="181/5785">Lionel Parreaux</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="k/ChristophKoch">Christoph E. Koch</author>
+<title>Quoted staged rewriting: a practical approach to library-defined optimizations.</title>
+<pages>131-145</pages>
+<year>2017</year>
+<booktitle>GPCE</booktitle>
+<ee>https://doi.org/10.1145/3136040.3136043</ee>
+<ee>https://doi.org/10.1145/3170492.3136043</ee>
+<crossref>conf/gpce/2017</crossref>
+<url>db/conf/gpce/gpce2017.html#ParreauxSK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lata/Gottlob0P17" mdate="2019-06-02">
+<author orcid="0000-0002-2353-5230" pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="89/5672">Andreas Pieris</author>
+<title>Logic, Languages, and Rules for Web Data Extraction and Reasoning over Data.</title>
+<pages>27-47</pages>
+<year>2017</year>
+<booktitle>LATA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-53733-7_2</ee>
+<ee>https://www.wikidata.org/entity/Q59259451</ee>
+<crossref>conf/lata/2017</crossref>
+<url>db/conf/lata/lata2017.html#Gottlob0P17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scala/ParreauxSK17" mdate="2018-11-06">
+<author pid="181/5785">Lionel Parreaux</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="k/ChristophKoch">Christoph E. Koch</author>
+<title>Squid: type-safe, hygienic, and reusable quasiquotes.</title>
+<pages>56-66</pages>
+<year>2017</year>
+<booktitle>SCALA@SPLASH</booktitle>
+<ee>https://doi.org/10.1145/3136000.3136005</ee>
+<crossref>conf/scala/2017</crossref>
+<url>db/conf/scala/scala2017.html#ParreauxSK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DashtiJS017" mdate="2023-06-26">
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author orcid="0000-0002-1583-496X" pid="177/9027">Sachin Basil John</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Transaction Repair for Multi-Version Concurrency Control.</title>
+<pages>235-250</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3035919</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#DashtiJS017</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Trummer017" mdate="2018-11-06">
+<author pid="85/9079">Immanuel Trummer</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Solving the Join Ordering Problem via Mixed Integer Linear Programming.</title>
+<pages>1025-1040</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3064039</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#Trummer017</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/Trummer016" mdate="2020-04-25">
+<author pid="85/9079">Immanuel Trummer</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Multiple Query Optimization on the D-Wave 2X Adiabatic Quantum Computer.</title>
+<pages>648-659</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p648-trummer.pdf</ee>
+<ee>https://doi.org/10.14778/2947618.2947621</ee>
+<url>db/journals/pvldb/pvldb9.html#Trummer016</url>
+</article>
+</r>
+<r><article key="journals/pvldb/Trummer016a" mdate="2020-04-25">
+<author pid="85/9079">Immanuel Trummer</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Parallelizing Query Optimization on Shared-Nothing Architectures.</title>
+<pages>660-671</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p660-trummer.pdf</ee>
+<ee>https://doi.org/10.14778/2947618.2947622</ee>
+<url>db/journals/pvldb/pvldb9.html#Trummer016a</url>
+</article>
+</r>
+<r><article key="journals/pvldb/VitorovicEGMEDK16" mdate="2020-10-12">
+<author pid="140/0995">Aleksandar Vitorovic</author>
+<author pid="141/4384">Mohammed Elseidy</author>
+<author pid="185/4305">Khayyam Guliyev</author>
+<author pid="185/4291">Khue Vu Minh</author>
+<author pid="185/4285">Daniel Espino</author>
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author pid="33/8291">Yannis Klonatos</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Squall: Scalable Real-time Analytics.</title>
+<pages>1553-1556</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p1553-vitorovic.pdf</ee>
+<ee>https://doi.org/10.14778/3007263.3007307</ee>
+<url>db/journals/pvldb/pvldb9.html#VitorovicEGMEDK16</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Trummer016" mdate="2020-03-06">
+<author pid="85/9079">Immanuel Trummer</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Multi-Objective Parametric Query Optimization.</title>
+<pages>24-31</pages>
+<year>2016</year>
+<volume>45</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2949741.2949748</ee>
+<url>db/journals/sigmod/sigmod45.html#Trummer016</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/VitorovicE016" mdate="2023-03-24">
+<author pid="140/0995">Aleksandar Vitorovic</author>
+<author pid="141/4384">Mohammed Elseidy</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Load balancing and skew resilience for parallel joins.</title>
+<pages>313-324</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498250</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498250</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#VitorovicE016</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/0001LT16" mdate="2018-11-06">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="67/4746">Daniel Lupei</author>
+<author pid="t/ValTannen">Val Tannen</author>
+<title>Incremental View Maintenance For Collection Programming.</title>
+<pages>75-90</pages>
+<year>2016</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/2902251.2902286</ee>
+<crossref>conf/pods/2016</crossref>
+<url>db/conf/pods/pods2016.html#0001LT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/NikolicD016" mdate="2022-10-11">
+<author pid="57/10355-1">Milos Nikolic 0001</author>
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>How to Win a Hot Dog Eating Contest: Distributed Incremental View Maintenance with Batch Updates.</title>
+<pages>511-526</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2915246</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#NikolicD016</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Trummer016" mdate="2018-11-06">
+<author pid="85/9079">Immanuel Trummer</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>A Fast Randomized Algorithm for Multi-Objective Query Optimization.</title>
+<pages>1737-1752</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2882927</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#Trummer016</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ShaikhhaKPBD016" mdate="2020-10-12">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="33/8291">Yannis Klonatos</author>
+<author pid="181/5785">Lionel Parreaux</author>
+<author pid="181/5819">Lewis Brown</author>
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>How to Architect a Query Compiler.</title>
+<pages>1907-1922</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2915244</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#ShaikhhaKPBD016</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/Trummer016" mdate="2018-08-13">
+<author pid="85/9079">Immanuel Trummer</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>A Fast Randomized Algorithm for Multi-Objective Query Optimization.</title>
+<year>2016</year>
+<volume>abs/1603.00400</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1603.00400</ee>
+<url>db/journals/corr/corr1603.html#Trummer016</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/DashtiJS016" mdate="2020-10-12">
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author pid="177/9027">Sachin Basil John</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Repairing Conflicts among MVCC Transactions.</title>
+<year>2016</year>
+<volume>abs/1603.00542</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1603.00542</ee>
+<url>db/journals/corr/corr1603.html#DashtiJS016</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ShaikhhaD016" mdate="2020-10-12">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Push vs. Pull-Based Loop Fusion in Query Engines.</title>
+<year>2016</year>
+<volume>abs/1610.09166</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.09166</ee>
+<url>db/journals/corr/corr1610.html#ShaikhhaD016</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ShaikhhaK016" mdate="2018-08-13">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="33/8291">Yannis Klonatos</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Building Efficient Query Engines in a High-Level Language.</title>
+<year>2016</year>
+<volume>abs/1612.05566</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1612.05566</ee>
+<url>db/journals/corr/corr1612.html#ShaikhhaK016</url>
+</article>
+</r>
+<r><article key="journals/vldb/BohlenK15" mdate="2019-10-19">
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Special issue on best papers of VLDB 2013.</title>
+<pages>609-610</pages>
+<year>2015</year>
+<volume>24</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.1007/s00778-015-0401-6</ee>
+<url>db/journals/vldb/vldb24.html#BohlenK15</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/0002KBDHKFG15" mdate="2018-11-06">
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="k/LucjaKot">Lucja Kot</author>
+<author pid="92/9726">Gabriel Bender</author>
+<author pid="163/0574">Bailu Ding</author>
+<author pid="43/4308">Hossein Hojjat</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="15/3253">Nate Foster</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<title>The Homeostasis Protocol: Avoiding Transaction Coordination Through Program Analysis.</title>
+<pages>1311-1326</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2723720</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#0002KBDHKFG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/TrummerK15" mdate="2018-11-06">
+<author pid="85/9079">Immanuel Trummer</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>An Incremental Anytime Algorithm for Multi-Objective Query Optimization.</title>
+<pages>1941-1953</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2746484</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#TrummerK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/snapl/RompfBLSJAOSKDK15" mdate="2020-10-12">
+<author pid="19/7373">Tiark Rompf</author>
+<author pid="30/9116">Kevin J. Brown</author>
+<author pid="21/276">HyoukJoong Lee</author>
+<author pid="03/7746">Arvind K. Sujeeth</author>
+<author pid="54/8643">Manohar Jonnalagedda</author>
+<author pid="88/11209">Nada Amin</author>
+<author pid="16/7184">Georg Ofenbeck</author>
+<author pid="136/0876">Alen Stojanov</author>
+<author pid="33/8291">Yannis Klonatos</author>
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="37/6355">Markus P&#252;schel</author>
+<author pid="o/KunleOlukotun">Kunle Olukotun</author>
+<title>Go Meta! A Case for Generative Programming and DSLs in Performance Critical Systems.</title>
+<pages>238-261</pages>
+<year>2015</year>
+<booktitle>SNAPL</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.SNAPL.2015.238</ee>
+<crossref>conf/snapl/2015</crossref>
+<url>db/conf/snapl/snapl2015.html#RompfBLSJAOSKDK15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/TrummerK15" mdate="2018-08-13">
+<author pid="85/9079">Immanuel Trummer</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Multiple Query Optimization on the D-Wave 2X Adiabatic Quantum Computer.</title>
+<year>2015</year>
+<volume>abs/1510.06437</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1510.06437</ee>
+<url>db/journals/corr/corr1510.html#TrummerK15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/TrummerK15a" mdate="2018-08-13">
+<author pid="85/9079">Immanuel Trummer</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Parallelizing Query Optimization on Shared-Nothing Architectures.</title>
+<year>2015</year>
+<volume>abs/1511.01768</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1511.01768</ee>
+<url>db/journals/corr/corr1511.html#TrummerK15a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/TrummerK15b" mdate="2018-08-13">
+<author pid="85/9079">Immanuel Trummer</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Probably Approximately Optimal Query Optimization.</title>
+<year>2015</year>
+<volume>abs/1511.01782</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1511.01782</ee>
+<url>db/journals/corr/corr1511.html#TrummerK15b</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/TrummerK15c" mdate="2018-08-13">
+<author pid="85/9079">Immanuel Trummer</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Solving the Join Ordering Problem via Mixed Integer Linear Programming.</title>
+<year>2015</year>
+<volume>abs/1511.02071</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1511.02071</ee>
+<url>db/journals/corr/corr1511.html#TrummerK15c</url>
+</article>
+</r>
+<r><article key="journals/debu/Koch14" mdate="2020-03-10">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Abstraction Without Regret in Database Systems Building: a Manifesto.</title>
+<pages>70-79</pages>
+<year>2014</year>
+<volume>37</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A14mar/p70.pdf</ee>
+<url>db/journals/debu/debu37.html#Koch14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ElseidyEVK14" mdate="2020-04-25">
+<author pid="141/4384">Mohammed Elseidy</author>
+<author pid="137/7138">Abdallah Elguindy</author>
+<author pid="140/0995">Aleksandar Vitorovic</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Scalable and Adaptive Online Joins.</title>
+<pages>441-452</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p441-elseidy.pdf</ee>
+<ee>https://doi.org/10.14778/2732279.2732281</ee>
+<url>db/journals/pvldb/pvldb7.html#ElseidyEVK14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KlonatosKRC14" mdate="2020-04-25">
+<author pid="33/8291">Yannis Klonatos</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="19/7373">Tiark Rompf</author>
+<author pid="94/3582">Hassan Chafi</author>
+<title>Building Efficient Query Engines in a High-Level Language.</title>
+<pages>853-864</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p853-klonatos.pdf</ee>
+<ee>https://doi.org/10.14778/2732951.2732959</ee>
+<url>db/journals/pvldb/pvldb7.html#KlonatosKRC14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KlonatosKRC14a" mdate="2020-04-25">
+<author pid="33/8291">Yannis Klonatos</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="19/7373">Tiark Rompf</author>
+<author pid="94/3582">Hassan Chafi</author>
+<title>Errata for "Building Efficient Query Engines in a High-Level Language" (PVLDB 7(10): 853-864).</title>
+<pages>1784</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p1784-klonatos.pdf</ee>
+<ee>https://doi.org/10.14778/2733004.2733084</ee>
+<url>db/journals/pvldb/pvldb7.html#KlonatosKRC14a</url>
+</article>
+</r>
+<r><article key="journals/pvldb/TrummerK14" mdate="2020-04-25">
+<author pid="85/9079">Immanuel Trummer</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Multi-Objective Parametric Query Optimization.</title>
+<pages>221-232</pages>
+<year>2014</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p221-trummer.pdf</ee>
+<ee>https://doi.org/10.14778/2735508.2735512</ee>
+<url>db/journals/pvldb/pvldb8.html#TrummerK14</url>
+</article>
+</r>
+<r><article key="journals/vldb/KochAKNNLS14" mdate="2022-10-11">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="99/770">Yanif Ahmad</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="57/10355-1">Milos Nikolic 0001</author>
+<author orcid="0000-0001-8669-0011" pid="131/4231">Andres N&#246;tzli</author>
+<author pid="67/4746">Daniel Lupei</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<title>DBToaster: higher-order delta processing for dynamic, frequently fresh views.</title>
+<pages>253-278</pages>
+<year>2014</year>
+<volume>23</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-013-0348-4</ee>
+<url>db/journals/vldb/vldb23.html#KochAKNNLS14</url>
+</article>
+</r>
+<r><inproceedings key="conf/gpce/JovanovicSSNKO14" mdate="2021-06-23">
+<author pid="71/9975">Vojin Jovanovic</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<author orcid="0000-0001-5608-8273" pid="147/8375">Sandro Stucki</author>
+<author pid="120/7909">Vladimir Nikolaev</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="o/MartinOdersky">Martin Odersky</author>
+<title>Yin-yang: concealing the deep embedding of DSLs.</title>
+<pages>73-82</pages>
+<year>2014</year>
+<booktitle>GPCE</booktitle>
+<ee>https://doi.org/10.1145/2658761.2658771</ee>
+<ee>https://doi.org/10.1145/2775053.2658771</ee>
+<crossref>conf/gpce/2014</crossref>
+<url>db/conf/gpce/gpce2014.html#JovanovicSSNKO14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/NikolicEK14" mdate="2022-10-11">
+<author pid="57/10355-1">Milos Nikolic 0001</author>
+<author pid="141/4384">Mohammed Elseidy</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>LINVIEW: incremental view maintenance for complex analytical queries.</title>
+<pages>253-264</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2610519</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#NikolicEK14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/TrummerK14" mdate="2018-11-06">
+<author pid="85/9079">Immanuel Trummer</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Approximation schemes for many-objective query optimization.</title>
+<pages>1299-1310</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2610527</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#TrummerK14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/0002KFGHK14" mdate="2018-08-13">
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="k/LucjaKot">Lucja Kot</author>
+<author pid="15/3253">Nate Foster</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="43/4308">Hossein Hojjat</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Writes that Fall in the Forest and Make no Sound: Semantics-Based Adaptive Data Consistency.</title>
+<year>2014</year>
+<volume>abs/1403.2307</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1403.2307</ee>
+<url>db/journals/corr/corr1403.html#0002KFGHK14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/NikolicEK14" mdate="2022-10-11">
+<author pid="57/10355-1">Milos Nikolic 0001</author>
+<author pid="141/4384">Mohammed Elseidy</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>LINVIEW: Incremental View Maintenance for Complex Analytical Queries.</title>
+<year>2014</year>
+<volume>abs/1403.6968</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1403.6968</ee>
+<url>db/journals/corr/corr1403.html#NikolicEK14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/TrummerK14" mdate="2018-08-13">
+<author pid="85/9079">Immanuel Trummer</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Approximation Schemes for Many-Objective Query Optimization.</title>
+<year>2014</year>
+<volume>abs/1404.0046</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1404.0046</ee>
+<url>db/journals/corr/corr1404.html#TrummerK14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LupeiKT14" mdate="2018-08-13">
+<author pid="67/4746">Daniel Lupei</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="t/ValTannen">Val Tannen</author>
+<title>Incremental View Maintenance for Nested-Relational Databases.</title>
+<year>2014</year>
+<volume>abs/1412.4320</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1412.4320</ee>
+<url>db/journals/corr/corr1412.html#LupeiKT14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BohlenK12" mdate="2020-04-25">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Front Matter.</title>
+<pages>i-x</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/FrontMatterVol6No1.pdf</ee>
+<url>db/journals/pvldb/pvldb6.html#BohlenK12</url>
+</article>
+</r>
+<r><inproceedings key="conf/bncod/Koch13" mdate="2017-05-24">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Compilation and Synthesis in Big Data Analytics.</title>
+<pages>6</pages>
+<year>2013</year>
+<booktitle>BNCOD</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-39467-6_2</ee>
+<crossref>conf/bncod/2013</crossref>
+<url>db/conf/bncod/bncod2013.html#Koch13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bncod/SavenkovPK13" mdate="2019-10-19">
+<author orcid="0000-0002-3193-3757" pid="56/1006">Vadim Savenkov</author>
+<author pid="26/5252">Reinhard Pichler</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Loop Elimination for Database Updates.</title>
+<pages>48-61</pages>
+<year>2013</year>
+<booktitle>BNCOD</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-39467-6_8</ee>
+<crossref>conf/bncod/2013</crossref>
+<url>db/conf/bncod/bncod2013.html#SavenkovPK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/0002KK13" mdate="2020-03-12">
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="k/LucjaKot">Lucja Kot</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Quantum Databases.</title>
+<year>2013</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2013/Papers/CIDR13_Paper86.pdf</ee>
+<crossref>conf/cidr/2013</crossref>
+<url>db/conf/cidr/cidr2013.html#0002KK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/Koch13" mdate="2020-03-12">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Abstraction without regret in data management systems.</title>
+<year>2013</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2013/Papers/CIDR13_Paper149.pdf</ee>
+<crossref>conf/cidr/2013</crossref>
+<url>db/conf/cidr/cidr2013.html#Koch13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globalsip/KyrillidisBCK13" mdate="2024-02-05">
+<author pid="53/9879">Anastasios Kyrillidis</author>
+<author pid="47/9100">Stephen Becker</author>
+<author orcid="0000-0002-5004-201X" pid="70/5301">Volkan Cevher</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Sparse simplex projections for portfolio optimization.</title>
+<pages>1141</pages>
+<year>2013</year>
+<booktitle>GlobalSIP</booktitle>
+<ee>https://doi.org/10.1109/GlobalSIP.2013.6737104</ee>
+<crossref>conf/globalsip/2013</crossref>
+<url>db/conf/globalsip/globalsip2013.html#KyrillidisBCK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/KyrillidisBCK13" mdate="2019-05-29">
+<author pid="53/9879">Anastasios Kyrillidis</author>
+<author pid="47/9100">Stephen Becker</author>
+<author pid="70/5301">Volkan Cevher</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Sparse projections onto the simplex.</title>
+<pages>235-243</pages>
+<year>2013</year>
+<booktitle>ICML (2)</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v28/kyrillidis13.html</ee>
+<crossref>conf/icml/2013</crossref>
+<url>db/conf/icml/icml2013.html#KyrillidisBCK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KlonatosNSKK13" mdate="2019-09-16">
+<author pid="33/8291">Yannis Klonatos</author>
+<author orcid="0000-0001-8669-0011" pid="131/4231">Andres N&#246;tzli</author>
+<author pid="116/4868">Andrej Spielmann</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="k/ViktorKuncak">Viktor Kuncak</author>
+<title>Automatic synthesis of out-of-core algorithms.</title>
+<pages>133-144</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2465334</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#KlonatosNSKK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BenderKGK13" mdate="2018-11-06">
+<author pid="92/9726">Gabriel Bender</author>
+<author pid="k/LucjaKot">Lucja Kot</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Fine-grained disclosure control for app ecosystems.</title>
+<pages>869-880</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2467798</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#BenderKGK13</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/AhmadKKN12" mdate="2022-10-11">
+<author pid="99/770">Yanif Ahmad</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="57/10355-1">Milos Nikolic 0001</author>
+<title>DBToaster: Higher-order Delta Processing for Dynamic, Frequently Fresh Views.</title>
+<pages>968-979</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p968_yanifahmad_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2336664.2336670</ee>
+<url>db/journals/pvldb/pvldb5.html#AhmadKKN12</url>
+</article>
+</r>
+<r><article key="journals/tods/0003K0BGK12" mdate="2018-11-06">
+<author pid="g/NitinGupta3">Nitin Gupta 0003</author>
+<author pid="k/LucjaKot">Lucja Kot</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="92/9726">Gabriel Bender</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Entangled queries: Enabling declarative data-driven coordination.</title>
+<pages>21:1-21:34</pages>
+<year>2012</year>
+<volume>37</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2338626.2338629</ee>
+<url>db/journals/tods/tods37.html#0003K0BGK12</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1207-0137" mdate="2022-10-11">
+<author pid="99/770">Yanif Ahmad</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="57/10355-1">Milos Nikolic 0001</author>
+<title>DBToaster: Higher-order Delta Processing for Dynamic, Frequently Fresh Views</title>
+<ee type="oa">http://arxiv.org/abs/1207.0137</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1207.0137</volume>
+<url>db/journals/corr/corr1207.html#abs-1207-0137</url>
+</article>
+</r>
+<r><book key="series/synthesis/2011Suciu" mdate="2023-10-19">
+<author pid="s/DanSuciu">Dan Suciu</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Probabilistic Databases</title>
+<year>2011</year>
+<series href="db/series/synthesis-dtm/index.html">Synthesis Lectures on Data Management</series>
+<publisher>Morgan &amp; Claypool Publishers</publisher>
+<isbn>978-3-031-00751-4</isbn>
+<isbn>978-3-031-01879-4</isbn>
+<ee>https://doi.org/10.2200/S00362ED1V01Y201105DTM016</ee>
+<ee>https://doi.org/10.1007/978-3-031-01879-4</ee>
+</book>
+</r>
+<r><article key="journals/pvldb/GuptaNRBKGK11" mdate="2022-10-11">
+<author pid="g/NitinGupta3">Nitin Gupta 0003</author>
+<author pid="57/10355-1">Milos Nikolic 0001</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="92/9726">Gabriel Bender</author>
+<author pid="k/LucjaKot">Lucja Kot</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Entangled Transactions.</title>
+<pages>887-898</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p887-gupta.pdf</ee>
+<url>db/journals/pvldb/pvldb4.html#GuptaNRBKGK11</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/KennedyAK11" mdate="2020-03-12">
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="99/770">Yanif Ahmad</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>DBToaster: Agile Views for a Dynamic Data Management System.</title>
+<pages>284-295</pages>
+<year>2011</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2011/Papers/CIDR11_Paper38.pdf</ee>
+<crossref>conf/cidr/2011</crossref>
+<url>db/conf/cidr/cidr2011.html#KennedyAK11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GuptaKRBGK11" mdate="2018-11-06">
+<author pid="g/NitinGupta3">Nitin Gupta 0003</author>
+<author pid="k/LucjaKot">Lucja Kot</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="92/9726">Gabriel Bender</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Entangled queries: enabling declarative data-driven coordination.</title>
+<pages>673-684</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989394</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#GuptaKRBGK11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GuptaKBRGK11" mdate="2018-11-06">
+<author pid="g/NitinGupta3">Nitin Gupta 0003</author>
+<author pid="k/LucjaKot">Lucja Kot</author>
+<author pid="92/9726">Gabriel Bender</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Coordination through querying in the youtopia system.</title>
+<pages>1331-1334</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989490</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#GuptaKBRGK11</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/icde/2011" mdate="2019-10-16">
+<editor pid="a/SergeAbiteboul">Serge Abiteboul</editor>
+<editor pid="b/KBohm">Klemens B&#246;hm</editor>
+<editor pid="k/ChristophKoch">Christoph Koch 0001</editor>
+<editor pid="t/KianLeeTan">Kian-Lee Tan</editor>
+<title>Proceedings of the 27th International Conference on Data Engineering, ICDE 2011, April 11-16, 2011, Hannover, Germany</title>
+<booktitle>ICDE</booktitle>
+<publisher>IEEE Computer Society</publisher>
+<year>2011</year>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/5765035/proceeding</ee>
+<ee>https://www.computer.org/csdl/proceedings/icde/2011/8959/00/index.html</ee>
+<url>db/conf/icde/icde2011.html</url>
+<isbn>978-1-4244-8958-9</isbn>
+</proceedings>
+</r>
+<r><proceedings key="conf/icde/2011w" mdate="2019-10-16">
+<editor pid="a/SergeAbiteboul">Serge Abiteboul</editor>
+<editor pid="b/KBohm">Klemens B&#246;hm</editor>
+<editor pid="k/ChristophKoch">Christoph Koch 0001</editor>
+<editor pid="t/KianLeeTan">Kian-Lee Tan</editor>
+<title>Workshops Proceedings of the 27th International Conference on Data Engineering, ICDE 2011, April 11-16, 2011, Hannover, Germany</title>
+<booktitle>ICDE Workshops</booktitle>
+<publisher>IEEE Computer Society</publisher>
+<year>2011</year>
+<isbn>978-1-4244-9194-0</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/5765044/proceeding</ee>
+<ee>https://www.computer.org/csdl/proceedings/icdew/2011/9195/00/index.html</ee>
+<url>db/conf/icde/icdew2011.html</url>
+</proceedings>
+</r>
+<r><article key="journals/debu/MeliouGHKMS10" mdate="2020-03-10">
+<author pid="04/1835">Alexandra Meliou</author>
+<author pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="h/JosephYHalpern">Joseph Y. Halpern</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="94/2260">Katherine F. Moore</author>
+<author pid="s/DanSuciu">Dan Suciu</author>
+<title>Causality in Databases.</title>
+<pages>59-67</pages>
+<year>2010</year>
+<volume>33</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<ee type="oa">http://sites.computer.org/debull/A10sept/suciu.pdf</ee>
+<url>db/journals/debu/debu33.html#MeliouGHKMS10</url>
+</article>
+</r>
+<r><article key="journals/sigmod/KotGRGK10" mdate="2020-03-06">
+<author pid="k/LucjaKot">Lucja Kot</author>
+<author pid="g/NitinGupta3">Nitin Gupta 0003</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Beyond isolation: research opportunities in declarative data-driven coordination.</title>
+<pages>27-32</pages>
+<year>2010</year>
+<volume>39</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1860702.1860706</ee>
+<url>db/journals/sigmod/sigmod39.html#KotGRGK10</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/OlteanuHK10" mdate="2023-03-24">
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<author pid="14/775">Jiewen Huang</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Approximate confidence computation in probabilistic databases.</title>
+<pages>145-156</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447826</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447826</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#OlteanuHK10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KennedyK10" mdate="2023-03-23">
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>PIP: A database system for great and small expectations.</title>
+<pages>157-168</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447879</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447879</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#KennedyK10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/Koch10" mdate="2018-11-06">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Incremental query evaluation in a ring of databases.</title>
+<pages>87-98</pages>
+<year>2010</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1807085.1807100</ee>
+<crossref>conf/pods/2010</crossref>
+<url>db/conf/pods/pods2010.html#Koch10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/DeutchKM10" mdate="2018-11-06">
+<author pid="98/6876">Daniel Deutch</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<title>On probabilistic fixpoint and Markov chain query languages.</title>
+<pages>215-226</pages>
+<year>2010</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1807085.1807114</ee>
+<crossref>conf/pods/2010</crossref>
+<url>db/conf/pods/pods2010.html#DeutchKM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sum/Koch10" mdate="2017-05-24">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Markov Chain Monte Carlo and Databases - (Abstract).</title>
+<pages>1</pages>
+<year>2010</year>
+<booktitle>SUM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15951-0_1</ee>
+<crossref>conf/sum/2010</crossref>
+<url>db/conf/sum/sum2010.html#Koch10</url>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/WhiteKGD09" mdate="2018-11-06">
+<author pid="w/WalkerMWhite">Walker M. White</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="03/5860">Alan J. Demers</author>
+<title>Better scripts, better games.</title>
+<pages>42-47</pages>
+<year>2009</year>
+<volume>52</volume>
+<journal>Commun. ACM</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1467247.1467262</ee>
+<url>db/journals/cacm/cacm52.html#WhiteKGD09</url>
+</article>
+</r>
+<r><article key="journals/is/GotzKM09" mdate="2017-05-20">
+<author pid="g/MichaelaGotz">Michaela G&#246;tz</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="95/3517">Wim Martens</author>
+<title>Efficient algorithms for descendant-only tree pattern queries.</title>
+<pages>602-623</pages>
+<year>2009</year>
+<volume>34</volume>
+<journal>Inf. Syst.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/j.is.2009.03.010</ee>
+<url>db/journals/is/is34.html#GotzKM09</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KotK09" mdate="2020-04-25">
+<author pid="k/LucjaKot">Lucja Kot</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Cooperative Update Exchange in the Youtopia System.</title>
+<pages>193-204</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-218.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687650</ee>
+<url>db/journals/pvldb/pvldb2.html#KotK09</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SallesCSDGKW09" mdate="2020-04-25">
+<author pid="70/4277">Marcos Antonio Vaz Salles</author>
+<author pid="35/7259">Tuan Cao</author>
+<author pid="s/BenSowell">Benjamin Sowell</author>
+<author pid="03/5860">Alan J. Demers</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="w/WalkerMWhite">Walker M. White</author>
+<title>An Evaluation of Checkpoint Recovery for Massively Multiplayer Online Games.</title>
+<pages>1258-1269</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-387.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687769</ee>
+<url>db/journals/pvldb/pvldb2.html#SallesCSDGKW09</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AhmadK09" mdate="2022-08-16">
+<author pid="99/770">Yanif Ahmad</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>DBToaster: A SQL Compiler for High-Performance Delta Processing in Main-Memory Databases.</title>
+<pages>1566-1569</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-1042.pdf</ee>
+<ee>https://doi.org/10.14778/1687553.1687592</ee>
+<ee>https://www.wikidata.org/entity/Q113237189</ee>
+<url>db/journals/pvldb/pvldb2.html#AhmadK09</url>
+</article>
+</r>
+<r><article key="journals/tods/BenediktK09" mdate="2018-11-06">
+<author orcid="0000-0003-2964-0880" pid="b/MichaelBenedikt">Michael Benedikt</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>From XQuery to relational logics.</title>
+<year>2009</year>
+<volume>34</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1620585.1620592</ee>
+<url>db/journals/tods/tods34.html#BenediktK09</url>
+<pages>25:1-25:48</pages>
+</article>
+</r>
+<r><article key="journals/vldb/AntovaKO09" mdate="2017-05-28">
+<author pid="a/LyublenaAntova">Lyublena Antova</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<title>10<sup>(10<sup>6</sup>)</sup> worlds and beyond: efficient representation and processing of incomplete information.</title>
+<pages>1021-1040</pages>
+<year>2009</year>
+<volume>18</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-009-0149-y</ee>
+<url>db/journals/vldb/vldb18.html#AntovaKO09</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/HongRKGD09" mdate="2018-11-06">
+<author pid="h/MingshengHong">Mingsheng Hong</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="03/5860">Alan J. Demers</author>
+<title>Rule-based multi-query optimization.</title>
+<pages>120-131</pages>
+<year>2009</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1516360.1516376</ee>
+<crossref>conf/edbt/2009</crossref>
+<url>db/conf/edbt/edbt2009.html#HongRKGD09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/OlteanuHK09" mdate="2023-03-23">
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<author pid="14/775">Jiewen Huang</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>SPROUT: Lazy vs. Eager Query Plans for Tuple-Independent Probabilistic Databases.</title>
+<pages>640-651</pages>
+<year>2009</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2009.123</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2009.123</ee>
+<crossref>conf/icde/2009</crossref>
+<url>db/conf/icde/icde2009.html#OlteanuHK09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KennedyKD09" mdate="2023-03-24">
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="03/5860">Alan J. Demers</author>
+<title>Dynamic Approaches to In-network Aggregation.</title>
+<pages>1331-1334</pages>
+<year>2009</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2009.233</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2009.233</ee>
+<crossref>conf/icde/2009</crossref>
+<url>db/conf/icde/icde2009.html#KennedyKD09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/Koch09" mdate="2018-11-06">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>A compositional query algebra for second-order logic and uncertain databases.</title>
+<pages>127-140</pages>
+<year>2009</year>
+<booktitle>ICDT</booktitle>
+<ee>https://doi.org/10.1145/1514894.1514911</ee>
+<crossref>conf/icdt/2009</crossref>
+<url>db/conf/icdt/icdt2009.html#Koch09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/GotzK09" mdate="2018-11-06">
+<author pid="g/MichaelaGotz">Michaela G&#246;tz</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>A compositional framework for complex queries over uncertain data.</title>
+<pages>149-161</pages>
+<year>2009</year>
+<booktitle>ICDT</booktitle>
+<ee>https://doi.org/10.1145/1514894.1514913</ee>
+<crossref>conf/icdt/2009</crossref>
+<url>db/conf/icdt/icdt2009.html#GotzK09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DemersGKSW09" mdate="2018-11-06">
+<author pid="03/5860">Alan J. Demers</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="s/BenSowell">Ben Sowell</author>
+<author pid="w/WalkerMWhite">Walker M. White</author>
+<title>Database research in computer games.</title>
+<pages>1011-1014</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559967</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#DemersGKSW09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HuangAKO09" mdate="2018-11-06">
+<author pid="14/775">Jiewen Huang</author>
+<author pid="a/LyublenaAntova">Lyublena Antova</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<title>MayBMS: a probabilistic database management system.</title>
+<pages>1071-1074</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559984</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#HuangAKO09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wia/Koch09" mdate="2018-06-26">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Applications of Automata in XML Processing.</title>
+<pages>2</pages>
+<year>2009</year>
+<booktitle>CIAA</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-02979-0_2</ee>
+<crossref>conf/wia/2009</crossref>
+<url>db/conf/wia/ciaa2009.html#Koch09</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Koch09" mdate="2017-07-12">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Logical Foundations of Web Data Extraction.</title>
+<pages>1649-1652</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_1155</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/l.html#Koch09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Koch09a" mdate="2017-07-12">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Parameterized Complexity of Queries.</title>
+<pages>2041-2044</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_1244</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/p.html#Koch09a</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Koch09b" mdate="2017-07-12">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>XML Stream Processing.</title>
+<pages>3634-3637</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_473</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/x.html#Koch09b</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0903-5346" mdate="2018-08-13">
+<author pid="k/LucjaKot">Lucja Kot</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Cooperative Update Exchange in the Youtopia System</title>
+<ee type="oa">http://arxiv.org/abs/0903.5346</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0903.5346</volume>
+<url>db/journals/corr/corr0903.html#abs-0903-5346</url>
+</article>
+</r>
+<r><article key="journals/csur/BenediktK08" mdate="2018-11-06">
+<author orcid="0000-0003-2964-0880" pid="b/MichaelBenedikt">Michael Benedikt</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>XPath leashed.</title>
+<year>2008</year>
+<volume>41</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1456650.1456653</ee>
+<url>db/journals/csur/csur41.html#BenediktK08</url>
+<pages>3:1-3:54</pages>
+</article>
+</r>
+<r><article key="journals/is/BiermanK08" mdate="2017-05-20">
+<author pid="b/GavinMBierman">Gavin M. Bierman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Information systems preface.</title>
+<pages>333-334</pages>
+<year>2008</year>
+<volume>33</volume>
+<journal>Inf. Syst.</journal>
+<number>4-5</number>
+<ee>https://doi.org/10.1016/j.is.2008.01.001</ee>
+<url>db/journals/is/is33.html#BiermanK08</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KochO08" mdate="2020-04-25">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<title>Conditioning probabilistic databases.</title>
+<pages>313-325</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1453894.pdf</ee>
+<ee>https://doi.org/10.14778/1453856.1453894</ee>
+<url>db/journals/pvldb/pvldb1.html#KochO08</url>
+</article>
+</r>
+<r><article key="journals/queue/WhiteKGD08" mdate="2018-11-14">
+<author pid="w/WalkerMWhite">Walker M. White</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="03/5860">Alan J. Demers</author>
+<title>Better Scripts, Better Games.</title>
+<pages>18-25</pages>
+<year>2008</year>
+<volume>6</volume>
+<journal>ACM Queue</journal>
+<number>7</number>
+<ee>https://doi.org/10.1145/1483101.1483106</ee>
+<ee>https://www.wikidata.org/entity/Q56639320</ee>
+<url>db/journals/queue/queue6.html#WhiteKGD08</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Koch08" mdate="2020-03-06">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>On Query Algebras for Probabilistic Databases.</title>
+<pages>78-85</pages>
+<year>2008</year>
+<volume>37</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1519103.1519116</ee>
+<url>db/journals/sigmod/sigmod37.html#Koch08</url>
+</article>
+</r>
+<r><article key="journals/tcs/OlteanuKA08" mdate="2021-02-17">
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="a/LyublenaAntova">Lyublena Antova</author>
+<title>World-set decompositions: Expressiveness and efficient algorithms.</title>
+<pages>265-284</pages>
+<year>2008</year>
+<volume>403</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>2-3</number>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2008.05.004</ee>
+<url>db/journals/tcs/tcs403.html#OlteanuKA08</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/KochSS08" mdate="2023-03-24">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="s/StefanieScherzinger">Stefanie Scherzinger</author>
+<author pid="156/1960-2">Michael Schmidt 0002</author>
+<title>XML Prefiltering as a String Matching Problem.</title>
+<pages>626-635</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497471</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497471</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#KochSS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AntovaJKO08" mdate="2023-03-23">
+<author pid="a/LyublenaAntova">Lyublena Antova</author>
+<author pid="j/ThomasJansen4">Thomas Jansen 0004</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<title>Fast and Simple Relational Processing of Uncertain Data.</title>
+<pages>983-992</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497507</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497507</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#AntovaJKO08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iqis/AntovaK08" mdate="2016-03-03">
+<author pid="a/LyublenaAntova">Lyublena Antova</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>On APIs for probabilistic databases.</title>
+<pages>41-56</pages>
+<year>2008</year>
+<booktitle>QDB/MUD</booktitle>
+<ee>http://www.vldb.org/conf/2008/workshops/WProc_qdbmud/mud1.pdf</ee>
+<crossref>conf/iqis/2008</crossref>
+<url>db/conf/iqis/qdbmud2008.html#AntovaK08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/Koch08" mdate="2018-11-06">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Approximating predicates and expressive queries on probabilistic databases.</title>
+<pages>99-108</pages>
+<year>2008</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1376916.1376932</ee>
+<crossref>conf/pods/2008</crossref>
+<url>db/conf/pods/pods2008.html#Koch08</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dagstuhl/2008P8421" mdate="2021-06-10">
+<editor pid="k/ChristophKoch">Christoph Koch 0001</editor>
+<editor pid="k/BKonigRies">Birgitta K&#246;nig-Ries</editor>
+<editor pid="m/VMarkl">Volker Markl</editor>
+<editor pid="k/MauricevanKeulen">Maurice van Keulen</editor>
+<title>Uncertainty Management in Information Systems, 12.10. - 17.10.2008</title>
+<booktitle>Uncertainty Management in Information Systems</booktitle>
+<volume>08421</volume>
+<year>2008</year>
+<publisher>Schloss Dagstuhl - Leibniz-Zentrum f&#252;r Informatik, Germany</publisher>
+<series href="db/series/dagstuhl/index.html">Dagstuhl Seminar Proceedings</series>
+<url>db/conf/dagstuhl/P8421.html</url>
+<ee type="oa">http://drops.dagstuhl.de/portals/08421/</ee>
+</proceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/KochHLORKP08" mdate="2018-08-23">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="l/HJLenz">Hans-Joachim Lenz</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<author pid="59/6490">Jeff Z. Pan</author>
+<title>08421 Working Group: Report of the Probabilistic Databases Benchmarking.</title>
+<year>2008</year>
+<booktitle>Uncertainty Management in Information Systems</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2009/1936/</ee>
+<crossref>conf/dagstuhl/2008P8421</crossref>
+<url>db/conf/dagstuhl/P8421.html#KochHLORKP08</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/KochKMK08" mdate="2018-08-23">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="k/BKonigRies">Birgitta K&#246;nig-Ries</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<title>08421 Abstracts Collection - Uncertainty Management in Information Systems.</title>
+<year>2008</year>
+<booktitle>Uncertainty Management in Information Systems</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2009/1942/</ee>
+<crossref>conf/dagstuhl/2008P8421</crossref>
+<url>db/conf/dagstuhl/P8421.html#KochKMK08</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/KochKMK08a" mdate="2018-08-23">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="k/BKonigRies">Birgitta K&#246;nig-Ries</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<title>08421 Executive Summary - Uncertainty Management in Information Systems.</title>
+<year>2008</year>
+<booktitle>Uncertainty Management in Information Systems</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2009/1940/</ee>
+<crossref>conf/dagstuhl/2008P8421</crossref>
+<url>db/conf/dagstuhl/P8421.html#KochKMK08a</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/SarmaKDHIKNOTV08" mdate="2021-10-14">
+<author pid="59/589">Anish Das Sarma</author>
+<author pid="k/AnderdeKeijzer">Ander de Keijzer</author>
+<author pid="d/AmolDeshpande">Amol Deshpande</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<author orcid="0000-0003-4067-7609" pid="t/MartinTheobald">Martin Theobald</author>
+<author pid="v/VVassalos">Vasilis Vassalos</author>
+<title>08421 Working Group: Classification, Representation and Modeling.</title>
+<year>2008</year>
+<booktitle>Uncertainty Management in Information Systems</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2009/1941/</ee>
+<crossref>conf/dagstuhl/2008P8421</crossref>
+<url>db/conf/dagstuhl/P8421.html#SarmaKDHIKNOTV08</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0803-2212" mdate="2018-08-13">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<title>Conditioning Probabilistic Databases</title>
+<ee type="oa">http://arxiv.org/abs/0803.2212</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0803.2212</volume>
+<url>db/journals/corr/corr0803.html#abs-0803-2212</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0807-4620" mdate="2018-08-13">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>A Compositional Query Algebra for Second-Order Logic and Uncertain Databases</title>
+<ee type="oa">http://arxiv.org/abs/0807.4620</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0807.4620</volume>
+<url>db/journals/corr/corr0807.html#abs-0807-4620</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0810-3227" mdate="2018-08-13">
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="03/5860">Alan J. Demers</author>
+<title>Dynamic Approaches to In-Network Aggregation</title>
+<ee type="oa">http://arxiv.org/abs/0810.3227</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0810.3227</volume>
+<url>db/journals/corr/corr0810.html#abs-0810-3227</url>
+</article>
+</r>
+<r><article key="journals/sigmod/WhiteKGGD07" mdate="2020-03-06">
+<author pid="w/WalkerMWhite">Walker M. White</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="g/NitinGupta3">Nitin Gupta 0003</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="03/5860">Alan J. Demers</author>
+<title>Database research opportunities in computer games.</title>
+<pages>7-13</pages>
+<year>2007</year>
+<volume>36</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1324185.1324186</ee>
+<url>db/journals/sigmod/sigmod36.html#WhiteKGGD07</url>
+</article>
+</r>
+<r><article key="journals/tcs/GroheKS07" mdate="2021-02-17">
+<author orcid="0000-0002-0292-9142" pid="g/MGrohe">Martin Grohe</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="s/NicoleSchweikardt">Nicole Schweikardt</author>
+<title>Tight lower bounds for query processing on streaming and external memory data.</title>
+<pages>199-217</pages>
+<year>2007</year>
+<volume>380</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2007.02.062</ee>
+<url>db/journals/tcs/tcs380.html#GroheKS07</url>
+</article>
+</r>
+<r><article key="journals/vldb/KochS07" mdate="2017-05-28">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="s/StefanieScherzinger">Stefanie Scherzinger</author>
+<title>Attribute grammars for scalable query processing on XML streams.</title>
+<pages>317-342</pages>
+<year>2007</year>
+<volume>16</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00778-005-0169-1</ee>
+<url>db/journals/vldb/vldb16.html#KochS07</url>
+</article>
+</r>
+<r><inproceedings key="conf/dbpl/GotzKM07" mdate="2017-05-25">
+<author pid="g/MichaelaGotz">Michaela G&#246;tz</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="95/3517">Wim Martens</author>
+<title>Efficient Algorithms for the Tree Homeomorphism Problem.</title>
+<pages>17-31</pages>
+<year>2007</year>
+<crossref>conf/dbpl/2007</crossref>
+<booktitle>DBPL</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-75987-4_2</ee>
+<url>db/conf/dbpl/dbpl2007.html#GotzKM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SchmidtSK07" mdate="2023-03-23">
+<author pid="156/1960-2">Michael Schmidt 0002</author>
+<author pid="s/StefanieScherzinger">Stefanie Scherzinger</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Combined Static and Dynamic Analysis for Effective Buffer Minimization in Streaming XQuery Evaluation.</title>
+<pages>236-245</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.367869</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2007.367869</ee>
+<url>db/conf/icde/icde2007.html#SchmidtSK07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AntovaKO07" mdate="2023-03-24">
+<author pid="a/LyublenaAntova">Lyublena Antova</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<title>10<sup>10<sup>6</sup></sup> Worlds and Beyond: Efficient Representation and Processing of Incomplete Information.</title>
+<pages>606-615</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.367906</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2007.367906</ee>
+<url>db/conf/icde/icde2007.html#AntovaKO07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AntovaKO07a" mdate="2023-03-23">
+<author pid="a/LyublenaAntova">Lyublena Antova</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<title>MayBMS: Managing Incomplete Information with Probabilistic World-Set Decompositions.</title>
+<pages>1479-1480</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.369042</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2007.369042</ee>
+<url>db/conf/icde/icde2007.html#AntovaKO07a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/AntovaKO07" mdate="2017-05-23">
+<author pid="a/LyublenaAntova">Lyublena Antova</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<title>World-Set Decompositions: Expressiveness and Efficient Algorithms.</title>
+<pages>194-208</pages>
+<year>2007</year>
+<crossref>conf/icdt/2007</crossref>
+<booktitle>ICDT</booktitle>
+<ee>https://doi.org/10.1007/11965893_14</ee>
+<url>db/conf/icdt/icdt2007.html#AntovaKO07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/planX/Koch07" mdate="2018-06-27">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>XPath Leashed.</title>
+<pages>0-1</pages>
+<year>2007</year>
+<crossref>conf/planX/2007</crossref>
+<booktitle>PLAN-X</booktitle>
+<ee>http://www.plan-x-2007.org/plan-x-2007.pdf</ee>
+<url>db/conf/planx/planX2007.html#Koch07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/WhiteDKGR07" mdate="2018-11-06">
+<author pid="w/WalkerMWhite">Walker M. White</author>
+<author pid="03/5860">Alan J. Demers</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="62/3304">Rajmohan Rajagopalan</author>
+<title>Scaling games to epic proportion.</title>
+<pages>31-42</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247486</ee>
+<url>db/conf/sigmod/sigmod2007.html#WhiteDKGR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AntovaKO07" mdate="2018-11-06">
+<author pid="a/LyublenaAntova">Lyublena Antova</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<title>From complete to incomplete information and back.</title>
+<pages>713-724</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247559</ee>
+<url>db/conf/sigmod/sigmod2007.html#AntovaKO07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HongDGKRW07" mdate="2018-11-06">
+<author pid="h/MingshengHong">Mingsheng Hong</author>
+<author pid="03/5860">Alan J. Demers</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="w/WalkerMWhite">Walker M. White</author>
+<title>Massively multi-query join processing in publish/subscribe systems.</title>
+<pages>761-772</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247564</ee>
+<url>db/conf/sigmod/sigmod2007.html#HongDGKRW07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/KochSS07" mdate="2020-03-12">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="s/StefanieScherzinger">Stefanie Scherzinger</author>
+<author pid="156/1960-2">Michael Schmidt 0002</author>
+<title>The GCX System: Dynamic Buffer Minimization in Streaming XQuery Evaluation.</title>
+<pages>1378-1381</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/demo/p1378-koch.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#KochSS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/AntovaKO07" mdate="2020-03-12">
+<author pid="a/LyublenaAntova">Lyublena Antova</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<title>Query language support for incomplete information in the MayBMS system.</title>
+<pages>1422-1425</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/demo/p1422-antova.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#AntovaKO07</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/vldb/2007" mdate="2016-03-03">
+<editor pid="k/ChristophKoch">Christoph Koch 0001</editor>
+<editor pid="g/JohannesGehrke">Johannes Gehrke</editor>
+<editor pid="g/MinosNGarofalakis">Minos N. Garofalakis</editor>
+<editor pid="s/DiveshSrivastava">Divesh Srivastava</editor>
+<editor pid="a/KarlAberer">Karl Aberer</editor>
+<editor pid="07/576">Anand Deshpande</editor>
+<editor pid="70/3007">Daniela Florescu</editor>
+<editor pid="c/CheeYongChan">Chee Yong Chan</editor>
+<editor pid="g/VenkateshGanti">Venkatesh Ganti</editor>
+<editor pid="k/CarlChristianKanne">Carl-Christian Kanne</editor>
+<editor pid="k/WolfgangKlas">Wolfgang Klas</editor>
+<editor pid="n/ErichJNeuhold">Erich J. Neuhold</editor>
+<title>Proceedings of the 33rd International Conference on Very Large Data Bases, University of Vienna, Austria, September 23-27, 2007</title>
+<booktitle>VLDB</booktitle>
+<year>2007</year>
+<isbn>978-1-59593-649-3</isbn>
+<publisher>ACM</publisher>
+<url>db/conf/vldb/vldb2007.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0705-4442" mdate="2018-08-13">
+<author pid="a/LyublenaAntova">Lyublena Antova</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<title>World-set Decompositions: Expressiveness and Efficient Algorithms</title>
+<ee type="oa">http://arxiv.org/abs/0705.4442</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0705.4442</volume>
+<url>db/journals/corr/corr0705.html#abs-0705-4442</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0707-1644" mdate="2018-08-13">
+<author pid="a/LyublenaAntova">Lyublena Antova</author>
+<author pid="j/ThomasJansen4">Thomas Jansen 0004</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<title>Fast and Simple Relational Processing of Uncertain Data</title>
+<ee type="oa">http://arxiv.org/abs/0707.1644</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0707.1644</volume>
+<url>db/journals/corr/corr0707.html#abs-0707-1644</url>
+</article>
+</r>
+<r><article key="journals/jacm/GottlobKS06" mdate="2019-06-02">
+<author orcid="0000-0002-2353-5230" pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="s/KUSchulz">Klaus U. Schulz</author>
+<title>Conjunctive queries over trees.</title>
+<pages>238-272</pages>
+<year>2006</year>
+<volume>53</volume>
+<journal>J. ACM</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1131342.1131345</ee>
+<ee>https://www.wikidata.org/entity/Q59259658</ee>
+<url>db/journals/jacm/jacm53.html#GottlobKS06</url>
+</article>
+</r>
+<r><article key="journals/sigmod/BiermanK06" mdate="2020-03-06">
+<author pid="b/GavinMBierman">Gavin M. Bierman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Report on the 10th International Symposium on Database Programming Languages: (DBPL 2005).</title>
+<pages>45-47</pages>
+<year>2006</year>
+<volume>35</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1121995.1122004</ee>
+<url>db/journals/sigmod/sigmod35.html#BiermanK06</url>
+</article>
+</r>
+<r><article key="journals/tods/Koch06" mdate="2019-05-09">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>On the complexity of nonrecursive XQuery and functional query languages on complex values.</title>
+<pages>1215-1256</pages>
+<year>2006</year>
+<volume>31</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1189769.1189771</ee>
+<url>db/journals/tods/tods31.html#Koch06</url>
+</article>
+</r>
+<r><inproceedings key="conf/icalp/BenediktK06" mdate="2017-06-04">
+<author orcid="0000-0003-2964-0880" pid="b/MichaelBenedikt">Michael Benedikt</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Interpreting Tree-to-Tree Queries.</title>
+<pages>552-564</pages>
+<year>2006</year>
+<crossref>conf/icalp/2006-2</crossref>
+<booktitle>ICALP (2)</booktitle>
+<ee>https://doi.org/10.1007/11787006_47</ee>
+<url>db/conf/icalp/icalp2006-2.html#BenediktK06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/Koch06" mdate="2018-11-06">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Processing queries on tree-structured data efficiently.</title>
+<pages>213-224</pages>
+<year>2006</year>
+<crossref>conf/pods/2006</crossref>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1142351.1142382</ee>
+<url>db/conf/pods/pods2006.html#Koch06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sofsem/GottlobK06" mdate="2019-06-02">
+<author orcid="0000-0002-2353-5230" pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>A Formal Comparison of Visual Web Wrapper Generators.</title>
+<pages>30-48</pages>
+<year>2006</year>
+<crossref>conf/sofsem/2006</crossref>
+<booktitle>SOFSEM</booktitle>
+<ee>https://doi.org/10.1007/11611257_3</ee>
+<ee>https://www.wikidata.org/entity/Q59259654</ee>
+<url>db/conf/sofsem/sofsem2006.html#GottlobK06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ximep/KochOS06" mdate="2016-03-03">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<author pid="s/StefanieScherzinger">Stefanie Scherzinger</author>
+<title>Building a Native XML-DBMS as a Term Project in a Database Systems Course.</title>
+<year>2006</year>
+<crossref>conf/ximep/2006</crossref>
+<booktitle>XIME-P</booktitle>
+<ee>http://www.ximep-2006.org/papers/Paper-Koch-Olteanu.pdf</ee>
+<url>db/conf/ximep/ximep2006.html#KochOS06</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0602004" mdate="2018-08-13">
+<author pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="s/KUSchulz">Klaus U. Schulz</author>
+<title>Conjunctive Queries over Trees</title>
+<ee type="oa">http://arxiv.org/abs/cs/0602004</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0602004</volume>
+<url>db/journals/corr/corr0602.html#abs-cs-0602004</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0602006" mdate="2018-08-13">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>A Visual Query Language for Complex-Value Databases</title>
+<ee type="oa">http://arxiv.org/abs/cs/0602006</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0602006</volume>
+<url>db/journals/corr/corr0602.html#abs-cs-0602006</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0606075" mdate="2018-08-13">
+<author pid="a/LyublenaAntova">Lyublena Antova</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<title>10^(10^6) Worlds and Beyond: Efficient Representation and Processing of Incomplete Information</title>
+<ee type="oa">http://arxiv.org/abs/cs/0606075</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0606075</volume>
+<url>db/journals/corr/corr0606.html#abs-cs-0606075</url>
+</article>
+</r>
+<r><article key="journals/ijswis/BryKFSBB05" mdate="2020-09-05">
+<author orcid="0000-0002-0532-6005" pid="b/FrancoisBry">Fran&#231;ois Bry</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="f/TimFurche">Tim Furche</author>
+<author pid="s/SebastianSchaffert">Sebastian Schaffert</author>
+<author pid="35/6382">Liviu Badea</author>
+<author pid="b/SachaBerger">Sacha Berger</author>
+<title>Querying the Web Reconsidered: Design Principles for Versatile Web Query Languages.</title>
+<pages>1-21</pages>
+<year>2005</year>
+<volume>1</volume>
+<journal>Int. J. Semantic Web Inf. Syst.</journal>
+<number>2</number>
+<url>db/journals/ijswis/ijswis1.html#BryKFSBB05</url>
+<ee>https://doi.org/10.4018/jswis.2005040101</ee>
+</article>
+</r>
+<r><article key="journals/jacm/GottlobKPS05" mdate="2019-06-02">
+<author orcid="0000-0002-2353-5230" pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="26/5252">Reinhard Pichler</author>
+<author pid="s/LucSegoufin">Luc Segoufin</author>
+<title>The complexity of XPath query evaluation and XML typing.</title>
+<pages>284-335</pages>
+<year>2005</year>
+<volume>52</volume>
+<journal>J. ACM</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1059513.1059520</ee>
+<ee>https://www.wikidata.org/entity/Q59259684</ee>
+<url>db/journals/jacm/jacm52.html#GottlobKPS05</url>
+</article>
+</r>
+<r><article key="journals/tods/GottlobKP05" mdate="2019-06-02">
+<author orcid="0000-0002-2353-5230" pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="26/5252">Reinhard Pichler</author>
+<title>Efficient algorithms for processing XPath queries.</title>
+<pages>444-491</pages>
+<year>2005</year>
+<volume>30</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1071610.1071614</ee>
+<ee>https://www.wikidata.org/entity/Q59259677</ee>
+<url>db/journals/tods/tods30.html#GottlobKP05</url>
+</article>
+</r>
+<r><inproceedings key="conf/fct/GroheKS05" mdate="2017-05-17">
+<author pid="g/MGrohe">Martin Grohe</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="s/NicoleSchweikardt">Nicole Schweikardt</author>
+<title>The Complexity of Querying External Memory and Streaming Data.</title>
+<pages>1-16</pages>
+<year>2005</year>
+<crossref>conf/fct/2005</crossref>
+<booktitle>FCT</booktitle>
+<ee>https://doi.org/10.1007/11537311_1</ee>
+<url>db/conf/fct/fct2005.html#GroheKS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/GroheKS05" mdate="2017-05-23">
+<author pid="g/MGrohe">Martin Grohe</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="s/NicoleSchweikardt">Nicole Schweikardt</author>
+<title>Tight Lower Bounds for Query Processing on Streaming and External Memory Data.</title>
+<pages>1076-1088</pages>
+<year>2005</year>
+<crossref>conf/icalp/2005</crossref>
+<booktitle>ICALP</booktitle>
+<ee>https://doi.org/10.1007/11523468_87</ee>
+<url>db/conf/icalp/icalp2005.html#GroheKS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/Koch05" mdate="2018-11-06">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>On the complexity of nonrecursive XQuery and functional query languages on complex values.</title>
+<pages>84-97</pages>
+<year>2005</year>
+<crossref>conf/pods/2005</crossref>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1065167.1065179</ee>
+<url>db/conf/pods/pods2005.html#Koch05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rweb/BaumgartnerEGHK05" mdate="2017-05-21">
+<author pid="b/RobertBaumgartner">Robert Baumgartner</author>
+<author pid="e/TEiter">Thomas Eiter</author>
+<author pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="91/4750">Marcus Herzog</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Information Extraction for the Semantic Web.</title>
+<pages>275-289</pages>
+<year>2005</year>
+<crossref>conf/rweb/2005</crossref>
+<booktitle>Reasoning Web</booktitle>
+<ee>https://doi.org/10.1007/11526988_8</ee>
+<url>db/conf/rweb/rweb2005.html#BaumgartnerEGHK05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webdb/Koch05" mdate="2016-03-03">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>On the role of composition in XQuery.</title>
+<pages>37-42</pages>
+<year>2005</year>
+<crossref>conf/webdb/2005</crossref>
+<booktitle>WebDB</booktitle>
+<url>db/conf/webdb/webdb2005.html#Koch05</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dbpl/2005" mdate="2019-05-14">
+<editor pid="b/GavinMBierman">Gavin M. Bierman</editor>
+<editor pid="k/ChristophKoch">Christoph Koch 0001</editor>
+<title>Database Programming Languages, 10th International Symposium, DBPL 2005, Trondheim, Norway, August 28-29, 2005, Revised Selected Papers</title>
+<volume>3774</volume>
+<year>2005</year>
+<isbn>3-540-30951-9</isbn>
+<booktitle>DBPL</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<ee>https://doi.org/10.1007/11601524</ee>
+<url>db/conf/dbpl/dbpl2005.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0503062" mdate="2018-08-13">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>On the Complexity of Nonrecursive XQuery and Functional Query Languages on Complex Values</title>
+<ee type="oa">http://arxiv.org/abs/cs/0503062</ee>
+<year>2005</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0503062</volume>
+<url>db/journals/corr/corr0503.html#abs-cs-0503062</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0505002" mdate="2018-08-13">
+<author pid="g/MGrohe">Martin Grohe</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="s/NicoleSchweikardt">Nicole Schweikardt</author>
+<title>Tight Lower Bounds for Query Processing on Streaming and External Memory Data</title>
+<ee type="oa">http://arxiv.org/abs/cs/0505002</ee>
+<year>2005</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0505002</volume>
+<url>db/journals/corr/corr0505.html#abs-cs-0505002</url>
+</article>
+</r>
+<r><article key="journals/aicom/Koch04" mdate="2016-03-03">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Query rewriting with symmetric constraints.</title>
+<pages>41-55</pages>
+<year>2004</year>
+<volume>17</volume>
+<journal>AI Commun.</journal>
+<number>2</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic300</ee>
+<url>db/journals/aicom/aicom17.html#Koch04</url>
+</article>
+</r>
+<r><article key="journals/jacm/GottlobK04" mdate="2019-06-02">
+<author orcid="0000-0002-2353-5230" pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Monadic datalog and the expressive power of languages for Web information extraction.</title>
+<pages>74-113</pages>
+<year>2004</year>
+<volume>51</volume>
+<journal>J. ACM</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/962446.962450</ee>
+<ee>https://www.wikidata.org/entity/Q59259696</ee>
+<url>db/journals/jacm/jacm51.html#GottlobK04</url>
+</article>
+</r>
+<r><article key="journals/sigmod/GottlobK04" mdate="2020-03-06">
+<author pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Logic-based Web Information Extraction.</title>
+<pages>87-94</pages>
+<year>2004</year>
+<volume>33</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1024694.1024711</ee>
+<url>db/journals/sigmod/sigmod33.html#GottlobK04</url>
+</article>
+</r>
+<r><inproceedings key="conf/pods/GottlobKBHF04" mdate="2018-11-06">
+<author pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="b/RobertBaumgartner">Robert Baumgartner</author>
+<author pid="91/4750">Marcus Herzog</author>
+<author orcid="0000-0002-4164-940X" pid="99/5874">Sergio Flesca</author>
+<title>The Lixto Data Extraction Project - Back and Forth between Theory and Practice.</title>
+<year>2004</year>
+<crossref>conf/pods/2004</crossref>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1055558.1055560</ee>
+<ee>http://www.acm.org/sigmod/pods/proc04/pdf/P-01.pdf</ee>
+<pages>1-12</pages>
+<url>db/conf/pods/pods2004.html#GottlobKBHF04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/GottlobKS04" mdate="2018-11-06">
+<author pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="s/KUSchulz">Klaus U. Schulz</author>
+<title>Conjunctive Queries over Trees.</title>
+<year>2004</year>
+<crossref>conf/pods/2004</crossref>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1055558.1055585</ee>
+<ee>http://www.acm.org/sigmod/pods/proc04/pdf/P-19.pdf</ee>
+<pages>189-200</pages>
+<url>db/conf/pods/pods2004.html#GottlobKS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/KochSSS04" mdate="2019-06-07">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="s/StefanieScherzinger">Stefanie Scherzinger</author>
+<author pid="s/NicoleSchweikardt">Nicole Schweikardt</author>
+<author pid="00/5643">Bernhard Stegmaier</author>
+<title>Schema-based Scheduling of Event Processors and Buffer Minimization for Queries on Structured Data Streams.</title>
+<year>2004</year>
+<crossref>conf/vldb/2004</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2004.html#KochSSS04</url>
+<pages>228-239</pages>
+<ee>http://www.vldb.org/conf/2004/RS6P2.PDF</ee>
+<ee>https://doi.org/10.1016/B978-012088469-8.50023-1</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/KochSSS04a" mdate="2019-06-07">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="s/StefanieScherzinger">Stefanie Scherzinger</author>
+<author pid="s/NicoleSchweikardt">Nicole Schweikardt</author>
+<author pid="00/5643">Bernhard Stegmaier</author>
+<title>FluXQuery: An Optimizing XQuery Processor for Streaming XML Data.</title>
+<pages>1309-1312</pages>
+<year>2004</year>
+<crossref>conf/vldb/2004</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://www.vldb.org/conf/2004/DEMP15.PDF</ee>
+<ee>https://doi.org/10.1016/B978-012088469-8.50134-0</ee>
+<url>db/conf/vldb/vldb2004.html#KochSSS04a</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DB-0406016" mdate="2020-01-10">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="s/StefanieScherzinger">Stefanie Scherzinger</author>
+<author pid="s/NicoleSchweikardt">Nicole Schweikardt</author>
+<author pid="00/5643">Bernhard Stegmaier</author>
+<title>Schema-based Scheduling of Event Processors and Buffer Minimization for Queries on Structured Data Streams</title>
+<ee type="oa">http://arxiv.org/abs/cs/0406016</ee>
+<year>2004</year>
+<journal>CoRR</journal>
+<volume>cs.DB/0406016</volume>
+<url>db/journals/corr/corr0406.html#cs-DB-0406016</url>
+</article>
+</r>
+<r><article key="journals/ai/KochLP03" mdate="2017-06-05">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author orcid="0000-0002-9742-1252" pid="l/NicolaLeone">Nicola Leone</author>
+<author pid="p/GeraldPfeifer">Gerald Pfeifer</author>
+<title>Enhancing disjunctive logic programming systems by SAT checkers.</title>
+<pages>177-212</pages>
+<year>2003</year>
+<volume>151</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1016/S0004-3702(03)00078-X</ee>
+<url>db/journals/ai/ai151.html#KochLP03</url>
+</article>
+</r>
+<r><article key="journals/sigmod/GottlobKP03" mdate="2020-03-06">
+<author orcid="0000-0002-2353-5230" pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="26/5252">Reinhard Pichler</author>
+<title>XPath Processing in a Nutshell.</title>
+<pages>12-19</pages>
+<year>2003</year>
+<volume>32</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/640990.640992</ee>
+<ee>https://www.wikidata.org/entity/Q59259707</ee>
+<url>db/journals/sigmod/sigmod32.html#GottlobKP03</url>
+</article>
+</r>
+<r><article key="journals/sigmod/GottlobKP03a" mdate="2020-03-06">
+<author orcid="0000-0002-2353-5230" pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="26/5252">Reinhard Pichler</author>
+<title>XPath processing in a nutshell.</title>
+<pages>21-27</pages>
+<year>2003</year>
+<volume>32</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/776985.776988</ee>
+<ee>https://www.wikidata.org/entity/Q59259709</ee>
+<url>db/journals/sigmod/sigmod32.html#GottlobKP03a</url>
+</article>
+</r>
+<r><inproceedings key="conf/dbpl/GottlobK03" mdate="2017-05-25">
+<author pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>XPath Query Processing.</title>
+<pages>20</pages>
+<ee>https://doi.org/10.1007/978-3-540-24607-7_2</ee>
+<year>2003</year>
+<crossref>conf/dbpl/2003</crossref>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl2003.html#GottlobK03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbpl/KochS03" mdate="2017-05-25">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="s/StefanieScherzinger">Stefanie Scherzinger</author>
+<title>Attribute Grammars for Scalable Query Processing on XML Streams.</title>
+<pages>233-256</pages>
+<ee>https://doi.org/10.1007/978-3-540-24607-7_15</ee>
+<year>2003</year>
+<crossref>conf/dbpl/2003</crossref>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl2003.html#KochS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GottlobKP03" mdate="2023-03-24">
+<author orcid="0000-0002-2353-5230" pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="26/5252">Reinhard Pichler</author>
+<title>XPath Query Evaluation: Improving Time and Space Efficiency.</title>
+<pages>379-390</pages>
+<ee>https://doi.org/10.1109/ICDE.2003.1260807</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2003.1260807</ee>
+<ee>https://www.wikidata.org/entity/Q59259711</ee>
+<year>2003</year>
+<crossref>conf/icde/2003</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2003.html#GottlobKP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/FrickGK03" mdate="2023-03-24">
+<author pid="54/1987">Markus Frick</author>
+<author pid="g/MGrohe">Martin Grohe</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Query Evaluation on Compressed Trees (Extended Abstract).</title>
+<pages>188-</pages>
+<year>2003</year>
+<crossref>conf/lics/2003</crossref>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2003.1210058</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2003.1210058</ee>
+<url>db/conf/lics/lics2003.html#FrickGK03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/GottlobKP03" mdate="2018-11-06">
+<author pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="26/5252">Reinhard Pichler</author>
+<title>The complexity of XPath query evaluation.</title>
+<pages>179-190</pages>
+<year>2003</year>
+<crossref>conf/pods/2003</crossref>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/773153.773171</ee>
+<url>db/conf/pods/pods2003.html#GottlobKP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/KochBG03" mdate="2020-03-12">
+<ee type="oa">http://www.vldb.org/conf/2003/papers/S06P01.pdf</ee>
+<ee>https://doi.org/10.1016/B978-012722442-8/50021-5</ee>
+<author pid="b/PeterBuneman">Peter Buneman</author>
+<author pid="g/MGrohe">Martin Grohe</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Path Queries on Compressed XML.</title>
+<year>2003</year>
+<crossref>conf/vldb/2003</crossref>
+<booktitle>VLDB</booktitle>
+<pages>141-152</pages>
+<url>db/conf/vldb/vldb2003.html#KochBG03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/Koch03" mdate="2020-03-12">
+<ee type="oa">http://www.vldb.org/conf/2003/papers/S09P01.pdf</ee>
+<ee>https://doi.org/10.1016/B978-012722442-8/50030-6</ee>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Efficient Processing of Expressive Node-Selecting Queries on XML Data in Secondary Storage: A Tree Automata-based Approach.</title>
+<year>2003</year>
+<crossref>conf/vldb/2003</crossref>
+<booktitle>VLDB</booktitle>
+<pages>249-260</pages>
+<url>db/conf/vldb/vldb2003.html#Koch03</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DB-0310012" mdate="2020-01-10">
+<author pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>A Formal Comparison of Visual Web Wrapper Generators</title>
+<ee type="oa">http://arxiv.org/abs/cs/0310012</ee>
+<year>2003</year>
+<journal>CoRR</journal>
+<volume>cs.DB/0310012</volume>
+<url>db/journals/corr/corr0310.html#cs-DB-0310012</url>
+</article>
+</r>
+<r><inproceedings key="conf/foiks/Koch02" mdate="2017-05-23">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Query Rewriting with Symmetric Constraints.</title>
+<pages>130-147</pages>
+<year>2002</year>
+<crossref>conf/foiks/2002</crossref>
+<booktitle>FoIKS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45758-5_9</ee>
+<url>db/conf/foiks/foiks2002.html#Koch02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jelia/LeonePFCDEGIIKPP02" mdate="2023-06-26">
+<author pid="l/NicolaLeone">Nicola Leone</author>
+<author pid="p/GeraldPfeifer">Gerald Pfeifer</author>
+<author orcid="0000-0002-0330-5868" pid="f/WolfgangFaber">Wolfgang Faber 0001</author>
+<author orcid="0000-0002-0866-0834" pid="c/FrancescoCalimeri">Francesco Calimeri</author>
+<author pid="03/4919">Tina Dell'Armi</author>
+<author pid="e/TEiter">Thomas Eiter</author>
+<author pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="i/GiovambattistaIanni">Giovambattista Ianni</author>
+<author pid="50/4380">Giuseppe Ielpa</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author orcid="0000-0002-8036-5709" pid="80/5264">Simona Perri</author>
+<author pid="p/AxelPolleres">Axel Polleres</author>
+<title>The DLV System.</title>
+<pages>537-540</pages>
+<year>2002</year>
+<crossref>conf/jelia/2002</crossref>
+<booktitle>JELIA</booktitle>
+<ee>https://doi.org/10.1007/3-540-45757-7_50</ee>
+<url>db/conf/jelia/jelia2002.html#LeonePFCDEGIIKPP02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/GottlobK02" mdate="2023-03-24">
+<author orcid="0000-0002-2353-5230" pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Monadic Queries over Tree-Structured Data.</title>
+<pages>189-202</pages>
+<year>2002</year>
+<crossref>conf/lics/2002</crossref>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2002.1029828</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2002.1029828</ee>
+<ee>https://www.wikidata.org/entity/Q59259719</ee>
+<url>db/conf/lics/lics2002.html#GottlobK02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/GottlobK02" mdate="2018-11-06">
+<author pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Monadic Datalog and the Expressive Power of Languages for Web Information Extraction.</title>
+<pages>17-28</pages>
+<year>2002</year>
+<crossref>conf/pods/2002</crossref>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/543613.543617</ee>
+<ee>http://www.acm.org/sigs/sigmod/pods/proc02/papers/017-GottlobKoch.pdf</ee>
+<url>db/conf/pods/pods02.html#GottlobK02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/GottlobKP02" mdate="2020-03-12">
+<author pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="26/5252">Reinhard Pichler</author>
+<title>Efficient Algorithms for Processing XPath Queries.</title>
+<year>2002</year>
+<crossref>conf/vldb/2002</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2002/S04P02.pdf</ee>
+<ee>https://doi.org/10.1016/B978-155860869-6/50017-2</ee>
+<url>db/conf/vldb/vldb2002.html#GottlobKP02</url>
+<pages>95-106</pages>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DB-0205060" mdate="2020-01-10">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Optimizing Queries Using a Meta-level Database</title>
+<ee type="oa">https://arxiv.org/abs/cs/0205060</ee>
+<year>2002</year>
+<journal>CoRR</journal>
+<volume>cs.DB/0205060</volume>
+<url>db/journals/corr/corr0205.html#cs-DB-0205060</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DB-0211020" mdate="2020-01-10">
+<author pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Monadic Datalog and the Expressive Power of Languages for Web Information Extraction</title>
+<ee type="oa">http://arxiv.org/abs/cs/0211020</ee>
+<year>2002</year>
+<journal>CoRR</journal>
+<volume>cs.DB/0211020</volume>
+<url>db/journals/corr/corr0211.html#cs-DB-0211020</url>
+</article>
+</r>
+<r><inproceedings key="conf/lpnmr/DellArmiFIKLPP01" mdate="2023-06-26">
+<author pid="03/4919">Tina Dell'Armi</author>
+<author orcid="0000-0002-0330-5868" pid="f/WolfgangFaber">Wolfgang Faber 0001</author>
+<author orcid="0000-0001-6473-161X" pid="50/4380">Giuseppe Ielpa</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author orcid="0000-0002-9742-1252" pid="l/NicolaLeone">Nicola Leone</author>
+<author orcid="0000-0002-8036-5709" pid="80/5264">Simona Perri</author>
+<author pid="p/GeraldPfeifer">Gerald Pfeifer</author>
+<title>System Description: DLV.</title>
+<pages>424-428</pages>
+<year>2001</year>
+<crossref>conf/lpnmr/2001</crossref>
+<booktitle>LPNMR</booktitle>
+<ee>https://doi.org/10.1007/3-540-45402-0_36</ee>
+<url>db/conf/lpnmr/lpnmr2001.html#DellArmiFIKLPP01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/KochKGMPS00" mdate="2020-12-04">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="47/3826-1">Zsolt Kovacs 0001</author>
+<author pid="77/480">Jean-Marie Le Goff</author>
+<author orcid="0000-0002-0042-5960" pid="75/860">Richard McClatchey</author>
+<author pid="p/PaoloPetta">Paolo Petta</author>
+<author pid="94/1806">Tony Solomonides</author>
+<title>Explicit Modeling of the Semantics of Large Multi-layered Object-Oriented Databases.</title>
+<pages>52-65</pages>
+<ee>https://doi.org/10.1007/3-540-45393-8_5</ee>
+<year>2000</year>
+<crossref>conf/er/2000</crossref>
+<booktitle>ER</booktitle>
+<url>db/conf/er/er2000.html#KochKGMPS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esaw/KochP00" mdate="2017-05-21">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="p/PaoloPetta">Paolo Petta</author>
+<title>Coordination Issues in Multi-agent Event Data Processing.</title>
+<pages>64-77</pages>
+<year>2000</year>
+<crossref>conf/esaw/2000</crossref>
+<booktitle>ESAW</booktitle>
+<ee>https://doi.org/10.1007/3-540-44539-0_5</ee>
+<url>db/conf/esaw/esaw2000.html#KochP00</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-AI-0003036" mdate="2020-01-10">
+<author pid="e/TEiter">Thomas Eiter</author>
+<author pid="f/WolfgangFaber">Wolfgang Faber 0001</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="l/NicolaLeone">Nicola Leone</author>
+<author pid="p/GeraldPfeifer">Gerald Pfeifer</author>
+<title>DLV - A System for Declarative Problem Solving</title>
+<ee type="oa">https://arxiv.org/abs/cs/0003036</ee>
+<year>2000</year>
+<journal>CoRR</journal>
+<volume>cs.AI/0003036</volume>
+<url>db/journals/corr/corr0003.html#cs-AI-0003036</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcai/KochL99" mdate="2019-08-20">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="l/NicolaLeone">Nicola Leone</author>
+<title>Stable Model Checking Made Easy.</title>
+<pages>70-75</pages>
+<year>1999</year>
+<crossref>conf/ijcai/99</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai99.html#KochL99</url>
+<ee type="oa">http://ijcai.org/Proceedings/99-1/Papers/011.pdf</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wlp/CitrignoEFGKLMPS97" mdate="2019-08-07">
+<author pid="20/3528">Simona Citrigno</author>
+<author pid="e/TEiter">Thomas Eiter</author>
+<author pid="f/WolfgangFaber">Wolfgang Faber 0001</author>
+<author pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="l/NicolaLeone">Nicola Leone</author>
+<author pid="60/1792">Cristinel Mateis</author>
+<author pid="p/GeraldPfeifer">Gerald Pfeifer</author>
+<author pid="71/3711">Francesco Scarcello</author>
+<title>The dlv System: Model Generator and Advanced Frontends (system description).</title>
+<year>1997</year>
+<crossref>conf/wlp/1997</crossref>
+<booktitle>WLP</booktitle>
+<url>db/conf/wlp/wlp97.html#CitrignoEFGKLMPS97</url>
+</inproceedings>
+</r>
+<coauthors n="178" nc="3">
+<co c="0"><na f="a/Aberer:Karl" pid="a/KarlAberer">Karl Aberer</na></co>
+<co c="0"><na f="a/Abiteboul:Serge" pid="a/SergeAbiteboul">Serge Abiteboul</na></co>
+<co c="2"><na f="a/Aggarwal:Charu_C=" pid="a/CharuCAggarwal">Charu C. Aggarwal</na></co>
+<co c="0"><na f="a/Ahmad:Yanif" pid="99/770">Yanif Ahmad</na></co>
+<co c="0" n="2"><na f="a/Ambrosch=Draxl:Claudia" pid="28/6412">Claudia Ambrosch-Draxl</na><na>Claudia Draxl</na></co>
+<co c="0"><na f="a/Amin:Nada" pid="88/11209">Nada Amin</na></co>
+<co c="0"><na f="a/Antova:Lyublena" pid="a/LyublenaAntova">Lyublena Antova</na></co>
+<co c="0"><na f="b/Badea:Liviu" pid="35/6382">Liviu Badea</na></co>
+<co c="0"><na f="b/Baumgartner:Robert" pid="b/RobertBaumgartner">Robert Baumgartner</na></co>
+<co c="0"><na f="b/Becker:Stephen" pid="47/9100">Stephen Becker</na></co>
+<co c="0"><na f="b/Bender:Gabriel" pid="92/9726">Gabriel Bender</na></co>
+<co c="0"><na f="b/Benedikt:Michael" pid="b/MichaelBenedikt">Michael Benedikt</na></co>
+<co c="0"><na f="b/Berger:Sacha" pid="b/SachaBerger">Sacha Berger</na></co>
+<co c="-1"><na f="b/Bierman:Gavin_M=" pid="b/GavinMBierman">Gavin M. Bierman</na></co>
+<co c="0"><na f="b/B=ouml=hlen:Michael_H=" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</na></co>
+<co c="0"><na f="b/B=ouml=hm:Klemens" pid="b/KBohm">Klemens B&#246;hm</na></co>
+<co c="0"><na f="b/Brown:Kevin_J=" pid="30/9116">Kevin J. Brown</na></co>
+<co c="0"><na f="b/Brown:Lewis" pid="181/5819">Lewis Brown</na></co>
+<co c="0"><na f="b/Bry:Fran=ccedil=ois" pid="b/FrancoisBry">Fran&#231;ois Bry</na></co>
+<co c="0"><na f="b/Buneman:Peter" pid="b/PeterBuneman">Peter Buneman</na></co>
+<co c="0"><na f="c/Calimeri:Francesco" pid="c/FrancescoCalimeri">Francesco Calimeri</na></co>
+<co c="0"><na f="c/Cao:Tuan" pid="35/7259">Tuan Cao</na></co>
+<co c="0"><na f="c/Cevher:Volkan" pid="70/5301">Volkan Cevher</na></co>
+<co c="0"><na f="c/Chafi:Hassan" pid="94/3582">Hassan Chafi</na></co>
+<co c="0"><na f="c/Chan:Chee_Yong" pid="c/CheeYongChan">Chee Yong Chan</na></co>
+<co c="0"><na f="c/Citrigno:Simona" pid="20/3528">Simona Citrigno</na></co>
+<co c="0"><na f="c/Coppey:Thierry" pid="152/5813">Thierry Coppey</na></co>
+<co c="0"><na f="d/Dashti_0001:Mohammad" pid="01/4316-1">Mohammad Dashti 0001</na></co>
+<co c="0"><na f="d/Dell=Armi:Tina" pid="03/4919">Tina Dell'Armi</na></co>
+<co c="0"><na f="d/Demers:Alan_J=" pid="03/5860">Alan J. Demers</na></co>
+<co c="0"><na f="d/Deshpande:Amol" pid="d/AmolDeshpande">Amol Deshpande</na></co>
+<co c="0"><na f="d/Deshpande:Anand" pid="07/576">Anand Deshpande</na></co>
+<co c="0"><na f="d/Deutch:Daniel" pid="98/6876">Daniel Deutch</na></co>
+<co c="0"><na f="d/Ding:Bailu" pid="163/0574">Bailu Ding</na></co>
+<co c="0" n="2"><na f="d/Drumond:Mario" pid="165/2485">Mario Drumond</na><na>Mario Paulo Drumond</na></co>
+<co c="0"><na f="e/Eisert:Peter" pid="27/1029">Peter Eisert</na></co>
+<co c="0"><na f="e/Eiter:Thomas" pid="e/TEiter">Thomas Eiter</na></co>
+<co c="0"><na f="e/Elguindy:Abdallah" pid="137/7138">Abdallah Elguindy</na></co>
+<co c="0"><na f="e/Elseidy:Mohammed" pid="141/4384">Mohammed Elseidy</na></co>
+<co c="0"><na f="e/Espino:Daniel" pid="185/4285">Daniel Espino</na></co>
+<co c="0"><na f="f/Faber_0001:Wolfgang" pid="f/WolfgangFaber">Wolfgang Faber 0001</na></co>
+<co c="0"><na f="f/Falsafi:Babak" pid="f/BabakFalsafi">Babak Falsafi</na></co>
+<co c="0"><na f="f/Fitzgibbon:Andrew_W=" pid="f/AndrewWFitzgibbon">Andrew W. Fitzgibbon</na></co>
+<co c="0"><na f="f/Flesca:Sergio" pid="99/5874">Sergio Flesca</na></co>
+<co c="0"><na f="f/Florescu:Daniela" pid="70/3007">Daniela Florescu</na></co>
+<co c="0"><na f="f/Foster:Nate" pid="15/3253">Nate Foster</na></co>
+<co c="0"><na f="f/Frick:Markus" pid="54/1987">Markus Frick</na></co>
+<co c="0"><na f="f/Furche:Tim" pid="f/TimFurche">Tim Furche</na></co>
+<co c="0"><na f="g/Ganti:Venkatesh" pid="g/VenkateshGanti">Venkatesh Ganti</na></co>
+<co c="0"><na f="g/Garofalakis:Minos_N=" pid="g/MinosNGarofalakis">Minos N. Garofalakis</na></co>
+<co c="0"><na f="g/Gatterbauer:Wolfgang" pid="36/5673">Wolfgang Gatterbauer</na></co>
+<co c="0"><na f="g/Gehrke:Johannes" pid="g/JohannesGehrke">Johannes Gehrke</na></co>
+<co c="1"><na f="g/Goff:Jean=Marie_Le" pid="77/480">Jean-Marie Le Goff</na></co>
+<co c="0"><na f="g/Gottlob:Georg" pid="g/GeorgGottlob">Georg Gottlob</na></co>
+<co c="0"><na f="g/G=ouml=tz:Michaela" pid="g/MichaelaGotz">Michaela G&#246;tz</na></co>
+<co c="0"><na f="g/Grohe:Martin" pid="g/MGrohe">Martin Grohe</na></co>
+<co c="0"><na f="g/Grunske:Lars" pid="55/4092">Lars Grunske</na></co>
+<co c="0"><na f="g/Guliyev:Khayyam" pid="185/4305">Khayyam Guliyev</na></co>
+<co c="0"><na f="g/Gupta_0003:Nitin" pid="g/NitinGupta3">Nitin Gupta 0003</na></co>
+<co c="0"><na f="g/Gupta_0003:Siddharth" pid="45/7178-3">Siddharth Gupta 0003</na></co>
+<co c="0"><na f="h/Haas:Peter_J=" pid="h/PeterJHaas">Peter J. Haas</na></co>
+<co c="0"><na f="h/Halpern:Joseph_Y=" pid="h/JosephYHalpern">Joseph Y. Halpern</na></co>
+<co c="0"><na f="h/Herzog:Marcus" pid="91/4750">Marcus Herzog</na></co>
+<co c="0"><na f="h/Hilbrich:Marcus" pid="51/10503">Marcus Hilbrich</na></co>
+<co c="0"><na f="h/Hojjat:Hossein" pid="43/4308">Hossein Hojjat</na></co>
+<co c="0"><na f="h/Hong:Mingsheng" pid="h/MingshengHong">Mingsheng Hong</na></co>
+<co c="0"><na f="h/Hostert:Patrick" pid="13/9629">Patrick Hostert</na></co>
+<co c="0"><na f="h/Huang:Jiewen" pid="14/775">Jiewen Huang</na></co>
+<co c="0"><na f="i/Ianni:Giovambattista" pid="i/GiovambattistaIanni">Giovambattista Ianni</na></co>
+<co c="0"><na f="i/Ielpa:Giuseppe" pid="50/4380">Giuseppe Ielpa</na></co>
+<co c="0"><na f="i/Ilyas:Ihab_F=" pid="i/IhabFIlyas">Ihab F. Ilyas</na></co>
+<co c="0"><na f="j/Jansen_0004:Thomas" pid="j/ThomasJansen4">Thomas Jansen 0004</na></co>
+<co c="0"><na f="j/Jiang:Zhekai" pid="348/7755">Zhekai Jiang</na></co>
+<co c="0"><na f="j/John:Sachin_Basil" pid="177/9027">Sachin Basil John</na></co>
+<co c="0" n="2"><na f="j/Jones:Simon_L=_Peyton" pid="j/SimonLPeytonJones">Simon L. Peyton Jones</na><na>Simon Peyton Jones</na></co>
+<co c="0"><na f="j/Jonnalagedda:Manohar" pid="54/8643">Manohar Jonnalagedda</na></co>
+<co c="0"><na f="j/Jovanovic:Vojin" pid="71/9975">Vojin Jovanovic</na></co>
+<co c="0"><na f="k/Kainm=uuml=ller:Dagmar" pid="22/4586">Dagmar Kainm&#252;ller</na></co>
+<co c="0"><na f="k/Kanne:Carl=Christian" pid="k/CarlChristianKanne">Carl-Christian Kanne</na></co>
+<co c="0"><na f="k/Kao:Odej" pid="24/2656">Odej Kao</na></co>
+<co c="0"><na f="k/Kassir:Hussein" pid="260/5729">Hussein Kassir</na></co>
+<co c="0"><na f="k/Kehr:Birte" pid="06/7181">Birte Kehr</na></co>
+<co c="0"><na f="k/Kehrer:Timo" pid="24/9748">Timo Kehrer</na></co>
+<co c="0"><na f="k/Keijzer:Ander_de" pid="k/AnderdeKeijzer">Ander de Keijzer</na></co>
+<co c="0"><na f="k/Kennedy:Oliver" pid="75/5478">Oliver Kennedy</na></co>
+<co c="0"><na f="k/Ketsman:Bas" pid="147/1168">Bas Ketsman</na></co>
+<co c="0"><na f="k/Keulen:Maurice_van" pid="k/MauricevanKeulen">Maurice van Keulen</na></co>
+<co c="0"><na f="k/Klas:Wolfgang" pid="k/WolfgangKlas">Wolfgang Klas</na></co>
+<co c="0"><na f="k/Klonatos:Yannis" pid="33/8291">Yannis Klonatos</na></co>
+<co c="0"><na f="k/K=ouml=nig=Ries:Birgitta" pid="k/BKonigRies">Birgitta K&#246;nig-Ries</na></co>
+<co c="0"><na f="k/Kot:Lucja" pid="k/LucjaKot">Lucja Kot</na></co>
+<co c="1"><na f="k/Kovacs_0001:Zsolt" pid="47/3826-1">Zsolt Kovacs 0001</na></co>
+<co c="0"><na f="k/Kuncak:Viktor" pid="k/ViktorKuncak">Viktor Kuncak</na></co>
+<co c="0"><na f="k/Kyrillidis:Anastasios" pid="53/9879">Anastasios Kyrillidis</na></co>
+<co c="0"><na f="l/Lee:HyoukJoong" pid="21/276">HyoukJoong Lee</na></co>
+<co c="0"><na f="l/Lenz:Hans=Joachim" pid="l/HJLenz">Hans-Joachim Lenz</na></co>
+<co c="0"><na f="l/Leone:Nicola" pid="l/NicolaLeone">Nicola Leone</na></co>
+<co c="0"><na f="l/Leser:Ulf" pid="l/UlfLeser">Ulf Leser</na></co>
+<co c="0"><na f="l/Lindner_0001:Peter" pid="223/4092-1">Peter Lindner 0001</na></co>
+<co c="0"><na f="l/Lupei:Daniel" pid="67/4746">Daniel Lupei</na></co>
+<co c="0"><na f="m/Markl:Volker" pid="m/VMarkl">Volker Markl</na></co>
+<co c="0"><na f="m/Martens:Wim" pid="95/3517">Wim Martens</na></co>
+<co c="0"><na f="m/Mateis:Cristinel" pid="60/1792">Cristinel Mateis</na></co>
+<co c="1"><na f="m/McClatchey:Richard" pid="75/860">Richard McClatchey</na></co>
+<co c="0"><na f="m/Meliou:Alexandra" pid="04/1835">Alexandra Meliou</na></co>
+<co c="0"><na f="m/Meyerhenke:Henning" pid="55/3065">Henning Meyerhenke</na></co>
+<co c="0"><na f="m/Mihaila:Stephan" pid="275/9257">Stephan Mihaila</na></co>
+<co c="0"><na f="m/Milo:Tova" pid="m/TovaMilo">Tova Milo</na></co>
+<co c="0"><na f="m/Minh:Khue_Vu" pid="185/4291">Khue Vu Minh</na></co>
+<co c="0"><na f="m/Moore:Katherine_F=" pid="94/2260">Katherine F. Moore</na></co>
+<co c="0"><na f="n/Neuhold:Erich_J=" pid="n/ErichJNeuhold">Erich J. Neuhold</na></co>
+<co c="0"><na f="n/Neumann_0001:Thomas" pid="n/ThomasNeumann">Thomas Neumann 0001</na></co>
+<co c="0"><na f="n/Neven:Frank" pid="n/FrankNeven">Frank Neven</na></co>
+<co c="0"><na f="n/Nikolaev:Vladimir" pid="120/7909">Vladimir Nikolaev</na></co>
+<co c="0"><na f="n/Nikolic_0001:Milos" pid="57/10355-1">Milos Nikolic 0001</na></co>
+<co c="0"><na f="n/Nissl:Markus" pid="271/7712">Markus Nissl</na></co>
+<co c="0"><na f="n/N=ouml=tzli:Andres" pid="131/4231">Andres N&#246;tzli</na></co>
+<co c="0"><na f="o/Odersky:Martin" pid="o/MartinOdersky">Martin Odersky</na></co>
+<co c="0"><na f="o/Ofenbeck:Georg" pid="16/7184">Georg Ofenbeck</na></co>
+<co c="0"><na f="o/Olteanu:Dan" pid="o/DanOlteanu">Dan Olteanu</na></co>
+<co c="0"><na f="o/Olukotun:Kunle" pid="o/KunleOlukotun">Kunle Olukotun</na></co>
+<co c="0"><na f="p/Pan:Jeff_Z=" pid="59/6490">Jeff Z. Pan</na></co>
+<co c="2"><na f="p/Pan:Weike" pid="86/7788">Weike Pan</na></co>
+<co c="0"><na f="p/Parreaux:Lionel" pid="181/5785">Lionel Parreaux</na></co>
+<co c="0"><na f="p/Perri:Simona" pid="80/5264">Simona Perri</na></co>
+<co c="1"><na f="p/Petta:Paolo" pid="p/PaoloPetta">Paolo Petta</na></co>
+<co c="0"><na f="p/Pfeifer:Gerald" pid="p/GeraldPfeifer">Gerald Pfeifer</na></co>
+<co c="0"><na f="p/Pichler:Reinhard" pid="26/5252">Reinhard Pichler</na></co>
+<co c="0"><na f="p/Pieris:Andreas" pid="89/5672">Andreas Pieris</na></co>
+<co c="0"><na f="p/Polleres:Axel" pid="p/AxelPolleres">Axel Polleres</na></co>
+<co c="0"><na f="p/P=uuml=schel:Markus" pid="37/6355">Markus P&#252;schel</na></co>
+<co c="0"><na f="r/Rabl:Tilmann" pid="10/760">Tilmann Rabl</na></co>
+<co c="0"><na f="r/Rajagopalan:Rajmohan" pid="62/3304">Rajmohan Rajagopalan</na></co>
+<co c="0"><na f="r/R=eacute=:Christopher" pid="r/ChristopherRe">Christopher R&#233;</na></co>
+<co c="0"><na f="r/Reinefeld:Alexander" pid="33/2904">Alexander Reinefeld</na></co>
+<co c="0"><na f="r/Reinert:Knut" pid="10/884">Knut Reinert</na></co>
+<co c="0"><na f="r/Riedewald:Mirek" pid="r/MirekRiedewald">Mirek Riedewald</na></co>
+<co c="0"><na f="r/Ritter:Kerstin" pid="165/6403">Kerstin Ritter</na></co>
+<co c="0"><na f="r/Rompf:Tiark" pid="19/7373">Tiark Rompf</na></co>
+<co c="0"><na f="r/Roy_0002:Sudip" pid="44/4775-2">Sudip Roy 0002</na></co>
+<co c="0"><na f="s/Salles:Marcos_Antonio_Vaz" pid="70/4277">Marcos Antonio Vaz Salles</na></co>
+<co c="0"><na f="s/Sarma:Anish_Das" pid="59/589">Anish Das Sarma</na></co>
+<co c="0"><na f="s/Savenkov:Vadim" pid="56/1006">Vadim Savenkov</na></co>
+<co c="0"><na f="s/Scarcello:Francesco" pid="71/3711">Francesco Scarcello</na></co>
+<co c="0"><na f="s/Schaffert:Sebastian" pid="s/SebastianSchaffert">Sebastian Schaffert</na></co>
+<co c="0"><na f="s/Scherzinger:Stefanie" pid="s/StefanieScherzinger">Stefanie Scherzinger</na></co>
+<co c="0"><na f="s/Scheuermann_0001:Bj=ouml=rn" pid="15/503-1">Bj&#246;rn Scheuermann 0001</na></co>
+<co c="0"><na f="s/Schintke:Florian" pid="s/FlorianSchintke">Florian Schintke</na></co>
+<co c="0"><na f="s/Schmidt_0002:Michael" pid="156/1960-2">Michael Schmidt 0002</na></co>
+<co c="0"><na f="s/Schulz:Klaus_U=" pid="s/KUSchulz">Klaus U. Schulz</na></co>
+<co c="0"><na f="s/Schweikardt:Nicole" pid="s/NicoleSchweikardt">Nicole Schweikardt</na></co>
+<co c="0"><na f="s/Segoufin:Luc" pid="s/LucSegoufin">Luc Segoufin</na></co>
+<co c="0"><na f="s/Shaikhha:Amir" pid="143/6186">Amir Shaikhha</na></co>
+<co c="0"><na f="s/Skritek:Sebastian" pid="22/8384">Sebastian Skritek</na></co>
+<co c="1"><na f="s/Solomonides:Tony" pid="94/1806">Tony Solomonides</na></co>
+<co c="0" n="2"><na f="s/Sowell:Ben" pid="s/BenSowell">Ben Sowell</na><na>Benjamin Sowell</na></co>
+<co c="0"><na f="s/Spielmann:Andrej" pid="116/4868">Andrej Spielmann</na></co>
+<co c="0"><na f="s/Srivastava:Divesh" pid="s/DiveshSrivastava">Divesh Srivastava</na></co>
+<co c="0"><na f="s/Stegmaier:Bernhard" pid="00/5643">Bernhard Stegmaier</na></co>
+<co c="0"><na f="s/Stojanov:Alen" pid="136/0876">Alen Stojanov</na></co>
+<co c="0"><na f="s/Stucki:Sandro" pid="147/8375">Sandro Stucki</na></co>
+<co c="0"><na f="s/Suciu:Dan" pid="s/DanSuciu">Dan Suciu</na></co>
+<co c="0"><na f="s/Sujeeth:Arvind_K=" pid="03/7746">Arvind K. Sujeeth</na></co>
+<co c="0"><na f="s/Sutherland:Mark" pid="148/4025">Mark Sutherland</na></co>
+<co c="0"><na f="t/Tan:Kian=Lee" pid="t/KianLeeTan">Kian-Lee Tan</na></co>
+<co c="0"><na f="t/Tannen:Val" pid="t/ValTannen">Val Tannen</na></co>
+<co c="0"><na f="t/Theobald:Martin" pid="t/MartinTheobald">Martin Theobald</na></co>
+<co c="0"><na f="t/Tian:Zilu" pid="218/1533">Zilu Tian</na></co>
+<co c="0"><na f="t/Trummer:Immanuel" pid="85/9079">Immanuel Trummer</na></co>
+<co c="0"><na f="v/Vandevoort:Brecht" pid="215/6207">Brecht Vandevoort</na></co>
+<co c="0"><na f="v/Vassalos:Vasilis" pid="v/VVassalos">Vasilis Vassalos</na></co>
+<co c="0"><na f="v/Vitorovic:Aleksandar" pid="140/0995">Aleksandar Vitorovic</na></co>
+<co c="0"><na f="v/Voizard:Antoine" pid="145/1655">Antoine Voizard</na></co>
+<co c="0"><na f="v/Vytiniotis:Dimitrios" pid="00/6362">Dimitrios Vytiniotis</na></co>
+<co c="0"><na f="w/Weidlich_0001:Matthias" pid="61/267">Matthias Weidlich 0001</na></co>
+<co c="0"><na f="w/White:Walker_M=" pid="w/WalkerMWhite">Walker M. White</na></co>
+<co c="2"><na f="y/Yang_0001:Qiang" pid="82/6362-1">Qiang Yang 0001</na></co>
+<co c="0"><na f="z/Zarandi:Arash_Pourhabibi" pid="179/2944">Arash Pourhabibi Zarandi</na></co>
+</coauthors>
+</dblpperson>

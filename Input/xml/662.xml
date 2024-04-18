@@ -1,0 +1,2615 @@
+<dblpperson name="Peter J. Haas" pid="h/PeterJHaas" n="134">
+<person key="homepages/h/PeterJHaas" mdate="2023-03-08">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<note type="affiliation">University of Massachusetts, Amherst, MA, USA</note>
+<note label="former" type="affiliation">Thomas J. Watson Research Center, Yorktown Heights, USA</note>
+<url>https://people.cs.umass.edu/~phaas/</url>
+<url>https://scholar.google.com/citations?user=PeCI8KcAAAAJ</url>
+<url>https://en.wikipedia.org/wiki/Peter_J._Haas_(computer_scientist)</url>
+<url>https://www.wikidata.org/entity/Q96359196</url>
+<url>https://id.loc.gov/authorities/names/no2002086185</url>
+<url>https://orcid.org/0000-0001-5694-3065</url>
+</person>
+<r><article key="journals/pvldb/MaiWABHM24" mdate="2024-03-26">
+<author pid="352/2686">Anh L. Mai</author>
+<author pid="14/3832">Pengyu Wang</author>
+<author pid="57/7259">Azza Abouzied</author>
+<author pid="140/3184">Matteo Brucato</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="04/1835">Alexandra Meliou</author>
+<title>Scaling Package Queries to a Billion Tuples via Hierarchical Partitioning and Customized Optimization.</title>
+<pages>1146-1158</pages>
+<year>2024</year>
+<month>January</month>
+<volume>17</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol17/p1146-mai.pdf</ee>
+<url>db/journals/pvldb/pvldb17.html#MaiWABHM24</url>
+</article>
+</r>
+<r><article key="journals/ipl/HentschelHT23" mdate="2023-06-15">
+<author orcid="0000-0001-8609-7904" pid="213/7863">Brian Hentschel</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<title>Exact PPS sampling with bounded sample size.</title>
+<pages>106382</pages>
+<year>2023</year>
+<month>August</month>
+<volume>182</volume>
+<journal>Inf. Process. Lett.</journal>
+<ee>https://doi.org/10.1016/j.ipl.2023.106382</ee>
+<url>db/journals/ipl/ipl182.html#HentschelHT23</url>
+</article>
+</r>
+<r><article key="journals/tomacs/CenH23" mdate="2023-10-27">
+<author orcid="0009-0009-9402-5949" pid="254/3548">Wang Cen</author>
+<author orcid="0000-0001-5694-3065" pid="h/PeterJHaas">Peter J. Haas</author>
+<title>NIM: Generative Neural Networks for Automated Modeling and Generation of Simulation Inputs.</title>
+<pages>10:1-10:26</pages>
+<year>2023</year>
+<month>July</month>
+<volume>33</volume>
+<journal>ACM Trans. Model. Comput. Simul.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3592790</ee>
+<url>db/journals/tomacs/tomacs33.html#CenH23</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigcse/CastroRCHOA23" mdate="2023-03-17">
+<author orcid="0000-0002-3940-5334" pid="152/4900">Francisco Castro 0001</author>
+<author orcid="0000-0002-2047-9616" pid="341/6074">Sahitya Raipura</author>
+<author orcid="0000-0002-1139-5939" pid="65/9203">Heather M. Conboy</author>
+<author orcid="0000-0001-5694-3065" pid="h/PeterJHaas">Peter J. Haas</author>
+<author orcid="0000-0002-5407-2646" pid="o/LJOsterweil">Leon J. Osterweil</author>
+<author orcid="0000-0002-9697-8016" pid="10/1462">Ivon Arroyo</author>
+<title>Piloting an Interactive Ethics and Responsible Computing Learning Environment in Undergraduate CS Courses.</title>
+<pages>659-665</pages>
+<year>2023</year>
+<booktitle>SIGCSE (1)</booktitle>
+<ee>https://doi.org/10.1145/3545945.3569753</ee>
+<crossref>conf/sigcse/2023-1</crossref>
+<url>db/conf/sigcse/sigcse2023-1.html#CastroRCHOA23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/AmaranathHJW23" mdate="2024-02-24">
+<author pid="329/6045">Pracheta Amaranath</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="38/828">David D. Jensen</author>
+<author pid="232/2073">Sam Witty</author>
+<title>Causal Dynamic Bayesian Networks for Simulation Metamodeling.</title>
+<pages>746-757</pages>
+<year>2023</year>
+<booktitle>WSC</booktitle>
+<ee>https://doi.org/10.1109/WSC60868.2023.10407746</ee>
+<crossref>conf/wsc/2023</crossref>
+<url>db/conf/wsc/wsc2023.html#AmaranathHJW23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/CenH23" mdate="2024-02-24">
+<author pid="254/3548">Wang Cen</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>Efficient Hybrid Simulation Optimization via Graph Neural Network Metamodeling.</title>
+<pages>3541-3552</pages>
+<year>2023</year>
+<booktitle>WSC</booktitle>
+<ee>https://doi.org/10.1109/WSC60868.2023.10408474</ee>
+<crossref>conf/wsc/2023</crossref>
+<url>db/conf/wsc/wsc2023.html#CenH23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-02860" mdate="2023-07-24">
+<author pid="352/2686">Anh L. Mai</author>
+<author pid="14/3832">Pengyu Wang</author>
+<author pid="57/7259">Azza Abouzied</author>
+<author pid="140/3184">Matteo Brucato</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="04/1835">Alexandra Meliou</author>
+<title>Scaling Package Queries to a Billion Tuples via Hierarchical Partitioning and Customized Optimization.</title>
+<year>2023</year>
+<volume>abs/2307.02860</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.02860</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-02860</url>
+</article>
+</r>
+<r><article key="journals/debu/AbouziedHM22" mdate="2023-01-17">
+<author pid="57/7259">Azza Abouzied</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="04/1835">Alexandra Meliou</author>
+<title>In-Database Decision Support: Opportunities and Challenges.</title>
+<pages>102-115</pages>
+<year>2022</year>
+<volume>45</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<ee type="oa">http://sites.computer.org/debull/A22sept/p102.pdf</ee>
+<url>db/journals/debu/debu45.html#AbouziedHM22</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/GathaniHGHD22" mdate="2022-07-18">
+<author pid="264/7385">Sneha Gathani</author>
+<author pid="226/5745">Madelon Hulsebos</author>
+<author pid="279/9957">James Gale</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="74/20">&#199;agatay Demiralp</author>
+<title>Augmenting Decision Making via Interactive What-If Analysis.</title>
+<year>2022</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2022/papers/p49-gathani.pdf</ee>
+<crossref>conf/cidr/2022</crossref>
+<url>db/conf/cidr/cidr2022.html#GathaniHGHD22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/CenH22" mdate="2023-02-08">
+<author pid="254/3548">Wang Cen</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>Enhanced Simulation Metamodeling via Graph and Generative Neural Networks.</title>
+<pages>2748-2759</pages>
+<year>2022</year>
+<booktitle>WSC</booktitle>
+<ee>https://doi.org/10.1109/WSC57314.2022.10015361</ee>
+<crossref>conf/wsc/2022</crossref>
+<url>db/conf/wsc/wsc2022.html#CenH22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2212-13643" mdate="2023-01-05">
+<author pid="264/7385">Sneha Gathani</author>
+<author pid="53/1020">Zhicheng Liu</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="74/20">&#199;agatay Demiralp</author>
+<title>Predictive and Prescriptive Analytics in Business Decision Making: Needs and Concerns.</title>
+<year>2022</year>
+<volume>abs/2212.13643</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2212.13643</ee>
+<url>db/journals/corr/corr2212.html#abs-2212-13643</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-06784" mdate="2021-03-16">
+<author pid="140/3184">Matteo Brucato</author>
+<author pid="230/4155">Nishant Yadav</author>
+<author pid="57/7259">Azza Abouzied</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="04/1835">Alexandra Meliou</author>
+<title>Stochastic Package Queries in Probabilistic Databases.</title>
+<year>2021</year>
+<volume>abs/2103.06784</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.06784</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-06784</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2109-06160" mdate="2021-09-21">
+<author pid="264/7385">Sneha Gathani</author>
+<author pid="226/5745">Madelon Hulsebos</author>
+<author pid="279/9957">James Gale</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="74/20">&#199;agatay Demiralp</author>
+<title>Augmenting Decision Making via Interactive What-If Analysis.</title>
+<year>2021</year>
+<volume>abs/2109.06160</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2109.06160</ee>
+<url>db/journals/corr/corr2109.html#abs-2109-06160</url>
+</article>
+</r>
+<r><article key="journals/pvldb/FarihaBHM20" mdate="2023-09-30">
+<author orcid="0000-0002-5275-7844" pid="29/11192">Anna Fariha</author>
+<author pid="140/3184">Matteo Brucato</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author orcid="0000-0001-7346-6002" pid="04/1835">Alexandra Meliou</author>
+<title>SuDocu: Summarizing Documents by Example.</title>
+<pages>2861-2864</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2861-fariha.pdf</ee>
+<ee>https://doi.org/10.14778/3415478.3415494</ee>
+<url>db/journals/pvldb/pvldb13.html#FarihaBHM20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BrucatoMAHM20" mdate="2023-09-30">
+<author pid="140/3184">Matteo Brucato</author>
+<author pid="217/9224">Miro Mannino</author>
+<author pid="57/7259">Azza Abouzied</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author orcid="0000-0001-7346-6002" pid="04/1835">Alexandra Meliou</author>
+<title>sPaQLTooLs: A Stochastic Package Query Interface for Scalable Constrained Optimization.</title>
+<pages>2881-2884</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2881-brucato.pdf</ee>
+<ee>https://doi.org/10.14778/3415478.3415499</ee>
+<url>db/journals/pvldb/pvldb13.html#BrucatoMAHM20</url>
+</article>
+</r>
+<r><article key="journals/tomacs/HaasT20" mdate="2021-01-18">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="51/7514-1">Georgios Theodoropoulos 0001</author>
+<title>Introduction to the Special Issue for Towards an Ecosystem of Simulation Models and Data.</title>
+<pages>20:1-20:3</pages>
+<year>2020</year>
+<volume>30</volume>
+<journal>ACM Trans. Model. Comput. Simul.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3425907</ee>
+<url>db/journals/tomacs/tomacs30.html#HaasT20</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/BrucatoYAHM20" mdate="2023-09-30">
+<author pid="140/3184">Matteo Brucato</author>
+<author pid="230/4155">Nishant Yadav</author>
+<author pid="57/7259">Azza Abouzied</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author orcid="0000-0001-7346-6002" pid="04/1835">Alexandra Meliou</author>
+<title>Stochastic Package Queries in Probabilistic Databases.</title>
+<pages>269-283</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389765</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#BrucatoYAHM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/CenHH20" mdate="2021-04-09">
+<author pid="254/3548">Wang Cen</author>
+<author pid="254/3522">Emily A. Herbert</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>NIM: Modeling and Generation of Simulation Inputs Via Generative Neural Networks.</title>
+<pages>584-595</pages>
+<year>2020</year>
+<booktitle>WSC</booktitle>
+<ee>https://doi.org/10.1109/WSC48552.2020.9383966</ee>
+<crossref>conf/wsc/2020</crossref>
+<url>db/conf/wsc/wsc2020.html#CenHH20</url>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/ElgoharyBHRR19" mdate="2019-05-09">
+<author pid="03/8978">Ahmed Elgohary</author>
+<author pid="75/887">Matthias Boehm 0001</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="95/459">Frederick R. Reiss</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<title>Compressed linear algebra for declarative large-scale machine learning.</title>
+<pages>83-91</pages>
+<year>2019</year>
+<volume>62</volume>
+<journal>Commun. ACM</journal>
+<number>5</number>
+<ee>https://doi.org/10.1145/3318221</ee>
+<url>db/journals/cacm/cacm62.html#ElgoharyBHRR19</url>
+</article>
+</r>
+<r><article key="journals/sigmod/HentschelHT19" mdate="2020-03-06">
+<author pid="213/7863">Brian Hentschel</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<title>Online Model Management via Temporally Biased Sampling.</title>
+<pages>69-76</pages>
+<year>2019</year>
+<volume>48</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3371316.3371333</ee>
+<url>db/journals/sigmod/sigmod48.html#HentschelHT19</url>
+</article>
+</r>
+<r><article key="journals/tods/HentschelHT19" mdate="2020-01-24">
+<author pid="213/7863">Brian Hentschel</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<title>General Temporally Biased Sampling Schemes for Online Model Management.</title>
+<pages>14:1-14:45</pages>
+<year>2019</year>
+<volume>44</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3360903</ee>
+<url>db/journals/tods/tods44.html#HentschelHT19</url>
+</article>
+</r>
+<r><inproceedings key="conf/scsc/HerbertCH19" mdate="2019-12-04">
+<author pid="254/3522">Emily A. Herbert</author>
+<author pid="254/3548">Wang Cen</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>NIM: generative neural networks for modeling and generation of simulation inputs.</title>
+<pages>65:1-65:6</pages>
+<year>2019</year>
+<booktitle>SummerSim</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=3374203</ee>
+<crossref>conf/scsc/2019</crossref>
+<url>db/conf/scsc/scsc2019.html#HerbertCH19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Sommer0ERH19" mdate="2019-06-22">
+<author pid="243/2320">Johanna Sommer</author>
+<author pid="75/887">Matthias Boehm 0001</author>
+<author pid="e/AlexandreVEvfimievski">Alexandre V. Evfimievski</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>MNC: Structure-Exploiting Sparsity Estimation for Matrix Expressions.</title>
+<pages>1607-1623</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3319854</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#Sommer0ERH19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-05677" mdate="2019-06-24">
+<author pid="213/7863">Brian Hentschel</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<title>Temporally-Biased Sampling Schemes for Online Model Management.</title>
+<year>2019</year>
+<volume>abs/1906.05677</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.05677</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-05677</url>
+</article>
+</r>
+<r><article key="journals/vldb/ElgoharyBHRR18" mdate="2018-10-03">
+<author pid="03/8978">Ahmed Elgohary</author>
+<author orcid="0000-0003-1344-3663" pid="75/887">Matthias Boehm 0001</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="95/459">Frederick R. Reiss</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<title>Compressed linear algebra for large-scale machine learning.</title>
+<pages>719-744</pages>
+<year>2018</year>
+<volume>27</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-017-0478-1</ee>
+<url>db/journals/vldb/vldb27.html#ElgoharyBHRR18</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/HentschelHT18" mdate="2021-01-29">
+<author pid="213/7863">Brian Hentschel</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<title>Temporally-Biased Sampling for Online Model Management.</title>
+<pages>109-120</pages>
+<year>2018</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2018.11</ee>
+<crossref>conf/edbt/2018</crossref>
+<url>db/conf/edbt/edbt2018.html#HentschelHT18</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Haas18" mdate="2019-02-14">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>Karp-Luby Sampling.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_80765</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/k2.html#Haas18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Haas18a" mdate="2019-02-14">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>Monte Carlo Methods for Uncertain Data.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_80692</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/m2.html#Haas18a</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-09709" mdate="2018-08-13">
+<author pid="213/7863">Brian Hentschel</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<title>Temporally-Biased Sampling for Online Model Management.</title>
+<year>2018</year>
+<volume>abs/1801.09709</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.09709</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-09709</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-08294" mdate="2018-09-02">
+<author pid="132/1869">Yeounoh Chung</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="u/EliUpfal">Eli Upfal</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Unknown Examples &amp; Machine Learning Model Generalization.</title>
+<year>2018</year>
+<volume>abs/1808.08294</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.08294</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-08294</url>
+</article>
+</r>
+<r><article key="journals/cga/KwonVHD17" mdate="2018-11-14">
+<author pid="73/1969">Bum Chul Kwon</author>
+<author pid="193/9577">Janu Verma</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="74/20">&#199;agatay Demiralp</author>
+<title>Sampling for Scalable Visual Analytics.</title>
+<pages>100-108</pages>
+<year>2017</year>
+<volume>37</volume>
+<journal>IEEE Computer Graphics and Applications</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MCG.2017.6</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MCG.2017.6</ee>
+<ee>https://www.wikidata.org/entity/Q39012238</ee>
+<url>db/journals/cga/cga37.html#KwonVHD17</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DemiralpHPP17" mdate="2020-04-25">
+<author pid="74/20">&#199;agatay Demiralp</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="p/SParthasarathy2">Srinivasan Parthasarathy 0002</author>
+<author pid="203/8811">Tejaswini Pedapati</author>
+<title>Foresight: Recommending Visual Insights.</title>
+<pages>1937-1940</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p1937-parthasarathy.pdf</ee>
+<ee>https://doi.org/10.14778/3137765.3137813</ee>
+<url>db/journals/pvldb/pvldb10.html#DemiralpHPP17</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Elgohary0HRR17" mdate="2020-03-06">
+<author pid="03/8978">Ahmed Elgohary</author>
+<author pid="75/887">Matthias Boehm 0001</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="95/459">Frederick R. Reiss</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<title>Scaling Machine Learning via Compressed Linear Algebra.</title>
+<pages>42-49</pages>
+<year>2017</year>
+<volume>46</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3093754.3093765</ee>
+<url>db/journals/sigmod/sigmod46.html#Elgohary0HRR17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/DemiralpHPP17" mdate="2018-08-13">
+<author pid="74/20">&#199;agatay Demiralp</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="p/SParthasarathy2">Srinivasan Parthasarathy 0002</author>
+<author pid="203/8811">Tejaswini Pedapati</author>
+<title>Foresight: Recommending Visual Insights.</title>
+<year>2017</year>
+<volume>abs/1707.03877</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1707.03877</ee>
+<url>db/journals/corr/corr1707.html#DemiralpHPP17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-10513" mdate="2018-08-13">
+<author pid="74/20">&#199;agatay Demiralp</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="p/SParthasarathy2">Srinivasan Parthasarathy 0002</author>
+<author pid="203/8811">Tejaswini Pedapati</author>
+<title>Foresight: Rapid Data Exploration Through Guideposts.</title>
+<year>2017</year>
+<volume>abs/1709.10513</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.10513</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-10513</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ElgoharyBHRR16" mdate="2020-04-25">
+<author pid="03/8978">Ahmed Elgohary</author>
+<author pid="75/887">Matthias Boehm 0001</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="95/459">Frederick R. Reiss</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<title>Compressed Linear Algebra for Large-Scale Machine Learning.</title>
+<pages>960-971</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p960-elgohary.pdf</ee>
+<ee>https://doi.org/10.14778/2994509.2994515</ee>
+<url>db/journals/pvldb/pvldb9.html#ElgoharyBHRR16</url>
+</article>
+</r>
+<r><incollection key="books/sp/16/Haas16" mdate="2017-05-16">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>Data-Stream Sampling: Basic Techniques and Results.</title>
+<pages>13-44</pages>
+<year>2016</year>
+<booktitle>Data Stream Management</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-28608-0_2</ee>
+<crossref>books/sp/GGR2016</crossref>
+<url>db/books/collections/GGR2016.html#Haas16</url>
+</incollection>
+</r>
+<r><article key="journals/kais/MakariTGHS15" mdate="2019-06-02">
+<author pid="124/7131">Faraz Makari</author>
+<author pid="124/7240">Christina Teflioudi</author>
+<author orcid="0000-0003-2762-0050" pid="32/5357">Rainer Gemulla</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="65/5468">Yannis Sismanis</author>
+<title>Shared-memory and shared-nothing stochastic gradient descent algorithms for matrix completion.</title>
+<pages>493-523</pages>
+<year>2015</year>
+<volume>42</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10115-013-0718-7</ee>
+<ee>https://www.wikidata.org/entity/Q61867336</ee>
+<url>db/journals/kais/kais42.html#MakariTGHS15</url>
+</article>
+</r>
+<r><article key="journals/tomacs/GlynnH15" mdate="2018-11-06">
+<author pid="g/PeterWGlynn">Peter W. Glynn</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>Guest Editors' Introduction to Special Issue Honoring Donald L. Iglehart.</title>
+<pages>21:1-21:3</pages>
+<year>2015</year>
+<volume>25</volume>
+<journal>ACM Trans. Model. Comput. Simul.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2822375</ee>
+<url>db/journals/tomacs/tomacs25.html#GlynnH15</url>
+</article>
+</r>
+<r><article key="journals/tomacs/GlynnH15a" mdate="2018-11-06">
+<author pid="g/PeterWGlynn">Peter W. Glynn</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>On Transience and Recurrence in Irreducible Finite-State Stochastic Systems.</title>
+<pages>25:1-25:19</pages>
+<year>2015</year>
+<volume>25</volume>
+<journal>ACM Trans. Model. Comput. Simul.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2699721</ee>
+<url>db/journals/tomacs/tomacs25.html#GlynnH15a</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/PengEZHBS15" mdate="2023-03-24">
+<author pid="15/902">Liping Peng</author>
+<author pid="58/4208">Vuk Ercegovac</author>
+<author pid="80/1651-2">Kai Zeng 0002</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author orcid="0000-0003-3034-6259" pid="44/4147">Andrey Balmin</author>
+<author pid="65/5468">Yannis Sismanis</author>
+<title>Groupwise analytics via adaptive MapReduce.</title>
+<pages>1059-1070</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113356</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113356</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#PengEZHBS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/XieTSBH15" mdate="2023-03-24">
+<author pid="70/8577">Wenlei Xie</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<author pid="65/5468">Yannis Sismanis</author>
+<author orcid="0000-0003-3034-6259" pid="44/4147">Andrey Balmin</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>Dynamic interaction graphs with probabilistic edge decay.</title>
+<pages>1143-1154</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113363</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113363</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#XieTSBH15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/NagarajanWBNBHT15" mdate="2023-09-30">
+<author pid="19/3517">Meenakshi Nagarajan</author>
+<author pid="123/5907">Angela D. Wilkins</author>
+<author pid="117/4204">Benjamin J. Bachman</author>
+<author pid="166/5177">Ilya B. Novikov</author>
+<author pid="31/529">Shenghua Bao</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="166/5138">Mar&#237;a E. Terr&#243;n-D&#237;az</author>
+<author orcid="0000-0002-8146-4100" pid="52/7536">Sumit Bhatia</author>
+<author pid="166/5175">Anbu K. Adikesavan</author>
+<author pid="151/3231">Jacques J. Labrie</author>
+<author orcid="0000-0002-8588-4911" pid="151/3226">Sam Regenbogen</author>
+<author pid="166/5127">Christie M. Buchovecky</author>
+<author pid="151/3178">Curtis R. Pickering</author>
+<author pid="91/770">Linda Kato</author>
+<author pid="74/1446">Andreas Martin Lisewski</author>
+<author pid="65/6295">Ana Lelescu</author>
+<author pid="166/5148">Houyin Zhang</author>
+<author pid="46/5449">Stephen Boyer</author>
+<author pid="166/5288">Griff Weber</author>
+<author pid="21/5521-1">Ying Chen 0001</author>
+<author pid="145/5249">Lawrence A. Donehower</author>
+<author pid="24/3865">W. Scott Spangler</author>
+<author pid="38/5190">Olivier Lichtarge</author>
+<title>Predicting Future Scientific Discoveries Based on a Networked Analysis of the Past Literature.</title>
+<pages>2019-2028</pages>
+<year>2015</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/2783258.2788609</ee>
+<crossref>conf/kdd/2015</crossref>
+<url>db/conf/kdd/kdd2015.html#NagarajanWBNBHT15</url>
+</inproceedings>
+</r>
+<r><article key="journals/tomacs/HaasHL14" mdate="2021-10-14">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="14/5682">Shane G. Henderson</author>
+<author orcid="0000-0002-3184-0796" pid="86/984">Pierre L'Ecuyer</author>
+<title>Guest editors' introduction to special issue on the third INFORMS simulation society research workshop.</title>
+<pages>1:1-1:3</pages>
+<year>2014</year>
+<volume>24</volume>
+<journal>ACM Trans. Model. Comput. Simul.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2555690</ee>
+<url>db/journals/tomacs/tomacs24.html#HaasHL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/kdd/SpanglerWBNDHRPCMSKLLPLDCL14" mdate="2018-11-14">
+<author pid="24/3865">W. Scott Spangler</author>
+<author pid="123/5907">Angela D. Wilkins</author>
+<author pid="117/4204">Benjamin J. Bachman</author>
+<author pid="19/3517">Meena Nagarajan</author>
+<author pid="151/3261">Tajhal Dayaram</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author orcid="0000-0002-8588-4911" pid="151/3226">Sam Regenbogen</author>
+<author pid="151/3178">Curtis R. Pickering</author>
+<author pid="151/3119">Austin Comer</author>
+<author pid="151/3288">Jeffrey N. Myers</author>
+<author pid="s/IoanaStanoi">Ioana Stanoi</author>
+<author pid="91/770">Linda Kato</author>
+<author pid="65/6295">Ana Lelescu</author>
+<author pid="151/3231">Jacques J. Labrie</author>
+<author pid="151/3192">Neha Parikh</author>
+<author pid="74/1446">Andreas Martin Lisewski</author>
+<author pid="145/5249">Lawrence A. Donehower</author>
+<author pid="21/5521-1">Ying Chen 0001</author>
+<author pid="38/5190">Olivier Lichtarge</author>
+<title>Automated hypothesis generation based on mining scientific literature.</title>
+<pages>1877-1886</pages>
+<year>2014</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/2623330.2623667</ee>
+<ee>https://www.wikidata.org/entity/Q22122723</ee>
+<crossref>conf/kdd/2014</crossref>
+<url>db/conf/kdd/kdd2014.html#SpanglerWBNDHRPCMSKLLPLDCL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/Haas14" mdate="2018-11-06">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>Model-data Ecosystems: challenges, tools, and trends.</title>
+<pages>76-87</pages>
+<year>2014</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/2594538.2594562</ee>
+<crossref>conf/pods/2014</crossref>
+<url>db/conf/pods/pods2014.html#Haas14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/Haas14" mdate="2021-06-10">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>Improving the efficiency of stochastic composite simulation models via result caching.</title>
+<pages>817-828</pages>
+<year>2014</year>
+<booktitle>WSC</booktitle>
+<ee>https://doi.org/10.1109/WSC.2014.7019943</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2693958</ee>
+<crossref>conf/wsc/2014</crossref>
+<url>db/conf/wsc/wsc2014.html#Haas14</url>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/GemullaHL13" mdate="2019-06-02">
+<author orcid="0000-0003-2762-0050" pid="32/5357">Rainer Gemulla</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>Non-uniformity issues and workarounds in bounded-size sampling.</title>
+<pages>753-772</pages>
+<year>2013</year>
+<volume>22</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00778-013-0307-0</ee>
+<ee>https://www.wikidata.org/entity/Q61867339</ee>
+<url>db/journals/vldb/vldb22.html#GemullaHL13</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/EltabakhOSHPV13" mdate="2021-10-14">
+<author pid="49/6395">Mohamed Y. Eltabakh</author>
+<author orcid="0000-0002-4418-4724" pid="o/FatmaOzcan">Fatma &#214;zcan</author>
+<author pid="65/5468">Yannis Sismanis</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="29/5942">Jan Vondr&#225;k</author>
+<title>Eagle-eyed elephant: split-oriented indexing in Hadoop.</title>
+<pages>89-100</pages>
+<year>2013</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/2452376.2452388</ee>
+<crossref>conf/edbt/2013</crossref>
+<url>db/conf/edbt/edbt2013.html#EltabakhOSHPV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/CaiVPAHJ13" mdate="2018-11-06">
+<author pid="82/1037">Zhuhua Cai</author>
+<author pid="37/3290">Zografoula Vagena</author>
+<author pid="52/584">Luis Leopoldo Perez</author>
+<author pid="99/3704">Subramanian Arumugam 0002</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="j/ChrisJermaine">Christopher M. Jermaine</author>
+<title>Simulation of database-valued markov chains using SimSQL.</title>
+<pages>637-648</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2465283</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#CaiVPAHJ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/ChengRHSR13" mdate="2023-09-07">
+<author pid="35/3952">Russell C. H. Cheng</author>
+<author orcid="0000-0002-6016-0167" pid="90/3663">Stewart Robinson 0001</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="s/LeeWSchruben">Lee Schruben</author>
+<author pid="13/4641">Theresa M. Roeder</author>
+<title>Panel: Are we effectively preparing our students to be certified analytics professionals?</title>
+<pages>3544-3555</pages>
+<year>2013</year>
+<booktitle>WSC</booktitle>
+<ee>https://doi.org/10.1109/WSC.2013.6721716</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2675836</ee>
+<crossref>conf/wsc/2013</crossref>
+<url>db/conf/wsc/wsc2013.html#ChengRHSR13</url>
+</inproceedings>
+</r>
+<r><article key="journals/ftdb/CormodeGHJ12" mdate="2020-04-25">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="j/ChrisJermaine">Chris Jermaine</author>
+<title>Synopses for Massive Data: Samples, Histograms, Wavelets, Sketches.</title>
+<pages>1-294</pages>
+<year>2012</year>
+<volume>4</volume>
+<journal>Found. Trends Databases</journal>
+<number>1-3</number>
+<ee>https://doi.org/10.1561/1900000004</ee>
+<url>db/journals/ftdb/ftdb4.html#CormodeGHJ12</url>
+</article>
+</r>
+<r><inproceedings key="conf/allerton/HaasBPTTSM12" mdate="2017-05-21">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="134/9676">Nicole C. Barberis</author>
+<author pid="68/387">Piyaphol Phoungphol</author>
+<author pid="134/9731">Ignacio G. Terrizzano</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<author pid="48/1954">Patricia G. Selinger</author>
+<author pid="94/226">Paul P. Maglio</author>
+<title>Splash: Simulation optimization in complex systems of systems.</title>
+<pages>414-425</pages>
+<year>2012</year>
+<booktitle>Allerton Conference</booktitle>
+<ee>https://doi.org/10.1109/Allerton.2012.6483248</ee>
+<crossref>conf/allerton/2012</crossref>
+<url>db/conf/allerton/allerton2012.html#HaasBPTTSM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/PansareJHR12" mdate="2023-03-24">
+<author pid="13/8165">Niketan Pansare</author>
+<author pid="j/ChrisJermaine">Chris Jermaine</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="15/5180">Nitendra Rajput</author>
+<title>Topic Models over Spoken Language.</title>
+<pages>1062-1067</pages>
+<year>2012</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2012.90</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDM.2012.90</ee>
+<crossref>conf/icdm/2012</crossref>
+<url>db/conf/icdm/icdm2012.html#PansareJHR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ihi/TanHMKSMGCL12" mdate="2018-11-06">
+<author pid="t/WangChiewTan">Wang Chiew Tan</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="82/10496">Ronald L. Mak</author>
+<author pid="05/2613">Cheryl A. Kieliszewski</author>
+<author pid="48/1954">Patricia G. Selinger</author>
+<author pid="94/226">Paul P. Maglio</author>
+<author pid="57/941">Susanne Glissmann</author>
+<author pid="47/6544">Melissa Cefkin</author>
+<author pid="49/612">Yinan Li</author>
+<title>Splash: a platform for analysis and simulation of health.</title>
+<pages>543-552</pages>
+<year>2012</year>
+<booktitle>IHI</booktitle>
+<ee>https://doi.org/10.1145/2110363.2110424</ee>
+<crossref>conf/ihi/2012</crossref>
+<url>db/conf/ihi/ihi2012.html#TanHMKSMGCL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/GlynnH12" mdate="2021-06-10">
+<author pid="g/PeterWGlynn">Peter W. Glynn</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>On simulation of non-Markovian stochastic Petri nets with heavy-tailed firing times.</title>
+<pages>301:1-301:12</pages>
+<year>2012</year>
+<booktitle>WSC</booktitle>
+<ee>https://doi.org/10.1109/WSC.2012.6465251</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2430165</ee>
+<crossref>conf/wsc/2012</crossref>
+<url>db/conf/wsc/wsc2012.html#GlynnH12</url>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/Haas11" mdate="2018-11-06">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>Sketches get sketchier.</title>
+<pages>100</pages>
+<year>2011</year>
+<volume>54</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<ee>https://doi.org/10.1145/1978542.1978565</ee>
+<url>db/journals/cacm/cacm54.html#Haas11</url>
+</article>
+</r>
+<r><article key="journals/ibmrd/BigusCCCCCCEEFGGGGHHHHJKKKKMMNNNPPRRRSSSSSTTYZ11" mdate="2023-08-28">
+<author pid="23/4351">Joseph P. Bigus</author>
+<author pid="72/3339">Murray Campbell</author>
+<author pid="68/2688">Boaz Carmeli</author>
+<author pid="47/6544">Melissa Cefkin</author>
+<author pid="01/5944">Henry Chang</author>
+<author pid="29/5159">Ching-Hua Chen-Ritzo</author>
+<author pid="40/3598">William F. Cody</author>
+<author pid="53/2744">Shahram Ebadollahi</author>
+<author pid="e/AlexandreVEvfimievski">Alexandre V. Evfimievski</author>
+<author pid="95/7406">Ariel Farkash</author>
+<author pid="57/941">Susanne Glissmann</author>
+<author pid="13/6295">David Gotz</author>
+<author orcid="0000-0003-1989-3913" pid="g/TyroneGrandison">Tyrone Grandison</author>
+<author pid="35/2529">Daniel Gruhl</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="80/10492">Mark J. H. Hsiao</author>
+<author pid="68/10492">Pei-Yun Sabrina Hsueh</author>
+<author pid="06/259">Jianying Hu</author>
+<author pid="63/884">Joseph M. Jasinski</author>
+<author pid="90/4949">James H. Kaufman</author>
+<author pid="05/2613">Cheryl A. Kieliszewski</author>
+<author pid="55/8429">Martin S. Kohn</author>
+<author pid="08/4685">Sarah E. Knoop</author>
+<author pid="94/226">Paul P. Maglio</author>
+<author pid="82/10496">Ronald L. Mak</author>
+<author pid="53/2140">Haim Nelken</author>
+<author pid="62/2192">Chalapathy Neti</author>
+<author pid="50/3044">Hani Neuvirth</author>
+<author pid="91/3754">Yue Pan</author>
+<author pid="86/644">Yardena Peres</author>
+<author pid="98/1350">Sreeram Ramakrishnan</author>
+<author pid="19/6540">Michal Rosen-Zvi</author>
+<author pid="17/5572">Sondra R. Renly</author>
+<author pid="48/1954">Pat Selinger</author>
+<author pid="31/5224">Amnon Shabo</author>
+<author pid="38/8429">Robert Sorrentino</author>
+<author orcid="0000-0003-1512-6426" pid="54/4948">Jimeng Sun 0001</author>
+<author pid="11/5386">Tanveer Fathima Syeda-Mahmood</author>
+<author pid="t/WangChiewTan">Wang Chiew Tan</author>
+<author pid="93/10496">Ying Y. Y. Tao</author>
+<author pid="19/6977">Reza Yaesoubi</author>
+<author pid="64/2096">Xinxin Zhu</author>
+<title>Information technology for healthcare transformation.</title>
+<pages>6</pages>
+<year>2011</year>
+<volume>55</volume>
+<journal>IBM J. Res. Dev.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1147/JRD.2011.2160684</ee>
+<url>db/journals/ibmrd/ibmrd55.html#BigusCCCCCCEEFGGGGHHHHJKKKKMMNNNPPRRRSSSSSTTYZ11</url>
+</article>
+</r>
+<r><article key="journals/pvldb/HaasMST11" mdate="2020-04-25">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="94/226">Paul P. Maglio</author>
+<author pid="48/1954">Patricia G. Selinger</author>
+<author pid="t/WangChiewTan">Wang Chiew Tan</author>
+<title>Data is Dead... Without What-If Models.</title>
+<pages>1486-1489</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p1486-haas.pdf</ee>
+<url>db/journals/pvldb/pvldb4.html#HaasMST11</url>
+</article>
+</r>
+<r><article key="journals/tods/JampaniXWPJH11" mdate="2018-11-06">
+<author pid="04/4806">Ravi Jampani</author>
+<author pid="42/5065">Fei Xu</author>
+<author pid="w/MingxiWu">Mingxi Wu</author>
+<author pid="52/584">Luis Leopoldo Perez</author>
+<author pid="j/ChrisJermaine">Chris Jermaine</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>The monte carlo database system: Stochastic analysis close to the data.</title>
+<pages>18:1-18:41</pages>
+<year>2011</year>
+<volume>36</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2000824.2000828</ee>
+<url>db/journals/tods/tods36.html#JampaniXWPJH11</url>
+</article>
+</r>
+<r><inproceedings key="conf/kdd/GemullaNHS11" mdate="2019-06-02">
+<author orcid="0000-0003-2762-0050" pid="32/5357">Rainer Gemulla</author>
+<author pid="65/2422">Erik Nijkamp</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="65/5468">Yannis Sismanis</author>
+<title>Large-scale matrix factorization with distributed stochastic gradient descent.</title>
+<pages>69-77</pages>
+<year>2011</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/2020408.2020426</ee>
+<ee>https://www.wikidata.org/entity/Q61867346</ee>
+<crossref>conf/kdd/2011</crossref>
+<url>db/conf/kdd/kdd2011.html#GemullaNHS11</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/HaasJAXPJ10" mdate="2020-04-25">
+<author pid="99/3704">Subi Arumugam</author>
+<author pid="04/4806">Ravi Jampani</author>
+<author pid="52/584">Luis Leopoldo Perez</author>
+<author pid="42/5065">Fei Xu</author>
+<author pid="j/ChrisJermaine">Christopher M. Jermaine</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>MCDB-R: Risk Analysis in the Database.</title>
+<pages>782-793</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R70.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920941</ee>
+<url>db/journals/pvldb/pvldb3.html#HaasJAXPJ10</url>
+</article>
+</r>
+<r><inproceedings key="conf/mud/Haas10" mdate="2011-05-22">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>From MUD to MIRE: Managing Inherent Risk in the Enterprise.</title>
+<pages>1-2</pages>
+<year>2010</year>
+<booktitle>MUD</booktitle>
+<crossref>conf/mud/2010</crossref>
+<url>db/conf/mud/mud2010.html#Haas10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbp/MaglioCHS10" mdate="2017-05-23">
+<author pid="94/226">Paul P. Maglio</author>
+<author pid="47/6544">Melissa Cefkin</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="48/1954">Patricia G. Selinger</author>
+<title>Social Factors in Creating an Integrated Capability for Health System Modeling and Simulation.</title>
+<pages>44-51</pages>
+<year>2010</year>
+<booktitle>SBP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-12079-4_8</ee>
+<crossref>conf/sbp/2010</crossref>
+<url>db/conf/sbp/sbp2010.html#MaglioCHS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DasSBGHM10" mdate="2019-06-02">
+<author pid="71/5974">Sudipto Das</author>
+<author pid="65/5468">Yannis Sismanis</author>
+<author pid="b/KevinSBeyer">Kevin S. Beyer</author>
+<author orcid="0000-0003-2762-0050" pid="32/5357">Rainer Gemulla</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="02/5355">John McPherson</author>
+<title>Ricardo: integrating R and Hadoop.</title>
+<pages>987-998</pages>
+<year>2010</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1807167.1807275</ee>
+<ee>https://www.wikidata.org/entity/Q61867348</ee>
+<crossref>conf/sigmod/2010</crossref>
+<url>db/conf/sigmod/sigmod2010.html#DasSBGHM10</url>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/BeyerGHRS09" mdate="2019-06-02">
+<author pid="b/KevinSBeyer">Kevin S. Beyer</author>
+<author orcid="0000-0003-2762-0050" pid="32/5357">Rainer Gemulla</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<author pid="65/5468">Yannis Sismanis</author>
+<title>Distinct-value synopses for multiset operations.</title>
+<pages>87-95</pages>
+<year>2009</year>
+<volume>52</volume>
+<journal>Commun. ACM</journal>
+<number>10</number>
+<ee>https://doi.org/10.1145/1562764.1562787</ee>
+<ee>https://www.wikidata.org/entity/Q61867349</ee>
+<url>db/journals/cacm/cacm52.html#BeyerGHRS09</url>
+</article>
+</r>
+<r><article key="journals/sadm/HaasILM09" mdate="2020-10-01">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author orcid="0000-0001-9052-9714" pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<title>Discovering and Exploiting Statistical Properties for Query Optimization in Relational Databases: A Survey.</title>
+<pages>223-250</pages>
+<year>2009</year>
+<volume>1</volume>
+<journal>Stat. Anal. Data Min.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/sam.10016</ee>
+<ee>https://www.wikidata.org/entity/Q56647306</ee>
+<url>db/journals/sadm/sadm1.html#HaasILM09</url>
+</article>
+</r>
+<r><article key="journals/vldb/HaasS09" mdate="2024-02-05">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<title>Special issue on uncertain and probabilistic databases.</title>
+<pages>987-988</pages>
+<year>2009</year>
+<volume>18</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-009-0158-x</ee>
+<url>db/journals/vldb/vldb18.html#HaasS09</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/SismanisWFHR09" mdate="2023-03-24">
+<author pid="65/5468">Yannis Sismanis</author>
+<author pid="45/6607">Ling Wang</author>
+<author pid="90/1367">Ariel Fuxman</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<title>Resolution-Aware Query Answering for Business Intelligence.</title>
+<pages>976-987</pages>
+<year>2009</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2009.81</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2009.81</ee>
+<crossref>conf/icde/2009</crossref>
+<url>db/conf/icde/icde2009.html#SismanisWFHR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MichelakisKHV09" mdate="2018-11-06">
+<author pid="64/5404">Eirinaios Michelakis</author>
+<author pid="51/6067">Rajasekar Krishnamurthy</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="81/6125">Shivakumar Vaithyanathan</author>
+<title>Uncertainty management in rule-based information extraction systems.</title>
+<pages>101-114</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559858</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#MichelakisKHV09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/XuBEHS09" mdate="2018-11-06">
+<author pid="42/5065">Fei Xu</author>
+<author pid="b/KevinSBeyer">Kevin S. Beyer</author>
+<author pid="58/4208">Vuk Ercegovac</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="03/6706">Eugene J. Shekita</author>
+<title>E = MC<sup>3</sup>: managing uncertain enterprise data in a cluster-computing environment.</title>
+<pages>441-454</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559893</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#XuBEHS09</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/QiaoRRHL08" mdate="2023-01-20">
+<author pid="q/LinQiao">Lin Qiao</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="95/459">Frederick Reiss 0001</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<title>Main-memory scan sharing for multi-core CPUs.</title>
+<pages>610-621</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1453924.pdf</ee>
+<ee>https://doi.org/10.14778/1453856.1453924</ee>
+<url>db/journals/pvldb/pvldb1.html#QiaoRRHL08</url>
+</article>
+</r>
+<r><article key="journals/vldb/GemullaLH08" mdate="2019-06-02">
+<author orcid="0000-0003-2762-0050" pid="32/5357">Rainer Gemulla</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>Maintaining bounded-size sample synopses of evolving datasets.</title>
+<year>2008</year>
+<volume>17</volume>
+<number>2</number>
+<pages>173-202</pages>
+<journal>VLDB J.</journal>
+<ee>https://doi.org/10.1007/s00778-007-0065-y</ee>
+<ee>https://www.wikidata.org/entity/Q61867354</ee>
+<url>db/journals/vldb/vldb17.html#GemullaLH08</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/JampaniXWPJH08" mdate="2018-11-06">
+<author pid="04/4806">Ravi Jampani</author>
+<author pid="42/5065">Fei Xu</author>
+<author pid="w/MingxiWu">Mingxi Wu</author>
+<author pid="52/584">Luis Leopoldo Perez</author>
+<author pid="j/ChrisJermaine">Christopher M. Jermaine</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>MCDB: a monte carlo approach to managing uncertain data.</title>
+<pages>687-700</pages>
+<year>2008</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1376616.1376686</ee>
+<crossref>conf/sigmod/2008</crossref>
+<url>db/conf/sigmod/sigmod2008.html#JampaniXWPJH08</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/KochHLORKP08" mdate="2018-08-23">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="l/HJLenz">Hans-Joachim Lenz</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<author pid="59/6490">Jeff Z. Pan</author>
+<title>08421 Working Group: Report of the Probabilistic Databases Benchmarking.</title>
+<year>2008</year>
+<booktitle>Uncertainty Management in Information Systems</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2009/1936/</ee>
+<crossref>conf/dagstuhl/2008P8421</crossref>
+<url>db/conf/dagstuhl/P8421.html#KochHLORKP08</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/SarmaKDHIKNOTV08" mdate="2021-10-14">
+<author pid="59/589">Anish Das Sarma</author>
+<author pid="k/AnderdeKeijzer">Ander de Keijzer</author>
+<author pid="d/AmolDeshpande">Amol Deshpande</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="o/DanOlteanu">Dan Olteanu</author>
+<author orcid="0000-0003-4067-7609" pid="t/MartinTheobald">Martin Theobald</author>
+<author pid="v/VVassalos">Vasilis Vassalos</author>
+<title>08421 Working Group: Classification, Representation and Modeling.</title>
+<year>2008</year>
+<booktitle>Uncertainty Management in Information Systems</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2009/1941/</ee>
+<crossref>conf/dagstuhl/2008P8421</crossref>
+<url>db/conf/dagstuhl/P8421.html#SarmaKDHIKNOTV08</url>
+</inproceedings>
+</r>
+<r><article key="journals/modulad/GemullaLH07" mdate="2020-05-20">
+<author pid="32/5357">Rainer Gemulla</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>On reservoir sampling with deletions.</title>
+<pages>14-17</pages>
+<year>2007</year>
+<volume>36</volume>
+<journal>Monde des Util. Anal. Donn&#233;es</journal>
+<ee>http://editions-rnti.fr/?inprocid=1001728</ee>
+<url>db/journals/modulad/modulad36.html#GemullaLH07</url>
+</article>
+</r>
+<r><article key="journals/vldb/MarklHKMST07" mdate="2017-05-28">
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="23/5248">Marcel Kutsch</author>
+<author pid="m/NimrodMegiddo">Nimrod Megiddo</author>
+<author pid="46/2539">Utkarsh Srivastava</author>
+<author pid="86/4362">Tam Minh Tran</author>
+<title>Consistent selectivity estimation via maximum entropy.</title>
+<pages>55-76</pages>
+<year>2007</year>
+<volume>16</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-006-0030-1</ee>
+<url>db/journals/vldb/vldb16.html#MarklHKMST07</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/BehmMHM07" mdate="2023-07-04">
+<author pid="88/573">Alexander Behm</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="37/276">Keshava Murthy</author>
+<title>Integrating Query-Feedback Based Statistics into Informix Dynamic Server.</title>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/31826</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings103/article1424.html</ee>
+<pages>582-600</pages>
+<year>2007</year>
+<crossref>conf/btw/2007</crossref>
+<booktitle>BTW</booktitle>
+<url>db/conf/btw/btw2007.html#BehmMHM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/GemullaLH07" mdate="2019-06-02">
+<author orcid="0000-0003-2762-0050" pid="32/5357">Rainer Gemulla</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>Maintaining bernoulli samples over evolving multisets.</title>
+<pages>93-102</pages>
+<year>2007</year>
+<crossref>conf/pods/2007</crossref>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1265530.1265544</ee>
+<ee>https://www.wikidata.org/entity/Q61867355</ee>
+<url>db/conf/pods/pods2007.html#GemullaLH07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BeyerHRSG07" mdate="2019-06-02">
+<author pid="b/KevinSBeyer">Kevin S. Beyer</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<author pid="65/5468">Yannis Sismanis</author>
+<author orcid="0000-0003-2762-0050" pid="32/5357">Rainer Gemulla</author>
+<title>On synopses for distinct-value estimation under multiset operations.</title>
+<pages>199-210</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247504</ee>
+<ee>https://www.wikidata.org/entity/Q61867356</ee>
+<url>db/conf/sigmod/sigmod2007.html#BeyerHRSG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/HaasHM07" mdate="2020-03-12">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="55/6773">Fabian Hueske</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<title>Detecting Attribute Dependencies from Query Feedback.</title>
+<pages>830-841</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/research/p830-haas.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#HaasHM07</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/LightstoneLHMRSSZ06" mdate="2020-08-19">
+<author pid="31/3001">Sam Lightstone</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="r/JunRao">Jun Rao</author>
+<author pid="16/5412">Adam J. Storm</author>
+<author pid="49/889">Maheswaran Surendra</author>
+<author pid="60/6783">Daniel C. Zilio</author>
+<title>Making DB2Products Self-Managing: Strategies and Experiences.</title>
+<pages>16-23</pages>
+<year>2006</year>
+<volume>29</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<ee type="oa">http://sites.computer.org/debull/A06sept/db2ac1.ps</ee>
+<url>db/journals/debu/debu29.html#LightstoneLHMRSSZ06</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/KutschHMMT06" mdate="2017-05-21">
+<author pid="23/5248">Marcel Kutsch</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="m/NimrodMegiddo">Nimrod Megiddo</author>
+<author pid="86/4362">Tam Minh Tran</author>
+<title>Integrating a Maximum-Entropy Cardinality Estimator into DB2 UDB.</title>
+<pages>1092-1096</pages>
+<year>2006</year>
+<crossref>conf/edbt/2006</crossref>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1007/11687238_67</ee>
+<url>db/conf/edbt/edbt2006.html#KutschHMMT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BrownH06" mdate="2023-03-24">
+<author pid="41/6335">Paul G. Brown</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>Techniques for Warehousing of Sample Data.</title>
+<pages>6</pages>
+<year>2006</year>
+<crossref>conf/icde/2006</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2006.157</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2006.157</ee>
+<url>db/conf/icde/icde2006.html#BrownH06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SrivastavaHMKT06" mdate="2023-03-23">
+<author pid="46/2539">Utkarsh Srivastava</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="23/5248">Marcel Kutsch</author>
+<author pid="86/4362">Tam Minh Tran</author>
+<title>ISOMER: Consistent Histogram Construction Using Query Feedback.</title>
+<pages>39</pages>
+<year>2006</year>
+<crossref>conf/icde/2006</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2006.84</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2006.84</ee>
+<url>db/conf/icde/icde2006.html#SrivastavaHMKT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MarklKTHM06" mdate="2018-11-06">
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="23/5248">Marcel Kutsch</author>
+<author pid="86/4362">Tam Minh Tran</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="m/NimrodMegiddo">Nimrod Megiddo</author>
+<title>MAXENT: consistent cardinality estimation in action.</title>
+<pages>775-777</pages>
+<year>2006</year>
+<crossref>conf/sigmod/2006</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1142473.1142586</ee>
+<url>db/conf/sigmod/sigmod2006.html#MarklKTHM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/GemullaLH06" mdate="2020-03-12">
+<author pid="32/5357">Rainer Gemulla</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>A Dip in the Reservoir: Maintaining Sample Synopses of Evolving Datasets.</title>
+<pages>595-606</pages>
+<year>2006</year>
+<crossref>conf/vldb/2006</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1164179</ee>
+<ee type="oa">http://www.vldb.org/conf/2006/p595-gemulla.pdf</ee>
+<url>db/conf/vldb/vldb2006.html#GemullaLH06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/SismanisBHR06" mdate="2020-03-12">
+<author pid="65/5468">Yannis Sismanis</author>
+<author pid="04/5664">Paul Brown</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<title>GORDIAN: Efficient and Scalable Discovery of Composite Keys.</title>
+<pages>691-702</pages>
+<year>2006</year>
+<crossref>conf/vldb/2006</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1164187</ee>
+<ee type="oa">http://www.vldb.org/conf/2006/p691-sismanis.pdf</ee>
+<url>db/conf/vldb/vldb2006.html#SismanisBHR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/birthday/BrownHMPRS05" mdate="2017-05-23">
+<author pid="04/5664">Paul Brown</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="m/JussiMyllymaki">Jussi Myllymaki</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<author pid="65/5468">Yannis Sismanis</author>
+<title>Toward Automated Large-Scale Information Integration and Discovery.</title>
+<pages>161-180</pages>
+<year>2005</year>
+<crossref>conf/birthday/2005wedekind</crossref>
+<booktitle>Data Management in a Connected World</booktitle>
+<ee>https://doi.org/10.1007/11499923_9</ee>
+<url>db/conf/birthday/wedekind2005.html#BrownHMPRS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HaasKLMPRZ05" mdate="2018-11-06">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="49/5973">Mokhtar Kandil</author>
+<author pid="l/AlbertoLerner">Alberto Lerner</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="01/734">Ivan Popivanov</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="60/6783">Daniel C. Zilio</author>
+<title>Automated statistics collection in action.</title>
+<pages>933-935</pages>
+<year>2005</year>
+<crossref>conf/sigmod/2005</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1066157.1066293</ee>
+<url>db/conf/sigmod/sigmod2005.html#HaasKLMPRZ05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ZhangHJLZ05" mdate="2020-03-12">
+<author pid="z/NingZhang0002">Ning Zhang 0002</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="67/3556">Vanja Josifovski</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="77/2866">Chun Zhang</author>
+<title>Statistical Learning Techniques for Costing XML Queries.</title>
+<pages>289-300</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/archives/website/2005/program/paper/wed/p289-zhang.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083628</ee>
+<url>db/conf/vldb/vldb2005.html#ZhangHJLZ05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/MarklMKTHS05" mdate="2020-03-12">
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="m/NimrodMegiddo">Nimrod Megiddo</author>
+<author pid="23/5248">Marcel Kutsch</author>
+<author pid="86/4362">Tam Minh Tran</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="46/2539">Utkarsh Srivastava</author>
+<title>Consistently Estimating the Selectivity of Conjuncts of Predicates.</title>
+<pages>373-384</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/archives/website/2005/program/paper/wed/p373-markl.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083638</ee>
+<url>db/conf/vldb/vldb2005.html#MarklMKTHS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icac/IlyasMHBA04" mdate="2023-03-24">
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="41/6335">Paul G. Brown</author>
+<author pid="01/3996">Ashraf Aboulnaga</author>
+<title>Automatic Relationship Discovery in Self-Managing Database Systems.</title>
+<pages>340-341</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICAC.2004.16</ee>
+<url>db/conf/icac/icac2004.html#IlyasMHBA04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HaasK04" mdate="2018-11-06">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="57/2391">Christian Koenig</author>
+<title>A Bi-Level Bernoulli Scheme for Database Sampling.</title>
+<year>2004</year>
+<crossref>conf/sigmod/2004</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2004.html#HaasK04</url>
+<pages>275-286</pages>
+<ee>https://doi.org/10.1145/1007568.1007601</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/IlyasMHBA04" mdate="2018-11-14">
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="04/5664">Paul Brown</author>
+<author pid="01/3996">Ashraf Aboulnaga</author>
+<title>CORDS: Automatic Discovery of Correlations and Soft Functional Dependencies.</title>
+<year>2004</year>
+<crossref>conf/sigmod/2004</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2004.html#IlyasMHBA04</url>
+<ee>https://doi.org/10.1145/1007568.1007641</ee>
+<ee>https://www.wikidata.org/entity/Q56658895</ee>
+<pages>647-658</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/AboulnagaHLLMPR04" mdate="2023-09-30">
+<author orcid="0000-0001-6693-7099" pid="01/3996">Ashraf Aboulnaga</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="31/3001">Sam Lightstone</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="01/734">Ivan Popivanov</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<title>Automated Statistics Collection in DB2 UDB.</title>
+<year>2004</year>
+<crossref>conf/vldb/2004</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2004.html#AboulnagaHLLMPR04</url>
+<pages>1146-1157</pages>
+<ee>http://www.vldb.org/conf/2004/IND5P3.PDF</ee>
+<ee>https://doi.org/10.1016/B978-012088469-8.50100-5</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/IlyasMHBA04" mdate="2023-09-30">
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="41/6335">Paul G. Brown</author>
+<author orcid="0000-0001-6693-7099" pid="01/3996">Ashraf Aboulnaga</author>
+<title>CORDS: Automatic Generation of Correlation Statistics in DB2.</title>
+<pages>1341-1344</pages>
+<year>2004</year>
+<crossref>conf/vldb/2004</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://www.vldb.org/conf/2004/DEMP23.PDF</ee>
+<ee>https://doi.org/10.1016/B978-012088469-8.50142-X</ee>
+<url>db/conf/vldb/vldb2004.html#IlyasMHBA04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/Haas04" mdate="2021-06-10">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>Stochastic Petri Nets for Modelling and Simulation.</title>
+<pages>101-112</pages>
+<year>2004</year>
+<crossref>conf/wsc/2004</crossref>
+<booktitle>WSC</booktitle>
+<ee type="oa">http://www.informs-sim.org/wsc04papers/013.pdf</ee>
+<url>db/conf/wsc/wsc2004.html#Haas04</url>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/AgrawalHK03" mdate="2017-11-07">
+<author pid="a/RAgrawal">Rakesh Agrawal 0001</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="k/JerryKiernan">Jerry Kiernan</author>
+<title>Watermarking relational data: framework, algorithms and analysis.</title>
+<pages>157-169</pages>
+<year>2003</year>
+<volume>12</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-003-0097-x</ee>
+<url>db/journals/vldb/vldb12.html#AgrawalHK03</url>
+</article>
+</r>
+<r><inproceedings key="conf/kdd/BronnimannCDHS03" mdate="2018-11-06">
+<author pid="34/1193">Herv&#233; Br&#246;nnimann</author>
+<author pid="22/5523">Bin Chen</author>
+<author pid="32/723">Manoranjan Dash</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="s/PeterScheuermann">Peter Scheuermann</author>
+<title>Efficient data reduction with EASE.</title>
+<pages>59-68</pages>
+<year>2003</year>
+<crossref>conf/kdd/2003</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/956750.956761</ee>
+<url>db/conf/kdd/kdd2003.html#BronnimannCDHS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AgrawalK03" mdate="2018-11-06">
+<author pid="a/RAgrawal">Rakesh Agrawal 0001</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="k/JerryKiernan">Jerry Kiernan</author>
+<title>A System for Watermarking Relational Databases.</title>
+<pages>674</pages>
+<year>2003</year>
+<crossref>conf/sigmod/2003</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2003.html#AgrawalK03</url>
+<ee>https://doi.org/10.1145/872757.872865</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/HaasB03" mdate="2020-03-12">
+<ee type="oa">http://www.vldb.org/conf/2003/papers/S20P03.pdf</ee>
+<ee>https://doi.org/10.1016/B978-012722442-8/50065-3</ee>
+<author pid="04/5664">Paul Brown</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>BHUNT: Automatic Discovery of Fuzzy Algebraic Constraints in Relational Data.</title>
+<year>2003</year>
+<crossref>conf/vldb/2003</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2003.html#HaasB03</url>
+<pages>668-679</pages>
+</inproceedings>
+</r>
+<r><book key="books/daglib/0020414" mdate="2019-07-15">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>Stochastic Petri nets - modelling, stability, simulation.</title>
+<pages>I-XXII, 1-509</pages>
+<publisher>Springer</publisher>
+<year>2002</year>
+<series>Springer series in operations research</series>
+<isbn>978-0-387-95445-5</isbn>
+</book>
+</r>
+<r><article key="journals/sigmetrics/HaasG02" mdate="2020-04-25">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="g/PeterWGlynn">Peter W. Glynn</author>
+<title>On the validity of long-run estimation methods for discrete-event systems.</title>
+<pages>35-37</pages>
+<year>2002</year>
+<volume>30</volume>
+<journal>SIGMETRICS Perform. Evaluation Rev.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/605521.605535</ee>
+<url>db/journals/sigmetrics/sigmetrics30.html#HaasG02</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/ChenHS02" mdate="2023-03-23">
+<author pid="22/5523">Bin Chen</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="s/PeterScheuermann">Peter Scheuermann</author>
+<title>FAST: A New Sampling-Based Algorithm for Discovering Association Rules.</title>
+<pages>263</pages>
+<year>2002</year>
+<crossref>conf/icde/2002</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2002.994717</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2002.994717</ee>
+<url>db/conf/icde/icde2002.html#ChenHS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/ChenHS02" mdate="2018-11-06">
+<author pid="22/5523">Bin Chen</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="s/PeterScheuermann">Peter Scheuermann</author>
+<title>A new two-phase sampling based algorithm for discovering association rules.</title>
+<pages>462-468</pages>
+<year>2002</year>
+<crossref>conf/kdd/2002</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/775047.775114</ee>
+<url>db/conf/kdd/kdd2002.html#ChenHS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LuoEHN02" mdate="2019-11-18">
+<author pid="22/793">Gang Luo 0001</author>
+<author pid="76/4153">Curt J. Ellmann</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<title>A scalable hash ripple join algorithm.</title>
+<pages>252-262</pages>
+<year>2002</year>
+<crossref>conf/sigmod/2002</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/564691.564721</ee>
+<url>db/conf/sigmod/sigmod2002.html#LuoEHN02</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmetrics/Haas01" mdate="2020-04-25">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>Estimation of delays in non-regenerative discrete-event stochastic systems.</title>
+<pages>36-38</pages>
+<year>2001</year>
+<volume>28</volume>
+<journal>SIGMETRICS Perform. Evaluation Rev.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/544397.544411</ee>
+<url>db/journals/sigmetrics/sigmetrics28.html#Haas01</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/HaasH01" mdate="2021-03-12">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Online Query Processing.</title>
+<pages>623</pages>
+<year>2001</year>
+<crossref>conf/sigmod/2001</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2001.html#HaasH01</url>
+<ee>https://doi.org/10.1145/375663.375800</ee>
+<ee>https://doi.org/10.1145/376284.375800</ee>
+</inproceedings>
+</r>
+<r><article key="journals/computer/HellersteinACHORRH99" mdate="2020-08-12">
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="17/6696">Ron Avnur</author>
+<author pid="53/3446">Andy Chou</author>
+<author pid="78/3835">Christian Hidber</author>
+<author pid="o/ChristopherOlston">Chris Olston</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="32/5664">Tali Roth</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>Interactive data Analysis: The Control Project.</title>
+<pages>51-59</pages>
+<year>1999</year>
+<volume>32</volume>
+<journal>Computer</journal>
+<number>8</number>
+<url>db/journals/computer/computer32.html#HellersteinACHORRH99</url>
+<ee>https://doi.org/10.1109/2.781635</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/2.781635</ee>
+</article>
+</r>
+<r><article key="journals/tse/Haas99" mdate="2017-05-17">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>Estimation Methods for Nonregenerative Stochastic Petri Nets.</title>
+<pages>218-236</pages>
+<ee>https://doi.org/10.1109/32.761447</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/32.761447</ee>
+<year>1999</year>
+<volume>25</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>2</number>
+<url>db/journals/tse/tse25.html#Haas99</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/HaasH99" mdate="2021-03-12">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Ripple Joins for Online Aggregation.</title>
+<cdrom>DiSC2_1/out/papers/sigmod/ripplejoinsforopejo.pdf</cdrom>
+<pages>287-298</pages>
+<year>1999</year>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod99.html#HaasH99</url>
+<crossref>conf/sigmod/99</crossref>
+<ee>https://doi.org/10.1145/304182.304208</ee>
+<ee>https://doi.org/10.1145/304181.304208</ee>
+<cite label="AS72">...</cite>
+<cite label="Bil86">...</cite>
+<cite label="CGL83">...</cite>
+<cite label="DKO+84">conf/sigmod/DeWittKOSSW84</cite>
+<cite label="GG97">journals/sigmod/GrayG97</cite>
+<cite label="Gra93">journals/csur/Graefe93</cite>
+<cite label="Haa97">conf/ssdbm/Haas97</cite>
+<cite label="HAR99">...</cite>
+<cite label="HH98">...</cite>
+<cite label="HHW97">conf/sigmod/HellersteinHW97</cite>
+<cite label="HN96">conf/sigmod/HellersteinN96</cite>
+<cite label="HNS94">conf/pods/HaasNS94</cite>
+<cite label="HNSS96">journals/jcss/HaasNSS96</cite>
+<cite label="Hoe48">...</cite>
+<cite label="HOT88">conf/pods/HouOT88</cite>
+<cite label="HOT89">conf/sigmod/HouOT89</cite>
+<cite label="IBM97">...</cite>
+<cite label="Inf97">...</cite>
+<cite label="ODT+91">conf/dexa/OzsoyogluDTHR91</cite>
+<cite label="OJ93">...</cite>
+<cite label="Olk93">...</cite>
+<cite label="Ora97">...</cite>
+<cite label="Pos98">...</cite>
+<cite label="RRH99">...</cite>
+<cite label="RSS94">journals/tkde/RamakrishnanSS94</cite>
+<cite label="WA91">conf/pdis/WilschutA91</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/Haas99" mdate="2023-03-24">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>Techniques for Online Exploration of Large Object-Relational Datasets.</title>
+<pages>4-12</pages>
+<cdrom>DiSC2_1/out/papers/ssdbm/00460004.pdf</cdrom>
+<year>1999</year>
+<booktitle>SSDBM</booktitle>
+<crossref>conf/ssdbm/99</crossref>
+<url>db/conf/ssdbm/ssdbm99.html#Haas99</url>
+<cite>conf/sigmod/AcharyaGPR99a</cite>
+<cite>conf/icde/AikenCSW96</cite>
+<cite>...</cite>
+<cite>conf/sigmod/GibbonsM98</cite>
+<cite>conf/vldb/GibbonsMP97</cite>
+<cite>journals/csur/Graefe93</cite>
+<cite>journals/datamine/GrayCBLRVPP97</cite>
+<cite>conf/ssdbm/Haas97</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigmod/HaasH99</cite>
+<cite>journals/jcss/HaasNSS96</cite>
+<cite>conf/icde/HaasS95</cite>
+<cite>...</cite>
+<cite>conf/sigmod/HellersteinHW97</cite>
+<cite>conf/sigmod/Hidber99</cite>
+<cite>journals/tc/HoBA98</cite>
+<cite>...</cite>
+<cite>conf/vldb/JagadishKMPSS98</cite>
+<cite>conf/ssdbm/KornJJ99</cite>
+<cite>conf/sigmod/LivnyRBCDLMW97</cite>
+<cite>conf/sigmod/RajagopalanML98</cite>
+<cite>conf/sigmod/MankuRL99</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/icde/OlkenR93</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigmod/PoosalaIHS96</cite>
+<cite>conf/vldb/RamanRH99</cite>
+<cite>conf/sigmod/VitterW99</cite>
+<cite>conf/osdi/WaldspurgerW94</cite>
+<cite>...</cite>
+<cite>conf/icde/ZhaoRTN98</cite>
+<ee>https://doi.org/10.1109/SSDM.1999.787616</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SSDM.1999.787616</ee>
+</inproceedings>
+</r>
+<r><article key="journals/debu/BarbaraDFHHIJJNPRS97" mdate="2020-03-10">
+<author pid="b/DBarbara">Daniel Barbar&#225;</author>
+<author pid="41/2359">William DuMouchel</author>
+<author pid="f/CFaloutsos">Christos Faloutsos</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<author pid="j/TheodoreJohnson">Theodore Johnson</author>
+<author pid="n/RTNg">Raymond T. Ng</author>
+<author pid="p/VPoosala">Viswanath Poosala</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="s/KennethCSevcik">Kenneth C. Sevcik</author>
+<title>The New Jersey Data Reduction Report.</title>
+<pages>3-45</pages>
+<year>1997</year>
+<volume>20</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<cdrom>DEBU/97DEC-CD.PDF</cdrom>
+<url>db/journals/debu/debu20.html#BarbaraDFHHIJJNPRS97</url>
+<ee type="oa">http://sites.computer.org/debull/97DEC-CD.pdf</ee>
+<cite label="ACD+88">...</cite>
+<cite label="Agr90">...</cite>
+<cite label="Ant92">conf/vldb/Antoshenkov92</cite>
+<cite label="Ant93a">conf/icde/Antoshenkov93</cite>
+<cite label="Ant93b">journals/debu/Antoshenkov93</cite>
+<cite label="Aok97">conf/icde/Aoki98</cite>
+<cite label="Ben75">journals/cacm/Bentley75</cite>
+<cite label="Ber92">...</cite>
+<cite label="BFH75">...</cite>
+<cite label="Bir63">...</cite>
+<cite label="BKK96">conf/vldb/BerchtoldKK96</cite>
+<cite label="BKSS90">conf/sigmod/BeckmannKSS90</cite>
+<cite label="BM72">journals/acta/BayerM72</cite>
+<cite label="BS97">journals/sigmod/BarbaraS97</cite>
+<cite label="Cat92">...</cite>
+<cite label="Coc77">...</cite>
+<cite label="Com79">journals/csur/Comer79</cite>
+<cite label="CR94">conf/sigmod/ChenR94</cite>
+<cite label="Cra46">...</cite>
+<cite label="Cra94">...</cite>
+<cite label="Dau92">...</cite>
+<cite label="DC72">...</cite>
+<cite label="DH73">...</cite>
+<cite label="DNSS92">conf/vldb/DeWittNSS92</cite>
+<cite label="DS40">...</cite>
+<cite label="Dum94">conf/trec/Dumais94</cite>
+<cite label="EKX95">conf/ssd/EsterKX95</cite>
+<cite label="EKXS96">conf/kdd/EsterKSX96</cite>
+<cite label="EN82">journals/cj/ErnvallN82</cite>
+<cite label="Fal96">...</cite>
+<cite label="FD92">journals/cacm/FoltzD92</cite>
+<cite label="Fie93">...</cite>
+<cite label="FB74">journals/acta/FinkelB74</cite>
+<cite label="Fis87">journals/ml/Fisher87</cite>
+<cite label="FL95">conf/sigmod/FaloutsosL95</cite>
+<cite label="GG97">journals/csur/GaedeG98</cite>
+<cite label="GGMS96">conf/sigmod/GangulyGMS96</cite>
+<cite label="Gly82">...</cite>
+<cite label="GM96">...</cite>
+<cite label="GMP97">conf/vldb/GibbonsMP97</cite>
+<cite label="Gut84">conf/sigmod/Guttman84</cite>
+<cite label="Haa96">...</cite>
+<cite label="Haa97">conf/ssdbm/Haas97</cite>
+<cite label="HHW97">conf/sigmod/HellersteinHW97</cite>
+<cite label="HKP97">conf/pods/HellersteinKP97</cite>
+<cite label="HNP95">conf/vldb/HellersteinNP95</cite>
+<cite label="HNSS95">conf/vldb/HaasNSS95</cite>
+<cite label="HNSS96">journals/jcss/HaasNSS96</cite>
+<cite label="HOD91">conf/sigmod/HouOD91</cite>
+<cite label="Hoe48">...</cite>
+<cite label="Hoe63">...</cite>
+<cite label="HOT88">conf/pods/HouOT88</cite>
+<cite label="HOT89">conf/sigmod/HouOT89</cite>
+<cite label="HS92">conf/sigmod/HaasS92</cite>
+<cite label="HS95">conf/icde/HaasS95</cite>
+<cite label="HS96">...</cite>
+<cite label="IC93">journals/tods/IoannidisC93</cite>
+<cite label="Inf97">...</cite>
+<cite label="Ioa93">conf/vldb/Ioannidis93</cite>
+<cite label="IP95a">conf/sigmod/IoannidisP95</cite>
+<cite label="IP95b">journals/debu/IoannidisP95</cite>
+<cite label="Jag90">conf/sigmod/Jagadish90</cite>
+<cite label="JL96">conf/kdd/JohnL96</cite>
+<cite label="Jol86">...</cite>
+<cite label="KD80">...</cite>
+<cite label="KJF97">conf/sigmod/KornJF97</cite>
+<cite label="KM94">conf/pods/KivinenM94</cite>
+<cite label="Knu73">books/aw/Knuth73</cite>
+<cite label="Koo80">phd/Kooi80</cite>
+<cite label="KK69">...</cite>
+<cite label="KR90">...</cite>
+<cite label="Kuk93">...</cite>
+<cite label="LJF94">journals/vldb/LinJF94</cite>
+<cite label="LNS90">conf/sigmod/LiptonNS90</cite>
+<cite label="LNSS93">journals/tcs/LiptonNSS93</cite>
+<cite label="LRS93">conf/sigmod/LiRS93</cite>
+<cite label="LS90">journals/tods/LometS90</cite>
+<cite label="LSS97">...</cite>
+<cite label="Mal89">...</cite>
+<cite label="Mal91">...</cite>
+<cite label="MCS88">journals/csur/ManninoCS88</cite>
+<cite label="MD88">conf/sigmod/MuralikrishnaD88</cite>
+<cite label="NH94">conf/vldb/NgH94</cite>
+<cite label="NS90">conf/icdt/NaughtonS90</cite>
+<cite label="ODT+91">conf/dexa/OzsoyogluDTHR91</cite>
+<cite label="Olk93">...</cite>
+<cite label="OR86">conf/vldb/OlkenR86</cite>
+<cite label="OR89">conf/vldb/OlkenR89</cite>
+<cite label="OR92">conf/icde/OlkenR92</cite>
+<cite label="OR93">conf/icde/OlkenR93</cite>
+<cite label="ORX90">conf/sigmod/OlkenRX90</cite>
+<cite label="Pea88">...</cite>
+<cite label="PI96">conf/vldb/PoosalaI96</cite>
+<cite label="PI97">conf/vldb/PoosalaI97</cite>
+<cite label="PIHS96">conf/sigmod/PoosalaIHS96</cite>
+<cite label="Poo97">phd/Poosala97</cite>
+<cite label="PSC84">conf/sigmod/Piatetsky-ShapiroC84</cite>
+<cite label="PTVF96">...</cite>
+<cite label="RKM90">...</cite>
+<cite label="Rob81">conf/sigmod/Robinson81</cite>
+<cite label="SBM93">...</cite>
+<cite label="Sch81">journals/tods/Scholl81</cite>
+<cite label="SN92">conf/edbt/SeshadriN92</cite>
+<cite label="SRF87">conf/vldb/SellisRF87</cite>
+<cite label="SS88">...</cite>
+<cite label="SSW92">...</cite>
+<cite label="Str80">...</cite>
+<cite label="Sud76">...</cite>
+<cite label="TP91">...</cite>
+<cite label="VM">...</cite>
+<cite label="Wil91">journals/jacm/Willard91</cite>
+<cite label="WS93">...</cite>
+<cite label="WW85">...</cite>
+<cite label="WYM97">conf/vldb/WangYM97</cite>
+<cite label="You84">...</cite>
+<cite label="ZRL96">conf/sigmod/ZhangRL96</cite>
+</article>
+</r>
+<r><inproceedings key="conf/pnpm/Haas97" mdate="2023-03-24">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>Estimation methods for stochastic Petri nets based on standardized time series.</title>
+<pages>194-204</pages>
+<year>1997</year>
+<booktitle>PNPM</booktitle>
+<ee>https://doi.org/10.1109/PNPM.1997.595550</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PNPM.1997.595550</ee>
+<crossref>conf/pnpm/1997</crossref>
+<url>db/conf/pnpm/pnpm1997.html#Haas97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HellersteinHW97" mdate="2021-07-31">
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="w/HelenJWang">Helen J. Wang</author>
+<title>Online Aggregation.</title>
+<pages>171-182</pages>
+<year>1997</year>
+<crossref>conf/sigmod/97</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod97.html#HellersteinHW97</url>
+<ee>https://doi.org/10.1145/253260.253291</ee>
+<ee>https://doi.org/10.1145/253262.253291</ee>
+<ee>https://www.wikidata.org/entity/Q56571879</ee>
+<cdrom>SIGMOD97/P171.PDF</cdrom>
+<cite label="AAD+96">conf/vldb/AgarwalADGNRS96</cite>
+<cite label="ACSW96">conf/icde/AikenCSW96</cite>
+<cite label="AZ96">journals/vldb/AntoshenkovZ96</cite>
+<cite label="Bil86">...</cite>
+<cite label="BM96">conf/cikm/BayardoM96</cite>
+<cite label="Bra84">conf/vldb/Bratbergsengen84</cite>
+<cite label="CCS93">...</cite>
+<cite label="CGL83">...</cite>
+<cite label="CS96">conf/edbt/ChaudhuriS96</cite>
+<cite label="DKO+84">conf/sigmod/DeWittKOSSW84</cite>
+<cite label="GBLP96">conf/icde/GrayBLP96</cite>
+<cite label="GHQ95">conf/vldb/GuptaHQ95</cite>
+<cite label="Haa96a">...</cite>
+<cite label="Haa96b">...</cite>
+<cite label="HN96">conf/sigmod/HellersteinN96</cite>
+<cite label="HNSS96">...</cite>
+<cite label="HOD91">conf/sigmod/HouOD91</cite>
+<cite label="Hoe63">...</cite>
+<cite label="HOT88">conf/pods/HouOT88</cite>
+<cite label="HOT89">conf/sigmod/HouOT89</cite>
+<cite label="LNSS93">journals/tcs/LiptonNSS93</cite>
+<cite label="Mye85">...</cite>
+<cite label="Olk93">...</cite>
+<cite label="Pos95">...</cite>
+<cite label="SAC+79">conf/sigmod/SelingerACLP79</cite>
+<cite label="SHP+96">conf/sigmod/SeshadriHPLRSSS96</cite>
+<cite label="SPL96">conf/icde/SeshadriPL96</cite>
+<cite label="VU92">...</cite>
+<cite label="VL93">journals/tkde/VrbskyL93</cite>
+<cite label="WA91">conf/pdis/WilschutA91</cite>
+<cite label="YL95">conf/vldb/YanL95</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/Haas97" mdate="2023-03-24">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>Large-Sample and Deterministic Confidence Intervals for Online Aggregation.</title>
+<pages>51-63</pages>
+<cdrom>SSDBM97/P051.pdf</cdrom>
+<year>1997</year>
+<booktitle>SSDBM</booktitle>
+<url>db/conf/ssdbm/ssdbm97.html#Haas97</url>
+<crossref>conf/ssdbm/97</crossref>
+<cite>...</cite>
+<cite>...</cite>
+<cite>books/wi/Cochran77</cite>
+<cite>...</cite>
+<cite>journals/jcss/HaasNSS96</cite>
+<cite>...</cite>
+<cite>conf/sigmod/HellersteinHW97</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<ee>https://doi.org/10.1109/SSDM.1997.621151</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SSDM.1997.621151</ee>
+</inproceedings>
+</r>
+<r><article key="journals/deds/HaasS96" mdate="2020-06-08">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="87/6182">Gerald S. Shedler</author>
+<title>Estimation methods for passage times using one-dependent cycles.</title>
+<pages>43-72</pages>
+<year>1996</year>
+<volume>6</volume>
+<journal>Discret. Event Dyn. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/BF01796783</ee>
+<url>db/journals/deds/deds6.html#HaasS96</url>
+</article>
+</r>
+<r><article key="journals/jcss/HaasNSS96" mdate="2021-02-16">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<author pid="71/2538">S. Seshadri</author>
+<author pid="98/589">Arun N. Swami</author>
+<title>Selectivity and Cost Estimation for Joins Based on Random Sampling.</title>
+<pages>550-569</pages>
+<year>1996</year>
+<volume>52</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>3</number>
+<url>db/journals/jcss/jcss52.html#HaasNSS96</url>
+<ee type="oa">https://doi.org/10.1006/jcss.1996.0041</ee>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/PoosalaIHS96" mdate="2021-06-21">
+<author pid="p/VPoosala">Viswanath Poosala</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="03/6706">Eugene J. Shekita</author>
+<title>Improved Histograms for Selectivity Estimation of Range Predicates.</title>
+<pages>294-305</pages>
+<year>1996</year>
+<crossref>conf/sigmod/96</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod96.html#PoosalaIHS96</url>
+<ee>https://doi.org/10.1145/233269.233342</ee>
+<ee>https://doi.org/10.1145/235968.233342</ee>
+<ee>https://www.wikidata.org/entity/Q56571257</ee>
+<cdrom>SIGMOD96/P294.PDF</cdrom>
+<cite label="CR94">conf/sigmod/ChenR94</cite>
+<cite label="dB78">...</cite>
+<cite label="dB95">...</cite>
+<cite label="GS91">...</cite>
+<cite label="HNSS95">conf/vldb/HaasNSS95</cite>
+<cite label="Hoe63">...</cite>
+<cite label="HS95">conf/icde/HaasS95</cite>
+<cite label="IC91">conf/sigmod/IoannidisC91</cite>
+<cite label="IC93">journals/tods/IoannidisC93</cite>
+<cite label="IK90">conf/sigmod/IoannidisK90</cite>
+<cite label="Ioa93">conf/vldb/Ioannidis93</cite>
+<cite label="IP95">conf/sigmod/IoannidisP95</cite>
+<cite label="JC85">journals/cacm/JainC85</cite>
+<cite label="Kol41">...</cite>
+<cite label="Koo80">phd/Kooi80</cite>
+<cite label="LNS90">conf/sigmod/LiptonNS90</cite>
+<cite label="Mas51">...</cite>
+<cite label="MCS88">journals/csur/ManninoCS88</cite>
+<cite label="MD88">conf/sigmod/MuralikrishnaD88</cite>
+<cite label="PSC84">conf/sigmod/Piatetsky-ShapiroC84</cite>
+<cite label="Raa87">...</cite>
+<cite label="SAC+79">conf/sigmod/SelingerACLP79</cite>
+<cite label="SG88">conf/sigmod/SwamiG88</cite>
+<cite label="SLRD93">conf/sigmod/SuLRD93</cite>
+<cite label="Vit85">journals/toms/Vitter85</cite>
+<cite label="Zip49">books/aw/Zipf49</cite>
+</inproceedings>
+</r>
+<r><article key="journals/fgcs/LangPCRRNWLCJGH95" mdate="2022-01-04">
+<author pid="16/3873-2">Ulrich Lang 0002</author>
+<author pid="99/4592">J. P. Peltier</author>
+<author pid="30/3895">Paul Christ</author>
+<author pid="23/5281">Stefan Rill</author>
+<author pid="172/3613">Dirk Rantzau</author>
+<author pid="158/0309">Harald Nebel</author>
+<author pid="80/3893">Andreas Wierse</author>
+<author pid="60/3093">Ruth E. Lang</author>
+<author pid="65/1564">Sylvain Causse</author>
+<author pid="51/2850">Fr&#233;d&#233;ric Juaneda</author>
+<author pid="82/5990">Michel Grave</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<title>Perspectives of collaborative supercomputing and networking in European Aerospace research and industry.</title>
+<pages>419-430</pages>
+<year>1995</year>
+<volume>11</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<number>4-5</number>
+<ee>https://doi.org/10.1016/0167-739X(95)00011-G</ee>
+<url>db/journals/fgcs/fgcs11.html#LangPCRRNWLCJGH95</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/HaasS95" mdate="2023-03-24">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="98/589">Arun N. Swami</author>
+<title>Sampling-Based Selectivity Estimation for Joins Using Augmented Frequent Value Statistics.</title>
+<pages>522-531</pages>
+<cdrom>ICDE95/P522.pdf</cdrom>
+<year>1995</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde95.html#HaasS95</url>
+<crossref>conf/icde/95</crossref>
+<ee>https://doi.org/10.1109/ICDE.1995.380361</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.1995.380361</ee>
+<cite label="DNS92">conf/vldb/DeWittNSS92</cite>
+<cite label="Fel68">...</cite>
+<cite label="HNS94">conf/pods/HaasNS94</cite>
+<cite label="HN+93a">conf/pods/HaasNSS93</cite>
+<cite label="HN+93b">...</cite>
+<cite label="HS94">...</cite>
+<cite label="HOD91">conf/sigmod/HouOD91</cite>
+<cite label="IC93">journals/tods/IoannidisC93</cite>
+<cite label="KS94">journals/sigmod/KimballS95</cite>
+<cite label="Knu73">books/aw/Knuth73</cite>
+<cite label="LNS+93">journals/tcs/LiptonNSS93</cite>
+<cite label="SAC+79">conf/sigmod/SelingerACLP79</cite>
+<cite label="SS94">conf/edbt/SwamiS94</cite>
+<cite label="Van93">conf/pods/Gelder93</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pnpm/HaasS95" mdate="2023-03-24">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="87/6182">Gerald S. Shedler</author>
+<title>One-dependent cycles and passage times in stochastic Petri nets.</title>
+<pages>191-202</pages>
+<year>1995</year>
+<booktitle>PNPM</booktitle>
+<ee>https://doi.org/10.1109/PNPM.1995.524329</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PNPM.1995.524329</ee>
+<crossref>conf/pnpm/1995</crossref>
+<url>db/conf/pnpm/pnpm1995.html#HaasS95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/HaasNSS95" mdate="2017-03-29">
+<crossref>conf/vldb/95</crossref>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<author pid="71/2538">S. Seshadri</author>
+<author pid="21/3781">Lynne Stokes</author>
+<title>Sampling-Based Estimation of the Number of Distinct Values of an Attribute.</title>
+<pages>311-322</pages>
+<year>1995</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb95.html#HaasNSS95</url>
+<ee>http://www.vldb.org/conf/1995/P311.PDF</ee>
+<cite label="AS72">...</cite>
+<cite label="ASW87">journals/is/AstrahanSW87</cite>
+<cite label="BFi93">...</cite>
+<cite label="BO78">...</cite>
+<cite label="BO79">...</cite>
+<cite label="BFe93">journals/jasis/BurrellF93</cite>
+<cite label="Cha84">...</cite>
+<cite label="CL92">...</cite>
+<cite label="ET93">...</cite>
+<cite label="FM85">journals/jcss/FlajoletM85</cite>
+<cite label="GG82">journals/ipl/GelenbeG82</cite>
+<cite label="Goo49">...</cite>
+<cite label="HN+93">journals/jcss/HaasNSS96</cite>
+<cite label="HS94">conf/sigmod/HellersteinS93</cite>
+<cite label="HF83">...</cite>
+<cite label="HOT88">conf/pods/HouOT88</cite>
+<cite label="HOT89">conf/sigmod/HouOT89</cite>
+<cite label="LP56">...</cite>
+<cite label="NS90">conf/icdt/NaughtonS90</cite>
+<cite label="Olk93">...</cite>
+<cite label="ODT91">conf/dexa/OzsoyogluDTHR91</cite>
+<cite label="SSW92">...</cite>
+<cite label="SAC+79">conf/sigmod/SelingerACLP79</cite>
+<cite label="Shl81">...</cite>
+<cite label="Si86a">...</cite>
+<cite label="Si86b">...</cite>
+<cite label="Si92">journals/ipm/Sichel92</cite>
+<cite label="SvB84">...</cite>
+<cite label="WVT90">journals/tods/WhangVT90</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpcn/HaasC94" mdate="2017-05-20">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="30/3895">Paul Christ</author>
+<title>Networking Issues in PAGEIN: The "N" of "HPCN".</title>
+<pages>86-93</pages>
+<year>1994</year>
+<crossref>conf/hpcn/1994-2</crossref>
+<booktitle>HPCN</booktitle>
+<url>db/conf/hpcn/hpcn1994-2.html#HaasC94</url>
+<ee>https://doi.org/10.1007/3-540-57981-8_98</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/HaasNS94" mdate="2018-11-06">
+<crossref>conf/pods/94</crossref>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<author pid="98/589">Arun N. Swami</author>
+<title>On the Relative Cost of Sampling for Join Selectivity Estimation.</title>
+<pages>14-24</pages>
+<year>1994</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods94.html#HaasNS94</url>
+<ee>https://doi.org/10.1145/182591.182594</ee>
+<cite label="DNS92">conf/vldb/DeWittNSS92</cite>
+<cite label="HN+93a">conf/pods/HaasNSS93</cite>
+<cite label="HN+93b">...</cite>
+<cite label="HS92a">conf/sigmod/HaasS92</cite>
+<cite label="HS92b">...</cite>
+<cite label="HOT88">conf/pods/HouOT88</cite>
+<cite label="HOT89">conf/sigmod/HouOT89</cite>
+<cite label="HOD91">conf/sigmod/HouOD91</cite>
+<cite label="LN89">conf/vldb/LiptonN89</cite>
+<cite label="LN90">conf/pods/LiptonN90</cite>
+<cite label="LNS90">conf/sigmod/LiptonNS90</cite>
+<cite label="OR86">conf/vldb/OlkenR86</cite>
+<cite label="OR89">conf/vldb/OlkenR89</cite>
+<cite label="ORX90">conf/sigmod/OlkenRX90</cite>
+<cite label="Olk93">...</cite>
+<cite label="Ses92">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/HaasNSS93" mdate="2018-11-06">
+<crossref>conf/pods/93</crossref>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<author pid="71/2538">S. Seshadri</author>
+<author pid="98/589">Arun N. Swami</author>
+<title>Fixed-Precision Estimation of Join Selectivity.</title>
+<pages>190-201</pages>
+<year>1993</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods93.html#HaasNSS93</url>
+<ee>https://doi.org/10.1145/153850.153875</ee>
+<cdrom>journals/anthology/cd1-3:PODS93/P190.PDF</cdrom>
+<cdrom>journals/anthology/dvd1:text/1-3/PODS93/P190.PDF</cdrom>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/vldb/DeWittNSS92</cite>
+<cite>...</cite>
+<cite>conf/sigmod/HaasS92</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/pods/HouOT88</cite>
+<cite>conf/sigmod/HouOT89</cite>
+<cite>conf/sigmod/HouOD91</cite>
+<cite>conf/vldb/LiptonN89</cite>
+<cite>conf/pods/LiptonN90</cite>
+<cite>conf/sigmod/LiptonNS90</cite>
+<cite>...</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HaasS92" mdate="2021-06-21">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="98/589">Arun N. Swami</author>
+<title>Sequential Sampling Procedures for Query Size Estimation.</title>
+<pages>341-350</pages>
+<year>1992</year>
+<crossref>conf/sigmod/92</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod92.html#HaasS92</url>
+<ee>https://doi.org/10.1145/130283.130335</ee>
+<ee>https://doi.org/10.1145/141484.130335</ee>
+<cdrom>SIGMOD92/P341.PDF</cdrom>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/pods/HouOT88</cite>
+<cite>conf/sigmod/HouOT89</cite>
+<cite>conf/sigmod/HouOD91</cite>
+<cite>...</cite>
+<cite>journals/csur/JarkeK84</cite>
+<cite>books/aw/Knuth73</cite>
+<cite>...</cite>
+<cite>conf/vldb/LiptonN89</cite>
+<cite>conf/pods/LiptonN90</cite>
+<cite>conf/sigmod/LiptonNS90</cite>
+<cite>journals/csur/ManninoCS88</cite>
+<cite>...</cite>
+<cite>conf/vldb/OlkenR89</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/dpds/WolfDY90</cite>
+</inproceedings>
+</r>
+<r><article key="journals/tse/HaasS89" mdate="2017-05-17">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="87/6182">Gerald S. Shedler</author>
+<title>Stochastic Petri Net Representation of Discrete Event Simulations.</title>
+<pages>381-393</pages>
+<ee>https://doi.org/10.1109/32.16599</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/32.16599</ee>
+<year>1989</year>
+<volume>15</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>4</number>
+<url>db/journals/tse/tse15.html#HaasS89</url>
+</article>
+</r>
+<r><inproceedings key="conf/pnpm/HaasS87" mdate="2002-05-29">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="87/6182">Gerald S. Shedler</author>
+<title>Stochastic Petri Nets with Simultaneous Transition Firings.</title>
+<pages>24-33</pages>
+<year>1987</year>
+<crossref>conf/pnpm/1987</crossref>
+<booktitle>PNPM</booktitle>
+<url>db/conf/pnpm/pnpm1987.html#HaasS87</url>
+</inproceedings>
+</r>
+<r><article key="journals/pe/HaasS86" mdate="2020-02-22">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="87/6182">Gerald S. Shedler</author>
+<title>Regenerative Stochastic Petri Nets.</title>
+<pages>189-204</pages>
+<year>1986</year>
+<volume>6</volume>
+<journal>Perform. Evaluation</journal>
+<number>3</number>
+<url>db/journals/pe/pe6.html#HaasS86</url>
+<ee>https://doi.org/10.1016/0166-5316(86)90017-9</ee>
+</article>
+</r>
+<r><article key="journals/ibmrd/HaasS85" mdate="2020-03-13">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="87/6182">Gerald S. Shedler</author>
+<title>Regenerative Simulation Methods for Local Area Computer Networks.</title>
+<pages>194-205</pages>
+<year>1985</year>
+<volume>29</volume>
+<journal>IBM J. Res. Dev.</journal>
+<number>2</number>
+<url>db/journals/ibmrd/ibmrd29.html#HaasS85</url>
+<ee>https://doi.org/10.1147/rd.292.0194</ee>
+</article>
+</r>
+<r><inproceedings key="conf/pnpm/HaasS85" mdate="2002-05-29">
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="87/6182">Gerald S. Shedler</author>
+<title>Regenerative Simulation of Stochastic Petri Nets.</title>
+<pages>14-21</pages>
+<year>1985</year>
+<crossref>conf/pnpm/1985</crossref>
+<booktitle>PNPM</booktitle>
+<url>db/conf/pnpm/pnpm1985.html#HaasS85</url>
+</inproceedings>
+</r>
+<coauthors n="235" nc="4">
+<co c="0"><na f="a/Aboulnaga:Ashraf" pid="01/3996">Ashraf Aboulnaga</na></co>
+<co c="0" n="2"><na f="a/Abouzeid:Azza" pid="57/7259">Azza Abouzeid</na><na>Azza Abouzied</na></co>
+<co c="0"><na f="a/Adikesavan:Anbu_K=" pid="166/5175">Anbu K. Adikesavan</na></co>
+<co c="0"><na f="a/Agrawal_0001:Rakesh" pid="a/RAgrawal">Rakesh Agrawal 0001</na></co>
+<co c="0"><na f="a/Amaranath:Pracheta" pid="329/6045">Pracheta Amaranath</na></co>
+<co c="0"><na f="a/Arroyo:Ivon" pid="10/1462">Ivon Arroyo</na></co>
+<co c="0" n="2"><na f="a/Arumugam_0002:Subramanian" pid="99/3704">Subramanian Arumugam 0002</na><na>Subi Arumugam</na></co>
+<co c="0"><na f="a/Avnur:Ron" pid="17/6696">Ron Avnur</na></co>
+<co c="0"><na f="b/Bachman:Benjamin_J=" pid="117/4204">Benjamin J. Bachman</na></co>
+<co c="0"><na f="b/Balmin:Andrey" pid="44/4147">Andrey Balmin</na></co>
+<co c="0"><na f="b/Bao:Shenghua" pid="31/529">Shenghua Bao</na></co>
+<co c="0"><na f="b/Barbar=aacute=:Daniel" pid="b/DBarbara">Daniel Barbar&#225;</na></co>
+<co c="0"><na f="b/Barberis:Nicole_C=" pid="134/9676">Nicole C. Barberis</na></co>
+<co c="0"><na f="b/Behm:Alexander" pid="88/573">Alexander Behm</na></co>
+<co c="0"><na f="b/Beyer:Kevin_S=" pid="b/KevinSBeyer">Kevin S. Beyer</na></co>
+<co c="0"><na f="b/Bhatia:Sumit" pid="52/7536">Sumit Bhatia</na></co>
+<co c="0"><na f="b/Bigus:Joseph_P=" pid="23/4351">Joseph P. Bigus</na></co>
+<co c="0"><na f="b/Boehm_0001:Matthias" pid="75/887">Matthias Boehm 0001</na></co>
+<co c="0"><na f="b/Boyer:Stephen" pid="46/5449">Stephen Boyer</na></co>
+<co c="0"><na f="b/Br=ouml=nnimann:Herv=eacute=" pid="34/1193">Herv&#233; Br&#246;nnimann</na></co>
+<co c="0"><na f="b/Brown:Paul" pid="04/5664">Paul Brown</na></co>
+<co c="0"><na f="b/Brown:Paul_G=" pid="41/6335">Paul G. Brown</na></co>
+<co c="0"><na f="b/Brucato:Matteo" pid="140/3184">Matteo Brucato</na></co>
+<co c="0"><na f="b/Buchovecky:Christie_M=" pid="166/5127">Christie M. Buchovecky</na></co>
+<co c="0"><na f="c/Cai:Zhuhua" pid="82/1037">Zhuhua Cai</na></co>
+<co c="0"><na f="c/Campbell:Murray" pid="72/3339">Murray Campbell</na></co>
+<co c="0"><na f="c/Carmeli:Boaz" pid="68/2688">Boaz Carmeli</na></co>
+<co c="0" n="2"><na f="c/Castro:Francisco_Enrique_Vicente" pid="152/4900">Francisco Enrique Vicente Castro</na><na>Francisco Castro 0001</na></co>
+<co c="1"><na f="c/Causse:Sylvain" pid="65/1564">Sylvain Causse</na></co>
+<co c="0"><na f="c/Cefkin:Melissa" pid="47/6544">Melissa Cefkin</na></co>
+<co c="3"><na f="c/Cen:Wang" pid="254/3548">Wang Cen</na></co>
+<co c="0"><na f="c/Chang:Henry" pid="01/5944">Henry Chang</na></co>
+<co c="0"><na f="c/Chen:Bin" pid="22/5523">Bin Chen</na></co>
+<co c="0"><na f="c/Chen_0001:Ying" pid="21/5521-1">Ying Chen 0001</na></co>
+<co c="0"><na f="c/Chen=Ritzo:Ching=Hua" pid="29/5159">Ching-Hua Chen-Ritzo</na></co>
+<co c="2"><na f="c/Cheng:Russell_C=_H=" pid="35/3952">Russell C. H. Cheng</na></co>
+<co c="0"><na f="c/Chou:Andy" pid="53/3446">Andy Chou</na></co>
+<co c="1"><na f="c/Christ:Paul" pid="30/3895">Paul Christ</na></co>
+<co c="0"><na f="c/Chung:Yeounoh" pid="132/1869">Yeounoh Chung</na></co>
+<co c="0"><na f="c/Cody:William_F=" pid="40/3598">William F. Cody</na></co>
+<co c="0"><na f="c/Comer:Austin" pid="151/3119">Austin Comer</na></co>
+<co c="0"><na f="c/Conboy:Heather_M=" pid="65/9203">Heather M. Conboy</na></co>
+<co c="0"><na f="c/Cormode:Graham" pid="c/GrahamCormode">Graham Cormode</na></co>
+<co c="0"><na f="d/Das:Sudipto" pid="71/5974">Sudipto Das</na></co>
+<co c="0"><na f="d/Dash:Manoranjan" pid="32/723">Manoranjan Dash</na></co>
+<co c="0"><na f="d/Dayaram:Tajhal" pid="151/3261">Tajhal Dayaram</na></co>
+<co c="0"><na f="d/Demiralp:=Ccedil=agatay" pid="74/20">&#199;agatay Demiralp</na></co>
+<co c="0"><na f="d/Deshpande:Amol" pid="d/AmolDeshpande">Amol Deshpande</na></co>
+<co c="0"><na f="d/Donehower:Lawrence_A=" pid="145/5249">Lawrence A. Donehower</na></co>
+<co c="0"><na f="d/DuMouchel:William" pid="41/2359">William DuMouchel</na></co>
+<co c="0"><na f="e/Ebadollahi:Shahram" pid="53/2744">Shahram Ebadollahi</na></co>
+<co c="0"><na f="e/Elgohary:Ahmed" pid="03/8978">Ahmed Elgohary</na></co>
+<co c="0"><na f="e/Ellmann:Curt_J=" pid="76/4153">Curt J. Ellmann</na></co>
+<co c="0"><na f="e/Eltabakh:Mohamed_Y=" pid="49/6395">Mohamed Y. Eltabakh</na></co>
+<co c="0"><na f="e/Ercegovac:Vuk" pid="58/4208">Vuk Ercegovac</na></co>
+<co c="0"><na f="e/Evfimievski:Alexandre_V=" pid="e/AlexandreVEvfimievski">Alexandre V. Evfimievski</na></co>
+<co c="0"><na f="f/Faloutsos:Christos" pid="f/CFaloutsos">Christos Faloutsos</na></co>
+<co c="0"><na f="f/Fariha:Anna" pid="29/11192">Anna Fariha</na></co>
+<co c="0"><na f="f/Farkash:Ariel" pid="95/7406">Ariel Farkash</na></co>
+<co c="0"><na f="f/Fuxman:Ariel" pid="90/1367">Ariel Fuxman</na></co>
+<co c="0"><na f="g/Gale:James" pid="279/9957">James Gale</na></co>
+<co c="0"><na f="g/Garofalakis:Minos_N=" pid="g/MinosNGarofalakis">Minos N. Garofalakis</na></co>
+<co c="0"><na f="g/Gathani:Sneha" pid="264/7385">Sneha Gathani</na></co>
+<co c="0"><na f="g/Gemulla:Rainer" pid="32/5357">Rainer Gemulla</na></co>
+<co c="0"><na f="g/Glissmann:Susanne" pid="57/941">Susanne Glissmann</na></co>
+<co c="2"><na f="g/Glynn:Peter_W=" pid="g/PeterWGlynn">Peter W. Glynn</na></co>
+<co c="0"><na f="g/Gotz:David" pid="13/6295">David Gotz</na></co>
+<co c="0"><na f="g/Grandison:Tyrone" pid="g/TyroneGrandison">Tyrone Grandison</na></co>
+<co c="1"><na f="g/Grave:Michel" pid="82/5990">Michel Grave</na></co>
+<co c="0"><na f="g/Gruhl:Daniel" pid="35/2529">Daniel Gruhl</na></co>
+<co c="0"><na f="h/Hellerstein:Joseph_M=" pid="h/JosephMHellerstein">Joseph M. Hellerstein</na></co>
+<co c="2"><na f="h/Henderson:Shane_G=" pid="14/5682">Shane G. Henderson</na></co>
+<co c="0"><na f="h/Hentschel:Brian" pid="213/7863">Brian Hentschel</na></co>
+<co c="3"><na f="h/Herbert:Emily_A=" pid="254/3522">Emily A. Herbert</na></co>
+<co c="0"><na f="h/Hidber:Christian" pid="78/3835">Christian Hidber</na></co>
+<co c="0"><na f="h/Hsiao:Mark_J=_H=" pid="80/10492">Mark J. H. Hsiao</na></co>
+<co c="0"><na f="h/Hsueh:Pei=Yun_Sabrina" pid="68/10492">Pei-Yun Sabrina Hsueh</na></co>
+<co c="0"><na f="h/Hu:Jianying" pid="06/259">Jianying Hu</na></co>
+<co c="0"><na f="h/Hueske:Fabian" pid="55/6773">Fabian Hueske</na></co>
+<co c="0"><na f="h/Hulsebos:Madelon" pid="226/5745">Madelon Hulsebos</na></co>
+<co c="0"><na f="i/Ilyas:Ihab_F=" pid="i/IhabFIlyas">Ihab F. Ilyas</na></co>
+<co c="0"><na f="i/Ioannidis:Yannis_E=" pid="i/YEIoannidis">Yannis E. Ioannidis</na></co>
+<co c="0"><na f="j/Jagadish:H=_V=" pid="j/HVJagadish">H. V. Jagadish</na></co>
+<co c="0"><na f="j/Jampani:Ravi" pid="04/4806">Ravi Jampani</na></co>
+<co c="0"><na f="j/Jasinski:Joseph_M=" pid="63/884">Joseph M. Jasinski</na></co>
+<co c="0"><na f="j/Jensen:David_D=" pid="38/828">David D. Jensen</na></co>
+<co c="0" n="2"><na f="j/Jermaine:Chris" pid="j/ChrisJermaine">Chris Jermaine</na><na>Christopher M. Jermaine</na></co>
+<co c="0"><na f="j/Johnson:Theodore" pid="j/TheodoreJohnson">Theodore Johnson</na></co>
+<co c="0"><na f="j/Josifovski:Vanja" pid="67/3556">Vanja Josifovski</na></co>
+<co c="1"><na f="j/Juaneda:Fr=eacute=d=eacute=ric" pid="51/2850">Fr&#233;d&#233;ric Juaneda</na></co>
+<co c="0"><na f="k/Kandil:Mokhtar" pid="49/5973">Mokhtar Kandil</na></co>
+<co c="0"><na f="k/Kato:Linda" pid="91/770">Linda Kato</na></co>
+<co c="0"><na f="k/Kaufman:James_H=" pid="90/4949">James H. Kaufman</na></co>
+<co c="0"><na f="k/Keijzer:Ander_de" pid="k/AnderdeKeijzer">Ander de Keijzer</na></co>
+<co c="0"><na f="k/Keulen:Maurice_van" pid="k/MauricevanKeulen">Maurice van Keulen</na></co>
+<co c="0"><na f="k/Kieliszewski:Cheryl_A=" pid="05/2613">Cheryl A. Kieliszewski</na></co>
+<co c="0"><na f="k/Kiernan:Jerry" pid="k/JerryKiernan">Jerry Kiernan</na></co>
+<co c="0"><na f="k/Knoop:Sarah_E=" pid="08/4685">Sarah E. Knoop</na></co>
+<co c="0"><na f="k/Koch_0001:Christoph" pid="k/ChristophKoch">Christoph Koch 0001</na></co>
+<co c="-1"><na f="k/Koenig:Christian" pid="57/2391">Christian Koenig</na></co>
+<co c="0"><na f="k/Kohn:Martin_S=" pid="55/8429">Martin S. Kohn</na></co>
+<co c="0"><na f="k/Kraska:Tim" pid="26/6037">Tim Kraska</na></co>
+<co c="0"><na f="k/Krishnamurthy:Rajasekar" pid="51/6067">Rajasekar Krishnamurthy</na></co>
+<co c="0"><na f="k/Kutsch:Marcel" pid="23/5248">Marcel Kutsch</na></co>
+<co c="0"><na f="k/Kwon:Bum_Chul" pid="73/1969">Bum Chul Kwon</na></co>
+<co c="0"><na f="l/Labrie:Jacques_J=" pid="151/3231">Jacques J. Labrie</na></co>
+<co c="1"><na f="l/Lang:Ruth_E=" pid="60/3093">Ruth E. Lang</na></co>
+<co c="1"><na f="l/Lang_0002:Ulrich" pid="16/3873-2">Ulrich Lang 0002</na></co>
+<co c="2"><na f="l/L=Ecuyer:Pierre" pid="86/984">Pierre L'Ecuyer</na></co>
+<co c="0"><na f="l/Lehner:Wolfgang" pid="l/WLehner">Wolfgang Lehner</na></co>
+<co c="0"><na f="l/Lelescu:Ana" pid="65/6295">Ana Lelescu</na></co>
+<co c="0"><na f="l/Lenz:Hans=Joachim" pid="l/HJLenz">Hans-Joachim Lenz</na></co>
+<co c="0"><na f="l/Lerner:Alberto" pid="l/AlbertoLerner">Alberto Lerner</na></co>
+<co c="0"><na f="l/Li:Yinan" pid="49/612">Yinan Li</na></co>
+<co c="0"><na f="l/Lichtarge:Olivier" pid="38/5190">Olivier Lichtarge</na></co>
+<co c="0"><na f="l/Lightstone:Sam" pid="31/3001">Sam Lightstone</na></co>
+<co c="0"><na f="l/Lisewski:Andreas_Martin" pid="74/1446">Andreas Martin Lisewski</na></co>
+<co c="0"><na f="l/Liu:Zhicheng" pid="53/1020">Zhicheng Liu</na></co>
+<co c="0"><na f="l/Lohman:Guy_M=" pid="21/2457">Guy M. Lohman</na></co>
+<co c="0"><na f="l/Luo_0001:Gang" pid="22/793">Gang Luo 0001</na></co>
+<co c="0"><na f="m/Maglio:Paul_P=" pid="94/226">Paul P. Maglio</na></co>
+<co c="0"><na f="m/Mai:Anh_L=" pid="352/2686">Anh L. Mai</na></co>
+<co c="0"><na f="m/Mak:Ronald_L=" pid="82/10496">Ronald L. Mak</na></co>
+<co c="0"><na f="m/Makari:Faraz" pid="124/7131">Faraz Makari</na></co>
+<co c="0"><na f="m/Mannino:Miro" pid="217/9224">Miro Mannino</na></co>
+<co c="0"><na f="m/Markl:Volker" pid="m/VMarkl">Volker Markl</na></co>
+<co c="0"><na f="m/McPherson:John" pid="02/5355">John McPherson</na></co>
+<co c="0"><na f="m/Megiddo:Nimrod" pid="m/NimrodMegiddo">Nimrod Megiddo</na></co>
+<co c="0"><na f="m/Meliou:Alexandra" pid="04/1835">Alexandra Meliou</na></co>
+<co c="0"><na f="m/Michelakis:Eirinaios" pid="64/5404">Eirinaios Michelakis</na></co>
+<co c="0"><na f="m/Murthy:Keshava" pid="37/276">Keshava Murthy</na></co>
+<co c="0"><na f="m/Myers:Jeffrey_N=" pid="151/3288">Jeffrey N. Myers</na></co>
+<co c="0"><na f="m/Myllymaki:Jussi" pid="m/JussiMyllymaki">Jussi Myllymaki</na></co>
+<co c="0" n="2"><na f="n/Nagarajan:Meena" pid="19/3517">Meena Nagarajan</na><na>Meenakshi Nagarajan</na></co>
+<co c="0"><na f="n/Naughton:Jeffrey_F=" pid="n/JeffreyFNaughton">Jeffrey F. Naughton</na></co>
+<co c="1"><na f="n/Nebel:Harald" pid="158/0309">Harald Nebel</na></co>
+<co c="0"><na f="n/Nelken:Haim" pid="53/2140">Haim Nelken</na></co>
+<co c="0"><na f="n/Neti:Chalapathy" pid="62/2192">Chalapathy Neti</na></co>
+<co c="0"><na f="n/Neumann_0001:Thomas" pid="n/ThomasNeumann">Thomas Neumann 0001</na></co>
+<co c="0"><na f="n/Neuvirth:Hani" pid="50/3044">Hani Neuvirth</na></co>
+<co c="0"><na f="n/Ng:Raymond_T=" pid="n/RTNg">Raymond T. Ng</na></co>
+<co c="0"><na f="n/Nijkamp:Erik" pid="65/2422">Erik Nijkamp</na></co>
+<co c="0"><na f="n/Novikov:Ilya_B=" pid="166/5177">Ilya B. Novikov</na></co>
+<co c="0" n="2"><na f="o/Olston:Christopher" pid="o/ChristopherOlston">Christopher Olston</na><na>Chris Olston</na></co>
+<co c="0"><na f="o/Olteanu:Dan" pid="o/DanOlteanu">Dan Olteanu</na></co>
+<co c="0"><na f="o/Osterweil:Leon_J=" pid="o/LJOsterweil">Leon J. Osterweil</na></co>
+<co c="0"><na f="=/=Ouml=zcan:Fatma" pid="o/FatmaOzcan">Fatma &#214;zcan</na></co>
+<co c="0"><na f="p/Pan:Jeff_Z=" pid="59/6490">Jeff Z. Pan</na></co>
+<co c="0"><na f="p/Pan:Yue" pid="91/3754">Yue Pan</na></co>
+<co c="0"><na f="p/Pansare:Niketan" pid="13/8165">Niketan Pansare</na></co>
+<co c="0"><na f="p/Parikh:Neha" pid="151/3192">Neha Parikh</na></co>
+<co c="0"><na f="p/Parthasarathy_0002:Srinivasan" pid="p/SParthasarathy2">Srinivasan Parthasarathy 0002</na></co>
+<co c="0"><na f="p/Pedapati:Tejaswini" pid="203/8811">Tejaswini Pedapati</na></co>
+<co c="1"><na f="p/Peltier:J=_P=" pid="99/4592">J. P. Peltier</na></co>
+<co c="0"><na f="p/Peng:Liping" pid="15/902">Liping Peng</na></co>
+<co c="0"><na f="p/Peres:Yardena" pid="86/644">Yardena Peres</na></co>
+<co c="0"><na f="p/Perez:Luis_Leopoldo" pid="52/584">Luis Leopoldo Perez</na></co>
+<co c="0"><na f="p/Phoungphol:Piyaphol" pid="68/387">Piyaphol Phoungphol</na></co>
+<co c="0"><na f="p/Pickering:Curtis_R=" pid="151/3178">Curtis R. Pickering</na></co>
+<co c="0"><na f="p/Pirahesh:Hamid" pid="p/HamidPirahesh">Hamid Pirahesh</na></co>
+<co c="0"><na f="p/Poosala:Viswanath" pid="p/VPoosala">Viswanath Poosala</na></co>
+<co c="0"><na f="p/Popivanov:Ivan" pid="01/734">Ivan Popivanov</na></co>
+<co c="0"><na f="q/Qiao:Lin" pid="q/LinQiao">Lin Qiao</na></co>
+<co c="0"><na f="r/Raipura:Sahitya" pid="341/6074">Sahitya Raipura</na></co>
+<co c="0"><na f="r/Rajput:Nitendra" pid="15/5180">Nitendra Rajput</na></co>
+<co c="0"><na f="r/Ramakrishnan:Sreeram" pid="98/1350">Sreeram Ramakrishnan</na></co>
+<co c="0"><na f="r/Raman:Vijayshankar" pid="r/VijayshankarRaman">Vijayshankar Raman</na></co>
+<co c="1"><na f="r/Rantzau:Dirk" pid="172/3613">Dirk Rantzau</na></co>
+<co c="0"><na f="r/Rao:Jun" pid="r/JunRao">Jun Rao</na></co>
+<co c="0"><na f="r/R=eacute=:Christopher" pid="r/ChristopherRe">Christopher R&#233;</na></co>
+<co c="0"><na f="r/Regenbogen:Sam" pid="151/3226">Sam Regenbogen</na></co>
+<co c="0"><na f="r/Reinwald:Berthold" pid="76/3381">Berthold Reinwald</na></co>
+<co c="0" n="2"><na f="r/Reiss_0001:Frederick" pid="95/459">Frederick Reiss 0001</na><na>Frederick R. Reiss</na></co>
+<co c="0"><na f="r/Renly:Sondra_R=" pid="17/5572">Sondra R. Renly</na></co>
+<co c="1"><na f="r/Rill:Stefan" pid="23/5281">Stefan Rill</na></co>
+<co c="2"><na f="r/Robinson_0001:Stewart" pid="90/3663">Stewart Robinson 0001</na></co>
+<co c="2"><na f="r/Roeder:Theresa_M=" pid="13/4641">Theresa M. Roeder</na></co>
+<co c="0"><na f="r/Rosen=Zvi:Michal" pid="19/6540">Michal Rosen-Zvi</na></co>
+<co c="0"><na f="r/Ross:Kenneth_A=" pid="r/KARoss">Kenneth A. Ross</na></co>
+<co c="0"><na f="r/Roth:Tali" pid="32/5664">Tali Roth</na></co>
+<co c="0"><na f="s/Sarma:Anish_Das" pid="59/589">Anish Das Sarma</na></co>
+<co c="0"><na f="s/Scheuermann:Peter" pid="s/PeterScheuermann">Peter Scheuermann</na></co>
+<co c="2" n="2"><na f="s/Schruben:Lee_W=" pid="s/LeeWSchruben">Lee W. Schruben</na><na>Lee Schruben</na></co>
+<co c="0" n="2"><na f="s/Selinger:Patricia_G=" pid="48/1954">Patricia G. Selinger</na><na>Pat Selinger</na></co>
+<co c="0"><na f="s/Seshadri:S=" pid="71/2538">S. Seshadri</na></co>
+<co c="0"><na f="s/Sevcik:Kenneth_C=" pid="s/KennethCSevcik">Kenneth C. Sevcik</na></co>
+<co c="0"><na f="s/Shabo:Amnon" pid="31/5224">Amnon Shabo</na></co>
+<co c="-1"><na f="s/Shedler:Gerald_S=" pid="87/6182">Gerald S. Shedler</na></co>
+<co c="0"><na f="s/Shekita:Eugene_J=" pid="03/6706">Eugene J. Shekita</na></co>
+<co c="0"><na f="s/Sismanis:Yannis" pid="65/5468">Yannis Sismanis</na></co>
+<co c="0"><na f="s/Sommer:Johanna" pid="243/2320">Johanna Sommer</na></co>
+<co c="0"><na f="s/Sorrentino:Robert" pid="38/8429">Robert Sorrentino</na></co>
+<co c="0"><na f="s/Spangler:W=_Scott" pid="24/3865">W. Scott Spangler</na></co>
+<co c="0"><na f="s/Srivastava:Utkarsh" pid="46/2539">Utkarsh Srivastava</na></co>
+<co c="0"><na f="s/Stanoi:Ioana" pid="s/IoanaStanoi">Ioana Stanoi</na></co>
+<co c="0"><na f="s/Stokes:Lynne" pid="21/3781">Lynne Stokes</na></co>
+<co c="0"><na f="s/Storm:Adam_J=" pid="16/5412">Adam J. Storm</na></co>
+<co c="0"><na f="s/Suciu:Dan" pid="s/DanSuciu">Dan Suciu</na></co>
+<co c="0"><na f="s/Sun_0001:Jimeng" pid="54/4948">Jimeng Sun 0001</na></co>
+<co c="0"><na f="s/Surendra:Maheswaran" pid="49/889">Maheswaran Surendra</na></co>
+<co c="0"><na f="s/Swami:Arun_N=" pid="98/589">Arun N. Swami</na></co>
+<co c="0" n="2"><na f="s/Syeda=Mahmood:Tanveer_F=" pid="11/5386">Tanveer F. Syeda-Mahmood</na><na>Tanveer Fathima Syeda-Mahmood</na></co>
+<co c="0" n="2"><na f="t/Tan:Wang_Chiew" pid="t/WangChiewTan">Wang Chiew Tan</na><na>Wang-Chiew Tan</na></co>
+<co c="0"><na f="t/Tao:Ying_Y=_Y=" pid="93/10496">Ying Y. Y. Tao</na></co>
+<co c="0"><na f="t/Teflioudi:Christina" pid="124/7240">Christina Teflioudi</na></co>
+<co c="0"><na f="t/Terrizzano:Ignacio_G=" pid="134/9731">Ignacio G. Terrizzano</na></co>
+<co c="0"><na f="t/Terr=oacute=n=D=iacute=az:Mar=iacute=a_E=" pid="166/5138">Mar&#237;a E. Terr&#243;n-D&#237;az</na></co>
+<co c="0"><na f="t/Theobald:Martin" pid="t/MartinTheobald">Martin Theobald</na></co>
+<co c="-1"><na f="t/Theodoropoulos_0001:Georgios" pid="51/7514-1">Georgios Theodoropoulos 0001</na></co>
+<co c="0"><na f="t/Tian:Yuanyuan" pid="27/3375">Yuanyuan Tian</na></co>
+<co c="0"><na f="t/Tran:Tam_Minh" pid="86/4362">Tam Minh Tran</na></co>
+<co c="0"><na f="u/Upfal:Eli" pid="u/EliUpfal">Eli Upfal</na></co>
+<co c="0"><na f="v/Vagena:Zografoula" pid="37/3290">Zografoula Vagena</na></co>
+<co c="0"><na f="v/Vaithyanathan:Shivakumar" pid="81/6125">Shivakumar Vaithyanathan</na></co>
+<co c="0"><na f="v/Vassalos:Vasilis" pid="v/VVassalos">Vasilis Vassalos</na></co>
+<co c="0"><na f="v/Verma:Janu" pid="193/9577">Janu Verma</na></co>
+<co c="0"><na f="v/Vondr=aacute=k:Jan" pid="29/5942">Jan Vondr&#225;k</na></co>
+<co c="0"><na f="w/Wang:Helen_J=" pid="w/HelenJWang">Helen J. Wang</na></co>
+<co c="0"><na f="w/Wang:Ling" pid="45/6607">Ling Wang</na></co>
+<co c="0"><na f="w/Wang:Pengyu" pid="14/3832">Pengyu Wang</na></co>
+<co c="0"><na f="w/Weber:Griff" pid="166/5288">Griff Weber</na></co>
+<co c="1"><na f="w/Wierse:Andreas" pid="80/3893">Andreas Wierse</na></co>
+<co c="0"><na f="w/Wilkins:Angela_D=" pid="123/5907">Angela D. Wilkins</na></co>
+<co c="0"><na f="w/Witty:Sam" pid="232/2073">Sam Witty</na></co>
+<co c="0"><na f="w/Wu:Mingxi" pid="w/MingxiWu">Mingxi Wu</na></co>
+<co c="0"><na f="x/Xie:Wenlei" pid="70/8577">Wenlei Xie</na></co>
+<co c="0"><na f="x/Xu:Fei" pid="42/5065">Fei Xu</na></co>
+<co c="0"><na f="y/Yadav:Nishant" pid="230/4155">Nishant Yadav</na></co>
+<co c="0"><na f="y/Yaesoubi:Reza" pid="19/6977">Reza Yaesoubi</na></co>
+<co c="0"><na f="z/Zeng_0002:Kai" pid="80/1651-2">Kai Zeng 0002</na></co>
+<co c="0"><na f="z/Zhang:Chun" pid="77/2866">Chun Zhang</na></co>
+<co c="0"><na f="z/Zhang:Houyin" pid="166/5148">Houyin Zhang</na></co>
+<co c="0"><na f="z/Zhang_0002:Ning" pid="z/NingZhang0002">Ning Zhang 0002</na></co>
+<co c="0"><na f="z/Zhu:Xinxin" pid="64/2096">Xinxin Zhu</na></co>
+<co c="0"><na f="z/Zilio:Daniel_C=" pid="60/6783">Daniel C. Zilio</na></co>
+</coauthors>
+</dblpperson>

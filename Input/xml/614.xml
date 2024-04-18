@@ -1,0 +1,647 @@
+<dblpperson name="Nikos Ntarmos" pid="n/NikosNtarmos" n="42">
+<person key="homepages/n/NikosNtarmos" mdate="2019-01-10">
+<author pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<note type="affiliation">University of Glasgow, UK</note>
+<note type="affiliation">University of Patras, Greece</note>
+<url>http://www.gla.ac.uk/schools/computing/staff/nikosntarmos/</url>
+<url>https://twitter.com/ntarmos</url>
+<url>https://orcid.org/0000-0001-8676-0948</url>
+</person>
+<r><article key="journals/pvldb/LiZNCB23" mdate="2023-10-28">
+<author pid="23/6950">Jia Li</author>
+<author pid="325/9440">Wenyue Zhao</author>
+<author pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author orcid="0000-0001-7984-3219" pid="25/7045-12">Yang Cao 0012</author>
+<author pid="b/PeterBuneman">Peter Buneman</author>
+<title>MITra: A Framework for Multi-Instance Graph Traversal.</title>
+<pages>2551-2564</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p2551-cao.pdf</ee>
+<ee>https://doi.org/10.14778/3603581.3603594</ee>
+<url>db/journals/pvldb/pvldb16.html#LiZNCB23</url>
+</article>
+</r>
+<r><article key="journals/toit/PaunMN23" mdate="2023-07-21">
+<author orcid="0000-0002-3780-0429" pid="274/7633">Iulia Paun</author>
+<author orcid="0000-0003-4186-1088" pid="87/6501">Yashar Moshfeghi</author>
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<title>White Box: On the Prediction of Collaborative Filtering Recommendation Systems' Performance.</title>
+<pages>8:1-8:29</pages>
+<year>2023</year>
+<volume>23</volume>
+<journal>ACM Trans. Internet Techn.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3554979</ee>
+<url>db/journals/toit/toit23.html#PaunMN23</url>
+</article>
+</r>
+<r><inproceedings key="conf/lwmoocs/AlAnqoudiAMNPM23" mdate="2023-11-18">
+<author pid="324/0556">Maha Al-Anqoudi</author>
+<author pid="146/1950">Mireilla Bikanga Ada</author>
+<author pid="168/4511">Stephen McQuistin</author>
+<author pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="224/2410">Jack Parkinson</author>
+<author pid="87/6501">Yashar Moshfeghi</author>
+<title>Traditional Vs Non-Traditional Assessment Activities as Learning Indicators of Student Learning: Teachers' Perceptions.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>LWMOOCS</booktitle>
+<ee>https://doi.org/10.1109/LWMOOCS58322.2023.10305928</ee>
+<crossref>conf/lwmoocs/2023</crossref>
+<url>db/conf/lwmoocs/lwmoocs2023.html#AlAnqoudiAMNPM23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurosys/PaunMN21" mdate="2021-05-10">
+<author pid="274/7633">Iulia Paun</author>
+<author pid="87/6501">Yashar Moshfeghi</author>
+<author pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<title>Are we there yet? Estimating Training Time for Recommendation Systems.</title>
+<pages>39-47</pages>
+<year>2021</year>
+<booktitle>EuroMLSys@EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3437984.3458832</ee>
+<crossref>conf/eurosys/2021ml</crossref>
+<url>db/conf/eurosys/euromlsys2021.html#PaunMN21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigdataconf/MorganPN20" mdate="2021-04-08">
+<author pid="289/3071">Conor Morgan</author>
+<author pid="274/7633">Iulia Paun</author>
+<author pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<title>Exploring Contextual Paradigms in Context-Aware Recommendations.</title>
+<pages>3079-3084</pages>
+<year>2020</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData50022.2020.9377964</ee>
+<crossref>conf/bigdataconf/2020</crossref>
+<url>db/conf/bigdataconf/bigdataconf2020.html#MorganPN20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigdataconf/KyosevPMN20" mdate="2021-10-14">
+<author pid="289/2975">Ivan Kyosev</author>
+<author pid="274/7633">Iulia Paun</author>
+<author orcid="0000-0003-4186-1088" pid="87/6501">Yashar Moshfeghi</author>
+<author pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<title>Measuring Distances Among Graphs En Route To Graph Clustering.</title>
+<pages>3632-3641</pages>
+<year>2020</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData50022.2020.9378333</ee>
+<crossref>conf/bigdataconf/2020</crossref>
+<url>db/conf/bigdataconf/bigdataconf2020.html#KyosevPMN20</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/WangLMNT18" mdate="2020-06-15">
+<author pid="02/736-34">Jing Wang 0034</author>
+<author pid="132/7943">Zichen Liu</author>
+<author pid="35/6569">Shuai Ma 0001</author>
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<title>GC: A Graph Caching System for Subgraph/Supergraph Queries.</title>
+<pages>2022-2025</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p2022-wang.pdf</ee>
+<ee>https://doi.org/10.14778/3229863.3236250</ee>
+<url>db/journals/pvldb/pvldb11.html#WangLMNT18</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/CahsaiANT18" mdate="2021-07-25">
+<author pid="203/0770">Atoshum Cahsai</author>
+<author orcid="0000-0003-1517-6757" pid="07/5736">Christos Anagnostopoulos</author>
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<title>Revisiting Exact kNN Query Processing with Probabilistic Data Space Transformations.</title>
+<pages>653-662</pages>
+<year>2018</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData.2018.8621943</ee>
+<crossref>conf/bigdataconf/2018</crossref>
+<url>db/conf/bigdataconf/bigdataconf2018.html#CahsaiANT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigdataconf/KatsarouNT17" mdate="2023-03-24">
+<author pid="166/8397">Foteini Katsarou</author>
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<title>Hybrid algorithms for subgraph pattern queries in graph databases.</title>
+<pages>656-665</pages>
+<year>2017</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData.2017.8257981</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BigData.2017.8257981</ee>
+<crossref>conf/bigdataconf/2017</crossref>
+<url>db/conf/bigdataconf/bigdataconf2017.html#KatsarouNT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigdataconf/PopescuPAN17" mdate="2023-03-24">
+<author pid="213/1506">Iulia Popescu</author>
+<author pid="209/6159">Kurt Portelli</author>
+<author orcid="0000-0003-1517-6757" pid="07/5736">Christos Anagnostopoulos</author>
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<title>The case for graph-based recommendations.</title>
+<pages>4819-4821</pages>
+<year>2017</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData.2017.8258553</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BigData.2017.8258553</ee>
+<crossref>conf/bigdataconf/2017</crossref>
+<url>db/conf/bigdataconf/bigdataconf2017.html#PopescuPAN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/KatsarouNT17a" mdate="2023-03-10">
+<author pid="166/8397">Foteini Katsarou</author>
+<author pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<title>Towards Hybrid Methods for Graph Pattern Queries.</title>
+<year>2017</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1810/GraphQ_paper_07.pdf</ee>
+<crossref>conf/edbt/2017w</crossref>
+<url>db/conf/edbt/edbtw2017.html#KatsarouNT17a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/WangNT17" mdate="2021-01-29">
+<author pid="02/736-34">Jing Wang 0034</author>
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<title>GraphCache: A Caching System for Graph Queries.</title>
+<pages>13-24</pages>
+<year>2017</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2017.03</ee>
+<crossref>conf/edbt/2017</crossref>
+<url>db/conf/edbt/edbt2017.html#WangNT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/KatsarouNT17" mdate="2021-01-29">
+<author pid="166/8397">Foteini Katsarou</author>
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<title>Subgraph Querying with Parallel Use of Query Rewritings and Alternative Algorithms.</title>
+<pages>25-36</pages>
+<year>2017</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2017.04</ee>
+<crossref>conf/edbt/2017</crossref>
+<url>db/conf/edbt/edbt2017.html#KatsarouNT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/WangNT17a" mdate="2023-03-10">
+<author pid="02/736-34">Jing Wang 0034</author>
+<author pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<title>Ensuring Consistency in Graph Cache for Graph-Pattern Queries.</title>
+<year>2017</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1810/GraphQ_paper_10.pdf</ee>
+<crossref>conf/edbt/2017w</crossref>
+<url>db/conf/edbt/edbtw2017.html#WangNT17a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/CahsaiNAT17" mdate="2023-03-24">
+<author pid="203/0770">Atoshum Cahsai</author>
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author orcid="0000-0003-1517-6757" pid="07/5736">Christos Anagnostopoulos</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<title>Scaling k-Nearest Neighbours Queries (The Right Way).</title>
+<pages>1419-1430</pages>
+<year>2017</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS.2017.267</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDCS.2017.267</ee>
+<crossref>conf/icdcs/2017</crossref>
+<url>db/conf/icdcs/icdcs2017.html#CahsaiNAT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/WangNT16" mdate="2021-01-29">
+<author pid="02/736-34">Jing Wang 0034</author>
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<title>Indexing Query Graphs to Speedup Graph Query Processing.</title>
+<pages>41-52</pages>
+<year>2016</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2016.07</ee>
+<crossref>conf/edbt/2016</crossref>
+<url>db/conf/edbt/edbt2016.html#WangNT16</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/KatsarouNT15" mdate="2020-06-15">
+<author pid="166/8397">Foteini Katsarou</author>
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<title>Performance and Scalability of Indexed Subgraph Query Processing Methods.</title>
+<pages>1566-1577</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1566-Katsarou.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824054</ee>
+<url>db/journals/pvldb/pvldb8.html#KatsarouNT15</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/WangNT15" mdate="2023-03-24">
+<author pid="02/736-34">Jing Wang 0034</author>
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<title>Towards a subgraph/supergraph cached query-graph index.</title>
+<pages>2919-2921</pages>
+<year>2015</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData.2015.7364122</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BigData.2015.7364122</ee>
+<crossref>conf/bigdataconf/2015</crossref>
+<url>db/conf/bigdataconf/bigdataconf2015.html#WangNT15</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/NtarmosPT14" mdate="2020-04-25">
+<author pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="129/6735">Ioannis Patlakas</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<title>Rank Join Queries in NoSQL Databases.</title>
+<pages>493-504</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>7</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p493-ntarmos.pdf</ee>
+<ee>https://doi.org/10.14778/2732286.2732287</ee>
+<url>db/journals/pvldb/pvldb7.html#NtarmosPT14</url>
+</article>
+</r>
+<r><article key="journals/ijdcf/KaravarsamisNBP13" mdate="2020-08-12">
+<author pid="93/9987">Sotiris Karavarsamis</author>
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="56/6853">Konstantinos Blekas</author>
+<author pid="p/IPitas">Ioannis Pitas</author>
+<title>Detecting Pornographic Images by Localizing Skin ROIs.</title>
+<pages>39-53</pages>
+<year>2013</year>
+<volume>5</volume>
+<journal>Int. J. Digit. Crime Forensics</journal>
+<number>1</number>
+<ee>https://doi.org/10.4018/jdcf.2013010103</ee>
+<url>db/journals/ijdcf/ijdcf5.html#KaravarsamisNBP13</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/SfakianakisPNT13" mdate="2023-03-23">
+<author pid="131/4730">George Sfakianakis</author>
+<author pid="129/6735">Ioannis Patlakas</author>
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<title>Interval indexing and querying on key-value cloud stores.</title>
+<pages>805-816</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544876</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544876</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#SfakianakisPNT13</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/PitouraNT12" mdate="2017-06-08">
+<author pid="22/289">Theoni Pitoura</author>
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<title>Saturn: Range Queries, Load Balancing and Fault Tolerance in DHT Data Systems.</title>
+<pages>1313-1327</pages>
+<year>2012</year>
+<volume>24</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TKDE.2010.266</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2010.266</ee>
+<url>db/journals/tkde/tkde24.html#PitouraNT12</url>
+</article>
+</r>
+<r><inproceedings key="conf/mmsec/KaravarsamisPN12" mdate="2018-11-06">
+<author pid="93/9987">Sotiris Karavarsamis</author>
+<author pid="p/IPitas">Ioannis Pitas</author>
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<title>Recognizing pornographic images.</title>
+<pages>105-108</pages>
+<year>2012</year>
+<booktitle>MM&amp;Sec</booktitle>
+<ee>https://doi.org/10.1145/2361407.2361425</ee>
+<crossref>conf/mmsec/2012</crossref>
+<url>db/conf/mmsec/mmsec2012.html#KaravarsamisPN12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/LoupasakisNT11" mdate="2020-03-12">
+<author pid="94/9492">Andreas Loupasakis</author>
+<author pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<title>eXO: Decentralized Autonomous Scalable Social Networking.</title>
+<pages>85-95</pages>
+<year>2011</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2011/Papers/CIDR11_Paper10.pdf</ee>
+<crossref>conf/cidr/2011</crossref>
+<url>db/conf/cidr/cidr2011.html#LoupasakisNT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/WeikumNSTBKRW11" mdate="2020-03-12">
+<author pid="w/GerhardWeikum">Gerhard Weikum</author>
+<author pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="s/MarcSpaniol">Marc Spaniol</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<author pid="66/5525">Andr&#225;s A. Bencz&#250;r</author>
+<author pid="39/5192">Scott Kirkpatrick</author>
+<author pid="r/PRigaux">Philippe Rigaux</author>
+<author pid="46/9494">Mark Williamson</author>
+<title>Longitudinal Analytics on Web Archive Data: It's About Time!</title>
+<pages>199-202</pages>
+<year>2011</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2011/Papers/CIDR11_Paper26.pdf</ee>
+<crossref>conf/cidr/2011</crossref>
+<url>db/conf/cidr/cidr2011.html#WeikumNSTBKRW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/KoloniariNPS11" mdate="2022-10-02">
+<author orcid="0000-0002-9852-7980" pid="90/4426">Georgia Koloniari</author>
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="p/EPitoura">Evaggelia Pitoura</author>
+<author pid="86/8707">Dimitris Souravlias</author>
+<title>One is enough: distributed filtering for duplicate elimination.</title>
+<pages>433-442</pages>
+<year>2011</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2063576.2063643</ee>
+<crossref>conf/cikm/2011</crossref>
+<url>db/conf/cikm/cikm2011.html#KoloniariNPS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/KaravarsamisNB11" mdate="2018-06-26">
+<author pid="93/9987">Sotiris Karavarsamis</author>
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="56/6853">Konstantinos Blekas</author>
+<title>InFeRno - An Intelligent Framework for Recognizing Pornographic Web Pages.</title>
+<pages>638-641</pages>
+<year>2011</year>
+<booktitle>ECML/PKDD (3)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-23808-6_46</ee>
+<crossref>conf/pkdd/2011-3</crossref>
+<url>db/conf/pkdd/pkdd2011-3.html#KaravarsamisNB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sns/KaidosPTN11" mdate="2018-11-06">
+<author pid="116/4632">Charalabos Kaidos</author>
+<author pid="116/4627">Andreas Pasiopoulos</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<title>SNFS: the design and implementation of a social network file system.</title>
+<pages>5</pages>
+<year>2011</year>
+<booktitle>SNS</booktitle>
+<ee>https://doi.org/10.1145/1989656.1989661</ee>
+<crossref>conf/sns/2011</crossref>
+<url>db/conf/sns/sns2011.html#KaidosPTN11</url>
+</inproceedings>
+</r>
+<r><article key="journals/tocs/NtarmosTW09" mdate="2018-11-06">
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<author pid="w/GerhardWeikum">Gerhard Weikum</author>
+<title>Distributed hash sketches: Scalable, efficient, and accurate cardinality estimation for distributed multisets.</title>
+<year>2009</year>
+<volume>27</volume>
+<journal>ACM Trans. Comput. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1482619.1482621</ee>
+<url>db/journals/tocs/tocs27.html#NtarmosTW09</url>
+<pages>2:1-2:53</pages>
+</article>
+</r>
+<r><article key="journals/vldb/NtarmosTW09" mdate="2023-09-12">
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<author pid="w/GerhardWeikum">Gerhard Weikum</author>
+<title>Statistical structures for Internet-scale data management.</title>
+<pages>1279-1312</pages>
+<year>2009</year>
+<volume>18</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.1007/s00778-009-0140-7</ee>
+<url>db/journals/vldb/vldb18.html#NtarmosTW09</url>
+</article>
+</r>
+<r><phdthesis key="phd/gr/Ntarmos08" mdate="2024-01-17">
+<author pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<title>&#913;&#957;&#940;&#960;&#964;&#965;&#958;&#951; &#954;&#945;&#953; &#945;&#958;&#953;&#959;&#960;&#959;&#943;&#951;&#963;&#951; &#954;&#945;&#953;&#957;&#959;&#964;&#972;&#956;&#969;&#957; &#963;&#965;&#963;&#964;&#951;&#956;&#940;&#964;&#969;&#957; &#960;&#945;&#961;&#945;&#954;&#959;&#955;&#959;&#973;&#952;&#951;&#963;&#951;&#962;, &#949;&#955;&#941;&#947;&#967;&#959;&#965; &#954;&#945;&#953; &#949;&#958;&#949;&#973;&#961;&#949;&#963;&#951;&#962; &#954;&#945;&#952;&#959;&#955;&#953;&#954;&#974;&#957; &#967;&#945;&#961;&#945;&#954;&#964;&#951;&#961;&#953;&#963;&#964;&#953;&#954;&#974;&#957; &#954;&#945;&#953; &#953;&#948;&#953;&#959;&#964;&#942;&#964;&#969;&#957; &#964;&#969;&#957; &#959;&#957;&#964;&#959;&#964;&#942;...</title>
+<school>University of Patras, Greece</school>
+<year>2008</year>
+<note type="source">National Archive of PhD Theses: oai:10442/26358</note>
+<ee>http://hdl.handle.net/10442/hedi/26358</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/cikm/MichelBNTWZ06" mdate="2018-11-06">
+<author pid="m/SebastianMichel">Sebastian Michel 0001</author>
+<author pid="b/MatthiasBender">Matthias Bender 0001</author>
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<author pid="w/GerhardWeikum">Gerhard Weikum</author>
+<author pid="z/ChristianZimmer">Christian Zimmer 0001</author>
+<title>Discovering and exploiting keyword and attribute-value co-occurrences to improve P2P routing indices.</title>
+<pages>172-181</pages>
+<year>2006</year>
+<crossref>conf/cikm/2006</crossref>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1183614.1183643</ee>
+<url>db/conf/cikm/cikm2006.html#MichelBNTWZ06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/PitouraNT06" mdate="2017-06-02">
+<author pid="22/289">Theoni Pitoura</author>
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<title>Replication, Load Balancing and Efficient Range Query Processing in DHTs.</title>
+<pages>131-148</pages>
+<year>2006</year>
+<crossref>conf/edbt/2006</crossref>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1007/11687238_11</ee>
+<url>db/conf/edbt/edbt2006.html#PitouraNT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/NtarmosTW06" mdate="2023-03-23">
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<author pid="w/GerhardWeikum">Gerhard Weikum</author>
+<title>Counting at Large: Efficient Cardinality Estimation in Internet-Scale Data Networks.</title>
+<pages>40</pages>
+<year>2006</year>
+<crossref>conf/icde/2006</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2006.44</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2006.44</ee>
+<url>db/conf/icde/icde2006.html#NtarmosTW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbisp2p/NtarmosPT05" mdate="2017-06-02">
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="22/289">Theoni Pitoura</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<title>Range Query Optimization Leveraging Peer Heterogeneity in DHT Data Networks.</title>
+<pages>111-122</pages>
+<year>2005</year>
+<crossref>conf/dbisp2p/2006</crossref>
+<booktitle>DBISP2P</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-71661-7_10</ee>
+<url>db/conf/dbisp2p/dbisp2p2006.html#NtarmosPT05</url>
+</inproceedings>
+</r>
+<r><article key="journals/internet/TriantafillouNY04" mdate="2020-03-13">
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="49/5386">John Yannakopoulos</author>
+<title>A Cache Engine for E-Content Integration.</title>
+<pages>45-53</pages>
+<year>2004</year>
+<volume>8</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MIC.2004.1273485</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.2004.1273485</ee>
+<url>db/journals/internet/internet8.html#TriantafillouNY04</url>
+</article>
+</r>
+<r><inproceedings key="conf/dbisp2p/NtarmosT04" mdate="2017-05-23">
+<author pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<title>AESOP: Altruism-Endowed Self-organizing Peers.</title>
+<pages>151-165</pages>
+<ee>https://doi.org/10.1007/978-3-540-31838-5_11</ee>
+<year>2004</year>
+<crossref>conf/dbisp2p/2004</crossref>
+<booktitle>DBISP2P</booktitle>
+<url>db/conf/dbisp2p/dbisp2p2004.html#NtarmosT04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/p2p/NtarmosT04" mdate="2023-03-24">
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<title>SeAl: Managing Accesses and Data in Peer-to-Peer Sharing Networks.</title>
+<pages>116-123</pages>
+<year>2004</year>
+<crossref>conf/p2p/2004</crossref>
+<booktitle>Peer-to-Peer Computing</booktitle>
+<ee>https://doi.org/10.1109/PTP.2004.1334938</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PTP.2004.1334938</ee>
+<url>db/conf/p2p/p2p2004.html#NtarmosT04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/TriantafillouXKN03" mdate="2020-03-12">
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<author pid="24/555">Chryssani Xiruhaki</author>
+<author pid="40/4517">Manolis Koubarakis</author>
+<author pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<title>Towards High Performance Peer-to-Peer Content and Resource Sharing Systems.</title>
+<year>2003</year>
+<crossref>conf/cidr/2003</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://www-db.cs.wisc.edu/cidr/cidr2003/program/p10.pdf</ee>
+<url>db/conf/cidr/cidr2003.html#TriantafillouXKN03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/p2p/TriantafillouNNS03" mdate="2023-03-24">
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="n/SotirisENikoletseas">Sotiris E. Nikoletseas</author>
+<author pid="s/PaulGSpirakis">Paul G. Spirakis</author>
+<title>NanoPeer Networks and P2P Worlds.</title>
+<pages>40-46</pages>
+<year>2003</year>
+<crossref>conf/p2p/2003</crossref>
+<booktitle>Peer-to-Peer Computing</booktitle>
+<ee>https://doi.org/10.1109/PTP.2003.1231502</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PTP.2003.1231502</ee>
+<url>db/conf/p2p/p2p2003.html#TriantafillouNNS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/TriantafillouNY03" mdate="2023-03-24">
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="49/5386">John Yannakopoulos</author>
+<title>D. I. C. E. and Co.In.S.: A Data Integration Cache Engine for a Content Integration System.</title>
+<pages>339-342</pages>
+<year>2003</year>
+<crossref>conf/wise/2003</crossref>
+<booktitle>WISE</booktitle>
+<ee>https://doi.org/10.1109/WISE.2003.1254507</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WISE.2003.1254507</ee>
+<url>db/conf/wise/wise2003.html#TriantafillouNY03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/TriantafillouNY03a" mdate="2023-03-24">
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<author orcid="0000-0001-8676-0948" pid="n/NikosNtarmos">Nikos Ntarmos</author>
+<author pid="49/5386">John Yannakopoulos</author>
+<title>The HyperHotel Application Built over D.I.C.E. and Co.In.S..</title>
+<pages>359-362</pages>
+<year>2003</year>
+<crossref>conf/wise/2003</crossref>
+<booktitle>WISE</booktitle>
+<ee>https://doi.org/10.1109/WISE.2003.1254511</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WISE.2003.1254511</ee>
+<url>db/conf/wise/wise2003.html#TriantafillouNY03a</url>
+</inproceedings>
+</r>
+<coauthors n="47" nc="1">
+<co c="0"><na f="a/Ada:Mireilla_Bikanga" pid="146/1950">Mireilla Bikanga Ada</na></co>
+<co c="0"><na f="a/Al=Anqoudi:Maha" pid="324/0556">Maha Al-Anqoudi</na></co>
+<co c="0"><na f="a/Anagnostopoulos:Christos" pid="07/5736">Christos Anagnostopoulos</na></co>
+<co c="0"><na f="b/Bencz=uacute=r:Andr=aacute=s_A=" pid="66/5525">Andr&#225;s A. Bencz&#250;r</na></co>
+<co c="0"><na f="b/Bender_0001:Matthias" pid="b/MatthiasBender">Matthias Bender 0001</na></co>
+<co c="0"><na f="b/Blekas:Konstantinos" pid="56/6853">Konstantinos Blekas</na></co>
+<co c="0"><na f="b/Buneman:Peter" pid="b/PeterBuneman">Peter Buneman</na></co>
+<co c="0"><na f="c/Cahsai:Atoshum" pid="203/0770">Atoshum Cahsai</na></co>
+<co c="0"><na f="c/Cao_0012:Yang" pid="25/7045-12">Yang Cao 0012</na></co>
+<co c="0"><na f="k/Kaidos:Charalabos" pid="116/4632">Charalabos Kaidos</na></co>
+<co c="0"><na f="k/Karavarsamis:Sotiris" pid="93/9987">Sotiris Karavarsamis</na></co>
+<co c="0"><na f="k/Katsarou:Foteini" pid="166/8397">Foteini Katsarou</na></co>
+<co c="0"><na f="k/Kirkpatrick:Scott" pid="39/5192">Scott Kirkpatrick</na></co>
+<co c="0"><na f="k/Koloniari:Georgia" pid="90/4426">Georgia Koloniari</na></co>
+<co c="0"><na f="k/Koubarakis:Manolis" pid="40/4517">Manolis Koubarakis</na></co>
+<co c="0"><na f="k/Kyosev:Ivan" pid="289/2975">Ivan Kyosev</na></co>
+<co c="0"><na f="l/Li:Jia" pid="23/6950">Jia Li</na></co>
+<co c="0"><na f="l/Liu:Zichen" pid="132/7943">Zichen Liu</na></co>
+<co c="0"><na f="l/Loupasakis:Andreas" pid="94/9492">Andreas Loupasakis</na></co>
+<co c="0"><na f="m/Ma_0001:Shuai" pid="35/6569">Shuai Ma 0001</na></co>
+<co c="0"><na f="m/McQuistin:Stephen" pid="168/4511">Stephen McQuistin</na></co>
+<co c="0"><na f="m/Michel_0001:Sebastian" pid="m/SebastianMichel">Sebastian Michel 0001</na></co>
+<co c="0"><na f="m/Morgan:Conor" pid="289/3071">Conor Morgan</na></co>
+<co c="0"><na f="m/Moshfeghi:Yashar" pid="87/6501">Yashar Moshfeghi</na></co>
+<co c="0"><na f="n/Nikoletseas:Sotiris_E=" pid="n/SotirisENikoletseas">Sotiris E. Nikoletseas</na></co>
+<co c="0"><na f="p/Parkinson:Jack" pid="224/2410">Jack Parkinson</na></co>
+<co c="0"><na f="p/Pasiopoulos:Andreas" pid="116/4627">Andreas Pasiopoulos</na></co>
+<co c="0"><na f="p/Patlakas:Ioannis" pid="129/6735">Ioannis Patlakas</na></co>
+<co c="0"><na f="p/Paun:Iulia" pid="274/7633">Iulia Paun</na></co>
+<co c="0"><na f="p/Pitas:Ioannis" pid="p/IPitas">Ioannis Pitas</na></co>
+<co c="0"><na f="p/Pitoura:Evaggelia" pid="p/EPitoura">Evaggelia Pitoura</na></co>
+<co c="0"><na f="p/Pitoura:Theoni" pid="22/289">Theoni Pitoura</na></co>
+<co c="0"><na f="p/Popescu:Iulia" pid="213/1506">Iulia Popescu</na></co>
+<co c="0"><na f="p/Portelli:Kurt" pid="209/6159">Kurt Portelli</na></co>
+<co c="0"><na f="r/Rigaux:Philippe" pid="r/PRigaux">Philippe Rigaux</na></co>
+<co c="0"><na f="s/Sfakianakis:George" pid="131/4730">George Sfakianakis</na></co>
+<co c="0"><na f="s/Souravlias:Dimitris" pid="86/8707">Dimitris Souravlias</na></co>
+<co c="0"><na f="s/Spaniol:Marc" pid="s/MarcSpaniol">Marc Spaniol</na></co>
+<co c="0"><na f="s/Spirakis:Paul_G=" pid="s/PaulGSpirakis">Paul G. Spirakis</na></co>
+<co c="0"><na f="t/Triantafillou:Peter" pid="t/PeterTriantafillou">Peter Triantafillou</na></co>
+<co c="0"><na f="w/Wang_0034:Jing" pid="02/736-34">Jing Wang 0034</na></co>
+<co c="0"><na f="w/Weikum:Gerhard" pid="w/GerhardWeikum">Gerhard Weikum</na></co>
+<co c="0"><na f="w/Williamson:Mark" pid="46/9494">Mark Williamson</na></co>
+<co c="0"><na f="x/Xiruhaki:Chryssani" pid="24/555">Chryssani Xiruhaki</na></co>
+<co c="0"><na f="y/Yannakopoulos:John" pid="49/5386">John Yannakopoulos</na></co>
+<co c="0"><na f="z/Zhao:Wenyue" pid="325/9440">Wenyue Zhao</na></co>
+<co c="0"><na f="z/Zimmer_0001:Christian" pid="z/ChristianZimmer">Christian Zimmer 0001</na></co>
+</coauthors>
+</dblpperson>

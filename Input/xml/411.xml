@@ -1,0 +1,459 @@
+<dblpperson name="Jose M. Faleiro" pid="147/1195" n="27">
+<person key="homepages/147/1195" mdate="2020-06-18">
+<author pid="147/1195">Jose M. Faleiro</author>
+<url>http://www.jmfaleiro.com/</url>
+<note type="affiliation">Microsoft Research</note>
+<note label="former" type="affiliation">UC Berkeley, CA, USA</note>
+<note label="Ph.D." type="affiliation">Yale University, USA</note>
+<note type="award" label="2020">2020 SIGMOD Jim Gray Doctoral Dissertation Award</note>
+</person>
+<r><inproceedings key="conf/eurosys/AbdiGLFCGBBF23" mdate="2023-05-17">
+<author orcid="0000-0001-6458-2650" pid="165/8364">Mania Abdi</author>
+<author orcid="0000-0001-8878-0811" pid="283/3670">Samuel Ginzburg</author>
+<author orcid="0000-0003-1454-9718" pid="219/9688">Xiayue Charles Lin</author>
+<author orcid="0000-0003-2125-5160" pid="147/1195">Jose M. Faleiro</author>
+<author orcid="0000-0002-1025-0009" pid="224/2468">Gohar Irfan Chaudhry</author>
+<author orcid="0000-0003-2591-4012" pid="47/3727">I&#241;igo Goiri</author>
+<author orcid="0000-0001-5971-5084" pid="85/2722">Ricardo Bianchini</author>
+<author orcid="0000-0002-3911-1512" pid="142/2630">Daniel S. Berger</author>
+<author orcid="0000-0001-9662-2661" pid="f/RFonseca">Rodrigo Fonseca</author>
+<title>Palette Load Balancing: Locality Hints for Serverless Functions.</title>
+<pages>365-380</pages>
+<year>2023</year>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3552326.3567496</ee>
+<crossref>conf/eurosys/2023</crossref>
+<url>db/conf/eurosys/eurosys2023.html#AbdiGLFCGBBF23</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/HeltSALF22" mdate="2023-10-23">
+<author pid="200/8024">Jeffrey Helt</author>
+<author pid="57/7446">Abhinav Sharma</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="21/1059">Wyatt Lloyd</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<title>C5: Cloned Concurrency Control That Always Keeps Up.</title>
+<pages>1-14</pages>
+<year>2022</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p1-helt.pdf</ee>
+<ee>https://doi.org/10.14778/3561261.3561262</ee>
+<url>db/journals/pvldb/pvldb16.html#HeltSALF22</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-02746" mdate="2022-07-13">
+<author pid="200/8024">Jeffrey Helt</author>
+<author pid="57/7446">Abhinav Sharma</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="21/1059">Wyatt Lloyd</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<title>C5: Cloned Concurrency Control that Always Keeps Up.</title>
+<year>2022</year>
+<volume>abs/2207.02746</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.02746</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-02746</url>
+</article>
+</r>
+<r><article key="journals/tkde/WuFLH21" mdate="2021-01-26">
+<author orcid="0000-0002-2716-4393" pid="51/3529-1">Chenggang Wu 0001</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="155/2490">Yihan Lin</author>
+<author orcid="0000-0002-7712-4306" pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Anna: A KVS for Any Scale.</title>
+<pages>344-358</pages>
+<year>2021</year>
+<volume>33</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TKDE.2019.2898401</ee>
+<url>db/journals/tkde/tkde33.html#WuFLH21</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/LiCFMK21" mdate="2023-08-08">
+<author orcid="0000-0003-2531-8253" pid="92/9835-1">Tianyu Li 0001</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Asynchronous Prefix Recoverability for Fast Distributed Stores.</title>
+<pages>1090-1102</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3458454</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#LiCFMK21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurosys/SreekantiWCGHF20" mdate="2023-11-12">
+<author pid="192/4561">Vikram Sreekanti</author>
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<author pid="260/6797">Saurav Chhatrapati</author>
+<author orcid="0000-0003-2921-956X" pid="61/8262">Joseph E. Gonzalez</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<title>A fault-tolerance shim for serverless computing.</title>
+<pages>15:1-15:15</pages>
+<year>2020</year>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3342195.3387535</ee>
+<crossref>conf/eurosys/2020</crossref>
+<url>db/conf/eurosys/eurosys2020.html#SreekantiWCGHF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Faleiro20" mdate="2020-06-05">
+<author pid="147/1195">Jose M. Faleiro</author>
+<title>ACM SIGMOD Jim Gray Dissertation Award W Talk.</title>
+<pages>1923</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3394026</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#Faleiro20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-04592" mdate="2020-08-18">
+<author pid="192/4561">Vikram Sreekanti</author>
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<author pid="219/9688">Xiayue Charles Lin</author>
+<author pid="166/5229">Johann Schleier-Smith</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="61/8262">Joseph E. Gonzalez</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="41/6224">Alexey Tumanov</author>
+<title>Cloudburst: Stateful Functions-as-a-Service.</title>
+<year>2020</year>
+<volume>abs/2001.04592</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2001.04592</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-04592</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-06007" mdate="2020-08-18">
+<author pid="192/4561">Vikram Sreekanti</author>
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<author pid="260/6797">Saurav Chhatrapati</author>
+<author pid="61/8262">Joseph E. Gonzalez</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<title>A Fault-Tolerance Shim for Serverless Computing.</title>
+<year>2020</year>
+<volume>abs/2003.06007</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.06007</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-06007</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/HellersteinFGSS19" mdate="2020-08-18">
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="61/8262">Joseph Gonzalez 0001</author>
+<author pid="166/5229">Johann Schleier-Smith</author>
+<author pid="192/4561">Vikram Sreekanti</author>
+<author pid="41/6224">Alexey Tumanov</author>
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<title>Serverless Computing: One Step Forward, Two Steps Back.</title>
+<year>2019</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2019/papers/p119-hellerstein-cidr19.pdf</ee>
+<crossref>conf/cidr/2019</crossref>
+<url>db/conf/cidr/cidr2019.html#HellersteinFGSS19</url>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/AbadiF18" mdate="2018-11-21">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<title>An overview of deterministic database systems.</title>
+<pages>78-88</pages>
+<year>2018</year>
+<volume>61</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<ee>https://doi.org/10.1145/3181853</ee>
+<url>db/journals/cacm/cacm61.html#AbadiF18</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/WuFLH18" mdate="2023-03-24">
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="155/2490">Yihan Lin</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Anna: A KVS for Any Scale.</title>
+<pages>401-412</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00044</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00044</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#WuFLH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/osdi/LockermanFKSAA018" mdate="2021-02-02">
+<author pid="180/8181">Joshua Lockerman</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="59/8200">Juno Kim</author>
+<author pid="228/0279">Soham Sankaran</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="a/JamesAspnes">James Aspnes</author>
+<author pid="58/968">Siddhartha Sen 0001</author>
+<author pid="b/MBalakrishnan">Mahesh Balakrishnan 0001</author>
+<title>The FuzzyLog: A Partially Ordered Shared Log.</title>
+<pages>357-372</pages>
+<year>2018</year>
+<booktitle>OSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/osdi18/presentation/lockerman</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3291195</ee>
+<crossref>conf/osdi/2018</crossref>
+<url>db/conf/osdi/osdi2018.html#LockermanFKSAA018</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-03651" mdate="2020-08-18">
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="61/8262">Joseph E. Gonzalez</author>
+<author pid="166/5229">Johann Schleier-Smith</author>
+<author pid="192/4561">Vikram Sreekanti</author>
+<author pid="41/6224">Alexey Tumanov</author>
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<title>Serverless Computing: One Step Forward, Two Steps Back.</title>
+<year>2018</year>
+<volume>abs/1812.03651</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.03651</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-03651</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/BernsteinBBCFKK17" mdate="2021-02-17">
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="84/1935">Sebastian Burckhardt</author>
+<author pid="127/9192">Sergey Bykov</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="70/2810">Gabriel Kliot</author>
+<author pid="207/6553">Alok Kumbhare</author>
+<author pid="53/7891">Muntasir Raihan Rahman</author>
+<author pid="93/932-1">Vivek Shah 0001</author>
+<author pid="69/9867">Adriana Szekeres</author>
+<author orcid="0000-0003-0602-8939" pid="127/9189">Jorgen Thelin</author>
+<title>Geo-distribution of actor-based services.</title>
+<pages>107:1-107:26</pages>
+<year>2017</year>
+<volume>1</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>OOPSLA</number>
+<ee type="oa">https://doi.org/10.1145/3133931</ee>
+<url>db/journals/pacmpl/pacmpl1.html#BernsteinBBCFKK17</url>
+</article>
+</r>
+<r><article key="journals/pvldb/FaleiroAH17" mdate="2020-04-25">
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>High Performance Transactions via Early Write Visibility.</title>
+<pages>613-624</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p613-faleiro.pdf</ee>
+<ee>https://doi.org/10.14778/3055540.3055553</ee>
+<url>db/journals/pvldb/pvldb10.html#FaleiroAH17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/FaleiroA17" mdate="2020-03-12">
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Latch-free Synchronization in Database Systems: Silver Bullet or Fool's Gold?</title>
+<pages>9-</pages>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/papers/p121-faleiro-cidr17.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#FaleiroA17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloud/WuFLH17" mdate="2020-08-18">
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="155/2490">Yihan Lin</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Indy: a software system for the dense cloud.</title>
+<pages>650</pages>
+<year>2017</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/3127479.3134429</ee>
+<crossref>conf/cloud/2017</crossref>
+<url>db/conf/cloud/socc2017.html#WuFLH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/RenFA16" mdate="2018-11-06">
+<author pid="04/9715">Kun Ren</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Design Principles for Scaling Multi-core OLTP Under High Contention.</title>
+<pages>1583-1598</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2882958</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#RenFA16</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/FaleiroA15" mdate="2020-03-10">
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>FIT: A Distributed Database Performance Tradeoff.</title>
+<pages>10-17</pages>
+<year>2015</year>
+<volume>38</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A15mar/p10.pdf</ee>
+<url>db/journals/debu/debu38.html#FaleiroA15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/FaleiroA15" mdate="2020-04-25">
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Rethinking serializable multiversion concurrency control.</title>
+<pages>1190-1201</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1190-faleiro.pdf</ee>
+<ee>https://doi.org/10.14778/2809974.2809981</ee>
+<url>db/journals/pvldb/pvldb8.html#FaleiroA15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/RenFA15" mdate="2018-08-13">
+<author pid="04/9715">Kun Ren</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Design Principles for Scaling Multi-core OLTP Under High Contention.</title>
+<year>2015</year>
+<volume>abs/1512.06168</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1512.06168</ee>
+<url>db/journals/corr/corr1512.html#RenFA15</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/FaleiroTA14" mdate="2018-11-06">
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="21/8510">Alexander Thomson</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Lazy evaluation of transactions in database systems.</title>
+<pages>15-26</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2610529</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#FaleiroTA14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/NowlanFF14" mdate="2020-06-18">
+<author pid="22/2106">Michael F. Nowlan</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="f/BryanFord">Bryan Ford</author>
+<title>Crux: Locality-Preserving Distributed Systems.</title>
+<year>2014</year>
+<volume>abs/1405.0637</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1405.0637</ee>
+<url>db/journals/corr/corr1405.html#NowlanFF14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/FaleiroA14" mdate="2018-08-13">
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Rethinking serializable multiversion concurrency control.</title>
+<year>2014</year>
+<volume>abs/1412.2324</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1412.2324</ee>
+<url>db/journals/corr/corr1412.html#FaleiroA14</url>
+</article>
+</r>
+<r><inproceedings key="conf/monterey/FaleiroRRRV12" mdate="2021-11-18">
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="r/SriramKRajamani">Sriram K. Rajamani</author>
+<author pid="20/5220">Kaushik Rajan</author>
+<author pid="r/GRamalingam">G. Ramalingam</author>
+<author pid="48/1784">Kapil Vaswani</author>
+<title>CScale - A Programming Model for Scalable and Reliable Distributed Applications.</title>
+<pages>148-156</pages>
+<year>2012</year>
+<booktitle>Monterey Workshop</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-34059-8_8</ee>
+<crossref>conf/monterey/2012</crossref>
+<url>db/conf/monterey/monterey2012.html#FaleiroRRRV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/FalerioRRRV12" mdate="2022-04-18">
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="r/SriramKRajamani">Sriram K. Rajamani</author>
+<author pid="20/5220">Kaushik Rajan</author>
+<author pid="r/GRamalingam">G. Ramalingam</author>
+<author pid="48/1784">Kapil Vaswani</author>
+<title>Generalized lattice agreement.</title>
+<pages>125-134</pages>
+<year>2012</year>
+<booktitle>PODC</booktitle>
+<ee>https://doi.org/10.1145/2332432.2332458</ee>
+<crossref>conf/podc/2012</crossref>
+<url>db/conf/podc/podc2012.html#FalerioRRRV12</url>
+</inproceedings>
+</r>
+<coauthors n="48" nc="2">
+<co c="0" n="2"><na f="a/Abadi:Daniel_J=" pid="a/DJAbadi">Daniel J. Abadi</na><na>Daniel Abadi</na></co>
+<co c="0"><na f="a/Abdi:Mania" pid="165/8364">Mania Abdi</na></co>
+<co c="0"><na f="a/Aspnes:James" pid="a/JamesAspnes">James Aspnes</na></co>
+<co c="0"><na f="b/Balakrishnan_0001:Mahesh" pid="b/MBalakrishnan">Mahesh Balakrishnan 0001</na></co>
+<co c="0"><na f="b/Berger:Daniel_S=" pid="142/2630">Daniel S. Berger</na></co>
+<co c="0"><na f="b/Bernstein:Philip_A=" pid="b/PhilipABernstein">Philip A. Bernstein</na></co>
+<co c="0"><na f="b/Bianchini:Ricardo" pid="85/2722">Ricardo Bianchini</na></co>
+<co c="0"><na f="b/Burckhardt:Sebastian" pid="84/1935">Sebastian Burckhardt</na></co>
+<co c="0"><na f="b/Bykov:Sergey" pid="127/9192">Sergey Bykov</na></co>
+<co c="0"><na f="c/Chandramouli:Badrish" pid="01/2861">Badrish Chandramouli</na></co>
+<co c="0"><na f="c/Chaudhry:Gohar_Irfan" pid="224/2468">Gohar Irfan Chaudhry</na></co>
+<co c="0"><na f="c/Chhatrapati:Saurav" pid="260/6797">Saurav Chhatrapati</na></co>
+<co c="0"><na f="c/Crooks:Natacha" pid="161/0113">Natacha Crooks</na></co>
+<co c="0"><na f="f/Fonseca:Rodrigo" pid="f/RFonseca">Rodrigo Fonseca</na></co>
+<co c="1"><na f="f/Ford:Bryan" pid="f/BryanFord">Bryan Ford</na></co>
+<co c="0"><na f="g/Ginzburg:Samuel" pid="283/3670">Samuel Ginzburg</na></co>
+<co c="0" n="2"><na f="g/Goiri:=Iacute==ntilde=igo" pid="47/3727">&#205;&#241;igo Goiri</na><na>I&#241;igo Goiri</na></co>
+<co c="0" n="2"><na f="g/Gonzalez_0001:Joseph" pid="61/8262">Joseph Gonzalez 0001</na><na>Joseph E. Gonzalez</na></co>
+<co c="0"><na f="h/Hellerstein:Joseph_M=" pid="h/JosephMHellerstein">Joseph M. Hellerstein</na></co>
+<co c="0"><na f="h/Helt:Jeffrey" pid="200/8024">Jeffrey Helt</na></co>
+<co c="0"><na f="k/Kim:Juno" pid="59/8200">Juno Kim</na></co>
+<co c="0"><na f="k/Kliot:Gabriel" pid="70/2810">Gabriel Kliot</na></co>
+<co c="0"><na f="k/Kossmann:Donald" pid="k/DonaldKossmann">Donald Kossmann</na></co>
+<co c="0"><na f="k/Kumbhare:Alok" pid="207/6553">Alok Kumbhare</na></co>
+<co c="0"><na f="l/Li_0001:Tianyu" pid="92/9835-1">Tianyu Li 0001</na></co>
+<co c="0"><na f="l/Lin:Xiayue_Charles" pid="219/9688">Xiayue Charles Lin</na></co>
+<co c="0"><na f="l/Lin:Yihan" pid="155/2490">Yihan Lin</na></co>
+<co c="0"><na f="l/Lloyd:Wyatt" pid="21/1059">Wyatt Lloyd</na></co>
+<co c="0"><na f="l/Lockerman:Joshua" pid="180/8181">Joshua Lockerman</na></co>
+<co c="0"><na f="m/Madden_0001:Samuel" pid="m/SamuelMadden">Samuel Madden 0001</na></co>
+<co c="1"><na f="n/Nowlan:Michael_F=" pid="22/2106">Michael F. Nowlan</na></co>
+<co c="0"><na f="r/Rahman:Muntasir_Raihan" pid="53/7891">Muntasir Raihan Rahman</na></co>
+<co c="0"><na f="r/Rajamani:Sriram_K=" pid="r/SriramKRajamani">Sriram K. Rajamani</na></co>
+<co c="0"><na f="r/Rajan:Kaushik" pid="20/5220">Kaushik Rajan</na></co>
+<co c="0"><na f="r/Ramalingam:G=" pid="r/GRamalingam">G. Ramalingam</na></co>
+<co c="0"><na f="r/Ren:Kun" pid="04/9715">Kun Ren</na></co>
+<co c="0"><na f="s/Sankaran:Soham" pid="228/0279">Soham Sankaran</na></co>
+<co c="0"><na f="s/Schleier=Smith:Johann" pid="166/5229">Johann Schleier-Smith</na></co>
+<co c="0"><na f="s/Sen_0001:Siddhartha" pid="58/968">Siddhartha Sen 0001</na></co>
+<co c="0"><na f="s/Shah_0001:Vivek" pid="93/932-1">Vivek Shah 0001</na></co>
+<co c="0"><na f="s/Sharma:Abhinav" pid="57/7446">Abhinav Sharma</na></co>
+<co c="0"><na f="s/Sreekanti:Vikram" pid="192/4561">Vikram Sreekanti</na></co>
+<co c="0"><na f="s/Szekeres:Adriana" pid="69/9867">Adriana Szekeres</na></co>
+<co c="0"><na f="t/Thelin:Jorgen" pid="127/9189">Jorgen Thelin</na></co>
+<co c="0"><na f="t/Thomson:Alexander" pid="21/8510">Alexander Thomson</na></co>
+<co c="0"><na f="t/Tumanov:Alexey" pid="41/6224">Alexey Tumanov</na></co>
+<co c="0"><na f="v/Vaswani:Kapil" pid="48/1784">Kapil Vaswani</na></co>
+<co c="0"><na f="w/Wu_0001:Chenggang" pid="51/3529-1">Chenggang Wu 0001</na></co>
+</coauthors>
+</dblpperson>

@@ -1,0 +1,2165 @@
+<dblpperson name="Nesime Tatbul" pid="t/NesimeTatbul" n="120">
+<person key="homepages/t/NesimeTatbul" mdate="2023-11-28">
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<note type="affiliation">MIT Computer Science and Artificial Intelligence Laboratory, Cambridge, USA</note>
+<url>http://people.csail.mit.edu/tatbul/</url>
+<url>https://scholar.google.com/citations?user=YlsHgYQAAAAJ</url>
+<url>https://dl.acm.org/profile/81100283118</url>
+<url>https://orcid.org/0000-0002-0416-7022</url>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2401-02563" mdate="2024-01-23">
+<author pid="48/6542">Joana M. F. da Trindade</author>
+<author pid="82/9876">Julian Shun</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Kairos: Efficient Temporal Graph Analytics on a Single Machine.</title>
+<year>2024</year>
+<volume>abs/2401.02563</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.02563</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-02563</url>
+</article>
+</r>
+<r><article key="journals/pvldb/NegiWKTMMKA23" mdate="2023-10-23">
+<author pid="221/2301">Parimarjan Negi</author>
+<author pid="279/2962">Ziniu Wu</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="m/SamuelMadden">Sam Madden</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="37/8397">Mohammad Alizadeh</author>
+<title>Robust Query Driven Cardinality Estimation under Changing Workloads.</title>
+<pages>1520-1533</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p1520-negi.pdf</ee>
+<ee>https://doi.org/10.14778/3583140.3583164</ee>
+<url>db/journals/pvldb/pvldb16.html#NegiWKTMMKA23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KossmannWLTCKM23" mdate="2023-10-23">
+<author pid="243/2511">Ferdinand Kossmann</author>
+<author pid="279/2962">Ziniu Wu</author>
+<author pid="349/9072">Eugenie Lai</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="17/6060-4">Lei Cao 0004</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="m/SamuelMadden">Sam Madden</author>
+<title>Extract-Transform-Load for Video Streams.</title>
+<pages>2302-2315</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p2302-kossmann.pdf</ee>
+<ee>https://doi.org/10.14778/3598581.3598600</ee>
+<url>db/journals/pvldb/pvldb16.html#KossmannWLTCKM23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AnneserTCXPLM23" mdate="2023-10-28">
+<author pid="231/3706">Christoph Anneser</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="355/0096">David E. Cohen</author>
+<author pid="296/8007">Zhenggang Xu</author>
+<author pid="358/1898">Prithviraj Pandian</author>
+<author pid="96/7449">Nikolay Laptev</author>
+<author orcid="0000-0002-1279-1124" pid="175/1473">Ryan Marcus</author>
+<title>AutoSteer: Learned Query Optimization for Any SQL Database.</title>
+<pages>3515-3527</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p3515-anneser.pdf</ee>
+<ee>https://doi.org/10.14778/3611540.3611544</ee>
+<url>db/journals/pvldb/pvldb16.html#AnneserTCXPLM23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AnneserPTCXPLMK23" mdate="2023-10-23">
+<author pid="231/3706">Christoph Anneser</author>
+<author pid="358/1786">Mario Petruccelli</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="355/0096">David E. Cohen</author>
+<author pid="296/8007">Zhenggang Xu</author>
+<author pid="358/1898">Prithviraj Pandian</author>
+<author pid="96/7449">Nikolay Laptev</author>
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>QO-Insight: Inspecting Steered Query Optimizers.</title>
+<pages>3922-3925</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p3922-anneser.pdf</ee>
+<ee>https://doi.org/10.14778/3611540.3611586</ee>
+<url>db/journals/pvldb/pvldb16.html#AnneserPTCXPLMK23</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/MayT23" mdate="2023-06-15">
+<author orcid="0000-0001-9671-0856" pid="89/6071">Norman May</author>
+<author orcid="0000-0002-0416-7022" pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>International Workshop on Data Management on New Hardware (DaMoN).</title>
+<pages>299-300</pages>
+<year>2023</year>
+<booktitle>SIGMOD Conference Companion</booktitle>
+<ee>https://doi.org/10.1145/3555041.3590816</ee>
+<crossref>conf/sigmod/2023c</crossref>
+<url>db/conf/sigmod/sigmod2023c.html#MayT23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ShankaranGCYKRT23" mdate="2023-08-28">
+<author pid="153/6970">Akash Shankaran</author>
+<author pid="355/0074">George Gu</author>
+<author pid="30/1436">Weiting Chen</author>
+<author pid="34/3856">Binwei Yang</author>
+<author pid="50/6646">Chidamber Kulkarni</author>
+<author pid="355/0405">Mark Rambacher</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="355/0096">David E. Cohen</author>
+<title>The Gluten Open-Source Software Project: Modernizing Java-based Query Engines for the Lakehouse Era.</title>
+<year>2023</year>
+<booktitle>VLDB Workshops</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3462/CDMS8.pdf</ee>
+<crossref>conf/vldb/2023w</crossref>
+<url>db/conf/vldb/w2023.html#ShankaranGCYKRT23</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/damon/2023" mdate="2023-06-22">
+<editor pid="89/6071">Norman May</editor>
+<editor pid="t/NesimeTatbul">Nesime Tatbul</editor>
+<title>Proceedings of the 19th International Workshop on Data Management on New Hardware, DaMoN 2023, Seattle, WA, USA, June 18-23, 2023</title>
+<booktitle>DaMoN</booktitle>
+<publisher>ACM</publisher>
+<year>2023</year>
+<ee>https://doi.org/10.1145/3592980</ee>
+<url>db/conf/damon/damon2023.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-04830" mdate="2023-10-23">
+<author pid="243/2511">Ferdinand Kossmann</author>
+<author pid="279/2962">Ziniu Wu</author>
+<author pid="349/9072">Eugenie Lai</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="17/6060-4">Lei Cao 0004</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>Extract-Transform-Load for Video Streams.</title>
+<year>2023</year>
+<volume>abs/2310.04830</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.04830</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-04830</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-07586" mdate="2023-11-21">
+<author pid="239/6157">Ozlem Ceren Sahin</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="s/PinarSenkul">Pinar Karagoz</author>
+<title>Event Detection on Twitter.</title>
+<year>2023</year>
+<volume>abs/2311.07586</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.07586</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-07586</url>
+</article>
+</r>
+<r><article key="journals/is/ArtikisTGS22" mdate="2022-10-02">
+<author pid="a/AArtikis">Alexander Artikis</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="42/3296">Lukasz Golab</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Editorial.</title>
+<pages>102088</pages>
+<year>2022</year>
+<volume>109</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2022.102088</ee>
+<url>db/journals/is/is109.html#ArtikisTGS22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/WasayTG22" mdate="2023-10-23">
+<author pid="149/9304">Abdul Wasay</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="56/2013">Justin Gottschlich</author>
+<title>Machine Programming: Turning Data into Programmer Productivity.</title>
+<pages>3754-3757</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p3754-wasay.pdf</ee>
+<ee>https://doi.org/10.14778/3554821.3554892</ee>
+<url>db/journals/pvldb/pvldb15.html#WasayTG22</url>
+</article>
+</r>
+<r><article key="journals/sigmod/MarcusNMTAK22" mdate="2022-07-08">
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="221/2301">Parimarjan Negi</author>
+<author pid="150/3252">Hongzi Mao</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="37/8397">Mohammad Alizadeh</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Bao: Making Learned Query Optimization Practical.</title>
+<pages>6-13</pages>
+<year>2022</year>
+<volume>51</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3542700.3542703</ee>
+<url>db/journals/sigmod/sigmod51.html#MarcusNMTAK22</url>
+</article>
+</r>
+<r><article key="journals/sigmod/AthanassoulisTA22" mdate="2022-12-07">
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<author pid="t/PeterTriantafillou">Peter Triantafillou</author>
+<author pid="57/1978">Raja Appuswamy</author>
+<author pid="28/6851">Rajesh Bordawekar</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="159/7654">Xuntao Cheng</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author pid="p/YPapakonstantinou">Yannis Papakonstantinou</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Artifacts Availability &amp; Reproducibility (VLDB 2021 Round Table).</title>
+<pages>74-77</pages>
+<year>2022</year>
+<volume>51</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3552490.3552511</ee>
+<url>db/journals/sigmod/sigmod51.html#AthanassoulisTA22</url>
+</article>
+</r>
+<r><article key="journals/sigmod/KumarHT22" mdate="2023-08-24">
+<author pid="30/4308-1">Arun Kumar 0001</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>VLDB Scalable Data Science Category: The Inaugural Year.</title>
+<pages>56-58</pages>
+<year>2022</year>
+<volume>51</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3572751.3572769</ee>
+<url>db/journals/sigmod/sigmod51.html#KumarHT22</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/MaddenDKSCMT22" mdate="2023-08-25">
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="145/8597">Jialin Ding</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="318/6147">Sivaprasad Sudhir</author>
+<author pid="355/0096">David E. Cohen</author>
+<author pid="56/794">Timothy G. Mattson</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Self-Organizing Data Containers.</title>
+<year>2022</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2022/papers/p44-madden.pdf</ee>
+<crossref>conf/cidr/2022</crossref>
+<url>db/conf/cidr/cidr2022.html#MaddenDKSCMT22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/SollezaCKTZ22" mdate="2022-07-18">
+<author pid="239/9803">Franco Solleza</author>
+<author pid="147/4971">Andrew Crotty</author>
+<author pid="62/7547">Suman Karumuri</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="z/SBZdonik">Stan Zdonik</author>
+<title>Mach: A Pluggable Metrics Storage Engine for the Age of Observability.</title>
+<year>2022</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2022/papers/p12-solleza.pdf</ee>
+<crossref>conf/cidr/2022</crossref>
+<url>db/conf/cidr/cidr2022.html#SollezaCKTZ22</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/KumarHT21" mdate="2023-08-24">
+<author pid="30/4308-1">Arun Kumar 0001</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Front Matter.</title>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>7</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/FrontMatterVol14No7.pdf</ee>
+<url>db/journals/pvldb/pvldb14.html#KumarHT21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/NegiMKMTKA21" mdate="2023-08-02">
+<author pid="221/2301">Parimarjan Negi</author>
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="150/3252">Hongzi Mao</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="37/8397">Mohammad Alizadeh</author>
+<title>Flow-Loss: Learning Cardinality Estimates That Matter.</title>
+<pages>2019-2032</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2019-negi.pdf</ee>
+<ee>https://doi.org/10.14778/3476249.3476259</ee>
+<url>db/journals/pvldb/pvldb14.html#NegiMKMTKA21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/JacobSSRDT21" mdate="2022-04-21">
+<author pid="174/6128">Vincent Jacob</author>
+<author pid="37/5972">Fei Song</author>
+<author pid="235/6913">Arnaud Stiegler</author>
+<author pid="295/9888">Bijan Rad</author>
+<author pid="d/YanleiDiao">Yanlei Diao</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Exathlon: A Benchmark for Explainable Anomaly Detection over Time Series.</title>
+<pages>2613-2626</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2613-tatbul.pdf</ee>
+<ee>https://doi.org/10.14778/3476249.3476307</ee>
+<url>db/journals/pvldb/pvldb14.html#JacobSSRDT21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/JacobSSRDT21a" mdate="2022-04-21">
+<author pid="174/6128">Vincent Jacob</author>
+<author pid="37/5972">Fei Song</author>
+<author pid="235/6913">Arnaud Stiegler</author>
+<author pid="295/9888">Bijan Rad</author>
+<author pid="d/YanleiDiao">Yanlei Diao</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>A Demonstration of the Exathlon Benchmarking Platform for Explainable Anomaly Detection.</title>
+<pages>2827-2830</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2827-jacob.pdf</ee>
+<ee>https://doi.org/10.14778/3476311.3476355</ee>
+<url>db/journals/pvldb/pvldb14.html#JacobSSRDT21a</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/KarumuriSZT21" mdate="2022-07-18">
+<author pid="62/7547">Suman Karumuri</author>
+<author pid="239/9803">Franco Solleza</author>
+<author pid="z/SBZdonik">Stan Zdonik</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Cloud Observability: A MELTing Pot for Petabytes of Heterogenous Time Series.</title>
+<year>2021</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2021/papers/cidr2021_abstract08.pdf</ee>
+<crossref>conf/cidr/2021</crossref>
+<url>db/conf/cidr/cidr2021.html#KarumuriSZT21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MarcusNMTAK21" mdate="2023-06-26">
+<author orcid="0000-0002-1279-1124" pid="175/1473">Ryan Marcus</author>
+<author pid="221/2301">Parimarjan Negi</author>
+<author pid="150/3252">Hongzi Mao</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="37/8397">Mohammad Alizadeh</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Bao: Making Learned Query Optimization Practical.</title>
+<pages>1275-1288</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3452838</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#MarcusNMTAK21</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/debs/2021" mdate="2022-07-20">
+<editor pid="05/7380">Alessandro Margara</editor>
+<editor pid="91/4526">Emanuele Della Valle</editor>
+<editor pid="a/AArtikis">Alexander Artikis</editor>
+<editor pid="t/NesimeTatbul">Nesime Tatbul</editor>
+<editor pid="54/1302">Helge Parzyjegla</editor>
+<title>15th ACM International Conference on Distributed and Event-based Systems, DEBS 2021, Virtual Event, Italy, June 28 - July 2, 2021.</title>
+<publisher>ACM</publisher>
+<booktitle>DEBS</booktitle>
+<year>2021</year>
+<isbn>978-1-4503-8555-8</isbn>
+<ee>https://doi.org/10.1145/3465480</ee>
+<url>db/conf/debs/debs2021.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/sigmod/2021aidm" mdate="2022-10-02">
+<editor pid="28/6851">Rajesh Bordawekar</editor>
+<editor orcid="0000-0001-8032-9962" pid="88/9060">Yael Amsterdamer</editor>
+<editor pid="s/OShmueli">Oded Shmueli</editor>
+<editor pid="t/NesimeTatbul">Nesime Tatbul</editor>
+<title>aiDM '21: Fourth Workshop in Exploiting AI Techniques for Data Management, Virtual Event, China, 25 June, 2021.</title>
+<publisher>ACM</publisher>
+<booktitle>aiDM@SIGMOD</booktitle>
+<year>2021</year>
+<isbn>978-1-4503-8535-0</isbn>
+<ee>https://doi.org/10.1145/3464509</ee>
+<url>db/conf/sigmod/aidm2021.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-04964" mdate="2021-01-22">
+<author pid="221/2301">Parimarjan Negi</author>
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="150/3252">Hongzi Mao</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="37/8397">Mohammad Alizadeh</author>
+<title>Flow-Loss: Learning Cardinality Estimates That Matter.</title>
+<year>2021</year>
+<volume>abs/2101.04964</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.04964</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-04964</url>
+</article>
+</r>
+<r><article key="journals/pvldb/RezigBTO0MMS20" mdate="2023-08-08">
+<author pid="96/8919">El Kindi Rezig</author>
+<author pid="273/7114">Ashrita Brahmaroutu</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="56/794">Timothy G. Mattson</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>Debugging Large-Scale Data Science Pipelines using Dagger.</title>
+<pages>2993-2996</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2993-rezig.pdf</ee>
+<ee>https://doi.org/10.14778/3415478.3415527</ee>
+<url>db/journals/pvldb/pvldb13.html#RezigBTO0MMS20</url>
+</article>
+</r>
+<r><article key="journals/sigmod/KarumuriSZT20" mdate="2021-04-26">
+<author pid="62/7547">Suman Karumuri</author>
+<author pid="239/9803">Franco Solleza</author>
+<author pid="z/SBZdonik">Stan Zdonik</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Towards Observability Data Management at Scale.</title>
+<pages>18-23</pages>
+<year>2020</year>
+<volume>49</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3456859.3456863</ee>
+<url>db/journals/sigmod/sigmod49.html#KarumuriSZT20</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/ShanbhagTCM20" mdate="2023-08-25">
+<author pid="149/5876">Anil Shanbhag</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author orcid="0000-0003-0935-051X" pid="355/0096">David E. Cohen</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>Large-scale in-memory analytics on Intel<sup>&#174;</sup> Optane<sup>&#8482;</sup> DC persistent memory.</title>
+<pages>4:1-4:8</pages>
+<year>2020</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3399666.3399933</ee>
+<crossref>conf/damon/2020</crossref>
+<url>db/conf/damon/damon2020.html#ShanbhagTCM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/NegiMMTKA20" mdate="2020-05-26">
+<author pid="221/2301">Parimarjan Negi</author>
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="150/3252">Hongzi Mao</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="37/8397">Mohammad Alizadeh</author>
+<title>Cost-Guided Cardinality Estimation: Focus Where it Matters.</title>
+<pages>154-157</pages>
+<year>2020</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW49219.2020.00034</ee>
+<crossref>conf/icde/2020w</crossref>
+<url>db/conf/icde/icde2020w.html#NegiMMTKA20</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigmod/2020aidm" mdate="2020-06-08">
+<editor pid="28/6851">Rajesh Bordawekar</editor>
+<editor pid="s/OShmueli">Oded Shmueli</editor>
+<editor pid="t/NesimeTatbul">Nesime Tatbul</editor>
+<editor pid="22/6176">Tin Kam Ho</editor>
+<title>Proceedings of the Third International Workshop on Exploiting Artificial Intelligence Techniques for Data Management, aiDM@SIGMOD 2020, Portland, Oregon, USA, June 19, 2020.</title>
+<publisher>ACM</publisher>
+<booktitle>aiDM@SIGMOD</booktitle>
+<year>2020</year>
+<isbn>978-1-4503-8029-4</isbn>
+<ee>https://doi.org/10.1145/3401071</ee>
+<url>db/conf/sigmod/aidm2020.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-03814" mdate="2020-04-14">
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="221/2301">Parimarjan Negi</author>
+<author pid="150/3252">Hongzi Mao</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="37/8397">Mohammad Alizadeh</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Bao: Learning to Steer Query Optimizers.</title>
+<year>2020</year>
+<volume>abs/2004.03814</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.03814</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-03814</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-05265" mdate="2020-06-12">
+<author pid="229/7064">Fangke Ye</author>
+<author pid="261/9117">Shengtian Zhou</author>
+<author pid="141/4387">Anand Venkat</author>
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="129/5477">Jesmin Jahan Tithi</author>
+<author pid="95/2667">Paul Petersen</author>
+<author pid="56/794">Timothy G. Mattson</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="47/4438">Pradeep Dubey</author>
+<author pid="s/VivekSarkar">Vivek Sarkar</author>
+<author pid="56/2013">Justin Gottschlich</author>
+<title>MISIM: An End-to-End Neural Code Similarity System.</title>
+<year>2020</year>
+<volume>abs/2006.05265</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.05265</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-05265</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-05073" mdate="2020-10-20">
+<author pid="174/6128">Vincent Jacob</author>
+<author pid="37/5972">Fei Song</author>
+<author pid="235/6913">Arnaud Stiegler</author>
+<author pid="d/YanleiDiao">Yanlei Diao</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>AnomalyBench: An Open Benchmark for Explainable Anomaly Detection.</title>
+<year>2020</year>
+<volume>abs/2010.05073</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.05073</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-05073</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-05995" mdate="2023-01-26">
+<author pid="55/6703">Akhilesh Gupta</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="261/9117">Shengtian Zhou</author>
+<author pid="l/InsupLee">Insup Lee 0001</author>
+<author pid="56/2013">Justin Gottschlich</author>
+<title>Class-Weighted Evaluation Metrics for Imbalanced Data Classification.</title>
+<year>2020</year>
+<volume>abs/2010.05995</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.05995</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-05995</url>
+</article>
+</r>
+<r><article key="journals/pvldb/MarcusNMZAKPT19" mdate="2024-03-05">
+<author orcid="0000-0002-1279-1124" pid="175/1473">Ryan Marcus</author>
+<author pid="221/2301">Parimarjan Negi</author>
+<author pid="150/3252">Hongzi Mao</author>
+<author orcid="0000-0003-1911-3446" pid="91/195-68">Chi Zhang 0068</author>
+<author pid="37/8397">Mohammad Alizadeh</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="37/3024">Olga Papaemmanouil</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Neo: A Learned Query Optimizer.</title>
+<pages>1705-1718</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1705-marcus.pdf</ee>
+<ee>https://doi.org/10.14778/3342263.3342644</ee>
+<url>db/journals/pvldb/pvldb12.html#MarcusNMZAKPT19</url>
+</article>
+</r>
+<r><inproceedings key="conf/chi/EichmannSTTZ19" mdate="2019-05-03">
+<author pid="160/4301">Philipp Eichmann</author>
+<author pid="239/9803">Franco Solleza</author>
+<author pid="239/9464">Junjay Tan</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="z/SBZdonik">Stan Zdonik</author>
+<title>Metro-Viz: Black-Box Analysis of Time Series Anomaly Detectors.</title>
+<year>2019</year>
+<booktitle>CHI Extended Abstracts</booktitle>
+<ee>https://doi.org/10.1145/3290607.3312912</ee>
+<crossref>conf/chi/2019a</crossref>
+<url>db/conf/chi/chi2019a.html#EichmannSTTZ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/Tatbul19" mdate="2020-03-12">
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Tools for Advanced Time Series Analytics: Enabling the Future.</title>
+<year>2019</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2019/gongshow/abstracts/cidr2019_162.pdf</ee>
+<crossref>conf/cidr/2019</crossref>
+<url>db/conf/cidr/cidr2019.html#Tatbul19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwe/SahinKT19" mdate="2020-12-29">
+<author pid="239/6157">Ozlem Ceren Sahin</author>
+<author orcid="0000-0003-1366-8395" pid="s/PinarSenkul">Pinar Karagoz</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Streaming Event Detection in Microblogs: Balancing Accuracy and Performance.</title>
+<pages>123-138</pages>
+<year>2019</year>
+<booktitle>ICWE</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-19274-7_10</ee>
+<crossref>conf/icwe/2019</crossref>
+<url>db/conf/icwe/icwe2019.html#SahinKT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/AlamGTTMM19" mdate="2021-01-21">
+<author pid="184/8315">Mejbah Alam</author>
+<author pid="56/2013">Justin Gottschlich</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="37/8000">Javier S. Turek</author>
+<author pid="56/794">Tim Mattson</author>
+<author pid="45/7115">Abdullah Muzahid</author>
+<title>A Zero-Positive Learning Approach for Diagnosing Software Performance Regressions.</title>
+<pages>11623-11635</pages>
+<year>2019</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2019/hash/9d1827dc5f75b9d65d80e25eb862e676-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/9337-a-zero-positive-learning-approach-for-diagnosing-software-performance-regressions</ee>
+<crossref>conf/nips/2019</crossref>
+<url>db/conf/nips/nips2019.html#AlamGTTMM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/EichmannSTZ19" mdate="2019-06-22">
+<author pid="160/4301">Philipp Eichmann</author>
+<author pid="239/9803">Franco Solleza</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="z/SBZdonik">Stan Zdonik</author>
+<title>Visual Exploration of Time Series Anomalies with Metro-Viz.</title>
+<pages>1901-1904</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3320247</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#EichmannSTZ19</url>
+</inproceedings>
+</r>
+<r><incollection key="books/mc/19/Tatbul14" mdate="2019-01-13">
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>The Aurora/Borealis/streambase codelines: a tale of three systems.</title>
+<pages>321-332</pages>
+<year>2019</year>
+<booktitle>Making Databases Work</booktitle>
+<ee>https://doi.org/10.1145/3226595.3226624</ee>
+<crossref>books/mc/B2019</crossref>
+<url>db/books/collections/B2019.html#Tatbul14</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-03711" mdate="2024-03-05">
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="221/2301">Parimarjan Negi</author>
+<author pid="150/3252">Hongzi Mao</author>
+<author pid="91/195-68">Chi Zhang 0068</author>
+<author pid="37/8397">Mohammad Alizadeh</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="37/3024">Olga Papaemmanouil</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Neo: A Learned Query Optimizer.</title>
+<year>2019</year>
+<volume>abs/1904.03711</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.03711</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-03711</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-04728" mdate="2024-04-08">
+<author pid="250/9509">Darryl Ho</author>
+<author pid="145/8597">Jialin Ding</author>
+<author pid="40/5576">Sanchit Misra</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="153/2198">Vikram Nathan</author>
+<author pid="157/2838">Md. Vasimuddin</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>LISA: Towards Learned DNA Sequence Search.</title>
+<year>2019</year>
+<volume>abs/1910.04728</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.04728</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-04728</url>
+</article>
+</r>
+<r><inproceedings key="conf/debs/Tatbul18" mdate="2018-11-21">
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>New Challenges and Opportunities in Stream Processing: Transactions, Predictive Analytics, and Beyond: (Invited Keynote).</title>
+<pages>14-15</pages>
+<year>2018</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/3210284.3214706</ee>
+<crossref>conf/debs/2018</crossref>
+<url>db/conf/debs/debs2018.html#Tatbul18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/TatbulLZAG18" mdate="2021-01-21">
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="213/7435">Tae Jun Lee</author>
+<author pid="z/SBZdonik">Stan Zdonik</author>
+<author pid="184/8315">Mejbah Alam</author>
+<author pid="56/2013">Justin Gottschlich</author>
+<title>Precision and Recall for Time Series.</title>
+<pages>1924-1934</pages>
+<year>2018</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2018/hash/8f468c873a32bb0619eaeb2050ba45d1-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/7462-precision-and-recall-for-time-series</ee>
+<crossref>conf/nips/2018</crossref>
+<url>db/conf/nips/nips2018.html#TatbulLZAG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/GottschlichSTCR18" mdate="2022-10-02">
+<author pid="56/2013">Justin Gottschlich</author>
+<author orcid="0000-0001-7604-8252" pid="95/6919">Armando Solar-Lezama</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="07/3119">Michael Carbin</author>
+<author pid="r/MartinCRinard">Martin C. Rinard</author>
+<author pid="b/ReginaBarzilay">Regina Barzilay</author>
+<author orcid="0000-0002-7231-7643" pid="a/SPAmarasinghe">Saman P. Amarasinghe</author>
+<author pid="t/JoshuaBTenenbaum">Joshua B. Tenenbaum</author>
+<author pid="56/794">Tim Mattson</author>
+<title>The three pillars of machine programming.</title>
+<pages>69-80</pages>
+<year>2018</year>
+<booktitle>MAPL@PLDI</booktitle>
+<ee>https://doi.org/10.1145/3211346.3211355</ee>
+<crossref>conf/pldi/2018mapl</crossref>
+<url>db/conf/pldi/mapl2018.html#GottschlichSTCR18</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Tatbul18" mdate="2019-02-14">
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Load Shedding.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_211</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/l2.html#Tatbul18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Tatbul18a" mdate="2019-02-14">
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Transactional Stream Processing.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_80704</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/t2.html#Tatbul18a</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-03168" mdate="2018-08-13">
+<author pid="170/3768">Tae-Jun Lee</author>
+<author pid="56/2013">Justin Gottschlich</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="213/7494">Eric Metcalf</author>
+<author pid="z/SBZdonik">Stan Zdonik</author>
+<title>Greenhouse: A Zero-Positive Machine Learning System for Time-Series Anomaly Detection.</title>
+<year>2018</year>
+<volume>abs/1801.03168</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.03168</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-03168</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-03175" mdate="2018-08-13">
+<author pid="213/7435">Tae Jun Lee</author>
+<author pid="56/2013">Justin Gottschlich</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="213/7494">Eric Metcalf</author>
+<author pid="z/SBZdonik">Stan Zdonik</author>
+<title>Precision and Recall for Range-Based Anomaly Detection.</title>
+<year>2018</year>
+<volume>abs/1801.03175</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.03175</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-03175</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-03639" mdate="2018-08-13">
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="213/7435">Tae Jun Lee</author>
+<author pid="z/SBZdonik">Stan Zdonik</author>
+<author pid="56/2013">Justin Gottschlich</author>
+<title>A New Model for Evaluating Range-Based Anomaly Detection Algorithms.</title>
+<year>2018</year>
+<volume>abs/1803.03639</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.03639</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-03639</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-07244" mdate="2022-04-29">
+<author pid="56/2013">Justin Gottschlich</author>
+<author pid="95/6919">Armando Solar-Lezama</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="07/3119">Michael Carbin</author>
+<author pid="r/MartinCRinard">Martin C. Rinard</author>
+<author pid="b/ReginaBarzilay">Regina Barzilay</author>
+<author pid="a/SPAmarasinghe">Saman P. Amarasinghe</author>
+<author pid="t/JoshuaBTenenbaum">Joshua B. Tenenbaum</author>
+<author pid="56/794">Tim Mattson</author>
+<title>The Three Pillars of Machine-Based Programming.</title>
+<year>2018</year>
+<volume>abs/1803.07244</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.07244</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-07244</url>
+</article>
+</r>
+<r><inproceedings key="conf/birte/0001MTZ17" mdate="2018-11-06">
+<author pid="32/724-1">Jiang Du 0001</author>
+<author pid="149/5905">John Meehan</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="z/SBZdonik">Stan Zdonik</author>
+<title>Towards Dynamic Data Placement for Polystore Ingestion.</title>
+<pages>2:1-2:8</pages>
+<year>2017</year>
+<booktitle>BIRTE</booktitle>
+<ee>https://doi.org/10.1145/3129292.3129297</ee>
+<crossref>conf/birte/2017</crossref>
+<url>db/conf/birte/birte2017.html#0001MTZ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/birte/0001MTZ17a" mdate="2019-10-11">
+<author pid="32/724-1">Jiang Du 0001</author>
+<author pid="149/5905">John Meehan</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="z/SBZdonik">Stan Zdonik</author>
+<title>Towards Dynamic Data Placement for Polystore Ingestion.</title>
+<pages>211-228</pages>
+<year>2017</year>
+<booktitle>BIRTE (Revised Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-24124-7_13</ee>
+<crossref>conf/birte/2017s</crossref>
+<url>db/conf/birte/birte2017s.html#0001MTZ17a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/MeehanAZT17" mdate="2020-03-12">
+<author pid="149/5905">John Meehan</author>
+<author pid="160/8827">Cansu Aslantas</author>
+<author pid="z/SBZdonik">Stan Zdonik</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="32/724-1">Jiang Du 0001</author>
+<title>Data Ingestion for the Connected World.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/papers/p124-meehan-cidr17.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#MeehanAZT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpec/MeehanZTTTDE16" mdate="2023-09-30">
+<author pid="149/5905">John Meehan</author>
+<author pid="z/SBZdonik">Stan Zdonik</author>
+<author pid="191/0523">Shaobo Tian</author>
+<author pid="04/9558">Yulong Tian</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="191/0540">Adam Dziedzic</author>
+<author orcid="0000-0002-4062-8826" pid="75/9436">Aaron J. Elmore</author>
+<title>Integrating real-time and batch processing in a polystore.</title>
+<pages>1-7</pages>
+<year>2016</year>
+<booktitle>HPEC</booktitle>
+<ee>https://doi.org/10.1109/HPEC.2016.7761585</ee>
+<crossref>conf/hpec/2016</crossref>
+<url>db/conf/hpec/hpec2016.html#MeehanZTTTDE16</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/16/CetintemelAABBCHMMRRSTXZ16" mdate="2023-08-08">
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="99/770">Yanif Ahmad</author>
+<author pid="b/HariBalakrishnan">Hari Balakrishnan</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="c/MitchCherniack">Mitch Cherniack</author>
+<author pid="97/5585">Jeong-Hyon Hwang</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="36/1442">Anurag Maskey</author>
+<author pid="39/998">Alexander Rasin</author>
+<author pid="79/5102">Esther Ryvkina</author>
+<author pid="s/MichaelStonebraker">Mike Stonebraker</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="79/5063">Ying Xing</author>
+<author pid="z/SBZdonik">Stan Zdonik</author>
+<title>The Aurora and Borealis Stream Processing Engines.</title>
+<pages>337-359</pages>
+<year>2016</year>
+<booktitle>Data Stream Management</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-28608-0_17</ee>
+<crossref>books/sp/GGR2016</crossref>
+<url>db/books/collections/GGR2016.html#CetintemelAABBCHMMRRSTXZ16</url>
+</incollection>
+</r>
+<r><article key="journals/debu/TatbulZMASTGQ15" mdate="2020-03-10">
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="z/SBZdonik">Stan Zdonik</author>
+<author pid="149/5905">John Meehan</author>
+<author pid="160/8827">Cansu Aslantas</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="t/KristinTufte">Kristin Tufte</author>
+<author pid="182/9249">Chris Giossi</author>
+<author pid="182/9243">Hong Quach</author>
+<title>Handling Shared, Mutable State in Stream Processing with Correctness Guarantees.</title>
+<pages>94-104</pages>
+<year>2015</year>
+<volume>38</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A15dec/p94.pdf</ee>
+<url>db/journals/debu/debu38.html#TatbulZMASTGQ15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ElmoreDSBCGHHKK15" mdate="2023-09-30">
+<author orcid="0000-0002-4062-8826" pid="75/9436">Aaron J. Elmore</author>
+<author orcid="0000-0002-4218-8502" pid="43/2286">Jennie Duggan</author>
+<author pid="s/MichaelStonebraker">Mike Stonebraker</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="86/7615">Vijay Gadepally</author>
+<author pid="27/4508">Jeffrey Heer</author>
+<author pid="h/BillHowe">Bill Howe</author>
+<author pid="25/6583">Jeremy Kepner</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<author pid="56/794">Timothy G. Mattson</author>
+<author pid="82/75">Stavros Papadopoulos 0001</author>
+<author pid="99/1163">Jeff Parkhurst</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="25/7592">Manasi Vartak</author>
+<author pid="z/SBZdonik">Stan Zdonik</author>
+<title>A Demonstration of the BigDAWG Polystore System.</title>
+<pages>1908-1911</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1908-Elmore.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824098</ee>
+<url>db/journals/pvldb/pvldb8.html#ElmoreDSBCGHHKK15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/MeehanTZACDKMMP15" mdate="2023-09-30">
+<author pid="149/5905">John Meehan</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="z/SBZdonik">Stan Zdonik</author>
+<author pid="160/8827">Cansu Aslantas</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="32/724-1">Jiang Du 0001</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="t/KristinTufte">Kristin Tufte</author>
+<author pid="181/2812">Hao Wang</author>
+<title>S-Store: Streaming Meets Transaction Processing.</title>
+<pages>2134-2145</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p2134-meehan.pdf</ee>
+<ee>https://doi.org/10.14778/2831360.2831367</ee>
+<url>db/journals/pvldb/pvldb8.html#MeehanTZACDKMMP15</url>
+</article>
+</r>
+<r><article key="journals/sigmod/CastellanosDTCC15" mdate="2020-03-06">
+<author pid="04/4211">Mal&#250; Castellanos</author>
+<author pid="76/2198">Umeshwar Dayal</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="c/DChatziantoniou">Damianos Chatziantoniou</author>
+<author pid="00/536">Qiming Chen</author>
+<title>Report on the 8th International Workshop on Business Intelligence for the Real-Time Enterprise (BIRTE'14).</title>
+<pages>62-63</pages>
+<year>2015</year>
+<volume>44</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2854006.2854019</ee>
+<url>db/journals/sigmod/sigmod44.html#CastellanosDTCC15</url>
+</article>
+</r>
+<r><proceedings key="conf/birte/2014" mdate="2017-05-17">
+<editor pid="04/4211">Mal&#250; Castellanos</editor>
+<editor pid="76/2198">Umeshwar Dayal</editor>
+<editor pid="p/TorbenBachPedersen">Torben Bach Pedersen</editor>
+<editor pid="t/NesimeTatbul">Nesime Tatbul</editor>
+<title>Enabling Real-Time Business Intelligence - International Workshops, BIRTE 2013, Riva del Garda, Italy, August 26, 2013, and BIRTE 2014, Hangzhou, China, September 1, 2014, Revised Selected Papers</title>
+<booktitle>BIRTE</booktitle>
+<publisher>Springer</publisher>
+<year>2015</year>
+<series href="db/series/lnbip/index.html">Lecture Notes in Business Information Processing</series>
+<volume>206</volume>
+<isbn>978-3-662-46838-8</isbn>
+<ee>https://doi.org/10.1007/978-3-662-46839-5</ee>
+<url>db/conf/birte/birte2014.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/MeehanTZACDKMMP15" mdate="2023-08-08">
+<author pid="149/5905">John Meehan</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<author pid="160/8827">Cansu Aslantas</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="32/724-1">Jiang Du 0001</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<author pid="58/4127">Andrew Pavlo</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="t/KristinTufte">Kristin Tufte</author>
+<author pid="181/2812">Hao Wang</author>
+<title>S-Store: Streaming Meets Transaction Processing.</title>
+<year>2015</year>
+<volume>abs/1503.01143</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1503.01143</ee>
+<url>db/journals/corr/corr1503.html#MeehanTZACDKMMP15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/CetintemelDKMMMPSSTTWZ14" mdate="2023-09-30">
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="32/724-1">Jiang Du 0001</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<author pid="149/5905">John Meehan</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="149/5936">Erik Sutherland</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="t/KristinTufte">Kristin Tufte</author>
+<author pid="181/2812">Hao Wang</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>S-Store: A Streaming NewSQL System for Big Velocity Applications.</title>
+<pages>1633-1636</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p1633-cetintemel.pdf</ee>
+<ee>https://doi.org/10.14778/2733004.2733048</ee>
+<url>db/journals/pvldb/pvldb7.html#CetintemelDKMMMPSSTTWZ14</url>
+</article>
+</r>
+<r><article key="journals/toit/GlavicEFT14" mdate="2018-11-06">
+<author orcid="0000-0003-2887-2452" pid="09/3012">Boris Glavic</author>
+<author pid="e/KyumarsSheykhEsmaili">Kyumars Sheykh Esmaili</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Efficient Stream Provenance via Operator Instrumentation.</title>
+<pages>7:1-7:26</pages>
+<year>2014</year>
+<volume>14</volume>
+<journal>ACM Trans. Internet Techn.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2633689</ee>
+<url>db/journals/toit/toit14.html#GlavicEFT14</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/OzcanTAKMRW14" mdate="2018-11-06">
+<author pid="o/FatmaOzcan">Fatma &#214;zcan</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="11/6425">Marcel Kornacker</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="r/KRamasamy">Karthik Ramasamy</author>
+<author pid="w/JanetLWiener">Janet L. Wiener</author>
+<title>Are we experiencing a big data bubble?</title>
+<pages>1407-1408</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2618215</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#OzcanTAKMRW14</url>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/DindarTMHB13" mdate="2017-05-28">
+<author pid="86/7118">Nihal Dindar</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="62/5535">Irina Botan</author>
+<title>Modeling the execution semantics of stream processing engines with SECRET.</title>
+<pages>421-446</pages>
+<year>2013</year>
+<volume>22</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00778-012-0297-3</ee>
+<url>db/journals/vldb/vldb22.html#DindarTMHB13</url>
+</article>
+</r>
+<r><inproceedings key="conf/debs/BalkesenDWT13" mdate="2018-11-06">
+<author pid="45/7587">Cagri Balkesen</author>
+<author pid="86/7118">Nihal Dindar</author>
+<author pid="132/0335">Matthias Wetter</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>RIP: run-based intra-query parallelism for scalable complex event processing.</title>
+<pages>3-14</pages>
+<year>2013</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/2488222.2488257</ee>
+<crossref>conf/debs/2013</crossref>
+<url>db/conf/debs/debs2013.html#BalkesenDWT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/BalkesenTO13" mdate="2018-11-06">
+<author pid="45/7587">Cagri Balkesen</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author orcid="0000-0002-8126-1717" pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<title>Adaptive input admission and management for parallel stream processing.</title>
+<pages>15-26</pages>
+<year>2013</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/2488222.2488258</ee>
+<crossref>conf/debs/2013</crossref>
+<url>db/conf/debs/debs2013.html#BalkesenTO13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/GlavicEFT13" mdate="2018-11-06">
+<author orcid="0000-0003-2887-2452" pid="09/3012">Boris Glavic</author>
+<author pid="e/KyumarsSheykhEsmaili">Kyumars Sheykh Esmaili</author>
+<author pid="f/PeterMFischer1">Peter Michael Fischer</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Ariadne: managing fine-grained provenance on data streams.</title>
+<pages>39-50</pages>
+<year>2013</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/2488222.2488256</ee>
+<crossref>conf/debs/2013</crossref>
+<url>db/conf/debs/debs2013.html#GlavicEFT13</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/SacanT12" mdate="2020-04-25">
+<author pid="00/623">Ahmet Sacan</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Letter from the Associate Editors.</title>
+<pages>i-viii</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/frontmatterVol5No10.pdf</ee>
+<url>db/journals/pvldb/pvldb5.html#SacanT12</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/BotanFKT12" mdate="2018-11-06">
+<author pid="62/5535">Irina Botan</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Transactional stream processing.</title>
+<pages>204-215</pages>
+<year>2012</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/2247596.2247622</ee>
+<crossref>conf/edbt/2012</crossref>
+<url>db/conf/edbt/edbt2012.html#BotanFKT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KienzlerBRT12" mdate="2023-03-23">
+<author pid="50/8354">Romeo Kienzler</author>
+<author pid="70/11144">R&#233;my Bruggmann</author>
+<author pid="73/6323">Anand Ranganathan</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Stream as You Go: The Case for Incremental Data Access and Processing in the Cloud.</title>
+<pages>159-166</pages>
+<year>2012</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2012.69</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2012.69</ee>
+<crossref>conf/icde/2012w</crossref>
+<url>db/conf/icde/icdew2012.html#KienzlerBRT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/KienzlerBRT12" mdate="2017-05-21">
+<author pid="50/8354">Romeo Kienzler</author>
+<author pid="70/11144">R&#233;my Bruggmann</author>
+<author pid="73/6323">Anand Ranganathan</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Incremental DNA Sequence Analysis in the Cloud.</title>
+<pages>640-645</pages>
+<year>2012</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31235-9_50</ee>
+<crossref>conf/ssdbm/2012</crossref>
+<url>db/conf/ssdbm/ssdbm2012.html#KienzlerBRT12</url>
+</inproceedings>
+</r>
+<r><article key="journals/dpd/BuchmannTN11" mdate="2020-05-18">
+<author pid="11/226">Erik Buchmann</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="n/MarioANascimento">Mario A. Nascimento</author>
+<title>Query processing in sensor networks.</title>
+<pages>1-2</pages>
+<year>2011</year>
+<volume>29</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1007/s10619-010-7076-1</ee>
+<url>db/journals/dpd/dpd29.html#BuchmannTN11</url>
+</article>
+</r>
+<r><article key="journals/pvldb/MogaT11" mdate="2020-04-25">
+<author pid="69/10355">Alexandru Moga</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>UpStream: A Storage-centric Load Management System for Real-time Update Streams.</title>
+<pages>1442-1445</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p1442-moga.pdf</ee>
+<url>db/journals/pvldb/pvldb4.html#MogaT11</url>
+</article>
+</r>
+<r><article key="journals/vldb/MogaBT11" mdate="2017-05-28">
+<author pid="69/10355">Alexandru Moga</author>
+<author pid="62/5535">Irina Botan</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>UpStream: storage-centric load management for streaming applications with update semantics.</title>
+<pages>867-892</pages>
+<year>2011</year>
+<volume>20</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00778-011-0229-7</ee>
+<url>db/journals/vldb/vldb20.html#MogaBT11</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/GlavicEFT11" mdate="2015-07-22">
+<author pid="09/3012">Boris Glavic</author>
+<author pid="e/KyumarsSheykhEsmaili">Kyumars Sheykh Esmaili</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>The Case for Fine-Grained Stream Provenance.</title>
+<pages>58-61</pages>
+<year>2011</year>
+<booktitle>BTW Workshops</booktitle>
+<crossref>conf/btw/2011w</crossref>
+<url>db/conf/btw/btw2011w.html#GlavicEFT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/DindarFST11" mdate="2018-11-06">
+<author pid="86/7118">Nihal Dindar</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="93/7113">Merve Soner</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Efficiently correlating complex events over live and archived data streams.</title>
+<pages>243-254</pages>
+<year>2011</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/2002259.2002293</ee>
+<crossref>conf/debs/2011</crossref>
+<url>db/conf/debs/debs2011.html#DindarFST11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/DindarFT11" mdate="2018-11-06">
+<author pid="86/7118">Nihal Dindar</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>DejaVu: a complex event processing system for pattern matching over live and historical data streams.</title>
+<pages>399-400</pages>
+<year>2011</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/2002259.2002330</ee>
+<crossref>conf/debs/2011</crossref>
+<url>db/conf/debs/debs2011.html#DindarFT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/KienzlerBRT11" mdate="2017-05-24">
+<author pid="50/8354">Romeo Kienzler</author>
+<author pid="70/11144">R&#233;my Bruggmann</author>
+<author pid="73/6323">Anand Ranganathan</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Large-Scale DNA Sequence Analysis in the Cloud: A Stream-Based Approach.</title>
+<pages>467-476</pages>
+<year>2011</year>
+<booktitle>Euro-Par Workshops (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-29740-3_52</ee>
+<crossref>conf/europar/2011w2</crossref>
+<url>db/conf/europar/europar2011w2.html#KienzlerBRT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/OzalRT11" mdate="2018-11-06">
+<author pid="80/7117">Asli &#214;zal</author>
+<author pid="73/6323">Anand Ranganathan</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Real-time route planning with stream processing systems: a case study for the city of Lucerne.</title>
+<pages>21-28</pages>
+<year>2011</year>
+<booktitle>GIS-IWGS</booktitle>
+<ee>https://doi.org/10.1145/2064959.2064965</ee>
+<crossref>conf/gis/2011iwgs</crossref>
+<url>db/conf/gis/iwgs2011.html#OzalRT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/DullerRAT11" mdate="2024-02-05">
+<author pid="45/1113">Michael Duller</author>
+<author orcid="0000-0003-3791-7114" pid="21/4498">Jan S. Rellermeyer</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Virtualizing Stream Processing.</title>
+<pages>269-288</pages>
+<year>2011</year>
+<booktitle>Middleware</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-25821-3_14</ee>
+<crossref>conf/middleware/2011</crossref>
+<url>db/conf/middleware/middleware2011.html#DullerRAT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/EsmailiSFT11" mdate="2018-11-06">
+<author pid="e/KyumarsSheykhEsmaili">Kyumars Sheykh Esmaili</author>
+<author pid="68/9726">Tahmineh Sanamrad</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Changing flights in mid-air: a model for safely modifying continuous queries.</title>
+<pages>613-624</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989388</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#EsmailiSFT11</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/BotanDDHMT10" mdate="2020-04-25">
+<author pid="62/5535">Irina Botan</author>
+<author pid="40/3351">Roozbeh Derakhshan</author>
+<author pid="86/7118">Nihal Dindar</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>SECRET: A Model for Analysis of the Execution Semantics of Stream Processing Systems.</title>
+<pages>232-243</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R20.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920874</ee>
+<url>db/journals/pvldb/pvldb3.html#BotanDDHMT10</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/Tatbul10" mdate="2023-03-23">
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Streaming data integration: Challenges and opportunities.</title>
+<pages>155-158</pages>
+<year>2010</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2010.5452751</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2010.5452751</ee>
+<crossref>conf/icde/2010w</crossref>
+<url>db/conf/icde/icdew2010.html#Tatbul10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BotanCDDGHKLMSTYYZ10" mdate="2023-03-23">
+<author pid="62/5535">Irina Botan</author>
+<author pid="94/7992">Younggoo Cho</author>
+<author pid="40/3351">Roozbeh Derakhshan</author>
+<author pid="86/7118">Nihal Dindar</author>
+<author pid="46/879">Ankush Gupta</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="29/2828">Kihong Kim</author>
+<author pid="24/7993">Chulwon Lee</author>
+<author pid="21/7992">Girish Mundada</author>
+<author pid="64/561">Ming-Chien Shan</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="77/4933">Ying Yan</author>
+<author pid="75/7992">Beomjin Yun</author>
+<author pid="43/6657">Jin Zhang</author>
+<title>A demonstration of the MaxStream federated stream processing system.</title>
+<pages>1093-1096</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447906</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447906</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#BotanCDDGHKLMSTYYZ10</url>
+</inproceedings>
+</r>
+<r><article key="journals/pervasive/DindarBKT09" mdate="2020-03-31">
+<author pid="86/7118">Nihal Dindar</author>
+<author pid="45/7587">Cagri Balkesen</author>
+<author pid="64/7587">Katina Kromwijk</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Event Processing Support for Cross-Reality Environments.</title>
+<pages>34-41</pages>
+<year>2009</year>
+<volume>8</volume>
+<journal>IEEE Pervasive Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MPRV.2009.43</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MPRV.2009.43</ee>
+<url>db/journals/pervasive/pervasive8.html#DindarBKT09</url>
+</article>
+</r>
+<r><inproceedings key="conf/birte/BotanCDDHKT09" mdate="2017-05-17">
+<author pid="62/5535">Irina Botan</author>
+<author pid="94/7992">Younggoo Cho</author>
+<author pid="40/3351">Roozbeh Derakhshan</author>
+<author pid="86/7118">Nihal Dindar</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="29/2828">Kihong Kim</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Federated Stream Processing Support for Real-Time Business Intelligence Applications.</title>
+<pages>14-31</pages>
+<year>2009</year>
+<booktitle>BIRTE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14559-9_2</ee>
+<crossref>conf/birte/2009</crossref>
+<url>db/conf/birte/birte2009.html#BotanCDDHKT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/BotanAFKT09" mdate="2018-11-06">
+<author pid="62/5535">Irina Botan</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Flexible and scalable storage management for data-intensive stream processing.</title>
+<pages>934-945</pages>
+<year>2009</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1516360.1516467</ee>
+<crossref>conf/edbt/2009</crossref>
+<url>db/conf/edbt/edbt2009.html#BotanAFKT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DindarGLOST09" mdate="2018-11-06">
+<author pid="86/7118">Nihal Dindar</author>
+<author pid="54/1088">Baris G&#252;&#231;</author>
+<author pid="60/6187">Patrick Lau</author>
+<author pid="80/7117">Asli &#214;zal</author>
+<author pid="93/7113">Merve Soner</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>DejaVu: declarative pattern matching over live and archived streams of events.</title>
+<pages>1023-1026</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559971</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#DindarGLOST09</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dmsn/2009" mdate="2018-11-06">
+<editor pid="n/MarioANascimento">Mario A. Nascimento</editor>
+<editor pid="t/NesimeTatbul">Nesime Tatbul</editor>
+<title>Proceedings of the 6th Workshop on Data Management for Sensor Networks, in conjunction with VLDB, DMSN 2009, Lyon, France, August 24, 2009</title>
+<year>2009</year>
+<booktitle>DMSN</booktitle>
+<series href="db/series/aicps/index.html">ACM International Conference Proceeding Series</series>
+<publisher>ACM</publisher>
+<ee>https://doi.org/10.1145/1594187</ee>
+<url>db/conf/dmsn/dmsn2009.html</url>
+<isbn>978-1-60558-777-6</isbn>
+</proceedings>
+</r>
+<r><proceedings key="conf/sigmod/2009" mdate="2021-03-11">
+<editor pid="c/UgurCetintemel">Ugur &#199;etintemel</editor>
+<editor pid="z/SBZdonik">Stanley B. Zdonik</editor>
+<editor pid="k/DonaldKossmann">Donald Kossmann</editor>
+<editor pid="t/NesimeTatbul">Nesime Tatbul</editor>
+<title>Proceedings of the ACM SIGMOD International Conference on Management of Data, SIGMOD 2009, Providence, Rhode Island, USA, June 29 - July 2, 2009</title>
+<booktitle>SIGMOD Conference</booktitle>
+<publisher>ACM</publisher>
+<year>2009</year>
+<isbn>978-1-60558-551-2</isbn>
+<ee>https://doi.org/10.1145/1559845</ee>
+<url>db/conf/sigmod/sigmod2009.html</url>
+</proceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Tatbul09" mdate="2017-07-12">
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Load Shedding.</title>
+<pages>1632-1636</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_211</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/l.html#Tatbul09</url>
+</incollection>
+</r>
+<r><article key="journals/pvldb/AkdereCT08" mdate="2020-04-25">
+<author pid="02/3290">Mert Akdere</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Plan-based complex event detection across distributed sources.</title>
+<pages>66-77</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1453869.pdf</ee>
+<ee>https://doi.org/10.14778/1453856.1453869</ee>
+<url>db/journals/pvldb/pvldb1.html#AkdereCT08</url>
+</article>
+</r>
+<r><article key="journals/sigmod/AlonsoKRTBBFRT08" mdate="2020-03-06">
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="r/TimothyRoscoe">Timothy Roscoe</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="53/6957">Andrew Baumann</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="53/3712">Oriana Riva</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>The ETH Zurich systems group and enterprise computing center.</title>
+<pages>94-99</pages>
+<year>2008</year>
+<volume>37</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1519103.1519120</ee>
+<url>db/journals/sigmod/sigmod37.html#AlonsoKRTBBFRT08</url>
+</article>
+</r>
+<r><phdthesis key="phd/us/Tatbul07" mdate="2022-06-28">
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>Load Shedding Techniques for Data Stream Management Systems.</title>
+<school>Brown University, USA</school>
+<year>2007</year>
+<ee>https://cs.brown.edu/research/pubs/theses/phd/2007/tatbul.pdf</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/vldb/TatbulCZ07" mdate="2020-03-12">
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>Staying FIT: Efficient Load Shedding Techniques for Distributed Stream Processing.</title>
+<pages>159-170</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/research/p159-tatbul.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#TatbulCZ07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gsn/TatbulACHXZ06" mdate="2017-05-17">
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="99/770">Yanif Ahmad</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="97/5585">Jeong-Hyon Hwang</author>
+<author pid="79/5063">Ying Xing</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>Load Management and High Availability in the Borealis Distributed Stream Processing Engine.</title>
+<pages>66-85</pages>
+<year>2006</year>
+<booktitle>GSN</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-79996-2_5</ee>
+<crossref>conf/gsn/2006</crossref>
+<url>db/conf/gsn/gsn2006.html#TatbulACHXZ06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/TatbulZ06" mdate="2023-03-24">
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>Dealing with Overload in Distributed Stream Processing Systems.</title>
+<pages>24</pages>
+<year>2006</year>
+<crossref>conf/icde/2006w</crossref>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2006.45</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2006.45</ee>
+<url>db/conf/icde/icdew2006.html#TatbulZ06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/TatbulZ06" mdate="2020-03-12">
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>Window-Aware Load Shedding for Aggregation Queries over Data Streams.</title>
+<pages>799-810</pages>
+<year>2006</year>
+<crossref>conf/vldb/2006</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1164196</ee>
+<ee type="oa">http://www.vldb.org/conf/2006/p799-tatbul.pdf</ee>
+<url>db/conf/vldb/vldb2006.html#TatbulZ06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/AbadiABCCHLMRRTXZ05" mdate="2020-03-12">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="99/770">Yanif Ahmad</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="c/MitchCherniack">Mitch Cherniack</author>
+<author pid="97/5585">Jeong-Hyon Hwang</author>
+<author pid="l/WolfgangLindner">Wolfgang Lindner 0001</author>
+<author pid="36/1442">Anurag Maskey</author>
+<author pid="39/998">Alex Rasin</author>
+<author pid="79/5102">Esther Ryvkina</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="79/5063">Ying Xing</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>The Design of the Borealis Stream Processing Engine.</title>
+<pages>277-289</pages>
+<year>2005</year>
+<crossref>conf/cidr/2005</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2005/papers/P23.pdf</ee>
+<url>db/conf/cidr/cidr2005.html#AbadiABCCHLMRRTXZ05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AhmadBCHHJMPRTXXZ05" mdate="2018-11-06">
+<author pid="99/770">Yanif Ahmad</author>
+<author pid="11/3541">Bradley Berg</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="10/2758">Mark Humphrey</author>
+<author pid="97/5585">Jeong-Hyon Hwang</author>
+<author pid="61/248">Anjali Jhingran</author>
+<author pid="36/1442">Anurag Maskey</author>
+<author pid="37/3024">Olga Papaemmanouil</author>
+<author pid="39/998">Alex Rasin</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="57/6085">Wenjuan Xing</author>
+<author pid="79/5063">Ying Xing</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>Distributed operation in the Borealis stream processing engine.</title>
+<pages>882-884</pages>
+<year>2005</year>
+<crossref>conf/sigmod/2005</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1066157.1066274</ee>
+<url>db/conf/sigmod/sigmod2005.html#AhmadBCHHJMPRTXXZ05</url>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/BalakrishnanBCCCCGSSTTZ04" mdate="2017-05-28">
+<author pid="b/HariBalakrishnan">Hari Balakrishnan</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="06/3450">Donald Carney</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="c/MitchCherniack">Mitch Cherniack</author>
+<author pid="10/3476">Christian Convey</author>
+<author pid="58/6473">Eduardo F. Galvez</author>
+<author pid="62/6390">Jon Salz</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="62/3468">Richard Tibbetts</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>Retrospective on Aurora.</title>
+<pages>370-383</pages>
+<year>2004</year>
+<volume>13</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00778-004-0133-5</ee>
+<url>db/journals/vldb/vldb13.html#BalakrishnanBCCCCGSSTTZ04</url>
+</article>
+</r>
+<r><inproceedings key="conf/dmsn/TatbulBHMZ04" mdate="2018-11-06">
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="14/3610">Mark J. Buller</author>
+<author pid="72/4893">Reed W. Hoyt</author>
+<author pid="25/6911">Steve Mullen</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>Confidence-based data management for personal area sensor networks.</title>
+<pages>24-31</pages>
+<year>2004</year>
+<booktitle>DMSN</booktitle>
+<ee>https://doi.org/10.1145/1052199.1052204</ee>
+<crossref>conf/dmsn/2004</crossref>
+<url>db/conf/dmsn/dmsn2004.html#TatbulBHMZ04</url>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/AbadiCCCCLSTZ03" mdate="2018-11-14">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="06/3450">Donald Carney</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="c/MitchCherniack">Mitch Cherniack</author>
+<author pid="10/3476">Christian Convey</author>
+<author pid="59/2779">Sangdon Lee</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>Aurora: a new model and architecture for data stream management.</title>
+<pages>120-139</pages>
+<year>2003</year>
+<volume>12</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-003-0095-z</ee>
+<ee>https://www.wikidata.org/entity/Q56741695</ee>
+<url>db/journals/vldb/vldb12.html#AbadiCCCCLSTZ03</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/AbadiCCCCEGHMRSSTXYZ03" mdate="2018-11-06">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="06/3450">Donald Carney</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="c/MitchCherniack">Mitch Cherniack</author>
+<author pid="10/3476">Christian Convey</author>
+<author pid="58/5415">C. Erwin</author>
+<author pid="58/6473">Eduardo F. Galvez</author>
+<author pid="97/3174">M. Hatoun</author>
+<author pid="36/1442">Anurag Maskey</author>
+<author pid="39/998">Alex Rasin</author>
+<author pid="33/5581">A. Singer</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="79/5063">Ying Xing</author>
+<author pid="32/396">R. Yan</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>Aurora: A Data Stream Management System.</title>
+<pages>666</pages>
+<year>2003</year>
+<crossref>conf/sigmod/2003</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2003.html#AbadiCCCCEGHMRSSTXYZ03</url>
+<ee>https://doi.org/10.1145/872757.872855</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/TatbulCZCS03" mdate="2020-03-12">
+<ee type="oa">http://www.vldb.org/conf/2003/papers/S10P03.pdf</ee>
+<ee>https://doi.org/10.1016/B978-012722442-8/50035-5</ee>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<author pid="c/MitchCherniack">Mitch Cherniack</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>Load Shedding in a Data Stream Manager.</title>
+<year>2003</year>
+<crossref>conf/vldb/2003</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2003.html#TatbulCZCS03</url>
+<pages>309-320</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/Tatbul02" mdate="2003-04-03">
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>OoS-Driven Load Shedding on Data Streams.</title>
+<pages>21-30</pages>
+<year>2002</year>
+<crossref>conf/edbt/2002phd</crossref>
+<booktitle>EDBT PhD Workshop</booktitle>
+<url>db/conf/edbt/edbt2002phd.html#Tatbul02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbtw/Tatbul02" mdate="2017-05-19">
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>QoS-Driven Load Shedding on Data Streams.</title>
+<pages>566-576</pages>
+<year>2002</year>
+<crossref>conf/edbtw/2002</crossref>
+<booktitle>EDBT Workshops</booktitle>
+<ee>https://doi.org/10.1007/3-540-36128-6_36</ee>
+<url>db/conf/edbtw/edbtw2002.html#Tatbul02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/CarneyCCCLSSTZ02" mdate="2020-03-12">
+<author pid="06/3450">Donald Carney</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="c/MitchCherniack">Mitch Cherniack</author>
+<author pid="10/3476">Christian Convey</author>
+<author pid="59/2779">Sangdon Lee</author>
+<author pid="23/147">Greg Seidman</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>Monitoring Streams - A New Class of Data Management Applications.</title>
+<year>2002</year>
+<crossref>conf/vldb/2002</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2002.html#CarneyCCCLSSTZ02</url>
+<ee type="oa">http://www.vldb.org/conf/2002/S07P02.pdf</ee>
+<ee>https://doi.org/10.1016/B978-155860869-6/50027-5</ee>
+<pages>215-226</pages>
+</inproceedings>
+</r>
+<r><article key="journals/jodl/ArpinarDT00" mdate="2021-07-10">
+<author pid="a/SenaNuralArpinar">Sena Nural Arpinar</author>
+<author pid="d/ADogac">Asuman Dogac</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>An open electronic marketplace through agent-based workflows: MOPPET.</title>
+<pages>36-59</pages>
+<year>2000</year>
+<volume>3</volume>
+<journal>Int. J. Digit. Libr.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/PL00021474</ee>
+<url>db/journals/jodl/jodl3.html#ArpinarDT00</url>
+</article>
+</r>
+<r><inproceedings key="conf/coopis/DogacTTETHIB00" mdate="2017-05-24">
+<author pid="d/ADogac">Asuman Dogac</author>
+<author pid="20/1726">Yusuf Tambag</author>
+<author pid="18/4444">Arif Tumer</author>
+<author pid="07/3206">M. Ezbiderli</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="87/1048">N. Hamali</author>
+<author pid="11/598">C. Icdem</author>
+<author pid="b/CBeeri">Catriel Beeri</author>
+<title>A Workflow System through Cooperating Agents for Control and Document Flow over the Internet.</title>
+<pages>138-143</pages>
+<year>2000</year>
+<crossref>conf/coopis/2000</crossref>
+<booktitle>CoopIS</booktitle>
+<url>db/conf/coopis/coopis2000.html#DogacTTETHIB00</url>
+<ee>https://doi.org/10.1007/10722620_14</ee>
+<cite>conf/icde/ChenD96</cite>
+<cite>...</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/DogacETITTHB00" mdate="2023-03-24">
+<author pid="d/ADogac">Asuman Dogac</author>
+<author pid="07/3206">M. Ezbiderli</author>
+<author pid="20/1726">Yusuf Tambag</author>
+<author pid="11/598">C. Icdem</author>
+<author pid="18/4444">Arif Tumer</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="87/1048">N. Hamali</author>
+<author pid="b/CBeeri">Catriel Beeri</author>
+<title>The MARIFlow Workflow Management System.</title>
+<pages>193</pages>
+<year>2000</year>
+<crossref>conf/icde/2000</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2000.839407</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2000.839407</ee>
+<url>db/conf/icde/icde2000.html#DogacETITTHB00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/doa/CingilDTA99" mdate="2023-03-23">
+<author pid="19/4142">Ibrahim Cingil</author>
+<author pid="d/ADogac">Asuman Dogac</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="a/SenaNuralArpinar">Sena Nural Arpinar</author>
+<title>An Adaptable Workflow System Architecture on the Internet for Electronic Commerce Applications.</title>
+<pages>242-251</pages>
+<year>1999</year>
+<crossref>conf/doa/1999</crossref>
+<booktitle>DOA</booktitle>
+<ee>https://doi.org/10.1109/DOA.1999.794038</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DOA.1999.794038</ee>
+<url>db/conf/doa/doa1999.html#CingilDTA99</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/DogacDATKCD98" mdate="2020-03-06">
+<ee>https://doi.org/10.1145/306101.306109</ee>
+<author pid="d/ADogac">Asuman Dogac</author>
+<author pid="77/3549">Ilker Durusoy</author>
+<author pid="a/SenaNuralArpinar">Sena Nural Arpinar</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="65/3078">Pinar Koksal</author>
+<author pid="19/4142">Ibrahim Cingil</author>
+<author pid="43/1483">Nazife Dimililer</author>
+<title>A Workflow-based Electronic Marketplace on the Web.</title>
+<pages>25-31</pages>
+<cdrom>sigmodR/27-4/P025.pdf</cdrom>
+<year>1998</year>
+<volume>27</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<url>db/journals/sigmod/sigmod27.html#DogacDATKCD98</url>
+<cite>...</cite>
+<cite>conf/ifip/BichlerBS98</cite>
+<cite>journals/wwwj/Bosak97</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>www/org/w3/dom</cite>
+<cite>www/org/w3/TR/REC-xml</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/sigmod/KoksalAD98</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/sigmod/Manola98</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+</article>
+</r>
+<r><inproceedings key="conf/ercimdl/DogacDAGTK98" mdate="2017-05-23">
+<author pid="d/ADogac">Asuman Dogac</author>
+<author pid="77/3549">Ilker Durusoy</author>
+<author pid="a/SenaNuralArpinar">Sena Nural Arpinar</author>
+<author pid="04/5681">Esin Gokkoca</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="65/3078">Pinar Koksal</author>
+<title>METU-Emar: An Agent-Based Electronic Marketplace on the Web.</title>
+<pages>777-790</pages>
+<ee>https://doi.org/10.1007/3-540-49653-X_80</ee>
+<year>1998</year>
+<crossref>conf/ercimdl/1998</crossref>
+<booktitle>ECDL</booktitle>
+<url>db/conf/ercimdl/ercimdl98.html#DogacDAGTK98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iadt/KaragozAKTGD98" mdate="2017-03-20">
+<author pid="s/PinarSenkul">Pinar Karagoz</author>
+<author pid="a/SenaNuralArpinar">Sena Nural Arpinar</author>
+<author pid="65/3078">Pinar Koksal</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="04/5681">Esin Gokkoca</author>
+<author pid="d/ADogac">Asuman Dogac</author>
+<title>Task Handling in Workflow Management Systems.</title>
+<pages>71-78</pages>
+<year>1998</year>
+<crossref>conf/iadt/1998</crossref>
+<booktitle>IADT</booktitle>
+<url>db/conf/iadt/iadt98.html#KaragozAKTGD98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coopis/GokkocaACTKD97" mdate="2023-03-24">
+<author pid="04/5681">Esin Gokkoca</author>
+<author pid="02/6597">Mehmet Altinel</author>
+<author pid="19/4142">Ibrahim Cingil</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="65/3078">Pinar Koksal</author>
+<author pid="d/ADogac">Asuman Dogac</author>
+<title>Design and Implementation of a Distributed Workflow Enactment Service.</title>
+<pages>89-98</pages>
+<cdrom>COOPIS1997/79460089.pdf</cdrom>
+<year>1997</year>
+<crossref>conf/coopis/97</crossref>
+<booktitle>CoopIS</booktitle>
+<ee>https://doi.org/10.1109/COOPIS.1997.613806</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/COOPIS.1997.613806</ee>
+<url>db/conf/coopis/coopis97.html#GokkocaACTKD97</url>
+</inproceedings>
+</r>
+<coauthors n="216" nc="1">
+<co c="0"><na f="a/Abadi:Daniel_J=" pid="a/DJAbadi">Daniel J. Abadi</na></co>
+<co c="0"><na f="a/Ahmad:Yanif" pid="99/770">Yanif Ahmad</na></co>
+<co c="0"><na f="a/Akdere:Mert" pid="02/3290">Mert Akdere</na></co>
+<co c="0"><na f="a/Alam:Mejbah" pid="184/8315">Mejbah Alam</na></co>
+<co c="0"><na f="a/Alizadeh:Mohammad" pid="37/8397">Mohammad Alizadeh</na></co>
+<co c="0"><na f="a/Alonso:Gustavo" pid="a/GustavoAlonso">Gustavo Alonso</na></co>
+<co c="0"><na f="a/Altinel:Mehmet" pid="02/6597">Mehmet Altinel</na></co>
+<co c="0"><na f="a/Amarasinghe:Saman_P=" pid="a/SPAmarasinghe">Saman P. Amarasinghe</na></co>
+<co c="0"><na f="a/Amsterdamer:Yael" pid="88/9060">Yael Amsterdamer</na></co>
+<co c="0"><na f="a/Anneser:Christoph" pid="231/3706">Christoph Anneser</na></co>
+<co c="0"><na f="a/Appuswamy:Raja" pid="57/1978">Raja Appuswamy</na></co>
+<co c="0"><na f="a/Arpinar:Sena_Nural" pid="a/SenaNuralArpinar">Sena Nural Arpinar</na></co>
+<co c="0"><na f="a/Artikis:Alexander" pid="a/AArtikis">Alexander Artikis</na></co>
+<co c="0"><na f="a/Aslantas:Cansu" pid="160/8827">Cansu Aslantas</na></co>
+<co c="0"><na f="a/Athanassoulis:Manos" pid="82/7402">Manos Athanassoulis</na></co>
+<co c="0"><na f="b/Balakrishnan:Hari" pid="b/HariBalakrishnan">Hari Balakrishnan</na></co>
+<co c="0"><na f="b/Balazinska:Magdalena" pid="b/MagdalenaBalazinska">Magdalena Balazinska</na></co>
+<co c="0"><na f="b/Balkesen:Cagri" pid="45/7587">Cagri Balkesen</na></co>
+<co c="0"><na f="b/Barzilay:Regina" pid="b/ReginaBarzilay">Regina Barzilay</na></co>
+<co c="0"><na f="b/Baumann:Andrew" pid="53/6957">Andrew Baumann</na></co>
+<co c="0"><na f="b/Beeri:Catriel" pid="b/CBeeri">Catriel Beeri</na></co>
+<co c="0"><na f="b/Berg:Bradley" pid="11/3541">Bradley Berg</na></co>
+<co c="0"><na f="b/Binnig:Carsten" pid="45/1559">Carsten Binnig</na></co>
+<co c="0"><na f="b/Bordawekar:Rajesh" pid="28/6851">Rajesh Bordawekar</na></co>
+<co c="0"><na f="b/Botan:Irina" pid="62/5535">Irina Botan</na></co>
+<co c="0"><na f="b/Brahmaroutu:Ashrita" pid="273/7114">Ashrita Brahmaroutu</na></co>
+<co c="0"><na f="b/Bruggmann:R=eacute=my" pid="70/11144">R&#233;my Bruggmann</na></co>
+<co c="0"><na f="b/Buchmann:Erik" pid="11/226">Erik Buchmann</na></co>
+<co c="0"><na f="b/Buller:Mark_J=" pid="14/3610">Mark J. Buller</na></co>
+<co c="0"><na f="c/Cao_0004:Lei" pid="17/6060-4">Lei Cao 0004</na></co>
+<co c="0"><na f="c/Carbin:Michael" pid="07/3119">Michael Carbin</na></co>
+<co c="0"><na f="c/Carney:Donald" pid="06/3450">Donald Carney</na></co>
+<co c="0"><na f="c/Castellanos:Mal=uacute=" pid="04/4211">Mal&#250; Castellanos</na></co>
+<co c="0"><na f="=/=Ccedil=etintemel:Ugur" pid="c/UgurCetintemel">Ugur &#199;etintemel</na></co>
+<co c="0"><na f="c/Chandramouli:Badrish" pid="01/2861">Badrish Chandramouli</na></co>
+<co c="0"><na f="c/Chatziantoniou:Damianos" pid="c/DChatziantoniou">Damianos Chatziantoniou</na></co>
+<co c="0"><na f="c/Chen:Qiming" pid="00/536">Qiming Chen</na></co>
+<co c="0"><na f="c/Chen:Weiting" pid="30/1436">Weiting Chen</na></co>
+<co c="0"><na f="c/Cheng:Xuntao" pid="159/7654">Xuntao Cheng</na></co>
+<co c="0"><na f="c/Cherniack:Mitch" pid="c/MitchCherniack">Mitch Cherniack</na></co>
+<co c="0"><na f="c/Cho:Younggoo" pid="94/7992">Younggoo Cho</na></co>
+<co c="0"><na f="c/Cingil:Ibrahim" pid="19/4142">Ibrahim Cingil</na></co>
+<co c="0"><na f="c/Cohen:David_E=" pid="355/0096">David E. Cohen</na></co>
+<co c="0"><na f="c/Convey:Christian" pid="10/3476">Christian Convey</na></co>
+<co c="0"><na f="c/Crotty:Andrew" pid="147/4971">Andrew Crotty</na></co>
+<co c="0"><na f="d/Dayal:Umeshwar" pid="76/2198">Umeshwar Dayal</na></co>
+<co c="0"><na f="d/Derakhshan:Roozbeh" pid="40/3351">Roozbeh Derakhshan</na></co>
+<co c="0"><na f="d/Diao:Yanlei" pid="d/YanleiDiao">Yanlei Diao</na></co>
+<co c="0"><na f="d/Dimililer:Nazife" pid="43/1483">Nazife Dimililer</na></co>
+<co c="0"><na f="d/Dindar:Nihal" pid="86/7118">Nihal Dindar</na></co>
+<co c="0"><na f="d/Ding:Jialin" pid="145/8597">Jialin Ding</na></co>
+<co c="0"><na f="d/Dogac:Asuman" pid="d/ADogac">Asuman Dogac</na></co>
+<co c="0"><na f="d/Du_0001:Jiang" pid="32/724-1">Jiang Du 0001</na></co>
+<co c="0"><na f="d/Dubey:Pradeep" pid="47/4438">Pradeep Dubey</na></co>
+<co c="0"><na f="d/Duller:Michael" pid="45/1113">Michael Duller</na></co>
+<co c="0"><na f="d/Durusoy:Ilker" pid="77/3549">Ilker Durusoy</na></co>
+<co c="0"><na f="d/Dziedzic:Adam" pid="191/0540">Adam Dziedzic</na></co>
+<co c="0"><na f="e/Eichmann:Philipp" pid="160/4301">Philipp Eichmann</na></co>
+<co c="0"><na f="e/Elmore:Aaron_J=" pid="75/9436">Aaron J. Elmore</na></co>
+<co c="0"><na f="e/Erwin:C=" pid="58/5415">C. Erwin</na></co>
+<co c="0"><na f="e/Esmaili:Kyumars_Sheykh" pid="e/KyumarsSheykhEsmaili">Kyumars Sheykh Esmaili</na></co>
+<co c="0"><na f="e/Ezbiderli:M=" pid="07/3206">M. Ezbiderli</na></co>
+<co c="0" n="2"><na f="f/Fischer_0001:Peter_M=" pid="f/PeterMFischer1">Peter M. Fischer 0001</na><na>Peter Michael Fischer</na></co>
+<co c="0"><na f="g/Gadepally:Vijay" pid="86/7615">Vijay Gadepally</na></co>
+<co c="0"><na f="g/Galvez:Eduardo_F=" pid="58/6473">Eduardo F. Galvez</na></co>
+<co c="0"><na f="g/Giossi:Chris" pid="182/9249">Chris Giossi</na></co>
+<co c="0"><na f="g/Glavic:Boris" pid="09/3012">Boris Glavic</na></co>
+<co c="0"><na f="g/Gokkoca:Esin" pid="04/5681">Esin Gokkoca</na></co>
+<co c="0"><na f="g/Golab:Lukasz" pid="42/3296">Lukasz Golab</na></co>
+<co c="0" n="2"><na f="g/Gottschlich:Justin_Emile" pid="56/2013">Justin Emile Gottschlich</na><na>Justin Gottschlich</na></co>
+<co c="0"><na f="g/Gu:George" pid="355/0074">George Gu</na></co>
+<co c="0"><na f="g/G=uuml==ccedil=:Baris" pid="54/1088">Baris G&#252;&#231;</na></co>
+<co c="0"><na f="g/Gupta:Akhilesh" pid="55/6703">Akhilesh Gupta</na></co>
+<co c="0"><na f="g/Gupta:Ankush" pid="46/879">Ankush Gupta</na></co>
+<co c="0"><na f="h/Haas:Laura_M=" pid="h/LauraMHaas">Laura M. Haas</na></co>
+<co c="0"><na f="h/Halevy:Alon_Y=" pid="h/AlonYHalevy">Alon Y. Halevy</na></co>
+<co c="0"><na f="h/Hamali:N=" pid="87/1048">N. Hamali</na></co>
+<co c="0"><na f="h/Hatoun:M=" pid="97/3174">M. Hatoun</na></co>
+<co c="0"><na f="h/Heer:Jeffrey" pid="27/4508">Jeffrey Heer</na></co>
+<co c="0"><na f="h/Ho:Darryl" pid="250/9509">Darryl Ho</na></co>
+<co c="0"><na f="h/Ho:Tin_Kam" pid="22/6176">Tin Kam Ho</na></co>
+<co c="0"><na f="h/Howe:Bill" pid="h/BillHowe">Bill Howe</na></co>
+<co c="0"><na f="h/Hoyt:Reed_W=" pid="72/4893">Reed W. Hoyt</na></co>
+<co c="0"><na f="h/Humphrey:Mark" pid="10/2758">Mark Humphrey</na></co>
+<co c="0"><na f="h/Hwang:Jeong=Hyon" pid="97/5585">Jeong-Hyon Hwang</na></co>
+<co c="0"><na f="i/Icdem:C=" pid="11/598">C. Icdem</na></co>
+<co c="0"><na f="j/Jacob:Vincent" pid="174/6128">Vincent Jacob</na></co>
+<co c="0"><na f="j/Jhingran:Anjali" pid="61/248">Anjali Jhingran</na></co>
+<co c="0" n="2"><na f="k/Karag=ouml=z:Pinar" pid="s/PinarSenkul">Pinar Karag&#246;z</na><na>Pinar Karagoz</na></co>
+<co c="0"><na f="k/Karumuri:Suman" pid="62/7547">Suman Karumuri</na></co>
+<co c="0"><na f="k/Kemper:Alfons" pid="k/AlfonsKemper">Alfons Kemper</na></co>
+<co c="0"><na f="k/Kepner:Jeremy" pid="25/6583">Jeremy Kepner</na></co>
+<co c="0"><na f="k/Kienzler:Romeo" pid="50/8354">Romeo Kienzler</na></co>
+<co c="0"><na f="k/Kim:Kihong" pid="29/2828">Kihong Kim</na></co>
+<co c="0"><na f="k/Kipf:Andreas" pid="167/6469">Andreas Kipf</na></co>
+<co c="0"><na f="k/Koksal:Pinar" pid="65/3078">Pinar Koksal</na></co>
+<co c="0"><na f="k/Kornacker:Marcel" pid="11/6425">Marcel Kornacker</na></co>
+<co c="0"><na f="k/Kossmann:Donald" pid="k/DonaldKossmann">Donald Kossmann</na></co>
+<co c="0"><na f="k/Kossmann:Ferdinand" pid="243/2511">Ferdinand Kossmann</na></co>
+<co c="0"><na f="k/Kraska:Tim" pid="26/6037">Tim Kraska</na></co>
+<co c="0"><na f="k/Kromwijk:Katina" pid="64/7587">Katina Kromwijk</na></co>
+<co c="0"><na f="k/Kulkarni:Chidamber" pid="50/6646">Chidamber Kulkarni</na></co>
+<co c="0"><na f="k/Kumar_0001:Arun" pid="30/4308-1">Arun Kumar 0001</na></co>
+<co c="0"><na f="l/Lai:Eugenie" pid="349/9072">Eugenie Lai</na></co>
+<co c="0"><na f="l/Laptev:Nikolay" pid="96/7449">Nikolay Laptev</na></co>
+<co c="0"><na f="l/Lau:Patrick" pid="60/6187">Patrick Lau</na></co>
+<co c="0"><na f="l/Lee:Chulwon" pid="24/7993">Chulwon Lee</na></co>
+<co c="0"><na f="l/Lee_0001:Insup" pid="l/InsupLee">Insup Lee 0001</na></co>
+<co c="0"><na f="l/Lee:Sangdon" pid="59/2779">Sangdon Lee</na></co>
+<co c="0"><na f="l/Lee:Tae_Jun" pid="213/7435">Tae Jun Lee</na></co>
+<co c="0"><na f="l/Lee:Tae=Jun" pid="170/3768">Tae-Jun Lee</na></co>
+<co c="0"><na f="l/Lindner_0001:Wolfgang" pid="l/WolfgangLindner">Wolfgang Lindner 0001</na></co>
+<co c="0" n="2"><na f="m/Madden_0001:Samuel" pid="m/SamuelMadden">Samuel Madden 0001</na><na>Sam Madden</na></co>
+<co c="0"><na f="m/Maier_0001:David" pid="m/DavidMaier">David Maier 0001</na></co>
+<co c="0"><na f="m/Manolescu:Ioana" pid="m/IoanaManolescu">Ioana Manolescu</na></co>
+<co c="0"><na f="m/Mao:Hongzi" pid="150/3252">Hongzi Mao</na></co>
+<co c="0"><na f="m/Marcus:Ryan" pid="175/1473">Ryan Marcus</na></co>
+<co c="0"><na f="m/Margara:Alessandro" pid="05/7380">Alessandro Margara</na></co>
+<co c="0"><na f="m/Maskey:Anurag" pid="36/1442">Anurag Maskey</na></co>
+<co c="0" n="2"><na f="m/Mattson:Timothy_G=" pid="56/794">Timothy G. Mattson</na><na>Tim Mattson</na></co>
+<co c="0"><na f="m/May:Norman" pid="89/6071">Norman May</na></co>
+<co c="0"><na f="m/Meehan:John" pid="149/5905">John Meehan</na></co>
+<co c="0"><na f="m/Metcalf:Eric" pid="213/7494">Eric Metcalf</na></co>
+<co c="0"><na f="m/Miller:Ren=eacute=e_J=" pid="m/RJMiller">Ren&#233;e J. Miller</na></co>
+<co c="0"><na f="m/Misra:Sanchit" pid="40/5576">Sanchit Misra</na></co>
+<co c="0"><na f="m/Moga:Alexandru" pid="69/10355">Alexandru Moga</na></co>
+<co c="0"><na f="m/Mohan_0001:C=" pid="m/CMohan">C. Mohan 0001</na></co>
+<co c="0"><na f="m/Mullen:Steve" pid="25/6911">Steve Mullen</na></co>
+<co c="0"><na f="m/Mundada:Girish" pid="21/7992">Girish Mundada</na></co>
+<co c="0"><na f="m/Muzahid:Abdullah" pid="45/7115">Abdullah Muzahid</na></co>
+<co c="0"><na f="n/Nascimento:Mario_A=" pid="n/MarioANascimento">Mario A. Nascimento</na></co>
+<co c="0"><na f="n/Nathan:Vikram" pid="153/2198">Vikram Nathan</na></co>
+<co c="0"><na f="n/Negi:Parimarjan" pid="221/2301">Parimarjan Negi</na></co>
+<co c="0"><na f="o/Ouzzani:Mourad" pid="o/MouradOuzzani">Mourad Ouzzani</na></co>
+<co c="0"><na f="=/=Ouml=zal:Asli" pid="80/7117">Asli &#214;zal</na></co>
+<co c="0"><na f="=/=Ouml=zcan:Fatma" pid="o/FatmaOzcan">Fatma &#214;zcan</na></co>
+<co c="0"><na f="=/=Ouml=zsu:M=_Tamer" pid="o/MTamerOzsu">M. Tamer &#214;zsu</na></co>
+<co c="0"><na f="p/Pandian:Prithviraj" pid="358/1898">Prithviraj Pandian</na></co>
+<co c="0"><na f="p/Papadopoulos_0001:Stavros" pid="82/75">Stavros Papadopoulos 0001</na></co>
+<co c="0"><na f="p/Papaemmanouil:Olga" pid="37/3024">Olga Papaemmanouil</na></co>
+<co c="0"><na f="p/Papakonstantinou:Yannis" pid="p/YPapakonstantinou">Yannis Papakonstantinou</na></co>
+<co c="0"><na f="p/Parkhurst:Jeff" pid="99/1163">Jeff Parkhurst</na></co>
+<co c="0"><na f="p/Parzyjegla:Helge" pid="54/1302">Helge Parzyjegla</na></co>
+<co c="0"><na f="p/Pavlo:Andrew" pid="58/4127">Andrew Pavlo</na></co>
+<co c="0"><na f="p/Pedersen:Torben_Bach" pid="p/TorbenBachPedersen">Torben Bach Pedersen</na></co>
+<co c="0"><na f="p/Petersen:Paul" pid="95/2667">Paul Petersen</na></co>
+<co c="0"><na f="p/Petruccelli:Mario" pid="358/1786">Mario Petruccelli</na></co>
+<co c="0"><na f="q/Quach:Hong" pid="182/9243">Hong Quach</na></co>
+<co c="0"><na f="r/Rad:Bijan" pid="295/9888">Bijan Rad</na></co>
+<co c="0" n="2"><na f="r/Ramasamy:Karthikeyan" pid="r/KRamasamy">Karthikeyan Ramasamy</na><na>Karthik Ramasamy</na></co>
+<co c="0"><na f="r/Rambacher:Mark" pid="355/0405">Mark Rambacher</na></co>
+<co c="0"><na f="r/Ranganathan:Anand" pid="73/6323">Anand Ranganathan</na></co>
+<co c="0" n="2"><na f="r/Rasin:Alexander" pid="39/998">Alexander Rasin</na><na>Alex Rasin</na></co>
+<co c="0"><na f="r/Rellermeyer:Jan_S=" pid="21/4498">Jan S. Rellermeyer</na></co>
+<co c="0"><na f="r/Rezig:El_Kindi" pid="96/8919">El Kindi Rezig</na></co>
+<co c="0"><na f="r/Rinard:Martin_C=" pid="r/MartinCRinard">Martin C. Rinard</na></co>
+<co c="0"><na f="r/Riva:Oriana" pid="53/3712">Oriana Riva</na></co>
+<co c="0" n="2"><na f="r/Rogers:Jennie" pid="43/2286">Jennie Rogers</na><na>Jennie Duggan</na></co>
+<co c="0"><na f="r/Roscoe:Timothy" pid="r/TimothyRoscoe">Timothy Roscoe</na></co>
+<co c="0"><na f="r/Ryvkina:Esther" pid="79/5102">Esther Ryvkina</na></co>
+<co c="0"><na f="s/Sacan:Ahmet" pid="00/623">Ahmet Sacan</na></co>
+<co c="0"><na f="s/Sadoghi:Mohammad" pid="56/7016">Mohammad Sadoghi</na></co>
+<co c="0"><na f="s/Sahin:Ozlem_Ceren" pid="239/6157">Ozlem Ceren Sahin</na></co>
+<co c="0"><na f="s/Salz:Jon" pid="62/6390">Jon Salz</na></co>
+<co c="0"><na f="s/Sanamrad:Tahmineh" pid="68/9726">Tahmineh Sanamrad</na></co>
+<co c="0"><na f="s/Sarkar:Vivek" pid="s/VivekSarkar">Vivek Sarkar</na></co>
+<co c="0"><na f="s/Seidman:Greg" pid="23/147">Greg Seidman</na></co>
+<co c="0"><na f="s/Shan:Ming=Chien" pid="64/561">Ming-Chien Shan</na></co>
+<co c="0"><na f="s/Shanbhag:Anil" pid="149/5876">Anil Shanbhag</na></co>
+<co c="0"><na f="s/Shankaran:Akash" pid="153/6970">Akash Shankaran</na></co>
+<co c="0"><na f="s/Shmueli:Oded" pid="s/OShmueli">Oded Shmueli</na></co>
+<co c="0"><na f="s/Shun:Julian" pid="82/9876">Julian Shun</na></co>
+<co c="0"><na f="s/Singer:A=" pid="33/5581">A. Singer</na></co>
+<co c="0"><na f="s/Solar=Lezama:Armando" pid="95/6919">Armando Solar-Lezama</na></co>
+<co c="0"><na f="s/Solleza:Franco" pid="239/9803">Franco Solleza</na></co>
+<co c="0"><na f="s/Soner:Merve" pid="93/7113">Merve Soner</na></co>
+<co c="0"><na f="s/Song:Fei" pid="37/5972">Fei Song</na></co>
+<co c="0"><na f="s/Stiegler:Arnaud" pid="235/6913">Arnaud Stiegler</na></co>
+<co c="0" n="2"><na f="s/Stonebraker:Michael" pid="s/MichaelStonebraker">Michael Stonebraker</na><na>Mike Stonebraker</na></co>
+<co c="0"><na f="s/Sudhir:Sivaprasad" pid="318/6147">Sivaprasad Sudhir</na></co>
+<co c="0"><na f="s/Sutherland:Erik" pid="149/5936">Erik Sutherland</na></co>
+<co c="0"><na f="t/Tambag:Yusuf" pid="20/1726">Yusuf Tambag</na></co>
+<co c="0"><na f="t/Tan:Junjay" pid="239/9464">Junjay Tan</na></co>
+<co c="0"><na f="t/Tang_0001:Nan" pid="27/104-1">Nan Tang 0001</na></co>
+<co c="0"><na f="t/Tenenbaum:Joshua_B=" pid="t/JoshuaBTenenbaum">Joshua B. Tenenbaum</na></co>
+<co c="0"><na f="t/Teubner:Jens" pid="t/JensTeubner">Jens Teubner</na></co>
+<co c="0"><na f="t/Tian:Shaobo" pid="191/0523">Shaobo Tian</na></co>
+<co c="0"><na f="t/Tian:Yulong" pid="04/9558">Yulong Tian</na></co>
+<co c="0"><na f="t/Tibbetts:Richard" pid="62/3468">Richard Tibbetts</na></co>
+<co c="0"><na f="t/Tithi:Jesmin_Jahan" pid="129/5477">Jesmin Jahan Tithi</na></co>
+<co c="0"><na f="t/Triantafillou:Peter" pid="t/PeterTriantafillou">Peter Triantafillou</na></co>
+<co c="0"><na f="t/Trindade:Joana_M=_F=_da" pid="48/6542">Joana M. F. da Trindade</na></co>
+<co c="0"><na f="t/Tufte:Kristin" pid="t/KristinTufte">Kristin Tufte</na></co>
+<co c="0"><na f="t/Tumer:Arif" pid="18/4444">Arif Tumer</na></co>
+<co c="0" n="2"><na f="t/Turek:Javier" pid="37/8000">Javier Turek</na><na>Javier S. Turek</na></co>
+<co c="0"><na f="v/Valle:Emanuele_Della" pid="91/4526">Emanuele Della Valle</na></co>
+<co c="0"><na f="v/Vartak:Manasi" pid="25/7592">Manasi Vartak</na></co>
+<co c="0"><na f="v/Vasimuddin:Md=" pid="157/2838">Md. Vasimuddin</na></co>
+<co c="0"><na f="v/Venkat:Anand" pid="141/4387">Anand Venkat</na></co>
+<co c="0"><na f="w/Wang:Hao" pid="181/2812">Hao Wang</na></co>
+<co c="0"><na f="w/Wasay:Abdul" pid="149/9304">Abdul Wasay</na></co>
+<co c="0"><na f="w/Wetter:Matthias" pid="132/0335">Matthias Wetter</na></co>
+<co c="0"><na f="w/Wiener:Janet_L=" pid="w/JanetLWiener">Janet L. Wiener</na></co>
+<co c="0"><na f="w/Wu:Ziniu" pid="279/2962">Ziniu Wu</na></co>
+<co c="0"><na f="x/Xing:Wenjuan" pid="57/6085">Wenjuan Xing</na></co>
+<co c="0"><na f="x/Xing:Ying" pid="79/5063">Ying Xing</na></co>
+<co c="0"><na f="x/Xu:Zhenggang" pid="296/8007">Zhenggang Xu</na></co>
+<co c="0"><na f="y/Yan:R=" pid="32/396">R. Yan</na></co>
+<co c="0"><na f="y/Yan:Ying" pid="77/4933">Ying Yan</na></co>
+<co c="0"><na f="y/Yang:Binwei" pid="34/3856">Binwei Yang</na></co>
+<co c="0"><na f="y/Ye:Fangke" pid="229/7064">Fangke Ye</na></co>
+<co c="0"><na f="y/Yun:Beomjin" pid="75/7992">Beomjin Yun</na></co>
+<co c="0" n="2"><na f="z/Zdonik:Stanley_B=" pid="z/SBZdonik">Stanley B. Zdonik</na><na>Stan Zdonik</na></co>
+<co c="0"><na f="z/Zhang_0068:Chi" pid="91/195-68">Chi Zhang 0068</na></co>
+<co c="0"><na f="z/Zhang:Jin" pid="43/6657">Jin Zhang</na></co>
+<co c="0"><na f="z/Zhou:Shengtian" pid="261/9117">Shengtian Zhou</na></co>
+</coauthors>
+</dblpperson>

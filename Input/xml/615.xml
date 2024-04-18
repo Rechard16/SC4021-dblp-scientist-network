@@ -1,0 +1,185 @@
+<dblpperson name="Nikos R. Katsipoulakis" pid="142/7802" n="10">
+<person key="homepages/142/7802" mdate="2021-07-24">
+<author pid="142/7802">Nikos R. Katsipoulakis</author>
+<author pid="142/7802">Nick R. Katsipoulakis</author>
+<author pid="142/7802">Nikolaos Katsipoulakis</author>
+<url>http://people.cs.pitt.edu/~katsip/</url>
+<url>https://scholar.google.com/citations?user=9xbJ3b4AAAAJ</url>
+<url>https://dl.acm.org/profile/87059749057</url>
+<url>https://github.com/BarbaNikos</url>
+<note type="affiliation">University of Pittsburgh, USA</note>
+</person>
+<r><inproceedings key="conf/icde/KatsipoulakisLC21" mdate="2022-04-09">
+<author pid="142/7802">Nikos R. Katsipoulakis</author>
+<author pid="l/ALabrinidis">Alexandros Labrinidis</author>
+<author orcid="0000-0001-7189-9816" pid="c/PKChrysanthis">Panos K. Chrysanthis</author>
+<title>Improving Stream Load Balance through Shedding.</title>
+<pages>120-126</pages>
+<year>2021</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW53142.2021.00028</ee>
+<crossref>conf/icde/2021w</crossref>
+<url>db/conf/icde/icde2021w.html#KatsipoulakisLC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KatsipoulakisLC20" mdate="2022-04-09">
+<author pid="142/7802">Nikos R. Katsipoulakis</author>
+<author pid="l/ALabrinidis">Alexandros Labrinidis</author>
+<author orcid="0000-0001-7189-9816" pid="c/PKChrysanthis">Panos K. Chrysanthis</author>
+<title>SPEAr: Expediting Stream Processing with Accuracy Guarantees.</title>
+<pages>1105-1116</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00100</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#KatsipoulakisLC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigdataconf/KatsipoulakisLC18" mdate="2021-03-31">
+<author pid="142/7802">Nikos R. Katsipoulakis</author>
+<author pid="l/ALabrinidis">Alexandros Labrinidis</author>
+<author orcid="0000-0001-7189-9816" pid="c/PKChrysanthis">Panos K. Chrysanthis</author>
+<title>Concept-Driven Load Shedding: Reducing Size and Error of Voluminous and Variable Data Streams.</title>
+<pages>418-427</pages>
+<year>2018</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData.2018.8622265</ee>
+<crossref>conf/bigdataconf/2018</crossref>
+<url>db/conf/bigdataconf/bigdataconf2018.html#KatsipoulakisLC18</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/LiKCGK17" mdate="2020-04-25">
+<author pid="49/612">Yinan Li</author>
+<author pid="142/7802">Nikos R. Katsipoulakis</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Mison: A Fast JSON Parser for Data Analytics.</title>
+<pages>1118-1129</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p1118-li.pdf</ee>
+<ee>https://doi.org/10.14778/3115404.3115416</ee>
+<url>db/journals/pvldb/pvldb10.html#LiKCGK17</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KatsipoulakisLC17" mdate="2022-04-09">
+<author pid="142/7802">Nikos R. Katsipoulakis</author>
+<author pid="l/ALabrinidis">Alexandros Labrinidis</author>
+<author orcid="0000-0001-7189-9816" pid="c/PKChrysanthis">Panos K. Chrysanthis</author>
+<title>A holistic view of stream partitioning costs.</title>
+<pages>1286-1297</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p1286-katsipoulakis.pdf</ee>
+<ee>https://doi.org/10.14778/3137628.3137639</ee>
+<url>db/journals/pvldb/pvldb10.html#KatsipoulakisLC17</url>
+</article>
+</r>
+<r><article key="journals/sigmod/PhamKCL17" mdate="2022-04-09">
+<author pid="65/7292">Thao N. Pham</author>
+<author pid="142/7802">Nikos R. Katsipoulakis</author>
+<author orcid="0000-0001-7189-9816" pid="c/PKChrysanthis">Panos K. Chrysanthis</author>
+<author pid="l/ALabrinidis">Alexandros Labrinidis</author>
+<title>Uninterruptible Migration of Continuous Queries without Operator State Migration.</title>
+<pages>17-22</pages>
+<year>2017</year>
+<volume>46</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3156655.3156659</ee>
+<url>db/journals/sigmod/sigmod46.html#PhamKCL17</url>
+</article>
+</r>
+<r><article key="journals/ijseke/ChangHCGKPS15" mdate="2020-07-22">
+<author pid="c/ShiKuoChang">Shi-Kuo Chang</author>
+<author pid="56/3351">Senhua Huang</author>
+<author pid="177/6343">Jun-Hui Chen</author>
+<author pid="144/1473">Xiao-Yu Ge</author>
+<author pid="142/7802">Nikolaos Katsipoulakis</author>
+<author pid="177/6339">Daniel Petrov</author>
+<author pid="169/1787">Anatoli U. Shein</author>
+<title>A Slow Intelligence System Test Bed Enhanced with Super-Components.</title>
+<pages>1443-1466</pages>
+<year>2015</year>
+<volume>25</volume>
+<journal>Int. J. Softw. Eng. Knowl. Eng.</journal>
+<number>9-10</number>
+<ee>https://doi.org/10.1142/S0218194015400276</ee>
+<url>db/journals/ijseke/ijseke25.html#ChangHCGKPS15</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/KatsipoulakisTO15" mdate="2021-01-29">
+<author pid="142/7802">Nick R. Katsipoulakis</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<author pid="o/FatmaOzcan">Fatma Ozcan</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<title>A Generic Solution to Integrate SQL and Analytics for Big Data.</title>
+<pages>671-676</pages>
+<year>2015</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2015.67</ee>
+<crossref>conf/edbt/2015</crossref>
+<url>db/conf/edbt/edbt2015.html#KatsipoulakisTO15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KatsipoulakisTG15" mdate="2023-06-26">
+<author pid="142/7802">Nick R. Katsipoulakis</author>
+<author pid="150/7302">Cory Thoma</author>
+<author pid="163/0517">Eric A. Gratta</author>
+<author pid="l/ALabrinidis">Alexandros Labrinidis</author>
+<author orcid="0000-0002-2596-7256" pid="62/1373">Adam J. Lee</author>
+<author orcid="0000-0001-7189-9816" pid="c/PKChrysanthis">Panos K. Chrysanthis</author>
+<title>CE-Storm: Confidential Elastic Processing of Data Streams.</title>
+<pages>859-864</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2735357</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#KatsipoulakisTG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloudcom/KatsipoulakisTD13" mdate="2023-03-24">
+<author pid="142/7802">Nick R. Katsipoulakis</author>
+<author pid="82/4401">Konstantinos Tsakalozos</author>
+<author pid="d/AlexDelis">Alex Delis</author>
+<title>Adaptive Live VM Migration in Share-Nothing IaaS-Clouds with LiveFS.</title>
+<pages>293-298</pages>
+<year>2013</year>
+<booktitle>CloudCom (2)</booktitle>
+<ee>https://doi.org/10.1109/CloudCom.2013.151</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CloudCom.2013.151</ee>
+<crossref>conf/cloudcom/2013-2</crossref>
+<url>db/conf/cloudcom/cloudcom2013-2.html#KatsipoulakisTD13</url>
+</inproceedings>
+</r>
+<coauthors n="22" nc="1">
+<co c="0"><na f="c/Chandramouli:Badrish" pid="01/2861">Badrish Chandramouli</na></co>
+<co c="0"><na f="c/Chang:Shi=Kuo" pid="c/ShiKuoChang">Shi-Kuo Chang</na></co>
+<co c="0"><na f="c/Chen:Jun=Hui" pid="177/6343">Jun-Hui Chen</na></co>
+<co c="0"><na f="c/Chrysanthis:Panos_K=" pid="c/PKChrysanthis">Panos K. Chrysanthis</na></co>
+<co c="0"><na f="d/Delis:Alex" pid="d/AlexDelis">Alex Delis</na></co>
+<co c="0"><na f="g/Ge:Xiao=Yu" pid="144/1473">Xiao-Yu Ge</na></co>
+<co c="0"><na f="g/Goldstein:Jonathan" pid="g/JonathanGoldstein">Jonathan Goldstein</na></co>
+<co c="0"><na f="g/Gratta:Eric_A=" pid="163/0517">Eric A. Gratta</na></co>
+<co c="0"><na f="h/Huang:Senhua" pid="56/3351">Senhua Huang</na></co>
+<co c="0"><na f="k/Kossmann:Donald" pid="k/DonaldKossmann">Donald Kossmann</na></co>
+<co c="0"><na f="l/Labrinidis:Alexandros" pid="l/ALabrinidis">Alexandros Labrinidis</na></co>
+<co c="0"><na f="l/Lee:Adam_J=" pid="62/1373">Adam J. Lee</na></co>
+<co c="0"><na f="l/Li:Yinan" pid="49/612">Yinan Li</na></co>
+<co c="0" n="2"><na f="=/=Ouml=zcan:Fatma" pid="o/FatmaOzcan">Fatma &#214;zcan</na><na>Fatma Ozcan</na></co>
+<co c="0"><na f="p/Petrov:Daniel" pid="177/6339">Daniel Petrov</na></co>
+<co c="0"><na f="p/Pham:Thao_N=" pid="65/7292">Thao N. Pham</na></co>
+<co c="0"><na f="p/Pirahesh:Hamid" pid="p/HamidPirahesh">Hamid Pirahesh</na></co>
+<co c="0"><na f="r/Reinwald:Berthold" pid="76/3381">Berthold Reinwald</na></co>
+<co c="0"><na f="s/Shein:Anatoli_U=" pid="169/1787">Anatoli U. Shein</na></co>
+<co c="0"><na f="t/Thoma:Cory" pid="150/7302">Cory Thoma</na></co>
+<co c="0"><na f="t/Tian:Yuanyuan" pid="27/3375">Yuanyuan Tian</na></co>
+<co c="0"><na f="t/Tsakalozos:Konstantinos" pid="82/4401">Konstantinos Tsakalozos</na></co>
+</coauthors>
+</dblpperson>

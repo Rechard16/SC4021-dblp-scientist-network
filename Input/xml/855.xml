@@ -1,0 +1,2095 @@
+<dblpperson name="Toon Calders" pid="c/ToonCalders" n="142">
+<person key="homepages/c/ToonCalders" mdate="2023-02-25">
+<author pid="c/ToonCalders">Toon Calders</author>
+<note type="affiliation">Eindhoven University of Technology, Netherlands</note>
+<url>http://wwwis.win.tue.nl/~tcalders/index.shtml</url>
+<url>https://orcid.org/0000-0002-4943-6978</url>
+<url>https://www.wikidata.org/entity/Q102293022</url>
+<url>https://mathgenealogy.org/id.php?id=98322</url>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2401-13391" mdate="2024-02-05">
+<author pid="316/1247">Sofie Goethals</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="20/3975">David Martens</author>
+<title>Beyond Accuracy-Fairness: Stop evaluating bias mitigation methods solely on between-group metrics.</title>
+<year>2024</year>
+<volume>abs/2401.13391</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.13391</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-13391</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-14282" mdate="2024-04-09">
+<author pid="340/0245">Marco Favier</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="299/8626">Sam Pinxteren</author>
+<author pid="m/JonathanMeyer">Jonathan Meyer</author>
+<title>How to be fair? A study of label and selection bias.</title>
+<year>2024</year>
+<volume>abs/2403.14282</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.14282</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-14282</url>
+</article>
+</r>
+<r><article key="journals/ml/FavierCPM23" mdate="2023-12-10">
+<author orcid="0000-0003-4676-5896" pid="340/0245">Marco Favier</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="299/8626">Sam Pinxteren</author>
+<author pid="m/JonathanMeyer">Jonathan Meyer</author>
+<title>How to be fair? A study of label and selection bias.</title>
+<pages>5081-5104</pages>
+<year>2023</year>
+<month>December</month>
+<volume>112</volume>
+<journal>Mach. Learn.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1007/s10994-023-06401-1</ee>
+<url>db/journals/ml/ml112.html#FavierCPM23</url>
+</article>
+</r>
+<r><inproceedings key="conf/eacl/TokpoDBC23" mdate="2023-10-05">
+<author pid="309/5915">Ewoenam Kwaku Tokpo</author>
+<author pid="245/8739">Pieter Delobelle</author>
+<author pid="b/BettinaBerendt">Bettina Berendt</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>How Far Can It Go? On Intrinsic Gender Bias Mitigation for Text Classification.</title>
+<pages>3410-3425</pages>
+<year>2023</year>
+<booktitle>EACL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.eacl-main.248</ee>
+<ee type="oa">https://aclanthology.org/2023.eacl-main.248</ee>
+<crossref>conf/eacl/2023</crossref>
+<url>db/conf/eacl/eacl2023.html#TokpoDBC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ewaf/GoethalsMC23" mdate="2023-07-19">
+<author pid="316/1247">Sofie Goethals</author>
+<author pid="20/3975">David Martens</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Explainability Methods to Detect and Measure Discrimination in Machine Learning Models.</title>
+<year>2023</year>
+<booktitle>EWAF</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3442/paper-11.pdf</ee>
+<crossref>conf/ewaf/2023</crossref>
+<url>db/conf/ewaf/ewaf2023.html#GoethalsMC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hhai/LendersC23" mdate="2023-07-07">
+<author orcid="0000-0002-9839-9077" pid="315/3353">Daphne Lenders</author>
+<author orcid="0000-0002-4943-6978" pid="c/ToonCalders">Toon Calders</author>
+<title>Functional Requirements for Interactive Bias-Audit Tools.</title>
+<pages>426-428</pages>
+<year>2023</year>
+<booktitle>HHAI</booktitle>
+<ee>https://doi.org/10.3233/FAIA230118</ee>
+<crossref>conf/hhai/2023</crossref>
+<url>db/conf/hhai/hhai2023.html#LendersC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/LendersC23" mdate="2023-07-21">
+<author orcid="0000-0002-9839-9077" pid="315/3353">Daphne Lenders</author>
+<author orcid="0000-0002-4943-6978" pid="c/ToonCalders">Toon Calders</author>
+<title>Real-life Performance of Fairness Interventions - Introducing A New Benchmarking Dataset for Fair ML.</title>
+<pages>350-357</pages>
+<year>2023</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3555776.3577634</ee>
+<crossref>conf/sac/2023</crossref>
+<url>db/conf/sac/sac2023.html#LendersC23</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/bnaic/2022s" mdate="2023-11-12">
+<editor orcid="0000-0002-4943-6978" pid="c/ToonCalders">Toon Calders</editor>
+<editor orcid="0000-0003-0983-256X" pid="50/3886">Celine Vens</editor>
+<editor orcid="0000-0002-2930-5057" pid="62/8320">Jefrey Lijffijt</editor>
+<editor orcid="0000-0001-9327-9554" pid="g/BartGoethals">Bart Goethals</editor>
+<title>Artificial Intelligence and Machine Learning - 34th Joint Benelux Conference, BNAIC/Benelearn 2022, Mechelen, Belgium, November 7-9, 2022, Revised Selected Papers</title>
+<booktitle>BNAIC/BENELEARN</booktitle>
+<publisher>Springer</publisher>
+<year>2023</year>
+<series href="db/series/ccis/index.html">Communications in Computer and Information Science</series>
+<volume>1805</volume>
+<isbn>978-3-031-39143-9</isbn>
+<isbn>978-3-031-39144-6</isbn>
+<ee>https://doi.org/10.1007/978-3-031-39144-6</ee>
+<url>db/conf/bnaic/bnaic2022s.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-12855" mdate="2023-02-01">
+<author pid="309/5915">Ewoenam Kwaku Tokpo</author>
+<author pid="245/8739">Pieter Delobelle</author>
+<author pid="b/BettinaBerendt">Bettina Berendt</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>How Far Can It Go?: On Intrinsic Gender Bias Mitigation for Text Classification.</title>
+<year>2023</year>
+<volume>abs/2301.12855</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.12855</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-12855</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-03186" mdate="2023-11-08">
+<author pid="309/5915">Ewoenam Kwaku Tokpo</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Model-based Counterfactual Generator for Gender Bias Mitigation.</title>
+<year>2023</year>
+<volume>abs/2311.03186</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.03186</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-03186</url>
+</article>
+</r>
+<r><article key="journals/midm/VerbovenCCBMDPW22" mdate="2024-02-05">
+<author orcid="0000-0002-5647-5852" pid="316/0165">Lennert Verboven</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="316/0885">Steven Callens</author>
+<author pid="33/2069">John Black</author>
+<author orcid="0000-0003-3080-6606" pid="316/0898">Gary Maartens</author>
+<author pid="316/0051">Kelly E. Dooley</author>
+<author pid="316/0500">Samantha Potgieter</author>
+<author pid="316/0962">Robin M. Warren</author>
+<author orcid="0000-0002-8217-2564" pid="40/1561">Kris Laukens</author>
+<author pid="302/0765">Annelies Van Rie</author>
+<title>A treatment recommender clinical decision support system for personalized medicine: method development and proof-of-concept for drug resistant tuberculosis.</title>
+<pages>56</pages>
+<year>2022</year>
+<volume>22</volume>
+<journal>BMC Medical Informatics Decis. Mak.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s12911-022-01790-0</ee>
+<url>db/journals/midm/midm22.html#VerbovenCCBMDPW22</url>
+</article>
+</r>
+<r><inproceedings key="conf/naacl/TokpoC22" mdate="2022-08-01">
+<author pid="309/5915">Ewoenam Kwaku Tokpo</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Text Style Transfer for Bias Mitigation using Masked Language Modeling.</title>
+<pages>163-171</pages>
+<year>2022</year>
+<booktitle>NAACL-HLT (Student Research Workshop)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2022.naacl-srw.21</ee>
+<ee type="oa">https://aclanthology.org/2022.naacl-srw.21</ee>
+<crossref>conf/naacl/2022s</crossref>
+<url>db/conf/naacl/naacl2022s.html#TokpoC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/DelobelleTCB22" mdate="2022-08-01">
+<author pid="245/8739">Pieter Delobelle</author>
+<author pid="309/5915">Ewoenam Kwaku Tokpo</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="b/BettinaBerendt">Bettina Berendt</author>
+<title>Measuring Fairness with Biased Rulers: A Comparative Study on Bias Metrics for Pre-trained Language Models.</title>
+<pages>1693-1706</pages>
+<year>2022</year>
+<booktitle>NAACL-HLT</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2022.naacl-main.122</ee>
+<ee type="oa">https://aclanthology.org/2022.naacl-main.122</ee>
+<crossref>conf/naacl/2022</crossref>
+<url>db/conf/naacl/naacl2022.html#DelobelleTCB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/PinxterenFC22" mdate="2023-12-17">
+<author pid="299/8626">Sam Pinxteren</author>
+<author orcid="0000-0003-4676-5896" pid="340/0245">Marco Favier</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>RangeGrad: Explaining Neural Networks by Measuring Uncertainty Through Bound Propagation.</title>
+<pages>336-352</pages>
+<year>2022</year>
+<booktitle>PKDD/ECML Workshops (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-23618-1_23</ee>
+<crossref>conf/pkdd/2022-w1</crossref>
+<url>db/conf/pkdd/pkdd2022-w1.html#PinxterenFC22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2201-08643" mdate="2022-02-01">
+<author pid="309/5915">Ewoenam Kwaku Tokpo</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Text Style Transfer for Bias Mitigation using Masked Language Modeling.</title>
+<year>2022</year>
+<volume>abs/2201.08643</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2201.08643</ee>
+<url>db/journals/corr/corr2201.html#abs-2201-08643</url>
+</article>
+</r>
+<r><article key="journals/geoinformatica/OrakzaiPC21" mdate="2021-04-29">
+<author orcid="0000-0002-1303-4651" pid="173/5164">Faisal Orakzai</author>
+<author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Distributed mining of convoys in large scale datasets.</title>
+<pages>353-396</pages>
+<year>2021</year>
+<volume>25</volume>
+<journal>GeoInformatica</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10707-020-00431-w</ee>
+<url>db/journals/geoinformatica/geoinformatica25.html#OrakzaiPC21</url>
+</article>
+</r>
+<r><article key="journals/lre/SaeedAKKC21" mdate="2021-11-03">
+<author orcid="0000-0001-5026-0765" pid="235/6957">Hafiz Hassaan Saeed</author>
+<author orcid="0000-0002-6345-454X" pid="303/8179">Muhammad Haseeb Ashraf</author>
+<author pid="07/7790">Faisal Kamiran</author>
+<author pid="63/6093">Asim Karim</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Roman Urdu toxic comment classification.</title>
+<pages>971-996</pages>
+<year>2021</year>
+<volume>55</volume>
+<journal>Lang. Resour. Evaluation</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10579-021-09530-y</ee>
+<url>db/journals/lre/lre55.html#SaeedAKKC21</url>
+</article>
+</r>
+<r><article key="journals/sigkdd/CaldersNPRR21" mdate="2021-07-25">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="n/IreneNtoutsi">Eirini Ntoutsi</author>
+<author orcid="0000-0003-4955-0743" pid="37/4649">Mykola Pechenizkiy</author>
+<author pid="09/2973">Bodo Rosenhahn</author>
+<author pid="86/3031">Salvatore Ruggieri</author>
+<title>Introduction to The Special Section on Bias and Fairness in AI.</title>
+<pages>1-3</pages>
+<year>2021</year>
+<volume>23</volume>
+<journal>SIGKDD Explor.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3468507.3468509</ee>
+<url>db/journals/sigkdd/sigkdd23.html#CaldersNPRR21</url>
+</article>
+</r>
+<r><inproceedings key="conf/apweb/SaleemCPK21" mdate="2023-10-28">
+<author pid="130/9505">Muhammad Aamir Saleem</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<author orcid="0000-0002-7642-0875" pid="08/5342">Panagiotis Karras</author>
+<title>Finding Geo-Social Cohorts in Location-Based Social Networks.</title>
+<pages>368-383</pages>
+<year>2021</year>
+<booktitle>APWeb/WAIM (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-85899-5_27</ee>
+<crossref>conf/apweb/2021-2</crossref>
+<url>db/conf/apweb/apweb2021-2.html#SaleemCPK21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bpm/PauwelsC21" mdate="2021-09-16">
+<author orcid="0000-0002-0427-8945" pid="220/4034">Stephen Pauwels</author>
+<author orcid="0000-0002-4943-6978" pid="c/ToonCalders">Toon Calders</author>
+<title>Incremental Predictive Process Monitoring: The Next Activity Case.</title>
+<pages>123-140</pages>
+<year>2021</year>
+<booktitle>BPM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-85469-0_10</ee>
+<crossref>conf/bpm/2021</crossref>
+<url>db/conf/bpm/bpm2021.html#PauwelsC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/LendersC21" mdate="2023-11-12">
+<author orcid="0000-0002-9839-9077" pid="315/3353">Daphne Lenders</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Learning a Fair Distance Function for Situation Testing.</title>
+<pages>631-646</pages>
+<year>2021</year>
+<booktitle>PKDD/ECML Workshops (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-93736-2_45</ee>
+<crossref>conf/pkdd/2021-w1</crossref>
+<url>db/conf/pkdd/pkdd2021-w1.html#LendersC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdm/PinxterenC21" mdate="2021-08-21">
+<author pid="299/8626">Sam Pinxteren</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Efficient Permutation Testing for Significant Sequential Patterns.</title>
+<pages>19-27</pages>
+<year>2021</year>
+<booktitle>SDM</booktitle>
+<ee>https://doi.org/10.1137/1.9781611976700.3</ee>
+<crossref>conf/sdm/2021</crossref>
+<url>db/conf/sdm/sdm2021.html#PinxterenC21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-07447" mdate="2022-01-03">
+<author pid="245/8739">Pieter Delobelle</author>
+<author pid="309/5915">Ewoenam Kwaku Tokpo</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="b/BettinaBerendt">Bettina Berendt</author>
+<title>Measuring Fairness with Biased Rulers: A Survey on Quantifying Biases in Pretrained Language Models.</title>
+<year>2021</year>
+<volume>abs/2112.07447</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.07447</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-07447</url>
+</article>
+</r>
+<r><article key="journals/tois/AlserafiARC20" mdate="2020-12-29">
+<author pid="194/4876">Ayman Alserafi</author>
+<author pid="88/2053">Alberto Abell&#243;</author>
+<author orcid="0000-0001-6350-8328" pid="r/OscarRomero">Oscar Romero 0001</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Keeping the Data Lake in Form: Proximity Mining for Pre-Filtering Schema Matching.</title>
+<pages>26:1-26:30</pages>
+<year>2020</year>
+<volume>38</volume>
+<journal>ACM Trans. Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3388870</ee>
+<url>db/journals/tois/tois38.html#AlserafiARC20</url>
+</article>
+</r>
+<r><inproceedings key="conf/bpm/PauwelsC20" mdate="2020-09-19">
+<author orcid="0000-0002-0427-8945" pid="220/4034">Stephen Pauwels</author>
+<author orcid="0000-0002-4943-6978" pid="c/ToonCalders">Toon Calders</author>
+<title>Bayesian Network Based Predictions of Business Processes.</title>
+<pages>159-175</pages>
+<year>2020</year>
+<booktitle>BPM (Forum)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58638-6_10</ee>
+<crossref>conf/bpm/2020f</crossref>
+<url>db/conf/bpm/bpmf2020.html#PauwelsC20</url>
+</inproceedings>
+</r>
+<r><article key="journals/kais/SaleemKCP19" mdate="2021-10-14">
+<author pid="130/9505">Muhammad Aamir Saleem</author>
+<author orcid="0000-0002-3638-438X" pid="19/139-2">Rohit Kumar 0002</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<title>Effective and efficient location influence mining in location-based social networks.</title>
+<pages>327-362</pages>
+<year>2019</year>
+<volume>61</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10115-018-1240-8</ee>
+<url>db/journals/kais/kais61.html#SaleemKCP19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/OrakzaiCP19" mdate="2020-04-25">
+<author pid="173/5164">Faisal Orakzai</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<title>k/2-hop: Fast Mining of Convoy Patterns With Effective Pruning.</title>
+<pages>948-960</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p948-orakzai.pdf</ee>
+<ee>https://doi.org/10.14778/3329772.3329773</ee>
+<url>db/journals/pvldb/pvldb12.html#OrakzaiCP19</url>
+</article>
+</r>
+<r><inproceedings key="conf/bpm/PauwelsC19" mdate="2023-03-10">
+<author pid="220/4034">Stephen Pauwels</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>ACD2: A Tool to Interactively Explore Business Process Logs.</title>
+<pages>129-133</pages>
+<year>2019</year>
+<booktitle>BPM (PhD/Demos)</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2420/paperDT3.pdf</ee>
+<crossref>conf/bpm/2019d</crossref>
+<url>db/conf/bpm/bpmd2019.html#PauwelsC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dis/ImpedovoCC19" mdate="2019-10-22">
+<author pid="202/3069">Angelo Impedovo</author>
+<author pid="24/4914">Michelangelo Ceci</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Efficient and Accurate Non-exhaustive Pattern-Based Change Detection in Dynamic Networks.</title>
+<pages>396-411</pages>
+<year>2019</year>
+<booktitle>DS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-33778-0_30</ee>
+<crossref>conf/dis/2019</crossref>
+<url>db/conf/dis/dis2019.html#ImpedovoCC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/medi/AlserafiA0C19" mdate="2023-06-26">
+<author pid="194/4876">Ayman Alserafi</author>
+<author pid="88/2053">Alberto Abell&#243;</author>
+<author orcid="0000-0001-6350-8328" pid="r/OscarRomero">Oscar Romero 0001</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Keeping the Data Lake in Form: DS-kNN Datasets Categorization Using Proximity Mining.</title>
+<pages>35-49</pages>
+<year>2019</year>
+<booktitle>MEDI</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-32065-2_3</ee>
+<crossref>conf/medi/2019</crossref>
+<url>db/conf/medi/medi2019.html#AlserafiA0C19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/PauwelsC19" mdate="2019-05-02">
+<author pid="220/4034">Stephen Pauwels</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>An anomaly detection technique for business processes based on extended dynamic bayesian networks.</title>
+<pages>494-501</pages>
+<year>2019</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3297280.3297326</ee>
+<crossref>conf/sac/2019</crossref>
+<url>db/conf/sac/sac2019.html#PauwelsC19</url>
+</inproceedings>
+</r>
+<r><article key="journals/ml/CeciC18" mdate="2020-03-02">
+<author orcid="0000-0002-6690-7583" pid="24/4914">Michelangelo Ceci</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Introduction to the special issue on discovery science.</title>
+<pages>1647-1649</pages>
+<year>2018</year>
+<volume>107</volume>
+<journal>Mach. Learn.</journal>
+<number>11</number>
+<ee type="oa">https://doi.org/10.1007/s10994-018-5749-6</ee>
+<ee>https://www.wikidata.org/entity/Q62672488</ee>
+<url>db/journals/ml/ml107.html#CeciC18</url>
+</article>
+</r>
+<r><article key="journals/pr/GoudaAC18" mdate="2020-02-24">
+<author pid="37/5902">Karam Gouda</author>
+<author pid="162/4313">Mona Arafa</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>A novel hierarchical-based framework for upper bound computation of graph edit distance.</title>
+<pages>210-224</pages>
+<year>2018</year>
+<volume>80</volume>
+<journal>Pattern Recognit.</journal>
+<ee>https://doi.org/10.1016/j.patcog.2018.03.019</ee>
+<url>db/journals/pr/pr80.html#GoudaAC18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KumarC18" mdate="2020-04-25">
+<author pid="19/139-2">Rohit Kumar 0002</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>2SCENT: An Efficient Algorithm to Enumerate All Simple Temporal Cycles.</title>
+<pages>1441-1453</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1441-kumar.pdf</ee>
+<ee>https://doi.org/10.14778/3236187.3236197</ee>
+<url>db/journals/pvldb/pvldb11.html#KumarC18</url>
+</article>
+</r>
+<r><inproceedings key="conf/mdm/SaleemCDKPC18" mdate="2023-03-23">
+<author pid="130/9505">Muhammad Aamir Saleem</author>
+<author orcid="0000-0002-5862-2318" pid="141/2082">Felipe Soares Da Costa</author>
+<author pid="d/PeterDolog">Peter Dolog</author>
+<author pid="08/5342">Panagiotis Karras</author>
+<author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Predicting Visitors Using Location-Based Social Networks.</title>
+<pages>245-250</pages>
+<year>2018</year>
+<booktitle>MDM</booktitle>
+<ee>https://doi.org/10.1109/MDM.2018.00043</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MDM.2018.00043</ee>
+<crossref>conf/mdm/2018</crossref>
+<url>db/conf/mdm/mdm2018.html#SaleemCDKPC18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-07107" mdate="2018-08-13">
+<author pid="220/4034">Stephen Pauwels</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Extending Dynamic Bayesian Networks for Anomaly Detection in Complex Logs.</title>
+<year>2018</year>
+<volume>abs/1805.07107</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.07107</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-07107</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-05650" mdate="2018-10-05">
+<author pid="220/4034">Stephen Pauwels</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Detecting and Explaining Drifts in Yearly Grant Applications.</title>
+<year>2018</year>
+<volume>abs/1809.05650</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.05650</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-05650</url>
+</article>
+</r>
+<r><article key="journals/sigspatial/AhmedCLP17" mdate="2020-05-27">
+<author pid="73/1017-1">Tanvir Ahmed 0001</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0003-1199-6678" pid="l/HuaLu">Hua Lu 0001</author>
+<author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<title>Risk detection and prediction from indoor tracking data.</title>
+<pages>11-18</pages>
+<year>2017</year>
+<volume>9</volume>
+<journal>ACM SIGSPATIAL Special</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3151123.3151126</ee>
+<url>db/journals/sigspatial/sigspatial9.html#AhmedCLP17</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/0002AC17" mdate="2021-10-14">
+<author orcid="0000-0002-3638-438X" pid="19/139-2">Rohit Kumar 0002</author>
+<author pid="88/2053">Alberto Abell&#243;</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Cost Model for Pregel on GraphX.</title>
+<pages>153-166</pages>
+<year>2017</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-66917-5_11</ee>
+<crossref>conf/adbis/2017</crossref>
+<url>db/conf/adbis/adbis2017.html#0002AC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/Saleem0CXP17" mdate="2021-10-14">
+<author pid="130/9505">Muhammad Aamir Saleem</author>
+<author orcid="0000-0002-3638-438X" pid="19/139-2">Rohit Kumar 0002</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="64/1308">Xike Xie</author>
+<author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<title>IMaxer: A Unified System for Evaluating Influence Maximization in Location-based Social Networks.</title>
+<pages>2523-2526</pages>
+<year>2017</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3132847.3133184</ee>
+<crossref>conf/cikm/2017</crossref>
+<url>db/conf/cikm/cikm2017.html#Saleem0CXP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ebiss/Calders17" mdate="2018-08-11">
+<author orcid="0000-0002-4943-6978" pid="c/ToonCalders">Toon Calders</author>
+<title>Three Big Data Tools for a Data Scientist's Toolbox.</title>
+<pages>112-133</pages>
+<year>2017</year>
+<booktitle>eBISS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-96655-7_5</ee>
+<crossref>conf/ebiss/2017</crossref>
+<url>db/conf/ebiss/ebiss2017.html#Calders17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/0002C17" mdate="2021-01-29">
+<author pid="19/139-2">Rohit Kumar 0002</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Information Propagation in Interaction Networks.</title>
+<pages>270-281</pages>
+<year>2017</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2017.25</ee>
+<crossref>conf/edbt/2017</crossref>
+<url>db/conf/edbt/edbt2017.html#0002C17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/0002C17" mdate="2023-03-10">
+<author pid="19/139-2">Rohit Kumar 0002</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Finding simple temporal cycles in an interaction network.</title>
+<pages>3-6</pages>
+<year>2017</year>
+<booktitle>TD-LSG@PKDD/ECML</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1929/paper2.pdf</ee>
+<crossref>conf/pkdd/2017tdlsg</crossref>
+<url>db/conf/pkdd/tdlsg2017.html#0002C17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/0002SCXP17" mdate="2021-10-14">
+<author orcid="0000-0002-3638-438X" pid="19/139-2">Rohit Kumar 0002</author>
+<author pid="130/9505">Muhammad Aamir Saleem</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="64/1308">Xike Xie</author>
+<author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<title>Activity-Driven Influence Maximization in Social Networks.</title>
+<pages>345-348</pages>
+<year>2017</year>
+<booktitle>ECML/PKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-71273-4_28</ee>
+<crossref>conf/pkdd/2017-3</crossref>
+<url>db/conf/pkdd/pkdd2017-3.html#0002SCXP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sisap/AlserafiCA017" mdate="2023-06-26">
+<author pid="194/4876">Ayman Alserafi</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="88/2053">Alberto Abell&#243;</author>
+<author orcid="0000-0001-6350-8328" pid="r/OscarRomero">Oscar Romero 0001</author>
+<title>DS-Prox: Dataset Proximity Mining for Governing the Data Lake.</title>
+<pages>284-299</pages>
+<year>2017</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-68474-1_20</ee>
+<crossref>conf/sisap/2017</crossref>
+<url>db/conf/sisap/sisap2017.html#AlserafiCA017</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/Saleem0CXP17" mdate="2021-10-14">
+<author pid="130/9505">Muhammad Aamir Saleem</author>
+<author orcid="0000-0002-3638-438X" pid="19/139-2">Rohit Kumar 0002</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="64/1308">Xike Xie</author>
+<author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<title>Location Influence in Location-based Social Networks.</title>
+<pages>621-630</pages>
+<year>2017</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/3018661.3018705</ee>
+<crossref>conf/wsdm/2017</crossref>
+<url>db/conf/wsdm/wsdm2017.html#Saleem0CXP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adbis/0001RCA16" mdate="2023-06-26">
+<author orcid="0000-0003-4635-6646" pid="34/1397-1">Petar Jovanovic 0001</author>
+<author orcid="0000-0001-6350-8328" pid="r/OscarRomero">Oscar Romero 0001</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="88/2053">Alberto Abell&#243;</author>
+<title>H-WorD: Supporting Job Scheduling in Hadoop with Workload-Driven Data Redistribution.</title>
+<pages>306-320</pages>
+<year>2016</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44039-2_21</ee>
+<crossref>conf/adbis/2016</crossref>
+<url>db/conf/adbis/adbis2016.html#0001RCA16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/Calders16" mdate="2016-01-22">
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Fairness-Aware Data Mining.</title>
+<pages>3-4</pages>
+<year>2016</year>
+<booktitle>EGC</booktitle>
+<ee>http://editions-rnti.fr/?inprocid=1002147</ee>
+<crossref>conf/f-egc/2016</crossref>
+<url>db/conf/f-egc/egc2016.html#Calders16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/AlserafiA0C16" mdate="2023-03-24">
+<author pid="194/4876">Ayman Alserafi</author>
+<author pid="88/2053">Alberto Abell&#243;</author>
+<author orcid="0000-0001-6350-8328" pid="r/OscarRomero">Oscar Romero 0001</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Towards Information Profiling: Data Lake Content Metadata Management.</title>
+<pages>178-185</pages>
+<year>2016</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2016.0033</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDMW.2016.0033</ee>
+<crossref>conf/icdm/2016w</crossref>
+<url>db/conf/icdm/icdm2016w.html#AlserafiA0C16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mdm/0001PCL16" mdate="2023-03-23">
+<author pid="73/1017-1">Tanvir Ahmed 0001</author>
+<author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0003-1199-6678" pid="l/HuaLu">Hua Lu 0001</author>
+<title>Online Risk Prediction for Indoor Moving Objects.</title>
+<pages>102-111</pages>
+<year>2016</year>
+<booktitle>MDM</booktitle>
+<ee>https://doi.org/10.1109/MDM.2016.27</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MDM.2016.27</ee>
+<crossref>conf/mdm/2016</crossref>
+<url>db/conf/mdm/mdm2016.html#0001PCL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mdm/OrakzaiCP16" mdate="2023-03-23">
+<author pid="173/5164">Faisal Orakzai</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<title>Distributed Convoy Pattern Mining.</title>
+<pages>122-131</pages>
+<year>2016</year>
+<booktitle>MDM</booktitle>
+<ee>https://doi.org/10.1109/MDM.2016.29</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MDM.2016.29</ee>
+<crossref>conf/mdm/2016</crossref>
+<url>db/conf/mdm/mdm2016.html#OrakzaiCP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sisap/GoudaAC16" mdate="2017-05-25">
+<author pid="37/5902">Karam Gouda</author>
+<author pid="162/4313">Mona Arafa</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>BFST_ED: A Novel Upper Bound Computation Framework for the Graph Edit Distance.</title>
+<pages>3-19</pages>
+<year>2016</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-46759-7_1</ee>
+<crossref>conf/sisap/2016</crossref>
+<url>db/conf/sisap/sisap2016.html#GoudaAC16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dis/2016" mdate="2019-05-14">
+<editor pid="c/ToonCalders">Toon Calders</editor>
+<editor pid="24/4914">Michelangelo Ceci</editor>
+<editor pid="m/DonatoMalerba">Donato Malerba</editor>
+<title>Discovery Science - 19th International Conference, DS 2016, Bari, Italy, October 19-21, 2016, Proceedings</title>
+<booktitle>DS</booktitle>
+<year>2016</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>9956</volume>
+<isbn>978-3-319-46306-3</isbn>
+<ee>https://doi.org/10.1007/978-3-319-46307-0</ee>
+<url>db/conf/dis/dis2016.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/CaldersA16" mdate="2018-08-13">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="177/9168">Dimitri Van Assche</author>
+<title>PROMETHEE is Not Quadratic: An O(qn log(n)) Algorithm.</title>
+<year>2016</year>
+<volume>abs/1603.00091</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1603.00091</ee>
+<url>db/journals/corr/corr1603.html#CaldersA16</url>
+</article>
+</r>
+<r><article key="journals/datamine/EghoRCJN15" mdate="2019-10-19">
+<author pid="124/9314">Elias Egho</author>
+<author pid="76/1132">Chedy Ra&#239;ssi</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0002-5790-6933" pid="33/2692">Nicolas Jay</author>
+<author pid="n/AmedeoNapoli">Amedeo Napoli</author>
+<title>On measuring similarity for sequences of itemsets.</title>
+<pages>732-764</pages>
+<year>2015</year>
+<volume>29</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10618-014-0362-1</ee>
+<url>db/journals/datamine/datamine29.html#EghoRCJN15</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecir/EfremovaGC15" mdate="2017-05-21">
+<author pid="160/1743">Julia Efremova</author>
+<author pid="133/3208">Alejandro Montes Garc&#237;a</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Classification of Historical Notary Acts with Noisy Labels.</title>
+<pages>49-54</pages>
+<year>2015</year>
+<booktitle>ECIR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-16354-3_6</ee>
+<crossref>conf/ecir/2015</crossref>
+<url>db/conf/ecir/ecir2015.html#EfremovaGC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/OrakzaiDC15" mdate="2018-11-06">
+<author pid="173/5164">Faisal Orakzai</author>
+<author pid="27/3363">Thomas Devogele</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Towards distributed convoy pattern mining.</title>
+<pages>50:1-50:4</pages>
+<year>2015</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/2820783.2820840</ee>
+<crossref>conf/gis/2015</crossref>
+<url>db/conf/gis/gis2015.html#OrakzaiDC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mdm/0001CP15" mdate="2023-03-23">
+<author pid="73/1017-1">Tanvir Ahmed 0001</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<title>Mining Risk Factors in RFID Baggage Tracking Data.</title>
+<pages>235-242</pages>
+<year>2015</year>
+<booktitle>MDM (1)</booktitle>
+<ee>https://doi.org/10.1109/MDM.2015.31</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MDM.2015.31</ee>
+<crossref>conf/mdm/2015-1</crossref>
+<url>db/conf/mdm/mdm2015-1.html#0001CP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/SahraeiERCTW15" mdate="2022-03-08">
+<author pid="35/10058">Bijan Ranjbar Sahraei</author>
+<author pid="160/1743">Julia Efremova</author>
+<author pid="40/7475">Hossein Rahmani</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0001-7929-1944" pid="t/KTuyls">Karl Tuyls</author>
+<author pid="07/2055">Gerhard Weiss 0001</author>
+<title>HiDER: Query-Driven Entity Resolution for Historical Data.</title>
+<pages>281-284</pages>
+<year>2015</year>
+<booktitle>ECML/PKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23461-8_30</ee>
+<crossref>conf/pkdd/2015-3</crossref>
+<url>db/conf/pkdd/pkdd2015-3.html#SahraeiERCTW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/KumarCGT15" mdate="2021-10-14">
+<author orcid="0000-0002-3638-438X" pid="19/139-2">Rohit Kumar 0002</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="g/AristidesGionis">Aristides Gionis</author>
+<author orcid="0000-0002-2087-5360" pid="28/488">Nikolaj Tatti</author>
+<title>Maintaining Sliding-Window Neighborhood Profiles in Interaction Networks.</title>
+<pages>719-735</pages>
+<year>2015</year>
+<booktitle>ECML/PKDD (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23525-7_44</ee>
+<crossref>conf/pkdd/2015-2</crossref>
+<url>db/conf/pkdd/pkdd2015-2.html#KumarCGT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/russir/EfremovaGIC15" mdate="2017-05-23">
+<author pid="160/1743">Julia Efremova</author>
+<author pid="133/3208">Alejandro Montes Garc&#237;a</author>
+<author pid="145/1673">Alfredo Bolt Iriondo</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Who Are My Ancestors? Retrieving Family Relationships from Historical Texts.</title>
+<pages>121-129</pages>
+<year>2015</year>
+<booktitle>RuSSIR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-41718-9_6</ee>
+<crossref>conf/russir/2015</crossref>
+<url>db/conf/russir/russir2015.html#EfremovaGIC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/slsp/EfremovaGZC15" mdate="2017-05-24">
+<author pid="160/1743">Julia Efremova</author>
+<author pid="133/3208">Alejandro Montes Garc&#237;a</author>
+<author pid="134/7404">Jianpeng Zhang</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Effects of Evolutionary Linguistics in Text Classification.</title>
+<pages>50-61</pages>
+<year>2015</year>
+<booktitle>SLSP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-25789-1_6</ee>
+<crossref>conf/slsp/2015</crossref>
+<url>db/conf/slsp/slsp2015.html#EfremovaGZC15</url>
+</inproceedings>
+</r>
+<r><incollection key="books/daglib/p/EfremovaSROCTW15" mdate="2022-03-08">
+<author pid="160/1743">Julia Efremova</author>
+<author pid="35/10058">Bijan Ranjbar Sahraei</author>
+<author pid="40/7475">Hossein Rahmani</author>
+<author pid="82/2420">Frans A. Oliehoek</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0001-7929-1944" pid="t/KTuyls">Karl Tuyls</author>
+<author pid="07/2055">Gerhard Weiss 0001</author>
+<title>Multi-Source Entity Resolution for Genealogical Data.</title>
+<pages>129-154</pages>
+<year>2015</year>
+<booktitle>Population Reconstruction</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-19884-2_7</ee>
+<crossref>books/daglib/0036989</crossref>
+<url>db/books/collections/BCMS2015.html#EfremovaSROCTW15</url>
+</incollection>
+</r>
+<r><proceedings key="conf/eda/2015" mdate="2015-05-12">
+<editor pid="82/2871">Esteban Zim&#225;nyi</editor>
+<editor pid="28/3797">Stijn Vansummeren</editor>
+<editor pid="c/ToonCalders">Toon Calders</editor>
+<title>Actes des 11es journ&#233;es francophones sur les Entrep&#244;ts de Donn&#233;es et l'Analyse en Ligne, EDA 2015, Bruxelles, Belgique, 2-3 avril 2015</title>
+<publisher>Hermann-&#201;ditions</publisher>
+<year>2015</year>
+<series href="db/series/rnti/index.html">RNTI</series>
+<volume>B-11</volume>
+<ee>http://editions-rnti.fr/?procid=100163</ee>
+<booktitle>EDA</booktitle>
+<url>db/conf/eda/eda2015.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/OrakzaiDC15" mdate="2018-08-13">
+<author pid="173/5164">Faisal Orakzai</author>
+<author pid="27/3363">Thomas Devogele</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Towards Distributed Convoy Pattern Mining.</title>
+<year>2015</year>
+<volume>abs/1512.08150</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1512.08150</ee>
+<url>db/journals/corr/corr1512.html#OrakzaiDC15</url>
+</article>
+</r>
+<r><article key="journals/datamine/CaldersEHM14" mdate="2020-10-26">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0002-1075-3239" pid="68/6961">Floriana Esposito</author>
+<author pid="h/EykeHullermeier">Eyke H&#252;llermeier</author>
+<author orcid="0000-0002-0434-4850" pid="m/RosaMeo">Rosa Meo</author>
+<title>Guest editors' introduction: special issue of the ECML/PKDD 2014 journal track.</title>
+<pages>1129-1133</pages>
+<year>2014</year>
+<volume>28</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>5-6</number>
+<ee type="oa">https://doi.org/10.1007/s10618-014-0374-x</ee>
+<ee>https://www.wikidata.org/entity/Q62672545</ee>
+<url>db/journals/datamine/datamine28.html#CaldersEHM14</url>
+</article>
+</r>
+<r><article key="journals/is/CaldersDGG14" mdate="2021-04-09">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0002-0562-4619" pid="54/231">Nele Dexters</author>
+<author pid="04/8355">Joris J. M. Gillis</author>
+<author orcid="0000-0001-9327-9554" pid="g/BartGoethals">Bart Goethals</author>
+<title>Mining frequent itemsets in a stream.</title>
+<pages>233-255</pages>
+<year>2014</year>
+<volume>39</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2012.01.005</ee>
+<url>db/journals/is/is39.html#CaldersDGG14</url>
+</article>
+</r>
+<r><article key="journals/ml/CaldersEHM14" mdate="2020-10-26">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0002-1075-3239" pid="68/6961">Floriana Esposito</author>
+<author pid="h/EykeHullermeier">Eyke H&#252;llermeier</author>
+<author orcid="0000-0002-0434-4850" pid="m/RosaMeo">Rosa Meo</author>
+<title>Guest Editors' introduction: special issue of the ECML/PKDD 2014 journal track.</title>
+<pages>1-3</pages>
+<year>2014</year>
+<volume>97</volume>
+<journal>Mach. Learn.</journal>
+<number>1-2</number>
+<ee type="oa">https://doi.org/10.1007/s10994-014-5468-6</ee>
+<ee>https://www.wikidata.org/entity/Q62672543</ee>
+<url>db/journals/ml/ml97.html#CaldersEHM14</url>
+</article>
+</r>
+<r><article key="journals/sadm/LamMFC14" mdate="2020-10-01">
+<author pid="66/3866">Hoang Thanh Lam</author>
+<author pid="05/3244">Fabian M&#246;rchen</author>
+<author pid="16/4728">Dmitriy Fradkin</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Mining Compressing Sequential Patterns.</title>
+<pages>34-52</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Stat. Anal. Data Min.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/sam.11192</ee>
+<url>db/journals/sadm/sadm7.html#LamMFC14</url>
+</article>
+</r>
+<r><article key="journals/tods/TattiMC14" mdate="2019-09-16">
+<author orcid="0000-0002-2087-5360" pid="28/488">Nikolaj Tatti</author>
+<author pid="05/3244">Fabian Moerchen</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Finding Robust Itemsets under Subsampling.</title>
+<pages>20:1-20:27</pages>
+<year>2014</year>
+<volume>39</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2656261</ee>
+<url>db/journals/tods/tods39.html#TattiMC14</url>
+</article>
+</r>
+<r><inproceedings key="conf/latech/EfremovaSC14" mdate="2021-08-06">
+<author pid="160/1743">Julia Efremova</author>
+<author pid="35/10058">Bijan Ranjbar Sahraei</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>A Hybrid Disambiguation Measure for Inaccurate Cultural Heritage Data.</title>
+<pages>47-55</pages>
+<year>2014</year>
+<booktitle>LaTeCH@EACL</booktitle>
+<ee type="oa">https://doi.org/10.3115/v1/w14-0607</ee>
+<ee type="oa">https://aclanthology.org/W14-0607/</ee>
+<crossref>conf/latech/2014</crossref>
+<url>db/conf/latech/latech2014.html#EfremovaSC14</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/pkdd/2014-1" mdate="2019-05-14">
+<editor pid="c/ToonCalders">Toon Calders</editor>
+<editor pid="68/6961">Floriana Esposito</editor>
+<editor pid="h/EykeHullermeier">Eyke H&#252;llermeier</editor>
+<editor pid="m/RosaMeo">Rosa Meo</editor>
+<title>Machine Learning and Knowledge Discovery in Databases - European Conference, ECML PKDD 2014, Nancy, France, September 15-19, 2014. Proceedings, Part I</title>
+<year>2014</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>8724</volume>
+<ee>https://doi.org/10.1007/978-3-662-44848-9</ee>
+<isbn>978-3-662-44847-2</isbn>
+<booktitle>ECML/PKDD (1)</booktitle>
+<url>db/conf/pkdd/pkdd2014-1.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/pkdd/2014-2" mdate="2019-05-14">
+<editor pid="c/ToonCalders">Toon Calders</editor>
+<editor pid="68/6961">Floriana Esposito</editor>
+<editor pid="h/EykeHullermeier">Eyke H&#252;llermeier</editor>
+<editor pid="m/RosaMeo">Rosa Meo</editor>
+<title>Machine Learning and Knowledge Discovery in Databases - European Conference, ECML PKDD 2014, Nancy, France, September 15-19, 2014. Proceedings, Part II</title>
+<year>2014</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>8725</volume>
+<ee>https://doi.org/10.1007/978-3-662-44851-9</ee>
+<isbn>978-3-662-44850-2</isbn>
+<booktitle>ECML/PKDD (2)</booktitle>
+<url>db/conf/pkdd/pkdd2014-2.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/pkdd/2014-3" mdate="2019-05-14">
+<editor pid="c/ToonCalders">Toon Calders</editor>
+<editor pid="68/6961">Floriana Esposito</editor>
+<editor pid="h/EykeHullermeier">Eyke H&#252;llermeier</editor>
+<editor pid="m/RosaMeo">Rosa Meo</editor>
+<title>Machine Learning and Knowledge Discovery in Databases - European Conference, ECML PKDD 2014, Nancy, France, September 15-19, 2014. Proceedings, Part III</title>
+<year>2014</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>8726</volume>
+<ee>https://doi.org/10.1007/978-3-662-44845-8</ee>
+<isbn>978-3-662-44844-1</isbn>
+<booktitle>ECML/PKDD (3)</booktitle>
+<url>db/conf/pkdd/pkdd2014-3.html</url>
+</proceedings>
+</r>
+<r><article key="journals/kais/KamiranZC13" mdate="2017-06-15">
+<author pid="07/7790">Faisal Kamiran</author>
+<author orcid="0000-0003-2427-5407" pid="00/6690">Indre Zliobaite</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Quantifying explainable discrimination and removing illegal discrimination in automated decision making.</title>
+<pages>613-644</pages>
+<year>2013</year>
+<volume>35</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10115-012-0584-8</ee>
+<url>db/journals/kais/kais35.html#KamiranZC13</url>
+</article>
+</r>
+<r><inproceedings key="conf/ebiss/Calders13" mdate="2017-05-26">
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Introduction to Pattern Mining.</title>
+<pages>1-32</pages>
+<year>2013</year>
+<booktitle>eBISS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-05461-2_1</ee>
+<crossref>conf/ebiss/2013</crossref>
+<url>db/conf/ebiss/ebiss2013.html#Calders13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/EghoRCBJN13" mdate="2014-04-24">
+<author pid="124/9314">Elias Egho</author>
+<author pid="76/1132">Chedy Ra&#239;ssi</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="30/8408">Thomas Bourquard</author>
+<author pid="33/2692">Nicolas Jay</author>
+<author pid="n/AmedeoNapoli">Amedeo Napoli</author>
+<title>Vers une mesure de similarit&#233; pour les s&#233;quences complexes.</title>
+<pages>335-340</pages>
+<year>2013</year>
+<booktitle>EGC</booktitle>
+<crossref>conf/f-egc/2013</crossref>
+<url>db/conf/f-egc/egc2013.html#EghoRCBJN13</url>
+<ee>http://editions-rnti.fr/?inprocid=1001853</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/CaldersKKAZ13" mdate="2023-03-24">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="63/6093">Asim Karim</author>
+<author pid="07/7790">Faisal Kamiran</author>
+<author pid="140/9534">Wasif Ali</author>
+<author orcid="0000-0002-3574-5665" pid="74/1890-1">Xiangliang Zhang 0001</author>
+<title>Controlling Attribute Effect in Linear Regression.</title>
+<pages>71-80</pages>
+<year>2013</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2013.114</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDM.2013.114</ee>
+<crossref>conf/icdm/2013</crossref>
+<url>db/conf/icdm/icdm2013.html#CaldersKKAZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/KiselevaLPC13" mdate="2023-03-24">
+<author pid="99/3446">Julia Kiseleva</author>
+<author pid="66/3866">Hoang Thanh Lam</author>
+<author orcid="0000-0003-4955-0743" pid="37/4649">Mykola Pechenizkiy</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Predicting Current User Intent with Contextual Markov Models.</title>
+<pages>391-398</pages>
+<year>2013</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2013.143</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDMW.2013.143</ee>
+<crossref>conf/icdm/2013w</crossref>
+<url>db/conf/icdm/icdmw2013.html#KiselevaLPC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/LamCYMF13" mdate="2022-02-07">
+<author pid="66/3866">Hoang Thanh Lam</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="12/1198-28">Jie Yang 0028</author>
+<author pid="05/3244">Fabian M&#246;rchen</author>
+<author pid="16/4728">Dmitriy Fradkin</author>
+<title>Zips: mining compressing sequential patterns in streams.</title>
+<pages>54-62</pages>
+<year>2013</year>
+<booktitle>IDEA@KDD</booktitle>
+<ee>https://doi.org/10.1145/2501511.2501520</ee>
+<crossref>conf/kdd/2013idea</crossref>
+<url>db/conf/kdd/idea2013.html#LamCYMF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/KiselevaLPC13" mdate="2019-10-19">
+<author pid="99/3446">Julia Kiseleva</author>
+<author pid="66/3866">Hoang Thanh Lam</author>
+<author orcid="0000-0003-4955-0743" pid="37/4649">Mykola Pechenizkiy</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Discovering temporal hidden contexts in web sessions for user trail prediction.</title>
+<pages>1067-1074</pages>
+<year>2013</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2487788.2488120</ee>
+<crossref>conf/www/2013c</crossref>
+<url>db/conf/www/www2013c.html#KiselevaLPC13</url>
+</inproceedings>
+</r>
+<r><incollection key="series/sapere/CaldersC13" mdate="2017-05-16">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="00/2720">Bart Custers</author>
+<title>What Is Data Mining and How Does It Work?</title>
+<pages>27-42</pages>
+<year>2013</year>
+<booktitle>Discrimination and Privacy in the Information Society</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-30487-3_2</ee>
+<crossref>series/sapere/2013-3</crossref>
+<url>db/series/sapere/sapere3.html#CaldersC13</url>
+</incollection>
+</r>
+<r><incollection key="series/sapere/CaldersZ13" mdate="2017-06-14">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0003-2427-5407" pid="00/6690">Indre Zliobaite</author>
+<title>Why Unbiased Computational Processes Can Lead to Discriminative Decision Procedures.</title>
+<pages>43-57</pages>
+<year>2013</year>
+<booktitle>Discrimination and Privacy in the Information Society</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-30487-3_3</ee>
+<crossref>series/sapere/2013-3</crossref>
+<url>db/series/sapere/sapere3.html#CaldersZ13</url>
+</incollection>
+</r>
+<r><incollection key="series/sapere/KamiranCP13" mdate="2021-07-25">
+<author pid="07/7790">Faisal Kamiran</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0003-4955-0743" pid="37/4649">Mykola Pechenizkiy</author>
+<title>Techniques for Discrimination-Free Predictive Models.</title>
+<pages>223-239</pages>
+<year>2013</year>
+<booktitle>Discrimination and Privacy in the Information Society</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-30487-3_12</ee>
+<crossref>series/sapere/2013-3</crossref>
+<url>db/series/sapere/sapere3.html#KamiranCP13</url>
+</incollection>
+</r>
+<r><incollection key="series/sapere/VerwerC13" mdate="2017-05-16">
+<author pid="81/5891">Sicco Verwer</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Introducing Positive Discrimination in Predictive Models.</title>
+<pages>255-270</pages>
+<year>2013</year>
+<booktitle>Discrimination and Privacy in the Information Society</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-30487-3_14</ee>
+<crossref>series/sapere/2013-3</crossref>
+<url>db/series/sapere/sapere3.html#VerwerC13</url>
+</incollection>
+</r>
+<r><incollection key="series/sapere/CustersCZS13" mdate="2017-12-14">
+<author pid="00/2720">Bart Custers</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="118/3148">Tal Z. Zarsky</author>
+<author pid="119/3245">Bart W. Schermer</author>
+<title>The Way Forward.</title>
+<pages>341-357</pages>
+<year>2013</year>
+<booktitle>Discrimination and Privacy in the Information Society</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-30487-3_19</ee>
+<crossref>series/sapere/2013-3</crossref>
+<url>db/series/sapere/sapere3.html#CustersCZS13</url>
+</incollection>
+</r>
+<r><book key="series/sapere/2013-3" mdate="2019-10-19">
+<editor orcid="0000-0002-3355-8380" pid="00/2720">Bart Custers</editor>
+<editor pid="c/ToonCalders">Toon Calders</editor>
+<editor pid="119/3245">Bart W. Schermer</editor>
+<editor pid="118/3148">Tal Z. Zarsky</editor>
+<title>Discrimination and Privacy in the Information Society - Data Mining and Profiling in Large Databases</title>
+<booktitle>Discrimination and Privacy in the Information Society</booktitle>
+<volume>3</volume>
+<year>2013</year>
+<publisher>Springer</publisher>
+<series href="db/series/sapere/index.html">Studies in Applied Philosophy, Epistemology and Rational Ethics</series>
+<ee>https://doi.org/10.1007/978-3-642-30487-3</ee>
+<isbn>978-3-642-30486-6</isbn>
+<url>db/series/sapere/sapere3.html</url>
+</book>
+</r>
+<r><article key="journals/datamine/BlockeelCFGPR12" mdate="2022-12-07">
+<author orcid="0000-0003-0378-3699" pid="69/6136">Hendrik Blockeel</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0003-0133-3491" pid="06/5764">&#201;lisa Fromont</author>
+<author orcid="0000-0001-9327-9554" pid="g/BartGoethals">Bart Goethals</author>
+<author pid="45/1384">Adriana Prado</author>
+<author pid="r/CRobardet">C&#233;line Robardet</author>
+<title>An inductive database system based on virtual mining views.</title>
+<pages>247-287</pages>
+<year>2012</year>
+<volume>24</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10618-011-0229-7</ee>
+<ee>https://www.wikidata.org/entity/Q58012254</ee>
+<url>db/journals/datamine/datamine24.html#BlockeelCFGPR12</url>
+</article>
+</r>
+<r><inproceedings key="conf/alt/Calders12" mdate="2017-05-26">
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Recent Developments in Pattern Mining.</title>
+<pages>34</pages>
+<year>2012</year>
+<booktitle>ALT</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-34106-9_5</ee>
+<crossref>conf/alt/2012</crossref>
+<url>db/conf/alt/alt2012.html#Calders12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dis/Calders12" mdate="2017-05-23">
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Recent Developments in Pattern Mining.</title>
+<pages>2</pages>
+<year>2012</year>
+<booktitle>Discovery Science</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33492-4_2</ee>
+<crossref>conf/dis/2012</crossref>
+<url>db/conf/dis/dis2012.html#Calders12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdm/LamMFC12" mdate="2017-05-17">
+<author pid="66/3866">Hoang Thanh Lam</author>
+<author pid="05/3244">Fabian Moerchen</author>
+<author pid="16/4728">Dmitriy Fradkin</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Mining Compressing Sequential Patterns.</title>
+<pages>319-330</pages>
+<year>2012</year>
+<booktitle>SDM</booktitle>
+<ee>https://doi.org/10.1137/1.9781611972825.28</ee>
+<crossref>conf/sdm/2012</crossref>
+<url>db/conf/sdm/sdm2012.html#LamMFC12</url>
+</inproceedings>
+</r>
+<r><article key="journals/datamine/CaldersRD11" mdate="2023-08-28">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="38/900">Jan Ramon</author>
+<author pid="v/DriesVanDyck">Dries Van Dyck</author>
+<title>All normalized anti-monotonic overlap graph measures are bounded.</title>
+<pages>503-548</pages>
+<year>2011</year>
+<volume>23</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10618-011-0217-y</ee>
+<ee>https://www.wikidata.org/entity/Q114827259</ee>
+<url>db/journals/datamine/datamine23.html#CaldersRD11</url>
+</article>
+</r>
+<r><article key="journals/kais/KamiranC11" mdate="2018-06-26">
+<author pid="07/7790">Faisal Kamiran</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Data preprocessing techniques for classification without discrimination.</title>
+<pages>1-33</pages>
+<year>2011</year>
+<volume>33</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s10115-011-0463-8</ee>
+<url>db/journals/kais/kais33.html#KamiranC11</url>
+</article>
+</r>
+<r><article key="journals/sigkdd/CaldersP11" mdate="2020-09-29">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0003-4955-0743" pid="37/4649">Mykola Pechenizkiy</author>
+<title>Introduction to the special section on educational data mining.</title>
+<pages>3-6</pages>
+<year>2011</year>
+<volume>13</volume>
+<journal>SIGKDD Explor.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2207243.2207245</ee>
+<url>db/journals/sigkdd/sigkdd13.html#CaldersP11</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdm/ZliobaiteKC11" mdate="2023-03-24">
+<author orcid="0000-0003-2427-5407" pid="00/6690">Indre Zliobaite</author>
+<author pid="07/7790">Faisal Kamiran</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Handling Conditional Discrimination.</title>
+<pages>992-1001</pages>
+<year>2011</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2011.72</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDM.2011.72</ee>
+<crossref>conf/icdm/2011</crossref>
+<url>db/conf/icdm/icdm2011.html#ZliobaiteKC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdm/LamCP11" mdate="2017-05-17">
+<author pid="66/3866">Hoang Thanh Lam</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="84/9841">Ninh Pham</author>
+<title>Online Discovery of Top-k Similar Motifs in Time Series Data.</title>
+<pages>1004-1015</pages>
+<year>2011</year>
+<booktitle>SDM</booktitle>
+<ee>https://doi.org/10.1137/1.9781611972818.86</ee>
+<crossref>conf/sdm/2011</crossref>
+<url>db/conf/sdm/sdm2011.html#LamCP11</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/edm/2011" mdate="2022-08-23">
+<editor pid="37/4649">Mykola Pechenizkiy</editor>
+<editor pid="c/ToonCalders">Toon Calders</editor>
+<editor pid="34/5056">Cristina Conati</editor>
+<editor pid="00/4717">Sebasti&#225;n Ventura</editor>
+<editor pid="41/536">Crist&#243;bal Romero 0001</editor>
+<editor pid="02/6739">John C. Stamper</editor>
+<title>Proceedings of the 4th International Conference on Educational Data Mining, Eindhoven, The Netherlands, July 6-8, 2011</title>
+<booktitle>EDM</booktitle>
+<publisher>www.educationaldatamining.org</publisher>
+<year>2011</year>
+<isbn>978-90-386-2537-9</isbn>
+<url>db/conf/edm/edm2011.html</url>
+</proceedings>
+</r>
+<r><article key="journals/datamine/CaldersV10" mdate="2017-05-20">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="81/5891">Sicco Verwer</author>
+<title>Three naive Bayes approaches for discrimination-free classification.</title>
+<pages>277-292</pages>
+<year>2010</year>
+<volume>21</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10618-010-0190-x</ee>
+<url>db/journals/datamine/datamine21.html#CaldersV10</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdm/CaldersGG10" mdate="2023-03-24">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="75/2900">Calin Garboni</author>
+<author orcid="0000-0001-9327-9554" pid="g/BartGoethals">Bart Goethals</author>
+<title>Approximation of Frequentness Probability of Itemsets in Uncertain Data.</title>
+<pages>749-754</pages>
+<year>2010</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2010.42</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDM.2010.42</ee>
+<crossref>conf/icdm/2010</crossref>
+<url>db/conf/icdm/icdm2010.html#CaldersGG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/KamiranCP10" mdate="2023-03-24">
+<author pid="07/7790">Faisal Kamiran</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0003-4955-0743" pid="37/4649">Mykola Pechenizkiy</author>
+<title>Discrimination Aware Decision Tree Learning.</title>
+<pages>869-874</pages>
+<year>2010</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2010.50</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDM.2010.50</ee>
+<crossref>conf/icdm/2010</crossref>
+<url>db/conf/icdm/icdm2010.html#KamiranCP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ida/KnobbeBKCOBGKK10" mdate="2020-09-05">
+<author orcid="0000-0002-0335-5099" pid="65/3461">Arno J. Knobbe</author>
+<author orcid="0000-0003-0378-3699" pid="69/6136">Hendrik Blockeel</author>
+<author pid="57/2459">Arne Koopman</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="41/8115">Bas Obladen</author>
+<author pid="66/8115">Carlos Bosma</author>
+<author pid="79/8115">Hessel Galenkamp</author>
+<author pid="47/8115">Eddy Koenders</author>
+<author pid="k/JoostNKok">Joost N. Kok</author>
+<title>InfraWatch: Data Management of Large Systems for Monitoring Infrastructural Performance.</title>
+<pages>91-102</pages>
+<year>2010</year>
+<booktitle>IDA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-13062-5_10</ee>
+<crossref>conf/ida/2010</crossref>
+<url>db/conf/ida/ida2010.html#KnobbeBKCOBGKK10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/LamC10" mdate="2018-11-06">
+<author pid="66/3866">Hoang Thanh Lam</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Mining top-k frequent items in a data stream with flexible sliding windows.</title>
+<pages>283-292</pages>
+<year>2010</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/1835804.1835842</ee>
+<crossref>conf/kdd/2010</crossref>
+<url>db/conf/kdd/kdd2010.html#LamC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pakdd/CaldersGG10" mdate="2017-06-05">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="75/2900">Calin Garboni</author>
+<author orcid="0000-0001-9327-9554" pid="g/BartGoethals">Bart Goethals</author>
+<title>Efficient Pattern Mining of Uncertain Data with Sampling.</title>
+<pages>480-487</pages>
+<year>2010</year>
+<booktitle>PAKDD (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-13657-3_51</ee>
+<crossref>conf/pakdd/2010-1</crossref>
+<url>db/conf/pakdd/pakdd2010-1.html#CaldersGG10</url>
+</inproceedings>
+</r>
+<r><incollection key="books/daglib/p/BlockeelCFGPR10" mdate="2020-09-05">
+<author orcid="0000-0003-0378-3699" pid="69/6136">Hendrik Blockeel</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="06/5764">&#201;lisa Fromont</author>
+<author orcid="0000-0001-9327-9554" pid="g/BartGoethals">Bart Goethals</author>
+<author pid="45/1384">Adriana Prado</author>
+<author pid="r/CRobardet">C&#233;line Robardet</author>
+<title>A Practical Comparative Study Of Data Mining Query Languages.</title>
+<pages>59-77</pages>
+<year>2010</year>
+<booktitle>Inductive Databases and Constraint-Based Data Mining</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-7738-0_3</ee>
+<crossref>books/daglib/0025640</crossref>
+<url>db/books/collections/DGP2010.html#BlockeelCFGPR10</url>
+</incollection>
+</r>
+<r><incollection key="books/daglib/p/BlockeelCFPGR10" mdate="2020-09-05">
+<author orcid="0000-0003-0378-3699" pid="69/6136">Hendrik Blockeel</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="06/5764">&#201;lisa Fromont</author>
+<author pid="45/1384">Adriana Prado</author>
+<author orcid="0000-0001-9327-9554" pid="g/BartGoethals">Bart Goethals</author>
+<author pid="r/CRobardet">C&#233;line Robardet</author>
+<title>Inductive Querying with Virtual Mining Views.</title>
+<pages>265-287</pages>
+<year>2010</year>
+<booktitle>Inductive Databases and Constraint-Based Data Mining</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-7738-0_11</ee>
+<crossref>books/daglib/0025640</crossref>
+<url>db/books/collections/DGP2010.html#BlockeelCFPGR10</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/icdm/CaldersKP09" mdate="2023-03-24">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="07/7790">Faisal Kamiran</author>
+<author orcid="0000-0003-4955-0743" pid="37/4649">Mykola Pechenizkiy</author>
+<title>Building Classifiers with Independency Constraints.</title>
+<pages>13-18</pages>
+<year>2009</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2009.83</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDMW.2009.83</ee>
+<crossref>conf/icdm/2009w</crossref>
+<url>db/conf/icdm/icdmw2009.html#CaldersKP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/CaldersGPR09" mdate="2019-10-19">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="37/4843">Christian W. G&#252;nther</author>
+<author orcid="0000-0003-4955-0743" pid="37/4649">Mykola Pechenizkiy</author>
+<author pid="20/5156">Anne Rozinat</author>
+<title>Using minimum description length for process mining.</title>
+<pages>1451-1455</pages>
+<year>2009</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1529282.1529606</ee>
+<crossref>conf/sac/2009</crossref>
+<url>db/conf/sac/sac2009.html#CaldersGPR09</url>
+</inproceedings>
+</r>
+<r><article key="journals/datamine/RaissiCP08" mdate="2021-10-14">
+<author pid="76/1132">Chedy Ra&#239;ssi</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0002-8277-3490" pid="68/525">Pascal Poncelet</author>
+<title>Mining conjunctive sequential patterns.</title>
+<pages>77-93</pages>
+<year>2008</year>
+<volume>17</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10618-008-0108-z</ee>
+<url>db/journals/datamine/datamine17.html#RaissiCP08</url>
+</article>
+</r>
+<r><article key="journals/ida/CaldersDG08" mdate="2015-05-18">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="54/231">Nele Dexters</author>
+<author pid="g/BartGoethals">Bart Goethals</author>
+<title>Mining frequent items in a stream using flexible windows.</title>
+<pages>293-304</pages>
+<year>2008</year>
+<volume>12</volume>
+<journal>Intell. Data Anal.</journal>
+<number>3</number>
+<ee>http://content.iospress.com/articles/intelligent-data-analysis/ida00329</ee>
+<url>db/journals/ida/ida12.html#CaldersDG08</url>
+</article>
+</r>
+<r><article key="journals/tcs/Calders08" mdate="2021-02-17">
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Itemset frequency satisfiability: Complexity and axiomatization.</title>
+<pages>84-111</pages>
+<year>2008</year>
+<volume>394</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2007.11.003</ee>
+<url>db/journals/tcs/tcs394.html#Calders08</url>
+</article>
+</r>
+<r><inproceedings key="conf/edm/PechenizkiyCVB08" mdate="2020-03-12">
+<author pid="37/4649">Mykola Pechenizkiy</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="91/4910">Ekaterina Vasilyeva</author>
+<author pid="82/5181">Paul De Bra</author>
+<title>Mining the Student Assessment Data: Lessons Drawn from a Small Scale Case Study.</title>
+<pages>187-191</pages>
+<year>2008</year>
+<booktitle>EDM</booktitle>
+<ee type="oa">http://www.educationaldatamining.org/EDM2008/uploads/proc/20_Pechenizkiy_26.pdf</ee>
+<crossref>conf/edm/2008</crossref>
+<url>db/conf/edm/edm2008.html#PechenizkiyCVB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BlockeelCFGP08" mdate="2023-03-23">
+<author orcid="0000-0003-0378-3699" pid="69/6136">Hendrik Blockeel</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="06/5764">&#201;lisa Fromont</author>
+<author orcid="0000-0001-9327-9554" pid="g/BartGoethals">Bart Goethals</author>
+<author pid="45/1384">Adriana Prado</author>
+<title>Mining Views: Database Views for Data Mining.</title>
+<pages>1608-1611</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497633</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497633</ee>
+<ee>https://www.wikidata.org/entity/Q58012285</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#BlockeelCFGP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/CaldersRD08" mdate="2023-03-24">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="38/900">Jan Ramon</author>
+<author pid="v/DriesVanDyck">Dries Van Dyck</author>
+<title>Anti-monotonic Overlap-Graph Support Measures.</title>
+<pages>73-82</pages>
+<year>2008</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2008.114</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDM.2008.114</ee>
+<crossref>conf/icdm/2008</crossref>
+<url>db/conf/icdm/icdm2008.html#CaldersRD08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/BlockeelCFGPR08" mdate="2022-12-07">
+<author orcid="0000-0003-0378-3699" pid="69/6136">Hendrik Blockeel</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0003-0133-3491" pid="06/5764">&#201;lisa Fromont</author>
+<author orcid="0000-0001-9327-9554" pid="g/BartGoethals">Bart Goethals</author>
+<author pid="45/1384">Adriana Prado</author>
+<author pid="r/CRobardet">C&#233;line Robardet</author>
+<title>An inductive database prototype based on virtual mining views.</title>
+<pages>1061-1064</pages>
+<year>2008</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/1401890.1402019</ee>
+<crossref>conf/kdd/2008</crossref>
+<url>db/conf/kdd/kdd2008.html#BlockeelCFGPR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/RaissiCP08" mdate="2021-10-14">
+<author pid="76/1132">Chedy Ra&#239;ssi</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0002-8277-3490" pid="68/525">Pascal Poncelet</author>
+<title>Mining Conjunctive Sequential Patterns.</title>
+<pages>19</pages>
+<year>2008</year>
+<booktitle>ECML/PKDD (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-87479-9_17</ee>
+<crossref>conf/pkdd/2008-1</crossref>
+<url>db/conf/pkdd/pkdd2008-1.html#RaissiCP08</url>
+</inproceedings>
+</r>
+<r><article key="journals/acta/Calders07" mdate="2020-06-21">
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>The complexity of satisfying constraints on databases of transactions.</title>
+<pages>591-624</pages>
+<year>2007</year>
+<volume>44</volume>
+<journal>Acta Informatica</journal>
+<number>7-8</number>
+<ee>https://doi.org/10.1007/s00236-007-0060-1</ee>
+<url>db/journals/acta/acta44.html#Calders07</url>
+</article>
+</r>
+<r><article key="journals/datamine/CaldersG07" mdate="2017-06-05">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0001-9327-9554" pid="g/BartGoethals">Bart Goethals</author>
+<title>Non-derivable itemset mining.</title>
+<pages>171-206</pages>
+<year>2007</year>
+<volume>14</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10618-006-0054-6</ee>
+<url>db/journals/datamine/datamine14.html#CaldersG07</url>
+</article>
+</r>
+<r><article key="journals/modulad/CaldersDG07" mdate="2020-05-20">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="54/231">Nele Dexters</author>
+<author pid="g/BartGoethals">Bart Goethals</author>
+<title>A new support measure for items in streams.</title>
+<pages>37-41</pages>
+<year>2007</year>
+<volume>36</volume>
+<journal>Monde des Util. Anal. Donn&#233;es</journal>
+<ee>http://editions-rnti.fr/?inprocid=1001737</ee>
+<url>db/journals/modulad/modulad36.html#CaldersDG07</url>
+</article>
+</r>
+<r><inproceedings key="conf/icalt/BeckCPV07" mdate="2023-03-23">
+<author pid="b/JosephEBeck">Joseph E. Beck</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0003-4955-0743" pid="37/4649">Mykola Pechenizkiy</author>
+<author pid="71/1574">Silvia Rita Viola</author>
+<title>Workshop on Educational Data Mining @ ICALT07 (EDM@ICALT07).</title>
+<pages>933-934</pages>
+<year>2007</year>
+<crossref>conf/icalt/2007</crossref>
+<booktitle>ICALT</booktitle>
+<ee>https://doi.org/10.1109/ICALT.2007.286</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICALT.2007.286</ee>
+<url>db/conf/icalt/icalt2007.html#BeckCPV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/CaldersDG07" mdate="2023-03-24">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0002-0562-4619" pid="54/231">Nele Dexters</author>
+<author orcid="0000-0001-9327-9554" pid="g/BartGoethals">Bart Goethals</author>
+<title>Mining Frequent Itemsets in a Stream.</title>
+<pages>83-92</pages>
+<year>2007</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2007.66</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDM.2007.66</ee>
+<crossref>conf/icdm/2007</crossref>
+<url>db/conf/icdm/icdm2007.html#CaldersDG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/CaldersJ07" mdate="2021-10-14">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0001-9327-5019" pid="41/5897">Szymon Jaroszewicz</author>
+<title>Efficient AUC Optimization for Classification.</title>
+<pages>42-53</pages>
+<year>2007</year>
+<crossref>conf/pkdd/2007</crossref>
+<booktitle>PKDD</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-74976-9_8</ee>
+<url>db/conf/pkdd/pkdd2007.html#CaldersJ07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/CaldersGM07" mdate="2018-11-06">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0001-9327-9554" pid="g/BartGoethals">Bart Goethals</author>
+<author pid="03/5473">Michael Mampaey</author>
+<title>Mining itemsets in the presence of missing values.</title>
+<pages>404-408</pages>
+<year>2007</year>
+<crossref>conf/sac/2007</crossref>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1244002.1244097</ee>
+<url>db/conf/sac/sac2007.html#CaldersGM07</url>
+</inproceedings>
+</r>
+<r><article key="journals/tods/CaldersLNP06" mdate="2019-05-09">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author>
+<author pid="n/RTNg">Raymond T. Ng</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<title>Expressive power of an algebra for data mining.</title>
+<pages>1169-1214</pages>
+<year>2006</year>
+<volume>31</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1189769.1189770</ee>
+<url>db/journals/tods/tods31.html#CaldersLNP06</url>
+</article>
+</r>
+<r><inproceedings key="conf/kdd/CaldersGJ06" mdate="2021-10-14">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0001-9327-9554" pid="g/BartGoethals">Bart Goethals</author>
+<author orcid="0000-0001-9327-5019" pid="41/5897">Szymon Jaroszewicz</author>
+<title>Mining rank-correlated sets of numerical attributes.</title>
+<pages>96-105</pages>
+<year>2006</year>
+<crossref>conf/kdd/2006</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/1150402.1150417</ee>
+<url>db/conf/kdd/kdd2006.html#CaldersGJ06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/CaldersGP06" mdate="2018-06-26">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0001-9327-9554" pid="g/BartGoethals">Bart Goethals</author>
+<author pid="45/1384">Adriana Prado</author>
+<title>Integrating Pattern Mining in Relational Databases.</title>
+<pages>454-461</pages>
+<year>2006</year>
+<crossref>conf/pkdd/2006</crossref>
+<booktitle>PKDD</booktitle>
+<ee type="oa">https://doi.org/10.1007/11871637_43</ee>
+<url>db/conf/pkdd/pkdd2006.html#CaldersGP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/CaldersDHP06" mdate="2018-11-06">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="d/SDekeyser">Stijn Dekeyser</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<title>Analyzing workflows implied by instance-dependent access rules.</title>
+<pages>100-109</pages>
+<year>2006</year>
+<crossref>conf/pods/2006</crossref>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1142351.1142365</ee>
+<url>db/conf/pods/pods2006.html#CaldersDHP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csmr/ZaidmanCDP05" mdate="2023-03-24">
+<author orcid="0000-0003-2413-3935" pid="68/6471">Andy Zaidman</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="d/SDemeyer">Serge Demeyer</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<title>Applying Webmining Techniques to Execution Traces to Support the Program Comprehension Process.</title>
+<pages>134-142</pages>
+<year>2005</year>
+<crossref>conf/csmr/2005</crossref>
+<booktitle>CSMR</booktitle>
+<ee>https://doi.org/10.1109/CSMR.2005.12</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CSMR.2005.12</ee>
+<url>db/conf/csmr/csmr2005.html#ZaidmanCDP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdid/CaldersG05" mdate="2017-06-04">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0001-9327-9554" pid="g/BartGoethals">Bart Goethals</author>
+<title>Quick Inclusion-Exclusion.</title>
+<pages>86-103</pages>
+<year>2005</year>
+<crossref>conf/kdid/2005</crossref>
+<booktitle>KDID</booktitle>
+<ee>https://doi.org/10.1007/11733492_6</ee>
+<url>db/conf/kdid/kdid2005.html#CaldersG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdm/CaldersG05" mdate="2017-06-05">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0001-9327-9554" pid="g/BartGoethals">Bart Goethals</author>
+<title>Depth-First Non-Derivable Itemset Mining.</title>
+<year>2005</year>
+<crossref>conf/sdm/2005</crossref>
+<booktitle>SDM</booktitle>
+<url>db/conf/sdm/sdm2005.html#CaldersG05</url>
+<ee>https://doi.org/10.1137/1.9781611972757.23</ee>
+<pages>250-261</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cinq/CaldersRB04" mdate="2017-05-23">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="r/CRigotti">Christophe Rigotti</author>
+<author pid="b/JFBoulicaut">Jean-Fran&#231;ois Boulicaut</author>
+<title>A Survey on Condensed Representations for Frequent Sets.</title>
+<pages>64-80</pages>
+<year>2004</year>
+<crossref>conf/cinq/2004hz</crossref>
+<booktitle>Constraint-Based Mining and Inductive Databases</booktitle>
+<ee>https://doi.org/10.1007/11615576_4</ee>
+<url>db/conf/cinq/hz2004.html#CaldersRB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdid/DextersC04" mdate="2017-05-19">
+<author pid="54/231">Nele Dexters</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Theoretical Bounds on the Size of Condensed Representations.</title>
+<pages>46-65</pages>
+<ee>https://doi.org/10.1007/978-3-540-31841-5_4</ee>
+<year>2004</year>
+<crossref>conf/kdid/2004</crossref>
+<booktitle>KDID</booktitle>
+<url>db/conf/kdid/kdid2004.html#DextersC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/Calders04" mdate="2018-11-06">
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Computational Complexity of Itemset Frequency Satisfiability.</title>
+<year>2004</year>
+<crossref>conf/pods/2004</crossref>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1055558.1055580</ee>
+<ee>http://www.acm.org/sigmod/pods/proc04/pdf/P-15.pdf</ee>
+<url>db/conf/pods/pods2004.html#Calders04</url>
+<pages>143-154</pages>
+</inproceedings>
+</r>
+<r><incollection key="conf/cinq/Calders04" mdate="2017-05-31">
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Deducing Bounds on the Support of Itemsets.</title>
+<pages>214-233</pages>
+<ee>https://doi.org/10.1007/978-3-540-44497-8_11</ee>
+<year>2004</year>
+<crossref>conf/cinq/2004</crossref>
+<booktitle>Database Support for Data Mining Applications</booktitle>
+<url>db/conf/cinq/cinq2004.html#Calders04</url>
+</incollection>
+</r>
+<r><article key="journals/tcs/CaldersP03" mdate="2021-02-17">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<title>Axiomatization of frequent itemsets.</title>
+<pages>669-693</pages>
+<year>2003</year>
+<volume>290</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1</number>
+<url>db/journals/tcs/tcs290.html#CaldersP03</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(02)00081-6</ee>
+</article>
+</r>
+<r><inproceedings key="conf/pkdd/CaldersG03" mdate="2017-06-05">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0001-9327-9554" pid="g/BartGoethals">Bart Goethals</author>
+<title>Minimal <i>k</i>-Free Representations of Frequent Sets.</title>
+<pages>71-82</pages>
+<ee>https://doi.org/10.1007/978-3-540-39804-2_9</ee>
+<year>2003</year>
+<crossref>conf/pkdd/2003</crossref>
+<booktitle>PKDD</booktitle>
+<url>db/conf/pkdd/pkdd2003.html#CaldersG03</url>
+</inproceedings>
+</r>
+<r><article key="journals/tods/CaldersNW02" mdate="2019-10-19">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="n/RTNg">Raymond T. Ng</author>
+<author orcid="0000-0001-8216-273X" pid="w/JefWijsen">Jef Wijsen</author>
+<title>Searching for dependencies at multiple abstraction levels.</title>
+<pages>229-260</pages>
+<year>2002</year>
+<volume>27</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/581751.581752</ee>
+<url>db/journals/tods/tods27.html#CaldersNW02</url>
+</article>
+</r>
+<r><inproceedings key="conf/pkdd/CaldersG02" mdate="2017-06-05">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author orcid="0000-0001-9327-9554" pid="g/BartGoethals">Bart Goethals</author>
+<title>Mining All Non-derivable Frequent Itemsets.</title>
+<pages>74-85</pages>
+<year>2002</year>
+<crossref>conf/pkdd/2002</crossref>
+<booktitle>PKDD</booktitle>
+<ee>https://doi.org/10.1007/3-540-45681-3_7</ee>
+<url>db/conf/pkdd/pkdd2002.html#CaldersG02</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DB-0206004" mdate="2020-01-10">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="g/BartGoethals">Bart Goethals</author>
+<title>Mining All Non-Derivable Frequent Itemsets</title>
+<ee type="oa">https://arxiv.org/abs/cs/0206004</ee>
+<year>2002</year>
+<journal>CoRR</journal>
+<volume>cs.DB/0206004</volume>
+<url>db/journals/corr/corr0206.html#cs-DB-0206004</url>
+</article>
+</r>
+<r><inproceedings key="conf/dbpl/CaldersW01" mdate="2017-05-25">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="w/JefWijsen">Jef Wijsen</author>
+<title>On Monotone Data Mining Languages.</title>
+<pages>119-132</pages>
+<year>2001</year>
+<crossref>conf/dbpl/2001</crossref>
+<booktitle>DBPL</booktitle>
+<ee>https://doi.org/10.1007/3-540-46093-4_7</ee>
+<url>db/conf/dbpl/dbpl2001.html#CaldersW01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/CaldersP01" mdate="2017-05-23">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<title>Axiomatization of Frequent Sets.</title>
+<year>2001</year>
+<crossref>conf/icdt/2001</crossref>
+<booktitle>ICDT</booktitle>
+<url>db/conf/icdt/icdt2001.html#CaldersP01</url>
+<pages>204-218</pages>
+<ee>https://doi.org/10.1007/3-540-44503-X_14</ee>
+<cite>conf/sigmod/AgrawalIS93</cite>
+<cite>conf/vldb/AgrawalS94</cite>
+<cite>...</cite>
+<cite>journals/iandc/FaginHM90</cite>
+<cite>journals/ipl/FaginV83</cite>
+<cite>journals/ai/FrischH94</cite>
+<cite>...</cite>
+<cite>conf/sigmod/HanPY00</cite>
+<cite>conf/ijcai/HansenJNA95</cite>
+<cite>...</cite>
+<cite>conf/sigmod/LakshmananNHP99</cite>
+<cite>journals/ai/Nilsson86</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dawak/CaldersP00" mdate="2017-05-21">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<title>Mining Frequent Binary Expressions.</title>
+<pages>399-408</pages>
+<ee>https://doi.org/10.1007/3-540-44466-1_40</ee>
+<year>2000</year>
+<crossref>conf/dawak/2000</crossref>
+<booktitle>DaWaK</booktitle>
+<url>db/conf/dawak/dawak2000.html#CaldersP00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/WijsenNC99" mdate="2018-11-06">
+<author pid="w/JefWijsen">Jef Wijsen</author>
+<author pid="n/RTNg">Raymond T. Ng</author>
+<author pid="c/ToonCalders">Toon Calders</author>
+<title>Discovering Roll-Up Dependencies.</title>
+<pages>213-222</pages>
+<year>1999</year>
+<crossref>conf/kdd/1999</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/312129.312232</ee>
+<url>db/conf/kdd/kdd99.html#WijsenNC99</url>
+</inproceedings>
+</r>
+<coauthors n="124" nc="4">
+<co c="0"><na f="a/Abell=oacute=:Alberto" pid="88/2053">Alberto Abell&#243;</na></co>
+<co c="0"><na f="a/Ahmed_0001:Tanvir" pid="73/1017-1">Tanvir Ahmed 0001</na></co>
+<co c="0"><na f="a/Ali:Wasif" pid="140/9534">Wasif Ali</na></co>
+<co c="0"><na f="a/Alserafi:Ayman" pid="194/4876">Ayman Alserafi</na></co>
+<co c="2"><na f="a/Arafa:Mona" pid="162/4313">Mona Arafa</na></co>
+<co c="0"><na f="a/Ashraf:Muhammad_Haseeb" pid="303/8179">Muhammad Haseeb Ashraf</na></co>
+<co c="-1"><na f="a/Assche:Dimitri_Van" pid="177/9168">Dimitri Van Assche</na></co>
+<co c="0"><na f="b/Beck:Joseph_E=" pid="b/JosephEBeck">Joseph E. Beck</na></co>
+<co c="0"><na f="b/Berendt:Bettina" pid="b/BettinaBerendt">Bettina Berendt</na></co>
+<co c="0"><na f="b/Black:John" pid="33/2069">John Black</na></co>
+<co c="0"><na f="b/Blockeel:Hendrik" pid="69/6136">Hendrik Blockeel</na></co>
+<co c="0" n="2"><na f="b/Bolt:Alfredo" pid="145/1673">Alfredo Bolt</na><na>Alfredo Bolt Iriondo</na></co>
+<co c="0"><na f="b/Bosma:Carlos" pid="66/8115">Carlos Bosma</na></co>
+<co c="0"><na f="b/Boulicaut:Jean=Fran=ccedil=ois" pid="b/JFBoulicaut">Jean-Fran&#231;ois Boulicaut</na></co>
+<co c="0"><na f="b/Bourquard:Thomas" pid="30/8408">Thomas Bourquard</na></co>
+<co c="0"><na f="b/Bra:Paul_De" pid="82/5181">Paul De Bra</na></co>
+<co c="0"><na f="c/Callens:Steven" pid="316/0885">Steven Callens</na></co>
+<co c="0"><na f="c/Ceci:Michelangelo" pid="24/4914">Michelangelo Ceci</na></co>
+<co c="0"><na f="c/Conati:Cristina" pid="34/5056">Cristina Conati</na></co>
+<co c="0" n="2"><na f="c/Costa:Felipe" pid="141/2082">Felipe Costa</na><na>Felipe Soares Da Costa</na></co>
+<co c="0"><na f="c/Custers:Bart" pid="00/2720">Bart Custers</na></co>
+<co c="0"><na f="d/Dekeyser:Stijn" pid="d/SDekeyser">Stijn Dekeyser</na></co>
+<co c="0"><na f="d/Delobelle:Pieter" pid="245/8739">Pieter Delobelle</na></co>
+<co c="0"><na f="d/Demeyer:Serge" pid="d/SDemeyer">Serge Demeyer</na></co>
+<co c="0"><na f="d/Devogele:Thomas" pid="27/3363">Thomas Devogele</na></co>
+<co c="0"><na f="d/Dexters:Nele" pid="54/231">Nele Dexters</na></co>
+<co c="0"><na f="d/Dolog:Peter" pid="d/PeterDolog">Peter Dolog</na></co>
+<co c="0"><na f="d/Dooley:Kelly_E=" pid="316/0051">Kelly E. Dooley</na></co>
+<co c="0"><na f="d/Dyck:Dries_Van" pid="v/DriesVanDyck">Dries Van Dyck</na></co>
+<co c="0"><na f="e/Efremova:Julia" pid="160/1743">Julia Efremova</na></co>
+<co c="0"><na f="e/Egho:Elias" pid="124/9314">Elias Egho</na></co>
+<co c="0"><na f="e/Esposito:Floriana" pid="68/6961">Floriana Esposito</na></co>
+<co c="1"><na f="f/Favier:Marco" pid="340/0245">Marco Favier</na></co>
+<co c="0"><na f="f/Fradkin:Dmitriy" pid="16/4728">Dmitriy Fradkin</na></co>
+<co c="0"><na f="f/Fromont:=Eacute=lisa" pid="06/5764">&#201;lisa Fromont</na></co>
+<co c="0"><na f="g/Galenkamp:Hessel" pid="79/8115">Hessel Galenkamp</na></co>
+<co c="0"><na f="g/Garboni:Calin" pid="75/2900">Calin Garboni</na></co>
+<co c="0"><na f="g/Garc=iacute=a:Alejandro_Montes" pid="133/3208">Alejandro Montes Garc&#237;a</na></co>
+<co c="0"><na f="g/Gillis:Joris_J=_M=" pid="04/8355">Joris J. M. Gillis</na></co>
+<co c="0"><na f="g/Gionis:Aristides" pid="g/AristidesGionis">Aristides Gionis</na></co>
+<co c="0"><na f="g/Goethals:Bart" pid="g/BartGoethals">Bart Goethals</na></co>
+<co c="3"><na f="g/Goethals:Sofie" pid="316/1247">Sofie Goethals</na></co>
+<co c="2"><na f="g/Gouda:Karam" pid="37/5902">Karam Gouda</na></co>
+<co c="0"><na f="g/G=uuml=nther:Christian_W=" pid="37/4843">Christian W. G&#252;nther</na></co>
+<co c="0"><na f="h/Hidders:Jan" pid="h/JanHidders">Jan Hidders</na></co>
+<co c="0"><na f="h/H=uuml=llermeier:Eyke" pid="h/EykeHullermeier">Eyke H&#252;llermeier</na></co>
+<co c="0"><na f="i/Impedovo:Angelo" pid="202/3069">Angelo Impedovo</na></co>
+<co c="0"><na f="j/Jaroszewicz:Szymon" pid="41/5897">Szymon Jaroszewicz</na></co>
+<co c="0"><na f="j/Jay:Nicolas" pid="33/2692">Nicolas Jay</na></co>
+<co c="0"><na f="j/Jovanovic_0001:Petar" pid="34/1397-1">Petar Jovanovic 0001</na></co>
+<co c="0"><na f="k/Kamiran:Faisal" pid="07/7790">Faisal Kamiran</na></co>
+<co c="0"><na f="k/Karim:Asim" pid="63/6093">Asim Karim</na></co>
+<co c="0"><na f="k/Karras:Panagiotis" pid="08/5342">Panagiotis Karras</na></co>
+<co c="0"><na f="k/Kiseleva:Julia" pid="99/3446">Julia Kiseleva</na></co>
+<co c="0"><na f="k/Knobbe:Arno_J=" pid="65/3461">Arno J. Knobbe</na></co>
+<co c="0"><na f="k/Koenders:Eddy" pid="47/8115">Eddy Koenders</na></co>
+<co c="0"><na f="k/Kok:Joost_N=" pid="k/JoostNKok">Joost N. Kok</na></co>
+<co c="0"><na f="k/Koopman:Arne" pid="57/2459">Arne Koopman</na></co>
+<co c="0"><na f="k/Kumar_0002:Rohit" pid="19/139-2">Rohit Kumar 0002</na></co>
+<co c="0"><na f="l/Lakshmanan:Laks_V=_S=" pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</na></co>
+<co c="0"><na f="l/Lam:Hoang_Thanh" pid="66/3866">Hoang Thanh Lam</na></co>
+<co c="0"><na f="l/Laukens:Kris" pid="40/1561">Kris Laukens</na></co>
+<co c="-1"><na f="l/Lenders:Daphne" pid="315/3353">Daphne Lenders</na></co>
+<co c="0"><na f="l/Lijffijt:Jefrey" pid="62/8320">Jefrey Lijffijt</na></co>
+<co c="0"><na f="l/Lu_0001:Hua" pid="l/HuaLu">Hua Lu 0001</na></co>
+<co c="0"><na f="m/Maartens:Gary" pid="316/0898">Gary Maartens</na></co>
+<co c="0"><na f="m/Malerba:Donato" pid="m/DonatoMalerba">Donato Malerba</na></co>
+<co c="0"><na f="m/Mampaey:Michael" pid="03/5473">Michael Mampaey</na></co>
+<co c="3"><na f="m/Martens:David" pid="20/3975">David Martens</na></co>
+<co c="0"><na f="m/Meo:Rosa" pid="m/RosaMeo">Rosa Meo</na></co>
+<co c="1"><na f="m/Meyer:Jonathan" pid="m/JonathanMeyer">Jonathan Meyer</na></co>
+<co c="0" n="2"><na f="m/M=ouml=rchen:Fabian" pid="05/3244">Fabian M&#246;rchen</na><na>Fabian Moerchen</na></co>
+<co c="0"><na f="n/Napoli:Amedeo" pid="n/AmedeoNapoli">Amedeo Napoli</na></co>
+<co c="0"><na f="n/Ng:Raymond_T=" pid="n/RTNg">Raymond T. Ng</na></co>
+<co c="0"><na f="n/Ntoutsi:Eirini" pid="n/IreneNtoutsi">Eirini Ntoutsi</na></co>
+<co c="0"><na f="o/Obladen:Bas" pid="41/8115">Bas Obladen</na></co>
+<co c="0"><na f="o/Oliehoek:Frans_A=" pid="82/2420">Frans A. Oliehoek</na></co>
+<co c="0"><na f="o/Orakzai:Faisal" pid="173/5164">Faisal Orakzai</na></co>
+<co c="0"><na f="p/Paredaens:Jan" pid="p/JParedaens">Jan Paredaens</na></co>
+<co c="-1"><na f="p/Pauwels:Stephen" pid="220/4034">Stephen Pauwels</na></co>
+<co c="0"><na f="p/Pechenizkiy:Mykola" pid="37/4649">Mykola Pechenizkiy</na></co>
+<co c="0"><na f="p/Pedersen:Torben_Bach" pid="p/TorbenBachPedersen">Torben Bach Pedersen</na></co>
+<co c="0"><na f="p/Pham:Ninh" pid="84/9841">Ninh Pham</na></co>
+<co c="1"><na f="p/Pinxteren:Sam" pid="299/8626">Sam Pinxteren</na></co>
+<co c="0"><na f="p/Poncelet:Pascal" pid="68/525">Pascal Poncelet</na></co>
+<co c="0"><na f="p/Potgieter:Samantha" pid="316/0500">Samantha Potgieter</na></co>
+<co c="0"><na f="p/Prado:Adriana" pid="45/1384">Adriana Prado</na></co>
+<co c="0"><na f="r/Rahmani:Hossein" pid="40/7475">Hossein Rahmani</na></co>
+<co c="0"><na f="r/Ra=iuml=ssi:Chedy" pid="76/1132">Chedy Ra&#239;ssi</na></co>
+<co c="0"><na f="r/Ramon:Jan" pid="38/900">Jan Ramon</na></co>
+<co c="0"><na f="r/Rie:Annelies_Van" pid="302/0765">Annelies Van Rie</na></co>
+<co c="0"><na f="r/Rigotti:Christophe" pid="r/CRigotti">Christophe Rigotti</na></co>
+<co c="0"><na f="r/Robardet:C=eacute=line" pid="r/CRobardet">C&#233;line Robardet</na></co>
+<co c="0"><na f="r/Romero_0001:Crist=oacute=bal" pid="41/536">Crist&#243;bal Romero 0001</na></co>
+<co c="0"><na f="r/Romero_0001:Oscar" pid="r/OscarRomero">Oscar Romero 0001</na></co>
+<co c="0"><na f="r/Rosenhahn:Bodo" pid="09/2973">Bodo Rosenhahn</na></co>
+<co c="0"><na f="r/Rozinat:Anne" pid="20/5156">Anne Rozinat</na></co>
+<co c="0"><na f="r/Ruggieri:Salvatore" pid="86/3031">Salvatore Ruggieri</na></co>
+<co c="0"><na f="s/Saeed:Hafiz_Hassaan" pid="235/6957">Hafiz Hassaan Saeed</na></co>
+<co c="0"><na f="s/Sahraei:Bijan_Ranjbar" pid="35/10058">Bijan Ranjbar Sahraei</na></co>
+<co c="0"><na f="s/Saleem:Muhammad_Aamir" pid="130/9505">Muhammad Aamir Saleem</na></co>
+<co c="0"><na f="s/Schermer:Bart_W=" pid="119/3245">Bart W. Schermer</na></co>
+<co c="0"><na f="s/Stamper:John_C=" pid="02/6739">John C. Stamper</na></co>
+<co c="0"><na f="t/Tatti:Nikolaj" pid="28/488">Nikolaj Tatti</na></co>
+<co c="0"><na f="t/Tokpo:Ewoenam_Kwaku" pid="309/5915">Ewoenam Kwaku Tokpo</na></co>
+<co c="0"><na f="t/Tuyls:Karl" pid="t/KTuyls">Karl Tuyls</na></co>
+<co c="0"><na f="v/Vansummeren:Stijn" pid="28/3797">Stijn Vansummeren</na></co>
+<co c="0"><na f="v/Vasilyeva:Ekaterina" pid="91/4910">Ekaterina Vasilyeva</na></co>
+<co c="0"><na f="v/Vens:Celine" pid="50/3886">Celine Vens</na></co>
+<co c="0"><na f="v/Ventura:Sebasti=aacute=n" pid="00/4717">Sebasti&#225;n Ventura</na></co>
+<co c="0"><na f="v/Verboven:Lennert" pid="316/0165">Lennert Verboven</na></co>
+<co c="0"><na f="v/Verwer:Sicco" pid="81/5891">Sicco Verwer</na></co>
+<co c="0"><na f="v/Viola:Silvia_Rita" pid="71/1574">Silvia Rita Viola</na></co>
+<co c="0"><na f="w/Warren:Robin_M=" pid="316/0962">Robin M. Warren</na></co>
+<co c="0"><na f="w/Weiss_0001:Gerhard" pid="07/2055">Gerhard Weiss 0001</na></co>
+<co c="0"><na f="w/Wijsen:Jef" pid="w/JefWijsen">Jef Wijsen</na></co>
+<co c="0"><na f="x/Xie:Xike" pid="64/1308">Xike Xie</na></co>
+<co c="0"><na f="y/Yang_0028:Jie" pid="12/1198-28">Jie Yang 0028</na></co>
+<co c="0"><na f="z/Zaidman:Andy" pid="68/6471">Andy Zaidman</na></co>
+<co c="0"><na f="z/Zarsky:Tal_Z=" pid="118/3148">Tal Z. Zarsky</na></co>
+<co c="0"><na f="z/Zhang:Jianpeng" pid="134/7404">Jianpeng Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Xiangliang" pid="74/1890-1">Xiangliang Zhang 0001</na></co>
+<co c="0"><na f="z/Zim=aacute=nyi:Esteban" pid="82/2871">Esteban Zim&#225;nyi</na></co>
+<co c="0"><na f="z/Zliobaite:Indre" pid="00/6690">Indre Zliobaite</na></co>
+</coauthors>
+</dblpperson>

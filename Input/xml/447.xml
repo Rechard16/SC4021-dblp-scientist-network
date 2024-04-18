@@ -1,0 +1,388 @@
+<dblpperson name="Karthik Ramachandra 0002" pid="51/792-2" n="22">
+<person key="homepages/51/792-2" mdate="2019-01-10">
+<author pid="51/792-2">Karthik Ramachandra 0002</author>
+<url>http://www.karthikramachandra.in/</url>
+<url>http://www.cse.iitb.ac.in/~karthiksr/</url>
+<url>https://scholar.google.com/citations?user=JkA9YJAAAAAJ</url>
+<url>https://www.linkedin.com/in/karthikramachandra</url>
+<note type="affiliation">Microsoft Jim Gray Systems Lab</note>
+<note type="affiliation">IIT Bombay</note>
+</person>
+<homonyms n="2">
+<h f="r/Ramachandra:Karthik"><name>Karthik Ramachandra</name>
+</h>
+<h f="r/Ramachandra_0001:Karthik"><person key="homepages/51/792" mdate="2016-08-23">
+<author pid="51/792">Karthik Ramachandra 0001</author>
+<note type="affiliation">University of Nebraska at Omaha</note>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/pvldb/DoraiswamyK0H23" mdate="2023-10-23">
+<author pid="05/264">Harish Doraiswamy</author>
+<author pid="358/1766">Vikas Kalagi</author>
+<author pid="51/792-2">Karthik Ramachandra 0002</author>
+<author pid="h/JayantRHaritsa">Jayant R. Haritsa</author>
+<title>A Case for Graphics-driven Query Processing.</title>
+<pages>2499-2511</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p2499-doraiswamy.pdf</ee>
+<ee>https://doi.org/10.14778/3603581.3603590</ee>
+<url>db/journals/pvldb/pvldb16.html#DoraiswamyK0H23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GuptaR21" mdate="2022-08-16">
+<author pid="14/150">Surabhi Gupta</author>
+<author pid="51/792-2">Karthik Ramachandra 0002</author>
+<title>Procedural Extensions of SQL: Understanding their usage in the wild.</title>
+<pages>1378-1391</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>8</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p1378-ramachandra.pdf</ee>
+<ee>https://doi.org/10.14778/3457390.3457402</ee>
+<ee>https://www.wikidata.org/entity/Q113237108</ee>
+<url>db/journals/pvldb/pvldb14.html#GuptaR21</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/JindalEDPHPG0CM21" mdate="2022-07-29">
+<author pid="24/8510">Alekh Jindal</author>
+<author pid="181/5872">K. Venkatesh Emani</author>
+<author pid="239/5084">Maureen Daum</author>
+<author pid="71/7422">Olga Poppe</author>
+<author pid="180/5761">Brandon Haynes</author>
+<author pid="287/9591">Anna Pavlenko</author>
+<author pid="205/3496">Ayushi Gupta</author>
+<author pid="51/792-2">Karthik Ramachandra 0002</author>
+<author pid="c/CarloCurino">Carlo Curino</author>
+<author pid="38/4335-24">Andreas M&#252;ller 0024</author>
+<author pid="29/85">Wentao Wu 0001</author>
+<author pid="23/5134">Hiren Patel</author>
+<title>Magpie: Python at Speed and Scale using Cloud Backends.</title>
+<year>2021</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2021/papers/cidr2021_paper08.pdf</ee>
+<crossref>conf/cidr/2021</crossref>
+<url>db/conf/cidr/cidr2021.html#JindalEDPHPG0CM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GuptaP020" mdate="2020-06-05">
+<author pid="14/150">Surabhi Gupta</author>
+<author pid="262/6544">Sanket Purandare</author>
+<author pid="51/792-2">Karthik Ramachandra 0002</author>
+<title>Aggify: Lifting the Curse of Cursor Loops using Custom Aggregates.</title>
+<pages>559-573</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389736</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#GuptaP020</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-05378" mdate="2020-04-16">
+<author pid="14/150">Surabhi Gupta</author>
+<author pid="262/6544">Sanket Purandare</author>
+<author pid="51/792-2">Karthik Ramachandra 0002</author>
+<title>Optimizing Cursor Loops in Relational Databases.</title>
+<year>2020</year>
+<volume>abs/2004.05378</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.05378</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-05378</url>
+</article>
+</r>
+<r><article key="journals/pvldb/RamachandraP19" mdate="2022-10-02">
+<author pid="51/792-2">Karthik Ramachandra 0002</author>
+<author orcid="0000-0003-0757-2725" pid="131/4168-1">Kwanghyun Park 0001</author>
+<title>BlackMagic: Automatic Inlining of Scalar UDFs into SQL Queries with Froid.</title>
+<pages>1810-1813</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1810-ramachandra.pdf</ee>
+<ee>https://doi.org/10.14778/3352063.3352072</ee>
+<ee>https://www.wikidata.org/entity/Q113237133</ee>
+<url>db/journals/pvldb/pvldb12.html#RamachandraP19</url>
+</article>
+</r>
+<r><inproceedings key="conf/hpca/SenR18" mdate="2023-03-24">
+<author pid="08/2832">Rathijit Sen</author>
+<author pid="51/792-2">Karthik Ramachandra 0002</author>
+<title>Characterizing Resource Sensitivity of Database Workloads.</title>
+<pages>657-669</pages>
+<year>2018</year>
+<booktitle>HPCA</booktitle>
+<ee>https://doi.org/10.1109/HPCA.2018.00062</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HPCA.2018.00062</ee>
+<crossref>conf/hpca/2018</crossref>
+<url>db/conf/hpca/hpca2018.html#SenR18</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/RamachandraPEHG17" mdate="2022-10-02">
+<author pid="51/792-2">Karthik Ramachandra 0002</author>
+<author orcid="0000-0003-0757-2725" pid="131/4168-1">Kwanghyun Park 0001</author>
+<author pid="181/5872">K. Venkatesh Emani</author>
+<author pid="00/232">Alan Halverson</author>
+<author pid="84/3247">C&#233;sar A. Galindo-Legaria</author>
+<author pid="33/5504">Conor Cunningham</author>
+<title>Froid: Optimization of Imperative Programs in a Relational Database.</title>
+<pages>432-444</pages>
+<year>2017</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p432-ramachandra.pdf</ee>
+<ee>https://doi.org/10.1145/3186728.3164140</ee>
+<url>db/journals/pvldb/pvldb11.html#RamachandraPEHG17</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/ViswanathanCL0P17" mdate="2023-03-23">
+<author pid="200/2326">Lalitha Viswanathan</author>
+<author pid="131/6284">Bikash Chandra</author>
+<author pid="89/6325">Willis Lang</author>
+<author pid="51/792-2">Karthik Ramachandra 0002</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<author pid="24/9582">Ajay Kalhan</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="00/232">Alan Halverson</author>
+<title>Predictive Provisioning: Efficiently Anticipating Usage in Azure SQL Database.</title>
+<pages>1111-1116</pages>
+<year>2017</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2017.155</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2017.155</ee>
+<crossref>conf/icde/2017</crossref>
+<url>db/conf/icde/icde2017.html#ViswanathanCL0P17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/EmaniD0017" mdate="2018-11-06">
+<author pid="181/5872">K. Venkatesh Emani</author>
+<author pid="199/6367">Tejas Deshpande</author>
+<author pid="51/792-2">Karthik Ramachandra 0002</author>
+<author pid="s/SSudarshan1">S. Sudarshan 0001</author>
+<title>DBridge: Translating Imperative Code to SQL.</title>
+<pages>1663-1666</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3058747</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#EmaniD0017</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-00498" mdate="2022-07-22">
+<author pid="51/792-2">Karthik Ramachandra 0002</author>
+<author pid="131/4168-1">Kwanghyun Park 0001</author>
+<author pid="181/5872">K. Venkatesh Emani</author>
+<author pid="00/232">Alan Halverson</author>
+<author pid="84/3247">C&#233;sar A. Galindo-Legaria</author>
+<author pid="33/5504">Conor Cunningham</author>
+<title>Optimization of Imperative Programs in a Relational Database.</title>
+<year>2017</year>
+<volume>abs/1712.00498</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.00498</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-00498</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LangRDXGKC16" mdate="2020-04-25">
+<author pid="89/6325">Willis Lang</author>
+<author pid="51/792-2">Karthik Ramachandra 0002</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="121/4075">Shize Xu</author>
+<author pid="161/7223">Qun Guo</author>
+<author pid="24/9582">Ajay Kalhan</author>
+<author pid="53/6433">Peter Carlin</author>
+<title>Not for the Timid: On the Impact of Aggressive Over-booking in the Cloud.</title>
+<pages>1245-1256</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p1245-lang.pdf</ee>
+<ee>https://doi.org/10.14778/3007263.3007264</ee>
+<url>db/journals/pvldb/pvldb9.html#LangRDXGKC16</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/EmaniRBS16" mdate="2018-11-06">
+<author pid="181/5872">K. Venkatesh Emani</author>
+<author pid="51/792-2">Karthik Ramachandra 0002</author>
+<author pid="181/5780">Subhro Bhattacharya</author>
+<author pid="s/SSudarshan1">S. Sudarshan 0001</author>
+<title>Extracting Equivalent SQL from Imperative Code in Database Applications.</title>
+<pages>1781-1796</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2882926</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#EmaniRBS16</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/Ramachandra0G015" mdate="2017-05-20">
+<author pid="51/792-2">Karthik Ramachandra 0002</author>
+<author pid="26/9582">Mahendra Chavan</author>
+<author pid="36/2633">Ravindra Guravannavar</author>
+<author pid="s/SSudarshan1">S. Sudarshan 0001</author>
+<title>Program Transformations for Asynchronous and Batched Query Submission.</title>
+<pages>531-544</pages>
+<year>2015</year>
+<volume>27</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TKDE.2014.2334302</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2014.2334302</ee>
+<url>db/journals/tkde/tkde27.html#Ramachandra0G015</url>
+</article>
+</r>
+<r><article key="journals/debu/0002G14" mdate="2020-03-10">
+<author pid="51/792-2">Karthik Ramachandra 0002</author>
+<author pid="36/2633">Ravindra Guravannavar</author>
+<title>Database-Aware Program Optimization via Static Analysis.</title>
+<pages>60-69</pages>
+<year>2014</year>
+<volume>37</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A14mar/p60.pdf</ee>
+<url>db/journals/debu/debu37.html#0002G14</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/Simhadri0CG014" mdate="2023-03-23">
+<author pid="145/6162">Varun Simhadri</author>
+<author pid="51/792-2">Karthik Ramachandra 0002</author>
+<author pid="145/6159">Arun Chaitanya</author>
+<author pid="36/2633">Ravindra Guravannavar</author>
+<author pid="s/SSudarshan1">S. Sudarshan 0001</author>
+<title>Decorrelation of user defined function invocations in queries.</title>
+<pages>532-543</pages>
+<year>2014</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2014.6816679</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2014.6816679</ee>
+<crossref>conf/icde/2014</crossref>
+<url>db/conf/icde/icde2014.html#Simhadri0CG014</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/0002CG014" mdate="2018-08-13">
+<author pid="51/792-2">Karthik Ramachandra 0002</author>
+<author pid="26/9582">Mahendra Chavan</author>
+<author pid="36/2633">Ravindra Guravannavar</author>
+<author pid="s/SSudarshan1">S. Sudarshan 0001</author>
+<title>Program Transformations for Asynchronous and Batched Query Submission.</title>
+<year>2014</year>
+<volume>abs/1402.5781</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1402.5781</ee>
+<url>db/journals/corr/corr1402.html#0002CG014</url>
+</article>
+</r>
+<r><inproceedings key="conf/comad/Ramachandra013" mdate="2020-03-12">
+<author pid="51/792-2">Karthik Ramachandra 0002</author>
+<author pid="s/SSudarshan1">S. Sudarshan 0001</author>
+<title>Big Data: From Querying to Transaction Processing.</title>
+<pages>10</pages>
+<year>2013</year>
+<booktitle>COMAD</booktitle>
+<ee type="oa">http://comad.in/comad2013/pdfs/tutorial2.pdf</ee>
+<crossref>conf/comad/2013</crossref>
+<url>db/conf/comad/comad2013.html#Ramachandra013</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/0002G012" mdate="2018-11-06">
+<author pid="51/792-2">Karthik Ramachandra 0002</author>
+<author pid="36/2633">Ravindra Guravannavar</author>
+<author pid="s/SSudarshan1">S. Sudarshan 0001</author>
+<title>Program analysis and transformation for holistic optimization of database applications.</title>
+<pages>39-44</pages>
+<year>2012</year>
+<booktitle>SOAP@PLDI</booktitle>
+<ee>https://doi.org/10.1145/2259051.2259057</ee>
+<crossref>conf/pldi/2012soap</crossref>
+<url>db/conf/pldi/soap2012.html#0002G012</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/0002S12" mdate="2018-11-06">
+<author pid="51/792-2">Karthik Ramachandra 0002</author>
+<author pid="s/SSudarshan1">S. Sudarshan 0001</author>
+<title>Holistic optimization by prefetching query results.</title>
+<pages>133-144</pages>
+<year>2012</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2213836.2213852</ee>
+<crossref>conf/sigmod/2012</crossref>
+<url>db/conf/sigmod/sigmod2012.html#0002S12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChavanGRS11" mdate="2023-03-23">
+<author pid="26/9582">Mahendra Chavan</author>
+<author pid="36/2633">Ravindra Guravannavar</author>
+<author pid="51/792-2">Karthik Ramachandra 0002</author>
+<author pid="s/SSudarshan1">S. Sudarshan 0001</author>
+<title>Program transformations for asynchronous query submission.</title>
+<pages>375-386</pages>
+<year>2011</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2011.5767870</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2011.5767870</ee>
+<crossref>conf/icde/2011</crossref>
+<url>db/conf/icde/icde2011.html#ChavanGRS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChavanGRS11a" mdate="2023-03-23">
+<author pid="26/9582">Mahendra Chavan</author>
+<author pid="36/2633">Ravindra Guravannavar</author>
+<author pid="51/792-2">Karthik Ramachandra 0002</author>
+<author pid="s/SSudarshan1">S. Sudarshan 0001</author>
+<title>DBridge: A program rewrite tool for set-oriented query execution.</title>
+<pages>1284-1287</pages>
+<year>2011</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2011.5767949</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2011.5767949</ee>
+<crossref>conf/icde/2011</crossref>
+<url>db/conf/icde/icde2011.html#ChavanGRS11a</url>
+</inproceedings>
+</r>
+<coauthors n="37" nc="2">
+<co c="0"><na f="b/Bhattacharya:Subhro" pid="181/5780">Subhro Bhattacharya</na></co>
+<co c="0"><na f="c/Carlin:Peter" pid="53/6433">Peter Carlin</na></co>
+<co c="0"><na f="c/Chaitanya:Arun" pid="145/6159">Arun Chaitanya</na></co>
+<co c="0"><na f="c/Chandra:Bikash" pid="131/6284">Bikash Chandra</na></co>
+<co c="0"><na f="c/Chavan:Mahendra" pid="26/9582">Mahendra Chavan</na></co>
+<co c="0"><na f="c/Cunningham:Conor" pid="33/5504">Conor Cunningham</na></co>
+<co c="0"><na f="c/Curino:Carlo" pid="c/CarloCurino">Carlo Curino</na></co>
+<co c="0"><na f="d/Daum:Maureen" pid="239/5084">Maureen Daum</na></co>
+<co c="0"><na f="d/Deshpande:Tejas" pid="199/6367">Tejas Deshpande</na></co>
+<co c="0"><na f="d/DeWitt:David_J=" pid="d/DJDeWitt">David J. DeWitt</na></co>
+<co c="0"><na f="d/Doraiswamy:Harish" pid="05/264">Harish Doraiswamy</na></co>
+<co c="0"><na f="e/Emani:K=_Venkatesh" pid="181/5872">K. Venkatesh Emani</na></co>
+<co c="0"><na f="g/Galindo=Legaria:C=eacute=sar_A=" pid="84/3247">C&#233;sar A. Galindo-Legaria</na></co>
+<co c="0"><na f="g/Guo:Qun" pid="161/7223">Qun Guo</na></co>
+<co c="0"><na f="g/Gupta:Ayushi" pid="205/3496">Ayushi Gupta</na></co>
+<co c="1"><na f="g/Gupta:Surabhi" pid="14/150">Surabhi Gupta</na></co>
+<co c="0"><na f="g/Guravannavar:Ravindra" pid="36/2633">Ravindra Guravannavar</na></co>
+<co c="0"><na f="h/Halverson:Alan" pid="00/232">Alan Halverson</na></co>
+<co c="0"><na f="h/Haritsa:Jayant_R=" pid="h/JayantRHaritsa">Jayant R. Haritsa</na></co>
+<co c="0"><na f="h/Haynes:Brandon" pid="180/5761">Brandon Haynes</na></co>
+<co c="0"><na f="j/Jindal:Alekh" pid="24/8510">Alekh Jindal</na></co>
+<co c="0"><na f="k/Kalagi:Vikas" pid="358/1766">Vikas Kalagi</na></co>
+<co c="0"><na f="k/Kalhan:Ajay" pid="24/9582">Ajay Kalhan</na></co>
+<co c="0"><na f="l/Lang:Willis" pid="89/6325">Willis Lang</na></co>
+<co c="0"><na f="m/M=uuml=ller_0024:Andreas" pid="38/4335-24">Andreas M&#252;ller 0024</na></co>
+<co c="0"><na f="p/Park_0001:Kwanghyun" pid="131/4168-1">Kwanghyun Park 0001</na></co>
+<co c="0"><na f="p/Patel:Hiren" pid="23/5134">Hiren Patel</na></co>
+<co c="0"><na f="p/Patel:Jignesh_M=" pid="p/JMPatel">Jignesh M. Patel</na></co>
+<co c="0"><na f="p/Pavlenko:Anna" pid="287/9591">Anna Pavlenko</na></co>
+<co c="0"><na f="p/Poppe:Olga" pid="71/7422">Olga Poppe</na></co>
+<co c="1"><na f="p/Purandare:Sanket" pid="262/6544">Sanket Purandare</na></co>
+<co c="0"><na f="s/Sen:Rathijit" pid="08/2832">Rathijit Sen</na></co>
+<co c="0"><na f="s/Simhadri:Varun" pid="145/6162">Varun Simhadri</na></co>
+<co c="0"><na f="s/Sudarshan_0001:S=" pid="s/SSudarshan1">S. Sudarshan 0001</na></co>
+<co c="0"><na f="v/Viswanathan:Lalitha" pid="200/2326">Lalitha Viswanathan</na></co>
+<co c="0"><na f="w/Wu_0001:Wentao" pid="29/85">Wentao Wu 0001</na></co>
+<co c="0"><na f="x/Xu:Shize" pid="121/4075">Shize Xu</na></co>
+</coauthors>
+</dblpperson>

@@ -1,0 +1,1096 @@
+<dblpperson name="Andreas Kipf" pid="167/6469" n="60">
+<person key="homepages/167/6469" mdate="2023-12-20">
+<author pid="167/6469">Andreas Kipf</author>
+<note type="affiliation">Amazon Web Services</note>
+<note label="former" type="affiliation">Technical University of Munich, Germany</note>
+<note label="former" type="affiliation">Massachusetts Institute of Technology, USA</note>
+<url>https://people.csail.mit.edu/kipf/</url>
+<url>https://orcid.org/0000-0003-3463-0564</url>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2403-17229" mdate="2024-04-10">
+<author pid="178/1112">Hanwen Liu</author>
+<author pid="255/9132">Mihail Stoian</author>
+<author pid="219/9679">Alexander van Renen</author>
+<author pid="167/6469">Andreas Kipf</author>
+<title>Corra: Correlation-Aware Column Compression.</title>
+<year>2024</year>
+<volume>abs/2403.17229</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.17229</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-17229</url>
+</article>
+</r>
+<r><article key="journals/pvldb/NegiWKTMMKA23" mdate="2023-10-23">
+<author pid="221/2301">Parimarjan Negi</author>
+<author pid="279/2962">Ziniu Wu</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="m/SamuelMadden">Sam Madden</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="37/8397">Mohammad Alizadeh</author>
+<title>Robust Query Driven Cardinality Estimation under Changing Workloads.</title>
+<pages>1520-1533</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p1520-negi.pdf</ee>
+<ee>https://doi.org/10.14778/3583140.3583164</ee>
+<url>db/journals/pvldb/pvldb16.html#NegiWKTMMKA23</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Kipf23" mdate="2023-08-08">
+<author pid="167/6469">Andreas Kipf</author>
+<title>Technical Perspective: Revisiting Runtime Dynamic Optimization for Join Queries in Big Data Management Systems.</title>
+<pages>103</pages>
+<year>2023</year>
+<volume>52</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3604437.3604459</ee>
+<url>db/journals/sigmod/sigmod52.html#Kipf23</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/LuthraK023" mdate="2023-02-23">
+<author pid="176/1373">Manisha Luthra</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="75/887">Matthias B&#246;hm 0001</author>
+<title>A Tutorial Workshop on ML for Systems and Systems for ML.</title>
+<pages>707-708</pages>
+<year>2023</year>
+<booktitle>BTW</booktitle>
+<ee>https://doi.org/10.18420/BTW2023-43</ee>
+<crossref>conf/btw/2023</crossref>
+<url>db/conf/btw/btw2023.html#LuthraK023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BordawekarSAFK23" mdate="2023-06-15">
+<author orcid="0000-0002-8063-9220" pid="28/6851">Rajesh Bordawekar</author>
+<author orcid="0000-0003-4304-310X" pid="s/OShmueli">Oded Shmueli</author>
+<author orcid="0000-0001-8032-9962" pid="88/9060">Yael Amsterdamer</author>
+<author orcid="0000-0003-0358-3208" pid="05/10127">Donatella Firmani</author>
+<author orcid="0000-0003-3463-0564" pid="167/6469">Andreas Kipf</author>
+<title>Sixth International Workshop on Exploiting Artificial Intelligence Techniques for Data Management (aiDM).</title>
+<pages>303-304</pages>
+<year>2023</year>
+<booktitle>SIGMOD Conference Companion</booktitle>
+<ee>https://doi.org/10.1145/3555041.3590818</ee>
+<crossref>conf/sigmod/2023c</crossref>
+<url>db/conf/sigmod/sigmod2023c.html#BordawekarSAFK23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/LyuKPHGK23" mdate="2023-08-28">
+<author pid="206/5142">Xi Lyu</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="320/3482">Pascal Pfeil</author>
+<author pid="296/3942">Dominik Horn</author>
+<author pid="32/7263">Jana Giceva</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>CorBit: Leveraging Correlations for Compressing Bitmap Indexes.</title>
+<year>2023</year>
+<booktitle>VLDB Workshops</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3462/AIDB4.pdf</ee>
+<crossref>conf/vldb/2023w</crossref>
+<url>db/conf/vldb/w2023.html#LyuKPHGK23</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/aidm/2023" mdate="2023-06-26">
+<editor pid="28/6851">Rajesh Bordawekar</editor>
+<editor pid="s/OShmueli">Oded Shmueli</editor>
+<editor pid="88/9060">Yael Amsterdamer</editor>
+<editor pid="05/10127">Donatella Firmani</editor>
+<editor pid="167/6469">Andreas Kipf</editor>
+<title>Proceedings of the Sixth International Workshop on Exploiting Artificial Intelligence Techniques for Data Management, aiDM@SIGMOD 2023, Seattle, WA, USA, 18 June 2023</title>
+<booktitle>aiDM@SIGMOD</booktitle>
+<publisher>ACM</publisher>
+<year>2023</year>
+<ee>https://doi.org/10.1145/3593078</ee>
+<url>db/conf/aidm/aidm2023.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-06354" mdate="2023-09-30">
+<author pid="51/1618">Varun Pandey</author>
+<author pid="219/9679">Alexander van Renen</author>
+<author orcid="0000-0001-8873-5455" pid="164/7451">Eleni Tzirita Zacharatou</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="145/8597">Jialin Ding</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Enhancing In-Memory Spatial Indexing with Learned Search.</title>
+<year>2023</year>
+<volume>abs/2309.06354</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.06354</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-06354</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DingMKNNVRK22" mdate="2023-10-23">
+<author pid="145/8597">Jialin Ding</author>
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="153/2198">Vikram Nathan</author>
+<author pid="250/2656">Aniruddha Nrusimha</author>
+<author pid="188/6341">Kapil Vaidya</author>
+<author pid="219/9679">Alexander van Renen</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>SageDB: An Instance-Optimized Data Analytics System.</title>
+<pages>4062-4078</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p4062-ding.pdf</ee>
+<ee>https://doi.org/10.14778/3565838.3565857</ee>
+<url>db/journals/pvldb/pvldb15.html#DingMKNNVRK22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/YuMKLMK22" mdate="2023-10-28">
+<author pid="272/8767">Geoffrey X. Yu</author>
+<author orcid="0000-0003-2851-8840" pid="278/6747">Markos Markakis</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>TreeLine: An Update-In-Place Key-Value Store for Modern Storage.</title>
+<pages>99-112</pages>
+<year>2022</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p99-yu.pdf</ee>
+<ee>https://doi.org/10.14778/3561261.3561270</ee>
+<url>db/journals/pvldb/pvldb16.html#YuMKLMK22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SabekVHKMK22" mdate="2023-10-23">
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="188/6341">Kapil Vaidya</author>
+<author pid="296/3942">Dominik Horn</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="74/838">Michael Mitzenmacher</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Can Learned Models Replace Hash Functions?</title>
+<pages>532-545</pages>
+<year>2022</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p532-sabek.pdf</ee>
+<ee>https://doi.org/10.14778/3570690.3570702</ee>
+<url>db/journals/pvldb/pvldb16.html#SabekVHKMK22</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/KipfHPMK22" mdate="2022-08-23">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="296/3942">Dominik Horn</author>
+<author pid="320/3482">Pascal Pfeil</author>
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>LSI: a learned secondary index structure.</title>
+<pages>4:1-4:5</pages>
+<year>2022</year>
+<booktitle>aiDM@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3533702.3534912</ee>
+<crossref>conf/sigmod/2022aidm</crossref>
+<url>db/conf/sigmod/aidm2022.html#KipfHPMK22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AnneserKZ0K22" mdate="2022-06-14">
+<author pid="231/3706">Christoph Anneser</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="13/8730">Huanchen Zhang</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Adaptive Hybrid Indexes.</title>
+<pages>1626-1639</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3526121</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#AnneserKZ0K22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-05769" mdate="2022-05-17">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="296/3942">Dominik Horn</author>
+<author pid="320/3482">Pascal Pfeil</author>
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>LSI: A Learned Secondary Index Structure.</title>
+<year>2022</year>
+<volume>abs/2205.05769</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.05769</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-05769</url>
+</article>
+</r>
+<r><article key="journals/dase/PandeyRKK21" mdate="2021-06-15">
+<author orcid="0000-0002-1314-9061" pid="51/1618">Varun Pandey</author>
+<author pid="219/9679">Alexander van Renen</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>How Good Are Modern Spatial Libraries?</title>
+<pages>192-208</pages>
+<year>2021</year>
+<volume>6</volume>
+<journal>Data Sci. Eng.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s41019-020-00147-9</ee>
+<url>db/journals/dase/dase6.html#PandeyRKK21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/NegiMKMTKA21" mdate="2023-08-02">
+<author pid="221/2301">Parimarjan Negi</author>
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="150/3252">Hongzi Mao</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="37/8397">Mohammad Alizadeh</author>
+<title>Flow-Loss: Learning Cardinality Estimates That Matter.</title>
+<pages>2019-2032</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2019-negi.pdf</ee>
+<ee>https://doi.org/10.14778/3476249.3476259</ee>
+<url>db/journals/pvldb/pvldb14.html#NegiMKMTKA21</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/ZacharatouKSPDM21" mdate="2022-07-18">
+<author orcid="0000-0001-8873-5455" pid="164/7451">Eleni Tzirita Zacharatou</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="51/1618">Varun Pandey</author>
+<author pid="05/264">Harish Doraiswamy</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<title>The Case for Distance-Bounded Spatial Approximations.</title>
+<year>2021</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2021/papers/cidr2021_paper19.pdf</ee>
+<crossref>conf/cidr/2021</crossref>
+<url>db/conf/cidr/cidr2021.html#ZacharatouKSPDM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/0006KAZ0K21" mdate="2021-10-14">
+<author pid="247/5753">Christian Winter 0006</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="231/3706">Christoph Anneser</author>
+<author orcid="0000-0001-8873-5455" pid="164/7451">Eleni Tzirita Zacharatou</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>GeoBlocks: A Query-Cache Accelerated Data Structure for Spatial Aggregation over Polygons.</title>
+<pages>169-180</pages>
+<year>2021</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.5441/002/edbt.2021.16</ee>
+<crossref>conf/edbt/2021</crossref>
+<url>db/conf/edbt/edbt2021.html#0006KAZ0K21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BindschaedlerKK21" mdate="2021-06-09">
+<author pid="116/5046">Laurent Bindschaedler</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<title>Towards a Benchmark for Learned Systems.</title>
+<pages>127-133</pages>
+<year>2021</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW53142.2021.00029</ee>
+<crossref>conf/icde/2021w</crossref>
+<url>db/conf/icde/icde2021w.html#BindschaedlerKK21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/CenKMK21" mdate="2021-07-14">
+<author pid="263/9893">Lujing Cen</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>LEA: A Learned Encoding Advisor for Column Stores.</title>
+<pages>32-35</pages>
+<year>2021</year>
+<booktitle>aiDM@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3464509.3464885</ee>
+<crossref>conf/sigmod/2021aidm</crossref>
+<url>db/conf/sigmod/aidm2021.html#CenKMK21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-04964" mdate="2021-01-22">
+<author pid="221/2301">Parimarjan Negi</author>
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="150/3252">Hongzi Mao</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="37/8397">Mohammad Alizadeh</author>
+<title>Flow-Loss: Learning Cardinality Estimates That Matter.</title>
+<year>2021</year>
+<volume>abs/2101.04964</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.04964</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-04964</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-08830" mdate="2021-05-31">
+<author pid="263/9893">Lujing Cen</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>LEA: A Learned Encoding Advisor for Column Stores.</title>
+<year>2021</year>
+<volume>abs/2105.08830</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.08830</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-08830</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2107-01464" mdate="2021-07-07">
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="188/6341">Kapil Vaidya</author>
+<author pid="296/3942">Dominik Horn</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>When Are Learned Models Better Than Hash Functions?</title>
+<year>2021</year>
+<volume>abs/2107.01464</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2107.01464</ee>
+<url>db/journals/corr/corr2107.html#abs-2107-01464</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2108-05117" mdate="2021-08-18">
+<author pid="255/9132">Mihail Stoian</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>PLEX: Towards Practical Learned Indexing.</title>
+<year>2021</year>
+<volume>abs/2108.05117</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2108.05117</ee>
+<url>db/journals/corr/corr2108.html#abs-2108-05117</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2111-14905" mdate="2022-09-15">
+<author pid="88/8850">Benjamin Spector</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="188/6341">Kapil Vaidya</author>
+<author pid="09/404-1">Chi Wang 0001</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Bounding the Last Mile: Efficient Learned String Indexing.</title>
+<year>2021</year>
+<volume>abs/2111.14905</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2111.14905</ee>
+<url>db/journals/corr/corr2111.html#abs-2111-14905</url>
+</article>
+</r>
+<r><phdthesis key="phd/dnb/Kipf20" mdate="2021-07-17">
+<author pid="167/6469">Andreas Kipf</author>
+<title>Advancing Analytical Database Systems.</title>
+<year>2020</year>
+<school>Technical University of Munich, Germany</school>
+<ee>https://nbn-resolving.org/urn:nbn:de:bvb:91-diss-20200131-1525981-1-7</ee>
+<ee>https://d-nb.info/1211725359</ee>
+</phdthesis>
+</r>
+<r><article key="journals/pvldb/KipfCHBA20" mdate="2021-03-23">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="275/8381">Damian Chromejko</author>
+<author pid="40/4355">Alexander Hall</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="a/DavidGAndersen">David G. Andersen</author>
+<title>Cuckoo Index: A Lightweight Secondary Index Structure.</title>
+<pages>3559-3572</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p3559-kipf.pdf</ee>
+<ee>https://doi.org/10.14778/3424573.3424577</ee>
+<url>db/journals/pvldb/pvldb13.html#KipfCHBA20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/MarcusKRSMK0K20" mdate="2021-03-23">
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="219/9679">Alexander van Renen</author>
+<author pid="255/9132">Mihail Stoian</author>
+<author pid="40/5576">Sanchit Misra</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Benchmarking Learned Indexes.</title>
+<pages>1-13</pages>
+<year>2020</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p1-marcus.pdf</ee>
+<ee>https://doi.org/10.14778/3421424.3421425</ee>
+<url>db/journals/pvldb/pvldb14.html#MarcusKRSMK0K20</url>
+</article>
+</r>
+<r><article key="journals/vldb/LangPKBNK20" mdate="2021-05-14">
+<author pid="150/9460">Harald Lang</author>
+<author pid="162/9094">Linnea Passing</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Make the most out of your SIMD investments: counter control flow divergence in compiled query pipelines.</title>
+<pages>757-774</pages>
+<year>2020</year>
+<volume>29</volume>
+<journal>VLDB J.</journal>
+<number>2-3</number>
+<ee type="oa">https://doi.org/10.1007/s00778-019-00547-y</ee>
+<url>db/journals/vldb/vldb29.html#LangPKBNK20</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasfaa/PandeyRKK20" mdate="2020-09-22">
+<author pid="51/1618">Varun Pandey</author>
+<author pid="219/9679">Alexander van Renen</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>An Evaluation of Modern Spatial Libraries.</title>
+<pages>711-727</pages>
+<year>2020</year>
+<booktitle>DASFAA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-59416-9_46</ee>
+<crossref>conf/dasfaa/2020-2</crossref>
+<url>db/conf/dasfaa/dasfaa2020-2.html#PandeyRKK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/KipfLPPAZDB0K20" mdate="2021-01-29">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="150/9460">Harald Lang</author>
+<author pid="51/1618">Varun Pandey</author>
+<author pid="215/5124">Raul Alexandru Persa</author>
+<author pid="231/3706">Christoph Anneser</author>
+<author orcid="0000-0001-8873-5455" pid="164/7451">Eleni Tzirita Zacharatou</author>
+<author pid="05/264">Harish Doraiswamy</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Adaptive Main-Memory Indexing for High-Performance Point-Polygon Joins.</title>
+<pages>347-358</pages>
+<year>2020</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2020.31</ee>
+<crossref>conf/edbt/2020</crossref>
+<url>db/conf/edbt/edbt2020.html#KipfLPPAZDB0K20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/AnneserKL0K20" mdate="2021-01-29">
+<author pid="231/3706">Christoph Anneser</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="150/9460">Harald Lang</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>The Case for Hybrid Succinct Data Structures.</title>
+<pages>391-394</pages>
+<year>2020</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2020.40</ee>
+<crossref>conf/edbt/2020</crossref>
+<url>db/conf/edbt/edbt2020.html#AnneserKL0K20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpec/KepnerKEVJMGHKA20" mdate="2022-09-21">
+<author pid="25/6583">Jeremy Kepner</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="157/8468">Darren Engwirda</author>
+<author pid="264/5711">Navin Vembar</author>
+<author pid="56/4313-1">Michael Jones 0001</author>
+<author pid="176/8120">Lauren Milechin</author>
+<author pid="86/7615">Vijay Gadepally</author>
+<author pid="50/6286">Chris Hill</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="120/7136">William Arcand</author>
+<author pid="124/2385">David Bestor</author>
+<author pid="124/2345">William Bergeron</author>
+<author pid="116/9288">Chansup Byun</author>
+<author pid="120/7117">Matthew Hubbell</author>
+<author pid="86/1512">Michael Houle 0001</author>
+<author pid="248/6661">Andrew C. Kirby</author>
+<author pid="133/3700">Anna Klein</author>
+<author pid="16/7585">Julie Mullen</author>
+<author pid="120/7186">Andrew Prout</author>
+<author pid="76/7586">Albert Reuther</author>
+<author pid="120/7280">Antonio Rosa</author>
+<author pid="15/7615">Sid Samsi</author>
+<author pid="120/6858">Charles Yee</author>
+<author pid="58/10271">Peter Michaleas</author>
+<title>Fast Mapping onto Census Blocks.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>HPEC</booktitle>
+<ee>https://doi.org/10.1109/HPEC43674.2020.9286157</ee>
+<crossref>conf/hpec/2020</crossref>
+<url>db/conf/hpec/hpec2020.html#KepnerKEVJMGHKA20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/FentJK020" mdate="2020-05-26">
+<author pid="265/9606">Philipp Fent</author>
+<author pid="265/9611">Michael Jungmair</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>START - Self-Tuning Adaptive Radix Tree.</title>
+<pages>147-153</pages>
+<year>2020</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW49219.2020.00015</ee>
+<crossref>conf/icde/2020w</crossref>
+<url>db/conf/icde/icde2020w.html#FentJK020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/FentRKL0K20" mdate="2020-06-05">
+<author pid="265/9606">Philipp Fent</author>
+<author pid="219/9679">Alexander van Renen</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Low-Latency Communication for Fast DBMS Using RDMA and Shared Memory.</title>
+<pages>1477-1488</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00131</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#FentRKL0K20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KipfMRSKK020" mdate="2020-06-08">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="219/9679">Alexander van Renen</author>
+<author pid="255/9132">Mihail Stoian</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>RadixSpline: a single-pass learned index.</title>
+<pages>5:1-5:5</pages>
+<year>2020</year>
+<booktitle>aiDM@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3401071.3401659</ee>
+<crossref>conf/sigmod/2020aidm</crossref>
+<url>db/conf/sigmod/aidm2020.html#KipfMRSKK020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/PandeyRKDSK20" mdate="2020-12-27">
+<author pid="51/1618">Varun Pandey</author>
+<author pid="219/9679">Alexander van Renen</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="145/8597">Jialin Ding</author>
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>The Case for Learned Spatial Indexes.</title>
+<year>2020</year>
+<booktitle>AIDB@VLDB</booktitle>
+<ee>https://drive.google.com/file/d/1Q_kmSPhM86FeeZb8Kz196eNIn7uWcu8L/view?usp=sharing</ee>
+<crossref>conf/vldb/2020aidb</crossref>
+<url>db/conf/vldb/aidb2020.html#PandeyRKDSK20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-14541" mdate="2020-05-03">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="219/9679">Alexander van Renen</author>
+<author pid="255/9132">Mihail Stoian</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>RadixSpline: A Single-Pass Learned Index.</title>
+<year>2020</year>
+<volume>abs/2004.14541</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.14541</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-14541</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-03156" mdate="2020-05-09">
+<author pid="25/6583">Jeremy Kepner</author>
+<author pid="157/8468">Darren Engwirda</author>
+<author pid="86/7615">Vijay Gadepally</author>
+<author pid="50/6286">Chris Hill</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="56/4313-1">Michael Jones 0001</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="176/8120">Lauren Milechin</author>
+<author pid="264/5711">Navin Vembar</author>
+<title>Fast Mapping onto Census Blocks.</title>
+<year>2020</year>
+<volume>abs/2005.03156</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.03156</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-03156</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-12804" mdate="2020-07-02">
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="219/9679">Alexander van Renen</author>
+<author pid="255/9132">Mihail Stoian</author>
+<author pid="40/5576">Sanchit Misra</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Benchmarking Learned Indexes.</title>
+<year>2020</year>
+<volume>abs/2006.12804</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.12804</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-12804</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-10349" mdate="2020-08-28">
+<author pid="51/1618">Varun Pandey</author>
+<author pid="219/9679">Alexander van Renen</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="145/8597">Jialin Ding</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>The Case for Learned Spatial Indexes.</title>
+<year>2020</year>
+<volume>abs/2008.10349</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.10349</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-10349</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-12548" mdate="2020-10-27">
+<author pid="164/7451">Eleni Tzirita Zacharatou</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="51/1618">Varun Pandey</author>
+<author pid="05/264">Harish Doraiswamy</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<title>The Case for Distance-Bounded Spatial Approximations.</title>
+<year>2020</year>
+<volume>abs/2010.12548</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.12548</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-12548</url>
+</article>
+</r>
+<r><article key="journals/tods/KipfPBBNK19" mdate="2019-05-09">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="51/1618">Varun Pandey</author>
+<author pid="196/1402">Jan B&#246;ttcher</author>
+<author pid="123/8661">Lucas Braun</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Scalable Analytics on Fast Data.</title>
+<pages>1:1-1:35</pages>
+<year>2019</year>
+<volume>44</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3283811</ee>
+<url>db/journals/tods/tods44.html#KipfPBBNK19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/KipfKRLBK19" mdate="2020-03-12">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="186/8206">Thomas Kipf</author>
+<author pid="219/9678">Bernhard Radke</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Learned Cardinalities: Estimating Correlated Joins with Deep Learning.</title>
+<year>2019</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2019/papers/p101-kipf-cidr19.pdf</ee>
+<crossref>conf/cidr/2019</crossref>
+<url>db/conf/cidr/cidr2019.html#KipfKRLBK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/VoronaK0K19" mdate="2019-11-14">
+<author pid="163/6966">Dimitri Vorona</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>DeepSPACE: Approximate Geospatial Query Processing with Deep Learning.</title>
+<pages>500-503</pages>
+<year>2019</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/3347146.3359112</ee>
+<crossref>conf/gis/2019</crossref>
+<url>db/conf/gis/gis2019.html#VoronaK0K19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KipfVMKRLB0K19" mdate="2019-06-22">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="163/6966">Dimitri Vorona</author>
+<author pid="154/0378">Jonas M&#252;ller</author>
+<author pid="186/8206">Thomas Kipf</author>
+<author pid="219/9678">Bernhard Radke</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Estimating Cardinalities with Deep Sketches.</title>
+<pages>1937-1940</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3320218</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#KipfVMKRLB0K19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-08223" mdate="2019-04-26">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="163/6966">Dimitri Vorona</author>
+<author pid="154/0378">Jonas M&#252;ller</author>
+<author pid="186/8206">Thomas Kipf</author>
+<author pid="219/9678">Bernhard Radke</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Estimating Cardinalities with Deep Sketches.</title>
+<year>2019</year>
+<volume>abs/1904.08223</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.08223</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-08223</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-06085" mdate="2019-06-24">
+<author pid="163/6966">Dimitri Vorona</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>DeepSPACE: Approximate Geospatial Query Processing with Deep Learning.</title>
+<year>2019</year>
+<volume>abs/1906.06085</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.06085</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-06085</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-07753" mdate="2019-08-29">
+<author pid="247/5753">Christian Winter 0006</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>GeoBlocks: A Query-Driven Storage Layout for Geospatial Data.</title>
+<year>2019</year>
+<volume>abs/1908.07753</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.07753</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-07753</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-13014" mdate="2020-01-08">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="219/9679">Alexander van Renen</author>
+<author pid="255/9132">Mihail Stoian</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>SOSD: A Benchmark for Learned Indexes.</title>
+<year>2019</year>
+<volume>abs/1911.13014</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.13014</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-13014</url>
+</article>
+</r>
+<r><article key="journals/pvldb/PandeyKNK18" mdate="2020-04-25">
+<author pid="51/1618">Varun Pandey</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>How Good Are Modern Spatial Analytics Systems?</title>
+<pages>1661-1673</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1661-pandey.pdf</ee>
+<ee>https://doi.org/10.14778/3236187.3236213</ee>
+<url>db/journals/pvldb/pvldb11.html#PandeyKNK18</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/LangKPB0K18" mdate="2018-11-21">
+<author pid="150/9460">Harald Lang</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="162/9094">Linnea Passing</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Make the most out of your SIMD investments: counter control flow divergence in compiled query pipelines.</title>
+<pages>5:1-5:8</pages>
+<year>2018</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3211922.3211928</ee>
+<crossref>conf/damon/2018</crossref>
+<url>db/conf/damon/damon2018.html#LangKPB0K18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KipfLPPB0K18" mdate="2023-03-24">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="150/9460">Harald Lang</author>
+<author pid="51/1618">Varun Pandey</author>
+<author pid="215/5124">Raul Alexandru Persa</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Approximate Geospatial Joins with Precision Guarantees.</title>
+<pages>1360-1363</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00150</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00150</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#KipfLPPB0K18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-09488" mdate="2018-08-13">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="150/9460">Harald Lang</author>
+<author pid="51/1618">Varun Pandey</author>
+<author pid="215/5124">Raul Alexandru Persa</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Adaptive Geospatial Joins for Modern Hardware.</title>
+<year>2018</year>
+<volume>abs/1802.09488</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.09488</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-09488</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-00677" mdate="2018-10-05">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="186/8206">Thomas Kipf</author>
+<author pid="219/9678">Bernhard Radke</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Learned Cardinalities: Estimating Correlated Joins with Deep Learning.</title>
+<year>2018</year>
+<volume>abs/1809.00677</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.00677</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-00677</url>
+</article>
+</r>
+<r><article key="journals/insk/AminiBBBCCFHHKK17" mdate="2020-08-13">
+<author pid="198/4753">Sasan Amini</author>
+<author pid="93/10434">Kristian Beckers</author>
+<author pid="43/2982-1">Markus B&#246;hm 0001</author>
+<author orcid="0000-0002-2194-548X" pid="81/3014">Fritz Busch</author>
+<author pid="198/4791">Nihan Celikkaya</author>
+<author pid="147/2167">Vittorio Cozzolino</author>
+<author pid="198/4733">Anne Faber</author>
+<author orcid="0000-0003-3707-2035" pid="182/7046">Michael Haus</author>
+<author orcid="0000-0003-2924-8598" pid="198/4758">Dominik Huth</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="k/HelmutKrcmar">Helmut Krcmar</author>
+<author pid="m/FlorianMatthes">Florian Matthes</author>
+<author pid="57/6706">J&#246;rg Ott</author>
+<author pid="p/CPrehofer">Christian Prehofer</author>
+<author pid="98/5319">Alexander Pretschner</author>
+<author pid="188/4709">&#214;mer Uludag</author>
+<author pid="w/WolfgangWorndl">Wolfgang W&#246;rndl</author>
+<title>Informatikforschung f&#252;r digitale Mobilit&#228;tsplattformen - Am Beispiel des TUM Living Lab Connected Mobility.</title>
+<pages>180-191</pages>
+<year>2017</year>
+<volume>40</volume>
+<journal>Inform. Spektrum</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s00287-017-1029-2</ee>
+<url>db/journals/insk/insk40.html#AminiBBBCCFHHKK17</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/KipfPBB0K17" mdate="2021-01-29">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="51/1618">Varun Pandey</author>
+<author pid="196/1402">Jan B&#246;ttcher</author>
+<author pid="123/8661">Lucas Braun</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Analytics on Fast Data: Main-Memory Database Systems versus Modern Streaming Systems.</title>
+<pages>49-60</pages>
+<year>2017</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2017.06</ee>
+<crossref>conf/edbt/2017</crossref>
+<url>db/conf/edbt/edbt2017.html#KipfPBB0K17</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/17/AminiB0BCCFHHKKKMOPPUW17" mdate="2022-12-02">
+<author pid="198/4753">Sasan Amini</author>
+<author pid="93/10434">Kristian Beckers</author>
+<author pid="43/2982-1">Markus B&#246;hm 0001</author>
+<author pid="81/3014">Fritz Busch</author>
+<author pid="198/4791">Nihan Celikkaya</author>
+<author pid="147/2167">Vittorio Cozzolino</author>
+<author pid="198/4733">Anne Faber</author>
+<author pid="182/7046">Michael Haus</author>
+<author pid="198/4758">Dominik Huth</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="k/HelmutKrcmar">Helmut Krcmar</author>
+<author pid="m/FlorianMatthes">Florian Matthes</author>
+<author pid="57/6706">J&#246;rg Ott</author>
+<author pid="p/CPrehofer">Christian Prehofer</author>
+<author pid="98/5319">Alexander Pretschner</author>
+<author pid="188/4709">&#214;mer Uludag</author>
+<author pid="w/WolfgangWorndl">Wolfgang W&#246;rndl</author>
+<title>Informatik-Forschung f&#252;r digitale Mobilit&#228;tsplattformen.</title>
+<pages>155-172</pages>
+<year>2017</year>
+<booktitle>50 Jahre Universit&#228;ts-Informatik in M&#252;nchen</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-54712-0_14</ee>
+<crossref>books/sp/17/BBBM2017</crossref>
+<url>db/books/collections/BBBM2017.html#AminiB0BCCFHHKKKMOPPUW17</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/sigmod/PandeyKVM0K16" mdate="2018-11-06">
+<author pid="51/1618">Varun Pandey</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="163/6966">Dimitri Vorona</author>
+<author pid="74/11109">Tobias M&#252;hlbauer</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>High-Performance Geospatial Analytics in HyPerSpace.</title>
+<pages>2145-2148</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2899412</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#PandeyKVM0K16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MuhlbauerRKK015" mdate="2018-11-06">
+<author pid="74/11109">Tobias M&#252;hlbauer</author>
+<author pid="126/2050">Wolf R&#246;diger</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>High-Performance Main-Memory Database Systems and Modern Virtualization: Friends or Foes?</title>
+<pages>4:1-4:4</pages>
+<year>2015</year>
+<booktitle>DanaC@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/2799562.2799643</ee>
+<crossref>conf/sigmod/2015danac</crossref>
+<url>db/conf/sigmod/danac2015.html#MuhlbauerRKK015</url>
+</inproceedings>
+</r>
+<coauthors n="101" nc="1">
+<co c="0"><na f="a/Alizadeh:Mohammad" pid="37/8397">Mohammad Alizadeh</na></co>
+<co c="0"><na f="a/Amini:Sasan" pid="198/4753">Sasan Amini</na></co>
+<co c="0"><na f="a/Amsterdamer:Yael" pid="88/9060">Yael Amsterdamer</na></co>
+<co c="0"><na f="a/Andersen:David_G=" pid="a/DavidGAndersen">David G. Andersen</na></co>
+<co c="0"><na f="a/Anneser:Christoph" pid="231/3706">Christoph Anneser</na></co>
+<co c="0"><na f="a/Arcand:William" pid="120/7136">William Arcand</na></co>
+<co c="0"><na f="b/Beckers:Kristian" pid="93/10434">Kristian Beckers</na></co>
+<co c="0" n="2"><na f="b/Bergeron:Bill" pid="124/2345">Bill Bergeron</na><na>William Bergeron</na></co>
+<co c="0"><na f="b/Bestor:David" pid="124/2385">David Bestor</na></co>
+<co c="0"><na f="b/Bindschaedler:Laurent" pid="116/5046">Laurent Bindschaedler</na></co>
+<co c="0" n="2"><na f="b/Boehm_0001:Matthias" pid="75/887">Matthias Boehm 0001</na><na>Matthias B&#246;hm 0001</na></co>
+<co c="0"><na f="b/B=ouml=hm_0001:Markus" pid="43/2982-1">Markus B&#246;hm 0001</na></co>
+<co c="0"><na f="b/Boncz:Peter_A=" pid="b/PeterABoncz">Peter A. Boncz</na></co>
+<co c="0"><na f="b/Bordawekar:Rajesh" pid="28/6851">Rajesh Bordawekar</na></co>
+<co c="0"><na f="b/B=ouml=ttcher:Jan" pid="196/1402">Jan B&#246;ttcher</na></co>
+<co c="0"><na f="b/Braun:Lucas" pid="123/8661">Lucas Braun</na></co>
+<co c="0"><na f="b/Busch:Fritz" pid="81/3014">Fritz Busch</na></co>
+<co c="0"><na f="b/Byun:Chansup" pid="116/9288">Chansup Byun</na></co>
+<co c="0"><na f="c/Celikkaya:Nihan" pid="198/4791">Nihan Celikkaya</na></co>
+<co c="0"><na f="c/Cen:Lujing" pid="263/9893">Lujing Cen</na></co>
+<co c="0"><na f="c/Chromejko:Damian" pid="275/8381">Damian Chromejko</na></co>
+<co c="0"><na f="c/Cozzolino:Vittorio" pid="147/2167">Vittorio Cozzolino</na></co>
+<co c="0"><na f="d/Ding:Jialin" pid="145/8597">Jialin Ding</na></co>
+<co c="0"><na f="d/Doraiswamy:Harish" pid="05/264">Harish Doraiswamy</na></co>
+<co c="0"><na f="e/Engwirda:Darren" pid="157/8468">Darren Engwirda</na></co>
+<co c="0"><na f="f/Faber:Anne" pid="198/4733">Anne Faber</na></co>
+<co c="0"><na f="f/Fent:Philipp" pid="265/9606">Philipp Fent</na></co>
+<co c="0"><na f="f/Firmani:Donatella" pid="05/10127">Donatella Firmani</na></co>
+<co c="0"><na f="g/Gadepally:Vijay" pid="86/7615">Vijay Gadepally</na></co>
+<co c="0"><na f="g/Giceva:Jana" pid="32/7263">Jana Giceva</na></co>
+<co c="0"><na f="h/Hall:Alexander" pid="40/4355">Alexander Hall</na></co>
+<co c="0"><na f="h/Haus:Michael" pid="182/7046">Michael Haus</na></co>
+<co c="0"><na f="h/Hill:Chris" pid="50/6286">Chris Hill</na></co>
+<co c="0"><na f="h/Horn:Dominik" pid="296/3942">Dominik Horn</na></co>
+<co c="0"><na f="h/Houle_0001:Michael" pid="86/1512">Michael Houle 0001</na></co>
+<co c="0"><na f="h/Hubbell:Matthew" pid="120/7117">Matthew Hubbell</na></co>
+<co c="0"><na f="h/Huth:Dominik" pid="198/4758">Dominik Huth</na></co>
+<co c="0"><na f="j/Jones_0001:Michael" pid="56/4313-1">Michael Jones 0001</na></co>
+<co c="0"><na f="j/Jungmair:Michael" pid="265/9611">Michael Jungmair</na></co>
+<co c="0"><na f="k/Kemper:Alfons" pid="k/AlfonsKemper">Alfons Kemper</na></co>
+<co c="0"><na f="k/Kepner:Jeremy" pid="25/6583">Jeremy Kepner</na></co>
+<co c="0"><na f="k/Kipf:Thomas" pid="186/8206">Thomas Kipf</na></co>
+<co c="0"><na f="k/Kirby:Andrew_C=" pid="248/6661">Andrew C. Kirby</na></co>
+<co c="0"><na f="k/Klein:Anna" pid="133/3700">Anna Klein</na></co>
+<co c="0"><na f="k/Kraska:Tim" pid="26/6037">Tim Kraska</na></co>
+<co c="0"><na f="k/Krcmar:Helmut" pid="k/HelmutKrcmar">Helmut Krcmar</na></co>
+<co c="0"><na f="l/Lang:Harald" pid="150/9460">Harald Lang</na></co>
+<co c="0"><na f="l/Larson:Per==Aring=ke" pid="l/PALarson">Per-&#197;ke Larson</na></co>
+<co c="0"><na f="l/Leis:Viktor" pid="10/11150">Viktor Leis</na></co>
+<co c="0"><na f="l/Liu:Hanwen" pid="178/1112">Hanwen Liu</na></co>
+<co c="0"><na f="l/Luthra:Manisha" pid="176/1373">Manisha Luthra</na></co>
+<co c="0"><na f="l/Lyu:Xi" pid="206/5142">Xi Lyu</na></co>
+<co c="0" n="2"><na f="m/Madden_0001:Samuel" pid="m/SamuelMadden">Samuel Madden 0001</na><na>Sam Madden</na></co>
+<co c="0"><na f="m/Mao:Hongzi" pid="150/3252">Hongzi Mao</na></co>
+<co c="0"><na f="m/Marcus:Ryan" pid="175/1473">Ryan Marcus</na></co>
+<co c="0"><na f="m/Markakis:Markos" pid="278/6747">Markos Markakis</na></co>
+<co c="0"><na f="m/Markl:Volker" pid="m/VMarkl">Volker Markl</na></co>
+<co c="0"><na f="m/Matthes:Florian" pid="m/FlorianMatthes">Florian Matthes</na></co>
+<co c="0"><na f="m/Michaleas:Peter" pid="58/10271">Peter Michaleas</na></co>
+<co c="0"><na f="m/Milechin:Lauren" pid="176/8120">Lauren Milechin</na></co>
+<co c="0"><na f="m/Minhas:Umar_Farooq" pid="99/6349">Umar Farooq Minhas</na></co>
+<co c="0"><na f="m/Misra:Sanchit" pid="40/5576">Sanchit Misra</na></co>
+<co c="0"><na f="m/Mitzenmacher:Michael" pid="74/838">Michael Mitzenmacher</na></co>
+<co c="0"><na f="m/M=uuml=hlbauer:Tobias" pid="74/11109">Tobias M&#252;hlbauer</na></co>
+<co c="0"><na f="m/Mullen:Julie" pid="16/7585">Julie Mullen</na></co>
+<co c="0"><na f="m/M=uuml=ller:Jonas" pid="154/0378">Jonas M&#252;ller</na></co>
+<co c="0"><na f="n/Nathan:Vikram" pid="153/2198">Vikram Nathan</na></co>
+<co c="0"><na f="n/Negi:Parimarjan" pid="221/2301">Parimarjan Negi</na></co>
+<co c="0"><na f="n/Neumann_0001:Thomas" pid="n/ThomasNeumann">Thomas Neumann 0001</na></co>
+<co c="0"><na f="n/Nrusimha:Aniruddha" pid="250/2656">Aniruddha Nrusimha</na></co>
+<co c="0"><na f="o/Ott:J=ouml=rg" pid="57/6706">J&#246;rg Ott</na></co>
+<co c="0"><na f="p/Pandey:Varun" pid="51/1618">Varun Pandey</na></co>
+<co c="0"><na f="p/Passing:Linnea" pid="162/9094">Linnea Passing</na></co>
+<co c="0"><na f="p/Persa:Raul_Alexandru" pid="215/5124">Raul Alexandru Persa</na></co>
+<co c="0"><na f="p/Pfeil:Pascal" pid="320/3482">Pascal Pfeil</na></co>
+<co c="0"><na f="p/Prehofer:Christian" pid="p/CPrehofer">Christian Prehofer</na></co>
+<co c="0"><na f="p/Pretschner:Alexander" pid="98/5319">Alexander Pretschner</na></co>
+<co c="0"><na f="p/Prout:Andrew" pid="120/7186">Andrew Prout</na></co>
+<co c="0"><na f="r/Radke:Bernhard" pid="219/9678">Bernhard Radke</na></co>
+<co c="0"><na f="r/Renen:Alexander_van" pid="219/9679">Alexander van Renen</na></co>
+<co c="0"><na f="r/Reuther:Albert" pid="76/7586">Albert Reuther</na></co>
+<co c="0"><na f="r/R=ouml=diger:Wolf" pid="126/2050">Wolf R&#246;diger</na></co>
+<co c="0"><na f="r/Rosa:Antonio" pid="120/7280">Antonio Rosa</na></co>
+<co c="0"><na f="s/Sabek:Ibrahim" pid="16/8981">Ibrahim Sabek</na></co>
+<co c="0" n="2"><na f="s/Samsi:Siddharth" pid="15/7615">Siddharth Samsi</na><na>Sid Samsi</na></co>
+<co c="0"><na f="s/Shmueli:Oded" pid="s/OShmueli">Oded Shmueli</na></co>
+<co c="0"><na f="s/Spector:Benjamin" pid="88/8850">Benjamin Spector</na></co>
+<co c="0"><na f="s/Stoian:Mihail" pid="255/9132">Mihail Stoian</na></co>
+<co c="0"><na f="t/Tatbul:Nesime" pid="t/NesimeTatbul">Nesime Tatbul</na></co>
+<co c="0"><na f="u/Uludag:=Ouml=mer" pid="188/4709">&#214;mer Uludag</na></co>
+<co c="0"><na f="v/Vaidya:Kapil" pid="188/6341">Kapil Vaidya</na></co>
+<co c="0"><na f="v/Vembar:Navin" pid="264/5711">Navin Vembar</na></co>
+<co c="0"><na f="v/Vorona:Dimitri" pid="163/6966">Dimitri Vorona</na></co>
+<co c="0"><na f="w/Wang_0001:Chi" pid="09/404-1">Chi Wang 0001</na></co>
+<co c="0"><na f="w/Winter_0006:Christian" pid="247/5753">Christian Winter 0006</na></co>
+<co c="0"><na f="w/W=ouml=rndl:Wolfgang" pid="w/WolfgangWorndl">Wolfgang W&#246;rndl</na></co>
+<co c="0"><na f="w/Wu:Ziniu" pid="279/2962">Ziniu Wu</na></co>
+<co c="0"><na f="y/Yee:Charles" pid="120/6858">Charles Yee</na></co>
+<co c="0"><na f="y/Yu:Geoffrey_X=" pid="272/8767">Geoffrey X. Yu</na></co>
+<co c="0"><na f="z/Zacharatou:Eleni_Tzirita" pid="164/7451">Eleni Tzirita Zacharatou</na></co>
+<co c="0"><na f="z/Zhang:Huanchen" pid="13/8730">Huanchen Zhang</na></co>
+</coauthors>
+</dblpperson>

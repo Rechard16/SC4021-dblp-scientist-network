@@ -1,0 +1,1263 @@
+<dblpperson name="Ippokratis Pandis" pid="p/IppokratisPandis" n="69">
+<person key="homepages/p/IppokratisPandis" mdate="2023-10-02">
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<note type="affiliation">Amazon Web Services, USA</note>
+<note label="former" type="affiliation">Carnegie Mellon University, Pittsburgh, USA</note>
+<url>http://www.cs.cmu.edu/~ipandis/</url>
+<url>https://dl.acm.org/profile/81100285703</url>
+<url>https://orcid.org/0009-0008-6491-1678</url>
+</person>
+<r><inproceedings key="conf/sigmod/SaxenaRCLCCMKPN23" mdate="2023-06-15">
+<author orcid="0009-0003-6672-3949" pid="28/5706">Gaurav Saxena</author>
+<author orcid="0009-0003-0488-6240" pid="12/5722">Mohammad Rahman</author>
+<author orcid="0009-0005-9739-1806" pid="135/4688">Naresh Chainani</author>
+<author orcid="0000-0002-7068-9929" pid="82/11411">Chunbin Lin</author>
+<author orcid="0009-0008-3310-3344" pid="348/7729">George Caragea</author>
+<author orcid="0000-0003-4847-0338" pid="229/7766">Fahim Chowdhury</author>
+<author orcid="0000-0002-1279-1124" pid="175/1473">Ryan Marcus</author>
+<author orcid="0009-0003-2414-2759" pid="26/6037">Tim Kraska</author>
+<author orcid="0009-0008-6491-1678" pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author orcid="0009-0006-4377-8295" pid="273/0358">Balakrishnan (Murali) Narayanaswamy</author>
+<title>Auto-WLM: Machine Learning Enhanced Workload Management in Amazon Redshift.</title>
+<pages>225-237</pages>
+<year>2023</year>
+<booktitle>SIGMOD Conference Companion</booktitle>
+<ee>https://doi.org/10.1145/3555041.3589677</ee>
+<crossref>conf/sigmod/2023c</crossref>
+<url>db/conf/sigmod/sigmod2023c.html#SaxenaRCLCCMKPN23</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigmod/2023c" mdate="2023-06-09">
+<editor pid="71/5974">Sudipto Das</editor>
+<editor pid="p/IppokratisPandis">Ippokratis Pandis</editor>
+<editor pid="c/KSelcukCandan">K. Sel&#231;uk Candan</editor>
+<editor pid="a/SihemAmerYahia">Sihem Amer-Yahia</editor>
+<title>Companion of the 2023 International Conference on Management of Data, SIGMOD/PODS 2023, Seattle, WA, USA, June 18-23, 2023</title>
+<booktitle>SIGMOD Conference Companion</booktitle>
+<publisher>ACM</publisher>
+<year>2023</year>
+<isbn>978-1-4503-9507-6</isbn>
+<ee>https://doi.org/10.1145/3555041</ee>
+<url>db/conf/sigmod/sigmod2023c.html</url>
+</proceedings>
+</r>
+<r><article key="journals/pvldb/BalazinskaCDHKP22" mdate="2024-02-05">
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="15/3353">Hanuma Kodavalla</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author orcid="0000-0002-7547-7204" pid="36/2133">Matei Zaharia</author>
+<title>Cloud Data Systems: What are the Opportunities for the Database Research Community?</title>
+<pages>3826-3827</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p3826-chaudhuri.pdf</ee>
+<ee>https://doi.org/10.14778/3554821.3554905</ee>
+<url>db/journals/pvldb/pvldb15.html#BalazinskaCDHKP22</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/ArmenatzoglouBB22" mdate="2022-06-14">
+<author pid="58/1327">Nikos Armenatzoglou</author>
+<author pid="322/1659">Sanuj Basu</author>
+<author pid="322/1671">Naga Bhanoori</author>
+<author pid="92/6334">Mengchu Cai</author>
+<author pid="135/4688">Naresh Chainani</author>
+<author pid="322/1398">Kiran Chinta</author>
+<author pid="25/1585">Venkatraman Govindaraju</author>
+<author pid="g/ToddJGreen">Todd J. Green</author>
+<author pid="80/3921">Monish Gupta</author>
+<author pid="67/9320">Sebastian Hillig</author>
+<author pid="322/1405">Eric Hotinger</author>
+<author pid="322/1488">Yan Leshinksy</author>
+<author pid="322/1478">Jintian Liang</author>
+<author pid="322/1672">Michael McCreedy</author>
+<author pid="131/4779">Fabian Nagel</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="147/1187">Panos Parchas</author>
+<author pid="15/5643">Rahul Pathak</author>
+<author pid="131/4377">Orestis Polychroniou</author>
+<author pid="44/8127">Foyzur Rahman</author>
+<author pid="28/5706">Gaurav Saxena</author>
+<author pid="55/500">Gokul Soundararajan</author>
+<author pid="s/SriramSubramanian">Sriram Subramanian</author>
+<author pid="06/965">Doug Terry</author>
+<title>Amazon Redshift Re-invented.</title>
+<pages>2205-2217</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3526045</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#ArmenatzoglouBB22</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/Pandis21" mdate="2022-04-21">
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>The evolution of Amazon Redshift.</title>
+<pages>3162-3163</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p3162-pandis.pdf</ee>
+<ee>https://doi.org/10.14778/3476311.3476391</ee>
+<url>db/journals/pvldb/pvldb14.html#Pandis21</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/BoricGKPT20" mdate="2020-06-05">
+<author pid="266/5787">Nemanja Boric</author>
+<author pid="205/5329">Hinnerk Gildhoff</author>
+<author pid="181/4632">Menelaos Karavelas</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="136/8064">Ioanna Tsalouchidou</author>
+<title>Unified Spatial Analytics from Heterogeneous Sources with Amazon Redshift.</title>
+<pages>2781-2784</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3384704</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#BoricGKPT20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/AlonsoBPSSST0W019" mdate="2020-03-12">
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="s/KennethSalem">Kenneth Salem</author>
+<author pid="233/6274">Jan Skrzypczak</author>
+<author pid="02/1650">Ryan Stutsman</author>
+<author pid="233/6278">Lasse Thostrup</author>
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="233/6269">Zeke Wang</author>
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<title>DPI: The Data Processing Interface for Modern Networks.</title>
+<year>2019</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2019/papers/p11-alonso-cidr19.pdf</ee>
+<crossref>conf/cidr/2019</crossref>
+<url>db/conf/cidr/cidr2019.html#AlonsoBPSSST0W019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/Kim0P19" mdate="2021-01-29">
+<author pid="54/8970">Kangnyeon Kim</author>
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>BionicDB: Fast and Power-Efficient OLTP on FPGA.</title>
+<pages>301-312</pages>
+<year>2019</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2019.27</ee>
+<crossref>conf/edbt/2019</crossref>
+<url>db/conf/edbt/edbt2019.html#Kim0P19</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/CaiGGNPPP18" mdate="2020-03-10">
+<author pid="92/6334">Mengchu Cai</author>
+<author pid="90/5189">Martin Grund</author>
+<author pid="89/912">Anurag Gupta</author>
+<author pid="131/4779">Fabian Nagel</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="p/YPapakonstantinou">Yannis Papakonstantinou</author>
+<author pid="51/5154">Michalis Petropoulos</author>
+<title>Integrated Querying of SQL database data and S3 data in Amazon Redshift.</title>
+<pages>82-90</pages>
+<year>2018</year>
+<volume>41</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<ee type="oa">http://sites.computer.org/debull/A18june/p82.pdf</ee>
+<url>db/journals/debu/debu41.html#CaiGGNPPP18</url>
+</article>
+</r>
+<r><article key="journals/vldb/WangJFP18" mdate="2020-08-27">
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="f/AlanDavidFekete">Alan D. Fekete</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>Erratum to: Efficiently making (almost) any concurrency control mechanism serializable.</title>
+<pages>899-900</pages>
+<year>2018</year>
+<volume>27</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.1007/s00778-017-0471-8</ee>
+<url>db/journals/vldb/vldb27.html#WangJFP18</url>
+</article>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/AilamakiP18" mdate="2019-02-14">
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>Query Processor.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_676</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/q2.html#AilamakiP18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/HardavellasP18" mdate="2023-03-21">
+<author orcid="0000-0002-1137-8100" pid="h/NikolaosHardavellas">Nikos Hardavellas</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>Execution Skew.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_1555</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/e2.html#HardavellasP18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/HardavellasP18a" mdate="2023-03-21">
+<author orcid="0000-0002-1137-8100" pid="h/NikolaosHardavellas">Nikos Hardavellas</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>Inter-query Parallelism.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_1556</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/i2.html#HardavellasP18a</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/HardavellasP18b" mdate="2023-03-21">
+<author orcid="0000-0002-1137-8100" pid="h/NikolaosHardavellas">Nikos Hardavellas</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>Intra-query Parallelism.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_1557</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/i2.html#HardavellasP18b</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/HardavellasP18c" mdate="2023-03-21">
+<author orcid="0000-0002-1137-8100" pid="h/NikolaosHardavellas">Nikos Hardavellas</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>Operator-Level Parallelism.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_661</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/o2.html#HardavellasP18c</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/HardavellasP18d" mdate="2023-03-21">
+<author orcid="0000-0002-1137-8100" pid="h/NikolaosHardavellas">Nikos Hardavellas</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>Stop-&amp;-Go Operator.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_1558</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/s2.html#HardavellasP18d</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/OzcanP18" mdate="2019-02-14">
+<author pid="o/FatmaOzcan">Fatma &#214;zcan</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>SQL Analytics on Big Data.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_80648</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/s2.html#OzcanP18</url>
+</incollection>
+</r>
+<r><article key="journals/pvldb/WangJP17" mdate="2020-04-25">
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>Query Fresh: Log Shipping on Steroids.</title>
+<pages>406-419</pages>
+<year>2017</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p406-wang.pdf</ee>
+<ee>https://doi.org/10.1145/3186728.3164137</ee>
+<url>db/journals/pvldb/pvldb11.html#WangJP17</url>
+</article>
+</r>
+<r><article key="journals/vldb/WangJFP17" mdate="2020-08-27">
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="f/AlanDavidFekete">Alan D. Fekete</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>Efficiently making (almost) any concurrency control mechanism serializable.</title>
+<pages>537-562</pages>
+<year>2017</year>
+<volume>26</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00778-017-0463-8</ee>
+<url>db/journals/vldb/vldb26.html#WangJFP17</url>
+</article>
+</r>
+<r><article key="journals/vldb/PorobicPBTA16" mdate="2023-06-26">
+<author orcid="0009-0003-4943-1530" pid="69/9726">Danica Porobic</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="61/2926">Miguel Branco</author>
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Characterization of the Impact of Hardware Islands on OLTP.</title>
+<pages>625-650</pages>
+<year>2016</year>
+<volume>25</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-015-0413-2</ee>
+<url>db/journals/vldb/vldb25.html#PorobicPBTA16</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/KimWJP16" mdate="2018-11-06">
+<author pid="54/8970">Kangnyeon Kim</author>
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>ERMIA: Fast Memory-Optimized Database System for Heterogeneous Workloads.</title>
+<pages>1675-1687</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2882905</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#KimWJP16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/WangJFP16" mdate="2020-08-27">
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="f/AlanDavidFekete">Alan D. Fekete</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>Efficiently making (almost) any concurrency control mechanism serializable.</title>
+<year>2016</year>
+<volume>abs/1605.04292</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1605.04292</ee>
+<url>db/journals/corr/corr1605.html#WangJFP16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AbadiBOP15" mdate="2022-08-16">
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<author pid="b/ShivnathBabu">Shivnath Babu</author>
+<author orcid="0000-0002-4418-4724" pid="o/FatmaOzcan">Fatma Ozcan</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>Tutorial: SQL-on-Hadoop Systems.</title>
+<pages>2050-2051</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p2050-fatma.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824137</ee>
+<ee>https://www.wikidata.org/entity/Q113237162</ee>
+<url>db/journals/pvldb/pvldb8.html#AbadiBOP15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/KornackerBBBCCE15" mdate="2020-03-12">
+<author pid="11/6425">Marcel Kornacker</author>
+<author pid="88/573">Alexander Behm</author>
+<author pid="116/3047">Victor Bittorf</author>
+<author pid="160/4589">Taras Bobrovytsky</author>
+<author pid="160/4686">Casey Ching</author>
+<author pid="44/8194">Alan Choi</author>
+<author pid="160/4576">Justin Erickson</author>
+<author pid="90/5189">Martin Grund</author>
+<author pid="73/11144">Daniel Hecht</author>
+<author pid="16/4249">Matthew Jacobs</author>
+<author pid="160/4526">Ishaan Joshi</author>
+<author pid="160/4636">Lenni Kuff</author>
+<author pid="93/2049">Dileep Kumar</author>
+<author pid="160/4511">Alex Leblang</author>
+<author pid="143/6458">Nong Li</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="160/4660">Henry Robinson</author>
+<author pid="04/2654">David Rorke</author>
+<author pid="25/2309">Silvius Rus</author>
+<author pid="34/2793">John Russell</author>
+<author pid="77/228">Dimitris Tsirogiannis</author>
+<author pid="143/6456">Skye Wanderman-Milne</author>
+<author pid="20/3744-2">Michael Yoder 0002</author>
+<title>Impala: A Modern, Open-Source SQL Engine for Hadoop.</title>
+<year>2015</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2015/Papers/CIDR15_Paper28.pdf</ee>
+<crossref>conf/cidr/2015</crossref>
+<url>db/conf/cidr/cidr2015.html#KornackerBBBCCE15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/WangJFP15" mdate="2020-08-27">
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="f/AlanDavidFekete">Alan D. Fekete</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>The Serial Safety Net: Efficient Concurrency Control on Modern Hardware.</title>
+<pages>8:1-8:8</pages>
+<year>2015</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2771937.2771949</ee>
+<crossref>conf/damon/2015</crossref>
+<url>db/conf/damon/damon2015.html#WangJFP15</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/damon/2015" mdate="2018-11-06">
+<editor pid="p/IppokratisPandis">Ippokratis Pandis</editor>
+<editor pid="k/MartinLKersten">Martin L. Kersten</editor>
+<title>Proceedings of the 11th International Workshop on Data Management on New Hardware, DaMoN 2015, Melbourne, VIC, Australia, May 31 - June 04, 2015</title>
+<publisher>ACM</publisher>
+<booktitle>DaMoN</booktitle>
+<year>2015</year>
+<isbn>978-1-4503-3638-3</isbn>
+<ee>https://doi.org/10.1145/2771937</ee>
+<url>db/conf/damon/damon2015.html</url>
+</proceedings>
+</r>
+<r><article key="journals/pvldb/LeeABCDHI0LLMMPQRSSSZ14" mdate="2020-04-25">
+<author pid="28/3904">Jae-Gil Lee 0001</author>
+<author pid="24/2608">Gopi K. Attaluri</author>
+<author pid="33/3527">Ronald Barber</author>
+<author pid="135/4688">Naresh Chainani</author>
+<author pid="89/9320">Oliver Draese</author>
+<author pid="05/11154">Frederick Ho</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/MinSooKim2">Min-Soo Kim 0002</author>
+<author pid="31/3001">Sam Lightstone</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/KonstantinosMorfonios">Konstantinos Morfonios</author>
+<author pid="37/276">Keshava Murthy</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="q/LinQiao">Lin Qiao</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="135/4711">Vincent Kulandai Samy</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="s/KnutStolze">Knut Stolze</author>
+<author pid="48/6735">Liping Zhang</author>
+<title>Joins on Encoded and Partitioned Data.</title>
+<pages>1355-1366</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p1355-lee.pdf</ee>
+<ee>https://doi.org/10.14778/2733004.2733008</ee>
+<url>db/journals/pvldb/pvldb7.html#LeeABCDHI0LLMMPQRSSSZ14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BarberLPRSACLS14" mdate="2020-04-25">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="24/2608">Gopi K. Attaluri</author>
+<author pid="135/4688">Naresh Chainani</author>
+<author pid="31/3001">Sam Lightstone</author>
+<author pid="53/26">David Sharpe</author>
+<title>Memory-Efficient Hash Joins.</title>
+<pages>353-364</pages>
+<year>2014</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p353-barber.pdf</ee>
+<ee>https://doi.org/10.14778/2735496.2735499</ee>
+<url>db/journals/pvldb/pvldb8.html#BarberLPRSACLS14</url>
+</article>
+</r>
+<r><article key="journals/vldb/JohnsonPA14" mdate="2017-12-30">
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Eliminating unscalable communication in transaction processing.</title>
+<pages>1-23</pages>
+<year>2014</year>
+<volume>23</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-013-0312-3</ee>
+<url>db/journals/vldb/vldb23.html#JohnsonPA14</url>
+</article>
+</r>
+<r><inproceedings key="conf/vldb/JohnsonKWP14" mdate="2020-03-12">
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="54/8970">Kangnyeon Kim</author>
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>Robust concurrency control in main-memory DBMS: What main memory giveth, the application taketh away.</title>
+<pages>57-59</pages>
+<year>2014</year>
+<booktitle>IMDM@VLDB</booktitle>
+<ee type="oa">http://www-db.in.tum.de/hosted/imdm2014/papers/johnson.pdf</ee>
+<crossref>conf/vldb/2014imdm</crossref>
+<url>db/conf/vldb/imdm2014.html#JohnsonKWP14</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/damon/2014" mdate="2018-11-06">
+<editor pid="k/AlfonsKemper">Alfons Kemper</editor>
+<editor pid="p/IppokratisPandis">Ippokratis Pandis</editor>
+<title>Tenth International Workshop on Data Management on New Hardware, DaMoN 2014, Snowbird, UT, USA, June 23, 2014</title>
+<publisher>ACM</publisher>
+<booktitle>DaMoN</booktitle>
+<year>2014</year>
+<isbn>978-1-4503-2971-2</isbn>
+<ee>https://doi.org/10.1145/2619228</ee>
+<url>db/conf/damon/damon2014.html</url>
+</proceedings>
+</r>
+<r><article key="journals/pvldb/RamanABCKKLLLLMMPSSSSZ13" mdate="2020-09-30">
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="24/2608">Gopi K. Attaluri</author>
+<author pid="33/3527">Ronald Barber</author>
+<author pid="135/4688">Naresh Chainani</author>
+<author pid="135/4645">David Kalmuk</author>
+<author pid="135/4711">Vincent KulandaiSamy</author>
+<author pid="42/5193">Jens Leenstra</author>
+<author pid="31/3001">Sam Lightstone</author>
+<author pid="57/6681">Shaorong Liu</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="135/4723">Tim Malkemus</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="48/5807">Berni Schiefer</author>
+<author pid="53/26">David Sharpe</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="16/5412">Adam J. Storm</author>
+<author pid="48/6735">Liping Zhang</author>
+<title>DB2 with BLU Acceleration: So Much More than Just a Column Store.</title>
+<pages>1080-1091</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p1080-barber.pdf</ee>
+<ee>https://doi.org/10.14778/2536222.2536233</ee>
+<url>db/journals/pvldb/pvldb6.html#RamanABCKKLLLLMMPSSSSZ13</url>
+</article>
+</r>
+<r><article key="journals/pvldb/HassanzadehKKKOP13" mdate="2021-10-14">
+<author orcid="0000-0001-5307-9857" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="41/5464">Anastasios Kementsietsidis</author>
+<author pid="74/3195">Benny Kimelfeld</author>
+<author pid="51/6067">Rajasekar Krishnamurthy</author>
+<author orcid="0000-0002-4418-4724" pid="o/FatmaOzcan">Fatma Ozcan</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>Next Generation Data Analytics at IBM Research.</title>
+<pages>1174-1175</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p1174-hassanzadeh.pdf</ee>
+<ee>https://doi.org/10.14778/2536222.2536246</ee>
+<url>db/journals/pvldb/pvldb6.html#HassanzadehKKKOP13</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AilamakiJPT13" mdate="2020-10-26">
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<title>Toward Scalable Transaction Processing.</title>
+<pages>1192-1193</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p1192-tozun.pdf</ee>
+<ee>https://doi.org/10.14778/2536222.2536255</ee>
+<url>db/journals/pvldb/pvldb6.html#AilamakiJPT13</url>
+</article>
+</r>
+<r><article key="journals/vldb/TozunPJA13" mdate="2020-10-26">
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Scalable and dynamically balanced shared-everything OLTP with physiological partitioning.</title>
+<pages>151-175</pages>
+<year>2013</year>
+<volume>22</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-012-0278-6</ee>
+<url>db/journals/vldb/vldb22.html#TozunPJA13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/JohnsonP13" mdate="2020-03-12">
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>The bionic DBMS is coming, but what will it look like?</title>
+<year>2013</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2013/Papers/CIDR13_Paper105.pdf</ee>
+<crossref>conf/cidr/2013</crossref>
+<url>db/conf/cidr/cidr2013.html#JohnsonP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/LiPMRL13" mdate="2020-09-30">
+<author pid="49/612">Yinan Li</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<title>NUMA-aware algorithms: the case of data shuffling.</title>
+<year>2013</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2013/Papers/CIDR13_Paper121.pdf</ee>
+<crossref>conf/cidr/2013</crossref>
+<url>db/conf/cidr/cidr2013.html#LiPMRL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloud/BarberLMPRW13" mdate="2023-09-01">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="04/5188">Winfried W. Wilcke</author>
+<title>Go, server, go!: parallel computing with moving servers.</title>
+<pages>8:1-8:8</pages>
+<year>2013</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/2523616.2523634</ee>
+<crossref>conf/cloud/2013</crossref>
+<url>db/conf/cloud/socc2013.html#BarberLMPRW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/TozunPKJA13" mdate="2020-10-25">
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="23/10979">Cansu Kaynak</author>
+<author pid="97/11028">Djordje Jevdjic</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>From A to E: analyzing TPC's OLTP benchmarks: the obsolete, the ubiquitous, the unexplored.</title>
+<pages>17-28</pages>
+<year>2013</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/2452376.2452380</ee>
+<crossref>conf/edbt/2013</crossref>
+<url>db/conf/edbt/edbt2013.html#TozunPKJA13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/tinytocs/TozunP13" mdate="2021-09-14">
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>Smart Thread Scheduling is the Key for OLTP.</title>
+<year>2013</year>
+<volume>2</volume>
+<journal>Tiny Trans. Comput. Sci.</journal>
+<ee type="oa">http://tinytocs.org/vol2/papers/tinytocs2-tozun.pdf</ee>
+<url>db/journals/tinytocs/tinytocs2.html#TozunP13</url>
+</article>
+</r>
+<r><article key="journals/debu/BarberBCDHHIKKLLLMMMPQRSSS12" mdate="2020-09-30">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="17/11155">Peter Bendel</author>
+<author pid="61/9320">Marco Czech</author>
+<author pid="89/9320">Oliver Draese</author>
+<author pid="05/11154">Frederick Ho</author>
+<author pid="22/1571">Namik Hrle</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/MinSooKim2">Min-Soo Kim 0002</author>
+<author pid="04/9919">Oliver Koeth</author>
+<author pid="28/3904">Jae-Gil Lee 0001</author>
+<author pid="07/4483">Tianchao Tim Li</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/KonstantinosMorfonios">Konstantinos Morfonios</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="37/276">Keshava Murthy</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="q/LinQiao">Lin Qiao</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="s/KnutStolze">Knut Stolze</author>
+<author pid="16/6170">Sandor Szabo</author>
+<title>Business Analytics in (a) Blink.</title>
+<pages>9-14</pages>
+<year>2012</year>
+<volume>35</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A12mar/blink.pdf</ee>
+<url>db/journals/debu/debu35.html#BarberBCDHHIKKLLLMMMPQRSSS12</url>
+</article>
+</r>
+<r><article key="journals/pvldb/PorobicPBTA12" mdate="2023-06-26">
+<author orcid="0009-0003-4943-1530" pid="69/9726">Danica Porobic</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="61/2926">Miguel Branco</author>
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>OLTP on Hardware Islands.</title>
+<pages>1447-1458</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p1447_danicaporobic_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2350229.2350260</ee>
+<url>db/journals/pvldb/pvldb5.html#PorobicPBTA12</url>
+</article>
+</r>
+<r><article key="journals/vldb/JohnsonPSAA12" mdate="2017-12-30">
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="84/2124">Radu Stoica</author>
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Scalability of write-ahead logging on multicore and multisocket hardware.</title>
+<pages>239-263</pages>
+<year>2012</year>
+<volume>21</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-011-0260-8</ee>
+<url>db/journals/vldb/vldb21.html#JohnsonPSAA12</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1208-0227" mdate="2018-08-13">
+<author pid="69/9726">Danica Porobic</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="61/2926">Miguel Branco</author>
+<author pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>OLTP on Hardware Islands</title>
+<ee type="oa">http://arxiv.org/abs/1208.0227</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1208.0227</volume>
+<url>db/journals/corr/corr1208.html#abs-1208-0227</url>
+</article>
+</r>
+<r><article key="journals/pvldb/PandisTJA11" mdate="2020-10-26">
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>PLP: Page Latch-free Shared-everything OLTP.</title>
+<pages>610-621</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p610-pandis.pdf</ee>
+<ee>https://doi.org/10.14778/2021017.2021019</ee>
+<url>db/journals/pvldb/pvldb4.html#PandisTJA11</url>
+</article>
+</r>
+<r><inproceedings key="conf/birte/BarberBCDHHIKKLLLMMMPQRSSS11" mdate="2020-09-30">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="17/11155">Peter Bendel</author>
+<author pid="61/9320">Marco Czech</author>
+<author pid="89/9320">Oliver Draese</author>
+<author pid="05/11154">Frederick Ho</author>
+<author pid="22/1571">Namik Hrle</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/MinSooKim2">Min-Soo Kim 0002</author>
+<author pid="04/9919">Oliver Koeth</author>
+<author pid="28/3904">Jae-Gil Lee 0001</author>
+<author pid="07/4483">Tianchao Tim Li</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/KonstantinosMorfonios">Konstantinos Morfonios</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="37/276">Keshava Murthy</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="q/LinQiao">Lin Qiao</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="16/6170">Sandor Szabo</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="s/KnutStolze">Knut Stolze</author>
+<title>Blink: Not Your Father's Database!</title>
+<pages>1-22</pages>
+<year>2011</year>
+<booktitle>BIRTE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33500-6_1</ee>
+<crossref>conf/birte/2011</crossref>
+<url>db/conf/birte/birte2011.html#BarberBCDHHIKKLLLMMMPQRSSS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/PandisTBKPJA11" mdate="2023-06-26">
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="61/2926">Miguel Branco</author>
+<author pid="75/9726">Dimitris Karampinas</author>
+<author orcid="0009-0003-4943-1530" pid="69/9726">Danica Porobic</author>
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>A data-oriented transaction execution engine and supporting tools.</title>
+<pages>1237-1240</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989463</ee>
+<ee>https://www.wikidata.org/entity/Q62740810</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#PandisTBKPJA11</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/JohnsonPSAA10" mdate="2020-04-25">
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="84/2124">Radu Stoica</author>
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Aether: A Scalable Approach to Logging.</title>
+<pages>681-692</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R61.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920928</ee>
+<url>db/journals/pvldb/pvldb3.html#JohnsonPSAA10</url>
+</article>
+</r>
+<r><article key="journals/pvldb/PandisJHA10" mdate="2022-10-02">
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author orcid="0000-0002-1137-8100" pid="h/NikolaosHardavellas">Nikos Hardavellas</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Data-Oriented Transaction Execution.</title>
+<pages>928-939</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R83.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920959</ee>
+<url>db/journals/pvldb/pvldb3.html#PandisJHA10</url>
+</article>
+</r>
+<r><article key="journals/sigmod/ChenAAGJPS10" mdate="2020-03-06">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="82/7402">Manos Athanassoulis</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="84/2124">Radu Stoica</author>
+<title>TPC-E vs. TPC-C: characterizing the new TPC-E benchmark via an I/O comparison study.</title>
+<pages>5-10</pages>
+<year>2010</year>
+<volume>39</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1942776.1942778</ee>
+<url>db/journals/sigmod/sigmod39.html#ChenAAGJPS10</url>
+</article>
+</r>
+<r><article key="journals/pvldb/JohnsonPA09" mdate="2020-04-25">
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Improving OLTP Scalability using Speculative Lock Inheritance.</title>
+<pages>479-489</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-157.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687682</ee>
+<url>db/journals/pvldb/pvldb2.html#JohnsonPA09</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/JohnsonPHAF09" mdate="2022-10-02">
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author orcid="0000-0002-1137-8100" pid="h/NikolaosHardavellas">Nikos Hardavellas</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="f/BabakFalsafi">Babak Falsafi</author>
+<title>Shore-MT: a scalable storage manager for the multicore era.</title>
+<pages>24-35</pages>
+<year>2009</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1516360.1516365</ee>
+<crossref>conf/edbt/2009</crossref>
+<url>db/conf/edbt/edbt2009.html#JohnsonPHAF09</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/HardavellasP09" mdate="2023-03-21">
+<author orcid="0000-0002-1137-8100" pid="h/NikolaosHardavellas">Nikos Hardavellas</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>Execution Skew.</title>
+<pages>1079</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_1555</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/e.html#HardavellasP09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/HardavellasP09a" mdate="2023-03-21">
+<author orcid="0000-0002-1137-8100" pid="h/NikolaosHardavellas">Nikos Hardavellas</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>Inter-Query Parallelism.</title>
+<pages>1566-1567</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_1556</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/i.html#HardavellasP09a</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/HardavellasP09b" mdate="2023-03-21">
+<author orcid="0000-0002-1137-8100" pid="h/NikolaosHardavellas">Nikos Hardavellas</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>Intra-Query Parallelism.</title>
+<pages>1567-1568</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_1557</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/i.html#HardavellasP09b</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/HardavellasP09c" mdate="2023-03-21">
+<author orcid="0000-0002-1137-8100" pid="h/NikolaosHardavellas">Nikos Hardavellas</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>Operator-Level Parallelism.</title>
+<pages>1981-1985</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_661</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/o.html#HardavellasP09c</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/AilamakiP09" mdate="2017-07-12">
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>Query Processor.</title>
+<pages>2307-2308</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_676</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/q.html#AilamakiP09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/HardavellasP09d" mdate="2023-03-21">
+<author orcid="0000-0002-1137-8100" pid="h/NikolaosHardavellas">Nikos Hardavellas</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>Stop-&amp;-go Operator.</title>
+<pages>2794</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_1558</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/s.html#HardavellasP09d</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/damon/JohnsonPA08" mdate="2018-11-06">
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Critical sections: re-emerging scalability concerns for database storage engines.</title>
+<pages>35-40</pages>
+<year>2008</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/1457150.1457157</ee>
+<crossref>conf/damon/2008</crossref>
+<url>db/conf/damon/damon2008.html#JohnsonPA08</url>
+</inproceedings>
+</r>
+<r><article key="journals/comcom/SoldatosPSPC07" mdate="2022-06-23">
+<author orcid="0000-0002-6668-3911" pid="s/JohnSoldatos">John Soldatos 0001</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author orcid="0000-0001-9642-7292" pid="35/470">Kostas Stamatis</author>
+<author pid="p/LazarosPolymenakos">Lazaros Polymenakos</author>
+<author pid="50/3289">James L. Crowley</author>
+<title>Agent based middleware infrastructure for autonomous context-aware ubiquitous computing services.</title>
+<pages>577-591</pages>
+<year>2007</year>
+<volume>30</volume>
+<journal>Comput. Commun.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.comcom.2005.11.018</ee>
+<url>db/journals/comcom/comcom30.html#SoldatosPSPC07</url>
+</article>
+</r>
+<r><article key="journals/ijwet/SoldatosSAPP07" mdate="2022-03-31">
+<author pid="s/JohnSoldatos">John Soldatos 0001</author>
+<author pid="35/470">Kostas Stamatis</author>
+<author pid="99/3548">Siamak Azodolmolky</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="p/LazarosPolymenakos">Lazaros Polymenakos</author>
+<title>Semantic web technologies for ubiquitous computing resource management in smart spaces.</title>
+<pages>353-373</pages>
+<year>2007</year>
+<volume>3</volume>
+<journal>Int. J. Web Eng. Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1504/IJWET.2007.014438</ee>
+<url>db/journals/ijwet/ijwet3.html#SoldatosSAPP07</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/HardavellasPJMAF07" mdate="2020-03-12">
+<author pid="h/NikolaosHardavellas">Nikos Hardavellas</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="68/3418">Naju Mancheril</author>
+<author pid="a/AnastassiaAilamaki">Anastassia Ailamaki</author>
+<author pid="f/BabakFalsafi">Babak Falsafi</author>
+<title>Database Servers on Chip Multiprocessors: Limitations and Opportunities.</title>
+<pages>79-87</pages>
+<year>2007</year>
+<crossref>conf/cidr/2007</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2007/papers/cidr07p08.pdf</ee>
+<url>db/conf/cidr/cidr2007.html#HardavellasPJMAF07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/JohnsonHPMHSAF07" mdate="2020-03-12">
+<author pid="98/3414-1">Ryan Johnson 0001</author>
+<author pid="h/NikolaosHardavellas">Nikos Hardavellas</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="68/3418">Naju Mancheril</author>
+<author pid="38/6308">Stavros Harizopoulos</author>
+<author pid="30/486">Kivanc Sabirli</author>
+<author pid="a/AnastassiaAilamaki">Anastassia Ailamaki</author>
+<author pid="f/BabakFalsafi">Babak Falsafi</author>
+<title>To Share or Not To Share?</title>
+<pages>351-362</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/research/p351-johnson.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#JohnsonHPMHSAF07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GaoHPSA06" mdate="2023-03-23">
+<author pid="46/2802">Kun Gao</author>
+<author pid="38/6308">Stavros Harizopoulos</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="10/6892">Vladislav Shkapenyuk</author>
+<author pid="a/AnastassiaAilamaki">Anastassia Ailamaki</author>
+<title>Simultaneous Pipelining in QPipe: Exploiting Work Sharing Opportunities Across Queries.</title>
+<pages>162</pages>
+<year>2006</year>
+<crossref>conf/icde/2006</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2006.138</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2006.138</ee>
+<url>db/conf/icde/icde2006.html#GaoHPSA06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ht/PandisKT05" mdate="2018-11-06">
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="35/5532">Nikos Karousos</author>
+<author pid="64/6175">Thanassis Tiropanis</author>
+<title>Semantically annotated hypermedia services.</title>
+<pages>245-247</pages>
+<year>2005</year>
+<crossref>conf/ht/2005</crossref>
+<booktitle>Hypertext</booktitle>
+<ee>https://doi.org/10.1145/1083356.1083406</ee>
+<url>db/conf/ht/ht2005.html#PandisKT05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ht/KarousosTP03" mdate="2018-11-06">
+<author pid="35/5532">Nikos Karousos</author>
+<author pid="39/3606">Manolis Tzagarakis</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>Increasing the usage of open hypermedia systems: a developer-side approach.</title>
+<pages>148-149</pages>
+<year>2003</year>
+<crossref>conf/ht/2003</crossref>
+<booktitle>Hypertext</booktitle>
+<ee>https://doi.org/10.1145/900051.900083</ee>
+<url>db/conf/ht/ht2003.html#KarousosTP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/metainformatics/KarousosP03" mdate="2017-05-23">
+<author pid="35/5532">Nikos Karousos</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>Developer Support in Open Hypermedia Systems: Towards a Hypermedia Service Discovery Mechanism.</title>
+<pages>89-99</pages>
+<ee>https://doi.org/10.1007/978-3-540-24647-3_8</ee>
+<year>2003</year>
+<crossref>conf/metainformatics/2003</crossref>
+<booktitle>Metainformatics</booktitle>
+<url>db/conf/metainformatics/metainformatics2003.html#KarousosP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/KarousosPRT03" mdate="2018-11-06">
+<author pid="35/5532">Nikos Karousos</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="99/1239">Siegfried Reich</author>
+<author pid="39/3606">Manolis Tzagarakis</author>
+<title>Offering open hypermedia services to the WWW: a step-by-step approach for developers.</title>
+<pages>482-489</pages>
+<year>2003</year>
+<crossref>conf/www/2003</crossref>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/775152.775221</ee>
+<url>db/conf/www/www2003.html#KarousosPRT03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/metainformatics/KarousosPPT02" mdate="2017-05-23">
+<author pid="35/5532">Nikos Karousos</author>
+<author pid="53/4923">Ioannis Panaretou</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="39/3606">Manolis Tzagarakis</author>
+<title>Babylon Bookmarks: A Taxonomic Approach to the Management of WWW Bookmarks.</title>
+<pages>42-48</pages>
+<year>2002</year>
+<crossref>conf/metainformatics/2002</crossref>
+<booktitle>Metainformatics</booktitle>
+<ee>https://doi.org/10.1007/3-540-44872-1_6</ee>
+<url>db/conf/metainformatics/metainformatics2002.html#KarousosPPT02</url>
+</inproceedings>
+</r>
+<coauthors n="150" nc="3">
+<co c="0" n="2"><na f="a/Abadi:Daniel_J=" pid="a/DJAbadi">Daniel J. Abadi</na><na>Daniel Abadi</na></co>
+<co c="0" n="2"><na f="a/Ailamaki:Anastasia" pid="a/AnastassiaAilamaki">Anastasia Ailamaki</na><na>Anastassia Ailamaki</na></co>
+<co c="0"><na f="a/Alonso:Gustavo" pid="a/GustavoAlonso">Gustavo Alonso</na></co>
+<co c="0"><na f="a/Amer=Yahia:Sihem" pid="a/SihemAmerYahia">Sihem Amer-Yahia</na></co>
+<co c="0"><na f="a/Armenatzoglou:Nikos" pid="58/1327">Nikos Armenatzoglou</na></co>
+<co c="0"><na f="a/Athanassoulis:Manos" pid="82/7402">Manos Athanassoulis</na></co>
+<co c="0"><na f="a/Attaluri:Gopi_K=" pid="24/2608">Gopi K. Attaluri</na></co>
+<co c="1"><na f="a/Azodolmolky:Siamak" pid="99/3548">Siamak Azodolmolky</na></co>
+<co c="0"><na f="b/Babu:Shivnath" pid="b/ShivnathBabu">Shivnath Babu</na></co>
+<co c="0"><na f="b/Balazinska:Magdalena" pid="b/MagdalenaBalazinska">Magdalena Balazinska</na></co>
+<co c="0" n="2"><na f="b/Barber:Ron" pid="33/3527">Ron Barber</na><na>Ronald Barber</na></co>
+<co c="0"><na f="b/Basu:Sanuj" pid="322/1659">Sanuj Basu</na></co>
+<co c="0"><na f="b/Behm:Alexander" pid="88/573">Alexander Behm</na></co>
+<co c="0"><na f="b/Bendel:Peter" pid="17/11155">Peter Bendel</na></co>
+<co c="0"><na f="b/Bhanoori:Naga" pid="322/1671">Naga Bhanoori</na></co>
+<co c="0"><na f="b/Binnig:Carsten" pid="45/1559">Carsten Binnig</na></co>
+<co c="0"><na f="b/Bittorf:Victor" pid="116/3047">Victor Bittorf</na></co>
+<co c="0"><na f="b/Bobrovytsky:Taras" pid="160/4589">Taras Bobrovytsky</na></co>
+<co c="0"><na f="b/Boric:Nemanja" pid="266/5787">Nemanja Boric</na></co>
+<co c="0"><na f="b/Branco:Miguel" pid="61/2926">Miguel Branco</na></co>
+<co c="0"><na f="c/Cai:Mengchu" pid="92/6334">Mengchu Cai</na></co>
+<co c="0"><na f="c/Candan:K=_Sel=ccedil=uk" pid="c/KSelcukCandan">K. Sel&#231;uk Candan</na></co>
+<co c="0"><na f="c/Caragea:George" pid="348/7729">George Caragea</na></co>
+<co c="0"><na f="c/Chainani:Naresh" pid="135/4688">Naresh Chainani</na></co>
+<co c="0"><na f="c/Chaudhuri:Surajit" pid="c/SurajitChaudhuri">Surajit Chaudhuri</na></co>
+<co c="0"><na f="c/Chen:Shimin" pid="c/ShiminChen">Shimin Chen</na></co>
+<co c="0"><na f="c/Ching:Casey" pid="160/4686">Casey Ching</na></co>
+<co c="0"><na f="c/Chinta:Kiran" pid="322/1398">Kiran Chinta</na></co>
+<co c="0"><na f="c/Choi:Alan" pid="44/8194">Alan Choi</na></co>
+<co c="0"><na f="c/Chowdhury:Fahim" pid="229/7766">Fahim Chowdhury</na></co>
+<co c="1"><na f="c/Crowley:James_L=" pid="50/3289">James L. Crowley</na></co>
+<co c="0"><na f="c/Czech:Marco" pid="61/9320">Marco Czech</na></co>
+<co c="0"><na f="d/Das:Sudipto" pid="71/5974">Sudipto Das</na></co>
+<co c="0"><na f="d/Doan:AnHai" pid="d/AnHaiDoan">AnHai Doan</na></co>
+<co c="0"><na f="d/Draese:Oliver" pid="89/9320">Oliver Draese</na></co>
+<co c="0"><na f="e/Erickson:Justin" pid="160/4576">Justin Erickson</na></co>
+<co c="0"><na f="f/Falsafi:Babak" pid="f/BabakFalsafi">Babak Falsafi</na></co>
+<co c="0"><na f="f/Fekete:Alan_D=" pid="f/AlanDavidFekete">Alan D. Fekete</na></co>
+<co c="0"><na f="g/Gao:Kun" pid="46/2802">Kun Gao</na></co>
+<co c="0"><na f="g/Gibbons:Phillip_B=" pid="g/PhillipBGibbons">Phillip B. Gibbons</na></co>
+<co c="0"><na f="g/Gildhoff:Hinnerk" pid="205/5329">Hinnerk Gildhoff</na></co>
+<co c="0"><na f="g/Govindaraju:Venkatraman" pid="25/1585">Venkatraman Govindaraju</na></co>
+<co c="0"><na f="g/Green:Todd_J=" pid="g/ToddJGreen">Todd J. Green</na></co>
+<co c="0"><na f="g/Grund:Martin" pid="90/5189">Martin Grund</na></co>
+<co c="0"><na f="g/Gupta:Anurag" pid="89/912">Anurag Gupta</na></co>
+<co c="0"><na f="g/Gupta:Monish" pid="80/3921">Monish Gupta</na></co>
+<co c="0"><na f="h/Hardavellas:Nikos" pid="h/NikolaosHardavellas">Nikos Hardavellas</na></co>
+<co c="0"><na f="h/Harizopoulos:Stavros" pid="38/6308">Stavros Harizopoulos</na></co>
+<co c="0"><na f="h/Hassanzadeh:Oktie" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</na></co>
+<co c="0"><na f="h/Hecht:Daniel" pid="73/11144">Daniel Hecht</na></co>
+<co c="0"><na f="h/Hellerstein:Joseph_M=" pid="h/JosephMHellerstein">Joseph M. Hellerstein</na></co>
+<co c="0"><na f="h/Hillig:Sebastian" pid="67/9320">Sebastian Hillig</na></co>
+<co c="0"><na f="h/Ho:Frederick" pid="05/11154">Frederick Ho</na></co>
+<co c="0"><na f="h/Hotinger:Eric" pid="322/1405">Eric Hotinger</na></co>
+<co c="0"><na f="h/Hrle:Namik" pid="22/1571">Namik Hrle</na></co>
+<co c="0"><na f="i/Idreos:Stratos" pid="i/StratosIdreos">Stratos Idreos</na></co>
+<co c="0"><na f="j/Jacobs:Matthew" pid="16/4249">Matthew Jacobs</na></co>
+<co c="0"><na f="j/Jevdjic:Djordje" pid="97/11028">Djordje Jevdjic</na></co>
+<co c="0"><na f="j/Johnson_0001:Ryan" pid="98/3414-1">Ryan Johnson 0001</na></co>
+<co c="0"><na f="j/Joshi:Ishaan" pid="160/4526">Ishaan Joshi</na></co>
+<co c="0"><na f="k/Kalmuk:David" pid="135/4645">David Kalmuk</na></co>
+<co c="0"><na f="k/Karampinas:Dimitris" pid="75/9726">Dimitris Karampinas</na></co>
+<co c="0"><na f="k/Karavelas:Menelaos" pid="181/4632">Menelaos Karavelas</na></co>
+<co c="2"><na f="k/Karousos:Nikos" pid="35/5532">Nikos Karousos</na></co>
+<co c="0"><na f="k/Kaynak:Cansu" pid="23/10979">Cansu Kaynak</na></co>
+<co c="0"><na f="k/Kementsietsidis:Anastasios" pid="41/5464">Anastasios Kementsietsidis</na></co>
+<co c="0"><na f="k/Kemper:Alfons" pid="k/AlfonsKemper">Alfons Kemper</na></co>
+<co c="0"><na f="k/Kersten:Martin_L=" pid="k/MartinLKersten">Martin L. Kersten</na></co>
+<co c="0"><na f="k/Kim:Kangnyeon" pid="54/8970">Kangnyeon Kim</na></co>
+<co c="0"><na f="k/Kim_0002:Min=Soo" pid="k/MinSooKim2">Min-Soo Kim 0002</na></co>
+<co c="0"><na f="k/Kimelfeld:Benny" pid="74/3195">Benny Kimelfeld</na></co>
+<co c="0"><na f="k/Kodavalla:Hanuma" pid="15/3353">Hanuma Kodavalla</na></co>
+<co c="0"><na f="k/Koeth:Oliver" pid="04/9919">Oliver Koeth</na></co>
+<co c="0"><na f="k/Kornacker:Marcel" pid="11/6425">Marcel Kornacker</na></co>
+<co c="0"><na f="k/Kraska:Tim" pid="26/6037">Tim Kraska</na></co>
+<co c="0"><na f="k/Krishnamurthy:Rajasekar" pid="51/6067">Rajasekar Krishnamurthy</na></co>
+<co c="0"><na f="k/Kuff:Lenni" pid="160/4636">Lenni Kuff</na></co>
+<co c="0" n="2"><na f="k/KulandaiSamy:Vincent" pid="135/4711">Vincent KulandaiSamy</na><na>Vincent Kulandai Samy</na></co>
+<co c="0"><na f="k/Kumar:Dileep" pid="93/2049">Dileep Kumar</na></co>
+<co c="0"><na f="l/Leblang:Alex" pid="160/4511">Alex Leblang</na></co>
+<co c="0"><na f="l/Lee_0001:Jae=Gil" pid="28/3904">Jae-Gil Lee 0001</na></co>
+<co c="0"><na f="l/Leenstra:Jens" pid="42/5193">Jens Leenstra</na></co>
+<co c="0"><na f="l/Leshinksy:Yan" pid="322/1488">Yan Leshinksy</na></co>
+<co c="0"><na f="l/Li:Nong" pid="143/6458">Nong Li</na></co>
+<co c="0" n="2"><na f="l/Li:Tianchao" pid="07/4483">Tianchao Li</na><na>Tianchao Tim Li</na></co>
+<co c="0"><na f="l/Li:Yinan" pid="49/612">Yinan Li</na></co>
+<co c="0"><na f="l/Liang:Jintian" pid="322/1478">Jintian Liang</na></co>
+<co c="0"><na f="l/Lightstone:Sam" pid="31/3001">Sam Lightstone</na></co>
+<co c="0"><na f="l/Lin:Chunbin" pid="82/11411">Chunbin Lin</na></co>
+<co c="0"><na f="l/Liu:Shaorong" pid="57/6681">Shaorong Liu</na></co>
+<co c="0"><na f="l/Lohman:Guy_M=" pid="21/2457">Guy M. Lohman</na></co>
+<co c="0"><na f="m/Malkemus:Tim" pid="135/4723">Tim Malkemus</na></co>
+<co c="0"><na f="m/Mancheril:Naju" pid="68/3418">Naju Mancheril</na></co>
+<co c="0"><na f="m/Marcus:Ryan" pid="175/1473">Ryan Marcus</na></co>
+<co c="0"><na f="m/McCreedy:Michael" pid="322/1672">Michael McCreedy</na></co>
+<co c="0"><na f="m/Morfonios:Konstantinos" pid="m/KonstantinosMorfonios">Konstantinos Morfonios</na></co>
+<co c="0"><na f="m/M=uuml=ller_0001:Ren=eacute=" pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</na></co>
+<co c="0"><na f="m/Murthy:Keshava" pid="37/276">Keshava Murthy</na></co>
+<co c="0"><na f="n/Nagel:Fabian" pid="131/4779">Fabian Nagel</na></co>
+<co c="0"><na f="n/Narayanaswamy:Balakrishnan_=Murali=" pid="273/0358">Balakrishnan (Murali) Narayanaswamy</na></co>
+<co c="0" n="2"><na f="=/=Ouml=zcan:Fatma" pid="o/FatmaOzcan">Fatma &#214;zcan</na><na>Fatma Ozcan</na></co>
+<co c="2"><na f="p/Panaretou:Ioannis" pid="53/4923">Ioannis Panaretou</na></co>
+<co c="0"><na f="p/Papakonstantinou:Yannis" pid="p/YPapakonstantinou">Yannis Papakonstantinou</na></co>
+<co c="0"><na f="p/Parchas:Panos" pid="147/1187">Panos Parchas</na></co>
+<co c="0"><na f="p/Pathak:Rahul" pid="15/5643">Rahul Pathak</na></co>
+<co c="0"><na f="p/Petropoulos:Michalis" pid="51/5154">Michalis Petropoulos</na></co>
+<co c="0"><na f="p/Polychroniou:Orestis" pid="131/4377">Orestis Polychroniou</na></co>
+<co c="1"><na f="p/Polymenakos:Lazaros" pid="p/LazarosPolymenakos">Lazaros Polymenakos</na></co>
+<co c="0"><na f="p/Porobic:Danica" pid="69/9726">Danica Porobic</na></co>
+<co c="0"><na f="q/Qiao:Lin" pid="q/LinQiao">Lin Qiao</na></co>
+<co c="0"><na f="r/Rahman:Foyzur" pid="44/8127">Foyzur Rahman</na></co>
+<co c="0"><na f="r/Rahman:Mohammad" pid="12/5722">Mohammad Rahman</na></co>
+<co c="0"><na f="r/Raman:Vijayshankar" pid="r/VijayshankarRaman">Vijayshankar Raman</na></co>
+<co c="2"><na f="r/Reich:Siegfried" pid="99/1239">Siegfried Reich</na></co>
+<co c="0"><na f="r/Robinson:Henry" pid="160/4660">Henry Robinson</na></co>
+<co c="0"><na f="r/Rorke:David" pid="04/2654">David Rorke</na></co>
+<co c="0"><na f="r/Rus:Silvius" pid="25/2309">Silvius Rus</na></co>
+<co c="0"><na f="r/Russell:John" pid="34/2793">John Russell</na></co>
+<co c="0"><na f="s/Sabirli:Kivanc" pid="30/486">Kivanc Sabirli</na></co>
+<co c="0"><na f="s/Salem:Kenneth" pid="s/KennethSalem">Kenneth Salem</na></co>
+<co c="0"><na f="s/Saxena:Gaurav" pid="28/5706">Gaurav Saxena</na></co>
+<co c="0"><na f="s/Schiefer:Berni" pid="48/5807">Berni Schiefer</na></co>
+<co c="0"><na f="s/Sharpe:David" pid="53/26">David Sharpe</na></co>
+<co c="0"><na f="s/Shkapenyuk:Vladislav" pid="10/6892">Vladislav Shkapenyuk</na></co>
+<co c="0"><na f="s/Sidle:Richard" pid="84/3614">Richard Sidle</na></co>
+<co c="0"><na f="s/Skrzypczak:Jan" pid="233/6274">Jan Skrzypczak</na></co>
+<co c="1"><na f="s/Soldatos_0001:John" pid="s/JohnSoldatos">John Soldatos 0001</na></co>
+<co c="0"><na f="s/Soundararajan:Gokul" pid="55/500">Gokul Soundararajan</na></co>
+<co c="1"><na f="s/Stamatis:Kostas" pid="35/470">Kostas Stamatis</na></co>
+<co c="0"><na f="s/Stoica:Radu" pid="84/2124">Radu Stoica</na></co>
+<co c="0"><na f="s/Stolze:Knut" pid="s/KnutStolze">Knut Stolze</na></co>
+<co c="0"><na f="s/Storm:Adam_J=" pid="16/5412">Adam J. Storm</na></co>
+<co c="0"><na f="s/Stutsman:Ryan" pid="02/1650">Ryan Stutsman</na></co>
+<co c="0"><na f="s/Subramanian:Sriram" pid="s/SriramSubramanian">Sriram Subramanian</na></co>
+<co c="0"><na f="s/Szabo:Sandor" pid="16/6170">Sandor Szabo</na></co>
+<co c="0" n="2"><na f="t/Terry:Douglas_B=" pid="06/965">Douglas B. Terry</na><na>Doug Terry</na></co>
+<co c="0"><na f="t/Thostrup:Lasse" pid="233/6278">Lasse Thostrup</na></co>
+<co c="2"><na f="t/Tiropanis:Thanassis" pid="64/6175">Thanassis Tiropanis</na></co>
+<co c="0"><na f="t/T=ouml=z=uuml=n:Pinar" pid="86/9726">Pinar T&#246;z&#252;n</na></co>
+<co c="0"><na f="t/Tsalouchidou:Ioanna" pid="136/8064">Ioanna Tsalouchidou</na></co>
+<co c="0"><na f="t/Tsirogiannis:Dimitris" pid="77/228">Dimitris Tsirogiannis</na></co>
+<co c="2"><na f="t/Tzagarakis:Manolis" pid="39/3606">Manolis Tzagarakis</na></co>
+<co c="0"><na f="w/Wanderman=Milne:Skye" pid="143/6456">Skye Wanderman-Milne</na></co>
+<co c="0"><na f="w/Wang_0001:Tianzheng" pid="57/10948-1">Tianzheng Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Zeke" pid="233/6269">Zeke Wang</na></co>
+<co c="0"><na f="w/Wilcke:Winfried_W=" pid="04/5188">Winfried W. Wilcke</na></co>
+<co c="0"><na f="y/Yoder_0002:Michael" pid="20/3744-2">Michael Yoder 0002</na></co>
+<co c="0"><na f="z/Zaharia:Matei" pid="36/2133">Matei Zaharia</na></co>
+<co c="0"><na f="z/Zhang:Liping" pid="48/6735">Liping Zhang</na></co>
+<co c="0"><na f="z/Ziegler_0001:Tobias" pid="146/6632">Tobias Ziegler 0001</na></co>
+</coauthors>
+</dblpperson>

@@ -1,0 +1,564 @@
+<dblpperson name="James B. Wendt" pid="79/11278" n="33">
+<person key="homepages/79/11278" mdate="2023-01-19">
+<author pid="79/11278">James B. Wendt</author>
+<author pid="79/11278">James Bradley Wendt</author>
+<note type="affiliation">Google, Mountain View, CA, USA</note>
+<note type="affiliation">University of California, Los Angeles, Department of Computer Science, CA, USA</note>
+<url>https://jameswendt.com/</url>
+<url>https://research.google/people/JamesWendt/</url>
+<url>https://scholar.google.com/citations?user=7CotKHgAAAAJ</url>
+<url>https://dl.acm.org/profile/81502727488</url>
+<url>https://www.linkedin.com/in/jameswendt</url>
+<url>https://orcid.org/0000-0003-4980-5152</url>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2403-19710" mdate="2024-04-10">
+<author pid="206/6726">Beliz Gunel</author>
+<author pid="79/11278">James B. Wendt</author>
+<author pid="56/2373-2">Jing Xie 0002</author>
+<author pid="146/9862-1">Yichao Zhou 0001</author>
+<author pid="167/0323">Nguyen Vo</author>
+<author pid="237/4438">Zachary Fisher</author>
+<author pid="20/1055">Sandeep Tata</author>
+<title>STRUM-LLM: Attributed and Structured Contrastive Summarization.</title>
+<year>2024</year>
+<volume>abs/2403.19710</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.19710</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-19710</url>
+</article>
+</r>
+<r><inproceedings key="conf/emnlp/0001WP0T23" mdate="2024-04-12">
+<author pid="146/9862-1">Yichao Zhou 0001</author>
+<author pid="79/11278">James B. Wendt</author>
+<author pid="162/3654">Navneet Potti</author>
+<author pid="56/2373-2">Jing Xie 0002</author>
+<author pid="20/1055">Sandeep Tata</author>
+<title>Selective Labeling: How to Radically Lower Data-Labeling Costs for Document Extraction Models.</title>
+<pages>3847-3860</pages>
+<year>2023</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.emnlp-main.233</ee>
+<ee type="oa">https://aclanthology.org/2023.emnlp-main.233</ee>
+<crossref>conf/emnlp/2023</crossref>
+<url>db/conf/emnlp/emnlp2023.html#0001WP0T23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2201-02647" mdate="2022-01-20">
+<author pid="206/6726">Beliz Gunel</author>
+<author pid="162/3654">Navneet Potti</author>
+<author pid="20/1055">Sandeep Tata</author>
+<author pid="79/11278">James B. Wendt</author>
+<author pid="n/MarcNajork">Marc Najork</author>
+<author pid="56/2373-2">Jing Xie 0002</author>
+<title>Data-Efficient Information Extraction from Form-Like Documents.</title>
+<year>2022</year>
+<volume>abs/2201.02647</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2201.02647</ee>
+<url>db/journals/corr/corr2201.html#abs-2201-02647</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-16391" mdate="2023-09-29">
+<author pid="146/9862-1">Yichao Zhou 0001</author>
+<author pid="79/11278">James B. Wendt</author>
+<author pid="162/3654">Navneet Potti</author>
+<author pid="56/2373-2">Jing Xie 0002</author>
+<author pid="20/1055">Sandeep Tata</author>
+<title>Radically Lower Data-Labeling Costs for Visually Rich Document Extraction Models.</title>
+<year>2022</year>
+<volume>abs/2210.16391</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.16391</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-16391</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2212-10047" mdate="2023-09-29">
+<author pid="56/2373-2">Jing Xie 0002</author>
+<author pid="79/11278">James B. Wendt</author>
+<author pid="146/9862-1">Yichao Zhou 0001</author>
+<author pid="238/0484">Seth Ebner</author>
+<author pid="20/1055">Sandeep Tata</author>
+<title>An Augmentation Strategy for Visually Rich Documents.</title>
+<year>2022</year>
+<volume>abs/2212.10047</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2212.10047</ee>
+<url>db/journals/corr/corr2212.html#abs-2212-10047</url>
+</article>
+</r>
+<r><article key="journals/pvldb/TataPWCNG21" mdate="2023-09-30">
+<author pid="20/1055">Sandeep Tata</author>
+<author pid="162/3654">Navneet Potti</author>
+<author pid="79/11278">James B. Wendt</author>
+<author pid="83/7602">Lauro Beltr&#227;o Costa</author>
+<author orcid="0000-0003-1423-0854" pid="n/MarcNajork">Marc Najork</author>
+<author pid="206/6726">Beliz Gunel</author>
+<title>Glean: Structured Extractions from Templatic Documents.</title>
+<pages>997-1005</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p997-tata.pdf</ee>
+<ee>https://doi.org/10.14778/3447689.3447703</ee>
+<url>db/journals/pvldb/pvldb14.html#TataPWCNG21</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/MajumderPTWZN20" mdate="2021-08-06">
+<author pid="138/6177">Bodhisattwa Prasad Majumder</author>
+<author pid="162/3654">Navneet Potti</author>
+<author pid="20/1055">Sandeep Tata</author>
+<author pid="79/11278">James Bradley Wendt</author>
+<author pid="05/490">Qi Zhao</author>
+<author orcid="0000-0003-1423-0854" pid="n/MarcNajork">Marc Najork</author>
+<title>Representation Learning for Information Extraction from Form-like Documents.</title>
+<pages>6495-6504</pages>
+<year>2020</year>
+<booktitle>ACL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.acl-main.580</ee>
+<ee type="oa">https://aclanthology.org/2020.acl-main.580/</ee>
+<crossref>conf/acl/2020</crossref>
+<url>db/conf/acl/acl2020.html#MajumderPTWZN20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/ShengVWTN20" mdate="2020-03-12">
+<author pid="175/7589-2">Ying Sheng 0002</author>
+<author pid="167/0323">Nguyen Vo</author>
+<author pid="79/11278">James B. Wendt</author>
+<author pid="20/1055">Sandeep Tata</author>
+<author pid="n/MarcNajork">Marc Najork</author>
+<title>Migrating a Privacy-Safe Information Extraction System to a Software 2.0 Design.</title>
+<year>2020</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2020/papers/p31-sheng-cidr20.pdf</ee>
+<crossref>conf/cidr/2020</crossref>
+<url>db/conf/cidr/cidr2020.html#ShengVWTN20</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/WhittakerETWN19" mdate="2020-12-29">
+<author pid="247/8172">Michael J. Whittaker</author>
+<author pid="61/9116">Nick Edmonds</author>
+<author pid="20/1055">Sandeep Tata</author>
+<author orcid="0000-0003-4980-5152" pid="79/11278">James B. Wendt</author>
+<author orcid="0000-0003-1423-0854" pid="n/MarcNajork">Marc Najork</author>
+<title>Online Template Induction for Machine-Generated Emails.</title>
+<pages>1235-1248</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1235-whittaker.pdf</ee>
+<ee>https://doi.org/10.14778/3342263.3342264</ee>
+<url>db/journals/pvldb/pvldb12.html#WhittakerETWN19</url>
+</article>
+</r>
+<r><inproceedings key="conf/www/KocayusufogluSV19" mdate="2020-12-29">
+<author pid="194/4848">Furkan Kocayusufoglu</author>
+<author pid="175/7589-2">Ying Sheng 0002</author>
+<author pid="167/0323">Nguyen Vo</author>
+<author orcid="0000-0003-4980-5152" pid="79/11278">James B. Wendt</author>
+<author pid="05/490">Qi Zhao</author>
+<author pid="20/1055">Sandeep Tata</author>
+<author orcid="0000-0003-1423-0854" pid="n/MarcNajork">Marc Najork</author>
+<title>RiSER: Learning Better Representations for Richly Structured Emails.</title>
+<pages>886-895</pages>
+<year>2019</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3308558.3313720</ee>
+<crossref>conf/www/2019</crossref>
+<url>db/conf/www/www2019.html#KocayusufogluSV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigdataconf/SunPWNB18" mdate="2023-03-02">
+<author pid="62/3689-21">Yu Sun 0021</author>
+<author pid="330/1316">Lluis Garcia Pueyo</author>
+<author orcid="0000-0003-4980-5152" pid="79/11278">James B. Wendt</author>
+<author orcid="0000-0003-1423-0854" pid="n/MarcNajork">Marc Najork</author>
+<author pid="09/4301">Andrei Z. Broder</author>
+<title>Learning Effective Embeddings for Machine Generated Emails with Applications to Email Category Prediction.</title>
+<pages>1846-1855</pages>
+<year>2018</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData.2018.8622048</ee>
+<crossref>conf/bigdataconf/2018</crossref>
+<url>db/conf/bigdataconf/bigdataconf2018.html#SunPWNB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/ShengTWXZN18" mdate="2020-12-29">
+<author pid="175/7589-2">Ying Sheng 0002</author>
+<author pid="20/1055">Sandeep Tata</author>
+<author orcid="0000-0003-4980-5152" pid="79/11278">James B. Wendt</author>
+<author pid="56/2373-2">Jing Xie 0002</author>
+<author pid="05/490">Qi Zhao</author>
+<author orcid="0000-0003-1423-0854" pid="n/MarcNajork">Marc Najork</author>
+<title>Anatomy of a Privacy-Safe Large-Scale Information Extraction System Over Email.</title>
+<pages>734-743</pages>
+<year>2018</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/3219819.3219901</ee>
+<crossref>conf/kdd/2018</crossref>
+<url>db/conf/kdd/kdd2018.html#ShengTWXZN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/PottiWZTN18" mdate="2020-12-29">
+<author pid="162/3654">Navneet Potti</author>
+<author orcid="0000-0003-4980-5152" pid="79/11278">James B. Wendt</author>
+<author pid="05/490">Qi Zhao</author>
+<author pid="20/1055">Sandeep Tata</author>
+<author orcid="0000-0003-1423-0854" pid="n/MarcNajork">Marc Najork</author>
+<title>Hidden in Plain Sight: Classifying Emails Using Embedded Image Contents.</title>
+<pages>1865-1874</pages>
+<year>2018</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3178876.3186167</ee>
+<crossref>conf/www/2018</crossref>
+<url>db/conf/www/www2018.html#PottiWZTN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/ZhangPWNB17" mdate="2020-12-29">
+<author pid="142/9150">Aston Zhang</author>
+<author pid="330/1316">Lluis Garcia Pueyo</author>
+<author orcid="0000-0003-4980-5152" pid="79/11278">James B. Wendt</author>
+<author orcid="0000-0003-1423-0854" pid="n/MarcNajork">Marc Najork</author>
+<author pid="09/4301">Andrei Z. Broder</author>
+<title>Email Category Prediction.</title>
+<pages>495-503</pages>
+<year>2017</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/3041021.3055166</ee>
+<crossref>conf/www/2017c</crossref>
+<url>db/conf/www/www2017c.html#ZhangPWNB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/ProskurniaCPKWK17" mdate="2023-01-26">
+<author pid="186/0754">Julia Proskurnia</author>
+<author pid="72/6201">Marc-Allen Cartright</author>
+<author pid="330/1316">Lluis Garcia Pueyo</author>
+<author pid="78/7055">Ivo Krka</author>
+<author orcid="0000-0003-4980-5152" pid="79/11278">James B. Wendt</author>
+<author pid="16/3424-4">Tobias Kaufmann 0004</author>
+<author pid="80/6632">Balint Miklos</author>
+<title>Template Induction over Unstructured Email Corpora.</title>
+<pages>1521-1530</pages>
+<year>2017</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3038912.3052631</ee>
+<crossref>conf/www/2017</crossref>
+<url>db/conf/www/www2017.html#ProskurniaCPKWK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/WendtBPJMKSYCR16" mdate="2020-10-25">
+<author orcid="0000-0003-4980-5152" pid="79/11278">James B. Wendt</author>
+<author pid="80/4305">Michael Bendersky</author>
+<author pid="330/1316">Lluis Garcia Pueyo</author>
+<author pid="67/3556">Vanja Josifovski</author>
+<author pid="80/6632">Balint Miklos</author>
+<author pid="78/7055">Ivo Krka</author>
+<author pid="175/4802">Amitabh Saikia</author>
+<author pid="12/1198">Jie Yang</author>
+<author pid="72/6201">Marc-Allen Cartright</author>
+<author pid="39/5111">Sujith Ravi</author>
+<title>Hierarchical Label Propagation and Discovery for Machine Generated Email.</title>
+<pages>317-326</pages>
+<year>2016</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/2835776.2835780</ee>
+<crossref>conf/wsdm/2016</crossref>
+<url>db/conf/wsdm/wsdm2016.html#WendtBPJMKSYCR16</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/basesearch/Wendt15" mdate="2017-05-12">
+<author pid="79/11278">James Bradley Wendt</author>
+<title>Hardware Design Techniques for Securing and Synthesizing Resource-Constrained IoT Systems.</title>
+<year>2015</year>
+<school>University of California, Los Angeles, USA</school>
+<ee>http://www.escholarship.org/uc/item/3w66h943</ee>
+<ee>http://n2t.net/ark:/13030/m5j12b2g</ee>
+<ee>https://www.base-search.net/Record/34bdbdd91a135652d158a4d3083e24476ae28763640cd312960b6384071fd3d1</ee>
+<note type="source">base-search.net (ftcdlib:qt3w66h943)</note>
+</phdthesis>
+</r>
+<r><article key="journals/pieee/RajendranKWPMRW15" mdate="2020-10-02">
+<author pid="79/9006">Jeyavijayan Rajendran</author>
+<author orcid="0000-0001-7989-5617" pid="26/1589">Ramesh Karri</author>
+<author pid="79/11278">James B. Wendt</author>
+<author pid="p/MiodragPotkonjak">Miodrag Potkonjak</author>
+<author pid="73/10067">Nathan R. McDonald</author>
+<author orcid="0000-0003-3070-4087" pid="09/1376">Garrett S. Rose</author>
+<author pid="99/10064">Bryant T. Wysocki</author>
+<title>Nano Meets Security: Exploring Nanoelectronic Devices for Security Applications.</title>
+<pages>829-849</pages>
+<year>2015</year>
+<volume>103</volume>
+<journal>Proc. IEEE</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.1109/JPROC.2014.2387353</ee>
+<ee>https://www.wikidata.org/entity/Q56931572</ee>
+<url>db/journals/pieee/pieee103.html#RajendranKWPMRW15</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/WendtCP15" mdate="2020-02-03">
+<author pid="79/11278">James B. Wendt</author>
+<author pid="137/3134">Nathaniel A. Conos</author>
+<author pid="p/MiodragPotkonjak">Miodrag Potkonjak</author>
+<title>Multiple constant multiplication implementations in near-threshold computing systems.</title>
+<pages>1071-1075</pages>
+<year>2015</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2015.7178134</ee>
+<crossref>conf/icassp/2015</crossref>
+<url>db/conf/icassp/icassp2015.html#WendtCP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccac/GuoWP15" mdate="2023-03-24">
+<author pid="57/4142">Jia Guo</author>
+<author pid="79/11278">James B. Wendt</author>
+<author pid="p/MiodragPotkonjak">Miodrag Potkonjak</author>
+<title>Learning-Based Localized Offloading with Resource-Constrained Data Centers.</title>
+<pages>212-215</pages>
+<year>2015</year>
+<booktitle>ICCAC</booktitle>
+<ee>https://doi.org/10.1109/ICCAC.2015.26</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCAC.2015.26</ee>
+<crossref>conf/iccac/2015</crossref>
+<url>db/conf/iccac/iccac2015.html#GuoWP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ancs/XuWP14" mdate="2021-08-08">
+<author pid="62/5017-1">Teng Xu 0001</author>
+<author pid="79/11278">James B. Wendt</author>
+<author pid="p/MiodragPotkonjak">Miodrag Potkonjak</author>
+<title>Secure remote sensing and communication using digital pufs.</title>
+<pages>173-184</pages>
+<year>2014</year>
+<booktitle>ANCS</booktitle>
+<ee>https://doi.org/10.1145/2658260.2658279</ee>
+<ee>https://ieeexplore.ieee.org/document/7856411/</ee>
+<crossref>conf/ancs/2014</crossref>
+<url>db/conf/ancs/ancs2014.html#XuWP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/WeiWNP14" mdate="2020-02-03">
+<author pid="54/3497-1">Sheng Wei 0001</author>
+<author pid="79/11278">James B. Wendt</author>
+<author pid="n/AniNahapetian">Ani Nahapetian</author>
+<author pid="p/MiodragPotkonjak">Miodrag Potkonjak</author>
+<title>Reverse Engineering and Prevention Techniques for Physical Unclonable Functions Using Side Channels.</title>
+<pages>90:1-90:6</pages>
+<year>2014</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/2593069.2593204</ee>
+<crossref>conf/dac/2014</crossref>
+<url>db/conf/dac/dac2014.html#WeiWNP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/WendtKP14" mdate="2021-06-04">
+<author pid="79/11278">James B. Wendt</author>
+<author orcid="0000-0003-0798-3794" pid="k/FarinazKoushanfar">Farinaz Koushanfar</author>
+<author pid="p/MiodragPotkonjak">Miodrag Potkonjak</author>
+<title>Techniques for Foundry Identification.</title>
+<pages>208:1-208:6</pages>
+<year>2014</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/2593069.2593228</ee>
+<crossref>conf/dac/2014</crossref>
+<url>db/conf/dac/dac2014.html#WendtKP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/RostamiWPK14" mdate="2021-06-04">
+<author pid="08/5781">Masoud Rostami</author>
+<author pid="79/11278">James B. Wendt</author>
+<author pid="p/MiodragPotkonjak">Miodrag Potkonjak</author>
+<author orcid="0000-0003-0798-3794" pid="k/FarinazKoushanfar">Farinaz Koushanfar</author>
+<title>Quo vadis, PUF?: Trends and challenges of emerging physical-disorder based security.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.7873/DATE.2014.365</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2617103</ee>
+<crossref>conf/date/2014</crossref>
+<url>db/conf/date/date2014.html#RostamiWPK14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/WendtP14" mdate="2020-02-03">
+<author pid="79/11278">James B. Wendt</author>
+<author pid="p/MiodragPotkonjak">Miodrag Potkonjak</author>
+<title>Hardware obfuscation using PUF-based logic.</title>
+<pages>270-277</pages>
+<year>2014</year>
+<booktitle>ICCAD</booktitle>
+<ee>https://doi.org/10.1109/ICCAD.2014.7001362</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2691419</ee>
+<crossref>conf/iccad/2014</crossref>
+<url>db/conf/iccad/iccad2014.html#WendtP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/XuWP14" mdate="2020-02-03">
+<author pid="62/5017-1">Teng Xu 0001</author>
+<author pid="79/11278">James B. Wendt</author>
+<author pid="p/MiodragPotkonjak">Miodrag Potkonjak</author>
+<title>Security of IoT systems: design challenges and opportunities.</title>
+<pages>417-423</pages>
+<year>2014</year>
+<booktitle>ICCAD</booktitle>
+<ee>https://doi.org/10.1109/ICCAD.2014.7001385</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2691450</ee>
+<crossref>conf/iccad/2014</crossref>
+<url>db/conf/iccad/iccad2014.html#XuWP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ichi/XuWP14" mdate="2023-03-24">
+<author pid="62/5017-1">Teng Xu 0001</author>
+<author pid="79/11278">James B. Wendt</author>
+<author pid="p/MiodragPotkonjak">Miodrag Potkonjak</author>
+<title>Matched Digital PUFs for Low Power Security in Implantable Medical Devices.</title>
+<pages>33-38</pages>
+<year>2014</year>
+<booktitle>ICHI</booktitle>
+<ee>https://doi.org/10.1109/ICHI.2014.12</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICHI.2014.12</ee>
+<crossref>conf/ichi/2014</crossref>
+<url>db/conf/ichi/ichi2014.html#XuWP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wf-iot/GoudarWPRBP14" mdate="2023-03-23">
+<author pid="127/0414">Vishwa Goudar</author>
+<author pid="79/11278">James B. Wendt</author>
+<author pid="p/MiodragPotkonjak">Miodrag Potkonjak</author>
+<author pid="25/7775">Zhi Ren</author>
+<author pid="134/2832">Paul Brochu</author>
+<author orcid="0000-0003-1669-1734" pid="134/2888">Qibing Pei</author>
+<title>Leveraging human gait characteristics towards self-sustained operation of low-power mobile devices.</title>
+<pages>468-473</pages>
+<year>2014</year>
+<crossref>conf/wf-iot/2014</crossref>
+<booktitle>WF-IoT</booktitle>
+<ee>https://doi.org/10.1109/WF-IoT.2014.6803212</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WF-IoT.2014.6803212</ee>
+<url>db/conf/wf-iot/wf-iot2014.html#GoudarWPRBP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globalsip/WendtP13" mdate="2020-02-03">
+<author pid="79/11278">James B. Wendt</author>
+<author pid="p/MiodragPotkonjak">Miodrag Potkonjak</author>
+<title>The bidirectional polyomino partitioned PPUF as a hardware security primitive.</title>
+<pages>257-260</pages>
+<year>2013</year>
+<booktitle>GlobalSIP</booktitle>
+<ee>https://doi.org/10.1109/GlobalSIP.2013.6736864</ee>
+<crossref>conf/globalsip/2013</crossref>
+<url>db/conf/globalsip/globalsip2013.html#WendtP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/islped/XuWP13" mdate="2020-02-03">
+<author pid="62/5017-1">Teng Xu 0001</author>
+<author pid="79/11278">James B. Wendt</author>
+<author pid="p/MiodragPotkonjak">Miodrag Potkonjak</author>
+<title>Digital bimodal function: An ultra-low energy security primitive.</title>
+<pages>292-296</pages>
+<year>2013</year>
+<booktitle>ISLPED</booktitle>
+<ee>https://doi.org/10.1109/ISLPED.2013.6629311</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2648740</ee>
+<crossref>conf/islped/2013</crossref>
+<url>db/conf/islped/islped2013.html#XuWP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dcc/WendtMNP12" mdate="2023-03-24">
+<author pid="79/11278">James B. Wendt</author>
+<author pid="13/8314">Saro Meguerdichian</author>
+<author pid="30/1193">Hyduke Noshadi</author>
+<author pid="p/MiodragPotkonjak">Miodrag Potkonjak</author>
+<title>Energy and Cost Reduction in Localized Multisensory Systems through Application-Driven Compression.</title>
+<pages>411</pages>
+<year>2012</year>
+<booktitle>DCC</booktitle>
+<ee>https://doi.org/10.1109/DCC.2012.67</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DCC.2012.67</ee>
+<crossref>conf/dcc/2012</crossref>
+<url>db/conf/dcc/dcc2012.html#WendtMNP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/islped/WendtMNP12" mdate="2020-02-03">
+<author pid="79/11278">James B. Wendt</author>
+<author pid="13/8314">Saro Meguerdichian</author>
+<author pid="30/1193">Hyduke Noshadi</author>
+<author pid="p/MiodragPotkonjak">Miodrag Potkonjak</author>
+<title>Semantics-driven sensor configuration for energy reduction in medical sensor networks.</title>
+<pages>303-308</pages>
+<year>2012</year>
+<booktitle>ISLPED</booktitle>
+<ee>https://doi.org/10.1145/2333660.2333728</ee>
+<crossref>conf/islped/2012</crossref>
+<url>db/conf/islped/islped2012.html#WendtMNP12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/RajendranKWPMRW12" mdate="2023-11-12">
+<author pid="79/9006">Jeyavijayan Rajendran</author>
+<author orcid="0000-0001-7989-5617" pid="26/1589">Ramesh Karri</author>
+<author pid="79/11278">James B. Wendt</author>
+<author pid="p/MiodragPotkonjak">Miodrag Potkonjak</author>
+<author pid="73/10067">Nathan R. McDonald</author>
+<author pid="09/1376">Garrett S. Rose</author>
+<author pid="99/10064">Bryant T. Wysocki</author>
+<title>Nanoelectronic Solutions for Hardware Security.</title>
+<pages>575</pages>
+<year>2012</year>
+<volume>2012</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2012/575</ee>
+<url>db/journals/iacr/iacr2012.html#RajendranKWPMRW12</url>
+</article>
+</r>
+<coauthors n="49" nc="2">
+<co c="0"><na f="b/Bendersky:Michael" pid="80/4305">Michael Bendersky</na></co>
+<co c="1"><na f="b/Brochu:Paul" pid="134/2832">Paul Brochu</na></co>
+<co c="0"><na f="b/Broder:Andrei_Z=" pid="09/4301">Andrei Z. Broder</na></co>
+<co c="0"><na f="c/Cartright:Marc=Allen" pid="72/6201">Marc-Allen Cartright</na></co>
+<co c="1"><na f="c/Conos:Nathaniel_A=" pid="137/3134">Nathaniel A. Conos</na></co>
+<co c="0"><na f="c/Costa:Lauro_Beltr=atilde=o" pid="83/7602">Lauro Beltr&#227;o Costa</na></co>
+<co c="0"><na f="e/Ebner:Seth" pid="238/0484">Seth Ebner</na></co>
+<co c="0" n="2"><na f="e/Edmonds:Nicholas_Gerard" pid="61/9116">Nicholas Gerard Edmonds</na><na>Nick Edmonds</na></co>
+<co c="0"><na f="f/Fisher:Zachary" pid="237/4438">Zachary Fisher</na></co>
+<co c="1"><na f="g/Goudar:Vishwa" pid="127/0414">Vishwa Goudar</na></co>
+<co c="0"><na f="g/Gunel:Beliz" pid="206/6726">Beliz Gunel</na></co>
+<co c="1"><na f="g/Guo:Jia" pid="57/4142">Jia Guo</na></co>
+<co c="0"><na f="j/Josifovski:Vanja" pid="67/3556">Vanja Josifovski</na></co>
+<co c="1"><na f="k/Karri:Ramesh" pid="26/1589">Ramesh Karri</na></co>
+<co c="0"><na f="k/Kaufmann_0004:Tobias" pid="16/3424-4">Tobias Kaufmann 0004</na></co>
+<co c="0"><na f="k/Kocayusufoglu:Furkan" pid="194/4848">Furkan Kocayusufoglu</na></co>
+<co c="1"><na f="k/Koushanfar:Farinaz" pid="k/FarinazKoushanfar">Farinaz Koushanfar</na></co>
+<co c="0"><na f="k/Krka:Ivo" pid="78/7055">Ivo Krka</na></co>
+<co c="0"><na f="m/Majumder:Bodhisattwa_Prasad" pid="138/6177">Bodhisattwa Prasad Majumder</na></co>
+<co c="1"><na f="m/McDonald:Nathan_R=" pid="73/10067">Nathan R. McDonald</na></co>
+<co c="1"><na f="m/Meguerdichian:Saro" pid="13/8314">Saro Meguerdichian</na></co>
+<co c="0"><na f="m/Miklos:Balint" pid="80/6632">Balint Miklos</na></co>
+<co c="1"><na f="n/Nahapetian:Ani" pid="n/AniNahapetian">Ani Nahapetian</na></co>
+<co c="0"><na f="n/Najork:Marc" pid="n/MarcNajork">Marc Najork</na></co>
+<co c="1"><na f="n/Noshadi:Hyduke" pid="30/1193">Hyduke Noshadi</na></co>
+<co c="1"><na f="p/Pei:Qibing" pid="134/2888">Qibing Pei</na></co>
+<co c="1"><na f="p/Potkonjak:Miodrag" pid="p/MiodragPotkonjak">Miodrag Potkonjak</na></co>
+<co c="0"><na f="p/Potti:Navneet" pid="162/3654">Navneet Potti</na></co>
+<co c="0"><na f="p/Proskurnia:Julia" pid="186/0754">Julia Proskurnia</na></co>
+<co c="0" n="2"><na f="p/Pueyo:Llu=iacute=s_Garcia" pid="330/1316">Llu&#237;s Garcia Pueyo</na><na>Lluis Garcia Pueyo</na></co>
+<co c="1"><na f="r/Rajendran:Jeyavijayan" pid="79/9006">Jeyavijayan Rajendran</na></co>
+<co c="0"><na f="r/Ravi:Sujith" pid="39/5111">Sujith Ravi</na></co>
+<co c="1"><na f="r/Ren:Zhi" pid="25/7775">Zhi Ren</na></co>
+<co c="1"><na f="r/Rose:Garrett_S=" pid="09/1376">Garrett S. Rose</na></co>
+<co c="1"><na f="r/Rostami:Masoud" pid="08/5781">Masoud Rostami</na></co>
+<co c="0"><na f="s/Saikia:Amitabh" pid="175/4802">Amitabh Saikia</na></co>
+<co c="0"><na f="s/Sheng_0002:Ying" pid="175/7589-2">Ying Sheng 0002</na></co>
+<co c="0"><na f="s/Sun_0021:Yu" pid="62/3689-21">Yu Sun 0021</na></co>
+<co c="0"><na f="t/Tata:Sandeep" pid="20/1055">Sandeep Tata</na></co>
+<co c="0"><na f="v/Vo:Nguyen" pid="167/0323">Nguyen Vo</na></co>
+<co c="1"><na f="w/Wei_0001:Sheng" pid="54/3497-1">Sheng Wei 0001</na></co>
+<co c="0"><na f="w/Whittaker:Michael_J=" pid="247/8172">Michael J. Whittaker</na></co>
+<co c="1"><na f="w/Wysocki:Bryant_T=" pid="99/10064">Bryant T. Wysocki</na></co>
+<co c="0"><na f="x/Xie_0002:Jing" pid="56/2373-2">Jing Xie 0002</na></co>
+<co c="1"><na f="x/Xu_0001:Teng" pid="62/5017-1">Teng Xu 0001</na></co>
+<co c="0"><na f="y/Yang:Jie" pid="12/1198">Jie Yang</na></co>
+<co c="0"><na f="z/Zhang:Aston" pid="142/9150">Aston Zhang</na></co>
+<co c="0"><na f="z/Zhao:Qi" pid="05/490">Qi Zhao</na></co>
+<co c="0"><na f="z/Zhou_0001:Yichao" pid="146/9862-1">Yichao Zhou 0001</na></co>
+</coauthors>
+</dblpperson>

@@ -1,0 +1,511 @@
+<dblpperson name="Anja Gruenheid" pid="81/10578" n="26">
+<person key="homepages/81/10578" mdate="2020-06-16">
+<author pid="81/10578">Anja Gruenheid</author>
+<url>https://sites.google.com/view/anjagruenheid/home</url>
+<url>https://scholar.google.com/citations?user=7Vh0rQ0AAAAJ</url>
+<url>https://www.linkedin.com/in/anja-gruenheid-6a3aa339</url>
+<note type="affiliation">Google, Madison, WI, USA</note>
+</person>
+<r><inproceedings key="conf/cidr/DurnerEGG24" mdate="2024-04-05">
+<author pid="241/5228">Dominik Durner</author>
+<author pid="266/5908">Lennart Espe</author>
+<author pid="32/7263">Jana Giceva</author>
+<author pid="81/10578">Anja Gruenheid</author>
+<title>TracEx: Understanding and Analyzing Database Traces.</title>
+<year>2024</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2024/papers/p8-durner.pdf</ee>
+<crossref>conf/cidr/2024</crossref>
+<url>db/conf/cidr/cidr2024.html#DurnerEGG24</url>
+</inproceedings>
+</r>
+<r><article key="journals/pacmmod/ZhangDFGPZ23" mdate="2023-07-07">
+<author orcid="0009-0003-2228-3945" pid="76/5973">Ling Zhang</author>
+<author orcid="0000-0003-2342-4060" pid="139/9356">Shaleen Deep</author>
+<author orcid="0009-0007-5760-8657" pid="08/7992">Avrilia Floratou</author>
+<author orcid="0009-0009-2547-8610" pid="81/10578">Anja Gruenheid</author>
+<author orcid="0000-0003-3653-2538" pid="p/JMPatel">Jignesh M. Patel</author>
+<author orcid="0009-0005-6857-7505" pid="68/6811">Yiwen Zhu</author>
+<title>Exploiting Structure in Regular Expression Queries.</title>
+<pages>152:1-152:28</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3589297</ee>
+<url>db/journals/pacmmod/pacmmod1.html#ZhangDFGPZ23</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/NegiBAKLGI23" mdate="2023-07-27">
+<author pid="221/2301">Parimarjan Negi</author>
+<author pid="116/5046">Laurent Bindschaedler</author>
+<author pid="37/8397">Mohammad Alizadeh</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="150/7163">Jyoti Leeka</author>
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<title>Unshackling Database Benchmarking from Synthetic Workloads.</title>
+<pages>3659-3662</pages>
+<year>2023</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE55515.2023.00292</ee>
+<crossref>conf/icde/2023</crossref>
+<url>db/conf/icde/icde2023.html#NegiBAKLGI23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZhuTCKAACCCDFGH23" mdate="2023-06-15">
+<author orcid="0009-0005-6857-7505" pid="68/6811">Yiwen Zhu</author>
+<author orcid="0000-0002-6835-8434" pid="27/3375">Yuanyuan Tian</author>
+<author orcid="0000-0001-7217-4702" pid="243/9227">Joyce Cahoon</author>
+<author orcid="0009-0007-8534-0889" pid="159/6290">Subru Krishnan</author>
+<author orcid="0009-0001-3842-6547" pid="201/5636">Ankita Agarwal</author>
+<author orcid="0009-0005-0457-8429" pid="243/2494">Rana Alotaibi</author>
+<author orcid="0009-0008-9151-6024" pid="26/8398">Jes&#250;s Camacho-Rodr&#237;guez</author>
+<author orcid="0009-0006-2807-2577" pid="348/7815">Bibin Chundatt</author>
+<author orcid="0009-0005-6201-1674" pid="59/11411">Andrew Chung</author>
+<author orcid="0009-0006-7524-2970" pid="348/7886">Niharika Dutta</author>
+<author orcid="0009-0000-3248-655X" pid="273/7169">Andrew Fogarty</author>
+<author orcid="0009-0009-2547-8610" pid="81/10578">Anja Gruenheid</author>
+<author orcid="0000-0002-1501-9586" pid="180/5761">Brandon Haynes</author>
+<author orcid="0000-0002-5756-8321" pid="49/10034">Matteo Interlandi</author>
+<author orcid="0009-0004-4552-6900" pid="295/3511">Minu Iyer</author>
+<author orcid="0009-0006-2312-9204" pid="295/3659">Nick Jurgens</author>
+<author orcid="0009-0007-1561-9382" pid="348/7770">Sumeet Khushalani</author>
+<author orcid="0000-0002-5108-6743" pid="248/7832">Brian Kroth</author>
+<author orcid="0009-0008-0132-0555" pid="58/1076">Manoj Kumar</author>
+<author orcid="0000-0003-2920-1431" pid="150/7163">Jyoti Leeka</author>
+<author orcid="0009-0002-4774-0965" pid="120/1311">Sergiy Matusevych</author>
+<author orcid="0009-0006-8357-9303" pid="246/9804">Minni Mittal</author>
+<author pid="38/4335-24">Andreas M&#252;ller 0024</author>
+<author orcid="0009-0006-9186-477X" pid="158/4409">Kartheek Muthyala</author>
+<author orcid="0009-0006-7769-6351" pid="348/7879">Harsha Nagulapalli</author>
+<author orcid="0009-0003-4566-6965" pid="130/0322">Yoonjae Park</author>
+<author orcid="0009-0006-6041-9622" pid="23/5134">Hiren Patel</author>
+<author orcid="0009-0006-7442-4254" pid="287/9591">Anna Pavlenko</author>
+<author orcid="0000-0002-8578-307X" pid="71/7422">Olga Poppe</author>
+<author orcid="0009-0000-5814-3379" pid="348/7894">Santhosh Ravindran</author>
+<author orcid="0009-0005-0741-5190" pid="55/8723">Karla Saur</author>
+<author orcid="0000-0003-4736-2837" pid="08/2832">Rathijit Sen</author>
+<author orcid="0009-0000-2340-2203" pid="222/9616">Steve Suh</author>
+<author orcid="0009-0005-0549-8383" pid="86/2773">Arijit Tarafdar</author>
+<author orcid="0000-0002-3889-6637" pid="266/5841">Kunal Waghray</author>
+<author orcid="0009-0009-0282-0460" pid="80/968">Demin Wang</author>
+<author orcid="0000-0003-3712-7358" pid="c/CarloCurino">Carlo Curino</author>
+<author orcid="0009-0007-5086-7664" pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<title>Towards Building Autonomous Data Services on Azure.</title>
+<pages>217-224</pages>
+<year>2023</year>
+<booktitle>SIGMOD Conference Companion</booktitle>
+<ee>https://doi.org/10.1145/3555041.3589674</ee>
+<crossref>conf/sigmod/2023c</crossref>
+<url>db/conf/sigmod/sigmod2023c.html#ZhuTCKAACCCDFGH23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-01120" mdate="2023-05-05">
+<author pid="26/8398">Jes&#250;s Camacho-Rodr&#237;guez</author>
+<author pid="200/2342">Ashvin Agrawal</author>
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="20/3812">Ashit Gosalia</author>
+<author pid="346/0081">Cristian Petculescu</author>
+<author pid="95/4983">Josep Aguilar-Saborit</author>
+<author pid="08/7992">Avrilia Floratou</author>
+<author pid="c/CarloCurino">Carlo Curino</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<title>LST-Bench: Benchmarking Log-Structured Tables in the Cloud.</title>
+<year>2023</year>
+<volume>abs/2305.01120</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.01120</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-01120</url>
+</article>
+</r>
+<r><article key="journals/cacm/DeepGNNNV22" mdate="2022-12-06">
+<author pid="139/9356">Shaleen Deep</author>
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="273/7123">Kruthi Nagaraj</author>
+<author pid="273/7028">Hiro Naito</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<author pid="v/SViglas">Stratis Viglas</author>
+<title>DIAMETRICS: benchmarking query engines at scale.</title>
+<pages>105-112</pages>
+<year>2022</year>
+<volume>65</volume>
+<journal>Commun. ACM</journal>
+<number>12</number>
+<ee>https://doi.org/10.1145/3567464</ee>
+<url>db/journals/cacm/cacm65.html#DeepGNNNV22</url>
+</article>
+</r>
+<r><article key="journals/dbsk/DeepGKVN22" mdate="2023-02-15">
+<author pid="139/9356">Shaleen Deep</author>
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="49/8316">Paraschos Koutris</author>
+<author pid="v/SViglas">Stratis Viglas</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<title>Comprehensive and Efficient Workload Summarization.</title>
+<pages>249-256</pages>
+<year>2022</year>
+<month>November</month>
+<volume>22</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s13222-022-00427-w</ee>
+<url>db/journals/dbsk/dbsk22.html#DeepGKVN22</url>
+</article>
+</r>
+<r><article key="journals/sigmod/DeepGNNNV21" mdate="2021-07-13">
+<author pid="139/9356">Shaleen Deep</author>
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="273/7123">Kruthi Nagaraj</author>
+<author pid="273/7028">Hiro Naito</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<author pid="v/SViglas">Stratis Viglas</author>
+<title>DIAMetrics: Benchmarking Query Engines at Scale.</title>
+<pages>24-31</pages>
+<year>2021</year>
+<volume>50</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3471485.3471492</ee>
+<url>db/journals/sigmod/sigmod50.html#DeepGNNNV21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GruenheidDNNNV20" mdate="2021-03-23">
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="139/9356">Shaleen Deep</author>
+<author pid="273/7123">Kruthi Nagaraj</author>
+<author pid="273/7028">Hiro Naito</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<author pid="v/SViglas">Stratis Viglas</author>
+<title>DIAMetrics: Benchmarking Query Engines at Scale.</title>
+<pages>3285-3298</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p3285-gruenheid.pdf</ee>
+<ee>https://doi.org/10.14778/3415478.3415551</ee>
+<url>db/journals/pvldb/pvldb13.html#GruenheidDNNNV20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DeepGKNV20" mdate="2021-03-23">
+<author pid="139/9356">Shaleen Deep</author>
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="49/8316">Paraschos Koutris</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<author pid="v/SViglas">Stratis Viglas</author>
+<title>Comprehensive and Efficient Workload Compression.</title>
+<pages>418-430</pages>
+<year>2020</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p418-deep.pdf</ee>
+<ee>https://doi.org/10.5555/3430915.3442439</ee>
+<url>db/journals/pvldb/pvldb14.html#DeepGKNV20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-05549" mdate="2020-11-12">
+<author pid="139/9356">Shaleen Deep</author>
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="49/8316">Paraschos Koutris</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<author pid="v/SViglas">Stratis Viglas</author>
+<title>Comprehensive and Efficient Workload Compression.</title>
+<year>2020</year>
+<volume>abs/2011.05549</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.05549</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-05549</url>
+</article>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/bdt/Gruenheid19" mdate="2019-02-14">
+<author pid="81/10578">Anja Gruenheid</author>
+<title>Record Linkage.</title>
+<year>2019</year>
+<booktitle>Encyclopedia of Big Data Technologies</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-63962-8_19-1</ee>
+<crossref>reference/bdt/2019</crossref>
+<url>db/reference/bdt/1.html#Gruenheid19</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/cikm/ShangSSLGKLY018" mdate="2018-11-21">
+<author pid="151/3145">Jingbo Shang</author>
+<author pid="178/3627">Jiaming Shen</author>
+<author pid="215/5537">Tianhang Sun</author>
+<author pid="215/5085">Xingbang Liu</author>
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="k/FlipKorn">Flip Korn</author>
+<author pid="147/5184">&#193;d&#225;m D. Lelkes</author>
+<author pid="58/3771">Cong Yu 0001</author>
+<author pid="h/JiaweiHan">Jiawei Han 0001</author>
+<title>Investigating Rumor News Using Agreement-Aware Search.</title>
+<pages>2117-2125</pages>
+<year>2018</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3269206.3272020</ee>
+<crossref>conf/cikm/2018</crossref>
+<url>db/conf/cikm/cikm2018.html#ShangSSLGKLY018</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-07398" mdate="2018-10-23">
+<author pid="151/3145">Jingbo Shang</author>
+<author pid="215/5537">Tianhang Sun</author>
+<author pid="178/3627">Jiaming Shen</author>
+<author pid="215/5085">Xingbang Liu</author>
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="k/FlipKorn">Flip Korn</author>
+<author pid="147/5184">&#193;d&#225;m D. Lelkes</author>
+<author pid="58/3771">Cong Yu 0001</author>
+<author pid="h/JiaweiHan">Jiawei Han 0001</author>
+<title>Investigating Rumor News Using Agreement-Aware Search.</title>
+<year>2018</year>
+<volume>abs/1802.07398</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.07398</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-07398</url>
+</article>
+</r>
+<r><phdthesis key="phd/basesearch/Gruenheid16" mdate="2022-12-19">
+<author pid="81/10578">Anja Gruenheid</author>
+<title>Data Integration with Dynamic Data Sources.</title>
+<year>2016</year>
+<school>ETH Zurich, Z&#252;rich, Switzerland</school>
+<ee>https://hdl.handle.net/20.500.11850/156235</ee>
+<ee>https://doi.org/10.3929/ethz-a-010861625</ee>
+<ee>https://www.base-search.net/Record/76e5ca2194567486857863084500b913c81c544f185e85f1693c239042ff63d8</ee>
+<note type="source">base-search.net (ftethz:oai:www.research-collection.ethz.ch:20.500.11850/156235)</note>
+</phdthesis>
+</r>
+<r><article publtype="informal" key="journals/corr/GruenheidKS16" mdate="2018-08-13">
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Online Event Integration with StoryPivot.</title>
+<year>2016</year>
+<volume>abs/1610.07732</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.07732</ee>
+<url>db/journals/corr/corr1610.html#GruenheidKS16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LoroGKPB15" mdate="2020-04-25">
+<author pid="166/8387">Alessandra Loro</author>
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="166/8361">Damien Profeta</author>
+<author pid="166/8380">Philippe Beaudequin</author>
+<title>Indexing and Selecting Hierarchical Business Logic.</title>
+<pages>1656-1667</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1656-loro.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824064</ee>
+<url>db/journals/pvldb/pvldb8.html#LoroGKPB15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/Gruenheid15" mdate="2020-03-12">
+<author pid="81/10578">Anja Gruenheid</author>
+<title>Modelling the Evolving World.</title>
+<year>2015</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2015/Papers/8_Abstract30GA.pdf</ee>
+<crossref>conf/cidr/2015</crossref>
+<url>db/conf/cidr/cidr2015.html#Gruenheid15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hcomp/NushiSGZKK15" mdate="2023-09-05">
+<author pid="117/4927">Besmira Nushi</author>
+<author orcid="0000-0001-9922-0668" pid="58/657">Adish Singla</author>
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="141/9169">Erfan Zamanian</author>
+<author pid="87/1831-1">Andreas Krause 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Crowd Access Path Optimization: Diversity Matters.</title>
+<pages>130-139</pages>
+<year>2015</year>
+<booktitle>HCOMP</booktitle>
+<ee type="oa">https://doi.org/10.1609/hcomp.v3i1.13228</ee>
+<crossref>conf/hcomp/2015</crossref>
+<url>db/conf/hcomp/hcomp2015.html#NushiSGZKK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GruenheidKRS15" mdate="2020-10-25">
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author orcid="0000-0001-6148-1854" pid="51/11411">Theodoros Rekatsinas</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>StoryPivot: Comparing and Contrasting Story Evolution.</title>
+<pages>1415-1420</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2735356</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#GruenheidKRS15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/NushiSGZKK15" mdate="2018-08-13">
+<author pid="117/4927">Besmira Nushi</author>
+<author pid="58/657">Adish Singla</author>
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="141/9169">Erfan Zamanian</author>
+<author pid="87/1831-1">Andreas Krause 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Crowd Access Path Optimization: Diversity Matters.</title>
+<year>2015</year>
+<volume>abs/1508.01951</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1508.01951</ee>
+<url>db/journals/corr/corr1508.html#NushiSGZKK15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/GruenheidNKGK15" mdate="2018-08-13">
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="117/4927">Besmira Nushi</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Fault-Tolerant Entity Resolution with the Crowd.</title>
+<year>2015</year>
+<volume>abs/1512.00537</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1512.00537</ee>
+<url>db/journals/corr/corr1512.html#GruenheidNKGK15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GruenheidDS14" mdate="2020-04-25">
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="d/XinLunaDong">Xin Luna Dong</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Incremental Record Linkage.</title>
+<pages>697-708</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p697-gruenheid.pdf</ee>
+<ee>https://doi.org/10.14778/2732939.2732943</ee>
+<url>db/journals/pvldb/pvldb7.html#GruenheidDS14</url>
+</article>
+</r>
+<r><article key="journals/eatcs/GruenheidKNG13" mdate="2021-02-12">
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="117/4927">Besmira Nushi</author>
+<title>When is A=B?</title>
+<year>2013</year>
+<volume>111</volume>
+<journal>Bull. EATCS</journal>
+<ee type="oa">http://eatcs.org/beatcs/index.php/beatcs/article/view/206</ee>
+<url>db/journals/eatcs/eatcs111.html#GruenheidKNG13</url>
+</article>
+</r>
+<r><inproceedings key="conf/dbcrowd/GruenheidK13" mdate="2023-03-10">
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Cost and Quality Trade-Offs in Crowdsourcing.</title>
+<pages>43-46</pages>
+<year>2013</year>
+<booktitle>DBCrowd</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1025/vision2.pdf</ee>
+<crossref>conf/dbcrowd/2013</crossref>
+<url>db/conf/dbcrowd/dbcrowd2013.html#GruenheidK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ideas/GruenheidOM11" mdate="2018-11-06">
+<author pid="81/10578">Anja Gruenheid</author>
+<author pid="o/EdwardOmiecinski">Edward Omiecinski</author>
+<author pid="03/5097">Leo Mark</author>
+<title>Query optimization using column statistics in hive.</title>
+<pages>97-105</pages>
+<year>2011</year>
+<booktitle>IDEAS</booktitle>
+<ee>https://doi.org/10.1145/2076623.2076636</ee>
+<crossref>conf/ideas/2011</crossref>
+<url>db/conf/ideas/ideas2011.html#GruenheidOM11</url>
+</inproceedings>
+</r>
+<coauthors n="79" nc="2">
+<co c="0"><na f="a/Agarwal:Ankita" pid="201/5636">Ankita Agarwal</na></co>
+<co c="0"><na f="a/Agrawal:Ashvin" pid="200/2342">Ashvin Agrawal</na></co>
+<co c="0"><na f="a/Aguilar=Saborit:Josep" pid="95/4983">Josep Aguilar-Saborit</na></co>
+<co c="0"><na f="a/Alizadeh:Mohammad" pid="37/8397">Mohammad Alizadeh</na></co>
+<co c="0"><na f="a/Alotaibi:Rana" pid="243/2494">Rana Alotaibi</na></co>
+<co c="0"><na f="b/Beaudequin:Philippe" pid="166/8380">Philippe Beaudequin</na></co>
+<co c="0"><na f="b/Bindschaedler:Laurent" pid="116/5046">Laurent Bindschaedler</na></co>
+<co c="0"><na f="c/Cahoon:Joyce" pid="243/9227">Joyce Cahoon</na></co>
+<co c="0"><na f="c/Camacho=Rodr=iacute=guez:Jes=uacute=s" pid="26/8398">Jes&#250;s Camacho-Rodr&#237;guez</na></co>
+<co c="0"><na f="c/Chundatt:Bibin" pid="348/7815">Bibin Chundatt</na></co>
+<co c="0"><na f="c/Chung:Andrew" pid="59/11411">Andrew Chung</na></co>
+<co c="0"><na f="c/Curino:Carlo" pid="c/CarloCurino">Carlo Curino</na></co>
+<co c="0"><na f="d/Deep:Shaleen" pid="139/9356">Shaleen Deep</na></co>
+<co c="0" n="2"><na f="d/Dong_0001:Xin" pid="d/XinLunaDong">Xin Dong 0001</na><na>Xin Luna Dong</na></co>
+<co c="0"><na f="d/Durner:Dominik" pid="241/5228">Dominik Durner</na></co>
+<co c="0"><na f="d/Dutta:Niharika" pid="348/7886">Niharika Dutta</na></co>
+<co c="0"><na f="e/Espe:Lennart" pid="266/5908">Lennart Espe</na></co>
+<co c="0"><na f="f/Floratou:Avrilia" pid="08/7992">Avrilia Floratou</na></co>
+<co c="0"><na f="f/Fogarty:Andrew" pid="273/7169">Andrew Fogarty</na></co>
+<co c="0"><na f="g/Gatterbauer:Wolfgang" pid="36/5673">Wolfgang Gatterbauer</na></co>
+<co c="0"><na f="g/Giceva:Jana" pid="32/7263">Jana Giceva</na></co>
+<co c="0"><na f="g/Gosalia:Ashit" pid="20/3812">Ashit Gosalia</na></co>
+<co c="0"><na f="h/Han_0001:Jiawei" pid="h/JiaweiHan">Jiawei Han 0001</na></co>
+<co c="0"><na f="h/Haynes:Brandon" pid="180/5761">Brandon Haynes</na></co>
+<co c="0"><na f="i/Interlandi:Matteo" pid="49/10034">Matteo Interlandi</na></co>
+<co c="0"><na f="i/Iyer:Minu" pid="295/3511">Minu Iyer</na></co>
+<co c="0"><na f="j/Jurgens:Nick" pid="295/3659">Nick Jurgens</na></co>
+<co c="0"><na f="k/Khushalani:Sumeet" pid="348/7770">Sumeet Khushalani</na></co>
+<co c="0"><na f="k/Korn:Flip" pid="k/FlipKorn">Flip Korn</na></co>
+<co c="0"><na f="k/Kossmann:Donald" pid="k/DonaldKossmann">Donald Kossmann</na></co>
+<co c="0"><na f="k/Koutris:Paraschos" pid="49/8316">Paraschos Koutris</na></co>
+<co c="0"><na f="k/Kraska:Tim" pid="26/6037">Tim Kraska</na></co>
+<co c="0"><na f="k/Krause_0001:Andreas" pid="87/1831-1">Andreas Krause 0001</na></co>
+<co c="0"><na f="k/Krishnan:Subru" pid="159/6290">Subru Krishnan</na></co>
+<co c="0"><na f="k/Kroth:Brian" pid="248/7832">Brian Kroth</na></co>
+<co c="0"><na f="k/Kumar:Manoj" pid="58/1076">Manoj Kumar</na></co>
+<co c="0"><na f="l/Leeka:Jyoti" pid="150/7163">Jyoti Leeka</na></co>
+<co c="0" n="2"><na f="l/Lelkes:=Aacute=d=aacute=m_D=aacute=niel" pid="147/5184">&#193;d&#225;m D&#225;niel Lelkes</na><na>&#193;d&#225;m D. Lelkes</na></co>
+<co c="0"><na f="l/Liu:Xingbang" pid="215/5085">Xingbang Liu</na></co>
+<co c="0"><na f="l/Loro:Alessandra" pid="166/8387">Alessandra Loro</na></co>
+<co c="1"><na f="m/Mark:Leo" pid="03/5097">Leo Mark</na></co>
+<co c="0"><na f="m/Matusevych:Sergiy" pid="120/1311">Sergiy Matusevych</na></co>
+<co c="0"><na f="m/Mittal:Minni" pid="246/9804">Minni Mittal</na></co>
+<co c="0"><na f="m/M=uuml=ller_0024:Andreas" pid="38/4335-24">Andreas M&#252;ller 0024</na></co>
+<co c="0"><na f="m/Muthyala:Kartheek" pid="158/4409">Kartheek Muthyala</na></co>
+<co c="0"><na f="n/Nagaraj:Kruthi" pid="273/7123">Kruthi Nagaraj</na></co>
+<co c="0"><na f="n/Nagulapalli:Harsha" pid="348/7879">Harsha Nagulapalli</na></co>
+<co c="0"><na f="n/Naito:Hiro" pid="273/7028">Hiro Naito</na></co>
+<co c="0"><na f="n/Naughton:Jeffrey_F=" pid="n/JeffreyFNaughton">Jeffrey F. Naughton</na></co>
+<co c="0"><na f="n/Negi:Parimarjan" pid="221/2301">Parimarjan Negi</na></co>
+<co c="0"><na f="n/Nushi:Besmira" pid="117/4927">Besmira Nushi</na></co>
+<co c="1"><na f="o/Omiecinski:Edward" pid="o/EdwardOmiecinski">Edward Omiecinski</na></co>
+<co c="0"><na f="p/Park:Yoonjae" pid="130/0322">Yoonjae Park</na></co>
+<co c="0"><na f="p/Patel:Hiren" pid="23/5134">Hiren Patel</na></co>
+<co c="0"><na f="p/Patel:Jignesh_M=" pid="p/JMPatel">Jignesh M. Patel</na></co>
+<co c="0"><na f="p/Pavlenko:Anna" pid="287/9591">Anna Pavlenko</na></co>
+<co c="0"><na f="p/Petculescu:Cristian" pid="346/0081">Cristian Petculescu</na></co>
+<co c="0"><na f="p/Poppe:Olga" pid="71/7422">Olga Poppe</na></co>
+<co c="0"><na f="p/Profeta:Damien" pid="166/8361">Damien Profeta</na></co>
+<co c="0"><na f="r/Ramakrishnan:Raghu" pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</na></co>
+<co c="0"><na f="r/Ravindran:Santhosh" pid="348/7894">Santhosh Ravindran</na></co>
+<co c="0"><na f="r/Rekatsinas:Theodoros" pid="51/11411">Theodoros Rekatsinas</na></co>
+<co c="0"><na f="s/Saur:Karla" pid="55/8723">Karla Saur</na></co>
+<co c="0"><na f="s/Sen:Rathijit" pid="08/2832">Rathijit Sen</na></co>
+<co c="0"><na f="s/Shang:Jingbo" pid="151/3145">Jingbo Shang</na></co>
+<co c="0"><na f="s/Shen:Jiaming" pid="178/3627">Jiaming Shen</na></co>
+<co c="0"><na f="s/Singla:Adish" pid="58/657">Adish Singla</na></co>
+<co c="0"><na f="s/Srivastava:Divesh" pid="s/DiveshSrivastava">Divesh Srivastava</na></co>
+<co c="0"><na f="s/Suh:Steve" pid="222/9616">Steve Suh</na></co>
+<co c="0"><na f="s/Sun:Tianhang" pid="215/5537">Tianhang Sun</na></co>
+<co c="0"><na f="t/Tarafdar:Arijit" pid="86/2773">Arijit Tarafdar</na></co>
+<co c="0"><na f="t/Tian:Yuanyuan" pid="27/3375">Yuanyuan Tian</na></co>
+<co c="0"><na f="v/Viglas:Stratis" pid="v/SViglas">Stratis Viglas</na></co>
+<co c="0"><na f="w/Waghray:Kunal" pid="266/5841">Kunal Waghray</na></co>
+<co c="0"><na f="w/Wang:Demin" pid="80/968">Demin Wang</na></co>
+<co c="0"><na f="y/Yu_0001:Cong" pid="58/3771">Cong Yu 0001</na></co>
+<co c="0"><na f="z/Zamanian:Erfan" pid="141/9169">Erfan Zamanian</na></co>
+<co c="0"><na f="z/Zhang:Ling" pid="76/5973">Ling Zhang</na></co>
+<co c="0"><na f="z/Zhu:Yiwen" pid="68/6811">Yiwen Zhu</na></co>
+</coauthors>
+</dblpperson>

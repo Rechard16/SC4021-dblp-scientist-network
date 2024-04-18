@@ -1,0 +1,636 @@
+<dblpperson name="Holger Pirk" pid="08/3969" n="35">
+<person key="homepages/08/3969" mdate="2020-11-19">
+<author pid="08/3969">Holger Pirk</author>
+<url>https://www.doc.ic.ac.uk/~hlgr/</url>
+<url>https://scholar.google.com/citations?user=1jP_gqcAAAAJ</url>
+<note type="affiliation">Imperial College London, UK</note>
+</person>
+<r><article key="journals/pvldb/MohrDauratSP23" mdate="2024-03-26">
+<author pid="205/5775">Hubert Mohr-Daurat</author>
+<author pid="117/5602">Xuan Sun</author>
+<author pid="08/3969">Holger Pirk</author>
+<title>BOSS - An Architecture for Database Kernel Composition.</title>
+<pages>877-890</pages>
+<year>2023</year>
+<month>December</month>
+<volume>17</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol17/p877-mohr-daurat.pdf</ee>
+<url>db/journals/pvldb/pvldb17.html#MohrDauratSP23</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/KhazaieP23" mdate="2023-04-17">
+<author pid="304/3601">Ahmad Khazaie</author>
+<author pid="08/3969">Holger Pirk</author>
+<title>SonicJoin: Fast, Robust and Worst-case Optimal.</title>
+<pages>540-551</pages>
+<year>2023</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.48786/edbt.2023.46</ee>
+<crossref>conf/edbt/2023</crossref>
+<url>db/conf/edbt/edbt2023.html#KhazaieP23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/Xu23" mdate="2023-08-28">
+<author pid="205/5775">Hubert Mohr-Daurat</author>
+<author pid="08/3969">Holger Pirk</author>
+<title>Wisent: An In-Memory Serialization Format for Leafy Trees.</title>
+<year>2023</year>
+<booktitle>VLDB Workshops</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3462/CDMS9.pdf</ee>
+<crossref>conf/vldb/2023w</crossref>
+<url>db/conf/vldb/w2023.html#Xu23</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/Pirk22" mdate="2023-02-22">
+<author pid="08/3969">Holger Pirk</author>
+<title>Collaborative Data Science using Scalable Homoiconicity.</title>
+<pages>54-55</pages>
+<year>2022</year>
+<month>December</month>
+<volume>51</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3582302.3582316</ee>
+<url>db/journals/sigmod/sigmod51.html#Pirk22</url>
+</article>
+</r>
+<r><proceedings key="conf/bncod/2021" mdate="2024-02-07">
+<editor pid="08/3969">Holger Pirk</editor>
+<editor pid="h/ThomasHeinis">Thomas Heinis</editor>
+<title>Proceedings of the The British International Conference on Databases 2021, London, United Kingdom, March 28, 2022.</title>
+<booktitle>BICOD</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>3163</volume>
+<year>2022</year>
+<ee type="oa">https://ceur-ws.org/Vol-3163</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-3163-0</ee>
+<url>db/conf/bncod/bicod2021.html</url>
+</proceedings>
+</r>
+<r><article key="journals/pvldb/TheodorakisKPP21" mdate="2022-04-21">
+<author pid="227/0831">Georgios Theodorakis</author>
+<author pid="206/8057">Fotios Kounelis</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="08/3969">Holger Pirk</author>
+<title>Scabbard: Single-Node Fault-Tolerant Stream Processing.</title>
+<pages>361-374</pages>
+<year>2021</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol15/p361-theodorakis.pdf</ee>
+<ee>https://doi.org/10.14778/3489496.3489515</ee>
+<url>db/journals/pvldb/pvldb15.html#TheodorakisKPP21</url>
+</article>
+</r>
+<r><inproceedings key="conf/bncod/Mohr-DauratP21" mdate="2024-02-07">
+<author pid="205/5775">Hubert Mohr-Daurat</author>
+<author pid="08/3969">Holger Pirk</author>
+<title>Homoiconicity For End-to-end Machine Learning with BOSS.</title>
+<pages>46-49</pages>
+<year>2021</year>
+<booktitle>BICOD</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3163/BICOD21_paper_7.pdf</ee>
+<crossref>conf/bncod/2021</crossref>
+<url>db/conf/bncod/bicod2021.html#Mohr-DauratP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adms/KowalskiKP20" mdate="2021-09-27">
+<author pid="211/5881">Thomas Kowalski</author>
+<author pid="206/8057">Fotios Kounelis</author>
+<author pid="08/3969">Holger Pirk</author>
+<title>High-Performance Tree Indices: Locality matters more than one would think.</title>
+<pages>1-7</pages>
+<year>2020</year>
+<booktitle>ADMS@VLDB</booktitle>
+<ee>http://www.adms-conf.org/2020-camera-ready/ADMS20_03.pdf</ee>
+<crossref>conf/adms/2020</crossref>
+<url>db/conf/adms/adms2020.html#KowalskiKP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/TheodorakisPP20" mdate="2021-01-29">
+<author pid="227/0831">Georgios Theodorakis</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="08/3969">Holger Pirk</author>
+<title>SlideSide: A fast Incremental Stream Processing Algorithm for Multiple Queries.</title>
+<pages>435-438</pages>
+<year>2020</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2020.51</ee>
+<crossref>conf/edbt/2020</crossref>
+<url>db/conf/edbt/edbt2020.html#TheodorakisPP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/TheodorakisKPP20" mdate="2020-06-05">
+<author pid="227/0831">Georgios Theodorakis</author>
+<author pid="85/4903">Alexandros Koliousis</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="08/3969">Holger Pirk</author>
+<title>LightSaber: Efficient Window Aggregation on Multi-core Processors.</title>
+<pages>2505-2521</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389753</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#TheodorakisKPP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/PirkGP19" mdate="2020-03-12">
+<author pid="08/3969">Holger Pirk</author>
+<author pid="32/7263">Jana Giceva</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<title>Thriving in the No Man's Land between Compilers and Databases.</title>
+<year>2019</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2019/papers/p91-pirk-cidr19.pdf</ee>
+<crossref>conf/cidr/2019</crossref>
+<url>db/conf/cidr/cidr2019.html#PirkGP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/PapaphilippouPL19" mdate="2021-10-14">
+<author orcid="0000-0002-7452-7150" pid="222/1926">Philippos Papaphilippou</author>
+<author pid="08/3969">Holger Pirk</author>
+<author pid="l/WayneLuk">Wayne Luk</author>
+<title>Accelerating the Merge Phase of Sort-Merge Join.</title>
+<pages>100-105</pages>
+<year>2019</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2019.00025</ee>
+<crossref>conf/fpl/2019</crossref>
+<url>db/conf/fpl/fpl2019.html#PapaphilippouPL19</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/PalkarTNTPNSSPA18" mdate="2024-02-05">
+<author pid="168/9023">Shoumik Palkar</author>
+<author pid="34/8156-3">James Thomas 0003</author>
+<author pid="177/8846">Deepak Narayanan</author>
+<author pid="123/5171">Pratiksha Thaker</author>
+<author pid="173/9263">Rahul Palamuttam</author>
+<author pid="221/2301">Parimarjan Negi</author>
+<author pid="149/5876">Anil Shanbhag</author>
+<author pid="49/7988">Malte Schwarzkopf</author>
+<author pid="08/3969">Holger Pirk</author>
+<author pid="a/SPAmarasinghe">Saman P. Amarasinghe</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author orcid="0000-0002-7547-7204" pid="36/2133">Matei Zaharia</author>
+<title>Evaluating End-to-End Optimization for Data Analytics Applications in Weld.</title>
+<pages>1002-1015</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1002-palkar.pdf</ee>
+<ee>https://doi.org/10.14778/3213880.3213890</ee>
+<url>db/journals/pvldb/pvldb11.html#PalkarTNTPNSSPA18</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/ShanbhagPM18" mdate="2023-08-08">
+<author pid="149/5876">Anil Shanbhag</author>
+<author pid="08/3969">Holger Pirk</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>Efficient Top-K Query Processing on Massively Parallel Hardware.</title>
+<pages>1557-1570</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3183735</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#ShanbhagPM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/TheodorakisKPP18" mdate="2020-03-12">
+<author pid="227/0831">Georgios Theodorakis</author>
+<author pid="85/4903">Alexandros Koliousis</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="08/3969">Holger Pirk</author>
+<title>Hammer Slide: Work- and CPU-efficient Streaming Window Aggregation.</title>
+<pages>34-41</pages>
+<year>2018</year>
+<booktitle>ADMS@VLDB</booktitle>
+<ee type="oa">http://www.adms-conf.org/2018-camera-ready/SIMDWindowPaper_ADMS%2718.pdf</ee>
+<crossref>conf/vldb/2018adms</crossref>
+<url>db/conf/vldb/adms2018.html#TheodorakisKPP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/PalkarTSSAZ17" mdate="2023-05-17">
+<author pid="168/9023">Shoumik Palkar</author>
+<author pid="34/8156-3">James Thomas 0003</author>
+<author pid="149/5876">Anil Shanbhag</author>
+<author pid="177/8846">Deepak Narayanan</author>
+<author pid="08/3969">Holger Pirk</author>
+<author pid="49/7988">Malte Schwarzkopf</author>
+<author pid="a/SPAmarasinghe">Saman P. Amarasinghe</author>
+<author pid="36/2133">Matei Zaharia</author>
+<title>A Common Runtime for High Performance Data Analysis.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/papers/p127-palkar-cidr17.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#PalkarTSSAZ17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-06416" mdate="2023-08-08">
+<author pid="168/9023">Shoumik Palkar</author>
+<author pid="34/8156-3">James Thomas 0003</author>
+<author pid="177/8846">Deepak Narayanan</author>
+<author pid="149/5876">Anil Shanbhag</author>
+<author pid="173/9263">Rahul Palamuttam</author>
+<author pid="08/3969">Holger Pirk</author>
+<author pid="49/7988">Malte Schwarzkopf</author>
+<author pid="a/SPAmarasinghe">Saman P. Amarasinghe</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="36/2133">Matei Zaharia</author>
+<title>Weld: Rethinking the Interface Between Data-Intensive Applications.</title>
+<year>2017</year>
+<volume>abs/1709.06416</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.06416</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-06416</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ZeuchPF16" mdate="2020-04-25">
+<author pid="142/9136">Steffen Zeuch</author>
+<author pid="08/3969">Holger Pirk</author>
+<author pid="f/JCFreytag">Johann-Christoph Freytag</author>
+<title>Non-Invasive Progressive Optimization for In-Memory Databases.</title>
+<pages>1659-1670</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>14</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p1659-zeuch.pdf</ee>
+<ee>https://doi.org/10.14778/3007328.3007332</ee>
+<url>db/journals/pvldb/pvldb9.html#ZeuchPF16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/PirkMZM16" mdate="2024-02-05">
+<author pid="08/3969">Holger Pirk</author>
+<author orcid="0000-0002-5888-4318" pid="124/3136">Oscar R. Moll</author>
+<author orcid="0000-0002-7547-7204" pid="36/2133">Matei Zaharia</author>
+<author pid="m/SamuelMadden">Sam Madden</author>
+<title>Voodoo - A Vector Algebra for Portable Database Performance on Modern Hardware.</title>
+<pages>1707-1718</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>14</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p1707-pirk.pdf</ee>
+<ee>https://doi.org/10.14778/3007328.3007336</ee>
+<url>db/journals/pvldb/pvldb9.html#PirkMZM16</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/PirkMM16" mdate="2020-11-02">
+<author pid="08/3969">Holger Pirk</author>
+<author orcid="0000-0002-5888-4318" pid="124/3136">Oscar R. Moll</author>
+<author pid="m/SamuelMadden">Sam Madden</author>
+<title>What Makes a Good Physical plan?: Experiencing Hardware-Conscious Query Optimization with Candombl&#233;.</title>
+<pages>2149-2152</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2899410</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#PirkMM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ShanbhagPM16" mdate="2017-05-25">
+<author pid="149/5876">Anil Shanbhag</author>
+<author pid="08/3969">Holger Pirk</author>
+<author pid="m/SamuelMadden">Sam Madden</author>
+<title>Locality-Adaptive Parallel Hash Joins Using Hardware Transactional Memory.</title>
+<pages>118-133</pages>
+<year>2016</year>
+<booktitle>ADMS/IMDM@VLDB</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-56111-0_7</ee>
+<crossref>conf/vldb/2016adms</crossref>
+<url>db/conf/vldb/adms2016.html#ShanbhagPM16</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/Pirk15" mdate="2020-03-06">
+<author pid="08/3969">Holger Pirk</author>
+<title>...like Commanding an Anthill: A Case for Micro-Distributed (Data) Management Systems.</title>
+<pages>53-58</pages>
+<year>2015</year>
+<volume>44</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2814710.2814720</ee>
+<url>db/journals/sigmod/sigmod44.html#Pirk15</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/PirkMS15" mdate="2018-11-06">
+<author pid="08/3969">Holger Pirk</author>
+<author pid="m/SamuelMadden">Sam Madden</author>
+<author pid="s/MichaelStonebraker">Mike Stonebraker</author>
+<title>By their fruits shall ye know them: A Data Analyst's Perspective on Massively Parallel System Design.</title>
+<pages>5:1-5:6</pages>
+<year>2015</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2771937.2771944</ee>
+<crossref>conf/damon/2015</crossref>
+<url>db/conf/damon/damon2015.html#PirkMS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KarginKMP15" mdate="2023-03-24">
+<author pid="70/8510">Yagiz Kargin</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="08/3969">Holger Pirk</author>
+<title>The DBMS - your big data sommelier.</title>
+<pages>1119-1130</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113361</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113361</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#KarginKMP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/PirkPIMK14" mdate="2018-11-06">
+<author pid="08/3969">Holger Pirk</author>
+<author pid="75/10051">Eleni Petraki</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>Database cracking: fancy scan, not poor man's sort!</title>
+<pages>4:1-4:8</pages>
+<year>2014</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2619228.2619232</ee>
+<crossref>conf/damon/2014</crossref>
+<url>db/conf/damon/damon2014.html#PirkPIMK14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/PirkMK14" mdate="2023-03-24">
+<author pid="08/3969">Holger Pirk</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>Waste not... Efficient co-processing of relational data.</title>
+<pages>508-519</pages>
+<year>2014</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2014.6816677</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2014.6816677</ee>
+<crossref>conf/icde/2014</crossref>
+<url>db/conf/icde/icde2014.html#PirkMK14</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/HeimelSPMM13" mdate="2020-04-25">
+<author pid="77/3753">Max Heimel</author>
+<author pid="125/3311">Michael Saecker</author>
+<author pid="08/3969">Holger Pirk</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<title>Hardware-Oblivious Parallelism for In-Memory Column-Stores.</title>
+<pages>709-720</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p709-heimel.pdf</ee>
+<ee>https://doi.org/10.14778/2536360.2536370</ee>
+<url>db/journals/pvldb/pvldb6.html#HeimelSPMM13</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/PirkFG0LMKK13" mdate="2023-03-23">
+<author pid="08/3969">Holger Pirk</author>
+<author pid="69/9320">Florian Funke 0001</author>
+<author pid="90/5189">Martin Grund</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="l/UlfLeser">Ulf Leser</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>CPU and cache efficient management of memory-resident databases.</title>
+<pages>14-25</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544810</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544810</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#PirkFG0LMKK13</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/KoubarakisKKNVGSBMKPHMKIPZDSDEMGSPRKG12" mdate="2022-10-02">
+<author pid="40/4517">Manolis Koubarakis</author>
+<author pid="88/8176">Kostis Kyzirakos</author>
+<author pid="41/9728">Manos Karpathiotakis</author>
+<author pid="08/11271">Charalampos Nikolaou</author>
+<author pid="07/2215">Stavros Vassos</author>
+<author pid="117/5990">George Garbis</author>
+<author pid="117/5970">Michael Sioutis</author>
+<author orcid="0000-0001-8728-6264" pid="117/5974">Konstantina Bereta</author>
+<author pid="m/DimitriosMichail1">Dimitrios Michail 0001</author>
+<author pid="42/10463">Charalambos Kontoes</author>
+<author pid="76/9902">Ioannis Papoutsis</author>
+<author orcid="0000-0002-7434-4071" pid="117/6035">Themos Herekakis</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<author pid="i/MilenaIvanova">Milena Ivanova</author>
+<author pid="08/3969">Holger Pirk</author>
+<author pid="13/6769-27">Ying Zhang 0027</author>
+<author pid="40/215">Mihai Datcu</author>
+<author pid="58/8947">Gottfried Schwarz</author>
+<author pid="75/7026">Corneliu Octavian Dumitru</author>
+<author pid="03/8949">Daniela Espinoza-Molina</author>
+<author pid="18/9620">Katrin Molch</author>
+<author pid="117/5956">Ugo Di Giammatteo</author>
+<author pid="02/6813">Manuela Sagona</author>
+<author pid="117/6017">Sergio Perelli</author>
+<author pid="57/7126">Thorsten Reitz</author>
+<author orcid="0000-0002-5413-8633" pid="k/EvaKlien">Eva Klien</author>
+<author pid="117/6050">Robert Gregor</author>
+<title>TELEIOS: A Database-Powered Virtual Earth Observatory.</title>
+<pages>2010-2013</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p2010_manoliskoubarakis_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2367502.2367560</ee>
+<url>db/journals/pvldb/pvldb5.html#KoubarakisKKNVGSBMKPHMKIPZDSDEMGSPRKG12</url>
+</article>
+</r>
+<r><inproceedings key="conf/birte/KarginPIMK12" mdate="2017-05-17">
+<author pid="70/8510">Yagiz Kargin</author>
+<author pid="08/3969">Holger Pirk</author>
+<author pid="i/MilenaIvanova">Milena Ivanova</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>Instant-On Scientific Data Warehouses - Lazy ETL for Data-Intensive Research.</title>
+<pages>60-75</pages>
+<year>2012</year>
+<booktitle>BIRTE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-39872-8_5</ee>
+<crossref>conf/birte/2012</crossref>
+<url>db/conf/birte/birte2012.html#KarginPIMK12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/PirkSMK12" mdate="2018-11-06">
+<author pid="08/3969">Holger Pirk</author>
+<author pid="14/11515">Thibault Sellam</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>X-device query processing by bitwise distribution.</title>
+<pages>48-54</pages>
+<year>2012</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2236584.2236591</ee>
+<crossref>conf/damon/2012</crossref>
+<url>db/conf/damon/damon2012.html#PirkSMK12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rr/KoubarakisKKNVGSBMKIPZKPHMDSDEMGSPKRG12" mdate="2022-10-02">
+<author pid="40/4517">Manolis Koubarakis</author>
+<author pid="41/9728">Manos Karpathiotakis</author>
+<author pid="88/8176">Kostis Kyzirakos</author>
+<author pid="08/11271">Charalampos Nikolaou</author>
+<author pid="07/2215">Stavros Vassos</author>
+<author pid="117/5990">George Garbis</author>
+<author orcid="0000-0001-7562-2443" pid="117/5970">Michael Sioutis</author>
+<author pid="117/5974">Konstantina Bereta</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<author pid="i/MilenaIvanova">Milena Ivanova</author>
+<author pid="08/3969">Holger Pirk</author>
+<author pid="13/6769-27">Ying Zhang 0027</author>
+<author pid="42/10463">Charalambos Kontoes</author>
+<author pid="76/9902">Ioannis Papoutsis</author>
+<author pid="117/6035">Themistoklis Herekakis</author>
+<author pid="m/DimitriosMichail1">Dimitrios Michail 0001</author>
+<author pid="40/215">Mihai Datcu</author>
+<author pid="58/8947">Gottfried Schwarz</author>
+<author pid="75/7026">Corneliu Octavian Dumitru</author>
+<author pid="03/8949">Daniela Espinoza-Molina</author>
+<author pid="18/9620">Katrin Molch</author>
+<author pid="117/5956">Ugo Di Giammatteo</author>
+<author pid="02/6813">Manuela Sagona</author>
+<author pid="117/6017">Sergio Perelli</author>
+<author orcid="0000-0002-5413-8633" pid="k/EvaKlien">Eva Klien</author>
+<author pid="57/7126">Thorsten Reitz</author>
+<author pid="117/6050">Robert Gregor</author>
+<title>Building Virtual Earth Observatories Using Ontologies and Linked Geospatial Data.</title>
+<pages>229-233</pages>
+<year>2012</year>
+<booktitle>RR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33203-6_21</ee>
+<crossref>conf/rr/2012</crossref>
+<url>db/conf/rr/rr2012.html#KoubarakisKKNVGSBMKIPZKPHMDSDEMGSPKRG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpctc/BoscheSPBMM12" mdate="2017-05-23">
+<author pid="125/3486">Konrad B&#246;sche</author>
+<author pid="14/11515">Thibault Sellam</author>
+<author pid="08/3969">Holger Pirk</author>
+<author pid="22/5581">Ren&#233; Beier</author>
+<author pid="41/5388">Peter Mieth</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<title>Scalable Generation of Synthetic GPS Traces with Real-Life Data Characteristics.</title>
+<pages>140-155</pages>
+<year>2012</year>
+<crossref>conf/tpctc/2012</crossref>
+<booktitle>TPCTC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-36727-4_10</ee>
+<url>db/conf/tpctc/tpctc2012.html#BoscheSPBMM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/PirkMK11" mdate="2020-03-12">
+<author pid="08/3969">Holger Pirk</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>Accelerating Foreign-Key Joins using Asymmetric Memory Channels.</title>
+<pages>27-35</pages>
+<year>2011</year>
+<booktitle>ADMS@VLDB</booktitle>
+<crossref>conf/vldb/2011adms</crossref>
+<ee type="oa">http://www.adms-conf.org/p27-PIRK.pdf</ee>
+<url>db/conf/vldb/adms2011.html#PirkMK11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gi/FriskeP05" mdate="2023-07-04">
+<author pid="98/3262">Mario Friske</author>
+<author pid="08/3969">Holger Pirk</author>
+<title>Werkzeuggest&#252;tzte interaktive Formalisierung textueller Anwendungsfallbeschreibungen f&#252;r den Systemtest.</title>
+<pages>516-520</pages>
+<year>2005</year>
+<crossref>conf/gi/2005-2</crossref>
+<booktitle>GI Jahrestagung (2)</booktitle>
+<url>db/conf/gi/gi2005-2.html#FriskeP05</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/28097</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings68/article3993.html</ee>
+</inproceedings>
+</r>
+<coauthors n="70" nc="2">
+<co c="0"><na f="a/Amarasinghe:Saman_P=" pid="a/SPAmarasinghe">Saman P. Amarasinghe</na></co>
+<co c="0"><na f="b/Beier:Ren=eacute=" pid="22/5581">Ren&#233; Beier</na></co>
+<co c="0"><na f="b/Bereta:Konstantina" pid="117/5974">Konstantina Bereta</na></co>
+<co c="0"><na f="b/B=ouml=sche:Konrad" pid="125/3486">Konrad B&#246;sche</na></co>
+<co c="0"><na f="d/Datcu:Mihai" pid="40/215">Mihai Datcu</na></co>
+<co c="0"><na f="d/Dumitru:Corneliu_Octavian" pid="75/7026">Corneliu Octavian Dumitru</na></co>
+<co c="0"><na f="e/Espinoza=Molina:Daniela" pid="03/8949">Daniela Espinoza-Molina</na></co>
+<co c="0"><na f="f/Freytag:Johann=Christoph" pid="f/JCFreytag">Johann-Christoph Freytag</na></co>
+<co c="-1"><na f="f/Friske:Mario" pid="98/3262">Mario Friske</na></co>
+<co c="0"><na f="f/Funke_0001:Florian" pid="69/9320">Florian Funke 0001</na></co>
+<co c="0"><na f="g/Garbis:George" pid="117/5990">George Garbis</na></co>
+<co c="0"><na f="g/Giammatteo:Ugo_Di" pid="117/5956">Ugo Di Giammatteo</na></co>
+<co c="0"><na f="g/Giceva:Jana" pid="32/7263">Jana Giceva</na></co>
+<co c="0"><na f="g/Gregor:Robert" pid="117/6050">Robert Gregor</na></co>
+<co c="0"><na f="g/Grund:Martin" pid="90/5189">Martin Grund</na></co>
+<co c="0"><na f="h/Heimel:Max" pid="77/3753">Max Heimel</na></co>
+<co c="0"><na f="h/Heinis:Thomas" pid="h/ThomasHeinis">Thomas Heinis</na></co>
+<co c="0" n="2"><na f="h/Herekakis:Themos" pid="117/6035">Themos Herekakis</na><na>Themistoklis Herekakis</na></co>
+<co c="0"><na f="i/Idreos:Stratos" pid="i/StratosIdreos">Stratos Idreos</na></co>
+<co c="0"><na f="i/Ivanova:Milena" pid="i/MilenaIvanova">Milena Ivanova</na></co>
+<co c="0"><na f="k/Kargin:Yagiz" pid="70/8510">Yagiz Kargin</na></co>
+<co c="0"><na f="k/Karpathiotakis:Manos" pid="41/9728">Manos Karpathiotakis</na></co>
+<co c="0"><na f="k/Kemper:Alfons" pid="k/AlfonsKemper">Alfons Kemper</na></co>
+<co c="0"><na f="k/Kersten:Martin_L=" pid="k/MartinLKersten">Martin L. Kersten</na></co>
+<co c="-1"><na f="k/Khazaie:Ahmad" pid="304/3601">Ahmad Khazaie</na></co>
+<co c="0"><na f="k/Klien:Eva" pid="k/EvaKlien">Eva Klien</na></co>
+<co c="0"><na f="k/Koliousis:Alexandros" pid="85/4903">Alexandros Koliousis</na></co>
+<co c="0"><na f="k/Kontoes:Charalambos" pid="42/10463">Charalambos Kontoes</na></co>
+<co c="0"><na f="k/Koubarakis:Manolis" pid="40/4517">Manolis Koubarakis</na></co>
+<co c="0"><na f="k/Kounelis:Fotios" pid="206/8057">Fotios Kounelis</na></co>
+<co c="0"><na f="k/Kowalski:Thomas" pid="211/5881">Thomas Kowalski</na></co>
+<co c="0"><na f="k/Kyzirakos:Kostis" pid="88/8176">Kostis Kyzirakos</na></co>
+<co c="0"><na f="l/Leser:Ulf" pid="l/UlfLeser">Ulf Leser</na></co>
+<co c="0"><na f="l/Luk:Wayne" pid="l/WayneLuk">Wayne Luk</na></co>
+<co c="0" n="2"><na f="m/Madden_0001:Samuel" pid="m/SamuelMadden">Samuel Madden 0001</na><na>Sam Madden</na></co>
+<co c="0"><na f="m/Manegold:Stefan" pid="m/StefanManegold">Stefan Manegold</na></co>
+<co c="0"><na f="m/Markl:Volker" pid="m/VMarkl">Volker Markl</na></co>
+<co c="0"><na f="m/Michail_0001:Dimitrios" pid="m/DimitriosMichail1">Dimitrios Michail 0001</na></co>
+<co c="0"><na f="m/Mieth:Peter" pid="41/5388">Peter Mieth</na></co>
+<co c="1"><na f="m/Mohr=Daurat:Hubert" pid="205/5775">Hubert Mohr-Daurat</na></co>
+<co c="0"><na f="m/Molch:Katrin" pid="18/9620">Katrin Molch</na></co>
+<co c="0"><na f="n/Narayanan:Deepak" pid="177/8846">Deepak Narayanan</na></co>
+<co c="0"><na f="n/Negi:Parimarjan" pid="221/2301">Parimarjan Negi</na></co>
+<co c="0"><na f="n/Neumann_0001:Thomas" pid="n/ThomasNeumann">Thomas Neumann 0001</na></co>
+<co c="0"><na f="n/Nikolaou:Charalampos" pid="08/11271">Charalampos Nikolaou</na></co>
+<co c="0"><na f="p/Palamuttam:Rahul" pid="173/9263">Rahul Palamuttam</na></co>
+<co c="0"><na f="p/Palkar:Shoumik" pid="168/9023">Shoumik Palkar</na></co>
+<co c="0"><na f="p/Papaphilippou:Philippos" pid="222/1926">Philippos Papaphilippou</na></co>
+<co c="0"><na f="p/Papoutsis:Ioannis" pid="76/9902">Ioannis Papoutsis</na></co>
+<co c="0"><na f="p/Perelli:Sergio" pid="117/6017">Sergio Perelli</na></co>
+<co c="0"><na f="p/Petraki:Eleni" pid="75/10051">Eleni Petraki</na></co>
+<co c="0"><na f="p/Pietzuch:Peter_R=" pid="45/4887">Peter R. Pietzuch</na></co>
+<co c="0"><na f="r/Reitz:Thorsten" pid="57/7126">Thorsten Reitz</na></co>
+<co c="0"><na f="s/Saecker:Michael" pid="125/3311">Michael Saecker</na></co>
+<co c="0"><na f="s/Sagona:Manuela" pid="02/6813">Manuela Sagona</na></co>
+<co c="0"><na f="s/Schwarz:Gottfried" pid="58/8947">Gottfried Schwarz</na></co>
+<co c="0"><na f="s/Schwarzkopf:Malte" pid="49/7988">Malte Schwarzkopf</na></co>
+<co c="0"><na f="s/Sellam:Thibault" pid="14/11515">Thibault Sellam</na></co>
+<co c="0"><na f="s/Shanbhag:Anil" pid="149/5876">Anil Shanbhag</na></co>
+<co c="0"><na f="s/Sioutis:Michael" pid="117/5970">Michael Sioutis</na></co>
+<co c="0" n="2"><na f="s/Stonebraker:Michael" pid="s/MichaelStonebraker">Michael Stonebraker</na><na>Mike Stonebraker</na></co>
+<co c="1"><na f="s/Sun:Xuan" pid="117/5602">Xuan Sun</na></co>
+<co c="0"><na f="t/Thaker:Pratiksha" pid="123/5171">Pratiksha Thaker</na></co>
+<co c="0"><na f="t/Theodorakis:Georgios" pid="227/0831">Georgios Theodorakis</na></co>
+<co c="0" n="2"><na f="t/Thomae:Oscar_R=_Moll" pid="124/3136">Oscar R. Moll Thomae</na><na>Oscar R. Moll</na></co>
+<co c="0"><na f="t/Thomas_0003:James" pid="34/8156-3">James Thomas 0003</na></co>
+<co c="0"><na f="v/Vassos:Stavros" pid="07/2215">Stavros Vassos</na></co>
+<co c="0"><na f="z/Zaharia:Matei" pid="36/2133">Matei Zaharia</na></co>
+<co c="0"><na f="z/Zeuch:Steffen" pid="142/9136">Steffen Zeuch</na></co>
+<co c="0"><na f="z/Zhang_0027:Ying" pid="13/6769-27">Ying Zhang 0027</na></co>
+</coauthors>
+</dblpperson>

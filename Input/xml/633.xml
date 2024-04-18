@@ -1,0 +1,935 @@
+<dblpperson name="Oliver Kennedy" pid="75/5478" n="58">
+<person key="homepages/75/5478" mdate="2021-06-21">
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="75/5478">Oliver A. Kennedy</author>
+<url>https://odin.cse.buffalo.edu/people/oliver_kennedy.html</url>
+<url type="archive">http://hugin.nfshost.com/</url>
+<url>https://scholar.google.com/citations?user=9Q9tiCsAAAAJ</url>
+<url>https://orcid.org/0000-0003-0632-1668</url>
+<note type="affiliation">University at Buffalo, Department of Computer Science and Engineering,</note>
+<note type="affiliation">EPFL, DATA lab, Lausanne, Switzerland</note>
+</person>
+<r><article key="journals/pvldb/FengGK23" mdate="2023-11-12">
+<author orcid="0009-0009-8104-3128" pid="40/6521">Su Feng</author>
+<author orcid="0000-0003-2887-2452" pid="09/3012">Boris Glavic</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<title>Efficient Approximation of Certain and Possible Answers for Ranking and Window Queries over Uncertain Data.</title>
+<pages>1346-1358</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p1346-feng.pdf</ee>
+<ee>https://doi.org/10.14778/3583140.3583151</ee>
+<url>db/journals/pvldb/pvldb16.html#FengGK23</url>
+</article>
+</r>
+<r><inproceedings key="conf/hilda/KennedyGB23" mdate="2023-08-07">
+<author orcid="0000-0003-0632-1668" pid="75/5478">Oliver Kennedy</author>
+<author orcid="0000-0003-2887-2452" pid="09/3012">Boris Glavic</author>
+<author orcid="0009-0004-7925-3314" pid="243/2415">Michael Brachmann</author>
+<title>Overlay Spreadsheets.</title>
+<pages>4:1-4:7</pages>
+<year>2023</year>
+<booktitle>HILDA@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3597465.3605220</ee>
+<crossref>conf/hilda/2023</crossref>
+<url>db/conf/hilda/hilda2023.html#KennedyGB23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-08676" mdate="2023-02-23">
+<author pid="40/6521">Su Feng</author>
+<author pid="09/3012">Boris Glavic</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<title>Efficient Approximation of Certain and Possible Answers for Ranking and Window Queries over Uncertain Data (Extended version).</title>
+<year>2023</year>
+<volume>abs/2302.08676</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.08676</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-08676</url>
+</article>
+</r>
+<r><article key="journals/debu/KennedyGFB22" mdate="2023-11-12">
+<author pid="75/5478">Oliver Kennedy</author>
+<author orcid="0000-0003-2887-2452" pid="09/3012">Boris Glavic</author>
+<author pid="f/JulianaFreire">Juliana Freire</author>
+<author pid="243/2415">Mike Brachmann</author>
+<title>The Right Tool for the Job: Data-Centric Workflows in Vizier.</title>
+<pages>129-144</pages>
+<year>2022</year>
+<volume>45</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<ee type="oa">http://sites.computer.org/debull/A22sept/p129.pdf</ee>
+<url>db/journals/debu/debu45.html#KennedyGFB22</url>
+</article>
+</r>
+<r><inproceedings key="conf/tapp/DeoGK22" mdate="2023-11-12">
+<author pid="173/6507">Nachiket Deo</author>
+<author orcid="0000-0003-2887-2452" pid="09/3012">Boris Glavic</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<title>Runtime provenance refinement for notebooks.</title>
+<pages>8:1-8:4</pages>
+<year>2022</year>
+<booktitle>TaPP</booktitle>
+<ee>https://doi.org/10.1145/3530800.3534535</ee>
+<crossref>conf/tapp/2022</crossref>
+<url>db/conf/tapp/tapp2022.html#DeoGK22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2204-02758" mdate="2022-04-12">
+<author pid="40/6521">Su Feng</author>
+<author pid="09/3012">Boris Glavic</author>
+<author pid="239/4336">Aaron Huber</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="04/4980">Atri Rudra</author>
+<title>Computing expected multiplicities for bag-TIDBs with bounded multiplicities.</title>
+<year>2022</year>
+<volume>abs/2204.02758</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2204.02758</ee>
+<url>db/journals/corr/corr2204.html#abs-2204-02758</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/KumariBFKG21" mdate="2022-07-18">
+<author pid="182/2263">Poonam Kumari</author>
+<author pid="243/2415">Mike Brachmann</author>
+<author pid="40/6521">Su Feng</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="09/3012">Boris Glavic</author>
+<title>DataSense: Display-Agnostic Data Documentation.</title>
+<year>2021</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2021/papers/cidr2021_abstract10.pdf</ee>
+<crossref>conf/cidr/2021</crossref>
+<url>db/conf/cidr/cidr2021.html#KumariBFKG21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BalakrishnanNKZ21" mdate="2021-06-21">
+<author pid="234/8513">Darshana Balakrishnan</author>
+<author pid="151/0347">Carl Nuessle</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="54/645">Lukasz Ziarek</author>
+<title>TreeToaster: Towards an IVM-Optimized Compiler.</title>
+<pages>155-167</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3459244</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#BalakrishnanNKZ21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/FengGHK21" mdate="2023-11-12">
+<author orcid="0009-0009-8104-3128" pid="40/6521">Su Feng</author>
+<author orcid="0000-0003-2887-2452" pid="09/3012">Boris Glavic</author>
+<author pid="239/4336">Aaron Huber</author>
+<author pid="75/5478">Oliver A. Kennedy</author>
+<title>Efficient Uncertainty Tracking for Complex Queries with Attribute-level Bounds.</title>
+<pages>528-540</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3452791</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#FengGHK21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SpothKLHL21" mdate="2021-06-21">
+<author pid="192/4566">William Spoth</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="20/6679">Ying Lu</author>
+<author pid="53/4569">Beda Christoph Hammerschmidt</author>
+<author pid="23/6821">Zhen Hua Liu</author>
+<title>Reducing Ambiguity in Json Schema Discovery.</title>
+<pages>1732-1744</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3452801</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#SpothKLHL21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-11796" mdate="2021-02-24">
+<author pid="40/6521">Su Feng</author>
+<author pid="239/4336">Aaron Huber</author>
+<author pid="09/3012">Boris Glavic</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<title>Efficient Uncertainty Tracking for Complex Queries with Attribute-level Bounds (extended version).</title>
+<year>2021</year>
+<volume>abs/2102.11796</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.11796</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-11796</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-01241" mdate="2021-04-12">
+<author pid="234/8513">Darshana Balakrishnan</author>
+<author pid="151/0347">Carl Nuessle</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="54/645">Lukasz Ziarek</author>
+<title>TreeToaster: Towards an IVM-Optimized Compiler.</title>
+<year>2021</year>
+<volume>abs/2104.01241</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.01241</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-01241</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/BrachmannSKGMCB20" mdate="2020-03-12">
+<author pid="243/2415">Mike Brachmann</author>
+<author pid="192/4566">William Spoth</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="09/3012">Boris Glavic</author>
+<author pid="m/HeikoMuller">Heiko Mueller 0001</author>
+<author pid="240/9112">Sonia Castelo</author>
+<author pid="174/7020">Carlos Bautista</author>
+<author pid="f/JulianaFreire">Juliana Freire</author>
+<title>Your notebook is not crumby enough, REPLace it.</title>
+<year>2020</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2020/papers/p13-brachmann-cidr20.pdf</ee>
+<crossref>conf/cidr/2020</crossref>
+<url>db/conf/cidr/cidr2020.html#BrachmannSKGMCB20</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/MiaoZLGKR19" mdate="2023-11-12">
+<author pid="159/1401">Zhengjie Miao</author>
+<author pid="215/3932">Qitian Zeng</author>
+<author pid="173/6759">Chenjie Li</author>
+<author orcid="0000-0003-2887-2452" pid="09/3012">Boris Glavic</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="77/4620">Sudeepa Roy</author>
+<title>CAPE: Explaining Outliers by Counterbalancing.</title>
+<pages>1806-1809</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1806-miao.pdf</ee>
+<ee>https://doi.org/10.14778/3352063.3352071</ee>
+<url>db/journals/pvldb/pvldb12.html#MiaoZLGKR19</url>
+</article>
+</r>
+<r><inproceedings key="conf/dbpl/BalakrishnanZK19" mdate="2019-06-11">
+<author pid="234/8513">Darshana Balakrishnan</author>
+<author pid="54/645">Lukasz Ziarek</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<title>Fluid data structures.</title>
+<pages>3-17</pages>
+<year>2019</year>
+<booktitle>DBPL</booktitle>
+<ee>https://doi.org/10.1145/3315507.3330197</ee>
+<crossref>conf/dbpl/2019</crossref>
+<url>db/conf/dbpl/dbpl2019.html#BalakrishnanZK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/FengHGK19" mdate="2023-11-12">
+<author orcid="0009-0009-8104-3128" pid="40/6521">Su Feng</author>
+<author pid="239/4336">Aaron Huber</author>
+<author orcid="0000-0003-2887-2452" pid="09/3012">Boris Glavic</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<title>Uncertainty Annotated Databases - A Lightweight Approach for Approximating Certain Answers.</title>
+<pages>1313-1330</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3319887</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#FengHGK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BrachmannBCFFGK19" mdate="2023-11-12">
+<author pid="243/2415">Mike Brachmann</author>
+<author pid="174/7020">Carlos Bautista</author>
+<author orcid="0000-0001-6881-3006" pid="240/9112">Sonia Castelo</author>
+<author orcid="0009-0009-8104-3128" pid="40/6521">Su Feng</author>
+<author pid="f/JulianaFreire">Juliana Freire</author>
+<author orcid="0000-0003-2887-2452" pid="09/3012">Boris Glavic</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="m/HeikoMuller">Heiko Mueller 0001</author>
+<author pid="181/5760">R&#233;mi Rampin</author>
+<author pid="192/4566">William Spoth</author>
+<author pid="y/YingYang-5">Ying Yang 0005</author>
+<title>Data Debugging and Exploration with Vizier.</title>
+<pages>1877-1880</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3320246</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#BrachmannBCFFGK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpctc/NuessleKZ19" mdate="2020-07-31">
+<author orcid="0000-0002-6391-2854" pid="151/0347">Carl Nuessle</author>
+<author orcid="0000-0003-0632-1668" pid="75/5478">Oliver Kennedy</author>
+<author orcid="0000-0003-4353-1998" pid="54/645">Lukasz Ziarek</author>
+<title>Benchmarking Pocket-Scale Databases.</title>
+<pages>99-115</pages>
+<year>2019</year>
+<booktitle>TPCTC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-55024-0_7</ee>
+<crossref>conf/tpctc/2019</crossref>
+<url>db/conf/tpctc/tpctc2019.html#NuessleKZ19</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/19/KennedyG19" mdate="2023-11-12">
+<author pid="75/5478">Oliver Kennedy</author>
+<author orcid="0000-0003-2887-2452" pid="09/3012">Boris Glavic</author>
+<title>Analyzing Uncertain Tabular Data.</title>
+<pages>243-277</pages>
+<year>2019</year>
+<booktitle>Information Quality in Information Fusion and Decision Making</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-03643-0_12</ee>
+<crossref>books/sp/BR2019</crossref>
+<url>db/books/collections/BR2019.html#KennedyG19</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-07627" mdate="2019-02-02">
+<author pid="234/8513">Darshana Balakrishnan</author>
+<author pid="54/645">Lukasz Ziarek</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<title>Just-in-Time Index Compilation.</title>
+<year>2019</year>
+<volume>abs/1901.07627</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.07627</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-07627</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-00234" mdate="2019-04-24">
+<author pid="40/6521">Su Feng</author>
+<author pid="239/4336">Aaron Huber</author>
+<author pid="09/3012">Boris Glavic</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<title>Uncertainty Annotated Databases - A Lightweight Approach for Approximating Certain Answers (extended version).</title>
+<year>2019</year>
+<volume>abs/1904.00234</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.00234</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-00234</url>
+</article>
+</r>
+<r><article key="journals/pvldb/XieCK18" mdate="2020-04-25">
+<author pid="41/3159">Ting Xie</author>
+<author pid="74/2087">Varun Chandola</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<title>Query Log Compression for Workload Analytics.</title>
+<pages>183-196</pages>
+<year>2018</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p183-xie.pdf</ee>
+<ee>https://doi.org/10.14778/3291264.3291265</ee>
+<url>db/journals/pvldb/pvldb12.html#XieCK18</url>
+</article>
+</r>
+<r><article key="journals/tkde/KulLXCKU18" mdate="2018-12-01">
+<author orcid="0000-0001-6467-1979" pid="145/7676">G&#246;khan Kul</author>
+<author orcid="0000-0003-4768-5089" pid="206/0053">Duc Thanh Anh Luong</author>
+<author pid="41/3159">Ting Xie</author>
+<author pid="74/2087">Varun Chandola</author>
+<author orcid="0000-0003-0632-1668" pid="75/5478">Oliver Kennedy</author>
+<author pid="u/ShambhuJUpadhyaya">Shambhu J. Upadhyaya</author>
+<title>Similarity Metrics for SQL Query Clustering.</title>
+<pages>2408-2420</pages>
+<year>2018</year>
+<volume>30</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TKDE.2018.2831214</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2018.2831214</ee>
+<url>db/journals/tkde/tkde30.html#KulLXCKU18</url>
+</article>
+</r>
+<r><article key="journals/tods/MeneghettiKG18" mdate="2024-02-05">
+<author orcid="0000-0002-4107-1759" pid="136/1324">Niccol&#242; Meneghetti</author>
+<author orcid="0000-0003-0632-1668" pid="75/5478">Oliver Kennedy</author>
+<author orcid="0000-0002-9614-0504" pid="36/5673">Wolfgang Gatterbauer</author>
+<title>Learning From Query-Answers: A Scalable Approach to Belief Updating and Parameter Learning.</title>
+<pages>17:1-17:41</pages>
+<year>2018</year>
+<volume>43</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3277503</ee>
+<url>db/journals/tods/tods43.html#MeneghettiKG18</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/SpothXK0HLG18" mdate="2018-11-21">
+<author pid="192/4566">William Spoth</author>
+<author pid="41/3159">Ting Xie</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="y/YingYang-5">Ying Yang 0005</author>
+<author pid="53/4569">Beda Christoph Hammerschmidt</author>
+<author pid="23/6821">Zhen Hua Liu</author>
+<author pid="03/2725">Dieter Gawlick</author>
+<title>SchemaDrill: Interactive Semi-Structured Schema Design.</title>
+<pages>11:1-11:7</pages>
+<year>2018</year>
+<booktitle>HILDA@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3209900.3209908</ee>
+<crossref>conf/sigmod/2018hilda</crossref>
+<url>db/conf/sigmod/hilda2018.html#SpothXK0HLG18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-00405" mdate="2018-10-05">
+<author pid="41/3159">Ting Xie</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="74/2087">Varun Chandola</author>
+<title>Query Log Compression for Workload Analytics.</title>
+<year>2018</year>
+<volume>abs/1809.00405</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.00405</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-00405</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/Kennedy17" mdate="2020-03-12">
+<author pid="75/5478">Oliver Kennedy</author>
+<title>Stop the Truthiness and Just Be Wrong.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_88.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#Kennedy17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/SpothACGGGHKLLN17" mdate="2023-12-12">
+<author pid="192/4566">William Spoth</author>
+<author pid="151/6772">Bahareh Sadat Arab</author>
+<author pid="94/2423">Eric S. Chan</author>
+<author pid="03/2725">Dieter Gawlick</author>
+<author pid="80/10227">Adel Ghoneimy</author>
+<author pid="09/3012">Boris Glavic</author>
+<author pid="53/4569">Beda Christoph Hammerschmidt</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author orcid="0000-0002-5637-252X" pid="180/8454">Seokki Lee</author>
+<author pid="23/6821">Zhen Hua Liu</author>
+<author pid="87/9555-2">Xing Niu 0002</author>
+<author pid="y/YingYang-5">Ying Yang 0005</author>
+<title>Adaptive Schema Databases.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/papers/p84-spoth-cidr17.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#SpothACGGGHKLLN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/YangK17" mdate="2021-01-29">
+<author pid="y/YingYang-5">Ying Yang 0005</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<title>Convergent Interactive Inference with Leaky Joins.</title>
+<pages>366-377</pages>
+<year>2017</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2017.33</ee>
+<crossref>conf/edbt/2017</crossref>
+<url>db/conf/edbt/edbt2017.html#YangK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KennedyHIMNT017" mdate="2023-03-24">
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="15/5105">D. Richard Hipp</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="m/AmelieMarian">Am&#233;lie Marian</author>
+<author pid="28/568">Arnab Nandi 0001</author>
+<author pid="01/4825">Carmela Troncoso</author>
+<author pid="41/3679">Eugene Wu 0002</author>
+<title>Small Data.</title>
+<pages>1475-1476</pages>
+<year>2017</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2017.216</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2017.216</ee>
+<crossref>conf/icde/2017</crossref>
+<url>db/conf/icde/icde2017.html#KennedyHIMNT017</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MeneghettiKG17" mdate="2024-02-05">
+<author orcid="0000-0002-4107-1759" pid="136/1324">Niccol&#242; Meneghetti</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author orcid="0000-0002-9614-0504" pid="36/5673">Wolfgang Gatterbauer</author>
+<title>Beta Probabilistic Databases: A Scalable Approach to Belief Updating and Parameter Learning.</title>
+<pages>573-586</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3064026</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#MeneghettiKG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/FreireGKM16" mdate="2019-09-02">
+<author orcid="0000-0003-3915-7075" pid="f/JulianaFreire">Juliana Freire</author>
+<author orcid="0000-0003-2887-2452" pid="09/3012">Boris Glavic</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="m/HeikoMuller">Heiko Mueller 0001</author>
+<title>The exception that improves the rule.</title>
+<pages>7</pages>
+<year>2016</year>
+<booktitle>HILDA@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/2939502.2939509</ee>
+<ee>https://www.wikidata.org/entity/Q60396762</ee>
+<crossref>conf/sigmod/2016hilda</crossref>
+<url>db/conf/sigmod/hilda2016.html#FreireGKM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tapp/NiuAGLKKG16" mdate="2023-12-12">
+<author pid="87/9555-2">Xing Niu 0002</author>
+<author pid="151/6772">Bahareh Sadat Arab</author>
+<author pid="03/2725">Dieter Gawlick</author>
+<author pid="23/6821">Zhen Hua Liu</author>
+<author pid="185/0763">Vasudha Krishnaswamy</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="09/3012">Boris Glavic</author>
+<title>Provenance-aware Versioned Dataworkspaces.</title>
+<year>2016</year>
+<booktitle>TaPP</booktitle>
+<ee type="oa">https://www.usenix.org/conference/tapp16/workshop-program/presentation/niu</ee>
+<crossref>conf/tapp/2016</crossref>
+<url>db/conf/tapp/tapp2016.html#NiuAGLKKG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/KulLXCCKU16" mdate="2019-09-16">
+<author orcid="0000-0001-6467-1979" pid="145/7676">G&#246;khan Kul</author>
+<author pid="117/0049">Duc Luong</author>
+<author pid="41/3159">Ting Xie</author>
+<author pid="178/3689">Patrick Coonan</author>
+<author pid="74/2087">Varun Chandola</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="u/ShambhuJUpadhyaya">Shambhu J. Upadhyaya</author>
+<title>Ettu: Analyzing Query Intents in Corporate Databases.</title>
+<pages>463-466</pages>
+<year>2016</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2872518.2888608</ee>
+<crossref>conf/www/2016c</crossref>
+<url>db/conf/www/www2016c.html#KulLXCCKU16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/NandiYKGFLG16" mdate="2018-08-13">
+<author pid="175/1531">Arindam Nandi</author>
+<author pid="y/YingYang-5">Ying Yang 0005</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="09/3012">Boris Glavic</author>
+<author pid="45/4986">Ronny Fehling</author>
+<author pid="23/6821">Zhen Hua Liu</author>
+<author pid="03/2725">Dieter Gawlick</author>
+<title>Mimir: Bringing CTables into Practice.</title>
+<year>2016</year>
+<volume>abs/1601.00073</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1601.00073</ee>
+<url>db/journals/corr/corr1601.html#NandiYKGFLG16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/FreireGKM16" mdate="2019-09-02">
+<author pid="f/JulianaFreire">Juliana Freire</author>
+<author pid="09/3012">Boris Glavic</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="m/HeikoMuller">Heiko Mueller 0001</author>
+<title>The Exception that Improves the Rule.</title>
+<year>2016</year>
+<volume>abs/1606.00046</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1606.00046</ee>
+<url>db/journals/corr/corr1606.html#FreireGKM16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KumariAK16" mdate="2018-08-13">
+<author pid="182/2263">Poonam Kumari</author>
+<author pid="146/6273">Said Achmiz</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<title>Communicating Data Quality in On-Demand Curation.</title>
+<year>2016</year>
+<volume>abs/1606.02250</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1606.02250</ee>
+<url>db/journals/corr/corr1606.html#KumariAK16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KulLXCCKU16" mdate="2018-08-13">
+<author pid="145/7676">G&#246;khan Kul</author>
+<author pid="117/0049">Duc Luong</author>
+<author pid="41/3159">Ting Xie</author>
+<author pid="178/3689">Patrick Coonan</author>
+<author pid="74/2087">Varun Chandola</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="u/ShambhuJUpadhyaya">Shambhu J. Upadhyaya</author>
+<title>Summarizing Large Query Logs in Ettu.</title>
+<year>2016</year>
+<volume>abs/1608.01013</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1608.01013</ee>
+<url>db/journals/corr/corr1608.html#KulLXCCKU16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/YangMFLK15" mdate="2023-09-30">
+<author pid="y/YingYang-5">Ying Yang 0005</author>
+<author orcid="0000-0002-4107-1759" pid="136/1324">Niccol&#242; Meneghetti</author>
+<author pid="45/4986">Ronny Fehling</author>
+<author pid="23/6821">Zhen Hua Liu</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<title>Lenses: An On-Demand Approach to ETL.</title>
+<pages>1578-1589</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1578-yang.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824055</ee>
+<url>db/journals/pvldb/pvldb8.html#YangMFLK15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/KennedyZ15" mdate="2020-03-12">
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="54/645">Lukasz Ziarek</author>
+<title>Just-In-Time Data Structures.</title>
+<year>2015</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2015/Papers/CIDR15_Paper9.pdf</ee>
+<crossref>conf/cidr/2015</crossref>
+<url>db/conf/cidr/cidr2015.html#KennedyZ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpctc/KennedyACZ15" mdate="2017-05-23">
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="158/8184">Jerry Antony Ajay</author>
+<author pid="142/9348">Geoffrey Challen</author>
+<author pid="54/645">Lukasz Ziarek</author>
+<title>Pocket Data: The Need for TPC-MOBILE.</title>
+<pages>8-25</pages>
+<year>2015</year>
+<booktitle>TPCTC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-31409-9_2</ee>
+<crossref>conf/tpctc/2015</crossref>
+<url>db/conf/tpctc/tpctc2015.html#KennedyACZ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wmcsa/ChallenADKMNSSSZ15" mdate="2018-11-06">
+<author pid="142/9348">Geoffrey Challen</author>
+<author pid="158/8184">Jerry Antony Ajay</author>
+<author pid="158/8035">Nick DiRienzo</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="143/8749">Anudipa Maiti</author>
+<author pid="143/8801">Anandatirtha Nandugudi</author>
+<author pid="158/8225">Sriram Shantharam</author>
+<author pid="37/11041">Jinghao Shi</author>
+<author pid="143/8614">Guru Prasad Srinivasa</author>
+<author pid="54/645">Lukasz Ziarek</author>
+<title>maybe We Should Enable More Uncertain Mobile App Programming.</title>
+<pages>105-110</pages>
+<year>2015</year>
+<booktitle>HotMobile</booktitle>
+<ee>https://doi.org/10.1145/2699343.2699361</ee>
+<crossref>conf/wmcsa/2015</crossref>
+<url>db/conf/wmcsa/hotmobile2015.html#ChallenADKMNSSSZ15</url>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/KochAKNNLS14" mdate="2022-10-11">
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="99/770">Yanif Ahmad</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="57/10355-1">Milos Nikolic 0001</author>
+<author orcid="0000-0001-8669-0011" pid="131/4231">Andres N&#246;tzli</author>
+<author pid="67/4746">Daniel Lupei</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<title>DBToaster: higher-order delta processing for dynamic, frequently fresh views.</title>
+<pages>253-278</pages>
+<year>2014</year>
+<volume>23</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-013-0348-4</ee>
+<url>db/journals/vldb/vldb23.html#KochAKNNLS14</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/JeonCSMKK14" mdate="2021-03-31">
+<author pid="09/4438">Kyungho Jeon</author>
+<author pid="156/7388">Sharath Chandrashekhara</author>
+<author pid="15/7528">Feng Shen</author>
+<author pid="156/7512">Shikhar Mehra</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="22/4235">Steven Y. Ko</author>
+<title>PigOut: Making multiple Hadoop clusters work together.</title>
+<pages>100-109</pages>
+<year>2014</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData.2014.7004218</ee>
+<crossref>conf/bigdataconf/2014</crossref>
+<url>db/conf/bigdataconf/bigdataconf2014.html#JeonCSMKK14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/birte/KennedyYCFLG14" mdate="2017-09-08">
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="y/YingYang-5">Ying Yang 0005</author>
+<author pid="c/JChomicki">Jan Chomicki</author>
+<author pid="45/4986">Ronny Fehling</author>
+<author pid="23/6821">Zhen Hua Liu</author>
+<author pid="03/2725">Dieter Gawlick</author>
+<title>Detecting the Temporal Context of Queries.</title>
+<pages>97-113</pages>
+<year>2014</year>
+<booktitle>BIRTE</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-46839-5_7</ee>
+<crossref>conf/birte/2014</crossref>
+<url>db/conf/birte/birte2014.html#KennedyYCFLG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webdb/AgarwalBKUZ13" mdate="2020-03-12">
+<author pid="134/6808">Sumit Agarwal</author>
+<author pid="134/6803">Daniel Bellinger</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="134/6798">Ankur Upadhyay</author>
+<author pid="54/645">Lukasz Ziarek</author>
+<title>Monadic Logs for Collaborative Web Applications.</title>
+<pages>37-42</pages>
+<year>2013</year>
+<booktitle>WebDB</booktitle>
+<ee type="oa">http://webdb2013.lille.inria.fr/Paper%2034.pdf</ee>
+<crossref>conf/webdb/2013</crossref>
+<url>db/conf/webdb/webdb2013.html#AgarwalBKUZ13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1303-4471" mdate="2018-08-13">
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="54/645">Lukasz Ziarek</author>
+<title>BarQL: Collaborating Through Change</title>
+<ee type="oa">http://arxiv.org/abs/1303.4471</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1303.4471</volume>
+<url>db/journals/corr/corr1303.html#abs-1303-4471</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AhmadKKN12" mdate="2022-10-11">
+<author pid="99/770">Yanif Ahmad</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="57/10355-1">Milos Nikolic 0001</author>
+<title>DBToaster: Higher-order Delta Processing for Dynamic, Frequently Fresh Views.</title>
+<pages>968-979</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p968_yanifahmad_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2336664.2336670</ee>
+<url>db/journals/pvldb/pvldb5.html#AhmadKKN12</url>
+</article>
+</r>
+<r><inproceedings key="conf/icores/YangVVTSAK12" mdate="2021-12-30">
+<author pid="y/JianYang2">Jian Yang 0002</author>
+<author pid="02/3492">Erik Vee</author>
+<author pid="31/6854">Sergei Vassilvitskii</author>
+<author pid="91/595">John A. Tomlin</author>
+<author pid="s/JShanmugasundaram">Jayavel Shanmugasundaram</author>
+<author pid="68/5673">Tasos Anastasakos</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<title>Inventory Allocation for Online Graphical Display Advertising using Multi-objective Optimization.</title>
+<pages>293-304</pages>
+<year>2012</year>
+<booktitle>ICORES</booktitle>
+<crossref>conf/icores/2012</crossref>
+<url>db/conf/icores/icores2012.html#YangVVTSAK12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1207-0137" mdate="2022-10-11">
+<author pid="99/770">Yanif Ahmad</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="57/10355-1">Milos Nikolic 0001</author>
+<title>DBToaster: Higher-order Delta Processing for Dynamic, Frequently Fresh Views</title>
+<ee type="oa">http://arxiv.org/abs/1207.0137</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1207.0137</volume>
+<url>db/journals/corr/corr1207.html#abs-1207-0137</url>
+</article>
+</r>
+<r><phdthesis key="phd/us/Kennedy11" mdate="2022-04-01">
+<author pid="75/5478">Oliver Kennedy</author>
+<title>Lookout for...What? Monitoring and Uncertainty in Scientific Computing.</title>
+<school>Cornell University, USA</school>
+<year>2011</year>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/cidr/KennedyAK11" mdate="2020-03-12">
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="99/770">Yanif Ahmad</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>DBToaster: Agile Views for a Dynamic Data Management System.</title>
+<pages>284-295</pages>
+<year>2011</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2011/Papers/CIDR11_Paper38.pdf</ee>
+<crossref>conf/cidr/2011</crossref>
+<url>db/conf/cidr/cidr2011.html#KennedyAK11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KennedyN11" mdate="2022-10-02">
+<author pid="75/5478">Oliver Kennedy</author>
+<author orcid="0000-0001-7813-9756" pid="85/6293">Suman Nath</author>
+<title>Jigsaw: efficient optimization over uncertain enterprise data.</title>
+<pages>829-840</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989410</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#KennedyN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KennedyLLSN11" mdate="2022-10-02">
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="12/9727">Steve Lee</author>
+<author pid="74/8510">Charles Loboz</author>
+<author pid="77/8510">Slawek Smyl</author>
+<author orcid="0000-0001-7813-9756" pid="85/6293">Suman Nath</author>
+<title>Fuzzy prophet: parameter exploration in uncertain enterprise scenarios.</title>
+<pages>1303-1306</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989482</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#KennedyLLSN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KennedyK10" mdate="2023-03-23">
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>PIP: A database system for great and small expectations.</title>
+<pages>157-168</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447879</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447879</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#KennedyK10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1008-3551" mdate="2021-12-30">
+<author pid="y/JianYang2">Jian Yang 0002</author>
+<author pid="02/3492">Erik Vee</author>
+<author pid="31/6854">Sergei Vassilvitskii</author>
+<author pid="91/595">John A. Tomlin</author>
+<author pid="s/JShanmugasundaram">Jayavel Shanmugasundaram</author>
+<author pid="68/5673">Tasos Anastasakos</author>
+<author pid="75/5478">Oliver Kennedy</author>
+<title>Inventory Allocation for Online Graphical Display Advertising</title>
+<ee type="oa">http://arxiv.org/abs/1008.3551</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1008.3551</volume>
+<url>db/journals/corr/corr1008.html#abs-1008-3551</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/KennedyKD09" mdate="2023-03-24">
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="03/5860">Alan J. Demers</author>
+<title>Dynamic Approaches to In-network Aggregation.</title>
+<pages>1331-1334</pages>
+<year>2009</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2009.233</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2009.233</ee>
+<crossref>conf/icde/2009</crossref>
+<url>db/conf/icde/icde2009.html#KennedyKD09</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0810-3227" mdate="2018-08-13">
+<author pid="75/5478">Oliver Kennedy</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="03/5860">Alan J. Demers</author>
+<title>Dynamic Approaches to In-Network Aggregation</title>
+<ee type="oa">http://arxiv.org/abs/0810.3227</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0810.3227</volume>
+<url>db/journals/corr/corr0810.html#abs-0810-3227</url>
+</article>
+</r>
+<coauthors n="83" nc="1">
+<co c="0"><na f="a/Achmiz:Said" pid="146/6273">Said Achmiz</na></co>
+<co c="0"><na f="a/Agarwal:Sumit" pid="134/6808">Sumit Agarwal</na></co>
+<co c="0"><na f="a/Ahmad:Yanif" pid="99/770">Yanif Ahmad</na></co>
+<co c="0"><na f="a/Ajay:Jerry_Antony" pid="158/8184">Jerry Antony Ajay</na></co>
+<co c="0"><na f="a/Anastasakos:Tasos" pid="68/5673">Tasos Anastasakos</na></co>
+<co c="0" n="2"><na f="a/Arab:Bahareh" pid="151/6772">Bahareh Arab</na><na>Bahareh Sadat Arab</na></co>
+<co c="0"><na f="b/Balakrishnan:Darshana" pid="234/8513">Darshana Balakrishnan</na></co>
+<co c="0"><na f="b/Bautista:Carlos" pid="174/7020">Carlos Bautista</na></co>
+<co c="0"><na f="b/Bellinger:Daniel" pid="134/6803">Daniel Bellinger</na></co>
+<co c="0" n="2"><na f="b/Brachmann:Mike" pid="243/2415">Mike Brachmann</na><na>Michael Brachmann</na></co>
+<co c="0"><na f="c/Castelo:Sonia" pid="240/9112">Sonia Castelo</na></co>
+<co c="0"><na f="c/Challen:Geoffrey" pid="142/9348">Geoffrey Challen</na></co>
+<co c="0"><na f="c/Chan:Eric_S=" pid="94/2423">Eric S. Chan</na></co>
+<co c="0"><na f="c/Chandola:Varun" pid="74/2087">Varun Chandola</na></co>
+<co c="0"><na f="c/Chandrashekhara:Sharath" pid="156/7388">Sharath Chandrashekhara</na></co>
+<co c="0"><na f="c/Chomicki:Jan" pid="c/JChomicki">Jan Chomicki</na></co>
+<co c="0"><na f="c/Coonan:Patrick" pid="178/3689">Patrick Coonan</na></co>
+<co c="0"><na f="d/Demers:Alan_J=" pid="03/5860">Alan J. Demers</na></co>
+<co c="0"><na f="d/Deo:Nachiket" pid="173/6507">Nachiket Deo</na></co>
+<co c="0"><na f="d/DiRienzo:Nick" pid="158/8035">Nick DiRienzo</na></co>
+<co c="0"><na f="f/Fehling:Ronny" pid="45/4986">Ronny Fehling</na></co>
+<co c="0"><na f="f/Feng:Su" pid="40/6521">Su Feng</na></co>
+<co c="0"><na f="f/Freire:Juliana" pid="f/JulianaFreire">Juliana Freire</na></co>
+<co c="0"><na f="g/Gatterbauer:Wolfgang" pid="36/5673">Wolfgang Gatterbauer</na></co>
+<co c="0"><na f="g/Gawlick:Dieter" pid="03/2725">Dieter Gawlick</na></co>
+<co c="0"><na f="g/Ghoneimy:Adel" pid="80/10227">Adel Ghoneimy</na></co>
+<co c="0"><na f="g/Glavic:Boris" pid="09/3012">Boris Glavic</na></co>
+<co c="0"><na f="h/Hammerschmidt:Beda_Christoph" pid="53/4569">Beda Christoph Hammerschmidt</na></co>
+<co c="0"><na f="h/Hipp:D=_Richard" pid="15/5105">D. Richard Hipp</na></co>
+<co c="0"><na f="h/Huber:Aaron" pid="239/4336">Aaron Huber</na></co>
+<co c="0"><na f="i/Idreos:Stratos" pid="i/StratosIdreos">Stratos Idreos</na></co>
+<co c="0"><na f="j/Jeon:Kyungho" pid="09/4438">Kyungho Jeon</na></co>
+<co c="0"><na f="k/Ko:Steven_Y=" pid="22/4235">Steven Y. Ko</na></co>
+<co c="0"><na f="k/Koch_0001:Christoph" pid="k/ChristophKoch">Christoph Koch 0001</na></co>
+<co c="0"><na f="k/Krishnaswamy:Vasudha" pid="185/0763">Vasudha Krishnaswamy</na></co>
+<co c="0"><na f="k/Kul:G=ouml=khan" pid="145/7676">G&#246;khan Kul</na></co>
+<co c="0"><na f="k/Kumari:Poonam" pid="182/2263">Poonam Kumari</na></co>
+<co c="0"><na f="l/Lee:Seokki" pid="180/8454">Seokki Lee</na></co>
+<co c="0"><na f="l/Lee:Steve" pid="12/9727">Steve Lee</na></co>
+<co c="0"><na f="l/Li:Chenjie" pid="173/6759">Chenjie Li</na></co>
+<co c="0"><na f="l/Liu:Zhen_Hua" pid="23/6821">Zhen Hua Liu</na></co>
+<co c="0"><na f="l/Loboz:Charles" pid="74/8510">Charles Loboz</na></co>
+<co c="0"><na f="l/Lu:Ying" pid="20/6679">Ying Lu</na></co>
+<co c="0"><na f="l/Luong:Duc" pid="117/0049">Duc Luong</na></co>
+<co c="0"><na f="l/Luong:Duc_Thanh_Anh" pid="206/0053">Duc Thanh Anh Luong</na></co>
+<co c="0"><na f="l/Lupei:Daniel" pid="67/4746">Daniel Lupei</na></co>
+<co c="0"><na f="m/Maiti:Anudipa" pid="143/8749">Anudipa Maiti</na></co>
+<co c="0"><na f="m/Marian:Am=eacute=lie" pid="m/AmelieMarian">Am&#233;lie Marian</na></co>
+<co c="0"><na f="m/Mehra:Shikhar" pid="156/7512">Shikhar Mehra</na></co>
+<co c="0"><na f="m/Meneghetti:Niccol=ograve=" pid="136/1324">Niccol&#242; Meneghetti</na></co>
+<co c="0"><na f="m/Miao:Zhengjie" pid="159/1401">Zhengjie Miao</na></co>
+<co c="0" n="2"><na f="m/M=uuml=ller_0001:Heiko" pid="m/HeikoMuller">Heiko M&#252;ller 0001</na><na>Heiko Mueller 0001</na></co>
+<co c="0"><na f="n/Nandi:Arindam" pid="175/1531">Arindam Nandi</na></co>
+<co c="0"><na f="n/Nandi_0001:Arnab" pid="28/568">Arnab Nandi 0001</na></co>
+<co c="0"><na f="n/Nandugudi:Anandatirtha" pid="143/8801">Anandatirtha Nandugudi</na></co>
+<co c="0"><na f="n/Nath:Suman" pid="85/6293">Suman Nath</na></co>
+<co c="0"><na f="n/Nikolic_0001:Milos" pid="57/10355-1">Milos Nikolic 0001</na></co>
+<co c="0"><na f="n/Niu_0002:Xing" pid="87/9555-2">Xing Niu 0002</na></co>
+<co c="0"><na f="n/N=ouml=tzli:Andres" pid="131/4231">Andres N&#246;tzli</na></co>
+<co c="0"><na f="n/Nuessle:Carl" pid="151/0347">Carl Nuessle</na></co>
+<co c="0"><na f="r/Rampin:R=eacute=mi" pid="181/5760">R&#233;mi Rampin</na></co>
+<co c="0"><na f="r/Roy:Sudeepa" pid="77/4620">Sudeepa Roy</na></co>
+<co c="0"><na f="r/Rudra:Atri" pid="04/4980">Atri Rudra</na></co>
+<co c="0"><na f="s/Shaikhha:Amir" pid="143/6186">Amir Shaikhha</na></co>
+<co c="0"><na f="s/Shanmugasundaram:Jayavel" pid="s/JShanmugasundaram">Jayavel Shanmugasundaram</na></co>
+<co c="0"><na f="s/Shantharam:Sriram" pid="158/8225">Sriram Shantharam</na></co>
+<co c="0"><na f="s/Shen:Feng" pid="15/7528">Feng Shen</na></co>
+<co c="0"><na f="s/Shi:Jinghao" pid="37/11041">Jinghao Shi</na></co>
+<co c="0"><na f="s/Smyl:Slawek" pid="77/8510">Slawek Smyl</na></co>
+<co c="0"><na f="s/Spoth:William" pid="192/4566">William Spoth</na></co>
+<co c="0"><na f="s/Srinivasa:Guru_Prasad" pid="143/8614">Guru Prasad Srinivasa</na></co>
+<co c="0"><na f="t/Tomlin:John_A=" pid="91/595">John A. Tomlin</na></co>
+<co c="0"><na f="t/Troncoso:Carmela" pid="01/4825">Carmela Troncoso</na></co>
+<co c="0"><na f="u/Upadhyay:Ankur" pid="134/6798">Ankur Upadhyay</na></co>
+<co c="0"><na f="u/Upadhyaya:Shambhu_J=" pid="u/ShambhuJUpadhyaya">Shambhu J. Upadhyaya</na></co>
+<co c="0"><na f="v/Vassilvitskii:Sergei" pid="31/6854">Sergei Vassilvitskii</na></co>
+<co c="0"><na f="v/Vee:Erik" pid="02/3492">Erik Vee</na></co>
+<co c="0"><na f="w/Wu_0002:Eugene" pid="41/3679">Eugene Wu 0002</na></co>
+<co c="0"><na f="x/Xie:Ting" pid="41/3159">Ting Xie</na></co>
+<co c="0"><na f="y/Yang_0002:Jian" pid="y/JianYang2">Jian Yang 0002</na></co>
+<co c="0"><na f="y/Yang_0005:Ying" pid="y/YingYang-5">Ying Yang 0005</na></co>
+<co c="0"><na f="z/Zeng:Qitian" pid="215/3932">Qitian Zeng</na></co>
+<co c="0"><na f="z/Ziarek:Lukasz" pid="54/645">Lukasz Ziarek</na></co>
+</coauthors>
+</dblpperson>

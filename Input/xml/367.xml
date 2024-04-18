@@ -1,0 +1,636 @@
+<dblpperson name="Jelle Hellings" pid="05/10671" n="45">
+<person key="homepages/05/10671" mdate="2012-01-01">
+<author pid="05/10671">Jelle Hellings</author>
+</person>
+<r><article key="journals/vldb/HellingsS23" mdate="2023-10-31">
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>ByShard: sharding in a Byzantine environment.</title>
+<pages>1343-1367</pages>
+<year>2023</year>
+<month>November</month>
+<volume>32</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00778-023-00794-0</ee>
+<url>db/journals/vldb/vldb32.html#HellingsS23</url>
+</article>
+</r>
+<r><inproceedings key="conf/lics/HellingsGBG23" mdate="2023-07-20">
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="g/MarcGyssens">Marc Gyssens</author>
+<author pid="b/JVdBussche">Jan Van den Bussche</author>
+<author pid="g/DirkVanGucht">Dirk Van Gucht</author>
+<title>Expressive Completeness of Two-Variable First-Order Logic with Counting for First-Order Logic Queries on Rooted Unranked Trees.</title>
+<pages>1-13</pages>
+<year>2023</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS56636.2023.10175828</ee>
+<url>db/conf/lics/lics2023.html#HellingsGBG23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-02118" mdate="2023-09-30">
+<author orcid="0000-0002-7867-3681" pid="339/7333">Dakai Kang</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Practical View-Change-Less Protocol through Rapid View Synchronization.</title>
+<year>2023</year>
+<volume>abs/2302.02118</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.02118</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-02118</url>
+</article>
+</r>
+<r><article key="journals/jlap/HellingsWGG22" mdate="2023-08-28">
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="20/473">Yuqing Wu</author>
+<author orcid="0000-0002-5197-2817" pid="g/MarcGyssens">Marc Gyssens</author>
+<author pid="g/DirkVanGucht">Dirk Van Gucht</author>
+<title>The power of Tarski's relation algebra on trees.</title>
+<pages>100748</pages>
+<year>2022</year>
+<volume>126</volume>
+<journal>J. Log. Algebraic Methods Program.</journal>
+<ee>https://doi.org/10.1016/j.jlamp.2022.100748</ee>
+<ee>https://www.wikidata.org/entity/Q114851570</ee>
+<url>db/journals/jlap/jlap126.html#HellingsWGG22</url>
+</article>
+</r>
+<r><inproceedings key="conf/foiks/HellingsS22" mdate="2022-07-14">
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>The Fault-Tolerant Cluster-Sending Problem.</title>
+<pages>168-186</pages>
+<year>2022</year>
+<booktitle>FoIKS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-11321-5_10</ee>
+<crossref>conf/foiks/2022</crossref>
+<url>db/conf/foiks/foiks2022.html#HellingsS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/foiks/HellingsWGG22" mdate="2022-07-14">
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="20/473">Yuqing Wu</author>
+<author pid="g/DirkVanGucht">Dirk Van Gucht</author>
+<author pid="g/MarcGyssens">Marc Gyssens</author>
+<title>Optimizing Multiset Relational Algebra Queries Using Weak-Equivalent Rewrite Rules.</title>
+<pages>187-205</pages>
+<year>2022</year>
+<booktitle>FoIKS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-11321-5_11</ee>
+<crossref>conf/foiks/2022</crossref>
+<url>db/conf/foiks/foiks2022.html#HellingsWGG22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2204-03552" mdate="2022-10-02">
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>On the Correctness of Speculative Consensus.</title>
+<year>2022</year>
+<volume>abs/2204.03552</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2204.03552</ee>
+<url>db/journals/corr/corr2204.html#abs-2204-03552</url>
+</article>
+</r>
+<r><book key="series/synthesis/2021Gupta" mdate="2023-10-28">
+<author orcid="0000-0002-3240-1840" pid="136/5662">Suyash Gupta</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Fault-Tolerant Distributed Transactions on Blockchain</title>
+<publisher>Morgan &amp; Claypool Publishers</publisher>
+<year>2021</year>
+<pages>1-268</pages>
+<series href="db/series/synthesis-dtm/index.html">Synthesis Lectures on Data Management</series>
+<isbn>978-3-031-00749-1</isbn>
+<isbn>978-3-031-01877-0</isbn>
+<ee>https://doi.org/10.2200/S01068ED1V01Y202012DTM065</ee>
+<ee>https://doi.org/10.1007/978-3-031-01877-0</ee>
+</book>
+</r>
+<r><article key="journals/cj/HellingsPGGW21" mdate="2022-04-09">
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="205/5322">Catherine L. Pilachowski</author>
+<author pid="g/DirkVanGucht">Dirk Van Gucht</author>
+<author orcid="0000-0002-5197-2817" pid="g/MarcGyssens">Marc Gyssens</author>
+<author pid="20/473">Yuqing Wu</author>
+<title>From Relation Algebra to Semi-join Algebra: An Approach to Graph Query Optimization.</title>
+<pages>789-811</pages>
+<year>2021</year>
+<volume>64</volume>
+<journal>Comput. J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1093/comjnl/bxaa031</ee>
+<url>db/journals/cj/cj64.html#HellingsPGGW21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/HellingsS21" mdate="2022-10-02">
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>ByShard: Sharding in a Byzantine Environment.</title>
+<pages>2230-2243</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2230-hellings.pdf</ee>
+<ee>https://doi.org/10.14778/3476249.3476275</ee>
+<url>db/journals/pvldb/pvldb14.html#HellingsS21</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/GuptaHRS21" mdate="2022-04-09">
+<author orcid="0000-0002-3240-1840" pid="136/5662">Suyash Gupta</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Proof-of-Execution: Reaching Consensus through Fault-Tolerant Speculation.</title>
+<pages>301-312</pages>
+<year>2021</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.5441/002/edbt.2021.27</ee>
+<crossref>conf/edbt/2021</crossref>
+<url>db/conf/edbt/edbt2021.html#GuptaHRS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GuptaHS21" mdate="2022-04-09">
+<author orcid="0000-0002-3240-1840" pid="136/5662">Suyash Gupta</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>RCC: Resilient Concurrent Consensus for High-Throughput Secure Transaction Processing.</title>
+<pages>1392-1403</pages>
+<year>2021</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE51399.2021.00124</ee>
+<crossref>conf/icde/2021</crossref>
+<url>db/conf/icde/icde2021.html#GuptaHS21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2108-08541" mdate="2021-08-23">
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>Byzantine Cluster-Sending in Expected Constant Communication.</title>
+<year>2021</year>
+<volume>abs/2108.08541</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2108.08541</ee>
+<url>db/journals/corr/corr2108.html#abs-2108-08541</url>
+</article>
+</r>
+<r><article key="journals/is/HellingsGWGBVF20" mdate="2022-04-09">
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0002-5197-2817" pid="g/MarcGyssens">Marc Gyssens</author>
+<author pid="20/473">Yuqing Wu</author>
+<author pid="g/DirkVanGucht">Dirk Van Gucht</author>
+<author orcid="0000-0003-0072-3252" pid="b/JVdBussche">Jan Van den Bussche</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<title>Comparing the expressiveness of downward fragments of the relation algebra with transitive closure on trees.</title>
+<pages>101467</pages>
+<year>2020</year>
+<volume>89</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2019.101467</ee>
+<url>db/journals/is/is89.html#HellingsGWGBVF20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GuptaRHS20" mdate="2021-07-25">
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>ResilientDB: Global Scale Resilient Blockchain Fabric.</title>
+<pages>868-883</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p868-gupta.pdf</ee>
+<ee>https://doi.org/10.14778/3380750.3380757</ee>
+<url>db/journals/pvldb/pvldb13.html#GuptaRHS20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/RahnamaGQHS20" mdate="2021-07-25">
+<author pid="252/5735">Sajjad Rahnama</author>
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="166/8355">Thamir Qadah</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Scalable, Resilient and Configurable Permissioned Blockchain Fabric.</title>
+<pages>2893-2896</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2893-rahnama.pdf</ee>
+<ee>https://doi.org/10.14778/3415478.3415502</ee>
+<url>db/journals/pvldb/pvldb13.html#RahnamaGQHS20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GuptaHRS20" mdate="2021-07-25">
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Building High Throughput Permissioned Blockchain Fabrics: Challenges and Opportunities.</title>
+<pages>3441-3444</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p3441-gupta.pdf</ee>
+<ee>https://doi.org/10.14778/3415478.3415565</ee>
+<url>db/journals/pvldb/pvldb13.html#GuptaHRS20</url>
+</article>
+</r>
+<r><inproceedings key="conf/debs/GuptaHRS20" mdate="2022-04-09">
+<author orcid="0000-0002-3240-1840" pid="136/5662">Suyash Gupta</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Blockchain consensus unraveled: virtues and limitations.</title>
+<pages>218-221</pages>
+<year>2020</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/3401025.3404099</ee>
+<crossref>conf/debs/2020</crossref>
+<url>db/conf/debs/debs2020.html#GuptaHRS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/HellingsS20" mdate="2021-07-25">
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Coordination-Free Byzantine Replication with Minimal Communication Costs.</title>
+<pages>17:1-17:20</pages>
+<year>2020</year>
+<booktitle>ICDT</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICDT.2020.17</ee>
+<crossref>conf/icdt/2020</crossref>
+<url>db/conf/icdt/icdt2020.html#HellingsS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/time/HellingsW20" mdate="2020-09-16">
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="20/473">Yuqing Wu</author>
+<title>Stab-Forests: Dynamic Data Structures for Efficient Temporal Query Processing.</title>
+<pages>18:1-18:19</pages>
+<year>2020</year>
+<booktitle>TIME</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.TIME.2020.18</ee>
+<crossref>conf/time/2020</crossref>
+<url>db/conf/time/time2020.html#HellingsW20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/Hellings20" mdate="2020-11-17">
+<author pid="05/10671">Jelle Hellings</author>
+<title>Explaining Results of Path Queries on Graphs - Single-Path Results for Context-Free Path Queries.</title>
+<pages>84-98</pages>
+<year>2020</year>
+<booktitle>SFDI/LSGDA@VLDB</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-61133-0_7</ee>
+<crossref>conf/vldb/2020sfdi-lsgda</crossref>
+<url>db/conf/vldb/sfdi-lsgda2020.html#Hellings20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-00160" mdate="2020-02-10">
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>ResilientDB: Global Scale Resilient Blockchain Fabric.</title>
+<year>2020</year>
+<volume>abs/2002.00160</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.00160</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-00160</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-04450" mdate="2020-08-14">
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="272/4191">Daniel P. Hughes</author>
+<author pid="272/4407">Joshua Primero</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>Cerberus: Minimalistic Multi-shard Byzantine-resilient Transaction Processing.</title>
+<year>2020</year>
+<volume>abs/2008.04450</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.04450</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-04450</url>
+</article>
+</r>
+<r><article key="journals/amai/HellingsGGW19" mdate="2019-11-07">
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0002-5197-2817" pid="g/MarcGyssens">Marc Gyssens</author>
+<author pid="g/DirkVanGucht">Dirk Van Gucht</author>
+<author pid="20/473">Yuqing Wu</author>
+<title>First-order definable counting-only queries.</title>
+<pages>109-136</pages>
+<year>2019</year>
+<volume>87</volume>
+<journal>Ann. Math. Artif. Intell.</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1007/s10472-019-09652-8</ee>
+<url>db/journals/amai/amai87.html#HellingsGGW19</url>
+</article>
+</r>
+<r><article key="journals/jcss/GyssensHPGWW19" mdate="2022-04-09">
+<author orcid="0000-0002-5197-2817" pid="g/MarcGyssens">Marc Gyssens</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<author pid="g/DirkVanGucht">Dirk Van Gucht</author>
+<author orcid="0000-0001-8216-273X" pid="w/JefWijsen">Jef Wijsen</author>
+<author pid="20/473">Yuqing Wu</author>
+<title>Calculi for symmetric queries.</title>
+<pages>54-86</pages>
+<year>2019</year>
+<volume>105</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<ee>https://doi.org/10.1016/j.jcss.2019.04.003</ee>
+<url>db/journals/jcss/jcss105.html#GyssensHPGWW19</url>
+</article>
+</r>
+<r><inproceedings key="conf/middleware/GuptaHRS19" mdate="2021-07-25">
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>An In-Depth Look of BFT Consensus in Blockchain: Challenges and Opportunities.</title>
+<pages>6-10</pages>
+<year>2019</year>
+<booktitle>Middleware Tutorials</booktitle>
+<ee>https://doi.org/10.1145/3366625.3369437</ee>
+<crossref>conf/middleware/2019t</crossref>
+<url>db/conf/middleware/middleware2019t.html#GuptaHRS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/GuptaHS19" mdate="2022-04-09">
+<author orcid="0000-0002-3240-1840" pid="136/5662">Suyash Gupta</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Brief Announcement: Revisiting Consensus Protocols through Wait-Free Parallelization.</title>
+<pages>44:1-44:3</pages>
+<year>2019</year>
+<booktitle>DISC</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.DISC.2019.44</ee>
+<crossref>conf/wdag/2019</crossref>
+<url>db/conf/wdag/disc2019.html#GuptaHS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/HellingsS19" mdate="2021-07-25">
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Brief Announcement: The Fault-Tolerant Cluster-Sending Problem.</title>
+<pages>45:1-45:3</pages>
+<year>2019</year>
+<booktitle>DISC</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.DISC.2019.45</ee>
+<crossref>conf/wdag/2019</crossref>
+<url>db/conf/wdag/disc2019.html#HellingsS19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-01455" mdate="2019-08-09">
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>The fault-tolerant cluster-sending problem.</title>
+<year>2019</year>
+<volume>abs/1908.01455</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.01455</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-01455</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-01458" mdate="2019-08-09">
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>Revisiting consensus protocols through wait-free parallelization.</title>
+<year>2019</year>
+<volume>abs/1908.01458</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.01458</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-01458</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-00837" mdate="2019-11-11">
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>Scaling Blockchain Databases through Parallel Resilient Consensus Paradigm.</title>
+<year>2019</year>
+<volume>abs/1911.00837</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.00837</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-00837</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-00838" mdate="2019-11-11">
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>Proof-of-Execution: Reaching Consensus through Fault-Tolerant Speculation.</title>
+<year>2019</year>
+<volume>abs/1911.00838</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.00838</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-00838</url>
+</article>
+</r>
+<r><phdthesis key="phd/be/Hellings18" mdate="2023-10-30">
+<author pid="05/10671">Jelle Hellings</author>
+<title>On Tarski's Relation Algebra: Querying trees and chains, and the semi-join algebra</title>
+<school>Hasselt University, Belgium</school>
+<year>2018</year>
+<note type="source">Hassel University oai:documentserver.uhasselt.be:1942/25932</note>
+<ee>https://hdl.handle.net/1942/25932</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/foiks/HellingsGGW18" mdate="2022-04-09">
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0002-5197-2817" pid="g/MarcGyssens">Marc Gyssens</author>
+<author pid="g/DirkVanGucht">Dirk Van Gucht</author>
+<author pid="20/473">Yuqing Wu</author>
+<title>First-Order Definable Counting-Only Queries.</title>
+<pages>225-243</pages>
+<year>2018</year>
+<booktitle>FoIKS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-90050-6_13</ee>
+<crossref>conf/foiks/2018</crossref>
+<url>db/conf/foiks/foiks2018.html#HellingsGGW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/foiks/HellingsWGG18" mdate="2022-04-09">
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="20/473">Yuqing Wu</author>
+<author orcid="0000-0002-5197-2817" pid="g/MarcGyssens">Marc Gyssens</author>
+<author pid="g/DirkVanGucht">Dirk Van Gucht</author>
+<title>The Power of Tarski's Relation Algebra on Trees.</title>
+<pages>244-264</pages>
+<year>2018</year>
+<booktitle>FoIKS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-90050-6_14</ee>
+<crossref>conf/foiks/2018</crossref>
+<url>db/conf/foiks/foiks2018.html#HellingsWGG18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-01390" mdate="2021-11-15">
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="g/MarcGyssens">Marc Gyssens</author>
+<author pid="20/473">Yuqing Wu</author>
+<author pid="g/DirkVanGucht">Dirk Van Gucht</author>
+<author pid="b/JVdBussche">Jan Van den Bussche</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<title>Comparing Downward Fragments of the Relational Calculus with Transitive Closure on Trees.</title>
+<year>2018</year>
+<volume>abs/1803.01390</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.01390</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-01390</url>
+</article>
+</r>
+<r><inproceedings key="conf/dbpl/HellingsPGGW17" mdate="2022-04-09">
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="205/5322">Catherine L. Pilachowski</author>
+<author pid="g/DirkVanGucht">Dirk Van Gucht</author>
+<author orcid="0000-0002-5197-2817" pid="g/MarcGyssens">Marc Gyssens</author>
+<author pid="20/473">Yuqing Wu</author>
+<title>From relation algebra to semi-join algebra: an approach for graph query optimization.</title>
+<pages>5:1-5:10</pages>
+<year>2017</year>
+<booktitle>DBPL</booktitle>
+<ee>https://doi.org/10.1145/3122831.3122833</ee>
+<crossref>conf/dbpl/2017</crossref>
+<url>db/conf/dbpl/dbpl2017.html#HellingsPGGW17</url>
+</inproceedings>
+</r>
+<r><article key="journals/amai/HellingsGPW16" mdate="2022-04-09">
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0002-5197-2817" pid="g/MarcGyssens">Marc Gyssens</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<author pid="20/473">Yuqing Wu</author>
+<title>Implication and axiomatization of functional and constant constraints.</title>
+<pages>251-279</pages>
+<year>2016</year>
+<volume>76</volume>
+<journal>Ann. Math. Artif. Intell.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1007/s10472-015-9473-7</ee>
+<url>db/journals/amai/amai76.html#HellingsGPW16</url>
+</article>
+</r>
+<r><inproceedings key="conf/dbpl/HellingsGWGBVF15" mdate="2022-04-09">
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0002-5197-2817" pid="g/MarcGyssens">Marc Gyssens</author>
+<author pid="20/473">Yuqing Wu</author>
+<author pid="g/DirkVanGucht">Dirk Van Gucht</author>
+<author orcid="0000-0003-0072-3252" pid="b/JVdBussche">Jan Van den Bussche</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<title>Relative expressive power of downward fragments of navigational query languages on trees and chains.</title>
+<pages>59-68</pages>
+<year>2015</year>
+<booktitle>DBPL</booktitle>
+<ee>https://doi.org/10.1145/2815072.2815081</ee>
+<crossref>conf/dbpl/2015</crossref>
+<url>db/conf/dbpl/dbpl2015.html#HellingsGWGBVF15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/Hellings15" mdate="2018-08-13">
+<author pid="05/10671">Jelle Hellings</author>
+<title>Path Results for Context-free Grammar Queries on Graphs.</title>
+<year>2015</year>
+<volume>abs/1502.02242</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1502.02242</ee>
+<url>db/journals/corr/corr1502.html#Hellings15</url>
+</article>
+</r>
+<r><inproceedings key="conf/foiks/HellingsGPW14" mdate="2022-04-09">
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0002-5197-2817" pid="g/MarcGyssens">Marc Gyssens</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<author pid="20/473">Yuqing Wu</author>
+<title>Implication and Axiomatization of Functional Constraints on Patterns with an Application to the RDF Data Model.</title>
+<pages>250-269</pages>
+<year>2014</year>
+<booktitle>FoIKS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-04939-7_12</ee>
+<crossref>conf/foiks/2014</crossref>
+<url>db/conf/foiks/foiks2014.html#HellingsGPW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/Hellings14" mdate="2017-05-23">
+<author pid="05/10671">Jelle Hellings</author>
+<title>Conjunctive Context-Free Path Queries.</title>
+<pages>119-130</pages>
+<year>2014</year>
+<booktitle>ICDT</booktitle>
+<ee>https://doi.org/10.5441/002/icdt.2014.15</ee>
+<crossref>conf/icdt/2014</crossref>
+<url>db/conf/icdt/icdt2014.html#Hellings14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/HellingsKBZ13" mdate="2022-10-02">
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0001-5774-0948" pid="k/BartKuijpers">Bart Kuijpers</author>
+<author orcid="0000-0003-0072-3252" pid="b/JVdBussche">Jan Van den Bussche</author>
+<author orcid="0000-0002-3931-3886" pid="54/1153">Xiaowang Zhang</author>
+<title>Walk logic as a framework for path query languages on graph databases.</title>
+<pages>117-128</pages>
+<year>2013</year>
+<booktitle>ICDT</booktitle>
+<ee>https://doi.org/10.1145/2448496.2448512</ee>
+<crossref>conf/icdt/2013</crossref>
+<url>db/conf/icdt/icdt2013.html#HellingsKBZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HellingsFH12" mdate="2021-11-15">
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<author pid="h/HermanJHaverkort">Herman J. Haverkort</author>
+<title>Efficient external-memory bisimulation on DAGs.</title>
+<pages>553-564</pages>
+<year>2012</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2213836.2213899</ee>
+<crossref>conf/sigmod/2012</crossref>
+<url>db/conf/sigmod/sigmod2012.html#HellingsFH12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1112-0857" mdate="2021-11-15">
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<author pid="h/HermanJHaverkort">Herman J. Haverkort</author>
+<title>I/O efficient bisimulation partitioning on very large directed acyclic graphs</title>
+<ee type="oa">http://arxiv.org/abs/1112.0857</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1112.0857</volume>
+<url>db/journals/corr/corr1112.html#abs-1112-0857</url>
+</article>
+</r>
+<coauthors n="19" nc="2">
+<co c="0"><na f="b/Bussche:Jan_Van_den" pid="b/JVdBussche">Jan Van den Bussche</na></co>
+<co c="0" n="2"><na f="f/Fletcher_0001:George" pid="f/GeorgeHLFletcher">George Fletcher 0001</na><na>George H. L. Fletcher</na></co>
+<co c="0"><na f="g/Gucht:Dirk_Van" pid="g/DirkVanGucht">Dirk Van Gucht</na></co>
+<co c="1"><na f="g/Gupta:Suyash" pid="136/5662">Suyash Gupta</na></co>
+<co c="0"><na f="g/Gyssens:Marc" pid="g/MarcGyssens">Marc Gyssens</na></co>
+<co c="0"><na f="h/Haverkort:Herman_J=" pid="h/HermanJHaverkort">Herman J. Haverkort</na></co>
+<co c="1"><na f="h/Hughes:Daniel_P=" pid="272/4191">Daniel P. Hughes</na></co>
+<co c="1"><na f="k/Kang:Dakai" pid="339/7333">Dakai Kang</na></co>
+<co c="0"><na f="k/Kuijpers:Bart" pid="k/BartKuijpers">Bart Kuijpers</na></co>
+<co c="0"><na f="p/Paredaens:Jan" pid="p/JParedaens">Jan Paredaens</na></co>
+<co c="0"><na f="p/Pilachowski:Catherine_L=" pid="205/5322">Catherine L. Pilachowski</na></co>
+<co c="1"><na f="p/Primero:Joshua" pid="272/4407">Joshua Primero</na></co>
+<co c="1"><na f="q/Qadah:Thamir" pid="166/8355">Thamir Qadah</na></co>
+<co c="1"><na f="r/Rahnama:Sajjad" pid="252/5735">Sajjad Rahnama</na></co>
+<co c="1"><na f="s/Sadoghi:Mohammad" pid="56/7016">Mohammad Sadoghi</na></co>
+<co c="0"><na f="v/Vansummeren:Stijn" pid="28/3797">Stijn Vansummeren</na></co>
+<co c="0"><na f="w/Wijsen:Jef" pid="w/JefWijsen">Jef Wijsen</na></co>
+<co c="0"><na f="w/Wu:Yuqing" pid="20/473">Yuqing Wu</na></co>
+<co c="0"><na f="z/Zhang:Xiaowang" pid="54/1153">Xiaowang Zhang</na></co>
+</coauthors>
+</dblpperson>

@@ -1,0 +1,1811 @@
+<dblpperson name="Alkis Simitsis" pid="s/ASimitsis" n="119">
+<person key="homepages/s/ASimitsis" mdate="2024-02-07">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<url>https://web.imsi.athenarc.gr/~alkis/</url>
+<url>https://dl.acm.org/profile/81100325947</url>
+<url>https://orcid.org/0009-0006-6078-5323</url>
+<note type="affiliation">Athena Research Center, Greece</note>
+<note label="former" type="affiliation">HP/HPE Labs, USA</note>
+<note label="former" type="affiliation">IBM Almaden Research Center, USA</note>
+</person>
+<r><inproceedings key="conf/edbt/CarvalhoQ0STB24" mdate="2024-03-22">
+<author pid="371/0910">Marcos N. L. Carvalho</author>
+<author pid="82/6372">Anna Queralt</author>
+<author pid="r/OscarRomero">Oscar Romero 0001</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="355/0930">Cristian Tatu</author>
+<author pid="88/929">Rosa M. Badia</author>
+<title>Performance Analysis of Distributed GPU-Accelerated Task-Based Workflows.</title>
+<pages>690-703</pages>
+<year>2024</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.48786/edbt.2024.59</ee>
+<crossref>conf/edbt/2024</crossref>
+<url>db/conf/edbt/edbt2024.html#CarvalhoQ0STB24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/FilippopolitisF24" mdate="2024-03-22">
+<author pid="371/0892">Kostas Filippopolitis</author>
+<author pid="147/8896">Yannis Foufoulas</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="123/5458">Apostolos Glenis</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<author pid="371/1184">Thanasis-Michail Karampatsis</author>
+<author pid="371/0886">Maria-Olympia Katsouli</author>
+<author pid="371/0858">Evdokia Mailli</author>
+<author pid="371/1001">Asimakis Papageorgiou-Mariglis</author>
+<author pid="90/3673">Giorgos Papanikos</author>
+<author pid="251/0508">George Pikramenos</author>
+<author pid="165/3376">Jason Sakellariou</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="357/0253">Pauline Ducouret</author>
+<author pid="116/8915">Philippe Ryvlin</author>
+<author pid="371/0925">Manuel-Guy Spuhler</author>
+<title>MIP: Advanced Data Processing and Analytics for Science and Medicine.</title>
+<pages>802-805</pages>
+<year>2024</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.48786/edbt.2024.74</ee>
+<crossref>conf/edbt/2024</crossref>
+<url>db/conf/edbt/edbt2024.html#FilippopolitisF24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semco/TahaLSI24" mdate="2024-03-27">
+<author pid="371/7183">Ibraheem Taha</author>
+<author pid="139/1128">Matteo Lissandrini</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<title>A Study on Efficient Indexing for Table Search in Data Lakes.</title>
+<pages>245-252</pages>
+<year>2024</year>
+<booktitle>ICSC</booktitle>
+<ee>https://doi.org/10.1109/ICSC59802.2024.00046</ee>
+<crossref>conf/semco/2024</crossref>
+<url>db/conf/semco/icsc2024.html#TahaLSI24</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/FoufoulasS23" mdate="2023-10-23">
+<author pid="147/8896">Yannis Foufoulas</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>Efficient Execution of User-Defined Functions in SQL Queries.</title>
+<pages>3874-3877</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p3874-simitsis.pdf</ee>
+<ee>https://doi.org/10.14778/3611540.3611574</ee>
+<url>db/journals/pvldb/pvldb16.html#FoufoulasS23</url>
+</article>
+</r>
+<r><inproceedings key="conf/de/LunghiSCB23" mdate="2023-09-24">
+<author orcid="0000-0003-1324-981X" pid="351/0848">Daniele Lunghi</author>
+<author orcid="0009-0006-6078-5323" pid="s/ASimitsis">Alkis Simitsis</author>
+<author orcid="0000-0001-6970-9825" pid="55/445">Olivier Caelen</author>
+<author orcid="0000-0001-8621-316X" pid="64/6336">Gianluca Bontempi</author>
+<title>Adversarial Learning in Real-World Fraud Detection: Challenges and Perspectives.</title>
+<pages>27-33</pages>
+<year>2023</year>
+<booktitle>DEC@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3600046.3600051</ee>
+<crossref>conf/de/2023</crossref>
+<url>db/conf/de/dec2023.html#LunghiSCB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dolap/SimitsisSV23" mdate="2023-04-19">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="01/5237">Spiros Skiadopoulos</author>
+<author pid="13/1242">Panos Vassiliadis</author>
+<title>The History, Present, and Future of ETL Technology (invited).</title>
+<pages>3-12</pages>
+<year>2023</year>
+<booktitle>DOLAP</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3369/invited1.pdf</ee>
+<crossref>conf/dolap/2023</crossref>
+<url>db/conf/dolap/dolap2023.html#SimitsisSV23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/KarvelasFSI23" mdate="2023-05-12">
+<author pid="346/2433">Antonios Karvelas</author>
+<author pid="147/8896">Yannis Foufoulas</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<title>Toulouse: Learning Join Order Optimization Policies for Rule-based Data Engines.</title>
+<year>2023</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3379/DataPlat_2023_604.pdf</ee>
+<crossref>conf/edbt/2023w</crossref>
+<url>db/conf/edbt/edbt2023w.html#KarvelasFSI23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/FoufoulasS23" mdate="2023-07-27">
+<author pid="147/8896">Yannis Foufoulas</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>User-Defined Functions in Modern Data Engines.</title>
+<pages>3593-3598</pages>
+<year>2023</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE55515.2023.00276</ee>
+<crossref>conf/icde/2023</crossref>
+<url>db/conf/icde/icde2023.html#FoufoulasS23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-01390" mdate="2023-09-19">
+<author pid="351/0848">Daniele Lunghi</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="55/445">Olivier Caelen</author>
+<author pid="64/6336">Gianluca Bontempi</author>
+<title>Adversarial Learning in Real-World Fraud Detection: Challenges and Perspectives.</title>
+<year>2023</year>
+<volume>abs/2307.01390</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.01390</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-01390</url>
+</article>
+</r>
+<r><article key="journals/pvldb/FoufoulasSSI22" mdate="2023-10-23">
+<author pid="147/8896">Yannis E. Foufoulas</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="33/8419">Eleftherios Stamatogiannakis</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<title>YeSQL: "You extend SQL" with Rich and Highly Performant User-Defined Functions in Relational Databases.</title>
+<pages>2270-2283</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p2270-foufoulas.pdf</ee>
+<ee>https://doi.org/10.14778/3547305.3547328</ee>
+<url>db/journals/pvldb/pvldb15.html#FoufoulasSSI22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/FoufoulasSI22" mdate="2023-10-23">
+<author pid="147/8896">Yannis E. Foufoulas</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<title>YeSQL: Rich User-Defined Functions without the Overhead.</title>
+<pages>3730-3733</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p3730-foufoulas.pdf</ee>
+<ee>https://doi.org/10.14778/3554821.3554886</ee>
+<url>db/journals/pvldb/pvldb15.html#FoufoulasSI22</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/0002KSGD22" mdate="2022-04-19">
+<author pid="40/1572-2">George Stamatakis 0002</author>
+<author pid="261/2671">Antonis Kontaxakis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<title>SheerMP: Optimized Streaming Analytics-as-a-Service over Multi-site and Multi-platform Settings.</title>
+<pages>2:558-2:561</pages>
+<year>2022</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.48786/edbt.2022.50</ee>
+<crossref>conf/edbt/2022</crossref>
+<url>db/conf/edbt/edbt2022.html#0002KSGD22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/TsesmelisS22" mdate="2022-08-05">
+<author pid="307/4597">Dimitris Tsesmelis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>Database Optimizers in the Era of Learning.</title>
+<pages>3213-3216</pages>
+<year>2022</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE53745.2022.00301</ee>
+<crossref>conf/icde/2022</crossref>
+<url>db/conf/icde/icde2022.html#TsesmelisS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/DeligiannakisGK21" mdate="2023-03-10">
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="17/1242">Nikos Giatrakos</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<author pid="17/5839">Vasilis Samoladas</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>Extreme-Scale Interactive Cross-Platform Streaming Analytics - The INFORE Approach.</title>
+<pages>7-13</pages>
+<year>2021</year>
+<booktitle>SEA-Data@VLDB</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2929/paper2.pdf</ee>
+<crossref>conf/vldb/2021seadata</crossref>
+<url>db/conf/vldb/seadata2021.html#DeligiannakisGK21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/GiatrakosABDGKK20" mdate="2023-09-30">
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="185/2494">David Arnu</author>
+<author pid="276/4999">Theodoros Bitsakis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="k/RalfKlinkenberg">Ralf Klinkenberg</author>
+<author pid="276/5085">Aris Konidaris</author>
+<author pid="261/2671">Antonis Kontaxakis</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<author pid="17/5839">Vasilis Samoladas</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="40/1572-2">George Stamatakis 0002</author>
+<author pid="225/9460">Fabian Temme</author>
+<author pid="276/5033">Mate Torok</author>
+<author pid="59/10810">Edwin Yaqub</author>
+<author orcid="0000-0002-7696-1241" pid="122/8910">Arnau Montagud</author>
+<author orcid="0000-0002-7496-844X" pid="74/4153">Miguel Ponce de Leon</author>
+<author pid="47/3719-3">Holger Arndt 0003</author>
+<author pid="184/9978">Stefan Burkard</author>
+<title>INforE: Interactive Cross-platform Analytics for Everyone.</title>
+<pages>3389-3392</pages>
+<year>2020</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3340531.3417435</ee>
+<crossref>conf/cikm/2020</crossref>
+<url>db/conf/cikm/cikm2020.html#GiatrakosABDGKK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/ArvanitisBCPSW19" mdate="2020-03-12">
+<author pid="08/7993">Anastasios Arvanitis</author>
+<author pid="b/ShivnathBabu">Shivnath Babu</author>
+<author pid="83/3305">Eric Chu</author>
+<author pid="44/5798">Adrian Popescu</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="w/KevinWilkinson">Kevin Wilkinson</author>
+<title>Automated Performance Management for the Big Data Stack.</title>
+<year>2019</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2019/papers/p150-arvanitis-cidr19.pdf</ee>
+<crossref>conf/cidr/2019</crossref>
+<url>db/conf/cidr/cidr2019.html#ArvanitisBCPSW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GiannakourisFSB19" mdate="2019-06-22">
+<author pid="176/4997">Victor Giannakouris</author>
+<author pid="76/1154">Alejandro Fernandez</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="b/ShivnathBabu">Shivnath Babu</author>
+<title>Cost-Effective, Workload-Adaptive Migration of Big Data Applications to the Cloud.</title>
+<pages>1909-1912</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3320240</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#GiannakourisFSB19</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijdsa/KougkaGS18" mdate="2020-04-25">
+<author pid="25/11534">Georgia Kougka</author>
+<author orcid="0000-0003-3976-7615" pid="g/AGounaris">Anastasios Gounaris</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>The many faces of data-centric workflow optimization: a survey.</title>
+<pages>81-107</pages>
+<year>2018</year>
+<volume>6</volume>
+<journal>Int. J. Data Sci. Anal.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s41060-018-0107-0</ee>
+<url>db/journals/ijdsa/ijdsa6.html#KougkaGS18</url>
+</article>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/SimitsisV18" mdate="2019-02-14">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="13/1242">Panos Vassiliadis</author>
+<title>Extraction, Transformation, and Loading.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_158</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/e2.html#SimitsisV18</url>
+</incollection>
+</r>
+<r><article key="journals/is/CuzzocreaSS17" mdate="2017-05-20">
+<author pid="c/AlfredoCuzzocrea">Alfredo Cuzzocrea</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="s/IlYeolSong">Il-Yeol Song</author>
+<title>Big Data Management: New Frontiers, New Paradigms.</title>
+<pages>63-65</pages>
+<year>2017</year>
+<volume>63</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2016.07.002</ee>
+<url>db/journals/is/is63.html#CuzzocreaSS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/KimuraSW17" mdate="2022-02-08">
+<author pid="98/5721-1">Hideaki Kimura 0001</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="w/KevinWilkinson">Kevin Wilkinson</author>
+<title>Janus: Transaction Processing of Navigation and Analytic Graph Queries on Many-core Servers.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/papers/p104-kimura-cidr17.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#KimuraSW17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/KoutrikaSI17" mdate="2021-01-29">
+<author pid="k/GeorgiaKoutrika">Georgia Koutrika</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<title>GnosisMiner: Reading Order Recommendations over Document Collections.</title>
+<pages>538-541</pages>
+<year>2017</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2017.64</ee>
+<crossref>conf/edbt/2017</crossref>
+<url>db/conf/edbt/edbt2017.html#KoutrikaSI17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/KougkaGS17" mdate="2018-08-13">
+<author pid="25/11534">Georgia Kougka</author>
+<author pid="g/AGounaris">Anastasios Gounaris</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>The Many Faces of Data-centric Workflow Optimization: A Survey.</title>
+<year>2017</year>
+<volume>abs/1701.07723</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1701.07723</ee>
+<url>db/journals/corr/corr1701.html#KougkaGS17</url>
+</article>
+</r>
+<r><article key="journals/tkde/0001RSA16" mdate="2020-12-29">
+<author orcid="0000-0003-4635-6646" pid="34/1397-1">Petar Jovanovic 0001</author>
+<author orcid="0000-0001-6350-8328" pid="r/OscarRomero">Oscar Romero 0001</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="88/2053">Alberto Abell&#243;</author>
+<title>Incremental Consolidation of Data-Intensive Multi-Flows.</title>
+<pages>1203-1216</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TKDE.2016.2515609</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2016.2515609</ee>
+<url>db/journals/tkde/tkde28.html#0001RSA16</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/GawadeKS16" mdate="2018-11-06">
+<author pid="15/6223">Mrunal Gawade</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>Multi-core column-store parallelization under concurrent workload.</title>
+<pages>1:1-1:10</pages>
+<year>2016</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2933349.2933350</ee>
+<crossref>conf/damon/2016</crossref>
+<url>db/conf/damon/damon2016.html#GawadeKS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/grades/DasSW16" mdate="2018-11-06">
+<author pid="21/7445">Mahashweta Das</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="w/KevinWilkinson">Kevin Wilkinson</author>
+<title>A hybrid solution for mixed workloads on dynamic graphs.</title>
+<pages>1</pages>
+<year>2016</year>
+<booktitle>GRADES</booktitle>
+<ee>https://doi.org/10.1145/2960414.2960415</ee>
+<crossref>conf/grades/2016</crossref>
+<url>db/conf/grades/grades2016.html#DasSW16</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/AbelloRPLNCS15" mdate="2022-10-02">
+<author orcid="0000-0002-3223-2186" pid="88/2053">Alberto Abell&#243;</author>
+<author orcid="0000-0001-6350-8328" pid="r/OscarRomero">Oscar Romero 0001</author>
+<author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<author orcid="0000-0002-9155-269X" pid="b/RafaelBerlangaLlavori">Rafael Berlanga Llavori</author>
+<author pid="03/5580">Victoria Nebot</author>
+<author orcid="0000-0002-8026-8351" pid="c/MJAramburuCabo">Mar&#237;a Jos&#233; Aramburu Cabo</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>Using Semantic Web Technologies for Exploratory OLAP: A Survey.</title>
+<pages>571-588</pages>
+<year>2015</year>
+<volume>27</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TKDE.2014.2330822</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2014.2330822</ee>
+<ee>https://www.wikidata.org/entity/Q99208336</ee>
+<url>db/journals/tkde/tkde27.html#AbelloRPLNCS15</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/0001RSACN15" mdate="2021-01-29">
+<author orcid="0000-0003-4635-6646" pid="34/1397-1">Petar Jovanovic 0001</author>
+<author orcid="0000-0001-6350-8328" pid="r/OscarRomero">Oscar Romero 0001</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="88/2053">Alberto Abell&#243;</author>
+<author pid="160/1105">H&#233;ctor Cand&#243;n</author>
+<author orcid="0000-0002-8565-952X" pid="160/1064">Sergi Nadal</author>
+<title>Quarry: Digging Up the Gems of Your Data Treasury.</title>
+<pages>549-552</pages>
+<year>2015</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2015.55</ee>
+<crossref>conf/edbt/2015</crossref>
+<url>db/conf/edbt/edbt2015.html#0001RSACN15</url>
+</inproceedings>
+</r>
+<r><article key="journals/is/0001RSAM14" mdate="2022-06-23">
+<author orcid="0000-0003-4635-6646" pid="34/1397-1">Petar Jovanovic 0001</author>
+<author orcid="0000-0001-6350-8328" pid="r/OscarRomero">Oscar Romero 0001</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author orcid="0000-0002-3223-2186" pid="88/2053">Alberto Abell&#243;</author>
+<author pid="145/5787">Daria Mayorova</author>
+<title>A requirement-driven approach to the design and evolution of data warehouses.</title>
+<pages>94-119</pages>
+<year>2014</year>
+<volume>44</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2014.01.004</ee>
+<url>db/journals/is/is44.html#0001RSAM14</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/0001SW14" mdate="2023-03-24">
+<author orcid="0000-0003-4635-6646" pid="34/1397-1">Petar Jovanovic 0001</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="w/KevinWilkinson">Kevin Wilkinson</author>
+<title>Engine independence for logical analytic flows.</title>
+<pages>1060-1071</pages>
+<year>2014</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2014.6816723</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2014.6816723</ee>
+<crossref>conf/icde/2014</crossref>
+<url>db/conf/icde/icde2014.html#0001SW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SimitsisWBW14" mdate="2018-11-06">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="w/KevinWilkinson">Kevin Wilkinson</author>
+<author pid="147/1217">Jason Blais</author>
+<author pid="49/4387">Joe Walsh</author>
+<title>VQA: vertica query analyzer.</title>
+<pages>701-704</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2594531</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#SimitsisWBW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/0001SW14" mdate="2018-11-06">
+<author orcid="0000-0003-4635-6646" pid="34/1397-1">Petar Jovanovic 0001</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="w/KevinWilkinson">Kevin Wilkinson</author>
+<title>BabbleFlow: a translator for analytic data flow programs.</title>
+<pages>713-716</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2594534</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#0001SW14</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dolap/2014" mdate="2014-11-05">
+<editor pid="s/IlYeolSong">Il-Yeol Song</editor>
+<editor pid="s/ASimitsis">Alkis Simitsis</editor>
+<editor pid="c/AlfredoCuzzocrea">Alfredo Cuzzocrea</editor>
+<title>Proceedings of the 17th International Workshop on Data Warehousing and OLAP, DOLAP 2014, Shanghai, China, November 3-7, 2014</title>
+<publisher>ACM</publisher>
+<year>2014</year>
+<isbn>978-1-4503-0999-8</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=2666158</ee>
+<booktitle>DOLAP</booktitle>
+<url>db/conf/dolap/dolap2014.html</url>
+</proceedings>
+</r>
+<r><article key="journals/fuin/SimitsisWD13" mdate="2020-09-18">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="w/KevinWilkinson">Kevin Wilkinson</author>
+<author pid="76/2198">Umeshwar Dayal</author>
+<title>Hybrid Analytic Flows - the Case for Optimization.</title>
+<pages>303-335</pages>
+<year>2013</year>
+<volume>128</volume>
+<journal>Fundam. Informaticae</journal>
+<number>3</number>
+<ee>https://doi.org/10.3233/FI-2013-948</ee>
+<url>db/journals/fuin/fuin128.html#SimitsisWD13</url>
+</article>
+</r>
+<r><article key="journals/is/KaragiannisVS13" mdate="2017-09-16">
+<author pid="24/4928">Anastasios Karagiannis</author>
+<author orcid="0000-0003-0085-6776" pid="13/1242">Panos Vassiliadis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>Scheduling strategies for efficient ETL execution.</title>
+<pages>927-945</pages>
+<year>2013</year>
+<volume>38</volume>
+<journal>Inf. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/j.is.2012.12.001</ee>
+<url>db/journals/is/is38.html#KaragiannisVS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/KoutrikaS13" mdate="2020-03-12">
+<author pid="k/GeorgiaKoutrika">Georgia Koutrika</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>Mirror mirror on the wall, which query's fairest of them all?</title>
+<year>2013</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2013/Papers/CIDR13_Paper146.pdf</ee>
+<crossref>conf/cidr/2013</crossref>
+<url>db/conf/cidr/cidr2013.html#KoutrikaS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SimitsisWDH13" mdate="2023-03-23">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="w/KevinWilkinson">Kevin Wilkinson</author>
+<author pid="76/2198">Umeshwar Dayal</author>
+<author pid="40/4895">Meichun Hsu</author>
+<title>HFMS: Managing the lifecycle and complexity of hybrid analytic data flows.</title>
+<pages>1174-1185</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544907</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544907</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#SimitsisWDH13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SayersSKGCH13" mdate="2018-11-06">
+<author pid="08/3862">Craig P. Sayers</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="k/GeorgiaKoutrika">Georgia Koutrika</author>
+<author pid="131/4165">Alejandro Guerrero Gonzalez</author>
+<author pid="131/4130">David Tamez Cantu</author>
+<author pid="40/4895">Meichun Hsu</author>
+<title>The farm: where pig scripts are bred and raised.</title>
+<pages>1025-1028</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2465250</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#SayersSKGCH13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SimitsisW013" mdate="2018-11-06">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="w/KevinWilkinson">Kevin Wilkinson</author>
+<author orcid="0000-0003-4635-6646" pid="34/1397-1">Petar Jovanovic 0001</author>
+<title>xPAD: a platform for analytic data flows.</title>
+<pages>1109-1112</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2465247</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#SimitsisW013</url>
+</inproceedings>
+</r>
+<r><article key="journals/jodsn/PapastefanatosVSV12" mdate="2020-09-08">
+<author orcid="0000-0002-9273-9843" pid="44/2379">George Papastefanatos</author>
+<author pid="13/1242">Panos Vassiliadis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="v/YannisVassiliou">Yannis Vassiliou</author>
+<title>Metrics for the Prediction of Evolution Impact in ETL Ecosystems: A Case Study.</title>
+<pages>75-97</pages>
+<year>2012</year>
+<volume>1</volume>
+<journal>J. Data Semant.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s13740-012-0006-9</ee>
+<url>db/journals/jodsn/jodsn1.html#PapastefanatosVSV12</url>
+</article>
+</r>
+<r><inproceedings key="conf/dawak/JovanovicRSA12" mdate="2022-06-23">
+<author orcid="0000-0003-4635-6646" pid="34/1397-1">Petar Jovanovic 0001</author>
+<author orcid="0000-0001-6350-8328" pid="r/OscarRomero">Oscar Romero 0001</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author orcid="0000-0002-3223-2186" pid="88/2053">Alberto Abell&#243;</author>
+<title>Integrating ETL Processes from Information Requirements.</title>
+<pages>65-80</pages>
+<year>2012</year>
+<booktitle>DaWaK</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-32584-7_6</ee>
+<crossref>conf/dawak/2012</crossref>
+<url>db/conf/dawak/dawak2012.html#JovanovicRSA12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dolap/0001RSA12" mdate="2022-06-23">
+<author orcid="0000-0003-4635-6646" pid="34/1397-1">Petar Jovanovic 0001</author>
+<author orcid="0000-0001-6350-8328" pid="r/OscarRomero">Oscar Romero 0001</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author orcid="0000-0002-3223-2186" pid="88/2053">Alberto Abell&#243;</author>
+<title>ORE: an iterative approach to the design and evolution of multi-dimensional schemas.</title>
+<pages>1-8</pages>
+<year>2012</year>
+<booktitle>DOLAP</booktitle>
+<ee>https://doi.org/10.1145/2390045.2390047</ee>
+<crossref>conf/dolap/2012</crossref>
+<url>db/conf/dolap/dolap2012.html#0001RSA12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/0001RSA12" mdate="2022-06-23">
+<author orcid="0000-0003-4635-6646" pid="34/1397-1">Petar Jovanovic 0001</author>
+<author orcid="0000-0001-6350-8328" pid="r/OscarRomero">Oscar Romero 0001</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author orcid="0000-0002-3223-2186" pid="88/2053">Alberto Abell&#243;</author>
+<title>Requirement-Driven Creation and Deployment of Multidimensional and ETL Designs.</title>
+<pages>391-395</pages>
+<year>2012</year>
+<booktitle>ER Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33999-8_47</ee>
+<crossref>conf/er/2012w</crossref>
+<url>db/conf/er/erw2012.html#0001RSA12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KokkalisVZSKI12" mdate="2018-11-06">
+<author pid="83/11411">Andreas Kokkalis</author>
+<author pid="43/11411">Panagiotis Vagenas</author>
+<author pid="44/11411">Alexandros Zervakis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="k/GeorgiaKoutrika">Georgia Koutrika</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<title>Logos: a system for translating queries into narratives.</title>
+<pages>673-676</pages>
+<year>2012</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2213836.2213929</ee>
+<crossref>conf/sigmod/2012</crossref>
+<url>db/conf/sigmod/sigmod2012.html#KokkalisVZSKI12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/IoriSPWH12" mdate="2018-11-06">
+<author pid="23/11411">Enrico Iori</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="p/ThemisPalpanas">Themis Palpanas</author>
+<author pid="w/KevinWilkinson">Kevin Wilkinson</author>
+<author pid="38/6308">Stavros Harizopoulos</author>
+<title>CloudAlloc: a monitoring and reservation system for compute clusters.</title>
+<pages>721-724</pages>
+<year>2012</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2213836.2213942</ee>
+<crossref>conf/sigmod/2012</crossref>
+<url>db/conf/sigmod/sigmod2012.html#IoriSPWH12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SimitsisWCD12" mdate="2018-11-06">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="w/KevinWilkinson">Kevin Wilkinson</author>
+<author pid="04/4211">Mal&#250; Castellanos</author>
+<author pid="76/2198">Umeshwar Dayal</author>
+<title>Optimizing analytic data flows for multiple execution engines.</title>
+<pages>829-840</pages>
+<year>2012</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2213836.2213963</ee>
+<crossref>conf/sigmod/2012</crossref>
+<url>db/conf/sigmod/sigmod2012.html#SimitsisWCD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/SimitsisGWD12" mdate="2019-03-25">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="75/4596-1">Chetan Gupta 0001</author>
+<author pid="w/KevinWilkinson">Kevin Wilkinson</author>
+<author pid="76/2198">Umeshwar Dayal</author>
+<title>Optimizing Flows for Real Time Operations Management.</title>
+<pages>607-612</pages>
+<year>2012</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31235-9_44</ee>
+<crossref>conf/ssdbm/2012</crossref>
+<url>db/conf/ssdbm/ssdbm2012.html#SimitsisGWD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpctc/SimitsisW12" mdate="2017-05-23">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="w/KevinWilkinson">Kevin Wilkinson</author>
+<title>Revisiting ETL Benchmarking: The Case for Hybrid Flows.</title>
+<pages>75-91</pages>
+<year>2012</year>
+<crossref>conf/tpctc/2012</crossref>
+<booktitle>TPCTC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-36727-4_6</ee>
+<url>db/conf/tpctc/tpctc2012.html#SimitsisW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/CuzzocreaS12" mdate="2018-11-06">
+<author orcid="0000-0002-7104-6415" pid="c/AlfredoCuzzocrea">Alfredo Cuzzocrea</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>Searching semantic data warehouses: models, issues, architectures.</title>
+<pages>6</pages>
+<year>2012</year>
+<booktitle>SSW@VLDB</booktitle>
+<ee>https://doi.org/10.1145/2494068.2494074</ee>
+<crossref>conf/vldb/2012ssw</crossref>
+<url>db/conf/vldb/ssw2012.html#CuzzocreaS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dawak/RomeroSA11" mdate="2022-06-23">
+<author orcid="0000-0001-6350-8328" pid="r/OscarRomero">Oscar Romero 0001</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author orcid="0000-0002-3223-2186" pid="88/2053">Alberto Abell&#243;</author>
+<title>GEM: Requirement-Driven Generation of ETL and Multidimensional Conceptual Designs.</title>
+<pages>80-95</pages>
+<year>2011</year>
+<booktitle>DaWaK</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-23544-3_7</ee>
+<crossref>conf/dawak/2011</crossref>
+<url>db/conf/dawak/dawak2011.html#RomeroSA11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/WilkinsonS11" mdate="2018-11-06">
+<author pid="w/KevinWilkinson">Kevin Wilkinson</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>Designing integration flows using hypercubes.</title>
+<pages>503-508</pages>
+<year>2011</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1951365.1951425</ee>
+<crossref>conf/edbt/2011</crossref>
+<url>db/conf/edbt/edbt2011.html#WilkinsonS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/SimitsisM11" mdate="2018-06-26">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="64/10316">Hans Van Mingroot</author>
+<title>Preface to the Industrial Track.</title>
+<pages>357</pages>
+<year>2011</year>
+<booktitle>ER Workshops</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-24574-9_50</ee>
+<crossref>conf/er/2011w</crossref>
+<url>db/conf/er/erw2011.html#SimitsisM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/PapastefanatosVS11" mdate="2023-03-24">
+<author orcid="0000-0002-9273-9843" pid="44/2379">George Papastefanatos</author>
+<author orcid="0000-0003-0085-6776" pid="13/1242">Panos Vassiliadis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>Propagating evolution events in data-centric software artifacts.</title>
+<pages>162-167</pages>
+<year>2011</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2011.5767629</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2011.5767629</ee>
+<crossref>conf/icde/2011w</crossref>
+<url>db/conf/icde/icdew2011.html#PapastefanatosVS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpctc/DayalWSCP11" mdate="2017-05-23">
+<author pid="76/2198">Umeshwar Dayal</author>
+<author pid="w/KevinWilkinson">Kevin Wilkinson</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="04/4211">Mal&#250; Castellanos</author>
+<author pid="120/1360">Lupita Paz</author>
+<title>Optimization of Analytic Data Flows for Next Generation Business Intelligence Applications.</title>
+<pages>46-66</pages>
+<year>2011</year>
+<booktitle>TPCTC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-32627-1_4</ee>
+<crossref>conf/tpctc/2011</crossref>
+<url>db/conf/tpctc/tpctc2011.html#DayalWSCP11</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/er/2011w" mdate="2020-10-25">
+<editor pid="57/2745">Olga De Troyer</editor>
+<editor orcid="0000-0003-1908-4753" pid="m/CBMedeiros">Claudia Bauzer Medeiros</editor>
+<editor orcid="0000-0002-3101-8057" pid="30/3781">Roland Billen</editor>
+<editor pid="54/4353">Pierre Hallot</editor>
+<editor pid="s/ASimitsis">Alkis Simitsis</editor>
+<editor pid="64/10316">Hans Van Mingroot</editor>
+<title>Advances in Conceptual Modeling. Recent Developments and New Directions - ER 2011 Workshops FP-UML, MoRE-BI, Onto-CoM, SeCoGIS, Variability@ER, WISM, Brussels, Belgium, October 31 - November 3, 2011. Proceedings</title>
+<volume>6999</volume>
+<year>2011</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<ee>https://doi.org/10.1007/978-3-642-24574-9</ee>
+<isbn>978-3-642-24573-2</isbn>
+<booktitle>ER Workshops</booktitle>
+<url>db/conf/er/erw2011.html</url>
+</proceedings>
+</r>
+<r><article key="journals/dke/SimitsisSC10" mdate="2022-02-21">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author orcid="0000-0002-6118-5227" pid="s/DimitriosSkoutas">Dimitrios Skoutas 0001</author>
+<author pid="04/4211">Mal&#250; Castellanos</author>
+<title>Representation of conceptual ETL designs in natural language using Semantic Web technology.</title>
+<pages>96-115</pages>
+<year>2010</year>
+<volume>69</volume>
+<journal>Data Knowl. Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.datak.2009.08.009</ee>
+<url>db/journals/dke/dke69.html#SimitsisSC10</url>
+</article>
+</r>
+<r><article key="journals/tsc/SkoutasSSS10" mdate="2022-02-21">
+<author orcid="0000-0002-6118-5227" pid="s/DimitriosSkoutas">Dimitrios Skoutas 0001</author>
+<author orcid="0000-0001-5022-1483" pid="19/4428">Dimitris Sacharidis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author orcid="0000-0002-9067-5639" pid="s/TimosKSellis">Timos K. Sellis</author>
+<title>Ranking and Clustering Web Services Using Multicriteria Dominance Relationships.</title>
+<pages>163-177</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>IEEE Trans. Serv. Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2010.14</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2010.14</ee>
+<url>db/journals/tsc/tsc3.html#SkoutasSSS10</url>
+</article>
+</r>
+<r><inproceedings key="conf/er/WilkinsonSCD10" mdate="2017-05-25">
+<author pid="w/KevinWilkinson">Kevin Wilkinson</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="04/4211">Mal&#250; Castellanos</author>
+<author pid="76/2198">Umeshwar Dayal</author>
+<title>Leveraging Business Process Models for ETL Design.</title>
+<pages>15-30</pages>
+<year>2010</year>
+<booktitle>ER</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-16373-9_2</ee>
+<crossref>conf/er/2010</crossref>
+<url>db/conf/er/er2010.html#WilkinsonSCD10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SimitsisGWD10" mdate="2023-03-23">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="75/4596-1">Chetan Gupta 0001</author>
+<author pid="62/3151-1">Song Wang 0001</author>
+<author pid="76/2198">Umeshwar Dayal</author>
+<title>Partitioning real-time ETL workflows.</title>
+<pages>159-162</pages>
+<year>2010</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2010.5452754</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2010.5452754</ee>
+<crossref>conf/icde/2010w</crossref>
+<url>db/conf/icde/icdew2010.html#SimitsisGWD10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KoutrikaSI10" mdate="2023-03-23">
+<author pid="k/GeorgiaKoutrika">Georgia Koutrika</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<title>Explaining structured queries in natural language.</title>
+<pages>333-344</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447824</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447824</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#KoutrikaSI10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SimitsisWDC10" mdate="2023-03-24">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="w/KevinWilkinson">Kevin Wilkinson</author>
+<author pid="76/2198">Umeshwar Dayal</author>
+<author pid="04/4211">Mal&#250; Castellanos</author>
+<title>Optimizing ETL workflows for fault-tolerance.</title>
+<pages>385-396</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447816</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447816</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#SimitsisWDC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/PapastefanatosVSV10" mdate="2023-03-23">
+<author orcid="0000-0002-9273-9843" pid="44/2379">George Papastefanatos</author>
+<author orcid="0000-0003-0085-6776" pid="13/1242">Panos Vassiliadis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="v/YannisVassiliou">Yannis Vassiliou</author>
+<title>HECATAEUS: Regulating schema evolution.</title>
+<pages>1181-1184</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447778</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447778</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#PapastefanatosVSV10</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/DayalWSC09" mdate="2020-03-10">
+<author pid="76/2198">Umeshwar Dayal</author>
+<author pid="w/KevinWilkinson">Kevin Wilkinson</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="04/4211">Mal&#250; Castellanos</author>
+<title>Business Processes Meet Operational Business Intelligence.</title>
+<pages>35-41</pages>
+<year>2009</year>
+<volume>32</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<ee type="oa">http://sites.computer.org/debull/A09sept/umesh.pdf</ee>
+<url>db/journals/debu/debu32.html#DayalWSC09</url>
+</article>
+</r>
+<r><article key="journals/jods/SkoutasSS09" mdate="2022-02-21">
+<author orcid="0000-0002-6118-5227" pid="s/DimitriosSkoutas">Dimitrios Skoutas 0001</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author orcid="0000-0002-9067-5639" pid="s/TimosKSellis">Timos K. Sellis</author>
+<title>Ontology-Driven Conceptual Design of ETL Processes Using Graph Transformations.</title>
+<pages>120-146</pages>
+<year>2009</year>
+<volume>13</volume>
+<journal>J. Data Semant.</journal>
+<ee>https://doi.org/10.1007/978-3-642-03098-7_5</ee>
+<crossref>journals/jods/2009-13</crossref>
+<url>db/journals/jods/jods13.html#SkoutasSS09</url>
+</article>
+</r>
+<r><article key="journals/jods/PapastefanatosVSV09" mdate="2020-12-16">
+<author orcid="0000-0002-9273-9843" pid="44/2379">George Papastefanatos</author>
+<author orcid="0000-0003-0085-6776" pid="13/1242">Panos Vassiliadis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="v/YannisVassiliou">Yannis Vassiliou</author>
+<title>Policy-Regulated Management of ETL Evolution.</title>
+<pages>147-177</pages>
+<year>2009</year>
+<volume>13</volume>
+<journal>J. Data Semant.</journal>
+<ee>https://doi.org/10.1007/978-3-642-03098-7_6</ee>
+<crossref>journals/jods/2009-13</crossref>
+<url>db/journals/jods/jods13.html#PapastefanatosVSV09</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/PapastefanatosVSSV09" mdate="2020-06-15">
+<author orcid="0000-0002-9273-9843" pid="44/2379">George Papastefanatos</author>
+<author orcid="0000-0003-0085-6776" pid="13/1242">Panos Vassiliadis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author orcid="0000-0002-9067-5639" pid="s/TimosKSellis">Timos K. Sellis</author>
+<author pid="v/YannisVassiliou">Yannis Vassiliou</author>
+<title>Rule-Based Management of Schema Changes at ETL Sources.</title>
+<pages>55-62</pages>
+<year>2009</year>
+<booktitle>ADBIS (Workshops)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-12082-4_8</ee>
+<crossref>conf/adbis/2009w</crossref>
+<url>db/conf/adbis/adbis2009w.html#PapastefanatosVSSV09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/SimitsisI09" mdate="2020-03-12">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<title>DBMSs Should Talk Back Too.</title>
+<year>2009</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://www-db.cs.wisc.edu/cidr/cidr2009/Paper_119.pdf</ee>
+<crossref>conf/cidr/2009</crossref>
+<url>db/conf/cidr/cidr2009.html#SimitsisI09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dolap/VassiliadisSB09" mdate="2018-11-06">
+<author orcid="0000-0003-0085-6776" pid="13/1242">Panos Vassiliadis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="07/7536">Eftychia Baikousi</author>
+<title>A taxonomy of ETL activities.</title>
+<pages>25-32</pages>
+<year>2009</year>
+<booktitle>DOLAP</booktitle>
+<ee>https://doi.org/10.1145/1651291.1651297</ee>
+<crossref>conf/dolap/2009</crossref>
+<url>db/conf/dolap/dolap2009.html#VassiliadisSB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/DayalCSW09" mdate="2018-11-06">
+<author pid="76/2198">Umeshwar Dayal</author>
+<author pid="04/4211">Mal&#250; Castellanos</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="w/KevinWilkinson">Kevin Wilkinson</author>
+<title>Data integration flows for business intelligence.</title>
+<pages>1-11</pages>
+<year>2009</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1516360.1516362</ee>
+<crossref>conf/edbt/2009</crossref>
+<url>db/conf/edbt/edbt2009.html#DayalCSW09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/CastellanosSWD09" mdate="2018-11-06">
+<author pid="04/4211">Mal&#250; Castellanos</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="w/KevinWilkinson">Kevin Wilkinson</author>
+<author pid="76/2198">Umeshwar Dayal</author>
+<title>Automating the loading of business process data warehouses.</title>
+<pages>612-623</pages>
+<year>2009</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1516360.1516431</ee>
+<crossref>conf/edbt/2009</crossref>
+<url>db/conf/edbt/edbt2009.html#CastellanosSWD09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/SkoutasSSKS09" mdate="2022-02-21">
+<author orcid="0000-0002-6118-5227" pid="s/DimitriosSkoutas">Dimitrios Skoutas 0001</author>
+<author orcid="0000-0001-5022-1483" pid="19/4428">Dimitris Sacharidis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="k/VerenaKantere">Verena Kantere</author>
+<author orcid="0000-0002-9067-5639" pid="s/TimosKSellis">Timos K. Sellis</author>
+<title>Top-<i>k</i> dominant web services under multi-criteria matching.</title>
+<pages>898-909</pages>
+<year>2009</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1516360.1516463</ee>
+<crossref>conf/edbt/2009</crossref>
+<url>db/conf/edbt/edbt2009.html#SkoutasSSKS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SimitsisWCD09" mdate="2018-11-06">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="w/KevinWilkinson">Kevin Wilkinson</author>
+<author pid="04/4211">Mal&#250; Castellanos</author>
+<author pid="76/2198">Umeshwar Dayal</author>
+<title>QoX-driven ETL design: reducing the cost of ETL consulting engagements.</title>
+<pages>953-960</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559954</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#SimitsisWCD09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpctc/SimitsisVDKT09" mdate="2017-09-16">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author orcid="0000-0003-0085-6776" pid="13/1242">Panos Vassiliadis</author>
+<author pid="76/2198">Umeshwar Dayal</author>
+<author pid="24/4928">Anastasios Karagiannis</author>
+<author pid="28/3396">Vasiliki Tziovara</author>
+<title>Benchmarking ETL Workflows.</title>
+<pages>199-220</pages>
+<year>2009</year>
+<booktitle>TPCTC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-10424-4_15</ee>
+<crossref>conf/tpctc/2009</crossref>
+<url>db/conf/tpctc/tpctc2009.html#SimitsisVDKT09</url>
+</inproceedings>
+</r>
+<r><incollection key="series/anis/VassiliadisS09" mdate="2017-05-16">
+<author pid="13/1242">Panos Vassiliadis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>Near Real Time ETL.</title>
+<pages>1-31</pages>
+<year>2009</year>
+<booktitle>New Trends in Data Warehousing and Data Analysis</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-87431-9_2</ee>
+<crossref>series/anis/2009-3</crossref>
+<url>db/series/anis/anis3.html#VassiliadisS09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/dataware/SimitsisT09" mdate="2017-07-12">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="t/DimitriTheodoratos">Dimitri Theodoratos</author>
+<title>Data Warehouse Back-End Tools.</title>
+<pages>572-579</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Data Warehousing and Mining</booktitle>
+<ee>http://www.igi-global.com/Bookstore/Chapter.aspx?TitleId=10878</ee>
+<crossref>reference/dataware/2009</crossref>
+<url>db/reference/dataware/dataware2009.html#SimitsisT09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/dataware/TheodoratosXS09" mdate="2017-07-12">
+<author pid="t/DimitriTheodoratos">Dimitri Theodoratos</author>
+<author pid="78/538">Wugang Xu</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>Materialized View Selection for Data Warehouse Design.</title>
+<pages>1182-1187</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Data Warehousing and Mining</booktitle>
+<ee>http://www.igi-global.com/Bookstore/Chapter.aspx?TitleId=10972</ee>
+<crossref>reference/dataware/2009</crossref>
+<url>db/reference/dataware/dataware2009.html#TheodoratosXS09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/VassiliadisS09" mdate="2017-07-12">
+<author pid="13/1242">Panos Vassiliadis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>Extraction, Transformation, and Loading.</title>
+<pages>1095-1101</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_158</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/e.html#VassiliadisS09</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0909-1786" mdate="2018-08-13">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<title>DBMSs Should Talk Back Too</title>
+<ee type="oa">http://arxiv.org/abs/0909.1786</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0909.1786</volume>
+<url>db/journals/corr/corr0909.html#abs-0909-1786</url>
+</article>
+</r>
+<r><article key="journals/dss/SimitsisV08" mdate="2020-02-20">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author orcid="0000-0003-0085-6776" pid="13/1242">Panos Vassiliadis</author>
+<title>A method for the mapping of conceptual designs to logical blueprints for ETL processes.</title>
+<pages>22-40</pages>
+<year>2008</year>
+<volume>45</volume>
+<journal>Decis. Support Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.dss.2006.12.002</ee>
+<url>db/journals/dss/dss45.html#SimitsisV08</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SimitsisBSR08" mdate="2020-04-25">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="43/5772">Akanksha Baid</author>
+<author pid="65/5468">Yannis Sismanis</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<title>Multidimensional content eXploration.</title>
+<pages>660-671</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1453929.pdf</ee>
+<ee>https://doi.org/10.14778/1453856.1453929</ee>
+<url>db/journals/pvldb/pvldb1.html#SimitsisBSR08</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BaidBHNRRSSH08" mdate="2020-04-25">
+<author pid="43/5772">Akanksha Baid</author>
+<author orcid="0000-0003-3034-6259" pid="44/4147">Andrey Balmin</author>
+<author pid="78/4838">Heasoo Hwang</author>
+<author pid="65/2422">Erik Nijkamp</author>
+<author pid="r/JunRao">Jun Rao</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="65/5468">Yannis Sismanis</author>
+<author pid="v/FrankvanHam">Frank van Ham</author>
+<title>DBPubs: multidimensional exploration of database publications.</title>
+<pages>1456-1459</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1454199.pdf</ee>
+<ee>https://doi.org/10.14778/1454159.1454199</ee>
+<url>db/journals/pvldb/pvldb1.html#BaidBHNRRSSH08</url>
+</article>
+</r>
+<r><article key="journals/tkde/PolyzotisSVSF08" mdate="2022-01-03">
+<author pid="p/NeoklisPolyzotis">Neoklis Polyzotis</author>
+<author orcid="0000-0003-3465-8292" pid="01/5237">Spiros Skiadopoulos</author>
+<author orcid="0000-0003-0085-6776" pid="13/1242">Panos Vassiliadis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="60/302">Nils-Erik Frantzell</author>
+<title>Meshing Streaming Updates with Persistent Data in an Active Data Warehouse.</title>
+<pages>976-991</pages>
+<year>2008</year>
+<volume>20</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TKDE.2008.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2008.27</ee>
+<url>db/journals/tkde/tkde20.html#PolyzotisSVSF08</url>
+</article>
+</r>
+<r><article key="journals/vldb/SimitsisKI08" mdate="2017-05-28">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="k/GeorgiaKoutrika">Georgia Koutrika</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<title>Pr&#233;cis: from unstructured keywords as queries to structured databases as answers.</title>
+<year>2008</year>
+<volume>17</volume>
+<number>1</number>
+<pages>117-149</pages>
+<journal>VLDB J.</journal>
+<ee>https://doi.org/10.1007/s00778-007-0075-9</ee>
+<url>db/journals/vldb/vldb17.html#SimitsisKI08</url>
+</article>
+</r>
+<r><inproceedings key="conf/dolap/SimitsisSC08" mdate="2022-02-21">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author orcid="0000-0002-6118-5227" pid="s/DimitriosSkoutas">Dimitrios Skoutas 0001</author>
+<author pid="04/4211">Mal&#250; Castellanos</author>
+<title>Natural language reporting for ETL processes.</title>
+<pages>65-72</pages>
+<year>2008</year>
+<booktitle>DOLAP</booktitle>
+<ee>https://doi.org/10.1145/1458432.1458444</ee>
+<crossref>conf/dolap/2008</crossref>
+<url>db/conf/dolap/dolap2008.html#SimitsisSC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/SimitsisAKI08" mdate="2018-11-06">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="k/GeorgiaKoutrika">Georgia Koutrika</author>
+<author pid="18/709">Yannis Alexandrakis</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<title>Synthesizing structured text from logical database subsets.</title>
+<pages>428-439</pages>
+<year>2008</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1353343.1353396</ee>
+<crossref>conf/edbt/2008</crossref>
+<url>db/conf/edbt/edbt2008.html#SimitsisAKI08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/PapastefanatosVSV08" mdate="2017-05-25">
+<author pid="44/2379">George Papastefanatos</author>
+<author pid="13/1242">Panos Vassiliadis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="v/YannisVassiliou">Yannis Vassiliou</author>
+<title>Design Metrics for Data Warehouse Evolution.</title>
+<pages>440-454</pages>
+<year>2008</year>
+<booktitle>ER</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-87877-3_32</ee>
+<crossref>conf/er/2008</crossref>
+<url>db/conf/er/er2008.html#PapastefanatosVSV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/PapastefanatosVSAPV08" mdate="2008-08-13">
+<author pid="44/2379">George Papastefanatos</author>
+<author pid="13/1242">Panos Vassiliadis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="60/4290">Konstantinos Aggistalis</author>
+<author pid="16/1020">Fotini Pechlivani</author>
+<author pid="v/YannisVassiliou">Yannis Vassiliou</author>
+<title>Language Extensions for the Automation of Database Schema Evolution.</title>
+<pages>74-81</pages>
+<year>2008</year>
+<booktitle>ICEIS (1)</booktitle>
+<crossref>conf/iceis/2008-1</crossref>
+<url>db/conf/iceis/iceis2008-1.html#PapastefanatosVSAPV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semco/SkoutasSSS08" mdate="2023-03-23">
+<author orcid="0000-0002-6118-5227" pid="s/DimitriosSkoutas">Dimitrios Skoutas 0001</author>
+<author orcid="0000-0001-5022-1483" pid="19/4428">Dimitris Sacharidis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author orcid="0000-0002-9067-5639" pid="s/TimosKSellis">Timos K. Sellis</author>
+<title>Serving the Sky: Discovering and Selecting Semantic Web Services through Dynamic Skyline Queries.</title>
+<pages>222-229</pages>
+<year>2008</year>
+<booktitle>ICSC</booktitle>
+<ee>https://doi.org/10.1109/ICSC.2008.65</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICSC.2008.65</ee>
+<crossref>conf/semco/2008</crossref>
+<url>db/conf/semco/icsc2008.html#SkoutasSSS08</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/ercim/SkoutasSS08" mdate="2022-02-21">
+<author pid="s/DimitriosSkoutas">Dimitrios Skoutas 0001</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="s/TimosKSellis">Timos K. Sellis</author>
+<title>Discovery and Selection of Services on the Semantic Web.</title>
+<year>2008</year>
+<volume>2008</volume>
+<journal>ERCIM News</journal>
+<number>72</number>
+<ee type="oa">http://ercim-news.ercim.eu/discovery-and-selection-of-services-on-the-semantic-web</ee>
+<url>db/journals/ercim/ercim2008.html#SkoutasSS08</url>
+</article>
+</r>
+<r><article key="journals/ijswis/SkoutasS07" mdate="2023-08-28">
+<author orcid="0000-0002-6118-5227" pid="s/DimitriosSkoutas">Dimitrios Skoutas 0001</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>Ontology-Based Conceptual Design of ETL Processes for Both Structured and Semi-Structured Data.</title>
+<pages>1-24</pages>
+<year>2007</year>
+<volume>3</volume>
+<journal>Int. J. Semantic Web Inf. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.4018/jswis.2007100101</ee>
+<ee>https://www.wikidata.org/entity/Q114574504</ee>
+<url>db/journals/ijswis/ijswis3.html#SkoutasS07</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEscc/SkoutasSS07" mdate="2023-03-24">
+<author orcid="0000-0002-6118-5227" pid="s/DimitriosSkoutas">Dimitrios Skoutas 0001</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author orcid="0000-0002-9067-5639" pid="s/TimosKSellis">Timos K. Sellis</author>
+<title>A Ranking Mechanism for SemanticWeb Service Discovery.</title>
+<pages>41-48</pages>
+<year>2007</year>
+<crossref>conf/IEEEscc/2007w</crossref>
+<booktitle>IEEE SCW</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2007.8</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SERVICES.2007.8</ee>
+<url>db/conf/IEEEscc/scw2007.html#SkoutasSS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adbis/SellisS07" mdate="2018-11-02">
+<author orcid="0000-0002-9067-5639" pid="s/TimosKSellis">Timos K. Sellis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>ETL Workflows: From Formal Specification to Optimization.</title>
+<pages>1-11</pages>
+<year>2007</year>
+<crossref>conf/adbis/2007</crossref>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-75185-4_1</ee>
+<url>db/conf/adbis/adbis2007.html#SellisS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dawak/PapastefanatosVSV07" mdate="2017-05-21">
+<author pid="44/2379">George Papastefanatos</author>
+<author pid="13/1242">Panos Vassiliadis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="v/YannisVassiliou">Yannis Vassiliou</author>
+<title>What-If Analysis for Data Warehouse Evolution.</title>
+<pages>23-33</pages>
+<year>2007</year>
+<crossref>conf/dawak/2007</crossref>
+<booktitle>DaWaK</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74553-2_3</ee>
+<url>db/conf/dawak/dawak2007.html#PapastefanatosVSV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dolap/TziovaraVS07" mdate="2018-11-06">
+<author pid="28/3396">Vasiliki Tziovara</author>
+<author orcid="0000-0003-0085-6776" pid="13/1242">Panos Vassiliadis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>Deciding the physical implementation of ETL workflows.</title>
+<pages>49-56</pages>
+<year>2007</year>
+<crossref>conf/dolap/2007</crossref>
+<booktitle>DOLAP</booktitle>
+<ee>https://doi.org/10.1145/1317331.1317341</ee>
+<url>db/conf/dolap/dolap2007.html#TziovaraVS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/PolyzotisSVSF07" mdate="2023-03-23">
+<author pid="p/NeoklisPolyzotis">Neoklis Polyzotis</author>
+<author orcid="0000-0003-3465-8292" pid="01/5237">Spiros Skiadopoulos</author>
+<author orcid="0000-0003-0085-6776" pid="13/1242">Panos Vassiliadis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="60/302">Nils-Erik Frantzell</author>
+<title>Supporting Streaming Updates in an Active Data Warehouse.</title>
+<pages>476-485</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.367893</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2007.367893</ee>
+<url>db/conf/icde/icde2007.html#PolyzotisSVSF07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SimitsisKI07" mdate="2023-03-23">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="k/GeorgiaKoutrika">Georgia Koutrika</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<title>Generalized Pr&#233;cis Queries for Logical Database Subset Creation.</title>
+<pages>1382-1386</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.369017</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2007.369017</ee>
+<url>db/conf/icde/icde2007.html#SimitsisKI07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iqis/VassiliadisKTS07" mdate="2007-12-31">
+<author pid="13/1242">Panos Vassiliadis</author>
+<author pid="24/4928">Anastasios Karagiannis</author>
+<author pid="28/3396">Vasiliki Tziovara</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>Towards a Benchmark for ETL Workflows.</title>
+<pages>49-60</pages>
+<year>2007</year>
+<crossref>conf/iqis/2007</crossref>
+<booktitle>QDB</booktitle>
+<url>db/conf/iqis/qdb2007.html#VassiliadisKTS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nldb/SkoutasS07" mdate="2022-02-21">
+<author orcid="0000-0002-6118-5227" pid="s/DimitriosSkoutas">Dimitrios Skoutas 0001</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>Flexible and Customizable NL Representation of Requirements for ETL processes.</title>
+<pages>433-439</pages>
+<year>2007</year>
+<crossref>conf/nldb/2007</crossref>
+<booktitle>NLDB</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73351-5_42</ee>
+<url>db/conf/nldb/nldb2007.html#SkoutasS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/odbis/SkoutasKSS07" mdate="2022-02-21">
+<author orcid="0000-0002-6118-5227" pid="s/DimitriosSkoutas">Dimitrios Skoutas 0001</author>
+<author pid="k/VerenaKantere">Verena Kantere</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author orcid="0000-0002-9067-5639" pid="s/TimosKSellis">Timos K. Sellis</author>
+<title>Ontology-Based Data Sharing in P2P Databases.</title>
+<pages>117-137</pages>
+<year>2007</year>
+<booktitle>SWDB-ODBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-70960-2_7</ee>
+<crossref>conf/odbis/2007</crossref>
+<url>db/conf/odbis/odbis2007.html#SkoutasKSS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/caise/SimitsisK06" mdate="2018-12-23">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="k/GeorgiaKoutrika">Georgia Koutrika</author>
+<title>Comprehensible Answers to Pr&#233;cis Queries.</title>
+<pages>142-156</pages>
+<year>2006</year>
+<crossref>conf/caise/2006</crossref>
+<booktitle>CAiSE</booktitle>
+<ee type="oa">https://doi.org/10.1007/11767138_11</ee>
+<url>db/conf/caise/caise2006.html#SimitsisK06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dolap/SkoutasS06" mdate="2022-02-21">
+<author orcid="0000-0002-6118-5227" pid="s/DimitriosSkoutas">Dimitrios Skoutas 0001</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>Designing ETL processes using semantic web technologies.</title>
+<pages>67-74</pages>
+<year>2006</year>
+<crossref>conf/dolap/2006</crossref>
+<booktitle>DOLAP</booktitle>
+<ee>https://doi.org/10.1145/1183512.1183526</ee>
+<url>db/conf/dolap/dolap2006.html#SkoutasS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbtw/SimitsisK06" mdate="2017-05-19">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="k/GeorgiaKoutrika">Georgia Koutrika</author>
+<title>Pattern-Based Query Answering.</title>
+<pages>829-841</pages>
+<year>2006</year>
+<crossref>conf/edbtw/2006</crossref>
+<booktitle>EDBT Workshops</booktitle>
+<ee>https://doi.org/10.1007/11896548_62</ee>
+<url>db/conf/edbtw/edbtw2006.html#SimitsisK06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ercimdl/KoutrikaS06" mdate="2017-05-26">
+<author pid="k/GeorgiaKoutrika">Georgia Koutrika</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>An Enhanced Search Interface for Information Discovery from Digital Libraries.</title>
+<pages>87-98</pages>
+<year>2006</year>
+<crossref>conf/ercimdl/2006</crossref>
+<booktitle>ECDL</booktitle>
+<ee>https://doi.org/10.1007/11863878_8</ee>
+<url>db/conf/ercimdl/ecdl2006.html#KoutrikaS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KoutrikaSI06" mdate="2023-03-24">
+<author pid="k/GeorgiaKoutrika">Georgia Koutrika</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<title>Pr&#233;cis: The Essence of a Query Answer.</title>
+<pages>69-78</pages>
+<year>2006</year>
+<crossref>conf/icde/2006</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2006.114</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2006.114</ee>
+<url>db/conf/icde/icde2006.html#KoutrikaSI06</url>
+</inproceedings>
+</r>
+<r><article key="journals/is/VassiliadisSGTS05" mdate="2022-10-02">
+<author orcid="0000-0003-0085-6776" pid="13/1242">Panos Vassiliadis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="85/1440">Panos Georgantas</author>
+<author orcid="0000-0003-0784-8402" pid="t/ManolisTerrovitis">Manolis Terrovitis</author>
+<author orcid="0000-0003-3465-8292" pid="01/5237">Spiros Skiadopoulos</author>
+<title>A generic and customizable framework for the design of ETL scenarios.</title>
+<pages>492-525</pages>
+<year>2005</year>
+<volume>30</volume>
+<journal>Inf. Syst.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/j.is.2004.11.002</ee>
+<url>db/journals/is/is30.html#VassiliadisSGTS05</url>
+</article>
+</r>
+<r><article key="journals/tkde/SimitsisVS05" mdate="2018-11-02">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author orcid="0000-0003-0085-6776" pid="13/1242">Panos Vassiliadis</author>
+<author orcid="0000-0002-9067-5639" pid="s/TimosKSellis">Timos K. Sellis</author>
+<title>State-Space Optimization of ETL Workflows.</title>
+<pages>1404-1419</pages>
+<year>2005</year>
+<volume>17</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TKDE.2005.169</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2005.169</ee>
+<url>db/journals/tkde/tkde17.html#SimitsisVS05</url>
+</article>
+</r>
+<r><inproceedings key="conf/dawak/SimitsisVTS05" mdate="2022-10-02">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="13/1242">Panos Vassiliadis</author>
+<author orcid="0000-0003-0784-8402" pid="t/ManolisTerrovitis">Manolis Terrovitis</author>
+<author orcid="0000-0003-3465-8292" pid="01/5237">Spiros Skiadopoulos</author>
+<title>Graph-Based Modeling of ETL Activities with Multi-level Transformations and Updates.</title>
+<pages>43-52</pages>
+<year>2005</year>
+<crossref>conf/dawak/2005</crossref>
+<booktitle>DaWaK</booktitle>
+<ee>https://doi.org/10.1007/11546849_5</ee>
+<url>db/conf/dawak/dawak2005.html#SimitsisVTS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dolap/Simitsis05" mdate="2018-11-06">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>Mapping conceptual to logical models for ETL processes.</title>
+<pages>67-76</pages>
+<year>2005</year>
+<crossref>conf/dolap/2005</crossref>
+<booktitle>DOLAP</booktitle>
+<ee>https://doi.org/10.1145/1097002.1097014</ee>
+<url>db/conf/dolap/dolap2005.html#Simitsis05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/VassiliadisSTS05" mdate="2022-10-02">
+<author orcid="0000-0003-0085-6776" pid="13/1242">Panos Vassiliadis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author orcid="0000-0003-0784-8402" pid="t/ManolisTerrovitis">Manolis Terrovitis</author>
+<author orcid="0000-0003-3465-8292" pid="01/5237">Spiros Skiadopoulos</author>
+<title>Blueprints and Measures for ETL Workflows.</title>
+<pages>385-400</pages>
+<year>2005</year>
+<crossref>conf/er/2005</crossref>
+<booktitle>ER</booktitle>
+<ee>https://doi.org/10.1007/11568322_25</ee>
+<url>db/conf/er/er2005.html#VassiliadisSTS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SimitsisVS05" mdate="2023-03-24">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author orcid="0000-0003-0085-6776" pid="13/1242">Panos Vassiliadis</author>
+<author orcid="0000-0002-9067-5639" pid="s/TimosKSellis">Timos K. Sellis</author>
+<title>Optimizing ETL Processes in Data Warehouses.</title>
+<year>2005</year>
+<crossref>conf/icde/2005</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2005.html#SimitsisVS05</url>
+<pages>564-575</pages>
+<ee>https://doi.org/10.1109/ICDE.2005.103</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2005.103</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pci/BelsisSG05" mdate="2020-09-05">
+<author pid="08/1034">Meletis A. Belsis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author orcid="0000-0002-8037-2191" pid="83/4094">Stefanos Gritzalis</author>
+<title>Workflow Based Security Incident Management.</title>
+<pages>684-694</pages>
+<year>2005</year>
+<crossref>conf/pci/2005</crossref>
+<booktitle>Panhellenic Conference on Informatics</booktitle>
+<ee>https://doi.org/10.1007/11573036_65</ee>
+<url>db/conf/pci/pci2005.html#BelsisSG05</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="books/idea/encyclopediaDB2005/SimitsisVS05" mdate="2020-10-25">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author orcid="0000-0003-0085-6776" pid="13/1242">Panos Vassiliadis</author>
+<author orcid="0000-0002-9067-5639" pid="s/TimosKSellis">Timos K. Sellis</author>
+<title>Extraction-Transformation-Loading Processes.</title>
+<pages>240-245</pages>
+<year>2005</year>
+<crossref>books/idea/EncyDB05</crossref>
+<booktitle>Encyclopedia of Database Technologies and Applications</booktitle>
+<url>db/books/collections/encyclopediaDB2005.html#SimitsisVS05</url>
+<ee>https://doi.org/10.4018/978-1-59140-560-3.ch041</ee>
+</incollection>
+</r>
+<r><inproceedings key="conf/caise/SimitsisV03" mdate="2023-03-10">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="13/1242">Panos Vassiliadis</author>
+<title>A Methodology for the Conceptual Modeling of ETL Processes.</title>
+<year>2003</year>
+<crossref>conf/caise/2003ws</crossref>
+<booktitle>CAiSE Workshops</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-75/files/DSE_04.pdf</ee>
+<url>db/conf/caise/caisews2003.html#SimitsisV03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/caise/VassiliadisSGT03" mdate="2022-10-02">
+<author pid="13/1242">Panos Vassiliadis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="85/1440">Panos Georgantas</author>
+<author orcid="0000-0003-0784-8402" pid="t/ManolisTerrovitis">Manolis Terrovitis</author>
+<title>A Framework for the Design of ETL Scenarios.</title>
+<pages>520-535</pages>
+<year>2003</year>
+<crossref>conf/caise/2003</crossref>
+<booktitle>CAiSE</booktitle>
+<ee>https://doi.org/10.1007/3-540-45017-3_35</ee>
+<url>db/conf/caise/caise2003.html#VassiliadisSGT03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/Simitsis03" mdate="2023-03-10">
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>Modeling and managing ETL processes.</title>
+<year>2003</year>
+<crossref>conf/vldb/2003phd</crossref>
+<booktitle>VLDB PhD Workshop</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-76/simitsis.pdf</ee>
+<url>db/conf/vldb/vldb2003phd.html#Simitsis03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/caise/VassiliadisSS02" mdate="2017-05-26">
+<author pid="13/1242">Panos Vassiliadis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="01/5237">Spiros Skiadopoulos</author>
+<title>On the Logical Modeling of ETL Processes.</title>
+<pages>782-786</pages>
+<year>2002</year>
+<crossref>conf/caise/2002</crossref>
+<booktitle>CAiSE</booktitle>
+<ee>https://doi.org/10.1007/3-540-47961-9_67</ee>
+<url>db/conf/caise/caise2002.html#VassiliadisSS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dmdw/VassiliadisSS02" mdate="2023-03-10">
+<author pid="13/1242">Panos Vassiliadis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="01/5237">Spiros Skiadopoulos</author>
+<title>Modeling ETL activities as graphs.</title>
+<pages>52-61</pages>
+<year>2002</year>
+<crossref>conf/dmdw/2002</crossref>
+<booktitle>DMDW</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-58/simitsis.pdf</ee>
+<url>db/conf/dmdw/dmdw2002.html#VassiliadisSS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dolap/VassiliadisSS02" mdate="2022-01-03">
+<author pid="13/1242">Panos Vassiliadis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author orcid="0000-0003-3465-8292" pid="01/5237">Spiros Skiadopoulos</author>
+<title>Conceptual modeling for ETL processes.</title>
+<pages>14-21</pages>
+<year>2002</year>
+<crossref>conf/dolap/2002</crossref>
+<booktitle>DOLAP</booktitle>
+<ee>https://doi.org/10.1145/583890.583893</ee>
+<url>db/conf/dolap/dolap2002.html#VassiliadisSS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/TheodoratosDSS01" mdate="2022-04-09">
+<author pid="t/DimitriTheodoratos">Dimitri Theodoratos</author>
+<author orcid="0000-0002-5002-7901" pid="18/5542">Theodore Dalamagas 0001</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="65/3129">Manos Stavropoulos</author>
+<title>A Randomized Approach for the Incremental Design of an Evolving Data Warehouse.</title>
+<pages>325-338</pages>
+<year>2001</year>
+<crossref>conf/er/2001</crossref>
+<booktitle>ER</booktitle>
+<ee>https://doi.org/10.1007/3-540-45581-7_25</ee>
+<url>db/conf/er/er2001.html#TheodoratosDSS01</url>
+</inproceedings>
+</r>
+<coauthors n="124" nc="3">
+<co c="0"><na f="a/Abell=oacute=:Alberto" pid="88/2053">Alberto Abell&#243;</na></co>
+<co c="0"><na f="a/Aggistalis:Konstantinos" pid="60/4290">Konstantinos Aggistalis</na></co>
+<co c="0"><na f="a/Alexandrakis:Yannis" pid="18/709">Yannis Alexandrakis</na></co>
+<co c="0"><na f="a/Arndt_0003:Holger" pid="47/3719-3">Holger Arndt 0003</na></co>
+<co c="0"><na f="a/Arnu:David" pid="185/2494">David Arnu</na></co>
+<co c="0"><na f="a/Arvanitis:Anastasios" pid="08/7993">Anastasios Arvanitis</na></co>
+<co c="0"><na f="b/Babu:Shivnath" pid="b/ShivnathBabu">Shivnath Babu</na></co>
+<co c="0"><na f="b/Badia:Rosa_M=" pid="88/929">Rosa M. Badia</na></co>
+<co c="0"><na f="b/Baid:Akanksha" pid="43/5772">Akanksha Baid</na></co>
+<co c="0"><na f="b/Baikousi:Eftychia" pid="07/7536">Eftychia Baikousi</na></co>
+<co c="0"><na f="b/Balmin:Andrey" pid="44/4147">Andrey Balmin</na></co>
+<co c="1"><na f="b/Belsis:Meletis_A=" pid="08/1034">Meletis A. Belsis</na></co>
+<co c="0"><na f="b/Billen:Roland" pid="30/3781">Roland Billen</na></co>
+<co c="0"><na f="b/Bitsakis:Theodoros" pid="276/4999">Theodoros Bitsakis</na></co>
+<co c="0"><na f="b/Blais:Jason" pid="147/1217">Jason Blais</na></co>
+<co c="0"><na f="b/Bontempi:Gianluca" pid="64/6336">Gianluca Bontempi</na></co>
+<co c="0"><na f="b/Burkard:Stefan" pid="184/9978">Stefan Burkard</na></co>
+<co c="0"><na f="c/Cabo:Mar=iacute=a_Jos=eacute=_Aramburu" pid="c/MJAramburuCabo">Mar&#237;a Jos&#233; Aramburu Cabo</na></co>
+<co c="0"><na f="c/Caelen:Olivier" pid="55/445">Olivier Caelen</na></co>
+<co c="0"><na f="c/Cand=oacute=n:H=eacute=ctor" pid="160/1105">H&#233;ctor Cand&#243;n</na></co>
+<co c="0"><na f="c/Cantu:David_Tamez" pid="131/4130">David Tamez Cantu</na></co>
+<co c="0"><na f="c/Carvalho:Marcos_N=_L=" pid="371/0910">Marcos N. L. Carvalho</na></co>
+<co c="0"><na f="c/Castellanos:Mal=uacute=" pid="04/4211">Mal&#250; Castellanos</na></co>
+<co c="0"><na f="c/Chu:Eric" pid="83/3305">Eric Chu</na></co>
+<co c="0"><na f="c/Cuzzocrea:Alfredo" pid="c/AlfredoCuzzocrea">Alfredo Cuzzocrea</na></co>
+<co c="0"><na f="d/Dalamagas_0001:Theodore" pid="18/5542">Theodore Dalamagas 0001</na></co>
+<co c="0"><na f="d/Das:Mahashweta" pid="21/7445">Mahashweta Das</na></co>
+<co c="0"><na f="d/Dayal:Umeshwar" pid="76/2198">Umeshwar Dayal</na></co>
+<co c="0"><na f="d/Deligiannakis:Antonios" pid="d/ADeligiannakis">Antonios Deligiannakis</na></co>
+<co c="0"><na f="d/Ducouret:Pauline" pid="357/0253">Pauline Ducouret</na></co>
+<co c="0"><na f="f/Fernandez:Alejandro" pid="76/1154">Alejandro Fernandez</na></co>
+<co c="0"><na f="f/Filippopolitis:Kostas" pid="371/0892">Kostas Filippopolitis</na></co>
+<co c="0" n="3"><na f="f/Foufoulas:Ioannis" pid="147/8896">Ioannis Foufoulas</na><na>Yannis Foufoulas</na><na>Yannis E. Foufoulas</na></co>
+<co c="0"><na f="f/Frantzell:Nils=Erik" pid="60/302">Nils-Erik Frantzell</na></co>
+<co c="0"><na f="g/Garofalakis:Minos_N=" pid="g/MinosNGarofalakis">Minos N. Garofalakis</na></co>
+<co c="0"><na f="g/Gawade:Mrunal" pid="15/6223">Mrunal Gawade</na></co>
+<co c="0"><na f="g/Georgantas:Panos" pid="85/1440">Panos Georgantas</na></co>
+<co c="0"><na f="g/Giannakouris:Victor" pid="176/4997">Victor Giannakouris</na></co>
+<co c="0"><na f="g/Giatrakos:Nikos" pid="17/1242">Nikos Giatrakos</na></co>
+<co c="0"><na f="g/Glenis:Apostolos" pid="123/5458">Apostolos Glenis</na></co>
+<co c="0"><na f="g/Gonzalez:Alejandro_Guerrero" pid="131/4165">Alejandro Guerrero Gonzalez</na></co>
+<co c="2"><na f="g/Gounaris:Anastasios" pid="g/AGounaris">Anastasios Gounaris</na></co>
+<co c="1"><na f="g/Gritzalis:Stefanos" pid="83/4094">Stefanos Gritzalis</na></co>
+<co c="0"><na f="g/Gupta_0001:Chetan" pid="75/4596-1">Chetan Gupta 0001</na></co>
+<co c="0"><na f="h/Hallot:Pierre" pid="54/4353">Pierre Hallot</na></co>
+<co c="0"><na f="h/Ham:Frank_van" pid="v/FrankvanHam">Frank van Ham</na></co>
+<co c="0"><na f="h/Harizopoulos:Stavros" pid="38/6308">Stavros Harizopoulos</na></co>
+<co c="0"><na f="h/Hsu:Meichun" pid="40/4895">Meichun Hsu</na></co>
+<co c="0"><na f="h/Hwang:Heasoo" pid="78/4838">Heasoo Hwang</na></co>
+<co c="0"><na f="i/Ioannidis:Yannis_E=" pid="i/YEIoannidis">Yannis E. Ioannidis</na></co>
+<co c="0"><na f="i/Iori:Enrico" pid="23/11411">Enrico Iori</na></co>
+<co c="0"><na f="j/Jovanovic_0001:Petar" pid="34/1397-1">Petar Jovanovic 0001</na></co>
+<co c="0"><na f="k/Kantere:Verena" pid="k/VerenaKantere">Verena Kantere</na></co>
+<co c="0"><na f="k/Karagiannis:Anastasios" pid="24/4928">Anastasios Karagiannis</na></co>
+<co c="0"><na f="k/Karampatsis:Thanasis=Michail" pid="371/1184">Thanasis-Michail Karampatsis</na></co>
+<co c="0"><na f="k/Karvelas:Antonios" pid="346/2433">Antonios Karvelas</na></co>
+<co c="0"><na f="k/Katsouli:Maria=Olympia" pid="371/0886">Maria-Olympia Katsouli</na></co>
+<co c="0"><na f="k/Kersten:Martin_L=" pid="k/MartinLKersten">Martin L. Kersten</na></co>
+<co c="0"><na f="k/Kimura_0001:Hideaki" pid="98/5721-1">Hideaki Kimura 0001</na></co>
+<co c="0"><na f="k/Klinkenberg:Ralf" pid="k/RalfKlinkenberg">Ralf Klinkenberg</na></co>
+<co c="0"><na f="k/Kokkalis:Andreas" pid="83/11411">Andreas Kokkalis</na></co>
+<co c="0"><na f="k/Konidaris:Aris" pid="276/5085">Aris Konidaris</na></co>
+<co c="0"><na f="k/Kontaxakis:Antonis" pid="261/2671">Antonis Kontaxakis</na></co>
+<co c="0"><na f="k/Kotidis:Yannis" pid="k/YannisKotidis">Yannis Kotidis</na></co>
+<co c="2"><na f="k/Kougka:Georgia" pid="25/11534">Georgia Kougka</na></co>
+<co c="0"><na f="k/Koutrika:Georgia" pid="k/GeorgiaKoutrika">Georgia Koutrika</na></co>
+<co c="0"><na f="l/Leon:Miguel_Ponce_de" pid="74/4153">Miguel Ponce de Leon</na></co>
+<co c="0"><na f="l/Lissandrini:Matteo" pid="139/1128">Matteo Lissandrini</na></co>
+<co c="0"><na f="l/Llavori:Rafael_Berlanga" pid="b/RafaelBerlangaLlavori">Rafael Berlanga Llavori</na></co>
+<co c="0"><na f="l/Lunghi:Daniele" pid="351/0848">Daniele Lunghi</na></co>
+<co c="0"><na f="m/Mailli:Evdokia" pid="371/0858">Evdokia Mailli</na></co>
+<co c="0"><na f="m/Mayorova:Daria" pid="145/5787">Daria Mayorova</na></co>
+<co c="0"><na f="m/Medeiros:Claudia_Bauzer" pid="m/CBMedeiros">Claudia Bauzer Medeiros</na></co>
+<co c="0"><na f="m/Mingroot:Hans_Van" pid="64/10316">Hans Van Mingroot</na></co>
+<co c="0"><na f="m/Montagud:Arnau" pid="122/8910">Arnau Montagud</na></co>
+<co c="0"><na f="n/Nadal:Sergi" pid="160/1064">Sergi Nadal</na></co>
+<co c="0"><na f="n/Nebot:Victoria" pid="03/5580">Victoria Nebot</na></co>
+<co c="0"><na f="n/Nijkamp:Erik" pid="65/2422">Erik Nijkamp</na></co>
+<co c="0"><na f="p/Palpanas:Themis" pid="p/ThemisPalpanas">Themis Palpanas</na></co>
+<co c="0"><na f="p/Papageorgiou=Mariglis:Asimakis" pid="371/1001">Asimakis Papageorgiou-Mariglis</na></co>
+<co c="0"><na f="p/Papanikos:Giorgos" pid="90/3673">Giorgos Papanikos</na></co>
+<co c="0"><na f="p/Papastefanatos:George" pid="44/2379">George Papastefanatos</na></co>
+<co c="0"><na f="p/Paz:Lupita" pid="120/1360">Lupita Paz</na></co>
+<co c="0"><na f="p/Pechlivani:Fotini" pid="16/1020">Fotini Pechlivani</na></co>
+<co c="0"><na f="p/Pedersen:Torben_Bach" pid="p/TorbenBachPedersen">Torben Bach Pedersen</na></co>
+<co c="0"><na f="p/Pikramenos:George" pid="251/0508">George Pikramenos</na></co>
+<co c="0"><na f="p/Polyzotis:Neoklis" pid="p/NeoklisPolyzotis">Neoklis Polyzotis</na></co>
+<co c="0"><na f="p/Popescu:Adrian" pid="44/5798">Adrian Popescu</na></co>
+<co c="0"><na f="q/Queralt:Anna" pid="82/6372">Anna Queralt</na></co>
+<co c="0"><na f="r/Rao:Jun" pid="r/JunRao">Jun Rao</na></co>
+<co c="0"><na f="r/Reinwald:Berthold" pid="76/3381">Berthold Reinwald</na></co>
+<co c="0"><na f="r/Romero_0001:Oscar" pid="r/OscarRomero">Oscar Romero 0001</na></co>
+<co c="0"><na f="r/Ryvlin:Philippe" pid="116/8915">Philippe Ryvlin</na></co>
+<co c="0"><na f="s/Sacharidis:Dimitris" pid="19/4428">Dimitris Sacharidis</na></co>
+<co c="0"><na f="s/Sakellariou:Jason" pid="165/3376">Jason Sakellariou</na></co>
+<co c="0"><na f="s/Samoladas:Vasilis" pid="17/5839">Vasilis Samoladas</na></co>
+<co c="0" n="2"><na f="s/Sayers:Craig" pid="08/3862">Craig Sayers</na><na>Craig P. Sayers</na></co>
+<co c="0"><na f="s/Sellis:Timos_K=" pid="s/TimosKSellis">Timos K. Sellis</na></co>
+<co c="0"><na f="s/Sismanis:Yannis" pid="65/5468">Yannis Sismanis</na></co>
+<co c="0"><na f="s/Skiadopoulos:Spiros" pid="01/5237">Spiros Skiadopoulos</na></co>
+<co c="0"><na f="s/Skoutas_0001:Dimitrios" pid="s/DimitriosSkoutas">Dimitrios Skoutas 0001</na></co>
+<co c="0"><na f="s/Song:Il=Yeol" pid="s/IlYeolSong">Il-Yeol Song</na></co>
+<co c="0"><na f="s/Spuhler:Manuel=Guy" pid="371/0925">Manuel-Guy Spuhler</na></co>
+<co c="0"><na f="s/Stamatakis_0002:George" pid="40/1572-2">George Stamatakis 0002</na></co>
+<co c="0" n="2"><na f="s/Stamatogiannakis:Lefteris" pid="33/8419">Lefteris Stamatogiannakis</na><na>Eleftherios Stamatogiannakis</na></co>
+<co c="0"><na f="s/Stavropoulos:Manos" pid="65/3129">Manos Stavropoulos</na></co>
+<co c="0"><na f="t/Taha:Ibraheem" pid="371/7183">Ibraheem Taha</na></co>
+<co c="0"><na f="t/Tatu:Cristian" pid="355/0930">Cristian Tatu</na></co>
+<co c="0"><na f="t/Temme:Fabian" pid="225/9460">Fabian Temme</na></co>
+<co c="0"><na f="t/Terrovitis:Manolis" pid="t/ManolisTerrovitis">Manolis Terrovitis</na></co>
+<co c="0"><na f="t/Theodoratos:Dimitri" pid="t/DimitriTheodoratos">Dimitri Theodoratos</na></co>
+<co c="0"><na f="t/Torok:Mate" pid="276/5033">Mate Torok</na></co>
+<co c="0"><na f="t/Troyer:Olga_De" pid="57/2745">Olga De Troyer</na></co>
+<co c="-1"><na f="t/Tsesmelis:Dimitris" pid="307/4597">Dimitris Tsesmelis</na></co>
+<co c="0"><na f="t/Tziovara:Vasiliki" pid="28/3396">Vasiliki Tziovara</na></co>
+<co c="0"><na f="v/Vagenas:Panagiotis" pid="43/11411">Panagiotis Vagenas</na></co>
+<co c="0"><na f="v/Vassiliadis:Panos" pid="13/1242">Panos Vassiliadis</na></co>
+<co c="0"><na f="v/Vassiliou:Yannis" pid="v/YannisVassiliou">Yannis Vassiliou</na></co>
+<co c="0"><na f="w/Walsh:Joe" pid="49/4387">Joe Walsh</na></co>
+<co c="0"><na f="w/Wang_0001:Song" pid="62/3151-1">Song Wang 0001</na></co>
+<co c="0"><na f="w/Wilkinson:Kevin" pid="w/KevinWilkinson">Kevin Wilkinson</na></co>
+<co c="0"><na f="x/Xu:Wugang" pid="78/538">Wugang Xu</na></co>
+<co c="0"><na f="y/Yaqub:Edwin" pid="59/10810">Edwin Yaqub</na></co>
+<co c="0"><na f="z/Zervakis:Alexandros" pid="44/11411">Alexandros Zervakis</na></co>
+</coauthors>
+</dblpperson>

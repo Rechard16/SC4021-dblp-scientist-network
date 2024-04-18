@@ -1,0 +1,2352 @@
+<dblpperson name="Frank Neven" pid="n/FrankNeven" n="153">
+<person key="homepages/n/FrankNeven" mdate="2024-02-13">
+<author pid="n/FrankNeven">Frank Neven</author>
+<url>http://alpha.luc.ac.be/~lucg5503/</url>
+<url>https://scholar.google.com/citations?user=FXIxFs4AAAAJ</url>
+<url>https://twitter.com/fneven</url>
+<url>https://orcid.org/0000-0002-7143-1903</url>
+<note type="affiliation">Hasselt University, Diepenbeek, Belgium</note>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2403-17665" mdate="2024-04-10">
+<author pid="215/6207">Brecht Vandevoort</author>
+<author pid="147/1168">Bas Ketsman</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>When View- and Conflict-Robustness Coincide for Multiversion Concurrency Control.</title>
+<year>2024</year>
+<volume>abs/2403.17665</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.17665</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-17665</url>
+</article>
+</r>
+<r><article key="journals/lmcs/VandevoortKKN23" mdate="2024-01-23">
+<author pid="215/6207">Brecht Vandevoort</author>
+<author pid="147/1168">Bas Ketsman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>Robustness against Read Committed for Transaction Templates with Functional Constraints.</title>
+<year>2023</year>
+<volume>19</volume>
+<journal>Log. Methods Comput. Sci.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.46298/lmcs-19(4:39)2023</ee>
+<url>db/journals/lmcs/lmcs19.html#VandevoortKKN23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ByloisNV23" mdate="2023-10-23">
+<author pid="355/2551">Niels Bylois</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>CM-Explorer: Dissecting Data Ingestion Problems.</title>
+<pages>3958-3961</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p3958-bylois.pdf</ee>
+<ee>https://doi.org/10.14778/3611540.3611595</ee>
+<url>db/journals/pvldb/pvldb16.html#ByloisNV23</url>
+</article>
+</r>
+<r><article key="journals/sigmod/VandevoortK0N23" mdate="2024-02-05">
+<author pid="215/6207">Brecht Vandevoort</author>
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>When is it safe to run a transactional workload under Read Committed?</title>
+<pages>36-43</pages>
+<year>2023</year>
+<volume>52</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3604437.3604446</ee>
+<url>db/journals/sigmod/sigmod52.html#VandevoortK0N23</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/ByloisNV23" mdate="2023-08-31">
+<author orcid="0000-0001-7360-8162" pid="355/2551">Niels Bylois</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author orcid="0000-0001-7793-9049" pid="28/3797">Stijn Vansummeren</author>
+<title>Data Ingestion Validation through Stable Conditional Metrics with Ranking and Filtering.</title>
+<pages>210-223</pages>
+<year>2023</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-42914-9_15</ee>
+<crossref>conf/adbis/2023</crossref>
+<url>db/conf/adbis/adbis2023.html#ByloisNV23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/VandevoortK0N23" mdate="2023-04-17">
+<author pid="215/6207">Brecht Vandevoort</author>
+<author pid="147/1168">Bas Ketsman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>Detecting Robustness against MVRC for Transaction Programs with Predicate Reads.</title>
+<pages>565-577</pages>
+<year>2023</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.48786/edbt.2023.48</ee>
+<crossref>conf/edbt/2023</crossref>
+<url>db/conf/edbt/edbt2023.html#VandevoortK0N23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/ArenasFN23" mdate="2023-06-15">
+<author orcid="0000-0003-3678-1868" pid="76/6735">Marcelo Arenas</author>
+<author orcid="0000-0001-5149-2656" pid="94/2372">Wenfei Fan</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>The ACM PODS Alberto O. Mendelzon Test-of-Time Award 2023.</title>
+<pages>3-4</pages>
+<year>2023</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/3584372.3590139</ee>
+<crossref>conf/pods/2023</crossref>
+<url>db/conf/pods/pods2023.html#ArenasFN23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/VandevoortKN23" mdate="2023-06-15">
+<author orcid="0000-0001-7212-4625" pid="215/6207">Brecht Vandevoort</author>
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Allocating Isolation Levels to Transactions in a Multiversion Setting.</title>
+<pages>69-78</pages>
+<year>2023</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/3584372.3588672</ee>
+<crossref>conf/pods/2023</crossref>
+<url>db/conf/pods/pods2023.html#VandevoortKN23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-08789" mdate="2023-02-23">
+<author pid="215/6207">Brecht Vandevoort</author>
+<author pid="147/1168">Bas Ketsman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>Detecting Robustness against MVRC for Transaction Programs with Predicate Reads.</title>
+<year>2023</year>
+<volume>abs/2302.08789</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.08789</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-08789</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-06296" mdate="2024-01-03">
+<author pid="205/7024">Marcel Parciak</author>
+<author pid="364/0321">Sebastiaan Weytjens</author>
+<author pid="44/2253">Niel Hens</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="270/3303">Liesbet M. Peeters</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>Measuring Approximate Functional Dependencies: a Comparative Study.</title>
+<year>2023</year>
+<volume>abs/2312.06296</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.06296</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-06296</url>
+</article>
+</r>
+<r><article key="journals/sigmod/KetsmanKNV22" mdate="2023-03-21">
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="215/6207">Brecht Vandevoort</author>
+<title>Concurrency control for database theorists.</title>
+<pages>6-17</pages>
+<year>2022</year>
+<month>December</month>
+<volume>51</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3582302.3582304</ee>
+<url>db/journals/sigmod/sigmod51.html#KetsmanKNV22</url>
+</article>
+</r>
+<r><article key="journals/tods/KetsmanKNV22" mdate="2023-01-31">
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author orcid="0000-0002-9130-7205" pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author orcid="0000-0001-7212-4625" pid="215/6207">Brecht Vandevoort</author>
+<title>Deciding Robustness for Lower SQL Isolation Levels.</title>
+<pages>13:1-13:41</pages>
+<year>2022</year>
+<volume>47</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3561049</ee>
+<url>db/journals/tods/tods47.html#KetsmanKNV22</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdt/VandevoortK0N22" mdate="2022-10-02">
+<author orcid="0000-0001-7212-4625" pid="215/6207">Brecht Vandevoort</author>
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>Robustness Against Read Committed for Transaction Templates with Functional Constraints.</title>
+<pages>16:1-16:17</pages>
+<year>2022</year>
+<booktitle>ICDT</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICDT.2022.16</ee>
+<crossref>conf/icdt/2022</crossref>
+<url>db/conf/icdt/icdt2022.html#VandevoortK0N22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/VandevoortK0N22" mdate="2022-10-02">
+<author orcid="0000-0001-7212-4625" pid="215/6207">Brecht Vandevoort</author>
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>Robustness Against Read Committed: A Free Transactional Lunch.</title>
+<pages>1-14</pages>
+<year>2022</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/3517804.3524162</ee>
+<crossref>conf/pods/2022</crossref>
+<url>db/conf/pods/pods2022.html#VandevoortK0N22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2201-05021" mdate="2022-01-20">
+<author pid="215/6207">Brecht Vandevoort</author>
+<author pid="147/1168">Bas Ketsman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>Robustness against Read Committed for Transaction Templates with Functional Constraints.</title>
+<year>2022</year>
+<volume>abs/2201.05021</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2201.05021</ee>
+<url>db/journals/corr/corr2201.html#abs-2201-05021</url>
+</article>
+</r>
+<r><article key="journals/pvldb/VandevoortK0N21" mdate="2022-10-02">
+<author orcid="0000-0001-7212-4625" pid="215/6207">Brecht Vandevoort</author>
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Robustness against Read Committed for Transaction Templates.</title>
+<pages>2141-2153</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2141-vandevoort.pdf</ee>
+<ee>https://doi.org/10.14778/3476249.3476268</ee>
+<url>db/journals/pvldb/pvldb14.html#VandevoortK0N21</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2107-12239" mdate="2021-07-30">
+<author pid="215/6207">Brecht Vandevoort</author>
+<author pid="147/1168">Bas Ketsman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>Robustness against Read Committed for Transaction Templates.</title>
+<year>2021</year>
+<volume>abs/2107.12239</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2107.12239</ee>
+<url>db/journals/corr/corr2107.html#abs-2107-12239</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdt/GeckNS20" mdate="2020-03-19">
+<author orcid="0000-0002-8946-9440" pid="155/9909">Gaetano Geck</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author orcid="0000-0002-1062-922X" pid="s/TSchwentick">Thomas Schwentick</author>
+<title>Distribution Constraints: The Chase for Distributed Data.</title>
+<pages>13:1-13:19</pages>
+<year>2020</year>
+<booktitle>ICDT</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICDT.2020.13</ee>
+<crossref>conf/icdt/2020</crossref>
+<url>db/conf/icdt/icdt2020.html#GeckNS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/Ketsman0NV20" mdate="2022-10-02">
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author orcid="0000-0001-7212-4625" pid="215/6207">Brecht Vandevoort</author>
+<title>Deciding Robustness for Lower SQL Isolation Levels.</title>
+<pages>315-330</pages>
+<year>2020</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/3375395.3387655</ee>
+<crossref>conf/pods/2020</crossref>
+<url>db/conf/pods/pods2020.html#Ketsman0NV20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-00965" mdate="2020-03-10">
+<author pid="155/9909">Gaetano Geck</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>Distribution Constraints: The Chase for Distributed Data.</title>
+<year>2020</year>
+<volume>abs/2003.00965</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.00965</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-00965</url>
+</article>
+</r>
+<r><article key="journals/tocl/GeckKNS19" mdate="2022-01-08">
+<author orcid="0000-0002-8946-9440" pid="155/9909">Gaetano Geck</author>
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author orcid="0000-0002-1062-922X" pid="s/TSchwentick">Thomas Schwentick</author>
+<title>Parallel-Correctness and Containment for Conjunctive Queries with Union and Negation.</title>
+<pages>18:1-18:24</pages>
+<year>2019</year>
+<volume>20</volume>
+<journal>ACM Trans. Comput. Log.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3329120</ee>
+<url>db/journals/tocl/tocl20.html#GeckKNS19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdt/NevenSSV19" mdate="2022-10-02">
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<author pid="165/4128">Christopher Spinrath</author>
+<author orcid="0000-0001-7212-4625" pid="215/6207">Brecht Vandevoort</author>
+<title>Parallel-Correctness and Parallel-Boundedness for Datalog Programs.</title>
+<pages>14:1-14:19</pages>
+<year>2019</year>
+<booktitle>ICDT</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICDT.2019.14</ee>
+<crossref>conf/icdt/2019</crossref>
+<url>db/conf/icdt/icdt2019.html#NevenSSV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/DoleschalKMNN19" mdate="2023-09-30">
+<author pid="215/6054">Johannes Doleschal</author>
+<author pid="74/3195">Benny Kimelfeld</author>
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0003-4774-8764" pid="181/6097">Yoav Nahshon</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Split-Correctness in Information Extraction.</title>
+<pages>149-163</pages>
+<year>2019</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/3294052.3319684</ee>
+<crossref>conf/pods/2019</crossref>
+<url>db/conf/pods/pods2019.html#DoleschalKMNN19</url>
+</inproceedings>
+</r>
+<r><article key="journals/dagstuhl-manifestos/AbiteboulABBCD018" mdate="2022-08-29">
+<author pid="a/SergeAbiteboul">Serge Abiteboul</author>
+<author pid="76/6735">Marcelo Arenas</author>
+<author pid="29/5169">Pablo Barcel&#243;</author>
+<author orcid="0000-0001-6229-8103" pid="80/28">Meghyn Bienvenu</author>
+<author pid="c/DiegoCalvanese">Diego Calvanese</author>
+<author pid="65/164">Claire David</author>
+<author pid="h/RichardHull">Richard Hull 0001</author>
+<author pid="h/EykeHullermeier">Eyke H&#252;llermeier</author>
+<author pid="74/3195">Benny Kimelfeld</author>
+<author pid="l/LeonidLibkin">Leonid Libkin</author>
+<author pid="95/3517">Wim Martens</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author pid="14/4251">Filip Murlak</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<author orcid="0000-0002-2344-9658" pid="71/3644">Magdalena Ortiz 0001</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<author pid="s/JuliaStoyanovich">Julia Stoyanovich</author>
+<author pid="s/JWSu">Jianwen Su</author>
+<author pid="s/DanSuciu">Dan Suciu</author>
+<author pid="v/VictorVianu">Victor Vianu</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<title>Research Directions for Principles of Data Management (Dagstuhl Perspectives Workshop 16151).</title>
+<pages>1-29</pages>
+<year>2018</year>
+<volume>7</volume>
+<journal>Dagstuhl Manifestos</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.4230/DagMan.7.1.1</ee>
+<url>db/journals/dagstuhl-manifestos/dagstuhl-manifestos7.html#AbiteboulABBCD018</url>
+</article>
+</r>
+<r><article key="journals/tocl/NevenSST18" mdate="2021-07-25">
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/NicoleSchweikardt">Nicole Schweikardt</author>
+<author pid="31/4921">Fr&#233;d&#233;ric Servais</author>
+<author pid="69/159">Tony Tan</author>
+<title>Finite-State Map-Reduce Computation and Relational Algebra Queries.</title>
+<pages>14:1-14:37</pages>
+<year>2018</year>
+<volume>19</volume>
+<journal>ACM Trans. Comput. Log.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3197384</ee>
+<url>db/journals/tocl/tocl19.html#NevenSST18</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdt/DoleschalMNW18" mdate="2021-07-25">
+<author pid="215/6054">Johannes Doleschal</author>
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="150/4899">Adam Witkowski</author>
+<title>Satisfiability for SCULPT-Schemas for CSV-Like Data.</title>
+<pages>14:1-14:19</pages>
+<year>2018</year>
+<booktitle>ICDT</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICDT.2018.14</ee>
+<crossref>conf/icdt/2018</crossref>
+<url>db/conf/icdt/icdt2018.html#DoleschalMNW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/KetsmanNV18" mdate="2022-10-02">
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author orcid="0000-0001-7212-4625" pid="215/6207">Brecht Vandevoort</author>
+<title>Parallel-Correctness and Transferability for Conjunctive Queries under Bag Semantics.</title>
+<pages>18:1-18:16</pages>
+<year>2018</year>
+<booktitle>ICDT</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICDT.2018.18</ee>
+<crossref>conf/icdt/2018</crossref>
+<url>db/conf/icdt/icdt2018.html#KetsmanNV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/DoleschalHMN18" mdate="2023-06-26">
+<author pid="215/6054">Johannes Doleschal</author>
+<author orcid="0000-0003-2612-483X" pid="218/0640">Nico H&#246;llerich</author>
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Chisel: Sculpting Tabular and Non-Tabular Data on the Web.</title>
+<pages>139-142</pages>
+<year>2018</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/3184558.3186963</ee>
+<crossref>conf/www/2018c</crossref>
+<url>db/conf/www/www2018c.html#DoleschalHMN18</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Neven18" mdate="2019-02-14">
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>XML Types.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_1563</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/x2.html#Neven18</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-03367" mdate="2018-10-30">
+<author pid="215/6054">Johannes Doleschal</author>
+<author pid="74/3195">Benny Kimelfeld</author>
+<author pid="95/3517">Wim Martens</author>
+<author pid="181/6097">Yoav Nahshon</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>Split-Correctness in Information Extraction.</title>
+<year>2018</year>
+<volume>abs/1810.03367</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.03367</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-03367</url>
+</article>
+</r>
+<r><article key="journals/cacm/AmelootGKNS17" mdate="2022-01-03">
+<author pid="05/8909">Tom J. Ameloot</author>
+<author orcid="0000-0002-8946-9440" pid="155/9909">Gaetano Geck</author>
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>Reasoning on data partitioning for single-round multi-join evaluation in massively parallel systems.</title>
+<pages>93-100</pages>
+<year>2017</year>
+<volume>60</volume>
+<journal>Commun. ACM</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3041063</ee>
+<url>db/journals/cacm/cacm60.html#AmelootGKNS17</url>
+</article>
+</r>
+<r><article key="journals/jacm/AmelootGKNS17" mdate="2022-01-03">
+<author pid="05/8909">Tom J. Ameloot</author>
+<author orcid="0000-0002-8946-9440" pid="155/9909">Gaetano Geck</author>
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>Parallel-Correctness and Transferability for Conjunctive Queries.</title>
+<pages>36:1-36:38</pages>
+<year>2017</year>
+<volume>64</volume>
+<journal>J. ACM</journal>
+<number>5</number>
+<ee>https://doi.org/10.1145/3106412</ee>
+<url>db/journals/jacm/jacm64.html#AmelootGKNS17</url>
+</article>
+</r>
+<r><article key="journals/mst/KetsmanN17" mdate="2022-01-03">
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Optimal Broadcasting Strategies for Conjunctive Queries over Distributed Data.</title>
+<pages>233-260</pages>
+<year>2017</year>
+<volume>61</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00224-016-9719-8</ee>
+<url>db/journals/mst/mst61.html#KetsmanN17</url>
+</article>
+</r>
+<r><article key="journals/tocl/AmelootKNZ17" mdate="2022-01-03">
+<author pid="05/8909">Tom J. Ameloot</author>
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="66/780">Daniel Zinn</author>
+<title>Datalog Queries Distributing over Components.</title>
+<pages>5:1-5:35</pages>
+<year>2017</year>
+<volume>18</volume>
+<journal>ACM Trans. Comput. Log.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3022743</ee>
+<url>db/journals/tocl/tocl18.html#AmelootKNZ17</url>
+</article>
+</r>
+<r><article key="journals/tods/MartensNNS17" mdate="2021-07-25">
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="09/8166">Matthias Niewerth</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>BonXai: Combining the Simplicity of DTD with the Expressiveness of XML Schema.</title>
+<pages>15:1-15:42</pages>
+<year>2017</year>
+<volume>42</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3105960</ee>
+<url>db/journals/tods/tods42.html#MartensNNS17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AbiteboulABBCDH17" mdate="2022-08-29">
+<author pid="a/SergeAbiteboul">Serge Abiteboul</author>
+<author pid="76/6735">Marcelo Arenas</author>
+<author pid="29/5169">Pablo Barcel&#243;</author>
+<author pid="80/28">Meghyn Bienvenu</author>
+<author pid="c/DiegoCalvanese">Diego Calvanese</author>
+<author pid="65/164">Claire David</author>
+<author pid="h/RichardHull">Richard Hull 0001</author>
+<author pid="h/EykeHullermeier">Eyke H&#252;llermeier</author>
+<author pid="74/3195">Benny Kimelfeld</author>
+<author pid="l/LeonidLibkin">Leonid Libkin</author>
+<author pid="95/3517">Wim Martens</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author pid="14/4251">Filip Murlak</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="71/3644">Magdalena Ortiz 0001</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<author pid="s/JuliaStoyanovich">Julia Stoyanovich</author>
+<author pid="s/JWSu">Jianwen Su</author>
+<author pid="s/DanSuciu">Dan Suciu</author>
+<author pid="v/VictorVianu">Victor Vianu</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<title>Research Directions for Principles of Data Management (Dagstuhl Perspectives Workshop 16151).</title>
+<year>2017</year>
+<volume>abs/1701.09007</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1701.09007</ee>
+<url>db/journals/corr/corr1701.html#AbiteboulABBCDH17</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DaenenNTV16" mdate="2021-07-25">
+<author pid="131/4115">Jonny Daenen</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="69/159">Tony Tan</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>Parallel Evaluation of Multi-Semi-Joins.</title>
+<pages>732-743</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p732-daenen.pdf</ee>
+<ee>https://doi.org/10.14778/2977797.2977800</ee>
+<url>db/journals/pvldb/pvldb9.html#DaenenNTV16</url>
+</article>
+</r>
+<r><article key="journals/sigmod/AmelootGKNS16" mdate="2022-01-03">
+<author pid="05/8909">Tom J. Ameloot</author>
+<author orcid="0000-0002-8946-9440" pid="155/9909">Gaetano Geck</author>
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>Data partitioning for single-round multi-join evaluation in massively parallel systems.</title>
+<pages>33-40</pages>
+<year>2016</year>
+<volume>45</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2949741.2949750</ee>
+<url>db/journals/sigmod/sigmod45.html#AmelootGKNS16</url>
+</article>
+</r>
+<r><article key="journals/sigmod/AbiteboulABBCDH16" mdate="2024-02-05">
+<author pid="a/SergeAbiteboul">Serge Abiteboul</author>
+<author pid="76/6735">Marcelo Arenas</author>
+<author pid="29/5169">Pablo Barcel&#243;</author>
+<author pid="80/28">Meghyn Bienvenu</author>
+<author pid="c/DiegoCalvanese">Diego Calvanese</author>
+<author pid="65/164">Claire David</author>
+<author pid="h/RichardHull">Richard Hull 0001</author>
+<author pid="h/EykeHullermeier">Eyke H&#252;llermeier</author>
+<author pid="74/3195">Benny Kimelfeld</author>
+<author orcid="0000-0002-6698-2735" pid="l/LeonidLibkin">Leonid Libkin</author>
+<author pid="95/3517">Wim Martens</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author orcid="0000-0003-0989-3717" pid="14/4251">Filip Murlak</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author orcid="0000-0002-2344-9658" pid="71/3644">Magdalena Ortiz 0001</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<author pid="s/JuliaStoyanovich">Julia Stoyanovich</author>
+<author pid="s/JWSu">Jianwen Su</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<author pid="v/VictorVianu">Victor Vianu</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<title>Research Directions for Principles of Data Management (Abridged).</title>
+<pages>5-17</pages>
+<year>2016</year>
+<volume>45</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3092931.3092933</ee>
+<url>db/journals/sigmod/sigmod45.html#AbiteboulABBCDH16</url>
+</article>
+</r>
+<r><article key="journals/tods/AmelootKNZ16" mdate="2022-01-03">
+<author pid="05/8909">Tom J. Ameloot</author>
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="66/780">Daniel Zinn</author>
+<title>Weaker Forms of Monotonicity for Declarative Networking: A More Fine-Grained Answer to the CALM-Conjecture.</title>
+<pages>21:1-21:45</pages>
+<year>2016</year>
+<volume>40</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2809784</ee>
+<url>db/journals/tods/tods40.html#AmelootKNZ16</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdt/GeckKNS16" mdate="2022-01-03">
+<author orcid="0000-0002-8946-9440" pid="155/9909">Gaetano Geck</author>
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>Parallel-Correctness and Containment for Conjunctive Queries with Union and Negation.</title>
+<pages>9:1-9:17</pages>
+<year>2016</year>
+<booktitle>ICDT</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICDT.2016.9</ee>
+<crossref>conf/icdt/2016</crossref>
+<url>db/conf/icdt/icdt2016.html#GeckKNS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/Neven16" mdate="2021-07-25">
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Logical Aspects of Massively Parallel and Distributed Systems.</title>
+<pages>303-314</pages>
+<year>2016</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/2902251.2902307</ee>
+<crossref>conf/pods/2016</crossref>
+<url>db/conf/pods/pods2016.html#Neven16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/DaenenNTV16" mdate="2018-08-13">
+<author pid="131/4115">Jonny Daenen</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="69/159">Tony Tan</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>Parallel Evaluation of Multi-Semi-Joins.</title>
+<year>2016</year>
+<volume>abs/1605.05219</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1605.05219</ee>
+<url>db/journals/corr/corr1605.html#DaenenNTV16</url>
+</article>
+</r>
+<r><article key="journals/mst/AntonopoulosHMN15" mdate="2021-07-25">
+<author pid="62/6761">Timos Antonopoulos</author>
+<author orcid="0000-0002-3569-8838" pid="08/7050">Dag Hovland</author>
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Deciding Twig-definability of Node Selecting Tree Automata.</title>
+<pages>967-1007</pages>
+<year>2015</year>
+<volume>57</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00224-015-9623-7</ee>
+<ee>https://www.wikidata.org/entity/Q59238595</ee>
+<url>db/journals/mst/mst57.html#AntonopoulosHMN15</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/DaenenNT15" mdate="2021-07-25">
+<author pid="131/4115">Jonny Daenen</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="69/159">Tony Tan</author>
+<title>Gumbo: Guarded Fragment Queries over Big Data.</title>
+<pages>521-524</pages>
+<year>2015</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2015.48</ee>
+<crossref>conf/edbt/2015</crossref>
+<url>db/conf/edbt/edbt2015.html#DaenenNT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/KetsmanN15" mdate="2022-01-03">
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Optimal Broadcasting Strategies for Conjunctive Queries over Distributed Data.</title>
+<pages>291-307</pages>
+<year>2015</year>
+<booktitle>ICDT</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICDT.2015.291</ee>
+<crossref>conf/icdt/2015</crossref>
+<url>db/conf/icdt/icdt2015.html#KetsmanN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/AmelootKNZ15" mdate="2022-01-03">
+<author pid="05/8909">Tom J. Ameloot</author>
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="66/780">Daniel Zinn</author>
+<title>Datalog Queries Distributing over Components.</title>
+<pages>308-323</pages>
+<year>2015</year>
+<booktitle>ICDT</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICDT.2015.308</ee>
+<crossref>conf/icdt/2015</crossref>
+<url>db/conf/icdt/icdt2015.html#AmelootKNZ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/NevenSST15" mdate="2021-07-25">
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/NicoleSchweikardt">Nicole Schweikardt</author>
+<author pid="31/4921">Fr&#233;d&#233;ric Servais</author>
+<author pid="69/159">Tony Tan</author>
+<title>Distributed Streaming with Finite Memory.</title>
+<pages>324-341</pages>
+<year>2015</year>
+<booktitle>ICDT</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICDT.2015.324</ee>
+<crossref>conf/icdt/2015</crossref>
+<url>db/conf/icdt/icdt2015.html#NevenSST15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/AfratiNS15" mdate="2024-02-05">
+<author pid="a/FotoNAfrati">Foto N. Afrati</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<title>The ACM PODS Alberto O. Mendelzon Test-of-Time Award 2015.</title>
+<pages>45</pages>
+<year>2015</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/2745754.2764467</ee>
+<crossref>conf/pods/2015</crossref>
+<url>db/conf/pods/pods2015.html#AfratiNS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/AmelootGKNS15" mdate="2022-01-03">
+<author pid="05/8909">Tom J. Ameloot</author>
+<author orcid="0000-0002-8946-9440" pid="155/9909">Gaetano Geck</author>
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>Parallel-Correctness and Transferability for Conjunctive Queries.</title>
+<pages>47-58</pages>
+<year>2015</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/2745754.2745759</ee>
+<crossref>conf/pods/2015</crossref>
+<url>db/conf/pods/pods2015.html#AmelootGKNS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/MartensNNS15" mdate="2021-07-25">
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="09/8166">Matthias Niewerth</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>BonXai: Combining the simplicity of DTD with the expressiveness of XML Schema.</title>
+<pages>145-156</pages>
+<year>2015</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/2745754.2745774</ee>
+<crossref>conf/pods/2015</crossref>
+<url>db/conf/pods/pods2015.html#MartensNNS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/MartensNV15" mdate="2021-07-25">
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>SCULPT: A Schema Language for Tabular Data on the Web.</title>
+<pages>702-720</pages>
+<year>2015</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/2736277.2741142</ee>
+<crossref>conf/www/2015</crossref>
+<url>db/conf/www/www2015.html#MartensNV15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/GeckKNS15" mdate="2018-08-13">
+<author pid="155/9909">Gaetano Geck</author>
+<author pid="147/1168">Bas Ketsman</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>Parallel-Correctness and Containment for Conjunctive Queries with Union and Negation.</title>
+<year>2015</year>
+<volume>abs/1512.06246</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1512.06246</ee>
+<url>db/journals/corr/corr1512.html#GeckKNS15</url>
+</article>
+</r>
+<r><article key="journals/tods/ArenasDNUBV14" mdate="2021-07-25">
+<author pid="76/6735">Marcelo Arenas</author>
+<author pid="131/4115">Jonny Daenen</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="131/4268">Mart&#237;n Ugarte</author>
+<author orcid="0000-0003-0072-3252" pid="b/JVdBussche">Jan Van den Bussche</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>Discovering XSD Keys from XML Data.</title>
+<pages>28:1-28:49</pages>
+<year>2014</year>
+<volume>39</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2638547</ee>
+<url>db/journals/tods/tods39.html#ArenasDNUBV14</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdt/Neven14" mdate="2017-05-23">
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>Remaining CALM in Declarative Networking.</title>
+<pages>1</pages>
+<year>2014</year>
+<booktitle>ICDT</booktitle>
+<ee>https://doi.org/10.5441/002/icdt.2014.02</ee>
+<crossref>conf/icdt/2014</crossref>
+<url>db/conf/icdt/icdt2014.html#Neven14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/AmelootKNZ14" mdate="2022-01-03">
+<author pid="05/8909">Tom J. Ameloot</author>
+<author orcid="0000-0002-4032-0709" pid="147/1168">Bas Ketsman</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="66/780">Daniel Zinn</author>
+<title>Weaker forms of monotonicity for declarative networking: a more fine-grained answer to the calm-conjecture.</title>
+<pages>64-75</pages>
+<year>2014</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/2594538.2594541</ee>
+<crossref>conf/pods/2014</crossref>
+<url>db/conf/pods/pods2014.html#AmelootKNZ14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/MartensNV14" mdate="2018-08-13">
+<author pid="95/3517">Wim Martens</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>SCULPT: A Schema Language for Tabular Data on the Web.</title>
+<year>2014</year>
+<volume>abs/1411.2351</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1411.2351</ee>
+<url>db/journals/corr/corr1411.html#MartensNV14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AmelootGKNS14" mdate="2018-08-13">
+<author pid="05/8909">Tom J. Ameloot</author>
+<author pid="155/9909">Gaetano Geck</author>
+<author pid="147/1168">Bas Ketsman</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>Parallel-Correctness and Transferability for Conjunctive Queries.</title>
+<year>2014</year>
+<volume>abs/1412.4030</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1412.4030</ee>
+<url>db/journals/corr/corr1412.html#AmelootGKNS14</url>
+</article>
+</r>
+<r><article key="journals/jacm/AmelootNB13" mdate="2021-07-25">
+<author pid="05/8909">Tom J. Ameloot</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author orcid="0000-0003-0072-3252" pid="b/JVdBussche">Jan Van den Bussche</author>
+<title>Relational transducers for declarative networking.</title>
+<pages>15:1-15:38</pages>
+<year>2013</year>
+<volume>60</volume>
+<journal>J. ACM</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2450142.2450151</ee>
+<url>db/journals/jacm/jacm60.html#AmelootNB13</url>
+</article>
+</r>
+<r><article key="journals/jcss/GeladeIMNP13" mdate="2021-07-25">
+<author pid="63/5842">Wouter Gelade</author>
+<author pid="24/7270">Tomasz Idziaszek</author>
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<title>Simplifying XML Schema: Single-type approximations of regular tree languages.</title>
+<pages>910-936</pages>
+<year>2013</year>
+<volume>79</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.1016/j.jcss.2013.01.009</ee>
+<url>db/journals/jcss/jcss79.html#GeladeIMNP13</url>
+</article>
+</r>
+<r><article key="journals/mst/AntonopoulosGMN13" mdate="2021-07-25">
+<author pid="62/6761">Timos Antonopoulos</author>
+<author orcid="0000-0002-8967-2473" pid="g/FlorisGeerts">Floris Geerts</author>
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Generating, Sampling and Counting Subclasses of Regular Tree Languages.</title>
+<pages>542-585</pages>
+<year>2013</year>
+<volume>52</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00224-012-9428-x</ee>
+<url>db/journals/mst/mst52.html#AntonopoulosGMN13</url>
+</article>
+</r>
+<r><article key="journals/pvldb/FanGN13" mdate="2021-07-25">
+<author pid="94/2372">Wenfei Fan</author>
+<author orcid="0000-0002-8967-2473" pid="g/FlorisGeerts">Floris Geerts</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Making Queries Tractable on Big Data with Preprocessing.</title>
+<pages>685-696</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p685-geerts.pdf</ee>
+<ee>https://doi.org/10.14778/2536360.2536368</ee>
+<url>db/journals/pvldb/pvldb6.html#FanGN13</url>
+</article>
+</r>
+<r><article key="journals/tcbb/BoyenNDVD13" mdate="2023-04-03">
+<author pid="69/7788">Peter Boyen</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="v/DriesVanDyck">Dries Van Dyck</author>
+<author orcid="0000-0002-9740-2940" pid="99/2398">Felipe L. Valentim</author>
+<author pid="08/377">Aalt D. J. van Dijk</author>
+<title>Mining Minimal Motif Pair Sets Maximally Covering Interactions in a Protein-Protein Interaction Network.</title>
+<pages>73-86</pages>
+<year>2013</year>
+<volume>10</volume>
+<journal>IEEE ACM Trans. Comput. Biol. Bioinform.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCBB.2012.165</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/TCBB.2012.165</ee>
+<ee>https://dl.acm.org/doi/10.1109/TCBB.2012.165</ee>
+<ee>https://www.wikidata.org/entity/Q34736476</ee>
+<url>db/journals/tcbb/tcbb10.html#BoyenNDVD13</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdt/AntonopoulosNS13" mdate="2021-07-25">
+<author pid="62/6761">Timos Antonopoulos</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="31/4921">Fr&#233;d&#233;ric Servais</author>
+<title>Definability problems for graph query languages.</title>
+<pages>141-152</pages>
+<year>2013</year>
+<booktitle>ICDT</booktitle>
+<ee>https://doi.org/10.1145/2448496.2448514</ee>
+<crossref>conf/icdt/2013</crossref>
+<url>db/conf/icdt/icdt2013.html#AntonopoulosNS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ArenasDNUBV13" mdate="2021-07-25">
+<author pid="76/6735">Marcelo Arenas</author>
+<author pid="131/4115">Jonny Daenen</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="131/4268">Mart&#237;n Ugarte</author>
+<author orcid="0000-0003-0072-3252" pid="b/JVdBussche">Jan Van den Bussche</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>Discovering XSD keys from XML data.</title>
+<pages>61-72</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2463705</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#ArenasDNUBV13</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/MartensNNS12" mdate="2021-07-25">
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="09/8166">Matthias Niewerth</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>Developing and Analyzing XSDs through BonXai.</title>
+<pages>1994-1997</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p1994_wimmartens_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2367502.2367556</ee>
+<url>db/journals/pvldb/pvldb5.html#MartensNNS12</url>
+</article>
+</r>
+<r><article key="journals/tocl/GeladeN12" mdate="2021-07-25">
+<author pid="63/5842">Wouter Gelade</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Succinctness of the Complement and Intersection of Regular Expressions.</title>
+<pages>4:1-4:19</pages>
+<year>2012</year>
+<volume>13</volume>
+<journal>ACM Trans. Comput. Log.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2071368.2071372</ee>
+<url>db/journals/tocl/tocl13.html#GeladeN12</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdt/AntonopoulosHMN12" mdate="2021-07-25">
+<author pid="62/6761">Timos Antonopoulos</author>
+<author orcid="0000-0002-3569-8838" pid="08/7050">Dag Hovland</author>
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Deciding twig-definability of node selecting tree automata.</title>
+<pages>61-73</pages>
+<year>2012</year>
+<booktitle>ICDT</booktitle>
+<ee>https://doi.org/10.1145/2274576.2274584</ee>
+<ee>https://www.wikidata.org/entity/Q59238603</ee>
+<crossref>conf/icdt/2012</crossref>
+<url>db/conf/icdt/icdt2012.html#AntonopoulosHMN12</url>
+</inproceedings>
+</r>
+<r><article key="journals/jcss/GeladeN11" mdate="2021-07-25">
+<author pid="63/5842">Wouter Gelade</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Succinctness of pattern-based schema languages for XML.</title>
+<pages>505-519</pages>
+<year>2011</year>
+<volume>77</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1016/j.jcss.2010.04.008</ee>
+<url>db/journals/jcss/jcss77.html#GeladeN11</url>
+</article>
+</r>
+<r><article key="journals/sigmod/AmelootMMNW11" mdate="2021-07-25">
+<author pid="05/8909">Tom J. Ameloot</author>
+<author orcid="0000-0003-3255-3729" pid="m/MaartenMarx">Maarten Marx</author>
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="36/9708">Justin van Wees</author>
+<title>30 Years of PODS in facts and figures.</title>
+<pages>54-60</pages>
+<year>2011</year>
+<volume>40</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2070736.2070749</ee>
+<url>db/journals/sigmod/sigmod40.html#AmelootMMNW11</url>
+</article>
+</r>
+<r><article key="journals/tcbb/BoyenDNHD11" mdate="2023-04-03">
+<author pid="69/7788">Peter Boyen</author>
+<author pid="v/DriesVanDyck">Dries Van Dyck</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="62/3839">Roeland C. H. J. van Ham</author>
+<author pid="08/377">Aalt D. J. van Dijk</author>
+<title>SLIDER: A Generic Metaheuristic for the Discovery of Correlated Motifs in Protein-Protein Interaction Networks.</title>
+<pages>1344-1357</pages>
+<year>2011</year>
+<volume>8</volume>
+<journal>IEEE ACM Trans. Comput. Biol. Bioinform.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TCBB.2011.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/TCBB.2011.17</ee>
+<ee>https://dl.acm.org/doi/10.1109/TCBB.2011.17</ee>
+<ee>https://www.wikidata.org/entity/Q51607804</ee>
+<url>db/journals/tcbb/tcbb8.html#BoyenDNHD11</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdt/AntonopoulosGMN11" mdate="2021-07-25">
+<author pid="62/6761">Timos Antonopoulos</author>
+<author orcid="0000-0002-8967-2473" pid="g/FlorisGeerts">Floris Geerts</author>
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Generating, sampling and counting subclasses of regular tree languages.</title>
+<pages>30-41</pages>
+<year>2011</year>
+<booktitle>ICDT</booktitle>
+<ee>https://doi.org/10.1145/1938551.1938559</ee>
+<crossref>conf/icdt/2011</crossref>
+<url>db/conf/icdt/icdt2011.html#AntonopoulosGMN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/AntonopoulosMN11" mdate="2021-07-25">
+<author pid="62/6761">Timos Antonopoulos</author>
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>The complexity of text-preserving XML transformations.</title>
+<pages>247-258</pages>
+<year>2011</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1989284.1989316</ee>
+<crossref>conf/pods/2011</crossref>
+<url>db/conf/pods/pods2011.html#AntonopoulosMN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/AmelootNB11" mdate="2021-07-25">
+<author pid="05/8909">Tom J. Ameloot</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author orcid="0000-0003-0072-3252" pid="b/JVdBussche">Jan Van den Bussche</author>
+<title>Relational transducers for declarative networking.</title>
+<pages>283-292</pages>
+<year>2011</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1989284.1989321</ee>
+<crossref>conf/pods/2011</crossref>
+<url>db/conf/pods/pods2011.html#AmelootNB11</url>
+</inproceedings>
+</r>
+<r><article key="journals/ipl/GeladeN10" mdate="2021-07-25">
+<author pid="63/5842">Wouter Gelade</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Optimizing the Region Algebra is PSPACE-complete.</title>
+<pages>639-643</pages>
+<year>2010</year>
+<volume>110</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>16</number>
+<ee>https://doi.org/10.1016/j.ipl.2010.05.006</ee>
+<url>db/journals/ipl/ipl110.html#GeladeN10</url>
+</article>
+</r>
+<r><article key="journals/tods/BexNSV10" mdate="2021-07-25">
+<author pid="12/1974">Geert Jan Bex</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>Inference of concise regular expressions and DTDs.</title>
+<year>2010</year>
+<volume>35</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1735886.1735890</ee>
+<url>db/journals/tods/tods35.html#BexNSV10</url>
+<pages>11:1-11:47</pages>
+</article>
+</r>
+<r><article key="journals/tweb/BexGNV10" mdate="2021-07-25">
+<author pid="12/1974">Geert Jan Bex</author>
+<author pid="63/5842">Wouter Gelade</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>Learning Deterministic Regular Expressions for the Inference of Schemas from XML Data.</title>
+<year>2010</year>
+<volume>4</volume>
+<journal>ACM Trans. Web</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1841909.1841911</ee>
+<url>db/journals/tweb/tweb4.html#BexGNV10</url>
+<pages>14:1-14:32</pages>
+</article>
+</r>
+<r><inproceedings key="conf/pods/GeladeIMN10" mdate="2021-07-25">
+<author pid="63/5842">Wouter Gelade</author>
+<author pid="24/7270">Tomasz Idziaszek</author>
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Simplifying XML schema: single-type approximations of regular tree languages.</title>
+<pages>251-260</pages>
+<year>2010</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1807085.1807118</ee>
+<crossref>conf/pods/2010</crossref>
+<url>db/conf/pods/pods2010.html#GeladeIMN10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1004-2372" mdate="2018-08-13">
+<author pid="12/1974">Geert Jan Bex</author>
+<author pid="63/5842">Wouter Gelade</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>Learning Deterministic Regular Expressions for the Inference of Schemas from XML Data</title>
+<ee type="oa">http://arxiv.org/abs/1004.2372</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1004.2372</volume>
+<url>db/journals/corr/corr1004.html#abs-1004-2372</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1012-2858" mdate="2018-08-13">
+<author pid="05/8909">Tom J. Ameloot</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="b/JVdBussche">Jan Van den Bussche</author>
+<title>Relational transducers for declarative networking</title>
+<ee type="oa">http://arxiv.org/abs/1012.2858</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1012.2858</volume>
+<url>db/journals/corr/corr1012.html#abs-1012-2858</url>
+</article>
+</r>
+<r><article key="journals/siamcomp/GeladeMN09" mdate="2021-07-25">
+<author pid="63/5842">Wouter Gelade</author>
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Optimizing Schema Languages for XML: Numerical Constraints and Interleaving.</title>
+<pages>2021-2043</pages>
+<year>2009</year>
+<volume>38</volume>
+<journal>SIAM J. Comput.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1137/070697367</ee>
+<url>db/journals/siamcomp/siamcomp38.html#GeladeMN09</url>
+</article>
+</r>
+<r><article key="journals/siamcomp/MartensNS09" mdate="2017-05-27">
+<author pid="95/3517">Wim Martens</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>Complexity of Decision Problems for XML Schemas and Chain Regular Expressions.</title>
+<pages>1486-1530</pages>
+<year>2009</year>
+<volume>39</volume>
+<journal>SIAM J. Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1137/080743457</ee>
+<url>db/journals/siamcomp/siamcomp39.html#MartensNS09</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdm/BoyenNDDH09" mdate="2023-03-24">
+<author pid="69/7788">Peter Boyen</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="v/DriesVanDyck">Dries Van Dyck</author>
+<author orcid="0000-0002-8872-5123" pid="08/377">Aalt D. J. van Dijk</author>
+<author pid="62/3839">Roeland C. H. J. van Ham</author>
+<title>SLIDER: Mining Correlated Motifs in Protein-Protein Interaction Networks.</title>
+<pages>716-721</pages>
+<year>2009</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2009.92</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDM.2009.92</ee>
+<crossref>conf/icdm/2009</crossref>
+<url>db/conf/icdm/icdm2009.html#BoyenNDDH09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BexGMN09" mdate="2021-07-25">
+<author pid="12/1974">Geert Jan Bex</author>
+<author pid="63/5842">Wouter Gelade</author>
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Simplifying XML schema: effortless handling of nondeterministic regular expressions.</title>
+<pages>731-744</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559922</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#BexGMN09</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Neven09" mdate="2017-07-12">
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>XML Types.</title>
+<pages>3650-3654</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_1563</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/x.html#Neven09</url>
+</incollection>
+</r>
+<r><article key="journals/iandc/MartensNG08" mdate="2022-04-09">
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author orcid="0000-0002-5197-2817" pid="g/MarcGyssens">Marc Gyssens</author>
+<title>Typechecking top-down XML transformations: Fixed input or output schemas.</title>
+<pages>806-827</pages>
+<year>2008</year>
+<volume>206</volume>
+<journal>Inf. Comput.</journal>
+<number>7</number>
+<ee type="oa">https://doi.org/10.1016/j.ic.2008.01.002</ee>
+<url>db/journals/iandc/iandc206.html#MartensNG08</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KementsietsidisNCV08" mdate="2021-07-25">
+<author pid="41/5464">Anastasios Kementsietsidis</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="25/49">Dieter Van de Craen</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>Scalable multi-query optimization for exploratory queries over federated scientific databases.</title>
+<pages>16-27</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1453864.pdf</ee>
+<ee>https://doi.org/10.14778/1453856.1453864</ee>
+<url>db/journals/pvldb/pvldb1.html#KementsietsidisNCV08</url>
+</article>
+</r>
+<r><article key="journals/tods/FanGN08" mdate="2021-07-25">
+<author orcid="0000-0001-5149-2656" pid="94/2372">Wenfei Fan</author>
+<author orcid="0000-0002-8967-2473" pid="g/FlorisGeerts">Floris Geerts</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Expressiveness and complexity of XML publishing transducers.</title>
+<year>2008</year>
+<volume>33</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1412331.1412337</ee>
+<ee>https://www.wikidata.org/entity/Q57495484</ee>
+<url>db/journals/tods/tods33.html#FanGN08</url>
+<pages>25:1-25:49</pages>
+</article>
+</r>
+<r><inproceedings key="conf/birthday/MartensNS08" mdate="2010-12-15">
+<author pid="95/3517">Wim Martens</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>Deterministic top-down tree automata: past, present, and future.</title>
+<pages>505-530</pages>
+<year>2008</year>
+<booktitle>Logic and Automata</booktitle>
+<crossref>conf/birthday/2008thomas</crossref>
+<url>db/conf/birthday/thomas2008.html#MartensNS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/KementsietsidisNC08" mdate="2021-07-25">
+<author pid="41/5464">Anastasios Kementsietsidis</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="25/49">Dieter Van de Craen</author>
+<title>BioScout: a life-science query monitoring system.</title>
+<pages>730-734</pages>
+<year>2008</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1353343.1353437</ee>
+<crossref>conf/edbt/2008</crossref>
+<url>db/conf/edbt/edbt2008.html#KementsietsidisNC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/FanGGNP08" mdate="2021-07-25">
+<author orcid="0000-0001-5149-2656" pid="94/2372">Wenfei Fan</author>
+<author orcid="0000-0002-8967-2473" pid="g/FlorisGeerts">Floris Geerts</author>
+<author pid="63/5842">Wouter Gelade</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author orcid="0000-0002-4030-3458" pid="03/4524">Antonella Poggi</author>
+<title>Complexity and composition of synthesized web services.</title>
+<pages>231-240</pages>
+<year>2008</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1376916.1376949</ee>
+<ee>https://www.wikidata.org/entity/Q57495473</ee>
+<crossref>conf/pods/2008</crossref>
+<url>db/conf/pods/pods2008.html#FanGGNP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BexNV08" mdate="2021-07-25">
+<author pid="12/1974">Geert Jan Bex</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>SchemaScope: a system for inferring and cleaning XML schemas.</title>
+<pages>1259-1262</pages>
+<year>2008</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1376616.1376750</ee>
+<crossref>conf/sigmod/2008</crossref>
+<url>db/conf/sigmod/sigmod2008.html#BexNV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stacs/GeladeN08" mdate="2018-08-23">
+<author pid="63/5842">Wouter Gelade</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>Succinctness of the Complement and Intersection of Regular Expressions.</title>
+<year>2008</year>
+<booktitle>STACS</booktitle>
+<pages>325-336</pages>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.STACS.2008.1354</ee>
+<crossref>conf/stacs/2008</crossref>
+<url>db/conf/stacs/stacs2008.html#GeladeN08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/BexGNV08" mdate="2021-07-25">
+<author pid="12/1974">Geert Jan Bex</author>
+<author pid="63/5842">Wouter Gelade</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>Learning deterministic regular expressions for the inference of schemas from XML data.</title>
+<pages>825-834</pages>
+<year>2008</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/1367497.1367609</ee>
+<crossref>conf/www/2008</crossref>
+<url>db/conf/www/www2008.html#BexGNV08</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0802-2869" mdate="2018-08-13">
+<author pid="63/5842">Wouter Gelade</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>Succinctness of the Complement and Intersection of Regular Expressions</title>
+<ee type="oa">http://arxiv.org/abs/0802.2869</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0802.2869</volume>
+<url>db/journals/corr/corr0802.html#abs-0802-2869</url>
+</article>
+</r>
+<r><article key="journals/jcss/MartensN07" mdate="2021-07-25">
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Frontiers of tractability for typechecking simple XML transformations.</title>
+<pages>362-390</pages>
+<year>2007</year>
+<volume>73</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1016/j.jcss.2006.10.005</ee>
+<url>db/journals/jcss/jcss73.html#MartensN07</url>
+</article>
+</r>
+<r><article key="journals/sigmod/MartensNS07" mdate="2021-07-25">
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>Simple off the shelf abstractions for XML schema.</title>
+<pages>15-22</pages>
+<year>2007</year>
+<volume>36</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1324185.1324188</ee>
+<url>db/journals/sigmod/sigmod36.html#MartensNS07</url>
+</article>
+</r>
+<r><article key="journals/tocl/BenediktLN07" mdate="2021-07-25">
+<author orcid="0000-0003-2964-0880" pid="b/MichaelBenedikt">Michael Benedikt</author>
+<author orcid="0000-0002-6698-2735" pid="l/LeonidLibkin">Leonid Libkin</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Logical definability and query languages over ranked and unranked trees.</title>
+<year>2007</year>
+<volume>8</volume>
+<journal>ACM Trans. Comput. Log.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1227839.1227843</ee>
+<url>db/journals/tocl/tocl8.html#BenediktLN07</url>
+<pages>11</pages>
+</article>
+</r>
+<r><inproceedings key="conf/dbpl/GeladeN07" mdate="2021-07-25">
+<author pid="63/5842">Wouter Gelade</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Succinctness of Pattern-Based Schema Languages for XML.</title>
+<pages>201-215</pages>
+<year>2007</year>
+<crossref>conf/dbpl/2007</crossref>
+<booktitle>DBPL</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-75987-4_14</ee>
+<url>db/conf/dbpl/dbpl2007.html#GeladeN07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/GeladeMN07" mdate="2021-07-25">
+<author pid="63/5842">Wouter Gelade</author>
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Optimizing Schema Languages for XML: Numerical Constraints and Interleaving.</title>
+<pages>269-283</pages>
+<year>2007</year>
+<crossref>conf/icdt/2007</crossref>
+<booktitle>ICDT</booktitle>
+<ee>https://doi.org/10.1007/11965893_19</ee>
+<url>db/conf/icdt/icdt2007.html#GeladeMN07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/FanGN07" mdate="2021-07-25">
+<author orcid="0000-0001-5149-2656" pid="94/2372">Wenfei Fan</author>
+<author orcid="0000-0002-8967-2473" pid="g/FlorisGeerts">Floris Geerts</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Expressiveness and complexity of xml publishing transducers.</title>
+<pages>83-92</pages>
+<year>2007</year>
+<crossref>conf/pods/2007</crossref>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1265530.1265542</ee>
+<ee>https://www.wikidata.org/entity/Q57495512</ee>
+<url>db/conf/pods/pods2007.html#FanGN07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/BexNV07" mdate="2020-03-12">
+<author pid="12/1974">Geert Jan Bex</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>Inferring XML Schema Definitions from XML Data.</title>
+<pages>998-1009</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/research/p998-bex.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#BexNV07</url>
+</inproceedings>
+</r>
+<r><article key="journals/lmcs/NevenS06" mdate="2021-07-25">
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>On the complexity of XPath containment in the presence of disjunction, DTDs, and variables.</title>
+<year>2006</year>
+<volume>2</volume>
+<journal>Log. Methods Comput. Sci.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.2168/LMCS-2(3:1)2006</ee>
+<url>db/journals/lmcs/lmcs2.html#NevenS06</url>
+</article>
+</r>
+<r><article key="journals/tods/MartensNSB06" mdate="2021-07-25">
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<author pid="12/1974">Geert Jan Bex</author>
+<title>Expressiveness and complexity of XML Schema.</title>
+<pages>770-813</pages>
+<year>2006</year>
+<volume>31</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1166074.1166076</ee>
+<url>db/journals/tods/tods31.html#MartensNSB06</url>
+</article>
+</r>
+<r><inproceedings key="conf/dils/CraenNK06" mdate="2021-07-25">
+<author pid="25/49">Dieter Van de Craen</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="56/1906">Kerstin Koch</author>
+<title>An Extensible Light-Weight XML-Based Monitoring System for Sequence Databases.</title>
+<pages>280-296</pages>
+<year>2006</year>
+<crossref>conf/dils/2006</crossref>
+<booktitle>DILS</booktitle>
+<ee>https://doi.org/10.1007/11799511_25</ee>
+<url>db/conf/dils/dils2006.html#CraenNK06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/NevenC06" mdate="2021-07-25">
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="25/49">Dieter Van de Craen</author>
+<title>Optimizing Monitoring Queries over Distributed Data.</title>
+<pages>829-846</pages>
+<year>2006</year>
+<crossref>conf/edbt/2006</crossref>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1007/11687238_49</ee>
+<url>db/conf/edbt/edbt2006.html#NevenC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/BexNST06" mdate="2020-03-12">
+<author pid="12/1974">Geert Jan Bex</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<author pid="t/KTuyls">Karl Tuyls</author>
+<title>Inference of Concise DTDs from XML Data.</title>
+<pages>115-126</pages>
+<year>2006</year>
+<crossref>conf/vldb/2006</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1164139</ee>
+<ee type="oa">http://www.vldb.org/conf/2006/p115-bex.pdf</ee>
+<url>db/conf/vldb/vldb2006.html#BexNST06</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0606065" mdate="2018-08-13">
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>On the complexity of XPath containment in the presence of disjunction, DTDs, and variables</title>
+<ee type="oa">http://arxiv.org/abs/cs/0606065</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0606065</volume>
+<url>db/journals/corr/corr0606.html#abs-cs-0606065</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0606094" mdate="2018-08-13">
+<author pid="95/3517">Wim Martens</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="g/MarcGyssens">Marc Gyssens</author>
+<title>On Typechecking Top-Down XML Tranformations: Fixed Input or Output Schemas</title>
+<ee type="oa">http://arxiv.org/abs/cs/0606094</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0606094</volume>
+<url>db/journals/corr/corr0606.html#abs-cs-0606094</url>
+</article>
+</r>
+<r><article key="journals/jcss/Neven05" mdate="2021-07-25">
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Attribute grammars for unranked trees as a query language for structured documents.</title>
+<pages>221-257</pages>
+<year>2005</year>
+<volume>70</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1016/j.jcss.2004.10.008</ee>
+<url>db/journals/jcss/jcss70.html#Neven05</url>
+</article>
+</r>
+<r><article key="journals/tcs/MartensN05" mdate="2021-07-25">
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>On the complexity of typechecking top-down XML transformations.</title>
+<pages>153-180</pages>
+<year>2005</year>
+<volume>336</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2004.10.035</ee>
+<url>db/journals/tcs/tcs336.html#MartensN05</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdt/MartensNS05" mdate="2021-07-25">
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>Which XML Schemas Admit 1-Pass Preorder Typing?</title>
+<pages>68-82</pages>
+<ee>https://doi.org/10.1007/978-3-540-30570-5_5</ee>
+<year>2005</year>
+<crossref>conf/icdt/2005</crossref>
+<booktitle>ICDT</booktitle>
+<url>db/conf/icdt/icdt2005.html#MartensNS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/BexMNS05" mdate="2018-11-06">
+<author pid="12/1974">Geert Jan Bex</author>
+<author pid="95/3517">Wim Martens</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>Expressiveness of XSDs: from practice to theory, there and back again.</title>
+<pages>712-721</pages>
+<year>2005</year>
+<crossref>conf/www/2005</crossref>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/1060745.1060848</ee>
+<url>db/conf/www/www2005.html#BexMNS05</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dagstuhl/2005P5061" mdate="2021-06-10">
+<editor pid="n/FrankNeven">Frank Neven</editor>
+<editor pid="s/TSchwentick">Thomas Schwentick</editor>
+<editor pid="s/DanSuciu">Dan Suciu</editor>
+<title>Foundations of Semistructured Data, 6.-11. February 2005</title>
+<booktitle>Foundations of Semistructured Data</booktitle>
+<volume>05061</volume>
+<year>2005</year>
+<series href="db/series/dagstuhl/index.html">Dagstuhl Seminar Proceedings</series>
+<publisher>IBFI, Schloss Dagstuhl, Germany</publisher>
+<url>db/conf/dagstuhl/P5061.html</url>
+<ee type="oa">http://drops.dagstuhl.de/portals/05061/</ee>
+</proceedings>
+</r>
+<r><proceedings key="conf/webdb/2005" mdate="2005-07-06">
+<editor pid="d/AnHaiDoan">AnHai Doan</editor>
+<editor pid="n/FrankNeven">Frank Neven</editor>
+<editor pid="56/1716">Robert McCann</editor>
+<editor pid="12/1974">Geert Jan Bex</editor>
+<title>Proceedings of the Eight International Workshop on the Web &amp; Databases (WebDB 2005), Baltimore, Maryland, USA, Collocated mith ACM SIGMOD/PODS 2005, June 16-17, 2005</title>
+<booktitle>WebDB</booktitle>
+<ee>http://webdb2005.uhasselt.be/webdb05_eproceedings.pdf</ee>
+<year>2005</year>
+<url>db/conf/webdb/webdb2005.html</url>
+</proceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/NevenSS05" mdate="2018-08-23">
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<author pid="s/DanSuciu">Dan Suciu</author>
+<title>05061 Abstracts Collection - Foundations of Semistructured Data.</title>
+<year>2005</year>
+<crossref>conf/dagstuhl/2005P5061</crossref>
+<booktitle>Foundations of Semistructured Data</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2005/233</ee>
+<url>db/conf/dagstuhl/P5061.html#NevenSS05</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/NevenSS05a" mdate="2018-08-23">
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<author pid="s/DanSuciu">Dan Suciu</author>
+<title>05061 Summary - Foundations of Semi-structured Data.</title>
+<year>2005</year>
+<crossref>conf/dagstuhl/2005P5061</crossref>
+<booktitle>Foundations of Semistructured Data</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2005/227</ee>
+<url>db/conf/dagstuhl/P5061.html#NevenSS05a</url>
+</inproceedings>
+</r>
+<r><article key="journals/tocl/NevenSV04" mdate="2021-07-25">
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<author pid="v/VictorVianu">Victor Vianu</author>
+<title>Finite state machines for strings over infinite alphabets.</title>
+<pages>403-435</pages>
+<year>2004</year>
+<volume>5</volume>
+<journal>ACM Trans. Comput. Log.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1013560.1013562</ee>
+<url>db/journals/tocl/tocl5.html#NevenSV04</url>
+</article>
+</r>
+<r><inproceedings key="conf/mfcs/MartensNS04" mdate="2021-07-25">
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>Complexity of Decision Problems for Simple Regular Expressions.</title>
+<pages>889-900</pages>
+<ee>https://doi.org/10.1007/978-3-540-28629-5_70</ee>
+<year>2004</year>
+<crossref>conf/mfcs/2004</crossref>
+<booktitle>MFCS</booktitle>
+<url>db/conf/mfcs/mfcs2004.html#MartensNS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/MartensN04" mdate="2021-07-25">
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Frontiers of Tractability for Typechecking Simple XML Transformations.</title>
+<year>2004</year>
+<crossref>conf/pods/2004</crossref>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1055558.1055563</ee>
+<ee>http://www.acm.org/sigmod/pods/proc04/pdf/P-03.pdf</ee>
+<url>db/conf/pods/pods2004.html#MartensN04</url>
+<pages>23-34</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webdb/BexNB04" mdate="2021-07-25">
+<author pid="12/1974">Geert Jan Bex</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="b/JVdBussche">Jan Van den Bussche</author>
+<title>DTDs versus XML Schema: A Practical Study.</title>
+<pages>79-84</pages>
+<year>2004</year>
+<crossref>conf/webdb/2004</crossref>
+<booktitle>WebDB</booktitle>
+<url>db/conf/webdb/webdb2004.html#BexNB04</url>
+<ee>https://doi.org/10.1145/1017074.1017095</ee>
+</inproceedings>
+</r>
+<r><article key="journals/iandc/NevenS03" mdate="2021-02-12">
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>On the power of tree-walking automata.</title>
+<pages>86-103</pages>
+<year>2003</year>
+<volume>183</volume>
+<journal>Inf. Comput.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1016/S0890-5401(03)00013-0</ee>
+<url>db/journals/iandc/iandc183.html#NevenS03</url>
+</article>
+</r>
+<r><article key="journals/jcss/AlonMNSV03" mdate="2024-02-05">
+<author pid="a/NAlon">Noga Alon</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<author pid="v/VictorVianu">Victor Vianu</author>
+<title>XML with data values: typechecking revisited.</title>
+<pages>688-727</pages>
+<year>2003</year>
+<volume>66</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1016/S0022-0000(03)00032-1</ee>
+<url>db/journals/jcss/jcss66.html#AlonMNSV03</url>
+</article>
+</r>
+<r><article key="journals/sigmod/RossNO03" mdate="2020-03-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="o/BengChinOoi">Beng Chin Ooi</author>
+<title>Reminiscences on Influential Papers.</title>
+<pages>89</pages>
+<year>2003</year>
+<volume>32</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>http://www.acm.org/sigmod/record/issues/0306/D4-KenRoss.pdf</ee>
+<url>db/journals/sigmod/sigmod32.html#RossNO03</url>
+</article>
+</r>
+<r><article key="journals/tocl/AlonMNSV03" mdate="2024-02-05">
+<author pid="a/NAlon">Noga Alon</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<author pid="v/VictorVianu">Victor Vianu</author>
+<title>Typechecking XML views of relational databases.</title>
+<pages>315-354</pages>
+<year>2003</year>
+<volume>4</volume>
+<journal>ACM Trans. Comput. Log.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/772062.772065</ee>
+<url>db/journals/tocl/tocl4.html#AlonMNSV03</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdt/MartensN03" mdate="2021-07-25">
+<author pid="95/3517">Wim Martens</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Typechecking Top-Down Uniform Unranked Tree Transducers.</title>
+<pages>64-78</pages>
+<year>2003</year>
+<crossref>conf/icdt/2003</crossref>
+<booktitle>ICDT</booktitle>
+<ee>https://doi.org/10.1007/3-540-36285-1_5</ee>
+<url>db/conf/icdt/icdt2003.html#MartensN03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/NevenS03" mdate="2021-07-25">
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>XPath Containment in the Presence of Disjunction, DTDs, and Variables.</title>
+<pages>312-326</pages>
+<year>2003</year>
+<crossref>conf/icdt/2003</crossref>
+<booktitle>ICDT</booktitle>
+<ee>https://doi.org/10.1007/3-540-36285-1_21</ee>
+<url>db/conf/icdt/icdt2003.html#NevenS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/LibkinN03" mdate="2023-03-24">
+<author pid="l/LeonidLibkin">Leonid Libkin</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>Logical Definability and Query Languages over Unranked Trees.</title>
+<pages>178-187</pages>
+<year>2003</year>
+<crossref>conf/lics/2003</crossref>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2003.1210057</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2003.1210057</ee>
+<url>db/conf/lics/lics2003.html#LibkinN03</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/pods/2003" mdate="2012-05-23">
+<editor pid="n/FrankNeven">Frank Neven</editor>
+<editor pid="b/CBeeri">Catriel Beeri</editor>
+<editor pid="m/TovaMilo">Tova Milo</editor>
+<title>Proceedings of the Twenty-Second ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems, June 9-12, 2003, San Diego, CA, USA</title>
+<publisher>ACM</publisher>
+<year>2003</year>
+<url>db/conf/pods/pods2003.html</url>
+<isbn>1-58113-670-6</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=773153</ee>
+</proceedings>
+</r>
+<r><article key="journals/is/BexMN02" mdate="2022-08-16">
+<author pid="12/1974">Geert Jan Bex</author>
+<author pid="m/SebastianManeth">Sebastian Maneth</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>A formal model for an expressive fragment of XSLT.</title>
+<pages>21-39</pages>
+<year>2002</year>
+<volume>27</volume>
+<journal>Inf. Syst.</journal>
+<number>1</number>
+<url>db/journals/is/is27.html#BexMN02</url>
+<ee>https://doi.org/10.1016/S0306-4379(01)00033-3</ee>
+<ee>https://www.wikidata.org/entity/Q111823107</ee>
+</article>
+</r>
+<r><article key="journals/jacm/NevenB02" mdate="2021-07-25">
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="b/JVdBussche">Jan Van den Bussche</author>
+<title>Expressiveness of structured document query languages based on attribute grammars.</title>
+<pages>56-100</pages>
+<year>2002</year>
+<volume>49</volume>
+<journal>J. ACM</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/505241.505245</ee>
+<url>db/journals/jacm/jacm49.html#NevenB02</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Neven02" mdate="2021-07-25">
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Automata Theory for XML Researchers.</title>
+<pages>39-46</pages>
+<year>2002</year>
+<volume>31</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/601858.601869</ee>
+<url>db/journals/sigmod/sigmod31.html#Neven02</url>
+</article>
+</r>
+<r><article key="journals/tcs/NevenS02" mdate="2021-07-25">
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>Query automata over finite trees.</title>
+<pages>633-674</pages>
+<year>2002</year>
+<volume>275</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs275.html#NevenS02</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(01)00301-2</ee>
+</article>
+</r>
+<r><inproceedings key="conf/csl/Neven02" mdate="2021-07-25">
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Automata, Logic, and XML.</title>
+<pages>2-26</pages>
+<year>2002</year>
+<crossref>conf/csl/2002</crossref>
+<booktitle>CSL</booktitle>
+<ee>https://doi.org/10.1007/3-540-45793-3_2</ee>
+<url>db/conf/csl/csl2002.html#Neven02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/Neven02" mdate="2021-07-25">
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>On the Power of Walking for Querying Tree-Structured Data.</title>
+<pages>77-84</pages>
+<year>2002</year>
+<crossref>conf/pods/2002</crossref>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/543613.543624</ee>
+<ee>http://www.acm.org/sigs/sigmod/pods/proc02/papers/077-Neven.pdf</ee>
+<url>db/conf/pods/pods02.html#Neven02</url>
+</inproceedings>
+</r>
+<r><article key="journals/iandc/NevenOTB01" mdate="2021-07-25">
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="o/MartinOtto">Martin Otto 0001</author>
+<author pid="68/5160">Jerzy Tyszkiewicz</author>
+<author orcid="0000-0003-0072-3252" pid="b/JVdBussche">Jan Van den Bussche</author>
+<title>Adding For-Loops to First-Order Logic.</title>
+<pages>156-186</pages>
+<year>2001</year>
+<volume>168</volume>
+<journal>Inf. Comput.</journal>
+<number>2</number>
+<url>db/journals/iandc/iandc168.html#NevenOTB01</url>
+<ee type="oa">https://doi.org/10.1006/inco.2000.2961</ee>
+</article>
+</r>
+<r><inproceedings key="conf/lics/AlonMNSV01" mdate="2024-02-05">
+<author pid="a/NAlon">Noga Alon</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<author pid="v/VictorVianu">Victor Vianu</author>
+<title>Typechecking XML Views of Relational Databases.</title>
+<pages>421-430</pages>
+<year>2001</year>
+<crossref>conf/lics/2001</crossref>
+<booktitle>LICS</booktitle>
+<url>db/conf/lics/lics2001.html#AlonMNSV01</url>
+<ee>https://doi.org/10.1109/LICS.2001.932517</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2001.932517</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mfcs/NevenSV01" mdate="2021-07-25">
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<author pid="v/VictorVianu">Victor Vianu</author>
+<title>Towards Regular Languages over Infinite Alphabets.</title>
+<pages>560-572</pages>
+<year>2001</year>
+<crossref>conf/mfcs/2001</crossref>
+<booktitle>MFCS</booktitle>
+<ee>https://doi.org/10.1007/3-540-44683-4_49</ee>
+<url>db/conf/mfcs/mfcs2001.html#NevenSV01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/AlonMNSV01" mdate="2018-11-06">
+<author pid="a/NAlon">Noga Alon</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/DanSuciu">Dan Suciu</author>
+<author pid="v/VictorVianu">Victor Vianu</author>
+<title>XML with Data Values: Typechecking Revisited.</title>
+<year>2001</year>
+<crossref>conf/pods/2001</crossref>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods2001.html#AlonMNSV01</url>
+<ee>https://doi.org/10.1145/375551.375570</ee>
+<ee>http://www.acm.org/sigs/sigmod/pods/proc01/online/p29.pdf</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdb/NevenS01" mdate="2021-07-25">
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>Automata-and Logic-Based Pattern Languages for Tree-Structured Data.</title>
+<pages>160-178</pages>
+<year>2001</year>
+<crossref>conf/sdb/2001</crossref>
+<booktitle>Semantics in Databases</booktitle>
+<ee>https://doi.org/10.1007/3-540-36596-6_9</ee>
+<url>db/conf/sdb/sdb2001.html#NevenS01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cl/BexMN00" mdate="2021-07-25">
+<author pid="12/1974">Geert Jan Bex</author>
+<author pid="m/SebastianManeth">Sebastian Maneth</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>A Formal Model for an Expressive Fragment of XSLT.</title>
+<pages>1137-1151</pages>
+<ee>https://doi.org/10.1007/3-540-44957-4_76</ee>
+<year>2000</year>
+<crossref>conf/cl/2000</crossref>
+<booktitle>Computational Logic</booktitle>
+<url>db/conf/cl/cl2000.html#BexMN00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/NevenS00" mdate="2021-07-25">
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>On the Power of Tree-Walking Automata.</title>
+<pages>547-560</pages>
+<ee>https://doi.org/10.1007/3-540-45022-X_46</ee>
+<year>2000</year>
+<crossref>conf/icalp/2000</crossref>
+<booktitle>ICALP</booktitle>
+<url>db/conf/icalp/icalp2000.html#NevenS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/NevenS00" mdate="2018-11-06">
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>Expressive and Efficient Pattern Languages for Tree-Structured Data.</title>
+<pages>145-156</pages>
+<year>2000</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods2000.html#NevenS00</url>
+<crossref>conf/pods/00</crossref>
+<ee>https://doi.org/10.1145/335168.335217</ee>
+<cite>books/mk/BunemanSA99</cite>
+<cite>books/aw/AbiteboulHV95</cite>
+<cite>journals/jodl/AbiteboulQMWW97</cite>
+<cite>conf/pods/AbiteboulV97</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigmod/BunemanDHS96</cite>
+<cite>conf/pods/BunemanFW98</cite>
+<cite>conf/pods/CalvaneseGLV99</cite>
+<cite>...</cite>
+<cite>conf/sigmod/CluetDSS98</cite>
+<cite>journals/cn/DeutschFFLS99</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigmod/FernandezFKLS98</cite>
+<cite>...</cite>
+<cite>conf/csl/Klarlund97</cite>
+<cite>...</cite>
+<cite>journals/siamcomp/MendelzonW95</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/pods/NevenS99</cite>
+<cite>conf/pods/NevenB98</cite>
+<cite>conf/pods/PapakonstantinouV00</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/fodo/Suciu98</cite>
+<cite>journals/jcss/Thomas82</cite>
+<cite>conf/caap/Thomas84</cite>
+<cite>conf/lics/Thomas87</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><article key="journals/is/NevenBGV99" mdate="2021-07-25">
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author orcid="0000-0003-0072-3252" pid="b/JVdBussche">Jan Van den Bussche</author>
+<author pid="g/DirkVanGucht">Dirk Van Gucht</author>
+<author pid="v/GottfriedVossen">Gottfried Vossen</author>
+<title>Typed Query Languages for Databases Containing Queries.</title>
+<pages>569-595</pages>
+<year>1999</year>
+<volume>24</volume>
+<journal>Inf. Syst.</journal>
+<number>7</number>
+<url>db/journals/is/is24.html#NevenBGV99</url>
+<ee>https://doi.org/10.1016/S0306-4379(99)00033-2</ee>
+</article>
+</r>
+<r><inproceedings key="conf/dbpl/ManethN99" mdate="2021-07-25">
+<author pid="m/SebastianManeth">Sebastian Maneth</author>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Structured Document Transformations Based on XSL.</title>
+<pages>80-98</pages>
+<ee>https://doi.org/10.1007/3-540-44543-9_6</ee>
+<year>1999</year>
+<crossref>conf/dbpl/1999</crossref>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl1999.html#ManethN99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbpl/Neven99" mdate="2021-07-25">
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<title>Extensions of Attribute Grammars for Structured Document Queries.</title>
+<pages>99-116</pages>
+<ee>https://doi.org/10.1007/3-540-44543-9_7</ee>
+<year>1999</year>
+<crossref>conf/dbpl/1999</crossref>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl1999.html#Neven99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gvd/NevenS99" mdate="2019-07-26">
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>Automata for Unary Queries on Trees.</title>
+<pages>102-106</pages>
+<year>1999</year>
+<crossref>conf/gvd/1999</crossref>
+<booktitle>Grundlagen von Datenbanken</booktitle>
+<url>db/conf/gvd/gvd99.html#NevenS99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/NevenOTB99" mdate="2017-05-23">
+<ee>https://doi.org/10.1007/3-540-49257-7_5</ee>
+<crossref>conf/icdt/99</crossref>
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="o/MartinOtto">Martin Otto 0001</author>
+<author pid="68/5160">Jerzy Tyszkiewicz</author>
+<author pid="b/JVdBussche">Jan Van den Bussche</author>
+<title>Adding For-Loops to First-Order Logic.</title>
+<pages>58-69</pages>
+<year>1999</year>
+<booktitle>ICDT</booktitle>
+<url>db/conf/icdt/icdt99.html#NevenOTB99</url>
+<cite label="AHV95">books/aw/AbiteboulHV95</cite>
+<cite label="AV95">journals/jcss/AbiteboulV95</cite>
+<cite label="CH82">journals/jcss/ChandraH82</cite>
+<cite label="Cha81">conf/popl/Chandra81</cite>
+<cite label="Cha88">conf/pods/Chandra88</cite>
+<cite label="EF95">...</cite>
+<cite label="EFT94">...</cite>
+<cite label="GO93">conf/csl/GradelO92</cite>
+<cite label="HKL96">...</cite>
+<cite label="KV95">journals/apal/KolaitisV95</cite>
+<cite label="Ott96">journals/jsyml/Otto96</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/NevenS99" mdate="2021-07-25">
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="s/TSchwentick">Thomas Schwentick</author>
+<title>Query Automata.</title>
+<pages>205-214</pages>
+<year>1999</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods99.html#NevenS99</url>
+<cdrom>DiSC2_1/out/papers/pods/queryautomatafrth.pdf</cdrom>
+<crossref>conf/pods/99</crossref>
+<ee>https://doi.org/10.1145/303976.303997</ee>
+<cite>journals/vldb/AbiteboulCM98</cite>
+<cite>...</cite>
+<cite>journals/sigmod/Baeza-YatesN96</cite>
+<cite>conf/icdt/BeeriM99</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/tcs/GlobermanH96</cite>
+<cite>conf/vldb/GonnetT87</cite>
+<cite>journals/siamcomp/GyssensPG94</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigir/KilpelainenM93</cite>
+<cite>conf/cpm/KilpelainenM94</cite>
+<cite>journals/ipl/Moriya94</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/fsttcs/NeumannS98</cite>
+<cite>...</cite>
+<cite>conf/pods/NevenB98</cite>
+<cite>journals/iandc/PairQ68</cite>
+<cite>...</cite>
+<cite>journals/iandc/Takahashi75</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/pods/Vardi89</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fmldo/Neven98" mdate="2014-02-11">
+<author pid="n/FrankNeven">Frank Neven</author>
+<title>Structured Document Query Languages Based on Attribute Grammars: Locality and Non-Determinism.</title>
+<pages>129-142</pages>
+<year>1998</year>
+<crossref>conf/fmldo/1998</crossref>
+<booktitle>FMLDO</booktitle>
+<url>db/conf/fmldo/fmldo98.html#Neven98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/NevenB98" mdate="2021-07-25">
+<crossref>conf/pods/98</crossref>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="b/JVdBussche">Jan Van den Bussche</author>
+<title>Expressiveness of Structured Document Query Languages Based on Attribute Grammars.</title>
+<pages>11-17</pages>
+<year>1998</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods98.html#NevenB98</url>
+<ee>https://doi.org/10.1145/275487.275489</ee>
+<cdrom>journals/anthology/dvd1:text/1-3/PODS98/P011.PDF</cdrom>
+<cite label="ACM93">conf/vldb/AbiteboulCM93</cite>
+<cite label="ACM95">conf/sigmod/AbiteboulCM95</cite>
+<cite label="BE97">...</cite>
+<cite label="CD88">journals/iandc/CourcelleD88</cite>
+<cite label="DJL88">books/sp/DeransartJL88</cite>
+<cite label="DM93">...</cite>
+<cite label="Don70">journals/jcss/Doner70</cite>
+<cite label="EF95">...</cite>
+<cite label="End72">...</cite>
+<cite label="Gol95">...</cite>
+<cite label="GS84">...</cite>
+<cite label="GT87">conf/vldb/GonnetT87</cite>
+<cite label="Imm89">journals/siamcomp/Immerman89</cite>
+<cite label="Knu68">journals/mst/Knuth68</cite>
+<cite label="Knu68a">journals/mst/Knuth71</cite>
+<cite label="Knu82">...</cite>
+<cite label="Mos74">...</cite>
+<cite label="NVsB97">conf/dood/NevenB97</cite>
+<cite label="Tho97">...</cite>
+<cite label="TW68">journals/mst/ThatcherW68</cite>
+<cite label="Var89">conf/pods/Vardi89</cite>
+<cite label="Woo95">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/NevenBGV98" mdate="2021-07-25">
+<crossref>conf/pods/98</crossref>
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author pid="b/JVdBussche">Jan Van den Bussche</author>
+<author pid="g/DirkVanGucht">Dirk Van Gucht</author>
+<author pid="v/GottfriedVossen">Gottfried Vossen</author>
+<title>Typed Query Languages for Databases Containing Queries.</title>
+<pages>189-196</pages>
+<year>1998</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods98.html#NevenBGV98</url>
+<ee>https://doi.org/10.1145/275487.275509</ee>
+<cdrom>journals/anthology/dvd1:text/1-3/PODS98/P189.PDF</cdrom>
+<cite>journals/vldb/AbiteboulB95</cite>
+<cite>books/aw/AbiteboulHV95</cite>
+<cite>...</cite>
+<cite>conf/sigmod/BeeriM93</cite>
+<cite>journals/jcss/ChandraH80</cite>
+<cite>journals/jcss/ChandraH82</cite>
+<cite>journals/jlp/ChenKW93</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/siamcomp/GyssensPG94</cite>
+<cite>...</cite>
+<cite>journals/jacm/Klug82</cite>
+<cite>conf/dood/LakshmananSS93</cite>
+<cite>journals/tods/OzsoyogluOM87</cite>
+<cite>conf/pods/ParedaensBG94</cite>
+<cite>journals/tods/ParedaensG92</cite>
+<cite>conf/pods/Ross92</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigmod/StonebrakerAHR84</cite>
+<cite>journals/tods/StonebrakerAH87</cite>
+<cite>journals/tcs/Suciu97</cite>
+<cite>books/cs/Ullman88</cite>
+<cite>journals/jcss/BusscheGV96</cite>
+<cite>journals/jcss/Wong96</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dood/NevenB97" mdate="2021-07-25">
+<author orcid="0000-0002-7143-1903" pid="n/FrankNeven">Frank Neven</author>
+<author orcid="0000-0003-0072-3252" pid="b/JVdBussche">Jan Van den Bussche</author>
+<title>On Implementing Structured Document Query Facilities on Top of a DOOD.</title>
+<pages>351-367</pages>
+<year>1997</year>
+<crossref>conf/dood/1997</crossref>
+<booktitle>DOOD</booktitle>
+<url>db/conf/dood/dood97.html#NevenB97</url>
+<ee>https://doi.org/10.1007/3-540-63792-3_25</ee>
+</inproceedings>
+</r>
+<coauthors n="78" nc="1">
+<co c="0"><na f="a/Abiteboul:Serge" pid="a/SergeAbiteboul">Serge Abiteboul</na></co>
+<co c="0"><na f="a/Afrati:Foto_N=" pid="a/FotoNAfrati">Foto N. Afrati</na></co>
+<co c="0"><na f="a/Alon:Noga" pid="a/NAlon">Noga Alon</na></co>
+<co c="0"><na f="a/Ameloot:Tom_J=" pid="05/8909">Tom J. Ameloot</na></co>
+<co c="0"><na f="a/Antonopoulos:Timos" pid="62/6761">Timos Antonopoulos</na></co>
+<co c="0"><na f="a/Arenas:Marcelo" pid="76/6735">Marcelo Arenas</na></co>
+<co c="0"><na f="b/Barcel=oacute=:Pablo" pid="29/5169">Pablo Barcel&#243;</na></co>
+<co c="0"><na f="b/Beeri:Catriel" pid="b/CBeeri">Catriel Beeri</na></co>
+<co c="0"><na f="b/Benedikt:Michael" pid="b/MichaelBenedikt">Michael Benedikt</na></co>
+<co c="0"><na f="b/Bex:Geert_Jan" pid="12/1974">Geert Jan Bex</na></co>
+<co c="0"><na f="b/Bienvenu:Meghyn" pid="80/28">Meghyn Bienvenu</na></co>
+<co c="0"><na f="b/Boyen:Peter" pid="69/7788">Peter Boyen</na></co>
+<co c="0"><na f="b/Bussche:Jan_Van_den" pid="b/JVdBussche">Jan Van den Bussche</na></co>
+<co c="0"><na f="b/Bylois:Niels" pid="355/2551">Niels Bylois</na></co>
+<co c="0"><na f="c/Calvanese:Diego" pid="c/DiegoCalvanese">Diego Calvanese</na></co>
+<co c="0"><na f="c/Craen:Dieter_Van_de" pid="25/49">Dieter Van de Craen</na></co>
+<co c="0"><na f="d/Daenen:Jonny" pid="131/4115">Jonny Daenen</na></co>
+<co c="0"><na f="d/David:Claire" pid="65/164">Claire David</na></co>
+<co c="0"><na f="d/Dijk:Aalt_D=_J=_van" pid="08/377">Aalt D. J. van Dijk</na></co>
+<co c="0"><na f="d/Doan:AnHai" pid="d/AnHaiDoan">AnHai Doan</na></co>
+<co c="0"><na f="d/Doleschal:Johannes" pid="215/6054">Johannes Doleschal</na></co>
+<co c="0"><na f="d/Dyck:Dries_Van" pid="v/DriesVanDyck">Dries Van Dyck</na></co>
+<co c="0"><na f="f/Fan:Wenfei" pid="94/2372">Wenfei Fan</na></co>
+<co c="0"><na f="g/Geck:Gaetano" pid="155/9909">Gaetano Geck</na></co>
+<co c="0"><na f="g/Geerts:Floris" pid="g/FlorisGeerts">Floris Geerts</na></co>
+<co c="0"><na f="g/Gelade:Wouter" pid="63/5842">Wouter Gelade</na></co>
+<co c="0"><na f="g/Gucht:Dirk_Van" pid="g/DirkVanGucht">Dirk Van Gucht</na></co>
+<co c="0"><na f="g/Gyssens:Marc" pid="g/MarcGyssens">Marc Gyssens</na></co>
+<co c="0"><na f="h/Ham:Roeland_C=_H=_J=_van" pid="62/3839">Roeland C. H. J. van Ham</na></co>
+<co c="0"><na f="h/Hens:Niel" pid="44/2253">Niel Hens</na></co>
+<co c="0"><na f="h/H=ouml=llerich:Nico" pid="218/0640">Nico H&#246;llerich</na></co>
+<co c="0"><na f="h/Hovland:Dag" pid="08/7050">Dag Hovland</na></co>
+<co c="0"><na f="h/Hull_0001:Richard" pid="h/RichardHull">Richard Hull 0001</na></co>
+<co c="0"><na f="h/H=uuml=llermeier:Eyke" pid="h/EykeHullermeier">Eyke H&#252;llermeier</na></co>
+<co c="0"><na f="i/Idziaszek:Tomasz" pid="24/7270">Tomasz Idziaszek</na></co>
+<co c="0"><na f="k/Kementsietsidis:Anastasios" pid="41/5464">Anastasios Kementsietsidis</na></co>
+<co c="0"><na f="k/Ketsman:Bas" pid="147/1168">Bas Ketsman</na></co>
+<co c="0"><na f="k/Kimelfeld:Benny" pid="74/3195">Benny Kimelfeld</na></co>
+<co c="0"><na f="k/Koch_0001:Christoph" pid="k/ChristophKoch">Christoph Koch 0001</na></co>
+<co c="0"><na f="k/Koch:Kerstin" pid="56/1906">Kerstin Koch</na></co>
+<co c="0"><na f="l/Libkin:Leonid" pid="l/LeonidLibkin">Leonid Libkin</na></co>
+<co c="0"><na f="m/Maneth:Sebastian" pid="m/SebastianManeth">Sebastian Maneth</na></co>
+<co c="0"><na f="m/Martens:Wim" pid="95/3517">Wim Martens</na></co>
+<co c="0"><na f="m/Marx:Maarten" pid="m/MaartenMarx">Maarten Marx</na></co>
+<co c="0"><na f="m/McCann:Robert" pid="56/1716">Robert McCann</na></co>
+<co c="0"><na f="m/Milo:Tova" pid="m/TovaMilo">Tova Milo</na></co>
+<co c="0"><na f="m/Murlak:Filip" pid="14/4251">Filip Murlak</na></co>
+<co c="0"><na f="n/Nahshon:Yoav" pid="181/6097">Yoav Nahshon</na></co>
+<co c="0"><na f="n/Niewerth:Matthias" pid="09/8166">Matthias Niewerth</na></co>
+<co c="0"><na f="o/Ooi:Beng_Chin" pid="o/BengChinOoi">Beng Chin Ooi</na></co>
+<co c="0"><na f="o/Ortiz_0001:Magdalena" pid="71/3644">Magdalena Ortiz 0001</na></co>
+<co c="0"><na f="o/Otto_0001:Martin" pid="o/MartinOtto">Martin Otto 0001</na></co>
+<co c="0"><na f="p/Parciak:Marcel" pid="205/7024">Marcel Parciak</na></co>
+<co c="0"><na f="p/Paredaens:Jan" pid="p/JParedaens">Jan Paredaens</na></co>
+<co c="0"><na f="p/Peeters:Liesbet_M=" pid="270/3303">Liesbet M. Peeters</na></co>
+<co c="0"><na f="p/Poggi:Antonella" pid="03/4524">Antonella Poggi</na></co>
+<co c="0"><na f="r/Ross:Kenneth_A=" pid="r/KARoss">Kenneth A. Ross</na></co>
+<co c="0"><na f="s/Schweikardt:Nicole" pid="s/NicoleSchweikardt">Nicole Schweikardt</na></co>
+<co c="0"><na f="s/Schwentick:Thomas" pid="s/TSchwentick">Thomas Schwentick</na></co>
+<co c="0"><na f="s/Servais:Fr=eacute=d=eacute=ric" pid="31/4921">Fr&#233;d&#233;ric Servais</na></co>
+<co c="0"><na f="s/Spinrath:Christopher" pid="165/4128">Christopher Spinrath</na></co>
+<co c="0"><na f="s/Stoyanovich:Julia" pid="s/JuliaStoyanovich">Julia Stoyanovich</na></co>
+<co c="0"><na f="s/Su:Jianwen" pid="s/JWSu">Jianwen Su</na></co>
+<co c="0"><na f="s/Suciu:Dan" pid="s/DanSuciu">Dan Suciu</na></co>
+<co c="0"><na f="t/Tan:Tony" pid="69/159">Tony Tan</na></co>
+<co c="0"><na f="t/Tuyls:Karl" pid="t/KTuyls">Karl Tuyls</na></co>
+<co c="0"><na f="t/Tyszkiewicz:Jerzy" pid="68/5160">Jerzy Tyszkiewicz</na></co>
+<co c="0"><na f="u/Ugarte:Mart=iacute=n" pid="131/4268">Mart&#237;n Ugarte</na></co>
+<co c="0"><na f="v/Valentim:Felipe_L=" pid="99/2398">Felipe L. Valentim</na></co>
+<co c="0"><na f="v/Vandevoort:Brecht" pid="215/6207">Brecht Vandevoort</na></co>
+<co c="0"><na f="v/Vansummeren:Stijn" pid="28/3797">Stijn Vansummeren</na></co>
+<co c="0"><na f="v/Vianu:Victor" pid="v/VictorVianu">Victor Vianu</na></co>
+<co c="0"><na f="v/Vossen:Gottfried" pid="v/GottfriedVossen">Gottfried Vossen</na></co>
+<co c="0"><na f="w/Wees:Justin_van" pid="36/9708">Justin van Wees</na></co>
+<co c="0"><na f="w/Weytjens:Sebastiaan" pid="364/0321">Sebastiaan Weytjens</na></co>
+<co c="0"><na f="w/Witkowski:Adam" pid="150/4899">Adam Witkowski</na></co>
+<co c="0"><na f="y/Yi_0001:Ke" pid="43/1219-1">Ke Yi 0001</na></co>
+<co c="0"><na f="z/Zinn:Daniel" pid="66/780">Daniel Zinn</na></co>
+</coauthors>
+</dblpperson>

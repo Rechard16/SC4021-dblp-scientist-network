@@ -1,0 +1,599 @@
+<dblpperson name="Yuval Moskovitch" pid="135/4661" n="42">
+<person key="homepages/135/4661" mdate="2023-09-17">
+<author pid="135/4661">Yuval Moskovitch</author>
+<note type="affiliation">Ben-Gurion University of the Negev, Department of Computer Science, Beersheba, Israel</note>
+<note type="affiliation" label="former">University of Michigan, Ann Arbor, MI, USA</note>
+<note type="affiliation" label="former">Tel Aviv University, Israel</note>
+<url>https://www.cs.bgu.ac.il/~yuvalmos/</url>
+<url>https://dl.acm.org/profile/83358650057</url>
+<url>https://orcid.org/0000-0002-0325-7392</url>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2403-17786" mdate="2024-04-10">
+<author pid="317/0684">Felix S. Campbell</author>
+<author pid="358/1749">Alon Silberstein</author>
+<author pid="s/JuliaStoyanovich">Julia Stoyanovich</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<title>Query Refinement for Diverse Top-k Selection.</title>
+<year>2024</year>
+<volume>abs/2403.17786</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.17786</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-17786</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiSMSJ23" mdate="2023-10-23">
+<author pid="79/572">Jinyang Li</author>
+<author pid="358/1749">Alon Silberstein</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<author pid="s/JuliaStoyanovich">Julia Stoyanovich</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<title>ERICA: Query Refinement for Diversity Constraint Satisfaction.</title>
+<pages>4070-4073</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p4070-li.pdf</ee>
+<ee>https://doi.org/10.14778/3611540.3611623</ee>
+<url>db/journals/pvldb/pvldb16.html#LiSMSJ23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiMSJ23" mdate="2023-11-27">
+<author pid="79/572">Jinyang Li</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<author pid="s/JuliaStoyanovich">Julia Stoyanovich</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<title>Query Refinement for Diversity Constraint Satisfaction.</title>
+<pages>106-118</pages>
+<year>2023</year>
+<volume>17</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol17/p106-li.pdf</ee>
+<url>db/journals/pvldb/pvldb17.html#LiMSJ23</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/YoungmannCMS23" mdate="2023-07-27">
+<author pid="185/4349">Brit Youngmann</author>
+<author pid="82/231">Michael J. Cafarella</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<author pid="11/6446">Babak Salimi</author>
+<title>On Explaining Confounding Bias.</title>
+<pages>1846-1859</pages>
+<year>2023</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE55515.2023.00144</ee>
+<crossref>conf/icde/2023</crossref>
+<url>db/conf/icde/icde2023.html#YoungmannCMS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LiMJ23" mdate="2023-07-27">
+<author pid="79/572">Jinyang Li</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<title>Detection of Groups with Biased Representation in Ranking.</title>
+<pages>2167-2179</pages>
+<year>2023</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE55515.2023.00168</ee>
+<crossref>conf/icde/2023</crossref>
+<url>db/conf/icde/icde2023.html#LiMJ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MoskovitchLJ23" mdate="2023-06-15">
+<author orcid="0000-0002-0325-7392" pid="135/4661">Yuval Moskovitch</author>
+<author orcid="0000-0002-9203-2688" pid="79/572">Jinyang Li</author>
+<author orcid="0000-0003-0724-5214" pid="j/HVJagadish">H. V. Jagadish</author>
+<title>Dexer: Detecting and Explaining Biased Representation in Ranking.</title>
+<pages>159-162</pages>
+<year>2023</year>
+<booktitle>SIGMOD Conference Companion</booktitle>
+<ee>https://doi.org/10.1145/3555041.3589725</ee>
+<crossref>conf/sigmod/2023c</crossref>
+<url>db/conf/sigmod/sigmod2023c.html#MoskovitchLJ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/YoungmannCMS23" mdate="2023-06-15">
+<author orcid="0000-0002-0031-5550" pid="185/4349">Brit Youngmann</author>
+<author orcid="0000-0001-6122-0590" pid="82/231">Michael J. Cafarella</author>
+<author orcid="0000-0002-0325-7392" pid="135/4661">Yuval Moskovitch</author>
+<author orcid="0000-0003-2485-9533" pid="11/6446">Babak Salimi</author>
+<title>NEXUS: On Explaining Confounding Bias.</title>
+<pages>171-174</pages>
+<year>2023</year>
+<booktitle>SIGMOD Conference Companion</booktitle>
+<ee>https://doi.org/10.1145/3555041.3589728</ee>
+<crossref>conf/sigmod/2023c</crossref>
+<url>db/conf/sigmod/sigmod2023c.html#YoungmannCMS23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-00719" mdate="2023-01-10">
+<author pid="135/4661">Yuval Moskovitch</author>
+<author pid="79/572">Jinyang Li</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<title>Detection of Groups with Biased Representation in Ranking.</title>
+<year>2023</year>
+<volume>abs/2301.00719</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.00719</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-00719</url>
+</article>
+</r>
+<r><article key="journals/cacm/MoskovitchJ22" mdate="2022-11-07">
+<author pid="135/4661">Yuval Moskovitch</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<title>Reliability at multiple stages in a data analysis pipeline.</title>
+<pages>118-128</pages>
+<year>2022</year>
+<volume>65</volume>
+<journal>Commun. ACM</journal>
+<number>11</number>
+<ee>https://doi.org/10.1145/3500923</ee>
+<url>db/journals/cacm/cacm65.html#MoskovitchJ22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LinYMJM22" mdate="2023-10-23">
+<author pid="19/3936">Yin Lin</author>
+<author pid="185/4349">Brit Youngmann</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<title>OREO: Detection of Cherry-picked Generalizations.</title>
+<pages>3570-3573</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p3570-lin.pdf</ee>
+<ee>https://doi.org/10.14778/3554821.3554846</ee>
+<url>db/journals/pvldb/pvldb15.html#LinYMJM22</url>
+</article>
+</r>
+<r><inproceedings key="conf/tapp/MoskovitchLJ22" mdate="2022-05-24">
+<author pid="135/4661">Yuval Moskovitch</author>
+<author pid="79/572">Jinyang Li</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<title>Bias analysis and mitigation in data-driven tools using provenance.</title>
+<pages>1:1-1:4</pages>
+<year>2022</year>
+<booktitle>TaPP</booktitle>
+<ee>https://doi.org/10.1145/3530800.3534528</ee>
+<crossref>conf/tapp/2022</crossref>
+<url>db/conf/tapp/tapp2022.html#MoskovitchLJ22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-02943" mdate="2022-10-07">
+<author pid="185/4349">Brit Youngmann</author>
+<author pid="82/231">Michael J. Cafarella</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<author pid="11/6446">Babak Salimi</author>
+<title>On Explaining Confounding Bias.</title>
+<year>2022</year>
+<volume>abs/2210.02943</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.02943</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-02943</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiMJ21" mdate="2022-04-21">
+<author pid="79/572">Jinyang Li</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<title>DENOUNCER: Detection of Unfairness in Classifiers.</title>
+<pages>2719-2722</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2719-moskovitch.pdf</ee>
+<ee>https://doi.org/10.14778/3476311.3476328</ee>
+<url>db/journals/pvldb/pvldb14.html#LiMJ21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LinYMJM21" mdate="2022-04-21">
+<author pid="19/3936">Yin Lin</author>
+<author pid="185/4349">Brit Youngmann</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<title>On Detecting Cherry-picked Generalizations.</title>
+<pages>59-71</pages>
+<year>2021</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol15/p59-lin.pdf</ee>
+<ee>https://doi.org/10.14778/3485450.3485457</ee>
+<url>db/journals/pvldb/pvldb15.html#LinYMJM21</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/MoskovitchJ21" mdate="2021-06-25">
+<author pid="135/4661">Yuval Moskovitch</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<title>Patterns Count-Based Labels for Datasets.</title>
+<pages>1961-1966</pages>
+<year>2021</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE51399.2021.00184</ee>
+<crossref>conf/icde/2021</crossref>
+<url>db/conf/icde/icde2021.html#MoskovitchJ21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/DeutchFGM21" mdate="2021-06-25">
+<author pid="98/6876">Daniel Deutch</author>
+<author pid="286/8230">Ariel Frankenthal</author>
+<author pid="163/3941">Amir Gilad</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<title>PITA: Privacy Through Provenance Abstraction.</title>
+<pages>2713-2716</pages>
+<year>2021</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE51399.2021.00311</ee>
+<crossref>conf/icde/2021</crossref>
+<url>db/conf/icde/icde2021.html#DeutchFGM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DeutchFGM21" mdate="2021-06-21">
+<author pid="98/6876">Daniel Deutch</author>
+<author pid="286/8230">Ariel Frankenthal</author>
+<author pid="163/3941">Amir Gilad</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<title>On Optimizing the Trade-off between Privacy and Utility in Data Provenance.</title>
+<pages>379-391</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3452835</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#DeutchFGM21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-00288" mdate="2021-03-04">
+<author pid="98/6876">Daniel Deutch</author>
+<author pid="286/8230">Ariel Frankenthal</author>
+<author pid="163/3941">Amir Gilad</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<title>On Optimizing the Trade-off between Privacy and Utility in Data Provenance.</title>
+<year>2021</year>
+<volume>abs/2103.00288</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.00288</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-00288</url>
+</article>
+</r>
+<r><article key="journals/pvldb/MoskovitchJ20" mdate="2021-03-23">
+<author pid="135/4661">Yuval Moskovitch</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<title>COUNTATA: Dataset Labeling Using Pattern Counts.</title>
+<pages>2829-2832</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2829-moskovitch.pdf</ee>
+<ee>https://doi.org/10.14778/3415478.3415486</ee>
+<url>db/journals/pvldb/pvldb13.html#MoskovitchJ20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/GiladM20" mdate="2020-10-19">
+<author pid="163/3941">Amir Gilad</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<title>Towards Inferring Queries from Simple and Partial Provenance Examples.</title>
+<pages>3273-3276</pages>
+<year>2020</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3340531.3417451</ee>
+<crossref>conf/cikm/2020</crossref>
+<url>db/conf/cikm/cikm2020.html#GiladM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/MiloMY20" mdate="2020-06-05">
+<author pid="m/TovaMilo">Tova Milo</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<author pid="185/4349">Brit Youngmann</author>
+<title>Contribution Maximization in Probabilistic Datalog.</title>
+<pages>817-828</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00076</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#MiloMY20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BourhisDM20" mdate="2020-06-05">
+<author pid="08/6004">Pierre Bourhis</author>
+<author pid="98/6876">Daniel Deutch</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<title>Equivalence-Invariant Algebraic Provenance for Hyperplane Update Queries.</title>
+<pages>415-429</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3380578</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#BourhisDM20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-05389" mdate="2020-07-20">
+<author pid="98/6876">Daniel Deutch</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<author pid="15/5033">Noam Rinetzky</author>
+<title>COBRA: Compression via Abstraction of Provenance for Hypothetical Reasoning.</title>
+<year>2020</year>
+<volume>abs/2007.05389</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.05389</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-05389</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-05400" mdate="2020-07-20">
+<author pid="98/6876">Daniel Deutch</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<author pid="15/5033">Noam Rinetzky</author>
+<title>Hypothetical Reasoning via Provenance Abstraction.</title>
+<year>2020</year>
+<volume>abs/2007.05400</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.05400</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-05400</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-05463" mdate="2020-07-20">
+<author pid="08/6004">Pierre Bourhis</author>
+<author pid="98/6876">Daniel Deutch</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<title>Equivalence-Invariant Algebraic Provenance for Hyperplane Update Queries.</title>
+<year>2020</year>
+<volume>abs/2007.05463</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.05463</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-05463</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-08989" mdate="2020-08-21">
+<author pid="163/3941">Amir Gilad</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<title>Towards Inferring Queries from Simple and Partial Provenance Examples.</title>
+<year>2020</year>
+<volume>abs/2008.08989</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.08989</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-08989</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-16340" mdate="2020-11-03">
+<author pid="135/4661">Yuval Moskovitch</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<title>Patterns Count-Based Labels for Datasets.</title>
+<year>2020</year>
+<volume>abs/2010.16340</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.16340</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-16340</url>
+</article>
+</r>
+<r><phdthesis key="phd/il/Moskovitch19" mdate="2023-11-03">
+<author pid="135/4661">Yuval Moskovitch</author>
+<title>Provenance for Data-Centric Applications</title>
+<school>Tel Aviv University, Israel</school>
+<year>2019</year>
+<note type="source">Tel Aviv University Library</note>
+<ee>https://tau.primo.exlibrisgroup.com/permalink/972TAU_INST/bai57q/alma9933166379704146</ee>
+</phdthesis>
+</r>
+<r><article key="journals/pvldb/DeutchMM19" mdate="2020-04-25">
+<author pid="98/6876">Daniel Deutch</author>
+<author pid="247/8369">Evgeny Marants</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<title>Datalignment: Ontology Schema Alignment Through Datalog Containment.</title>
+<pages>1870-1873</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1870-deutch.pdf</ee>
+<ee>https://doi.org/10.14778/3352063.3352087</ee>
+<url>db/journals/pvldb/pvldb12.html#DeutchMM19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/MiloMY19" mdate="2019-11-04">
+<author pid="m/TovaMilo">Tova Milo</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<author pid="185/4349">Brit Youngmann</author>
+<title>PODIUM: Probabilistic Datalog Analysis via Contribution Maximization.</title>
+<pages>2865-2868</pages>
+<year>2019</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3357384.3357841</ee>
+<crossref>conf/cikm/2019</crossref>
+<url>db/conf/cikm/cikm2019.html#MiloMY19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/DeutchMR19" mdate="2019-06-11">
+<author pid="98/6876">Daniel Deutch</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<author pid="15/5033">Noam Rinetzky</author>
+<title>COBRA: Compression Via Abstraction of Provenance for Hypothetical Reasoning.</title>
+<pages>2016-2019</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00228</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#DeutchMR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DeutchMR19" mdate="2019-06-22">
+<author pid="98/6876">Daniel Deutch</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<author pid="15/5033">Noam Rinetzky</author>
+<title>Hypothetical Reasoning via Provenance Abstraction.</title>
+<pages>537-554</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3300084</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#DeutchMR19</url>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/DeutchGM18" mdate="2018-04-06">
+<author pid="98/6876">Daniel Deutch</author>
+<author orcid="0000-0002-3764-1958" pid="163/3941">Amir Gilad</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<title>Efficient provenance tracking for datalog using top-k queries.</title>
+<pages>245-269</pages>
+<year>2018</year>
+<volume>27</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-018-0496-7</ee>
+<url>db/journals/vldb/vldb27.html#DeutchGM18</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/DeutchMPR18" mdate="2021-01-29">
+<author pid="98/6876">Daniel Deutch</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<author pid="216/4987">Itay Polak</author>
+<author pid="15/5033">Noam Rinetzky</author>
+<title>Towards Hypothetical Reasoning Using Distributed Provenance.</title>
+<pages>461-464</pages>
+<year>2018</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2018.47</ee>
+<crossref>conf/edbt/2018</crossref>
+<url>db/conf/edbt/edbt2018.html#DeutchMPR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BourhisDM17" mdate="2023-03-24">
+<author pid="08/6004">Pierre Bourhis</author>
+<author pid="98/6876">Daniel Deutch</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<title>POLYTICS: Provenance-Based Analytics of Data-Centric Applications.</title>
+<pages>1373-1374</pages>
+<year>2017</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2017.183</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2017.183</ee>
+<crossref>conf/icde/2017</crossref>
+<url>db/conf/icde/icde2017.html#BourhisDM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BourhisDM16" mdate="2023-03-24">
+<author pid="08/6004">Pierre Bourhis</author>
+<author pid="98/6876">Daniel Deutch</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<title>Analyzing data-centric applications: Why, what-if, and how-to.</title>
+<pages>779-790</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498289</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498289</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#BourhisDM16</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/DeutchGM15" mdate="2020-04-25">
+<author pid="98/6876">Daniel Deutch</author>
+<author pid="163/3941">Amir Gilad</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<title>Selective Provenance for Datalog Programs Using Top-K Queries.</title>
+<pages>1394-1405</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1394-deutch.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824039</ee>
+<url>db/journals/pvldb/pvldb8.html#DeutchGM15</url>
+</article>
+</r>
+<r><article key="journals/vldb/DeutchMT15" mdate="2017-05-28">
+<author pid="98/6876">Daniel Deutch</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<author pid="t/ValTannen">Val Tannen</author>
+<title>Provenance-based analysis of data-centric processes.</title>
+<pages>583-607</pages>
+<year>2015</year>
+<volume>24</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00778-015-0390-5</ee>
+<url>db/journals/vldb/vldb24.html#DeutchMT15</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/DeutchGM15a" mdate="2023-03-24">
+<author pid="98/6876">Daniel Deutch</author>
+<author pid="163/3941">Amir Gilad</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<title>Towards web-scale how-provenance.</title>
+<pages>68-70</pages>
+<year>2015</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2015.7129547</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2015.7129547</ee>
+<crossref>conf/icde/2015w</crossref>
+<url>db/conf/icde/icdew2015.html#DeutchGM15a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/DeutchGM15" mdate="2023-03-23">
+<author pid="98/6876">Daniel Deutch</author>
+<author pid="163/3941">Amir Gilad</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<title>selP: Selective tracking and presentation of data provenance.</title>
+<pages>1484-1487</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113407</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113407</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#DeutchGM15</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/DeutchMT14" mdate="2020-04-25">
+<author pid="98/6876">Daniel Deutch</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<author pid="t/ValTannen">Val Tannen</author>
+<title>A Provenance Framework for Data-Dependent Process Analysis.</title>
+<pages>457-468</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p457-deutch.pdf</ee>
+<ee>https://doi.org/10.14778/2732279.2732283</ee>
+<url>db/journals/pvldb/pvldb7.html#DeutchMT14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DeutchMT13" mdate="2020-04-25">
+<author pid="98/6876">Daniel Deutch</author>
+<author pid="135/4661">Yuval Moskovitch</author>
+<author pid="t/ValTannen">Val Tannen</author>
+<title>PROPOLIS: Provisioned Analysis of Data-Centric Processes.</title>
+<pages>1302-1305</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p1302-deutch.pdf</ee>
+<ee>https://doi.org/10.14778/2536274.2536301</ee>
+<url>db/journals/pvldb/pvldb6.html#DeutchMT13</url>
+</article>
+</r>
+<coauthors n="18" nc="1">
+<co c="0"><na f="b/Bourhis:Pierre" pid="08/6004">Pierre Bourhis</na></co>
+<co c="0"><na f="c/Cafarella:Michael_J=" pid="82/231">Michael J. Cafarella</na></co>
+<co c="0"><na f="c/Campbell:Felix_S=" pid="317/0684">Felix S. Campbell</na></co>
+<co c="0"><na f="d/Deutch:Daniel" pid="98/6876">Daniel Deutch</na></co>
+<co c="0"><na f="f/Frankenthal:Ariel" pid="286/8230">Ariel Frankenthal</na></co>
+<co c="0"><na f="g/Gilad:Amir" pid="163/3941">Amir Gilad</na></co>
+<co c="0"><na f="j/Jagadish:H=_V=" pid="j/HVJagadish">H. V. Jagadish</na></co>
+<co c="0"><na f="l/Li:Jinyang" pid="79/572">Jinyang Li</na></co>
+<co c="0"><na f="l/Lin:Yin" pid="19/3936">Yin Lin</na></co>
+<co c="0"><na f="m/Marants:Evgeny" pid="247/8369">Evgeny Marants</na></co>
+<co c="0"><na f="m/Milo:Tova" pid="m/TovaMilo">Tova Milo</na></co>
+<co c="0"><na f="p/Polak:Itay" pid="216/4987">Itay Polak</na></co>
+<co c="0"><na f="r/Rinetzky:Noam" pid="15/5033">Noam Rinetzky</na></co>
+<co c="0"><na f="s/Salimi:Babak" pid="11/6446">Babak Salimi</na></co>
+<co c="0"><na f="s/Silberstein:Alon" pid="358/1749">Alon Silberstein</na></co>
+<co c="0"><na f="s/Stoyanovich:Julia" pid="s/JuliaStoyanovich">Julia Stoyanovich</na></co>
+<co c="0"><na f="t/Tannen:Val" pid="t/ValTannen">Val Tannen</na></co>
+<co c="0"><na f="y/Youngmann:Brit" pid="185/4349">Brit Youngmann</na></co>
+</coauthors>
+</dblpperson>

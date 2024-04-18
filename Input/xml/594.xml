@@ -1,0 +1,2636 @@
+<dblpperson name="Nan Tang 0001" pid="27/104-1" n="146">
+<person key="homepages/27/104-1" mdate="2022-02-15">
+<author pid="27/104-1">Nan Tang 0001</author>
+<note type="affiliation">Hamad Bin Khalifa University, Qatar Computing Research Institute, Qatar</note>
+<url>http://da.qcri.org/ntang/</url>
+<url>https://dl.acm.org/profile/81300394101</url>
+<url>https://twitter.com/ntang928</url>
+<url>https://orcid.org/0000-0003-2832-0295</url>
+<url>https://ieeexplore.ieee.org/author/38057424300</url>
+</person>
+<homonyms n="4">
+<h f="t/Tang:Nan"><person publtype="disambiguation" key="homepages/138/5241" mdate="2017-09-28">
+<author pid="138/5241">Nan Tang</author>
+</person>
+</h>
+<h f="t/Tang_0002:Nan"><person key="homepages/27/104-2" mdate="2016-01-06">
+<author pid="27/104-2">Nan Tang 0002</author>
+<note type="affiliation">Dalian University of Technology</note>
+</person>
+</h>
+<h f="t/Tang_0003:Nan"><person key="homepages/27/104-3" mdate="2018-11-11">
+<author pid="27/104-3">Nan Tang 0003</author>
+<note type="affiliation">University of Arkansas, USA</note>
+</person>
+</h>
+<h f="t/Tang_0004:Nan"><person key="homepages/27/104-4" mdate="2016-01-06">
+<author pid="27/104-4">Nan Tang 0004</author>
+<note type="affiliation">Xi'an Shiyou University</note>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/pvldb/DengCCTWFYW24" mdate="2024-04-11">
+<author pid="60/9480">Yuhao Deng</author>
+<author pid="181/5689">Chengliang Chai</author>
+<author pid="17/6060-4">Lei Cao 0004</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="28/4853-2">Jiayi Wang 0002</author>
+<author pid="78/4413">Ju Fan</author>
+<author pid="33/6315-1">Ye Yuan 0001</author>
+<author pid="64/146">Guoren Wang</author>
+<title>MisDetect: Iterative Mislabel Detection using Early Loss.</title>
+<pages>1159-1172</pages>
+<year>2024</year>
+<month>February</month>
+<volume>17</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol17/p1159-chai.pdf</ee>
+<url>db/journals/pvldb/pvldb17.html#DengCCTWFYW24</url>
+</article>
+</r>
+<r><article key="journals/vldb/LiuF00024" mdate="2024-03-16">
+<author pid="227/9554">Tongyu Liu</author>
+<author orcid="0000-0003-4729-9903" pid="78/4413">Ju Fan</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="47/3542-1">Xiaoyong Du 0001</author>
+<title>Tabular data synthesis with generative adversarial networks: design space and optimizations.</title>
+<pages>255-280</pages>
+<year>2024</year>
+<volume>33</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-023-00807-y</ee>
+<url>db/journals/vldb/vldb33.html#LiuF00024</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/0001YF0LH24" mdate="2024-04-05">
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="177/3158">Chenyu Yang</author>
+<author pid="78/4413">Ju Fan</author>
+<author pid="17/6060-4">Lei Cao 0004</author>
+<author pid="185/9921">Yuyu Luo</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<title>VerifAI: Verified Generative AI.</title>
+<year>2024</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2024/papers/p5-tang.pdf</ee>
+<crossref>conf/cidr/2024</crossref>
+<url>db/conf/cidr/cidr2024.html#0001YF0LH24</url>
+</inproceedings>
+</r>
+<r><article key="journals/pacmmod/TuFTWL0JG23" mdate="2023-06-19">
+<author orcid="0009-0001-1554-1614" pid="227/8305">Jianhong Tu</author>
+<author orcid="0000-0003-4729-9903" pid="78/4413">Ju Fan</author>
+<author orcid="0000-0003-2832-0295" pid="27/104-1">Nan Tang 0001</author>
+<author orcid="0009-0009-7699-5490" pid="95/4442">Peng Wang</author>
+<author orcid="0000-0002-1398-0621" pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author orcid="0000-0002-5757-9135" pid="47/3542-1">Xiaoyong Du 0001</author>
+<author orcid="0000-0003-3159-2785" pid="79/11513">Xiaofeng Jia</author>
+<author orcid="0000-0003-3572-0326" pid="92/357">Song Gao</author>
+<title>Unicorn: A Unified Multi-tasking Model for Supporting Matching Tasks in Data Integration.</title>
+<pages>84:1-84:26</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3588938</ee>
+<url>db/journals/pacmmod/pacmmod1.html#TuFTWL0JG23</url>
+</article>
+</r>
+<r><article key="journals/pacmmod/LuoZ00CS23" mdate="2023-06-15">
+<author orcid="0000-0001-9530-3327" pid="185/9921">Yuyu Luo</author>
+<author orcid="0009-0008-5295-7679" pid="35/7582">Yihui Zhou</author>
+<author orcid="0000-0003-2832-0295" pid="27/104-1">Nan Tang 0001</author>
+<author orcid="0000-0002-1398-0621" pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author orcid="0000-0001-8080-5594" pid="181/5689">Chengliang Chai</author>
+<author orcid="0000-0003-1084-4912" pid="221/5665">Leixian Shen</author>
+<title>Learned Data-aware Image Representations of Line Charts for Similarity Search.</title>
+<pages>88:1-88:29</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3588942</ee>
+<url>db/journals/pacmmod/pacmmod1.html#LuoZ00CS23</url>
+</article>
+</r>
+<r><article key="journals/pacmmod/Chen0FYCL023" mdate="2023-06-19">
+<author orcid="0009-0001-5331-5829" pid="344/5279">Sibei Chen</author>
+<author orcid="0000-0003-2832-0295" pid="27/104-1">Nan Tang 0001</author>
+<author orcid="0000-0003-4729-9903" pid="78/4413">Ju Fan</author>
+<author orcid="0009-0007-7018-0640" pid="348/4676">Xuemi Yan</author>
+<author orcid="0000-0001-8080-5594" pid="181/5689">Chengliang Chai</author>
+<author orcid="0000-0002-1398-0621" pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author orcid="0000-0002-5757-9135" pid="47/3542-1">Xiaoyong Du 0001</author>
+<title>HAIPipe: Combining Human-generated and Machine-generated Pipelines for Data Preparation.</title>
+<pages>91:1-91:26</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3588945</ee>
+<url>db/journals/pacmmod/pacmmod1.html#Chen0FYCL023</url>
+</article>
+</r>
+<r><article key="journals/pacmmod/GuF00JM023" mdate="2023-07-07">
+<author orcid="0000-0002-9413-2068" pid="314/9217">Zihui Gu</author>
+<author orcid="0000-0003-4729-9903" pid="78/4413">Ju Fan</author>
+<author orcid="0000-0003-2832-0295" pid="27/104-1">Nan Tang 0001</author>
+<author orcid="0000-0001-9909-8607" pid="17/6060-4">Lei Cao 0004</author>
+<author orcid="0000-0003-3905-2521" pid="208/8096">Bowen Jia</author>
+<author orcid="0000-0002-7470-3265" pid="m/SamuelMadden">Sam Madden</author>
+<author orcid="0000-0002-5757-9135" pid="47/3542-1">Xiaoyong Du 0001</author>
+<title>Few-shot Text-to-SQL Translation using Structure and Content Prompt Learning.</title>
+<pages>147:1-147:28</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3589292</ee>
+<url>db/journals/pacmmod/pacmmod1.html#GuF00JM023</url>
+</article>
+</r>
+<r><article key="journals/pacmmod/ChaiL0FM0L023" mdate="2023-07-07">
+<author orcid="0000-0001-8080-5594" pid="181/5689">Chengliang Chai</author>
+<author orcid="0009-0004-3653-5987" pid="32/2360">Jiabin Liu</author>
+<author orcid="0000-0003-2832-0295" pid="27/104-1">Nan Tang 0001</author>
+<author orcid="0000-0003-4729-9903" pid="78/4413">Ju Fan</author>
+<author orcid="0000-0001-9370-7088" pid="147/8405">Dongjing Miao</author>
+<author orcid="0000-0002-9700-9751" pid="28/4853-2">Jiayi Wang 0002</author>
+<author orcid="0000-0001-9530-3327" pid="185/9921">Yuyu Luo</author>
+<author orcid="0000-0002-1398-0621" pid="l/GuoliangLi">Guoliang Li 0001</author>
+<title>GoodCore: Data-effective and Data-efficient Machine Learning through Coreset Selection over Incomplete Data.</title>
+<pages>157:1-157:27</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3589302</ee>
+<url>db/journals/pacmmod/pacmmod1.html#ChaiL0FM0L023</url>
+</article>
+</r>
+<r><article key="journals/tkde/WangLLT23" mdate="2023-07-21">
+<author orcid="0000-0002-9843-4506" pid="84/2694">Yong Wang</author>
+<author orcid="0000-0001-9802-6361" pid="131/2839">Kaiyu Li</author>
+<author orcid="0000-0002-1398-0621" pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author orcid="0000-0003-2832-0295" pid="27/104-1">Nan Tang 0001</author>
+<title>Road-Aware Indexing for Trajectory Range Queries.</title>
+<pages>8476-8489</pages>
+<year>2023</year>
+<month>August</month>
+<volume>35</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TKDE.2022.3220822</ee>
+<url>db/journals/tkde/tkde35.html#WangLLT23</url>
+</article>
+</r>
+<r><article key="journals/tkde/HaoCLTWY23" mdate="2023-10-25">
+<author orcid="0000-0002-9264-4123" pid="07/6713">Shuang Hao</author>
+<author orcid="0000-0001-8080-5594" pid="181/5689">Chengliang Chai</author>
+<author orcid="0000-0002-1398-0621" pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author orcid="0000-0003-2832-0295" pid="27/104-1">Nan Tang 0001</author>
+<author orcid="0000-0001-8903-8790" pid="46/2005-24">Ning Wang 0024</author>
+<author pid="19/2453">Xiang Yu</author>
+<title>HOFD: An Outdated Fact Detector for Knowledge Bases.</title>
+<pages>10775-10789</pages>
+<year>2023</year>
+<month>October</month>
+<volume>35</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TKDE.2023.3248223</ee>
+<url>db/journals/tkde/tkde35.html#HaoCLTWY23</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/ChenG0FM023" mdate="2023-08-08">
+<author pid="224/3204">Zui Chen</author>
+<author pid="314/9217">Zihui Gu</author>
+<author pid="17/6060-4">Lei Cao 0004</author>
+<author pid="78/4413">Ju Fan</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Symphony: Towards Natural Language Query Answering over Multi-modal Data Lakes.</title>
+<year>2023</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2023/papers/p51-chen.pdf</ee>
+<crossref>conf/cidr/2023</crossref>
+<url>db/conf/cidr/cidr2023.html#ChenG0FM023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/Chai000LDW23" mdate="2023-08-18">
+<author orcid="0009-0003-5386-1330" pid="181/5689">Chengliang Chai</author>
+<author orcid="0000-0002-9700-9751" pid="28/4853-2">Jiayi Wang 0002</author>
+<author orcid="0000-0003-2832-0295" pid="27/104-1">Nan Tang 0001</author>
+<author orcid="0000-0002-0247-9866" pid="33/6315-1">Ye Yuan 0001</author>
+<author orcid="0009-0004-3653-5987" pid="32/2360">Jiabin Liu</author>
+<author orcid="0009-0009-4094-5109" pid="60/9480">Yuhao Deng</author>
+<author orcid="0000-0002-0181-8379" pid="64/146">Guoren Wang</author>
+<title>Efficient Coreset Selection with Cluster-based Methods.</title>
+<pages>167-178</pages>
+<year>2023</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/3580305.3599326</ee>
+<crossref>conf/kdd/2023</crossref>
+<url>db/conf/kdd/kdd2023.html#Chai000LDW23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Chai0FL23" mdate="2023-06-15">
+<author orcid="0000-0001-8080-5594" pid="181/5689">Chengliang Chai</author>
+<author orcid="0000-0003-2832-0295" pid="27/104-1">Nan Tang 0001</author>
+<author orcid="0000-0003-4729-9903" pid="78/4413">Ju Fan</author>
+<author orcid="0000-0001-9530-3327" pid="185/9921">Yuyu Luo</author>
+<title>Demystifying Artificial Intelligence for Data Preparation.</title>
+<pages>13-20</pages>
+<year>2023</year>
+<booktitle>SIGMOD Conference Companion</booktitle>
+<ee>https://doi.org/10.1145/3555041.3589406</ee>
+<crossref>conf/sigmod/2023c</crossref>
+<url>db/conf/sigmod/sigmod2023c.html#Chai0FL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/YangFT0ZF023" mdate="2023-06-19">
+<author orcid="0009-0009-9726-8380" pid="177/3158">Chenyu Yang</author>
+<author orcid="0000-0002-9826-7349" pid="48/1585">Ruixue Fan</author>
+<author orcid="0000-0003-2832-0295" pid="27/104-1">Nan Tang 0001</author>
+<author orcid="0000-0002-0752-9877" pid="08/7259">Meihui Zhang 0001</author>
+<author orcid="0000-0002-7667-3813" pid="212/9124">Xiaoman Zhao</author>
+<author orcid="0000-0003-4729-9903" pid="78/4413">Ju Fan</author>
+<author orcid="0000-0002-5757-9135" pid="47/3542-1">Xiaoyong Du 0001</author>
+<title>Pay "Attention" to Chart Images for What You Read on Text.</title>
+<pages>111-114</pages>
+<year>2023</year>
+<booktitle>SIGMOD Conference Companion</booktitle>
+<ee>https://doi.org/10.1145/3555041.3589714</ee>
+<crossref>conf/sigmod/2023c</crossref>
+<url>db/conf/sigmod/sigmod2023c.html#YangFT0ZF023</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-16909" mdate="2023-04-14">
+<author pid="344/1680">Mohammad Shahmeer Ahmad</author>
+<author pid="344/1481">Zan Ahmad Naeem</author>
+<author pid="49/6395">Mohamed Y. Eltabakh</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>RetClean: Retrieval-Based Data Cleaning Using Foundation Models and Data Lakes.</title>
+<year>2023</year>
+<volume>abs/2303.16909</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.16909</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-16909</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2304-03540" mdate="2023-04-18">
+<author pid="344/5279">Sibei Chen</author>
+<author pid="96/6353">Hanbing Liu</author>
+<author pid="344/4449">Weiting Jin</author>
+<author pid="07/10301">Xiangyu Sun</author>
+<author pid="344/4920">Xiaoyao Feng</author>
+<author pid="78/4413">Ju Fan</author>
+<author pid="47/3542-1">Xiaoyong Du 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>ChatPipe: Orchestrating Data Preparation Program by Optimizing Human-ChatGPT Interactions.</title>
+<year>2023</year>
+<volume>abs/2304.03540</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.03540</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-03540</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2306-08891" mdate="2023-08-08">
+<author pid="314/9217">Zihui Gu</author>
+<author pid="78/4413">Ju Fan</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="349/4656">Songyue Zhang</author>
+<author pid="03/7346">Yuxin Zhang</author>
+<author pid="224/3204">Zui Chen</author>
+<author pid="17/6060-4">Lei Cao 0004</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="m/SamuelMadden">Sam Madden</author>
+<author pid="47/3542-1">Xiaoyong Du 0001</author>
+<title>Interleaving Pre-Trained Language Models and Large Language Models for Zero-Shot NL2SQL Generation.</title>
+<year>2023</year>
+<volume>abs/2306.08891</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2306.08891</ee>
+<url>db/journals/corr/corr2306.html#abs-2306-08891</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-02796" mdate="2023-07-19">
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="177/3158">Chenyu Yang</author>
+<author pid="78/4413">Ju Fan</author>
+<author pid="17/6060-4">Lei Cao 0004</author>
+<title>VerifAI: Verified Generative AI.</title>
+<year>2023</year>
+<volume>abs/2307.02796</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.02796</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-02796</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-00749" mdate="2023-10-18">
+<author pid="224/3204">Zui Chen</author>
+<author pid="17/6060-4">Lei Cao 0004</author>
+<author pid="m/SamuelMadden">Sam Madden</author>
+<author pid="78/4413">Ju Fan</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="314/9217">Zihui Gu</author>
+<author pid="189/2405">Zeyuan Shang</author>
+<author pid="147/1343">Chunwei Liu</author>
+<author pid="82/231">Michael J. Cafarella</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>SEED: Simple, Efficient, and Effective Data Management via Large Language Models.</title>
+<year>2023</year>
+<volume>abs/2310.00749</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.00749</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-00749</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-03987" mdate="2024-02-28">
+<author pid="363/7401">Meihao Fan</author>
+<author pid="120/9517">Xiaoyue Han</author>
+<author pid="78/4413">Ju Fan</author>
+<author pid="181/5689">Chengliang Chai</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="47/3542-1">Xiaoyong Du 0001</author>
+<title>Cost-Effective In-Context Learning for Entity Resolution: A Design Space Exploration.</title>
+<year>2023</year>
+<volume>abs/2312.03987</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.03987</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-03987</url>
+</article>
+</r>
+<r><article key="journals/ijsi/YuCZTSL22" mdate="2023-01-14">
+<author pid="19/2453">Xiang Yu</author>
+<author pid="181/5689">Chengliang Chai</author>
+<author pid="313/5688">Xinning Zhang</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="01/3254">Ji Sun</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<title>AlphaQO: Robust Learned Query Optimizer.</title>
+<pages>7-29</pages>
+<year>2022</year>
+<volume>12</volume>
+<journal>Int. J. Softw. Informatics</journal>
+<number>1</number>
+<ee>https://doi.org/10.21655/ijsi.1673-7288.00275</ee>
+<url>db/journals/ijsi/ijsi12.html#YuCZTSL22</url>
+</article>
+</r>
+<r><article key="journals/jcst/LiTC22" mdate="2022-11-08">
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="181/5689">Chengliang Chai</author>
+<title>Preface.</title>
+<pages>1003-1004</pages>
+<year>2022</year>
+<volume>37</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s11390-022-0005-8</ee>
+<url>db/journals/jcst/jcst37.html#LiTC22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChaiLTLL22" mdate="2023-10-23">
+<author pid="181/5689">Chengliang Chai</author>
+<author pid="32/2360">Jiabin Liu</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="185/9921">Yuyu Luo</author>
+<title>Selective Data Acquisition in the Wild for Model Charging.</title>
+<pages>1466-1478</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>7</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p1466-li.pdf</ee>
+<ee>https://doi.org/10.14778/3523210.3523223</ee>
+<url>db/journals/pvldb/pvldb15.html#ChaiLTLL22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/TuHFTCLD22" mdate="2023-10-23">
+<author pid="227/8305">Jianhong Tu</author>
+<author pid="120/9517">Xiaoyue Han</author>
+<author pid="78/4413">Ju Fan</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="181/5689">Chengliang Chai</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="47/3542-1">Xiaoyong Du 0001</author>
+<title>DADER: Hands-Off Entity Resolution with Domain Adaptation.</title>
+<pages>3666-3669</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p3666-fan.pdf</ee>
+<ee>https://doi.org/10.14778/3554821.3554870</ee>
+<url>db/journals/pvldb/pvldb15.html#TuHFTCLD22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/WangC0L022" mdate="2023-10-23">
+<author pid="28/4853-2">Jiayi Wang 0002</author>
+<author pid="181/5689">Chengliang Chai</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="32/2360">Jiabin Liu</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<title>Coresets over Multiple Tables for Feature-rich and Data-efficient Machine Learning.</title>
+<pages>64-76</pages>
+<year>2022</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p64-wang.pdf</ee>
+<ee>https://doi.org/10.14778/3561261.3561267</ee>
+<url>db/journals/pvldb/pvldb16.html#WangC0L022</url>
+</article>
+</r>
+<r><article key="journals/pvldb/PengS0LKNC022" mdate="2023-10-23">
+<author pid="226/6795">Jinfeng Peng</author>
+<author pid="42/3190">Derong Shen</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="91/9581">Tieying Liu</author>
+<author pid="31/1140">Yue Kou</author>
+<author pid="60/3469">Tiezheng Nie</author>
+<author pid="93/2906">Hang Cui</author>
+<author pid="49/6363">Ge Yu 0001</author>
+<title>Self-supervised and Interpretable Data Cleaning with Sequence Generative Adversarial Networks.</title>
+<pages>433-446</pages>
+<year>2022</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p433-peng.pdf</ee>
+<ee>https://doi.org/10.14778/3570690.3570694</ee>
+<url>db/journals/pvldb/pvldb16.html#PengS0LKNC022</url>
+</article>
+</r>
+<r><article key="journals/tkde/LuoQCTLL22" mdate="2023-12-04">
+<author orcid="0000-0001-9530-3327" pid="185/9921">Yuyu Luo</author>
+<author orcid="0000-0003-0742-4861" pid="216/4931">Xuedi Qin</author>
+<author orcid="0000-0001-8080-5594" pid="181/5689">Chengliang Chai</author>
+<author orcid="0000-0003-2832-0295" pid="27/104-1">Nan Tang 0001</author>
+<author orcid="0000-0002-1398-0621" pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author orcid="0000-0002-3064-2114" pid="51/3185-13">Wenbo Li 0013</author>
+<title>Steerable Self-Driving Data Visualization.</title>
+<pages>475-490</pages>
+<year>2022</year>
+<volume>34</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TKDE.2020.2981464</ee>
+<url>db/journals/tkde/tkde34.html#LuoQCTLL22</url>
+</article>
+</r>
+<r><article key="journals/tvcg/LuoTLTCQ22" mdate="2022-01-05">
+<author pid="185/9921">Yuyu Luo</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="213/9869">Jiawei Tang</author>
+<author pid="181/5689">Chengliang Chai</author>
+<author pid="216/4931">Xuedi Qin</author>
+<title>Natural Language to Visualization by Neural Machine Translation.</title>
+<pages>217-226</pages>
+<year>2022</year>
+<volume>28</volume>
+<journal>IEEE Trans. Vis. Comput. Graph.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TVCG.2021.3114848</ee>
+<url>db/journals/tvcg/tvcg28.html#LuoTLTCQ22</url>
+</article>
+</r>
+<r><article key="journals/vldb/QinCLZTLFYO22" mdate="2022-07-25">
+<author pid="216/4931">Xuedi Qin</author>
+<author pid="181/5689">Chengliang Chai</author>
+<author pid="185/9921">Yuyu Luo</author>
+<author pid="139/3492">Tianyu Zhao</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author orcid="0000-0002-1398-0621" pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="43/6576">Jianhua Feng</author>
+<author pid="19/2453">Xiang Yu</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Interactively discovering and ranking desired tuples by data exploration.</title>
+<pages>753-777</pages>
+<year>2022</year>
+<volume>31</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00778-021-00714-0</ee>
+<url>db/journals/vldb/vldb31.html#QinCLZTLFYO22</url>
+</article>
+</r>
+<r><inproceedings key="conf/emnlp/GuF0NZ022" mdate="2023-08-10">
+<author pid="314/9217">Zihui Gu</author>
+<author pid="78/4413">Ju Fan</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="19/1947">Preslav Nakov</author>
+<author pid="212/9124">Xiaoman Zhao</author>
+<author pid="47/3542-1">Xiaoyong Du 0001</author>
+<title>PASTA: Table-Operations Aware Fact Verification via Sentence-Table Cloze Pre-training.</title>
+<pages>4971-4983</pages>
+<year>2022</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2022.emnlp-main.331</ee>
+<ee type="oa">https://aclanthology.org/2022.emnlp-main.331</ee>
+<crossref>conf/emnlp/2022</crossref>
+<url>db/conf/emnlp/emnlp2022.html#GuF0NZ022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/QinCTLLLZ22" mdate="2022-08-05">
+<author pid="216/4931">Xuedi Qin</author>
+<author pid="181/5689">Chengliang Chai</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="33/5448-15">Jian Li 0015</author>
+<author pid="185/9921">Yuyu Luo</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="325/0611">Yaoyu Zhu</author>
+<title>Synthesizing Privacy Preserving Entity Resolution Datasets.</title>
+<pages>2359-2371</pages>
+<year>2022</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE53745.2022.00222</ee>
+<crossref>conf/icde/2022</crossref>
+<url>db/conf/icde/icde2022.html#QinCTLLLZ22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LiuCLLFT22" mdate="2022-08-05">
+<author pid="32/2360">Jiabin Liu</author>
+<author pid="181/5689">Chengliang Chai</author>
+<author pid="185/9921">Yuyu Luo</author>
+<author pid="41/7551">Yin Lou</author>
+<author pid="43/6576">Jianhua Feng</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Feature Augmentation with Reinforcement Learning.</title>
+<pages>3360-3372</pages>
+<year>2022</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE53745.2022.00317</ee>
+<crossref>conf/icde/2022</crossref>
+<url>db/conf/icde/icde2022.html#LiuCLLFT22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/TuF0WC0F022" mdate="2023-06-26">
+<author orcid="0009-0001-1554-1614" pid="227/8305">Jianhong Tu</author>
+<author pid="78/4413">Ju Fan</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="95/4442">Peng Wang</author>
+<author pid="181/5689">Chengliang Chai</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="48/1585">Ruixue Fan</author>
+<author pid="47/3542-1">Xiaoyong Du 0001</author>
+<title>Domain Adaptation for Deep Entity Resolution.</title>
+<pages>443-457</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3517870</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#TuF0WC0F022</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-02816" mdate="2022-11-09">
+<author pid="314/9217">Zihui Gu</author>
+<author pid="78/4413">Ju Fan</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="19/1947">Preslav Nakov</author>
+<author pid="212/9124">Xiaoman Zhao</author>
+<author pid="47/3542-1">Xiaoyong Du 0001</author>
+<title>PASTA: Table-Operations Aware Fact Verification via Sentence-Table Cloze Pre-training.</title>
+<year>2022</year>
+<volume>abs/2211.02816</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.02816</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-02816</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiuLF00021" mdate="2022-04-21">
+<author pid="227/9554">Tongyu Liu</author>
+<author pid="78/4413">Ju Fan</author>
+<author pid="287/9266">Yinqing Luo</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="47/3542-1">Xiaoyong Du 0001</author>
+<title>Adaptive Data Augmentation for Supervised Learning over Missing Data.</title>
+<pages>1202-1214</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>7</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p1202-fan.pdf</ee>
+<ee>https://doi.org/10.14778/3450980.3450989</ee>
+<url>db/journals/pvldb/pvldb14.html#LiuLF00021</url>
+</article>
+</r>
+<r><article key="journals/pvldb/TangFLTDLMO21" mdate="2023-11-12">
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="78/4413">Ju Fan</author>
+<author pid="37/8497">Fangyi Li</author>
+<author pid="227/8305">Jianhong Tu</author>
+<author pid="47/3542-1">Xiaoyong Du 0001</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author orcid="0000-0002-7470-3265" pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>RPT: Relational Pre-trained Transformer Is Almost All You Need towards Democratizing Data Preparation.</title>
+<pages>1254-1261</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>8</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p1254-tang.pdf</ee>
+<ee>https://doi.org/10.14778/3457390.3457391</ee>
+<url>db/journals/pvldb/pvldb14.html#TangFLTDLMO21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/Thirumuruganathan21" mdate="2022-04-21">
+<author pid="57/10514">Saravanan Thirumuruganathan</author>
+<author pid="07/1429">Han Li</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="199/8957">Yash Govind</author>
+<author pid="243/2380">Derek Paulsen</author>
+<author pid="02/271">Glenn Fung</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<title>Deep Learning for Blocking in Entity Matching: A Design Space Exploration.</title>
+<pages>2459-2472</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2459-thirumuruganathan.pdf</ee>
+<ee>https://doi.org/10.14778/3476249.3476294</ee>
+<url>db/journals/pvldb/pvldb14.html#Thirumuruganathan21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiuZCL021" mdate="2022-04-21">
+<author pid="32/2360">Jiabin Liu</author>
+<author pid="210/8384">Fu Zhu</author>
+<author pid="181/5689">Chengliang Chai</author>
+<author pid="185/9921">Yuyu Luo</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Automatic Data Acquisition for Deep Learning.</title>
+<pages>2739-2742</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2739-chai.pdf</ee>
+<ee>https://doi.org/10.14778/3476311.3476333</ee>
+<url>db/journals/pvldb/pvldb14.html#LiuZCL021</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SunZSLT21" mdate="2022-04-21">
+<author pid="01/3254">Ji Sun</author>
+<author pid="03/6834">Jintao Zhang</author>
+<author pid="310/1045">Zhaoyan Sun</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Learned Cardinality Estimation: A Design Space Exploration and A Comparative Evaluation.</title>
+<pages>85-97</pages>
+<year>2021</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol15/p85-li.pdf</ee>
+<ee>https://doi.org/10.14778/3485450.3485459</ee>
+<url>db/journals/pvldb/pvldb15.html#SunZSLT21</url>
+</article>
+</r>
+<r><article key="journals/vldb/HaoTLFW21" mdate="2023-10-25">
+<author pid="07/6713">Shuang Hao</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author orcid="0000-0002-1398-0621" pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="43/6576">Jianhua Feng</author>
+<author orcid="0000-0001-8903-8790" pid="46/2005-24">Ning Wang 0024</author>
+<title>Mis-categorized entities detection.</title>
+<pages>515-536</pages>
+<year>2021</year>
+<volume>30</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00778-021-00653-w</ee>
+<url>db/journals/vldb/vldb30.html#HaoTLFW21</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/QinCLZ00FYO21" mdate="2021-06-25">
+<author pid="216/4931">Xuedi Qin</author>
+<author pid="181/5689">Chengliang Chai</author>
+<author pid="185/9921">Yuyu Luo</author>
+<author pid="139/3492">Tianyu Zhao</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="43/6576">Jianhua Feng</author>
+<author pid="19/2453">Xiang Yu</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Ranking Desired Tuples by Database Exploration.</title>
+<pages>1973-1978</pages>
+<year>2021</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE51399.2021.00186</ee>
+<crossref>conf/icde/2021</crossref>
+<url>db/conf/icde/icde2021.html#QinCLZ00FYO21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Luo00CLQ21" mdate="2023-12-04">
+<author pid="185/9921">Yuyu Luo</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="181/5689">Chengliang Chai</author>
+<author pid="51/3185-13">Wenbo Li 0013</author>
+<author pid="216/4931">Xuedi Qin</author>
+<title>Synthesizing Natural Language to Visualization (NL2VIS) Benchmarks from NL2SQL Benchmarks.</title>
+<pages>1235-1247</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3457261</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#Luo00CLQ21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Sun0021" mdate="2021-06-21">
+<author pid="01/3254">Ji Sun</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Learned Cardinality Estimation for Similarity Queries.</title>
+<pages>1745-1757</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3452790</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#Sun0021</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/Luo00LZY20" mdate="2023-12-04">
+<author pid="185/9921">Yuyu Luo</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="51/3185-13">Wenbo Li 0013</author>
+<author pid="139/3492">Tianyu Zhao</author>
+<author pid="19/2453">Xiang Yu</author>
+<title>DeepEye: A Data Science System for Monitoring and Exploring COVID-19 Data.</title>
+<pages>121-132</pages>
+<year>2020</year>
+<volume>43</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<ee type="oa">http://sites.computer.org/debull/A20june/p121.pdf</ee>
+<url>db/journals/debu/debu43.html#Luo00LZY20</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/FeserM0S20" mdate="2022-04-09">
+<author orcid="0000-0001-8577-1784" pid="163/3156">John K. Feser</author>
+<author pid="m/SamuelMadden">Sam Madden</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author orcid="0000-0001-7604-8252" pid="95/6919">Armando Solar-Lezama</author>
+<title>Deductive optimization of relational data storage.</title>
+<pages>170:1-170:30</pages>
+<year>2020</year>
+<volume>4</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>OOPSLA</number>
+<ee type="oa">https://doi.org/10.1145/3428238</ee>
+<url>db/journals/pacmpl/pacmpl4.html#FeserM0S20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/QahtanTOCS20" mdate="2023-09-30">
+<author pid="121/4198">Abdulhakim Ali Qahtan</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0001-7984-3219" pid="25/7045-12">Yang Cao 0012</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>Pattern Functional Dependencies for Data Cleaning.</title>
+<pages>684-697</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p684-qahtan.pdf</ee>
+<ee>https://doi.org/10.14778/3377369.3377377</ee>
+<ee>https://www.wikidata.org/entity/Q114053634</ee>
+<url>db/journals/pvldb/pvldb13.html#QahtanTOCS20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LuoCQ0020" mdate="2021-03-23">
+<author pid="185/9921">Yuyu Luo</author>
+<author pid="181/5689">Chengliang Chai</author>
+<author pid="216/4931">Xuedi Qin</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<title>VisClean: Interactive Cleaning for Progressive Visualization.</title>
+<pages>2821-2824</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2821-luo.pdf</ee>
+<ee>https://doi.org/10.14778/3415478.3415484</ee>
+<url>db/journals/pvldb/pvldb13.html#LuoCQ0020</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LuoLZYZ0020" mdate="2023-12-04">
+<author pid="185/9921">Yuyu Luo</author>
+<author pid="51/3185-13">Wenbo Li 0013</author>
+<author pid="139/3492">Tianyu Zhao</author>
+<author pid="19/2453">Xiang Yu</author>
+<author pid="92/930">Lixi Zhang</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>DeepTrack: Monitoring and Exploring Spatio-Temporal Data - A Case of Tracking COVID-19 -.</title>
+<pages>2841-2844</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2841-luo.pdf</ee>
+<ee>https://doi.org/10.14778/3415478.3415489</ee>
+<url>db/journals/pvldb/pvldb13.html#LuoLZYZ0020</url>
+</article>
+</r>
+<r><article key="journals/pvldb/RezigBTO0MMS20" mdate="2023-08-08">
+<author pid="96/8919">El Kindi Rezig</author>
+<author pid="273/7114">Ashrita Brahmaroutu</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="56/794">Timothy G. Mattson</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>Debugging Large-Scale Data Science Pipelines using Dagger.</title>
+<pages>2993-2996</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2993-rezig.pdf</ee>
+<ee>https://doi.org/10.14778/3415478.3415527</ee>
+<url>db/journals/pvldb/pvldb13.html#RezigBTO0MMS20</url>
+</article>
+</r>
+<r><article key="journals/vldb/QinLTL20" mdate="2020-02-06">
+<author pid="216/4931">Xuedi Qin</author>
+<author pid="185/9921">Yuyu Luo</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author orcid="0000-0002-1398-0621" pid="l/GuoliangLi">Guoliang Li 0001</author>
+<title>Making data visualization more efficient and effective: a survey.</title>
+<pages>93-117</pages>
+<year>2020</year>
+<volume>29</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-019-00588-3</ee>
+<url>db/journals/vldb/vldb29.html#QinLTL20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/RezigCSSMTOS20" mdate="2023-08-08">
+<author pid="96/8919">El Kindi Rezig</author>
+<author pid="17/6060-4">Lei Cao 0004</author>
+<author pid="151/8293">Giovanni Simonini</author>
+<author pid="257/5610">Maxime Schoemans</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>Dagger: A Data (not code) Debugger.</title>
+<year>2020</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2020/papers/p35-rezig-cidr20.pdf</ee>
+<crossref>conf/cidr/2020</crossref>
+<url>db/conf/cidr/cidr2020.html#RezigCSSMTOS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/Thirumuruganathan20" mdate="2021-01-29">
+<author pid="57/10514">Saravanan Thirumuruganathan</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<title>Data Curation with Deep Learning.</title>
+<pages>277-286</pages>
+<year>2020</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2020.25</ee>
+<crossref>conf/edbt/2020</crossref>
+<url>db/conf/edbt/edbt2020.html#Thirumuruganathan20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LuoCQ0020" mdate="2020-06-05">
+<author pid="185/9921">Yuyu Luo</author>
+<author pid="181/5689">Chengliang Chai</author>
+<author pid="216/4931">Xuedi Qin</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<title>Interactive Cleaning for Progressive Visualization through Composite Questions.</title>
+<pages>733-744</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00069</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#LuoCQ0020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/Yu0C020" mdate="2020-06-05">
+<author pid="19/2453">Xiang Yu</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="181/5689">Chengliang Chai</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Reinforcement Learning with Tree-LSTM for Join Order Selection.</title>
+<pages>1297-1308</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00116</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#Yu0C020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/HaoC00WY20" mdate="2023-10-25">
+<author pid="07/6713">Shuang Hao</author>
+<author pid="181/5689">Chengliang Chai</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author orcid="0000-0001-8903-8790" pid="46/2005-24">Ning Wang 0024</author>
+<author pid="19/2453">Xiang Yu</author>
+<title>Outdated Fact Detection in Knowledge Bases.</title>
+<pages>1890-1893</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00196</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#HaoC00WY20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/QinCL0020" mdate="2020-06-05">
+<author pid="216/4931">Xuedi Qin</author>
+<author pid="181/5689">Chengliang Chai</author>
+<author pid="185/9921">Yuyu Luo</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<title>Interactively Discovering and Ranking Desired Tuples without Writing SQL Queries.</title>
+<pages>2745-2748</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3384695</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#QinCL0020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MuslehO0D20" mdate="2023-06-26">
+<author orcid="0000-0003-2127-2681" pid="147/1231">Mashaal Musleh</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<title>CoClean: Collaborative Data Cleaning.</title>
+<pages>2757-2760</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3384698</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#MuslehO0D20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-02469" mdate="2020-12-09">
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="78/4413">Ju Fan</author>
+<author pid="37/8497">Fangyi Li</author>
+<author pid="227/8305">Jianhong Tu</author>
+<author pid="47/3542-1">Xiaoyong Du 0001</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="m/SamuelMadden">Sam Madden</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Relational Pretrained Transformers towards Democratizing Data Preparation [Vision].</title>
+<year>2020</year>
+<volume>abs/2012.02469</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.02469</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-02469</url>
+</article>
+</r>
+<r><article key="journals/pvldb/WangLT19" mdate="2020-04-25">
+<author pid="84/2694">Yong Wang</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Querying Shortest Paths on Time Dependent Road Networks.</title>
+<pages>1249-1261</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1249-wang.pdf</ee>
+<ee>https://doi.org/10.14778/3342263.3342265</ee>
+<url>db/journals/pvldb/pvldb12.html#WangLT19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/RezigCSSTMOTE19" mdate="2023-08-08">
+<author pid="96/8919">El Kindi Rezig</author>
+<author orcid="0000-0001-9909-8607" pid="17/6060-4">Lei Cao 0004</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="151/8293">Giovanni Simonini</author>
+<author pid="147/1253">Wenbo Tao</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>Data Civilizer 2.0: A Holistic Framework for Data Preparation and Analytics.</title>
+<pages>1954-1957</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1954-rezig.pdf</ee>
+<ee>https://doi.org/10.14778/3352063.3352108</ee>
+<url>db/journals/pvldb/pvldb12.html#RezigCSSTMOTE19</url>
+</article>
+</r>
+<r><article key="journals/tods/0001YWXWLY019" mdate="2023-08-28">
+<author orcid="0000-0003-1892-6971" pid="131/6529-1">Sibo Wang 0001</author>
+<author orcid="0000-0002-7284-3096" pid="204/3387">Renchi Yang</author>
+<author pid="247/9289">Runhui Wang</author>
+<author orcid="0000-0003-0914-4580" pid="33/1903">Xiaokui Xiao</author>
+<author pid="94/4260">Zhewei Wei</author>
+<author orcid="0000-0003-4741-801X" pid="121/4164">Wenqing Lin</author>
+<author pid="56/2998-1">Yin Yang 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Efficient Algorithms for Approximate Single-Source Personalized PageRank Queries.</title>
+<pages>18:1-18:37</pages>
+<year>2019</year>
+<volume>44</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3360902</ee>
+<ee>https://www.wikidata.org/entity/Q114976905</ee>
+<url>db/journals/tods/tods44.html#0001YWXWLY019</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/DengTAEI0MOS019" mdate="2023-08-08">
+<author pid="71/8700-1">Dong Deng 0001</author>
+<author pid="147/1253">Wenbo Tao</author>
+<author orcid="0000-0002-2846-1373" pid="38/8707">Ziawasch Abedjan</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Unsupervised String Transformation Learning for Entity Consolidation.</title>
+<pages>196-207</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00026</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#DengTAEI0MOS019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Thirumuruganathan19" mdate="2019-09-25">
+<author pid="57/10514">Saravanan Thirumuruganathan</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Explaining Entity Resolution Predictions: Where are we and What needs to be done?</title>
+<pages>10:1-10:6</pages>
+<year>2019</year>
+<booktitle>HILDA@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3328519.3329130</ee>
+<crossref>conf/sigmod/2019hilda</crossref>
+<url>db/conf/sigmod/hilda2019.html#Thirumuruganathan19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MahdaviAFMOS019" mdate="2023-08-08">
+<author pid="125/6921">Mohammad Mahdavi</author>
+<author orcid="0000-0002-2846-1373" pid="38/8707">Ziawasch Abedjan</author>
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Raha: A Configuration-Free Error Detection System.</title>
+<pages>865-882</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3324956</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#MahdaviAFMOS019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Qahtan0OCS19" mdate="2019-10-19">
+<author pid="121/4198">Abdulhakim Ali Qahtan</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0001-7984-3219" pid="25/7045-12">Yang Cao 0012</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>ANMAT: Automatic Knowledge Discovery and Error Detection through Pattern Functional Dependencies.</title>
+<pages>1977-1980</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3320209</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#Qahtan0OCS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/TangWL19" mdate="2019-07-07">
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="41/3679">Eugene Wu 0002</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<title>Towards Democratizing Relational Data Visualization.</title>
+<pages>2025-2030</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3314029</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#TangWL19</url>
+</inproceedings>
+</r>
+<r><incollection key="books/mc/19/Ouzzani0F14" mdate="2019-01-13">
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="131/4202">Raul Castro Fernandez</author>
+<title>Data civilizer: end-to-end support for data discovery, integration, and cleaning.</title>
+<pages>291-300</pages>
+<year>2019</year>
+<booktitle>Making Databases Work</booktitle>
+<ee>https://doi.org/10.1145/3226595.3226621</ee>
+<crossref>books/mc/B2019</crossref>
+<url>db/books/collections/B2019.html#Ouzzani0F14</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-03229" mdate="2023-08-08">
+<author pid="163/3156">John K. Feser</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="95/6919">Armando Solar-Lezama</author>
+<title>Deductive Optimization of Relational Data Storage.</title>
+<year>2019</year>
+<volume>abs/1903.03229</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.03229</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-03229</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-06574" mdate="2023-08-08">
+<author pid="01/3254">Ji Sun</author>
+<author pid="71/8700-1">Dong Deng 0001</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Technical Report: Optimizing Human Involvement for Entity Matching and Consolidation.</title>
+<year>2019</year>
+<volume>abs/1906.06574</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.06574</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-06574</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-10583" mdate="2020-06-21">
+<author pid="131/6529-1">Sibo Wang 0001</author>
+<author pid="204/3387">Renchi Yang</author>
+<author pid="247/9289">Runhui Wang</author>
+<author pid="33/1903">Xiaokui Xiao</author>
+<author pid="94/4260">Zhewei Wei</author>
+<author pid="121/4164">Wenqing Lin</author>
+<author pid="56/2998-1">Yin Yang 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Efficient Algorithms for Approximate Single-Source Personalized PageRank Queries.</title>
+<year>2019</year>
+<volume>abs/1908.10583</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.10583</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-10583</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-11876" mdate="2023-08-08">
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>Dataset-On-Demand: Automatic View Search and Presentation for Data Discovery.</title>
+<year>2019</year>
+<volume>abs/1911.11876</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.11876</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-11876</url>
+</article>
+</r>
+<r><article key="journals/bigdatama/QinLTL18" mdate="2020-05-09">
+<author pid="216/4931">Xuedi Qin</author>
+<author pid="185/9921">Yuyu Luo</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<title>DeepEye: An automatic big data visualization framework.</title>
+<pages>75-82</pages>
+<year>2018</year>
+<volume>1</volume>
+<journal>Big Data Min. Anal.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.26599/BDMA.2018.9020007</ee>
+<url>db/journals/bigdatama/bigdatama1.html#QinLTL18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AgrawalCCEIKKLM18" mdate="2023-06-26">
+<author pid="a/DivyakantAgrawal">Divy Agrawal</author>
+<author pid="22/5463">Sanjay Chawla</author>
+<author pid="220/3419">Bertty Contreras-Rojas</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="181/5745">Yasser Idris</author>
+<author orcid="0000-0003-4520-5360" pid="65/1457">Zoi Kaoudi</author>
+<author pid="128/0936-1">Sebastian Kruse 0001</author>
+<author pid="144/2807">Ji Lucas</author>
+<author pid="m/EssamMansour">Essam Mansour 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="57/10514">Saravanan Thirumuruganathan</author>
+<author pid="224/6752">Anis Troudi</author>
+<title>RHEEM: Enabling Cross-Platform Data Processing - May The Big Data Be With You! -.</title>
+<pages>1414-1427</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1414-agrawal.pdf</ee>
+<ee>https://doi.org/10.14778/3236187.3236195</ee>
+<url>db/journals/pvldb/pvldb11.html#AgrawalCCEIKKLM18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/EbraheemTJOT18" mdate="2020-04-25">
+<author pid="207/7803">Muhammad Ebraheem</author>
+<author pid="57/10514">Saravanan Thirumuruganathan</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Distributed Representations of Tuples for Entity Resolution.</title>
+<pages>1454-1467</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1454-ebraheem.pdf</ee>
+<ee>https://doi.org/10.14778/3236187.3236198</ee>
+<url>db/journals/pvldb/pvldb11.html#EbraheemTJOT18</url>
+</article>
+</r>
+<r><article key="journals/vldb/HaoTLLF18" mdate="2020-05-12">
+<author pid="07/6713">Shuang Hao</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author orcid="0000-0002-1398-0621" pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="33/5448-15">Jian Li 0015</author>
+<author pid="43/6576">Jianhua Feng</author>
+<title>Distilling relations using knowledge bases.</title>
+<pages>497-519</pages>
+<year>2018</year>
+<volume>27</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00778-018-0506-9</ee>
+<url>db/journals/vldb/vldb27.html#HaoTLLF18</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/QinL0018" mdate="2021-01-29">
+<author pid="216/4931">Xuedi Qin</author>
+<author pid="185/9921">Yuyu Luo</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<title>DeepEye: Visualizing Your Data by Keyword Search.</title>
+<pages>441-444</pages>
+<year>2018</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2018.42</ee>
+<crossref>conf/edbt/2018</crossref>
+<url>db/conf/edbt/edbt2018.html#QinL0018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LuoQ0018" mdate="2023-03-23">
+<author pid="185/9921">Yuyu Luo</author>
+<author pid="216/4931">Xuedi Qin</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<title>DeepEye: Towards Automatic Data Visualization.</title>
+<pages>101-112</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00019</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00019</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#LuoQ0018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/Hao00F18" mdate="2023-03-24">
+<author pid="07/6713">Shuang Hao</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="43/6576">Jianhua Feng</author>
+<title>Discovering Mis-Categorized Entities.</title>
+<pages>413-424</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00045</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00045</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#Hao00F18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/FernandezMQEIMO18" mdate="2023-08-08">
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="m/EssamMansour">Essam Mansour 0001</author>
+<author pid="121/4198">Abdulhakim Ali Qahtan</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Seeping Semantics: Linking Datasets Using Word Embeddings for Data Discovery.</title>
+<pages>989-1000</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00093</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00093</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#FernandezMQEIMO18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/MansourDFQTAEIM18" mdate="2023-08-08">
+<author pid="m/EssamMansour">Essam Mansour 0001</author>
+<author pid="71/8700-1">Dong Deng 0001</author>
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="121/4198">Abdulhakim Ali Qahtan</author>
+<author pid="147/1253">Wenbo Tao</author>
+<author orcid="0000-0002-2846-1373" pid="38/8707">Ziawasch Abedjan</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Building Data Civilizer Pipelines with an Advanced Workflow Engine.</title>
+<pages>1593-1596</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00184</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00184</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#MansourDFQTAEIM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/HaoX0LF18" mdate="2023-03-24">
+<author pid="07/6713">Shuang Hao</author>
+<author pid="14/5580">Yi Xu</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="43/6576">Jianhua Feng</author>
+<title>Cleaning Your Wrong Google Scholar Entries.</title>
+<pages>1597-1600</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00185</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00185</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#HaoX0LF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/QahtanEO018" mdate="2023-03-23">
+<author pid="121/4198">Abdulhakim Ali Qahtan</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>FAHES: Detecting Disguised Missing Values.</title>
+<pages>1609-1612</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00188</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00188</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#QahtanEO018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/QahtanEFO018" mdate="2018-11-21">
+<author pid="121/4198">Abdulhakim Ali Qahtan</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>FAHES: A Robust Disguised Missing Values Detector.</title>
+<pages>2100-2109</pages>
+<year>2018</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/3219819.3220109</ee>
+<crossref>conf/kdd/2018</crossref>
+<url>db/conf/kdd/kdd2018.html#QahtanEFO018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LuoQ00W18" mdate="2018-11-21">
+<author pid="185/9921">Yuyu Luo</author>
+<author pid="216/4931">Xuedi Qin</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="42/10">Xinran Wang</author>
+<title>DeepEye: Creating Good Data Visualizations by Keyword Search.</title>
+<pages>1733-1736</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3193545</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#LuoQ00W18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-01384" mdate="2018-08-13">
+<author pid="57/10514">Saravanan Thirumuruganathan</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<title>Data Curation with Deep Learning [Vision]: Towards Self Driving Data Curation.</title>
+<year>2018</year>
+<volume>abs/1803.01384</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.01384</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-01384</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-11084" mdate="2018-10-05">
+<author pid="57/10514">Saravanan Thirumuruganathan</author>
+<author pid="155/1903">Shameem Ahamed Puthiya Parambath</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<title>Reuse and Adaptation for Entity Resolution through Transfer Learning.</title>
+<year>2018</year>
+<volume>abs/1809.11084</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.11084</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-11084</url>
+</article>
+</r>
+<r><article key="journals/jdiq/WangT17" mdate="2023-11-24">
+<author pid="39/7183-1">Jiannan Wang 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Dependable Data Repairing with Fixing Rules.</title>
+<pages>16:1-16:34</pages>
+<year>2017</year>
+<volume>8</volume>
+<journal>ACM J. Data Inf. Qual.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1145/3041761</ee>
+<url>db/journals/jdiq/jdiq8.html#WangT17</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KhayyatLSOPQTK17" mdate="2023-06-26">
+<author orcid="0000-0003-3650-6997" pid="128/5698">Zuhair Khayyat</author>
+<author pid="139/0886">William Lucia</author>
+<author pid="49/379">Meghna Singh</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author orcid="0000-0002-5060-1360" pid="97/3036">Panos Kalnis</author>
+<title>Errata for "Lightning Fast and Space Efficient Inequality Joins" (PVLDB 8(13): 2074-2085).</title>
+<pages>985</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p985-quianeruiz-errata.pdf</ee>
+<ee>https://doi.org/10.14778/3099622.3099629</ee>
+<url>db/journals/pvldb/pvldb10.html#KhayyatLSOPQTK17</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SinghMEMPQST17" mdate="2023-08-08">
+<author pid="21/3400-2">Rohit Singh 0002</author>
+<author pid="117/2614">Venkata Vamsikrishna Meduri</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author orcid="0000-0001-7604-8252" pid="95/6919">Armando Solar-Lezama</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Synthesizing Entity Matching Rules by Examples.</title>
+<pages>189-202</pages>
+<year>2017</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p189-singh.pdf</ee>
+<ee>https://doi.org/10.14778/3149193.3149199</ee>
+<url>db/journals/pvldb/pvldb11.html#SinghMEMPQST17</url>
+</article>
+</r>
+<r><article key="journals/tkde/Hao0LHTF17" mdate="2021-05-18">
+<author pid="07/6713">Shuang Hao</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="24/6837">Jian He</author>
+<author pid="30/6340-1">Na Ta 0001</author>
+<author pid="43/6576">Jianhua Feng</author>
+<title>A Novel Cost-Based Model for Data Repairing.</title>
+<pages>727-742</pages>
+<year>2017</year>
+<volume>29</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TKDE.2016.2637928</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2016.2637928</ee>
+<url>db/journals/tkde/tkde29.html#Hao0LHTF17</url>
+</article>
+</r>
+<r><article key="journals/vldb/KhayyatLSOPQ0K17" mdate="2023-06-26">
+<author orcid="0000-0003-3650-6997" pid="128/5698">Zuhair Khayyat</author>
+<author pid="139/0886">William Lucia</author>
+<author orcid="0000-0002-5772-5219" pid="49/379">Meghna Singh</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author orcid="0000-0002-5060-1360" pid="97/3036">Panos Kalnis</author>
+<title>Fast and scalable inequality joins.</title>
+<pages>125-150</pages>
+<year>2017</year>
+<volume>26</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-016-0441-6</ee>
+<url>db/journals/vldb/vldb26.html#KhayyatLSOPQ0K17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/DengFAWSEIMO017" mdate="2023-11-12">
+<author pid="71/8700-1">Dong Deng 0001</author>
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author orcid="0000-0002-2846-1373" pid="38/8707">Ziawasch Abedjan</author>
+<author orcid="0000-0003-1892-6971" pid="131/6529-1">Sibo Wang 0001</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>The Data Civilizer System.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/papers/p44-deng-cidr17.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#DengFAWSEIMO017</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/Hao0LHTF17" mdate="2023-03-23">
+<author pid="07/6713">Shuang Hao</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="24/6837">Jian He</author>
+<author pid="30/6340-1">Na Ta 0001</author>
+<author pid="43/6576">Jianhua Feng</author>
+<title>A Novel Cost-Based Model for Data Repairing.</title>
+<pages>49-50</pages>
+<year>2017</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2017.31</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2017.31</ee>
+<crossref>conf/icde/2017</crossref>
+<url>db/conf/icde/icde2017.html#Hao0LHTF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/Hao0LL17" mdate="2023-03-24">
+<author pid="07/6713">Shuang Hao</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="33/5448-15">Jian Li 0015</author>
+<title>Cleaning Relations Using Knowledge Bases.</title>
+<pages>933-944</pages>
+<year>2017</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2017.141</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2017.141</ee>
+<crossref>conf/icde/2017</crossref>
+<url>db/conf/icde/icde2017.html#Hao0LL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sebd/VeltriSMPHL017" mdate="2023-03-10">
+<author pid="157/0004">Enzo Veltri</author>
+<author pid="32/5873">Donatello Santoro</author>
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<author pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="24/6837">Jian He</author>
+<author pid="212/2270">Gouliang Li</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Interactive Data Repairing: the FALCON Dive.</title>
+<pages>267</pages>
+<year>2017</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2037/paper_38.pdf</ee>
+<crossref>conf/sebd/2017</crossref>
+<url>db/conf/sebd/sebd2017.html#VeltriSMPHL017</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Thirumuruganathan17" mdate="2023-06-26">
+<author pid="57/10514">Saravanan Thirumuruganathan</author>
+<author orcid="0000-0002-8046-0570" pid="b/LaureBertiEquille">Laure Berti-&#201;quille</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>UGuide: User-Guided Discovery of FD-Detectable Errors.</title>
+<pages>1385-1397</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3064024</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#Thirumuruganathan17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/0002MEMPQS017" mdate="2023-08-08">
+<author pid="21/3400-2">Rohit Singh 0002</author>
+<author pid="117/2614">Venkata Vamsikrishna Meduri</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author orcid="0000-0001-7604-8252" pid="95/6919">Armando Solar-Lezama</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Generating Concise Entity Matching Rules.</title>
+<pages>1635-1638</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3058739</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#0002MEMPQS017</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/FernandezDMQTAE17" mdate="2023-08-08">
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="71/8700-1">Dong Deng 0001</author>
+<author pid="m/EssamMansour">Essam Mansour 0001</author>
+<author pid="121/4198">Abdulhakim Ali Qahtan</author>
+<author pid="147/1253">Wenbo Tao</author>
+<author orcid="0000-0002-2846-1373" pid="38/8707">Ziawasch Abedjan</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>A Demo of the Data Civilizer System.</title>
+<pages>1639-1642</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3058740</ee>
+<ee>https://www.wikidata.org/entity/Q56606048</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#FernandezDMQTAE17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-10436" mdate="2023-08-08">
+<author pid="71/8700-1">Dong Deng 0001</author>
+<author pid="147/1253">Wenbo Tao</author>
+<author pid="38/8707">Ziawasch Abedjan</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Entity Consolidation: The Golden Record Problem.</title>
+<year>2017</year>
+<volume>abs/1709.10436</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.10436</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-10436</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-00597" mdate="2018-08-13">
+<author pid="207/7803">Muhammad Ebraheem</author>
+<author pid="57/10514">Saravanan Thirumuruganathan</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>DeepER - Deep Entity Resolution.</title>
+<year>2017</year>
+<volume>abs/1710.00597</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.00597</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-00597</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AbedjanCDFIOPST16" mdate="2022-01-03">
+<author orcid="0000-0002-2846-1373" pid="38/8707">Ziawasch Abedjan</author>
+<author pid="131/4767">Xu Chu</author>
+<author pid="71/8700-1">Dong Deng 0001</author>
+<author pid="131/4202">Raul Castro Fernandez</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Detecting Data Errors: Where are we and what needs to be done?</title>
+<pages>993-1004</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p993-abedjan.pdf</ee>
+<ee>https://doi.org/10.14778/2994509.2994518</ee>
+<ee>https://www.wikidata.org/entity/Q56608346</ee>
+<url>db/journals/pvldb/pvldb9.html#AbedjanCDFIOPST16</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/AgrawalCEKOPQ0Z16" mdate="2023-06-26">
+<author pid="a/DivyakantAgrawal">Divy Agrawal</author>
+<author pid="22/5463">Sanjay Chawla</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author orcid="0000-0003-4520-5360" pid="65/1457">Zoi Kaoudi</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="z/MohammedJaveedZaki">Mohammed J. Zaki</author>
+<title>Road to Freedom in Big Data Analytics.</title>
+<pages>479-484</pages>
+<year>2016</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2016.45</ee>
+<crossref>conf/edbt/2016</crossref>
+<url>db/conf/edbt/edbt2016.html#AgrawalCEKOPQ0Z16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HeVSLMPT16" mdate="2018-11-06">
+<author pid="24/6837">Jian He</author>
+<author orcid="0000-0001-9947-8909" pid="157/0004">Enzo Veltri</author>
+<author orcid="0000-0002-5651-8584" pid="32/5873">Donatello Santoro</author>
+<author pid="l/GuoliangLi">Guoliang Li 0001</author>
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Interactive and Deterministic Data Cleaning.</title>
+<pages>893-907</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2915242</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#HeVSLMPT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/0001CM16" mdate="2018-11-06">
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="14/928">Qing Chen</author>
+<author pid="19/3308">Prasenjit Mitra</author>
+<title>Graph Stream Summarization: From Big Bang to Big Crunch.</title>
+<pages>1481-1496</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2915223</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#0001CM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AgrawalBBCEHIKK16" mdate="2023-06-26">
+<author pid="a/DivyakantAgrawal">Divy Agrawal</author>
+<author pid="85/9378">Mouhamadou Lamine Ba</author>
+<author orcid="0000-0002-8046-0570" pid="b/LaureBertiEquille">Laure Berti-&#201;quille</author>
+<author pid="22/5463">Sanjay Chawla</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="163/3922">Hossam Hammady</author>
+<author pid="181/5745">Yasser Idris</author>
+<author orcid="0000-0003-4520-5360" pid="65/1457">Zoi Kaoudi</author>
+<author orcid="0000-0003-3650-6997" pid="128/5698">Zuhair Khayyat</author>
+<author pid="128/0936-1">Sebastian Kruse 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="z/MohammedJaveedZaki">Mohammed J. Zaki</author>
+<title>Rheem: Enabling Multi-Platform Task Execution.</title>
+<pages>2069-2072</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2899414</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#AgrawalBBCEHIKK16</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/ChuOMIP0Y15" mdate="2020-04-25">
+<author pid="131/4767">Xu Chu</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="160/4533">John Morcos</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="66/7724">Yin Ye</author>
+<title>KATARA: Reliable Data Cleaning with Knowledge Bases and Crowdsourcing.</title>
+<pages>1952-1955</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1952-chu.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824109</ee>
+<ee>https://www.wikidata.org/entity/Q56612580</ee>
+<url>db/journals/pvldb/pvldb8.html#ChuOMIP0Y15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KhayyatLSOPQ0K15" mdate="2023-06-26">
+<author orcid="0000-0003-3650-6997" pid="128/5698">Zuhair Khayyat</author>
+<author pid="139/0886">William Lucia</author>
+<author orcid="0000-0002-5772-5219" pid="49/379">Meghna Singh</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="p/PaoloPapotti">Paolo Papotti</author>
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author orcid="0000-0002-5060-1360" pid="97/3036">Panos Kalnis</author>
+<title>Lightning Fast and Space Efficient Inequality Joins.</title>
+<pages>2074-2085</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p2074-khayyat.pdf</ee>
+<ee>https://doi.org/10.14778/2831360.2831362</ee>
+<url>db/journals/pvldb/pvldb8.html#KhayyatLSOPQ0K15</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/InterlandiT15" mdate="2023-03-23">
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Proof positive and negative in data cleaning.</title>
+<pages>18-29</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113269</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113269</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#InterlandiT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/Tang15" mdate="2023-03-24">
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Big RDF data cleaning.</title>
+<pages>77-79</pages>
+<year>2015</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2015.7129549</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2015.7129549</ee>
+<crossref>conf/icde/2015w</crossref>
+<url>db/conf/icde/icdew2015.html#Tang15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KhayyatIJMOPQ0Y15" mdate="2023-08-08">
+<author orcid="0000-0003-3650-6997" pid="128/5698">Zuhair Khayyat</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="24/8510">Alekh Jindal</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="32/2085">Si Yin</author>
+<title>BigDansing: A System for Big Data Cleansing.</title>
+<pages>1215-1230</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2747646</ee>
+<ee>https://www.wikidata.org/entity/Q56614312</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#KhayyatIJMOPQ0Y15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChuMIOP0Y15" mdate="2018-11-14">
+<author pid="131/4767">Xu Chu</author>
+<author pid="160/4533">John Morcos</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="66/7724">Yin Ye</author>
+<title>KATARA: A Data Cleaning System Powered by Knowledge Bases and Crowdsourcing.</title>
+<pages>1247-1261</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2749431</ee>
+<ee>https://www.wikidata.org/entity/Q56616731</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#ChuMIOP0Y15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/TangCM15" mdate="2018-08-13">
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="14/928">Qing Chen</author>
+<author pid="19/3308">Prasenjit Mitra</author>
+<title>On Summarizing Graph Streams.</title>
+<year>2015</year>
+<volume>abs/1510.02219</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1510.02219</ee>
+<url>db/journals/corr/corr1510.html#TangCM15</url>
+</article>
+</r>
+<r><article key="journals/jdiq/FanM0Y14" mdate="2020-09-18">
+<author orcid="0000-0001-5149-2656" pid="94/2372">Wenfei Fan</author>
+<author pid="35/6569">Shuai Ma 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="53/5676">Wenyuan Yu</author>
+<title>Interaction between Record Matching and Data Repairing.</title>
+<pages>16:1-16:38</pages>
+<year>2014</year>
+<volume>4</volume>
+<journal>ACM J. Data Inf. Qual.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2567657</ee>
+<ee>https://www.wikidata.org/entity/Q57495322</ee>
+<url>db/journals/jdiq/jdiq4.html#FanM0Y14</url>
+</article>
+</r>
+<r><article key="journals/jdiq/FanG0Y14" mdate="2020-12-29">
+<author orcid="0000-0001-5149-2656" pid="94/2372">Wenfei Fan</author>
+<author orcid="0000-0002-8967-2473" pid="g/FlorisGeerts">Floris Geerts</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="53/5676">Wenyuan Yu</author>
+<title>Conflict resolution with data currency and consistency.</title>
+<pages>6:1-6:37</pages>
+<year>2014</year>
+<volume>5</volume>
+<journal>ACM J. Data Inf. Qual.</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1145/2631923</ee>
+<ee>https://www.wikidata.org/entity/Q57495309</ee>
+<url>db/journals/jdiq/jdiq5.html#FanG0Y14</url>
+</article>
+</r>
+<r><article key="journals/tkde/FanL0Y14" mdate="2022-08-04">
+<author orcid="0000-0001-5149-2656" pid="94/2372">Wenfei Fan</author>
+<author pid="18/6870-1">Jianzhong Li 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="53/5676">Wenyuan Yu</author>
+<title>Incremental Detection of Inconsistencies in Distributed Data.</title>
+<pages>1367-1383</pages>
+<year>2014</year>
+<volume>26</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TKDE.2012.138</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2012.138</ee>
+<ee>https://www.wikidata.org/entity/Q57495317</ee>
+<url>db/journals/tkde/tkde26.html#FanL0Y14</url>
+</article>
+</r>
+<r><inproceedings key="conf/apweb/Tang14" mdate="2017-05-26">
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Big Data Cleaning.</title>
+<pages>13-24</pages>
+<year>2014</year>
+<booktitle>APWeb</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-11116-2_2</ee>
+<crossref>conf/apweb/2014</crossref>
+<url>db/conf/apweb/apweb2014.html#Tang14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/WangT14" mdate="2023-11-24">
+<author pid="39/7183-1">Jiannan Wang 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Towards dependable data repairing with fixing rules.</title>
+<pages>457-468</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2610494</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#WangT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ElmagarmidIOQ0Y14" mdate="2023-06-26">
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="32/2085">Si Yin</author>
+<title>NADEEF/ER: generic and interactive entity resolution.</title>
+<pages>1071-1074</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2594511</ee>
+<ee>https://www.wikidata.org/entity/Q56627961</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#ElmagarmidIOQ0Y14</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/EbaidEIOQ0Y13" mdate="2023-06-26">
+<author pid="131/4161">Amr Ebaid</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="32/2085">Si Yin</author>
+<title>NADEEF: A Generalized Data Cleaning System.</title>
+<pages>1218-1221</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p1218-tang.pdf</ee>
+<ee>https://doi.org/10.14778/2536274.2536280</ee>
+<ee>https://www.wikidata.org/entity/Q56628170</ee>
+<url>db/journals/pvldb/pvldb6.html#EbaidEIOQ0Y13</url>
+</article>
+</r>
+<r><inproceedings key="conf/birthday/FanGM0Y13" mdate="2020-12-29">
+<author orcid="0000-0001-5149-2656" pid="94/2372">Wenfei Fan</author>
+<author orcid="0000-0002-8967-2473" pid="g/FlorisGeerts">Floris Geerts</author>
+<author pid="35/6569">Shuai Ma 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="53/5676">Wenyuan Yu</author>
+<title>Data Quality Problems beyond Consistency and Deduplication.</title>
+<pages>237-249</pages>
+<year>2013</year>
+<booktitle>In Search of Elegance in the Theory and Practice of Computation</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41660-6_12</ee>
+<ee>https://www.wikidata.org/entity/Q57495344</ee>
+<crossref>conf/birthday/2013buneman</crossref>
+<url>db/conf/birthday/buneman2013.html#FanGM0Y13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/FanGTY13" mdate="2023-03-24">
+<author orcid="0000-0001-5149-2656" pid="94/2372">Wenfei Fan</author>
+<author orcid="0000-0002-8967-2473" pid="g/FlorisGeerts">Floris Geerts</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="53/5676">Wenyuan Yu</author>
+<title>Inferring data currency and consistency for conflict resolution.</title>
+<pages>470-481</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544848</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544848</ee>
+<ee>https://www.wikidata.org/entity/Q57495356</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#FanGTY13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DallachiesaEEEIOT13" mdate="2020-06-15">
+<author pid="117/4997">Michele Dallachiesa</author>
+<author pid="131/4161">Amr Ebaid</author>
+<author orcid="0000-0002-6584-1455" pid="66/9726">Ahmed Eldawy</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>NADEEF: a commodity data cleaning system.</title>
+<pages>541-552</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2465327</ee>
+<ee>https://www.wikidata.org/entity/Q56634249</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#DallachiesaEEEIOT13</url>
+</inproceedings>
+</r>
+<r><article key="journals/fcsc/FanLMTW12" mdate="2020-09-14">
+<author orcid="0000-0001-5149-2656" pid="94/2372">Wenfei Fan</author>
+<author pid="18/6870-1">Jianzhong Li 0001</author>
+<author pid="35/6569">Shuai Ma 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="32/6122">Yinghui Wu</author>
+<title>Adding regular expressions to graph reachability and pattern queries.</title>
+<pages>313-338</pages>
+<year>2012</year>
+<volume>6</volume>
+<journal>Frontiers Comput. Sci.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11704-012-1312-y</ee>
+<url>db/journals/fcsc/fcsc6.html#FanLMTW12</url>
+</article>
+</r>
+<r><article key="journals/sigmod/BeskalesDEINOPQT12" mdate="2024-02-05">
+<author pid="98/6141">George Beskales</author>
+<author orcid="0000-0002-4627-9065" pid="07/1181">Gautam Das 0001</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<author orcid="0000-0001-9052-9714" pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author orcid="0000-0002-4483-1389" pid="n/FelixNaumann">Felix Naumann</author>
+<author pid="o/MouradOuzzani">Mourad Ouzzani</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>The data analytics group at the qatar computing research institute.</title>
+<pages>33-38</pages>
+<year>2012</year>
+<volume>41</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2430456.2430466</ee>
+<ee>https://www.wikidata.org/entity/Q56636093</ee>
+<url>db/journals/sigmod/sigmod41.html#BeskalesDEINOPQT12</url>
+</article>
+</r>
+<r><article key="journals/vldb/FanLMTY12" mdate="2020-09-14">
+<author orcid="0000-0001-5149-2656" pid="94/2372">Wenfei Fan</author>
+<author pid="18/6870-1">Jianzhong Li 0001</author>
+<author pid="35/6569">Shuai Ma 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="53/5676">Wenyuan Yu</author>
+<title>Towards certain fixes with editing rules and master data.</title>
+<pages>213-238</pages>
+<year>2012</year>
+<volume>21</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-011-0253-7</ee>
+<ee>https://www.wikidata.org/entity/Q57495405</ee>
+<url>db/journals/vldb/vldb21.html#FanLMTY12</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/FanLTY12" mdate="2023-03-24">
+<author orcid="0000-0001-5149-2656" pid="94/2372">Wenfei Fan</author>
+<author pid="18/6870">Jianzhong Li</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="53/5676">Wenyuan Yu</author>
+<title>Incremental Detection of Inconsistencies in Distributed Data.</title>
+<pages>318-329</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.82</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2012.82</ee>
+<ee>https://www.wikidata.org/entity/Q57495390</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#FanLTY12</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/FanLMTY11" mdate="2020-09-14">
+<author pid="94/2372">Wenfei Fan</author>
+<author pid="18/6870-1">Jianzhong Li 0001</author>
+<author pid="35/6569">Shuai Ma 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="53/5676">Wenyuan Yu</author>
+<title>CerFix: A System for Cleaning Data with Certain Fixes.</title>
+<pages>1375-1378</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p1375-fan.pdf</ee>
+<url>db/journals/pvldb/pvldb4.html#FanLMTY11</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/FanLMTW11" mdate="2023-03-24">
+<author orcid="0000-0001-5149-2656" pid="94/2372">Wenfei Fan</author>
+<author pid="18/6870-1">Jianzhong Li 0001</author>
+<author pid="35/6569">Shuai Ma 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="32/6122">Yinghui Wu</author>
+<title>Adding regular expressions to graph reachability and pattern queries.</title>
+<pages>39-50</pages>
+<year>2011</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2011.5767858</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2011.5767858</ee>
+<ee>https://www.wikidata.org/entity/Q57495411</ee>
+<crossref>conf/icde/2011</crossref>
+<url>db/conf/icde/icde2011.html#FanLMTW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/FanLMTY11" mdate="2020-09-14">
+<author orcid="0000-0001-5149-2656" pid="94/2372">Wenfei Fan</author>
+<author pid="18/6870-1">Jianzhong Li 0001</author>
+<author pid="35/6569">Shuai Ma 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="53/5676">Wenyuan Yu</author>
+<title>Interaction between record matching and data repairing.</title>
+<pages>469-480</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989373</ee>
+<ee>https://www.wikidata.org/entity/Q57495428</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#FanLMTY11</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/FanLMTY10" mdate="2020-09-14">
+<author pid="94/2372">Wenfei Fan</author>
+<author pid="18/6870-1">Jianzhong Li 0001</author>
+<author pid="35/6569">Shuai Ma 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="53/5676">Wenyuan Yu</author>
+<title>Towards Certain Fixes with Editing Rules and Master Data.</title>
+<pages>173-184</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R15.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920867</ee>
+<url>db/journals/pvldb/pvldb3.html#FanLMTY10</url>
+</article>
+</r>
+<r><article key="journals/pvldb/FanLMTWW10" mdate="2020-09-14">
+<author pid="94/2372">Wenfei Fan</author>
+<author pid="18/6870-1">Jianzhong Li 0001</author>
+<author pid="35/6569">Shuai Ma 0001</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="32/6122">Yinghui Wu</author>
+<author pid="80/2135">Yunpeng Wu</author>
+<title>Graph Pattern Matching: From Intractable to Polynomial Time.</title>
+<pages>264-275</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R23.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920878</ee>
+<url>db/journals/pvldb/pvldb3.html#FanLMTWW10</url>
+</article>
+</r>
+<r><article key="journals/tkde/ZhangTB10" mdate="2019-08-12">
+<author pid="13/6769-27">Ying Zhang 0027</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Projective Distribution of XQuery with Updates.</title>
+<pages>1059-1076</pages>
+<year>2010</year>
+<volume>22</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TKDE.2010.62</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2010.62</ee>
+<url>db/journals/tkde/tkde22.html#ZhangTB10</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/TangSB09" mdate="2018-11-06">
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="01/4876">Lefteris Sidirourgos</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Space-economical partial gram indices for exact substring matching.</title>
+<pages>285-294</pages>
+<year>2009</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1645953.1645992</ee>
+<crossref>conf/cikm/2009</crossref>
+<url>db/conf/cikm/cikm2009.html#TangSB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/TangYTOB09" mdate="2017-06-02">
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author pid="07/5751">Hao Tang</author>
+<author orcid="0000-0002-8126-1717" pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Materialized View Selection in XML Databases.</title>
+<pages>616-630</pages>
+<year>2009</year>
+<booktitle>DASFAA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-00887-0_55</ee>
+<crossref>conf/dasfaa/2009</crossref>
+<url>db/conf/dasfaa/dasfaa2009.html#TangYTOB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhangTB09" mdate="2023-03-24">
+<author pid="13/6769-27">Ying Zhang 0027</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Efficient Distribution of Full-Fledged XQuery.</title>
+<pages>565-576</pages>
+<year>2009</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2009.79</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2009.79</ee>
+<crossref>conf/icde/2009</crossref>
+<url>db/conf/icde/icde2009.html#ZhangTB09</url>
+</inproceedings>
+</r>
+<r><article key="journals/acj/TangYWL08" mdate="2021-08-26">
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="l/JianxinLi">Jianxin Li 0001</author>
+<title>Fast XML Structural Join Algorithms by Partitioning.</title>
+<pages>33-54</pages>
+<year>2008</year>
+<volume>40</volume>
+<journal>J. Res. Pract. Inf. Technol.</journal>
+<number>1</number>
+<ee type="archive">http://ws.acs.org.au/jrpit/JRPITVolumes/JRPIT40/JRPIT40.1.33.pdf</ee>
+<url>db/journals/acj/acj40.html#TangYWL08</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/TangYOCW08" mdate="2023-03-23">
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author orcid="0000-0002-8126-1717" pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<author pid="07/1560">Byron Choi</author>
+<author orcid="0000-0002-9427-5659" pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Multiple Materialized View Selection for XPath Query Rewriting.</title>
+<pages>873-882</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497496</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497496</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#TangYOCW08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/TangYOW08" mdate="2023-03-24">
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author orcid="0000-0002-8126-1717" pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<author orcid="0000-0002-9427-5659" pid="w/KamFaiWong">Kam-Fai Wong</author>
+<title>Hierarchical Indexing Approach to Support XPath Queries.</title>
+<pages>1510-1512</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497606</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497606</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#TangYOW08</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ndltd/Tang07a" mdate="2018-04-30">
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Efficient Xpath query processing in native XML databases.</title>
+<year>2007</year>
+<school>Chinese University of Hong Kong, Hong Kong</school>
+<ee>http://library.cuhk.edu.hk/record=b6074503</ee>
+<note type="source">ndltd.org (oai:cuhk-dr:cuhk_344136)</note>
+</phdthesis>
+</r>
+<r><article key="journals/www/WongYT06" mdate="2021-10-14">
+<author orcid="0000-0002-9427-5659" pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Answering XML Queries Using Path-Based Indexes: A Survey.</title>
+<pages>277-299</pages>
+<year>2006</year>
+<volume>9</volume>
+<journal>World Wide Web</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11280-006-8557-z</ee>
+<url>db/journals/www/www9.html#WongYT06</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasfaa/ChengYT06" mdate="2017-05-26">
+<author pid="60/3935">Jiefeng Cheng</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Fast Reachability Query Processing.</title>
+<pages>674-688</pages>
+<year>2006</year>
+<crossref>conf/dasfaa/2006</crossref>
+<booktitle>DASFAA</booktitle>
+<ee>https://doi.org/10.1007/11733836_47</ee>
+<url>db/conf/dasfaa/dasfaa2006.html#ChengYT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/TangYWJ06" mdate="2021-10-14">
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author orcid="0000-0002-9427-5659" pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="61/3217">Haifeng Jiang</author>
+<title>Fast Structural Join with a Location Function.</title>
+<pages>777-786</pages>
+<year>2006</year>
+<crossref>conf/dasfaa/2006</crossref>
+<booktitle>DASFAA</booktitle>
+<ee>https://doi.org/10.1007/11733836_55</ee>
+<url>db/conf/dasfaa/dasfaa2006.html#TangYWJ06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/TangYWLL05" mdate="2021-10-14">
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author orcid="0000-0002-9427-5659" pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="70/1130">Kevin L&#252; 0001</author>
+<author pid="l/JianxinLi">Jianxin Li 0001</author>
+<title>Accelerating XML Structural Join by Partitioning.</title>
+<pages>280-289</pages>
+<year>2005</year>
+<crossref>conf/dexa/2005</crossref>
+<booktitle>DEXA</booktitle>
+<ee>https://doi.org/10.1007/11546924_28</ee>
+<url>db/conf/dexa/dexa2005.html#TangYWLL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpads/TangWYWY05" mdate="2023-03-23">
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="64/146">Guoren Wang</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author orcid="0000-0002-9427-5659" pid="w/KamFaiWong">Kam-Fai Wong</author>
+<author pid="49/6363">Ge Yu 0001</author>
+<title>WIN: An Effcient Data Placement Strategy for Parallel XML Databases.</title>
+<pages>349-355</pages>
+<year>2005</year>
+<crossref>conf/icpads/2005</crossref>
+<booktitle>ICPADS (1)</booktitle>
+<ee>https://doi.org/10.1109/ICPADS.2005.298</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICPADS.2005.298</ee>
+<url>db/conf/icpads/icpads2005-1.html#TangWYWY05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apweb/SunZTWYJ04" mdate="2019-10-14">
+<author pid="30/5583">Bing Sun</author>
+<author pid="65/3628">Bo Zhou</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="64/146">Guoren Wang</author>
+<author pid="49/6363">Ge Yu 0001</author>
+<author pid="87/4557">Fulin Jia</author>
+<title>Answering XML Twig Queries with Automata.</title>
+<pages>170-179</pages>
+<ee>https://doi.org/10.1007/978-3-540-24655-8_18</ee>
+<year>2004</year>
+<crossref>conf/apweb/2004</crossref>
+<booktitle>APWeb</booktitle>
+<url>db/conf/apweb/apweb2004.html#SunZTWYJ04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/compsac/YuWYWHT03" mdate="2023-03-24">
+<author pid="38/3569">Yaxin Yu</author>
+<author pid="64/146">Guoren Wang</author>
+<author pid="49/6363">Ge Yu 0001</author>
+<author pid="99/6515-7">Gang Wu 0007</author>
+<author pid="39/5268">Junan Hu</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<title>Data Placement and Query Processing Based on RPE Parallelisms.</title>
+<pages>151-</pages>
+<year>2003</year>
+<crossref>conf/compsac/2003</crossref>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/CMPSAC.2003.1245335</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CMPSAC.2003.1245335</ee>
+<url>db/conf/compsac/compsac2003.html#YuWYWHT03</url>
+</inproceedings>
+</r>
+<coauthors n="181" nc="1">
+<co c="0"><na f="a/Abedjan:Ziawasch" pid="38/8707">Ziawasch Abedjan</na></co>
+<co c="0" n="2"><na f="a/Agrawal:Divyakant" pid="a/DivyakantAgrawal">Divyakant Agrawal</na><na>Divy Agrawal</na></co>
+<co c="0"><na f="a/Ahmad:Mohammad_Shahmeer" pid="344/1680">Mohammad Shahmeer Ahmad</na></co>
+<co c="0"><na f="b/Ba:Mouhamadou_Lamine" pid="85/9378">Mouhamadou Lamine Ba</na></co>
+<co c="0"><na f="b/Berti==Eacute=quille:Laure" pid="b/LaureBertiEquille">Laure Berti-&#201;quille</na></co>
+<co c="0"><na f="b/Beskales:George" pid="98/6141">George Beskales</na></co>
+<co c="0"><na f="b/Boncz:Peter_A=" pid="b/PeterABoncz">Peter A. Boncz</na></co>
+<co c="0"><na f="b/Brahmaroutu:Ashrita" pid="273/7114">Ashrita Brahmaroutu</na></co>
+<co c="0"><na f="c/Cafarella:Michael_J=" pid="82/231">Michael J. Cafarella</na></co>
+<co c="0"><na f="c/Cao_0004:Lei" pid="17/6060-4">Lei Cao 0004</na></co>
+<co c="0"><na f="c/Cao_0012:Yang" pid="25/7045-12">Yang Cao 0012</na></co>
+<co c="0"><na f="c/Chai:Chengliang" pid="181/5689">Chengliang Chai</na></co>
+<co c="0"><na f="c/Chawla:Sanjay" pid="22/5463">Sanjay Chawla</na></co>
+<co c="0"><na f="c/Chen:Qing" pid="14/928">Qing Chen</na></co>
+<co c="0"><na f="c/Chen:Sibei" pid="344/5279">Sibei Chen</na></co>
+<co c="0"><na f="c/Chen:Zui" pid="224/3204">Zui Chen</na></co>
+<co c="0"><na f="c/Cheng:Jiefeng" pid="60/3935">Jiefeng Cheng</na></co>
+<co c="0"><na f="c/Choi:Byron" pid="07/1560">Byron Choi</na></co>
+<co c="0"><na f="c/Chu:Xu" pid="131/4767">Xu Chu</na></co>
+<co c="0" n="2"><na f="c/Contreras:Bertty" pid="220/3419">Bertty Contreras</na><na>Bertty Contreras-Rojas</na></co>
+<co c="0"><na f="c/Cui:Hang" pid="93/2906">Hang Cui</na></co>
+<co c="0"><na f="d/Dallachiesa:Michele" pid="117/4997">Michele Dallachiesa</na></co>
+<co c="0"><na f="d/Das_0001:Gautam" pid="07/1181">Gautam Das 0001</na></co>
+<co c="0"><na f="d/Deng_0001:Dong" pid="71/8700-1">Dong Deng 0001</na></co>
+<co c="0"><na f="d/Deng:Yuhao" pid="60/9480">Yuhao Deng</na></co>
+<co c="0"><na f="d/Doan:AnHai" pid="d/AnHaiDoan">AnHai Doan</na></co>
+<co c="0"><na f="d/Du_0001:Xiaoyong" pid="47/3542-1">Xiaoyong Du 0001</na></co>
+<co c="0"><na f="e/Ebaid:Amr" pid="131/4161">Amr Ebaid</na></co>
+<co c="0"><na f="e/Ebraheem:Muhammad" pid="207/7803">Muhammad Ebraheem</na></co>
+<co c="0"><na f="e/Eldawy:Ahmed" pid="66/9726">Ahmed Eldawy</na></co>
+<co c="0"><na f="e/Elmagarmid:Ahmed_K=" pid="e/AKElmagarmid">Ahmed K. Elmagarmid</na></co>
+<co c="0"><na f="e/Eltabakh:Mohamed_Y=" pid="49/6395">Mohamed Y. Eltabakh</na></co>
+<co c="0"><na f="f/Fan:Ju" pid="78/4413">Ju Fan</na></co>
+<co c="0"><na f="f/Fan:Meihao" pid="363/7401">Meihao Fan</na></co>
+<co c="0"><na f="f/Fan:Ruixue" pid="48/1585">Ruixue Fan</na></co>
+<co c="0"><na f="f/Fan:Wenfei" pid="94/2372">Wenfei Fan</na></co>
+<co c="0"><na f="f/Feng:Jianhua" pid="43/6576">Jianhua Feng</na></co>
+<co c="0"><na f="f/Feng:Xiaoyao" pid="344/4920">Xiaoyao Feng</na></co>
+<co c="0"><na f="f/Fernandez:Raul_Castro" pid="131/4202">Raul Castro Fernandez</na></co>
+<co c="0"><na f="f/Feser:John_K=" pid="163/3156">John K. Feser</na></co>
+<co c="0"><na f="f/Fung:Glenn" pid="02/271">Glenn Fung</na></co>
+<co c="0"><na f="g/Gao:Song" pid="92/357">Song Gao</na></co>
+<co c="0"><na f="g/Geerts:Floris" pid="g/FlorisGeerts">Floris Geerts</na></co>
+<co c="0"><na f="g/Govind:Yash" pid="199/8957">Yash Govind</na></co>
+<co c="0"><na f="g/Gu:Zihui" pid="314/9217">Zihui Gu</na></co>
+<co c="0"><na f="h/Halevy:Alon_Y=" pid="h/AlonYHalevy">Alon Y. Halevy</na></co>
+<co c="0" n="2"><na f="h/Hammady:Hossam_M=" pid="163/3922">Hossam M. Hammady</na><na>Hossam Hammady</na></co>
+<co c="0"><na f="h/Han:Xiaoyue" pid="120/9517">Xiaoyue Han</na></co>
+<co c="0"><na f="h/Hao:Shuang" pid="07/6713">Shuang Hao</na></co>
+<co c="0"><na f="h/He:Jian" pid="24/6837">Jian He</na></co>
+<co c="0"><na f="h/Hu:Junan" pid="39/5268">Junan Hu</na></co>
+<co c="0"><na f="i/Idris:Yasser" pid="181/5745">Yasser Idris</na></co>
+<co c="0"><na f="i/Ilyas:Ihab_F=" pid="i/IhabFIlyas">Ihab F. Ilyas</na></co>
+<co c="0"><na f="i/Interlandi:Matteo" pid="49/10034">Matteo Interlandi</na></co>
+<co c="0"><na f="j/Jia:Bowen" pid="208/8096">Bowen Jia</na></co>
+<co c="0"><na f="j/Jia:Fulin" pid="87/4557">Fulin Jia</na></co>
+<co c="0"><na f="j/Jia:Xiaofeng" pid="79/11513">Xiaofeng Jia</na></co>
+<co c="0"><na f="j/Jiang:Haifeng" pid="61/3217">Haifeng Jiang</na></co>
+<co c="0"><na f="j/Jin:Weiting" pid="344/4449">Weiting Jin</na></co>
+<co c="0"><na f="j/Jindal:Alekh" pid="24/8510">Alekh Jindal</na></co>
+<co c="0"><na f="j/Joty:Shafiq_R=" pid="62/2078">Shafiq R. Joty</na></co>
+<co c="0"><na f="k/Kalnis:Panos" pid="97/3036">Panos Kalnis</na></co>
+<co c="0"><na f="k/Kaoudi:Zoi" pid="65/1457">Zoi Kaoudi</na></co>
+<co c="0"><na f="k/Khayyat:Zuhair" pid="128/5698">Zuhair Khayyat</na></co>
+<co c="0"><na f="k/Kou:Yue" pid="31/1140">Yue Kou</na></co>
+<co c="0"><na f="k/Kraska:Tim" pid="26/6037">Tim Kraska</na></co>
+<co c="0"><na f="k/Kruse_0001:Sebastian" pid="128/0936-1">Sebastian Kruse 0001</na></co>
+<co c="0"><na f="l/Li:Fangyi" pid="37/8497">Fangyi Li</na></co>
+<co c="0"><na f="l/Li:Gouliang" pid="212/2270">Gouliang Li</na></co>
+<co c="0"><na f="l/Li_0001:Guoliang" pid="l/GuoliangLi">Guoliang Li 0001</na></co>
+<co c="0"><na f="l/Li:Han" pid="07/1429">Han Li</na></co>
+<co c="0"><na f="l/Li_0015:Jian" pid="33/5448-15">Jian Li 0015</na></co>
+<co c="0"><na f="l/Li_0001:Jianxin" pid="l/JianxinLi">Jianxin Li 0001</na></co>
+<co c="0"><na f="l/Li:Jianzhong" pid="18/6870">Jianzhong Li</na></co>
+<co c="0"><na f="l/Li_0001:Jianzhong" pid="18/6870-1">Jianzhong Li 0001</na></co>
+<co c="0"><na f="l/Li:Kaiyu" pid="131/2839">Kaiyu Li</na></co>
+<co c="0"><na f="l/Li_0013:Wenbo" pid="51/3185-13">Wenbo Li 0013</na></co>
+<co c="0"><na f="l/Lin:Wenqing" pid="121/4164">Wenqing Lin</na></co>
+<co c="0"><na f="l/Liu:Chunwei" pid="147/1343">Chunwei Liu</na></co>
+<co c="0"><na f="l/Liu:Hanbing" pid="96/6353">Hanbing Liu</na></co>
+<co c="0"><na f="l/Liu:Jiabin" pid="32/2360">Jiabin Liu</na></co>
+<co c="0"><na f="l/Liu:Tieying" pid="91/9581">Tieying Liu</na></co>
+<co c="0"><na f="l/Liu:Tongyu" pid="227/9554">Tongyu Liu</na></co>
+<co c="0"><na f="l/Lou:Yin" pid="41/7551">Yin Lou</na></co>
+<co c="0"><na f="l/L=uuml=_0001:Kevin" pid="70/1130">Kevin L&#252; 0001</na></co>
+<co c="0"><na f="l/Lucas:Ji" pid="144/2807">Ji Lucas</na></co>
+<co c="0"><na f="l/Lucia:William" pid="139/0886">William Lucia</na></co>
+<co c="0"><na f="l/Luo:Yinqing" pid="287/9266">Yinqing Luo</na></co>
+<co c="0"><na f="l/Luo:Yuyu" pid="185/9921">Yuyu Luo</na></co>
+<co c="0"><na f="m/Ma_0001:Shuai" pid="35/6569">Shuai Ma 0001</na></co>
+<co c="0" n="2"><na f="m/Madden_0001:Samuel" pid="m/SamuelMadden">Samuel Madden 0001</na><na>Sam Madden</na></co>
+<co c="0"><na f="m/Mahdavi:Mohammad" pid="125/6921">Mohammad Mahdavi</na></co>
+<co c="0"><na f="m/Mansour_0001:Essam" pid="m/EssamMansour">Essam Mansour 0001</na></co>
+<co c="0"><na f="m/Mattson:Timothy_G=" pid="56/794">Timothy G. Mattson</na></co>
+<co c="0"><na f="m/Mecca:Giansalvatore" pid="m/GMecca">Giansalvatore Mecca</na></co>
+<co c="0"><na f="m/Meduri:Venkata_Vamsikrishna" pid="117/2614">Venkata Vamsikrishna Meduri</na></co>
+<co c="0"><na f="m/Miao:Dongjing" pid="147/8405">Dongjing Miao</na></co>
+<co c="0"><na f="m/Mitra:Prasenjit" pid="19/3308">Prasenjit Mitra</na></co>
+<co c="0"><na f="m/Morcos:John" pid="160/4533">John Morcos</na></co>
+<co c="0"><na f="m/Musleh:Mashaal" pid="147/1231">Mashaal Musleh</na></co>
+<co c="0"><na f="n/Naeem:Zan_Ahmad" pid="344/1481">Zan Ahmad Naeem</na></co>
+<co c="0"><na f="n/Nakov:Preslav" pid="19/1947">Preslav Nakov</na></co>
+<co c="0"><na f="n/Naumann:Felix" pid="n/FelixNaumann">Felix Naumann</na></co>
+<co c="0"><na f="n/Nie:Tiezheng" pid="60/3469">Tiezheng Nie</na></co>
+<co c="0"><na f="o/Ouzzani:Mourad" pid="o/MouradOuzzani">Mourad Ouzzani</na></co>
+<co c="0"><na f="=/=Ouml=zsu:M=_Tamer" pid="o/MTamerOzsu">M. Tamer &#214;zsu</na></co>
+<co c="0"><na f="p/Papotti:Paolo" pid="p/PaoloPapotti">Paolo Papotti</na></co>
+<co c="0" n="2"><na f="p/Parambath:Shameem_Puthiya" pid="155/1903">Shameem Puthiya Parambath</na><na>Shameem Ahamed Puthiya Parambath</na></co>
+<co c="0"><na f="p/Paulsen:Derek" pid="243/2380">Derek Paulsen</na></co>
+<co c="0"><na f="p/Peng:Jinfeng" pid="226/6795">Jinfeng Peng</na></co>
+<co c="0"><na f="q/Qahtan:Abdulhakim_Ali" pid="121/4198">Abdulhakim Ali Qahtan</na></co>
+<co c="0"><na f="q/Qin:Xuedi" pid="216/4931">Xuedi Qin</na></co>
+<co c="0"><na f="q/Quian=eacute==Ruiz:Jorge=Arnulfo" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</na></co>
+<co c="0"><na f="r/Rezig:El_Kindi" pid="96/8919">El Kindi Rezig</na></co>
+<co c="0"><na f="s/Santoro:Donatello" pid="32/5873">Donatello Santoro</na></co>
+<co c="0"><na f="s/Schoemans:Maxime" pid="257/5610">Maxime Schoemans</na></co>
+<co c="0"><na f="s/Shang:Zeyuan" pid="189/2405">Zeyuan Shang</na></co>
+<co c="0"><na f="s/Shen:Derong" pid="42/3190">Derong Shen</na></co>
+<co c="0"><na f="s/Shen:Leixian" pid="221/5665">Leixian Shen</na></co>
+<co c="0"><na f="s/Sidirourgos:Lefteris" pid="01/4876">Lefteris Sidirourgos</na></co>
+<co c="0"><na f="s/Simonini:Giovanni" pid="151/8293">Giovanni Simonini</na></co>
+<co c="0"><na f="s/Singh:Meghna" pid="49/379">Meghna Singh</na></co>
+<co c="0"><na f="s/Singh_0002:Rohit" pid="21/3400-2">Rohit Singh 0002</na></co>
+<co c="0"><na f="s/Solar=Lezama:Armando" pid="95/6919">Armando Solar-Lezama</na></co>
+<co c="0"><na f="s/Stonebraker:Michael" pid="s/MichaelStonebraker">Michael Stonebraker</na></co>
+<co c="0"><na f="s/Sun:Bing" pid="30/5583">Bing Sun</na></co>
+<co c="0"><na f="s/Sun:Ji" pid="01/3254">Ji Sun</na></co>
+<co c="0"><na f="s/Sun:Xiangyu" pid="07/10301">Xiangyu Sun</na></co>
+<co c="0"><na f="s/Sun:Zhaoyan" pid="310/1045">Zhaoyan Sun</na></co>
+<co c="0"><na f="t/Ta_0001:Na" pid="30/6340-1">Na Ta 0001</na></co>
+<co c="0"><na f="t/Tang:Hao" pid="07/5751">Hao Tang</na></co>
+<co c="0"><na f="t/Tang:Jiawei" pid="213/9869">Jiawei Tang</na></co>
+<co c="0"><na f="t/Tao:Wenbo" pid="147/1253">Wenbo Tao</na></co>
+<co c="0"><na f="t/Tatbul:Nesime" pid="t/NesimeTatbul">Nesime Tatbul</na></co>
+<co c="0"><na f="t/Thirumuruganathan:Saravanan" pid="57/10514">Saravanan Thirumuruganathan</na></co>
+<co c="0"><na f="t/Troudi:Anis" pid="224/6752">Anis Troudi</na></co>
+<co c="0"><na f="t/Tu:Jianhong" pid="227/8305">Jianhong Tu</na></co>
+<co c="0"><na f="v/Veltri:Enzo" pid="157/0004">Enzo Veltri</na></co>
+<co c="0"><na f="w/Wang:Guoren" pid="64/146">Guoren Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Jiannan" pid="39/7183-1">Jiannan Wang 0001</na></co>
+<co c="0"><na f="w/Wang_0002:Jiayi" pid="28/4853-2">Jiayi Wang 0002</na></co>
+<co c="0"><na f="w/Wang_0024:Ning" pid="46/2005-24">Ning Wang 0024</na></co>
+<co c="0"><na f="w/Wang:Peng" pid="95/4442">Peng Wang</na></co>
+<co c="0"><na f="w/Wang:Runhui" pid="247/9289">Runhui Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Sibo" pid="131/6529-1">Sibo Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Xinran" pid="42/10">Xinran Wang</na></co>
+<co c="0"><na f="w/Wang:Yong" pid="84/2694">Yong Wang</na></co>
+<co c="0"><na f="w/Wei:Zhewei" pid="94/4260">Zhewei Wei</na></co>
+<co c="0"><na f="w/Wong:Kam=Fai" pid="w/KamFaiWong">Kam-Fai Wong</na></co>
+<co c="0"><na f="w/Wu_0002:Eugene" pid="41/3679">Eugene Wu 0002</na></co>
+<co c="0"><na f="w/Wu_0007:Gang" pid="99/6515-7">Gang Wu 0007</na></co>
+<co c="0"><na f="w/Wu:Yinghui" pid="32/6122">Yinghui Wu</na></co>
+<co c="0"><na f="w/Wu:Yunpeng" pid="80/2135">Yunpeng Wu</na></co>
+<co c="0"><na f="x/Xiao:Xiaokui" pid="33/1903">Xiaokui Xiao</na></co>
+<co c="0"><na f="x/Xu:Yi" pid="14/5580">Yi Xu</na></co>
+<co c="0"><na f="y/Yan:Xuemi" pid="348/4676">Xuemi Yan</na></co>
+<co c="0"><na f="y/Yang:Chenyu" pid="177/3158">Chenyu Yang</na></co>
+<co c="0"><na f="y/Yang:Renchi" pid="204/3387">Renchi Yang</na></co>
+<co c="0"><na f="y/Yang_0001:Yin" pid="56/2998-1">Yin Yang 0001</na></co>
+<co c="0"><na f="y/Ye:Yin" pid="66/7724">Yin Ye</na></co>
+<co c="0"><na f="y/Yin:Si" pid="32/2085">Si Yin</na></co>
+<co c="0"><na f="y/Yu_0001:Ge" pid="49/6363">Ge Yu 0001</na></co>
+<co c="0"><na f="y/Yu:Jeffrey_Xu" pid="y/JXuYu">Jeffrey Xu Yu</na></co>
+<co c="0"><na f="y/Yu:Wenyuan" pid="53/5676">Wenyuan Yu</na></co>
+<co c="0"><na f="y/Yu:Xiang" pid="19/2453">Xiang Yu</na></co>
+<co c="0"><na f="y/Yu:Yaxin" pid="38/3569">Yaxin Yu</na></co>
+<co c="0"><na f="y/Yuan_0001:Ye" pid="33/6315-1">Ye Yuan 0001</na></co>
+<co c="0"><na f="z/Zaki:Mohammed_J=" pid="z/MohammedJaveedZaki">Mohammed J. Zaki</na></co>
+<co c="0"><na f="z/Zhang:Jintao" pid="03/6834">Jintao Zhang</na></co>
+<co c="0"><na f="z/Zhang:Lixi" pid="92/930">Lixi Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Meihui" pid="08/7259">Meihui Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Songyue" pid="349/4656">Songyue Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xinning" pid="313/5688">Xinning Zhang</na></co>
+<co c="0"><na f="z/Zhang_0027:Ying" pid="13/6769-27">Ying Zhang 0027</na></co>
+<co c="0" n="2"><na f="z/Zhang:Yu=xin" pid="03/7346">Yu-xin Zhang</na><na>Yuxin Zhang</na></co>
+<co c="0"><na f="z/Zhao:Tianyu" pid="139/3492">Tianyu Zhao</na></co>
+<co c="0"><na f="z/Zhao:Xiaoman" pid="212/9124">Xiaoman Zhao</na></co>
+<co c="0"><na f="z/Zhou:Bo" pid="65/3628">Bo Zhou</na></co>
+<co c="0"><na f="z/Zhou:Yihui" pid="35/7582">Yihui Zhou</na></co>
+<co c="0"><na f="z/Zhu:Fu" pid="210/8384">Fu Zhu</na></co>
+<co c="0"><na f="z/Zhu:Yaoyu" pid="325/0611">Yaoyu Zhu</na></co>
+</coauthors>
+</dblpperson>

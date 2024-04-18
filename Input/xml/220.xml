@@ -1,0 +1,329 @@
+<dblpperson name="Erietta Liarou" pid="88/6520" n="21">
+<person key="homepages/88/6520" mdate="2009-06-10">
+<author pid="88/6520">Erietta Liarou</author>
+</person>
+<r><book key="series/synthesis/2017Ailamaki" mdate="2023-10-19">
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="88/6520">Erietta Liarou</author>
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="69/9726">Danica Porobic</author>
+<author pid="133/9910">Iraklis Psaroudakis</author>
+<title>Databases on Modern Hardware: How to Stop Underutilization and Love Multicores</title>
+<publisher>Morgan &amp; Claypool Publishers</publisher>
+<year>2017</year>
+<series href="db/series/synthesis-dtm/index.html">Synthesis Lectures on Data Management</series>
+<isbn>978-3-031-00730-9</isbn>
+<isbn>978-3-031-01858-9</isbn>
+<ee>https://doi.org/10.2200/S00774ED1V01Y201704DTM045</ee>
+<ee>https://doi.org/10.1007/978-3-031-01858-9</ee>
+</book>
+</r>
+<r><article key="journals/tbd/TianALAMV17" mdate="2017-09-13">
+<author pid="159/9864">Yongchao Tian</author>
+<author pid="00/7933">Ioannis Alagiannis</author>
+<author pid="88/6520">Erietta Liarou</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="54/3028">Pietro Michiardi</author>
+<author pid="57/6250">Marko Vukolic</author>
+<title>DiNoDB: An Interactive-Speed Query Engine for Ad-Hoc Queries on Temporary Data.</title>
+<pages>320-333</pages>
+<year>2017</year>
+<volume>3</volume>
+<journal>IEEE Trans. Big Data</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TBDATA.2016.2637356</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TBDATA.2016.2637356</ee>
+<url>db/journals/tbd/tbd3.html#TianALAMV17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/TianALAMV16" mdate="2018-08-13">
+<author pid="159/9864">Yongchao Tian</author>
+<author pid="00/7933">Ioannis Alagiannis</author>
+<author pid="88/6520">Erietta Liarou</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="54/3028">Pietro Michiardi</author>
+<author pid="57/6250">Marko Vukolic</author>
+<title>DiNoDB: an Interactive-speed Query Engine for Ad-hoc Queries on Temporary Data.</title>
+<year>2016</year>
+<volume>abs/1609.05096</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1609.05096</ee>
+<url>db/journals/corr/corr1609.html#TianALAMV16</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/AilamakiLTPP15" mdate="2023-06-26">
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="88/6520">Erietta Liarou</author>
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author orcid="0009-0003-4943-1530" pid="69/9726">Danica Porobic</author>
+<author pid="133/9910">Iraklis Psaroudakis</author>
+<title>How to stop under-utilization and love multicores.</title>
+<pages>1530-1533</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113419</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113419</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#AilamakiLTPP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/PsaroudakisKPILTAL14" mdate="2023-09-30">
+<author pid="133/9910">Iraklis Psaroudakis</author>
+<author pid="97/11514">Thomas Kissinger</author>
+<author orcid="0009-0003-4943-1530" pid="69/9726">Danica Porobic</author>
+<author pid="63/9894">Thomas Ilsche</author>
+<author pid="88/6520">Erietta Liarou</author>
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<title>Dynamic fine-grained scheduling for energy-efficient main-memory queries.</title>
+<pages>1:1-1:7</pages>
+<year>2014</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2619228.2619229</ee>
+<crossref>conf/damon/2014</crossref>
+<url>db/conf/damon/damon2014.html#PsaroudakisKPILTAL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/PorobicLTA14" mdate="2023-06-26">
+<author orcid="0009-0003-4943-1530" pid="69/9726">Danica Porobic</author>
+<author pid="88/6520">Erietta Liarou</author>
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>ATraPos: Adaptive transaction processing on hardware Islands.</title>
+<pages>688-699</pages>
+<year>2014</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2014.6816692</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2014.6816692</ee>
+<crossref>conf/icde/2014</crossref>
+<url>db/conf/icde/icde2014.html#PorobicLTA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LiarouI14" mdate="2023-03-23">
+<author pid="88/6520">Erietta Liarou</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>dbTouch in action database kernels for touch-based data exploration.</title>
+<pages>1262-1265</pages>
+<year>2014</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2014.6816756</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2014.6816756</ee>
+<crossref>conf/icde/2014</crossref>
+<url>db/conf/icde/icde2014.html#LiarouI14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AilamakiLTPP14" mdate="2023-06-26">
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="88/6520">Erietta Liarou</author>
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author orcid="0009-0003-4943-1530" pid="69/9726">Danica Porobic</author>
+<author pid="133/9910">Iraklis Psaroudakis</author>
+<title>How to stop under-utilization and love multicores.</title>
+<pages>189-192</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2588892</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#AilamakiLTPP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/TianALAMV14" mdate="2018-11-06">
+<author pid="159/9864">Yongchao Tian</author>
+<author pid="00/7933">Ioannis Alagiannis</author>
+<author pid="88/6520">Erietta Liarou</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="54/3028">Pietro Michiardi</author>
+<author pid="57/6250">Marko Vukolic</author>
+<title>DiNoDB: Efficient Large-Scale Raw Data Analytics.</title>
+<pages>1</pages>
+<year>2014</year>
+<booktitle>Data4U@VLDB</booktitle>
+<ee>https://doi.org/10.1145/2658840.2658841</ee>
+<crossref>conf/vldb/2014data4u</crossref>
+<url>db/conf/vldb/data4u2014.html#TianALAMV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/IdreosL13" mdate="2020-03-12">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="88/6520">Erietta Liarou</author>
+<title>dbTouch: Analytics at your Fingertips.</title>
+<year>2013</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2013/Papers/CIDR13_Paper13.pdf</ee>
+<crossref>conf/cidr/2013</crossref>
+<url>db/conf/cidr/cidr2013.html#IdreosL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/LiarouIMK13" mdate="2018-11-06">
+<author pid="88/6520">Erietta Liarou</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>Enhanced stream processing in a DBMS kernel.</title>
+<pages>501-512</pages>
+<year>2013</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/2452376.2452435</ee>
+<crossref>conf/edbt/2013</crossref>
+<url>db/conf/edbt/edbt2013.html#LiarouIMK13</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/LiarouIMK12" mdate="2020-04-25">
+<author pid="88/6520">Erietta Liarou</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>MonetDB/DataCell: Online Analytics in a Streaming Column-Store.</title>
+<pages>1910-1913</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p1910_eriettaliarou_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2367502.2367535</ee>
+<ee>https://www.wikidata.org/entity/Q56812621</ee>
+<url>db/journals/pvldb/pvldb5.html#LiarouIMK12</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KerstenIML11" mdate="2020-04-25">
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="88/6520">Erietta Liarou</author>
+<title>The Researcher's Guide to the Data Deluge: Querying a Scientific Database in Just a Few Seconds.</title>
+<pages>1474-1477</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p1474-kersten.pdf</ee>
+<url>db/journals/pvldb/pvldb4.html#KerstenIML11</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/LiarouGI09" mdate="2018-11-06">
+<author pid="88/6520">Erietta Liarou</author>
+<author pid="32/935">Romulo Goncalves</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Exploiting the power of relational databases for efficient stream processing.</title>
+<pages>323-334</pages>
+<year>2009</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1516360.1516398</ee>
+<crossref>conf/edbt/2009</crossref>
+<url>db/conf/edbt/edbt2009.html#LiarouGI09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/LiarouK09" mdate="2011-03-13">
+<author pid="88/6520">Erietta Liarou</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>DataCell: Building a Data Stream Engine on top of a Relational Database Kernel.</title>
+<year>2009</year>
+<booktitle>VLDB PhD Workshop</booktitle>
+<ee>http://www.vldb.org/pvldb/2/vldb09-1070.pdf</ee>
+<crossref>conf/vldb/2009phd</crossref>
+<url>db/conf/vldb/vldb2009phd.html#LiarouK09</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/ercim/LiarouK09" mdate="2019-05-22">
+<author pid="88/6520">Erietta Liarou</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>DataCell: Exploiting the Power of Relational Databases for Efficient Stream Processing.</title>
+<year>2009</year>
+<volume>2009</volume>
+<journal>ERCIM News</journal>
+<number>76</number>
+<ee type="oa">http://ercim-news.ercim.eu/en76/rd/datacell-exploiting-the-power-of-relational-databases-for-efficient-stream-processing</ee>
+<url>db/journals/ercim/ercim2009.html#LiarouK09</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/IdreosLK08" mdate="2018-11-06">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="88/6520">Erietta Liarou</author>
+<author pid="40/4517">Manolis Koubarakis</author>
+<title>Continuous multi-way joins over distributed hash tables.</title>
+<pages>594-605</pages>
+<year>2008</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1353343.1353415</ee>
+<crossref>conf/edbt/2008</crossref>
+<url>db/conf/edbt/edbt2008.html#IdreosLK08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/LiarouIK07" mdate="2018-06-26">
+<author pid="88/6520">Erietta Liarou</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="40/4517">Manolis Koubarakis</author>
+<title>Continuous RDF Query Processing over DHTs.</title>
+<pages>324-339</pages>
+<year>2007</year>
+<crossref>conf/semweb/2007</crossref>
+<booktitle>ISWC/ASWC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-76298-0_24</ee>
+<url>db/conf/semweb/iswc2007.html#LiarouIK07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/LiarouIK06" mdate="2021-09-07">
+<author pid="88/6520">Erietta Liarou</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="40/4517">Manolis Koubarakis</author>
+<title>Evaluating Conjunctive Triple Pattern Queries over Large Structured Overlay Networks.</title>
+<pages>399-413</pages>
+<year>2006</year>
+<crossref>conf/semweb/2006</crossref>
+<booktitle>ISWC</booktitle>
+<ee type="oa">https://doi.org/10.1007/11926078_29</ee>
+<url>db/conf/semweb/iswc2006.html#LiarouIK06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coregrid/KaoudiMMLIK05" mdate="2017-05-25">
+<author pid="65/1457">Zoi Kaoudi</author>
+<author pid="74/5534">Iris Miliaraki</author>
+<author pid="46/949">Matoula Magiridou</author>
+<author pid="88/6520">Erietta Liarou</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="40/4517">Manolis Koubarakis</author>
+<title>Semantic Grid Resource Discovery in Atlas.</title>
+<pages>185-199</pages>
+<year>2005</year>
+<booktitle>Knowledge and Data Management in GRIDs</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-37831-2_12</ee>
+<crossref>conf/coregrid/2005kdmg</crossref>
+<url>db/conf/coregrid/coregrid-kdmg2005.html#KaoudiMMLIK05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbisp2p/LiarouIK05" mdate="2017-05-23">
+<author pid="88/6520">Erietta Liarou</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="40/4517">Manolis Koubarakis</author>
+<title>Publish/Subscribe with RDF Data over Large Structured Overlay Networks.</title>
+<pages>135-146</pages>
+<year>2005</year>
+<crossref>conf/dbisp2p/2006</crossref>
+<booktitle>DBISP2P</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-71661-7_12</ee>
+<url>db/conf/dbisp2p/dbisp2p2006.html#LiarouIK05</url>
+</inproceedings>
+</r>
+<coauthors n="19" nc="1">
+<co c="0"><na f="a/Ailamaki:Anastasia" pid="a/AnastassiaAilamaki">Anastasia Ailamaki</na></co>
+<co c="0"><na f="a/Alagiannis:Ioannis" pid="00/7933">Ioannis Alagiannis</na></co>
+<co c="0"><na f="g/Goncalves:Romulo" pid="32/935">Romulo Goncalves</na></co>
+<co c="0"><na f="i/Idreos:Stratos" pid="i/StratosIdreos">Stratos Idreos</na></co>
+<co c="0"><na f="i/Ilsche:Thomas" pid="63/9894">Thomas Ilsche</na></co>
+<co c="0"><na f="k/Kaoudi:Zoi" pid="65/1457">Zoi Kaoudi</na></co>
+<co c="0"><na f="k/Kersten:Martin_L=" pid="k/MartinLKersten">Martin L. Kersten</na></co>
+<co c="0"><na f="k/Kissinger:Thomas" pid="97/11514">Thomas Kissinger</na></co>
+<co c="0"><na f="k/Koubarakis:Manolis" pid="40/4517">Manolis Koubarakis</na></co>
+<co c="0"><na f="l/Lehner:Wolfgang" pid="l/WLehner">Wolfgang Lehner</na></co>
+<co c="0"><na f="m/Magiridou:Matoula" pid="46/949">Matoula Magiridou</na></co>
+<co c="0"><na f="m/Manegold:Stefan" pid="m/StefanManegold">Stefan Manegold</na></co>
+<co c="0"><na f="m/Michiardi:Pietro" pid="54/3028">Pietro Michiardi</na></co>
+<co c="0"><na f="m/Miliaraki:Iris" pid="74/5534">Iris Miliaraki</na></co>
+<co c="0"><na f="p/Porobic:Danica" pid="69/9726">Danica Porobic</na></co>
+<co c="0"><na f="p/Psaroudakis:Iraklis" pid="133/9910">Iraklis Psaroudakis</na></co>
+<co c="0"><na f="t/Tian:Yongchao" pid="159/9864">Yongchao Tian</na></co>
+<co c="0"><na f="t/T=ouml=z=uuml=n:Pinar" pid="86/9726">Pinar T&#246;z&#252;n</na></co>
+<co c="0"><na f="v/Vukolic:Marko" pid="57/6250">Marko Vukolic</na></co>
+</coauthors>
+</dblpperson>

@@ -1,0 +1,878 @@
+<dblpperson name="Rachel Pottinger" pid="68/1297" n="54">
+<person key="homepages/68/1297" mdate="2021-04-28">
+<author pid="68/1297">Rachel Pottinger</author>
+<note type="affiliation">University of British Columbia, Vancouver, Canada</note>
+<url>http://www.cs.ubc.ca/~rap/</url>
+<url>https://dl.acm.org/profile/81100378525</url>
+</person>
+<r><article key="journals/tkde/AlOmeirLMP23" mdate="2023-10-14">
+<author orcid="0000-0002-5109-433X" pid="222/4807">Omar AlOmeir</author>
+<author orcid="0009-0005-1349-1376" pid="266/6141">Eugenie Yujing Lai</author>
+<author orcid="0000-0002-3386-7079" pid="139/0871">Mostafa Milani</author>
+<author orcid="0009-0000-5404-7582" pid="68/1297">Rachel Pottinger</author>
+<title>Summarizing Provenance of Aggregate Query Results in Relational Databases.</title>
+<pages>10695-10709</pages>
+<year>2023</year>
+<month>October</month>
+<volume>35</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TKDE.2023.3265840</ee>
+<url>db/journals/tkde/tkde35.html#AlOmeirLMP23</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/LaiZMACP23" mdate="2023-04-14">
+<author pid="266/6141">Eugenie Yujing Lai</author>
+<author pid="20/11207">Zainab Zolaktaf</author>
+<author pid="139/0871">Mostafa Milani</author>
+<author pid="222/4807">Omar AlOmeir</author>
+<author pid="325/4754">Jianhao Cao</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<title>Workload-Aware Query Recommendation Using Deep Learning.</title>
+<pages>53-65</pages>
+<year>2023</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.48786/edbt.2023.05</ee>
+<crossref>conf/edbt/2023</crossref>
+<url>db/conf/edbt/edbt2023.html#LaiZMACP23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hilda/CaoMP23" mdate="2023-08-05">
+<author orcid="0009-0000-0921-058X" pid="325/4754">Jianhao Cao</author>
+<author orcid="0000-0002-3294-3869" pid="m/TMunzner">Tamara Munzner</author>
+<author orcid="0009-0000-5404-7582" pid="68/1297">Rachel Pottinger</author>
+<title>Visualizing a Tabular Data Repository to Facilitate Descriptive Tag Augmentation for New Tables.</title>
+<pages>10:1-10:3</pages>
+<year>2023</year>
+<booktitle>HILDA@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3597465.3605226</ee>
+<crossref>conf/hilda/2023</crossref>
+<url>db/conf/hilda/hilda2023.html#CaoMP23</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/IvesGGKP21" mdate="2022-12-18">
+<author pid="i/ZacharyGIves">Zack Ives</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="32/7263">Jana Giceva</author>
+<author pid="30/4308-1">Arun Kumar 0001</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<title>VLDB Panel Summary: "The Future of Data(base) Education: Is the Cow Book Dead?".</title>
+<pages>23-26</pages>
+<year>2021</year>
+<volume>50</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3503780.3503786</ee>
+<url>db/journals/sigmod/sigmod50.html#IvesGGKP21</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/AlOmeirLMP21" mdate="2021-06-25">
+<author pid="222/4807">Omar AlOmeir</author>
+<author pid="266/6141">Eugenie Yujing Lai</author>
+<author pid="139/0871">Mostafa Milani</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<title>Summarizing Provenance of Aggregate Query Results in Relational Databases.</title>
+<pages>1955-1960</pages>
+<year>2021</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE51399.2021.00183</ee>
+<crossref>conf/icde/2021</crossref>
+<url>db/conf/icde/icde2021.html#AlOmeirLMP21</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/MaierPDDHLLMRST20" mdate="2024-02-05">
+<author pid="m/DavidMaier">David Maier 0001</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="66/6919">Eduard C. Dragut</author>
+<author pid="h/BillHowe">Bill Howe</author>
+<author pid="282/2848">Joanne Lateulere</author>
+<author pid="282/3004">John Lateulere</author>
+<author pid="139/0871">Mostafa Milani</author>
+<author pid="10/760">Tilmann Rabl</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<author pid="t/YufeiTao">Yufei Tao 0001</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<author pid="t/KristinTufte">Kristin Tufte</author>
+<title>Advice from SIGMOD/PODS 2020.</title>
+<pages>43-54</pages>
+<year>2020</year>
+<volume>49</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3444831.3444841</ee>
+<url>db/journals/sigmod/sigmod49.html#MaierPDDHLLMRST20</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/AlOmeirLMP20" mdate="2020-06-05">
+<author pid="222/4807">Omar AlOmeir</author>
+<author pid="266/6141">Eugenie Yujing Lai</author>
+<author pid="139/0871">Mostafa Milani</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<title>The Pastwatch: On the usability of provenance data in relational databases.</title>
+<pages>1882-1885</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00194</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#AlOmeirLMP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZolaktafMP20" mdate="2020-06-05">
+<author pid="20/11207">Zainab Zolaktaf</author>
+<author pid="139/0871">Mostafa Milani</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<title>Facilitating SQL Query Composition and Analysis.</title>
+<pages>209-224</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3380602</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#ZolaktafMP20</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigmod/2020" mdate="2022-05-04">
+<editor pid="m/DavidMaier">David Maier 0001</editor>
+<editor pid="68/1297">Rachel Pottinger</editor>
+<editor pid="d/AnHaiDoan">AnHai Doan</editor>
+<editor pid="t/WangChiewTan">Wang-Chiew Tan</editor>
+<editor pid="147/2931">Abdussalam Alawini</editor>
+<editor pid="n/HungQNgo">Hung Q. Ngo 0001</editor>
+<title>Proceedings of the 2020 International Conference on Management of Data, SIGMOD Conference 2020, online conference [Portland, OR, USA], June 14-19, 2020.</title>
+<publisher>ACM</publisher>
+<booktitle>SIGMOD Conference</booktitle>
+<year>2020</year>
+<isbn>978-1-4503-6735-6</isbn>
+<ee>https://dl.acm.org/doi/10.1145/3318464</ee>
+<url>db/conf/sigmod/sigmod2020.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-09091" mdate="2020-03-02">
+<author pid="20/11207">Zainab Zolaktaf</author>
+<author pid="139/0871">Mostafa Milani</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<title>Facilitating SQL Query Composition and Analysis.</title>
+<year>2020</year>
+<volume>abs/2002.09091</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.09091</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-09091</url>
+</article>
+</r>
+<r><article key="journals/itcon/ZadehWDPS19" mdate="2020-09-24">
+<author pid="206/8678">Puyan A. Zadeh</author>
+<author pid="58/8527">Lan Wei</author>
+<author pid="243/1462">Arianne Dee</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<author pid="63/2290">Sheryl Staub-French</author>
+<title>BIM-CITYGML data integration for modern urban challenges.</title>
+<pages>318-340</pages>
+<year>2019</year>
+<volume>24</volume>
+<journal>J. Inf. Technol. Constr.</journal>
+<ee type="oa">https://www.itcon.org/paper/2019/17</ee>
+<url>db/journals/itcon/itcon24.html#ZadehWDPS19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ssdbm/LiuZPM19" mdate="2019-08-05">
+<author pid="77/2326">Jianjun Liu</author>
+<author pid="20/11207">Zainab Zolaktaf</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<author pid="139/0871">Mostafa Milani</author>
+<title>Improvement of SQL Recommendation on Scientific Database.</title>
+<pages>206-209</pages>
+<year>2019</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1145/3335783.3335800</ee>
+<crossref>conf/ssdbm/2019</crossref>
+<url>db/conf/ssdbm/ssdbm2019.html#LiuZPM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZolaktafBP18" mdate="2023-03-23">
+<author pid="20/11207">Zainab Zolaktaf</author>
+<author pid="37/8904">Reza Babanezhad 0001</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<title>A Generic Top-N Recommendation Framework for Trading-Off Accuracy, Novelty, and Coverage.</title>
+<pages>149-160</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00023</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00023</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#ZolaktafBP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/ZolaktafAP18" mdate="2018-11-21">
+<author pid="20/11207">Zainab Zolaktaf</author>
+<author pid="222/4807">Omar AlOmeir</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<title>Bridging the Gap Between User-centric and Offline Evaluation of Personalized Recommendation Systems.</title>
+<pages>183-186</pages>
+<year>2018</year>
+<booktitle>UMAP (Adjunct Publication)</booktitle>
+<ee>https://doi.org/10.1145/3213586.3226216</ee>
+<crossref>conf/um/2018a</crossref>
+<url>db/conf/um/umap2018a.html#ZolaktafAP18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-00146" mdate="2022-12-07">
+<author pid="20/11207">Zainab Zolaktaf</author>
+<author pid="37/8904">Reza Babanezhad 0001</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<title>A Generic Top-N Recommendation Framework For Trading-off Accuracy, Novelty, and Coverage.</title>
+<year>2018</year>
+<volume>abs/1803.00146</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.00146</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-00146</url>
+</article>
+</r>
+<r><article key="journals/aei/ZadehWCSP17" mdate="2020-02-20">
+<author pid="206/8678">Puyan A. Zadeh</author>
+<author pid="87/4461">Guan Wang</author>
+<author orcid="0000-0002-8923-4641" pid="206/8713">Hasan B. Cavka</author>
+<author pid="63/2290">Sheryl Staub-French</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<title>Information Quality Assessment for Facility Management.</title>
+<pages>181-205</pages>
+<year>2017</year>
+<volume>33</volume>
+<journal>Adv. Eng. Informatics</journal>
+<ee>https://doi.org/10.1016/j.aei.2017.06.003</ee>
+<url>db/journals/aei/aei33.html#ZadehWCSP17</url>
+</article>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/gis/Pottinger17" mdate="2017-07-12">
+<author pid="68/1297">Rachel Pottinger</author>
+<title>Database Schema Integration.</title>
+<pages>452-459</pages>
+<year>2017</year>
+<booktitle>Encyclopedia of GIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-17885-1_259</ee>
+<crossref>reference/gis/2017</crossref>
+<url>db/reference/gis/gis2017.html#Pottinger17</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/edbt/ZolaktafXP15" mdate="2021-01-29">
+<author pid="20/11207">Zainab Zolaktaf</author>
+<author pid="73/1149">Jian Xu</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<title>Extracting Aggregate Answer Statistics for Integration.</title>
+<pages>85-96</pages>
+<year>2015</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2015.09</ee>
+<crossref>conf/edbt/2015</crossref>
+<url>db/conf/edbt/edbt2015.html#ZolaktafXP15</url>
+</inproceedings>
+</r>
+<r><article key="journals/is/XuP14" mdate="2017-05-20">
+<author pid="73/1149">Jian Xu</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<title>Integrating domain heterogeneous data sources using decomposition aggregation queries.</title>
+<pages>80-107</pages>
+<year>2014</year>
+<volume>39</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2013.06.003</ee>
+<url>db/journals/is/is39.html#XuP14</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/LiLP14" mdate="2018-11-06">
+<author pid="63/1303">Ting Li</author>
+<author orcid="0000-0003-1339-6289" pid="161/6123">Victoria L. Lemieux</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<title>Challenges in Resolving Semantic Heterogeneity with the Global Legal Entity Identifier System.</title>
+<pages>14:1-14:2</pages>
+<year>2014</year>
+<booktitle>DSMM</booktitle>
+<ee>https://doi.org/10.1145/2630729.2630744</ee>
+<crossref>conf/sigmod/2014dsmm</crossref>
+<url>db/conf/sigmod/dsmm2014.html#LiLP14</url>
+</inproceedings>
+</r>
+<r><book key="series/synthesis/2013Ng" mdate="2023-10-19">
+<author pid="n/RTNg">Raymond T. Ng</author>
+<author pid="61/8235">Patricia C. Arocena</author>
+<author pid="b/DBarbosa">Denilson Barbosa 0001</author>
+<author pid="30/3994">Giuseppe Carenini</author>
+<author pid="68/6898">Luiz Celso Gomes Jr.</author>
+<author pid="71/9163">Stephan Jou</author>
+<author pid="138/2623">Rock Anthony Leung</author>
+<author pid="m/EvangelosEMilios">Evangelos E. Milios</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="m/JohnMylopoulos">John Mylopoulos</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<author orcid="0000-0002-1907-9535" pid="t/FrankWmTompa">Frank Wm. Tompa</author>
+<author pid="33/5374">Eric S. K. Yu</author>
+<title>Perspectives on Business Intelligence</title>
+<year>2013</year>
+<series href="db/series/synthesis-dtm/index.html">Synthesis Lectures on Data Management</series>
+<publisher>Morgan &amp; Claypool Publishers</publisher>
+<pages>1-163</pages>
+<isbn>9781627050937</isbn>
+<isbn>9781627050944</isbn>
+<isbn>978-3-031-00720-0</isbn>
+<isbn>978-3-031-01848-0</isbn>
+<ee>https://doi.org/10.2200/S00491ED1V01Y201303DTM034</ee>
+<ee>https://doi.org/10.1007/978-3-031-01848-0</ee>
+</book>
+</r>
+<r><article key="journals/jccee/NepalSPZ13" mdate="2023-06-26">
+<author orcid="0000-0001-8465-8886" pid="90/8977">Madhav Prasad Nepal</author>
+<author pid="63/2290">Sheryl Staub-French</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<author pid="57/8977">Jiemin Zhang</author>
+<title>Ontology-Based Feature Modeling for Construction Information Extraction from a Building Information Model.</title>
+<pages>555-569</pages>
+<year>2013</year>
+<volume>27</volume>
+<journal>J. Comput. Civ. Eng.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1061/(asce)cp.1943-5487.0000230</ee>
+<url>db/journals/jccee/jccee27.html#NepalSPZ13</url>
+</article>
+</r>
+<r><article key="journals/aei/NepalSPW12" mdate="2020-02-20">
+<author orcid="0000-0001-8465-8886" pid="90/8977">Madhav Prasad Nepal</author>
+<author pid="63/2290">Sheryl Staub-French</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<author pid="91/8977">April Webster</author>
+<title>Querying a building information model for construction-specific spatial information.</title>
+<pages>904-923</pages>
+<year>2012</year>
+<volume>26</volume>
+<journal>Adv. Eng. Informatics</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.aei.2012.08.003</ee>
+<url>db/journals/aei/aei26.html#NepalSPW12</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/LiCLP12" mdate="2018-11-06">
+<author pid="92/9835">Tianyu Li</author>
+<author pid="39/3184">Pirooz Chubak</author>
+<author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<title>Efficient extraction of ontologies from domain specific text corpora.</title>
+<pages>1537-1541</pages>
+<year>2012</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2396761.2398468</ee>
+<crossref>conf/cikm/2012</crossref>
+<url>db/conf/cikm/cikm2012.html#LiCLP12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcis/XuP11" mdate="2017-05-18">
+<author pid="73/1149">Jian Xu</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<title>Optimizing Acquaintance Selection in a PDMS.</title>
+<pages>39-81</pages>
+<year>2011</year>
+<volume>20</volume>
+<journal>Int. J. Cooperative Inf. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1142/S0218843011002183</ee>
+<url>db/journals/ijcis/ijcis20.html#XuP11</url>
+</article>
+</r>
+<r><article key="journals/ijcis/ZhaoPBR11" mdate="2017-05-18">
+<author pid="23/3168">Jie Zhao</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<author pid="42/10314">Cody Brown</author>
+<author pid="14/10315">Shriram Rajagopalan</author>
+<title>Schema Mediation in Peer Data Management Systems.</title>
+<pages>261-305</pages>
+<year>2011</year>
+<volume>20</volume>
+<journal>Int. J. Cooperative Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1142/S0218843011002249</ee>
+<url>db/journals/ijcis/ijcis20.html#ZhaoPBR11</url>
+</article>
+</r>
+<r><article key="journals/is/ZhangWLNPST11" mdate="2022-10-02">
+<author pid="57/8977">Jiemin Zhang</author>
+<author pid="91/8977">April Webster</author>
+<author pid="16/8701">Michael K. Lawrence</author>
+<author orcid="0000-0001-8465-8886" pid="90/8977">Madhav Prasad Nepal</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<author pid="63/2290">Sheryl Staub-French</author>
+<author orcid="0000-0002-6806-9253" pid="t/MelanieTory">Melanie Tory</author>
+<title>Improving the usability of standard schemas.</title>
+<pages>209-221</pages>
+<year>2011</year>
+<volume>36</volume>
+<journal>Inf. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.is.2010.08.005</ee>
+<url>db/journals/is/is36.html#ZhangWLNPST11</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LawrencePS11" mdate="2020-04-25">
+<author pid="16/8701">Michael K. Lawrence</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<author pid="63/2290">Sheryl Staub-French</author>
+<title>Data Coordination: Supporting Contingent Updates.</title>
+<pages>831-842</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p831-lawrence.pdf</ee>
+<url>db/journals/pvldb/pvldb4.html#LawrencePS11</url>
+</article>
+</r>
+<r><inproceedings key="conf/caise/MoosaviLLP11" mdate="2018-12-23">
+<author pid="94/9835">Ali Moosavi</author>
+<author pid="92/9835">Tianyu Li</author>
+<author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<title>ONTECTAS: Bridging the Gap between Collaborative Tagging Systems and Structured Data.</title>
+<pages>436-451</pages>
+<year>2011</year>
+<booktitle>CAiSE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-21640-4_33</ee>
+<crossref>conf/caise/2011</crossref>
+<url>db/conf/caise/caise2011.html#MoosaviLLP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/procedia/SotoodehPK11" mdate="2018-11-14">
+<author pid="86/10096">Mandana Sotoodeh</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<author orcid="0000-0003-1359-4867" pid="k/PhilippeKruchten">Philippe Kruchten</author>
+<title>Towards Supporting Users in Semantic Exploration of Large Distributed Schemas.</title>
+<pages>570-577</pages>
+<year>2011</year>
+<crossref>conf/ant/2011</crossref>
+<booktitle>ANT/MobiWIS</booktitle>
+<ee>https://doi.org/10.1016/j.procs.2011.07.074</ee>
+<ee>https://www.wikidata.org/entity/Q56944138</ee>
+<url>db/journals/procedia/procedia5.html#SotoodehPK11</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/bellahsene2011/Pottinger11" mdate="2017-05-16">
+<author pid="68/1297">Rachel Pottinger</author>
+<title>Mapping-Based Merging of Schemas.</title>
+<pages>223-249</pages>
+<year>2011</year>
+<booktitle>Schema Matching and Mapping</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-16518-4_8</ee>
+<crossref>books/sp/bellahsene11</crossref>
+<url>db/books/collections/Bellahsene2011.html#Pottinger11</url>
+</incollection>
+</r>
+<r><article key="journals/vldb/BonifatiCHLPC10" mdate="2022-12-07">
+<author orcid="0000-0002-9582-869X" pid="b/ABonifati">Angela Bonifati</author>
+<author pid="91/1984">Elaine Qing Chang</author>
+<author pid="04/3112">Terence Ho</author>
+<author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<author pid="84/7996">Yongik Chung</author>
+<title>Schema mapping and query translation in heterogeneous P2P XML databases.</title>
+<pages>231-256</pages>
+<year>2010</year>
+<volume>19</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-009-0159-9</ee>
+<url>db/journals/vldb/vldb19.html#BonifatiCHLPC10</url>
+</article>
+</r>
+<r><inproceedings key="conf/cascon/DolmanTKPM10" mdate="2021-10-14">
+<author pid="88/9161">Leslie Dolman</author>
+<author orcid="0000-0002-1907-9535" pid="t/FrankWmTompa">Frank Wm. Tompa</author>
+<author pid="85/3509">Iluju Kiringa</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<author pid="m/JohnMylopoulos">John Mylopoulos</author>
+<title>Next generation business intelligence (BI) tools.</title>
+<pages>352-354</pages>
+<year>2010</year>
+<booktitle>CASCON</booktitle>
+<ee>https://doi.org/10.1145/1923947.1923987</ee>
+<crossref>conf/cascon/2010</crossref>
+<url>db/conf/cascon/cascon2010.html#DolmanTKPM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/SunPL10" mdate="2018-11-06">
+<author pid="50/8086">Xun Sun</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<author pid="16/8701">Michael K. Lawrence</author>
+<title>Support elements in graph structured schema reintegration.</title>
+<pages>1361-1364</pages>
+<year>2010</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1871437.1871621</ee>
+<crossref>conf/cikm/2010</crossref>
+<url>db/conf/cikm/cikm2010.html#SunPL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LawrencePS10" mdate="2023-03-24">
+<author pid="16/8701">Michael K. Lawrence</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<author pid="63/2290">Sheryl Staub-French</author>
+<title>Coordination of data in heterogenous domains.</title>
+<pages>167-170</pages>
+<year>2010</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2010.5452757</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2010.5452757</ee>
+<crossref>conf/icde/2010w</crossref>
+<url>db/conf/icde/icdew2010.html#LawrencePS10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1009-0255" mdate="2018-08-13">
+<author pid="98/2201">Flavio Rizzolo</author>
+<author pid="85/3509">Iluju Kiringa</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<author pid="30/8576">Kwok Wong</author>
+<title>The Conceptual Integration Modeling Framework: Abstracting from the Multidimensional Model</title>
+<ee type="oa">http://arxiv.org/abs/1009.0255</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1009.0255</volume>
+<url>db/journals/corr/corr1009.html#abs-1009-0255</url>
+</article>
+</r>
+<r><article key="journals/cgf/HuangTSP09" mdate="2022-10-02">
+<author pid="14/3690">Dandan Huang</author>
+<author orcid="0000-0002-6806-9253" pid="t/MelanieTory">Melanie Tory</author>
+<author pid="63/2290">Sheryl Staub-French</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<title>Visualization Techniques for Schedule Comparison.</title>
+<pages>951-958</pages>
+<year>2009</year>
+<volume>28</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>3</number>
+<ee>https://doi.org/10.1111/j.1467-8659.2009.01441.x</ee>
+<url>db/journals/cgf/cgf28.html#HuangTSP09</url>
+</article>
+</r>
+<r><inproceedings key="conf/birthday/PottingerB09" mdate="2017-05-23">
+<author pid="68/1297">Rachel Pottinger</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<title>Associativity and Commutativity in Generic Merge.</title>
+<pages>254-272</pages>
+<year>2009</year>
+<booktitle>Conceptual Modeling: Foundations and Applications</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02463-4_14</ee>
+<crossref>conf/birthday/2009mylopoulos</crossref>
+<url>db/conf/birthday/mylopoulos2009.html#PottingerB09</url>
+</inproceedings>
+</r>
+<r><article key="journals/jbi/DiBernardoPW08" mdate="2021-02-16">
+<author pid="90/2618">Michael DiBernardo</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<author orcid="0000-0001-6960-357X" pid="62/1322">Mark D. Wilkinson</author>
+<title>Semi-automatic web service composition for the life sciences using the BioMoby semantic web framework.</title>
+<pages>837-847</pages>
+<year>2008</year>
+<volume>41</volume>
+<journal>J. Biomed. Informatics</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.1016/j.jbi.2008.02.005</ee>
+<ee>https://www.wikidata.org/entity/Q38391413</ee>
+<url>db/journals/jbi/jbi41.html#DiBernardoPW08</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/PottingerB08" mdate="2018-11-14">
+<author pid="68/1297">Rachel Pottinger</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<title>Schema merging and mapping creation for relational sources.</title>
+<pages>73-84</pages>
+<year>2008</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1353343.1353357</ee>
+<ee>https://www.wikidata.org/entity/Q56228406</ee>
+<crossref>conf/edbt/2008</crossref>
+<url>db/conf/edbt/edbt2008.html#PottingerB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/WangP08" mdate="2018-11-06">
+<author pid="12/2633">Ting Wang</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<title>SeMap: a generic mapping construction system.</title>
+<pages>97-108</pages>
+<year>2008</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1353343.1353359</ee>
+<crossref>conf/edbt/2008</crossref>
+<url>db/conf/edbt/edbt2008.html#WangP08</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/gis/Pottinger08" mdate="2017-07-12">
+<author pid="68/1297">Rachel Pottinger</author>
+<title>Database Schema Integration.</title>
+<pages>226-231</pages>
+<year>2008</year>
+<booktitle>Encyclopedia of GIS</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-35973-1_259</ee>
+<crossref>reference/gis/2008</crossref>
+<url>db/reference/gis/gis2008.html#Pottinger08</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/dexaw/BounifP06" mdate="2023-03-24">
+<author pid="30/2361">Hassina Bounif</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<title>Schema Repository for Database Schema Evolution.</title>
+<pages>647-651</pages>
+<year>2006</year>
+<crossref>conf/dexaw/2006</crossref>
+<booktitle>DEXA Workshops</booktitle>
+<ee>https://doi.org/10.1109/DEXA.2006.125</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DEXA.2006.125</ee>
+<url>db/conf/dexaw/dexaw2006.html#BounifP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/odbis/BounifSP06" mdate="2017-05-24">
+<author pid="30/2361">Hassina Bounif</author>
+<author pid="s/StefanoSpaccapietra">Stefano Spaccapietra</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<title>Requirements Ontology and Multi-representation Strategy for Database Schema Evolution.</title>
+<pages>68-84</pages>
+<year>2006</year>
+<crossref>conf/odbis/2006</crossref>
+<booktitle>ODBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-75474-9_5</ee>
+<url>db/conf/odbis/odbis2006.html#BounifSP06</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/RossCGPYZ05" mdate="2023-03-05">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="01/3589">Rada Chirkova</author>
+<author pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<author pid="y/JunYang1">Jun Yang 0001</author>
+<author pid="84/2644">Jingren Zhou</author>
+<title>Reminiscences on influential papers.</title>
+<pages>74-76</pages>
+<year>2005</year>
+<volume>34</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1058150.1058168</ee>
+<url>db/journals/sigmod/sigmod34.html#RossCGPYZ05</url>
+</article>
+</r>
+<r><inproceedings key="conf/vldb/BonifatiCHLP05" mdate="2020-03-12">
+<author pid="b/ABonifati">Angela Bonifati</author>
+<author pid="91/1984">Elaine Qing Chang</author>
+<author pid="04/3112">Terence Ho</author>
+<author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<title>HePToX: Marrying XML and Heterogeneity in Your P2P Databases.</title>
+<pages>1267-1270</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2005/papers/p1267-bonifati.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083745</ee>
+<url>db/conf/vldb/vldb2005.html#BonifatiCHLP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/medinfo/MorkPB04" mdate="2021-02-03">
+<author pid="75/972">Peter Mork</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<title>Challenges in Precisely Aligning Models of Human Anatomy Using Generic Schema Matching.</title>
+<pages>401-405</pages>
+<year>2004</year>
+<booktitle>MedInfo</booktitle>
+<ee type="oa">https://doi.org/10.3233/978-1-60750-949-3-401</ee>
+<crossref>conf/medinfo/2004</crossref>
+<url>db/conf/medinfo/medinfo2004.html#MorkPB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/PottingerB03" mdate="2020-03-12">
+<ee type="oa">http://www.vldb.org/conf/2003/papers/S26P01.pdf</ee>
+<ee>https://doi.org/10.1016/B978-012722442-8/50081-1</ee>
+<author pid="68/1297">Rachel Pottinger</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<title>Merging Models Based on Given Correspondences.</title>
+<year>2003</year>
+<crossref>conf/vldb/2003</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2003.html#PottingerB03</url>
+<pages>826-873</pages>
+</inproceedings>
+</r>
+<r><article key="journals/debu/PottingerB02" mdate="2020-03-10">
+<author pid="68/1297">Rachel Pottinger</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<title>Creating a Mediated Schema Based on Initial Correspondences.</title>
+<pages>26-31</pages>
+<year>2002</year>
+<ee type="oa">http://sites.computer.org/debull/A02SEP-CD.pdf</ee>
+<volume>25</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<url>db/journals/debu/debu25.html#PottingerB02</url>
+</article>
+</r>
+<r><article key="journals/vldb/PottingerH01" mdate="2017-05-28">
+<author pid="68/1297">Rachel Pottinger</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<title>MiniCon: A scalable algorithm for answering queries using views.</title>
+<pages>182-198</pages>
+<year>2001</year>
+<volume>10</volume>
+<journal>VLDB J.</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1007/s007780100048</ee>
+<url>db/journals/vldb/vldb10.html#PottingerH01</url>
+</article>
+</r>
+<r><article key="journals/sigmod/BernsteinHP00" mdate="2020-03-06">
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<title>A Vision of Management of Complex Models.</title>
+<pages>55-63</pages>
+<year>2000</year>
+<volume>29</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/369275.369289</ee>
+<url>db/journals/sigmod/sigmod29.html#BernsteinHP00</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/IvesLPST00" mdate="2021-03-12">
+<ee>https://doi.org/10.1145/342009.335492</ee>
+<ee>https://doi.org/10.1145/335191.335492</ee>
+<author pid="i/ZacharyGIves">Zachary G. Ives</author>
+<author pid="h/AlonYHalevy">Alon Y. Levy</author>
+<author pid="76/5642">Jayant Madhavan</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<author pid="17/3782">Stefan Saroiu</author>
+<author pid="56/1548">Igor Tatarinov</author>
+<author pid="75/6239">Shiori Betzler</author>
+<author pid="45/3274">Qiong Chen</author>
+<author pid="68/5051">Ewa Jaslikowska</author>
+<author pid="60/3775">Jing Su</author>
+<author pid="05/4101">Wai Tak Theodora Yeung</author>
+<title>Self-Organizing Data Sharing Communities with SAGRES.</title>
+<pages>582</pages>
+<year>2000</year>
+<crossref>conf/sigmod/2000</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2000.html#IvesLPST00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/PottingerL00" mdate="2020-03-12">
+<author pid="68/1297">Rachel Pottinger</author>
+<author pid="h/AlonYHalevy">Alon Y. Levy</author>
+<title>A Scalable Algorithm for Answering Queries Using Views.</title>
+<pages>484-495</pages>
+<ee type="oa">http://www.vldb.org/conf/2000/P484.pdf</ee>
+<year>2000</year>
+<crossref>conf/vldb/2000</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2000.html#PottingerL00</url>
+</inproceedings>
+</r>
+<r><article key="journals/crossroads/Pottinger99" mdate="2021-08-03">
+<author pid="68/1297">Rachel Pottinger</author>
+<title>Choosing a Ph.D. program in computer science.</title>
+<pages>6-13</pages>
+<year>1999</year>
+<volume>6</volume>
+<journal>XRDS</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/331636.331639</ee>
+<url>db/journals/crossroads/crossroads6.html#Pottinger99</url>
+</article>
+</r>
+<coauthors n="91" nc="2">
+<co c="0"><na f="a/Alawini:Abdussalam" pid="147/2931">Abdussalam Alawini</na></co>
+<co c="0"><na f="a/AlOmeir:Omar" pid="222/4807">Omar AlOmeir</na></co>
+<co c="0"><na f="a/Arocena:Patricia_C=" pid="61/8235">Patricia C. Arocena</na></co>
+<co c="0"><na f="b/Babanezhad_0001:Reza" pid="37/8904">Reza Babanezhad 0001</na></co>
+<co c="0"><na f="b/Barbosa_0001:Denilson" pid="b/DBarbosa">Denilson Barbosa 0001</na></co>
+<co c="0"><na f="b/Bernstein:Philip_A=" pid="b/PhilipABernstein">Philip A. Bernstein</na></co>
+<co c="0"><na f="b/Betzler:Shiori" pid="75/6239">Shiori Betzler</na></co>
+<co c="0"><na f="b/Bonifati:Angela" pid="b/ABonifati">Angela Bonifati</na></co>
+<co c="0"><na f="b/Bounif:Hassina" pid="30/2361">Hassina Bounif</na></co>
+<co c="0"><na f="b/Brown:Cody" pid="42/10314">Cody Brown</na></co>
+<co c="0"><na f="c/Cao:Jianhao" pid="325/4754">Jianhao Cao</na></co>
+<co c="0"><na f="c/Carenini:Giuseppe" pid="30/3994">Giuseppe Carenini</na></co>
+<co c="0"><na f="c/Cavka:Hasan_B=" pid="206/8713">Hasan B. Cavka</na></co>
+<co c="0"><na f="c/Chang:Elaine_Qing" pid="91/1984">Elaine Qing Chang</na></co>
+<co c="0"><na f="c/Chen:Qiong" pid="45/3274">Qiong Chen</na></co>
+<co c="0"><na f="c/Chirkova:Rada" pid="01/3589">Rada Chirkova</na></co>
+<co c="0"><na f="c/Chubak:Pirooz" pid="39/3184">Pirooz Chubak</na></co>
+<co c="0"><na f="c/Chung:Yongik" pid="84/7996">Yongik Chung</na></co>
+<co c="0"><na f="d/Dee:Arianne" pid="243/1462">Arianne Dee</na></co>
+<co c="0"><na f="d/DiBernardo:Michael" pid="90/2618">Michael DiBernardo</na></co>
+<co c="0"><na f="d/Doan:AnHai" pid="d/AnHaiDoan">AnHai Doan</na></co>
+<co c="0"><na f="d/Dolman:Leslie" pid="88/9161">Leslie Dolman</na></co>
+<co c="0"><na f="d/Dragut:Eduard_C=" pid="66/6919">Eduard C. Dragut</na></co>
+<co c="0"><na f="g/Gehrke:Johannes" pid="g/JohannesGehrke">Johannes Gehrke</na></co>
+<co c="0"><na f="g/Giceva:Jana" pid="32/7263">Jana Giceva</na></co>
+<co c="0"><na f="g/Gomes_Jr=:Luiz_Celso" pid="68/6898">Luiz Celso Gomes Jr.</na></co>
+<co c="0"><na f="g/Gunopulos:Dimitrios" pid="g/DimitriosGunopulos">Dimitrios Gunopulos</na></co>
+<co c="0" n="2"><na f="h/Halevy:Alon_Y=" pid="h/AlonYHalevy">Alon Y. Halevy</na><na>Alon Y. Levy</na></co>
+<co c="0"><na f="h/Ho:Terence" pid="04/3112">Terence Ho</na></co>
+<co c="0"><na f="h/Howe:Bill" pid="h/BillHowe">Bill Howe</na></co>
+<co c="0"><na f="h/Huang:Dandan" pid="14/3690">Dandan Huang</na></co>
+<co c="0" n="2"><na f="i/Ives:Zachary_G=" pid="i/ZacharyGIves">Zachary G. Ives</na><na>Zack Ives</na></co>
+<co c="0"><na f="j/Jaslikowska:Ewa" pid="68/5051">Ewa Jaslikowska</na></co>
+<co c="0"><na f="j/Jou:Stephan" pid="71/9163">Stephan Jou</na></co>
+<co c="0"><na f="k/Kiringa:Iluju" pid="85/3509">Iluju Kiringa</na></co>
+<co c="1"><na f="k/Kruchten:Philippe" pid="k/PhilippeKruchten">Philippe Kruchten</na></co>
+<co c="0"><na f="k/Kumar_0001:Arun" pid="30/4308-1">Arun Kumar 0001</na></co>
+<co c="0"><na f="l/Lai:Eugenie_Yujing" pid="266/6141">Eugenie Yujing Lai</na></co>
+<co c="0"><na f="l/Lakshmanan:Laks_V=_S=" pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</na></co>
+<co c="0"><na f="l/Lateulere:Joanne" pid="282/2848">Joanne Lateulere</na></co>
+<co c="0"><na f="l/Lateulere:John" pid="282/3004">John Lateulere</na></co>
+<co c="0"><na f="l/Lawrence:Michael_K=" pid="16/8701">Michael K. Lawrence</na></co>
+<co c="0"><na f="l/Lemieux:Victoria_L=" pid="161/6123">Victoria L. Lemieux</na></co>
+<co c="0"><na f="l/Leung:Rock_Anthony" pid="138/2623">Rock Anthony Leung</na></co>
+<co c="0"><na f="l/Li:Tianyu" pid="92/9835">Tianyu Li</na></co>
+<co c="0"><na f="l/Li:Ting" pid="63/1303">Ting Li</na></co>
+<co c="0"><na f="l/Liu:Jianjun" pid="77/2326">Jianjun Liu</na></co>
+<co c="0"><na f="m/Madhavan:Jayant" pid="76/5642">Jayant Madhavan</na></co>
+<co c="0"><na f="m/Maier_0001:David" pid="m/DavidMaier">David Maier 0001</na></co>
+<co c="0"><na f="m/Milani:Mostafa" pid="139/0871">Mostafa Milani</na></co>
+<co c="0"><na f="m/Milios:Evangelos_E=" pid="m/EvangelosEMilios">Evangelos E. Milios</na></co>
+<co c="0"><na f="m/Miller:Ren=eacute=e_J=" pid="m/RJMiller">Ren&#233;e J. Miller</na></co>
+<co c="0"><na f="m/Moosavi:Ali" pid="94/9835">Ali Moosavi</na></co>
+<co c="0"><na f="m/Mork:Peter" pid="75/972">Peter Mork</na></co>
+<co c="0"><na f="m/Munzner:Tamara" pid="m/TMunzner">Tamara Munzner</na></co>
+<co c="0"><na f="m/Mylopoulos:John" pid="m/JohnMylopoulos">John Mylopoulos</na></co>
+<co c="0"><na f="n/Nepal:Madhav_Prasad" pid="90/8977">Madhav Prasad Nepal</na></co>
+<co c="0"><na f="n/Ng:Raymond_T=" pid="n/RTNg">Raymond T. Ng</na></co>
+<co c="0"><na f="n/Ngo_0001:Hung_Q=" pid="n/HungQNgo">Hung Q. Ngo 0001</na></co>
+<co c="0"><na f="r/Rabl:Tilmann" pid="10/760">Tilmann Rabl</na></co>
+<co c="0"><na f="r/Rajagopalan:Shriram" pid="14/10315">Shriram Rajagopalan</na></co>
+<co c="0"><na f="r/Rizzolo:Flavio" pid="98/2201">Flavio Rizzolo</na></co>
+<co c="0"><na f="r/Ross:Kenneth_A=" pid="r/KARoss">Kenneth A. Ross</na></co>
+<co c="0"><na f="s/Saroiu:Stefan" pid="17/3782">Stefan Saroiu</na></co>
+<co c="1"><na f="s/Sotoodeh:Mandana" pid="86/10096">Mandana Sotoodeh</na></co>
+<co c="0"><na f="s/Spaccapietra:Stefano" pid="s/StefanoSpaccapietra">Stefano Spaccapietra</na></co>
+<co c="0"><na f="s/Staub=French:Sheryl" pid="63/2290">Sheryl Staub-French</na></co>
+<co c="0"><na f="s/Su:Jing" pid="60/3775">Jing Su</na></co>
+<co c="0"><na f="s/Suciu:Dan" pid="s/DanSuciu">Dan Suciu</na></co>
+<co c="0"><na f="s/Sun:Xun" pid="50/8086">Xun Sun</na></co>
+<co c="0" n="2"><na f="t/Tan:Wang_Chiew" pid="t/WangChiewTan">Wang Chiew Tan</na><na>Wang-Chiew Tan</na></co>
+<co c="0"><na f="t/Tao_0001:Yufei" pid="t/YufeiTao">Yufei Tao 0001</na></co>
+<co c="0"><na f="t/Tatarinov:Igor" pid="56/1548">Igor Tatarinov</na></co>
+<co c="0"><na f="t/Tompa:Frank_Wm=" pid="t/FrankWmTompa">Frank Wm. Tompa</na></co>
+<co c="0"><na f="t/Tory:Melanie" pid="t/MelanieTory">Melanie Tory</na></co>
+<co c="0"><na f="t/Tufte:Kristin" pid="t/KristinTufte">Kristin Tufte</na></co>
+<co c="0"><na f="w/Wang:Guan" pid="87/4461">Guan Wang</na></co>
+<co c="0"><na f="w/Wang:Ting" pid="12/2633">Ting Wang</na></co>
+<co c="0"><na f="w/Webster:April" pid="91/8977">April Webster</na></co>
+<co c="0"><na f="w/Wei:Lan" pid="58/8527">Lan Wei</na></co>
+<co c="0"><na f="w/Wilkinson:Mark_D=" pid="62/1322">Mark D. Wilkinson</na></co>
+<co c="0"><na f="w/Wong:Kwok" pid="30/8576">Kwok Wong</na></co>
+<co c="0"><na f="x/Xu:Jian" pid="73/1149">Jian Xu</na></co>
+<co c="0"><na f="y/Yang_0001:Jun" pid="y/JunYang1">Jun Yang 0001</na></co>
+<co c="0"><na f="y/Yeung:Wai_Tak_Theodora" pid="05/4101">Wai Tak Theodora Yeung</na></co>
+<co c="0"><na f="y/Yu:Eric_S=_K=" pid="33/5374">Eric S. K. Yu</na></co>
+<co c="0"><na f="z/Zadeh:Puyan_A=" pid="206/8678">Puyan A. Zadeh</na></co>
+<co c="0"><na f="z/Zhang:Jiemin" pid="57/8977">Jiemin Zhang</na></co>
+<co c="0"><na f="z/Zhao:Jie" pid="23/3168">Jie Zhao</na></co>
+<co c="0"><na f="z/Zhou:Jingren" pid="84/2644">Jingren Zhou</na></co>
+<co c="0"><na f="z/Zolaktaf:Zainab" pid="20/11207">Zainab Zolaktaf</na></co>
+</coauthors>
+</dblpperson>

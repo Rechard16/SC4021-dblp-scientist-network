@@ -1,0 +1,1417 @@
+<dblpperson name="Viktor Leis" pid="10/11150" n="89">
+<person key="homepages/10/11150" mdate="2023-12-19">
+<author pid="10/11150">Viktor Leis</author>
+<url>https://db.in.tum.de/~leis/</url>
+<url>https://dbis1.github.io/team/leis</url>
+<url>https://scholar.google.com/citations?user=qFOwPNQAAAAJ</url>
+<url>https://orcid.org/0000-0001-5676-8017</url>
+<note type="affiliation">TU Munich, Germany</note>
+<note type="affiliation" label="former">Friedrich Schiller University Jena, Germany</note>
+</person>
+<r><inproceedings key="conf/cidr/0001L24" mdate="2024-04-05">
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="10/11150">Viktor Leis</author>
+<title>A Critique of Modern SQL and a Proposal Towards a Simple and Expressive Query Language.</title>
+<year>2024</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2024/papers/p48-neumann.pdf</ee>
+<crossref>conf/cidr/2024</crossref>
+<url>db/conf/cidr/cidr2024.html#0001L24</url>
+</inproceedings>
+</r>
+<r><article key="journals/pacmmod/LeisA0L023" mdate="2023-06-15">
+<author orcid="0000-0001-5676-8017" pid="10/11150">Viktor Leis</author>
+<author orcid="0009-0002-9806-8101" pid="231/3712">Adnan Alhomssi</author>
+<author orcid="0000-0002-1602-4512" pid="146/6632">Tobias Ziegler 0001</author>
+<author orcid="0009-0009-6343-4766" pid="327/6301">Yannick Loeck</author>
+<author orcid="0000-0001-9258-0513" pid="30/5956-1">Christian Dietrich 0001</author>
+<title>Virtual-Memory Assisted Buffer Management.</title>
+<pages>7:1-7:25</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3588687</ee>
+<url>db/journals/pacmmod/pacmmod1.html#LeisA0L023</url>
+</article>
+</r>
+<r><article key="journals/pacmmod/KuschewskiSAL23" mdate="2023-07-07">
+<author orcid="0009-0008-6724-7530" pid="287/9018">Maximilian Kuschewski</author>
+<author orcid="0009-0006-9191-8395" pid="327/8089">David Sauerwein</author>
+<author orcid="0009-0002-9806-8101" pid="231/3712">Adnan Alhomssi</author>
+<author orcid="0000-0001-5676-8017" pid="10/11150">Viktor Leis</author>
+<title>BtrBlocks: Efficient Columnar Compression for Data Lakes.</title>
+<pages>118:1-118:26</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3589263</ee>
+<url>db/journals/pacmmod/pacmmod1.html#KuschewskiSAL23</url>
+</article>
+</r>
+<r><article key="journals/pacmmod/BlacherKSLLG23" mdate="2023-07-07">
+<author orcid="0009-0007-2009-7996" pid="277/9082">Mark Blacher</author>
+<author orcid="0000-0002-1498-2653" pid="246/1576">Julien Klaus</author>
+<author orcid="0009-0000-4250-546X" pid="299/5431">Christoph Staudt</author>
+<author orcid="0000-0003-4351-9868" pid="71/5078">S&#246;ren Laue</author>
+<author orcid="0000-0001-5676-8017" pid="10/11150">Viktor Leis</author>
+<author orcid="0000-0001-6598-6833" pid="30/3504">Joachim Giesen</author>
+<title>Efficient and Portable Einstein Summation in SQL.</title>
+<pages>121:1-121:19</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3589266</ee>
+<url>db/journals/pacmmod/pacmmod1.html#BlacherKSLLG23</url>
+</article>
+</r>
+<r><article key="journals/pacmmod/0001NLB23" mdate="2023-07-07">
+<author orcid="0000-0002-1602-4512" pid="146/6632">Tobias Ziegler 0001</author>
+<author orcid="0009-0006-1968-8863" pid="35/9256-2">Jacob Nelson-Slivon</author>
+<author orcid="0000-0001-5676-8017" pid="10/11150">Viktor Leis</author>
+<author orcid="0000-0002-2744-7836" pid="45/1559">Carsten Binnig</author>
+<title>Design Guidelines for Correct, Efficient, and Scalable Synchronization using One-Sided RDMA.</title>
+<pages>131:1-131:26</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3589276</ee>
+<url>db/journals/pacmmod/pacmmod1.html#0001NLB23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/RenenL23" mdate="2023-10-23">
+<author pid="219/9679">Alexander van Renen</author>
+<author pid="10/11150">Viktor Leis</author>
+<title>Cloud Analytics Benchmark.</title>
+<pages>1413-1425</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p1413-renen.pdf</ee>
+<ee>https://doi.org/10.14778/3583140.3583156</ee>
+<url>db/journals/pvldb/pvldb16.html#RenenL23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AlhomssiL23" mdate="2023-10-23">
+<author pid="231/3712">Adnan Alhomssi</author>
+<author pid="10/11150">Viktor Leis</author>
+<title>Scalable and Robust Snapshot Isolation for High-Performance Storage Engines.</title>
+<pages>1426-1438</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p1426-alhomssi.pdf</ee>
+<ee>https://doi.org/10.14778/3583140.3583157</ee>
+<url>db/journals/pvldb/pvldb16.html#AlhomssiL23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/HaasL23" mdate="2024-02-12">
+<author pid="161/3104-2">Gabriel Haas 0002</author>
+<author pid="10/11150">Viktor Leis</author>
+<title>What Modern NVMe Storage Can Do, And How To Exploit It: High-Performance I/O for High-Performance Storage Engines.</title>
+<pages>2090-2102</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p2090-haas.pdf</ee>
+<ee>https://doi.org/10.14778/3598581.3598584</ee>
+<url>db/journals/pvldb/pvldb16.html#HaasL23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DurnerL023" mdate="2023-10-23">
+<author pid="241/5228">Dominik Durner</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>Exploiting Cloud Object Storage for High-Performance Analytics.</title>
+<pages>2769-2782</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p2769-durner.pdf</ee>
+<ee>https://doi.org/10.14778/3611479.3611486</ee>
+<url>db/journals/pvldb/pvldb16.html#DurnerL023</url>
+</article>
+</r>
+<r><article key="journals/pvldb/VohringerL23" mdate="2023-10-23">
+<author pid="249/4059">Demian E. V&#246;hringer</author>
+<author pid="10/11150">Viktor Leis</author>
+<title>Write-Aware Timestamp Tracking: Effective and Efficient Page Replacement for Modern Hardware.</title>
+<pages>3323-3334</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p3323-vohringer.pdf</ee>
+<ee>https://doi.org/10.14778/3611479.3611529</ee>
+<url>db/journals/pvldb/pvldb16.html#VohringerL23</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/AlhomssiHL23" mdate="2023-02-23">
+<author pid="231/3712">Adnan Alhomssi</author>
+<author pid="185/1272">Michael Haubenschild</author>
+<author pid="10/11150">Viktor Leis</author>
+<title>The Evolution of LeanStore.</title>
+<pages>259-281</pages>
+<year>2023</year>
+<booktitle>BTW</booktitle>
+<ee>https://doi.org/10.18420/BTW2023-13</ee>
+<crossref>conf/btw/2023</crossref>
+<url>db/conf/btw/btw2023.html#AlhomssiHL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/0001BLB23" mdate="2023-07-19">
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Is Scalable OLTP in the Cloud a Solved Problem?</title>
+<year>2023</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2023/papers/p50-ziegler.pdf</ee>
+<crossref>conf/cidr/2023</crossref>
+<url>db/conf/cidr/cidr2023.html#0001BLB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BonczCFHL0NSSZ23" mdate="2023-07-27">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="176/4991">Yannis Chronis</author>
+<author pid="127/0410">Jan Finis</author>
+<author pid="74/9320">Stefan Halfpap</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="76/4130">Anisoara Nica</author>
+<author pid="37/10151">Caetano Sauer</author>
+<author pid="s/KnutStolze">Knut Stolze</author>
+<author pid="40/4880">Marcin Zukowski</author>
+<title>SPA: Economical and Workload-Driven Indexing for Data Analytics in the Cloud.</title>
+<pages>3740-3746</pages>
+<year>2023</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE55515.2023.00302</ee>
+<crossref>conf/icde/2023</crossref>
+<url>db/conf/icde/icde2023.html#BonczCFHL0NSSZ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/simod/HaubenschildL23" mdate="2023-07-21">
+<author orcid="0009-0005-4258-4694" pid="185/1272">Michael Haubenschild</author>
+<author orcid="0000-0001-5676-8017" pid="10/11150">Viktor Leis</author>
+<title>Lock-Free Buffer Managers Do Not Require Delayed Memory Reclamation.</title>
+<pages>1:1-1:3</pages>
+<year>2023</year>
+<booktitle>SiMoD@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3596225.3596228</ee>
+<crossref>conf/simod/2023</crossref>
+<url>db/conf/simod/simod2023.html#HaubenschildL23</url>
+</inproceedings>
+</r>
+<r><article key="journals/dbsk/SchmeisserSLNK22" mdate="2022-05-13">
+<author pid="246/0893">Josef Schmei&#223;er</author>
+<author pid="204/3776">Maximilian E. Sch&#252;le</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>B<sup>2</sup>-Tree: Page-Based String Indexing in Concurrent Environments.</title>
+<pages>11-22</pages>
+<year>2022</year>
+<volume>22</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s13222-022-00409-y</ee>
+<url>db/journals/dbsk/dbsk22.html#SchmeisserSLNK22</url>
+</article>
+</r>
+<r><article key="journals/tods/BinnaZPSL22" mdate="2022-10-02">
+<author orcid="0000-0003-1062-8419" pid="74/10151">Robert Binna</author>
+<author orcid="0000-0003-3195-8273" pid="31/8199">Eva Zangerle</author>
+<author pid="156/1492">Martin Pichl</author>
+<author pid="s/GuntherSpecht">G&#252;nther Specht</author>
+<author pid="10/11150">Viktor Leis</author>
+<title>Height Optimized Tries.</title>
+<pages>3:1-3:46</pages>
+<year>2022</year>
+<volume>47</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3506692</ee>
+<url>db/journals/tods/tods47.html#BinnaZPSL22</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/BlacherGLKL22" mdate="2022-07-18">
+<author pid="277/9082">Mark Blacher</author>
+<author pid="30/3504">Joachim Giesen</author>
+<author pid="71/5078">S&#246;ren Laue</author>
+<author pid="246/1576">Julien Klaus</author>
+<author pid="10/11150">Viktor Leis</author>
+<title>Machine Learning, Linear Algebra, and More: Is SQL All You Need?</title>
+<year>2022</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2022/papers/p17-blacher.pdf</ee>
+<crossref>conf/cidr/2022</crossref>
+<url>db/conf/cidr/cidr2022.html#BlacherGLKL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/CrottyLP22" mdate="2022-07-18">
+<author pid="147/4971">Andrew Crotty</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="58/4127">Andrew Pavlo</author>
+<title>Are You Sure You Want to Use MMAP in Your Database Management System?</title>
+<year>2022</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2022/papers/p13-crotty.pdf</ee>
+<crossref>conf/cidr/2022</crossref>
+<url>db/conf/cidr/cidr2022.html#CrottyLP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/0001MLB22" mdate="2022-06-15">
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<author pid="322/2220">Dwarakanandan Bindiganavile Mohan</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>EFA: A Viable Alternative to RDMA over InfiniBand for DBMSs?</title>
+<pages>10:1-10:5</pages>
+<year>2022</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3533737.3538506</ee>
+<crossref>conf/damon/2022</crossref>
+<url>db/conf/damon/damon2022.html#0001MLB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gi/WingerathLG22" mdate="2024-03-08">
+<author pid="146/6282">Wolfram Wingerath</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="150/7054">Felix Gessert</author>
+<title>GI Startup Platform - Community Get Together.</title>
+<pages>1223</pages>
+<year>2022</year>
+<booktitle>GI-Jahrestagung</booktitle>
+<ee type="oa">https://doi.org/10.18420/inf2022_105</ee>
+<crossref>conf/gi/2022</crossref>
+<url>db/conf/gi/gi2022.html#WingerathLG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/0001BL22" mdate="2022-06-14">
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="10/11150">Viktor Leis</author>
+<title>ScaleStore: A Fast and Cost-Efficient Storage Engine using DRAM, NVMe, and RDMA.</title>
+<pages>685-699</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3526187</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#0001BL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Vogelsgesang0LK22" mdate="2022-06-14">
+<author pid="220/6872">Adrian Vogelsgesang</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Efficient Evaluation of Arbitrarily-Framed Holistic SQL Aggregates and Window Functions.</title>
+<pages>1243-1256</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3526184</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#Vogelsgesang0LK22</url>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/ZhangLLAKKP21" mdate="2023-09-30">
+<author pid="13/8730">Huanchen Zhang</author>
+<author pid="57/2227">Hyeontaek Lim</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="a/DavidGAndersen">David G. Andersen</author>
+<author pid="09/4259">Michael Kaminsky</author>
+<author pid="k/KimberlyKeeton">Kimberly Keeton</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<title>Succinct range filters.</title>
+<pages>166-173</pages>
+<year>2021</year>
+<volume>64</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3450262</ee>
+<url>db/journals/cacm/cacm64.html#ZhangLLAKKP21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LeisK21" mdate="2022-04-21">
+<author pid="10/11150">Viktor Leis</author>
+<author pid="287/9018">Maximilian Kuschewski</author>
+<title>Towards Cost-Optimal Query Processing in the Cloud.</title>
+<pages>1606-1612</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p1606-leis.pdf</ee>
+<ee>https://doi.org/10.14778/3461535.3461549</ee>
+<url>db/journals/pvldb/pvldb14.html#LeisK21</url>
+</article>
+</r>
+<r><article key="journals/sigmod/GubnerLB21" mdate="2023-08-06">
+<author orcid="0009-0001-0730-1733" pid="220/2576">Tim Gubner</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Optimistically Compressed Hash Tables &amp; Strings in theUSSR.</title>
+<pages>60-67</pages>
+<year>2021</year>
+<volume>50</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3471485.3471500</ee>
+<url>db/journals/sigmod/sigmod50.html#GubnerLB21</url>
+</article>
+</r>
+<r><article key="journals/tkde/KohnLN21" mdate="2023-07-27">
+<author orcid="0000-0001-5154-0400" pid="166/9216-1">Andr&#233; Kohn 0001</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>Making Compiling Query Engines Practical.</title>
+<pages>597-612</pages>
+<year>2021</year>
+<volume>33</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TKDE.2019.2905235</ee>
+<url>db/journals/tkde/tkde33.html#KohnLN21</url>
+</article>
+</r>
+<r><article key="journals/vldb/KerstenLN21" mdate="2021-09-01">
+<author orcid="0000-0002-0004-9686" pid="198/5903">Timo Kersten</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>Tidy Tuples and Flying Start: fast compilation and fast execution of relational queries in Umbra.</title>
+<pages>883-905</pages>
+<year>2021</year>
+<volume>30</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-020-00643-4</ee>
+<url>db/journals/vldb/vldb30.html#KerstenLN21</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/SchmeisserSL0K21" mdate="2022-01-03">
+<author pid="246/0893">Josef Schmei&#223;er</author>
+<author orcid="0000-0003-1546-269X" pid="204/3776">Maximilian E. Sch&#252;le</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>B&#178;-Tree: Cache-Friendly String Indexing within B-Trees.</title>
+<pages>39-58</pages>
+<year>2021</year>
+<booktitle>BTW</booktitle>
+<ee>https://doi.org/10.18420/btw2021-02</ee>
+<crossref>conf/btw/2021</crossref>
+<url>db/conf/btw/btw2021.html#SchmeisserSL0K21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/AlhomssiL21" mdate="2022-07-18">
+<author pid="231/3712">Adnan Alhomssi</author>
+<author pid="10/11150">Viktor Leis</author>
+<title>Contention and Space Management in B-Trees.</title>
+<year>2021</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2021/papers/cidr2021_paper21.pdf</ee>
+<crossref>conf/cidr/2021</crossref>
+<url>db/conf/cidr/cidr2021.html#AlhomssiL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/KuschewskiL21" mdate="2022-07-18">
+<author pid="287/9018">Maximilian Kuschewski</author>
+<author pid="10/11150">Viktor Leis</author>
+<title>White-Box OLAP Performance Modeling for the Cloud.</title>
+<year>2021</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2021/papers/cidr2021_abstract02.pdf</ee>
+<crossref>conf/cidr/2021</crossref>
+<url>db/conf/cidr/cidr2021.html#KuschewskiL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DurnerL021" mdate="2021-06-21">
+<author pid="241/5228">Dominik Durner</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>JSON Tiles: Fast Analytics on Semi-Structured Data.</title>
+<pages>445-458</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3452809</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#DurnerL021</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KohnL021" mdate="2023-07-27">
+<author pid="166/9216-1">Andr&#233; Kohn 0001</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>Building Advanced SQL Analytics From Low-Level Plan Operators.</title>
+<pages>1001-1013</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3457288</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#KohnL021</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/IdreosLSS21" mdate="2021-12-06">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<author pid="s/MargoISeltzer">Margo I. Seltzer</author>
+<title>Data Structures for Modern Memory and Storage Hierarchies (Dagstuhl Seminar 21283).</title>
+<pages>38-53</pages>
+<year>2021</year>
+<volume>11</volume>
+<journal>Dagstuhl Reports</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.11.6.38</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports11.html#IdreosLSS21</url>
+</article>
+</r>
+<r><article key="journals/dbsk/ZieglerLB20" mdate="2021-05-14">
+<author orcid="0000-0002-1602-4512" pid="146/6632">Tobias Ziegler 0001</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>RDMA Communciation Patterns.</title>
+<pages>199-210</pages>
+<year>2020</year>
+<volume>20</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s13222-020-00355-7</ee>
+<url>db/journals/dbsk/dbsk20.html#ZieglerLB20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/Boncz0L20" mdate="2020-09-08">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="10/11150">Viktor Leis</author>
+<title>FSST: Fast Random Access String Compression.</title>
+<pages>2649-2661</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2649-boncz.pdf</ee>
+<url>db/journals/pvldb/pvldb13.html#Boncz0L20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/0001RIL0K20" mdate="2020-09-08">
+<author pid="183/6378-1">Lukas Vogel 0001</author>
+<author pid="219/9679">Alexander van Renen</author>
+<author pid="85/2108">Satoshi Imamura</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Mosaic: A Budget-Conscious Storage Engine for Relational Database Systems.</title>
+<pages>2662-2675</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2662-vogel.pdf</ee>
+<url>db/journals/pvldb/pvldb13.html#0001RIL0K20</url>
+</article>
+</r>
+<r><article key="journals/tods/ZhangLLAKKP20" mdate="2023-09-30">
+<author pid="13/8730">Huanchen Zhang</author>
+<author pid="57/2227">Hyeontaek Lim</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="a/DavidGAndersen">David G. Andersen</author>
+<author pid="09/4259">Michael Kaminsky</author>
+<author pid="k/KimberlyKeeton">Kimberly Keeton</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<title>Succinct Range Filters.</title>
+<pages>5:1-5:31</pages>
+<year>2020</year>
+<volume>45</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3375660</ee>
+<url>db/journals/tods/tods45.html#ZhangLLAKKP20</url>
+</article>
+</r>
+<r><article key="journals/vldb/RenenVLNK20" mdate="2021-05-14">
+<author orcid="0000-0002-6365-4592" pid="219/9679">Alexander van Renen</author>
+<author orcid="0000-0002-9771-4784" pid="183/6378-1">Lukas Vogel 0001</author>
+<author pid="10/11150">Viktor Leis</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Building blocks for persistent memory.</title>
+<pages>1223-1241</pages>
+<year>2020</year>
+<volume>29</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.1007/s00778-020-00622-9</ee>
+<url>db/journals/vldb/vldb29.html#RenenVLNK20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/HaasHL20" mdate="2024-02-12">
+<author pid="161/3104-2">Gabriel Haas 0002</author>
+<author pid="185/1272">Michael Haubenschild</author>
+<author pid="10/11150">Viktor Leis</author>
+<title>Exploiting Directly-Attached NVMe Arrays in DBMS.</title>
+<year>2020</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2020/papers/p16-haas-cidr20.pdf</ee>
+<crossref>conf/cidr/2020</crossref>
+<url>db/conf/cidr/cidr2020.html#HaasHL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/BottcherLG0K20" mdate="2020-06-07">
+<author pid="196/1402">Jan B&#246;ttcher</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="32/7263">Jana Giceva</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Scalable and robust latches for database systems.</title>
+<pages>2:1-2:8</pages>
+<year>2020</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3399666.3399908</ee>
+<crossref>conf/damon/2020</crossref>
+<url>db/conf/damon/damon2020.html#BottcherLG0K20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GubnerLB20" mdate="2023-08-06">
+<author orcid="0009-0001-0730-1733" pid="220/2576">Tim Gubner</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Efficient Query Processing with Optimistically Compressed Hash Tables &amp; Strings in the USSR.</title>
+<pages>301-312</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00033</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#GubnerLB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/FentRKL0K20" mdate="2020-06-05">
+<author pid="265/9606">Philipp Fent</author>
+<author pid="219/9679">Alexander van Renen</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Low-Latency Communication for Fast DBMS Using RDMA and Shared Memory.</title>
+<pages>1477-1488</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00131</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#FentRKL0K20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HaubenschildS0L20" mdate="2020-06-05">
+<author pid="185/1272">Michael Haubenschild</author>
+<author pid="37/10151">Caetano Sauer</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="10/11150">Viktor Leis</author>
+<title>Rethinking Logging, Checkpoints, and Recovery for High-Performance Storage Engines.</title>
+<pages>877-892</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389716</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#HaubenschildS0L20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LangBLB0K20" mdate="2020-06-05">
+<author pid="150/9460">Harald Lang</author>
+<author pid="266/5816">Alexander Beischl</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Tree-Encoded Bitmaps.</title>
+<pages>937-967</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3380588</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#LangBLB0K20</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/LeisH019" mdate="2020-03-10">
+<author pid="10/11150">Viktor Leis</author>
+<author pid="185/1272">Michael Haubenschild</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>Optimistic Lock Coupling: A Scalable and Efficient General-Purpose Synchronization Method.</title>
+<pages>73-84</pages>
+<year>2019</year>
+<volume>42</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A19mar/p73.pdf</ee>
+<url>db/journals/debu/debu42.html#LeisH019</url>
+</article>
+</r>
+<r><article key="journals/debu/Leis19" mdate="2020-03-10">
+<author pid="10/11150">Viktor Leis</author>
+<title>Letter from the Rising Star Award Winner.</title>
+<pages>91</pages>
+<year>2019</year>
+<volume>42</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<ee type="oa">http://sites.computer.org/debull/A19sept/p91.pdf</ee>
+<url>db/journals/debu/debu42.html#Leis19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BottcherL0K19" mdate="2021-03-23">
+<author pid="196/1402">Jan B&#246;ttcher</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Scalable Garbage Collection for In-Memory MVCC Systems.</title>
+<pages>128-141</pages>
+<year>2019</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p128-bottcher.pdf</ee>
+<ee>https://doi.org/10.14778/3364324.3364328</ee>
+<url>db/journals/pvldb/pvldb13.html#BottcherL0K19</url>
+</article>
+</r>
+<r><article key="journals/sigmod/ZhangLLAKP19" mdate="2023-09-30">
+<author pid="13/8730">Huanchen Zhang</author>
+<author pid="57/2227">Hyeontaek Lim</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="a/DavidGAndersen">David G. Andersen</author>
+<author pid="k/KimberlyKeeton">Kimberly Keeton</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<title>Succinct Range Filters.</title>
+<pages>78-85</pages>
+<year>2019</year>
+<volume>48</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3371316.3371335</ee>
+<url>db/journals/sigmod/sigmod48.html#ZhangLLAKP19</url>
+</article>
+</r>
+<r><inproceedings key="conf/adms/DurnerLN19" mdate="2020-08-04">
+<author pid="241/5228">Dominik Durner</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>Experimental Study of Memory Allocation for High-Performance Query Processing.</title>
+<pages>1-9</pages>
+<year>2019</year>
+<booktitle>ADMS@VLDB</booktitle>
+<ee>http://www.adms-conf.org/2019-camera-ready/durner_adms19.pdf</ee>
+<crossref>conf/adms/2019</crossref>
+<url>db/conf/adms/adms2019.html#DurnerLN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/VogelsgesangML019" mdate="2021-01-13">
+<author pid="220/6872">Adrian Vogelsgesang</author>
+<author pid="74/11109">Tobias M&#252;hlbauer</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Domain Query Optimization: Adapting the General-Purpose Database System Hyper for Tableau Workloads.</title>
+<pages>313-333</pages>
+<year>2019</year>
+<booktitle>BTW</booktitle>
+<ee type="oa">https://doi.org/10.18420/btw2019-19</ee>
+<crossref>conf/btw/2019</crossref>
+<url>db/conf/btw/btw2019.html#VogelsgesangML019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/KipfKRLBK19" mdate="2020-03-12">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="186/8206">Thomas Kipf</author>
+<author pid="219/9678">Bernhard Radke</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Learned Cardinalities: Estimating Correlated Joins with Deep Learning.</title>
+<year>2019</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2019/papers/p101-kipf-cidr19.pdf</ee>
+<crossref>conf/cidr/2019</crossref>
+<url>db/conf/cidr/cidr2019.html#KipfKRLBK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/RenenVL0K19" mdate="2020-10-25">
+<author pid="219/9679">Alexander van Renen</author>
+<author orcid="0000-0002-9771-4784" pid="183/6378-1">Lukas Vogel 0001</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Persistent Memory I/O Primitives.</title>
+<pages>12:1-12:7</pages>
+<year>2019</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3329785.3329930</ee>
+<crossref>conf/damon/2019</crossref>
+<url>db/conf/damon/damon2019.html#RenenVL0K19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/DurnerL019" mdate="2019-06-23">
+<author pid="241/5228">Dominik Durner</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>On the Impact of Memory Allocation on High-Performance Query Processing.</title>
+<pages>21:1-21:3</pages>
+<year>2019</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3329785.3329918</ee>
+<crossref>conf/damon/2019</crossref>
+<url>db/conf/damon/damon2019.html#DurnerL019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KipfVMKRLB0K19" mdate="2019-06-22">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="163/6966">Dimitri Vorona</author>
+<author pid="154/0378">Jonas M&#252;ller</author>
+<author pid="186/8206">Thomas Kipf</author>
+<author pid="219/9678">Bernhard Radke</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Estimating Cardinalities with Deep Sketches.</title>
+<pages>1937-1940</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3320218</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#KipfVMKRLB0K19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-01614" mdate="2020-08-01">
+<author pid="219/9679">Alexander van Renen</author>
+<author pid="183/6378-1">Lukas Vogel 0001</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Persistent Memory I/O Primitives.</title>
+<year>2019</year>
+<volume>abs/1904.01614</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.01614</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-01614</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-08223" mdate="2019-04-26">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="163/6966">Dimitri Vorona</author>
+<author pid="154/0378">Jonas M&#252;ller</author>
+<author pid="186/8206">Thomas Kipf</author>
+<author pid="219/9678">Bernhard Radke</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Estimating Cardinalities with Deep Sketches.</title>
+<year>2019</year>
+<volume>abs/1904.08223</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.08223</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-08223</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-01135" mdate="2019-05-27">
+<author pid="241/5228">Dominik Durner</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>On the Impact of Memory Allocation on High-Performance Query Processing.</title>
+<year>2019</year>
+<volume>abs/1905.01135</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.01135</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-01135</url>
+</article>
+</r>
+<r><article key="journals/dbsk/GotzeRLLO18" mdate="2019-10-19">
+<author orcid="0000-0002-5076-5007" pid="180/3158">Philipp G&#246;tze</author>
+<author orcid="0000-0002-6365-4592" pid="219/9679">Alexander van Renen</author>
+<author pid="180/3171">Lucas Lersch</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="135/3665">Ismail Oukid</author>
+<title>Data Management on Non-Volatile Memory: A Perspective.</title>
+<pages>171-182</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s13222-018-0301-1</ee>
+<url>db/journals/dbsk/dbsk18.html#GotzeRLLO18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KerstenLKNPB18" mdate="2020-04-25">
+<author pid="198/5903">Timo Kersten</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="58/4127">Andrew Pavlo</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Everything You Always Wanted to Know About Compiled and Vectorized Queries But Were Afraid to Ask.</title>
+<pages>2209-2222</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p2209-kersten.pdf</ee>
+<ee>https://doi.org/10.14778/3275366.3275370</ee>
+<url>db/journals/pvldb/pvldb11.html#KerstenLKNPB18</url>
+</article>
+</r>
+<r><article key="journals/vldb/LeisRGMBKN18" mdate="2018-10-10">
+<author pid="10/11150">Viktor Leis</author>
+<author pid="219/9678">Bernhard Radke</author>
+<author pid="01/8701">Andrey Gubichev</author>
+<author pid="171/4448">Atanas Mirchev</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>Query optimization through the looking glass, and what we found running the Join Order Benchmark.</title>
+<pages>643-668</pages>
+<year>2018</year>
+<volume>27</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-017-0480-7</ee>
+<url>db/journals/vldb/vldb27.html#LeisRGMBKN18</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/LeisHK018" mdate="2023-03-24">
+<author pid="10/11150">Viktor Leis</author>
+<author pid="185/1272">Michael Haubenschild</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>LeanStore: In-Memory Data Management beyond Main Memory.</title>
+<pages>185-196</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00026</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00026</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#LeisHK018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KohnL018" mdate="2023-07-27">
+<author pid="166/9216-1">Andr&#233; Kohn 0001</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>Adaptive Execution of Compiled Queries.</title>
+<pages>197-208</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00027</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00027</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#KohnL018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/VogelsgesangHFK18" mdate="2018-11-21">
+<author pid="220/6872">Adrian Vogelsgesang</author>
+<author pid="185/1272">Michael Haubenschild</author>
+<author pid="127/0410">Jan Finis</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="74/11109">Tobias M&#252;hlbauer</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="136/3259">Manuel Then</author>
+<title>Get Real: How Benchmarks Fail to Represent the Real World.</title>
+<pages>1:1-1:6</pages>
+<year>2018</year>
+<booktitle>DBTest@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3209950.3209952</ee>
+<crossref>conf/sigmod/2018dbtest</crossref>
+<url>db/conf/sigmod/dbtest2018.html#VogelsgesangHFK18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZhangLLAKKP18" mdate="2023-09-30">
+<author pid="13/8730">Huanchen Zhang</author>
+<author pid="57/2227">Hyeontaek Lim</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="a/DavidGAndersen">David G. Andersen</author>
+<author pid="09/4259">Michael Kaminsky</author>
+<author orcid="0000-0003-2426-8872" pid="k/KimberlyKeeton">Kimberly Keeton</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<title>SuRF: Practical Range Query Filtering with Fast Succinct Tries.</title>
+<pages>323-336</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3196931</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#ZhangLLAKKP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/WangPLLZKA18" mdate="2023-09-30">
+<author orcid="0000-0003-0067-0701" pid="38/8097-7">Ziqi Wang 0007</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="57/2227">Hyeontaek Lim</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="13/8730">Huanchen Zhang</author>
+<author pid="09/4259">Michael Kaminsky</author>
+<author pid="a/DavidGAndersen">David G. Andersen</author>
+<title>Building a Bw-Tree Takes More Than Just Buzz Words.</title>
+<pages>473-488</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3196895</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#WangPLLZKA18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BinnaZPSL18" mdate="2022-10-02">
+<author pid="74/10151">Robert Binna</author>
+<author orcid="0000-0003-3195-8273" pid="31/8199">Eva Zangerle</author>
+<author pid="156/1492">Martin Pichl</author>
+<author pid="s/GuntherSpecht">G&#252;nther Specht</author>
+<author pid="10/11150">Viktor Leis</author>
+<title>HOT: A Height Optimized Trie Index for Main-Memory Database Systems.</title>
+<pages>521-534</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3196896</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#BinnaZPSL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/RenenLK0HODHS18" mdate="2019-10-19">
+<author orcid="0000-0002-6365-4592" pid="219/9679">Alexander van Renen</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="27/6449">Takushi Hashida</author>
+<author orcid="0000-0003-3386-9362" pid="159/4403">Kazuichi Oe</author>
+<author pid="90/9729">Yoshiyasu Doi</author>
+<author pid="86/1280">Lilian Harada</author>
+<author pid="16/407">Mitsuru Sato</author>
+<title>Managing Non-Volatile Memory in Database Systems.</title>
+<pages>1541-1555</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3196897</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#RenenLK0HODHS18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-00677" mdate="2018-10-05">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="186/8206">Thomas Kipf</author>
+<author pid="219/9678">Bernhard Radke</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Learned Cardinalities: Estimating Correlated Joins with Deep Learning.</title>
+<year>2018</year>
+<volume>abs/1809.00677</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.00677</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-00677</url>
+</article>
+</r>
+<r><article key="journals/insk/KemperL017" mdate="2020-08-13">
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="10/11150">Viktor Leis</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>Die Evolution des Hauptspeicherdatenbanksystems HyPer - Von Transaktionen und Analytik zu Big Data sowie von der Forschung zum Technologietransfer.</title>
+<pages>176-179</pages>
+<year>2017</year>
+<volume>40</volume>
+<journal>Inform. Spektrum</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00287-017-1026-5</ee>
+<url>db/journals/insk/insk40.html#KemperL017</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SchuleSHRLVK017" mdate="2020-10-26">
+<author orcid="0000-0003-1546-269X" pid="204/3776">Maximilian E. Sch&#252;le</author>
+<author pid="204/3556">Pascal Schliski</author>
+<author pid="204/3591">Thomas Hutzelmann</author>
+<author pid="204/3623">Tobias Rosenberger</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="163/6966">Dimitri Vorona</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>Monopedia: Staying Single is Good Enough - The HyPer Way for Web Scale Applications.</title>
+<pages>1921-1924</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p1921-schuele.pdf</ee>
+<ee>https://doi.org/10.14778/3137765.3137809</ee>
+<url>db/journals/pvldb/pvldb10.html#SchuleSHRLVK017</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/0001LK17" mdate="2023-07-04">
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>The Complete Story of Joins (in HyPer).</title>
+<pages>31-50</pages>
+<year>2017</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2017</crossref>
+<url>db/conf/btw/btw2017.html#0001LK17</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/657</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/Leis17" mdate="2023-07-04">
+<author pid="10/11150">Viktor Leis</author>
+<title>Query Processing and Optimization in Modern Database Systems.</title>
+<pages>507-516</pages>
+<year>2017</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2017</crossref>
+<url>db/conf/btw/btw2017.html#Leis17</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/649</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/LeisRGK017" mdate="2020-03-12">
+<author pid="10/11150">Viktor Leis</author>
+<author pid="219/9678">Bernhard Radke</author>
+<author pid="01/8701">Andrey Gubichev</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>Cardinality Estimation Done Right: Index-Based Join Sampling.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/papers/p9-leis-cidr17.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#LeisRGK017</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/17/KemperL017" mdate="2022-12-02">
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>Die Evolution des Hauptspeicher-Datenbanksystems HyPer: Von Transaktionen und Analytik zu Big Data sowie von der Forschung zum Technologietransfer.</title>
+<pages>149-154</pages>
+<year>2017</year>
+<booktitle>50 Jahre Universit&#228;ts-Informatik in M&#252;nchen</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-54712-0_13</ee>
+<crossref>books/sp/17/BBBM2017</crossref>
+<url>db/books/collections/BBBM2017.html#KemperL017</url>
+</incollection>
+</r>
+<r><phdthesis key="phd/dnb/Leis16" mdate="2021-07-17">
+<author pid="10/11150">Viktor Leis</author>
+<title>Query Processing and Optimization in Modern Database Systems.</title>
+<year>2016</year>
+<school>Technical University Munich, Germany</school>
+<ee>https://nbn-resolving.org/urn:nbn:de:bvb:91-diss-20161019-1306494-1-2</ee>
+<ee>https://d-nb.info/1120584469</ee>
+</phdthesis>
+</r>
+<r><article key="journals/tkde/LeisK016" mdate="2018-11-02">
+<author pid="10/11150">Viktor Leis</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>Scaling HTM-Supported Database Transactions to Many Cores.</title>
+<pages>297-310</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TKDE.2015.2411272</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2015.2411272</ee>
+<url>db/journals/tkde/tkde28.html#LeisK016</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/LeisSK016" mdate="2018-11-06">
+<author pid="10/11150">Viktor Leis</author>
+<author pid="180/8565">Florian Scheibner</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>The ART of practical synchronization.</title>
+<pages>3:1-3:8</pages>
+<year>2016</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2933349.2933352</ee>
+<crossref>conf/damon/2016</crossref>
+<url>db/conf/damon/damon2016.html#LeisSK016</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/LeisKK015" mdate="2022-08-16">
+<author pid="10/11150">Viktor Leis</author>
+<author pid="163/6769">Kan Kundhikanjana</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>Efficient Processing of Window Functions in Analytical SQL Queries.</title>
+<pages>1058-1069</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1058-leis.pdf</ee>
+<ee>https://doi.org/10.14778/2794367.2794375</ee>
+<ee>https://www.wikidata.org/entity/Q113237169</ee>
+<url>db/journals/pvldb/pvldb8.html#LeisKK015</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LeisGMBK015" mdate="2020-04-25">
+<author pid="10/11150">Viktor Leis</author>
+<author pid="01/8701">Andrey Gubichev</author>
+<author pid="171/4448">Atanas Mirchev</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>How Good Are Query Optimizers, Really?</title>
+<pages>204-215</pages>
+<year>2015</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p204-leis.pdf</ee>
+<ee>https://doi.org/10.14778/2850583.2850594</ee>
+<url>db/journals/pvldb/pvldb9.html#LeisGMBK015</url>
+</article>
+</r>
+<r><article key="journals/dbsk/FunkeKM0L14" mdate="2020-08-10">
+<author pid="69/9320">Florian Funke 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="74/11109">Tobias M&#252;hlbauer</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="10/11150">Viktor Leis</author>
+<title>HyPer Beyond Software: Exploiting Modern Hardware for Main-Memory Database Systems.</title>
+<pages>173-181</pages>
+<year>2014</year>
+<volume>14</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s13222-014-0165-y</ee>
+<url>db/journals/dbsk/dbsk14.html#FunkeKM0L14</url>
+</article>
+</r>
+<r><article key="journals/debu/0001L14" mdate="2020-03-10">
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="10/11150">Viktor Leis</author>
+<title>Compiling Database Queries into Machine Code.</title>
+<pages>3-11</pages>
+<year>2014</year>
+<volume>37</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A14mar/p3.pdf</ee>
+<url>db/journals/debu/debu37.html#0001L14</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/LeisK014" mdate="2023-03-23">
+<author pid="10/11150">Viktor Leis</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>Exploiting hardware transactional memory in main-memory databases.</title>
+<pages>580-591</pages>
+<year>2014</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2014.6816683</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2014.6816683</ee>
+<crossref>conf/icde/2014</crossref>
+<url>db/conf/icde/icde2014.html#LeisK014</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LeisBK014" mdate="2018-11-06">
+<author pid="10/11150">Viktor Leis</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>Morsel-driven parallelism: a NUMA-aware query evaluation framework for the many-core age.</title>
+<pages>743-754</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2610507</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#LeisBK014</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/Kemper0FFLMMR13" mdate="2020-08-10">
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="127/0410">Jan Finis</author>
+<author pid="69/9320">Florian Funke 0001</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="63/6162">Henrik M&#252;he</author>
+<author pid="74/11109">Tobias M&#252;hlbauer</author>
+<author pid="126/2050">Wolf R&#246;diger</author>
+<title>Processing in the Hybrid OLTP &amp; OLAP Main-Memory Database System HyPer.</title>
+<pages>41-47</pages>
+<year>2013</year>
+<volume>36</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<ee type="oa">http://sites.computer.org/debull/A13june/hyper1.pdf</ee>
+<url>db/journals/debu/debu36.html#Kemper0FFLMMR13</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/LeisK013" mdate="2023-03-24">
+<author pid="10/11150">Viktor Leis</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>The adaptive radix tree: ARTful indexing for main-memory databases.</title>
+<pages>38-49</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544812</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544812</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#LeisK013</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/LangLANK13" mdate="2020-03-12">
+<author pid="150/9460">Harald Lang</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="70/3630">Martina-Cezara Albutiu</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Massively Parallel NUMA-aware Hash Joins.</title>
+<pages>1-12</pages>
+<year>2013</year>
+<booktitle>IMDM@VLDB</booktitle>
+<ee type="oa">http://www-db.in.tum.de/other/imdm2013/papers/Lang.pdf</ee>
+<crossref>conf/vldb/2013imdm</crossref>
+<url>db/conf/vldb/imdm2013.html#LangLANK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/LangLA0K13" mdate="2018-11-02">
+<author pid="150/9460">Harald Lang</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="70/3630">Martina-Cezara Albutiu</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Massively Parallel NUMA-Aware Hash Joins.</title>
+<pages>3-14</pages>
+<year>2013</year>
+<booktitle>IMDM@VLDB (Revised Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-13960-9_1</ee>
+<crossref>conf/vldb/2014imdms</crossref>
+<url>db/conf/vldb/imdm2014s.html#LangLA0K13</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/KemperNFLM12" mdate="2020-08-10">
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="69/9320">Florian Funke 0001</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="63/6162">Henrik M&#252;he</author>
+<title>HyPer: Adapting Columnar Main-Memory Data Management for Transactional AND Query Processing.</title>
+<pages>46-51</pages>
+<year>2012</year>
+<volume>35</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A12mar/hyper.pdf</ee>
+<url>db/journals/debu/debu35.html#KemperNFLM12</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/FenderMNL12" mdate="2023-03-24">
+<author pid="37/9582">Pit Fender</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="10/11150">Viktor Leis</author>
+<title>Effective and Robust Pruning for Top-Down Join Enumeration Algorithms.</title>
+<pages>414-425</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.27</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2012.27</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#FenderMNL12</url>
+</inproceedings>
+</r>
+<coauthors n="88" nc="3">
+<co c="0"><na f="a/Albutiu:Martina=Cezara" pid="70/3630">Martina-Cezara Albutiu</na></co>
+<co c="0"><na f="a/Alhomssi:Adnan" pid="231/3712">Adnan Alhomssi</na></co>
+<co c="0"><na f="a/Andersen:David_G=" pid="a/DavidGAndersen">David G. Andersen</na></co>
+<co c="0"><na f="b/Beischl:Alexander" pid="266/5816">Alexander Beischl</na></co>
+<co c="0"><na f="b/Bernstein:Philip_A=" pid="b/PhilipABernstein">Philip A. Bernstein</na></co>
+<co c="2"><na f="b/Binna:Robert" pid="74/10151">Robert Binna</na></co>
+<co c="0"><na f="b/Binnig:Carsten" pid="45/1559">Carsten Binnig</na></co>
+<co c="1"><na f="b/Blacher:Mark" pid="277/9082">Mark Blacher</na></co>
+<co c="0"><na f="b/Boncz:Peter_A=" pid="b/PeterABoncz">Peter A. Boncz</na></co>
+<co c="0"><na f="b/B=ouml=ttcher:Jan" pid="196/1402">Jan B&#246;ttcher</na></co>
+<co c="0"><na f="c/Chronis:Yannis" pid="176/4991">Yannis Chronis</na></co>
+<co c="0"><na f="c/Crotty:Andrew" pid="147/4971">Andrew Crotty</na></co>
+<co c="0"><na f="d/Dietrich_0001:Christian" pid="30/5956-1">Christian Dietrich 0001</na></co>
+<co c="0"><na f="d/Doi:Yoshiyasu" pid="90/9729">Yoshiyasu Doi</na></co>
+<co c="0"><na f="d/Durner:Dominik" pid="241/5228">Dominik Durner</na></co>
+<co c="0"><na f="f/Fender:Pit" pid="37/9582">Pit Fender</na></co>
+<co c="0"><na f="f/Fent:Philipp" pid="265/9606">Philipp Fent</na></co>
+<co c="0"><na f="f/Finis:Jan" pid="127/0410">Jan Finis</na></co>
+<co c="0"><na f="f/Funke_0001:Florian" pid="69/9320">Florian Funke 0001</na></co>
+<co c="0"><na f="g/Gessert:Felix" pid="150/7054">Felix Gessert</na></co>
+<co c="0"><na f="g/Giceva:Jana" pid="32/7263">Jana Giceva</na></co>
+<co c="1"><na f="g/Giesen:Joachim" pid="30/3504">Joachim Giesen</na></co>
+<co c="0"><na f="g/G=ouml=tze:Philipp" pid="180/3158">Philipp G&#246;tze</na></co>
+<co c="0"><na f="g/Gubichev:Andrey" pid="01/8701">Andrey Gubichev</na></co>
+<co c="0"><na f="g/Gubner:Tim" pid="220/2576">Tim Gubner</na></co>
+<co c="0"><na f="h/Haas_0002:Gabriel" pid="161/3104-2">Gabriel Haas 0002</na></co>
+<co c="0"><na f="h/Halfpap:Stefan" pid="74/9320">Stefan Halfpap</na></co>
+<co c="0"><na f="h/Harada:Lilian" pid="86/1280">Lilian Harada</na></co>
+<co c="0"><na f="h/Hashida:Takushi" pid="27/6449">Takushi Hashida</na></co>
+<co c="0"><na f="h/Haubenschild:Michael" pid="185/1272">Michael Haubenschild</na></co>
+<co c="0"><na f="h/Hutzelmann:Thomas" pid="204/3591">Thomas Hutzelmann</na></co>
+<co c="0"><na f="i/Idreos:Stratos" pid="i/StratosIdreos">Stratos Idreos</na></co>
+<co c="0"><na f="i/Imamura:Satoshi" pid="85/2108">Satoshi Imamura</na></co>
+<co c="0"><na f="k/Kaminsky:Michael" pid="09/4259">Michael Kaminsky</na></co>
+<co c="0"><na f="k/Keeton:Kimberly" pid="k/KimberlyKeeton">Kimberly Keeton</na></co>
+<co c="0"><na f="k/Kemper:Alfons" pid="k/AlfonsKemper">Alfons Kemper</na></co>
+<co c="0"><na f="k/Kersten:Timo" pid="198/5903">Timo Kersten</na></co>
+<co c="0"><na f="k/Kipf:Andreas" pid="167/6469">Andreas Kipf</na></co>
+<co c="0"><na f="k/Kipf:Thomas" pid="186/8206">Thomas Kipf</na></co>
+<co c="1"><na f="k/Klaus:Julien" pid="246/1576">Julien Klaus</na></co>
+<co c="0"><na f="k/Kohn_0001:Andr=eacute=" pid="166/9216-1">Andr&#233; Kohn 0001</na></co>
+<co c="0"><na f="k/Kundhikanjana:Kan" pid="163/6769">Kan Kundhikanjana</na></co>
+<co c="0"><na f="k/Kuschewski:Maximilian" pid="287/9018">Maximilian Kuschewski</na></co>
+<co c="0"><na f="l/Lang:Harald" pid="150/9460">Harald Lang</na></co>
+<co c="1"><na f="l/Laue:S=ouml=ren" pid="71/5078">S&#246;ren Laue</na></co>
+<co c="0"><na f="l/Lersch:Lucas" pid="180/3171">Lucas Lersch</na></co>
+<co c="0"><na f="l/Lim:Hyeontaek" pid="57/2227">Hyeontaek Lim</na></co>
+<co c="0"><na f="l/Loeck:Yannick" pid="327/6301">Yannick Loeck</na></co>
+<co c="0"><na f="m/Mirchev:Atanas" pid="171/4448">Atanas Mirchev</na></co>
+<co c="0"><na f="m/Moerkotte:Guido" pid="m/GuidoMoerkotte">Guido Moerkotte</na></co>
+<co c="0"><na f="m/Mohan:Dwarakanandan_Bindiganavile" pid="322/2220">Dwarakanandan Bindiganavile Mohan</na></co>
+<co c="0"><na f="m/M=uuml=he:Henrik" pid="63/6162">Henrik M&#252;he</na></co>
+<co c="0"><na f="m/M=uuml=hlbauer:Tobias" pid="74/11109">Tobias M&#252;hlbauer</na></co>
+<co c="0"><na f="m/M=uuml=ller:Jonas" pid="154/0378">Jonas M&#252;ller</na></co>
+<co c="0"><na f="n/Nelson=Slivon:Jacob" pid="35/9256-2">Jacob Nelson-Slivon</na></co>
+<co c="0"><na f="n/Neumann_0001:Thomas" pid="n/ThomasNeumann">Thomas Neumann 0001</na></co>
+<co c="0"><na f="n/Nica:Anisoara" pid="76/4130">Anisoara Nica</na></co>
+<co c="0"><na f="o/Oe:Kazuichi" pid="159/4403">Kazuichi Oe</na></co>
+<co c="0"><na f="o/Oukid:Ismail" pid="135/3665">Ismail Oukid</na></co>
+<co c="0"><na f="p/Pavlo:Andrew" pid="58/4127">Andrew Pavlo</na></co>
+<co c="2"><na f="p/Pichl:Martin" pid="156/1492">Martin Pichl</na></co>
+<co c="0"><na f="r/Radke:Bernhard" pid="219/9678">Bernhard Radke</na></co>
+<co c="0"><na f="r/Renen:Alexander_van" pid="219/9679">Alexander van Renen</na></co>
+<co c="0"><na f="r/R=ouml=diger:Wolf" pid="126/2050">Wolf R&#246;diger</na></co>
+<co c="0"><na f="r/Rosenberger:Tobias" pid="204/3623">Tobias Rosenberger</na></co>
+<co c="0"><na f="s/Sato:Mitsuru" pid="16/407">Mitsuru Sato</na></co>
+<co c="0"><na f="s/Sattler:Kai=Uwe" pid="s/KaiUweSattler">Kai-Uwe Sattler</na></co>
+<co c="0"><na f="s/Sauer:Caetano" pid="37/10151">Caetano Sauer</na></co>
+<co c="0"><na f="s/Sauerwein:David" pid="327/8089">David Sauerwein</na></co>
+<co c="0"><na f="s/Scheibner:Florian" pid="180/8565">Florian Scheibner</na></co>
+<co c="0"><na f="s/Schliski:Pascal" pid="204/3556">Pascal Schliski</na></co>
+<co c="0"><na f="s/Schmei=szlig=er:Josef" pid="246/0893">Josef Schmei&#223;er</na></co>
+<co c="0"><na f="s/Sch=uuml=le:Maximilian_E=" pid="204/3776">Maximilian E. Sch&#252;le</na></co>
+<co c="0"><na f="s/Seltzer:Margo_I=" pid="s/MargoISeltzer">Margo I. Seltzer</na></co>
+<co c="2"><na f="s/Specht:G=uuml=nther" pid="s/GuntherSpecht">G&#252;nther Specht</na></co>
+<co c="1"><na f="s/Staudt:Christoph" pid="299/5431">Christoph Staudt</na></co>
+<co c="0"><na f="s/Stolze:Knut" pid="s/KnutStolze">Knut Stolze</na></co>
+<co c="0"><na f="t/Then:Manuel" pid="136/3259">Manuel Then</na></co>
+<co c="0"><na f="v/Vogel_0001:Lukas" pid="183/6378-1">Lukas Vogel 0001</na></co>
+<co c="0"><na f="v/Vogelsgesang:Adrian" pid="220/6872">Adrian Vogelsgesang</na></co>
+<co c="-1"><na f="v/V=ouml=hringer:Demian_E=" pid="249/4059">Demian E. V&#246;hringer</na></co>
+<co c="0"><na f="v/Vorona:Dimitri" pid="163/6966">Dimitri Vorona</na></co>
+<co c="0"><na f="w/Wang_0007:Ziqi" pid="38/8097-7">Ziqi Wang 0007</na></co>
+<co c="0"><na f="w/Wingerath:Wolfram" pid="146/6282">Wolfram Wingerath</na></co>
+<co c="2"><na f="z/Zangerle:Eva" pid="31/8199">Eva Zangerle</na></co>
+<co c="0"><na f="z/Zhang:Huanchen" pid="13/8730">Huanchen Zhang</na></co>
+<co c="0"><na f="z/Ziegler_0001:Tobias" pid="146/6632">Tobias Ziegler 0001</na></co>
+<co c="0"><na f="z/Zukowski:Marcin" pid="40/4880">Marcin Zukowski</na></co>
+</coauthors>
+</dblpperson>

@@ -1,0 +1,880 @@
+<dblpperson name="Mauricio A. Hern&#225;ndez" pid="56/451" n="40">
+<person key="homepages/56/451" mdate="2009-06-09">
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+</person>
+<r><inproceedings key="conf/icdcs/CLGBHM19" mdate="2019-11-06">
+<author pid="205/9137">Rajmohan C</author>
+<author pid="188/6387">Pranay Lohia</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="99/6888">Siddhartha Brahma</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="91/877">Sameep Mehta</author>
+<title>On Efficiently Processing Workflow Provenance Queries in Spark.</title>
+<pages>1443-1452</pages>
+<year>2019</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS.2019.00144</ee>
+<crossref>conf/icdcs/2019</crossref>
+<url>db/conf/icdcs/icdcs2019.html#CLGBHM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coling/BhutaniQ0JHV18" mdate="2021-08-06">
+<author pid="188/9073">Nikita Bhutani</author>
+<author pid="77/2062-2">Kun Qian 0002</author>
+<author pid="60/2319">Yunyao Li 0001</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="02/300">Mitesh Vasa</author>
+<title>Exploiting Structure in Representation of Named Entities using Active Learning.</title>
+<pages>687-699</pages>
+<year>2018</year>
+<booktitle>COLING</booktitle>
+<ee type="oa">https://aclanthology.org/C18-1058/</ee>
+<crossref>conf/coling/2018</crossref>
+<url>db/conf/coling/coling2018.html#BhutaniQ0JHV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/0002B0JH18" mdate="2023-03-23">
+<author pid="77/2062-2">Kun Qian 0002</author>
+<author pid="188/9073">Nikita Bhutani</author>
+<author pid="60/2319">Yunyao Li 0001</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<title>LUSTRE: An Interactive System for Entity Structured Representation and Variant Generation.</title>
+<pages>1613-1616</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00189</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00189</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#0002B0JH18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-08424" mdate="2018-09-02">
+<author pid="205/9137">Rajmohan C</author>
+<author pid="188/6387">Pranay Lohia</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="99/6888">Siddhartha Brahma</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="91/877">Sameep Mehta</author>
+<title>Efficiently Processing Workflow Provenance Queries on SPARK.</title>
+<year>2018</year>
+<volume>abs/1808.08424</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.08424</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-08424</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BharadwajCDDDCG17" mdate="2021-10-14">
+<author pid="204/3688">Shreyas Bharadwaj</author>
+<author pid="c/LauraChiticariu">Laura Chiticariu</author>
+<author pid="22/8355">Marina Danilevsky</author>
+<author pid="204/3793">Samarth Dhingra</author>
+<author pid="204/3819">Samved Divekar</author>
+<author pid="65/11457">Arnaldo Carreno-Fuentes</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="12/1770-5">Nitin Gupta 0005</author>
+<author pid="204/3677">Sang-Don Han</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="h/ChingTienHo">Howard Ho</author>
+<author pid="98/1178">Parag Jain</author>
+<author pid="22/835-1">Salil Joshi 0001</author>
+<author pid="230/8590">Hima Karanam</author>
+<author pid="204/3759">Saravanan Krishnan</author>
+<author pid="51/6067">Rajasekar Krishnamurthy</author>
+<author pid="60/2319">Yunyao Li 0001</author>
+<author pid="204/3633">Satishkumaar Manivannan</author>
+<author pid="184/1441">Ashish R. Mittal</author>
+<author orcid="0000-0002-4418-4724" pid="o/FatmaOzcan">Fatma Ozcan</author>
+<author pid="127/6195">Abdul Quamar</author>
+<author pid="266/2891">Poornima Raman</author>
+<author pid="54/4272">Diptikalyan Saha</author>
+<author pid="74/4923">Karthik Sankaranarayanan</author>
+<author pid="129/8181">Jaydeep Sen</author>
+<author pid="58/1388">Prithviraj Sen</author>
+<author pid="81/6125">Shivakumar Vaithyanathan</author>
+<author pid="02/300">Mitesh Vasa</author>
+<author pid="181/2812">Hao Wang</author>
+<author pid="17/5913-1">Huaiyu Zhu 0001</author>
+<title>Creation and Interaction with Large-scale Domain-Specific Knowledge Bases.</title>
+<pages>1965-1968</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p1965-Danilevsky.pdf</ee>
+<ee>https://doi.org/10.14778/3137765.3137820</ee>
+<url>db/journals/pvldb/pvldb10.html#BharadwajCDDDCG17</url>
+</article>
+</r>
+<r><article key="journals/pvldb/HassanzadehPYMPHH13" mdate="2020-04-25">
+<author orcid="0000-0001-5307-9857" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="20/2043">Ken Q. Pu</author>
+<author pid="86/1462">Soheil Hassas Yeganeh</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="h/ChingTienHo">Howard Ho</author>
+<title>Discovering Linkage Points over Web Data.</title>
+<pages>444-456</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p445-hassanzadeh.pdf</ee>
+<ee>https://doi.org/10.14778/2536336.2536345</ee>
+<ee>https://www.wikidata.org/entity/Q57019370</ee>
+<url>db/journals/pvldb/pvldb6.html#HassanzadehPYMPHH13</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/HernandezHJWAKSV13" mdate="2021-03-31">
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="h/KirstenHildrum">Kirsten Hildrum</author>
+<author pid="32/465-1">Prateek Jain 0001</author>
+<author pid="40/1228">Rohit Wagle</author>
+<author pid="05/6762">Bogdan Alexe</author>
+<author pid="51/6067">Rajasekar Krishnamurthy</author>
+<author pid="s/IoanaStanoi">Ioana Roxana Stanoi</author>
+<author pid="49/2856">Chitra Venkatramani</author>
+<title>Constructing consumer profiles from social media data.</title>
+<pages>710-716</pages>
+<year>2013</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData.2013.6691641</ee>
+<crossref>conf/bigdataconf/2013</crossref>
+<url>db/conf/bigdataconf/bigdataconf2013.html#HernandezHJWAKSV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/birthday/AlexeBHKKPSW13" mdate="2017-12-25">
+<author pid="05/6762">Bogdan Alexe</author>
+<author pid="42/2076">Douglas Burdick</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="k/GeorgiaKoutrika">Georgia Koutrika</author>
+<author pid="51/6067">Rajasekar Krishnamurthy</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<author pid="s/IoanaStanoi">Ioana Stanoi</author>
+<author pid="62/829">Ryan Wisnesky</author>
+<title>High-Level Rules for Integration and Analysis of Data: New Challenges.</title>
+<pages>36-55</pages>
+<year>2013</year>
+<booktitle>In Search of Elegance in the Theory and Practice of Computation</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41660-6_3</ee>
+<crossref>conf/birthday/2013buneman</crossref>
+<url>db/conf/birthday/buneman2013.html#AlexeBHKKPSW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/HernandezKKPW13" mdate="2018-11-06">
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="k/GeorgiaKoutrika">Georgia Koutrika</author>
+<author pid="51/6067">Rajasekar Krishnamurthy</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<author pid="62/829">Ryan Wisnesky</author>
+<title>HIL: a high-level scripting language for entity integration.</title>
+<pages>549-560</pages>
+<year>2013</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/2452376.2452440</ee>
+<crossref>conf/edbt/2013</crossref>
+<url>db/conf/edbt/edbt2013.html#HernandezKKPW13</url>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/AlexeHPT12" mdate="2017-12-25">
+<author pid="05/6762">Bogdan Alexe</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<author pid="t/WangChiewTan">Wang Chiew Tan</author>
+<title>MapMerge: correlating independent schema mappings.</title>
+<pages>191-211</pages>
+<year>2012</year>
+<volume>21</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-012-0264-z</ee>
+<url>db/journals/vldb/vldb21.html#AlexeHPT12</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/AlexeHHKKNRSSVW12" mdate="2018-11-06">
+<author pid="05/6762">Bogdan Alexe</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="h/KirstenHildrum">Kirsten Hildrum</author>
+<author pid="51/6067">Rajasekar Krishnamurthy</author>
+<author pid="k/GeorgiaKoutrika">Georgia Koutrika</author>
+<author pid="19/3517">Meenakshi Nagarajan</author>
+<author pid="94/4396">Haggai Roitman</author>
+<author pid="s/MShmueliS">Michal Shmueli-Scheuer</author>
+<author pid="s/IoanaStanoi">Ioana Roxana Stanoi</author>
+<author pid="49/2856">Chitra Venkatramani</author>
+<author pid="40/1228">Rohit Wagle</author>
+<title>Surfacing time-critical insights from social media.</title>
+<pages>657-660</pages>
+<year>2012</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2213836.2213925</ee>
+<crossref>conf/sigmod/2012</crossref>
+<url>db/conf/sigmod/sigmod2012.html#AlexeHHKKNRSSVW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/BohmFHLMNEHHS12" mdate="2018-11-06">
+<author pid="76/5838-1">Christoph B&#246;hm 0001</author>
+<author pid="57/8503">Markus Freitag</author>
+<author pid="94/8269">Arvid Heise</author>
+<author pid="79/8503">Claudia Lehmann</author>
+<author pid="76/8503">Andrina Mascher</author>
+<author orcid="0000-0002-4483-1389" pid="n/FelixNaumann">Felix Naumann</author>
+<author pid="58/4208">Vuk Ercegovac</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="h/PeterHaase1">Peter Haase 0001</author>
+<author pid="156/1960-2">Michael Schmidt 0002</author>
+<title>GovWILD: integrating open government data for transparency.</title>
+<pages>321-324</pages>
+<year>2012</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2187980.2188039</ee>
+<crossref>conf/www/2012c</crossref>
+<url>db/conf/www/www2012c.html#BohmFHLMNEHHS12</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/BurdickHHKKPSVD11" mdate="2020-03-10">
+<author pid="42/2076">Douglas Burdick</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="h/ChingTienHo">Howard Ho</author>
+<author pid="k/GeorgiaKoutrika">Georgia Koutrika</author>
+<author pid="51/6067">Rajasekar Krishnamurthy</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<author pid="s/IoanaStanoi">Ioana Stanoi</author>
+<author pid="81/6125">Shivakumar Vaithyanathan</author>
+<author pid="51/7888">Sanjiv R. Das</author>
+<title>Extracting, Linking and Integrating Data from Public Sources: A Financial Case Study.</title>
+<pages>60-67</pages>
+<year>2011</year>
+<volume>34</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<ee type="oa">http://sites.computer.org/debull/A11sept/midas-deb1.pdf</ee>
+<url>db/journals/debu/debu34.html#BurdickHHKKPSVD11</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AlexeHPT10" mdate="2020-04-25">
+<author pid="05/6762">Bogdan Alexe</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<author pid="t/WangChiewTan">Wang Chiew Tan</author>
+<title>MapMerge: Correlating Independent Schema Mappings.</title>
+<pages>81-92</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R07.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920857</ee>
+<url>db/journals/pvldb/pvldb3.html#AlexeHPT10</url>
+</article>
+</r>
+<r><article key="journals/pvldb/HerschelH10" mdate="2020-04-25">
+<author pid="w/MelanieWeis">Melanie Herschel</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<title>Explaining Missing Answers to SPJUA Queries.</title>
+<pages>185-196</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R16.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920869</ee>
+<url>db/journals/pvldb/pvldb3.html#HerschelH10</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdt/WisneskyHP10" mdate="2018-11-06">
+<author pid="62/829">Ryan Wisnesky</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<title>Mapping polymorphism.</title>
+<pages>196-208</pages>
+<year>2010</year>
+<booktitle>ICDT</booktitle>
+<ee>https://doi.org/10.1145/1804669.1804695</ee>
+<crossref>conf/icdt/2010</crossref>
+<url>db/conf/icdt/icdt2010.html#WisneskyHP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BalakrishnanCHHKLPPPRSSTVY10" mdate="2020-09-07">
+<author pid="44/5071">Sreeram Balakrishnan</author>
+<author pid="58/2629">Vivian Chu</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="h/ChingTienHo">Howard Ho</author>
+<author pid="51/6067">Rajasekar Krishnamurthy</author>
+<author pid="22/904">Shixia Liu</author>
+<author pid="00/1378">Jan Pieper</author>
+<author pid="95/4715">Jeffrey S. Pierce</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<author pid="50/7042">Christine Robson</author>
+<author pid="29/563-2">Lei Shi 0002</author>
+<author pid="s/IoanaStanoi">Ioana Roxana Stanoi</author>
+<author pid="57/8166">Edison L. Ting</author>
+<author pid="81/6125">Shivakumar Vaithyanathan</author>
+<author pid="84/4010">Huahai Yang</author>
+<title>Midas: integrating public financial data.</title>
+<pages>1187-1190</pages>
+<year>2010</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1807167.1807315</ee>
+<crossref>conf/sigmod/2010</crossref>
+<url>db/conf/sigmod/sigmod2010.html#BalakrishnanCHHKLPPPRSSTVY10</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/HerschelHT09" mdate="2020-04-25">
+<author pid="w/MelanieWeis">Melanie Herschel</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="t/WangChiewTan">Wang Chiew Tan</author>
+<title>Artemis: A System for Analyzing Missing Answers.</title>
+<pages>1550-1553</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-1004.pdf</ee>
+<ee>https://doi.org/10.14778/1687553.1687588</ee>
+<url>db/journals/pvldb/pvldb2.html#HerschelHT09</url>
+</article>
+</r>
+<r><inproceedings key="conf/birthday/FaginHHMPV09" mdate="2021-10-14">
+<author pid="f/RonaldFagin">Ronald Fagin</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<author orcid="0000-0001-6332-0296" pid="v/YannisVelegrakis">Yannis Velegrakis</author>
+<title>Clio: Schema Mapping Creation and Data Exchange.</title>
+<pages>198-236</pages>
+<year>2009</year>
+<booktitle>Conceptual Modeling: Foundations and Applications</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02463-4_12</ee>
+<ee>https://www.wikidata.org/entity/Q60431739</ee>
+<crossref>conf/birthday/2009mylopoulos</crossref>
+<url>db/conf/birthday/mylopoulos2009.html#FaginHHMPV09</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/HernandezPT08" mdate="2023-10-22">
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="t/WangChiewTan">Wang Chiew Tan</author>
+<title>Data exchange with data-metadata translations.</title>
+<pages>260-273</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1453888.pdf</ee>
+<ee>https://doi.org/10.14778/1453856.1453888</ee>
+<ee>https://www.wikidata.org/entity/Q122929672</ee>
+<url>db/journals/pvldb/pvldb1.html#HernandezPT08</url>
+</article>
+</r>
+<r><inproceedings key="conf/birte/AlexeGHHHKPSS08" mdate="2018-11-02">
+<author pid="05/6762">Bogdan Alexe</author>
+<author pid="10/5842">Michael N. Gubanov</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="h/ChingTienHo">C. T. Howard Ho</author>
+<author orcid="0000-0001-5482-8311" pid="29/5543">Jen-Wei Huang</author>
+<author pid="75/4070">Yannis Katsis</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/IoanaStanoi">Ioana Stanoi</author>
+<title>Simplifying Information Integration: Object-Based Flow-of-Mappings Framework for Integration.</title>
+<pages>108-121</pages>
+<year>2008</year>
+<booktitle>BIRTE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-03422-0_9</ee>
+<crossref>conf/birte/2008</crossref>
+<url>db/conf/birte/birte2008.html#AlexeGHHHKPSS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/RaffioBCPH08" mdate="2023-03-24">
+<author pid="20/4134">Alessandro Raffio</author>
+<author pid="12/5322">Daniele Braga</author>
+<author pid="c/StefanoCeri">Stefano Ceri</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<title>Clip: a Visual Language for Explicit Schema Mappings.</title>
+<pages>30-39</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497411</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497411</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#RaffioBCPH08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/DesslochHWRZ08" mdate="2023-03-24">
+<author pid="d/SDessloch">Stefan Dessloch</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="62/829">Ryan Wisnesky</author>
+<author pid="05/5622">Ahmed Radwan</author>
+<author pid="99/4948">Jindan Zhou</author>
+<title>Orchid: Integrating Schema Mapping and ETL.</title>
+<pages>1307-1316</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497540</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497540</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#DesslochHWRZ08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/RaffioBCPH08" mdate="2018-11-06">
+<author pid="20/4134">Alessandro Raffio</author>
+<author pid="12/5322">Daniele Braga</author>
+<author pid="c/StefanoCeri">Stefano Ceri</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<title>Clip: a tool for mapping hierarchical schemas.</title>
+<pages>1271-1274</pages>
+<year>2008</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1376616.1376753</ee>
+<crossref>conf/sigmod/2008</crossref>
+<url>db/conf/sigmod/sigmod2008.html#RaffioBCPH08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/HernandezHPFMFP07" mdate="2023-03-24">
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="h/ChingTienHo">Howard Ho</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<author pid="90/1367">Ariel Fuxman</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="72/6093">Takeshi Fukuda</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<title>Creating Nested Mappings with Clio.</title>
+<pages>1487-1488</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.369046</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2007.369046</ee>
+<url>db/conf/icde/icde2007.html#HernandezHPFMFP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ChiticariuHPK07" mdate="2020-03-12">
+<author pid="c/LauraChiticariu">Laura Chiticariu</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="k/PGKolaitis">Phokion G. Kolaitis</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<title>Semi-Automatic Schema Integration in Clio.</title>
+<pages>1326-1329</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/demo/p1326-chiticariu.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#ChiticariuHPK07</url>
+</inproceedings>
+</r>
+<r><article key="journals/ibmsj/RothHCYPHS06" mdate="2020-03-13">
+<author pid="r/MaryRoth">Mary Roth</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="69/2215">Phil Coulthard</author>
+<author pid="y/LingLingYan">Ling-Ling Yan</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<author pid="h/ChingTienHo">C. T. Howard Ho</author>
+<author pid="93/3770">C. C. Salter</author>
+<title>XML mapping technology: Making connections in an XML-centric world.</title>
+<pages>389-410</pages>
+<year>2006</year>
+<volume>45</volume>
+<journal>IBM Syst. J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1147/sj.452.0389</ee>
+<url>db/journals/ibmsj/ibmsj45.html#RothHCYPHS06</url>
+</article>
+</r>
+<r><inproceedings key="conf/vldb/FuxmanHHMPP06" mdate="2020-03-12">
+<author pid="90/1367">Ariel Fuxman</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="h/ChingTienHo">C. T. Howard Ho</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<title>Nested Mappings: Schema Mapping Reloaded.</title>
+<pages>67-78</pages>
+<year>2006</year>
+<crossref>conf/vldb/2006</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1164135</ee>
+<ee type="oa">http://www.vldb.org/conf/2006/p67-fuxman.pdf</ee>
+<url>db/conf/vldb/vldb2006.html#FuxmanHHMPP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispan/HernandezPHN05" mdate="2023-03-24">
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<author pid="h/ChingTienHo">Howard Ho</author>
+<author orcid="0000-0002-4483-1389" pid="n/FelixNaumann">Felix Naumann</author>
+<title>Clio: A Schema Mapping Tool for Information Integration.</title>
+<pages>11</pages>
+<year>2005</year>
+<booktitle>ISPAN</booktitle>
+<ee>https://doi.org/10.1109/ISPAN.2005.25</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISPAN.2005.25</ee>
+<crossref>conf/ispan/2005</crossref>
+<url>db/conf/ispan/ispan2005.html#HernandezPHN05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HaasHHPR05" mdate="2018-11-06">
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="h/ChingTienHo">Howard Ho</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<author pid="r/MaryRoth">Mary Roth</author>
+<title>Clio grows up: from research prototype to industrial tool.</title>
+<pages>805-810</pages>
+<year>2005</year>
+<crossref>conf/sigmod/2005</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1066157.1066252</ee>
+<url>db/conf/sigmod/sigmod2005.html#HaasHHPR05</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/AndritsosFFHHHKMNPVVY02" mdate="2020-03-10">
+<author pid="52/1486">Periklis Andritsos</author>
+<author pid="f/RonaldFagin">Ronald Fagin</author>
+<author pid="90/1367">Ariel Fuxman</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="h/ChingTienHo">C. T. Howard Ho</author>
+<author pid="41/5464">Anastasios Kementsietsidis</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="n/FelixNaumann">Felix Naumann</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<author pid="v/YannisVelegrakis">Yannis Velegrakis</author>
+<author pid="13/4768">Charlotte Vilarem</author>
+<author pid="y/LingLingYan">Ling-Ling Yan</author>
+<title>Schema Management.</title>
+<pages>32-38</pages>
+<year>2002</year>
+<ee type="oa">http://sites.computer.org/debull/A02SEP-CD.pdf</ee>
+<volume>25</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<url>db/journals/debu/debu25.html#AndritsosFFHHHKMNPVVY02</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/HernandezPVMNH02" mdate="2023-03-24">
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<author pid="v/YannisVelegrakis">Yannis Velegrakis</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author orcid="0000-0002-4483-1389" pid="n/FelixNaumann">Felix Naumann</author>
+<author pid="h/ChingTienHo">Ching-Tien Ho</author>
+<title>Mapping XML and Relational Schemas with Clio.</title>
+<pages>498-499</pages>
+<year>2002</year>
+<crossref>conf/icde/2002</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2002.994768</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2002.994768</ee>
+<url>db/conf/icde/icde2002.html#HernandezPVMNH02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/PopaVMHF02" mdate="2020-03-12">
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<author pid="v/YannisVelegrakis">Yannis Velegrakis</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="f/RonaldFagin">Ronald Fagin</author>
+<title>Translating Web Data.</title>
+<year>2002</year>
+<crossref>conf/vldb/2002</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2002.html#PopaVMHF02</url>
+<ee type="oa">http://www.vldb.org/conf/2002/S17P02.pdf</ee>
+<ee>https://doi.org/10.1016/B978-155860869-6/50059-7</ee>
+<pages>598-609</pages>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/MillerHHYHFP01" mdate="2020-03-06">
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="y/LingLingYan">Ling-Ling Yan</author>
+<author pid="h/ChingTienHo">C. T. Howard Ho</author>
+<author pid="f/RonaldFagin">Ronald Fagin</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<title>The Clio Project: Managing Heterogeneity.</title>
+<pages>78-83</pages>
+<year>2001</year>
+<volume>30</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/373626.373713</ee>
+<url>db/journals/sigmod/sigmod30.html#MillerHHYHFP01</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/HernandezMHYHT01" mdate="2021-03-12">
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<title>Clio: A Semi-Automatic Tool For Schema Mapping.</title>
+<pages>607</pages>
+<year>2001</year>
+<crossref>conf/sigmod/2001</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2001.html#HernandezMHYHT01</url>
+<ee>https://doi.org/10.1145/375663.375767</ee>
+<ee>https://doi.org/10.1145/376284.375767</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/MillerHH00" mdate="2020-03-12">
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<title>Schema Mapping as Query Discovery.</title>
+<pages>77-88</pages>
+<ee type="oa">http://www.vldb.org/conf/2000/P077.pdf</ee>
+<year>2000</year>
+<crossref>conf/vldb/2000</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2000.html#MillerHH00</url>
+<cite label="ACM97">conf/icdt/AbiteboulCM97</cite>
+<cite label="AH88">journals/tcs/AbiteboulH88</cite>
+<cite label="Bel97">conf/ecsqaru/Bell97</cite>
+<cite label="BGH99">...</cite>
+<cite label="BHP94">journals/tods/BrightHP94</cite>
+<cite label="CDSS98">conf/sigmod/CluetDSS98</cite>
+<cite label="CHS+95">conf/ride/CareyHSACFFLNPTWW95</cite>
+<cite label="Dat95">books/aw/Date95</cite>
+<cite label="DPT99">conf/vldb/DeutschPT99</cite>
+<cite label="GL94">conf/sigmod/Galindo-Legaria94</cite>
+<cite label="GLR97">journals/tods/Galindo-LegariaR97</cite>
+<cite label="HMN+99">journals/debu/HaasMNRSW99</cite>
+<cite label="HMPR97">...</cite>
+<cite label="Hul86">journals/siamcomp/Hull86</cite>
+<cite label="HY92">conf/birthday/HullY92</cite>
+<cite label="IBM97">...</cite>
+<cite label="Joh97">journals/dke/Johannesson97</cite>
+<cite label="KMRS92">...</cite>
+<cite label="LMSS95">conf/pods/LevyMSS95</cite>
+<cite label="MG99">...</cite>
+<cite label="MHH00">...</cite>
+<cite label="Mil98">conf/sigmod/Miller98</cite>
+<cite label="MIR93">conf/vldb/MillerIR93</cite>
+<cite label="MIR94">journals/is/MillerIR94</cite>
+<cite label="MOTU93">...</cite>
+<cite label="MZ98">conf/vldb/MiloZ98</cite>
+<cite label="Ora">...</cite>
+<cite label="RCH99">conf/dmkd/RamanCH99</cite>
+<cite label="RR94">journals/tods/RosenthalR94</cite>
+<cite label="RR99">...</cite>
+<cite label="RS97">conf/vldb/RothS97</cite>
+<cite label="RU96">conf/pods/RajaramanU96</cite>
+<cite label="W3C99">...</cite>
+</inproceedings>
+</r>
+<r><article key="journals/datamine/HernandezS98" mdate="2017-05-20">
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="s/SalvatoreJStolfo">Salvatore J. Stolfo</author>
+<title>Real-world Data is Dirty: Data Cleansing and The Merge/Purge Problem.</title>
+<pages>9-37</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>1</number>
+<url>db/journals/datamine/datamine2.html#HernandezS98</url>
+<ee>https://doi.org/10.1023/A:1009761603038</ee>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/HernandezS95" mdate="2021-06-11">
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="s/SalvatoreJStolfo">Salvatore J. Stolfo</author>
+<title>The Merge/Purge Problem for Large Databases.</title>
+<pages>127-138</pages>
+<year>1995</year>
+<crossref>conf/sigmod/95</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod95.html#HernandezS95</url>
+<ee>https://doi.org/10.1145/223784.223807</ee>
+<ee>https://doi.org/10.1145/568271.223807</ee>
+<cdrom>SIGMOD95/P127.PDF</cdrom>
+<cite>conf/dpds/AgrawalJ88</cite>
+<cite>journals/cacm/Bickel87</cite>
+<cite>journals/tods/BittonD83</cite>
+<cite>conf/pdis/DewanHMS94</cite>
+<cite>conf/vldb/DeWittNS91</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/siamam/Graham69</cite>
+<cite>...</cite>
+<cite>journals/sigmod/Kent91</cite>
+<cite>journals/csur/Kukich92</cite>
+<cite>...</cite>
+<cite>conf/sigmod/NybergBCGL94</cite>
+<cite>conf/icde/WongM89</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdis/DewanHMS94" mdate="2023-03-24">
+<author pid="38/5713">Hasanat M. Dewan</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="49/971">Kui W. Mok</author>
+<author pid="s/SalvatoreJStolfo">Salvatore J. Stolfo</author>
+<title>Predictive Dynamic Load Balancing of Parallel Hash-Joins Over Heterogeneous Processors in the Presence of Data Skew.</title>
+<pages>40-49</pages>
+<cdrom>PDIS1994/P040.pdf</cdrom>
+<year>1994</year>
+<booktitle>PDIS</booktitle>
+<url>db/conf/pdis/pdis94.html#DewanHMS94</url>
+<crossref>conf/pdis/94</crossref>
+<ee>https://doi.org/10.1109/PDIS.1994.331734</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PDIS.1994.331734</ee>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/vldb/DeWittNSS92</cite>
+<cite>conf/vldb/KitsuregawaO90</cite>
+<cite>conf/sigmod/SchneiderD89</cite>
+<cite>...</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DewanSHH94" mdate="2021-03-22">
+<author pid="38/5713">Hasanat M. Dewan</author>
+<author pid="s/SalvatoreJStolfo">Salvatore J. Stolfo</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="13/5657">Jae-Jun Hwang</author>
+<title>Predictive Dynamic Load Balancing of Parallel and Distributed Rule and Query Processing.</title>
+<pages>277-288</pages>
+<year>1994</year>
+<crossref>conf/sigmod/94</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod94.html#DewanSHH94</url>
+<ee>https://doi.org/10.1145/191839.191893</ee>
+<ee>https://doi.org/10.1145/191843.191893</ee>
+<cdrom>SIGMOD94/P277.PDF</cdrom>
+<cite>journals/tcs/AbiteboulS91</cite>
+<cite>conf/sigmod/BrantM93</cite>
+<cite>conf/sigmod/CopelandABK88</cite>
+<cite>...</cite>
+<cite>journals/jiis/DewanOSWS92</cite>
+<cite>conf/ismis/DewanS93</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/cacm/DeWittG92</cite>
+<cite>conf/sigmod/Group88</cite>
+<cite>conf/sigmod/Hanson92</cite>
+<cite>conf/sigmod/McCarthyD89</cite>
+<cite>conf/aaai/MirankerBLG90</cite>
+<cite>conf/iclp/MorrisUG86</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigmod/SchneiderD89</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/cacm/StonebrakerK91</cite>
+<cite>conf/vldb/TsurZ86</cite>
+<cite>conf/vldb/WidomCL91</cite>
+<cite>conf/pdis/WolfDYT91</cite>
+<cite>conf/sigmod/WolfsonO90</cite>
+</inproceedings>
+</r>
+<coauthors n="102" nc="2">
+<co c="0"><na f="a/Alexe:Bogdan" pid="05/6762">Bogdan Alexe</na></co>
+<co c="0"><na f="a/Andritsos:Periklis" pid="52/1486">Periklis Andritsos</na></co>
+<co c="0"><na f="b/Balakrishnan:Sreeram" pid="44/5071">Sreeram Balakrishnan</na></co>
+<co c="0"><na f="b/Bharadwaj:Shreyas" pid="204/3688">Shreyas Bharadwaj</na></co>
+<co c="0"><na f="b/Bhutani:Nikita" pid="188/9073">Nikita Bhutani</na></co>
+<co c="0"><na f="b/B=ouml=hm_0001:Christoph" pid="76/5838-1">Christoph B&#246;hm 0001</na></co>
+<co c="0"><na f="b/Braga:Daniele" pid="12/5322">Daniele Braga</na></co>
+<co c="0"><na f="b/Brahma:Siddhartha" pid="99/6888">Siddhartha Brahma</na></co>
+<co c="0"><na f="b/Burdick:Douglas" pid="42/2076">Douglas Burdick</na></co>
+<co c="0"><na f="c/C:Rajmohan" pid="205/9137">Rajmohan C</na></co>
+<co c="0"><na f="c/Carreno=Fuentes:Arnaldo" pid="65/11457">Arnaldo Carreno-Fuentes</na></co>
+<co c="0"><na f="c/Ceri:Stefano" pid="c/StefanoCeri">Stefano Ceri</na></co>
+<co c="0"><na f="c/Chiticariu:Laura" pid="c/LauraChiticariu">Laura Chiticariu</na></co>
+<co c="0"><na f="c/Chu:Vivian" pid="58/2629">Vivian Chu</na></co>
+<co c="0"><na f="c/Coulthard:Phil" pid="69/2215">Phil Coulthard</na></co>
+<co c="0"><na f="d/Danilevsky:Marina" pid="22/8355">Marina Danilevsky</na></co>
+<co c="0"><na f="d/Das:Sanjiv_R=" pid="51/7888">Sanjiv R. Das</na></co>
+<co c="0" n="2"><na f="d/De=szlig=loch:Stefan" pid="d/SDessloch">Stefan De&#223;loch</na><na>Stefan Dessloch</na></co>
+<co c="1"><na f="d/Dewan:Hasanat_M=" pid="38/5713">Hasanat M. Dewan</na></co>
+<co c="0"><na f="d/Dhingra:Samarth" pid="204/3793">Samarth Dhingra</na></co>
+<co c="0"><na f="d/Divekar:Samved" pid="204/3819">Samved Divekar</na></co>
+<co c="0"><na f="e/Ercegovac:Vuk" pid="58/4208">Vuk Ercegovac</na></co>
+<co c="0"><na f="f/Fagin:Ronald" pid="f/RonaldFagin">Ronald Fagin</na></co>
+<co c="0"><na f="f/Freitag:Markus" pid="57/8503">Markus Freitag</na></co>
+<co c="0"><na f="f/Fukuda:Takeshi" pid="72/6093">Takeshi Fukuda</na></co>
+<co c="0"><na f="f/Fuxman:Ariel" pid="90/1367">Ariel Fuxman</na></co>
+<co c="0"><na f="g/Gubanov:Michael_N=" pid="10/5842">Michael N. Gubanov</na></co>
+<co c="0"><na f="g/Gupta:Himanshu" pid="330/0760">Himanshu Gupta</na></co>
+<co c="0"><na f="g/Gupta_0005:Nitin" pid="12/1770-5">Nitin Gupta 0005</na></co>
+<co c="0"><na f="h/Haas:Laura_M=" pid="h/LauraMHaas">Laura M. Haas</na></co>
+<co c="0"><na f="h/Haase_0001:Peter" pid="h/PeterHaase1">Peter Haase 0001</na></co>
+<co c="0"><na f="h/Han:Sang=Don" pid="204/3677">Sang-Don Han</na></co>
+<co c="0"><na f="h/Hassanzadeh:Oktie" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</na></co>
+<co c="0"><na f="h/Heise:Arvid" pid="94/8269">Arvid Heise</na></co>
+<co c="0"><na f="h/Herschel:Melanie" pid="w/MelanieWeis">Melanie Herschel</na></co>
+<co c="0"><na f="h/Hildrum:Kirsten" pid="h/KirstenHildrum">Kirsten Hildrum</na></co>
+<co c="0" n="3"><na f="h/Ho:C=_T=_Howard" pid="h/ChingTienHo">C. T. Howard Ho</na><na>Howard Ho</na><na>Ching-Tien Ho</na></co>
+<co c="0"><na f="h/Huang:Jen=Wei" pid="29/5543">Jen-Wei Huang</na></co>
+<co c="1"><na f="h/Hwang:Jae=Jun" pid="13/5657">Jae-Jun Hwang</na></co>
+<co c="0"><na f="j/Jagadish:H=_V=" pid="j/HVJagadish">H. V. Jagadish</na></co>
+<co c="0"><na f="j/Jain:Parag" pid="98/1178">Parag Jain</na></co>
+<co c="0"><na f="j/Jain_0001:Prateek" pid="32/465-1">Prateek Jain 0001</na></co>
+<co c="0"><na f="j/Joshi_0001:Salil" pid="22/835-1">Salil Joshi 0001</na></co>
+<co c="0" n="2"><na f="k/Karanam:Hima_P=" pid="230/8590">Hima P. Karanam</na><na>Hima Karanam</na></co>
+<co c="0"><na f="k/Katsis:Yannis" pid="75/4070">Yannis Katsis</na></co>
+<co c="0"><na f="k/Kementsietsidis:Anastasios" pid="41/5464">Anastasios Kementsietsidis</na></co>
+<co c="0"><na f="k/Kolaitis:Phokion_G=" pid="k/PGKolaitis">Phokion G. Kolaitis</na></co>
+<co c="0"><na f="k/Koutrika:Georgia" pid="k/GeorgiaKoutrika">Georgia Koutrika</na></co>
+<co c="0"><na f="k/Krishnamurthy:Rajasekar" pid="51/6067">Rajasekar Krishnamurthy</na></co>
+<co c="0"><na f="k/Krishnan:Saravanan" pid="204/3759">Saravanan Krishnan</na></co>
+<co c="0"><na f="l/Lehmann:Claudia" pid="79/8503">Claudia Lehmann</na></co>
+<co c="0"><na f="l/Li_0001:Yunyao" pid="60/2319">Yunyao Li 0001</na></co>
+<co c="0"><na f="l/Liu:Shixia" pid="22/904">Shixia Liu</na></co>
+<co c="0"><na f="l/Lohia:Pranay" pid="188/6387">Pranay Lohia</na></co>
+<co c="0"><na f="m/Manivannan:Satishkumaar" pid="204/3633">Satishkumaar Manivannan</na></co>
+<co c="0"><na f="m/Mascher:Andrina" pid="76/8503">Andrina Mascher</na></co>
+<co c="0"><na f="m/Mehta:Sameep" pid="91/877">Sameep Mehta</na></co>
+<co c="0"><na f="m/Miller:Ren=eacute=e_J=" pid="m/RJMiller">Ren&#233;e J. Miller</na></co>
+<co c="0"><na f="m/Mittal:Ashish_R=" pid="184/1441">Ashish R. Mittal</na></co>
+<co c="1"><na f="m/Mok:Kui_W=" pid="49/971">Kui W. Mok</na></co>
+<co c="0" n="2"><na f="n/Nagarajan:Meena" pid="19/3517">Meena Nagarajan</na><na>Meenakshi Nagarajan</na></co>
+<co c="0"><na f="n/Naumann:Felix" pid="n/FelixNaumann">Felix Naumann</na></co>
+<co c="0" n="2"><na f="=/=Ouml=zcan:Fatma" pid="o/FatmaOzcan">Fatma &#214;zcan</na><na>Fatma Ozcan</na></co>
+<co c="0"><na f="p/Papotti:Paolo" pid="p/PaoloPapotti">Paolo Papotti</na></co>
+<co c="0"><na f="p/Pieper:Jan" pid="00/1378">Jan Pieper</na></co>
+<co c="0"><na f="p/Pierce:Jeffrey_S=" pid="95/4715">Jeffrey S. Pierce</na></co>
+<co c="0"><na f="p/Popa_0001:Lucian" pid="p/LucianPopa">Lucian Popa 0001</na></co>
+<co c="0"><na f="p/Pu:Ken_Q=" pid="20/2043">Ken Q. Pu</na></co>
+<co c="0"><na f="q/Qian_0002:Kun" pid="77/2062-2">Kun Qian 0002</na></co>
+<co c="0"><na f="q/Quamar:Abdul" pid="127/6195">Abdul Quamar</na></co>
+<co c="0"><na f="r/Radwan:Ahmed" pid="05/5622">Ahmed Radwan</na></co>
+<co c="0"><na f="r/Raffio:Alessandro" pid="20/4134">Alessandro Raffio</na></co>
+<co c="0" n="2"><na f="r/Raman:Poornima_Chozhiyath" pid="266/2891">Poornima Chozhiyath Raman</na><na>Poornima Raman</na></co>
+<co c="0"><na f="r/Robson:Christine" pid="50/7042">Christine Robson</na></co>
+<co c="0"><na f="r/Roitman:Haggai" pid="94/4396">Haggai Roitman</na></co>
+<co c="0"><na f="r/Roth:Mary" pid="r/MaryRoth">Mary Roth</na></co>
+<co c="0"><na f="s/Saha:Barna" pid="66/3027">Barna Saha</na></co>
+<co c="0"><na f="s/Saha:Diptikalyan" pid="54/4272">Diptikalyan Saha</na></co>
+<co c="0"><na f="s/Salter:C=_C=" pid="93/3770">C. C. Salter</na></co>
+<co c="0"><na f="s/Sankaranarayanan:Karthik" pid="74/4923">Karthik Sankaranarayanan</na></co>
+<co c="0"><na f="s/Schmidt_0002:Michael" pid="156/1960-2">Michael Schmidt 0002</na></co>
+<co c="0"><na f="s/Sen:Jaydeep" pid="129/8181">Jaydeep Sen</na></co>
+<co c="0"><na f="s/Sen:Prithviraj" pid="58/1388">Prithviraj Sen</na></co>
+<co c="0"><na f="s/Shi_0002:Lei" pid="29/563-2">Lei Shi 0002</na></co>
+<co c="0"><na f="s/Shmueli=Scheuer:Michal" pid="s/MShmueliS">Michal Shmueli-Scheuer</na></co>
+<co c="0" n="2"><na f="s/Stanoi:Ioana" pid="s/IoanaStanoi">Ioana Stanoi</na><na>Ioana Roxana Stanoi</na></co>
+<co c="1"><na f="s/Stolfo:Salvatore_J=" pid="s/SalvatoreJStolfo">Salvatore J. Stolfo</na></co>
+<co c="0"><na f="t/Tan:Wang_Chiew" pid="t/WangChiewTan">Wang Chiew Tan</na></co>
+<co c="0"><na f="t/Ting:Edison_L=" pid="57/8166">Edison L. Ting</na></co>
+<co c="0"><na f="v/Vaithyanathan:Shivakumar" pid="81/6125">Shivakumar Vaithyanathan</na></co>
+<co c="0"><na f="v/Vasa:Mitesh" pid="02/300">Mitesh Vasa</na></co>
+<co c="0"><na f="v/Velegrakis:Yannis" pid="v/YannisVelegrakis">Yannis Velegrakis</na></co>
+<co c="0"><na f="v/Venkatramani:Chitra" pid="49/2856">Chitra Venkatramani</na></co>
+<co c="0"><na f="v/Vilarem:Charlotte" pid="13/4768">Charlotte Vilarem</na></co>
+<co c="0"><na f="w/Wagle:Rohit" pid="40/1228">Rohit Wagle</na></co>
+<co c="0"><na f="w/Wang:Hao" pid="181/2812">Hao Wang</na></co>
+<co c="0"><na f="w/Wisnesky:Ryan" pid="62/829">Ryan Wisnesky</na></co>
+<co c="0"><na f="y/Yan:Ling=Ling" pid="y/LingLingYan">Ling-Ling Yan</na></co>
+<co c="0"><na f="y/Yang:Huahai" pid="84/4010">Huahai Yang</na></co>
+<co c="0"><na f="y/Yeganeh:Soheil_Hassas" pid="86/1462">Soheil Hassas Yeganeh</na></co>
+<co c="0"><na f="z/Zhou:Jindan" pid="99/4948">Jindan Zhou</na></co>
+<co c="0"><na f="z/Zhu_0001:Huaiyu" pid="17/5913-1">Huaiyu Zhu 0001</na></co>
+</coauthors>
+</dblpperson>

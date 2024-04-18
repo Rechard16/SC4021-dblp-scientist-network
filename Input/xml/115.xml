@@ -1,0 +1,3024 @@
+<dblpperson name="Carsten Binnig" pid="45/1559" n="187">
+<person key="homepages/45/1559" mdate="2023-07-04">
+<author pid="45/1559">Carsten Binnig</author>
+<url>http://binnig.name/</url>
+<url>https://scholar.google.com/citations?user=Iqsl_XMAAAAJ</url>
+<url>https://orcid.org/0000-0002-2744-7836</url>
+<note type="affiliation">TU Darmstadt, Germany</note>
+<note type="affiliation" label="former">Brown University</note>
+</person>
+<r><inproceedings key="conf/cidr/UrbanB24" mdate="2024-04-05">
+<author pid="60/6400">Matthias Urban</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>CAESURA: Language Models as Multi-Modal Query Planners.</title>
+<year>2024</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2024/papers/p14-urban.pdf</ee>
+<crossref>conf/cidr/2024</crossref>
+<url>db/conf/cidr/cidr2024.html#UrbanB24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/LangeneckerSSB24" mdate="2024-03-22">
+<author pid="287/7567">Sven Langenecker</author>
+<author pid="37/341">Christoph Sturm</author>
+<author pid="85/7963">Christian Schalles</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Pythagoras: Semantic Type Detection of Numerical Data in Enterprise Data Lakes.</title>
+<pages>725-733</pages>
+<year>2024</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.48786/edbt.2024.62</ee>
+<crossref>conf/edbt/2024</crossref>
+<url>db/conf/edbt/edbt2024.html#LangeneckerSSB24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-08444" mdate="2024-04-05">
+<author pid="324/2260">Roman Heinrich</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="96/6590">Harald Kornmayer</author>
+<author pid="176/1373">Manisha Luthra</author>
+<title>COSTREAM: Learned Cost Models for Operator Placement in Edge-Cloud Environments.</title>
+<year>2024</year>
+<volume>abs/2403.08444</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.08444</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-08444</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-11874" mdate="2024-04-08">
+<author pid="307/4850">Adrian Lutsch</author>
+<author pid="164/1407">Muhammad El-Hindi</author>
+<author pid="251/6665">Matthias Heinrich</author>
+<author pid="82/8248">Daniel Ritter 0001</author>
+<author pid="50/10703">Zsolt Istv&#225;n</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Benchmarking Analytical Query Processing in Intel SGXv2.</title>
+<year>2024</year>
+<volume>abs/2403.11874</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.11874</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-11874</url>
+</article>
+</r>
+<r><article key="journals/dbsk/BohmBRH23" mdate="2023-05-21">
+<author pid="92/6505">Alexander B&#246;hm 0002</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="10/760">Tilmann Rabl</author>
+<author pid="h/TheoHarder">Theo H&#228;rder</author>
+<title>Erratum to: Reviving the Workshop Series on Testing Database Systems - DBTest.</title>
+<pages>83</pages>
+<year>2023</year>
+<month>March</month>
+<volume>23</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s13222-023-00435-4</ee>
+<url>db/journals/dbsk/dbsk23.html#BohmBRH23</url>
+</article>
+</r>
+<r><article key="journals/dbsk/LangeneckerSSB23" mdate="2023-12-10">
+<author orcid="0009-0002-2809-5331" pid="287/7567">Sven Langenecker</author>
+<author pid="37/341">Christoph Sturm</author>
+<author pid="85/7963">Christian Schalles</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>SportsTables: A New Corpus for Semantic Type Detection (Extended Version).</title>
+<pages>189-197</pages>
+<year>2023</year>
+<month>November</month>
+<volume>23</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s13222-023-00457-y</ee>
+<url>db/journals/dbsk/dbsk23.html#LangeneckerSSB23</url>
+</article>
+</r>
+<r><article key="journals/pacmmod/ThostrupDBLB23" mdate="2023-06-15">
+<author orcid="0009-0006-7243-5507" pid="233/6278">Lasse Thostrup</author>
+<author orcid="0009-0003-2193-2245" pid="348/4796">Gloria Doci</author>
+<author orcid="0000-0001-8654-5738" pid="295/5645">Nils Boeschen</author>
+<author orcid="0000-0002-3788-6664" pid="176/1373">Manisha Luthra</author>
+<author orcid="0000-0002-2744-7836" pid="45/1559">Carsten Binnig</author>
+<title>Distributed GPU Joins on Fast RDMA-capable Networks.</title>
+<pages>29:1-29:26</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3588709</ee>
+<url>db/journals/pacmmod/pacmmod1.html#ThostrupDBLB23</url>
+</article>
+</r>
+<r><article key="journals/pacmmod/0001NLB23" mdate="2023-07-07">
+<author orcid="0000-0002-1602-4512" pid="146/6632">Tobias Ziegler 0001</author>
+<author orcid="0009-0006-1968-8863" pid="35/9256-2">Jacob Nelson-Slivon</author>
+<author orcid="0000-0001-5676-8017" pid="10/11150">Viktor Leis</author>
+<author orcid="0000-0002-2744-7836" pid="45/1559">Carsten Binnig</author>
+<title>Design Guidelines for Correct, Efficient, and Scalable Synchronization using One-Sided RDMA.</title>
+<pages>131:1-131:26</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3589276</ee>
+<url>db/journals/pacmmod/pacmmod1.html#0001NLB23</url>
+</article>
+</r>
+<r><article key="journals/pacmmod/LangeneckerSSB23" mdate="2023-07-07">
+<author orcid="0009-0002-2809-5331" pid="287/7567">Sven Langenecker</author>
+<author orcid="0009-0008-5706-3041" pid="37/341">Christoph Sturm</author>
+<author orcid="0009-0005-7036-3012" pid="85/7963">Christian Schalles</author>
+<author orcid="0000-0002-2744-7836" pid="45/1559">Carsten Binnig</author>
+<title>Steered Training Data Generation for Learned Semantic Type Detection.</title>
+<pages>201:1-201:25</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3589786</ee>
+<url>db/journals/pacmmod/pacmmod1.html#LangeneckerSSB23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/Koutrika023f" mdate="2023-10-23">
+<author pid="k/GeorgiaKoutrika">Georgia Koutrika</author>
+<author pid="y/JunYang1">Jun Yang 0001</author>
+<author pid="82/7402">Manos Athanassoulis</author>
+<author pid="76/3486">Kostas Stefanidis</author>
+<author pid="78/4413">Ju Fan</author>
+<author pid="127/6195">Abdul Quamar</author>
+<author pid="358/8364">Yuanyan Tian</author>
+<author pid="24/8510">Alekh Jindal</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="43/2286">Jennie Rogers</author>
+<author pid="97/3301">Senjuti Basu Roy</author>
+<author pid="w/StevenEuijongWhang">Steven Euijong Whang</author>
+<author pid="75/887">Matthias Boehm 0001</author>
+<author pid="75/9436">Aaron J. Elmore</author>
+<author pid="87/11444">Vasilis Efthymiou</author>
+<author pid="19/1374-5">Xiao Hu 0005</author>
+<author pid="z/XiaofangZhou">Xiaofang Zhou 0001</author>
+<author pid="f/AlanDavidFekete">Alan D. Fekete</author>
+<title>Front Matter.</title>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/FrontMatterVol16No12.pdf</ee>
+<url>db/journals/pvldb/pvldb16.html#Koutrika023f</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LernerBCHJJPT023" mdate="2023-10-23">
+<author pid="l/AlbertoLerner">Alberto Lerner</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="71/5578">Philippe Cudr&#233;-Mauroux</author>
+<author pid="228/2560">Rana Hussein</author>
+<author pid="266/6082">Matthias Jasny</author>
+<author pid="188/5904">Theo Jepsen</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="233/6278">Lasse Thostrup</author>
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<title>Databases on Modern Networks: A Decade of Research that now comes into Practice.</title>
+<pages>3894-3897</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p3894-lerner.pdf</ee>
+<ee>https://doi.org/10.14778/3611540.3611579</ee>
+<url>db/journals/pvldb/pvldb16.html#LernerBCHJJPT023</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Binnig23" mdate="2023-08-08">
+<author pid="45/1559">Carsten Binnig</author>
+<title>Technical Perspective for Skeena: Efficient and Consistent Cross-Engine Transactions.</title>
+<pages>26</pages>
+<year>2023</year>
+<volume>52</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3604437.3604443</ee>
+<url>db/journals/sigmod/sigmod52.html#Binnig23</url>
+</article>
+</r>
+<r><inproceedings key="conf/aidm/UrbanNB23" mdate="2023-07-07">
+<author orcid="0000-0002-7418-6181" pid="60/6400">Matthias Urban</author>
+<author orcid="0009-0009-6071-5773" pid="349/9783">Duc Dat Nguyen</author>
+<author orcid="0000-0002-2744-7836" pid="45/1559">Carsten Binnig</author>
+<title>OmniscientDB: A Large Language Model-Augmented DBMS That Knows What Other DBMSs Do Not Know.</title>
+<pages>4:1-4:7</pages>
+<year>2023</year>
+<booktitle>aiDM@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3593078.3593933</ee>
+<crossref>conf/aidm/2023</crossref>
+<url>db/conf/aidm/aidm2023.html#UrbanNB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aidm/AgnihotriKBL23" mdate="2023-07-07">
+<author orcid="0000-0001-9944-926X" pid="209/1994">Pratyush Agnihotri</author>
+<author orcid="0000-0002-1588-2056" pid="25/4201">Boris Koldehofe</author>
+<author orcid="0000-0002-2744-7836" pid="45/1559">Carsten Binnig</author>
+<author orcid="0000-0002-3788-6664" pid="176/1373">Manisha Luthra</author>
+<title>Zero-Shot Cost Models for Parallel Stream Processing.</title>
+<pages>5:1-5:5</pages>
+<year>2023</year>
+<booktitle>aiDM@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3593078.3593934</ee>
+<crossref>conf/aidm/2023</crossref>
+<url>db/conf/aidm/aidm2023.html#AgnihotriKBL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/HattaschBVUB23" mdate="2023-08-06">
+<author pid="218/5225">Benjamin H&#228;ttasch</author>
+<author pid="315/4523">Jan-Micha Bodensohn</author>
+<author pid="318/9125">Liane Vogel</author>
+<author orcid="0000-0002-7418-6181" pid="60/6400">Matthias Urban</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>WannaDB: Ad-hoc SQL Queries over Text Collections.</title>
+<pages>157-181</pages>
+<year>2023</year>
+<booktitle>BTW</booktitle>
+<ee>https://doi.org/10.18420/BTW2023-08</ee>
+<crossref>conf/btw/2023</crossref>
+<url>db/conf/btw/btw2023.html#HattaschBVUB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/LutschSMMB23" mdate="2023-09-30">
+<author orcid="0009-0008-7889-8152" pid="307/4850">Adrian Lutsch</author>
+<author pid="64/3747">Gagandeep Singh</author>
+<author pid="200/8146">Martin Mundt</author>
+<author pid="152/5833">Ragnar Mogk</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Benchmarking the Second Generation of Intel SGX for Machine Learning Workloads.</title>
+<pages>711-717</pages>
+<year>2023</year>
+<booktitle>BTW</booktitle>
+<ee>https://doi.org/10.18420/BTW2023-44</ee>
+<crossref>conf/btw/2023</crossref>
+<url>db/conf/btw/btw2023.html#LutschSMMB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/LangeneckerSSB23" mdate="2023-02-23">
+<author pid="287/7567">Sven Langenecker</author>
+<author pid="37/341">Christoph Sturm</author>
+<author pid="85/7963">Christian Schalles</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>SportsTables: A new Corpus for Semantic Type Detection.</title>
+<pages>995-1008</pages>
+<year>2023</year>
+<booktitle>BTW</booktitle>
+<ee>https://doi.org/10.18420/BTW2023-68</ee>
+<crossref>conf/btw/2023</crossref>
+<url>db/conf/btw/btw2023.html#LangeneckerSSB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/0001BLB23" mdate="2023-07-19">
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Is Scalable OLTP in the Cloud a Solved Problem?</title>
+<year>2023</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2023/papers/p50-ziegler.pdf</ee>
+<crossref>conf/cidr/2023</crossref>
+<url>db/conf/cidr/cidr2023.html#0001BLB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/JasnyTB23" mdate="2023-07-07">
+<author orcid="0000-0002-5068-4645" pid="266/6082">Matthias Jasny</author>
+<author orcid="0009-0006-7243-5507" pid="233/6278">Lasse Thostrup</author>
+<author orcid="0000-0002-2744-7836" pid="45/1559">Carsten Binnig</author>
+<title>Zero-sided RDMA: Network-driven Data Shuffling.</title>
+<pages>82-85</pages>
+<year>2023</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3592980.3595302</ee>
+<crossref>conf/damon/2023</crossref>
+<url>db/conf/damon/damon2023.html#JasnyTB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/deem/HilprechtHR0B23" mdate="2023-09-17">
+<author orcid="0000-0003-4935-7118" pid="230/4209">Benjamin Hilprecht</author>
+<author orcid="0009-0006-2124-6896" pid="323/7290">Christian Hammacher</author>
+<author orcid="0000-0002-9512-1459" pid="181/3939">Eduardo Souza dos Reis</author>
+<author orcid="0000-0001-8592-9510" pid="147/2878">Mohamed Abdelaal 0001</author>
+<author orcid="0000-0002-2744-7836" pid="45/1559">Carsten Binnig</author>
+<title>DiffML: End-to-end Differentiable ML Pipelines.</title>
+<pages>7:1-7:7</pages>
+<year>2023</year>
+<booktitle>DEEM@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3595360.3595857</ee>
+<crossref>conf/deem/2023</crossref>
+<url>db/conf/deem/deem2023.html#HilprechtHR0B23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/MirabiNB23" mdate="2024-02-13">
+<author pid="98/8460">Meghdad Mirabi</author>
+<author pid="368/0211">Ren&#233; Klaus Nikiel</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>SafeML: A Privacy-Preserving Byzantine-Robust Framework for Distributed Machine Learning Training.</title>
+<pages>207-216</pages>
+<year>2023</year>
+<booktitle>ICDM (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/ICDMW60847.2023.00033</ee>
+<crossref>conf/icdm/2023w</crossref>
+<url>db/conf/icdm/icdm2023w.html#MirabiNB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lwa/LangeneckerSSB23" mdate="2024-02-07">
+<author pid="287/7567">Sven Langenecker</author>
+<author pid="37/341">Christoph Sturm</author>
+<author pid="85/7963">Christian Schalles</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Pythagoras: Semantic Type Detection of Numerical Data Using Graph Neural Networks.</title>
+<pages>146-152</pages>
+<year>2023</year>
+<booktitle>LWDA</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3630/LWDA2023-paper13.pdf</ee>
+<crossref>conf/lwa/2023</crossref>
+<url>db/conf/lwa/lwda2023.html#LangeneckerSSB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/MirabiFDGB23" mdate="2023-09-14">
+<author orcid="0000-0003-3803-2756" pid="98/8460">Meghdad Mirabi</author>
+<author orcid="0009-0002-7966-8873" pid="84/8461">Leila Fathi</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0002-2744-7836" pid="45/1559">Carsten Binnig</author>
+<title>A New Primitive for Processing Temporal Joins.</title>
+<pages>106-109</pages>
+<year>2023</year>
+<booktitle>SSTD</booktitle>
+<ee>https://doi.org/10.1145/3609956.3609968</ee>
+<crossref>conf/ssd/2023</crossref>
+<url>db/conf/ssd/sstd2023.html#MirabiFDGB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vdbs/El-Hindi0B23" mdate="2024-02-29">
+<author orcid="0000-0001-5295-1316" pid="164/1407">Muhammad El-Hindi</author>
+<author orcid="0000-0002-1602-4512" pid="146/6632">Tobias Ziegler 0001</author>
+<author orcid="0000-0002-2744-7836" pid="45/1559">Carsten Binnig</author>
+<title>Towards Merkle Trees for High-Performance Data Systems.</title>
+<pages>28-33</pages>
+<year>2023</year>
+<booktitle>VDBS@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3595647.3595651</ee>
+<crossref>conf/vdbs/2023</crossref>
+<url>db/conf/vdbs/vdbs2023.html#El-Hindi0B23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/MirabiB23" mdate="2023-08-28">
+<author pid="98/8460">Meghdad Mirabi</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>QFilter: Towards a Fine-Grained Access Control for Aggregation Query Processing over Secret Shared Data.</title>
+<year>2023</year>
+<booktitle>VLDB Workshops</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3462/CloudDB2.pdf</ee>
+<crossref>conf/vldb/2023w</crossref>
+<url>db/conf/vldb/w2023.html#MirabiB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/VogelB23" mdate="2023-08-28">
+<author pid="318/9125">Liane Vogel</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>WikiDBs: A Corpus of Relational Databases From Wikidata.</title>
+<year>2023</year>
+<booktitle>VLDB Workshops</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3462/TADA3.pdf</ee>
+<crossref>conf/vldb/2023w</crossref>
+<url>db/conf/vldb/w2023.html#VogelB23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2304-13559" mdate="2023-05-03">
+<author pid="60/6400">Matthias Urban</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Towards Multi-Modal DBMSs for Seamless Querying of Texts and Tables.</title>
+<year>2023</year>
+<volume>abs/2304.13559</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.13559</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-13559</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-15321" mdate="2023-06-06">
+<author pid="318/9125">Liane Vogel</author>
+<author pid="230/4209">Benjamin Hilprecht</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Towards Foundation Models for Relational Databases [Vision Paper].</title>
+<year>2023</year>
+<volume>abs/2305.15321</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.15321</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-15321</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2308-03424" mdate="2023-08-22">
+<author pid="60/6400">Matthias Urban</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>CAESURA: Language Models as Multi-Modal Query Planners.</title>
+<year>2023</year>
+<volume>abs/2308.03424</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2308.03424</ee>
+<url>db/journals/corr/corr2308.html#abs-2308-03424</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-13581" mdate="2023-10-27">
+<author pid="230/4209">Benjamin Hilprecht</author>
+<author pid="40/3793">Kristian Kersting</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>SPARE: A Single-Pass Neural Model for Relational Databases.</title>
+<year>2023</year>
+<volume>abs/2310.13581</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.13581</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-13581</url>
+</article>
+</r>
+<r><article key="journals/dbsk/BohmBRH22" mdate="2023-02-15">
+<author pid="92/6505">Alexander B&#246;hm 0002</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="10/760">Tilmann Rabl</author>
+<author pid="h/TheoHarder">Theo H&#228;rder</author>
+<title>Editorial.</title>
+<pages>191-193</pages>
+<year>2022</year>
+<month>November</month>
+<volume>22</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s13222-022-00432-z</ee>
+<url>db/journals/dbsk/dbsk22.html#BohmBRH22</url>
+</article>
+</r>
+<r><article key="journals/dbsk/ElHindiAKB22" mdate="2023-02-28">
+<author orcid="0000-0001-5295-1316" pid="164/1407">Muhammad El-Hindi</author>
+<author pid="340/1021">Ashwin Arora</author>
+<author pid="340/1478">Simon Karrer</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Towards a Benchmark for Shared Databases [Vision Paper].</title>
+<pages>227-239</pages>
+<year>2022</year>
+<month>November</month>
+<volume>22</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s13222-022-00429-8</ee>
+<url>db/journals/dbsk/dbsk22.html#ElHindiAKB22</url>
+</article>
+</r>
+<r><article key="journals/dbsk/BinnigBRT22" mdate="2023-02-15">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="92/6505">Alexander B&#246;hm 0002</author>
+<author pid="10/760">Tilmann Rabl</author>
+<author pid="86/9726">Pinar T&#246;z&#252;n</author>
+<title>Reviving the Workshop Series on Testing Database Systems - DBTest.</title>
+<pages>257-260</pages>
+<year>2022</year>
+<month>November</month>
+<volume>22</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s13222-022-00430-1</ee>
+<url>db/journals/dbsk/dbsk22.html#BinnigBRT22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/HilprechtB22" mdate="2023-10-23">
+<author pid="230/4209">Benjamin Hilprecht</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Zero-Shot Cost Models for Out-of-the-box Learned Cost Prediction.</title>
+<pages>2361-2374</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p2361-hilprecht.pdf</ee>
+<ee>https://doi.org/10.14778/3551793.3551799</ee>
+<url>db/journals/pvldb/pvldb15.html#HilprechtB22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GassenHHGFB22" mdate="2023-10-23">
+<author pid="176/4999">Marius Gassen</author>
+<author pid="218/5225">Benjamin H&#228;ttasch</author>
+<author pid="230/4209">Benjamin Hilprecht</author>
+<author pid="248/9346">Nadja Geisler</author>
+<author pid="145/8377">Alexander Fraser 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Demonstrating CAT: Synthesizing Data-Aware Conversational Agents for Transactional Databases.</title>
+<pages>3586-3589</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p3586-h%C3%A4ttasch.pdf</ee>
+<ee>https://doi.org/10.14778/3554821.3554850</ee>
+<url>db/journals/pvldb/pvldb15.html#GassenHHGFB22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LernerJJBC22" mdate="2023-10-28">
+<author pid="l/AlbertoLerner">Alberto Lerner</author>
+<author pid="266/6082">Matthias Jasny</author>
+<author pid="188/5904">Theo Jepsen</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author orcid="0000-0003-2588-4212" pid="71/5578">Philippe Cudr&#233;-Mauroux</author>
+<title>DBMS Annihilator: A High-Performance Database Workload Generator in Action.</title>
+<pages>3682-3685</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p3682-lerner.pdf</ee>
+<ee>https://doi.org/10.14778/3554821.3554874</ee>
+<url>db/journals/pvldb/pvldb15.html#LernerJJBC22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GeislerHB22" mdate="2023-10-23">
+<author pid="248/9346">Nadja Geisler</author>
+<author pid="218/5225">Benjamin H&#228;ttasch</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Demonstrating Quest: A Query-Driven Framework to Explain Classification Models on Tabular Data.</title>
+<pages>3722-3725</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p3722-geisler.pdf</ee>
+<ee>https://doi.org/10.14778/3554821.3554884</ee>
+<url>db/journals/pvldb/pvldb15.html#GeislerHB22</url>
+</article>
+</r>
+<r><article key="journals/sigmod/ThostrupSJZB22" mdate="2022-07-08">
+<author pid="233/6278">Lasse Thostrup</author>
+<author pid="233/6274">Jan Skrzypczak</author>
+<author pid="266/6082">Matthias Jasny</author>
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>DFI: The Data Flow Interface for High-Speed Networks.</title>
+<pages>15-22</pages>
+<year>2022</year>
+<volume>51</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3542700.3542705</ee>
+<url>db/journals/sigmod/sigmod51.html#ThostrupSJZB22</url>
+</article>
+</r>
+<r><article key="journals/vldb/BangMPB22" mdate="2023-08-28">
+<author orcid="0000-0003-0826-8645" pid="257/5532">Tiemo Bang</author>
+<author pid="89/6071">Norman May</author>
+<author pid="p/IliaPetrov">Ilia Petrov 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>The full story of 1000 cores.</title>
+<pages>1185-1213</pages>
+<year>2022</year>
+<volume>31</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00778-022-00742-4</ee>
+<ee>https://www.wikidata.org/entity/Q113904883</ee>
+<url>db/journals/vldb/vldb31.html#BangMPB22</url>
+</article>
+</r>
+<r><inproceedings key="conf/adms/ThostrupFZB22" mdate="2024-02-15">
+<author pid="233/6278">Lasse Thostrup</author>
+<author pid="352/6468">Daniel Failing</author>
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>A DBMS-centric Evaluation of BlueField DPUs on Fast Networks.</title>
+<pages>1-10</pages>
+<year>2022</year>
+<booktitle>ADMS@VLDB</booktitle>
+<ee>http://www.adms-conf.org/2022-camera-ready/ADMS22_thostrup.pdf</ee>
+<crossref>conf/adms/2022</crossref>
+<url>db/conf/adms/adms2022.html#ThostrupFZB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/HilprechtB22" mdate="2022-07-18">
+<author pid="230/4209">Benjamin Hilprecht</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>One Model to Rule them All: Towards Zero-Shot Learning for Databases.</title>
+<year>2022</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2022/papers/p16-hilprecht.pdf</ee>
+<crossref>conf/cidr/2022</crossref>
+<url>db/conf/cidr/cidr2022.html#HilprechtB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/El-Hindi0HLZB22" mdate="2023-09-30">
+<author pid="164/1407">Muhammad El-Hindi</author>
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<author pid="251/6665">Matthias Heinrich</author>
+<author orcid="0009-0008-7889-8152" pid="307/4850">Adrian Lutsch</author>
+<author pid="178/4816">Zheguang Zhao</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Benchmarking the Second Generation of Intel SGX Hardware.</title>
+<pages>5:1-5:8</pages>
+<year>2022</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3533737.3535098</ee>
+<crossref>conf/damon/2022</crossref>
+<url>db/conf/damon/damon2022.html#El-Hindi0HLZB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/0001MLB22" mdate="2022-06-15">
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<author pid="322/2220">Dwarakanandan Bindiganavile Mohan</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>EFA: A Viable Alternative to RDMA over InfiniBand for DBMSs?</title>
+<pages>10:1-10:5</pages>
+<year>2022</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3533737.3538506</ee>
+<crossref>conf/damon/2022</crossref>
+<url>db/conf/damon/damon2022.html#0001MLB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/data/El-HindiZB22" mdate="2022-08-03">
+<author pid="164/1407">Muhammad El-Hindi</author>
+<author pid="178/4816">Zheguang Zhao</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Towards Decentralized Parameter Servers for Secure Federated Learning.</title>
+<pages>257-269</pages>
+<year>2022</year>
+<booktitle>DATA</booktitle>
+<ee>https://doi.org/10.5220/0011146300003269</ee>
+<crossref>conf/data/2022</crossref>
+<url>db/conf/data/data2022.html#El-HindiZB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/HeinrichLKB22" mdate="2022-10-02">
+<author pid="324/2260">Roman Heinrich</author>
+<author pid="176/1373">Manisha Luthra</author>
+<author orcid="0000-0002-8878-7623" pid="96/6590">Harald Kornmayer</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Zero-shot cost models for distributed stream processing.</title>
+<pages>85-90</pages>
+<year>2022</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/3524860.3539639</ee>
+<crossref>conf/debs/2022</crossref>
+<url>db/conf/debs/debs2022.html#HeinrichLKB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/AgnihotriKBL22" mdate="2023-06-26">
+<author orcid="0000-0001-9944-926X" pid="209/1994">Pratyush Agnihotri</author>
+<author orcid="0000-0002-1588-2056" pid="25/4201">Boris Koldehofe</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="176/1373">Manisha Luthra</author>
+<title>PANDA: performance prediction for parallel and dynamic stream processing.</title>
+<pages>180-181</pages>
+<year>2022</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/3524860.3543281</ee>
+<crossref>conf/debs/2022</crossref>
+<url>db/conf/debs/debs2022.html#AgnihotriKBL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/HattaschB22" mdate="2022-10-10">
+<author pid="218/5225">Benjamin H&#228;ttasch</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Know Better - A Clickbait Resolving Challenge.</title>
+<pages>515-523</pages>
+<year>2022</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">https://aclanthology.org/2022.lrec-1.54</ee>
+<crossref>conf/lrec/2022</crossref>
+<url>db/conf/lrec/lrec2022.html#HattaschB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lwa/UrbanB22" mdate="2023-03-10">
+<author pid="60/6400">Matthias Urban</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Hybrid Database Operations: Learned Operations for Seamless Querying of Textual and Tabular Data.</title>
+<pages>8-11</pages>
+<year>2022</year>
+<booktitle>LWDA</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3341/DB-LWDA_2022_CRC_7251.pdf</ee>
+<crossref>conf/lwa/2022</crossref>
+<url>db/conf/lwa/lwda2022.html#UrbanB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GeislerB22" mdate="2022-08-23">
+<author pid="248/9346">Nadja Geisler</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Introducing quest: a query-driven framework to explain classification models on tabular data.</title>
+<pages>2:1-2:4</pages>
+<year>2022</year>
+<booktitle>HILDA@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3546930.3547497</ee>
+<crossref>conf/sigmod/2022hilda</crossref>
+<url>db/conf/sigmod/hilda2022.html#GeislerB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/0001BL22" mdate="2022-06-14">
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="10/11150">Viktor Leis</author>
+<title>ScaleStore: A Fast and Cost-Efficient Storage Engine using DRAM, NVMe, and RDMA.</title>
+<pages>685-699</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3526187</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#0001BL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BoeschenB22" mdate="2022-06-14">
+<author pid="295/5645">Nils Boeschen</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>GaccO - A GPU-accelerated OLTP DBMS.</title>
+<pages>1003-1016</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3517876</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#BoeschenB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/JasnyT0B22" mdate="2022-06-14">
+<author pid="266/6082">Matthias Jasny</author>
+<author pid="233/6278">Lasse Thostrup</author>
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>P4DB - The Case for In-Network OLTP.</title>
+<pages>1375-1389</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3517825</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#JasnyT0B22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HattaschBB22" mdate="2022-06-14">
+<author pid="218/5225">Benjamin H&#228;ttasch</author>
+<author pid="315/4523">Jan-Micha Bodensohn</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Demonstrating ASET: Ad-hoc Structured Exploration of Text Collections.</title>
+<pages>2393-2396</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3520174</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#HattaschBB22</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/cloud/2022" mdate="2022-11-08">
+<editor pid="76/3229">Ada Gavrilovska</editor>
+<editor pid="43/7654">Deniz Altinb&#252;ken</editor>
+<editor pid="45/1559">Carsten Binnig</editor>
+<title>Proceedings of the 13th Symposium on Cloud Computing, SoCC 2022, San Francisco, California, November 7-11, 2022</title>
+<publisher>ACM</publisher>
+<booktitle>SoCC</booktitle>
+<year>2022</year>
+<isbn>978-1-4503-9414-7</isbn>
+<ee>https://doi.org/10.1145/3542929</ee>
+<url>db/conf/cloud/socc2022.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2201-00561" mdate="2022-01-10">
+<author pid="230/4209">Benjamin Hilprecht</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Zero-Shot Cost Models for Out-of-the-box Learned Cost Prediction.</title>
+<year>2022</year>
+<volume>abs/2201.00561</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2201.00561</ee>
+<url>db/journals/corr/corr2201.html#abs-2201-00561</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-04366" mdate="2022-10-26">
+<author pid="218/5225">Benjamin H&#228;ttasch</author>
+<author pid="281/3715">Michael Truong-Ngoc</author>
+<author pid="53/6562-2">Andreas Schmidt 0002</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>It's AI Match: A Two-Step Approach for Schema Matching Using Embeddings.</title>
+<year>2022</year>
+<volume>abs/2203.04366</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.04366</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-04366</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-04663" mdate="2022-03-16">
+<author pid="218/5225">Benjamin H&#228;ttasch</author>
+<author pid="315/4523">Jan-Micha Bodensohn</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>ASET: Ad-hoc Structured Exploration of Text Collections [Extended Abstract].</title>
+<year>2022</year>
+<volume>abs/2203.04663</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.04663</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-04663</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-14144" mdate="2022-04-21">
+<author pid="176/4999">Marius Gassen</author>
+<author pid="218/5225">Benjamin H&#228;ttasch</author>
+<author pid="230/4209">Benjamin Hilprecht</author>
+<author pid="248/9346">Nadja Geisler</author>
+<author pid="145/8377">Alexander Fraser 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Demonstrating CAT: Synthesizing Data-Aware Conversational Agents for Transactional Databases.</title>
+<year>2022</year>
+<volume>abs/2203.14144</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.14144</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-14144</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-00623" mdate="2022-06-13">
+<author pid="266/6082">Matthias Jasny</author>
+<author pid="233/6278">Lasse Thostrup</author>
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>P4DB - The Case for In-Network OLTP (Extended Technical Report).</title>
+<year>2022</year>
+<volume>abs/2206.00623</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.00623</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-00623</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-01269" mdate="2023-09-17">
+<author pid="230/4209">Benjamin Hilprecht</author>
+<author pid="323/7290">Christian Hammacher</author>
+<author pid="181/3939">Eduardo Souza dos Reis</author>
+<author pid="147/2878">Mohamed Abdelaal 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>DiffML: End-to-end Differentiable ML Pipelines.</title>
+<year>2022</year>
+<volume>abs/2207.01269</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.01269</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-01269</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-03823" mdate="2022-07-13">
+<author pid="324/2260">Roman Heinrich</author>
+<author pid="176/1373">Manisha Luthra</author>
+<author pid="96/6590">Harald Kornmayer</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Zero-Shot Cost Models for Distributed Stream Processing.</title>
+<year>2022</year>
+<volume>abs/2207.03823</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.03823</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-03823</url>
+</article>
+</r>
+<r><article key="journals/sigmod/ZamanianSBK21" mdate="2021-07-13">
+<author pid="141/9169">Erfan Zamanian</author>
+<author pid="82/9876">Julian Shun</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Chiller: Contention-centric Transaction Execution and Data Partitioning for Modern Networks.</title>
+<pages>15-22</pages>
+<year>2021</year>
+<volume>50</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3471485.3471490</ee>
+<url>db/journals/sigmod/sigmod50.html#ZamanianSBK21</url>
+</article>
+</r>
+<r><inproceedings key="conf/arc/WirthHT0B21" mdate="2023-11-20">
+<author orcid="0000-0002-5211-2544" pid="267/3234-2">Johannes Wirth 0002</author>
+<author pid="283/1378">Jaco A. Hofmann</author>
+<author pid="233/6278">Lasse Thostrup</author>
+<author orcid="0000-0002-1164-3082" pid="84/1948-1">Andreas Koch 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Exploiting 3D Memory for Accelerated In-Network Processing of Hash Joins in Distributed Databases.</title>
+<pages>18-32</pages>
+<year>2021</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-79025-7_2</ee>
+<crossref>conf/arc/2021</crossref>
+<url>db/conf/arc/arc2021.html#WirthHT0B21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/LangeneckerSSB21" mdate="2021-03-20">
+<author pid="287/7567">Sven Langenecker</author>
+<author pid="37/341">Christoph Sturm</author>
+<author pid="85/7963">Christian Schalles</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Towards Learned Metadata Extraction for Data Lakes.</title>
+<pages>325-336</pages>
+<year>2021</year>
+<booktitle>BTW</booktitle>
+<ee>https://doi.org/10.18420/btw2021-17</ee>
+<crossref>conf/btw/2021</crossref>
+<url>db/conf/btw/btw2021.html#LangeneckerSSB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/BangMPB21" mdate="2022-07-18">
+<author pid="257/5532">Tiemo Bang</author>
+<author pid="89/6071">Norman May</author>
+<author pid="p/IliaPetrov">Ilia Petrov 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>AnyDB: An Architecture-less DBMS for Any Workload.</title>
+<year>2021</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2021/papers/cidr2021_paper10.pdf</ee>
+<crossref>conf/cidr/2021</crossref>
+<url>db/conf/cidr/cidr2021.html#BangMPB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/BoeschenB21" mdate="2021-06-23">
+<author pid="295/5645">Nils Boeschen</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>GalOP: Towards a GPU-accelerated OLTP DBMS.</title>
+<pages>9:1-9:3</pages>
+<year>2021</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3465998.3466007</ee>
+<crossref>conf/damon/2021</crossref>
+<url>db/conf/damon/damon2021.html#BoeschenB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/desires/HattaschGB21" mdate="2023-03-10">
+<author pid="218/5225">Benjamin H&#228;ttasch</author>
+<author pid="248/9346">Nadja Geisler</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Netted?! How to Improve the Usefulness of Spider &amp; Co.</title>
+<pages>38-43</pages>
+<year>2021</year>
+<booktitle>DESIRES</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2950/paper-08.pdf</ee>
+<crossref>conf/desires/2021</crossref>
+<url>db/conf/desires/desires2021.html#HattaschGB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dmah-ws/El-HindiZB21" mdate="2022-01-14">
+<author pid="164/1407">Muhammad El-Hindi</author>
+<author pid="178/4816">Zheguang Zhao</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>ACID-V: Towards a New Class of DBMSs for Data Sharing.</title>
+<pages>60-64</pages>
+<year>2021</year>
+<booktitle>Poly/DMAH@VLDB</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-93663-1_5</ee>
+<crossref>conf/dmah-ws/2021</crossref>
+<url>db/conf/dmah-ws/polydmah2021.html#El-HindiZB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpt/WirthHTBK21" mdate="2023-11-20">
+<author pid="267/3234-2">Johannes Wirth 0002</author>
+<author pid="283/1378">Jaco A. Hofmann</author>
+<author pid="233/6278">Lasse Thostrup</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="84/1948-1">Andreas Koch 0001</author>
+<title>Scalable and Flexible High-Performance In-Network Processing of Hash Joins in Distributed Databases.</title>
+<pages>1-9</pages>
+<year>2021</year>
+<booktitle>FPT</booktitle>
+<ee>https://doi.org/10.1109/ICFPT52863.2021.9609804</ee>
+<crossref>conf/fpt/2021</crossref>
+<url>db/conf/fpt/icfpt2021.html#WirthHTBK21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HilprechtB21" mdate="2021-06-21">
+<author pid="230/4209">Benjamin Hilprecht</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>ReStore - Neural Data Completion for Relational Databases.</title>
+<pages>710-722</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3457264</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#HilprechtB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ThostrupSJ0B21" mdate="2023-06-26">
+<author orcid="0009-0006-7243-5507" pid="233/6278">Lasse Thostrup</author>
+<author pid="233/6274">Jan Skrzypczak</author>
+<author pid="266/6082">Matthias Jasny</author>
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>DFI: The Data Flow Interface for High-Speed Networks.</title>
+<pages>1825-1837</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3452816</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#ThostrupSJ0B21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-00642" mdate="2021-05-12">
+<author pid="230/4209">Benjamin Hilprecht</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>One Model to Rule them All: Towards Zero-Shot Learning for Databases.</title>
+<year>2021</year>
+<volume>abs/2105.00642</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.00642</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-00642</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-12457" mdate="2021-06-01">
+<author pid="230/4209">Benjamin Hilprecht</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>ReStore - Neural Data Completion for Relational Databases.</title>
+<year>2021</year>
+<volume>abs/2105.12457</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.12457</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-12457</url>
+</article>
+</r>
+<r><article key="journals/dbsk/ZieglerLB20" mdate="2021-05-14">
+<author orcid="0000-0002-1602-4512" pid="146/6632">Tobias Ziegler 0001</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>RDMA Communciation Patterns.</title>
+<pages>199-210</pages>
+<year>2020</year>
+<volume>20</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s13222-020-00355-7</ee>
+<url>db/journals/dbsk/dbsk20.html#ZieglerLB20</url>
+</article>
+</r>
+<r><article key="journals/pe/KarRMACKBR20" mdate="2020-12-29">
+<author pid="192/1386">Sounak Kar</author>
+<author pid="116/4721">Robin Rehrmann</author>
+<author pid="00/4686">Arpan Mukhopadhyay</author>
+<author orcid="0000-0002-1522-5400" pid="207/9742">Bastian Alt</author>
+<author pid="63/4153">Florin Ciucu</author>
+<author pid="41/6084">Heinz Koeppl</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="30/6511">Amr Rizk</author>
+<title>On the Throughput Optimization in Large-scale Batch-processing Systems.</title>
+<pages>102142</pages>
+<year>2020</year>
+<volume>144</volume>
+<journal>Perform. Evaluation</journal>
+<ee>https://doi.org/10.1016/j.peva.2020.102142</ee>
+<url>db/journals/pe/pe144.html#KarRMACKBR20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/HilprechtSKMKB20" mdate="2023-06-26">
+<author pid="230/4209">Benjamin Hilprecht</author>
+<author orcid="0000-0002-9911-5881" pid="53/6562-2">Andreas Schmidt 0002</author>
+<author orcid="0000-0001-8191-4485" pid="228/2736">Moritz Kulessa</author>
+<author pid="26/7693-1">Alejandro Molina 0001</author>
+<author pid="40/3793">Kristian Kersting</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>DeepDB: Learn from Data, not from Queries!</title>
+<pages>992-1005</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>7</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p992-hilprecht.pdf</ee>
+<ee>https://doi.org/10.14778/3384345.3384349</ee>
+<url>db/journals/pvldb/pvldb13.html#HilprechtSKMKB20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/RehrmannBBKL20" mdate="2023-09-30">
+<author pid="116/4721">Robin Rehrmann</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="92/6505">Alexander B&#246;hm 0002</author>
+<author pid="29/2828">Kihong Kim</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<title>Sharing Opportunities for OLTP Workloads in Different Isolation Levels.</title>
+<pages>1696-1708</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p1696-rehrmann.pdf</ee>
+<ee>https://doi.org/10.14778/3401960.3401967</ee>
+<url>db/journals/pvldb/pvldb13.html#RehrmannBBKL20</url>
+</article>
+</r>
+<r><article key="journals/sigmetrics/KarRMACKBR20" mdate="2021-04-26">
+<author pid="192/1386">Sounak Kar</author>
+<author pid="116/4721">Robin Rehrmann</author>
+<author pid="00/4686">Arpan Mukhopadhyay</author>
+<author pid="207/9742">Bastian Alt</author>
+<author pid="63/4153">Florin Ciucu</author>
+<author pid="41/6084">Heinz Koeppl</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="30/6511">Amr Rizk</author>
+<title>On the Throughput Optimization in Large-Scale Batch-Processing Systems.</title>
+<pages>128-129</pages>
+<year>2020</year>
+<volume>48</volume>
+<journal>SIGMETRICS Perform. Evaluation Rev.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3453953.3453982</ee>
+<url>db/journals/sigmetrics/sigmetrics48.html#KarRMACKBR20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/HilprechtBBEHKR20" mdate="2022-10-26">
+<author pid="230/4209">Benjamin Hilprecht</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="257/5532">Tiemo Bang</author>
+<author pid="164/1407">Muhammad El-Hindi</author>
+<author pid="218/5225">Benjamin H&#228;ttasch</author>
+<author pid="257/5525">Aditya Khanna</author>
+<author pid="116/4721">Robin Rehrmann</author>
+<author orcid="0000-0003-3598-7119" pid="r/UweRohm">Uwe R&#246;hm</author>
+<author pid="53/6562-2">Andreas Schmidt 0002</author>
+<author pid="233/6278">Lasse Thostrup</author>
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<title>DBMS Fitting: Why should we learn what we already know?</title>
+<year>2020</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2020/papers/p34-hilprecht-cidr20.pdf</ee>
+<crossref>conf/cidr/2020</crossref>
+<url>db/conf/cidr/cidr2020.html#HilprechtBBEHKR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/BangMPB20" mdate="2022-03-21">
+<author pid="257/5532">Tiemo Bang</author>
+<author pid="89/6071">Norman May</author>
+<author pid="p/IliaPetrov">Ilia Petrov 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>The tale of 1000 Cores: an evaluation of concurrency control on real(ly) large multi-socket hardware.</title>
+<pages>3:1-3:9</pages>
+<year>2020</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3399666.3399910</ee>
+<crossref>conf/damon/2020</crossref>
+<url>db/conf/damon/damon2020.html#BangMPB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/HattaschGMB20" mdate="2021-08-06">
+<author pid="218/5225">Benjamin H&#228;ttasch</author>
+<author pid="248/9346">Nadja Geisler</author>
+<author pid="18/7930">Christian M. Meyer</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Summarization Beyond News: The Automatically Acquired Fandom Corpora.</title>
+<pages>6700-6708</pages>
+<year>2020</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">https://aclanthology.org/2020.lrec-1.827/</ee>
+<crossref>conf/lrec/2020</crossref>
+<url>db/conf/lrec/lrec2020.html#HattaschGMB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/RehrmannKLBS20" mdate="2023-09-30">
+<author pid="116/4721">Robin Rehrmann</author>
+<author pid="266/2554">Martin Keppner</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="88/5932">Arne Schwarz</author>
+<title>Workload merging potential in SAP Hybris.</title>
+<pages>7:1-7:6</pages>
+<year>2020</year>
+<booktitle>DBTest@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3395032.3395326</ee>
+<crossref>conf/sigmod/2020dbtest</crossref>
+<url>db/conf/sigmod/dbtest2020.html#RehrmannKLBS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HilprechtBR20" mdate="2021-04-09">
+<author pid="230/4209">Benjamin Hilprecht</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author orcid="0000-0003-3598-7119" pid="r/UweRohm">Uwe R&#246;hm</author>
+<title>Learning a Partitioning Advisor for Cloud Databases.</title>
+<pages>143-157</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389704</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#HilprechtBR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Jasny0KRB20" mdate="2021-04-09">
+<author pid="266/6082">Matthias Jasny</author>
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<author pid="26/6037">Tim Kraska</author>
+<author orcid="0000-0003-3598-7119" pid="r/UweRohm">Uwe R&#246;hm</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>DB4ML - An In-Memory Database Kernel with Machine Learning Support.</title>
+<pages>159-173</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3380575</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#Jasny0KRB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZamanianSBK20" mdate="2020-06-05">
+<author pid="141/9169">Erfan Zamanian</author>
+<author pid="82/9876">Julian Shun</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Chiller: Contention-centric Transaction Execution and Data Partitioning for Modern Networks.</title>
+<pages>511-526</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389724</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#ZamanianSBK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/EichmannZBK20" mdate="2020-06-05">
+<author pid="160/4301">Philipp Eichmann</author>
+<author pid="153/7539">Emanuel Zgraggen</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>IDEBench: A Benchmark for Interactive Data Exploration.</title>
+<pages>1555-1569</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3380574</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#EichmannZBK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BattleEACSZBFM20" mdate="2022-06-23">
+<author pid="91/7584">Leilani Battle</author>
+<author pid="160/4301">Philipp Eichmann</author>
+<author pid="118/6511">Marco Angelini</author>
+<author orcid="0000-0002-3578-1121" pid="c/TCatarci">Tiziana Catarci</author>
+<author pid="s/GiuseppeSantucci">Giuseppe Santucci</author>
+<author pid="204/0083">Yukun Zheng</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author orcid="0000-0003-3770-8726" pid="f/JeanDanielFekete">Jean-Daniel Fekete</author>
+<author pid="147/1186">Dominik Moritz</author>
+<title>Database Benchmarking for Supporting Real-Time Interactive Querying of Large Data.</title>
+<pages>1571-1587</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389732</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#BattleEACSZBFM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BangOMPB20" mdate="2022-03-21">
+<author pid="257/5532">Tiemo Bang</author>
+<author pid="135/3665">Ismail Oukid</author>
+<author pid="89/6071">Norman May</author>
+<author pid="p/IliaPetrov">Ilia Petrov 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Robust Performance of Main Memory Data Structures by Configuration.</title>
+<pages>1651-1666</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389725</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#BangOMPB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/WeirUGCIRBGHEcB20" mdate="2024-01-29">
+<author pid="218/5179">Nathaniel Weir</author>
+<author pid="245/8708">Prasetya Ajie Utama</author>
+<author pid="147/4899">Alex Galakatos</author>
+<author pid="147/4971">Andrew Crotty</author>
+<author pid="218/5236">Amir Ilkhechi</author>
+<author pid="218/5357">Shekar Ramaswamy</author>
+<author pid="248/9002">Rohin Bhushan</author>
+<author pid="248/9346">Nadja Geisler</author>
+<author pid="218/5225">Benjamin H&#228;ttasch</author>
+<author pid="69/9271">Steffen Eger</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>DBPal: A Fully Pluggable NL2SQL Training Pipeline.</title>
+<pages>2347-2361</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3380589</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#WeirUGCIRBGHEcB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/HattaschT0B20" mdate="2022-10-26">
+<author pid="218/5225">Benjamin H&#228;ttasch</author>
+<author pid="281/3715">Michael Truong-Ngoc</author>
+<author pid="53/6562-2">Andreas Schmidt 0002</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>It's AI Match: A Two-Step Approach for Schema Matching Using Embeddings.</title>
+<year>2020</year>
+<booktitle>AIDB@VLDB</booktitle>
+<ee>https://drive.google.com/file/d/1xCGhHfghJR3DLuA-9o-XQXBS8M1_8a4P/view?usp=sharing</ee>
+<crossref>conf/vldb/2020aidb</crossref>
+<url>db/conf/vldb/aidb2020.html#HattaschT0B20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-02258" mdate="2022-03-21">
+<author pid="257/5532">Tiemo Bang</author>
+<author pid="89/6071">Norman May</author>
+<author pid="p/IliaPetrov">Ilia Petrov 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>AnyDB: An Architecture-less DBMS for Any Workload.</title>
+<year>2020</year>
+<volume>abs/2009.02258</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.02258</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-02258</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-09433" mdate="2021-10-14">
+<author pid="192/1386">Sounak Kar</author>
+<author pid="116/4721">Robin Rehrmann</author>
+<author pid="00/4686">Arpan Mukhopadhyay</author>
+<author orcid="0000-0002-1522-5400" pid="207/9742">Bastian Alt</author>
+<author pid="63/4153">Florin Ciucu</author>
+<author pid="41/6084">Heinz Koeppl</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="30/6511">Amr Rizk</author>
+<title>On the Throughput Optimization in Large-Scale Batch-Processing Systems.</title>
+<year>2020</year>
+<volume>abs/2009.09433</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.09433</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-09433</url>
+</article>
+</r>
+<r><article key="journals/pvldb/El-HindiBAKR19" mdate="2023-10-22">
+<author pid="164/1407">Muhammad El-Hindi</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<title>BlockchainDB - A Shared Database on Blockchains.</title>
+<pages>1597-1609</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1597-el-hindi.pdf</ee>
+<ee>https://doi.org/10.14778/3342263.3342636</ee>
+<ee>https://www.wikidata.org/entity/Q121980738</ee>
+<url>db/journals/pvldb/pvldb12.html#El-HindiBAKR19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BergZBR19" mdate="2020-04-25">
+<author pid="247/8159">Lukas Berg</author>
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author orcid="0000-0003-3598-7119" pid="r/UweRohm">Uwe R&#246;hm</author>
+<title>ProgressiveDB - Progressive Data Analytics as a Middleware.</title>
+<pages>1814-1817</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1814-berg.pdf</ee>
+<ee>https://doi.org/10.14778/3352063.3352073</ee>
+<url>db/journals/pvldb/pvldb12.html#BergZBR19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DursunBCSG19" mdate="2020-04-25">
+<author pid="92/9993">Kayhan Dursun</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="46/4288">Garret Swart</author>
+<author pid="30/841">Weiwei Gong</author>
+<title>A Morsel-Driven Query Execution Engine for Heterogeneous Multi-Cores.</title>
+<pages>2218-2229</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p2218-dursun.pdf</ee>
+<ee>https://doi.org/10.14778/3352063.3352137</ee>
+<url>db/journals/pvldb/pvldb12.html#DursunBCSG19</url>
+</article>
+</r>
+<r><inproceedings key="conf/adms/HofmannTZBK19" mdate="2021-01-18">
+<author pid="283/1378">Jaco A. Hofmann</author>
+<author pid="233/6278">Lasse Thostrup</author>
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="84/1948-1">Andreas Koch 0001</author>
+<title>High-Performance In-Network Data Processing.</title>
+<pages>64-73</pages>
+<year>2019</year>
+<booktitle>ADMS@VLDB</booktitle>
+<ee>http://www.adms-conf.org/2019-camera-ready/hofmann_adms19.pdf</ee>
+<crossref>conf/adms/2019</crossref>
+<url>db/conf/adms/adms2019.html#HofmannTZBK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/Binnig19" mdate="2021-01-13">
+<author pid="45/1559">Carsten Binnig</author>
+<title>DPI: The Data Processing Interface for Modern Networks (Extended Abstract).</title>
+<pages>29-30</pages>
+<year>2019</year>
+<booktitle>BTW (Workshops)</booktitle>
+<ee type="oa">https://doi.org/10.18420/btw2019-ws-02</ee>
+<crossref>conf/btw/2019w</crossref>
+<url>db/conf/btw/btw2019w.html#Binnig19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/0001BR19" mdate="2021-01-13">
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author orcid="0000-0003-3598-7119" pid="r/UweRohm">Uwe R&#246;hm</author>
+<title>Skew-resilient Query Processing for Fast Networks.</title>
+<pages>81-85</pages>
+<year>2019</year>
+<booktitle>BTW (Workshops)</booktitle>
+<ee type="oa">https://doi.org/10.18420/btw2019-ws-06</ee>
+<crossref>conf/btw/2019w</crossref>
+<url>db/conf/btw/btw2019w.html#0001BR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/AlonsoBPSSST0W019" mdate="2020-03-12">
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="s/KennethSalem">Kenneth Salem</author>
+<author pid="233/6274">Jan Skrzypczak</author>
+<author pid="02/1650">Ryan Stutsman</author>
+<author pid="233/6278">Lasse Thostrup</author>
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="233/6269">Zeke Wang</author>
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<title>DPI: The Data Processing Interface for Modern Networks.</title>
+<year>2019</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2019/papers/p11-alonso-cidr19.pdf</ee>
+<crossref>conf/cidr/2019</crossref>
+<url>db/conf/cidr/cidr2019.html#AlonsoBPSSST0W019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/data/SalamaLRB19" mdate="2019-09-18">
+<author pid="141/9090">Abdallah Salama</author>
+<author pid="00/356">Alexander Linke</author>
+<author pid="249/0173">Igor Pessoa Rocha</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>XAI: A Middleware for Scalable AI.</title>
+<pages>109-120</pages>
+<year>2019</year>
+<booktitle>DATA</booktitle>
+<ee>https://doi.org/10.5220/0008120301090120</ee>
+<crossref>conf/data/2019</crossref>
+<url>db/conf/data/data2019.html#SalamaLRB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HilprechtBR19" mdate="2020-03-27">
+<author pid="230/4209">Benjamin Hilprecht</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author orcid="0000-0003-3598-7119" pid="r/UweRohm">Uwe R&#246;hm</author>
+<title>Towards learning a partitioning advisor with deep reinforcement learning.</title>
+<pages>6:1-6:4</pages>
+<year>2019</year>
+<booktitle>aiDM@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3329859.3329876</ee>
+<crossref>conf/sigmod/2019aidm</crossref>
+<url>db/conf/sigmod/aidm2019.html#HilprechtBR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HattaschMB19" mdate="2019-09-25">
+<author pid="218/5225">Benjamin H&#228;ttasch</author>
+<author pid="18/7930">Christian M. Meyer</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Interactive Summarization of Large Document Collections.</title>
+<pages>9:1-9:4</pages>
+<year>2019</year>
+<booktitle>HILDA@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3328519.3329129</ee>
+<crossref>conf/sigmod/2019hilda</crossref>
+<url>db/conf/sigmod/hilda2019.html#HattaschMB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/0001VBFK19" mdate="2019-06-22">
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<author pid="243/2403">Sumukha Tumkur Vani</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="f/RFonseca">Rodrigo Fonseca</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Designing Distributed Tree-based Index Structures for Fast RDMA-capable Networks.</title>
+<pages>741-758</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3300081</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#0001VBFK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ShangZBKECBUK19" mdate="2019-06-22">
+<author pid="189/2405">Zeyuan Shang</author>
+<author pid="153/7539">Emanuel Zgraggen</author>
+<author pid="219/1745">Benedetto Buratti</author>
+<author pid="243/2511">Ferdinand Kossmann</author>
+<author pid="160/4301">Philipp Eichmann</author>
+<author pid="132/1869">Yeounoh Chung</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="u/EliUpfal">Eli Upfal</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Democratizing Data Science through Interactive Curation of ML Pipelines.</title>
+<pages>1171-1188</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3319863</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#ShangZBKECBUK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GalakatosMBFK19" mdate="2019-06-22">
+<author pid="147/4899">Alex Galakatos</author>
+<author pid="142/2901">Michael Markovitch</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="f/RFonseca">Rodrigo Fonseca</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>FITing-Tree: A Data-aware Index Structure.</title>
+<pages>1189-1206</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3319860</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#GalakatosMBFK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/El-HindiHBRAK19" mdate="2019-06-22">
+<author pid="164/1407">Muhammad El-Hindi</author>
+<author pid="231/1325">Martin Heyden</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>BlockchainDB - Towards a Shared Database on Blockchains.</title>
+<pages>1905-1908</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3320237</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#El-HindiHBRAK19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/edbt/2019" mdate="2019-03-18">
+<editor pid="w/MelanieWeis">Melanie Herschel</editor>
+<editor pid="g/HelenaGalhardas">Helena Galhardas</editor>
+<editor pid="76/3381">Berthold Reinwald</editor>
+<editor pid="74/6086">Irini Fundulaki</editor>
+<editor pid="45/1559">Carsten Binnig</editor>
+<editor pid="65/1457">Zoi Kaoudi</editor>
+<title>Advances in Database Technology - 22nd International Conference on Extending Database Technology, EDBT 2019, Lisbon, Portugal, March 26-29, 2019</title>
+<booktitle>EDBT</booktitle>
+<publisher>OpenProceedings.org</publisher>
+<year>2019</year>
+<isbn>978-3-89318-081-3</isbn>
+<ee>https://openproceedings.org/html/pages/2019_edbt.html</ee>
+<url>db/conf/edbt/edbt2019.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-01279" mdate="2021-10-14">
+<author pid="230/4209">Benjamin Hilprecht</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author orcid="0000-0003-3598-7119" pid="r/UweRohm">Uwe R&#246;hm</author>
+<title>Learning a Partitioning Advisor with Deep Reinforcement Learning.</title>
+<year>2019</year>
+<volume>abs/1904.01279</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.01279</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-01279</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-00607" mdate="2022-10-26">
+<author pid="230/4209">Benjamin Hilprecht</author>
+<author pid="53/6562-2">Andreas Schmidt 0002</author>
+<author orcid="0000-0001-8191-4485" pid="228/2736">Moritz Kulessa</author>
+<author pid="26/7693-1">Alejandro Molina 0001</author>
+<author pid="40/3793">Kristian Kersting</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>DeepDB: Learn from Data, not from Queries!</title>
+<year>2019</year>
+<volume>abs/1909.00607</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.00607</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-00607</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-06182" mdate="2024-01-29">
+<author pid="218/5179">Nathaniel Weir</author>
+<author pid="147/4971">Andrew Crotty</author>
+<author pid="147/4899">Alex Galakatos</author>
+<author pid="218/5236">Amir Ilkhechi</author>
+<author pid="218/5357">Shekar Ramaswamy</author>
+<author pid="248/9002">Rohin Bhushan</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="245/8708">Prasetya Ajie Utama</author>
+<author pid="248/9346">Nadja Geisler</author>
+<author pid="218/5225">Benjamin H&#228;ttasch</author>
+<author pid="69/9271">Steffen Eger</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>DBPal: Weak Supervision for Learning a Natural Language Interface to Databases.</title>
+<year>2019</year>
+<volume>abs/1909.06182</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.06182</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-06182</url>
+</article>
+</r>
+<r><article key="journals/dbsk/Binnig18" mdate="2018-11-06">
+<author pid="45/1559">Carsten Binnig</author>
+<title>Scalable Data Management on Modern Networks.</title>
+<pages>203-209</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s13222-018-0297-6</ee>
+<url>db/journals/dbsk/dbsk18.html#Binnig18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/RehrmannBBKLR18" mdate="2023-09-30">
+<author orcid="0000-0002-4537-2874" pid="116/4721">Robin Rehrmann</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="92/6505">Alexander B&#246;hm 0002</author>
+<author pid="29/2828">Kihong Kim</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="30/6511">Amr Rizk</author>
+<title>OLTPShare: The Case for Sharing in OLTP Workloads.</title>
+<pages>1769-1780</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1769-rehrmann.pdf</ee>
+<ee>https://doi.org/10.14778/3229863.3229866</ee>
+<url>db/journals/pvldb/pvldb11.html#RehrmannBBKLR18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SBHMO18" mdate="2020-05-28">
+<author pid="70/8153">Avinesh P. V. S.</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="218/5225">Benjamin H&#228;ttasch</author>
+<author pid="18/7930">Christian M. Meyer</author>
+<author pid="224/6736">Orkan &#214;zyurt</author>
+<title>Sherlock: A System for Interactive Summarization of Large Text Collections.</title>
+<pages>1902-1905</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1902-p.v.s..pdf</ee>
+<ee>https://doi.org/10.14778/3229863.3236220</ee>
+<url>db/journals/pvldb/pvldb11.html#SBHMO18</url>
+</article>
+</r>
+<r><article key="journals/semweb/PinkelBJKMNBSST18" mdate="2022-04-12">
+<author pid="54/4903">Christoph Pinkel</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author orcid="0000-0002-9083-4599" pid="22/5749">Ernesto Jim&#233;nez-Ruiz</author>
+<author pid="20/4833">Evgeny Kharlamov</author>
+<author pid="m/WolfgangMay">Wolfgang May</author>
+<author pid="59/804">Andriy Nikolov</author>
+<author pid="38/681">Ana Sasa Bastinos</author>
+<author pid="47/11425">Martin G. Skj&#230;veland</author>
+<author pid="119/6401">Alessandro Solimando</author>
+<author pid="48/11425">Mohsen Taheriyan</author>
+<author pid="55/10406">Christian Heupel</author>
+<author pid="h/IanHorrocks">Ian Horrocks 0001</author>
+<title>RODI: Benchmarking relational-to-ontology mapping generation quality.</title>
+<pages>25-52</pages>
+<year>2018</year>
+<volume>9</volume>
+<journal>Semantic Web</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/SW-170268</ee>
+<ee>https://www.wikidata.org/entity/Q64359999</ee>
+<url>db/journals/semweb/semweb9.html#PinkelBJKMNBSST18</url>
+</article>
+</r>
+<r><article key="journals/tods/ChungMBK18" mdate="2018-11-21">
+<author pid="132/1869">Yeounoh Chung</author>
+<author pid="142/8766">Michael Lind Mortensen</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Estimating the Impact of Unknown Unknowns on Aggregate Query Results.</title>
+<pages>3:1-3:37</pages>
+<year>2018</year>
+<volume>43</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3167970</ee>
+<url>db/journals/tods/tods43.html#ChungMBK18</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/BlocherZBE18" mdate="2019-01-14">
+<author pid="220/5782">Marcel Bl&#246;cher</author>
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="14/4443">Patrick Eugster</author>
+<title>Boosting scalable data analytics with modern programmable networks.</title>
+<pages>1:1-1:3</pages>
+<year>2018</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3211922.3211923</ee>
+<crossref>conf/damon/2018</crossref>
+<url>db/conf/damon/damon2018.html#BlocherZBE18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/data/Binnig18" mdate="2018-08-29">
+<author pid="45/1559">Carsten Binnig</author>
+<title>Towards Interactive Data Exploration.</title>
+<pages>5</pages>
+<year>2018</year>
+<booktitle>DATA</booktitle>
+<crossref>conf/data/2018</crossref>
+<url>db/conf/data/data2018.html#Binnig18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/SommerO0BK018" mdate="2023-03-23">
+<author pid="203/9256">Lukas Sommer</author>
+<author pid="133/5083">Julian Oppermann</author>
+<author orcid="0000-0003-4509-9174" pid="26/7693-1">Alejandro Molina 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="40/3793">Kristian Kersting</author>
+<author pid="84/1948-1">Andreas Koch 0001</author>
+<title>Automatic Mapping of the Sum-Product Network Inference Problem to FPGA-Based Accelerators.</title>
+<pages>350-357</pages>
+<year>2018</year>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD.2018.00060</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCD.2018.00060</ee>
+<crossref>conf/iccd/2018</crossref>
+<url>db/conf/iccd/iccd2018.html#SommerO0BK018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BinnigBCCKSUZZ18" mdate="2018-11-21">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="219/1745">Benedetto Buratti</author>
+<author pid="132/1869">Yeounoh Chung</author>
+<author pid="202/6684">Cyrus Cousins</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="189/2405">Zeyuan Shang</author>
+<author pid="u/EliUpfal">Eli Upfal</author>
+<author pid="98/5185">Robert C. Zeleznik</author>
+<author pid="153/7539">Emanuel Zgraggen</author>
+<title>Towards Interactive Curation &amp; Automatic Tuning of ML Pipelines.</title>
+<pages>1:1-1:4</pages>
+<year>2018</year>
+<booktitle>DEEM@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3209889.3209891</ee>
+<crossref>conf/sigmod/2018deem</crossref>
+<url>db/conf/sigmod/deem2018.html#BinnigBCCKSUZZ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BattleABCEFSSW18" mdate="2022-10-02">
+<author pid="91/7584">Leilani Battle</author>
+<author orcid="0000-0001-9051-6972" pid="118/6511">Marco Angelini</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="c/TCatarci">Tiziana Catarci</author>
+<author pid="160/4301">Philipp Eichmann</author>
+<author orcid="0000-0003-3770-8726" pid="f/JeanDanielFekete">Jean-Daniel Fekete</author>
+<author pid="s/GiuseppeSantucci">Giuseppe Santucci</author>
+<author pid="80/6465">Michael Sedlmair</author>
+<author orcid="0000-0002-6793-3062" pid="64/4954">Wesley Willett</author>
+<title>Evaluating Visual Data Analysis Systems: A Discussion Report.</title>
+<pages>4:1-4:6</pages>
+<year>2018</year>
+<booktitle>HILDA@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3209900.3209901</ee>
+<crossref>conf/sigmod/2018hilda</crossref>
+<url>db/conf/sigmod/hilda2018.html#BattleABCEFSSW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BasikHIURUWBC18" mdate="2024-01-29">
+<author pid="170/6847">Fuat Basik</author>
+<author pid="218/5225">Benjamin H&#228;ttasch</author>
+<author pid="218/5236">Amir Ilkhechi</author>
+<author pid="147/9180">Arif Usta</author>
+<author pid="218/5357">Shekar Ramaswamy</author>
+<author pid="245/8708">Prasetya Ajie Utama</author>
+<author pid="218/5179">Nathaniel Weir</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<title>DBPal: A Learned NL-Interface for Databases.</title>
+<pages>1765-1768</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3193562</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#BasikHIURUWBC18</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigmod/2018hilda" mdate="2018-11-21">
+<editor pid="45/1559">Carsten Binnig</editor>
+<editor pid="f/JulianaFreire">Juliana Freire</editor>
+<editor pid="41/3679">Eugene Wu 0002</editor>
+<title>Proceedings of the Workshop on Human-In-the-Loop Data Analytics, HILDA@SIGMOD 2018, Houston, TX, USA, June 10, 2018</title>
+<publisher>ACM</publisher>
+<booktitle>HILDA@SIGMOD</booktitle>
+<year>2018</year>
+<ee>https://doi.org/10.1145/3209900</ee>
+<url>db/conf/sigmod/hilda2018.html</url>
+</proceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Binnig18" mdate="2019-02-14">
+<author pid="45/1559">Carsten Binnig</author>
+<title>Replication with Snapshot Isolation.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_80775</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/r2.html#Binnig18</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-10207" mdate="2018-08-13">
+<author pid="147/4899">Alex Galakatos</author>
+<author pid="142/2901">Michael Markovitch</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="f/RFonseca">Rodrigo Fonseca</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>A-Tree: A Bounded Approximate Index Structure.</title>
+<year>2018</year>
+<volume>abs/1801.10207</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.10207</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-10207</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-00401" mdate="2024-01-29">
+<author pid="245/8708">Prasetya Ajie Utama</author>
+<author pid="218/5179">Nathaniel Weir</author>
+<author pid="170/6847">Fuat Basik</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="218/5225">Benjamin H&#228;ttasch</author>
+<author pid="218/5236">Amir Ilkhechi</author>
+<author pid="218/5357">Shekar Ramaswamy</author>
+<author pid="147/9180">Arif Usta</author>
+<title>An End-to-end Neural Natural Language Interface for Databases.</title>
+<year>2018</year>
+<volume>abs/1804.00401</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.00401</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-00401</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-02593" mdate="2018-08-13">
+<author pid="160/4301">Philipp Eichmann</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="153/7539">Emanuel Zgraggen</author>
+<title>IDEBench: A Benchmark for Interactive Data Exploration.</title>
+<year>2018</year>
+<volume>abs/1804.02593</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.02593</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-02593</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-06224" mdate="2021-10-14">
+<author orcid="0000-0001-8191-4485" pid="228/2736">Moritz Kulessa</author>
+<author pid="26/7693-1">Alejandro Molina 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="230/4209">Benjamin Hilprecht</author>
+<author pid="40/3793">Kristian Kersting</author>
+<title>Model-based Approximate Query Processing.</title>
+<year>2018</year>
+<volume>abs/1811.06224</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.06224</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-06224</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-12204" mdate="2018-11-30">
+<author pid="141/9169">Erfan Zamanian</author>
+<author pid="82/9876">Julian Shun</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Chiller: Contention-centric Transaction Execution and Data Partitioning for Fast Networks.</title>
+<year>2018</year>
+<volume>abs/1811.12204</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.12204</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-12204</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-08032" mdate="2021-01-23">
+<author pid="45/7528">Cagatay Turkay</author>
+<author pid="122/8732">Nicola Pezzotti</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="67/7527">Hendrik Strobelt</author>
+<author pid="h/BarbaraHammer">Barbara Hammer</author>
+<author pid="k/DanielAKeim">Daniel A. Keim</author>
+<author orcid="0000-0003-3770-8726" pid="f/JeanDanielFekete">Jean-Daniel Fekete</author>
+<author pid="p/ThemisPalpanas">Themis Palpanas</author>
+<author pid="42/1154">Yunhai Wang</author>
+<author pid="73/343">Florin Rusu</author>
+<title>Progressive Data Science: Potential and Challenges.</title>
+<year>2018</year>
+<volume>abs/1812.08032</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.08032</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-08032</url>
+</article>
+</r>
+<r><article key="journals/debu/SalamaBKSZ17" mdate="2020-03-10">
+<author pid="141/9090">Abdallah Salama</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="06/2380">Ansgar Scherp</author>
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<title>Rethinking Distributed Query Execution on High-Speed Networks.</title>
+<pages>27-37</pages>
+<year>2017</year>
+<volume>40</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A17mar/p27.pdf</ee>
+<url>db/journals/debu/debu40.html#SalamaBKSZ17</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ZamanianBKH17" mdate="2020-04-25">
+<author pid="141/9169">Erfan Zamanian</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="61/3834">Tim Harris 0001</author>
+<title>The End of a Myth: Distributed Transaction Can Scale.</title>
+<pages>685-696</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p685-zamanian.pdf</ee>
+<ee>https://doi.org/10.14778/3055330.3055335</ee>
+<url>db/journals/pvldb/pvldb10.html#ZamanianBKH17</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GalakatosCZBK17" mdate="2020-04-25">
+<author pid="147/4899">Alex Galakatos</author>
+<author pid="147/4971">Andrew Crotty</author>
+<author pid="153/7539">Emanuel Zgraggen</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Revisiting Reuse for Approximate Query Processing.</title>
+<pages>1142-1153</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p1142-galakatos.pdf</ee>
+<ee>https://doi.org/10.14778/3115404.3115418</ee>
+<url>db/journals/pvldb/pvldb10.html#GalakatosCZBK17</url>
+</article>
+</r>
+<r><inproceedings key="conf/birte/BinnigBBCCCCEEG17" mdate="2024-01-29">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="170/6847">Fuat Basik</author>
+<author pid="219/1745">Benedetto Buratti</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="132/1869">Yeounoh Chung</author>
+<author pid="147/4971">Andrew Crotty</author>
+<author pid="202/6684">Cyrus Cousins</author>
+<author pid="169/3346">Dylan Ebert</author>
+<author pid="160/4301">Philipp Eichmann</author>
+<author pid="147/4899">Alex Galakatos</author>
+<author pid="218/5225">Benjamin H&#228;ttasch</author>
+<author pid="218/5236">Amir Ilkhechi</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="189/2405">Zeyuan Shang</author>
+<author pid="250/5303">Isabella Tromba</author>
+<author pid="147/9180">Arif Usta</author>
+<author pid="245/8708">Prasetya Ajie Utama</author>
+<author pid="u/EliUpfal">Eli Upfal</author>
+<author pid="169/9748">Linnan Wang</author>
+<author pid="218/5179">Nathaniel Weir</author>
+<author pid="98/5185">Robert C. Zeleznik</author>
+<author pid="153/7539">Emanuel Zgraggen</author>
+<title>Towards Interactive Data Exploration.</title>
+<pages>177-190</pages>
+<year>2017</year>
+<booktitle>BIRTE (Revised Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-24124-7_11</ee>
+<crossref>conf/birte/2017s</crossref>
+<url>db/conf/birte/birte2017s.html#BinnigBBCCCCEEG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/PinkelBJKNSHK17" mdate="2023-07-04">
+<author pid="54/4903">Christoph Pinkel</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="22/5749">Ernesto Jim&#233;nez-Ruiz</author>
+<author pid="20/4833">Evgeny Kharlamov</author>
+<author pid="59/804">Andriy Nikolov</author>
+<author pid="14/9728">Andreas Schwarte</author>
+<author pid="55/10406">Christian Heupel</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>IncMap: A Journey towards Ontology-based Data Integration.</title>
+<pages>145-164</pages>
+<year>2017</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2017</crossref>
+<url>db/conf/btw/btw2017.html#PinkelBJKNSHK17</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/625</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/KraskaDB17" mdate="2023-07-04">
+<author pid="26/6037">Tim Kraska</author>
+<author pid="150/1946">Elkhan Dadashov</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Spotlytics: How to Use Cloud Market Places for Analytics?</title>
+<pages>361-380</pages>
+<year>2017</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2017</crossref>
+<url>db/conf/btw/btw2017.html#KraskaDB17</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/640</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cicling/GurevychMBFK0S17" mdate="2020-06-15">
+<author pid="85/6201">Iryna Gurevych</author>
+<author pid="18/7930">Christian M. Meyer</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author orcid="0000-0002-1207-0159" pid="f/JohannesFurnkranz">Johannes F&#252;rnkranz</author>
+<author pid="40/3793">Kristian Kersting</author>
+<author pid="24/3452">Stefan Roth 0001</author>
+<author orcid="0000-0002-6447-1552" pid="79/7584">Edwin Simpson</author>
+<title>Interactive Data Analytics for the Humanities.</title>
+<pages>527-549</pages>
+<year>2017</year>
+<booktitle>CICLing (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-77113-7_41</ee>
+<crossref>conf/cicling/2017-1</crossref>
+<url>db/conf/cicling/cicling2017-1.html#GurevychMBFK0S17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/BinnigSKUZZ17" mdate="2020-03-12">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="37/7414">Lorenzo De Stefani</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="u/EliUpfal">Eli Upfal</author>
+<author pid="153/7539">Emanuel Zgraggen</author>
+<author pid="178/4816">Zheguang Zhao</author>
+<title>Toward Sustainable Insights, or Why Polygamy is Bad for You.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/papers/p56-binnig-cidr17.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#BinnigSKUZZ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/DursunBCP17" mdate="2018-11-06">
+<author pid="92/9993">Kayhan Dursun</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="199/2473">Robert Petrocelli</author>
+<title>SiliconDB: rethinking DBMSs for modern heterogeneous co-processor environments.</title>
+<pages>10:1-10:4</pages>
+<year>2017</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3076113.3076124</ee>
+<crossref>conf/damon/2017</crossref>
+<url>db/conf/damon/damon2017.html#DursunBCP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GuoBK17" mdate="2018-11-06">
+<author pid="73/735">Yue Guo</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>What you see is not what you get!: Detecting Simpson's Paradoxes during Data Exploration.</title>
+<pages>2:1-2:5</pages>
+<year>2017</year>
+<booktitle>HILDA@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3077257.3077266</ee>
+<crossref>conf/sigmod/2017hilda</crossref>
+<url>db/conf/sigmod/hilda2017.html#GuoBK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZhaoSZBUK17" mdate="2019-09-16">
+<author pid="178/4816">Zheguang Zhao</author>
+<author pid="37/7414">Lorenzo De Stefani</author>
+<author pid="153/7539">Emanuel Zgraggen</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author orcid="0000-0002-9321-9460" pid="u/EliUpfal">Eli Upfal</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Controlling False Discoveries During Interactive Data Exploration.</title>
+<pages>527-540</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3064019</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#ZhaoSZBUK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DursunBCK17" mdate="2018-11-06">
+<author pid="92/9993">Kayhan Dursun</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Revisiting Reuse in Main Memory Database Systems.</title>
+<pages>1275-1289</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3035957</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#DursunBCK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZhaoZSBUK17" mdate="2019-09-16">
+<author pid="178/4816">Zheguang Zhao</author>
+<author pid="153/7539">Emanuel Zgraggen</author>
+<author pid="37/7414">Lorenzo De Stefani</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author orcid="0000-0002-9321-9460" pid="u/EliUpfal">Eli Upfal</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Safe Visual Data Exploration.</title>
+<pages>1671-1674</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3058749</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#ZhaoZSBUK17</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigmod/2017hilda" mdate="2022-10-02">
+<editor pid="45/1559">Carsten Binnig</editor>
+<editor pid="h/JosephMHellerstein">Joseph M. Hellerstein</editor>
+<editor orcid="0000-0002-4538-4752" pid="40/7459">Aditya G. Parameswaran</editor>
+<title>Proceedings of the 2nd Workshop on Human-In-the-Loop Data Analytics, HILDA@SIGMOD 2017, Chicago, IL, USA, May 14, 2017</title>
+<booktitle>HILDA@SIGMOD</booktitle>
+<publisher>ACM</publisher>
+<year>2017</year>
+<isbn>978-1-4503-5029-7</isbn>
+<ee>https://doi.org/10.1145/3077257</ee>
+<url>db/conf/sigmod/hilda2017.html</url>
+</proceedings>
+</r>
+<r><article key="journals/debu/EichmannZZBK16" mdate="2020-03-10">
+<author pid="160/4301">Philipp Eichmann</author>
+<author pid="153/7539">Emanuel Zgraggen</author>
+<author pid="178/4816">Zheguang Zhao</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Towards a Benchmark for Interactive Data Exploration.</title>
+<pages>50-61</pages>
+<year>2016</year>
+<volume>39</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A16dec/p50.pdf</ee>
+<url>db/journals/debu/debu39.html#EichmannZZBK16</url>
+</article>
+</r>
+<r><article key="journals/debu/NandiFB16" mdate="2020-08-27">
+<author pid="28/568">Arnab Nandi 0001</author>
+<author pid="f/AlanDavidFekete">Alan D. Fekete</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>HILDA 2016 Workshop: A Report.</title>
+<pages>85-86</pages>
+<year>2016</year>
+<volume>39</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<ee type="oa">http://sites.computer.org/debull/A16dec/p85.pdf</ee>
+<number>4</number>
+<url>db/journals/debu/debu39.html#NandiFB16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BinnigCGKZ16" mdate="2020-04-25">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="147/4971">Andrew Crotty</author>
+<author pid="147/4899">Alex Galakatos</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="141/9169">Erfan Zamanian</author>
+<title>The End of Slow Networks: It's Time for a Redesign.</title>
+<pages>528-539</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>7</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p528-binnig.pdf</ee>
+<ee>https://doi.org/10.14778/2904483.2904485</ee>
+<url>db/journals/pvldb/pvldb9.html#BinnigCGKZ16</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/El-HindiZBK16" mdate="2018-11-06">
+<author pid="164/1407">Muhammad El-Hindi</author>
+<author pid="178/4816">Zheguang Zhao</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>VisTrees: fast indexes for interactive data exploration.</title>
+<pages>5</pages>
+<year>2016</year>
+<booktitle>HILDA@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/2939502.2939507</ee>
+<crossref>conf/sigmod/2016hilda</crossref>
+<url>db/conf/sigmod/hilda2016.html#El-HindiZBK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/CrottyGZBK16" mdate="2018-11-06">
+<author pid="147/4971">Andrew Crotty</author>
+<author pid="147/4899">Alex Galakatos</author>
+<author pid="153/7539">Emanuel Zgraggen</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>The case for interactive data exploration accelerators (IDEAs).</title>
+<pages>11</pages>
+<year>2016</year>
+<booktitle>HILDA@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/2939502.2939513</ee>
+<crossref>conf/sigmod/2016hilda</crossref>
+<url>db/conf/sigmod/hilda2016.html#CrottyGZBK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChungMBK16" mdate="2018-11-06">
+<author pid="132/1869">Yeounoh Chung</author>
+<author pid="142/8766">Michael Lind Mortensen</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Estimating the Impact of Unknown Unknowns on Aggregate Query Results.</title>
+<pages>861-876</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2882909</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#ChungMBK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LyonsTBCK16" mdate="2021-02-24">
+<author pid="181/5847">Gabriel Lyons</author>
+<author pid="77/2885-2">Vinh Tran 0002</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Making the Case for Query-by-Voice with EchoQuery.</title>
+<pages>2129-2132</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2899394</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#LyonsTBCK16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigmod/2016hilda" mdate="2020-08-27">
+<editor pid="45/1559">Carsten Binnig</editor>
+<editor pid="f/AlanDavidFekete">Alan D. Fekete</editor>
+<editor pid="28/568">Arnab Nandi 0001</editor>
+<title>Proceedings of the Workshop on Human-In-the-Loop Data Analytics, HILDA@SIGMOD 2016, San Francisco, CA, USA, June 26 - July 01, 2016</title>
+<booktitle>HILDA@SIGMOD</booktitle>
+<publisher>ACM</publisher>
+<year>2016</year>
+<isbn>978-1-4503-4207-0</isbn>
+<ee>https://doi.org/10.1145/2939502</ee>
+<url>db/conf/sigmod/hilda2016.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/ZamanianBKH16" mdate="2018-08-13">
+<author pid="141/9169">Erfan Zamanian</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="61/3834">Tim Harris 0001</author>
+<title>The End of a Myth: Distributed Transactions Can Scale.</title>
+<year>2016</year>
+<volume>abs/1607.00655</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1607.00655</ee>
+<url>db/journals/corr/corr1607.html#ZamanianBKH16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/DursunBCK16" mdate="2018-08-13">
+<author pid="92/9993">Kayhan Dursun</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Revisiting Reuse in Main Memory Database Systems.</title>
+<year>2016</year>
+<volume>abs/1608.05678</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1608.05678</ee>
+<url>db/journals/corr/corr1608.html#DursunBCK16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ZhaoSZBUK16" mdate="2018-08-13">
+<author pid="178/4816">Zheguang Zhao</author>
+<author pid="37/7414">Lorenzo De Stefani</author>
+<author pid="153/7539">Emanuel Zgraggen</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="u/EliUpfal">Eli Upfal</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Controlling False Discoveries During Interactive Data Exploration.</title>
+<year>2016</year>
+<volume>abs/1612.01040</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1612.01040</ee>
+<url>db/journals/corr/corr1612.html#ZhaoSZBUK16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/CrottyGDKBCZ15" mdate="2020-04-25">
+<author pid="147/4971">Andrew Crotty</author>
+<author pid="147/4899">Alex Galakatos</author>
+<author pid="92/9993">Kayhan Dursun</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="z/SBZdonik">Stan Zdonik</author>
+<title>An Architecture for Compiling UDF-centric Workflows.</title>
+<pages>1466-1477</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1466-crotty.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824045</ee>
+<url>db/journals/pvldb/pvldb8.html#CrottyGDKBCZ15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/CrottyGZBK15" mdate="2020-04-25">
+<author pid="147/4971">Andrew Crotty</author>
+<author pid="147/4899">Alex Galakatos</author>
+<author pid="153/7539">Emanuel Zgraggen</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Vizdom: Interactive Analytics through Pen and Touch.</title>
+<pages>2024-2027</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p2024-crotty.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824127</ee>
+<url>db/journals/pvldb/pvldb8.html#CrottyGZBK15</url>
+</article>
+</r>
+<r><inproceedings key="conf/esws/PinkelBJMRSSK15" mdate="2019-09-16">
+<author pid="54/4903">Christoph Pinkel</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author orcid="0000-0002-9083-4599" pid="22/5749">Ernesto Jim&#233;nez-Ruiz</author>
+<author pid="m/WolfgangMay">Wolfgang May</author>
+<author pid="79/7737">Dominique Ritze</author>
+<author pid="47/11425">Martin G. Skj&#230;veland</author>
+<author pid="119/6401">Alessandro Solimando</author>
+<author pid="20/4833">Evgeny Kharlamov</author>
+<title>RODI: A Benchmark for Automatic Mapping Generation in Relational-to-Ontology Data Integration.</title>
+<pages>21-37</pages>
+<year>2015</year>
+<booktitle>ESWC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-18818-8_2</ee>
+<ee>https://www.wikidata.org/entity/Q64360009</ee>
+<crossref>conf/esws/2015</crossref>
+<url>db/conf/esws/eswc2015.html#PinkelBJMRSSK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BinnigSZEFZ15" mdate="2023-03-24">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="141/9090">Abdallah Salama</author>
+<author pid="141/9169">Erfan Zamanian</author>
+<author pid="164/1407">Muhammad El-Hindi</author>
+<author pid="164/1422">Sebastian Feil</author>
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<title>Spotgres - parallel data analytics on Spot Instances.</title>
+<pages>14-21</pages>
+<year>2015</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2015.7129538</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2015.7129538</ee>
+<crossref>conf/icde/2015w</crossref>
+<url>db/conf/icde/icdew2015.html#BinnigSZEFZ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZamanianBS15" mdate="2018-11-06">
+<author pid="141/9169">Erfan Zamanian</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="141/9090">Abdallah Salama</author>
+<title>Locality-aware Partitioning in Parallel Database Systems.</title>
+<pages>17-30</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2723718</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#ZamanianBS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SalamaBKZ15" mdate="2018-11-06">
+<author pid="141/9090">Abdallah Salama</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="141/9169">Erfan Zamanian</author>
+<title>Cost-based Fault-tolerance for Parallel Data Processing.</title>
+<pages>285-297</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2749437</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#SalamaBKZ15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BinnigCCGKZZ15" mdate="2018-08-13">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="147/4971">Andrew Crotty</author>
+<author pid="147/4899">Alex Galakatos</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="141/9169">Erfan Zamanian</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>The End of Slow Networks: It's Time for a Redesign.</title>
+<year>2015</year>
+<volume>abs/1504.01048</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1504.01048</ee>
+<url>db/journals/corr/corr1504.html#BinnigCCGKZZ15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ChungMBK15" mdate="2018-08-13">
+<author pid="132/1869">Yeounoh Chung</author>
+<author pid="142/8766">Michael Lind Mortensen</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Estimating the Impact of Unknown Unknowns on Aggregate Query Results.</title>
+<year>2015</year>
+<volume>abs/1507.05591</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1507.05591</ee>
+<url>db/journals/corr/corr1507.html#ChungMBK15</url>
+</article>
+</r>
+<r><article key="journals/vldb/BinnigHFKLM14" mdate="2017-05-28">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="48/6743">Stefan Hildenbrand</author>
+<author pid="36/7116">Franz F&#228;rber</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="46/6759">Juchang Lee</author>
+<author pid="89/6071">Norman May</author>
+<title>Distributed snapshot isolation: global transactions pay globally, local transactions pay locally.</title>
+<pages>987-1011</pages>
+<year>2014</year>
+<volume>23</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00778-014-0359-9</ee>
+<url>db/journals/vldb/vldb23.html#BinnigHFKLM14</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdata/BinnigSZKLM14" mdate="2022-10-02">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="141/9090">Abdallah Salama</author>
+<author pid="141/9169">Erfan Zamanian</author>
+<author orcid="0000-0002-8878-7623" pid="96/6590">Harald Kornmayer</author>
+<author pid="141/9188">Sven Listing</author>
+<author pid="141/9117">Alexander C. M&#252;ller</author>
+<title>XDB - A Novel Database Architecture for Data Analytics as a Service.</title>
+<pages>96-103</pages>
+<year>2014</year>
+<booktitle>BigData Congress</booktitle>
+<ee>https://doi.org/10.1109/BigData.Congress.2014.23</ee>
+<crossref>conf/bigdata/2014</crossref>
+<url>db/conf/bigdata/bigdata2014.html#BinnigSZKLM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esws/PinkelBHMST14" mdate="2019-08-20">
+<author pid="54/4903">Christoph Pinkel</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="h/PeterHaase1">Peter Haase 0001</author>
+<author pid="88/5618">Clemens Martin</author>
+<author pid="61/9856">Kunal Sengupta</author>
+<author pid="10/10011">Johannes Trame</author>
+<title>How to Best Find a Partner? An Evaluation of Editing Approaches to Construct R2RML Mappings.</title>
+<pages>675-690</pages>
+<year>2014</year>
+<booktitle>ESWC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-07443-6_45</ee>
+<crossref>conf/esws/2014</crossref>
+<url>db/conf/esws/eswc2014.html#PinkelBHMST14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BinnigSZ14" mdate="2018-11-06">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="141/9090">Abdallah Salama</author>
+<author pid="141/9169">Erfan Zamanian</author>
+<title>DoomDB: kill the query.</title>
+<pages>913-916</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2594525</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#BinnigSZ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/BinnigMM13" mdate="2023-07-04">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="89/6071">Norman May</author>
+<author pid="60/3146">Tobias Mindnich</author>
+<title>SQLScript: Efficiently Analyzing Big Enterprise Data in SAP HANA.</title>
+<pages>363-382</pages>
+<year>2013</year>
+<booktitle>BTW</booktitle>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/17332</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings214/article6849.html</ee>
+<crossref>conf/btw/2013</crossref>
+<url>db/conf/btw/btw2013.html#BinnigMM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloud/BinnigSMZKL13" mdate="2022-10-02">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="141/9090">Abdallah Salama</author>
+<author pid="141/9117">Alexander C. M&#252;ller</author>
+<author pid="141/9169">Erfan Zamanian</author>
+<author orcid="0000-0002-8878-7623" pid="96/6590">Harald Kornmayer</author>
+<author pid="141/9188">Sven Listing</author>
+<title>XDB: a novel database architecture for data analytics as a service.</title>
+<pages>39:1-39:2</pages>
+<year>2013</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/2523616.2525947</ee>
+<crossref>conf/cloud/2013</crossref>
+<url>db/conf/cloud/socc2013.html#BinnigSMZKL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/PinkelBKH13a" mdate="2023-03-10">
+<author pid="54/4903">Christoph Pinkel</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="20/4833">Evgeny Kharlamov</author>
+<author pid="h/PeterHaase1">Peter Haase 0001</author>
+<title>IncMap: pay as you go matching of relational schemata to OWL ontologies.</title>
+<pages>37-48</pages>
+<year>2013</year>
+<booktitle>OM</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1111/om2013_Tpaper4.pdf</ee>
+<crossref>conf/semweb/2013om</crossref>
+<url>db/conf/semweb/om2013.html#PinkelBKH13a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/PinkelBKH13" mdate="2023-03-10">
+<author pid="54/4903">Christoph Pinkel</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="20/4833">Evgeny Kharlamov</author>
+<author pid="h/PeterHaase1">Peter Haase 0001</author>
+<title>Pay as you go Matching of Relational Schemata to OWL Ontologies with IncMap.</title>
+<pages>225-228</pages>
+<year>2013</year>
+<booktitle>ISWC (Posters &amp; Demos)</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1035/iswc2013_poster_12.pdf</ee>
+<crossref>conf/semweb/2013p</crossref>
+<url>db/conf/semweb/iswc2013p.html#PinkelBKH13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/BinnigRFR12" mdate="2019-10-19">
+<author pid="45/1559">Carsten Binnig</author>
+<author orcid="0000-0002-4537-2874" pid="116/4721">Robin Rehrmann</author>
+<author pid="36/7116">Franz Faerber</author>
+<author pid="116/4821">Rudolf Riewe</author>
+<title>FunSQL: it is time to make SQL functional.</title>
+<pages>41-46</pages>
+<year>2012</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<ee>https://doi.org/10.1145/2320765.2320786</ee>
+<crossref>conf/edbt/2012w</crossref>
+<url>db/conf/edbt/edbtw2012.html#BinnigRFR12</url>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/LoBKOH10" mdate="2020-10-08">
+<author orcid="0000-0003-2679-3945" pid="80/2320">Eric Lo 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author orcid="0000-0002-8126-1717" pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<author orcid="0000-0002-0570-2904" pid="51/534">Wing-Kai Hon</author>
+<title>A framework for testing DBMS features.</title>
+<pages>203-230</pages>
+<year>2010</year>
+<volume>19</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-009-0157-y</ee>
+<url>db/journals/vldb/vldb19.html#LoBKOH10</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/BinnigHF09" mdate="2018-11-06">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="48/6743">Stefan Hildenbrand</author>
+<author pid="36/7116">Franz F&#228;rber</author>
+<title>Dictionary-based order-preserving string compression for main memory column stores.</title>
+<pages>283-296</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559877</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#BinnigHF09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BinnigKKL09" mdate="2018-11-06">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="74/7376">Simon Loesing</author>
+<title>How is the weather tomorrow?: towards a benchmark for the cloud.</title>
+<year>2009</year>
+<booktitle>DBTest</booktitle>
+<ee>https://doi.org/10.1145/1594156.1594168</ee>
+<crossref>conf/sigmod/2009dbtest</crossref>
+<url>db/conf/sigmod/dbtest2009.html#BinnigKKL09</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigmod/2009dbtest" mdate="2021-03-11">
+<editor pid="59/847">Beno&#238;t Dageville</editor>
+<editor pid="45/1559">Carsten Binnig</editor>
+<title>Proceedings of the 2nd International Workshop on Testing Database Systems, DBTest 2009, Providence, Rhode Island, USA, June 29, 2009</title>
+<booktitle>DBTest</booktitle>
+<publisher>ACM</publisher>
+<year>2009</year>
+<isbn>978-1-60558-706-6</isbn>
+<ee>https://doi.org/10.1145/1594156</ee>
+<url>db/conf/sigmod/dbtest2009.html</url>
+</proceedings>
+</r>
+<r><phdthesis key="books/daglib/0022690" mdate="2021-07-17">
+<author pid="45/1559">Carsten Binnig</author>
+<title>Generating meaningful test databases.</title>
+<pages>I-VIII, 1-201</pages>
+<school>University of Heidelberg, Germany</school>
+<year>2008</year>
+<ee type="oa">http://archiv.ub.uni-heidelberg.de/volltextserver/8358/1/diss.pdf</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:bsz:16-opus-83584</ee>
+<ee>https://d-nb.info/988725657</ee>
+<ee>https://d-nb.info/988808315</ee>
+</phdthesis>
+</r>
+<r><article key="journals/debu/BinnigKL08" mdate="2020-10-08">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="80/2320">Eric Lo 0001</author>
+<title>Towards Automatic Test Database Generation.</title>
+<pages>28-35</pages>
+<year>2008</year>
+<volume>31</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A08mar/binnig.pdf</ee>
+<url>db/journals/debu/debu31.html#BinnigKL08</url>
+</article>
+</r>
+<r><article key="journals/sigmod/AlonsoKRTBBFRT08" mdate="2020-03-06">
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="r/TimothyRoscoe">Timothy Roscoe</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="53/6957">Andrew Baumann</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="53/3712">Oriana Riva</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>The ETH Zurich systems group and enterprise computing center.</title>
+<pages>94-99</pages>
+<year>2008</year>
+<volume>37</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1519103.1519120</ee>
+<url>db/journals/sigmod/sigmod37.html#AlonsoKRTBBFRT08</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/BinnigKLS08" mdate="2023-03-24">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author orcid="0000-0003-2679-3945" pid="80/2320">Eric Lo 0001</author>
+<author pid="65/6866">Angel Saenz-Badillos</author>
+<title>Automatic Result Verification for the Functional Testing of a Query Language.</title>
+<pages>1534-1536</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497614</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497614</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#BinnigKLS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BinnigKL08" mdate="2020-10-08">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author orcid="0000-0003-2679-3945" pid="80/2320">Eric Lo 0001</author>
+<title>Multi-RQP: generating test databases for the functional testing of OLTP applications.</title>
+<pages>5</pages>
+<year>2008</year>
+<booktitle>DBTest</booktitle>
+<ee>https://doi.org/10.1145/1385269.1385276</ee>
+<crossref>conf/sigmod/2008dbtest</crossref>
+<url>db/conf/sigmod/dbtest2008.html#BinnigKL08</url>
+</inproceedings>
+</r>
+<r><incollection key="conf/gi/Binnig08" mdate="2023-07-04">
+<author pid="45/1559">Carsten Binnig</author>
+<title>Generierung Relevanter Testdatenbanken [Generating Meaningful Test Databases].</title>
+<pages>11-20</pages>
+<year>2008</year>
+<booktitle>Ausgezeichnete Informatikdissertationen</booktitle>
+<crossref>conf/gi/2008diss</crossref>
+<url>db/conf/gi/diss2008.html#Binnig08</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/33615</ee>
+</incollection>
+</r>
+<r><article key="journals/wi/WeissKKGLMHBIPK07" mdate="2022-02-25">
+<author pid="79/894">Daniel Wei&#223; 0001</author>
+<author pid="69/2545">J&#246;rn Kaack</author>
+<author pid="k/StefanKirn">Stefan Kirn</author>
+<author pid="86/1898">Maike Gilliot</author>
+<author pid="66/4848">Lutz Lowis</author>
+<author pid="74/5441">G&#252;nter M&#252;ller</author>
+<author pid="24/3228-1">Andrea Herrmann 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="i/TimeaIlles">Timea Illes</author>
+<author pid="p/BarbaraPaech">Barbara Paech</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Die SIKOSA-Methodik.</title>
+<pages>188-198</pages>
+<year>2007</year>
+<volume>49</volume>
+<journal>Wirtschaftsinf.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11576-007-0049-y</ee>
+<url>db/journals/wi/wi49.html#WeissKKGLMHBIPK07</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/BinnigKL07" mdate="2023-03-23">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author orcid="0000-0003-2679-3945" pid="80/2320">Eric Lo 0001</author>
+<title>Reverse Query Processing.</title>
+<pages>506-515</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.367896</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2007.367896</ee>
+<url>db/conf/icde/icde2007.html#BinnigKL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BinnigKLO07" mdate="2023-03-21">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author orcid="0000-0003-2679-3945" pid="80/2320">Eric Lo 0001</author>
+<author orcid="0000-0002-8126-1717" pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<title>QAGen: generating query-aware test databases.</title>
+<pages>341-352</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247520</ee>
+<url>db/conf/sigmod/sigmod2007.html#BinnigKLO07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BinnigKL06" mdate="2020-10-08">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author orcid="0000-0003-2679-3945" pid="80/2320">Eric Lo 0001</author>
+<title>Testing database applications.</title>
+<pages>739-741</pages>
+<year>2006</year>
+<crossref>conf/sigmod/2006</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1142473.1142572</ee>
+<url>db/conf/sigmod/sigmod2006.html#BinnigKL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cadui/BinnigS02" mdate="2022-10-26">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="53/6562-2">Andreas Schmidt 0002</author>
+<title>Development of an UIML Renderer for Different Target Languages.</title>
+<pages>267-274</pages>
+<year>2002</year>
+<crossref>conf/cadui/2002</crossref>
+<booktitle>CADUI</booktitle>
+<url>db/conf/cadui/cadui2002.html#BinnigS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ciit/SchmidtB02" mdate="2022-10-26">
+<author pid="53/6562-2">Andreas Schmidt 0002</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Experience Gained in the Development of a Route Planner for Mobile End Devices.</title>
+<pages>42-47</pages>
+<year>2002</year>
+<crossref>conf/ciit/2002</crossref>
+<booktitle>Communications, Internet, and Information Technology</booktitle>
+<url>db/conf/ciit/ciit2002.html#SchmidtB02</url>
+</inproceedings>
+</r>
+<coauthors n="240" nc="2">
+<co c="0"><na f="a/Abdelaal_0001:Mohamed" pid="147/2878">Mohamed Abdelaal 0001</na></co>
+<co c="0"><na f="a/Agnihotri:Pratyush" pid="209/1994">Pratyush Agnihotri</na></co>
+<co c="0"><na f="a/Alonso:Gustavo" pid="a/GustavoAlonso">Gustavo Alonso</na></co>
+<co c="0"><na f="a/Alt:Bastian" pid="207/9742">Bastian Alt</na></co>
+<co c="0"><na f="a/Altinb=uuml=ken:Deniz" pid="43/7654">Deniz Altinb&#252;ken</na></co>
+<co c="0"><na f="a/Angelini:Marco" pid="118/6511">Marco Angelini</na></co>
+<co c="0"><na f="a/Arasu:Arvind" pid="a/ArvindArasu">Arvind Arasu</na></co>
+<co c="0"><na f="a/Arora:Ashwin" pid="340/1021">Ashwin Arora</na></co>
+<co c="0"><na f="a/Athanassoulis:Manos" pid="82/7402">Manos Athanassoulis</na></co>
+<co c="0" n="2"><na f="a/Avinesh:P=_V=_S=" pid="70/8153">P. V. S. Avinesh</na><na>Avinesh P. V. S.</na></co>
+<co c="0"><na f="b/Bang:Tiemo" pid="257/5532">Tiemo Bang</na></co>
+<co c="0"><na f="b/Basik:Fuat" pid="170/6847">Fuat Basik</na></co>
+<co c="0"><na f="b/Battle:Leilani" pid="91/7584">Leilani Battle</na></co>
+<co c="0"><na f="b/Baumann:Andrew" pid="53/6957">Andrew Baumann</na></co>
+<co c="0"><na f="b/Berg:Lukas" pid="247/8159">Lukas Berg</na></co>
+<co c="0"><na f="b/Bernstein:Philip_A=" pid="b/PhilipABernstein">Philip A. Bernstein</na></co>
+<co c="0"><na f="b/Bhushan:Rohin" pid="248/9002">Rohin Bhushan</na></co>
+<co c="0"><na f="b/Bl=ouml=cher:Marcel" pid="220/5782">Marcel Bl&#246;cher</na></co>
+<co c="0"><na f="b/Bodensohn:Jan=Micha" pid="315/4523">Jan-Micha Bodensohn</na></co>
+<co c="0"><na f="b/Boehm_0001:Matthias" pid="75/887">Matthias Boehm 0001</na></co>
+<co c="0"><na f="b/Boeschen:Nils" pid="295/5645">Nils Boeschen</na></co>
+<co c="0"><na f="b/B=ouml=hm_0002:Alexander" pid="92/6505">Alexander B&#246;hm 0002</na></co>
+<co c="0"><na f="b/Buratti:Benedetto" pid="219/1745">Benedetto Buratti</na></co>
+<co c="0"><na f="c/Catarci:Tiziana" pid="c/TCatarci">Tiziana Catarci</na></co>
+<co c="0"><na f="=/=Ccedil=etintemel:Ugur" pid="c/UgurCetintemel">Ugur &#199;etintemel</na></co>
+<co c="0"><na f="c/Chung:Yeounoh" pid="132/1869">Yeounoh Chung</na></co>
+<co c="0"><na f="c/Ciucu:Florin" pid="63/4153">Florin Ciucu</na></co>
+<co c="0"><na f="c/Cousins:Cyrus" pid="202/6684">Cyrus Cousins</na></co>
+<co c="0"><na f="c/Crotty:Andrew" pid="147/4971">Andrew Crotty</na></co>
+<co c="0"><na f="c/Cudr=eacute==Mauroux:Philippe" pid="71/5578">Philippe Cudr&#233;-Mauroux</na></co>
+<co c="0"><na f="d/Dadashov:Elkhan" pid="150/1946">Elkhan Dadashov</na></co>
+<co c="-1"><na f="d/Dageville:Beno=icirc=t" pid="59/847">Beno&#238;t Dageville</na></co>
+<co c="0"><na f="d/Dign=ouml=s:Anton" pid="96/11411">Anton Dign&#246;s</na></co>
+<co c="0"><na f="d/Doci:Gloria" pid="348/4796">Gloria Doci</na></co>
+<co c="0"><na f="d/Dursun:Kayhan" pid="92/9993">Kayhan Dursun</na></co>
+<co c="0"><na f="e/Ebert:Dylan" pid="169/3346">Dylan Ebert</na></co>
+<co c="0"><na f="e/Efthymiou:Vasilis" pid="87/11444">Vasilis Efthymiou</na></co>
+<co c="0"><na f="e/Eger:Steffen" pid="69/9271">Steffen Eger</na></co>
+<co c="0"><na f="e/Eichmann:Philipp" pid="160/4301">Philipp Eichmann</na></co>
+<co c="0"><na f="e/El=Hindi:Muhammad" pid="164/1407">Muhammad El-Hindi</na></co>
+<co c="0"><na f="e/Elmore:Aaron_J=" pid="75/9436">Aaron J. Elmore</na></co>
+<co c="0"><na f="e/Eugster:Patrick" pid="14/4443">Patrick Eugster</na></co>
+<co c="0"><na f="f/Failing:Daniel" pid="352/6468">Daniel Failing</na></co>
+<co c="0"><na f="f/Fan:Ju" pid="78/4413">Ju Fan</na></co>
+<co c="0" n="2"><na f="f/F=auml=rber:Franz" pid="36/7116">Franz F&#228;rber</na><na>Franz Faerber</na></co>
+<co c="0"><na f="f/Fathi:Leila" pid="84/8461">Leila Fathi</na></co>
+<co c="0"><na f="f/Feil:Sebastian" pid="164/1422">Sebastian Feil</na></co>
+<co c="0"><na f="f/Fekete:Alan_D=" pid="f/AlanDavidFekete">Alan D. Fekete</na></co>
+<co c="0"><na f="f/Fekete:Jean=Daniel" pid="f/JeanDanielFekete">Jean-Daniel Fekete</na></co>
+<co c="0"><na f="f/Fischer_0001:Peter_M=" pid="f/PeterMFischer1">Peter M. Fischer 0001</na></co>
+<co c="0"><na f="f/Fonseca:Rodrigo" pid="f/RFonseca">Rodrigo Fonseca</na></co>
+<co c="0"><na f="f/Fraser_0001:Alexander" pid="145/8377">Alexander Fraser 0001</na></co>
+<co c="0"><na f="f/Freire:Juliana" pid="f/JulianaFreire">Juliana Freire</na></co>
+<co c="0"><na f="f/Fundulaki:Irini" pid="74/6086">Irini Fundulaki</na></co>
+<co c="0"><na f="f/F=uuml=rnkranz:Johannes" pid="f/JohannesFurnkranz">Johannes F&#252;rnkranz</na></co>
+<co c="0"><na f="g/Galakatos:Alex" pid="147/4899">Alex Galakatos</na></co>
+<co c="0"><na f="g/Galhardas:Helena" pid="g/HelenaGalhardas">Helena Galhardas</na></co>
+<co c="0"><na f="g/Gamper:Johann" pid="59/6952">Johann Gamper</na></co>
+<co c="0"><na f="g/Gassen:Marius" pid="176/4999">Marius Gassen</na></co>
+<co c="0"><na f="g/Gavrilovska:Ada" pid="76/3229">Ada Gavrilovska</na></co>
+<co c="0"><na f="g/Geisler:Nadja" pid="248/9346">Nadja Geisler</na></co>
+<co c="0"><na f="g/Gilliot:Maike" pid="86/1898">Maike Gilliot</na></co>
+<co c="0"><na f="g/Gong:Weiwei" pid="30/841">Weiwei Gong</na></co>
+<co c="0"><na f="g/Guo:Yue" pid="73/735">Yue Guo</na></co>
+<co c="0"><na f="g/Gurevych:Iryna" pid="85/6201">Iryna Gurevych</na></co>
+<co c="0"><na f="h/Haase_0001:Peter" pid="h/PeterHaase1">Peter Haase 0001</na></co>
+<co c="0"><na f="h/Hammacher:Christian" pid="323/7290">Christian Hammacher</na></co>
+<co c="0"><na f="h/Hammer:Barbara" pid="h/BarbaraHammer">Barbara Hammer</na></co>
+<co c="0"><na f="h/H=auml=rder:Theo" pid="h/TheoHarder">Theo H&#228;rder</na></co>
+<co c="0"><na f="h/Harris_0001:Tim" pid="61/3834">Tim Harris 0001</na></co>
+<co c="0"><na f="h/H=auml=ttasch:Benjamin" pid="218/5225">Benjamin H&#228;ttasch</na></co>
+<co c="0"><na f="h/Heinrich:Matthias" pid="251/6665">Matthias Heinrich</na></co>
+<co c="0"><na f="h/Heinrich:Roman" pid="324/2260">Roman Heinrich</na></co>
+<co c="0"><na f="h/Hellerstein:Joseph_M=" pid="h/JosephMHellerstein">Joseph M. Hellerstein</na></co>
+<co c="0"><na f="h/Herrmann_0001:Andrea" pid="24/3228-1">Andrea Herrmann 0001</na></co>
+<co c="0"><na f="h/Herschel:Melanie" pid="w/MelanieWeis">Melanie Herschel</na></co>
+<co c="0"><na f="h/Heupel:Christian" pid="55/10406">Christian Heupel</na></co>
+<co c="0"><na f="h/Heyden:Martin" pid="231/1325">Martin Heyden</na></co>
+<co c="0"><na f="h/Hildenbrand:Stefan" pid="48/6743">Stefan Hildenbrand</na></co>
+<co c="0"><na f="h/Hilprecht:Benjamin" pid="230/4209">Benjamin Hilprecht</na></co>
+<co c="0"><na f="h/Hofmann:Jaco_A=" pid="283/1378">Jaco A. Hofmann</na></co>
+<co c="0"><na f="h/Hon:Wing=Kai" pid="51/534">Wing-Kai Hon</na></co>
+<co c="0"><na f="h/Horrocks_0001:Ian" pid="h/IanHorrocks">Ian Horrocks 0001</na></co>
+<co c="0"><na f="h/Hu_0005:Xiao" pid="19/1374-5">Xiao Hu 0005</na></co>
+<co c="0"><na f="h/Hussein:Rana" pid="228/2560">Rana Hussein</na></co>
+<co c="0"><na f="i/Ilkhechi:Amir" pid="218/5236">Amir Ilkhechi</na></co>
+<co c="0" n="2"><na f="i/Illes=Seifert:Timea" pid="i/TimeaIlles">Timea Illes-Seifert</na><na>Timea Illes</na></co>
+<co c="0"><na f="i/Istv=aacute=n:Zsolt" pid="50/10703">Zsolt Istv&#225;n</na></co>
+<co c="0"><na f="j/Jasny:Matthias" pid="266/6082">Matthias Jasny</na></co>
+<co c="0"><na f="j/Jepsen:Theo" pid="188/5904">Theo Jepsen</na></co>
+<co c="0"><na f="j/Jim=eacute=nez=Ruiz:Ernesto" pid="22/5749">Ernesto Jim&#233;nez-Ruiz</na></co>
+<co c="0"><na f="j/Jindal:Alekh" pid="24/8510">Alekh Jindal</na></co>
+<co c="0"><na f="k/Kaack:J=ouml=rn" pid="69/2545">J&#246;rn Kaack</na></co>
+<co c="0"><na f="k/Kaoudi:Zoi" pid="65/1457">Zoi Kaoudi</na></co>
+<co c="0"><na f="k/Kar:Sounak" pid="192/1386">Sounak Kar</na></co>
+<co c="0"><na f="k/Karrer:Simon" pid="340/1478">Simon Karrer</na></co>
+<co c="0"><na f="k/Keim:Daniel_A=" pid="k/DanielAKeim">Daniel A. Keim</na></co>
+<co c="0"><na f="k/Keppner:Martin" pid="266/2554">Martin Keppner</na></co>
+<co c="0"><na f="k/Kersting:Kristian" pid="40/3793">Kristian Kersting</na></co>
+<co c="0"><na f="k/Khanna:Aditya" pid="257/5525">Aditya Khanna</na></co>
+<co c="0"><na f="k/Kharlamov:Evgeny" pid="20/4833">Evgeny Kharlamov</na></co>
+<co c="0"><na f="k/Kim:Kihong" pid="29/2828">Kihong Kim</na></co>
+<co c="0"><na f="k/Kirn:Stefan" pid="k/StefanKirn">Stefan Kirn</na></co>
+<co c="0"><na f="k/Koch_0001:Andreas" pid="84/1948-1">Andreas Koch 0001</na></co>
+<co c="0"><na f="k/Koeppl:Heinz" pid="41/6084">Heinz Koeppl</na></co>
+<co c="0"><na f="k/Koldehofe:Boris" pid="25/4201">Boris Koldehofe</na></co>
+<co c="0"><na f="k/Kornmayer:Harald" pid="96/6590">Harald Kornmayer</na></co>
+<co c="0"><na f="k/Kossmann:Donald" pid="k/DonaldKossmann">Donald Kossmann</na></co>
+<co c="0"><na f="k/Kossmann:Ferdinand" pid="243/2511">Ferdinand Kossmann</na></co>
+<co c="0"><na f="k/Koutrika:Georgia" pid="k/GeorgiaKoutrika">Georgia Koutrika</na></co>
+<co c="0"><na f="k/Kraska:Tim" pid="26/6037">Tim Kraska</na></co>
+<co c="0"><na f="k/Kulessa:Moritz" pid="228/2736">Moritz Kulessa</na></co>
+<co c="1"><na f="l/Langenecker:Sven" pid="287/7567">Sven Langenecker</na></co>
+<co c="0"><na f="l/Lee:Juchang" pid="46/6759">Juchang Lee</na></co>
+<co c="0"><na f="l/Lehner:Wolfgang" pid="l/WLehner">Wolfgang Lehner</na></co>
+<co c="0"><na f="l/Leis:Viktor" pid="10/11150">Viktor Leis</na></co>
+<co c="0"><na f="l/Lerner:Alberto" pid="l/AlbertoLerner">Alberto Lerner</na></co>
+<co c="0"><na f="l/Linke:Alexander" pid="00/356">Alexander Linke</na></co>
+<co c="0"><na f="l/Listing:Sven" pid="141/9188">Sven Listing</na></co>
+<co c="0"><na f="l/Lo_0001:Eric" pid="80/2320">Eric Lo 0001</na></co>
+<co c="0"><na f="l/Loesing:Simon" pid="74/7376">Simon Loesing</na></co>
+<co c="0"><na f="l/Lowis:Lutz" pid="66/4848">Lutz Lowis</na></co>
+<co c="0"><na f="l/Luthra:Manisha" pid="176/1373">Manisha Luthra</na></co>
+<co c="0"><na f="l/Lutsch:Adrian" pid="307/4850">Adrian Lutsch</na></co>
+<co c="0"><na f="l/Lyons:Gabriel" pid="181/5847">Gabriel Lyons</na></co>
+<co c="0"><na f="m/Markovitch:Michael" pid="142/2901">Michael Markovitch</na></co>
+<co c="0"><na f="m/Martin:Clemens" pid="88/5618">Clemens Martin</na></co>
+<co c="0"><na f="m/May:Norman" pid="89/6071">Norman May</na></co>
+<co c="0"><na f="m/May:Wolfgang" pid="m/WolfgangMay">Wolfgang May</na></co>
+<co c="0"><na f="m/Meyer:Christian_M=" pid="18/7930">Christian M. Meyer</na></co>
+<co c="0"><na f="m/Mindnich:Tobias" pid="60/3146">Tobias Mindnich</na></co>
+<co c="0"><na f="m/Mirabi:Meghdad" pid="98/8460">Meghdad Mirabi</na></co>
+<co c="0"><na f="m/Mogk:Ragnar" pid="152/5833">Ragnar Mogk</na></co>
+<co c="0"><na f="m/Mohan:Dwarakanandan_Bindiganavile" pid="322/2220">Dwarakanandan Bindiganavile Mohan</na></co>
+<co c="0"><na f="m/Molina_0001:Alejandro" pid="26/7693-1">Alejandro Molina 0001</na></co>
+<co c="0"><na f="m/Moritz:Dominik" pid="147/1186">Dominik Moritz</na></co>
+<co c="0" n="2"><na f="m/Mortensen:Michael_L=" pid="142/8766">Michael L. Mortensen</na><na>Michael Lind Mortensen</na></co>
+<co c="0"><na f="m/Mukhopadhyay:Arpan" pid="00/4686">Arpan Mukhopadhyay</na></co>
+<co c="0"><na f="m/M=uuml=ller:Alexander_C=" pid="141/9117">Alexander C. M&#252;ller</na></co>
+<co c="0"><na f="m/M=uuml=ller:G=uuml=nter" pid="74/5441">G&#252;nter M&#252;ller</na></co>
+<co c="0"><na f="m/Mundt:Martin" pid="200/8146">Martin Mundt</na></co>
+<co c="0"><na f="n/Nandi_0001:Arnab" pid="28/568">Arnab Nandi 0001</na></co>
+<co c="0"><na f="n/Nelson=Slivon:Jacob" pid="35/9256-2">Jacob Nelson-Slivon</na></co>
+<co c="0"><na f="n/Nguyen:Duc_Dat" pid="349/9783">Duc Dat Nguyen</na></co>
+<co c="0"><na f="n/Nikiel:Ren=eacute=_Klaus" pid="368/0211">Ren&#233; Klaus Nikiel</na></co>
+<co c="0"><na f="n/Nikolov:Andriy" pid="59/804">Andriy Nikolov</na></co>
+<co c="0"><na f="o/Oppermann:Julian" pid="133/5083">Julian Oppermann</na></co>
+<co c="0"><na f="o/Oukid:Ismail" pid="135/3665">Ismail Oukid</na></co>
+<co c="0"><na f="=/=Ouml=zsu:M=_Tamer" pid="o/MTamerOzsu">M. Tamer &#214;zsu</na></co>
+<co c="0"><na f="=/=Ouml=zyurt:Orkan" pid="224/6736">Orkan &#214;zyurt</na></co>
+<co c="0"><na f="p/Paech:Barbara" pid="p/BarbaraPaech">Barbara Paech</na></co>
+<co c="0"><na f="p/Palpanas:Themis" pid="p/ThemisPalpanas">Themis Palpanas</na></co>
+<co c="0"><na f="p/Pandis:Ippokratis" pid="p/IppokratisPandis">Ippokratis Pandis</na></co>
+<co c="0"><na f="p/Parameswaran:Aditya_G=" pid="40/7459">Aditya G. Parameswaran</na></co>
+<co c="0"><na f="p/Petrocelli:Robert" pid="199/2473">Robert Petrocelli</na></co>
+<co c="0"><na f="p/Petrov_0001:Ilia" pid="p/IliaPetrov">Ilia Petrov 0001</na></co>
+<co c="0"><na f="p/Pezzotti:Nicola" pid="122/8732">Nicola Pezzotti</na></co>
+<co c="0"><na f="p/Pinkel:Christoph" pid="54/4903">Christoph Pinkel</na></co>
+<co c="0"><na f="p/Ports:Dan_R=_K=" pid="03/6105">Dan R. K. Ports</na></co>
+<co c="0"><na f="q/Quamar:Abdul" pid="127/6195">Abdul Quamar</na></co>
+<co c="0"><na f="r/Rabl:Tilmann" pid="10/760">Tilmann Rabl</na></co>
+<co c="0" n="2"><na f="r/Ramamurthy:Ravishankar" pid="02/4973">Ravishankar Ramamurthy</na><na>Ravi Ramamurthy</na></co>
+<co c="0"><na f="r/Ramaswamy:Shekar" pid="218/5357">Shekar Ramaswamy</na></co>
+<co c="0"><na f="r/Rehrmann:Robin" pid="116/4721">Robin Rehrmann</na></co>
+<co c="0"><na f="r/Reinwald:Berthold" pid="76/3381">Berthold Reinwald</na></co>
+<co c="0"><na f="r/Reis:Eduardo_Souza_dos" pid="181/3939">Eduardo Souza dos Reis</na></co>
+<co c="0"><na f="r/Riewe:Rudolf" pid="116/4821">Rudolf Riewe</na></co>
+<co c="0"><na f="r/Ritter_0001:Daniel" pid="82/8248">Daniel Ritter 0001</na></co>
+<co c="0"><na f="r/Ritze:Dominique" pid="79/7737">Dominique Ritze</na></co>
+<co c="0"><na f="r/Riva:Oriana" pid="53/3712">Oriana Riva</na></co>
+<co c="0"><na f="r/Rizk:Amr" pid="30/6511">Amr Rizk</na></co>
+<co c="0"><na f="r/Rocha:Igor_Pessoa" pid="249/0173">Igor Pessoa Rocha</na></co>
+<co c="0"><na f="r/Rogers:Jennie" pid="43/2286">Jennie Rogers</na></co>
+<co c="0"><na f="r/R=ouml=hm:Uwe" pid="r/UweRohm">Uwe R&#246;hm</na></co>
+<co c="0"><na f="r/Roscoe:Timothy" pid="r/TimothyRoscoe">Timothy Roscoe</na></co>
+<co c="0"><na f="r/Roth_0001:Stefan" pid="24/3452">Stefan Roth 0001</na></co>
+<co c="0"><na f="r/Roy:Senjuti_Basu" pid="97/3301">Senjuti Basu Roy</na></co>
+<co c="0"><na f="r/Rusu:Florin" pid="73/343">Florin Rusu</na></co>
+<co c="0"><na f="s/Saenz=Badillos:Angel" pid="65/6866">Angel Saenz-Badillos</na></co>
+<co c="0"><na f="s/Salama:Abdallah" pid="141/9090">Abdallah Salama</na></co>
+<co c="0"><na f="s/Salem:Kenneth" pid="s/KennethSalem">Kenneth Salem</na></co>
+<co c="0"><na f="s/Santucci:Giuseppe" pid="s/GiuseppeSantucci">Giuseppe Santucci</na></co>
+<co c="0" n="2"><na f="s/Sasa:Ana" pid="38/681">Ana Sasa</na><na>Ana Sasa Bastinos</na></co>
+<co c="1"><na f="s/Schalles:Christian" pid="85/7963">Christian Schalles</na></co>
+<co c="0"><na f="s/Scherp:Ansgar" pid="06/2380">Ansgar Scherp</na></co>
+<co c="0"><na f="s/Schmidt_0002:Andreas" pid="53/6562-2">Andreas Schmidt 0002</na></co>
+<co c="0"><na f="s/Schwarte:Andreas" pid="14/9728">Andreas Schwarte</na></co>
+<co c="0"><na f="s/Schwarz:Arne" pid="88/5932">Arne Schwarz</na></co>
+<co c="0"><na f="s/Sedlmair:Michael" pid="80/6465">Michael Sedlmair</na></co>
+<co c="0"><na f="s/Sengupta:Kunal" pid="61/9856">Kunal Sengupta</na></co>
+<co c="0"><na f="s/Shang:Zeyuan" pid="189/2405">Zeyuan Shang</na></co>
+<co c="0"><na f="s/Shun:Julian" pid="82/9876">Julian Shun</na></co>
+<co c="0"><na f="s/Simpson:Edwin" pid="79/7584">Edwin Simpson</na></co>
+<co c="0"><na f="s/Singh:Gagandeep" pid="64/3747">Gagandeep Singh</na></co>
+<co c="0"><na f="s/Skj=aelig=veland:Martin_G=" pid="47/11425">Martin G. Skj&#230;veland</na></co>
+<co c="0"><na f="s/Skrzypczak:Jan" pid="233/6274">Jan Skrzypczak</na></co>
+<co c="0"><na f="s/Solimando:Alessandro" pid="119/6401">Alessandro Solimando</na></co>
+<co c="0"><na f="s/Sommer:Lukas" pid="203/9256">Lukas Sommer</na></co>
+<co c="0"><na f="s/Stefani:Lorenzo_De" pid="37/7414">Lorenzo De Stefani</na></co>
+<co c="0"><na f="s/Stefanidis:Kostas" pid="76/3486">Kostas Stefanidis</na></co>
+<co c="0"><na f="s/Strobelt:Hendrik" pid="67/7527">Hendrik Strobelt</na></co>
+<co c="1"><na f="s/Sturm:Christoph" pid="37/341">Christoph Sturm</na></co>
+<co c="0"><na f="s/Stutsman:Ryan" pid="02/1650">Ryan Stutsman</na></co>
+<co c="0"><na f="s/Swart:Garret" pid="46/4288">Garret Swart</na></co>
+<co c="0"><na f="t/Taheriyan:Mohsen" pid="48/11425">Mohsen Taheriyan</na></co>
+<co c="0"><na f="t/Tatbul:Nesime" pid="t/NesimeTatbul">Nesime Tatbul</na></co>
+<co c="0"><na f="t/Teubner:Jens" pid="t/JensTeubner">Jens Teubner</na></co>
+<co c="0"><na f="t/Thostrup:Lasse" pid="233/6278">Lasse Thostrup</na></co>
+<co c="0"><na f="t/Tian:Yuanyan" pid="358/8364">Yuanyan Tian</na></co>
+<co c="0"><na f="t/T=ouml=z=uuml=n:Pinar" pid="86/9726">Pinar T&#246;z&#252;n</na></co>
+<co c="0"><na f="t/Trame:Johannes" pid="10/10011">Johannes Trame</na></co>
+<co c="0" n="2"><na f="t/Tran_0002:Vinh_Q=" pid="77/2885-2">Vinh Q. Tran 0002</na><na>Vinh Tran 0002</na></co>
+<co c="0"><na f="t/Tromba:Isabella" pid="250/5303">Isabella Tromba</na></co>
+<co c="0"><na f="t/Truong=Ngoc:Michael" pid="281/3715">Michael Truong-Ngoc</na></co>
+<co c="0"><na f="t/Turkay:Cagatay" pid="45/7528">Cagatay Turkay</na></co>
+<co c="0"><na f="u/Upfal:Eli" pid="u/EliUpfal">Eli Upfal</na></co>
+<co c="0"><na f="u/Urban:Matthias" pid="60/6400">Matthias Urban</na></co>
+<co c="0"><na f="u/Usta:Arif" pid="147/9180">Arif Usta</na></co>
+<co c="0"><na f="u/Utama:Prasetya_Ajie" pid="245/8708">Prasetya Ajie Utama</na></co>
+<co c="0"><na f="v/Vani:Sumukha_Tumkur" pid="243/2403">Sumukha Tumkur Vani</na></co>
+<co c="0"><na f="v/Vogel:Liane" pid="318/9125">Liane Vogel</na></co>
+<co c="0"><na f="w/Wang:Linnan" pid="169/9748">Linnan Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Tianzheng" pid="57/10948-1">Tianzheng Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Yunhai" pid="42/1154">Yunhai Wang</na></co>
+<co c="0"><na f="w/Wang:Zeke" pid="233/6269">Zeke Wang</na></co>
+<co c="0"><na f="w/Weir:Nathaniel" pid="218/5179">Nathaniel Weir</na></co>
+<co c="0"><na f="w/Wei=szlig=_0001:Daniel" pid="79/894">Daniel Wei&#223; 0001</na></co>
+<co c="0"><na f="w/Whang:Steven_Euijong" pid="w/StevenEuijongWhang">Steven Euijong Whang</na></co>
+<co c="0"><na f="w/Willett:Wesley" pid="64/4954">Wesley Willett</na></co>
+<co c="0"><na f="w/Wirth_0002:Johannes" pid="267/3234-2">Johannes Wirth 0002</na></co>
+<co c="0"><na f="w/Wu_0002:Eugene" pid="41/3679">Eugene Wu 0002</na></co>
+<co c="0"><na f="y/Yang_0001:Jun" pid="y/JunYang1">Jun Yang 0001</na></co>
+<co c="0"><na f="z/Zamanian:Erfan" pid="141/9169">Erfan Zamanian</na></co>
+<co c="0" n="2"><na f="z/Zdonik:Stanley_B=" pid="z/SBZdonik">Stanley B. Zdonik</na><na>Stan Zdonik</na></co>
+<co c="0"><na f="z/Zeleznik:Robert_C=" pid="98/5185">Robert C. Zeleznik</na></co>
+<co c="0"><na f="z/Zgraggen:Emanuel" pid="153/7539">Emanuel Zgraggen</na></co>
+<co c="0"><na f="z/Zhao:Zheguang" pid="178/4816">Zheguang Zhao</na></co>
+<co c="0"><na f="z/Zheng:Yukun" pid="204/0083">Yukun Zheng</na></co>
+<co c="0"><na f="z/Zhou_0001:Xiaofang" pid="z/XiaofangZhou">Xiaofang Zhou 0001</na></co>
+<co c="0"><na f="z/Ziegler_0001:Tobias" pid="146/6632">Tobias Ziegler 0001</na></co>
+</coauthors>
+</dblpperson>

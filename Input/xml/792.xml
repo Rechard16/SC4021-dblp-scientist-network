@@ -1,0 +1,520 @@
+<dblpperson name="Shirish Tatikonda" pid="35/3834" n="30">
+<person key="homepages/35/3834" mdate="2009-06-10">
+<author pid="35/3834">Shirish Tatikonda</author>
+</person>
+<r><inproceedings key="conf/cidr/ElgamalLBETRS17" mdate="2020-03-12">
+<author pid="143/4704">Tarek Elgamal</author>
+<author pid="147/1166">Shangyu Luo</author>
+<author pid="75/887">Matthias Boehm 0001</author>
+<author pid="e/AlexandreVEvfimievski">Alexandre V. Evfimievski</author>
+<author pid="35/3834">Shirish Tatikonda</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<author pid="58/1388">Prithviraj Sen</author>
+<title>SPOOF: Sum-Product Optimization and Operator Fusion for Large-Scale Machine Learning.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/papers/p3-elgamal-cidr17.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#ElgamalLBETRS17</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/BoehmDEEMPRRSST16" mdate="2023-01-20">
+<author pid="75/887">Matthias Boehm 0001</author>
+<author pid="185/4346">Michael Dusenberry</author>
+<author pid="185/4375">Deron Eriksson</author>
+<author pid="e/AlexandreVEvfimievski">Alexandre V. Evfimievski</author>
+<author pid="133/9879">Faraz Makari Manshadi</author>
+<author pid="13/8165">Niketan Pansare</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<author pid="95/459">Frederick Reiss 0001</author>
+<author pid="58/1388">Prithviraj Sen</author>
+<author pid="185/4361">Arvind Surve</author>
+<author pid="35/3834">Shirish Tatikonda</author>
+<title>SystemML: Declarative Machine Learning on Spark.</title>
+<pages>1425-1436</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p1425-boehm.pdf</ee>
+<ee>https://doi.org/10.14778/3007263.3007279</ee>
+<url>db/journals/pvldb/pvldb9.html#BoehmDEEMPRRSST16</url>
+</article>
+</r>
+<r><inproceedings key="conf/ppopp/AshariTBRCKS15" mdate="2022-06-12">
+<author pid="146/3559">Arash Ashari</author>
+<author pid="35/3834">Shirish Tatikonda</author>
+<author pid="75/887">Matthias Boehm 0001</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<author pid="67/10622">Keith Campbell</author>
+<author pid="36/1084">John Keenleyside</author>
+<author orcid="0000-0002-4737-2034" pid="s/PSadayappan">P. Sadayappan</author>
+<title>On optimizing machine learning workloads via kernel fusion.</title>
+<pages>173-182</pages>
+<year>2015</year>
+<booktitle>PPoPP</booktitle>
+<ee>https://doi.org/10.1145/2688500.2688521</ee>
+<ee>https://doi.org/10.1145/2858788.2688521</ee>
+<crossref>conf/ppopp/2015</crossref>
+<url>db/conf/ppopp/ppopp2015.html#AshariTBRCKS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HuangBTRTR15" mdate="2018-11-06">
+<author pid="131/4058">Botong Huang</author>
+<author pid="75/887">Matthias Boehm 0001</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<author pid="35/3834">Shirish Tatikonda</author>
+<author pid="95/459">Frederick R. Reiss</author>
+<title>Resource Elasticity for Large-Scale Machine Learning.</title>
+<pages>137-152</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2749432</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#HuangBTRTR15</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/BoehmBERRSTT14" mdate="2020-03-10">
+<author pid="75/887">Matthias B&#246;hm 0001</author>
+<author pid="42/2076">Douglas R. Burdick</author>
+<author pid="e/AlexandreVEvfimievski">Alexandre V. Evfimievski</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<author pid="95/459">Frederick R. Reiss</author>
+<author pid="58/1388">Prithviraj Sen</author>
+<author pid="35/3834">Shirish Tatikonda</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<title>SystemML's Optimizer: Plan Generation for Large-Scale Machine Learning Programs.</title>
+<pages>52-62</pages>
+<year>2014</year>
+<volume>37</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<ee type="oa">http://sites.computer.org/debull/A14sept/p52.pdf</ee>
+<url>db/journals/debu/debu37.html#BoehmBERRSTT14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BoehmTRSTBV14" mdate="2020-04-25">
+<author pid="75/887">Matthias Boehm 0001</author>
+<author pid="35/3834">Shirish Tatikonda</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<author pid="58/1388">Prithviraj Sen</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<author pid="42/2076">Douglas Burdick</author>
+<author pid="81/6125">Shivakumar Vaithyanathan</author>
+<title>Hybrid Parallelization Strategies for Large-Scale Machine Learning in SystemML.</title>
+<pages>553-564</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>7</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p553-boehm.pdf</ee>
+<ee>https://doi.org/10.14778/2732286.2732292</ee>
+<url>db/journals/pvldb/pvldb7.html#BoehmTRSTBV14</url>
+</article>
+</r>
+<r><inproceedings key="conf/cods/ClemonsFTAP14" mdate="2018-11-06">
+<author pid="90/10546">Tyler Clemons</author>
+<author pid="79/10548">S. M. Faisal</author>
+<author pid="35/3834">Shirish Tatikonda</author>
+<author pid="a/CharuCAggarwal">Charu C. Aggarwal</author>
+<author pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author>
+<title>One, Two, Hash! Counting Hash Tables for Flash Devices.</title>
+<pages>1-10</pages>
+<year>2014</year>
+<booktitle>CODS</booktitle>
+<ee>https://doi.org/10.1145/2567688.2567693</ee>
+<crossref>conf/cods/2014</crossref>
+<url>db/conf/cods/cods2014.html#ClemonsFTAP14</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/TianBCTM13" mdate="2020-04-25">
+<author pid="27/3375">Yuanyuan Tian</author>
+<author pid="44/4147">Andrey Balmin</author>
+<author pid="137/6819">Severin Andreas Corsten</author>
+<author pid="35/3834">Shirish Tatikonda</author>
+<author pid="02/5355">John McPherson</author>
+<title>From "Think Like a Vertex" to "Think Like a Graph".</title>
+<pages>193-204</pages>
+<year>2013</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p193-tian.pdf</ee>
+<ee>https://doi.org/10.14778/2732232.2732238</ee>
+<url>db/journals/pvldb/pvldb7.html#TianBCTM13</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/ClemonsFTAP13" mdate="2023-03-24">
+<author pid="90/10546">Tyler Clemons</author>
+<author pid="79/10548">S. M. Faisal</author>
+<author pid="35/3834">Shirish Tatikonda</author>
+<author pid="a/CharuCAggarwal">Charu C. Aggarwal</author>
+<author orcid="0000-0002-6062-6449" pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author>
+<title>Hash in a flash: Hash tables for flash devices.</title>
+<pages>7-14</pages>
+<year>2013</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData.2013.6691692</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BigData.2013.6691692</ee>
+<crossref>conf/bigdataconf/2013</crossref>
+<url>db/conf/bigdataconf/bigdataconf2013.html#ClemonsFTAP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloud/BoehmBERSTT13" mdate="2018-11-06">
+<author pid="75/887">Matthias Boehm 0001</author>
+<author pid="42/2076">Douglas Burdick</author>
+<author pid="e/AlexandreVEvfimievski">Alexandre V. Evfimievski</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<author pid="58/1388">Prithviraj Sen</author>
+<author pid="35/3834">Shirish Tatikonda</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<title>Compiling machine learning algorithms with SystemML.</title>
+<pages>57:1</pages>
+<year>2013</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/2523616.2525965</ee>
+<crossref>conf/cloud/2013</crossref>
+<url>db/conf/cloud/socc2013.html#BoehmBERSTT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/TianTR12" mdate="2023-03-23">
+<author pid="27/3375">Yuanyuan Tian</author>
+<author pid="35/3834">Shirish Tatikonda</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<title>Scalable and Numerically Stable Descriptive Statistics in SystemML.</title>
+<pages>1351-1359</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.12</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2012.12</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#TianTR12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1211-4521" mdate="2018-08-13">
+<author pid="90/10546">Tyler Clemons</author>
+<author pid="79/10548">S. M. Faisal</author>
+<author pid="35/3834">Shirish Tatikonda</author>
+<author pid="a/CharuCAggarwal">Charu C. Aggarwal</author>
+<author pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author>
+<title>Hash in a Flash: Hash Tables for Solid State Devices</title>
+<ee type="oa">http://arxiv.org/abs/1211.4521</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1211.4521</volume>
+<url>db/journals/corr/corr1211.html#abs-1211-4521</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/GhotingKPRSTTV11" mdate="2023-03-23">
+<author pid="g/AmolGhoting">Amol Ghoting</author>
+<author pid="51/6067">Rajasekar Krishnamurthy</author>
+<author pid="85/3739">Edwin P. D. Pednault</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<author pid="26/4825">Vikas Sindhwani</author>
+<author pid="35/3834">Shirish Tatikonda</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<author pid="81/6125">Shivakumar Vaithyanathan</author>
+<title>SystemML: Declarative machine learning on MapReduce.</title>
+<pages>231-242</pages>
+<year>2011</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2011.5767930</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2011.5767930</ee>
+<crossref>conf/icde/2011</crossref>
+<url>db/conf/icde/icde2011.html#GhotingKPRSTTV11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/WangPT11" mdate="2023-03-24">
+<author pid="44/6292">Ye Wang</author>
+<author orcid="0000-0002-6062-6449" pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author>
+<author pid="35/3834">Shirish Tatikonda</author>
+<title>Locality Sensitive Outlier Detection: A ranking driven approach.</title>
+<pages>410-421</pages>
+<year>2011</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2011.5767852</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2011.5767852</ee>
+<crossref>conf/icde/2011</crossref>
+<url>db/conf/icde/icde2011.html#WangPT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/TatikondaCJ11" mdate="2018-11-06">
+<author pid="35/3834">Shirish Tatikonda</author>
+<author pid="57/2006">Berkant Barla Cambazoglu</author>
+<author pid="27/2404">Flavio Paiva Junqueira</author>
+<title>Posting list intersection on multicore architectures.</title>
+<pages>963-972</pages>
+<year>2011</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2009916.2010045</ee>
+<crossref>conf/sigir/2011</crossref>
+<url>db/conf/sigir/sigir2011.html#TatikondaCJ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/TatikondaP10" mdate="2023-03-24">
+<author pid="35/3834">Shirish Tatikonda</author>
+<author orcid="0000-0002-6062-6449" pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author>
+<title>Hashing tree-structured data: Methods and applications.</title>
+<pages>429-440</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447882</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447882</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#TatikondaP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppopp/BuehrerPT10" mdate="2023-08-28">
+<author pid="b/GBuehrer">Gregory Buehrer</author>
+<author orcid="0000-0002-6062-6449" pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author>
+<author pid="35/3834">Shirish Tatikonda</author>
+<title>A distributed placement service for graph-structured and tree-structured data.</title>
+<pages>355-356</pages>
+<year>2010</year>
+<booktitle>PPoPP</booktitle>
+<ee>https://doi.org/10.1145/1693453.1693511</ee>
+<ee>https://doi.org/10.1145/1837853.1693511</ee>
+<ee>https://www.wikidata.org/entity/Q114614162</ee>
+<crossref>conf/ppopp/2010</crossref>
+<url>db/conf/ppopp/ppopp2010.html#BuehrerPT10</url>
+</inproceedings>
+</r>
+<r><incollection key="series/ads/ParthasarathyTU10" mdate="2017-08-16">
+<author pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author>
+<author pid="35/3834">Shirish Tatikonda</author>
+<author pid="86/2792">Duygu Ucar</author>
+<title>A Survey of Graph Mining Techniques for Biological Datasets.</title>
+<pages>547-580</pages>
+<year>2010</year>
+<booktitle>Managing and Mining Graph Data</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-6045-0_18</ee>
+<crossref>series/ads/2010-40</crossref>
+<url>db/series/ads/ads40.html#ParthasarathyTU10</url>
+</incollection>
+</r>
+<r><article key="journals/pvldb/TatikondaP09" mdate="2023-08-28">
+<author pid="35/3834">Shirish Tatikonda</author>
+<author orcid="0000-0002-6062-6449" pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author>
+<title>Mining Tree-Structured Data on Multicore Systems.</title>
+<pages>694-705</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-pvldb19.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687706</ee>
+<ee>https://www.wikidata.org/entity/Q114596043</ee>
+<url>db/journals/pvldb/pvldb2.html#TatikondaP09</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdm/NatarajanST09" mdate="2023-03-24">
+<author pid="75/2627">Ramesh Natarajan</author>
+<author pid="26/4825">Vikas Sindhwani</author>
+<author pid="35/3834">Shirish Tatikonda</author>
+<title>Sparse Least-Squares Methods in the Parallel Machine Learning (PML) Framework.</title>
+<pages>314-319</pages>
+<year>2009</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2009.106</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDMW.2009.106</ee>
+<crossref>conf/icdm/2009w</crossref>
+<url>db/conf/icdm/icdmw2009.html#NatarajanST09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/TatikondaJCP09" mdate="2018-11-06">
+<author pid="35/3834">Shirish Tatikonda</author>
+<author pid="27/2404">Flavio Junqueira</author>
+<author pid="57/2006">Berkant Barla Cambazoglu</author>
+<author pid="59/5877">Vassilis Plachouras</author>
+<title>On efficient posting list intersection with multicore processors.</title>
+<pages>738-739</pages>
+<year>2009</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/1571941.1572104</ee>
+<crossref>conf/sigir/2009</crossref>
+<url>db/conf/sigir/sigir2009.html#TatikondaJCP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppopp/TatikondaP08" mdate="2022-06-12">
+<author pid="35/3834">Shirish Tatikonda</author>
+<author pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author>
+<title>An adaptive memory conscious approach for mining frequent trees: implications for multi-core architectures.</title>
+<pages>263-264</pages>
+<year>2008</year>
+<booktitle>PPoPP</booktitle>
+<ee>https://doi.org/10.1145/1345206.1345247</ee>
+<crossref>conf/ppopp/2008</crossref>
+<url>db/conf/ppopp/ppopp2008.html#TatikondaP08</url>
+</inproceedings>
+</r>
+<r><incollection key="books/tf/08/0001TBG08" mdate="2019-07-10">
+<author pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author>
+<author pid="35/3834">Shirish Tatikonda</author>
+<author pid="b/GBuehrer">Gregory Buehrer</author>
+<author pid="g/AmolGhoting">Amol Ghoting</author>
+<title>Architecture Conscious Data Mining.</title>
+<year>2008</year>
+<booktitle>Next Generation of Data Mining</booktitle>
+<ee>https://doi.org/10.1201/9781420085877.ch13</ee>
+<crossref>books/tf/08/KHYMK2008</crossref>
+<url>db/books/collections/KHYMK2008.html#0001TBG08</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/ipps/GhotingBGTZPKS07" mdate="2023-03-24">
+<author pid="g/AmolGhoting">Amol Ghoting</author>
+<author pid="b/GBuehrer">Gregory Buehrer</author>
+<author pid="13/6164">Matthew Goyder</author>
+<author pid="35/3834">Shirish Tatikonda</author>
+<author pid="87/1222">Xi Zhang</author>
+<author orcid="0000-0002-6062-6449" pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>Knowledge and Cache Conscious Algorithm Design and Systems Support for Data Mining Algorithms.</title>
+<pages>1-6</pages>
+<year>2007</year>
+<crossref>conf/ipps/2007</crossref>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2007.370500</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IPDPS.2007.370500</ee>
+<url>db/conf/ipps/ipdps2007.html#GhotingBGTZPKS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppopp/BuehrerPTKS07" mdate="2022-06-12">
+<author pid="b/GBuehrer">Gregory Buehrer</author>
+<author orcid="0000-0002-6062-6449" pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author>
+<author pid="35/3834">Shirish Tatikonda</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>Toward terabyte pattern mining: an architecture-conscious solution.</title>
+<pages>2-12</pages>
+<year>2007</year>
+<crossref>conf/ppopp/2007</crossref>
+<booktitle>PPoPP</booktitle>
+<ee>https://doi.org/10.1145/1229428.1229432</ee>
+<url>db/conf/ppopp/ppopp2007.html#BuehrerPTKS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/TatikondaPG07" mdate="2020-03-12">
+<author pid="35/3834">Shirish Tatikonda</author>
+<author pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author>
+<author pid="13/6164">Matthew Goyder</author>
+<title>LCS-TRIM: Dynamic Programming Meets XML Indexing and Querying.</title>
+<pages>63-74</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/research/p63-tatikonda.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#TatikondaPG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/TatikondaPK06" mdate="2021-10-14">
+<author pid="35/3834">Shirish Tatikonda</author>
+<author orcid="0000-0002-6062-6449" pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<title>TRIPS and TIDES: new algorithms for tree mining.</title>
+<pages>455-464</pages>
+<year>2006</year>
+<crossref>conf/cikm/2006</crossref>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1183614.1183680</ee>
+<url>db/conf/cikm/cikm2006.html#TatikondaPK06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/BuehrerGZSPKS06" mdate="2023-03-24">
+<author pid="b/GBuehrer">Gregory Buehrer</author>
+<author pid="g/AmolGhoting">Amol Ghoting</author>
+<author pid="87/1222">Xi Zhang</author>
+<author pid="35/3834">Shirish Tatikonda</author>
+<author orcid="0000-0002-6062-6449" pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>I/O conscious algorithm design and systems support for data analysis on emerging architectures.</title>
+<year>2006</year>
+<crossref>conf/ipps/2006</crossref>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2006.1639586</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IPDPS.2006.1639586</ee>
+<url>db/conf/ipps/ipdps2006.html#BuehrerGZSPKS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ics/WangPGTBKS05" mdate="2021-10-14">
+<author pid="80/2875">Huai Wang</author>
+<author orcid="0000-0002-6062-6449" pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author>
+<author pid="g/AmolGhoting">Amol Ghoting</author>
+<author pid="35/3834">Shirish Tatikonda</author>
+<author pid="b/GBuehrer">Gregory Buehrer</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>Design of a next generation sampling service for large scale data analysis applications.</title>
+<pages>91-100</pages>
+<year>2005</year>
+<crossref>conf/ics/2005</crossref>
+<booktitle>ICS</booktitle>
+<ee>https://doi.org/10.1145/1088149.1088162</ee>
+<url>db/conf/ics/ics2005.html#WangPGTBKS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/WangGBTPKS05" mdate="2023-03-24">
+<author pid="80/2875">Huai Wang</author>
+<author pid="g/AmolGhoting">Amol Ghoting</author>
+<author pid="b/GBuehrer">Gregory Buehrer</author>
+<author pid="35/3834">Shirish Tatikonda</author>
+<author orcid="0000-0002-6062-6449" pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>A Services Oriented Framework for Next Generation Data Analysis Centers.</title>
+<year>2005</year>
+<crossref>conf/ipps/2005</crossref>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2005.66</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IPDPS.2005.66</ee>
+<url>db/conf/ipps/ipdps2005.html#WangGBTPKS05</url>
+</inproceedings>
+</r>
+<coauthors n="43" nc="1">
+<co c="0"><na f="a/Aggarwal:Charu_C=" pid="a/CharuCAggarwal">Charu C. Aggarwal</na></co>
+<co c="0"><na f="a/Ashari:Arash" pid="146/3559">Arash Ashari</na></co>
+<co c="0"><na f="b/Balmin:Andrey" pid="44/4147">Andrey Balmin</na></co>
+<co c="0" n="2"><na f="b/Boehm_0001:Matthias" pid="75/887">Matthias Boehm 0001</na><na>Matthias B&#246;hm 0001</na></co>
+<co c="0"><na f="b/Buehrer:Gregory" pid="b/GBuehrer">Gregory Buehrer</na></co>
+<co c="0" n="2"><na f="b/Burdick:Douglas" pid="42/2076">Douglas Burdick</na><na>Douglas R. Burdick</na></co>
+<co c="0"><na f="c/Cambazoglu:Berkant_Barla" pid="57/2006">Berkant Barla Cambazoglu</na></co>
+<co c="0"><na f="c/Campbell:Keith" pid="67/10622">Keith Campbell</na></co>
+<co c="0"><na f="c/Clemons:Tyler" pid="90/10546">Tyler Clemons</na></co>
+<co c="0"><na f="c/Corsten:Severin_Andreas" pid="137/6819">Severin Andreas Corsten</na></co>
+<co c="0"><na f="d/Dusenberry:Michael" pid="185/4346">Michael Dusenberry</na></co>
+<co c="0"><na f="e/Elgamal:Tarek" pid="143/4704">Tarek Elgamal</na></co>
+<co c="0"><na f="e/Eriksson:Deron" pid="185/4375">Deron Eriksson</na></co>
+<co c="0"><na f="e/Evfimievski:Alexandre_V=" pid="e/AlexandreVEvfimievski">Alexandre V. Evfimievski</na></co>
+<co c="0"><na f="f/Faisal:S=_M=" pid="79/10548">S. M. Faisal</na></co>
+<co c="0"><na f="g/Ghoting:Amol" pid="g/AmolGhoting">Amol Ghoting</na></co>
+<co c="0"><na f="g/Goyder:Matthew" pid="13/6164">Matthew Goyder</na></co>
+<co c="0"><na f="h/Huang:Botong" pid="131/4058">Botong Huang</na></co>
+<co c="0" n="2"><na f="j/Junqueira:Flavio_Paiva" pid="27/2404">Flavio Paiva Junqueira</na><na>Flavio Junqueira</na></co>
+<co c="0"><na f="k/Keenleyside:John" pid="36/1084">John Keenleyside</na></co>
+<co c="0"><na f="k/Krishnamurthy:Rajasekar" pid="51/6067">Rajasekar Krishnamurthy</na></co>
+<co c="0"><na f="k/Kur=ccedil=:Tahsin_M=" pid="26/6088">Tahsin M. Kur&#231;</na></co>
+<co c="0"><na f="l/Luo:Shangyu" pid="147/1166">Shangyu Luo</na></co>
+<co c="0"><na f="m/Manshadi:Faraz_Makari" pid="133/9879">Faraz Makari Manshadi</na></co>
+<co c="0"><na f="m/McPherson:John" pid="02/5355">John McPherson</na></co>
+<co c="0"><na f="n/Natarajan:Ramesh" pid="75/2627">Ramesh Natarajan</na></co>
+<co c="0"><na f="p/Pansare:Niketan" pid="13/8165">Niketan Pansare</na></co>
+<co c="0"><na f="p/Parthasarathy_0001:Srinivasan" pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</na></co>
+<co c="0"><na f="p/Pednault:Edwin_P=_D=" pid="85/3739">Edwin P. D. Pednault</na></co>
+<co c="0"><na f="p/Plachouras:Vassilis" pid="59/5877">Vassilis Plachouras</na></co>
+<co c="0"><na f="r/Reinwald:Berthold" pid="76/3381">Berthold Reinwald</na></co>
+<co c="0" n="2"><na f="r/Reiss_0001:Frederick" pid="95/459">Frederick Reiss 0001</na><na>Frederick R. Reiss</na></co>
+<co c="0"><na f="s/Sadayappan:P=" pid="s/PSadayappan">P. Sadayappan</na></co>
+<co c="0"><na f="s/Saltz:Joel_H=" pid="s/JoelHSaltz">Joel H. Saltz</na></co>
+<co c="0"><na f="s/Sen:Prithviraj" pid="58/1388">Prithviraj Sen</na></co>
+<co c="0"><na f="s/Sindhwani:Vikas" pid="26/4825">Vikas Sindhwani</na></co>
+<co c="0"><na f="s/Surve:Arvind" pid="185/4361">Arvind Surve</na></co>
+<co c="0"><na f="t/Tian:Yuanyuan" pid="27/3375">Yuanyuan Tian</na></co>
+<co c="0"><na f="u/Ucar:Duygu" pid="86/2792">Duygu Ucar</na></co>
+<co c="0"><na f="v/Vaithyanathan:Shivakumar" pid="81/6125">Shivakumar Vaithyanathan</na></co>
+<co c="0"><na f="w/Wang:Huai" pid="80/2875">Huai Wang</na></co>
+<co c="0"><na f="w/Wang:Ye" pid="44/6292">Ye Wang</na></co>
+<co c="0"><na f="z/Zhang:Xi" pid="87/1222">Xi Zhang</na></co>
+</coauthors>
+</dblpperson>

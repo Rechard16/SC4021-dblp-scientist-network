@@ -1,0 +1,1810 @@
+<dblpperson name="Mohammad Sadoghi" pid="56/7016" n="121">
+<person key="homepages/56/7016" mdate="2021-10-04">
+<author pid="56/7016">Mohammad Sadoghi</author>
+<note type="affiliation">University of California, Davis, USA</note>
+<note type="affiliation" label="former">Purdue University, West Lafayette, Indiana, USA</note>
+<note type="affiliation" label="former">IBM T.J. Watson Research Center, New York, USA</note>
+<note type="affiliation" label="former">University of Toronto, Canada</note>
+<url>https://cs.ucdavis.edu/directory/mohammad-sadoghi</url>
+<url>http://www.cs.toronto.edu/~mo</url>
+<url>https://scholar.google.com/citations?user=Lx9fbJoAAAAJ</url>
+<url>https://dl.acm.org/profile/81331502739</url>
+<url>https://orcid.org/0000-0003-2779-6080</url>
+</person>
+<r><inproceedings key="conf/edbt/ChakrabortyAMNSSVS24" mdate="2023-11-12">
+<author pid="202/0959">Vishal Chakraborty</author>
+<author pid="354/8424">Stacy Ann-Elvy</author>
+<author pid="m/SharadMehrotra">Sharad Mehrotra</author>
+<author pid="55/11299">Faisal Nawab</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<author orcid="0000-0002-1339-5481" pid="83/2389-1">Shantanu Sharma 0001</author>
+<author pid="66/1875">Nalini Venkatasubramanian</author>
+<author pid="338/4633">Farhan Saeed</author>
+<title>Data-CASE: Grounding Data Regulations for Compliant Data Processing Systems.</title>
+<pages>108-115</pages>
+<year>2024</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.48786/edbt.2024.10</ee>
+<crossref>conf/edbt/2024</crossref>
+<url>db/conf/edbt/edbt2024.html#ChakrabortyAMNSSVS24</url>
+</inproceedings>
+</r>
+<r><article key="journals/ftdb/NawabS23" mdate="2023-09-30">
+<author pid="55/11299">Faisal Nawab</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Consensus in Data Management: From Distributed Commit to Blockchain.</title>
+<pages>221-364</pages>
+<year>2023</year>
+<volume>12</volume>
+<journal>Found. Trends Databases</journal>
+<number>4</number>
+<ee>https://doi.org/10.1561/1900000075</ee>
+<url>db/journals/ftdb/ftdb12.html#NawabS23</url>
+</article>
+</r>
+<r><article key="journals/vldb/HellingsS23" mdate="2023-10-31">
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>ByShard: sharding in a Byzantine environment.</title>
+<pages>1343-1367</pages>
+<year>2023</year>
+<month>November</month>
+<volume>32</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00778-023-00794-0</ee>
+<url>db/journals/vldb/vldb32.html#HellingsS23</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/GuptaAS23" mdate="2023-09-30">
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="183/8663">Mohammad Javad Amiri</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Chemistry behind Agreement.</title>
+<year>2023</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2023/papers/p85-gupta.pdf</ee>
+<crossref>conf/cidr/2023</crossref>
+<url>db/conf/cidr/cidr2023.html#GuptaAS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/SinghZSM0N23" mdate="2023-11-12">
+<author pid="252/6285">Abhishek A. Singh</author>
+<author pid="64/473">Yinan Zhou</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="m/SharadMehrotra">Sharad Mehrotra</author>
+<author orcid="0000-0002-1339-5481" pid="83/2389-1">Shantanu Sharma 0001</author>
+<author pid="55/11299">Faisal Nawab</author>
+<title>WedgeBlock: An Off-Chain Secure Logging Platform for Blockchain Applications.</title>
+<pages>526-539</pages>
+<year>2023</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.48786/edbt.2023.45</ee>
+<crossref>conf/edbt/2023</crossref>
+<url>db/conf/edbt/edbt2023.html#SinghZSM0N23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurosys/GuptaRPCS23" mdate="2023-05-17">
+<author orcid="0000-0002-3240-1840" pid="136/5662">Suyash Gupta</author>
+<author orcid="0000-0001-8480-0897" pid="252/5735">Sajjad Rahnama</author>
+<author orcid="0009-0000-0445-1229" pid="271/5421">Shubham Pandey</author>
+<author orcid="0000-0002-3567-801X" pid="161/0113">Natacha Crooks</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Dissecting BFT Consensus: In Trusted Components we Trust!</title>
+<pages>521-539</pages>
+<year>2023</year>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3552326.3587455</ee>
+<crossref>conf/eurosys/2023</crossref>
+<url>db/conf/eurosys/eurosys2023.html#GuptaRPCS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GuptaRLNS23" mdate="2023-09-30">
+<author orcid="0000-0002-3240-1840" pid="136/5662">Suyash Gupta</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author pid="310/1479">Erik Linsenmayer</author>
+<author pid="55/11299">Faisal Nawab</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Reliable Transactions in Serverless-Edge Architecture.</title>
+<pages>301-314</pages>
+<year>2023</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE55515.2023.00030</ee>
+<crossref>conf/icde/2023</crossref>
+<url>db/conf/icde/icde2023.html#GuptaRLNS23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-02118" mdate="2023-09-30">
+<author orcid="0000-0002-7867-3681" pid="339/7333">Dakai Kang</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Practical View-Change-Less Protocol through Rapid View Synchronization.</title>
+<year>2023</year>
+<volume>abs/2302.02118</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.02118</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-02118</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-02325" mdate="2023-09-30">
+<author pid="39/9851-3">Junchao Chen 0003</author>
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="170/4315">Alberto Sonnino</author>
+<author pid="176/5301">Lefteris Kokoris-Kogias</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Resilient Consensus Sustained Collaboratively.</title>
+<year>2023</year>
+<volume>abs/2302.02325</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.02325</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-02325</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-08371" mdate="2023-09-30">
+<author pid="258/7304">Muhammad Jahanzeb Khan</author>
+<author pid="08/3712">Rui Hu</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="25/5030-1">Dongfang Zhao 0001</author>
+<title>Comparative Evaluation of Data Decoupling Techniques for Federated Machine Learning with Database as a Service.</title>
+<year>2023</year>
+<volume>abs/2303.08371</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.08371</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-08371</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2304-01659" mdate="2023-09-30">
+<author pid="123/8067">Mohammadreza Najafi</author>
+<author pid="166/8355">Thamir M. Qadah</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>Diba: A Re-configurable Stream Processor.</title>
+<year>2023</year>
+<volume>abs/2304.01659</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.01659</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-01659</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2308-07501" mdate="2023-11-12">
+<author pid="202/0959">Vishal Chakraborty</author>
+<author pid="354/8424">Stacy Ann-Elvy</author>
+<author pid="m/SharadMehrotra">Sharad Mehrotra</author>
+<author pid="55/11299">Faisal Nawab</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<author orcid="0000-0002-1339-5481" pid="83/2389-1">Shantanu Sharma 0001</author>
+<author pid="66/1875">Nalini Venkatasubramanian</author>
+<author pid="338/4633">Farhan Saeed</author>
+<title>Data-CASE: Grounding Data Regulations for Compliant Data Processing Systems.</title>
+<year>2023</year>
+<volume>abs/2308.07501</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2308.07501</ee>
+<url>db/journals/corr/corr2308.html#abs-2308-07501</url>
+</article>
+</r>
+<r><article key="journals/debu/ChenGRS22" mdate="2023-09-30">
+<author pid="39/9851-3">Junchao Chen 0003</author>
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Power-of-Collaboration: A Sustainable Resilient Ledger Built Democratically.</title>
+<pages>25-36</pages>
+<year>2022</year>
+<volume>45</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<ee type="oa">http://sites.computer.org/debull/A22june/p25.pdf</ee>
+<url>db/journals/debu/debu45.html#ChenGRS22</url>
+</article>
+</r>
+<r><article key="journals/is/ArtikisTGS22" mdate="2022-10-02">
+<author pid="a/AArtikis">Alexander Artikis</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="42/3296">Lukasz Golab</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Editorial.</title>
+<pages>102088</pages>
+<year>2022</year>
+<volume>109</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2022.102088</ee>
+<url>db/journals/is/is109.html#ArtikisTGS22</url>
+</article>
+</r>
+<r><article key="journals/tkde/HemmatpourMRS22" mdate="2022-04-01">
+<author orcid="0000-0002-8505-239X" pid="192/7510">Masoud Hemmatpour</author>
+<author orcid="0000-0003-0065-8614" pid="45/4978">Bartolomeo Montrucchio</author>
+<author orcid="0000-0002-7135-7694" pid="35/3262">Maurizio Rebaudengo</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Analyzing In-Memory NoSQL Landscape.</title>
+<pages>1628-1643</pages>
+<year>2022</year>
+<volume>34</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TKDE.2020.3002908</ee>
+<url>db/journals/tkde/tkde34.html#HemmatpourMRS22</url>
+</article>
+</r>
+<r><article key="journals/tkde/MenonQRSJ22" mdate="2022-08-08">
+<author orcid="0000-0003-1345-6050" pid="145/6329">Prashanth Menon</author>
+<author orcid="0000-0003-0754-0504" pid="166/8355">Thamir M. Qadah</author>
+<author pid="10/760">Tilmann Rabl</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author orcid="0000-0003-0813-0101" pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>LogStore: A Workload-Aware, Adaptable Key-Value Store on Hybrid Storage Systems.</title>
+<pages>3867-3882</pages>
+<year>2022</year>
+<volume>34</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TKDE.2020.3027191</ee>
+<url>db/journals/tkde/tkde34.html#MenonQRSJ22</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/RahnamaGSKS22" mdate="2022-10-02">
+<author pid="252/5735">Sajjad Rahnama</author>
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="298/1687">Rohan Sogani</author>
+<author pid="298/2062">Dhruv Krishnan</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>RingBFT: Resilient Consensus over Sharded Ring Topology.</title>
+<pages>2:298-2:311</pages>
+<year>2022</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.48786/edbt.2022.17</ee>
+<crossref>conf/edbt/2022</crossref>
+<url>db/conf/edbt/edbt2022.html#RahnamaGSKS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/foiks/HellingsS22" mdate="2022-07-14">
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>The Fault-Tolerant Cluster-Sending Problem.</title>
+<pages>168-186</pages>
+<year>2022</year>
+<booktitle>FoIKS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-11321-5_10</ee>
+<crossref>conf/foiks/2022</crossref>
+<url>db/conf/foiks/foiks2022.html#HellingsS22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2201-00982" mdate="2022-01-10">
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author pid="310/1479">Erik Linsenmayer</author>
+<author pid="55/11299">Faisal Nawab</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>Reliable Transactions in Serverless-Edge Architecture.</title>
+<year>2022</year>
+<volume>abs/2201.00982</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2201.00982</ee>
+<url>db/journals/corr/corr2201.html#abs-2201-00982</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2202-01354" mdate="2022-02-09">
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author pid="271/5421">Shubham Pandey</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>Dissecting BFT Consensus: In Trusted Components we Trust!</title>
+<year>2022</year>
+<volume>abs/2202.01354</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2202.01354</ee>
+<url>db/journals/corr/corr2202.html#abs-2202-01354</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2204-03552" mdate="2022-10-02">
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>On the Correctness of Speculative Consensus.</title>
+<year>2022</year>
+<volume>abs/2204.03552</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2204.03552</ee>
+<url>db/journals/corr/corr2204.html#abs-2204-03552</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-04534" mdate="2023-02-12">
+<author pid="183/8663">Mohammad Javad Amiri</author>
+<author pid="261/2045">Chenyuan Wu</author>
+<author pid="a/DivyakantAgrawal">Divyakant Agrawal</author>
+<author pid="a/AmrElAbbadi">Amr El Abbadi</author>
+<author orcid="0000-0002-4757-1746" pid="75/3108">Boon Thau Loo</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>The Bedrock of BFT: A Unified Platform for BFT Protocol Design and Implementation.</title>
+<year>2022</year>
+<volume>abs/2205.04534</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.04534</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-04534</url>
+</article>
+</r>
+<r><book key="series/synthesis/2021Gupta" mdate="2023-10-28">
+<author orcid="0000-0002-3240-1840" pid="136/5662">Suyash Gupta</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Fault-Tolerant Distributed Transactions on Blockchain</title>
+<publisher>Morgan &amp; Claypool Publishers</publisher>
+<year>2021</year>
+<pages>1-268</pages>
+<series href="db/series/synthesis-dtm/index.html">Synthesis Lectures on Data Management</series>
+<isbn>978-3-031-00749-1</isbn>
+<isbn>978-3-031-01877-0</isbn>
+<ee>https://doi.org/10.2200/S01068ED1V01Y202012DTM065</ee>
+<ee>https://doi.org/10.1007/978-3-031-01877-0</ee>
+</book>
+</r>
+<r><article key="journals/pvldb/HellingsS21" mdate="2022-10-02">
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>ByShard: Sharding in a Byzantine Environment.</title>
+<pages>2230-2243</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2230-hellings.pdf</ee>
+<ee>https://doi.org/10.14778/3476249.3476275</ee>
+<url>db/journals/pvldb/pvldb14.html#HellingsS21</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/GuptaHRS21" mdate="2022-04-09">
+<author orcid="0000-0002-3240-1840" pid="136/5662">Suyash Gupta</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Proof-of-Execution: Reaching Consensus through Fault-Tolerant Speculation.</title>
+<pages>301-312</pages>
+<year>2021</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.5441/002/edbt.2021.27</ee>
+<crossref>conf/edbt/2021</crossref>
+<url>db/conf/edbt/edbt2021.html#GuptaHRS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GuptaHS21" mdate="2022-04-09">
+<author orcid="0000-0002-3240-1840" pid="136/5662">Suyash Gupta</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>RCC: Resilient Concurrent Consensus for High-Throughput Secure Transaction Processing.</title>
+<pages>1392-1403</pages>
+<year>2021</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE51399.2021.00124</ee>
+<crossref>conf/icde/2021</crossref>
+<url>db/conf/icde/icde2021.html#GuptaHS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/HemmatpourMRS21" mdate="2021-07-25">
+<author pid="192/7510">Masoud Hemmatpour</author>
+<author pid="45/4978">Bartolomeo Montrucchio</author>
+<author pid="35/3262">Maurizio Rebaudengo</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Analyzing In-Memory NoSQL Landscape (Extended Abstract).</title>
+<pages>2319-2320</pages>
+<year>2021</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE51399.2021.00245</ee>
+<crossref>conf/icde/2021</crossref>
+<url>db/conf/icde/icde2021.html#HemmatpourMRS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/MenonQRSJ21" mdate="2022-01-03">
+<author pid="145/6329">Prashanth Menon</author>
+<author orcid="0000-0003-0754-0504" pid="166/8355">Thamir M. Qadah</author>
+<author pid="10/760">Tilmann Rabl</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>LogStore: A Workload-aware, Adaptable Key-Value Store on Hybrid Storage Systems (Extended abstract).</title>
+<pages>2321-2322</pages>
+<year>2021</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE51399.2021.00246</ee>
+<crossref>conf/icde/2021</crossref>
+<url>db/conf/icde/icde2021.html#MenonQRSJ21</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/fab/2021" mdate="2022-02-15">
+<editor orcid="0000-0001-5632-8572" pid="11/171">Vincent Gramoli</editor>
+<editor orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</editor>
+<title>4th International Symposium on Foundations and Applications of Blockchain 2021, FAB 2021, May 7, 2021, University of California, Davis, California, USA (Virtual Conference).</title>
+<booktitle>FAB</booktitle>
+<publisher>Schloss Dagstuhl - Leibniz-Zentrum f&#252;r Informatik</publisher>
+<year>2021</year>
+<series href="db/series/oasics/index.html">OASIcs</series>
+<volume>92</volume>
+<isbn>978-3-95977-196-2</isbn>
+<ee>https://www.dagstuhl.de/dagpub/978-3-95977-196-2</ee>
+<url>db/conf/fab/fab2021.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2107-11378" mdate="2021-07-29">
+<author pid="166/8355">Thamir M. Qadah</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>Highly Available Queue-oriented Speculative Transaction Processing.</title>
+<year>2021</year>
+<volume>abs/2107.11378</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2107.11378</ee>
+<url>db/journals/corr/corr2107.html#abs-2107-11378</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2107-11592" mdate="2021-07-29">
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>Blockchain Transaction Processing.</title>
+<year>2021</year>
+<volume>abs/2107.11592</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2107.11592</ee>
+<url>db/journals/corr/corr2107.html#abs-2107-11592</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2107-13047" mdate="2021-07-30">
+<author pid="252/5735">Sajjad Rahnama</author>
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="298/1687">Rohan Sogani</author>
+<author pid="298/2062">Dhruv Krishnan</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>RingBFT: Resilient Consensus over Sharded Ring Topology.</title>
+<year>2021</year>
+<volume>abs/2107.13047</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2107.13047</ee>
+<url>db/journals/corr/corr2107.html#abs-2107-13047</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2108-08541" mdate="2021-08-23">
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>Byzantine Cluster-Sending in Expected Constant Communication.</title>
+<year>2021</year>
+<volume>abs/2108.08541</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2108.08541</ee>
+<url>db/journals/corr/corr2108.html#abs-2108-08541</url>
+</article>
+</r>
+<r><article key="journals/dpd/GuptaS20" mdate="2022-04-09">
+<author orcid="0000-0002-3240-1840" pid="136/5662">Suyash Gupta</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Efficient and non-blocking agreement protocols.</title>
+<pages>287-333</pages>
+<year>2020</year>
+<volume>38</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10619-019-07267-w</ee>
+<url>db/journals/dpd/dpd38.html#GuptaS20</url>
+</article>
+</r>
+<r><article key="journals/dpd/ChenCDHS20" mdate="2022-04-09">
+<author pid="c/ShiminChen">Shimin Chen</author>
+<author orcid="0000-0001-7189-9816" pid="c/PKChrysanthis">Panos K. Chrysanthis</author>
+<author pid="d/KhuzaimaDaudjee">Khuzaima Daudjee</author>
+<author pid="40/4895">Meichun Hsu</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Introduction to the special issue on Self-managing and Hardware-Optimized Database Systems 2019.</title>
+<pages>767-769</pages>
+<year>2020</year>
+<volume>38</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10619-020-07313-y</ee>
+<url>db/journals/dpd/dpd38.html#ChenCDHS20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GuptaRHS20" mdate="2021-07-25">
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>ResilientDB: Global Scale Resilient Blockchain Fabric.</title>
+<pages>868-883</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p868-gupta.pdf</ee>
+<ee>https://doi.org/10.14778/3380750.3380757</ee>
+<url>db/journals/pvldb/pvldb13.html#GuptaRHS20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/RahnamaGQHS20" mdate="2021-07-25">
+<author pid="252/5735">Sajjad Rahnama</author>
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="166/8355">Thamir Qadah</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Scalable, Resilient and Configurable Permissioned Blockchain Fabric.</title>
+<pages>2893-2896</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2893-rahnama.pdf</ee>
+<ee>https://doi.org/10.14778/3415478.3415502</ee>
+<url>db/journals/pvldb/pvldb13.html#RahnamaGQHS20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GuptaHRS20" mdate="2021-07-25">
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Building High Throughput Permissioned Blockchain Fabrics: Challenges and Opportunities.</title>
+<pages>3441-3444</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p3441-gupta.pdf</ee>
+<ee>https://doi.org/10.14778/3415478.3415565</ee>
+<url>db/journals/pvldb/pvldb13.html#GuptaHRS20</url>
+</article>
+</r>
+<r><article key="journals/tkde/NajafiSJ20" mdate="2020-12-31">
+<author orcid="0000-0002-0629-7955" pid="123/8067">Mohammadreza Najafi</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author orcid="0000-0003-0813-0101" pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>Scalable Multiway Stream Joins in Hardware.</title>
+<pages>2438-2452</pages>
+<year>2020</year>
+<volume>32</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TKDE.2019.2916860</ee>
+<url>db/journals/tkde/tkde32.html#NajafiSJ20</url>
+</article>
+</r>
+<r><inproceedings key="conf/debs/GuptaHRS20" mdate="2022-04-09">
+<author orcid="0000-0002-3240-1840" pid="136/5662">Suyash Gupta</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Blockchain consensus unraveled: virtues and limitations.</title>
+<pages>218-221</pages>
+<year>2020</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/3401025.3404099</ee>
+<crossref>conf/debs/2020</crossref>
+<url>db/conf/debs/debs2020.html#GuptaHRS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/QadahGS20" mdate="2021-07-25">
+<author orcid="0000-0003-0754-0504" pid="166/8355">Thamir Qadah</author>
+<author pid="136/5662">Suyash Gupta</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Q-Store: Distributed, Multi-partition Transactions via Queue-oriented Execution and Communication.</title>
+<pages>73-84</pages>
+<year>2020</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2020.08</ee>
+<crossref>conf/edbt/2020</crossref>
+<url>db/conf/edbt/edbt2020.html#QadahGS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/GuptaRS20" mdate="2022-04-09">
+<author orcid="0000-0002-3240-1840" pid="136/5662">Suyash Gupta</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Permissioned Blockchain Through the Looking Glass: Architectural and Implementation Lessons Learned.</title>
+<pages>754-764</pages>
+<year>2020</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS47774.2020.00012</ee>
+<crossref>conf/icdcs/2020</crossref>
+<url>db/conf/icdcs/icdcs2020.html#GuptaRS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/HellingsS20" mdate="2021-07-25">
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Coordination-Free Byzantine Replication with Minimal Communication Costs.</title>
+<pages>17:1-17:20</pages>
+<year>2020</year>
+<booktitle>ICDT</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICDT.2020.17</ee>
+<crossref>conf/icdt/2020</crossref>
+<url>db/conf/icdt/icdt2020.html#HellingsS20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-00160" mdate="2020-02-10">
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>ResilientDB: Global Scale Resilient Blockchain Fabric.</title>
+<year>2020</year>
+<volume>abs/2002.00160</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.00160</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-00160</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-04450" mdate="2020-08-14">
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="272/4191">Daniel P. Hughes</author>
+<author pid="272/4407">Joshua Primero</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>Cerberus: Minimalistic Multi-shard Byzantine-resilient Transaction Processing.</title>
+<year>2020</year>
+<volume>abs/2008.04450</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.04450</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-04450</url>
+</article>
+</r>
+<r><book key="series/synthesis/2019Sadoghi" mdate="2023-10-19">
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="65/5338">Spyros Blanas</author>
+<title>Transaction Processing on Modern Hardware</title>
+<publisher>Morgan &amp; Claypool Publishers</publisher>
+<year>2019</year>
+<series href="db/series/synthesis-dtm/index.html">Synthesis Lectures on Data Management</series>
+<isbn>978-3-031-00742-2</isbn>
+<isbn>978-3-031-01870-1</isbn>
+<ee>https://doi.org/10.2200/S00896ED1V01Y201901DTM058</ee>
+<ee>https://doi.org/10.1007/978-3-031-01870-1</ee>
+</book>
+</r>
+<r><inproceedings key="conf/icde/NawabS19" mdate="2021-07-25">
+<author pid="55/11299">Faisal Nawab</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Blockplane: A Global-Scale Byzantizing Middleware.</title>
+<pages>124-135</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00020</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#NawabS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/GuptaHRS19" mdate="2021-07-25">
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>An In-Depth Look of BFT Consensus in Blockchain: Challenges and Opportunities.</title>
+<pages>6-10</pages>
+<year>2019</year>
+<booktitle>Middleware Tutorials</booktitle>
+<ee>https://doi.org/10.1145/3366625.3369437</ee>
+<crossref>conf/middleware/2019t</crossref>
+<url>db/conf/middleware/middleware2019t.html#GuptaHRS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/GuptaHS19" mdate="2022-04-09">
+<author orcid="0000-0002-3240-1840" pid="136/5662">Suyash Gupta</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Brief Announcement: Revisiting Consensus Protocols through Wait-Free Parallelization.</title>
+<pages>44:1-44:3</pages>
+<year>2019</year>
+<booktitle>DISC</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.DISC.2019.44</ee>
+<crossref>conf/wdag/2019</crossref>
+<url>db/conf/wdag/disc2019.html#GuptaHS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/HellingsS19" mdate="2021-07-25">
+<author pid="05/10671">Jelle Hellings</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Brief Announcement: The Fault-Tolerant Cluster-Sending Problem.</title>
+<pages>45:1-45:3</pages>
+<year>2019</year>
+<booktitle>DISC</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.DISC.2019.45</ee>
+<crossref>conf/wdag/2019</crossref>
+<url>db/conf/wdag/disc2019.html#HellingsS19</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/bdt/GicevaS19" mdate="2019-02-14">
+<author pid="32/7263">Jana Giceva</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>Hybrid OLTP and OLAP.</title>
+<year>2019</year>
+<booktitle>Encyclopedia of Big Data Technologies</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-63962-8_179-1</ee>
+<crossref>reference/bdt/2019</crossref>
+<url>db/reference/bdt/1.html#GicevaS19</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/bdt/GuptaS19" mdate="2019-02-14">
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>Blockchain Transaction Processing.</title>
+<year>2019</year>
+<booktitle>Encyclopedia of Big Data Technologies</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-63962-8_333-1</ee>
+<crossref>reference/bdt/2019</crossref>
+<url>db/reference/bdt/1.html#GuptaS19</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-02157" mdate="2024-01-31">
+<author pid="06/3244-1">Xinying Wang 0001</author>
+<author pid="230/9014-1">Abdullah Al-Mamun 0001</author>
+<author pid="62/3960-1">Feng Yan 0001</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<author pid="25/5030-1">Dongfang Zhao 0001</author>
+<title>BlockLite: A Lightweight Emulator for Public Blockchains.</title>
+<year>2019</year>
+<volume>abs/1905.02157</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.02157</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-02157</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-01455" mdate="2019-08-09">
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>The fault-tolerant cluster-sending problem.</title>
+<year>2019</year>
+<volume>abs/1908.01455</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.01455</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-01455</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-01458" mdate="2019-08-09">
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>Revisiting consensus protocols through wait-free parallelization.</title>
+<year>2019</year>
+<volume>abs/1908.01458</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.01458</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-01458</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-00837" mdate="2019-11-11">
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>Scaling Blockchain Databases through Parallel Resilient Consensus Paradigm.</title>
+<year>2019</year>
+<volume>abs/1911.00837</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.00837</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-00837</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-00838" mdate="2019-11-11">
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="05/10671">Jelle Hellings</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>Proof-of-Execution: Reaching Consensus through Fault-Tolerant Speculation.</title>
+<year>2019</year>
+<volume>abs/1911.00838</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.00838</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-00838</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-09208" mdate="2019-12-03">
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>Permissioned Blockchain Through the Looking Glass: Architectural and Implementation Lessons Learned.</title>
+<year>2019</year>
+<volume>abs/1911.09208</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.09208</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-09208</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/MamunLSZ18" mdate="2021-07-25">
+<author pid="230/9014-1">Abdullah Al-Mamun 0001</author>
+<author pid="58/11205">Tonglin Li</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="25/5030-1">Dongfang Zhao 0001</author>
+<title>In-memory Blockchain: Toward Efficient and Trustworthy Data Provenance for HPC Systems.</title>
+<pages>3808-3813</pages>
+<year>2018</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData.2018.8621897</ee>
+<crossref>conf/bigdataconf/2018</crossref>
+<url>db/conf/bigdataconf/bigdataconf2018.html#MamunLSZ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/HassanKJAS18" mdate="2021-07-25">
+<author pid="166/8411">Mohamed S. Hassan</author>
+<author pid="206/6271">Tatiana Kuznetsova</author>
+<author pid="206/7386">Hyun Chai Jeong</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Extending In-Memory Relational Database Engines with Native Graph Support.</title>
+<pages>25-36</pages>
+<year>2018</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2018.04</ee>
+<crossref>conf/edbt/2018</crossref>
+<url>db/conf/edbt/edbt2018.html#HassanKJAS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/GuptaS18" mdate="2022-04-09">
+<author orcid="0000-0002-3240-1840" pid="136/5662">Suyash Gupta</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>EasyCommit: A Non-blocking Two-phase Commit Protocol.</title>
+<pages>157-168</pages>
+<year>2018</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2018.15</ee>
+<crossref>conf/edbt/2018</crossref>
+<url>db/conf/edbt/edbt2018.html#GuptaS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/DiazFS18" mdate="2021-07-25">
+<author pid="133/8305">Gonzalo I. Diaz</author>
+<author pid="13/2150">Achille Fokoue</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>EmbedS: Scalable, Ontology-aware Graph Embeddings.</title>
+<pages>433-436</pages>
+<year>2018</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2018.40</ee>
+<crossref>conf/edbt/2018</crossref>
+<url>db/conf/edbt/edbt2018.html#DiazFS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/SadoghiBBC18" mdate="2021-07-25">
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="27/7987">Souvik Bhattacherjee</author>
+<author pid="19/2910">Bishwaranjan Bhattacharjee</author>
+<author pid="71/6902">Mustafa Canim</author>
+<title>L-Store: A Real-time OLTP and OLAP System.</title>
+<pages>540-551</pages>
+<year>2018</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2018.65</ee>
+<crossref>conf/edbt/2018</crossref>
+<url>db/conf/edbt/edbt2018.html#SadoghiBBC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/NajafiSJ18" mdate="2023-03-24">
+<author pid="123/8067">Mohammadreza Najafi</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>A Scalable Circular Pipeline Design for Multi-Way Stream Joins in Hardware.</title>
+<pages>1280-1283</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00130</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00130</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#NajafiSJ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AbdelhamidCSBCK18" mdate="2023-03-23">
+<author pid="58/7989">Ehab Abdelhamid</author>
+<author pid="71/6902">Mustafa Canim</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="19/2910">Bishwaranjan Bhattacharjee</author>
+<author pid="14/2029">Yuan-Chi Chang</author>
+<author orcid="0000-0002-5060-1360" pid="97/3036">Panos Kalnis</author>
+<title>Incremental Frequent Subgraph Mining on Large Evolving Graphs.</title>
+<pages>1767-1768</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00241</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00241</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#AbdelhamidCSBCK18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/JacobsenSTV018" mdate="2021-07-25">
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="231/5191">Mohammad Hossein Tabatabaei</author>
+<author pid="47/6742">Roman Vitenberg</author>
+<author pid="12/4550-1">Kaiwen Zhang 0001</author>
+<title>Blockchain Landscape and AI Renaissance: The Bright Path Forward.</title>
+<pages>2:1</pages>
+<year>2018</year>
+<booktitle>Middleware (Tutorials)</booktitle>
+<ee>https://doi.org/10.1145/3279945.3279947</ee>
+<crossref>conf/middleware/2018t</crossref>
+<url>db/conf/middleware/middleware2018t.html#JacobsenSTV018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/QadahS18" mdate="2021-07-25">
+<author orcid="0000-0003-0754-0504" pid="166/8355">Thamir M. Qadah</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>QueCC: A Queue-oriented, Control-free Concurrency Architecture.</title>
+<pages>13-25</pages>
+<year>2018</year>
+<booktitle>Middleware</booktitle>
+<ee>https://doi.org/10.1145/3274808.3274810</ee>
+<crossref>conf/middleware/2018</crossref>
+<url>db/conf/middleware/middleware2018.html#QadahS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HassanKJAS18" mdate="2023-11-12">
+<author pid="166/8411">Mohamed S. Hassan</author>
+<author pid="206/6271">Tatiana Kuznetsova</author>
+<author pid="206/7386">Hyun Chai Jeong</author>
+<author orcid="0000-0001-8169-7775" pid="a/WGAref">Walid G. Aref</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>GRFusion: Graphs as First-Class Citizens in Main-Memory Relational Database Systems.</title>
+<pages>1789-1792</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3193541</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#HassanKJAS18</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/AbdelhamidCSBCK17" mdate="2021-07-25">
+<author orcid="0000-0002-8708-0642" pid="58/7989">Ehab Abdelhamid</author>
+<author pid="71/6902">Mustafa Canim</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="19/2910">Bishwaranjan Bhattacharjee</author>
+<author pid="14/2029">Yuan-Chi Chang</author>
+<author orcid="0000-0002-5060-1360" pid="97/3036">Panos Kalnis</author>
+<title>Incremental Frequent Subgraph Mining on Large Evolving Graphs.</title>
+<pages>2710-2723</pages>
+<year>2017</year>
+<volume>29</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TKDE.2017.2743075</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2017.2743075</ee>
+<url>db/journals/tkde/tkde29.html#AbdelhamidCSBCK17</url>
+</article>
+</r>
+<r><article key="journals/ws/AbdelazizFHZS17" mdate="2021-07-25">
+<author orcid="0000-0003-1449-5115" pid="153/1958">Ibrahim Abdelaziz</author>
+<author pid="13/2150">Achille Fokoue</author>
+<author orcid="0000-0001-5307-9857" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author orcid="0000-0002-4601-0779" pid="13/4682-16">Ping Zhang 0016</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Large-scale structural and textual similarity-based mining of knowledge graph to predict drug-drug interactions.</title>
+<pages>104-117</pages>
+<year>2017</year>
+<volume>44</volume>
+<journal>J. Web Semant.</journal>
+<ee>https://doi.org/10.1016/j.websem.2017.06.002</ee>
+<url>db/journals/ws/ws44.html#AbdelazizFHZS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/Sadoghi17" mdate="2020-03-12">
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>ExpoDB: An Exploratory Data Science Platform.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_48.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#Sadoghi17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/Najafi0SJ17" mdate="2023-03-24">
+<author pid="123/8067">Mohammadreza Najafi</author>
+<author pid="12/4550-1">Kaiwen Zhang 0001</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>Hardware Acceleration Landscape for Distributed Real-Time Analytics: Virtues and Limitations.</title>
+<pages>1938-1948</pages>
+<year>2017</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS.2017.194</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDCS.2017.194</ee>
+<crossref>conf/icdcs/2017</crossref>
+<url>db/conf/icdcs/icdcs2017.html#Najafi0SJ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/0001MSJ17" mdate="2023-03-24">
+<author pid="12/4550-1">Kaiwen Zhang 0001</author>
+<author pid="31/4489">Vinod Muthusamy</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>Subscription Covering for Relevance-Based Filtering in Content-Based Publish/Subscribe Systems.</title>
+<pages>2039-2044</pages>
+<year>2017</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS.2017.184</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDCS.2017.184</ee>
+<crossref>conf/icdcs/2017</crossref>
+<url>db/conf/icdcs/icdcs2017.html#0001MSJ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/0001SMJ17" mdate="2021-07-25">
+<author pid="12/4550-1">Kaiwen Zhang 0001</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="31/4489">Vinod Muthusamy</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>Efficient covering for top-k filtering in content-based publish/subscribe systems.</title>
+<pages>174-184</pages>
+<year>2017</year>
+<booktitle>Middleware</booktitle>
+<ee>https://doi.org/10.1145/3135974.3135976</ee>
+<crossref>conf/middleware/2017</crossref>
+<url>db/conf/middleware/middleware2017.html#0001SMJ17</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/middleware/2017active" mdate="2022-03-21">
+<editor orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</editor>
+<editor pid="p/IliaPetrov">Ilia Petrov 0001</editor>
+<title>Proceedings of the Second International Workshop on Active Middleware on Modern Hardware, ACTIVE@Middleware 2017, Las Vegas, NV, USA, December 11-15, 2017</title>
+<booktitle>ACTIVE@Middleware</booktitle>
+<publisher>ACM</publisher>
+<year>2017</year>
+<isbn>978-1-4503-5167-6</isbn>
+<ee>https://doi.org/10.1145/3155889</ee>
+<url>db/conf/middleware/active2017.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-06715" mdate="2018-08-13">
+<author pid="166/8411">Mohamed S. Hassan</author>
+<author pid="206/6271">Tatiana Kuznetsova</author>
+<author pid="206/7386">Hyun Chai Jeong</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>Empowering In-Memory Relational Database Engines with Native Graph Processing.</title>
+<year>2017</year>
+<volume>abs/1709.06715</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.06715</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-06715</url>
+</article>
+</r>
+<r><article key="journals/vldb/SadoghiRCB16" mdate="2021-07-25">
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="71/6902">Mustafa Canim</author>
+<author pid="19/2910">Bishwaranjan Bhattacharjee</author>
+<title>Exploiting SSDs in operational multiversion databases.</title>
+<pages>651-672</pages>
+<year>2016</year>
+<volume>25</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-015-0410-5</ee>
+<url>db/journals/vldb/vldb25.html#SadoghiRCB16</url>
+</article>
+</r>
+<r><inproceedings key="conf/amia/FokoueHSZ16" mdate="2024-04-17">
+<author pid="13/2150">Achille Fokoue</author>
+<author pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="13/4682-16">Ping Zhang 0016</author>
+<title>Tiresias: Knowledge Engineering and Large-Scale Machine Learning for Interpretable Drug-Drug Interaction Prediction.</title>
+<year>2016</year>
+<booktitle>AMIA</booktitle>
+<ee type="archive">https://knowledge.amia.org/amia-63300-1.3360278/t008-1.3362585/f008-1.3362586/2500162-1.3362649/2497420-1.3362644</ee>
+<crossref>conf/amia/2016</crossref>
+<url>db/conf/amia/amia2016.html#FokoueHSZ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/amia/FokoueZHS16" mdate="2024-04-17">
+<author pid="13/2150">Achille Fokoue</author>
+<author pid="13/4682-16">Ping Zhang 0016</author>
+<author pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Towards Large-Scale Predictive Drug Safety: A Computational Framework for Inferring Drug Interactions Through Similarity-Based Link Prediction.</title>
+<year>2016</year>
+<booktitle>AMIA</booktitle>
+<ee type="archive">https://knowledge.amia.org/amia-63300-1.3360278/t005-1.3362920/f005-1.3362921/2496242-1.3364150/2495548-1.3364145</ee>
+<crossref>conf/amia/2016</crossref>
+<url>db/conf/amia/amia2016.html#FokoueZHS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coling/NguyenFRHGS16" mdate="2021-08-06">
+<author pid="17/9407">Thien Huu Nguyen</author>
+<author pid="191/6016">Nicolas R. Fauceglia</author>
+<author pid="24/5659">Mariano Rodriguez-Muro</author>
+<author pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="57/2387">Alfio Massimiliano Gliozzo</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Joint Learning of Local and Global Features for Entity Linking via Neural Networks.</title>
+<pages>2310-2320</pages>
+<year>2016</year>
+<booktitle>COLING</booktitle>
+<ee type="oa">https://aclanthology.org/C16-1218/</ee>
+<crossref>conf/coling/2016</crossref>
+<url>db/conf/coling/coling2016.html#NguyenFRHGS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/SadoghiSHCCFF16" mdate="2021-07-25">
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="39/4444">Kavitha Srinivas</author>
+<author orcid="0000-0001-5307-9857" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="14/2029">Yuan-Chi Chang</author>
+<author pid="71/6902">Mustafa Canim</author>
+<author pid="13/2150">Achille Fokoue</author>
+<author pid="21/5714">Yishai A. Feldman</author>
+<title>Self-Curating Databases.</title>
+<pages>467-472</pages>
+<year>2016</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2016.43</ee>
+<crossref>conf/edbt/2016</crossref>
+<url>db/conf/edbt/edbt2016.html#SadoghiSHCCFF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esws/FokoueSHZ16" mdate="2021-04-09">
+<author pid="13/2150">Achille Fokoue</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<author orcid="0000-0001-5307-9857" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author orcid="0000-0002-4601-0779" pid="13/4682-16">Ping Zhang 0016</author>
+<title>Predicting Drug-Drug Interactions Through Large-Scale Similarity-Based Link Prediction.</title>
+<pages>774-789</pages>
+<year>2016</year>
+<booktitle>ESWC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-34129-3_47</ee>
+<crossref>conf/esws/2016</crossref>
+<url>db/conf/esws/eswc2016.html#FokoueSHZ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/0001SJ16" mdate="2023-03-24">
+<author pid="12/4550-1">Kaiwen Zhang 0001</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>DL-Store: A Distributed Hybrid OLTP and OLAP Data Processing Engine.</title>
+<pages>769-770</pages>
+<year>2016</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS.2016.71</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDCS.2016.71</ee>
+<crossref>conf/icdcs/2016</crossref>
+<url>db/conf/icdcs/icdcs2016.html#0001SJ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BordawekarS16" mdate="2023-03-24">
+<author pid="28/6851">Rajesh R. Bordawekar</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Accelerating database workloads by software-hardware-system co-design.</title>
+<pages>1428-1431</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498362</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498362</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#BordawekarS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/JerglerJSHV16" mdate="2023-03-24">
+<author pid="124/2962">Martin Jergler</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="h/RichardHull">Richard Hull 0001</author>
+<author pid="47/4468">Roman Vacul&#237;n</author>
+<title>Safe distribution and parallel execution of data-centric workflows over the publish/subscribe abstraction.</title>
+<pages>1498-1499</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498393</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498393</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#JerglerJSHV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/HemmatpourMRS16" mdate="2022-01-03">
+<author orcid="0000-0002-8505-239X" pid="192/7510">Masoud Hemmatpour</author>
+<author pid="45/4978">Bartolomeo Montrucchio</author>
+<author pid="35/3262">Maurizio Rebaudengo</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Kanzi: A Distributed, In-memory Key-Value Store.</title>
+<pages>3-4</pages>
+<year>2016</year>
+<booktitle>Middleware Posters and Demos</booktitle>
+<ee>https://doi.org/10.1145/3007592.3007594</ee>
+<crossref>conf/middleware/2016pd</crossref>
+<url>db/conf/middleware/middleware2016pd.html#HemmatpourMRS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/JerglerSJ16" mdate="2021-07-25">
+<author pid="124/2962">Martin Jergler</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>Geo-Distribution of Flexible Business Processes over Publish/Subscribe Paradigm.</title>
+<pages>15</pages>
+<year>2016</year>
+<booktitle>Middleware</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2988351</ee>
+<crossref>conf/middleware/2016</crossref>
+<url>db/conf/middleware/middleware2016.html#JerglerSJ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/EfthymiouHSR16" mdate="2023-03-10">
+<author pid="87/11444">Vasilis Efthymiou</author>
+<author pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<author pid="24/5659">Mariano Rodriguez-Muro</author>
+<title>Annotating web tables through ontology matching.</title>
+<pages>229-230</pages>
+<year>2016</year>
+<booktitle>OM@ISWC</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1766/om2016_poster2.pdf</ee>
+<crossref>conf/semweb/2016om</crossref>
+<url>db/conf/semweb/om2016.html#EfthymiouHSR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/NajafiSJ16" mdate="2021-07-25">
+<author pid="123/8067">Mohammadreza Najafi</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>SplitJoin: A Scalable, Low-latency Stream Join Architecture with Adjustable Ordering Precision.</title>
+<pages>493-505</pages>
+<year>2016</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/atc16/technical-sessions/presentation/najafi</ee>
+<crossref>conf/usenix/2016</crossref>
+<url>db/conf/usenix/usenix2016.html#NajafiSJ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/FokoueHSZ16" mdate="2021-07-25">
+<author pid="13/2150">Achille Fokoue</author>
+<author pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="13/4682-16">Ping Zhang 0016</author>
+<title>Predicting Drug-Drug Interactions Through Similarity-Based Link Prediction Over Web Data.</title>
+<pages>175-178</pages>
+<year>2016</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2872518.2890532</ee>
+<crossref>conf/www/2016c</crossref>
+<url>db/conf/www/www2016c.html#FokoueHSZ16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/SadoghiBBC16" mdate="2018-08-13">
+<author pid="56/7016">Mohammad Sadoghi</author>
+<author pid="27/7987">Souvik Bhattacherjee</author>
+<author pid="19/2910">Bishwaranjan Bhattacharjee</author>
+<author pid="71/6902">Mustafa Canim</author>
+<title>L-Store: A Real-time OLTP and OLAP System.</title>
+<year>2016</year>
+<volume>abs/1601.04084</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1601.04084</ee>
+<url>db/journals/corr/corr1601.html#SadoghiBBC16</url>
+</article>
+</r>
+<r><article key="journals/sigmod/NajafiSJ15" mdate="2021-07-25">
+<author pid="123/8067">Mohammadreza Najafi</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>The FQP Vision: Flexible Query Processing on a Reconfigurable Computing Fabric.</title>
+<pages>5-10</pages>
+<year>2015</year>
+<volume>44</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2814710.2814712</ee>
+<url>db/journals/sigmod/sigmod44.html#NajafiSJ15</url>
+</article>
+</r>
+<r><article key="journals/tkde/SadoghiJJHV15" mdate="2021-07-25">
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="124/2962">Martin Jergler</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<author pid="h/RichardHull">Richard Hull 0001</author>
+<author pid="47/4468">Roman Vacul&#237;n</author>
+<title>Safe Distribution and Parallel Execution of Data-Centric Workflows over the Publish/Subscribe Abstraction.</title>
+<pages>2824-2838</pages>
+<year>2015</year>
+<volume>27</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TKDE.2015.2421331</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2015.2421331</ee>
+<url>db/journals/tkde/tkde27.html#SadoghiJJHV15</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/NajafiSJ15" mdate="2023-03-24">
+<author pid="123/8067">Mohammadreza Najafi</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>Configurable hardware-based streaming architecture using Online Programmable-Blocks.</title>
+<pages>819-830</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113336</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113336</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#NajafiSJ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/JerglerSJ15" mdate="2021-07-25">
+<author pid="124/2962">Martin Jergler</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>D2WORM: A Management Infrastructure for Distributed Data-centric Workflows.</title>
+<pages>1427-1432</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2735362</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#JerglerSJ15</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ca/Hamedani14" mdate="2022-10-02">
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>An Efficient, Extensible, Hardware-aware Indexing Kernel.</title>
+<school>University of Toronto, Canada</school>
+<year>2014</year>
+<ee>http://hdl.handle.net/1807/65515</ee>
+</phdthesis>
+</r>
+<r><article key="journals/pvldb/SadoghiCBNR14" mdate="2021-07-25">
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="71/6902">Mustafa Canim</author>
+<author pid="19/2910">Bishwaranjan Bhattacharjee</author>
+<author pid="131/4779">Fabian Nagel</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Reducing Database Locking Contention Through Multi-version Concurrency.</title>
+<pages>1331-1342</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p1331-sadoghi.pdf</ee>
+<ee>https://doi.org/10.14778/2733004.2733006</ee>
+<url>db/journals/pvldb/pvldb7.html#SadoghiCBNR14</url>
+</article>
+</r>
+<r><inproceedings key="conf/cascon/MenonRSJ14" mdate="2021-07-25">
+<author pid="145/6329">Prashanth Menon</author>
+<author pid="10/760">Tilmann Rabl</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>Optimizing key-value stores for hybrid storage architectures.</title>
+<pages>355-358</pages>
+<year>2014</year>
+<booktitle>CASCON</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2735582</ee>
+<crossref>conf/cascon/2014</crossref>
+<url>db/conf/cascon/cascon2014.html#MenonRSJ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SadoghiJ14" mdate="2023-03-24">
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>Adaptive parallel compressed event matching.</title>
+<pages>364-375</pages>
+<year>2014</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2014.6816665</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2014.6816665</ee>
+<crossref>conf/icde/2014</crossref>
+<url>db/conf/icde/icde2014.html#SadoghiJ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/MenonRSJ14" mdate="2023-03-23">
+<author pid="145/6329">Prashanth Menon</author>
+<author pid="10/760">Tilmann Rabl</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>CaSSanDra: An SSD boosted key-value store.</title>
+<pages>1162-1167</pages>
+<year>2014</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2014.6816732</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2014.6816732</ee>
+<crossref>conf/icde/2014</crossref>
+<url>db/conf/icde/icde2014.html#MenonRSJ14</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/YuanL013a" mdate="2021-07-25">
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="71/6902">Mustafa Canim</author>
+<author pid="19/2910">Bishwaranjan Bhattacharjee</author>
+<title>Making Updates Disk-I/O Friendly Using SSDs.</title>
+<pages>997-1008</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p997-sadoghi.pdf</ee>
+<ee>https://doi.org/10.14778/2536222.2536226</ee>
+<url>db/journals/pvldb/pvldb6.html#YuanL013a</url>
+</article>
+</r>
+<r><article key="journals/pvldb/NajafiSJ13" mdate="2021-07-25">
+<author pid="123/8067">Mohammedreza Najafi</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>Flexible Query Processor on FPGAs.</title>
+<pages>1310-1313</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p1310-sadoghi.pdf</ee>
+<ee>https://doi.org/10.14778/2536274.2536303</ee>
+<url>db/journals/pvldb/pvldb6.html#NajafiSJ13</url>
+</article>
+</r>
+<r><article key="journals/tods/SadoghiJ13" mdate="2022-06-10">
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>Analysis and optimization for boolean expression indexing.</title>
+<pages>8</pages>
+<year>2013</year>
+<volume>38</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2487259.2487260</ee>
+<url>db/journals/tods/tods38.html#SadoghiJ13</url>
+</article>
+</r>
+<r><inproceedings key="conf/debs/JacobsenMRSKYZ13" mdate="2021-07-25">
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<author pid="73/1026">Kianoosh Mokhtarian</author>
+<author pid="10/760">Tilmann Rabl</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="02/201">Reza Sherafat Kazemzadeh</author>
+<author pid="27/3928">Young Yoon</author>
+<author pid="12/4550-1">Kaiwen Zhang 0001</author>
+<title>Grand challenge: the bluebay soccer monitoring engine.</title>
+<pages>295-300</pages>
+<year>2013</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/2488222.2488278</ee>
+<crossref>conf/debs/2013</crossref>
+<url>db/conf/debs/debs2013.html#JacobsenMRSKYZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/RablSZJ13" mdate="2021-07-25">
+<author pid="10/760">Tilmann Rabl</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="12/4550-1">Kaiwen Zhang 0001</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>Poster: MADES - a multi-layered, adaptive, distributed event store.</title>
+<pages>343-344</pages>
+<year>2013</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/2488222.2489274</ee>
+<crossref>conf/debs/2013</crossref>
+<url>db/conf/debs/debs2013.html#RablSZJ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/ZhangSMJ13" mdate="2023-03-24">
+<author pid="12/4550-1">Kaiwen Zhang 0001</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="31/4489">Vinod Muthusamy</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>Distributed Ranked Data Dissemination in Social Networks.</title>
+<pages>369-379</pages>
+<year>2013</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS.2013.19</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDCS.2013.19</ee>
+<crossref>conf/icdcs/2013</crossref>
+<url>db/conf/icdcs/icdcs2013.html#ZhangSMJ13</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/RablSJGMM12" mdate="2022-10-02">
+<author pid="10/760">Tilmann Rabl</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<author pid="55/5058">Sergio G&#243;mez-Villamor</author>
+<author orcid="0000-0002-6693-2295" pid="79/488">Victor Munt&#233;s-Mulero</author>
+<author pid="117/6026">Serge Mankowskii</author>
+<title>Solving Big Data Challenges for Enterprise Application Performance Management.</title>
+<pages>1724-1735</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p1724_tilmannrabl_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2367502.2367512</ee>
+<url>db/journals/pvldb/pvldb5.html#RablSJGMM12</url>
+</article>
+</r>
+<r><inproceedings key="conf/debs/RablZSPNWJ12" mdate="2021-07-25">
+<author pid="10/760">Tilmann Rabl</author>
+<author pid="12/4550-1">Kaiwen Zhang 0001</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="51/94">Navneet Kumar Pandey</author>
+<author pid="117/2780">Aakash Nigam</author>
+<author pid="82/4206">Chen Wang</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>Solving manufacturing equipment monitoring through efficient complex event processing: DEBS grand challenge.</title>
+<pages>335-340</pages>
+<year>2012</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/2335484.2335520</ee>
+<crossref>conf/debs/2012</crossref>
+<url>db/conf/debs/debs2012.html#RablZSPNWJ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SadoghiJ12" mdate="2023-03-24">
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>Relevance Matters: Capitalizing on Less (Top-k Matching in Publish/Subscribe).</title>
+<pages>786-797</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.38</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2012.38</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#SadoghiJ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SadoghiJTSPJ12" mdate="2023-03-23">
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="116/5282">Rija Javed</author>
+<author pid="116/5114">Naif Tarafdar</author>
+<author pid="34/8510">Harsh Singh</author>
+<author pid="116/5174">Rohan Palaniappan</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>Multi-query Stream Processing on FPGAs.</title>
+<pages>1229-1232</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.39</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2012.39</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#SadoghiJTSPJ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Sadoghi12" mdate="2021-07-25">
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Towards an extensible efficient event processing kernel.</title>
+<pages>3-8</pages>
+<year>2012</year>
+<booktitle>SIGMOD/PODS PhD Symposium</booktitle>
+<ee>https://doi.org/10.1145/2213598.2213602</ee>
+<crossref>conf/sigmod/2012phd</crossref>
+<url>db/conf/sigmod/phd2012.html#Sadoghi12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1208-4167" mdate="2018-08-13">
+<author pid="10/760">Tilmann Rabl</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<author pid="55/5058">Sergio G&#243;mez-Villamor</author>
+<author pid="79/488">Victor Munt&#233;s-Mulero</author>
+<author pid="117/6026">Serge Mankowskii</author>
+<title>Solving Big Data Challenges for Enterprise Application Performance Management</title>
+<ee type="oa">http://arxiv.org/abs/1208.4167</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1208.4167</volume>
+<url>db/journals/corr/corr1208.html#abs-1208-4167</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/SadoghiSJ11" mdate="2021-07-25">
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="34/8510">Harsh Singh</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>Towards highly parallel event processing through reconfigurable hardware.</title>
+<pages>27-32</pages>
+<year>2011</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/1995441.1995445</ee>
+<crossref>conf/damon/2011</crossref>
+<url>db/conf/damon/damon2011.html#SadoghiSJ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/FarroukhSJ11" mdate="2021-07-25">
+<author pid="73/7528">Amer Farroukh</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>Towards vulnerability-based intrusion detection with event processing.</title>
+<pages>171-182</pages>
+<year>2011</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/2002259.2002284</ee>
+<crossref>conf/debs/2011</crossref>
+<url>db/conf/debs/debs2011.html#FarroukhSJ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/SadoghiSJ11" mdate="2021-07-25">
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="34/8510">Harsh Singh</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>fpga-ToPSS: line-speed event processing on fpgas.</title>
+<pages>373-374</pages>
+<year>2011</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/2002259.2002316</ee>
+<crossref>conf/debs/2011</crossref>
+<url>db/conf/debs/debs2011.html#SadoghiSJ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/MuthusamyYSJ11" mdate="2021-07-25">
+<author pid="31/4489">Vinod Muthusamy</author>
+<author pid="27/3928">Young Yoon</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>eQoSystem: supporting fluid distributed service-oriented workflows.</title>
+<pages>381-382</pages>
+<year>2011</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/2002259.2002320</ee>
+<crossref>conf/debs/2011</crossref>
+<url>db/conf/debs/debs2011.html#MuthusamyYSJ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/SadoghiBJ11" mdate="2021-07-25">
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="22/2832">Ioana Burcea</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>GPX-matcher: a generic boolean predicate-based XPath expression matcher.</title>
+<pages>45-56</pages>
+<year>2011</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1951365.1951374</ee>
+<crossref>conf/edbt/2011</crossref>
+<url>db/conf/edbt/edbt2011.html#SadoghiBJ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SadoghiJ11" mdate="2021-07-25">
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>BE-tree: an index structure to efficiently match boolean expressions over high-dimensional discrete space.</title>
+<pages>637-648</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989390</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#SadoghiJ11</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/SadoghiJLSS10" mdate="2021-07-25">
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<author pid="94/4954">Martin Labrecque</author>
+<author pid="12/7113">Warren Shum</author>
+<author pid="34/8510">Harsh Singh</author>
+<title>Efficient Event Processing through Reconfigurable Hardware for Algorithmic Trading.</title>
+<pages>1525-1528</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/D03.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1921029</ee>
+<url>db/journals/pvldb/pvldb3.html#SadoghiJLSS10</url>
+</article>
+</r>
+<r><inproceedings key="conf/iqis/HassanzadehSM07" mdate="2008-01-07">
+<author pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<title>Accuracy of Approximate String Joins Using Grams.</title>
+<pages>11-18</pages>
+<year>2007</year>
+<crossref>conf/iqis/2007</crossref>
+<booktitle>QDB</booktitle>
+<url>db/conf/iqis/qdb2007.html#HassanzadehSM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChandelHKSS07" mdate="2021-07-25">
+<author pid="05/2247">Amit Chandel</author>
+<author orcid="0000-0001-5307-9857" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="k/NickKoudas">Nick Koudas</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Benchmarking declarative approximate selection predicates.</title>
+<pages>353-364</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247521</ee>
+<ee>https://www.wikidata.org/entity/Q57019412</ee>
+<url>db/conf/sigmod/sigmod2007.html#ChandelHKSS07</url>
+</inproceedings>
+</r>
+<coauthors n="107" nc="3">
+<co c="0"><na f="a/Abbadi:Amr_El" pid="a/AmrElAbbadi">Amr El Abbadi</na></co>
+<co c="0"><na f="a/Abdelaziz:Ibrahim" pid="153/1958">Ibrahim Abdelaziz</na></co>
+<co c="0"><na f="a/Abdelhamid:Ehab" pid="58/7989">Ehab Abdelhamid</na></co>
+<co c="0"><na f="a/Agrawal:Divyakant" pid="a/DivyakantAgrawal">Divyakant Agrawal</na></co>
+<co c="1"><na f="a/Al=Mamun_0001:Abdullah" pid="230/9014-1">Abdullah Al-Mamun 0001</na></co>
+<co c="0"><na f="a/Amiri:Mohammad_Javad" pid="183/8663">Mohammad Javad Amiri</na></co>
+<co c="0"><na f="a/Ann=Elvy:Stacy" pid="354/8424">Stacy Ann-Elvy</na></co>
+<co c="0"><na f="a/Aref:Walid_G=" pid="a/WGAref">Walid G. Aref</na></co>
+<co c="0"><na f="a/Artikis:Alexander" pid="a/AArtikis">Alexander Artikis</na></co>
+<co c="0"><na f="b/Bhattacharjee:Bishwaranjan" pid="19/2910">Bishwaranjan Bhattacharjee</na></co>
+<co c="0"><na f="b/Bhattacherjee:Souvik" pid="27/7987">Souvik Bhattacherjee</na></co>
+<co c="0"><na f="b/Blanas:Spyros" pid="65/5338">Spyros Blanas</na></co>
+<co c="0" n="2"><na f="b/Bordawekar:Rajesh" pid="28/6851">Rajesh Bordawekar</na><na>Rajesh R. Bordawekar</na></co>
+<co c="0"><na f="b/Burcea:Ioana" pid="22/2832">Ioana Burcea</na></co>
+<co c="0"><na f="c/Canim:Mustafa" pid="71/6902">Mustafa Canim</na></co>
+<co c="0"><na f="c/Chakraborty:Vishal" pid="202/0959">Vishal Chakraborty</na></co>
+<co c="0"><na f="c/Chandel:Amit" pid="05/2247">Amit Chandel</na></co>
+<co c="0"><na f="c/Chang:Yuan=Chi" pid="14/2029">Yuan-Chi Chang</na></co>
+<co c="0"><na f="c/Chen_0003:Junchao" pid="39/9851-3">Junchao Chen 0003</na></co>
+<co c="0"><na f="c/Chen:Shimin" pid="c/ShiminChen">Shimin Chen</na></co>
+<co c="0"><na f="c/Chrysanthis:Panos_K=" pid="c/PKChrysanthis">Panos K. Chrysanthis</na></co>
+<co c="0"><na f="c/Crooks:Natacha" pid="161/0113">Natacha Crooks</na></co>
+<co c="0"><na f="d/Daudjee:Khuzaima" pid="d/KhuzaimaDaudjee">Khuzaima Daudjee</na></co>
+<co c="0"><na f="d/Diaz:Gonzalo_I=" pid="133/8305">Gonzalo I. Diaz</na></co>
+<co c="0"><na f="e/Efthymiou:Vasilis" pid="87/11444">Vasilis Efthymiou</na></co>
+<co c="0"><na f="f/Farroukh:Amer" pid="73/7528">Amer Farroukh</na></co>
+<co c="0"><na f="f/Fauceglia:Nicolas_R=" pid="191/6016">Nicolas R. Fauceglia</na></co>
+<co c="0"><na f="f/Feldman:Yishai_A=" pid="21/5714">Yishai A. Feldman</na></co>
+<co c="0"><na f="f/Fokoue:Achille" pid="13/2150">Achille Fokoue</na></co>
+<co c="-1"><na f="g/Giceva:Jana" pid="32/7263">Jana Giceva</na></co>
+<co c="0"><na f="g/Gliozzo:Alfio_Massimiliano" pid="57/2387">Alfio Massimiliano Gliozzo</na></co>
+<co c="0"><na f="g/Golab:Lukasz" pid="42/3296">Lukasz Golab</na></co>
+<co c="0"><na f="g/G=oacute=mez=Villamor:Sergio" pid="55/5058">Sergio G&#243;mez-Villamor</na></co>
+<co c="-1"><na f="g/Gramoli:Vincent" pid="11/171">Vincent Gramoli</na></co>
+<co c="0"><na f="g/Gupta:Suyash" pid="136/5662">Suyash Gupta</na></co>
+<co c="0"><na f="h/Hassan:Mohamed_S=" pid="166/8411">Mohamed S. Hassan</na></co>
+<co c="0"><na f="h/Hassanzadeh:Oktie" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</na></co>
+<co c="0"><na f="h/Hellings:Jelle" pid="05/10671">Jelle Hellings</na></co>
+<co c="2"><na f="h/Hemmatpour:Masoud" pid="192/7510">Masoud Hemmatpour</na></co>
+<co c="0"><na f="h/Hsu:Meichun" pid="40/4895">Meichun Hsu</na></co>
+<co c="1"><na f="h/Hu:Rui" pid="08/3712">Rui Hu</na></co>
+<co c="0"><na f="h/Hughes:Daniel_P=" pid="272/4191">Daniel P. Hughes</na></co>
+<co c="0"><na f="h/Hull_0001:Richard" pid="h/RichardHull">Richard Hull 0001</na></co>
+<co c="0"><na f="j/Jacobsen:Hans=Arno" pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</na></co>
+<co c="0"><na f="j/Javed:Rija" pid="116/5282">Rija Javed</na></co>
+<co c="0"><na f="j/Jeong:Hyun_Chai" pid="206/7386">Hyun Chai Jeong</na></co>
+<co c="0"><na f="j/Jergler:Martin" pid="124/2962">Martin Jergler</na></co>
+<co c="0"><na f="k/Kalnis:Panos" pid="97/3036">Panos Kalnis</na></co>
+<co c="0"><na f="k/Kang:Dakai" pid="339/7333">Dakai Kang</na></co>
+<co c="0"><na f="k/Kazemzadeh:Reza_Sherafat" pid="02/201">Reza Sherafat Kazemzadeh</na></co>
+<co c="1"><na f="k/Khan:Muhammad_Jahanzeb" pid="258/7304">Muhammad Jahanzeb Khan</na></co>
+<co c="0" n="2"><na f="k/Kokoris=Kogias:Eleftherios" pid="176/5301">Eleftherios Kokoris-Kogias</na><na>Lefteris Kokoris-Kogias</na></co>
+<co c="0"><na f="k/Koudas:Nick" pid="k/NickKoudas">Nick Koudas</na></co>
+<co c="0"><na f="k/Krishnan:Dhruv" pid="298/2062">Dhruv Krishnan</na></co>
+<co c="0"><na f="k/Kuznetsova:Tatiana" pid="206/6271">Tatiana Kuznetsova</na></co>
+<co c="0"><na f="l/Labrecque:Martin" pid="94/4954">Martin Labrecque</na></co>
+<co c="1"><na f="l/Li:Tonglin" pid="58/11205">Tonglin Li</na></co>
+<co c="0"><na f="l/Linsenmayer:Erik" pid="310/1479">Erik Linsenmayer</na></co>
+<co c="0"><na f="l/Loo:Boon_Thau" pid="75/3108">Boon Thau Loo</na></co>
+<co c="0"><na f="m/Mankowskii:Serge" pid="117/6026">Serge Mankowskii</na></co>
+<co c="0"><na f="m/Mehrotra:Sharad" pid="m/SharadMehrotra">Sharad Mehrotra</na></co>
+<co c="0"><na f="m/Menon:Prashanth" pid="145/6329">Prashanth Menon</na></co>
+<co c="0"><na f="m/Miller:Ren=eacute=e_J=" pid="m/RJMiller">Ren&#233;e J. Miller</na></co>
+<co c="0"><na f="m/Mokhtarian:Kianoosh" pid="73/1026">Kianoosh Mokhtarian</na></co>
+<co c="2"><na f="m/Montrucchio:Bartolomeo" pid="45/4978">Bartolomeo Montrucchio</na></co>
+<co c="0"><na f="m/Munt=eacute=s=Mulero:Victor" pid="79/488">Victor Munt&#233;s-Mulero</na></co>
+<co c="0"><na f="m/Muthusamy:Vinod" pid="31/4489">Vinod Muthusamy</na></co>
+<co c="0"><na f="n/Nagel:Fabian" pid="131/4779">Fabian Nagel</na></co>
+<co c="0" n="2"><na f="n/Najafi:Mohammadreza" pid="123/8067">Mohammadreza Najafi</na><na>Mohammedreza Najafi</na></co>
+<co c="0"><na f="n/Nawab:Faisal" pid="55/11299">Faisal Nawab</na></co>
+<co c="0"><na f="n/Nguyen:Thien_Huu" pid="17/9407">Thien Huu Nguyen</na></co>
+<co c="0"><na f="n/Nigam:Aakash" pid="117/2780">Aakash Nigam</na></co>
+<co c="0"><na f="p/Palaniappan:Rohan" pid="116/5174">Rohan Palaniappan</na></co>
+<co c="0"><na f="p/Pandey:Navneet_Kumar" pid="51/94">Navneet Kumar Pandey</na></co>
+<co c="0"><na f="p/Pandey:Shubham" pid="271/5421">Shubham Pandey</na></co>
+<co c="-1"><na f="p/Petrov_0001:Ilia" pid="p/IliaPetrov">Ilia Petrov 0001</na></co>
+<co c="0"><na f="p/Primero:Joshua" pid="272/4407">Joshua Primero</na></co>
+<co c="0" n="2"><na f="q/Qadah:Thamir" pid="166/8355">Thamir Qadah</na><na>Thamir M. Qadah</na></co>
+<co c="0"><na f="r/Rabl:Tilmann" pid="10/760">Tilmann Rabl</na></co>
+<co c="0"><na f="r/Rahnama:Sajjad" pid="252/5735">Sajjad Rahnama</na></co>
+<co c="2"><na f="r/Rebaudengo:Maurizio" pid="35/3262">Maurizio Rebaudengo</na></co>
+<co c="0"><na f="r/Rodriguez=Muro:Mariano" pid="24/5659">Mariano Rodriguez-Muro</na></co>
+<co c="0"><na f="r/Ross:Kenneth_A=" pid="r/KARoss">Kenneth A. Ross</na></co>
+<co c="0"><na f="s/Saeed:Farhan" pid="338/4633">Farhan Saeed</na></co>
+<co c="0"><na f="s/Sharma_0001:Shantanu" pid="83/2389-1">Shantanu Sharma 0001</na></co>
+<co c="0"><na f="s/Shum:Warren" pid="12/7113">Warren Shum</na></co>
+<co c="0"><na f="s/Singh:Abhishek_A=" pid="252/6285">Abhishek A. Singh</na></co>
+<co c="0"><na f="s/Singh:Harsh" pid="34/8510">Harsh Singh</na></co>
+<co c="0"><na f="s/Sogani:Rohan" pid="298/1687">Rohan Sogani</na></co>
+<co c="0"><na f="s/Sonnino:Alberto" pid="170/4315">Alberto Sonnino</na></co>
+<co c="0"><na f="s/Srinivas:Kavitha" pid="39/4444">Kavitha Srinivas</na></co>
+<co c="0"><na f="s/Srivastava:Divesh" pid="s/DiveshSrivastava">Divesh Srivastava</na></co>
+<co c="0"><na f="t/Tabatabaei:Mohammad_Hossein" pid="231/5191">Mohammad Hossein Tabatabaei</na></co>
+<co c="0"><na f="t/Tarafdar:Naif" pid="116/5114">Naif Tarafdar</na></co>
+<co c="0"><na f="t/Tatbul:Nesime" pid="t/NesimeTatbul">Nesime Tatbul</na></co>
+<co c="0"><na f="v/Vacul=iacute=n:Roman" pid="47/4468">Roman Vacul&#237;n</na></co>
+<co c="0"><na f="v/Venkatasubramanian:Nalini" pid="66/1875">Nalini Venkatasubramanian</na></co>
+<co c="0"><na f="v/Vitenberg:Roman" pid="47/6742">Roman Vitenberg</na></co>
+<co c="0"><na f="w/Wang:Chen" pid="82/4206">Chen Wang</na></co>
+<co c="1"><na f="w/Wang_0001:Xinying" pid="06/3244-1">Xinying Wang 0001</na></co>
+<co c="0"><na f="w/Wu:Chenyuan" pid="261/2045">Chenyuan Wu</na></co>
+<co c="1"><na f="y/Yan_0001:Feng" pid="62/3960-1">Feng Yan 0001</na></co>
+<co c="0"><na f="y/Yoon:Young" pid="27/3928">Young Yoon</na></co>
+<co c="0"><na f="z/Zhang_0001:Kaiwen" pid="12/4550-1">Kaiwen Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang_0016:Ping" pid="13/4682-16">Ping Zhang 0016</na></co>
+<co c="1"><na f="z/Zhao_0001:Dongfang" pid="25/5030-1">Dongfang Zhao 0001</na></co>
+<co c="0"><na f="z/Zhou:Yinan" pid="64/473">Yinan Zhou</na></co>
+</coauthors>
+</dblpperson>

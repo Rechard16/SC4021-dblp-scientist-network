@@ -1,0 +1,694 @@
+<dblpperson name="Sudip Roy 0002" pid="44/4775-2" n="32">
+<person key="homepages/44/4775-2" mdate="2023-01-13">
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<note type="affiliation">Google</note>
+<note type="affiliation">Cornell University</note>
+<url>http://www.cs.cornell.edu/~sudip/</url>
+<url>https://orcid.org/0000-0002-0535-0531</url>
+</person>
+<homonyms n="5">
+<h f="r/Roy:Sudip"><name>Sudip Roy</name>
+</h>
+<h f="r/Roy_0001:Sudip"><person key="homepages/44/4775" mdate="2023-09-11">
+<author pid="44/4775">Sudip Roy 0001</author>
+<note type="affiliation">CoDA Laboratory and CoEDMM, Indian Institute of Technology (IIT) Roorkee, Roorkee, India</note>
+<note type="affiliation" label="2014">National Cheng Kung University (NCKU), Tainan, Taiwan</note>
+<note type="affiliation" label="2005-2014">Indian Institute of Technology (IIT), Kharagpur, India</note>
+<url>https://sites.google.com/site/sudiproybkp/</url>
+<url>https://scholar.google.com/citations?user=Sl3l41YAAAAJ</url>
+<url>https://orcid.org/0000-0001-7873-3069</url>
+<url>https://www.scopus.com/authid/detail.uri?authorId=57204188574</url>
+</person>
+</h>
+<h f="r/Roy_0003:Sudip"><person key="homepages/322/4637" mdate="2022-06-22">
+<author pid="322/4637">Sudip Roy 0003</author>
+<note type="affiliation">Prescience Insilico Private Limited, Bangalore, India</note>
+</person>
+</h>
+<h f="r/Roy_0004:Sudip"><person key="homepages/280/3588" mdate="2020-12-14">
+<author pid="280/3588">Sudip Roy 0004</author>
+<note type="affiliation">Kalyani Government Engineering College, India</note>
+</person>
+</h>
+<h f="r/Roy_0005:Sudip"><person key="homepages/44/4775-5" mdate="2024-01-08">
+<author pid="44/4775-5">Sudip Roy 0005</author>
+<note type="affiliation">Indian Institute of Technology Roorkee, Uttarakhand, India</note>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/pacmpl/JinPR22" mdate="2022-12-05">
+<author orcid="0000-0001-6871-5764" pid="245/5611">Charles Jin</author>
+<author orcid="0000-0003-3492-3690" pid="127/3128">Phitchaya Mangpo Phothilimthana</author>
+<author orcid="0000-0002-0535-0531" pid="44/4775-2">Sudip Roy 0002</author>
+<title>Neural architecture search using property guided synthesis.</title>
+<pages>1150-1179</pages>
+<year>2022</year>
+<volume>6</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>OOPSLA2</number>
+<ee type="oa">https://doi.org/10.1145/3563329</ee>
+<url>db/journals/pacmpl/pacmpl6.html#JinPR22</url>
+</article>
+</r>
+<r><inproceedings key="conf/mlsys/0001CDGHHILP0SS22" mdate="2022-12-20">
+<author pid="b/PaulBarham">Paul Barham 0001</author>
+<author pid="41/7532">Aakanksha Chowdhery</author>
+<author pid="d/JeffreyDean">Jeff Dean</author>
+<author pid="g/SGhemawat">Sanjay Ghemawat</author>
+<author pid="69/6457">Steven Hand 0001</author>
+<author pid="199/2112">Dan Hurt</author>
+<author pid="17/5751">Michael Isard</author>
+<author pid="57/2227">Hyeontaek Lim</author>
+<author pid="32/2940">Ruoming Pang</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="192/4567">Brennan Saeta</author>
+<author pid="152/5872">Parker Schuh</author>
+<author pid="213/8227">Ryan Sepassi</author>
+<author pid="119/9566">Laurent El Shafey</author>
+<author pid="13/3927">Chandramohan A. Thekkath</author>
+<author pid="26/2189">Yonghui Wu</author>
+<title>Pathways: Asynchronous Distributed Dataflow for ML.</title>
+<year>2022</year>
+<booktitle>MLSys</booktitle>
+<ee>https://proceedings.mlsys.org/paper/2022/hash/98dce83da57b0395e163467c9dae521b-Abstract.html</ee>
+<crossref>conf/mlsys/2022</crossref>
+<url>db/conf/mlsys/mlsys2022.html#0001CDGHHILP0SS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mlsys/XiePBP0MBLZ22" mdate="2022-05-24">
+<author pid="145/6282">Xinfeng Xie</author>
+<author pid="32/5749">Prakash Prabhu</author>
+<author pid="146/4574">Ulysse Beaugnon</author>
+<author pid="127/3128">Phitchaya Mangpo Phothilimthana</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="18/8314">Azalia Mirhoseini</author>
+<author pid="34/8758">Eugene Brevdo</author>
+<author pid="65/336">James Laudon</author>
+<author pid="142/3202">Yanqi Zhou</author>
+<title>A Transferable Approach for Partitioning Machine Learning Models on Multi-Chip-Modules.</title>
+<year>2022</year>
+<booktitle>MLSys</booktitle>
+<ee>https://proceedings.mlsys.org/paper/2022/hash/7f1de29e6da19d22b51c68001e7e0e54-Abstract.html</ee>
+<crossref>conf/mlsys/2022</crossref>
+<url>db/conf/mlsys/mlsys2022.html#XiePBP0MBLZ22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-12533" mdate="2022-12-20">
+<author pid="b/PaulBarham">Paul Barham 0001</author>
+<author pid="41/7532">Aakanksha Chowdhery</author>
+<author pid="d/JeffreyDean">Jeff Dean</author>
+<author pid="g/SGhemawat">Sanjay Ghemawat</author>
+<author pid="69/6457">Steven Hand 0001</author>
+<author pid="199/2112">Dan Hurt</author>
+<author pid="17/5751">Michael Isard</author>
+<author pid="57/2227">Hyeontaek Lim</author>
+<author pid="32/2940">Ruoming Pang</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="192/4567">Brennan Saeta</author>
+<author pid="152/5872">Parker Schuh</author>
+<author pid="213/8227">Ryan Sepassi</author>
+<author pid="119/9566">Laurent El Shafey</author>
+<author pid="13/3927">Chandramohan A. Thekkath</author>
+<author pid="26/2189">Yonghui Wu</author>
+<title>Pathways: Asynchronous Distributed Dataflow for ML.</title>
+<year>2022</year>
+<volume>abs/2203.12533</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.12533</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-12533</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-03960" mdate="2022-05-11">
+<author pid="245/5611">Charles Jin</author>
+<author pid="127/3128">Phitchaya Mangpo Phothilimthana</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<title>&#945;NAS: Neural Architecture Search using Property Guided Synthesis.</title>
+<year>2022</year>
+<volume>abs/2205.03960</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.03960</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-03960</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEpact/PhothilimthanaS21" mdate="2021-10-27">
+<author pid="127/3128">Phitchaya Mangpo Phothilimthana</author>
+<author pid="32/9291">Amit Sabne</author>
+<author pid="129/8262">Nikhil Sarda</author>
+<author pid="304/5215">Karthik Srinivasa Murthy</author>
+<author pid="142/3202">Yanqi Zhou</author>
+<author pid="304/5001">Christof Angermueller</author>
+<author pid="73/615">Mike Burrows</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="29/864">Ketan Mandke</author>
+<author pid="304/4912">Rezsa Farahani</author>
+<author pid="240/0921">Yu Emma Wang</author>
+<author pid="46/8269">Berkin Ilbeyi</author>
+<author pid="131/5106">Blake A. Hechtman</author>
+<author pid="176/5659">Bjarke Roune</author>
+<author pid="80/920">Shen Wang</author>
+<author pid="60/9826">Yuanzhong Xu</author>
+<author pid="00/2211">Samuel J. Kaufman</author>
+<title>A Flexible Approach to Autotuning Multi-Pass Machine Learning Compilers.</title>
+<pages>1-16</pages>
+<year>2021</year>
+<booktitle>PACT</booktitle>
+<ee>https://doi.org/10.1109/PACT52795.2021.00008</ee>
+<crossref>conf/IEEEpact/2021</crossref>
+<url>db/conf/IEEEpact/pact2021.html#PhothilimthanaS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mlsys/0008PWW0P21" mdate="2022-05-24">
+<author pid="04/3794-8">Yichen Yang 0008</author>
+<author pid="127/3128">Phitchaya Mangpo Phothilimthana</author>
+<author pid="185/9964">Yisu Remy Wang</author>
+<author pid="194/2846">Max Willsey</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="283/4461">Jacques Pienaar</author>
+<title>Equality Saturation for Tensor Graph Superoptimization.</title>
+<year>2021</year>
+<booktitle>MLSys</booktitle>
+<ee>https://proceedings.mlsys.org/paper/2021/hash/65ded5353c5ee48d0b7d48c591b8f430-Abstract.html</ee>
+<crossref>conf/mlsys/2021</crossref>
+<url>db/conf/mlsys/mlsys2021.html#0008PWW0P21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mlsys/KaufmanPZM0SB21" mdate="2022-05-23">
+<author pid="00/2211">Samuel J. Kaufman</author>
+<author pid="127/3128">Phitchaya Mangpo Phothilimthana</author>
+<author pid="142/3202">Yanqi Zhou</author>
+<author pid="163/3175">Charith Mendis</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="32/9291">Amit Sabne</author>
+<author pid="73/615">Mike Burrows</author>
+<title>A Learned Performance Model for Tensor Processing Units.</title>
+<year>2021</year>
+<booktitle>MLSys</booktitle>
+<ee>https://proceedings.mlsys.org/paper/2021/hash/85d8ce590ad8981ca2c8286f79f59954-Abstract.html</ee>
+<crossref>conf/mlsys/2021</crossref>
+<url>db/conf/mlsys/mlsys2021.html#KaufmanPZM0SB21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-01332" mdate="2021-01-26">
+<author pid="04/3794-8">Yichen Yang 0008</author>
+<author pid="277/1283">Mangpo Phitchaya Phothilimtha</author>
+<author pid="185/9964">Yisu Remy Wang</author>
+<author pid="194/2846">Max Willsey</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="283/4461">Jacques Pienaar</author>
+<title>Equality Saturation for Tensor Graph Superoptimization.</title>
+<year>2021</year>
+<volume>abs/2101.01332</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.01332</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-01332</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-04041" mdate="2021-12-13">
+<author pid="145/6282">Xinfeng Xie</author>
+<author pid="32/5749">Prakash Prabhu</author>
+<author pid="146/4574">Ulysse Beaugnon</author>
+<author pid="127/3128">Phitchaya Mangpo Phothilimthana</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="18/8314">Azalia Mirhoseini</author>
+<author pid="34/8758">Eugene Brevdo</author>
+<author pid="65/336">James Laudon</author>
+<author pid="142/3202">Yanqi Zhou</author>
+<title>A Transferable Approach for Partitioning Machine Learning Models on Multi-Chip-Modules.</title>
+<year>2021</year>
+<volume>abs/2112.04041</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.04041</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-04041</url>
+</article>
+</r>
+<r><article key="journals/micro/ZhouRAWMXML20" mdate="2020-09-16">
+<author pid="142/3202">Yanqi Zhou</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="150/6460">AmirAli Abdolrashidi</author>
+<author pid="231/5935">Daniel Lin-Kit Wong</author>
+<author pid="199/6169">Peter C. Ma</author>
+<author pid="151/5435">Qiumin Xu</author>
+<author pid="18/8314">Azalia Mirhoseini</author>
+<author pid="65/336">James Laudon</author>
+<title>A Single-Shot Generalized Device Placement for Large Dataflow Graphs.</title>
+<pages>26-36</pages>
+<year>2020</year>
+<volume>40</volume>
+<journal>IEEE Micro</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MM.2020.3015188</ee>
+<url>db/journals/micro/micro40.html#ZhouRAWMXML20</url>
+</article>
+</r>
+<r><inproceedings key="conf/nips/Zhou0A0MXLPWGML20" mdate="2021-01-19">
+<author pid="142/3202">Yanqi Zhou</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="150/6460">AmirAli Abdolrashidi</author>
+<author pid="30/4954-1">Daniel Wong 0001</author>
+<author pid="199/6169">Peter C. Ma</author>
+<author pid="151/5435">Qiumin Xu</author>
+<author pid="157/6334">Hanxiao Liu</author>
+<author pid="277/1283">Mangpo Phitchaya Phothilimtha</author>
+<author pid="80/920">Shen Wang</author>
+<author pid="143/9193">Anna Goldie</author>
+<author pid="18/8314">Azalia Mirhoseini</author>
+<author pid="65/336">James Laudon</author>
+<title>Transferable Graph Optimizers for ML Compilers.</title>
+<year>2020</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2020/hash/9f29450d2eb58feb555078bdefe28aa5-Abstract.html</ee>
+<crossref>conf/nips/2020</crossref>
+<url>db/conf/nips/neurips2020.html#Zhou0A0MXLPWGML20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/CavenessCPP0Z20" mdate="2020-06-05">
+<author pid="266/6064">Emily Caveness</author>
+<author pid="137/2708">Paul Suganthan G. C.</author>
+<author pid="56/1091">Zhuo Peng</author>
+<author pid="p/NeoklisPolyzotis">Neoklis Polyzotis</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="47/15">Martin Zinkevich</author>
+<title>TensorFlow Data Validation: Data Analysis and Validation in Continuous ML Pipelines.</title>
+<pages>2793-2796</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3384707</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#CavenessCPP0Z20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-12438" mdate="2020-10-28">
+<author pid="142/3202">Yanqi Zhou</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="150/6460">AmirAli Abdolrashidi</author>
+<author pid="30/4954-1">Daniel Wong 0001</author>
+<author pid="199/6169">Peter C. Ma</author>
+<author pid="151/5435">Qiumin Xu</author>
+<author pid="157/6334">Hanxiao Liu</author>
+<author pid="277/1283">Mangpo Phitchaya Phothilimtha</author>
+<author pid="80/920">Shen Wang</author>
+<author pid="143/9193">Anna Goldie</author>
+<author pid="18/8314">Azalia Mirhoseini</author>
+<author pid="65/336">James Laudon</author>
+<title>Transferable Graph Optimizers for ML Compilers.</title>
+<year>2020</year>
+<volume>abs/2010.12438</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.12438</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-12438</url>
+</article>
+</r>
+<r><inproceedings key="conf/mlsys/BreckP0WZ19" mdate="2023-09-15">
+<author pid="16/2435">Eric Breck</author>
+<author pid="p/NeoklisPolyzotis">Neoklis Polyzotis</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="w/StevenEuijongWhang">Steven Whang 0001</author>
+<author pid="47/15">Martin Zinkevich</author>
+<title>Data Validation for Machine Learning.</title>
+<year>2019</year>
+<booktitle>MLSys</booktitle>
+<ee>https://proceedings.mlsys.org/book/267.pdf</ee>
+<crossref>conf/mlsys/2019</crossref>
+<url>db/conf/mlsys/mlsys2019.html#BreckP0WZ19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-01578" mdate="2020-09-16">
+<author pid="142/3202">Yanqi Zhou</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="150/6460">AmirAli Abdolrashidi</author>
+<author pid="231/5935">Daniel Lin-Kit Wong</author>
+<author pid="199/6169">Peter C. Ma</author>
+<author pid="151/5435">Qiumin Xu</author>
+<author pid="92/2292">Ming Zhong</author>
+<author pid="157/6334">Hanxiao Liu</author>
+<author pid="143/9193">Anna Goldie</author>
+<author pid="18/8314">Azalia Mirhoseini</author>
+<author pid="65/336">James Laudon</author>
+<title>GDP: Generalized Device Placement for Dataflow Graphs.</title>
+<year>2019</year>
+<volume>abs/1910.01578</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.01578</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-01578</url>
+</article>
+</r>
+<r><article key="journals/sigmod/PolyzotisRWZ18" mdate="2020-03-06">
+<author pid="p/NeoklisPolyzotis">Neoklis Polyzotis</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="w/StevenEuijongWhang">Steven Euijong Whang</author>
+<author pid="47/15">Martin Zinkevich</author>
+<title>Data Lifecycle Challenges in Production Machine Learning: A Survey.</title>
+<pages>17-28</pages>
+<year>2018</year>
+<volume>47</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3299887.3299891</ee>
+<url>db/journals/sigmod/sigmod47.html#PolyzotisRWZ18</url>
+</article>
+</r>
+<r><inproceedings key="conf/kdd/BaylorBCFFHHIJK17" mdate="2020-12-25">
+<author pid="204/3412">Denis Baylor</author>
+<author pid="16/2435">Eric Breck</author>
+<author pid="30/8739">Heng-Tze Cheng</author>
+<author pid="204/3399">Noah Fiedel</author>
+<author pid="204/3373">Chuan Yu Foo</author>
+<author pid="182/2139">Zakaria Haque</author>
+<author pid="204/3374">Salem Haykal</author>
+<author pid="71/4559">Mustafa Ispir</author>
+<author pid="182/2002">Vihan Jain</author>
+<author pid="118/8889-1">Levent Koc 0001</author>
+<author pid="197/7275">Chiu Yuen Koo</author>
+<author pid="52/5311">Lukasz Lew</author>
+<author pid="204/3358">Clemens Mewald</author>
+<author pid="204/3430">Akshay Naresh Modi</author>
+<author pid="p/NeoklisPolyzotis">Neoklis Polyzotis</author>
+<author pid="62/58">Sukriti Ramesh</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="w/StevenEuijongWhang">Steven Euijong Whang</author>
+<author pid="98/4352">Martin Wicke</author>
+<author pid="88/2304">Jarek Wilkiewicz</author>
+<author pid="76/1584">Xin Zhang</author>
+<author pid="47/15">Martin Zinkevich</author>
+<title>TFX: A TensorFlow-Based Production-Scale Machine Learning Platform.</title>
+<pages>1387-1395</pages>
+<year>2017</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/3097983.3098021</ee>
+<ee>https://www.wikidata.org/entity/Q99800318</ee>
+<crossref>conf/kdd/2017</crossref>
+<url>db/conf/kdd/kdd2017.html#BaylorBCFFHHIJK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Polyzotis0WZ17" mdate="2018-11-06">
+<author pid="p/NeoklisPolyzotis">Neoklis Polyzotis</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="w/StevenEuijongWhang">Steven Euijong Whang</author>
+<author pid="47/15">Martin Zinkevich</author>
+<title>Data Management Challenges in Production Machine Learning.</title>
+<pages>1723-1726</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3054782</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#Polyzotis0WZ17</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/HalevyKNOPRW16" mdate="2020-03-10">
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="k/FlipKorn">Flip Korn</author>
+<author pid="n/NatalyaFridmanNoy">Natalya Fridman Noy</author>
+<author pid="o/ChristopherOlston">Christopher Olston</author>
+<author pid="p/NeoklisPolyzotis">Neoklis Polyzotis</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="w/StevenEuijongWhang">Steven Euijong Whang</author>
+<title>Managing Google's data lake: an overview of the Goods system.</title>
+<pages>5-14</pages>
+<year>2016</year>
+<volume>39</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<ee type="oa">http://sites.computer.org/debull/A16sept/p5.pdf</ee>
+<url>db/journals/debu/debu39.html#HalevyKNOPRW16</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/HalevyKNOPRW16" mdate="2018-11-14">
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="k/FlipKorn">Flip Korn</author>
+<author pid="n/NatalyaFridmanNoy">Natalya Fridman Noy</author>
+<author pid="o/ChristopherOlston">Christopher Olston</author>
+<author pid="p/NeoklisPolyzotis">Neoklis Polyzotis</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="w/StevenEuijongWhang">Steven Euijong Whang</author>
+<title>Goods: Organizing Google's Datasets.</title>
+<pages>795-806</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2903730</ee>
+<ee>https://www.wikidata.org/entity/Q34685140</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#HalevyKNOPRW16</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/us/Roy15" mdate="2022-04-07">
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<title>Lazy Transaction Execution Models.</title>
+<school>Cornell University, USA</school>
+<year>2015</year>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/icde/RoyKDK15" mdate="2023-03-24">
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="k/ACKonig">Arnd Christian K&#246;nig</author>
+<author pid="163/4027">Igor Dvorkin</author>
+<author pid="35/4332">Manish Kumar</author>
+<title>PerfAugur: Robust diagnostics for performance anomalies in cloud services.</title>
+<pages>1167-1178</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113365</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113365</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#RoyKDK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/0002KBDHKFG15" mdate="2018-11-06">
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="k/LucjaKot">Lucja Kot</author>
+<author pid="92/9726">Gabriel Bender</author>
+<author pid="163/0574">Bailu Ding</author>
+<author pid="43/4308">Hossein Hojjat</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="15/3253">Nate Foster</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<title>The Homeostasis Protocol: Avoiding Transaction Coordination Through Program Analysis.</title>
+<pages>1311-1326</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2723720</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#0002KBDHKFG15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/0002KFGHK14" mdate="2018-08-13">
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="k/LucjaKot">Lucja Kot</author>
+<author pid="15/3253">Nate Foster</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="43/4308">Hossein Hojjat</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Writes that Fall in the Forest and Make no Sound: Semantics-Based Adaptive Data Consistency.</title>
+<year>2014</year>
+<volume>abs/1403.2307</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1403.2307</ee>
+<url>db/journals/corr/corr1403.html#0002KFGHK14</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/0002KK13" mdate="2020-03-12">
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="k/LucjaKot">Lucja Kot</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Quantum Databases.</title>
+<year>2013</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2013/Papers/CIDR13_Paper86.pdf</ee>
+<crossref>conf/cidr/2013</crossref>
+<url>db/conf/cidr/cidr2013.html#0002KK13</url>
+</inproceedings>
+</r>
+<r><article key="journals/tods/0003K0BGK12" mdate="2018-11-06">
+<author pid="g/NitinGupta3">Nitin Gupta 0003</author>
+<author pid="k/LucjaKot">Lucja Kot</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="92/9726">Gabriel Bender</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Entangled queries: Enabling declarative data-driven coordination.</title>
+<pages>21:1-21:34</pages>
+<year>2012</year>
+<volume>37</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2338626.2338629</ee>
+<url>db/journals/tods/tods37.html#0003K0BGK12</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GuptaNRBKGK11" mdate="2022-10-11">
+<author pid="g/NitinGupta3">Nitin Gupta 0003</author>
+<author pid="57/10355-1">Milos Nikolic 0001</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="92/9726">Gabriel Bender</author>
+<author pid="k/LucjaKot">Lucja Kot</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Entangled Transactions.</title>
+<pages>887-898</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p887-gupta.pdf</ee>
+<url>db/journals/pvldb/pvldb4.html#GuptaNRBKGK11</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/GuptaKRBGK11" mdate="2018-11-06">
+<author pid="g/NitinGupta3">Nitin Gupta 0003</author>
+<author pid="k/LucjaKot">Lucja Kot</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="92/9726">Gabriel Bender</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Entangled queries: enabling declarative data-driven coordination.</title>
+<pages>673-684</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989394</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#GuptaKRBGK11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GuptaKBRGK11" mdate="2018-11-06">
+<author pid="g/NitinGupta3">Nitin Gupta 0003</author>
+<author pid="k/LucjaKot">Lucja Kot</author>
+<author pid="92/9726">Gabriel Bender</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Coordination through querying in the youtopia system.</title>
+<pages>1331-1334</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989490</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#GuptaKBRGK11</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/KotGRGK10" mdate="2020-03-06">
+<author pid="k/LucjaKot">Lucja Kot</author>
+<author pid="g/NitinGupta3">Nitin Gupta 0003</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Beyond isolation: research opportunities in declarative data-driven coordination.</title>
+<pages>27-32</pages>
+<year>2010</year>
+<volume>39</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1860702.1860706</ee>
+<url>db/journals/sigmod/sigmod39.html#KotGRGK10</url>
+</article>
+</r>
+<r><inproceedings key="conf/glvlsi/BubnaRSM08" mdate="2018-11-06">
+<author pid="54/3493">Mayur Bubna</author>
+<author pid="44/4775-2">Sudip Roy 0002</author>
+<author pid="15/287">Naresh Shenoy</author>
+<author pid="29/4490-2">Subhra Mazumdar 0002</author>
+<title>A layout-aware physical design method for constructing feasible QCA circuits.</title>
+<pages>243-248</pages>
+<year>2008</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/1366110.1366170</ee>
+<crossref>conf/glvlsi/2008</crossref>
+<url>db/conf/glvlsi/glvlsi2008.html#BubnaRSM08</url>
+</inproceedings>
+</r>
+<coauthors n="95" nc="3">
+<co c="0"><na f="a/Abdolrashidi:AmirAli" pid="150/6460">AmirAli Abdolrashidi</na></co>
+<co c="0"><na f="a/Angermueller:Christof" pid="304/5001">Christof Angermueller</na></co>
+<co c="0"><na f="b/Barham_0001:Paul" pid="b/PaulBarham">Paul Barham 0001</na></co>
+<co c="0"><na f="b/Baylor:Denis" pid="204/3412">Denis Baylor</na></co>
+<co c="0"><na f="b/Beaugnon:Ulysse" pid="146/4574">Ulysse Beaugnon</na></co>
+<co c="0"><na f="b/Bender:Gabriel" pid="92/9726">Gabriel Bender</na></co>
+<co c="0"><na f="b/Breck:Eric" pid="16/2435">Eric Breck</na></co>
+<co c="0"><na f="b/Brevdo:Eugene" pid="34/8758">Eugene Brevdo</na></co>
+<co c="1"><na f="b/Bubna:Mayur" pid="54/3493">Mayur Bubna</na></co>
+<co c="0" n="2"><na f="b/Burrows:Michael" pid="73/615">Michael Burrows</na><na>Mike Burrows</na></co>
+<co c="0"><na f="c/C=:Paul_Suganthan_G=" pid="137/2708">Paul Suganthan G. C.</na></co>
+<co c="0"><na f="c/Caveness:Emily" pid="266/6064">Emily Caveness</na></co>
+<co c="0"><na f="c/Cheng:Heng=Tze" pid="30/8739">Heng-Tze Cheng</na></co>
+<co c="0"><na f="c/Chowdhery:Aakanksha" pid="41/7532">Aakanksha Chowdhery</na></co>
+<co c="0" n="2"><na f="d/Dean:Jeffrey" pid="d/JeffreyDean">Jeffrey Dean</na><na>Jeff Dean</na></co>
+<co c="0"><na f="d/Ding:Bailu" pid="163/0574">Bailu Ding</na></co>
+<co c="2"><na f="d/Dvorkin:Igor" pid="163/4027">Igor Dvorkin</na></co>
+<co c="0"><na f="f/Farahani:Rezsa" pid="304/4912">Rezsa Farahani</na></co>
+<co c="0"><na f="f/Fiedel:Noah" pid="204/3399">Noah Fiedel</na></co>
+<co c="0"><na f="f/Foo:Chuan_Yu" pid="204/3373">Chuan Yu Foo</na></co>
+<co c="0"><na f="f/Foster:Nate" pid="15/3253">Nate Foster</na></co>
+<co c="0"><na f="g/Gehrke:Johannes" pid="g/JohannesGehrke">Johannes Gehrke</na></co>
+<co c="0"><na f="g/Ghemawat:Sanjay" pid="g/SGhemawat">Sanjay Ghemawat</na></co>
+<co c="0"><na f="g/Goldie:Anna" pid="143/9193">Anna Goldie</na></co>
+<co c="0"><na f="g/Gupta_0003:Nitin" pid="g/NitinGupta3">Nitin Gupta 0003</na></co>
+<co c="0"><na f="h/Halevy:Alon_Y=" pid="h/AlonYHalevy">Alon Y. Halevy</na></co>
+<co c="0"><na f="h/Hand_0001:Steven" pid="69/6457">Steven Hand 0001</na></co>
+<co c="0"><na f="h/Haque:Zakaria" pid="182/2139">Zakaria Haque</na></co>
+<co c="0"><na f="h/Haykal:Salem" pid="204/3374">Salem Haykal</na></co>
+<co c="0"><na f="h/Hechtman:Blake_A=" pid="131/5106">Blake A. Hechtman</na></co>
+<co c="0"><na f="h/Hojjat:Hossein" pid="43/4308">Hossein Hojjat</na></co>
+<co c="0"><na f="h/Hurt:Dan" pid="199/2112">Dan Hurt</na></co>
+<co c="0"><na f="i/Ilbeyi:Berkin" pid="46/8269">Berkin Ilbeyi</na></co>
+<co c="0"><na f="i/Isard:Michael" pid="17/5751">Michael Isard</na></co>
+<co c="0"><na f="i/Ispir:Mustafa" pid="71/4559">Mustafa Ispir</na></co>
+<co c="0"><na f="j/Jain:Vihan" pid="182/2002">Vihan Jain</na></co>
+<co c="0"><na f="j/Jin:Charles" pid="245/5611">Charles Jin</na></co>
+<co c="0"><na f="k/Kaufman:Samuel_J=" pid="00/2211">Samuel J. Kaufman</na></co>
+<co c="0"><na f="k/Koc_0001:Levent" pid="118/8889-1">Levent Koc 0001</na></co>
+<co c="0"><na f="k/Koch_0001:Christoph" pid="k/ChristophKoch">Christoph Koch 0001</na></co>
+<co c="2"><na f="k/K=ouml=nig:Arnd_Christian" pid="k/ACKonig">Arnd Christian K&#246;nig</na></co>
+<co c="0"><na f="k/Koo:Chiu_Yuen" pid="197/7275">Chiu Yuen Koo</na></co>
+<co c="0"><na f="k/Korn:Flip" pid="k/FlipKorn">Flip Korn</na></co>
+<co c="0"><na f="k/Kot:Lucja" pid="k/LucjaKot">Lucja Kot</na></co>
+<co c="2"><na f="k/Kumar:Manish" pid="35/4332">Manish Kumar</na></co>
+<co c="0"><na f="l/Laudon:James" pid="65/336">James Laudon</na></co>
+<co c="0"><na f="l/Lew:Lukasz" pid="52/5311">Lukasz Lew</na></co>
+<co c="0"><na f="l/Lim:Hyeontaek" pid="57/2227">Hyeontaek Lim</na></co>
+<co c="0"><na f="l/Liu:Hanxiao" pid="157/6334">Hanxiao Liu</na></co>
+<co c="0"><na f="m/Ma:Peter_C=" pid="199/6169">Peter C. Ma</na></co>
+<co c="0"><na f="m/Mandke:Ketan" pid="29/864">Ketan Mandke</na></co>
+<co c="1"><na f="m/Mazumdar_0002:Subhra" pid="29/4490-2">Subhra Mazumdar 0002</na></co>
+<co c="0"><na f="m/Mendis:Charith" pid="163/3175">Charith Mendis</na></co>
+<co c="0"><na f="m/Mewald:Clemens" pid="204/3358">Clemens Mewald</na></co>
+<co c="0"><na f="m/Mirhoseini:Azalia" pid="18/8314">Azalia Mirhoseini</na></co>
+<co c="0"><na f="m/Modi:Akshay_Naresh" pid="204/3430">Akshay Naresh Modi</na></co>
+<co c="0"><na f="m/Murthy:Karthik_Srinivasa" pid="304/5215">Karthik Srinivasa Murthy</na></co>
+<co c="0"><na f="n/Nikolic_0001:Milos" pid="57/10355-1">Milos Nikolic 0001</na></co>
+<co c="0" n="2"><na f="n/Noy:Natasha_F=" pid="n/NatalyaFridmanNoy">Natasha F. Noy</na><na>Natalya Fridman Noy</na></co>
+<co c="0"><na f="o/Olston:Christopher" pid="o/ChristopherOlston">Christopher Olston</na></co>
+<co c="0"><na f="p/Pang:Ruoming" pid="32/2940">Ruoming Pang</na></co>
+<co c="0"><na f="p/Peng:Zhuo" pid="56/1091">Zhuo Peng</na></co>
+<co c="0"><na f="p/Phothilimtha:Mangpo_Phitchaya" pid="277/1283">Mangpo Phitchaya Phothilimtha</na></co>
+<co c="0"><na f="p/Phothilimthana:Phitchaya_Mangpo" pid="127/3128">Phitchaya Mangpo Phothilimthana</na></co>
+<co c="0"><na f="p/Pienaar:Jacques" pid="283/4461">Jacques Pienaar</na></co>
+<co c="0"><na f="p/Polyzotis:Neoklis" pid="p/NeoklisPolyzotis">Neoklis Polyzotis</na></co>
+<co c="0"><na f="p/Prabhu:Prakash" pid="32/5749">Prakash Prabhu</na></co>
+<co c="0"><na f="r/Ramesh:Sukriti" pid="62/58">Sukriti Ramesh</na></co>
+<co c="0"><na f="r/Roune:Bjarke" pid="176/5659">Bjarke Roune</na></co>
+<co c="0"><na f="s/Sabne:Amit" pid="32/9291">Amit Sabne</na></co>
+<co c="0"><na f="s/Saeta:Brennan" pid="192/4567">Brennan Saeta</na></co>
+<co c="0"><na f="s/Sarda:Nikhil" pid="129/8262">Nikhil Sarda</na></co>
+<co c="0"><na f="s/Schuh:Parker" pid="152/5872">Parker Schuh</na></co>
+<co c="0"><na f="s/Sepassi:Ryan" pid="213/8227">Ryan Sepassi</na></co>
+<co c="0"><na f="s/Shafey:Laurent_El" pid="119/9566">Laurent El Shafey</na></co>
+<co c="1"><na f="s/Shenoy:Naresh" pid="15/287">Naresh Shenoy</na></co>
+<co c="0"><na f="t/Thekkath:Chandramohan_A=" pid="13/3927">Chandramohan A. Thekkath</na></co>
+<co c="0"><na f="w/Wang:Shen" pid="80/920">Shen Wang</na></co>
+<co c="0"><na f="w/Wang:Yisu_Remy" pid="185/9964">Yisu Remy Wang</na></co>
+<co c="0"><na f="w/Wang:Yu_Emma" pid="240/0921">Yu Emma Wang</na></co>
+<co c="0" n="2"><na f="w/Whang:Steven_Euijong" pid="w/StevenEuijongWhang">Steven Euijong Whang</na><na>Steven Whang 0001</na></co>
+<co c="0"><na f="w/Wicke:Martin" pid="98/4352">Martin Wicke</na></co>
+<co c="0"><na f="w/Wilkiewicz:Jarek" pid="88/2304">Jarek Wilkiewicz</na></co>
+<co c="0"><na f="w/Willsey:Max" pid="194/2846">Max Willsey</na></co>
+<co c="0"><na f="w/Wong_0001:Daniel" pid="30/4954-1">Daniel Wong 0001</na></co>
+<co c="0"><na f="w/Wong:Daniel_Lin=Kit" pid="231/5935">Daniel Lin-Kit Wong</na></co>
+<co c="0"><na f="w/Wu:Yonghui" pid="26/2189">Yonghui Wu</na></co>
+<co c="0"><na f="x/Xie:Xinfeng" pid="145/6282">Xinfeng Xie</na></co>
+<co c="0"><na f="x/Xu:Qiumin" pid="151/5435">Qiumin Xu</na></co>
+<co c="0"><na f="x/Xu:Yuanzhong" pid="60/9826">Yuanzhong Xu</na></co>
+<co c="0"><na f="y/Yang_0008:Yichen" pid="04/3794-8">Yichen Yang 0008</na></co>
+<co c="0"><na f="z/Zhang:Xin" pid="76/1584">Xin Zhang</na></co>
+<co c="0"><na f="z/Zhong:Ming" pid="92/2292">Ming Zhong</na></co>
+<co c="0"><na f="z/Zhou:Yanqi" pid="142/3202">Yanqi Zhou</na></co>
+<co c="0"><na f="z/Zinkevich:Martin" pid="47/15">Martin Zinkevich</na></co>
+</coauthors>
+</dblpperson>

@@ -1,0 +1,1393 @@
+<dblpperson name="Grigorios Loukides" pid="96/4724" n="94">
+<person key="homepages/96/4724" mdate="2023-07-09">
+<author pid="96/4724">Grigorios Loukides</author>
+<url>https://nms.kcl.ac.uk/grigorios.loukides/</url>
+<url>https://scholar.google.com/citations?user=OtmncdQAAAAJ</url>
+<url>https://orcid.org/0000-0003-0888-5061</url>
+<url>https://www.wikidata.org/entity/Q87989232</url>
+<url>https://d-nb.info/gnd/1129697444</url>
+<note type="affiliation">King's College London, UK</note>
+<note type="affiliation" label="former">Cardiff University, UK</note>
+</person>
+<r><inproceedings key="conf/latin/AyadLPV24" mdate="2024-04-12">
+<author pid="193/1681">Lorraine A. K. Ayad</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="89/7966">Solon P. Pissis</author>
+<author pid="342/9111-1">Hilde Verbeek 0001</author>
+<title>Sparse Suffix and LCP Array: Simple, Direct, Small, and Fast.</title>
+<pages>162-177</pages>
+<year>2024</year>
+<booktitle>LATIN (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-55598-5_11</ee>
+<crossref>conf/latin/2024-1</crossref>
+<url>db/conf/latin/latin2024-1.html#AyadLPV24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-14256" mdate="2024-04-09">
+<author pid="322/6691">Est&#233;ban Gabory</author>
+<author pid="52/5716-35">Chang Liu 0035</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="89/7966">Solon P. Pissis</author>
+<author pid="223/9846">Wiktor Zuba</author>
+<title>Space-Efficient Indexes for Uncertain Strings.</title>
+<year>2024</year>
+<volume>abs/2403.14256</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.14256</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-14256</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AyadLP23" mdate="2023-10-23">
+<author orcid="0000-0003-0846-2616" pid="193/1681">Lorraine A. K. Ayad</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="89/7966">Solon P. Pissis</author>
+<title>Text Indexing for Long Patterns: Anchors are All you Need.</title>
+<pages>2117-2131</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p2117-loukides.pdf</ee>
+<ee>https://doi.org/10.14778/3598581.3598586</ee>
+<url>db/journals/pvldb/pvldb16.html#AyadLP23</url>
+</article>
+</r>
+<r><article key="journals/tkde/BernardiniCGGLPPPSS23" mdate="2023-06-02">
+<author orcid="0000-0001-6647-088X" pid="11/495-1">Giulia Bernardini 0001</author>
+<author pid="164/5849">Alessio Conte</author>
+<author pid="213/7336">Garance Gourdel</author>
+<author pid="g/RobertoGrossi">Roberto Grossi</author>
+<author orcid="0000-0003-0888-5061" pid="96/4724">Grigorios Loukides</author>
+<author pid="p/NadiaPisanti">Nadia Pisanti</author>
+<author orcid="0000-0002-1445-1932" pid="89/7966">Solon P. Pissis</author>
+<author pid="249/9878">Giulia Punzi</author>
+<author pid="05/1060">Leen Stougie</author>
+<author orcid="0000-0003-1200-6015" pid="266/9278">Michelle Sweering</author>
+<title>Hide and Mine in Strings: Hardness, Algorithms, and Experiments.</title>
+<pages>5948-5963</pages>
+<year>2023</year>
+<month>June</month>
+<volume>35</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TKDE.2022.3158063</ee>
+<url>db/journals/tkde/tkde35.html#BernardiniCGGLPPPSS23</url>
+</article>
+</r>
+<r><article key="journals/tkde/LoukidesPS23" mdate="2023-10-27">
+<author orcid="0000-0003-0888-5061" pid="96/4724">Grigorios Loukides</author>
+<author orcid="0000-0002-1445-1932" pid="89/7966">Solon P. Pissis</author>
+<author orcid="0000-0003-1200-6015" pid="266/9278">Michelle Sweering</author>
+<title>Bidirectional String Anchors for Improved Text Indexing and Top-$K$ Similarity Search.</title>
+<pages>11093-11111</pages>
+<year>2023</year>
+<month>November</month>
+<volume>35</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TKDE.2022.3231780</ee>
+<url>db/journals/tkde/tkde35.html#LoukidesPS23</url>
+</article>
+</r>
+<r><inproceedings key="conf/cpm/LoukidesPTZ23" mdate="2023-09-30">
+<author pid="96/4724">Grigorios Loukides</author>
+<author orcid="0000-0002-1445-1932" pid="89/7966">Solon P. Pissis</author>
+<author pid="99/7237">Sharma V. Thankachan</author>
+<author pid="223/9846">Wiktor Zuba</author>
+<title>Suffix-Prefix Queries on a Dictionary.</title>
+<pages>21:1-21:20</pages>
+<year>2023</year>
+<booktitle>CPM</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.CPM.2023.21</ee>
+<crossref>conf/cpm/2023</crossref>
+<url>db/conf/cpm/cpm2023.html#LoukidesPTZ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdm/ChenLGP23" mdate="2023-10-17">
+<author pid="23/2916">Huiping Chen</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="95/3034">Robert Gwadera</author>
+<author pid="89/7966">Solon P. Pissis</author>
+<title>Heavy Nodes in a Small Neighborhood: Algorithms and Applications.</title>
+<pages>307-315</pages>
+<year>2023</year>
+<booktitle>SDM</booktitle>
+<ee>https://doi.org/10.1137/1.9781611977653.ch35</ee>
+<crossref>conf/sdm/2023</crossref>
+<url>db/conf/sdm/sdm2023.html#ChenLGP23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spire/PissisSLL23" mdate="2024-04-09">
+<author pid="89/7966">Solon P. Pissis</author>
+<author pid="144/3316">Michael Shekelyan</author>
+<author pid="52/5716-35">Chang Liu 0035</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<title>Frequency-Constrained Substring Complexity.</title>
+<pages>345-352</pages>
+<year>2023</year>
+<booktitle>SPIRE</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-43980-3_28</ee>
+<crossref>conf/spire/2023</crossref>
+<url>db/conf/spire/spire2023.html#PissisSLL23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-09023" mdate="2024-04-12">
+<author pid="193/1681">Lorraine A. K. Ayad</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="89/7966">Solon P. Pissis</author>
+<author pid="342/9111-1">Hilde Verbeek 0001</author>
+<title>Sparse Suffix and LCP Array: Simple, Direct, Small, and Fast.</title>
+<year>2023</year>
+<volume>abs/2310.09023</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.09023</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-09023</url>
+</article>
+</r>
+<r><article key="journals/dke/ZhongLP22" mdate="2022-06-23">
+<author pid="258/9015">Haodi Zhong</author>
+<author orcid="0000-0003-0888-5061" pid="96/4724">Grigorios Loukides</author>
+<author pid="89/7966">Solon P. Pissis</author>
+<title>Clustering sequence graphs.</title>
+<pages>101981</pages>
+<year>2022</year>
+<volume>138</volume>
+<journal>Data Knowl. Eng.</journal>
+<ee type="oa">https://doi.org/10.1016/j.datak.2022.101981</ee>
+<url>db/journals/dke/dke138.html#ZhongLP22</url>
+</article>
+</r>
+<r><article key="journals/ipl/LoukidesP22" mdate="2022-10-02">
+<author orcid="0000-0003-0888-5061" pid="96/4724">Grigorios Loukides</author>
+<author orcid="0000-0002-1445-1932" pid="89/7966">Solon P. Pissis</author>
+<title>All-pairs suffix/prefix in optimal time using Aho-Corasick space.</title>
+<pages>106275</pages>
+<year>2022</year>
+<volume>178</volume>
+<journal>Inf. Process. Lett.</journal>
+<ee>https://doi.org/10.1016/j.ipl.2022.106275</ee>
+<url>db/journals/ipl/ipl178.html#LoukidesP22</url>
+</article>
+</r>
+<r><article key="journals/titb/ZhongLP22" mdate="2022-05-18">
+<author orcid="0000-0001-6033-4959" pid="258/9015">Haodi Zhong</author>
+<author orcid="0000-0003-0888-5061" pid="96/4724">Grigorios Loukides</author>
+<author orcid="0000-0002-1445-1932" pid="89/7966">Solon P. Pissis</author>
+<title>Clustering Demographics and Sequences of Diagnosis Codes.</title>
+<pages>2351-2359</pages>
+<year>2022</year>
+<volume>26</volume>
+<journal>IEEE J. Biomed. Health Informatics</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/JBHI.2021.3129461</ee>
+<url>db/journals/titb/titb26.html#ZhongLP22</url>
+</article>
+</r>
+<r><inproceedings key="conf/cpm/0001CLPSS22" mdate="2023-06-26">
+<author orcid="0000-0001-6647-088X" pid="11/495-1">Giulia Bernardini 0001</author>
+<author orcid="0000-0003-1782-667X" pid="23/2916">Huiping Chen</author>
+<author orcid="0000-0003-0888-5061" pid="96/4724">Grigorios Loukides</author>
+<author orcid="0000-0002-1445-1932" pid="89/7966">Solon P. Pissis</author>
+<author pid="05/1060">Leen Stougie</author>
+<author orcid="0000-0003-1200-6015" pid="266/9278">Michelle Sweering</author>
+<title>Making de Bruijn Graphs Eulerian.</title>
+<pages>12:1-12:18</pages>
+<year>2022</year>
+<booktitle>CPM</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.CPM.2022.12</ee>
+<crossref>conf/cpm/2022</crossref>
+<url>db/conf/cpm/cpm2022.html#0001CLPSS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cpm/0001CGGLPPS22" mdate="2023-06-26">
+<author orcid="0000-0001-6647-088X" pid="11/495-1">Giulia Bernardini 0001</author>
+<author pid="164/5849">Alessio Conte</author>
+<author pid="322/6691">Est&#233;ban Gabory</author>
+<author pid="g/RobertoGrossi">Roberto Grossi</author>
+<author orcid="0000-0003-0888-5061" pid="96/4724">Grigorios Loukides</author>
+<author orcid="0000-0002-1445-1932" pid="89/7966">Solon P. Pissis</author>
+<author pid="249/9878">Giulia Punzi</author>
+<author orcid="0000-0003-1200-6015" pid="266/9278">Michelle Sweering</author>
+<title>On Strings Having the Same Length- k Substrings.</title>
+<pages>16:1-16:17</pages>
+<year>2022</year>
+<booktitle>CPM</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.CPM.2022.16</ee>
+<crossref>conf/cpm/2022</crossref>
+<url>db/conf/cpm/cpm2022.html#0001CGGLPPS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/ZhongLCP22" mdate="2023-02-02">
+<author pid="258/9015">Haodi Zhong</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="164/5849">Alessio Conte</author>
+<author pid="89/7966">Solon P. Pissis</author>
+<title>Jaccard Median for Ego-network Segmentation.</title>
+<pages>1353-1358</pages>
+<year>2022</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM54844.2022.00180</ee>
+<crossref>conf/icdm/2022</crossref>
+<url>db/conf/icdm/icdm2022.html#ZhongLCP22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2201-13376" mdate="2022-02-02">
+<author pid="144/3316">Michael Shekelyan</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<title>Differentially Private Top-k Selection via Canonical Lipschitz Mechanism.</title>
+<year>2022</year>
+<volume>abs/2201.13376</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2201.13376</ee>
+<url>db/journals/corr/corr2201.html#abs-2201-13376</url>
+</article>
+</r>
+<r><article key="journals/jea/BernardiniCFLP21" mdate="2023-03-21">
+<author orcid="0000-0001-6647-088X" pid="11/495-1">Giulia Bernardini 0001</author>
+<author orcid="0000-0003-1782-667X" pid="23/2916">Huiping Chen</author>
+<author pid="81/6991">Gabriele Fici</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="89/7966">Solon P. Pissis</author>
+<title>Reverse-Safe Text Indexing.</title>
+<pages>1.10:1-1.10:26</pages>
+<year>2021</year>
+<volume>26</volume>
+<journal>ACM J. Exp. Algorithmics</journal>
+<ee>https://doi.org/10.1145/3461698</ee>
+<url>db/journals/jea/jea26.html#BernardiniCFLP21</url>
+</article>
+</r>
+<r><article key="journals/tcs/ChenLPC21" mdate="2022-01-03">
+<author orcid="0000-0003-1782-667X" pid="23/2916">Huiping Chen</author>
+<author orcid="0000-0003-0888-5061" pid="96/4724">Grigorios Loukides</author>
+<author orcid="0000-0002-1445-1932" pid="89/7966">Solon P. Pissis</author>
+<author pid="48/9282">Hau Chan</author>
+<title>Influence maximization in the presence of vulnerable nodes: A ratio perspective.</title>
+<pages>84-103</pages>
+<year>2021</year>
+<volume>852</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2020.11.020</ee>
+<url>db/journals/tcs/tcs852.html#ChenLPC21</url>
+</article>
+</r>
+<r><article key="journals/tkdd/BernardiniCCGLP21" mdate="2023-06-26">
+<author orcid="0000-0001-6647-088X" pid="11/495-1">Giulia Bernardini 0001</author>
+<author orcid="0000-0003-1782-667X" pid="23/2916">Huiping Chen</author>
+<author pid="164/5849">Alessio Conte</author>
+<author pid="g/RobertoGrossi">Roberto Grossi</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="p/NadiaPisanti">Nadia Pisanti</author>
+<author pid="89/7966">Solon P. Pissis</author>
+<author pid="14/4683">Giovanna Rosone</author>
+<author orcid="0000-0003-1200-6015" pid="266/9278">Michelle Sweering</author>
+<title>Combinatorial Algorithms for String Sanitization.</title>
+<pages>8:1-8:34</pages>
+<year>2021</year>
+<volume>15</volume>
+<journal>ACM Trans. Knowl. Discov. Data</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3418683</ee>
+<url>db/journals/tkdd/tkdd15.html#BernardiniCCGLP21</url>
+</article>
+</r>
+<r><inproceedings key="conf/esa/LoukidesP21" mdate="2022-01-03">
+<author pid="96/4724">Grigorios Loukides</author>
+<author orcid="0000-0002-1445-1932" pid="89/7966">Solon P. Pissis</author>
+<title>Bidirectional String Anchors: A New String Sampling Mechanism.</title>
+<pages>64:1-64:21</pages>
+<year>2021</year>
+<booktitle>ESA</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ESA.2021.64</ee>
+<crossref>conf/esa/2021</crossref>
+<url>db/conf/esa/esa2021.html#LoukidesP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fct/ConteGLPPP21" mdate="2021-09-16">
+<author orcid="0000-0003-0770-2235" pid="164/5849">Alessio Conte</author>
+<author orcid="0000-0002-7985-4222" pid="g/RobertoGrossi">Roberto Grossi</author>
+<author orcid="0000-0003-0888-5061" pid="96/4724">Grigorios Loukides</author>
+<author orcid="0000-0003-3915-7665" pid="p/NadiaPisanti">Nadia Pisanti</author>
+<author orcid="0000-0002-1445-1932" pid="89/7966">Solon P. Pissis</author>
+<author orcid="0000-0001-8738-1595" pid="249/9878">Giulia Punzi</author>
+<title>Beyond the BEST Theorem: Fast Assessment of Eulerian Trails.</title>
+<pages>162-175</pages>
+<year>2021</year>
+<booktitle>FCT</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-86593-1_11</ee>
+<crossref>conf/fct/2021</crossref>
+<url>db/conf/fct/fct2021.html#ConteGLPPP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/ChenDFLPS21" mdate="2022-12-07">
+<author orcid="0000-0003-1782-667X" pid="23/2916">Huiping Chen</author>
+<author pid="34/5882">Changyu Dong</author>
+<author pid="94/10961">Liyue Fan</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author orcid="0000-0002-1445-1932" pid="89/7966">Solon P. Pissis</author>
+<author pid="05/1060">Leen Stougie</author>
+<title>Differentially Private String Sanitization for Frequency-Based Mining Tasks.</title>
+<pages>41-50</pages>
+<year>2021</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM51629.2021.00014</ee>
+<crossref>conf/icdm/2021</crossref>
+<url>db/conf/icdm/icdm2021.html#ChenDFLPS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isaac/Charalampopoulos21" mdate="2022-04-09">
+<author orcid="0000-0002-6024-1557" pid="184/0588">Panagiotis Charalampopoulos</author>
+<author pid="23/2916">Huiping Chen</author>
+<author pid="c/PeterChristen">Peter Christen</author>
+<author orcid="0000-0003-0888-5061" pid="96/4724">Grigorios Loukides</author>
+<author pid="p/NadiaPisanti">Nadia Pisanti</author>
+<author orcid="0000-0002-1445-1932" pid="89/7966">Solon P. Pissis</author>
+<author pid="83/7216">Jakub Radoszewski</author>
+<title>Pattern Masking for Dictionary Matching.</title>
+<pages>65:1-65:19</pages>
+<year>2021</year>
+<booktitle>ISAAC</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ISAAC.2021.65</ee>
+<crossref>conf/isaac/2021</crossref>
+<url>db/conf/isaac/isaac2021.html#Charalampopoulos21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/ChenCGLPS21" mdate="2023-06-26">
+<author orcid="0000-0003-1782-667X" pid="23/2916">Huiping Chen</author>
+<author pid="164/5849">Alessio Conte</author>
+<author pid="g/RobertoGrossi">Roberto Grossi</author>
+<author orcid="0000-0003-0888-5061" pid="96/4724">Grigorios Loukides</author>
+<author pid="89/7966">Solon P. Pissis</author>
+<author orcid="0000-0003-1200-6015" pid="266/9278">Michelle Sweering</author>
+<title>On Breaking Truss-Based Communities.</title>
+<pages>117-126</pages>
+<year>2021</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/3447548.3467365</ee>
+<crossref>conf/kdd/2021</crossref>
+<url>db/conf/kdd/kdd2021.html#ChenCGLPS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdm/ZhengCLL21" mdate="2022-10-02">
+<author orcid="0000-0003-3772-4400" pid="274/8121">Leqian Zheng</author>
+<author pid="48/9282">Hau Chan</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="78/6881">Minming Li</author>
+<title>Maximizing Approximately <i>k</i>-Submodular Functions.</title>
+<pages>414-422</pages>
+<year>2021</year>
+<booktitle>SDM</booktitle>
+<ee>https://doi.org/10.1137/1.9781611976700.47</ee>
+<crossref>conf/sdm/2021</crossref>
+<url>db/conf/sdm/sdm2021.html#ZhengCLL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/Hu0LGWGLD21" mdate="2022-09-27">
+<author pid="31/7616">Changhui Hu</author>
+<author pid="48/1097-2">Jin Li 0002</author>
+<author pid="22/8078">Zheli Liu</author>
+<author orcid="0000-0001-5295-2781" pid="43/8066-4">Xiaojie Guo 0004</author>
+<author pid="80/2983">Yu Wei</author>
+<author pid="39/7802">Xuan Guang</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="34/5882">Changyu Dong</author>
+<title>How to Make Private Distributed Cardinality Estimation Practical, and Get Differential Privacy for Free.</title>
+<pages>965-982</pages>
+<year>2021</year>
+<booktitle>USENIX Security Symposium</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenixsecurity21/presentation/hu-changhui</ee>
+<crossref>conf/uss/2021</crossref>
+<url>db/conf/uss/uss2021.html#Hu0LGWGLD21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-07157" mdate="2021-01-22">
+<author pid="274/8121">Leqian Zheng</author>
+<author pid="48/9282">Hau Chan</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="78/6881">Minming Li</author>
+<title>Maximizing approximately k-submodular functions.</title>
+<year>2021</year>
+<volume>abs/2101.07157</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.07157</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-07157</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-10376" mdate="2022-01-04">
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="89/7966">Solon P. Pissis</author>
+<author pid="266/9278">Michelle Sweering</author>
+<title>String Sampling with Bidirectional String Anchors.</title>
+<year>2021</year>
+<volume>abs/2112.10376</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.10376</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-10376</url>
+</article>
+</r>
+<r><article key="journals/jbi/ZhongLG20" mdate="2021-02-16">
+<author pid="258/9015">Haodi Zhong</author>
+<author orcid="0000-0003-0888-5061" pid="96/4724">Grigorios Loukides</author>
+<author pid="95/3034">Robert Gwadera</author>
+<title>Clustering datasets with demographics and diagnosis codes.</title>
+<pages>103360</pages>
+<year>2020</year>
+<volume>102</volume>
+<journal>J. Biomed. Informatics</journal>
+<ee type="oa">https://doi.org/10.1016/j.jbi.2019.103360</ee>
+<ee>https://www.wikidata.org/entity/Q92433431</ee>
+<url>db/journals/jbi/jbi102.html#ZhongLG20</url>
+</article>
+</r>
+<r><article key="journals/kais/LoukidesT20" mdate="2021-05-14">
+<author orcid="0000-0003-0888-5061" pid="96/4724">Grigorios Loukides</author>
+<author orcid="0000-0003-2701-7809" pid="47/3584">George Theodorakopoulos 0001</author>
+<title>Location histogram privacy by Sensitive Location Hiding and Target Histogram Avoidance/Resemblance.</title>
+<pages>2613-2651</pages>
+<year>2020</year>
+<volume>62</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>7</number>
+<ee type="oa">https://doi.org/10.1007/s10115-019-01432-4</ee>
+<url>db/journals/kais/kais62.html#LoukidesT20</url>
+</article>
+</r>
+<r><article key="journals/toit/LoukidesGC20" mdate="2022-01-08">
+<author orcid="0000-0003-0888-5061" pid="96/4724">Grigorios Loukides</author>
+<author pid="95/3034">Robert Gwadera</author>
+<author orcid="0000-0002-1587-9076" pid="280/2895">Shing-Wan Chang</author>
+<title>Overexposure-Aware Influence Maximization.</title>
+<pages>39:1-39:31</pages>
+<year>2020</year>
+<volume>20</volume>
+<journal>ACM Trans. Internet Techn.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3408315</ee>
+<url>db/journals/toit/toit20.html#LoukidesGC20</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/AlamroIL20" mdate="2020-09-05">
+<author orcid="0000-0003-3157-8086" pid="204/8417">Hayam Alamro</author>
+<author pid="i/CSIliopoulos">Costas S. Iliopoulos</author>
+<author orcid="0000-0003-0888-5061" pid="96/4724">Grigorios Loukides</author>
+<title>Efficiently Detecting Web Spambots in a Temporally Annotated Sequence.</title>
+<pages>1007-1019</pages>
+<year>2020</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-44041-1_87</ee>
+<crossref>conf/aina/2020</crossref>
+<url>db/conf/aina/aina2020.html#AlamroIL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/alenex/0001CFLP20" mdate="2020-10-25">
+<author orcid="0000-0001-6647-088X" pid="11/495-1">Giulia Bernardini 0001</author>
+<author orcid="0000-0003-1782-667X" pid="23/2916">Huiping Chen</author>
+<author pid="81/6991">Gabriele Fici</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author orcid="0000-0002-1445-1932" pid="89/7966">Solon P. Pissis</author>
+<title>Reverse-Safe Data Structures for Text Indexing.</title>
+<pages>199-213</pages>
+<year>2020</year>
+<booktitle>ALENEX</booktitle>
+<ee>https://doi.org/10.1137/1.9781611976007.16</ee>
+<crossref>conf/alenex/2020</crossref>
+<url>db/conf/alenex/alenex2020.html#0001CFLP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cpm/0001CLPPSS20" mdate="2023-06-26">
+<author orcid="0000-0001-6647-088X" pid="11/495-1">Giulia Bernardini 0001</author>
+<author orcid="0000-0003-1782-667X" pid="23/2916">Huiping Chen</author>
+<author orcid="0000-0003-0888-5061" pid="96/4724">Grigorios Loukides</author>
+<author orcid="0000-0003-3915-7665" pid="p/NadiaPisanti">Nadia Pisanti</author>
+<author orcid="0000-0002-1445-1932" pid="89/7966">Solon P. Pissis</author>
+<author pid="05/1060">Leen Stougie</author>
+<author orcid="0000-0003-1200-6015" pid="266/9278">Michelle Sweering</author>
+<title>String Sanitization Under Edit Distance.</title>
+<pages>7:1-7:14</pages>
+<year>2020</year>
+<booktitle>CPM</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.CPM.2020.7</ee>
+<crossref>conf/cpm/2020</crossref>
+<url>db/conf/cpm/cpm2020.html#0001CLPPSS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/0001CGGLPPPSS20" mdate="2023-06-26">
+<author orcid="0000-0001-6647-088X" pid="11/495-1">Giulia Bernardini 0001</author>
+<author pid="164/5849">Alessio Conte</author>
+<author pid="213/7336">Garance Gourdel</author>
+<author pid="g/RobertoGrossi">Roberto Grossi</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="p/NadiaPisanti">Nadia Pisanti</author>
+<author orcid="0000-0002-1445-1932" pid="89/7966">Solon P. Pissis</author>
+<author pid="249/9878">Giulia Punzi</author>
+<author pid="05/1060">Leen Stougie</author>
+<author orcid="0000-0003-1200-6015" pid="266/9278">Michelle Sweering</author>
+<title>Hide and Mine in Strings: Hardness and Algorithms.</title>
+<pages>924-929</pages>
+<year>2020</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM50108.2020.00103</ee>
+<crossref>conf/icdm/2020</crossref>
+<url>db/conf/icdm/icdm2020.html#0001CGGLPPPSS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/ChanLS20" mdate="2021-03-01">
+<author pid="48/9282">Hau Chan</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="286/4445">Zhenghui Su</author>
+<title>Algorithms for Optimizing the Ratio of Monotone k-Submodular Functions.</title>
+<pages>3-19</pages>
+<year>2020</year>
+<booktitle>ECML/PKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-67664-3_1</ee>
+<crossref>conf/pkdd/2020-3</crossref>
+<url>db/conf/pkdd/pkdd2020-3.html#ChanLS20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-16137" mdate="2020-07-01">
+<author pid="184/0588">Panagiotis Charalampopoulos</author>
+<author pid="23/2916">Huiping Chen</author>
+<author pid="c/PeterChristen">Peter Christen</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="p/NadiaPisanti">Nadia Pisanti</author>
+<author pid="89/7966">Solon P. Pissis</author>
+<author pid="83/7216">Jakub Radoszewski</author>
+<title>Pattern Masking for Dictionary Matching.</title>
+<year>2020</year>
+<volume>abs/2006.16137</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.16137</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-16137</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/HuLLGWGLD20" mdate="2022-09-27">
+<author pid="31/7616">Changhui Hu</author>
+<author pid="48/1097-2">Jin Li 0002</author>
+<author pid="22/8078">Zheli Liu</author>
+<author pid="43/8066-4">Xiaojie Guo 0004</author>
+<author pid="80/2983">Yu Wei</author>
+<author pid="39/7802">Xuan Guang</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="34/5882">Changyu Dong</author>
+<title>How to Make Private Distributed Cardinality Estimation Practical, and Get Differential Privacy for Free.</title>
+<pages>1576</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/1576</ee>
+<url>db/journals/iacr/iacr2020.html#HuLLGWGLD20</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/ChenLFC19" mdate="2020-10-25">
+<author orcid="0000-0003-1782-667X" pid="23/2916">Huiping Chen</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="237/7716">Jiashi Fan</author>
+<author pid="48/9282">Hau Chan</author>
+<title>Limiting the Influence to Vulnerable Users in Social Networks: A Ratio Perspective.</title>
+<pages>1106-1122</pages>
+<year>2019</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-15032-7_93</ee>
+<crossref>conf/aina/2019</crossref>
+<url>db/conf/aina/aina2019.html#ChenLFC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/0001CCGLPPR19" mdate="2020-10-25">
+<author orcid="0000-0001-6647-088X" pid="11/495-1">Giulia Bernardini 0001</author>
+<author orcid="0000-0003-1782-667X" pid="23/2916">Huiping Chen</author>
+<author pid="164/5849">Alessio Conte</author>
+<author pid="g/RobertoGrossi">Roberto Grossi</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="p/NadiaPisanti">Nadia Pisanti</author>
+<author pid="89/7966">Solon P. Pissis</author>
+<author pid="14/4683">Giovanna Rosone</author>
+<title>String Sanitization: A Combinatorial Approach.</title>
+<pages>627-644</pages>
+<year>2019</year>
+<booktitle>ECML/PKDD (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-46150-8_37</ee>
+<crossref>conf/pkdd/2019-1</crossref>
+<url>db/conf/pkdd/pkdd2019-1.html#0001CCGLPPR19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-11030" mdate="2019-06-27">
+<author pid="11/495-1">Giulia Bernardini 0001</author>
+<author pid="23/2916">Huiping Chen</author>
+<author pid="164/5849">Alessio Conte</author>
+<author pid="g/RobertoGrossi">Roberto Grossi</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="p/NadiaPisanti">Nadia Pisanti</author>
+<author pid="89/7966">Solon P. Pissis</author>
+<author pid="14/4683">Giovanna Rosone</author>
+<title>String Sanitization: A Combinatorial Approach.</title>
+<year>2019</year>
+<volume>abs/1906.11030</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.11030</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-11030</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-00055" mdate="2020-09-17">
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="47/3584">George Theodorakopoulos 0001</author>
+<title>Location histogram privacy by sensitive location hiding and target histogram avoidance/resemblance (extended version).</title>
+<year>2019</year>
+<volume>abs/1912.00055</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.00055</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-00055</url>
+</article>
+</r>
+<r><article key="journals/ijdsa/LoukidesG18" mdate="2020-04-25">
+<author orcid="0000-0003-0888-5061" pid="96/4724">Grigorios Loukides</author>
+<author pid="95/3034">Robert Gwadera</author>
+<title>Preventing the diffusion of information to vulnerable users while preserving PageRank.</title>
+<pages>19-39</pages>
+<year>2018</year>
+<volume>5</volume>
+<journal>Int. J. Data Sci. Anal.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s41060-017-0082-x</ee>
+<url>db/journals/ijdsa/ijdsa5.html#LoukidesG18</url>
+</article>
+</r>
+<r><inproceedings key="conf/ifip12/AjalaAIL18" mdate="2022-04-09">
+<author pid="206/3267">Oluwole I. Ajala</author>
+<author orcid="0000-0003-3157-8086" pid="204/8417">Hayam Alamro</author>
+<author pid="i/CSIliopoulos">Costas S. Iliopoulos</author>
+<author orcid="0000-0003-0888-5061" pid="96/4724">Grigorios Loukides</author>
+<title>Towards String Sanitization.</title>
+<pages>200-210</pages>
+<year>2018</year>
+<booktitle>AIAI (Workshops)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-92016-0_19</ee>
+<crossref>conf/ifip12/2018aiaiw</crossref>
+<url>db/conf/ifip12/aiai2018w.html#AjalaAIL18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/DongL18" mdate="2020-05-11">
+<author pid="34/5882">Changyu Dong</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<title>Approximating Private Set Union/Intersection Cardinality with Logarithmic Complexity.</title>
+<pages>495</pages>
+<year>2018</year>
+<volume>2018</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2018/495</ee>
+<url>db/journals/iacr/iacr2018.html#DongL18</url>
+</article>
+</r>
+<r><article key="journals/jbi/PoulisLSG17" mdate="2022-01-03">
+<author pid="133/7756">Giorgos Poulis</author>
+<author orcid="0000-0003-0888-5061" pid="96/4724">Grigorios Loukides</author>
+<author orcid="0000-0003-3465-8292" pid="01/5237">Spiros Skiadopoulos</author>
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<title>Anonymizing datasets with demographics and diagnosis codes in the presence of utility constraints.</title>
+<pages>76-96</pages>
+<year>2017</year>
+<volume>65</volume>
+<journal>J. Biomed. Informatics</journal>
+<ee type="oa">https://doi.org/10.1016/j.jbi.2016.11.001</ee>
+<ee>https://www.wikidata.org/entity/Q39197892</ee>
+<url>db/journals/jbi/jbi65.html#PoulisLSG17</url>
+</article>
+</r>
+<r><article key="journals/tifs/DongL17" mdate="2020-08-06">
+<author orcid="0000-0002-8625-0275" pid="34/5882">Changyu Dong</author>
+<author orcid="0000-0003-0888-5061" pid="96/4724">Grigorios Loukides</author>
+<title>Approximating Private Set Union/Intersection Cardinality With Logarithmic Complexity.</title>
+<pages>2792-2806</pages>
+<year>2017</year>
+<volume>12</volume>
+<journal>IEEE Trans. Inf. Forensics Secur.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TIFS.2017.2721360</ee>
+<url>db/journals/tifs/tifs12.html#DongL17</url>
+</article>
+</r>
+<r><inproceedings key="conf/pakdd/GwaderaL17" mdate="2017-05-25">
+<author pid="95/3034">Robert Gwadera</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<title>Cost-Effective Viral Marketing in the Latency Aware Independent Cascade Model.</title>
+<pages>251-265</pages>
+<year>2017</year>
+<booktitle>PAKDD (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-57454-7_20</ee>
+<crossref>conf/pakdd/2017-1</crossref>
+<url>db/conf/pakdd/pakdd2017-1.html#GwaderaL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsaa/LoukidesG16" mdate="2017-05-19">
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="95/3034">Robert Gwadera</author>
+<title>Limiting the Diffusion of Information by a Selective PageRank-Preserving Approach.</title>
+<pages>90-99</pages>
+<year>2016</year>
+<booktitle>DSAA</booktitle>
+<ee>https://doi.org/10.1109/DSAA.2016.16</ee>
+<crossref>conf/dsaa/2016</crossref>
+<url>db/conf/dsaa/dsaa2016.html#LoukidesG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispdc/MemonLS15" mdate="2023-03-24">
+<author pid="164/0707">Neelam Memon</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="18/5047-1">Jianhua Shao 0001</author>
+<title>A Parallel Method for Scalable Anonymization of Transaction Data.</title>
+<pages>235-241</pages>
+<year>2015</year>
+<booktitle>ISPDC</booktitle>
+<ee>https://doi.org/10.1109/ISPDC.2015.34</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISPDC.2015.34</ee>
+<crossref>conf/ispdc/2015</crossref>
+<url>db/conf/ispdc/ispdc2015.html#MemonLS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdm/LoukidesG15" mdate="2017-05-17">
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="95/3034">Robert Gwadera</author>
+<title>Optimal event sequence sanitization.</title>
+<pages>775-783</pages>
+<year>2015</year>
+<booktitle>SDM</booktitle>
+<ee>https://doi.org/10.1137/1.9781611974010.87</ee>
+<crossref>conf/sdm/2015</crossref>
+<url>db/conf/sdm/sdm2015.html#LoukidesG15</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/15/Gkoulalas-DivanisL15" mdate="2017-05-16">
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<title>Introduction to Medical Data Privacy.</title>
+<pages>1-14</pages>
+<year>2015</year>
+<booktitle>Medical Data Privacy Handbook</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23633-9_1</ee>
+<crossref>books/sp/GL2015</crossref>
+<url>db/books/collections/GL2015.html#Gkoulalas-DivanisL15</url>
+</incollection>
+</r>
+<r><incollection key="books/sp/15/Gkoulalas-DivanisL15a" mdate="2017-05-16">
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<title>A Survey of Anonymization Algorithms for Electronic Health Records.</title>
+<pages>17-34</pages>
+<year>2015</year>
+<booktitle>Medical Data Privacy Handbook</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23633-9_2</ee>
+<crossref>books/sp/GL2015</crossref>
+<url>db/books/collections/GL2015.html#Gkoulalas-DivanisL15a</url>
+</incollection>
+</r>
+<r><incollection key="books/sp/15/PoulisGLST15" mdate="2022-10-02">
+<author pid="133/7756">Giorgos Poulis</author>
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author orcid="0000-0003-3465-8292" pid="01/5237">Spiros Skiadopoulos</author>
+<author orcid="0000-0003-0640-9088" pid="91/5548">Christos Tryfonopoulos</author>
+<title>SECRETA: A Tool for Anonymizing Relational, Transaction and RT-Datasets.</title>
+<pages>83-109</pages>
+<year>2015</year>
+<booktitle>Medical Data Privacy Handbook</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23633-9_5</ee>
+<crossref>books/sp/GL2015</crossref>
+<url>db/books/collections/GL2015.html#PoulisGLST15</url>
+</incollection>
+</r>
+<r><incollection key="books/sp/15/LoukidesLGT15" mdate="2022-10-02">
+<author pid="96/4724">Grigorios Loukides</author>
+<author orcid="0000-0003-4692-3022" pid="95/9170">John Liagouris</author>
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<author orcid="0000-0003-0784-8402" pid="t/ManolisTerrovitis">Manolis Terrovitis</author>
+<title>Utility-Constrained Electronic Health Record Data Publishing Through Generalization and Disassociation.</title>
+<pages>149-177</pages>
+<year>2015</year>
+<booktitle>Medical Data Privacy Handbook</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23633-9_7</ee>
+<crossref>books/sp/GL2015</crossref>
+<url>db/books/collections/GL2015.html#LoukidesLGT15</url>
+</incollection>
+</r>
+<r><incollection key="books/sp/15/Gkoulalas-DivanisL15b" mdate="2017-05-16">
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<title>Epilogue.</title>
+<pages>765-773</pages>
+<year>2015</year>
+<booktitle>Medical Data Privacy Handbook</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23633-9_29</ee>
+<crossref>books/sp/GL2015</crossref>
+<url>db/books/collections/GL2015.html#Gkoulalas-DivanisL15b</url>
+</incollection>
+</r>
+<r><book key="books/sp/GL2015" mdate="2017-05-16">
+<editor pid="64/4944">Aris Gkoulalas-Divanis</editor>
+<editor pid="96/4724">Grigorios Loukides</editor>
+<title>Medical Data Privacy Handbook</title>
+<publisher>Springer</publisher>
+<year>2015</year>
+<isbn>978-3-319-23632-2</isbn>
+<isbn>978-3-319-23633-9</isbn>
+<ee>https://doi.org/10.1007/978-3-319-23633-9</ee>
+<url>db/books/collections/GL2015.html</url>
+</book>
+</r>
+<r><article key="journals/ibmrd/Gkoulalas-DivanisLS14" mdate="2023-08-28">
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author orcid="0000-0003-1512-6426" pid="54/4948">Jimeng Sun 0001</author>
+<title>Toward smarter healthcare: Anonymizing medical data to support research studies.</title>
+<year>2014</year>
+<volume>58</volume>
+<journal>IBM J. Res. Dev.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1147/JRD.2013.2288173</ee>
+<url>db/journals/ibmrd/ibmrd58.html#Gkoulalas-DivanisLS14</url>
+</article>
+</r>
+<r><article key="journals/jbi/Gkoulalas-DivanisLXS14" mdate="2023-08-28">
+<author orcid="0000-0003-0011-6591" pid="64/4944">Aris Gkoulalas-Divanis</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author orcid="0000-0001-7354-0428" pid="39/3530-1">Li Xiong 0001</author>
+<author orcid="0000-0003-1512-6426" pid="54/4948">Jimeng Sun 0001</author>
+<title>Informatics methods in medical privacy.</title>
+<pages>1-3</pages>
+<year>2014</year>
+<volume>50</volume>
+<journal>J. Biomed. Informatics</journal>
+<ee type="oa">https://doi.org/10.1016/j.jbi.2014.07.010</ee>
+<ee>https://www.wikidata.org/entity/Q51061688</ee>
+<url>db/journals/jbi/jbi50.html#Gkoulalas-DivanisLXS14</url>
+</article>
+</r>
+<r><article key="journals/jbi/Gkoulalas-DivanisLS14" mdate="2023-08-28">
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author orcid="0000-0003-1512-6426" pid="54/4948">Jimeng Sun 0001</author>
+<title>Publishing data from electronic health records while preserving privacy: A survey of algorithms.</title>
+<pages>4-19</pages>
+<year>2014</year>
+<volume>50</volume>
+<journal>J. Biomed. Informatics</journal>
+<ee type="oa">https://doi.org/10.1016/j.jbi.2014.06.002</ee>
+<ee>https://www.wikidata.org/entity/Q30831686</ee>
+<url>db/journals/jbi/jbi50.html#Gkoulalas-DivanisLS14</url>
+</article>
+</r>
+<r><article key="journals/jbi/LoukidesLGT14" mdate="2022-10-02">
+<author orcid="0000-0003-0888-5061" pid="96/4724">Grigorios Loukides</author>
+<author pid="95/9170">John Liagouris</author>
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<author orcid="0000-0003-0784-8402" pid="t/ManolisTerrovitis">Manolis Terrovitis</author>
+<title>Disassociation for electronic health record privacy.</title>
+<pages>46-61</pages>
+<year>2014</year>
+<volume>50</volume>
+<journal>J. Biomed. Informatics</journal>
+<ee type="oa">https://doi.org/10.1016/j.jbi.2014.05.009</ee>
+<ee>https://www.wikidata.org/entity/Q42663149</ee>
+<url>db/journals/jbi/jbi50.html#LoukidesLGT14</url>
+</article>
+</r>
+<r><article key="journals/tdp/PoulisSLG14" mdate="2021-02-17">
+<author pid="133/7756">Giorgos Poulis</author>
+<author pid="01/5237">Spiros Skiadopoulos</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<title>Apriori-based algorithms for k<sup>m</sup>-anonymizing trajectory data.</title>
+<pages>165-194</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Trans. Data Priv.</journal>
+<number>2</number>
+<ee type="oa">http://www.tdp.cat/issues11/abs.a194a14.php</ee>
+<url>db/journals/tdp/tdp7.html#PoulisSLG14</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/PoulisGLST14" mdate="2022-01-03">
+<author pid="133/7756">Giorgos Poulis</author>
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author orcid="0000-0003-3465-8292" pid="01/5237">Spiros Skiadopoulos</author>
+<author orcid="0000-0003-0640-9088" pid="91/5548">Christos Tryfonopoulos</author>
+<title>SECRETA: A System for Evaluating and Comparing RElational and Transaction Anonymization algorithms.</title>
+<pages>620-623</pages>
+<year>2014</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2014.58</ee>
+<crossref>conf/edbt/2014</crossref>
+<url>db/conf/edbt/edbt2014.html#PoulisGLST14</url>
+</inproceedings>
+</r>
+<r><book key="series/sbece/Gkoulalas-DivanisL13" mdate="2017-05-16">
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<title>Anonymization of Electronic Medical Records to Support Clinical Analysis</title>
+<year>2013</year>
+<pages>i-xv, 1-72</pages>
+<publisher>Springer</publisher>
+<series href="db/series/sbece/index.html">Springer Briefs in Electrical and Computer Engineering</series>
+<isbn>978-1-4614-5667-4</isbn>
+<isbn>978-1-4614-5668-1</isbn>
+<ee>https://doi.org/10.1007/978-1-4614-5668-1</ee>
+</book>
+</r>
+<r><article key="journals/kais/LoukidesGS13" mdate="2019-03-27">
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<author pid="18/5047-1">Jianhua Shao 0001</author>
+<title>Efficient and flexible anonymization of transaction data.</title>
+<pages>153-210</pages>
+<year>2013</year>
+<volume>36</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10115-012-0544-3</ee>
+<url>db/journals/kais/kais36.html#LoukidesGS13</url>
+</article>
+</r>
+<r><article key="journals/titb/LoukidesG13" mdate="2020-03-13">
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<title>Utility-Aware Anonymization of Diagnosis Codes.</title>
+<pages>60-70</pages>
+<year>2013</year>
+<volume>17</volume>
+<journal>IEEE J. Biomed. Health Informatics</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TITB.2012.2212281</ee>
+<ee>https://www.wikidata.org/entity/Q45900649</ee>
+<url>db/journals/titb/titb17.html#LoukidesG13</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdm/GwaderaGL13" mdate="2023-03-24">
+<author pid="95/3034">Robert Gwadera</author>
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<title>Permutation-Based Sequential Pattern Hiding.</title>
+<pages>241-250</pages>
+<year>2013</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2013.57</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDM.2013.57</ee>
+<crossref>conf/icdm/2013</crossref>
+<url>db/conf/icdm/icdm2013.html#GwaderaGL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/PoulisSLG13" mdate="2023-03-24">
+<author pid="133/7756">Giorgos Poulis</author>
+<author orcid="0000-0003-3465-8292" pid="01/5237">Spiros Skiadopoulos</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<title>Select-Organize-Anonymize: A Framework for Trajectory Data Anonymization.</title>
+<pages>867-874</pages>
+<year>2013</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2013.136</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDMW.2013.136</ee>
+<crossref>conf/icdm/2013w</crossref>
+<url>db/conf/icdm/icdmw2013.html#PoulisSLG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mdm/LoukidesG13" mdate="2023-03-23">
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<title>Hiding Sensitive Patterns from Sequence Databases: Research Challenges and Solutions.</title>
+<pages>45-50</pages>
+<year>2013</year>
+<booktitle>MDM (2)</booktitle>
+<ee>https://doi.org/10.1109/MDM.2013.64</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MDM.2013.64</ee>
+<crossref>conf/mdm/2013-2</crossref>
+<url>db/conf/mdm/mdm2013-2.html#LoukidesG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mdm/PoulisSLG13" mdate="2023-03-23">
+<author pid="133/7756">Giorgos Poulis</author>
+<author orcid="0000-0003-3465-8292" pid="01/5237">Spiros Skiadopoulos</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<title>Distance-Based k^m-Anonymization of Trajectory Data.</title>
+<pages>57-62</pages>
+<year>2013</year>
+<booktitle>MDM (2)</booktitle>
+<ee>https://doi.org/10.1109/MDM.2013.66</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MDM.2013.66</ee>
+<crossref>conf/mdm/2013-2</crossref>
+<url>db/conf/mdm/mdm2013-2.html#PoulisSLG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/PoulisLGS13" mdate="2022-01-03">
+<author pid="133/7756">Giorgos Poulis</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<author orcid="0000-0003-3465-8292" pid="01/5237">Spiros Skiadopoulos</author>
+<title>Anonymizing Data with Relational and Transaction Attributes.</title>
+<pages>353-369</pages>
+<year>2013</year>
+<booktitle>ECML/PKDD (3)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-40994-3_23</ee>
+<crossref>conf/pkdd/2013-3</crossref>
+<url>db/conf/pkdd/pkdd2013-3.html#PoulisLGS13</url>
+</inproceedings>
+</r>
+<r><article key="journals/eswa/LoukidesG12" mdate="2018-11-14">
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<title>Utility-preserving transaction data anonymization with low information loss.</title>
+<pages>9764-9777</pages>
+<year>2012</year>
+<volume>39</volume>
+<journal>Expert Syst. Appl.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/j.eswa.2012.02.179</ee>
+<ee>https://www.wikidata.org/entity/Q34259533</ee>
+<url>db/journals/eswa/eswa39.html#LoukidesG12</url>
+</article>
+</r>
+<r><article key="journals/ijsi/LoukidesGS12" mdate="2020-08-06">
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<author pid="18/5047-1">Jianhua Shao 0001</author>
+<title>Assessing Disclosure Risk and Data Utility Trade-off in Transaction Data Anonymization.</title>
+<pages>399-417</pages>
+<year>2012</year>
+<volume>6</volume>
+<journal>Int. J. Softw. Informatics</journal>
+<number>3</number>
+<ee>http://www.ijsi.org/ch/reader/view_abstract.aspx?file_no=i137</ee>
+<url>db/journals/ijsi/ijsi6.html#LoukidesGS12</url>
+</article>
+</r>
+<r><article key="journals/tdp/Gkoulalas-DivanisL12" mdate="2021-02-17">
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<title>Utility-guided Clustering-based Transaction Data Anonymization.</title>
+<pages>223-251</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Trans. Data Priv.</journal>
+<number>1</number>
+<ee type="oa">http://www.tdp.cat/issues11/abs.a083a11.php</ee>
+<url>db/journals/tdp/tdp5.html#Gkoulalas-DivanisL12</url>
+</article>
+</r>
+<r><article key="journals/titb/TamersoyLNSM12" mdate="2020-05-13">
+<author pid="79/9389">Acar Tamersoy</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="81/5926">Mehmet Ercan Nergiz</author>
+<author pid="48/5154">Y&#252;cel Saygin</author>
+<author pid="m/BradleyMalin">Bradley A. Malin</author>
+<title>Anonymization of Longitudinal Electronic Medical Records.</title>
+<pages>413-423</pages>
+<year>2012</year>
+<volume>16</volume>
+<journal>IEEE Trans. Inf. Technol. Biomed.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TITB.2012.2185850</ee>
+<ee>https://www.wikidata.org/entity/Q37187796</ee>
+<url>db/journals/titb/titb16.html#TamersoyLNSM12</url>
+</article>
+</r>
+<r><article key="journals/eswa/LoukidesS11" mdate="2019-03-27">
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="18/5047-1">Jianhua Shao 0001</author>
+<title>Preventing range disclosure in k-anonymised data.</title>
+<pages>4559-4574</pages>
+<year>2011</year>
+<volume>38</volume>
+<journal>Expert Syst. Appl.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.eswa.2010.09.130</ee>
+<url>db/journals/eswa/eswa38.html#LoukidesS11</url>
+</article>
+</r>
+<r><article key="journals/kais/LoukidesGM11" mdate="2019-10-04">
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<author pid="m/BradleyMalin">Bradley A. Malin</author>
+<title>COAT: COnstraint-based anonymization of transactions.</title>
+<pages>251-282</pages>
+<year>2011</year>
+<volume>28</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10115-010-0354-4</ee>
+<url>db/journals/kais/kais28.html#LoukidesGM11</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/Gkoulalas-DivanisL11" mdate="2018-11-06">
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<title>PCTA: privacy-constrained clustering-based transaction data anonymization.</title>
+<pages>5</pages>
+<year>2011</year>
+<booktitle>PAIS</booktitle>
+<ee>https://doi.org/10.1145/1971690.1971695</ee>
+<crossref>conf/edbt/2011pais</crossref>
+<url>db/conf/edbt/pais2011.html#Gkoulalas-DivanisL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fskd/TziatziosSL11" mdate="2019-03-27">
+<author pid="13/7425">Achilles Tziatzios</author>
+<author pid="18/5047-1">Jianhua Shao 0001</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<title>A heuristic method for deriving range-based classification rules.</title>
+<pages>925-929</pages>
+<year>2011</year>
+<booktitle>FSKD</booktitle>
+<ee>https://doi.org/10.1109/FSKD.2011.6019723</ee>
+<crossref>conf/fskd/2011</crossref>
+<url>db/conf/fskd/fskd2011.html#TziatziosSL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/Gkoulalas-DivanisL11" mdate="2018-11-06">
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<title>Revisiting sequential pattern hiding to enhance utility.</title>
+<pages>1316-1324</pages>
+<year>2011</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/2020408.2020605</ee>
+<crossref>conf/kdd/2011</crossref>
+<url>db/conf/kdd/kdd2011.html#Gkoulalas-DivanisL11</url>
+</inproceedings>
+</r>
+<r><article key="journals/jamia/LoukidesDM10" mdate="2020-05-11">
+<author pid="96/4724">Grigorios Loukides</author>
+<author orcid="0000-0002-3049-7332" pid="41/7339">Joshua C. Denny</author>
+<author pid="m/BradleyMalin">Bradley A. Malin</author>
+<title>The disclosure of diagnosis codes can breach research participants' privacy.</title>
+<pages>322-327</pages>
+<year>2010</year>
+<volume>17</volume>
+<journal>J. Am. Medical Informatics Assoc.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1136/jamia.2009.002725</ee>
+<ee>https://www.wikidata.org/entity/Q28744507</ee>
+<url>db/journals/jamia/jamia17.html#LoukidesDM10</url>
+</article>
+</r>
+<r><inproceedings key="conf/dexa/LoukidesGS10" mdate="2019-03-27">
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<author pid="18/5047-1">Jianhua Shao 0001</author>
+<title>Anonymizing Transaction Data to Eliminate Sensitive Inferences.</title>
+<pages>400-415</pages>
+<year>2010</year>
+<booktitle>DEXA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15364-8_34</ee>
+<crossref>conf/dexa/2010-1</crossref>
+<url>db/conf/dexa/dexa2010-1.html#LoukidesGS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ihi/BenitezLM10" mdate="2020-05-30">
+<author pid="58/9195">Kathleen Benitez</author>
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="m/BradleyMalin">Bradley A. Malin</author>
+<title>Beyond safe harbor: automatic discovery of health information de-identification policy alternatives.</title>
+<pages>163-172</pages>
+<year>2010</year>
+<booktitle>IHI</booktitle>
+<ee>https://doi.org/10.1145/1882992.1883017</ee>
+<ee>https://www.wikidata.org/entity/Q86353894</ee>
+<crossref>conf/ihi/2010</crossref>
+<url>db/conf/ihi/ihi2010.html#BenitezLM10</url>
+</inproceedings>
+</r>
+<r><article key="journals/crossroads/LoukidesG09" mdate="2018-11-06">
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<title>Privacy challenges and solutions in the social web.</title>
+<pages>14-18</pages>
+<year>2009</year>
+<volume>16</volume>
+<journal>ACM Crossroads</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1665997.1666002</ee>
+<url>db/journals/crossroads/crossroads16.html#LoukidesG09</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasfaa/LoukidesTS09" mdate="2019-03-27">
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="13/7425">Achilles Tziatzios</author>
+<author pid="18/5047-1">Jianhua Shao 0001</author>
+<title>Towards Preference-Constrained <i>k</i>-Anonymisation.</title>
+<pages>231-245</pages>
+<year>2009</year>
+<booktitle>DASFAA Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04205-8_20</ee>
+<crossref>conf/dasfaa/2009w</crossref>
+<url>db/conf/dasfaa/dasfaa2009w.html#LoukidesTS09</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0912-2548" mdate="2019-10-04">
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<author pid="m/BradleyMalin">Bradley A. Malin</author>
+<title>COAT: COnstraint-based Anonymization of Transactions</title>
+<ee type="oa">http://arxiv.org/abs/0912.2548</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0912.2548</volume>
+<url>db/journals/corr/corr0912.html#abs-0912-2548</url>
+</article>
+</r>
+<r><phdthesis key="phd/ethos/Loukides08" mdate="2022-04-05">
+<author pid="96/4724">Grigorios Loukides</author>
+<title>Data utility and privacy protection in data publishing.</title>
+<year>2008</year>
+<school>Cardiff University, UK</school>
+<ee>http://orca.cf.ac.uk/54743/</ee>
+<ee>https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.584344</ee>
+<note type="source">British Library, EThOS</note>
+</phdthesis>
+</r>
+<r><article key="journals/jcst/LoukidesS08" mdate="2019-03-27">
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="18/5047-1">Jianhua Shao 0001</author>
+<title>An Efficient Clustering Algorithm for <i>k</i> -Anonymisation.</title>
+<pages>188-202</pages>
+<year>2008</year>
+<volume>23</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11390-008-9121-3</ee>
+<url>db/journals/jcst/jcst23.html#LoukidesS08</url>
+</article>
+</r>
+<r><inproceedings key="conf/bncod/LoukidesS07a" mdate="2019-03-27">
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="18/5047-1">Jianhua Shao 0001</author>
+<title>An Empirical Study of Utility Measures for k-Anonymisation.</title>
+<pages>15-27</pages>
+<year>2008</year>
+<booktitle>BNCOD</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-70504-8_3</ee>
+<crossref>conf/bncod/2008</crossref>
+<url>db/conf/bncod/bncod2008.html#LoukidesS07a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/LoukidesS08" mdate="2019-03-27">
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="18/5047-1">Jianhua Shao 0001</author>
+<title>Data utility and privacy protection trade-off in k-anonymisation.</title>
+<pages>36-45</pages>
+<year>2008</year>
+<booktitle>PAIS</booktitle>
+<ee>https://doi.org/10.1145/1379287.1379296</ee>
+<crossref>conf/edbt/2008pais</crossref>
+<url>db/conf/edbt/pais2008.html#LoukidesS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bncod/LoukidesS07" mdate="2019-03-27">
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="18/5047-1">Jianhua Shao 0001</author>
+<title>Speeding Up Clustering-Based <i>k</i> -Anonymisation Algorithms with Pre-partitioning.</title>
+<pages>203-214</pages>
+<year>2007</year>
+<crossref>conf/bncod/2007</crossref>
+<booktitle>BNCOD</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73390-4_23</ee>
+<url>db/conf/bncod/bncod2007.html#LoukidesS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/LoukidesS07" mdate="2019-03-27">
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="18/5047-1">Jianhua Shao 0001</author>
+<title>Clustering-Based K-Anonymisation Algorithms.</title>
+<pages>761-771</pages>
+<year>2007</year>
+<crossref>conf/dexa/2007</crossref>
+<booktitle>DEXA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74469-6_74</ee>
+<url>db/conf/dexa/dexa2007.html#LoukidesS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/LoukidesS07" mdate="2019-03-27">
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="18/5047-1">Jianhua Shao 0001</author>
+<title>Capturing data usefulness and privacy protection in K-anonymisation.</title>
+<pages>370-374</pages>
+<year>2007</year>
+<crossref>conf/sac/2007</crossref>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1244002.1244091</ee>
+<url>db/conf/sac/sac2007.html#LoukidesS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEcit/LoukidesS06" mdate="2023-03-24">
+<author pid="96/4724">Grigorios Loukides</author>
+<author pid="18/5047-1">Jianhua Shao 0001</author>
+<title>Towards Balancing Data Usefulness and Privacy Protection in K-Anonymisation.</title>
+<pages>15</pages>
+<year>2006</year>
+<crossref>conf/IEEEcit/2006</crossref>
+<booktitle>CIT</booktitle>
+<ee>https://doi.org/10.1109/CIT.2006.184</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CIT.2006.184</ee>
+<url>db/conf/IEEEcit/IEEEcit2006.html#LoukidesS06</url>
+</inproceedings>
+</r>
+<coauthors n="59" nc="1">
+<co c="0"><na f="a/Ajala:Oluwole_I=" pid="206/3267">Oluwole I. Ajala</na></co>
+<co c="0"><na f="a/Alamro:Hayam" pid="204/8417">Hayam Alamro</na></co>
+<co c="0"><na f="a/Ayad:Lorraine_A=_K=" pid="193/1681">Lorraine A. K. Ayad</na></co>
+<co c="0"><na f="b/Benitez:Kathleen" pid="58/9195">Kathleen Benitez</na></co>
+<co c="0"><na f="b/Bernardini_0001:Giulia" pid="11/495-1">Giulia Bernardini 0001</na></co>
+<co c="0"><na f="c/Chan:Hau" pid="48/9282">Hau Chan</na></co>
+<co c="0"><na f="c/Chang:Shing=Wan" pid="280/2895">Shing-Wan Chang</na></co>
+<co c="0"><na f="c/Charalampopoulos:Panagiotis" pid="184/0588">Panagiotis Charalampopoulos</na></co>
+<co c="0"><na f="c/Chen:Huiping" pid="23/2916">Huiping Chen</na></co>
+<co c="0"><na f="c/Christen:Peter" pid="c/PeterChristen">Peter Christen</na></co>
+<co c="0"><na f="c/Conte:Alessio" pid="164/5849">Alessio Conte</na></co>
+<co c="0"><na f="d/Denny:Joshua_C=" pid="41/7339">Joshua C. Denny</na></co>
+<co c="0"><na f="d/Dong:Changyu" pid="34/5882">Changyu Dong</na></co>
+<co c="0"><na f="f/Fan:Jiashi" pid="237/7716">Jiashi Fan</na></co>
+<co c="0"><na f="f/Fan:Liyue" pid="94/10961">Liyue Fan</na></co>
+<co c="0"><na f="f/Fici:Gabriele" pid="81/6991">Gabriele Fici</na></co>
+<co c="0"><na f="g/Gabory:Est=eacute=ban" pid="322/6691">Est&#233;ban Gabory</na></co>
+<co c="0"><na f="g/Gkoulalas=Divanis:Aris" pid="64/4944">Aris Gkoulalas-Divanis</na></co>
+<co c="0"><na f="g/Gourdel:Garance" pid="213/7336">Garance Gourdel</na></co>
+<co c="0"><na f="g/Grossi:Roberto" pid="g/RobertoGrossi">Roberto Grossi</na></co>
+<co c="0"><na f="g/Guang:Xuan" pid="39/7802">Xuan Guang</na></co>
+<co c="0"><na f="g/Guo_0004:Xiaojie" pid="43/8066-4">Xiaojie Guo 0004</na></co>
+<co c="0"><na f="g/Gwadera:Robert" pid="95/3034">Robert Gwadera</na></co>
+<co c="0"><na f="h/Hu:Changhui" pid="31/7616">Changhui Hu</na></co>
+<co c="0"><na f="i/Iliopoulos:Costas_S=" pid="i/CSIliopoulos">Costas S. Iliopoulos</na></co>
+<co c="0"><na f="l/Li_0002:Jin" pid="48/1097-2">Jin Li 0002</na></co>
+<co c="0"><na f="l/Li:Minming" pid="78/6881">Minming Li</na></co>
+<co c="0"><na f="l/Liagouris:John" pid="95/9170">John Liagouris</na></co>
+<co c="0"><na f="l/Liu_0035:Chang" pid="52/5716-35">Chang Liu 0035</na></co>
+<co c="0"><na f="l/Liu:Zheli" pid="22/8078">Zheli Liu</na></co>
+<co c="0"><na f="m/Malin:Bradley_A=" pid="m/BradleyMalin">Bradley A. Malin</na></co>
+<co c="0"><na f="m/Memon:Neelam" pid="164/0707">Neelam Memon</na></co>
+<co c="0"><na f="n/Nergiz:Mehmet_Ercan" pid="81/5926">Mehmet Ercan Nergiz</na></co>
+<co c="0"><na f="p/Pisanti:Nadia" pid="p/NadiaPisanti">Nadia Pisanti</na></co>
+<co c="0"><na f="p/Pissis:Solon_P=" pid="89/7966">Solon P. Pissis</na></co>
+<co c="0"><na f="p/Poulis:Giorgos" pid="133/7756">Giorgos Poulis</na></co>
+<co c="0"><na f="p/Punzi:Giulia" pid="249/9878">Giulia Punzi</na></co>
+<co c="0"><na f="r/Radoszewski:Jakub" pid="83/7216">Jakub Radoszewski</na></co>
+<co c="0"><na f="r/Rosone:Giovanna" pid="14/4683">Giovanna Rosone</na></co>
+<co c="0"><na f="s/Saygin:Y=uuml=cel" pid="48/5154">Y&#252;cel Saygin</na></co>
+<co c="0"><na f="s/Shao_0001:Jianhua" pid="18/5047-1">Jianhua Shao 0001</na></co>
+<co c="0"><na f="s/Shekelyan:Michael" pid="144/3316">Michael Shekelyan</na></co>
+<co c="0"><na f="s/Skiadopoulos:Spiros" pid="01/5237">Spiros Skiadopoulos</na></co>
+<co c="0"><na f="s/Stougie:Leen" pid="05/1060">Leen Stougie</na></co>
+<co c="0"><na f="s/Su:Zhenghui" pid="286/4445">Zhenghui Su</na></co>
+<co c="0"><na f="s/Sun_0001:Jimeng" pid="54/4948">Jimeng Sun 0001</na></co>
+<co c="0"><na f="s/Sweering:Michelle" pid="266/9278">Michelle Sweering</na></co>
+<co c="0"><na f="t/Tamersoy:Acar" pid="79/9389">Acar Tamersoy</na></co>
+<co c="0"><na f="t/Terrovitis:Manolis" pid="t/ManolisTerrovitis">Manolis Terrovitis</na></co>
+<co c="0"><na f="t/Thankachan:Sharma_V=" pid="99/7237">Sharma V. Thankachan</na></co>
+<co c="0"><na f="t/Theodorakopoulos_0001:George" pid="47/3584">George Theodorakopoulos 0001</na></co>
+<co c="0"><na f="t/Tryfonopoulos:Christos" pid="91/5548">Christos Tryfonopoulos</na></co>
+<co c="0"><na f="t/Tziatzios:Achilles" pid="13/7425">Achilles Tziatzios</na></co>
+<co c="0"><na f="v/Verbeek_0001:Hilde" pid="342/9111-1">Hilde Verbeek 0001</na></co>
+<co c="0"><na f="w/Wei:Yu" pid="80/2983">Yu Wei</na></co>
+<co c="0"><na f="x/Xiong_0001:Li" pid="39/3530-1">Li Xiong 0001</na></co>
+<co c="0"><na f="z/Zheng:Leqian" pid="274/8121">Leqian Zheng</na></co>
+<co c="0"><na f="z/Zhong:Haodi" pid="258/9015">Haodi Zhong</na></co>
+<co c="0"><na f="z/Zuba:Wiktor" pid="223/9846">Wiktor Zuba</na></co>
+</coauthors>
+</dblpperson>

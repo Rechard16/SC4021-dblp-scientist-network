@@ -1,0 +1,465 @@
+<dblpperson name="Ingo M&#252;ller 0002" pid="76/3160-2" n="27">
+<person key="homepages/76/3160-2" mdate="2021-06-23">
+<author pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<note type="affiliation">ETH Zurich, Switzerland</note>
+<note type="affiliation">SAP Karlsruhe, Germany</note>
+<note type="affiliation">Karlsruhe Institute of Technology, Germany</note>
+<url>http://www.systems.ethz.ch/people/ingo-mueller</url>
+<url>https://orcid.org/0000-0001-8818-8324</url>
+<url>https://www.scopus.com/authid/detail.uri?authorId=57197918389</url>
+</person>
+<homonyms n="4">
+<h f="m/M=uuml=ller:Ingo"><name>Ingo M&#252;ller</name>
+</h>
+<h f="m/M=uuml=ller_0001:Ingo"><person key="homepages/76/3160-1" mdate="2022-08-16">
+<author pid="76/3160-1">Ingo Mueller 0001</author>
+<author pid="76/3160-1">Ingo M&#252;ller 0001</author>
+<note type="affiliation">Monash University, Clayton, Victoria, Australia</note>
+<note type="affiliation" label="former">Swinburne University of Technology, Hawthorn, Australia</note>
+<note type="affiliation" label="former">University of Jena, Germany</note>
+<url>https://research.monash.edu/en/persons/ingo-mueller</url>
+<url type="archive">http://www.ict.swin.edu.au/centres/success/iat/tiki-index.php?page=imueller</url>
+<url>https://orcid.org/0000-0003-2240-712X</url>
+</person>
+</h>
+<h f="m/M=uuml=ller_0003:Ingo"><person key="homepages/76/3160-3" mdate="2016-11-09">
+<author pid="76/3160-3">Ingo M&#252;ller 0003</author>
+<note type="affiliation">Technical University Berlin, Germany</note>
+</person>
+</h>
+<h f="m/M=uuml=ller_0004:Ingo"><person key="homepages/76/3160-4" mdate="2019-02-04">
+<author pid="76/3160-4">Ingo M&#252;ller 0004</author>
+<note type="affiliation">Technische Hochschule Leipzig, Germany</note>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/pvldb/ChiosaMMAM22" mdate="2023-10-28">
+<author pid="263/7109">Monica Chiosa</author>
+<author orcid="0000-0003-1576-417X" pid="266/5766">Fabio Maschi</author>
+<author pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="89/6071">Norman May</author>
+<title>Hardware Acceleration of Compression and Encryption in SAP HANA.</title>
+<pages>3277-3291</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p3277-chiosa.pdf</ee>
+<ee>https://doi.org/10.14778/3554821.3554822</ee>
+<url>db/journals/pvldb/pvldb15.html#ChiosaMMAM22</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2202-06646" mdate="2022-02-18">
+<author pid="287/9861">Michal Wawrzoniak</author>
+<author pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="161/9002">Rodrigo Bruno</author>
+<author pid="140/2247">Ana Klimovic</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Short-lived Datacenter.</title>
+<year>2022</year>
+<volume>abs/2202.06646</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2202.06646</ee>
+<url>db/journals/corr/corr2202.html#abs-2202-06646</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2208-09519" mdate="2022-08-29">
+<author pid="165/3696">Simon Kassing</author>
+<author pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Resource Allocation in Serverless Query Processing.</title>
+<year>2022</year>
+<volume>abs/2208.09519</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2208.09519</ee>
+<url>db/journals/corr/corr2208.html#abs-2208-09519</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KoutsoukosMMKA21" mdate="2023-03-21">
+<author pid="195/1301">Dimitrios Koutsoukos</author>
+<author pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="173/9193">Renato Marroqu&#237;n</author>
+<author orcid="0000-0001-8559-0529" pid="140/2247">Ana Klimovic</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Modularis: Modular Relational Analytics over Heterogeneous Distributed Platforms.</title>
+<pages>3308-3321</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p3308-koutsoukos.pdf</ee>
+<ee>https://doi.org/10.14778/3484224.3484229</ee>
+<url>db/journals/pvldb/pvldb14.html#KoutsoukosMMKA21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GraurMPFWA21" mdate="2022-04-21">
+<author pid="33/5226">Dan Graur</author>
+<author pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="291/2644">Mason Proffitt</author>
+<author pid="86/1723">Ghislain Fourny</author>
+<author pid="291/2977">Gordon T. Watts</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Evaluating Query Languages and Systems for High-Energy Physics Data.</title>
+<pages>154-168</pages>
+<year>2021</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol15/p154-muller.pdf</ee>
+<ee>https://doi.org/10.14778/3489496.3489498</ee>
+<url>db/journals/pvldb/pvldb15.html#GraurMPFWA21</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/Wawrzoniak0AB21" mdate="2022-07-18">
+<author pid="287/9861">Michal Wawrzoniak</author>
+<author pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="161/9002">Rodrigo Bruno</author>
+<title>Boxer: Data Analytics on Network-enabled Serverless Platforms.</title>
+<year>2021</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2021/papers/cidr2021_paper12.pdf</ee>
+<crossref>conf/cidr/2021</crossref>
+<url>db/conf/cidr/cidr2021.html#Wawrzoniak0AB21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-12615" mdate="2021-05-03">
+<author pid="33/5226">Dan Graur</author>
+<author pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="86/1723">Ghislain Fourny</author>
+<author pid="291/2977">Gordon T. Watts</author>
+<author pid="291/2644">Mason Proffitt</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Evaluating Query Languages and Systems for High-Energy Physics Data.</title>
+<year>2021</year>
+<volume>abs/2104.12615</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.12615</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-12615</url>
+</article>
+</r>
+<r><article key="journals/pvldb/0002FICA20" mdate="2021-03-23">
+<author pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="86/1723">Ghislain Fourny</author>
+<author pid="251/9142">Stefan Irimescu</author>
+<author pid="251/8981">Can Berker Cikis</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Rumble: Data Independence for Large Messy Data Sets.</title>
+<pages>498-506</pages>
+<year>2020</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p498-muller.pdf</ee>
+<ee>https://doi.org/10.14778/3436905.3436910</ee>
+<url>db/journals/pvldb/pvldb14.html#0002FICA20</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/0002MKWAA20" mdate="2021-11-30">
+<author pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="173/9193">Renato Marroqu&#237;n</author>
+<author pid="195/1301">Dimitrios Koutsoukos</author>
+<author pid="287/9861">Mike Wawrzoniak</author>
+<author pid="186/0280">Sabir Akhadov</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>The collection Virtual Machine: an abstraction for multi-frontend multi-backend data analysis.</title>
+<pages>7:1-7:10</pages>
+<year>2020</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3399666.3399911</ee>
+<crossref>conf/damon/2020</crossref>
+<url>db/conf/damon/damon2020.html#0002MKWAA20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/0002MA20" mdate="2021-11-30">
+<author pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="173/9193">Renato Marroqu&#237;n</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Lambada: Interactive Data Analytics on Cold Data Using Serverless Cloud Infrastructure.</title>
+<pages>115-130</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389758</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#0002MA20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-01908" mdate="2021-11-30">
+<author pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="173/9193">Renato Marroqu&#237;n</author>
+<author pid="195/1301">Dimitrios Koutsoukos</author>
+<author pid="287/9861">Mike Wawrzoniak</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="186/0280">Sabir Akhadov</author>
+<title>The Collection Virtual Machine: An Abstraction for Multi-Frontend Multi-Backend Data Analysis.</title>
+<year>2020</year>
+<volume>abs/2004.01908</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.01908</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-01908</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-03488" mdate="2021-11-30">
+<author pid="195/1301">Dimitrios Koutsoukos</author>
+<author pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="173/9193">Renato Marroqu&#237;n</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Modularis: Modular Data Analytics for Hardware, Software, and Platform Heterogeneity.</title>
+<year>2020</year>
+<volume>abs/2004.03488</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.03488</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-03488</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BarthelsMTAH19" mdate="2023-09-30">
+<author orcid="0009-0000-8518-8468" pid="123/3160">Claude Barthels</author>
+<author pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="206/7118">Konstantin Taranov</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="16/3869">Torsten Hoefler</author>
+<title>Strong consistency is not hard to get: Two-Phase Locking and Two-Phase Commit on Thousands of Cores.</title>
+<pages>2325-2338</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p2325-barthels.pdf</ee>
+<ee>https://doi.org/10.14778/3358701.3358702</ee>
+<url>db/journals/pvldb/pvldb12.html#BarthelsMTAH19</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-00937" mdate="2021-11-30">
+<author pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="173/9193">Renato Marroqu&#237;n</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Lambada: Interactive Data Analytics on Cold Data using Serverless Cloud Infrastructure.</title>
+<year>2019</year>
+<volume>abs/1912.00937</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.00937</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-00937</url>
+</article>
+</r>
+<r><inproceedings key="conf/cloud/Marroquin0MA18" mdate="2021-11-30">
+<author pid="173/9193">Renato Marroqu&#237;n</author>
+<author orcid="0000-0001-8818-8324" pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="131/4149">Darko Makreshanski</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Pay One, Get Hundreds for Free: Reducing Cloud Costs through Shared Query Execution.</title>
+<pages>439-450</pages>
+<year>2018</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/3267809.3267822</ee>
+<crossref>conf/cloud/2018</crossref>
+<url>db/conf/cloud/socc2018.html#Marroquin0MA18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/0002AHA18" mdate="2023-03-24">
+<author orcid="0000-0001-8818-8324" pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="150/6986">Andrea Arteaga</author>
+<author pid="16/3869">Torsten Hoefler</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Reproducible Floating-Point Aggregation in RDBMSs.</title>
+<pages>1049-1060</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00098</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00098</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#0002AHA18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-09883" mdate="2018-08-13">
+<author pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="150/6986">Andrea Arteaga</author>
+<author pid="16/3869">Torsten Hoefler</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Reproducible Floating-Point Aggregation in RDBMSs.</title>
+<year>2018</year>
+<volume>abs/1802.09883</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.09883</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-09883</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-00159" mdate="2021-11-30">
+<author pid="173/9193">Renato Marroqu&#237;n</author>
+<author pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="131/4149">Darko Makreshanski</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<title>Pay One, Get Hundreds for Free: Reducing Cloud Costs through Shared Query Execution.</title>
+<year>2018</year>
+<volume>abs/1809.00159</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.00159</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-00159</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BarthelsAHSM17" mdate="2023-09-30">
+<author orcid="0009-0000-8518-8468" pid="123/3160">Claude Barthels</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="16/3869">Torsten Hoefler</author>
+<author pid="52/5695">Timo Schneider</author>
+<author orcid="0000-0001-8818-8324" pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<title>Distributed Join Algorithms on Thousands of Cores.</title>
+<pages>517-528</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p517-barthels.pdf</ee>
+<ee>https://doi.org/10.14778/3055540.3055545</ee>
+<url>db/journals/pvldb/pvldb10.html#BarthelsAHSM17</url>
+</article>
+</r>
+<r><phdthesis key="phd/dnb/Muller16" mdate="2021-07-17">
+<author pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<title>Engineering Aggregation Operators for Relational In-Memory Database Systems.</title>
+<year>2016</year>
+<school>Karlsruhe Institute of Technology, Germany</school>
+<ee>http://digbib.ubka.uni-karlsruhe.de/volltexte/1000055675</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:swb:90-556750</ee>
+<ee>https://d-nb.info/1106329953</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/sigmod/0002SLLF15" mdate="2018-11-06">
+<author orcid="0000-0001-8818-8324" pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="s/PeterSanders">Peter Sanders 0001</author>
+<author pid="163/0557">Arnaud Lacurie</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="36/7116">Franz F&#228;rber</author>
+<title>Cache-Efficient Aggregation: Hashing Is Sorting.</title>
+<pages>1123-1136</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2747644</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#0002SLLF15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/Hubschle-Schneider15" mdate="2018-08-13">
+<author pid="151/1543">Lorenz H&#252;bschle-Schneider</author>
+<author pid="s/PeterSanders">Peter Sanders 0001</author>
+<author pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<title>Communication Efficient Algorithms for Top-k Selection Problems.</title>
+<year>2015</year>
+<volume>abs/1502.03942</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1502.03942</ee>
+<url>db/journals/corr/corr1502.html#Hubschle-Schneider15</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/0002RF14" mdate="2021-01-29">
+<author orcid="0000-0001-8818-8324" pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="142/9205">Cornelius Ratsch</author>
+<author pid="36/7116">Franz F&#228;rber</author>
+<title>Adaptive String Dictionary Compression in In-Memory Column-Store Database Systems.</title>
+<pages>283-294</pages>
+<year>2014</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2014.27</ee>
+<crossref>conf/edbt/2014</crossref>
+<url>db/conf/edbt/edbt2014.html#0002RF14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wea/0002SSZ14" mdate="2018-11-02">
+<author orcid="0000-0001-8818-8324" pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="s/PeterSanders">Peter Sanders 0001</author>
+<author orcid="0000-0003-0041-9701" pid="87/9883">Robert Schulze</author>
+<author pid="69/5011">Wei Zhou</author>
+<title>Retrieval and Perfect Hashing Using Fingerprinting.</title>
+<pages>138-149</pages>
+<year>2014</year>
+<booktitle>SEA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-07959-2_12</ee>
+<crossref>conf/wea/2014</crossref>
+<url>db/conf/wea/sea2014.html#0002SSZ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigdataconf/SandersSM13" mdate="2021-03-31">
+<author pid="s/PeterSanders">Peter Sanders 0001</author>
+<author orcid="0000-0003-1550-882X" pid="139/4269">Sebastian Schlag</author>
+<author orcid="0000-0001-8818-8324" pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<title>Communication efficient algorithms for fundamental big data problems.</title>
+<pages>15-23</pages>
+<year>2013</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData.2013.6691549</ee>
+<crossref>conf/bigdataconf/2013</crossref>
+<url>db/conf/bigdataconf/bigdataconf2013.html#SandersSM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/WillhalmO0F13" mdate="2020-03-12">
+<author pid="76/5682">Thomas Willhalm</author>
+<author pid="135/3665">Ismail Oukid</author>
+<author pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="36/7116">Franz Faerber</author>
+<title>Vectorizing Database Column Scans with Complex Predicates.</title>
+<pages>1-12</pages>
+<year>2013</year>
+<booktitle>ADMS@VLDB</booktitle>
+<crossref>conf/vldb/2013adms</crossref>
+<ee type="oa">http://www.adms-conf.org/2013/muller_adms13.pdf</ee>
+<url>db/conf/vldb/adms2013.html#WillhalmO0F13</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/FarberMLGMRD12" mdate="2020-03-10">
+<author pid="36/7116">Franz F&#228;rber</author>
+<author pid="89/6071">Norman May</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="08/8622">Philipp Gro&#223;e</author>
+<author pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="01/11155">Hannes Rauhe</author>
+<author pid="90/7867">Jonathan Dees</author>
+<title>The SAP HANA Database -- An Architecture Overview.</title>
+<pages>28-33</pages>
+<year>2012</year>
+<volume>35</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A12mar/hana.pdf</ee>
+<url>db/journals/debu/debu35.html#FarberMLGMRD12</url>
+</article>
+</r>
+<coauthors n="37" nc="1">
+<co c="0"><na f="a/Akhadov:Sabir" pid="186/0280">Sabir Akhadov</na></co>
+<co c="0"><na f="a/Alonso:Gustavo" pid="a/GustavoAlonso">Gustavo Alonso</na></co>
+<co c="0"><na f="a/Arteaga:Andrea" pid="150/6986">Andrea Arteaga</na></co>
+<co c="0"><na f="b/Barthels:Claude" pid="123/3160">Claude Barthels</na></co>
+<co c="0"><na f="b/Bruno:Rodrigo" pid="161/9002">Rodrigo Bruno</na></co>
+<co c="0"><na f="c/Chiosa:Monica" pid="263/7109">Monica Chiosa</na></co>
+<co c="0"><na f="c/Cikis:Can_Berker" pid="251/8981">Can Berker Cikis</na></co>
+<co c="0"><na f="d/Dees:Jonathan" pid="90/7867">Jonathan Dees</na></co>
+<co c="0" n="2"><na f="f/F=auml=rber:Franz" pid="36/7116">Franz F&#228;rber</na><na>Franz Faerber</na></co>
+<co c="0"><na f="f/Fourny:Ghislain" pid="86/1723">Ghislain Fourny</na></co>
+<co c="0"><na f="g/Graur:Dan" pid="33/5226">Dan Graur</na></co>
+<co c="0"><na f="g/Gro=szlig=e:Philipp" pid="08/8622">Philipp Gro&#223;e</na></co>
+<co c="0"><na f="h/Hoefler:Torsten" pid="16/3869">Torsten Hoefler</na></co>
+<co c="0"><na f="h/H=uuml=bschle=Schneider:Lorenz" pid="151/1543">Lorenz H&#252;bschle-Schneider</na></co>
+<co c="0"><na f="i/Irimescu:Stefan" pid="251/9142">Stefan Irimescu</na></co>
+<co c="0"><na f="k/Kassing:Simon" pid="165/3696">Simon Kassing</na></co>
+<co c="0"><na f="k/Klimovic:Ana" pid="140/2247">Ana Klimovic</na></co>
+<co c="0"><na f="k/Koutsoukos:Dimitrios" pid="195/1301">Dimitrios Koutsoukos</na></co>
+<co c="0"><na f="l/Lacurie:Arnaud" pid="163/0557">Arnaud Lacurie</na></co>
+<co c="0"><na f="l/Lehner:Wolfgang" pid="l/WLehner">Wolfgang Lehner</na></co>
+<co c="0"><na f="m/Makreshanski:Darko" pid="131/4149">Darko Makreshanski</na></co>
+<co c="0"><na f="m/Marroqu=iacute=n:Renato" pid="173/9193">Renato Marroqu&#237;n</na></co>
+<co c="0"><na f="m/Maschi:Fabio" pid="266/5766">Fabio Maschi</na></co>
+<co c="0"><na f="m/May:Norman" pid="89/6071">Norman May</na></co>
+<co c="0"><na f="o/Oukid:Ismail" pid="135/3665">Ismail Oukid</na></co>
+<co c="0"><na f="p/Proffitt:Mason" pid="291/2644">Mason Proffitt</na></co>
+<co c="0"><na f="r/Ratsch:Cornelius" pid="142/9205">Cornelius Ratsch</na></co>
+<co c="0"><na f="r/Rauhe:Hannes" pid="01/11155">Hannes Rauhe</na></co>
+<co c="0"><na f="s/Sanders_0001:Peter" pid="s/PeterSanders">Peter Sanders 0001</na></co>
+<co c="0"><na f="s/Schlag:Sebastian" pid="139/4269">Sebastian Schlag</na></co>
+<co c="0"><na f="s/Schneider:Timo" pid="52/5695">Timo Schneider</na></co>
+<co c="0"><na f="s/Schulze:Robert" pid="87/9883">Robert Schulze</na></co>
+<co c="0"><na f="t/Taranov:Konstantin" pid="206/7118">Konstantin Taranov</na></co>
+<co c="0"><na f="w/Watts:Gordon_T=" pid="291/2977">Gordon T. Watts</na></co>
+<co c="0" n="2"><na f="w/Wawrzoniak:Michal" pid="287/9861">Michal Wawrzoniak</na><na>Mike Wawrzoniak</na></co>
+<co c="0"><na f="w/Willhalm:Thomas" pid="76/5682">Thomas Willhalm</na></co>
+<co c="0"><na f="z/Zhou:Wei" pid="69/5011">Wei Zhou</na></co>
+</coauthors>
+</dblpperson>

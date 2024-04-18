@@ -1,0 +1,3352 @@
+<dblpperson name="Peter A. Boncz" pid="b/PeterABoncz" n="188">
+<person key="homepages/b/PeterABoncz" mdate="2020-09-18">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<note type="affiliation">National Research Institute for Mathematics and Computer Science, Amsterdam, Netherlands</note>
+<url>http://homepages.cwi.nl/~boncz/</url>
+<url>https://scholar.google.com/citations?user=DCIZE1kAAAAJ</url>
+<url>https://mathgenealogy.org/id.php?id=140381</url>
+<url>https://en.wikipedia.org/wiki/Peter_Boncz</url>
+<url>https://www.wikidata.org/entity/Q27916323</url>
+</person>
+<r><inproceedings key="conf/cidr/AtwalBBCDGHHHFL24" mdate="2024-04-12">
+<author pid="372/1772">R. J. Atwal</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="59/11137">Ryan Boyd</author>
+<author pid="83/1295">Antony Courtney</author>
+<author pid="169/5218">Till D&#246;hmen</author>
+<author pid="372/1458">Florian Gerlinghoff</author>
+<author pid="372/1937">Jeff Huang 0007</author>
+<author pid="372/1739">Joseph Hwang</author>
+<author pid="372/1738">Raphael Hyde</author>
+<author pid="372/1324">Elena Felder</author>
+<author pid="372/1432">Jacob Lacouture</author>
+<author pid="372/1858">Yves Le Maout</author>
+<author pid="24/3595">Boaz Leskes</author>
+<author pid="64/424">Yao Liu</author>
+<author pid="372/1499">Alex Monahan</author>
+<author pid="273/4512">Dan Perkins</author>
+<author pid="372/1317">Tino Tereshko</author>
+<author pid="76/3368">Jordan Tigani</author>
+<author pid="372/1595">Nick Ursa</author>
+<author pid="175/6757">Stephanie Wang</author>
+<author pid="33/3379">Yannick Welsch</author>
+<title>MotherDuck: DuckDB in the cloud and in the client.</title>
+<year>2024</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2024/papers/p46-atwal.pdf</ee>
+<crossref>conf/cidr/2024</crossref>
+<url>db/conf/cidr/cidr2024.html#AtwalBBCDGHHHFL24</url>
+</inproceedings>
+</r>
+<r><article key="journals/pacmmod/AfroozehKB23" mdate="2024-01-13">
+<author orcid="0009-0004-1608-834X" pid="349/9083">Azim Afroozeh</author>
+<author orcid="0000-0002-3575-0528" pid="363/8018">Leonardo X. Kuffo</author>
+<author orcid="0000-0001-6256-0140" pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>ALP: Adaptive Lossless floating-Point Compression.</title>
+<pages>230:1-230:26</pages>
+<year>2023</year>
+<month>December</month>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3626717</ee>
+<url>db/journals/pacmmod/pacmmod1.html#AfroozehKB23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AfroozehB23" mdate="2023-10-23">
+<author pid="349/9083">Azim Afroozeh</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>The FastLanes Compression Layout: Decoding &gt;100 Billion Integers per Second with Scalar Code.</title>
+<pages>2132-2144</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p2132-afroozeh.pdf</ee>
+<ee>https://doi.org/10.14778/3598581.3598587</ee>
+<url>db/journals/pvldb/pvldb16.html#AfroozehB23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/WoldeSB23" mdate="2023-10-23">
+<author pid="351/9539">Daniel ten Wolde</author>
+<author pid="151/1414">G&#225;bor Sz&#225;rnyas</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>DuckPGQ: Bringing SQL/PGQ to DuckDB.</title>
+<pages>4034-4037</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p4034-wolde.pdf</ee>
+<ee>https://doi.org/10.14778/3611540.3611614</ee>
+<url>db/journals/pvldb/pvldb16.html#WoldeSB23</url>
+</article>
+</r>
+<r><inproceedings key="conf/amw/Boncz23" mdate="2023-06-13">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>SQL/PGQ: A Systems Perspective (Abstract).</title>
+<year>2023</year>
+<booktitle>AMW</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3409/keynote04.pdf</ee>
+<crossref>conf/amw/2023</crossref>
+<url>db/conf/amw/amw2023.html#Boncz23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/WoldeSSB23" mdate="2023-07-19">
+<author pid="351/9539">Daniel ten Wolde</author>
+<author pid="290/3971">Tavneet Singh</author>
+<author pid="151/1414">G&#225;bor Sz&#225;rnyas</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>DuckPGQ: Efficient Property Graph Queries in an analytical RDBMS.</title>
+<year>2023</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2023/papers/p66-wolde.pdf</ee>
+<crossref>conf/cidr/2023</crossref>
+<url>db/conf/cidr/cidr2023.html#WoldeSSB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BonczCFHL0NSSZ23" mdate="2023-07-27">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="176/4991">Yannis Chronis</author>
+<author pid="127/0410">Jan Finis</author>
+<author pid="74/9320">Stefan Halfpap</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="76/4130">Anisoara Nica</author>
+<author pid="37/10151">Caetano Sauer</author>
+<author pid="s/KnutStolze">Knut Stolze</author>
+<author pid="40/4880">Marcin Zukowski</author>
+<title>SPA: Economical and Workload-Driven Indexing for Data Analytics in the Cloud.</title>
+<pages>3740-3746</pages>
+<year>2023</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE55515.2023.00302</ee>
+<crossref>conf/icde/2023</crossref>
+<url>db/conf/icde/icde2023.html#BonczCFHL0NSSZ23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-04350" mdate="2023-07-24">
+<author pid="151/1414">G&#225;bor Sz&#225;rnyas</author>
+<author pid="249/6360">Brad Bebee</author>
+<author pid="243/2475">Altan Birler</author>
+<author pid="d/AlinDeutsch">Alin Deutsch</author>
+<author pid="f/GeorgeHLFletcher">George Fletcher 0001</author>
+<author pid="06/636">Henry A. Gabb</author>
+<author pid="352/2903">Denise Gosnell</author>
+<author pid="65/2807">Alastair Green</author>
+<author pid="211/4401">Zhihui Guo</author>
+<author pid="295/3446">Keith W. Hare</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="85/2489">Alexandru Iosup</author>
+<author pid="49/4559">Atanas Kiryakov</author>
+<author pid="352/2630">Tomas Kovatchev</author>
+<author pid="62/10295">Xinsheng Li</author>
+<author pid="l/LeonidLibkin">Leonid Libkin</author>
+<author pid="120/9589">Heng Lin</author>
+<author pid="179/8239">Xiaojian Luo</author>
+<author pid="05/2347">Arnau Prat-P&#233;rez</author>
+<author pid="352/2694">David P&#252;roja</author>
+<author pid="175/0201">Shipeng Qi</author>
+<author pid="130/9761">Oskar van Rest</author>
+<author pid="201/4815">Benjamin A. Steer</author>
+<author pid="337/3052">D&#225;vid Szak&#225;llas</author>
+<author pid="329/7221">Bing Tong</author>
+<author pid="256/1560">Jack Waudby</author>
+<author pid="w/MingxiWu">Mingxi Wu</author>
+<author pid="77/377">Bin Yang</author>
+<author pid="53/5676">Wenyuan Yu</author>
+<author pid="94/4084">Chen Zhang</author>
+<author pid="75/4903">Jason Zhang</author>
+<author pid="60/5157">Yan Zhou</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>The Linked Data Benchmark Council (LDBC): Driving competition and collaboration in the graph data management space.</title>
+<year>2023</year>
+<volume>abs/2307.04350</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.04350</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-04350</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-04820" mdate="2023-07-24">
+<author pid="352/2694">David P&#252;roja</author>
+<author pid="256/1560">Jack Waudby</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="151/1414">G&#225;bor Sz&#225;rnyas</author>
+<title>The LDBC Social Network Benchmark Interactive workload v2: A transactional graph query benchmark with deep delete operations.</title>
+<year>2023</year>
+<volume>abs/2307.04820</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.04820</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-04820</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-12923" mdate="2024-01-17">
+<author pid="354/9980">Ilaria Battiston</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Improving Data Minimization through Decentralized Data Architectures.</title>
+<year>2023</year>
+<volume>abs/2312.12923</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.12923</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-12923</url>
+</article>
+</r>
+<r><article key="journals/cacm/AbadiAABBBBCCDD22" mdate="2024-02-05">
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="a/DavidGAndersen">David G. Andersen</author>
+<author pid="47/8816">Peter Bailis</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="d/XinLunaDong">Luna Dong</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="f/JulianaFreire">Juliana Freire</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="m/SergeyMelnik">Sergey Melnik 0001</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="o/BengChinOoi">Beng Chin Ooi</author>
+<author pid="o/FatmaOzcan">Fatma Ozcan</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<title>The Seattle report on database research.</title>
+<pages>72-79</pages>
+<year>2022</year>
+<volume>65</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<ee>https://doi.org/10.1145/3524284</ee>
+<url>db/journals/cacm/cacm65.html#AbadiAABBBBCCDD22</url>
+</article>
+</r>
+<r><article key="journals/cacm/Boncz22" mdate="2022-12-06">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Technical perspective: The 'art' of automatic benchmark extraction.</title>
+<pages>104</pages>
+<year>2022</year>
+<volume>65</volume>
+<journal>Commun. ACM</journal>
+<number>12</number>
+<ee>https://doi.org/10.1145/3567465</ee>
+<url>db/journals/cacm/cacm65.html#Boncz22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GubnerB22" mdate="2023-10-28">
+<author orcid="0009-0001-0730-1733" pid="220/2576">Tim Gubner</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Excalibur: A Virtual Machine for Adaptive Fine-grained JIT-Compiled Query Execution based on VOILA.</title>
+<pages>829-841</pages>
+<year>2022</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p829-boncz.pdf</ee>
+<ee>https://doi.org/10.14778/3574245.3574266</ee>
+<url>db/journals/pvldb/pvldb16.html#GubnerB22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SzarnyasWSSBWZB22" mdate="2023-10-28">
+<author pid="151/1414">G&#225;bor Sz&#225;rnyas</author>
+<author pid="256/1560">Jack Waudby</author>
+<author pid="201/4815">Benjamin A. Steer</author>
+<author pid="337/3052">D&#225;vid Szak&#225;llas</author>
+<author pid="243/2475">Altan Birler</author>
+<author pid="w/MingxiWu">Mingxi Wu</author>
+<author orcid="0009-0008-9178-7369" pid="09/5661">Yuchen Zhang</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>The LDBC Social Network Benchmark: Business Intelligence Workload.</title>
+<pages>877-890</pages>
+<year>2022</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p877-szarnyas.pdf</ee>
+<ee>https://doi.org/10.14778/3574245.3574270</ee>
+<url>db/journals/pvldb/pvldb16.html#SzarnyasWSSBWZB22</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipps/UtaGDRB22" mdate="2024-02-05">
+<author pid="154/4519">Alexandru Uta</author>
+<author pid="69/8814">Bogdan Ghit</author>
+<author pid="74/10101">Ankur Dave</author>
+<author orcid="0000-0003-3791-7114" pid="21/4498">Jan S. Rellermeyer</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>In-Memory Indexed Caching for Distributed Data Processing.</title>
+<pages>104-114</pages>
+<year>2022</year>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS53621.2022.00019</ee>
+<crossref>conf/ipps/2022</crossref>
+<url>db/conf/ipps/ipdps2022.html#UtaGDRB22</url>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/SakrBVIAAAABBDV21" mdate="2021-10-14">
+<author pid="s/SherifSakr">Sherif Sakr</author>
+<author pid="b/ABonifati">Angela Bonifati</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="85/2489">Alexandru Iosup</author>
+<author pid="29/9884">Khaled Ammar</author>
+<author pid="36/2474">Renzo Angles</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="76/6735">Marcelo Arenas</author>
+<author pid="136/7953">Maciej Besta</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="d/KhuzaimaDaudjee">Khuzaima Daudjee</author>
+<author pid="91/4526">Emanuele Della Valle</author>
+<author orcid="0000-0002-6664-0620" pid="143/2670">Stefania Dumbrava</author>
+<author pid="29/3132">Olaf Hartig</author>
+<author pid="85/3208">Bernhard Haslhofer</author>
+<author pid="139/4230">Tim Hegeman</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="h/KatjaHose">Katja Hose</author>
+<author orcid="0000-0002-2397-8963" pid="33/5916">Adriana Iamnitchi</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="281/6816">Hugo Kapp</author>
+<author pid="95/3517">Wim Martens</author>
+<author pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<author pid="91/7933">Eric Peukert</author>
+<author pid="93/3568">Stefan Plantikow</author>
+<author pid="205/4727">Mohamed Ragab 0001</author>
+<author pid="93/24">Matei Ripeanu</author>
+<author pid="55/6560">Semih Salihoglu</author>
+<author pid="10/1388-3">Christian Schulz 0003</author>
+<author pid="50/7441">Petra Selmer</author>
+<author pid="93/3423">Juan F. Sequeda</author>
+<author pid="27/3988">Joshua Shinavier</author>
+<author pid="151/1414">G&#225;bor Sz&#225;rnyas</author>
+<author pid="169/8184">Riccardo Tommasini 0001</author>
+<author pid="53/3654">Antonino Tumeo</author>
+<author pid="154/4519">Alexandru Uta</author>
+<author pid="62/3310">Ana Lucia Varbanescu</author>
+<author pid="11/7258">Hsiang-Yun Wu</author>
+<author pid="92/9686">Nikolay Yakovets</author>
+<author pid="81/9436-1">Da Yan 0001</author>
+<author pid="12/6940">Eiko Yoneki</author>
+<title>The future is big graphs: a community view on graph processing systems.</title>
+<pages>62-71</pages>
+<year>2021</year>
+<volume>64</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<ee>https://doi.org/10.1145/3434642</ee>
+<url>db/journals/cacm/cacm64.html#SakrBVIAAAABBDV21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LeoB21" mdate="2022-04-21">
+<author pid="203/0075">Dean De Leo</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Teseo and the Analysis of Structural Dynamic Graphs.</title>
+<pages>1053-1066</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p1053-leo.pdf</ee>
+<ee>https://doi.org/10.14778/3447689.3447708</ee>
+<url>db/journals/pvldb/pvldb14.html#LeoB21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GubnerB21" mdate="2023-08-06">
+<author orcid="0009-0001-0730-1733" pid="220/2576">Tim Gubner</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Charting the Design Space of Query Execution using VOILA.</title>
+<pages>1067-1079</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p1067-gubner.pdf</ee>
+<ee>https://doi.org/10.14778/3447689.3447709</ee>
+<url>db/journals/pvldb/pvldb14.html#GubnerB21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LeoFB21" mdate="2022-04-21">
+<author pid="203/0075">Dean De Leo</author>
+<author pid="267/1271">Per Fuchs</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Errata for "Teseo and the Analysis of Structural Dynamic Graph".</title>
+<pages>2271-2272</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2271-leo.pdf</ee>
+<ee>https://doi.org/10.14778/3476249.3476278</ee>
+<url>db/journals/pvldb/pvldb14.html#LeoFB21</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Boncz21" mdate="2021-07-13">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Technical Perspective DIAMetrics: Benchmarking Query Engines at Scale.</title>
+<pages>23</pages>
+<year>2021</year>
+<volume>50</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3471485.3471491</ee>
+<url>db/journals/sigmod/sigmod50.html#Boncz21</url>
+</article>
+</r>
+<r><article key="journals/sigmod/GubnerLB21" mdate="2023-08-06">
+<author orcid="0009-0001-0730-1733" pid="220/2576">Tim Gubner</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Optimistically Compressed Hash Tables &amp; Strings in theUSSR.</title>
+<pages>60-67</pages>
+<year>2021</year>
+<volume>50</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3471485.3471500</ee>
+<url>db/journals/sigmod/sigmod50.html#GubnerLB21</url>
+</article>
+</r>
+<r><inproceedings key="conf/adms/GubnerB21" mdate="2021-09-06">
+<author pid="220/2576">Tim Gubner</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Highlighting the Performance Diversity of Analytical Queries using VOILA.</title>
+<pages>47-54</pages>
+<year>2021</year>
+<booktitle>ADMS@VLDB</booktitle>
+<ee>http://www.adms-conf.org/2021-camera-ready/gubner_adms21.pdf</ee>
+<crossref>conf/adms/2021</crossref>
+<url>db/conf/adms/adms2021.html#GubnerB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/KruitBU21" mdate="2022-10-02">
+<author pid="148/4547">Benno Kruit</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author orcid="0000-0002-0717-3559" pid="15/7454">Jacopo Urbani</author>
+<title>TAKCO: A Platform for Extracting Novel Facts from Tables.</title>
+<pages>705-707</pages>
+<year>2021</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/3442442.3458611</ee>
+<ee>https://www.wikidata.org/entity/Q108171140</ee>
+<crossref>conf/www/2021c</crossref>
+<url>db/conf/www/www2021c.html#KruitBU21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-15111" mdate="2021-06-02">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>An Epidemiological Model for contact tracing with the Dutch CoronaMelder App.</title>
+<year>2021</year>
+<volume>abs/2105.15111</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.15111</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-15111</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-06280" mdate="2022-01-03">
+<author pid="154/4519">Alexandru Uta</author>
+<author pid="69/8814">Bogdan Ghit</author>
+<author pid="74/10101">Ankur Dave</author>
+<author pid="21/4498">Jan S. Rellermeyer</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>In-Memory Indexed Caching for Distributed Data Processing.</title>
+<year>2021</year>
+<volume>abs/2112.06280</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.06280</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-06280</url>
+</article>
+</r>
+<r><article key="journals/pvldb/Boncz0L20" mdate="2020-09-08">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="10/11150">Viktor Leis</author>
+<title>FSST: Fast Random Access String Compression.</title>
+<pages>2649-2661</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2649-boncz.pdf</ee>
+<url>db/journals/pvldb/pvldb13.html#Boncz0L20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ArmbrustDPXZ0YM20" mdate="2024-02-05">
+<author pid="14/5951">Michael Armbrust</author>
+<author pid="31/6214">Tathagata Das</author>
+<author pid="197/7188">Sameer Paranjpye</author>
+<author pid="47/7258">Reynold Xin</author>
+<author pid="86/6284">Shixiong Zhu</author>
+<author pid="71/4226-2">Ali Ghodsi 0002</author>
+<author pid="163/2321">Burak Yavuz</author>
+<author pid="165/5546">Mukul Murthy</author>
+<author pid="188/3665">Joseph Torres</author>
+<author pid="31/7993">Liwen Sun</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="131/4245">Mostafa Mokhtar</author>
+<author pid="273/6960">Herman Van Hovell</author>
+<author pid="141/7572">Adrian Ionescu</author>
+<author pid="181/5684">Alicja Luszczak</author>
+<author pid="117/5936">Michal Switakowski</author>
+<author pid="273/7133">Takuya Ueshin</author>
+<author pid="66/2069">Xiao Li</author>
+<author pid="181/5775">Michal Szafranski</author>
+<author pid="273/6983">Pieter Senster</author>
+<author orcid="0000-0002-7547-7204" pid="36/2133">Matei Zaharia</author>
+<title>Delta Lake: High-Performance ACID Table Storage over Cloud Object Stores.</title>
+<pages>3411-3424</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p3411-armbrust.pdf</ee>
+<ee>https://doi.org/10.14778/3415478.3415560</ee>
+<url>db/journals/pvldb/pvldb13.html#ArmbrustDPXZ0YM20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KipfCHBA20" mdate="2021-03-23">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="275/8381">Damian Chromejko</author>
+<author pid="40/4355">Alexander Hall</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="a/DavidGAndersen">David G. Andersen</author>
+<title>Cuckoo Index: A Lightweight Secondary Index Structure.</title>
+<pages>3559-3572</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p3559-kipf.pdf</ee>
+<ee>https://doi.org/10.14778/3424573.3424577</ee>
+<url>db/journals/pvldb/pvldb13.html#KipfCHBA20</url>
+</article>
+</r>
+<r><article key="journals/vldb/BonczS20" mdate="2020-01-31">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="s/KennethSalem">Kenneth Salem</author>
+<title>Special issue on best papers of VLDB 2017.</title>
+<pages>483-484</pages>
+<year>2020</year>
+<volume>29</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-019-00600-w</ee>
+<url>db/journals/vldb/vldb29.html#BonczS20</url>
+</article>
+</r>
+<r><article key="journals/vldb/LangPKBNK20" mdate="2021-05-14">
+<author pid="150/9460">Harald Lang</author>
+<author pid="162/9094">Linnea Passing</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Make the most out of your SIMD investments: counter control flow divergence in compiled query pipelines.</title>
+<pages>757-774</pages>
+<year>2020</year>
+<volume>29</volume>
+<journal>VLDB J.</journal>
+<number>2-3</number>
+<ee type="oa">https://doi.org/10.1007/s00778-019-00547-y</ee>
+<url>db/journals/vldb/vldb29.html#LangPKBNK20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/GhitaTB20" mdate="2020-03-12">
+<author pid="226/0012-1">Bogdan Ghita 0001</author>
+<author pid="199/8616">Diego G. Tom&#233;</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>White-box Compression: Learning and Exploiting Compact Table Representations.</title>
+<year>2020</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2020/papers/p4-ghita-cidr20.pdf</ee>
+<crossref>conf/cidr/2020</crossref>
+<url>db/conf/cidr/cidr2020.html#GhitaTB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/KruitBU20" mdate="2022-10-02">
+<author pid="148/4547">Benno Kruit</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author orcid="0000-0002-0717-3559" pid="15/7454">Jacopo Urbani</author>
+<title>Extracting N-ary Facts from Wikipedia Table Clusters.</title>
+<pages>655-664</pages>
+<year>2020</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3340531.3412027</ee>
+<ee>https://www.wikidata.org/entity/Q108171108</ee>
+<crossref>conf/cikm/2020</crossref>
+<url>db/conf/cikm/cikm2020.html#KruitBU20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/KipfLPPAZDB0K20" mdate="2021-01-29">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="150/9460">Harald Lang</author>
+<author pid="51/1618">Varun Pandey</author>
+<author pid="215/5124">Raul Alexandru Persa</author>
+<author pid="231/3706">Christoph Anneser</author>
+<author orcid="0000-0001-8873-5455" pid="164/7451">Eleni Tzirita Zacharatou</author>
+<author pid="05/264">Harish Doraiswamy</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Adaptive Main-Memory Indexing for High-Performance Point-Polygon Joins.</title>
+<pages>347-358</pages>
+<year>2020</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2020.31</ee>
+<crossref>conf/edbt/2020</crossref>
+<url>db/conf/edbt/edbt2020.html#KipfLPPAZDB0K20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GubnerLB20" mdate="2023-08-06">
+<author orcid="0009-0001-0730-1733" pid="220/2576">Tim Gubner</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Efficient Query Processing with Optimistically Compressed Hash Tables &amp; Strings in the USSR.</title>
+<pages>301-312</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00033</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#GubnerLB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GhitPRXB20" mdate="2020-06-02">
+<author pid="69/8814">Bogdan Ghit</author>
+<author pid="21/7644">Nicol&#225;s Poggi</author>
+<author pid="122/2833">Josh Rosen</author>
+<author pid="47/7258">Reynold Xin</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>SparkFuzz: searching correctness regressions in modern query engines.</title>
+<pages>1:1-1:6</pages>
+<year>2020</year>
+<booktitle>DBTest@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3395032.3395327</ee>
+<crossref>conf/sigmod/2020dbtest</crossref>
+<url>db/conf/sigmod/dbtest2020.html#GhitPRXB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/FuchsBG20" mdate="2020-06-11">
+<author pid="267/1271">Per Fuchs</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="69/8814">Bogdan Ghit</author>
+<title>EdgeFrame: Worst-Case Optimal Joins for Graph-Pattern Matching in Spark.</title>
+<pages>4:1-4:11</pages>
+<year>2020</year>
+<booktitle>GRADES-NDA@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3398682.3399162</ee>
+<crossref>conf/sigmod/2020grades</crossref>
+<url>db/conf/sigmod/grades2020.html#FuchsBG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LangBLB0K20" mdate="2020-06-05">
+<author pid="150/9460">Harald Lang</author>
+<author pid="266/5816">Alexander Beischl</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Tree-Encoded Bitmaps.</title>
+<pages>937-967</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3380588</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#LangBLB0K20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpctc/WaudbySKMBS20" mdate="2021-08-06">
+<author pid="256/1560">Jack Waudby</author>
+<author pid="201/4815">Benjamin A. Steer</author>
+<author pid="298/9196">Karim Karimov</author>
+<author pid="200/8204">J&#243;zsef Marton</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="151/1414">G&#225;bor Sz&#225;rnyas</author>
+<title>Towards Testing ACID Compliance in the LDBC Social Network Benchmark.</title>
+<pages>1-17</pages>
+<year>2020</year>
+<booktitle>TPCTC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-84924-5_1</ee>
+<crossref>conf/tpctc/2020</crossref>
+<url>db/conf/tpctc/tpctc2020.html#WaudbySKMBS20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-02299" mdate="2020-12-10">
+<author pid="36/2474">Renzo Angles</author>
+<author pid="220/5972">J&#225;nos Benjamin Antal</author>
+<author pid="119/6895">Alex Averbuch</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="47/2397">Orri Erling</author>
+<author pid="01/8701">Andrey Gubichev</author>
+<author pid="220/5968">Vlad Haprian</author>
+<author pid="117/4884">Moritz Kaufmann</author>
+<author pid="03/5767">Josep Llu&#237;s Larriba-Pey</author>
+<author pid="67/4822">Norbert Mart&#237;nez-Bazan</author>
+<author pid="200/8204">J&#243;zsef Marton</author>
+<author pid="31/8766">Marcus Paradies</author>
+<author pid="68/8510">Minh-Duc Pham</author>
+<author pid="05/2347">Arnau Prat-P&#233;rez</author>
+<author pid="118/0085">Mirko Spasic</author>
+<author pid="201/4815">Benjamin A. Steer</author>
+<author pid="151/1414">G&#225;bor Sz&#225;rnyas</author>
+<author pid="256/1560">Jack Waudby</author>
+<title>The LDBC Social Network Benchmark.</title>
+<year>2020</year>
+<volume>abs/2001.02299</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/2001.02299</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-02299</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-15028" mdate="2020-12-01">
+<author pid="85/2489">Alexandru Iosup</author>
+<author pid="229/2344">Ahmed Musaafir</author>
+<author pid="154/4519">Alexandru Uta</author>
+<author pid="05/2347">Arnau Prat-P&#233;rez</author>
+<author pid="151/1414">G&#225;bor Sz&#225;rnyas</author>
+<author pid="94/3582">Hassan Chafi</author>
+<author pid="116/0831">Ilie Gabriel Tanase</author>
+<author pid="137/0588">Lifeng Nai</author>
+<author pid="43/4755">Michael J. Anderson</author>
+<author pid="04/8524">Mihai Capota</author>
+<author pid="30/3638">Narayanan Sundaram</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="169/1734">Siegfried Depner</author>
+<author pid="173/0734">Stijn Heldens</author>
+<author pid="169/1749">Thomas Manhardt</author>
+<author pid="139/4230">Tim Hegeman</author>
+<author pid="163/7031">Wing Lung Ngai</author>
+<author pid="61/3251">Yinglong Xia</author>
+<title>The LDBC Graphalytics Benchmark.</title>
+<year>2020</year>
+<volume>abs/2011.15028</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.15028</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-15028</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-06171" mdate="2023-09-30">
+<author pid="s/SherifSakr">Sherif Sakr</author>
+<author pid="b/ABonifati">Angela Bonifati</author>
+<author pid="19/1082">Hannes Voigt</author>
+<author pid="85/2489">Alexandru Iosup</author>
+<author pid="29/9884">Khaled Ammar</author>
+<author pid="36/2474">Renzo Angles</author>
+<author pid="a/WGAref">Walid G. Aref</author>
+<author pid="76/6735">Marcelo Arenas</author>
+<author pid="136/7953">Maciej Besta</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="d/KhuzaimaDaudjee">Khuzaima Daudjee</author>
+<author pid="91/4526">Emanuele Della Valle</author>
+<author orcid="0000-0002-6664-0620" pid="143/2670">Stefania Dumbrava</author>
+<author pid="29/3132">Olaf Hartig</author>
+<author pid="85/3208">Bernhard Haslhofer</author>
+<author pid="139/4230">Tim Hegeman</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="h/KatjaHose">Katja Hose</author>
+<author pid="33/5916">Adriana Iamnitchi</author>
+<author pid="132/6943">Vasiliki Kalavri</author>
+<author pid="281/6816">Hugo Kapp</author>
+<author pid="95/3517">Wim Martens</author>
+<author pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<author pid="91/7933">Eric Peukert</author>
+<author pid="93/3568">Stefan Plantikow</author>
+<author pid="205/4727">Mohamed Ragab 0001</author>
+<author pid="93/24">Matei Ripeanu</author>
+<author pid="55/6560">Semih Salihoglu</author>
+<author pid="10/1388-3">Christian Schulz 0003</author>
+<author pid="50/7441">Petra Selmer</author>
+<author pid="93/3423">Juan F. Sequeda</author>
+<author pid="27/3988">Joshua Shinavier</author>
+<author pid="151/1414">G&#225;bor Sz&#225;rnyas</author>
+<author orcid="0000-0003-3404-5250" pid="169/8184">Riccardo Tommasini 0001</author>
+<author pid="53/3654">Antonino Tumeo</author>
+<author pid="154/4519">Alexandru Uta</author>
+<author pid="62/3310">Ana Lucia Varbanescu</author>
+<author pid="11/7258">Hsiang-Yun Wu</author>
+<author pid="92/9686">Nikolay Yakovets</author>
+<author pid="81/9436-1">Da Yan 0001</author>
+<author pid="12/6940">Eiko Yoneki</author>
+<title>The Future is Big Graphs! A Community View on Graph Processing Systems.</title>
+<year>2020</year>
+<volume>abs/2012.06171</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.06171</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-06171</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LangNKB19" mdate="2020-04-25">
+<author pid="150/9460">Harald Lang</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Performance-Optimal Filtering: Bloom overtakes Cuckoo at High-Throughput.</title>
+<pages>502-515</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p502-lang.pdf</ee>
+<ee>https://doi.org/10.14778/3303753.3303757</ee>
+<url>db/journals/pvldb/pvldb12.html#LangNKB19</url>
+</article>
+</r>
+<r><article key="journals/sigmod/AbadiAABBBBCCDD19" mdate="2024-02-05">
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="a/DavidGAndersen">David G. Andersen</author>
+<author pid="47/8816">Peter Bailis</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="d/XinLunaDong">Luna Dong</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="f/JulianaFreire">Juliana Freire</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="m/SergeyMelnik">Sergey Melnik 0001</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="o/BengChinOoi">Beng Chin Ooi</author>
+<author orcid="0000-0002-4418-4724" pid="o/FatmaOzcan">Fatma Ozcan</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<title>The Seattle Report on Database Research.</title>
+<pages>44-53</pages>
+<year>2019</year>
+<volume>48</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3385658.3385668</ee>
+<ee>https://www.wikidata.org/entity/Q118946092</ee>
+<url>db/journals/sigmod/sigmod48.html#AbadiAABBBBCCDD19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/KipfKRLBK19" mdate="2020-03-12">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="186/8206">Thomas Kipf</author>
+<author pid="219/9678">Bernhard Radke</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Learned Cardinalities: Estimating Correlated Joins with Deep Learning.</title>
+<year>2019</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2019/papers/p101-kipf-cidr19.pdf</ee>
+<crossref>conf/cidr/2019</crossref>
+<url>db/conf/cidr/cidr2019.html#KipfKRLBK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/GubnerTLB19" mdate="2023-08-06">
+<author orcid="0009-0001-0730-1733" pid="220/2576">Tim Gubner</author>
+<author pid="199/8616">Diego G. Tom&#233;</author>
+<author pid="150/9460">Harald Lang</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Fluid Co-processing: GPU Bloom-filters for CPU Joins.</title>
+<pages>9:1-9:10</pages>
+<year>2019</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3329785.3329934</ee>
+<crossref>conf/damon/2019</crossref>
+<url>db/conf/damon/damon2019.html#GubnerTLB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/grades/LeoB19" mdate="2019-07-03">
+<author pid="203/0075">Dean De Leo</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Fast Concurrent Reads and Updates with PMAs.</title>
+<pages>8:1-8:8</pages>
+<year>2019</year>
+<booktitle>GRADES/NDA@SIGMOD/PODS</booktitle>
+<ee>https://doi.org/10.1145/3327964.3328497</ee>
+<crossref>conf/grades/2019</crossref>
+<url>db/conf/grades/grades2019.html#LeoB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LeoB19" mdate="2019-06-11">
+<author pid="203/0075">Dean De Leo</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Packed Memory Arrays - Rewired.</title>
+<pages>830-841</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00079</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#LeoB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/KruitBU19" mdate="2022-10-02">
+<author pid="148/4547">Benno Kruit</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author orcid="0000-0002-0717-3559" pid="15/7454">Jacopo Urbani</author>
+<title>Extracting Novel Facts from Tables for Knowledge Graph Completion.</title>
+<pages>364-381</pages>
+<year>2019</year>
+<booktitle>ISWC (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-30793-6_21</ee>
+<ee>https://www.wikidata.org/entity/Q108171061</ee>
+<crossref>conf/semweb/2019-1</crossref>
+<url>db/conf/semweb/iswc2019-1.html#KruitBU19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KipfVMKRLB0K19" mdate="2019-06-22">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="163/6966">Dimitri Vorona</author>
+<author pid="154/0378">Jonas M&#252;ller</author>
+<author pid="186/8206">Thomas Kipf</author>
+<author pid="219/9678">Bernhard Radke</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Estimating Cardinalities with Deep Sketches.</title>
+<pages>1937-1940</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3320218</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#KipfVMKRLB0K19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/UtaGDB19" mdate="2019-10-19">
+<author orcid="0000-0001-5477-2194" pid="154/4519">Alexandru Uta</author>
+<author pid="69/8814">Bogdan Ghit</author>
+<author pid="74/10101">Ankur Dave</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>[Demo] Low-latency Spark Queries on Updatable Data.</title>
+<pages>2009-2012</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3320227</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#UtaGDB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpctc/CrolotteLPBN19" mdate="2020-07-30">
+<author pid="54/6788">Alain Crolotte</author>
+<author pid="204/3365">Feifei Li</author>
+<author pid="p/MeikelPoss">Meikel Poess</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="n/RaghuOthayothNambiar">Raghunath Nambiar</author>
+<title>Role of the TPC in the Cloud Age.</title>
+<pages>133-138</pages>
+<year>2019</year>
+<booktitle>TPCTC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-55024-0_9</ee>
+<crossref>conf/tpctc/2019</crossref>
+<url>db/conf/tpctc/tpctc2019.html#CrolotteLPBN19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigmod/2019" mdate="2019-06-22">
+<editor pid="b/PeterABoncz">Peter A. Boncz</editor>
+<editor pid="m/StefanManegold">Stefan Manegold</editor>
+<editor pid="a/AnastassiaAilamaki">Anastasia Ailamaki</editor>
+<editor pid="d/AmolDeshpande">Amol Deshpande</editor>
+<editor pid="26/6037">Tim Kraska</editor>
+<title>Proceedings of the 2019 International Conference on Management of Data, SIGMOD Conference 2019, Amsterdam, The Netherlands, June 30 - July 5, 2019.</title>
+<publisher>ACM</publisher>
+<booktitle>SIGMOD Conference</booktitle>
+<year>2019</year>
+<isbn>978-1-4503-5643-5</isbn>
+<ee>https://doi.org/10.1145/3299869</ee>
+<url>db/conf/sigmod/sigmod2019.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-08223" mdate="2019-04-26">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="163/6966">Dimitri Vorona</author>
+<author pid="154/0378">Jonas M&#252;ller</author>
+<author pid="186/8206">Thomas Kipf</author>
+<author pid="219/9678">Bernhard Radke</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Estimating Cardinalities with Deep Sketches.</title>
+<year>2019</year>
+<volume>abs/1904.08223</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.08223</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-08223</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-00083" mdate="2019-07-08">
+<author pid="148/4547">Benno Kruit</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="15/7454">Jacopo Urbani</author>
+<title>Extracting Novel Facts from Tables for Knowledge Graph Completion (Extended version).</title>
+<year>2019</year>
+<volume>abs/1907.00083</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.00083</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-00083</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KerstenLKNPB18" mdate="2020-04-25">
+<author pid="198/5903">Timo Kersten</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="58/4127">Andrew Pavlo</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Everything You Always Wanted to Know About Compiled and Vectorized Queries But Were Afraid to Ask.</title>
+<pages>2209-2222</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p2209-kersten.pdf</ee>
+<ee>https://doi.org/10.14778/3275366.3275370</ee>
+<url>db/journals/pvldb/pvldb11.html#KerstenLKNPB18</url>
+</article>
+</r>
+<r><article key="journals/vldb/LeisRGMBKN18" mdate="2018-10-10">
+<author pid="10/11150">Viktor Leis</author>
+<author pid="219/9678">Bernhard Radke</author>
+<author pid="01/8701">Andrey Gubichev</author>
+<author pid="171/4448">Atanas Mirchev</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>Query optimization through the looking glass, and what we found running the Join Order Benchmark.</title>
+<pages>643-668</pages>
+<year>2018</year>
+<volume>27</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-017-0480-7</ee>
+<url>db/journals/vldb/vldb27.html#LeisRGMBKN18</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/LangKPB0K18" mdate="2018-11-21">
+<author pid="150/9460">Harald Lang</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="162/9094">Linnea Passing</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Make the most out of your SIMD investments: counter control flow divergence in compiled query pipelines.</title>
+<pages>5:1-5:8</pages>
+<year>2018</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3211922.3211928</ee>
+<crossref>conf/damon/2018</crossref>
+<url>db/conf/damon/damon2018.html#LangKPB0K18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/grades/SzarnyasPAMPKEB18" mdate="2018-11-21">
+<author pid="151/1414">G&#225;bor Sz&#225;rnyas</author>
+<author pid="05/2347">Arnau Prat-P&#233;rez</author>
+<author pid="119/6895">Alex Averbuch</author>
+<author pid="200/8204">J&#243;zsef Marton</author>
+<author pid="31/8766">Marcus Paradies</author>
+<author pid="117/4884">Moritz Kaufmann</author>
+<author pid="47/2397">Orri Erling</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="220/5968">Vlad Haprian</author>
+<author pid="220/5972">J&#225;nos Benjamin Antal</author>
+<title>An early look at the LDBC social network benchmark's business intelligence workload.</title>
+<pages>9:1-9:11</pages>
+<year>2018</year>
+<booktitle>GRADES/NDA@SIGMOD/PODS</booktitle>
+<ee>https://doi.org/10.1145/3210259.3210268</ee>
+<crossref>conf/grades/2018</crossref>
+<url>db/conf/grades/grades2018.html#SzarnyasPAMPKEB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KipfLPPB0K18" mdate="2023-03-24">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="150/9460">Harald Lang</author>
+<author pid="51/1618">Varun Pandey</author>
+<author pid="215/5124">Raul Alexandru Persa</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Approximate Geospatial Joins with Precision Guarantees.</title>
+<pages>1360-1363</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00150</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00150</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#KipfLPPB0K18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AnglesABBFGLPPS18" mdate="2022-11-10">
+<author pid="36/2474">Renzo Angles</author>
+<author pid="76/6735">Marcelo Arenas</author>
+<author pid="29/5169">Pablo Barcel&#243;</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<author pid="g/ClaudioGutierrez">Claudio Gutierrez 0001</author>
+<author pid="211/6985">Tobias Lindaaker</author>
+<author pid="31/8766">Marcus Paradies</author>
+<author pid="93/3568">Stefan Plantikow</author>
+<author pid="93/3423">Juan F. Sequeda</author>
+<author pid="130/9761">Oskar van Rest</author>
+<author pid="19/1082">Hannes Voigt</author>
+<title>G-CORE: A Core for Future Graph Query Languages.</title>
+<pages>1421-1432</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3190654</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#AnglesABBFGLPPS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/TomeGRRB18" mdate="2020-03-12">
+<author pid="199/8616">Diego G. Tom&#233;</author>
+<author pid="220/2576">Tim Gubner</author>
+<author pid="182/7109">Mark Raasveldt</author>
+<author pid="13/4685">Eyal Rozenberg</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Optimizing Group-By and Aggregation using GPU-CPU Co-Processing.</title>
+<pages>1-10</pages>
+<year>2018</year>
+<booktitle>ADMS@VLDB</booktitle>
+<ee type="oa">http://www.adms-conf.org/2018-camera-ready/tome_groupby.pdf</ee>
+<crossref>conf/vldb/2018adms</crossref>
+<url>db/conf/vldb/adms2018.html#TomeGRRB18</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Boncz18" mdate="2019-02-14">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Disk.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_685</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/d2.html#Boncz18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Boncz18a" mdate="2019-02-14">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Main Memory.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_683</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/m2.html#Boncz18a</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Boncz18b" mdate="2019-02-14">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Main Memory DBMS.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_655</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/m2.html#Boncz18b</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Boncz18c" mdate="2019-02-14">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Processor Cache.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_684</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/p2.html#Boncz18c</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-09488" mdate="2018-08-13">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="150/9460">Harald Lang</author>
+<author pid="51/1618">Varun Pandey</author>
+<author pid="215/5124">Raul Alexandru Persa</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Adaptive Geospatial Joins for Modern Hardware.</title>
+<year>2018</year>
+<volume>abs/1802.09488</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.09488</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-09488</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-00677" mdate="2018-10-05">
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="186/8206">Thomas Kipf</author>
+<author pid="219/9678">Bernhard Radke</author>
+<author pid="10/11150">Viktor Leis</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Learned Cardinalities: Estimating Correlated Joins with Deep Learning.</title>
+<year>2018</year>
+<volume>abs/1809.00677</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.00677</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-00677</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/BonczGHS18" mdate="2019-01-08">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<title>Database Architectures for Modern Hardware (Dagstuhl Seminar 18251).</title>
+<pages>63-76</pages>
+<year>2018</year>
+<volume>8</volume>
+<journal>Dagstuhl Reports</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.8.6.63</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports8.html#BonczGHS18</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/RozenbergB17" mdate="2018-11-06">
+<author pid="13/4685">Eyal Rozenberg</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Faster across the PCIe bus: a GPU library for lightweight decompression: including support for patched compression schemes.</title>
+<pages>8:1-8:5</pages>
+<year>2017</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3076113.3076122</ee>
+<crossref>conf/damon/2017</crossref>
+<url>db/conf/damon/damon2017.html#RozenbergB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/grades/LeoB17" mdate="2018-11-06">
+<author pid="203/0075">Dean De Leo</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Extending SQL for Computing Shortest Paths.</title>
+<pages>10:1-10:8</pages>
+<year>2017</year>
+<booktitle>GRADES@SIGMOD/PODS</booktitle>
+<ee>https://doi.org/10.1145/3078447.3078457</ee>
+<crossref>conf/grades/2017</crossref>
+<url>db/conf/grades/grades2017.html#LeoB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/DohmenMB17" mdate="2018-11-06">
+<author pid="169/5218">Till D&#246;hmen</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Multi-Hypothesis CSV Parsing.</title>
+<pages>16:1-16:12</pages>
+<year>2017</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1145/3085504.3085520</ee>
+<crossref>conf/ssdbm/2017</crossref>
+<url>db/conf/ssdbm/ssdbm2017.html#DohmenMB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpctc/BonczAK17" mdate="2020-02-03">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="85/8852">Angelos-Christos G. Anadiotis</author>
+<author pid="211/9910">Steffen Kl&#228;be</author>
+<title>JCC-H: Adding Join Crossing Correlations with Skew to TPC-H.</title>
+<pages>103-119</pages>
+<year>2017</year>
+<booktitle>TPCTC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-72401-0_8</ee>
+<crossref>conf/tpctc/2017</crossref>
+<url>db/conf/tpctc/tpctc2017.html#BonczAK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/GubnerB17" mdate="2020-03-12">
+<author pid="220/2576">Tim Gubner</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Exploring Query Compilation Strategies for JIT, Vectorization and SIMD.</title>
+<pages>9-17</pages>
+<year>2017</year>
+<booktitle>ADMS@VLDB</booktitle>
+<ee type="oa">http://www.adms-conf.org/2017/camera-ready/exploring-query-execution.pdf</ee>
+<crossref>conf/vldb/2017adms</crossref>
+<url>db/conf/vldb/adms2017.html#GubnerB17</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/grades/2017" mdate="2020-12-10">
+<editor pid="b/PeterABoncz">Peter A. Boncz</editor>
+<editor pid="03/5767">Josep Llu&#237;s Larriba-Pey</editor>
+<title>Proceedings of the Fifth International Workshop on Graph Data-management Experiences &amp; Systems, GRADES@SIGMOD/PODS 2017, Chicago, IL, USA, May 14 - 19, 2017</title>
+<booktitle>GRADES@SIGMOD/PODS</booktitle>
+<publisher>ACM</publisher>
+<year>2017</year>
+<isbn>978-1-4503-5038-9</isbn>
+<ee>https://doi.org/10.1145/3078447</ee>
+<url>db/conf/grades/grades2017.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-01550" mdate="2022-11-10">
+<author pid="36/2474">Renzo Angles</author>
+<author pid="76/6735">Marcelo Arenas</author>
+<author pid="29/5169">Pablo Barcel&#243;</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<author pid="g/ClaudioGutierrez">Claudio Gutierrez 0001</author>
+<author pid="211/6985">Tobias Lindaaker</author>
+<author pid="31/8766">Marcus Paradies</author>
+<author pid="93/3568">Stefan Plantikow</author>
+<author pid="93/3423">Juan F. Sequeda</author>
+<author pid="130/9761">Oskar van Rest</author>
+<author pid="19/1082">Hannes Voigt</author>
+<title>G-CORE: A Core for Future Graph Query Languages.</title>
+<year>2017</year>
+<volume>abs/1712.01550</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.01550</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-01550</url>
+</article>
+</r>
+<r><article key="journals/pvldb/IosupHNHPMCCSAT16" mdate="2022-04-09">
+<author orcid="0000-0001-8030-9398" pid="85/2489">Alexandru Iosup</author>
+<author pid="139/4230">Tim Hegeman</author>
+<author pid="163/7031">Wing Lung Ngai</author>
+<author orcid="0000-0001-8792-6305" pid="173/0734">Stijn Heldens</author>
+<author pid="05/2347">Arnau Prat-P&#233;rez</author>
+<author pid="169/1749">Thomas Manhardt</author>
+<author pid="94/3582">Hassan Chafi</author>
+<author orcid="0000-0002-7323-2393" pid="04/8524">Mihai Capota</author>
+<author pid="30/3638">Narayanan Sundaram</author>
+<author pid="43/4755">Michael J. Anderson</author>
+<author pid="116/0831">Ilie Gabriel Tanase</author>
+<author pid="61/3251">Yinglong Xia</author>
+<author pid="137/0588">Lifeng Nai</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>LDBC Graphalytics: A Benchmark for Large-Scale Graph Analysis on Parallel and Distributed Platforms.</title>
+<pages>1317-1328</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p1317-iosup.pdf</ee>
+<ee>https://doi.org/10.14778/3007263.3007270</ee>
+<ee>https://www.wikidata.org/entity/Q60025432</ee>
+<url>db/journals/pvldb/pvldb9.html#IosupHNHPMCCSAT16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BonczS16" mdate="2020-04-25">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="s/KennethSalem">Kenneth Salem</author>
+<title>Front Matter.</title>
+<pages>i-vi</pages>
+<year>2016</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/FrontMatterVol10No1.pdf</ee>
+<url>db/journals/pvldb/pvldb10.html#BonczS16</url>
+</article>
+</r>
+<r><article key="journals/vldb/BaumannBS16" mdate="2018-07-06">
+<author pid="16/6503-2">Stephan Baumann 0002</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<title>Bitwise dimensional co-clustering for analytical workloads.</title>
+<pages>291-316</pages>
+<year>2016</year>
+<volume>25</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00778-015-0417-y</ee>
+<url>db/journals/vldb/vldb25.html#BaumannBS16</url>
+</article>
+</r>
+<r><article key="journals/vldb/BonczLN16" mdate="2023-09-30">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>Special Issue: Modern Hardware.</title>
+<pages>623-624</pages>
+<year>2016</year>
+<volume>25</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.1007/s00778-016-0440-7</ee>
+<url>db/journals/vldb/vldb25.html#BonczLN16</url>
+</article>
+</r>
+<r><inproceedings key="conf/grades/RutgersMVB16" mdate="2018-11-06">
+<author pid="131/6723">Peter Rutgers</author>
+<author pid="135/5969">Claudio Martella</author>
+<author pid="15/5921">Spyros Voulgaris</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Powerful and efficient bulk shortest-path queries: cypher language extension &amp; Giraph implementation.</title>
+<pages>6</pages>
+<year>2016</year>
+<booktitle>GRADES</booktitle>
+<ee>https://doi.org/10.1145/2960414.2960420</ee>
+<crossref>conf/grades/2016</crossref>
+<url>db/conf/grades/grades2016.html#RutgersMVB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/PhamB16" mdate="2021-09-07">
+<author pid="68/8510">Minh-Duc Pham</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Exploiting Emergent Schemas to Make RDF Systems More Efficient.</title>
+<pages>463-479</pages>
+<year>2016</year>
+<booktitle>ISWC (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-46523-4_28</ee>
+<crossref>conf/semweb/2016-1</crossref>
+<url>db/conf/semweb/iswc2016-1.html#PhamB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LangMFB0K16" mdate="2020-08-10">
+<author pid="150/9460">Harald Lang</author>
+<author pid="74/11109">Tobias M&#252;hlbauer</author>
+<author pid="69/9320">Florian Funke 0001</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Data Blocks: Hybrid OLTP and OLAP on Compressed Storage using both Vectorization and Compilation.</title>
+<pages>311-326</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2882925</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#LangMFB0K16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/CosteaIRSBSLSNB16" mdate="2018-11-06">
+<author pid="181/5832">Andrei Costea</author>
+<author pid="141/7572">Adrian Ionescu</author>
+<author pid="36/2033">Bogdan Raducanu</author>
+<author pid="117/5936">Michal Switakowski</author>
+<author pid="181/5876">Cristian B&#226;rca</author>
+<author pid="84/9733">Juliusz Sompolski</author>
+<author pid="181/5684">Alicja Luszczak</author>
+<author pid="181/5775">Michal Szafranski</author>
+<author pid="79/9733">Giel de Nijs</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>VectorH: Taking SQL-on-Hadoop to the Next Level.</title>
+<pages>1105-1117</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2903742</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#CosteaIRSBSLSNB16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/grades/2016" mdate="2020-12-10">
+<editor pid="b/PeterABoncz">Peter A. Boncz</editor>
+<editor pid="03/5767">Josep Llu&#237;s Larriba-Pey</editor>
+<title>Proceedings of the Fourth International Workshop on Graph Data Management Experiences and Systems, Redwood Shores, CA, USA, June 24 - 24, 2016</title>
+<booktitle>GRADES</booktitle>
+<publisher>ACM</publisher>
+<year>2016</year>
+<isbn>978-1-4503-4780-8</isbn>
+<ee>https://doi.org/10.1145/2960414</ee>
+<url>db/conf/grades/grades2016.html</url>
+</proceedings>
+</r>
+<r><article key="journals/pvldb/LeisGMBK015" mdate="2020-04-25">
+<author pid="10/11150">Viktor Leis</author>
+<author pid="01/8701">Andrey Gubichev</author>
+<author pid="171/4448">Atanas Mirchev</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>How Good Are Query Optimizers, Really?</title>
+<pages>204-215</pages>
+<year>2015</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p204-leis.pdf</ee>
+<ee>https://doi.org/10.14778/2850583.2850594</ee>
+<url>db/journals/pvldb/pvldb9.html#LeisGMBK015</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/CapotaHIPEB14" mdate="2018-11-06">
+<author orcid="0000-0002-7323-2393" pid="04/8524">Mihai Capota</author>
+<author pid="139/4230">Tim Hegeman</author>
+<author orcid="0000-0001-8030-9398" pid="85/2489">Alexandru Iosup</author>
+<author pid="05/2347">Arnau Prat-P&#233;rez</author>
+<author pid="47/2397">Orri Erling</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Graphalytics: A Big Data Benchmark for Graph-Processing Platforms.</title>
+<pages>7:1-7:6</pages>
+<year>2015</year>
+<booktitle>GRADES@SIGMOD/PODS</booktitle>
+<ee>https://doi.org/10.1145/2764947.2764954</ee>
+<crossref>conf/sigmod/2015grades</crossref>
+<url>db/conf/sigmod/grades2015.html#CapotaHIPEB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ErlingALCGPPB15" mdate="2020-12-10">
+<author pid="47/2397">Orri Erling</author>
+<author pid="119/6895">Alex Averbuch</author>
+<author pid="03/5767">Josep Llu&#237;s Larriba-Pey</author>
+<author pid="94/3582">Hassan Chafi</author>
+<author pid="01/8701">Andrey Gubichev</author>
+<author pid="05/2347">Arnau Prat-P&#233;rez</author>
+<author pid="68/8510">Minh-Duc Pham</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>The LDBC Social Network Benchmark: Interactive Workload.</title>
+<pages>619-630</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2742786</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#ErlingALCGPPB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/PhamPEB15" mdate="2018-11-06">
+<author pid="68/8510">Minh-Duc Pham</author>
+<author pid="162/9094">Linnea Passing</author>
+<author pid="47/2397">Orri Erling</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Deriving an Emergent Relational Schema from RDF Data.</title>
+<pages>864-874</pages>
+<year>2015</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/2736277.2741121</ee>
+<crossref>conf/www/2015</crossref>
+<url>db/conf/www/www2015.html#PhamPEB15</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/AnglesBLF0ENMKT14" mdate="2020-12-10">
+<author orcid="0000-0002-6740-9711" pid="36/2474">Renzo Angles</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="03/5767">Josep Llu&#237;s Larriba-Pey</author>
+<author pid="74/6086">Irini Fundulaki</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="47/2397">Orri Erling</author>
+<author pid="85/8037">Peter Neubauer</author>
+<author pid="67/4822">Norbert Mart&#237;nez-Bazan</author>
+<author pid="146/3355">Venelin Kotsev</author>
+<author pid="78/346">Ioan Toma</author>
+<title>The linked data benchmark council: a graph and RDF industry benchmarking effort.</title>
+<pages>27-31</pages>
+<year>2014</year>
+<volume>43</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2627692.2627697</ee>
+<url>db/journals/sigmod/sigmod43.html#AnglesBLF0ENMKT14</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/GubichevAB14" mdate="2023-03-24">
+<author pid="01/8701">Andrey Gubichev</author>
+<author orcid="0000-0002-6740-9711" pid="36/2474">Renzo Angles</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>How to generate query parameters in RDF benchmarks?</title>
+<pages>272-274</pages>
+<year>2014</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2014.6818339</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2014.6818339</ee>
+<crossref>conf/icde/2014w</crossref>
+<url>db/conf/icde/icdew2014.html#GubichevAB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LeisBK014" mdate="2018-11-06">
+<author pid="10/11150">Viktor Leis</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>Morsel-driven parallelism: a NUMA-aware query evaluation framework for the many-core age.</title>
+<pages>743-754</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2610507</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#LeisBK014</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpctc/GubichevB14" mdate="2017-05-23">
+<author pid="01/8701">Andrey Gubichev</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Parameter Curation for Benchmark Queries.</title>
+<pages>113-129</pages>
+<year>2014</year>
+<booktitle>TPCTC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-15350-6_8</ee>
+<crossref>conf/tpctc/2014</crossref>
+<url>db/conf/tpctc/tpctc2014.html#GubichevB14</url>
+</inproceedings>
+</r>
+<r><incollection key="books/crc/linked14/BonczEP14" mdate="2015-05-09">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="47/2397">Orri Erling</author>
+<author pid="68/8510">Minh-Duc Pham</author>
+<title>Experiences with Virtuoso Cluster RDF Column Store.</title>
+<pages>239-259</pages>
+<year>2014</year>
+<booktitle>Linked Data Management</booktitle>
+<ee>http://www.crcnetbase.com/doi/abs/10.1201/b16859-13</ee>
+<crossref>books/crc/linked2014</crossref>
+<url>db/books/collections/linked2014.html#BonczEP14</url>
+</incollection>
+</r>
+<r><incollection key="series/lncs/BonczEP14" mdate="2018-06-26">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="47/2397">Orri Erling</author>
+<author pid="68/8510">Minh-Duc Pham</author>
+<title>Advances in Large-Scale RDF Data Management.</title>
+<pages>21-44</pages>
+<year>2014</year>
+<booktitle>Linked Open Data</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-09846-3_2</ee>
+<crossref>series/lncs/8661</crossref>
+<url>db/series/lncs/lncs8661.html#BonczEP14</url>
+</incollection>
+</r>
+<r><proceedings key="conf/sigmod/2014grades" mdate="2020-12-10">
+<editor pid="b/PeterABoncz">Peter A. Boncz</editor>
+<editor pid="03/5767">Josep Llu&#237;s Larriba-Pey</editor>
+<title>Second International Workshop on Graph Data Management Experiences and Systems, GRADES 2014, co-loated with SIGMOD/PODS 2014, Snowbird, Utah, USA, June 22, 2014</title>
+<publisher>CWI/ACM</publisher>
+<booktitle>GRADES</booktitle>
+<year>2014</year>
+<isbn>978-1-4503-2982-8</isbn>
+<ee>https://doi.org/10.1145/2621934</ee>
+<url>db/conf/sigmod/grades2014.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/ercim/AnglesPB14" mdate="2019-05-22">
+<author pid="36/2474">Renzo Angles</author>
+<author pid="68/8510">Minh-Duc Pham</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Benchmarking Linked Open Data Management Systems.</title>
+<year>2014</year>
+<volume>2014</volume>
+<journal>ERCIM News</journal>
+<number>96</number>
+<ee type="oa">http://ercim-news.ercim.eu/en96/special/benchmarking-linked-open-data-management-systems</ee>
+<url>db/journals/ercim/ercim2014.html#AnglesPB14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/ercim/PhamB14" mdate="2019-05-22">
+<author pid="68/8510">Minh-Duc Pham</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>MonetDB/RDF: Discovering and Exploiting the Emergent Schema of RDF Data.</title>
+<year>2014</year>
+<volume>2014</volume>
+<journal>ERCIM News</journal>
+<number>96</number>
+<ee type="oa">http://ercim-news.ercim.eu/en96/special/monetdb-rdf-discovering-and-exploiting-the-emergent-schema-of-rdf-data</ee>
+<url>db/journals/ercim/ercim2014.html#PhamB14</url>
+</article>
+</r>
+<r><article key="journals/dbsk/BonczFGL013" mdate="2020-12-10">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="74/6086">Irini Fundulaki</author>
+<author pid="01/8701">Andrey Gubichev</author>
+<author pid="03/5767">Josep Llu&#237;s Larriba-Pey</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>The Linked Data Benchmark Council Project.</title>
+<pages>121-129</pages>
+<year>2013</year>
+<volume>13</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s13222-013-0125-y</ee>
+<url>db/journals/dbsk/dbsk13.html#BonczFGL013</url>
+</article>
+</r>
+<r><article key="journals/ftdb/AbadiBHIM13" mdate="2023-08-08">
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="38/6308">Stavros Harizopoulos</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>The Design and Implementation of Modern Column-Oriented Database Systems.</title>
+<pages>197-280</pages>
+<year>2013</year>
+<volume>5</volume>
+<journal>Found. Trends Databases</journal>
+<number>3</number>
+<ee>https://doi.org/10.1561/1900000024</ee>
+<url>db/journals/ftdb/ftdb5.html#AbadiBHIM13</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/SidirourgosKB13" mdate="2023-03-24">
+<author pid="01/4876">Lefteris Sidirourgos</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Scientific discovery through weighted sampling.</title>
+<pages>300-306</pages>
+<year>2013</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData.2013.6691587</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BigData.2013.6691587</ee>
+<crossref>conf/bigdataconf/2013</crossref>
+<url>db/conf/bigdataconf/bigdataconf2013.html#SidirourgosKB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gvd/Boncz13" mdate="2023-03-10">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Optimizing database architecture for machine architecture: is there still hope?</title>
+<pages>3</pages>
+<year>2013</year>
+<booktitle>Grundlagen von Datenbanken</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1020/keynote_02.pdf</ee>
+<crossref>conf/gvd/2013</crossref>
+<url>db/conf/gvd/gvd2013.html#Boncz13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BaumannBS13" mdate="2023-03-23">
+<author pid="16/6503-2">Stephan Baumann 0002</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<title>Automatic schema design for co-clustered tables.</title>
+<pages>56-61</pages>
+<year>2013</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2013.6547427</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2013.6547427</ee>
+<crossref>conf/icde/2013w</crossref>
+<url>db/conf/icde/icdew2013.html#BaumannBS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/NagelBV13" mdate="2023-03-24">
+<author pid="131/4779">Fabian Nagel</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="v/SViglas">Stratis Viglas</author>
+<title>Recycling in pipelined query evaluation.</title>
+<pages>338-349</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544837</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544837</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#NagelBV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ideas/Boncz13" mdate="2018-11-06">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>LDBC: benchmarks for graph and RDF data management.</title>
+<pages>1-2</pages>
+<year>2013</year>
+<booktitle>IDEAS</booktitle>
+<ee>https://doi.org/10.1145/2513591.2527070</ee>
+<crossref>conf/ideas/2013</crossref>
+<url>db/conf/ideas/ideas2013.html#Boncz13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/RaducanuBZ13" mdate="2018-11-06">
+<author pid="36/2033">Bogdan Raducanu</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="40/4880">Marcin Zukowski</author>
+<title>Micro adaptivity in Vectorwise.</title>
+<pages>1231-1242</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2465292</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#RaducanuBZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpctc/BonczNE13" mdate="2018-11-02">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="47/2397">Orri Erling</author>
+<title>TPC-H Analyzed: Hidden Messages and Lessons Learned from an Influential Benchmark.</title>
+<pages>61-76</pages>
+<year>2013</year>
+<booktitle>TPCTC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-04936-6_5</ee>
+<crossref>conf/tpctc/2013</crossref>
+<url>db/conf/tpctc/tpctc2013.html#BonczNE13</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigmod/2013grades" mdate="2020-06-02">
+<editor pid="b/PeterABoncz">Peter A. Boncz</editor>
+<editor pid="n/ThomasNeumann">Thomas Neumann 0001</editor>
+<title>First International Workshop on Graph Data Management Experiences and Systems, GRADES 2013, co-located with SIGMOD/PODS 2013, New York, NY, USA, June 24, 2013</title>
+<publisher>CWI/ACM</publisher>
+<booktitle>GRADES</booktitle>
+<year>2013</year>
+<isbn>978-1-4503-2188-4</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=2484425</ee>
+<url>db/conf/sigmod/grades2013.html</url>
+</proceedings>
+</r>
+<r><article key="journals/debu/Boncz12" mdate="2020-03-10">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Letter from the Special Issue Editor.</title>
+<pages>2</pages>
+<year>2012</year>
+<volume>35</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A12mar/bonczletter.pdf</ee>
+<url>db/journals/debu/debu35.html#Boncz12</url>
+</article>
+</r>
+<r><article key="journals/debu/ZukowskiB12" mdate="2020-03-10">
+<author pid="40/4880">Marcin Zukowski</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Vectorwise: Beyond Column Stores.</title>
+<pages>21-27</pages>
+<year>2012</year>
+<volume>35</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A12mar/vectorwise.pdf</ee>
+<url>db/journals/debu/debu35.html#ZukowskiB12</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SwitakowskiBZ12" mdate="2020-04-25">
+<author pid="117/5936">Michal Switakowski</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="40/4880">Marcin Zukowski</author>
+<title>From Cooperative Scans to Predictive Buffer Management.</title>
+<pages>1759-1770</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p1759_michalswitakowski_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2367502.2367515</ee>
+<url>db/journals/pvldb/pvldb5.html#SwitakowskiBZ12</url>
+</article>
+</r>
+<r><inproceedings key="conf/birte/BaumannBS12" mdate="2018-07-06">
+<author pid="16/6503-2">Stephan Baumann 0002</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<title>Query Processing of Pre-partitioned Data Using Sandwich Operators.</title>
+<pages>76-92</pages>
+<year>2012</year>
+<booktitle>BIRTE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-39872-8_6</ee>
+<crossref>conf/birte/2012</crossref>
+<url>db/conf/birte/birte2012.html#BaumannBS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/TsialiamanisSFCB12" mdate="2018-11-06">
+<author pid="46/5076">Petros Tsialiamanis</author>
+<author pid="01/4876">Lefteris Sidirourgos</author>
+<author pid="74/6086">Irini Fundulaki</author>
+<author pid="c/VassilisChristophides">Vassilis Christophides</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Heuristics-based query optimisation for SPARQL.</title>
+<pages>324-335</pages>
+<year>2012</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/2247596.2247635</ee>
+<crossref>conf/edbt/2012</crossref>
+<url>db/conf/edbt/edbt2012.html#TsialiamanisSFCB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZukowskiWB12" mdate="2023-03-24">
+<author pid="40/4880">Marcin Zukowski</author>
+<author pid="116/5276">Mark van de Wiel</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Vectorwise: A Vectorized Analytical DBMS.</title>
+<pages>1349-1350</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.148</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2012.148</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#ZukowskiWB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/KotoulasUBM12" mdate="2022-10-02">
+<author pid="24/5546">Spyros Kotoulas</author>
+<author orcid="0000-0002-0717-3559" pid="15/7454">Jacopo Urbani</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="m/PMika">Peter Mika</author>
+<title>Robust Runtime Optimization and Skew-Resistant Execution of Analytical SPARQL Queries on Pig.</title>
+<pages>247-262</pages>
+<year>2012</year>
+<booktitle>ISWC (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-35176-1_16</ee>
+<crossref>conf/semweb/2012-1</crossref>
+<url>db/conf/semweb/iswc2012-1.html#KotoulasUBM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/PhuocDPBEF12" mdate="2021-09-07">
+<author orcid="0000-0003-2480-9261" pid="23/6145">Danh Le Phuoc</author>
+<author pid="29/1092">Minh Dao-Tran</author>
+<author pid="68/8510">Minh-Duc Pham</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="e/TEiter">Thomas Eiter</author>
+<author pid="f/MFink">Michael Fink 0001</author>
+<title>Linked Stream Data Processing Engines: Facts and Figures.</title>
+<pages>300-312</pages>
+<year>2012</year>
+<booktitle>ISWC (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-35173-0_20</ee>
+<crossref>conf/semweb/2012-2</crossref>
+<url>db/conf/semweb/iswc2012-2.html#PhuocDPBEF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZukowskiB12" mdate="2018-11-14">
+<author pid="40/4880">Marcin Zukowski</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>From x100 to vectorwise: opportunities, challenges and things most researchers do not think about.</title>
+<pages>861-862</pages>
+<year>2012</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2213836.2213967</ee>
+<ee>https://www.wikidata.org/entity/Q57635531</ee>
+<crossref>conf/sigmod/2012</crossref>
+<url>db/conf/sigmod/sigmod2012.html#ZukowskiB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpctc/PhamBE12" mdate="2017-05-23">
+<author pid="68/8510">Minh-Duc Pham</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="47/2397">Orri Erling</author>
+<title>S3G2: A Scalable Structure-Correlated Social Graph Generator.</title>
+<pages>156-172</pages>
+<year>2012</year>
+<crossref>conf/tpctc/2012</crossref>
+<booktitle>TPCTC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-36727-4_11</ee>
+<url>db/conf/tpctc/tpctc2012.html#PhamBE12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1208-4170" mdate="2018-08-13">
+<author pid="117/5936">Michal Switakowski</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="40/4880">Marcin Zukowski</author>
+<title>From Cooperative Scans to Predictive Buffer Management</title>
+<ee type="oa">http://arxiv.org/abs/1208.4170</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1208.4170</volume>
+<url>db/journals/corr/corr1208.html#abs-1208-4170</url>
+</article>
+</r>
+<r><article key="journals/sigmod/InksterZB11" mdate="2020-03-06">
+<author pid="54/10606">Doug Inkster</author>
+<author pid="40/4880">Marcin Zukowski</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Integration of vectorwise with ingres.</title>
+<pages>45-53</pages>
+<year>2011</year>
+<volume>40</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2070736.2070747</ee>
+<ee>https://www.wikidata.org/entity/Q30049001</ee>
+<url>db/journals/sigmod/sigmod40.html#InksterZB11</url>
+</article>
+</r>
+<r><article key="journals/sigmod/BizerBBE11" mdate="2020-03-06">
+<author orcid="0000-0003-2367-0237" pid="b/ChristianBizer">Christian Bizer</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="95/3763">Michael L. Brodie</author>
+<author pid="47/2397">Orri Erling</author>
+<title>The meaningful use of big data: four perspectives - four challenges.</title>
+<pages>56-60</pages>
+<year>2011</year>
+<volume>40</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2094114.2094129</ee>
+<ee>https://www.wikidata.org/entity/Q57239793</ee>
+<url>db/journals/sigmod/sigmod40.html#BizerBBE11</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/SidirourgosKB11" mdate="2020-03-12">
+<author pid="01/4876">Lefteris Sidirourgos</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>SciBORQ: Scientific data management with Bounds On Runtime and Quality.</title>
+<pages>296-301</pages>
+<year>2011</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2011/Papers/CIDR11_Paper39.pdf</ee>
+<crossref>conf/cidr/2011</crossref>
+<url>db/conf/cidr/cidr2011.html#SidirourgosKB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/SompolskiZB11" mdate="2018-11-06">
+<author pid="84/9733">Juliusz Sompolski</author>
+<author pid="40/4880">Marcin Zukowski</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Vectorization vs. compilation in query execution.</title>
+<pages>33-40</pages>
+<year>2011</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/1995441.1995446</ee>
+<crossref>conf/damon/2011</crossref>
+<url>db/conf/damon/damon2011.html#SompolskiZB11</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/Boncz10" mdate="2020-03-10">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Letter from the Special Issue Editor.</title>
+<pages>3</pages>
+<year>2010</year>
+<volume>33</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A10dec/bonczletter.pdf</ee>
+<url>db/journals/debu/debu33.html#Boncz10</url>
+</article>
+</r>
+<r><article key="journals/tkde/ZhangTB10" mdate="2019-08-12">
+<author pid="13/6769-27">Ying Zhang 0027</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Projective Distribution of XQuery with Updates.</title>
+<pages>1059-1076</pages>
+<year>2010</year>
+<volume>22</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TKDE.2010.62</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2010.62</ee>
+<url>db/journals/tkde/tkde22.html#ZhangTB10</url>
+</article>
+</r>
+<r><inproceedings key="conf/amw/KaderKBM10" mdate="2023-03-10">
+<author pid="85/7114">Riham Abdel Kader</author>
+<author pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<title>Run-time Optimization for Pipelined Systems.</title>
+<year>2010</year>
+<booktitle>AMW</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-619/paper15.pdf</ee>
+<crossref>conf/amw/2010</crossref>
+<url>db/conf/amw/amw2010.html#KaderKBM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KaderBMK10" mdate="2023-03-24">
+<author pid="85/7114">Riham Abdel Kader</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author orcid="0000-0003-2436-1372" pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<title>ROX: The robustness of a run-time XQuery optimizer against correlated data.</title>
+<pages>1185-1188</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447765</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447765</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#KaderBMK10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/HarizopoulosABDMW10" mdate="2023-08-08">
+<author pid="38/6308">Stavros Harizopoulos</author>
+<author pid="49/397">Tassos Argyros</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="80/7992">Dan Dietterich</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="w/FlorianWaas">Florian M. Waas</author>
+<title>Database architecture (R)evolution: New hardware vs. new software.</title>
+<pages>1210</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447682</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447682</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#HarizopoulosABDMW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HemanZNSAB10" mdate="2023-09-30">
+<author pid="28/290">S&#225;ndor H&#233;man</author>
+<author pid="40/4880">Marcin Zukowski</author>
+<author orcid="0009-0000-5927-2551" pid="82/1319">Niels J. Nes</author>
+<author pid="01/4876">Lefteris Sidirourgos</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Positional update handling in column stores.</title>
+<pages>543-554</pages>
+<year>2010</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1807167.1807227</ee>
+<crossref>conf/sigmod/2010</crossref>
+<url>db/conf/sigmod/sigmod2010.html#HemanZNSAB10</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/damon/2010" mdate="2018-11-06">
+<editor pid="a/AnastassiaAilamaki">Anastasia Ailamaki</editor>
+<editor pid="b/PeterABoncz">Peter A. Boncz</editor>
+<title>Proceedings of the Sixth International Workshop on Data Management on New Hardware, DaMoN 2010, Indianapolis, IN, USA, June 7, 2010</title>
+<year>2010</year>
+<booktitle>DaMoN</booktitle>
+<url>db/conf/damon/damon2010.html</url>
+<publisher>ACM</publisher>
+<isbn>978-1-4503-0189-3</isbn>
+<ee>https://doi.org/10.1145/1869389</ee>
+</proceedings>
+</r>
+<r><article key="journals/pvldb/BonczMK09" mdate="2020-04-25">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>Database Architecture Evolution: Mammals Flourished long before Dinosaurs became Extinct.</title>
+<pages>1648-1653</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-10years.pdf</ee>
+<ee>https://doi.org/10.14778/1687553.1687618</ee>
+<url>db/journals/pvldb/pvldb2.html#BonczMK09</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AbadiBH09" mdate="2020-04-25">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="38/6308">Stavros Harizopoulos</author>
+<title>Column oriented Database Systems.</title>
+<pages>1664-1665</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-tutorial6.pdf</ee>
+<ee>https://doi.org/10.14778/1687553.1687625</ee>
+<url>db/journals/pvldb/pvldb2.html#AbadiBH09</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/TangSB09" mdate="2018-11-06">
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="01/4876">Lefteris Sidirourgos</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Space-economical partial gram indices for exact substring matching.</title>
+<pages>285-294</pages>
+<year>2009</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1645953.1645992</ee>
+<crossref>conf/cikm/2009</crossref>
+<url>db/conf/cikm/cikm2009.html#TangSB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/TangYTOB09" mdate="2017-06-02">
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author pid="07/5751">Hao Tang</author>
+<author orcid="0000-0002-8126-1717" pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Materialized View Selection in XML Databases.</title>
+<pages>616-630</pages>
+<year>2009</year>
+<booktitle>DASFAA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-00887-0_55</ee>
+<crossref>conf/dasfaa/2009</crossref>
+<url>db/conf/dasfaa/dasfaa2009.html#TangYTOB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbtw/SidirourgosB09" mdate="2018-11-06">
+<author pid="01/4876">Lefteris Sidirourgos</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Generic and updatable XML value indices covering equality and range lookups.</title>
+<pages>65-73</pages>
+<year>2009</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<ee>https://doi.org/10.1145/1698790.1698803</ee>
+<crossref>conf/edbtw/2009</crossref>
+<url>db/conf/edbtw/edbtw2009.html#SidirourgosB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhangTB09" mdate="2023-03-24">
+<author pid="13/6769-27">Ying Zhang 0027</author>
+<author pid="27/104-1">Nan Tang 0001</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Efficient Distribution of Full-Fledged XQuery.</title>
+<pages>565-576</pages>
+<year>2009</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2009.79</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2009.79</ee>
+<crossref>conf/icde/2009</crossref>
+<url>db/conf/icde/icde2009.html#ZhangTB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KaderBMK09" mdate="2018-11-06">
+<author pid="85/7114">Riham Abdel Kader</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author orcid="0000-0003-2436-1372" pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<title>ROX: run-time optimization of XQueries.</title>
+<pages>615-626</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559910</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#KaderBMK09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/waim/ZhangVBHO09" mdate="2019-08-12">
+<author pid="13/6769-27">Ying Zhang 0027</author>
+<author pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="19/3140">Djoerd Hiemstra</author>
+<author pid="75/3664">Roeland Ordelman</author>
+<title>StreetTiVo: Using a P2P XML Database System to Manage Multimedia Data in Your Living Room.</title>
+<pages>404-415</pages>
+<year>2009</year>
+<booktitle>APWeb/WAIM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-00672-2_36</ee>
+<crossref>conf/waim/2009</crossref>
+<url>db/conf/waim/waim2009.html#ZhangVBHO09</url>
+</inproceedings>
+</r>
+<r><incollection key="books/tf/09/SvenssonBIKNR09" mdate="2019-08-05">
+<author pid="s/PerSvensson1">Per Svensson 0001</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="i/MilenaIvanova">Milena Ivanova</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<author pid="82/1319">Niels Nes</author>
+<author pid="r/DoronRotem">Doron Rotem</author>
+<title>Emerging Database Systems in Support of Scientific Data.</title>
+<year>2009</year>
+<booktitle>Scientific Data Management</booktitle>
+<ee>https://doi.org/10.1201/9781420069815-c7</ee>
+<crossref>books/tf/09/SRO2009</crossref>
+<url>db/books/collections/SRO2009.html#SvenssonBIKNR09</url>
+</incollection>
+</r>
+<r><proceedings key="conf/damon/2009" mdate="2018-11-06">
+<editor pid="b/PeterABoncz">Peter A. Boncz</editor>
+<editor pid="r/KARoss">Kenneth A. Ross</editor>
+<title>Proceedings of the Fifth International Workshop on Data Management on New Hardware, DaMoN 2009, Providence, Rhode Island, USA, June 28, 2009</title>
+<year>2009</year>
+<booktitle>DaMoN</booktitle>
+<url>db/conf/damon/damon2009.html</url>
+<publisher>ACM</publisher>
+<isbn>978-1-60558-701-1</isbn>
+<ee>https://doi.org/10.1145/1565694</ee>
+</proceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Boncz09" mdate="2017-07-12">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Disk.</title>
+<pages>866-867</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_685</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/d.html#Boncz09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Boncz09a" mdate="2017-07-12">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Main Memory.</title>
+<pages>1668-1669</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_683</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/m.html#Boncz09a</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Boncz09b" mdate="2017-07-12">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Main Memory DBMS.</title>
+<pages>1669-1670</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_655</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/m.html#Boncz09b</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Boncz09c" mdate="2017-07-12">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Processor Cache.</title>
+<pages>2195-2196</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_684</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/p.html#Boncz09c</url>
+</incollection>
+</r>
+<r><article key="journals/cacm/BonczKM08" mdate="2018-11-14">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<title>Breaking the memory wall in MonetDB.</title>
+<pages>77-85</pages>
+<year>2008</year>
+<volume>51</volume>
+<journal>Commun. ACM</journal>
+<number>12</number>
+<ee>https://doi.org/10.1145/1409360.1409380</ee>
+<ee>https://www.wikidata.org/entity/Q56812619</ee>
+<url>db/journals/cacm/cacm51.html#BonczKM08</url>
+</article>
+</r>
+<r><article key="journals/vldb/CornacchiaHZVB08" mdate="2017-06-09">
+<author pid="08/5444">Roberto Cornacchia</author>
+<author pid="28/290">S&#225;ndor H&#233;man</author>
+<author pid="40/4880">Marcin Zukowski</author>
+<author orcid="0000-0002-2888-4202" pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Flexible and efficient IR using array databases.</title>
+<year>2008</year>
+<volume>17</volume>
+<number>1</number>
+<pages>151-168</pages>
+<journal>VLDB J.</journal>
+<ee>https://doi.org/10.1007/s00778-007-0071-0</ee>
+<url>db/journals/vldb/vldb17.html#CornacchiaHZVB08</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/ZukowskiNB08" mdate="2023-09-30">
+<author pid="40/4880">Marcin Zukowski</author>
+<author orcid="0009-0000-5927-2551" pid="82/1319">Niels Nes</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>DSM vs. NSM: CPU performance tradeoffs in block-oriented query processing.</title>
+<pages>47-54</pages>
+<year>2008</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/1457150.1457160</ee>
+<crossref>conf/damon/2008</crossref>
+<url>db/conf/damon/damon2008.html#ZukowskiNB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZhangB08" mdate="2019-08-12">
+<author pid="13/6769-27">Ying Zhang 0027</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>XRPC: distributed XQuery and update processing with heterogeneous XQuery engines.</title>
+<pages>1331-1336</pages>
+<year>2008</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1376616.1376768</ee>
+<crossref>conf/sigmod/2008</crossref>
+<url>db/conf/sigmod/sigmod2008.html#ZhangB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/HemanZVB07" mdate="2020-03-12">
+<author pid="28/290">S&#225;ndor H&#233;man</author>
+<author pid="40/4880">Marcin Zukowski</author>
+<author pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Efficient and Flexible Information Retrieval using MonetDB/X100.</title>
+<pages>96-101</pages>
+<year>2007</year>
+<crossref>conf/cidr/2007</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2007/papers/cidr07p10.pdf</ee>
+<url>db/conf/cidr/cidr2007.html#HemanZVB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/HemanNZB07" mdate="2023-09-30">
+<author pid="28/290">S&#225;ndor H&#233;man</author>
+<author orcid="0009-0000-5927-2551" pid="82/1319">Niels Nes</author>
+<author pid="40/4880">Marcin Zukowski</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Vectorized data processing on the cell broadband engine.</title>
+<pages>4</pages>
+<year>2007</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/1363189.1363195</ee>
+<crossref>conf/damon/2007</crossref>
+<url>db/conf/damon/damon2007.html#HemanNZB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/ZhangB07" mdate="2023-03-10">
+<author pid="13/6769-27">Ying Zhang 0027</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Integrating XQuery and P2P in MonetDB/XQuery*.</title>
+<year>2007</year>
+<booktitle>EROW</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-229/paper1.pdf</ee>
+<crossref>conf/icdt/2007erow</crossref>
+<url>db/conf/icdt/erow2007.html#ZhangB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ZhangB07" mdate="2020-03-12">
+<author pid="13/6769-27">Ying Zhang 0027</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>XRPC: Interoperable and Efficient Distributed XQuery.</title>
+<pages>99-110</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/research/p99-zhang.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#ZhangB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ZukowskiHNB07" mdate="2020-03-12">
+<author pid="40/4880">Marcin Zukowski</author>
+<author pid="28/290">S&#225;ndor H&#233;man</author>
+<author pid="82/1319">Niels Nes</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Cooperative Scans: Dynamic Bandwidth Sharing in a DBMS.</title>
+<pages>723-734</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/research/p723-zukowski.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#ZukowskiHNB07</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dagstuhl/2006P6472" mdate="2021-06-10">
+<editor pid="b/PeterABoncz">Peter A. Boncz</editor>
+<editor pid="g/TorstenGrust">Torsten Grust</editor>
+<editor pid="15/4061">J&#233;r&#244;me Sim&#233;on</editor>
+<editor pid="k/MauricevanKeulen">Maurice van Keulen</editor>
+<title>XQuery Implementation Paradigms, 19.11. - 22.11.2006</title>
+<booktitle>XQuery Implementation Paradigms</booktitle>
+<volume>06472</volume>
+<year>2007</year>
+<publisher>Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI), Schloss Dagstuhl, Germany</publisher>
+<series href="db/series/dagstuhl/index.html">Dagstuhl Seminar Proceedings</series>
+<url>db/conf/dagstuhl/P6472.html</url>
+<ee type="oa">http://drops.dagstuhl.de/portals/06472/</ee>
+</proceedings>
+</r>
+<r><article key="journals/di/AlinkBBV06" mdate="2021-11-11">
+<author pid="59/1843">Wouter Alink</author>
+<author pid="b/RaoulBhoedjang">R. A. F. Bhoedjang</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author orcid="0000-0002-2888-4202" pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<title>XIRAF - XML-based indexing and querying for digital forensics.</title>
+<pages>50-58</pages>
+<year>2006</year>
+<volume>3</volume>
+<journal>Digit. Investig.</journal>
+<number>Supplement</number>
+<ee>https://doi.org/10.1016/j.diin.2006.06.016</ee>
+<url>db/journals/di/di3.html#AlinkBBV06</url>
+</article>
+</r>
+<r><article key="journals/sigmod/AilamakiBM06" mdate="2020-03-06">
+<author pid="a/AnastassiaAilamaki">Anastassia Ailamaki</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<title>Report on the Second International Workshop on Data Management on Modern Hardware (DaMoN'06).</title>
+<pages>46-47</pages>
+<year>2006</year>
+<volume>35</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1228268.1228279</ee>
+<url>db/journals/sigmod/sigmod35.html#AilamakiBM06</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl-xml/AlinkJARBV06" mdate="2021-08-06">
+<author pid="59/1843">Wouter Alink</author>
+<author pid="73/3954">Valentin Jijkoun</author>
+<author pid="98/4643">David Ahn</author>
+<author pid="r/MdRijke">Maarten de Rijke</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<title>Representing and Querying Multi-dimensional Markup for Question Answering.</title>
+<year>2006</year>
+<booktitle>NLPXML@EACL</booktitle>
+<ee type="oa">https://aclanthology.org/W06-2701/</ee>
+<crossref>conf/acl-xml/2006</crossref>
+<url>db/conf/acl-xml/acl-xml2006.html#AlinkJARBV06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/ZukowskiHB06" mdate="2018-11-06">
+<author pid="40/4880">Marcin Zukowski</author>
+<author pid="28/290">S&#225;ndor H&#233;man</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Architecture-conscious hashing.</title>
+<pages>6</pages>
+<year>2006</year>
+<crossref>conf/damon/2006</crossref>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/1140402.1140410</ee>
+<url>db/conf/damon/damon2006.html#ZukowskiHB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/BonczFGKMMRT06" mdate="2017-06-02">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="f/JanFlokstra">Jan Flokstra</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author orcid="0000-0003-2436-1372" pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="66/4188">K. Sjoerd Mullender</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>MonetDB/XQuery-Consistent and Efficient Updates on the Pre/Post Plane.</title>
+<pages>1190-1193</pages>
+<year>2006</year>
+<crossref>conf/edbt/2006</crossref>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1007/11687238_89</ee>
+<url>db/conf/edbt/edbt2006.html#BonczFGKMMRT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZukowskiHNB06" mdate="2023-09-30">
+<author pid="40/4880">Marcin Zukowski</author>
+<author pid="28/290">S&#225;ndor H&#233;man</author>
+<author orcid="0009-0000-5927-2551" pid="82/1319">Niels Nes</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Super-Scalar RAM-CPU Cache Compression.</title>
+<pages>59</pages>
+<year>2006</year>
+<crossref>conf/icde/2006</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2006.150</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2006.150</ee>
+<url>db/conf/icde/icde2006.html#ZukowskiHNB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BonczGKMRT06" mdate="2018-11-06">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author orcid="0000-0003-2436-1372" pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>MonetDB/XQuery: a fast XQuery processor powered by a relational engine.</title>
+<pages>479-490</pages>
+<year>2006</year>
+<crossref>conf/sigmod/2006</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1142473.1142527</ee>
+<url>db/conf/sigmod/sigmod2006.html#BonczGKMRT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trec/HemanZVB06" mdate="2020-03-12">
+<author pid="28/290">S&#225;ndor H&#233;man</author>
+<author pid="40/4880">Marcin Zukowski</author>
+<author pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>MonetDB/X100 at the 2006 TREC Terabyte Track.</title>
+<year>2006</year>
+<booktitle>TREC</booktitle>
+<ee type="oa">http://trec.nist.gov/pubs/trec15/papers/cwi-heman.tera.final.pdf</ee>
+<crossref>conf/trec/2006</crossref>
+<url>db/conf/trec/trec2006.html#HemanZVB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ximep/AlinkBVB06" mdate="2007-10-01">
+<author pid="59/1843">Wouter Alink</author>
+<author pid="b/RaoulBhoedjang">R. A. F. Bhoedjang</author>
+<author pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Efficient XQuery Support for Stand-Off Annotation.</title>
+<year>2006</year>
+<crossref>conf/ximep/2006</crossref>
+<booktitle>XIME-P</booktitle>
+<ee>http://www.ximep-2006.org/papers/Paper-Alink-Boncz.pdf</ee>
+<url>db/conf/ximep/ximep2006.html#AlinkBVB06</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/damon/2006" mdate="2018-11-06">
+<editor pid="a/AnastassiaAilamaki">Anastassia Ailamaki</editor>
+<editor pid="b/PeterABoncz">Peter A. Boncz</editor>
+<editor pid="m/StefanManegold">Stefan Manegold</editor>
+<title>Workshop on Data Management on New Hardware, DaMoN 2006, Chicago, Illinois, USA, June 25, 2006</title>
+<year>2006</year>
+<booktitle>DaMoN</booktitle>
+<url>db/conf/damon/damon2006.html</url>
+<publisher>ACM</publisher>
+<isbn>1-59593-466-9</isbn>
+<ee>https://doi.org/10.1145/1140402</ee>
+</proceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/BonczBBBCGIJKMMOOS06" mdate="2022-08-09">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="b/ABonifati">Angela Bonifati</author>
+<author pid="85/2521">Joos-Hendrik B&#246;se</author>
+<author pid="b/StBottcher">Stefan B&#246;ttcher</author>
+<author orcid="0000-0001-7189-9816" pid="c/PKChrysanthis">Panos K. Chrysanthis</author>
+<author pid="g/LeGruenwald">Le Gruenwald</author>
+<author pid="98/2200">Arantza Illarramendi</author>
+<author pid="07/2032">Peter Janacik</author>
+<author pid="k/BKonigRies">Birgitta K&#246;nig-Ries</author>
+<author pid="m/WolfgangMay">Wolfgang May</author>
+<author pid="61/780">Anirban Mondal</author>
+<author pid="73/6599">Sebastian Obermeier 0001</author>
+<author pid="o/ArisMOuksel">Aris M. Ouksel</author>
+<author pid="s/GeorgeSamaras">George Samaras</author>
+<title>06431 Working Group Summary: P2P, Ad Hoc and Sensor Networks - All the Different or All the Same?.</title>
+<year>2006</year>
+<booktitle>Scalable Data Management in Evolving Networks</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2007/951</ee>
+<crossref>conf/dagstuhl/2006P6431</crossref>
+<url>db/conf/dagstuhl/P6431.html#BonczBBBCGIJKMMOOS06</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/BonczBIJKLMMORSSSST06" mdate="2018-08-23">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="b/ABonifati">Angela Bonifati</author>
+<author pid="98/2200">Arantza Illarramendi</author>
+<author pid="07/2032">Peter Janacik</author>
+<author pid="k/BKonigRies">Birgitta K&#246;nig-Ries</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="65/3060">Pedro Jos&#233; Marr&#243;n</author>
+<author pid="m/WolfgangMay">Wolfgang May</author>
+<author pid="o/ArisMOuksel">Aris M. Ouksel</author>
+<author pid="r/KayRomer">Kay R&#246;mer</author>
+<author pid="67/4673">Brahmananda Sapkota</author>
+<author pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<author pid="s/HeinzSchweppe">Heinz Schweppe</author>
+<author pid="48/5080">Rita Steinmetz</author>
+<author pid="t/CanTurker">Can T&#252;rker</author>
+<title>06431 Working Group Report on Managing and Integrating Data in P2P Databases.</title>
+<year>2006</year>
+<booktitle>Scalable Data Management in Evolving Networks</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2007/950</ee>
+<crossref>conf/dagstuhl/2006P6431</crossref>
+<url>db/conf/dagstuhl/P6431.html#BonczBIJKLMMORSSSST06</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/BonczGSK06" mdate="2018-08-23">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="15/4061">J&#233;r&#244;me Sim&#233;on</author>
+<author pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<title>06472 Executive Summary -- XQuery Implementation Paradigms.</title>
+<year>2006</year>
+<booktitle>XQuery Implementation Paradigms</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2007/1022</ee>
+<crossref>conf/dagstuhl/2006P6472</crossref>
+<url>db/conf/dagstuhl/P6472.html#BonczGSK06</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/BonczGSK06a" mdate="2018-08-23">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="15/4061">J&#233;r&#244;me Sim&#233;on</author>
+<author pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<title>06472 Abstracts Collection -- XQuery Implementation Paradigms.</title>
+<year>2006</year>
+<booktitle>XQuery Implementation Paradigms</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2007/893</ee>
+<crossref>conf/dagstuhl/2006P6472</crossref>
+<url>db/conf/dagstuhl/P6472.html#BonczGSK06a</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/BonczZ06" mdate="2018-08-23">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="64/6544">Yi Zhang</author>
+<title>P2P XQuery and the StreetTiVo application.</title>
+<year>2006</year>
+<booktitle>Scalable Data Management in Evolving Networks</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2007/949</ee>
+<crossref>conf/dagstuhl/2006P6431</crossref>
+<url>db/conf/dagstuhl/P6431.html#BonczZ06</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/ZukowskiBNH05" mdate="2020-08-19">
+<author pid="40/4880">Marcin Zukowski</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="82/1319">Niels Nes</author>
+<author pid="28/290">S&#225;ndor H&#233;man</author>
+<title>MonetDB/X100 - A DBMS In The CPU Cache.</title>
+<pages>17-22</pages>
+<year>2005</year>
+<volume>28</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<ee type="oa">http://sites.computer.org/debull/A05june/mzukowski.ps</ee>
+<url>db/journals/debu/debu28.html#ZukowskiBNH05</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/BonczZN05" mdate="2020-03-12">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="40/4880">Marcin Zukowski</author>
+<author pid="82/1319">Niels Nes</author>
+<title>MonetDB/X100: Hyper-Pipelining Query Execution.</title>
+<pages>225-237</pages>
+<year>2005</year>
+<crossref>conf/cidr/2005</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2005/papers/P19.pdf</ee>
+<url>db/conf/cidr/cidr2005.html#BonczZN05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/BonczGKMRT05" mdate="2020-03-12">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Pathfinder: XQuery - The Relational Way.</title>
+<pages>1322-1325</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2005/papers/p1322-boncz.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083764</ee>
+<url>db/conf/vldb/vldb2005.html#BonczGKMRT05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ximep/BonczMR05" mdate="2020-03-12">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<title>Updating the Pre/Post Plane in MonetDB/XQuery.</title>
+<year>2005</year>
+<crossref>conf/ximep/2005</crossref>
+<booktitle>XIME-P</booktitle>
+<ee type="oa">http://www.ximeco.org/Xime/UpdatingPrePostPlaneManegold.pdf</ee>
+<url>db/conf/ximep/ximep2005.html#BonczMR05</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/damon/2005" mdate="2018-11-06">
+<editor pid="a/AnastassiaAilamaki">Anastassia Ailamaki</editor>
+<editor pid="b/PeterABoncz">Peter A. Boncz</editor>
+<editor pid="m/StefanManegold">Stefan Manegold</editor>
+<title>Workshop on Data Management on New Hardware, DaMoN 2005, Baltimore, Maryland, USA, June 12, 2005</title>
+<year>2005</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/1114252</ee>
+<url>db/conf/damon/damon2005.html</url>
+</proceedings>
+</r>
+<r><article key="journals/sigmod/RossBIMV04" mdate="2020-03-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="v/VVassalos">Vasilis Vassalos</author>
+<title>Reminiscences on Influential Papers.</title>
+<pages>91-92</pages>
+<year>2004</year>
+<volume>33</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1041410.1041431</ee>
+<ee>https://www.wikidata.org/entity/Q56654159</ee>
+<url>db/journals/sigmod/sigmod33.html#RossBIMV04</url>
+</article>
+</r>
+<r><inproceedings key="conf/percom/FontijnB04" mdate="2023-03-24">
+<author pid="81/4289">Willem Fontijn</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>AmbientDB: P2P Data Management Middleware for Ambient Intelligence.</title>
+<pages>203-207</pages>
+<year>2004</year>
+<crossref>conf/percom/2004w</crossref>
+<booktitle>PerCom Workshops</booktitle>
+<ee>https://doi.org/10.1109/PERCOMW.2004.1276932</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PERCOMW.2004.1276932</ee>
+<url>db/conf/percom/percomw2004.html#FontijnB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ManegoldBKN04" mdate="2023-09-30">
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author orcid="0009-0000-5927-2551" pid="82/1319">Niels Nes</author>
+<title>Cache-Conscious Radix-Decluster Projections.</title>
+<year>2004</year>
+<crossref>conf/vldb/2004</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2004.html#ManegoldBKN04</url>
+<pages>684-695</pages>
+<ee>http://www.vldb.org/conf/2004/RS18P3.PDF</ee>
+<ee>https://doi.org/10.1016/B978-012088469-8.50061-9</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbisp2p/BonczT03" mdate="2017-05-23">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="75/859">Caspar Treijtel</author>
+<title>AmbientDB: Relational Query Processing in a P2P Network.</title>
+<pages>153-168</pages>
+<ee>https://doi.org/10.1007/978-3-540-24629-9_12</ee>
+<year>2003</year>
+<crossref>conf/dbisp2p/2003</crossref>
+<booktitle>DBISP2P</booktitle>
+<url>db/conf/dbisp2p/dbisp2p2003.html#BonczT03</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/ManegoldBK02" mdate="2017-05-20">
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>Optimizing Main-Memory Join on Modern Hardware.</title>
+<pages>709-730</pages>
+<year>2002</year>
+<volume>14</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TKDE.2002.1019210</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2002.1019210</ee>
+<url>db/journals/tkde/tkde14.html#ManegoldBK02</url>
+</article>
+</r>
+<r><inproceedings key="conf/vldb/ManegoldBK02" mdate="2020-03-12">
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>Generic Database Cost Models for Hierarchical Memory Systems.</title>
+<year>2002</year>
+<crossref>conf/vldb/2002</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2002/S06P03.pdf</ee>
+<ee>https://doi.org/10.1016/B978-155860869-6/50025-1</ee>
+<url>db/conf/vldb/vldb2002.html#ManegoldBK02</url>
+<pages>191-202</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/KerstenMBN01" mdate="2023-09-30">
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author orcid="0009-0000-5927-2551" pid="82/1319">Niels Nes</author>
+<title>Macro- and Micro-parallelism in a DBMS.</title>
+<pages>6-15</pages>
+<year>2001</year>
+<crossref>conf/europar/2001</crossref>
+<booktitle>Euro-Par</booktitle>
+<ee>https://doi.org/10.1007/3-540-44681-8_3</ee>
+<url>db/conf/europar/europar2001.html#KerstenMBN01</url>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/ManegoldBK00" mdate="2018-11-14">
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>Optimizing database architecture for the new bottleneck: memory access.</title>
+<pages>231-246</pages>
+<year>2000</year>
+<volume>9</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s007780000031</ee>
+<ee>https://www.wikidata.org/entity/Q56812617</ee>
+<url>db/journals/vldb/vldb9.html#ManegoldBK00</url>
+</article>
+</r>
+<r><inproceedings key="conf/vldb/ManegoldBK00" mdate="2020-03-12">
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>What Happens During a Join? Dissecting CPU and Memory Optimization Effects.</title>
+<pages>339-350</pages>
+<ee type="oa">http://www.vldb.org/conf/2000/P339.pdf</ee>
+<year>2000</year>
+<crossref>conf/vldb/2000</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2000.html#ManegoldBK00</url>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/BonczK99" mdate="2017-05-28">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>MIL Primitives for Querying a Fragmented World.</title>
+<pages>101-119</pages>
+<year>1999</year>
+<volume>8</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s007780050076</ee>
+<cdrom>VLDBJ8/90080101.pdf</cdrom>
+<url>db/journals/vldb/vldb8.html#BonczK99</url>
+<cite>conf/sigmod/AnalytiP92</cite>
+<cite>conf/vldb/BonczRK98</cite>
+<cite>conf/icde/BronczWK98</cite>
+<cite>conf/edbt/BonczQK96</cite>
+<cite>...</cite>
+<cite>conf/bncod/BonczKK96</cite>
+<cite>conf/sigmod/Cattell94</cite>
+<cite>conf/sigmod/CherniackZ96</cite>
+<cite>conf/icde/ColbyCHJJMSW98</cite>
+<cite>conf/sigmod/ColeG94</cite>
+<cite>...</cite>
+<cite>conf/sigmod/CopelandK85</cite>
+<cite>journals/tkde/DanforthV92</cite>
+<cite>conf/sigmod/DoppelhammerHKK97</cite>
+<cite>journals/datamine/GrayCBLRVPP97</cite>
+<cite>conf/vldb/AgarwalADGNRS96</cite>
+<cite>journals/tkde/Garcia-MolinaS92</cite>
+<cite>conf/sigmod/Gerber95</cite>
+<cite>journals/csur/Graefe93</cite>
+<cite>conf/sigmod/GraefeW89</cite>
+<cite>conf/vldb/Guting89</cite>
+<cite>...</cite>
+<cite>conf/sigmod/IoannidisC91</cite>
+<cite>conf/sigmod/KabraD98</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/icde/KerstenB94</cite>
+<cite>conf/icde/KhoshafianCJBV87</cite>
+<cite>journals/is/LanzelotteVZZ94</cite>
+<cite>conf/vldb/LehmanC86</cite>
+<cite>conf/bncod/NesK98</cite>
+<cite>conf/dexa/NovakGV94</cite>
+<cite>conf/hpts/ONeil87</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/vldb/PellenkoftLK97</cite>
+<cite>conf/sigmod/SelingerACLP79</cite>
+<cite>conf/vldb/ShatdalKN94</cite>
+<cite>...</cite>
+<cite>journals/debu/StonebrakerAH87</cite>
+<cite>conf/icde/SubramanianLVZ95</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/tods/Valduriez87</cite>
+<cite>books/mk/freytagMV91/BergK91</cite>
+<cite>journals/tods/WhangK90</cite>
+<cite>phd/White94</cite>
+<cite>conf/icde/WuB98</cite>
+</article>
+</r>
+<r><inproceedings key="conf/vldb/BonczMK99" mdate="2020-03-12">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>Database Architecture Optimized for the New Bottleneck: Memory Access.</title>
+<pages>54-65</pages>
+<year>1999</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb99.html#BonczMK99</url>
+<crossref>conf/vldb/99</crossref>
+<ee type="oa">http://www.vldb.org/conf/1999/P5.pdf</ee>
+<cite label="AvdBF+92">journals/tkde/ApersBFGKW92</cite>
+<cite label="BQK96">conf/edbt/BonczQK96</cite>
+<cite label="BRK98">conf/vldb/BonczRK98</cite>
+<cite label="BWK98">conf/icde/BronczWK98</cite>
+<cite label="CK85">conf/sigmod/CopelandK85</cite>
+<cite label="htt96">...</cite>
+<cite label="htt97">...</cite>
+<cite label="Knu68">books/aw/Knuth68</cite>
+<cite label="LC86">conf/vldb/LehmanC86</cite>
+<cite label="LN96">conf/rtdb/ListgartenN96</cite>
+<cite label="MBK99">...</cite>
+<cite label="McC95">...</cite>
+<cite label="MKW+98">journals/computer/McKeeKWWSAB98</cite>
+<cite label="Mow94">...</cite>
+<cite label="NBC+94">conf/sigmod/NybergBCGL94</cite>
+<cite label="Ron98">...</cite>
+<cite label="Sil97">...</cite>
+<cite label="SKN94">conf/vldb/ShatdalKN94</cite>
+<cite label="Val87">journals/tods/Valduriez87</cite>
+<cite label="WK90">journals/tods/WhangK90</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BronczWK98" mdate="2023-03-23">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="93/4199">Annita N. Wilschut</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>Flattening an Object Algebra to Provide Performance.</title>
+<pages>568-577</pages>
+<cdrom>ICDE98/P568.pdf</cdrom>
+<year>1998</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde98.html#BronczWK98</url>
+<crossref>conf/icde/98</crossref>
+<ee>https://doi.org/10.1109/ICDE.1998.655820</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.1998.655820</ee>
+<cite label="AbK92">books/mk/bancilhonDK92/AbiteboulK92</cite>
+<cite label="BKK96">conf/bncod/BonczKK96</cite>
+<cite label="BQK96">conf/edbt/BonczQK96</cite>
+<cite label="CaD96">conf/vldb/CareyD96</cite>
+<cite label="CDN97">conf/sigmod/CareyDNAGS97</cite>
+<cite label="Cat94">books/mk/Cattell94</cite>
+<cite label="ChZ96">conf/sigmod/CherniackZ96</cite>
+<cite label="CID92">conf/sigmod/CluetD92</cite>
+<cite label="CoK85">conf/sigmod/CopelandK85</cite>
+<cite label="ERE85">...</cite>
+<cite label="FeM95">conf/dbpl/FegarasM95</cite>
+<cite label="GKG97">conf/bncod/GrustKGHS97</cite>
+<cite label="GuS95">journals/vldb/GutingS95</cite>
+<cite label="HKM95">conf/kdd/HolsheimerKMT95</cite>
+<cite label="LMS93">conf/dbpl/LeungMSVVZ93</cite>
+<cite label="ShF94">...</cite>
+<cite label="SAB94">conf/vldb/SteenhagenABB94</cite>
+<cite label="SBB96">conf/edbt/SteenhagenBB96</cite>
+<cite label="SRH90">journals/tkde/StonebrakerRH90</cite>
+<cite label="TPC95">...</cite>
+<cite label="WFA95">conf/sigmod/WilschutFA95</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/BonczRK98" mdate="2020-03-12">
+<crossref>conf/vldb/98</crossref>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="86/4193">Tim R&#252;hl</author>
+<author pid="85/3564">Fred Kwakkel</author>
+<title>The Drill Down Benchmark.</title>
+<pages>628-632</pages>
+<year>1998</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb98.html#BonczRK98</url>
+<ee type="oa">http://www.vldb.org/conf/1998/p628.pdf</ee>
+<cite label="AS94">conf/vldb/AgrawalS94</cite>
+<cite label="BWK98">conf/icde/BronczWK98</cite>
+<cite label="GMS92">journals/tkde/Garcia-MolinaS92</cite>
+<cite label="Gra93">books/mk/Gray93</cite>
+<cite label="HKS95">...</cite>
+<cite label="SKN94">conf/vldb/ShatdalKN94</cite>
+<cite label="Tra95">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bncod/BonczKK96" mdate="2017-05-22">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="85/3564">Fred Kwakkel</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>High Performance Support for OO Traversals in Monet.</title>
+<pages>152-169</pages>
+<year>1996</year>
+<crossref>conf/bncod/1996</crossref>
+<booktitle>BNCOD</booktitle>
+<url>db/conf/bncod/bncod96.html#BonczKK96</url>
+<ee>https://doi.org/10.1007/3-540-61442-7_10</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/BonczQK96" mdate="2017-05-21">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="58/5778">Wilko Quak</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>Monet And Its Geographic Extensions: A Novel Approach to High Performance GIS Processing.</title>
+<pages>147-166</pages>
+<cdrom>EDBT96/P147.pdf</cdrom>
+<year>1996</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt96.html#BonczQK96</url>
+<crossref>conf/edbt/96</crossref>
+<ee>https://doi.org/10.1007/BFb0014150</ee>
+<cite>journals/tkde/ApersBFGKW92</cite>
+<cite>...</cite>
+<cite>conf/sigmod/BrinkhoffKSS94</cite>
+<cite>conf/sigmod/CopelandK85</cite>
+<cite>conf/vldb/DeWittKLPY94</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/sigmod/BernsteinDDGGJLLMNRRSSSS89</cite>
+<cite>conf/sigmod/Graefe90</cite>
+<cite>conf/vldb/Guting89</cite>
+<cite>conf/vldb/JagadishLRSS94</cite>
+<cite>...</cite>
+<cite>conf/icde/KhoshafianCJBV87</cite>
+<cite>conf/vldb/LehmanC86</cite>
+<cite>books/aw/Samet90</cite>
+<cite>journals/cacm/Stonebraker81</cite>
+<cite>conf/icde/Stonebraker86</cite>
+<cite>conf/sigmod/StonebrakerFGM93</cite>
+<cite>journals/cacm/StonebrakerK91</cite>
+<cite>books/mk/freytagMV91/BergK91</cite>
+<cite>conf/sigmod/WhiteD94</cite>
+</inproceedings>
+</r>
+<coauthors n="319" nc="2">
+<co c="0" n="2"><na f="a/Abadi:Daniel_J=" pid="a/DJAbadi">Daniel J. Abadi</na><na>Daniel Abadi</na></co>
+<co c="1"><na f="a/Afroozeh:Azim" pid="349/9083">Azim Afroozeh</na></co>
+<co c="0"><na f="a/Ahn:David" pid="98/4643">David Ahn</na></co>
+<co c="0" n="2"><na f="a/Ailamaki:Anastasia" pid="a/AnastassiaAilamaki">Anastasia Ailamaki</na><na>Anastassia Ailamaki</na></co>
+<co c="0"><na f="a/Alink:Wouter" pid="59/1843">Wouter Alink</na></co>
+<co c="0"><na f="a/Ammar:Khaled" pid="29/9884">Khaled Ammar</na></co>
+<co c="0"><na f="a/Anadiotis:Angelos=Christos_G=" pid="85/8852">Angelos-Christos G. Anadiotis</na></co>
+<co c="0"><na f="a/Andersen:David_G=" pid="a/DavidGAndersen">David G. Andersen</na></co>
+<co c="0"><na f="a/Anderson:Michael_J=" pid="43/4755">Michael J. Anderson</na></co>
+<co c="0"><na f="a/Angles:Renzo" pid="36/2474">Renzo Angles</na></co>
+<co c="0"><na f="a/Anneser:Christoph" pid="231/3706">Christoph Anneser</na></co>
+<co c="0"><na f="a/Antal:J=aacute=nos_Benjamin" pid="220/5972">J&#225;nos Benjamin Antal</na></co>
+<co c="0"><na f="a/Aref:Walid_G=" pid="a/WGAref">Walid G. Aref</na></co>
+<co c="0"><na f="a/Arenas:Marcelo" pid="76/6735">Marcelo Arenas</na></co>
+<co c="0"><na f="a/Argyros:Tassos" pid="49/397">Tassos Argyros</na></co>
+<co c="0"><na f="a/Armbrust:Michael" pid="14/5951">Michael Armbrust</na></co>
+<co c="0"><na f="a/Atwal:R=_J=" pid="372/1772">R. J. Atwal</na></co>
+<co c="0"><na f="a/Averbuch:Alex" pid="119/6895">Alex Averbuch</na></co>
+<co c="0"><na f="b/Bailis:Peter" pid="47/8816">Peter Bailis</na></co>
+<co c="0"><na f="b/Balazinska:Magdalena" pid="b/MagdalenaBalazinska">Magdalena Balazinska</na></co>
+<co c="0"><na f="b/B=acirc=rca:Cristian" pid="181/5876">Cristian B&#226;rca</na></co>
+<co c="0"><na f="b/Barcel=oacute=:Pablo" pid="29/5169">Pablo Barcel&#243;</na></co>
+<co c="-1"><na f="b/Battiston:Ilaria" pid="354/9980">Ilaria Battiston</na></co>
+<co c="0"><na f="b/Baumann_0002:Stephan" pid="16/6503-2">Stephan Baumann 0002</na></co>
+<co c="0"><na f="b/Bebee:Brad" pid="249/6360">Brad Bebee</na></co>
+<co c="0"><na f="b/Beischl:Alexander" pid="266/5816">Alexander Beischl</na></co>
+<co c="0"><na f="b/Bernstein:Philip_A=" pid="b/PhilipABernstein">Philip A. Bernstein</na></co>
+<co c="0"><na f="b/Besta:Maciej" pid="136/7953">Maciej Besta</na></co>
+<co c="0" n="2"><na f="b/Bhoedjang:Raoul" pid="b/RaoulBhoedjang">Raoul Bhoedjang</na><na>R. A. F. Bhoedjang</na></co>
+<co c="0"><na f="b/Birler:Altan" pid="243/2475">Altan Birler</na></co>
+<co c="0"><na f="b/Bizer:Christian" pid="b/ChristianBizer">Christian Bizer</na></co>
+<co c="0"><na f="b/Bonifati:Angela" pid="b/ABonifati">Angela Bonifati</na></co>
+<co c="0"><na f="b/B=ouml=se:Joos=Hendrik" pid="85/2521">Joos-Hendrik B&#246;se</na></co>
+<co c="0"><na f="b/B=ouml=ttcher:Stefan" pid="b/StBottcher">Stefan B&#246;ttcher</na></co>
+<co c="0"><na f="b/Boyd:Ryan" pid="59/11137">Ryan Boyd</na></co>
+<co c="0"><na f="b/Brodie:Michael_L=" pid="95/3763">Michael L. Brodie</na></co>
+<co c="0"><na f="c/Capota:Mihai" pid="04/8524">Mihai Capota</na></co>
+<co c="0"><na f="c/Chafi:Hassan" pid="94/3582">Hassan Chafi</na></co>
+<co c="0"><na f="c/Chaudhuri:Surajit" pid="c/SurajitChaudhuri">Surajit Chaudhuri</na></co>
+<co c="0"><na f="c/Cheung:Alvin" pid="16/4915">Alvin Cheung</na></co>
+<co c="0"><na f="c/Christophides:Vassilis" pid="c/VassilisChristophides">Vassilis Christophides</na></co>
+<co c="0"><na f="c/Chromejko:Damian" pid="275/8381">Damian Chromejko</na></co>
+<co c="0"><na f="c/Chronis:Yannis" pid="176/4991">Yannis Chronis</na></co>
+<co c="0"><na f="c/Chrysanthis:Panos_K=" pid="c/PKChrysanthis">Panos K. Chrysanthis</na></co>
+<co c="0"><na f="c/Cornacchia:Roberto" pid="08/5444">Roberto Cornacchia</na></co>
+<co c="0"><na f="c/Costea:Andrei" pid="181/5832">Andrei Costea</na></co>
+<co c="0"><na f="c/Courtney:Antony" pid="83/1295">Antony Courtney</na></co>
+<co c="0"><na f="c/Crolotte:Alain" pid="54/6788">Alain Crolotte</na></co>
+<co c="0"><na f="d/Dao=Tran:Minh" pid="29/1092">Minh Dao-Tran</na></co>
+<co c="0"><na f="d/Das:Tathagata" pid="31/6214">Tathagata Das</na></co>
+<co c="0"><na f="d/Daudjee:Khuzaima" pid="d/KhuzaimaDaudjee">Khuzaima Daudjee</na></co>
+<co c="0"><na f="d/Dave:Ankur" pid="74/10101">Ankur Dave</na></co>
+<co c="0"><na f="d/Depner:Siegfried" pid="169/1734">Siegfried Depner</na></co>
+<co c="0"><na f="d/Deshpande:Amol" pid="d/AmolDeshpande">Amol Deshpande</na></co>
+<co c="0"><na f="d/Deutsch:Alin" pid="d/AlinDeutsch">Alin Deutsch</na></co>
+<co c="0"><na f="d/Dietterich:Dan" pid="80/7992">Dan Dietterich</na></co>
+<co c="0"><na f="d/Doan:AnHai" pid="d/AnHaiDoan">AnHai Doan</na></co>
+<co c="0"><na f="d/D=ouml=hmen:Till" pid="169/5218">Till D&#246;hmen</na></co>
+<co c="0" n="2"><na f="d/Dong_0001:Xin" pid="d/XinLunaDong">Xin Dong 0001</na><na>Luna Dong</na></co>
+<co c="0"><na f="d/Doraiswamy:Harish" pid="05/264">Harish Doraiswamy</na></co>
+<co c="0"><na f="d/Dumbrava:Stefania" pid="143/2670">Stefania Dumbrava</na></co>
+<co c="0"><na f="e/Eiter:Thomas" pid="e/TEiter">Thomas Eiter</na></co>
+<co c="0"><na f="e/Erling:Orri" pid="47/2397">Orri Erling</na></co>
+<co c="0"><na f="f/Felder:Elena" pid="372/1324">Elena Felder</na></co>
+<co c="0"><na f="f/Finis:Jan" pid="127/0410">Jan Finis</na></co>
+<co c="0"><na f="f/Fink_0001:Michael" pid="f/MFink">Michael Fink 0001</na></co>
+<co c="0" n="2"><na f="f/Fletcher_0001:George" pid="f/GeorgeHLFletcher">George Fletcher 0001</na><na>George H. L. Fletcher</na></co>
+<co c="0"><na f="f/Flokstra:Jan" pid="f/JanFlokstra">Jan Flokstra</na></co>
+<co c="-1"><na f="f/Fontijn:Willem" pid="81/4289">Willem Fontijn</na></co>
+<co c="0"><na f="f/Franklin:Michael_J=" pid="f/MJFranklin">Michael J. Franklin</na></co>
+<co c="0"><na f="f/Freire:Juliana" pid="f/JulianaFreire">Juliana Freire</na></co>
+<co c="0"><na f="f/Fuchs:Per" pid="267/1271">Per Fuchs</na></co>
+<co c="0"><na f="f/Fundulaki:Irini" pid="74/6086">Irini Fundulaki</na></co>
+<co c="0"><na f="f/Funke_0001:Florian" pid="69/9320">Florian Funke 0001</na></co>
+<co c="0"><na f="g/Gabb:Henry_A=" pid="06/636">Henry A. Gabb</na></co>
+<co c="0"><na f="g/Gerlinghoff:Florian" pid="372/1458">Florian Gerlinghoff</na></co>
+<co c="0"><na f="g/Ghit:Bogdan" pid="69/8814">Bogdan Ghit</na></co>
+<co c="0"><na f="g/Ghita_0001:Bogdan" pid="226/0012-1">Bogdan Ghita 0001</na></co>
+<co c="0"><na f="g/Ghodsi_0002:Ali" pid="71/4226-2">Ali Ghodsi 0002</na></co>
+<co c="0"><na f="g/Gosnell:Denise" pid="352/2903">Denise Gosnell</na></co>
+<co c="0"><na f="g/Graefe:Goetz" pid="g/GoetzGraefe">Goetz Graefe</na></co>
+<co c="0"><na f="g/Green:Alastair" pid="65/2807">Alastair Green</na></co>
+<co c="0"><na f="g/Gruenwald:Le" pid="g/LeGruenwald">Le Gruenwald</na></co>
+<co c="0"><na f="g/Grust:Torsten" pid="g/TorstenGrust">Torsten Grust</na></co>
+<co c="0"><na f="g/Gubichev:Andrey" pid="01/8701">Andrey Gubichev</na></co>
+<co c="0"><na f="g/Gubner:Tim" pid="220/2576">Tim Gubner</na></co>
+<co c="0"><na f="g/Guo:Zhihui" pid="211/4401">Zhihui Guo</na></co>
+<co c="0"><na f="g/Gutierrez_0001:Claudio" pid="g/ClaudioGutierrez">Claudio Gutierrez 0001</na></co>
+<co c="0"><na f="h/Halevy:Alon_Y=" pid="h/AlonYHalevy">Alon Y. Halevy</na></co>
+<co c="0"><na f="h/Halfpap:Stefan" pid="74/9320">Stefan Halfpap</na></co>
+<co c="0"><na f="h/Hall:Alexander" pid="40/4355">Alexander Hall</na></co>
+<co c="0"><na f="h/Haprian:Vlad" pid="220/5968">Vlad Haprian</na></co>
+<co c="0"><na f="h/Hare:Keith_W=" pid="295/3446">Keith W. Hare</na></co>
+<co c="0"><na f="h/Harizopoulos:Stavros" pid="38/6308">Stavros Harizopoulos</na></co>
+<co c="0" n="2"><na f="h/Hartel:Rita" pid="48/5080">Rita Hartel</na><na>Rita Steinmetz</na></co>
+<co c="0"><na f="h/Hartig:Olaf" pid="29/3132">Olaf Hartig</na></co>
+<co c="0"><na f="h/Haslhofer:Bernhard" pid="85/3208">Bernhard Haslhofer</na></co>
+<co c="0"><na f="h/He:Bingsheng" pid="h/BingshengHe">Bingsheng He</na></co>
+<co c="0"><na f="h/Hegeman:Tim" pid="139/4230">Tim Hegeman</na></co>
+<co c="0"><na f="h/Heldens:Stijn" pid="173/0734">Stijn Heldens</na></co>
+<co c="0"><na f="h/Hellerstein:Joseph_M=" pid="h/JosephMHellerstein">Joseph M. Hellerstein</na></co>
+<co c="0"><na f="h/H=eacute=man:S=aacute=ndor" pid="28/290">S&#225;ndor H&#233;man</na></co>
+<co c="0"><na f="h/Hidders:Jan" pid="h/JanHidders">Jan Hidders</na></co>
+<co c="0"><na f="h/Hiemstra:Djoerd" pid="19/3140">Djoerd Hiemstra</na></co>
+<co c="0"><na f="h/Hose:Katja" pid="h/KatjaHose">Katja Hose</na></co>
+<co c="0"><na f="h/Hovell:Herman_Van" pid="273/6960">Herman Van Hovell</na></co>
+<co c="0"><na f="h/Huang_0007:Jeff" pid="372/1937">Jeff Huang 0007</na></co>
+<co c="0"><na f="h/Hwang:Joseph" pid="372/1739">Joseph Hwang</na></co>
+<co c="0"><na f="h/Hyde:Raphael" pid="372/1738">Raphael Hyde</na></co>
+<co c="0"><na f="i/Iamnitchi:Adriana" pid="33/5916">Adriana Iamnitchi</na></co>
+<co c="0"><na f="i/Idreos:Stratos" pid="i/StratosIdreos">Stratos Idreos</na></co>
+<co c="0"><na f="i/Illarramendi:Arantza" pid="98/2200">Arantza Illarramendi</na></co>
+<co c="0"><na f="i/Ilyas:Ihab_F=" pid="i/IhabFIlyas">Ihab F. Ilyas</na></co>
+<co c="0"><na f="i/Inkster:Doug" pid="54/10606">Doug Inkster</na></co>
+<co c="0"><na f="i/Ionescu:Adrian" pid="141/7572">Adrian Ionescu</na></co>
+<co c="0"><na f="i/Iosup:Alexandru" pid="85/2489">Alexandru Iosup</na></co>
+<co c="0"><na f="i/Ivanova:Milena" pid="i/MilenaIvanova">Milena Ivanova</na></co>
+<co c="0"><na f="j/Janacik:Peter" pid="07/2032">Peter Janacik</na></co>
+<co c="0"><na f="j/Jijkoun:Valentin" pid="73/3954">Valentin Jijkoun</na></co>
+<co c="0"><na f="k/Kader:Riham_Abdel" pid="85/7114">Riham Abdel Kader</na></co>
+<co c="0"><na f="k/Kalavri:Vasiliki" pid="132/6943">Vasiliki Kalavri</na></co>
+<co c="0"><na f="k/Kapp:Hugo" pid="281/6816">Hugo Kapp</na></co>
+<co c="0"><na f="k/Karimov:Karim" pid="298/9196">Karim Karimov</na></co>
+<co c="0"><na f="k/Kaufmann:Moritz" pid="117/4884">Moritz Kaufmann</na></co>
+<co c="0"><na f="k/Kemper:Alfons" pid="k/AlfonsKemper">Alfons Kemper</na></co>
+<co c="0"><na f="k/Kersten:Martin_L=" pid="k/MartinLKersten">Martin L. Kersten</na></co>
+<co c="0"><na f="k/Kersten:Timo" pid="198/5903">Timo Kersten</na></co>
+<co c="0"><na f="k/Keulen:Maurice_van" pid="k/MauricevanKeulen">Maurice van Keulen</na></co>
+<co c="0"><na f="k/Kipf:Andreas" pid="167/6469">Andreas Kipf</na></co>
+<co c="0"><na f="k/Kipf:Thomas" pid="186/8206">Thomas Kipf</na></co>
+<co c="0"><na f="k/Kiryakov:Atanas" pid="49/4559">Atanas Kiryakov</na></co>
+<co c="0"><na f="k/Kl=auml=be:Steffen" pid="211/9910">Steffen Kl&#228;be</na></co>
+<co c="0"><na f="k/K=ouml=nig=Ries:Birgitta" pid="k/BKonigRies">Birgitta K&#246;nig-Ries</na></co>
+<co c="0"><na f="k/Kossmann:Donald" pid="k/DonaldKossmann">Donald Kossmann</na></co>
+<co c="0"><na f="k/Kotoulas:Spyros" pid="24/5546">Spyros Kotoulas</na></co>
+<co c="0"><na f="k/Kotsev:Venelin" pid="146/3355">Venelin Kotsev</na></co>
+<co c="0"><na f="k/Kovatchev:Tomas" pid="352/2630">Tomas Kovatchev</na></co>
+<co c="0"><na f="k/Kraska:Tim" pid="26/6037">Tim Kraska</na></co>
+<co c="0"><na f="k/Krishnamurthy:Sailesh" pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</na></co>
+<co c="0"><na f="k/Kruit:Benno" pid="148/4547">Benno Kruit</na></co>
+<co c="1"><na f="k/Kuffo:Leonardo_X=" pid="363/8018">Leonardo X. Kuffo</na></co>
+<co c="0"><na f="k/Kwakkel:Fred" pid="85/3564">Fred Kwakkel</na></co>
+<co c="0"><na f="l/Lacouture:Jacob" pid="372/1432">Jacob Lacouture</na></co>
+<co c="0"><na f="l/Lang:Harald" pid="150/9460">Harald Lang</na></co>
+<co c="0"><na f="l/Larriba=Pey:Josep_Llu=iacute=s" pid="03/5767">Josep Llu&#237;s Larriba-Pey</na></co>
+<co c="0"><na f="l/Lehner:Wolfgang" pid="l/WLehner">Wolfgang Lehner</na></co>
+<co c="0"><na f="l/Leis:Viktor" pid="10/11150">Viktor Leis</na></co>
+<co c="0"><na f="l/Leo:Dean_De" pid="203/0075">Dean De Leo</na></co>
+<co c="0"><na f="l/Leskes:Boaz" pid="24/3595">Boaz Leskes</na></co>
+<co c="0"><na f="l/Li:Feifei" pid="204/3365">Feifei Li</na></co>
+<co c="0"><na f="l/Li:Xiao" pid="66/2069">Xiao Li</na></co>
+<co c="0"><na f="l/Li:Xinsheng" pid="62/10295">Xinsheng Li</na></co>
+<co c="0"><na f="l/Libkin:Leonid" pid="l/LeonidLibkin">Leonid Libkin</na></co>
+<co c="0"><na f="l/Lin:Heng" pid="120/9589">Heng Lin</na></co>
+<co c="0"><na f="l/Lindaaker:Tobias" pid="211/6985">Tobias Lindaaker</na></co>
+<co c="0"><na f="l/Liu:Yao" pid="64/424">Yao Liu</na></co>
+<co c="0"><na f="l/Luo:Xiaojian" pid="179/8239">Xiaojian Luo</na></co>
+<co c="0"><na f="l/Luszczak:Alicja" pid="181/5684">Alicja Luszczak</na></co>
+<co c="0"><na f="m/Madden_0001:Samuel" pid="m/SamuelMadden">Samuel Madden 0001</na></co>
+<co c="0"><na f="m/Manegold:Stefan" pid="m/StefanManegold">Stefan Manegold</na></co>
+<co c="0"><na f="m/Manhardt:Thomas" pid="169/1749">Thomas Manhardt</na></co>
+<co c="0"><na f="m/Maout:Yves_Le" pid="372/1858">Yves Le Maout</na></co>
+<co c="0"><na f="m/Markl:Volker" pid="m/VMarkl">Volker Markl</na></co>
+<co c="0"><na f="m/Marr=oacute=n:Pedro_Jos=eacute=" pid="65/3060">Pedro Jos&#233; Marr&#243;n</na></co>
+<co c="0"><na f="m/Martella:Claudio" pid="135/5969">Claudio Martella</na></co>
+<co c="0"><na f="m/Martens:Wim" pid="95/3517">Wim Martens</na></co>
+<co c="0"><na f="m/Mart=iacute=nez=Bazan:Norbert" pid="67/4822">Norbert Mart&#237;nez-Bazan</na></co>
+<co c="0"><na f="m/Marton:J=oacute=zsef" pid="200/8204">J&#243;zsef Marton</na></co>
+<co c="0"><na f="m/May:Wolfgang" pid="m/WolfgangMay">Wolfgang May</na></co>
+<co c="0"><na f="m/Melnik_0001:Sergey" pid="m/SergeyMelnik">Sergey Melnik 0001</na></co>
+<co c="0"><na f="m/Mika:Peter" pid="m/PMika">Peter Mika</na></co>
+<co c="0"><na f="m/Milo:Tova" pid="m/TovaMilo">Tova Milo</na></co>
+<co c="0"><na f="m/Mirchev:Atanas" pid="171/4448">Atanas Mirchev</na></co>
+<co c="0"><na f="m/Mohan_0001:C=" pid="m/CMohan">C. Mohan 0001</na></co>
+<co c="0"><na f="m/Mokhtar:Mostafa" pid="131/4245">Mostafa Mokhtar</na></co>
+<co c="0"><na f="m/Monahan:Alex" pid="372/1499">Alex Monahan</na></co>
+<co c="0"><na f="m/Mondal:Anirban" pid="61/780">Anirban Mondal</na></co>
+<co c="0"><na f="m/M=uuml=hlbauer:Tobias" pid="74/11109">Tobias M&#252;hlbauer</na></co>
+<co c="0"><na f="m/M=uuml=hleisen:Hannes" pid="25/9489">Hannes M&#252;hleisen</na></co>
+<co c="0"><na f="m/Mullender:K=_Sjoerd" pid="66/4188">K. Sjoerd Mullender</na></co>
+<co c="0"><na f="m/M=uuml=ller:Jonas" pid="154/0378">Jonas M&#252;ller</na></co>
+<co c="0"><na f="m/Murthy:Mukul" pid="165/5546">Mukul Murthy</na></co>
+<co c="0"><na f="m/Musaafir:Ahmed" pid="229/2344">Ahmed Musaafir</na></co>
+<co c="0"><na f="n/Nagel:Fabian" pid="131/4779">Fabian Nagel</na></co>
+<co c="0"><na f="n/Nai:Lifeng" pid="137/0588">Lifeng Nai</na></co>
+<co c="0" n="2"><na f="n/Nambiar:Raghunath_Othayoth" pid="n/RaghuOthayothNambiar">Raghunath Othayoth Nambiar</na><na>Raghunath Nambiar</na></co>
+<co c="0" n="2"><na f="n/Nes:Niels" pid="82/1319">Niels Nes</na><na>Niels J. Nes</na></co>
+<co c="0"><na f="n/Neubauer:Peter" pid="85/8037">Peter Neubauer</na></co>
+<co c="0"><na f="n/Neumann_0001:Thomas" pid="n/ThomasNeumann">Thomas Neumann 0001</na></co>
+<co c="0"><na f="n/Ngai:Wing_Lung" pid="163/7031">Wing Lung Ngai</na></co>
+<co c="0"><na f="n/Nica:Anisoara" pid="76/4130">Anisoara Nica</na></co>
+<co c="0"><na f="n/Nijs:Giel_de" pid="79/9733">Giel de Nijs</na></co>
+<co c="0"><na f="o/Obermeier_0001:Sebastian" pid="73/6599">Sebastian Obermeier 0001</na></co>
+<co c="0"><na f="o/Ooi:Beng_Chin" pid="o/BengChinOoi">Beng Chin Ooi</na></co>
+<co c="0"><na f="o/Ordelman:Roeland" pid="75/3664">Roeland Ordelman</na></co>
+<co c="0"><na f="o/Ouksel:Aris_M=" pid="o/ArisMOuksel">Aris M. Ouksel</na></co>
+<co c="0" n="2"><na f="=/=Ouml=zcan:Fatma" pid="o/FatmaOzcan">Fatma &#214;zcan</na><na>Fatma Ozcan</na></co>
+<co c="0"><na f="=/=Ouml=zsu:M=_Tamer" pid="o/MTamerOzsu">M. Tamer &#214;zsu</na></co>
+<co c="0"><na f="p/Pandey:Varun" pid="51/1618">Varun Pandey</na></co>
+<co c="0"><na f="p/Paradies:Marcus" pid="31/8766">Marcus Paradies</na></co>
+<co c="0"><na f="p/Paranjpye:Sameer" pid="197/7188">Sameer Paranjpye</na></co>
+<co c="0"><na f="p/Passing:Linnea" pid="162/9094">Linnea Passing</na></co>
+<co c="0"><na f="p/Patel:Jignesh_M=" pid="p/JMPatel">Jignesh M. Patel</na></co>
+<co c="0"><na f="p/Pavlo:Andrew" pid="58/4127">Andrew Pavlo</na></co>
+<co c="0"><na f="p/Perkins:Dan" pid="273/4512">Dan Perkins</na></co>
+<co c="0"><na f="p/Persa:Raul_Alexandru" pid="215/5124">Raul Alexandru Persa</na></co>
+<co c="0"><na f="p/Peukert:Eric" pid="91/7933">Eric Peukert</na></co>
+<co c="0"><na f="p/Pham:Minh=Duc" pid="68/8510">Minh-Duc Pham</na></co>
+<co c="0"><na f="p/Phuoc:Danh_Le" pid="23/6145">Danh Le Phuoc</na></co>
+<co c="0"><na f="p/Plantikow:Stefan" pid="93/3568">Stefan Plantikow</na></co>
+<co c="0"><na f="p/Poggi:Nicol=aacute=s" pid="21/7644">Nicol&#225;s Poggi</na></co>
+<co c="0"><na f="p/Popa:Raluca_A=" pid="91/275">Raluca A. Popa</na></co>
+<co c="0" n="2"><na f="p/P=ouml=ss:Meikel" pid="p/MeikelPoss">Meikel P&#246;ss</na><na>Meikel Poess</na></co>
+<co c="0"><na f="p/Prat=P=eacute=rez:Arnau" pid="05/2347">Arnau Prat-P&#233;rez</na></co>
+<co c="0"><na f="p/P=uuml=roja:David" pid="352/2694">David P&#252;roja</na></co>
+<co c="0"><na f="q/Qi:Shipeng" pid="175/0201">Shipeng Qi</na></co>
+<co c="0"><na f="q/Quak:Wilko" pid="58/5778">Wilko Quak</na></co>
+<co c="0"><na f="r/Raasveldt:Mark" pid="182/7109">Mark Raasveldt</na></co>
+<co c="0"><na f="r/Radke:Bernhard" pid="219/9678">Bernhard Radke</na></co>
+<co c="0"><na f="r/Raducanu:Bogdan" pid="36/2033">Bogdan Raducanu</na></co>
+<co c="0"><na f="r/Ragab_0001:Mohamed" pid="205/4727">Mohamed Ragab 0001</na></co>
+<co c="0"><na f="r/Ramakrishnan:Raghu" pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</na></co>
+<co c="0"><na f="r/R=eacute=:Christopher" pid="r/ChristopherRe">Christopher R&#233;</na></co>
+<co c="0"><na f="r/Rellermeyer:Jan_S=" pid="21/4498">Jan S. Rellermeyer</na></co>
+<co c="0"><na f="r/Rest:Oskar_van" pid="130/9761">Oskar van Rest</na></co>
+<co c="0"><na f="r/Rijke:Maarten_de" pid="r/MdRijke">Maarten de Rijke</na></co>
+<co c="0"><na f="r/Ripeanu:Matei" pid="93/24">Matei Ripeanu</na></co>
+<co c="0"><na f="r/Rittinger:Jan" pid="r/JanRittinger">Jan Rittinger</na></co>
+<co c="0"><na f="r/R=ouml=mer:Kay" pid="r/KayRomer">Kay R&#246;mer</na></co>
+<co c="0"><na f="r/Rosen:Josh" pid="122/2833">Josh Rosen</na></co>
+<co c="0"><na f="r/Ross:Kenneth_A=" pid="r/KARoss">Kenneth A. Ross</na></co>
+<co c="0"><na f="r/Rotem:Doron" pid="r/DoronRotem">Doron Rotem</na></co>
+<co c="0"><na f="r/Rozenberg:Eyal" pid="13/4685">Eyal Rozenberg</na></co>
+<co c="0"><na f="r/R=uuml=hl:Tim" pid="86/4193">Tim R&#252;hl</na></co>
+<co c="0"><na f="r/Rutgers:Peter" pid="131/6723">Peter Rutgers</na></co>
+<co c="0"><na f="s/Sakr:Sherif" pid="s/SherifSakr">Sherif Sakr</na></co>
+<co c="0"><na f="s/Salem:Kenneth" pid="s/KennethSalem">Kenneth Salem</na></co>
+<co c="0"><na f="s/Salihoglu:Semih" pid="55/6560">Semih Salihoglu</na></co>
+<co c="0"><na f="s/Samaras:George" pid="s/GeorgeSamaras">George Samaras</na></co>
+<co c="0"><na f="s/Sapkota:Brahmananda" pid="67/4673">Brahmananda Sapkota</na></co>
+<co c="0"><na f="s/Sattler:Kai=Uwe" pid="s/KaiUweSattler">Kai-Uwe Sattler</na></co>
+<co c="0"><na f="s/Sauer:Caetano" pid="37/10151">Caetano Sauer</na></co>
+<co c="0"><na f="s/Schulz_0003:Christian" pid="10/1388-3">Christian Schulz 0003</na></co>
+<co c="0"><na f="s/Schweppe:Heinz" pid="s/HeinzSchweppe">Heinz Schweppe</na></co>
+<co c="0"><na f="s/Selmer:Petra" pid="50/7441">Petra Selmer</na></co>
+<co c="0"><na f="s/Senster:Pieter" pid="273/6983">Pieter Senster</na></co>
+<co c="0"><na f="s/Sequeda:Juan_F=" pid="93/3423">Juan F. Sequeda</na></co>
+<co c="0"><na f="s/Shinavier:Joshua" pid="27/3988">Joshua Shinavier</na></co>
+<co c="0"><na f="s/Sidirourgos:Lefteris" pid="01/4876">Lefteris Sidirourgos</na></co>
+<co c="0"><na f="s/Sim=eacute=on:J=eacute=r=ocirc=me" pid="15/4061">J&#233;r&#244;me Sim&#233;on</na></co>
+<co c="0"><na f="s/Singh:Tavneet" pid="290/3971">Tavneet Singh</na></co>
+<co c="0"><na f="s/Sompolski:Juliusz" pid="84/9733">Juliusz Sompolski</na></co>
+<co c="0"><na f="s/Spasic:Mirko" pid="118/0085">Mirko Spasic</na></co>
+<co c="0"><na f="s/Steer:Benjamin_A=" pid="201/4815">Benjamin A. Steer</na></co>
+<co c="0"><na f="s/Stolze:Knut" pid="s/KnutStolze">Knut Stolze</na></co>
+<co c="0"><na f="s/Stonebraker:Michael" pid="s/MichaelStonebraker">Michael Stonebraker</na></co>
+<co c="0"><na f="s/Suciu:Dan" pid="s/DanSuciu">Dan Suciu</na></co>
+<co c="0"><na f="s/Sun:Liwen" pid="31/7993">Liwen Sun</na></co>
+<co c="0"><na f="s/Sundaram:Narayanan" pid="30/3638">Narayanan Sundaram</na></co>
+<co c="0"><na f="s/Svensson_0001:Per" pid="s/PerSvensson1">Per Svensson 0001</na></co>
+<co c="0"><na f="s/Switakowski:Michal" pid="117/5936">Michal Switakowski</na></co>
+<co c="0"><na f="s/Szafranski:Michal" pid="181/5775">Michal Szafranski</na></co>
+<co c="0"><na f="s/Szak=aacute=llas:D=aacute=vid" pid="337/3052">D&#225;vid Szak&#225;llas</na></co>
+<co c="0"><na f="s/Sz=aacute=rnyas:G=aacute=bor" pid="151/1414">G&#225;bor Sz&#225;rnyas</na></co>
+<co c="0"><na f="t/Tanase:Ilie_Gabriel" pid="116/0831">Ilie Gabriel Tanase</na></co>
+<co c="0"><na f="t/Tang:Hao" pid="07/5751">Hao Tang</na></co>
+<co c="0"><na f="t/Tang_0001:Nan" pid="27/104-1">Nan Tang 0001</na></co>
+<co c="0"><na f="t/Tereshko:Tino" pid="372/1317">Tino Tereshko</na></co>
+<co c="0"><na f="t/Teubner:Jens" pid="t/JensTeubner">Jens Teubner</na></co>
+<co c="0"><na f="t/Tigani:Jordan" pid="76/3368">Jordan Tigani</na></co>
+<co c="0"><na f="t/Toma:Ioan" pid="78/346">Ioan Toma</na></co>
+<co c="0"><na f="t/Tom=eacute=:Diego_G=" pid="199/8616">Diego G. Tom&#233;</na></co>
+<co c="0"><na f="t/Tommasini_0001:Riccardo" pid="169/8184">Riccardo Tommasini 0001</na></co>
+<co c="0"><na f="t/Tong:Bing" pid="329/7221">Bing Tong</na></co>
+<co c="0"><na f="t/Torres:Joseph" pid="188/3665">Joseph Torres</na></co>
+<co c="-1"><na f="t/Treijtel:Caspar" pid="75/859">Caspar Treijtel</na></co>
+<co c="0"><na f="t/Tsialiamanis:Petros" pid="46/5076">Petros Tsialiamanis</na></co>
+<co c="0"><na f="t/Tumeo:Antonino" pid="53/3654">Antonino Tumeo</na></co>
+<co c="0"><na f="t/T=uuml=rker:Can" pid="t/CanTurker">Can T&#252;rker</na></co>
+<co c="0"><na f="u/Ueshin:Takuya" pid="273/7133">Takuya Ueshin</na></co>
+<co c="0"><na f="u/Urbani:Jacopo" pid="15/7454">Jacopo Urbani</na></co>
+<co c="0"><na f="u/Ursa:Nick" pid="372/1595">Nick Ursa</na></co>
+<co c="0"><na f="u/Uta:Alexandru" pid="154/4519">Alexandru Uta</na></co>
+<co c="0"><na f="v/Valle:Emanuele_Della" pid="91/4526">Emanuele Della Valle</na></co>
+<co c="0"><na f="v/Varbanescu:Ana_Lucia" pid="62/3310">Ana Lucia Varbanescu</na></co>
+<co c="0"><na f="v/Vassalos:Vasilis" pid="v/VVassalos">Vasilis Vassalos</na></co>
+<co c="0"><na f="v/Viglas:Stratis" pid="v/SViglas">Stratis Viglas</na></co>
+<co c="0"><na f="v/Voigt:Hannes" pid="19/1082">Hannes Voigt</na></co>
+<co c="0"><na f="v/Vorona:Dimitri" pid="163/6966">Dimitri Vorona</na></co>
+<co c="0"><na f="v/Voulgaris:Spyros" pid="15/5921">Spyros Voulgaris</na></co>
+<co c="0"><na f="v/Vries:Arjen_P=_de" pid="v/ArjenPdeVries">Arjen P. de Vries</na></co>
+<co c="0" n="2"><na f="w/Waas:F=_Michael" pid="w/FlorianWaas">F. Michael Waas</na><na>Florian M. Waas</na></co>
+<co c="0"><na f="w/Wang:Stephanie" pid="175/6757">Stephanie Wang</na></co>
+<co c="0"><na f="w/Waudby:Jack" pid="256/1560">Jack Waudby</na></co>
+<co c="0"><na f="w/Welsch:Yannick" pid="33/3379">Yannick Welsch</na></co>
+<co c="0"><na f="w/Wiel:Mark_van_de" pid="116/5276">Mark van de Wiel</na></co>
+<co c="0"><na f="w/Wilschut:Annita_N=" pid="93/4199">Annita N. Wilschut</na></co>
+<co c="0"><na f="w/Wolde:Daniel_ten" pid="351/9539">Daniel ten Wolde</na></co>
+<co c="0"><na f="w/Wu:Hsiang=Yun" pid="11/7258">Hsiang-Yun Wu</na></co>
+<co c="0"><na f="w/Wu:Mingxi" pid="w/MingxiWu">Mingxi Wu</na></co>
+<co c="0"><na f="x/Xia:Yinglong" pid="61/3251">Yinglong Xia</na></co>
+<co c="0"><na f="x/Xin:Reynold" pid="47/7258">Reynold Xin</na></co>
+<co c="0"><na f="y/Yakovets:Nikolay" pid="92/9686">Nikolay Yakovets</na></co>
+<co c="0"><na f="y/Yan_0001:Da" pid="81/9436-1">Da Yan 0001</na></co>
+<co c="0"><na f="y/Yang:Bin" pid="77/377">Bin Yang</na></co>
+<co c="0"><na f="y/Yavuz:Burak" pid="163/2321">Burak Yavuz</na></co>
+<co c="0"><na f="y/Yoneki:Eiko" pid="12/6940">Eiko Yoneki</na></co>
+<co c="0"><na f="y/Yu:Jeffrey_Xu" pid="y/JXuYu">Jeffrey Xu Yu</na></co>
+<co c="0"><na f="y/Yu:Wenyuan" pid="53/5676">Wenyuan Yu</na></co>
+<co c="0"><na f="z/Zacharatou:Eleni_Tzirita" pid="164/7451">Eleni Tzirita Zacharatou</na></co>
+<co c="0"><na f="z/Zaharia:Matei" pid="36/2133">Matei Zaharia</na></co>
+<co c="0"><na f="z/Zhang:Chen" pid="94/4084">Chen Zhang</na></co>
+<co c="0"><na f="z/Zhang:Jason" pid="75/4903">Jason Zhang</na></co>
+<co c="-1"><na f="z/Zhang:Yi" pid="64/6544">Yi Zhang</na></co>
+<co c="0"><na f="z/Zhang_0027:Ying" pid="13/6769-27">Ying Zhang 0027</na></co>
+<co c="0"><na f="z/Zhang:Yuchen" pid="09/5661">Yuchen Zhang</na></co>
+<co c="0"><na f="z/Zhou:Yan" pid="60/5157">Yan Zhou</na></co>
+<co c="0"><na f="z/Zhu:Shixiong" pid="86/6284">Shixiong Zhu</na></co>
+<co c="0"><na f="z/Zukowski:Marcin" pid="40/4880">Marcin Zukowski</na></co>
+</coauthors>
+</dblpperson>

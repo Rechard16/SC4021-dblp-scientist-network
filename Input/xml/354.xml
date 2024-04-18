@@ -1,0 +1,2811 @@
+<dblpperson name="James Cheney" pid="96/3253" n="208">
+<person key="homepages/96/3253" mdate="2021-07-24">
+<author pid="96/3253">James Cheney</author>
+<note type="affiliation">University of Edinburgh, UK</note>
+<url>http://homepages.inf.ed.ac.uk/jcheney/</url>
+<url>https://dl.acm.org/profile/81100057679</url>
+<url>https://orcid.org/0000-0002-1307-9286</url>
+<url>https://www.wikidata.org/entity/Q18618592</url>
+</person>
+<r><article key="journals/vldb/AbelloC24" mdate="2024-03-16">
+<author orcid="0000-0002-3223-2186" pid="88/2053">Alberto Abell&#243;</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Eris: efficiently measuring discord in multidimensional sources.</title>
+<pages>399-423</pages>
+<year>2024</year>
+<volume>33</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s00778-023-00810-3</ee>
+<url>db/journals/vldb/vldb33.html#AbelloC24</url>
+</article>
+</r>
+<r><article key="journals/jar/RicciottiC22" mdate="2022-12-05">
+<author orcid="0000-0002-2361-8538" pid="05/7050">Wilmer Ricciotti</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>A Formalization of SQL with Nulls.</title>
+<pages>989-1030</pages>
+<year>2022</year>
+<volume>66</volume>
+<journal>J. Autom. Reason.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10817-022-09632-4</ee>
+<url>db/journals/jar/jar66.html#RicciottiC22</url>
+</article>
+</r>
+<r><article key="journals/lmcs/RicciottiC22" mdate="2023-01-24">
+<author pid="05/7050">Wilmer Ricciotti</author>
+<author pid="96/3253">James Cheney</author>
+<title>Strongly-Normalizing Higher-Order Relational Queries.</title>
+<year>2022</year>
+<volume>18</volume>
+<journal>Log. Methods Comput. Sci.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.46298/lmcs-18(3:23)2022</ee>
+<url>db/journals/lmcs/lmcs18.html#RicciottiC22</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/EmrichSCL22" mdate="2023-08-28">
+<author orcid="0000-0002-8591-2740" pid="197/9599">Frank Emrich</author>
+<author orcid="0000-0002-0140-5689" pid="15/9437">Jan Stolarek</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author orcid="0000-0002-1360-4714" pid="97/4946">Sam Lindley</author>
+<title>Constraint-based type inference for FreezeML.</title>
+<pages>570-595</pages>
+<year>2022</year>
+<volume>6</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>ICFP</number>
+<ee type="oa">https://doi.org/10.1145/3547642</ee>
+<ee>https://www.wikidata.org/entity/Q114070938</ee>
+<url>db/journals/pacmpl/pacmpl6.html#EmrichSCL22</url>
+</article>
+</r>
+<r><inproceedings key="conf/dolap/AbelloC22" mdate="2023-03-10">
+<author pid="88/2053">Alberto Abell&#243;</author>
+<author pid="96/3253">James Cheney</author>
+<title>Measuring Discord Among Multidimensional Data Sources.</title>
+<pages>96-100</pages>
+<year>2022</year>
+<booktitle>DOLAP</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3130/paper12.pdf</ee>
+<crossref>conf/dolap/2022</crossref>
+<url>db/conf/dolap/dolap2022.html#AbelloC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gpce/0001GC22" mdate="2023-09-30">
+<author orcid="0000-0001-5143-5475" pid="08/1840-1">Simon Fowler 0001</author>
+<author orcid="0000-0001-8914-1122" pid="g/VashtiCGalpin">Vashti Galpin</author>
+<author pid="96/3253">James Cheney</author>
+<title>Language-Integrated Query for Temporal Data.</title>
+<pages>5-19</pages>
+<year>2022</year>
+<booktitle>GPCE</booktitle>
+<ee>https://doi.org/10.1145/3564719.3568690</ee>
+<crossref>conf/gpce/2022</crossref>
+<url>db/conf/gpce/gpce2022.html#0001GC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppdp/CheneyF22" mdate="2022-09-27">
+<author pid="96/3253">James Cheney</author>
+<author pid="54/6017">Maribel Fern&#225;ndez</author>
+<title>Nominal Matching Logic.</title>
+<pages>5:1-5:15</pages>
+<year>2022</year>
+<booktitle>PPDP</booktitle>
+<ee>https://doi.org/10.1145/3551357.3551375</ee>
+<crossref>conf/ppdp/2022</crossref>
+<url>db/conf/ppdp/ppdp2022.html#CheneyF22</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/padl/2022" mdate="2022-01-14">
+<editor orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</editor>
+<editor orcid="0000-0002-8036-5709" pid="80/5264">Simona Perri</editor>
+<title>Practical Aspects of Declarative Languages - 24th International Symposium, PADL 2022, Philadelphia, PA, USA, January 17-18, 2022, Proceedings</title>
+<booktitle>PADL</booktitle>
+<publisher>Springer</publisher>
+<year>2022</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>13165</volume>
+<isbn>978-3-030-94478-0</isbn>
+<isbn>978-3-030-94479-7</isbn>
+<ee>https://doi.org/10.1007/978-3-030-94479-7</ee>
+<url>db/conf/padl/padl2022.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2201-13302" mdate="2022-02-02">
+<author pid="88/2053">Alberto Abell&#243;</author>
+<author pid="96/3253">James Cheney</author>
+<title>Eris: Measuring discord among multidimensional data sources.</title>
+<year>2022</year>
+<volume>abs/2201.13302</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2201.13302</ee>
+<url>db/journals/corr/corr2201.html#abs-2201-13302</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-09914" mdate="2022-07-25">
+<author pid="197/9599">Frank Emrich</author>
+<author pid="15/9437">Jan Stolarek</author>
+<author pid="96/3253">James Cheney</author>
+<author pid="97/4946">Sam Lindley</author>
+<title>Constraint-based type inference for FreezeML.</title>
+<year>2022</year>
+<volume>abs/2207.09914</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.09914</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-09914</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-14139" mdate="2022-08-02">
+<author pid="96/3253">James Cheney</author>
+<author pid="54/6017">Maribel Fern&#225;ndez</author>
+<title>Nominal Matching Logic.</title>
+<year>2022</year>
+<volume>abs/2207.14139</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.14139</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-14139</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-12077" mdate="2022-10-25">
+<author pid="08/1840-1">Simon Fowler 0001</author>
+<author pid="g/VashtiCGalpin">Vashti Galpin</author>
+<author pid="96/3253">James Cheney</author>
+<title>Language-Integrated Query for Temporal Data (Extended version).</title>
+<year>2022</year>
+<volume>abs/2210.12077</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.12077</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-12077</url>
+</article>
+</r>
+<r><article key="journals/ijdc/FowlerHSC21" mdate="2022-06-23">
+<author orcid="0000-0001-5143-5475" pid="08/1840-1">Simon Fowler 0001</author>
+<author orcid="0000-0002-9262-8318" pid="213/6808">Simon D. Harding</author>
+<author pid="26/5013">Joanna L. Sharman</author>
+<author pid="96/3253">James Cheney</author>
+<title>Cross-tier Web Programming for Curated Databases: a Case Study.</title>
+<pages>21</pages>
+<year>2021</year>
+<volume>16</volume>
+<journal>Int. J. Digit. Curation</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.2218/ijdc.v16i1.735</ee>
+<url>db/journals/ijdc/ijdc16.html#FowlerHSC21</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/BarthaCB21" mdate="2023-09-30">
+<author orcid="0009-0003-4285-3415" pid="245/7606">S&#225;ndor Bartha</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author orcid="0000-0001-5573-8465" pid="52/570">Vaishak Belle</author>
+<title>One down, 699 to go: or, synthesising compositional desugarings.</title>
+<pages>1-29</pages>
+<year>2021</year>
+<volume>5</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>OOPSLA</number>
+<ee type="oa">https://doi.org/10.1145/3485499</ee>
+<url>db/journals/pacmpl/pacmpl5.html#BarthaCB21</url>
+</article>
+</r>
+<r><inproceedings key="conf/dbpl/CheneyR21" mdate="2021-10-05">
+<author pid="96/3253">James Cheney</author>
+<author pid="05/7050">Wilmer Ricciotti</author>
+<title>Comprehending nulls.</title>
+<pages>3-6</pages>
+<year>2021</year>
+<booktitle>DBPL</booktitle>
+<ee>https://doi.org/10.1145/3475726.3475730</ee>
+<crossref>conf/dbpl/2021</crossref>
+<url>db/conf/dbpl/dbpl2021.html#CheneyR21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esop/RicciottiC21" mdate="2021-05-14">
+<author orcid="0000-0002-2361-8538" pid="05/7050">Wilmer Ricciotti</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Query Lifting - Language-integrated query for heterogeneous nested collections.</title>
+<pages>579-606</pages>
+<year>2021</year>
+<booktitle>ESOP</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-72019-3_21</ee>
+<crossref>conf/esop/2021</crossref>
+<url>db/conf/esop/esop2021.html#RicciottiC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/Benabderrahmane21" mdate="2021-10-14">
+<author pid="65/7758">Sidahmed Benabderrahmane</author>
+<author orcid="0000-0001-8814-409X" pid="55/9687">Ghita Berrada</author>
+<author pid="96/3253">James Cheney</author>
+<author pid="v/PetkoValtchev">Petko Valtchev</author>
+<title>A Rule Mining-based Advanced Persistent Threats Detection System.</title>
+<pages>3589-3596</pages>
+<year>2021</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2021/494</ee>
+<crossref>conf/ijcai/2021</crossref>
+<url>db/conf/ijcai/ijcai2021.html#Benabderrahmane21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipaw/GalpinC21" mdate="2021-07-29">
+<author orcid="0000-0001-8914-1122" pid="g/VashtiCGalpin">Vashti Galpin</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Curating Covid-19 Data in Links.</title>
+<pages>237-243</pages>
+<year>2021</year>
+<booktitle>IPAW</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-80960-7_19</ee>
+<crossref>conf/ipaw/2020</crossref>
+<url>db/conf/ipaw/ipaw2020.html#GalpinC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppdp/0001CLR21" mdate="2023-09-30">
+<author pid="19/1318">Kwanghoon Choi 0001</author>
+<author pid="96/3253">James Cheney</author>
+<author orcid="0000-0002-1360-4714" pid="97/4946">Sam Lindley</author>
+<author pid="152/2930">Bob Reynders</author>
+<title>A Typed Slicing Compilation of the Polymorphic RPC calculus.</title>
+<pages>11:1-11:15</pages>
+<year>2021</year>
+<booktitle>PPDP</booktitle>
+<ee>https://doi.org/10.1145/3479394.3479406</ee>
+<crossref>conf/ppdp/2021</crossref>
+<url>db/conf/ppdp/ppdp2021.html#0001CLR21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tapp/ChanCB21" mdate="2021-11-05">
+<author pid="205/2028">Sheung Chi Chan</author>
+<author pid="96/3253">James Cheney</author>
+<author pid="35/8319">Pramod Bhatotia</author>
+<title>Provenance expressiveness benchmarking on non-deterministic executions.</title>
+<year>2021</year>
+<booktitle>TaPP</booktitle>
+<ee>https://www.usenix.org/conference/tapp2021/presentation/chan</ee>
+<crossref>conf/tapp/2021</crossref>
+<url>db/conf/tapp/tapp2021.html#ChanCB21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-04102" mdate="2021-01-21">
+<author pid="05/7050">Wilmer Ricciotti</author>
+<author pid="96/3253">James Cheney</author>
+<title>Query Lifting: Language-integrated query for heterogeneous nested collections.</title>
+<year>2021</year>
+<volume>abs/2101.04102</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.04102</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-04102</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-08228" mdate="2021-02-19">
+<author pid="96/3253">James Cheney</author>
+<author pid="54/4551">Adriane Chapman</author>
+<author pid="23/3489">Joy Davidson</author>
+<author pid="97/2805">Alistair Forbes</author>
+<title>Data provenance, curation and quality in metrology.</title>
+<year>2021</year>
+<volume>abs/2102.08228</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.08228</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-08228</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-10053" mdate="2021-05-31">
+<author pid="65/7758">Sidahmed Benabderrahmane</author>
+<author pid="55/9687">Ghita Berrada</author>
+<author pid="96/3253">James Cheney</author>
+<author pid="v/PetkoValtchev">Petko Valtchev</author>
+<title>A Rule Mining-Based Advanced Persistent Threats Detection System.</title>
+<year>2021</year>
+<volume>abs/2105.10053</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.10053</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-10053</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2106-00412" mdate="2021-06-09">
+<author pid="g/VashtiCGalpin">Vashti Galpin</author>
+<author pid="96/3253">James Cheney</author>
+<title>Curating Covid-19 data in Links.</title>
+<year>2021</year>
+<volume>abs/2106.00412</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2106.00412</ee>
+<url>db/journals/corr/corr2106.html#abs-2106-00412</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2107-10793" mdate="2021-07-29">
+<author pid="19/1318">Kwanghoon Choi 0001</author>
+<author pid="96/3253">James Cheney</author>
+<author pid="97/4946">Sam Lindley</author>
+<author pid="152/2930">Bob Reynders</author>
+<title>A Typed Slicing Compilation of the Polymorphic RPC Calculus.</title>
+<year>2021</year>
+<volume>abs/2107.10793</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2107.10793</ee>
+<url>db/journals/corr/corr2107.html#abs-2107-10793</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2107-11347" mdate="2021-07-29">
+<author pid="96/3253">James Cheney</author>
+<author pid="05/7050">Wilmer Ricciotti</author>
+<title>Comprehending nulls.</title>
+<year>2021</year>
+<volume>abs/2107.11347</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2107.11347</ee>
+<url>db/journals/corr/corr2107.html#abs-2107-11347</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2109-06114" mdate="2021-09-21">
+<author pid="245/7606">S&#225;ndor Bartha</author>
+<author pid="96/3253">James Cheney</author>
+<author pid="52/570">Vaishak Belle</author>
+<title>One Down, 699 to Go: or, synthesising compositional desugarings.</title>
+<year>2021</year>
+<volume>abs/2109.06114</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2109.06114</ee>
+<url>db/journals/corr/corr2109.html#abs-2109-06114</url>
+</article>
+</r>
+<r><article key="journals/fgcs/BerradaCBMMTW20" mdate="2022-12-07">
+<author orcid="0000-0001-8814-409X" pid="55/9687">Ghita Berrada</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="65/7758">Sidahmed Benabderrahmane</author>
+<author pid="223/2693">William Maxwell</author>
+<author pid="243/3150">Himan Mookherjee</author>
+<author pid="223/2709">Alec Theriault</author>
+<author pid="00/10658">Ryan Wright</author>
+<title>A baseline for unsupervised advanced persistent threat detection in system-level provenance.</title>
+<pages>401-413</pages>
+<year>2020</year>
+<volume>108</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2020.02.015</ee>
+<url>db/journals/fgcs/fgcs108.html#BerradaCBMMTW20</url>
+</article>
+</r>
+<r><article key="journals/ijdc/FowlerHSC20" mdate="2022-06-23">
+<author orcid="0000-0001-5143-5475" pid="08/1840-1">Simon Fowler 0001</author>
+<author pid="213/6808">Simon D. Harding</author>
+<author pid="26/5013">Joanna L. Sharman</author>
+<author pid="96/3253">James Cheney</author>
+<title>Cross-tier Web Programming for Curated Databases: a Case Study.</title>
+<pages>1-15</pages>
+<year>2020</year>
+<volume>15</volume>
+<journal>Int. J. Digit. Curation</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.2218/ijdc.v15i1.717</ee>
+<url>db/journals/ijdc/ijdc15.html#FowlerHSC20</url>
+</article>
+</r>
+<r><article key="journals/scp/0001C0L20" mdate="2023-09-30">
+<author pid="19/1318">Kwanghoon Choi 0001</author>
+<author pid="96/3253">James Cheney</author>
+<author pid="08/1840-1">Simon Fowler 0001</author>
+<author orcid="0000-0002-1360-4714" pid="97/4946">Sam Lindley</author>
+<title>A polymorphic RPC calculus.</title>
+<pages>102499</pages>
+<year>2020</year>
+<volume>197</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee>https://doi.org/10.1016/j.scico.2020.102499</ee>
+<url>db/journals/scp/scp197.html#0001C0L20</url>
+</article>
+</r>
+<r><inproceedings key="conf/fscd/RicciottiC20" mdate="2020-06-30">
+<author orcid="0000-0002-2361-8538" pid="05/7050">Wilmer Ricciotti</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Strongly Normalizing Higher-Order Relational Queries.</title>
+<pages>28:1-28:22</pages>
+<year>2020</year>
+<booktitle>FSCD</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.FSCD.2020.28</ee>
+<crossref>conf/fscd/2020</crossref>
+<url>db/conf/fscd/fscd2020.html#RicciottiC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/padl/ChanC20" mdate="2022-12-07">
+<author pid="205/2028">Sheung Chi Chan</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Flexible Graph Matching and Graph Edit Distance Using Answer Set Programming.</title>
+<pages>20-36</pages>
+<year>2020</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-39197-3_2</ee>
+<crossref>conf/padl/2020</crossref>
+<url>db/conf/padl/padl2019.html#ChanC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/EmrichLSCC20" mdate="2023-09-30">
+<author pid="197/9599">Frank Emrich</author>
+<author orcid="0000-0002-1360-4714" pid="97/4946">Sam Lindley</author>
+<author pid="15/9437">Jan Stolarek</author>
+<author pid="96/3253">James Cheney</author>
+<author pid="262/3260">Jonathan Coates</author>
+<title>FreezeML: complete and easy type inference for first-class polymorphism.</title>
+<pages>423-437</pages>
+<year>2020</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3385412.3386003</ee>
+<crossref>conf/pldi/2020</crossref>
+<url>db/conf/pldi/pldi2020.html#EmrichLSCC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tapp/ChanGIC20" mdate="2021-11-05">
+<author pid="205/2028">Sheung Chi Chan</author>
+<author pid="21/2267">Ashish Gehani</author>
+<author pid="166/4235">Hassaan Irshad</author>
+<author pid="96/3253">James Cheney</author>
+<title>Integrity Checking and Abnormality Detection of Provenance Records.</title>
+<year>2020</year>
+<booktitle>TaPP</booktitle>
+<ee>https://www.usenix.org/conference/tapp2020/presentation/chan</ee>
+<crossref>conf/tapp/2020</crossref>
+<url>db/conf/tapp/tapp2020.html#ChanGIC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-2012-01655" mdate="2021-01-12">
+<author pid="86/438">Nils Weidmann</author>
+<author pid="30/9523">Anthony Anjorin</author>
+<author pid="96/3253">James Cheney</author>
+<title>VICToRy: Visual Interactive Consistency Management in Tolerant Rule-based Systems.</title>
+<booktitle>GCM@STAF</booktitle>
+<year>2020</year>
+<pages>1-12</pages>
+<crossref>journals/corr/abs-2012-01181</crossref>
+<ee type="oa">https://doi.org/10.4204/EPTCS.330.1</ee>
+<ee type="oa">https://arxiv.org/abs/2012.01655</ee>
+<url>db/series/eptcs/eptcs330.html#abs-2012-01655</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-02191" mdate="2021-01-23">
+<author orcid="0000-0001-6164-2208" pid="223/4299">Rudi Horn</author>
+<author pid="08/1840-1">Simon Fowler 0001</author>
+<author pid="96/3253">James Cheney</author>
+<title>Language-Integrated Updatable Views (Extended version).</title>
+<year>2020</year>
+<volume>abs/2003.02191</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.02191</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-02191</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-03845" mdate="2021-01-23">
+<author pid="08/1840-1">Simon Fowler 0001</author>
+<author orcid="0000-0002-9262-8318" pid="213/6808">Simon D. Harding</author>
+<author pid="26/5013">Joanna L. Sharman</author>
+<author pid="96/3253">James Cheney</author>
+<title>Cross-tier web programming for curated databases: A case study.</title>
+<year>2020</year>
+<volume>abs/2003.03845</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.03845</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-03845</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-11331" mdate="2020-04-01">
+<author pid="05/7050">Wilmer Ricciotti</author>
+<author pid="96/3253">James Cheney</author>
+<title>A Formalization of SQL with Nulls.</title>
+<year>2020</year>
+<volume>abs/2003.11331</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.11331</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-11331</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-00396" mdate="2020-04-08">
+<author pid="197/9599">Frank Emrich</author>
+<author pid="97/4946">Sam Lindley</author>
+<author pid="15/9437">Jan Stolarek</author>
+<author pid="96/3253">James Cheney</author>
+<author pid="262/3260">Jonathan Coates</author>
+<title>FreezeML: Complete and Easy Type Inference for First-Class Polymorphism.</title>
+<year>2020</year>
+<volume>abs/2004.00396</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.00396</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-00396</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-07916" mdate="2021-01-23">
+<author pid="96/3253">James Cheney</author>
+<author pid="267/5578">Xavier Gombau</author>
+<author orcid="0000-0001-8814-409X" pid="55/9687">Ghita Berrada</author>
+<author pid="65/7758">Sidahmed Benabderrahmane</author>
+<title>Categorical anomaly detection in heterogeneous data using minimum description length clustering.</title>
+<year>2020</year>
+<volume>abs/2006.07916</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.07916</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-07916</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-13451" mdate="2020-12-01">
+<author pid="05/7050">Wilmer Ricciotti</author>
+<author pid="96/3253">James Cheney</author>
+<title>Strongly-Normalizing Higher-Order Relational Queries.</title>
+<year>2020</year>
+<volume>abs/2011.13451</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.13451</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-13451</url>
+</article>
+</r>
+<r><inproceedings key="conf/dbpl/RicciottiC19" mdate="2022-12-07">
+<author pid="05/7050">Wilmer Ricciotti</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Mixing set and bag semantics.</title>
+<pages>70-73</pages>
+<year>2019</year>
+<booktitle>DBPL</booktitle>
+<ee>https://doi.org/10.1145/3315507.3330202</ee>
+<crossref>conf/dbpl/2019</crossref>
+<url>db/conf/dbpl/dbpl2019.html#RicciottiC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbpl/FehrenbachC19" mdate="2022-12-07">
+<author pid="136/7691">Stefan Fehrenbach</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Language-integrated provenance by trace analysis.</title>
+<pages>74-84</pages>
+<year>2019</year>
+<booktitle>DBPL</booktitle>
+<ee>https://doi.org/10.1145/3315507.3330198</ee>
+<crossref>conf/dbpl/2019</crossref>
+<url>db/conf/dbpl/dbpl2019.html#FehrenbachC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifl/Horn0C19" mdate="2021-07-21">
+<author pid="223/4299">Rudi Horn</author>
+<author pid="08/1840-1">Simon Fowler 0001</author>
+<author pid="96/3253">James Cheney</author>
+<title>Language-integrated updatable views.</title>
+<pages>13:1-13:12</pages>
+<year>2019</year>
+<booktitle>IFL</booktitle>
+<ee>https://doi.org/10.1145/3412932.3412945</ee>
+<crossref>conf/ifl/2019</crossref>
+<url>db/conf/ifl/ifl2019.html#Horn0C19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ilp/BarthaC19" mdate="2023-09-30">
+<author orcid="0009-0003-4285-3415" pid="245/7606">S&#225;ndor Bartha</author>
+<author pid="96/3253">James Cheney</author>
+<title>Towards Meta-interpretive Learning of Programming Language Semantics.</title>
+<pages>16-25</pages>
+<year>2019</year>
+<booktitle>ILP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-49210-6_2</ee>
+<crossref>conf/ilp/2019</crossref>
+<url>db/conf/ilp/ilp2019.html#BarthaC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/ChanCBPGICS19" mdate="2022-12-07">
+<author pid="205/2028">Sheung Chi Chan</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="35/8319">Pramod Bhatotia</author>
+<author orcid="0000-0001-6876-1306" pid="144/4204">Thomas F. J.-M. Pasquier</author>
+<author pid="21/2267">Ashish Gehani</author>
+<author pid="166/4235">Hassaan Irshad</author>
+<author pid="128/5699">Lucian Carata</author>
+<author pid="s/MargoISeltzer">Margo I. Seltzer</author>
+<title>ProvMark: A Provenance Expressiveness Benchmarking System.</title>
+<pages>268-279</pages>
+<year>2019</year>
+<booktitle>Middleware</booktitle>
+<ee>https://doi.org/10.1145/3361525.3361552</ee>
+<crossref>conf/middleware/2019</crossref>
+<url>db/conf/middleware/middleware2019.html#ChanCBPGICS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mpc/StolarekC19" mdate="2022-12-07">
+<author orcid="0000-0002-0140-5689" pid="15/9437">Jan Stolarek</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Verified Self-Explaining Computation.</title>
+<pages>76-102</pages>
+<year>2019</year>
+<booktitle>MPC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-33636-3_4</ee>
+<crossref>conf/mpc/2019</crossref>
+<url>db/conf/mpc/mpc2019.html#StolarekC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/programming/WuMC19" mdate="2019-08-29">
+<author pid="241/5099">Junao Wu</author>
+<author pid="241/5052">Arek Mikolajczak</author>
+<author pid="96/3253">James Cheney</author>
+<title>TryLinks: an interactive tutorial system for a cross-tier web programming language.</title>
+<pages>16:1-16:6</pages>
+<year>2019</year>
+<booktitle>Programming</booktitle>
+<ee>https://doi.org/10.1145/3328433.3328450</ee>
+<crossref>conf/programming/2019</crossref>
+<url>db/conf/programming/programming2019.html#WuMC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tapp/AnjorinC19" mdate="2021-11-05">
+<author pid="30/9523">Anthony Anjorin</author>
+<author pid="96/3253">James Cheney</author>
+<title>Provenance Meets Bidirectional Transformations.</title>
+<year>2019</year>
+<booktitle>TaPP</booktitle>
+<ee>https://www.usenix.org/conference/tapp2019/presentation/anjorin</ee>
+<crossref>conf/tapp/2019</crossref>
+<url>db/conf/tapp/tapp2019.html#AnjorinC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tapp/BerradaC19" mdate="2022-01-03">
+<author orcid="0000-0001-8814-409X" pid="55/9687">Ghita Berrada</author>
+<author pid="96/3253">James Cheney</author>
+<title>Aggregating unsupervised provenance anomaly detectors.</title>
+<year>2019</year>
+<booktitle>TaPP</booktitle>
+<ee>https://www.usenix.org/conference/tapp2019/presentation/berrada</ee>
+<crossref>conf/tapp/2019</crossref>
+<url>db/conf/tapp/tapp2019.html#BerradaC19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/bx/2019" mdate="2023-03-10">
+<editor pid="96/3253">James Cheney</editor>
+<editor pid="60/985">Hsiang-Shang Ko</editor>
+<title>Proceedings of the 8th International Workshop on Bidirectional Transformations co-located with the Philadelphia Logic Week, Bx@PLW 2019, Philadelphia, PA, USA, June 4, 2019.</title>
+<booktitle>Bx@PLW</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>2355</volume>
+<year>2019</year>
+<ee type="oa">https://ceur-ws.org/Vol-2355</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-2355-7</ee>
+<url>db/conf/bx/bx2019.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-02033" mdate="2019-05-27">
+<author pid="241/5099">Junao Wu</author>
+<author pid="241/5052">Arek Mikolajczak</author>
+<author pid="96/3253">James Cheney</author>
+<title>TryLinks: An interactive tutorial system for a cross-tier Web programming language.</title>
+<year>2019</year>
+<volume>abs/1905.02033</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.02033</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-02033</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-02051" mdate="2019-05-27">
+<author pid="136/7691">Stefan Fehrenbach</author>
+<author pid="96/3253">James Cheney</author>
+<title>Language-integrated provenance by trace analysis.</title>
+<year>2019</year>
+<volume>abs/1905.02051</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.02051</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-02051</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-02069" mdate="2019-05-27">
+<author pid="05/7050">Wilmer Ricciotti</author>
+<author pid="96/3253">James Cheney</author>
+<title>Mixing set and bag semantics.</title>
+<year>2019</year>
+<volume>abs/1905.02069</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.02069</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-02069</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-06940" mdate="2023-09-30">
+<author orcid="0000-0001-8814-409X" pid="55/9687">Ghita Berrada</author>
+<author pid="65/7758">Sidahmed Benabderrahmane</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="223/2693">William Maxwell</author>
+<author pid="243/3150">Himan Mookherjee</author>
+<author pid="223/2709">Alec Theriault</author>
+<author pid="00/10658">Ryan Wright</author>
+<title>A baseline for unsupervised advanced persistent threat detection in system-level provenance.</title>
+<year>2019</year>
+<volume>abs/1906.06940</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.06940</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-06940</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-05818" mdate="2019-07-17">
+<author pid="15/9437">Jan Stolarek</author>
+<author pid="96/3253">James Cheney</author>
+<title>Verified Self-Explaining Computation.</title>
+<year>2019</year>
+<volume>abs/1907.05818</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.05818</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-05818</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-08834" mdate="2019-07-30">
+<author pid="245/7606">S&#225;ndor Bartha</author>
+<author pid="96/3253">James Cheney</author>
+<title>Towards meta-interpretive learning of programming language semantics.</title>
+<year>2019</year>
+<volume>abs/1907.08834</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.08834</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-08834</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-11187" mdate="2023-09-30">
+<author pid="205/2028">Sheung Chi Chan</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="35/8319">Pramod Bhatotia</author>
+<author pid="144/4204">Thomas F. J.-M. Pasquier</author>
+<author pid="21/2267">Ashish Gehani</author>
+<author pid="166/4235">Hassaan Irshad</author>
+<author pid="128/5699">Lucian Carata</author>
+<author pid="s/MargoISeltzer">Margo I. Seltzer</author>
+<title>ProvMark: A Provenance Expressiveness Benchmarking System.</title>
+<year>2019</year>
+<volume>abs/1909.11187</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.11187</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-11187</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-10988" mdate="2020-01-22">
+<author pid="19/1318">Kwanghoon Choi 0001</author>
+<author pid="96/3253">James Cheney</author>
+<author pid="08/1840-1">Simon Fowler 0001</author>
+<author pid="97/4946">Sam Lindley</author>
+<title>A Polymorphic RPC Calculus.</title>
+<year>2019</year>
+<volume>abs/1910.10988</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.10988</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-10988</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-11584" mdate="2023-09-30">
+<author pid="205/2028">Sheung Chi Chan</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Flexible graph matching and graph edit distance using answer set programming.</title>
+<year>2019</year>
+<volume>abs/1911.11584</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.11584</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-11584</url>
+</article>
+</r>
+<r><article key="journals/jfp/CheneyG18" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>Special Issue on Programming Languages for Big Data Editorial.</title>
+<pages>e8</pages>
+<year>2018</year>
+<volume>28</volume>
+<journal>J. Funct. Program.</journal>
+<ee>https://doi.org/10.1017/S0956796818000084</ee>
+<url>db/journals/jfp/jfp28.html#CheneyG18</url>
+</article>
+</r>
+<r><article key="journals/mscs/PereraC18" mdate="2022-12-07">
+<author pid="27/2651">Roly Perera</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Proof-relevant &#960;-calculus: a constructive account of concurrency and causality.</title>
+<pages>1541-1577</pages>
+<year>2018</year>
+<volume>28</volume>
+<journal>Math. Struct. Comput. Sci.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1017/S096012951700010X</ee>
+<url>db/journals/mscs/mscs28.html#PereraC18</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/HornPC18" mdate="2022-12-07">
+<author pid="223/4299">Rudi Horn</author>
+<author pid="27/2651">Roly Perera</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Incremental relational lenses.</title>
+<pages>74:1-74:30</pages>
+<year>2018</year>
+<volume>2</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>ICFP</number>
+<ee type="oa">https://doi.org/10.1145/3236769</ee>
+<url>db/journals/pacmpl/pacmpl2.html#HornPC18</url>
+</article>
+</r>
+<r><article key="journals/programming/StolarekC18" mdate="2022-12-07">
+<author orcid="0000-0002-0140-5689" pid="15/9437">Jan Stolarek</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Language-integrated provenance in Haskell.</title>
+<pages>11</pages>
+<year>2018</year>
+<volume>2</volume>
+<journal>Art Sci. Eng. Program.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.22152/programming-journal.org/2018/2/11</ee>
+<url>db/journals/programming/programming2.html#StolarekC18</url>
+</article>
+</r>
+<r><article key="journals/scp/FehrenbachC18" mdate="2022-12-07">
+<author pid="136/7691">Stefan Fehrenbach</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Language-integrated provenance.</title>
+<pages>103-145</pages>
+<year>2018</year>
+<volume>155</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee>https://doi.org/10.1016/j.scico.2017.08.009</ee>
+<url>db/journals/scp/scp155.html#FehrenbachC18</url>
+</article>
+</r>
+<r><inproceedings key="conf/ictac/RicciottiC18" mdate="2022-12-07">
+<author pid="05/7050">Wilmer Ricciotti</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Explicit Auditing.</title>
+<pages>376-395</pages>
+<year>2018</year>
+<booktitle>ICTAC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02508-3_20</ee>
+<crossref>conf/ictac/2018</crossref>
+<url>db/conf/ictac/ictac2018.html#RicciottiC18</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/CheneyT18" mdate="2019-02-14">
+<author pid="96/3253">James Cheney</author>
+<author pid="t/WangChiewTan">Wang-Chiew Tan</author>
+<title>Provenance in Databases.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_283</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/p2.html#CheneyT18</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-10202" mdate="2018-08-13">
+<author pid="15/9437">Jan Stolarek</author>
+<author pid="96/3253">James Cheney</author>
+<title>Language-integrated provenance in Haskell.</title>
+<year>2018</year>
+<volume>abs/1803.10202</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.10202</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-10202</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1807-01948" mdate="2023-09-30">
+<author pid="223/4299">Rudi Horn</author>
+<author pid="27/2651">Roly Perera</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Incremental Relational Lenses.</title>
+<year>2018</year>
+<volume>abs/1807.01948</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1807.01948</ee>
+<url>db/journals/corr/corr1807.html#abs-1807-01948</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-00486" mdate="2023-09-30">
+<author pid="05/7050">Wilmer Ricciotti</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Explicit Auditing.</title>
+<year>2018</year>
+<volume>abs/1808.00486</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.00486</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-00486</url>
+</article>
+</r>
+<r><article key="journals/jot/CheneyGMS17" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="53/1090">Jeremy Gibbons</author>
+<author pid="31/3265">James McKinna</author>
+<author pid="s/PerditaStevens">Perdita Stevens</author>
+<title>On principles of Least Change and Least Surprise for bidirectional transformations.</title>
+<pages>3:1-31</pages>
+<year>2017</year>
+<volume>16</volume>
+<journal>J. Object Technol.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5381/jot.2017.16.1.a3</ee>
+<url>db/journals/jot/jot16.html#CheneyGMS17</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/RicciottiSPC17" mdate="2022-12-07">
+<author pid="05/7050">Wilmer Ricciotti</author>
+<author orcid="0000-0002-0140-5689" pid="15/9437">Jan Stolarek</author>
+<author pid="27/2651">Roly Perera</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Imperative functional programs that explain their work.</title>
+<pages>14:1-14:28</pages>
+<year>2017</year>
+<volume>1</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>ICFP</number>
+<ee type="oa">https://doi.org/10.1145/3110258</ee>
+<url>db/journals/pacmpl/pacmpl1.html#RicciottiSPC17</url>
+</article>
+</r>
+<r><article key="journals/toit/ChapmanCM17" mdate="2022-12-07">
+<author pid="54/4551">Adriane Chapman</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="74/3469">Simon Miles</author>
+<title>Guest Editorial: The Provenance of Online Data.</title>
+<pages>33:1-33:3</pages>
+<year>2017</year>
+<volume>17</volume>
+<journal>ACM Trans. Internet Techn.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3108938</ee>
+<url>db/journals/toit/toit17.html#ChapmanCM17</url>
+</article>
+</r>
+<r><article key="journals/tplp/CheneyM17" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author orcid="0000-0003-0942-4777" pid="88/6655">Alberto Momigliano</author>
+<title>&#945;Check: A mechanized metatheory model checker.</title>
+<pages>311-352</pages>
+<year>2017</year>
+<volume>17</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1017/S1471068417000035</ee>
+<url>db/journals/tplp/tplp17.html#CheneyM17</url>
+</article>
+</r>
+<r><inproceedings key="conf/csl/RicciottiC17" mdate="2022-12-07">
+<author pid="05/7050">Wilmer Ricciotti</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Strongly Normalizing Audited Computation.</title>
+<pages>36:1-36:21</pages>
+<year>2017</year>
+<booktitle>CSL</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.CSL.2017.36</ee>
+<crossref>conf/csl/2017</crossref>
+<url>db/conf/csl/csl2017.html#RicciottiC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecoop/FuPAC17" mdate="2022-12-07">
+<author pid="44/11443">Weili Fu</author>
+<author pid="27/2651">Roly Perera</author>
+<author pid="17/3045-3">Paul Anderson 0003</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>muPuppet: A Declarative Subset of the Puppet Configuration Language.</title>
+<pages>12:1-12:27</pages>
+<year>2017</year>
+<booktitle>ECOOP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ECOOP.2017.12</ee>
+<crossref>conf/ecoop/2017</crossref>
+<url>db/conf/ecoop/ecoop2017.html#FuPAC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tapp/ChanGCSI17" mdate="2021-02-02">
+<author pid="205/2028">Sheung Chi Chan</author>
+<author pid="21/2267">Ashish Gehani</author>
+<author pid="96/3253">James Cheney</author>
+<author pid="01/1718">Ripduman Sohan</author>
+<author pid="166/4235">Hassaan Irshad</author>
+<title>Expressiveness Benchmarking for System-Level Provenance.</title>
+<year>2017</year>
+<booktitle>TaPP</booktitle>
+<ee type="oa">https://www.usenix.org/conference/tapp17/workshop-program/presentation/chan</ee>
+<crossref>conf/tapp/2017</crossref>
+<url>db/conf/tapp/tapp2017.html#ChanGCSI17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/CheneyM17" mdate="2023-09-30">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="88/6655">Alberto Momigliano</author>
+<title>&#945;Check: A mechanized metatheory model-checker.</title>
+<year>2017</year>
+<volume>abs/1704.00617</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1704.00617</ee>
+<url>db/journals/corr/corr1704.html#CheneyM17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/RicciottiSPC17" mdate="2018-08-13">
+<author pid="05/7050">Wilmer Ricciotti</author>
+<author pid="15/9437">Jan Stolarek</author>
+<author pid="27/2651">Roly Perera</author>
+<author pid="96/3253">James Cheney</author>
+<title>Imperative Functional Programs that Explain their Work.</title>
+<year>2017</year>
+<volume>abs/1705.07678</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1705.07678</ee>
+<url>db/journals/corr/corr1705.html#RicciottiSPC17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/RicciottiC17" mdate="2023-09-30">
+<author pid="05/7050">Wilmer Ricciotti</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Strongly Normalizing Audited Computation.</title>
+<year>2017</year>
+<volume>abs/1706.03711</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1706.03711</ee>
+<url>db/journals/corr/corr1706.html#RicciottiC17</url>
+</article>
+</r>
+<r><article key="journals/logcom/Cheney16" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>A simple sequent calculus for nominal logic.</title>
+<pages>699-726</pages>
+<year>2016</year>
+<volume>26</volume>
+<journal>J. Log. Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1093/logcom/exu024</ee>
+<url>db/journals/logcom/logcom26.html#Cheney16</url>
+</article>
+</r>
+<r><inproceedings key="conf/ac/Abou-SalehCGMS16" mdate="2018-05-05">
+<author pid="21/10454">Faris Abou-Saleh</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author orcid="0000-0002-8426-9917" pid="53/1090">Jeremy Gibbons</author>
+<author pid="31/3265">James McKinna</author>
+<author orcid="0000-0002-3975-7612" pid="s/PerditaStevens">Perdita Stevens</author>
+<title>Introduction to Bidirectional Transformations.</title>
+<pages>1-28</pages>
+<year>2016</year>
+<booktitle>Bidirectional Transformations</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-79108-1_1</ee>
+<crossref>conf/ac/2016bt</crossref>
+<url>db/conf/ac/bt2016.html#Abou-SalehCGMS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/birthday/Abou-SalehCGMS16" mdate="2022-12-07">
+<author pid="21/10454">Faris Abou-Saleh</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="53/1090">Jeremy Gibbons</author>
+<author pid="31/3265">James McKinna</author>
+<author pid="s/PerditaStevens">Perdita Stevens</author>
+<title>Reflections on Monadic Lenses.</title>
+<pages>1-31</pages>
+<year>2016</year>
+<booktitle>A List of Successes That Can Change the World</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-30936-1_1</ee>
+<crossref>conf/birthday/2016wadler</crossref>
+<url>db/conf/birthday/wadler2016.html#Abou-SalehCGMS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/concur/PereraGC16" mdate="2022-12-07">
+<author pid="27/2651">Roly Perera</author>
+<author pid="45/6786-1">Deepak Garg 0001</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Causally Consistent Dynamic Slicing.</title>
+<pages>18:1-18:15</pages>
+<year>2016</year>
+<booktitle>CONCUR</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.CONCUR.2016.18</ee>
+<crossref>conf/concur/2016</crossref>
+<url>db/conf/concur/concur2016.html#PereraGC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppdp/FehrenbachC16" mdate="2022-12-07">
+<author pid="136/7691">Stefan Fehrenbach</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Language-integrated provenance.</title>
+<pages>214-227</pages>
+<year>2016</year>
+<booktitle>PPDP</booktitle>
+<ee>https://doi.org/10.1145/2967973.2968604</ee>
+<crossref>conf/ppdp/2016</crossref>
+<url>db/conf/ppdp/ppdp2016.html#FehrenbachC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tap/CheneyMP16" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author orcid="0000-0003-0942-4777" pid="88/6655">Alberto Momigliano</author>
+<author pid="179/2383">Matteo Pessina</author>
+<title>Advances in Property-Based Testing for \alpha Prolog.</title>
+<pages>37-56</pages>
+<year>2016</year>
+<booktitle>TAP@STAF</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-41135-4_3</ee>
+<crossref>conf/tap/2016</crossref>
+<url>db/conf/tap/tap2016.html#CheneyMP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tapp/AbreuACCEG16" mdate="2023-09-07">
+<author pid="00/6243">Rui Abreu 0001</author>
+<author pid="64/4957">Dave Archer 0001</author>
+<author pid="205/2163">Erin Chapman</author>
+<author pid="96/3253">James Cheney</author>
+<author pid="51/9923">Hoda Eldardiry</author>
+<author pid="90/3256">Adri&#224; Gasc&#243;n</author>
+<title>Provenance Segmentation.</title>
+<year>2016</year>
+<booktitle>TaPP</booktitle>
+<ee type="oa">https://www.usenix.org/conference/tapp16/workshop-program/presentation/abreu</ee>
+<crossref>conf/tapp/2016</crossref>
+<url>db/conf/tapp/tapp2016.html#AbreuACCEG16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ppdp/2016" mdate="2018-11-06">
+<editor pid="96/3253">James Cheney</editor>
+<editor pid="v/GermanVidal">Germ&#225;n Vidal</editor>
+<title>Proceedings of the 18th International Symposium on Principles and Practice of Declarative Programming, Edinburgh, United Kingdom, September 5-7, 2016</title>
+<booktitle>PPDP</booktitle>
+<publisher>ACM</publisher>
+<year>2016</year>
+<isbn>978-1-4503-4148-6</isbn>
+<ee>https://doi.org/10.1145/2967973</ee>
+<url>db/conf/ppdp/ppdp2016.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/Abou-SalehCGMS16" mdate="2018-08-13">
+<author pid="21/10454">Faris Abou-Saleh</author>
+<author pid="96/3253">James Cheney</author>
+<author pid="53/1090">Jeremy Gibbons</author>
+<author pid="31/3265">James McKinna</author>
+<author pid="s/PerditaStevens">Perdita Stevens</author>
+<title>Reflections on Monadic Lenses.</title>
+<year>2016</year>
+<volume>abs/1601.02484</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1601.02484</ee>
+<url>db/journals/corr/corr1601.html#Abou-SalehCGMS16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/PereraC16" mdate="2018-08-13">
+<author pid="27/2651">Roly Perera</author>
+<author pid="96/3253">James Cheney</author>
+<title>Proof-relevant pi-calculus.</title>
+<year>2016</year>
+<volume>abs/1604.04575</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1604.04575</ee>
+<url>db/journals/corr/corr1604.html#PereraC16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CheneyMP16" mdate="2023-09-30">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="88/6655">Alberto Momigliano</author>
+<author pid="179/2383">Matteo Pessina</author>
+<title>Advances in Property-Based Testing for $&#945;$Prolog.</title>
+<year>2016</year>
+<volume>abs/1604.08345</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1604.08345</ee>
+<url>db/journals/corr/corr1604.html#CheneyMP16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/FehrenbachC16" mdate="2023-09-30">
+<author pid="136/7691">Stefan Fehrenbach</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Language-integrated provenance.</title>
+<year>2016</year>
+<volume>abs/1607.04104</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1607.04104</ee>
+<url>db/journals/corr/corr1607.html#FehrenbachC16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/FuCA16" mdate="2023-09-30">
+<author pid="44/11443">Weili Fu</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="17/3045-3">Paul Anderson 0003</author>
+<title>An Operational Semantics for a Fragment of the Puppet Configuration Language.</title>
+<year>2016</year>
+<volume>abs/1608.04999</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1608.04999</ee>
+<url>db/journals/corr/corr1608.html#FuCA16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Perera0C16" mdate="2018-08-13">
+<author pid="27/2651">Roly Perera</author>
+<author pid="45/6786-1">Deepak Garg 0001</author>
+<author pid="96/3253">James Cheney</author>
+<title>Causally consistent dynamic slicing.</title>
+<year>2016</year>
+<volume>abs/1610.02327</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.02327</ee>
+<url>db/journals/corr/corr1610.html#Perera0C16</url>
+</article>
+</r>
+<r><article key="journals/ws/MoreauGCLM15" mdate="2022-12-07">
+<author orcid="0000-0002-3494-120X" pid="31/5619">Luc Moreau 0001</author>
+<author orcid="0000-0003-0183-6910" pid="g/PTGroth">Paul Groth</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author orcid="0000-0002-8042-7359" pid="32/8503">Timothy Lebo</author>
+<author orcid="0000-0001-9956-4217" pid="74/3469">Simon Miles</author>
+<title>The rationale of PROV.</title>
+<pages>235-257</pages>
+<year>2015</year>
+<volume>35</volume>
+<journal>J. Web Semant.</journal>
+<ee type="oa">https://doi.org/10.1016/j.websem.2015.04.001</ee>
+<ee>https://www.wikidata.org/entity/Q57011183</ee>
+<url>db/journals/ws/ws35.html#MoreauGCLM15</url>
+</article>
+</r>
+<r><inproceedings key="conf/mpc/Abou-SalehCGMS15" mdate="2022-12-07">
+<author pid="21/10454">Faris Abou-Saleh</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="53/1090">Jeremy Gibbons</author>
+<author pid="31/3265">James McKinna</author>
+<author pid="s/PerditaStevens">Perdita Stevens</author>
+<title>Notions of Bidirectional Computation and Entangled State Monads.</title>
+<pages>187-214</pages>
+<year>2015</year>
+<booktitle>MPC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-19797-5_9</ee>
+<crossref>conf/mpc/2015</crossref>
+<url>db/conf/mpc/mpc2015.html#Abou-SalehCGMS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/staf/CheneyGMS15" mdate="2023-03-10">
+<author pid="96/3253">James Cheney</author>
+<author pid="53/1090">Jeremy Gibbons</author>
+<author pid="31/3265">James McKinna</author>
+<author pid="s/PerditaStevens">Perdita Stevens</author>
+<title>Towards a Principle of Least Surprise for Bidirectional Transformations.</title>
+<pages>66-80</pages>
+<year>2015</year>
+<booktitle>Bx@STAF</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1396/p66-cheney.pdf</ee>
+<crossref>conf/staf/2015bx</crossref>
+<url>db/conf/staf/bx2015.html#CheneyGMS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tapp/FehrenbachC15" mdate="2021-02-02">
+<author pid="136/7691">Stefan Fehrenbach</author>
+<author pid="96/3253">James Cheney</author>
+<title>Language-integrated Provenance in Links.</title>
+<year>2015</year>
+<booktitle>TaPP</booktitle>
+<ee type="oa">https://www.usenix.org/conference/tapp15/workshop-program/presentation/fehrenbach</ee>
+<crossref>conf/tapp/2015</crossref>
+<url>db/conf/tapp/tapp2015.html#FehrenbachC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/PereraC15" mdate="2022-12-07">
+<author pid="27/2651">Roly Perera</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Proof-relevant pi-calculus.</title>
+<booktitle>LFMTP</booktitle>
+<year>2015</year>
+<pages>46-70</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.185.4</ee>
+<ee type="oa">http://arxiv.org/abs/1507.08054</ee>
+<crossref>journals/corr/CervesatoC15</crossref>
+<url>db/series/eptcs/eptcs185.html#PereraC15</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dbpl/2015" mdate="2015-10-25">
+<editor pid="96/3253">James Cheney</editor>
+<editor pid="n/ThomasNeumann">Thomas Neumann 0001</editor>
+<title>Proceedings of the 15th Symposium on Database Programming Languages, Pittsburgh, PA, USA, October 25-30, 2015</title>
+<publisher>ACM</publisher>
+<booktitle>DBPL</booktitle>
+<year>2015</year>
+<isbn>978-1-4503-3902-5</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=2815072</ee>
+<url>db/conf/dbpl/dbpl2015.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/McPhillipsSKABB15" mdate="2023-09-30">
+<author pid="17/1047">Timothy M. McPhillips</author>
+<author pid="129/5627">Tianhong Song</author>
+<author pid="159/2053">Tyler Kolisnik</author>
+<author pid="159/1809">Steve Aulenbach</author>
+<author pid="39/3585">Khalid Belhajjame</author>
+<author pid="159/1763">Kyle Bocinsky</author>
+<author pid="25/7045">Yang Cao</author>
+<author pid="04/5404">Fernando Chirigati</author>
+<author pid="25/9884">Saumen C. Dey</author>
+<author pid="f/JulianaFreire">Juliana Freire</author>
+<author pid="153/7761">Deborah N. Huntzinger</author>
+<author pid="26/5924">Christopher Jones</author>
+<author pid="54/1720">David Koop</author>
+<author pid="28/1062">Paolo Missier</author>
+<author pid="80/6547">Mark Schildhauer</author>
+<author pid="153/7479">Christopher R. Schwalm</author>
+<author pid="78/5628">Yaxing Wei</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="115/9113">Mark Bieda</author>
+<author pid="l/BertramLudascher">Bertram Lud&#228;scher</author>
+<title>YesWorkflow: A User-Oriented, Language-Independent Tool for Recovering Workflow Information from Scripts.</title>
+<year>2015</year>
+<volume>abs/1502.02403</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1502.02403</ee>
+<url>db/journals/corr/corr1502.html#McPhillipsSKABB15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Abou-SalehCGMS15" mdate="2018-08-13">
+<author pid="21/10454">Faris Abou-Saleh</author>
+<author pid="96/3253">James Cheney</author>
+<author pid="53/1090">Jeremy Gibbons</author>
+<author pid="31/3265">James McKinna</author>
+<author pid="s/PerditaStevens">Perdita Stevens</author>
+<title>Notions of bidirectional computation and entangled state monads.</title>
+<year>2015</year>
+<volume>abs/1505.02579</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1505.02579</ee>
+<url>db/journals/corr/corr1505.html#Abou-SalehCGMS15</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/CheneyMSG14" mdate="2023-03-10">
+<author pid="96/3253">James Cheney</author>
+<author pid="31/3265">James McKinna</author>
+<author pid="s/PerditaStevens">Perdita Stevens</author>
+<author pid="53/1090">Jeremy Gibbons</author>
+<title>Towards a Repository of Bx Examples.</title>
+<pages>87-91</pages>
+<year>2014</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1133/paper-14.pdf</ee>
+<crossref>conf/edbt/2014w</crossref>
+<url>db/conf/edbt/edbtw2014.html#CheneyMSG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/CheneyMSGA14" mdate="2023-03-10">
+<author pid="96/3253">James Cheney</author>
+<author pid="31/3265">James McKinna</author>
+<author pid="s/PerditaStevens">Perdita Stevens</author>
+<author pid="53/1090">Jeremy Gibbons</author>
+<author pid="21/10454">Faris Abou-Saleh</author>
+<title>Entangled State Monads.</title>
+<pages>108-111</pages>
+<year>2014</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1133/paper-17.pdf</ee>
+<crossref>conf/edbt/2014w</crossref>
+<url>db/conf/edbt/edbtw2014.html#CheneyMSGA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipaw/CheneyP14" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="27/2651">Roly Perera</author>
+<title>An Analytical Survey of Provenance Sanitization.</title>
+<pages>113-126</pages>
+<year>2014</year>
+<booktitle>IPAW</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-16462-5_9</ee>
+<crossref>conf/ipaw/2014</crossref>
+<url>db/conf/ipaw/ipaw2014.html#CheneyP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pepm/CheneyLRW14" mdate="2023-09-30">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author orcid="0000-0002-1360-4714" pid="97/4946">Sam Lindley</author>
+<author pid="136/5817">Gabriel Radanne</author>
+<author pid="w/PhilipWadler">Philip Wadler</author>
+<title>Effective quotation: relating approaches to language-integrated query.</title>
+<pages>15-26</pages>
+<year>2014</year>
+<booktitle>PEPM</booktitle>
+<ee>https://doi.org/10.1145/2543728.2543738</ee>
+<crossref>conf/pepm/2014</crossref>
+<url>db/conf/pepm/pepm2014.html#CheneyLRW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppdp/CheneyAA14" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author orcid="0000-0001-7424-572X" pid="a/AmalAhmed">Amal Ahmed 0001</author>
+<author pid="44/3421">Umut A. Acar</author>
+<title>Database Queries that Explain their Work.</title>
+<pages>271-282</pages>
+<year>2014</year>
+<booktitle>PPDP</booktitle>
+<ee>https://doi.org/10.1145/2643135.2643143</ee>
+<ee>https://www.wikidata.org/entity/Q60142673</ee>
+<crossref>conf/ppdp/2014</crossref>
+<url>db/conf/ppdp/ppdp2014.html#CheneyAA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/HalpinC14" mdate="2023-07-27">
+<author pid="23/1741">Harry Halpin</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Dynamic Provenance for SPARQL Updates.</title>
+<pages>425-440</pages>
+<year>2014</year>
+<booktitle>ISWC (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-11964-9_27</ee>
+<crossref>conf/semweb/2014-1</crossref>
+<url>db/conf/semweb/iswc2014-1.html#HalpinC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/CheneyLW14" mdate="2023-09-30">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author orcid="0000-0002-1360-4714" pid="97/4946">Sam Lindley</author>
+<author pid="w/PhilipWadler">Philip Wadler</author>
+<title>Query shredding: efficient relational evaluation of queries over nested multisets.</title>
+<pages>1027-1038</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2612186</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#CheneyLW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/HalpinC14" mdate="2022-12-07">
+<author pid="23/1741">Harry Halpin</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Dynamic provenance for SPARQL updates using named graphs.</title>
+<pages>287-288</pages>
+<year>2014</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2567948.2577357</ee>
+<crossref>conf/www/2014c</crossref>
+<url>db/conf/www/www2014c.html#HalpinC14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/CheneyLW14" mdate="2018-08-13">
+<author pid="96/3253">James Cheney</author>
+<author pid="97/4946">Sam Lindley</author>
+<author pid="w/PhilipWadler">Philip Wadler</author>
+<title>Query shredding: Efficient relational evaluation of queries over nested multisets (extended version).</title>
+<year>2014</year>
+<volume>abs/1404.7078</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1404.7078</ee>
+<url>db/journals/corr/corr1404.html#CheneyLW14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CheneyP14" mdate="2018-08-13">
+<author pid="96/3253">James Cheney</author>
+<author pid="27/2651">Roly Perera</author>
+<title>An Analytical Survey of Provenance Sanitization.</title>
+<year>2014</year>
+<volume>abs/1405.5777</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1405.5777</ee>
+<url>db/journals/corr/corr1405.html#CheneyP14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/HalpinC14" mdate="2018-08-13">
+<author pid="23/1741">Harry Halpin</author>
+<author pid="96/3253">James Cheney</author>
+<title>Dynamic Provenance for SPARQL Update.</title>
+<year>2014</year>
+<volume>abs/1408.0926</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1408.0926</ee>
+<url>db/journals/corr/corr1408.html#HalpinC14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CheneyAA14" mdate="2022-07-05">
+<author pid="96/3253">James Cheney</author>
+<author pid="a/AmalAhmed">Amal Ahmed 0001</author>
+<author pid="44/3421">Umut A. Acar</author>
+<title>Database Queries that Explain their Work.</title>
+<year>2014</year>
+<volume>abs/1408.1675</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1408.1675</ee>
+<url>db/journals/corr/corr1408.html#CheneyAA14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/CheneyGV14" mdate="2017-06-07">
+<author pid="96/3253">James Cheney</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="00/6362">Dimitrios Vytiniotis</author>
+<title>Programming Languages for Big Data (PlanBig) (Dagstuhl Seminar 14511).</title>
+<pages>48-67</pages>
+<year>2014</year>
+<volume>4</volume>
+<journal>Dagstuhl Reports</journal>
+<number>12</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.4.12.48</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports4.html#CheneyGV14</url>
+</article>
+</r>
+<r><article key="journals/eceasst/RajkumarFLC13" mdate="2023-09-30">
+<author pid="143/4038">Raghu Rajkumar</author>
+<author pid="15/3253">Nate Foster</author>
+<author orcid="0000-0002-1360-4714" pid="97/4946">Sam Lindley</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Lenses for Web Data.</title>
+<year>2013</year>
+<volume>57</volume>
+<journal>Electron. Commun. Eur. Assoc. Softw. Sci. Technol.</journal>
+<ee type="oa">https://doi.org/10.14279/tuj.eceasst.57.879</ee>
+<url>db/journals/eceasst/eceasst57.html#RajkumarFLC13</url>
+</article>
+</r>
+<r><article key="journals/jcs/AcarACP13" mdate="2022-12-07">
+<author pid="44/3421">Umut A. Acar</author>
+<author orcid="0000-0001-7424-572X" pid="a/AmalAhmed">Amal Ahmed 0001</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="27/2651">Roly Perera</author>
+<title>A core calculus for provenance.</title>
+<pages>919-969</pages>
+<year>2013</year>
+<volume>21</volume>
+<journal>J. Comput. Secur.</journal>
+<number>6</number>
+<ee>https://doi.org/10.3233/JCS-130487</ee>
+<ee>https://www.wikidata.org/entity/Q60142676</ee>
+<url>db/journals/jcs/jcs21.html#AcarACP13</url>
+</article>
+</r>
+<r><article key="journals/tods/Cheney13" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Revisiting "forward node-selecting queries over trees".</title>
+<pages>13</pages>
+<year>2013</year>
+<volume>38</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2487259.2487265</ee>
+<url>db/journals/tods/tods38.html#Cheney13</url>
+</article>
+</r>
+<r><inproceedings key="conf/birthday/CheneyAP13" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="44/3421">Umut A. Acar</author>
+<author pid="27/2651">Roly Perera</author>
+<title>Toward a Theory of Self-explaining Computation.</title>
+<pages>193-216</pages>
+<year>2013</year>
+<booktitle>In Search of Elegance in the Theory and Practice of Computation</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41660-6_9</ee>
+<crossref>conf/birthday/2013buneman</crossref>
+<url>db/conf/birthday/buneman2013.html#CheneyAP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/SpinusoCA13" mdate="2022-12-07">
+<author pid="127/6423">Alessandro Spinuso</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<title>Provenance for seismological processing pipelines in a distributed streaming workflow.</title>
+<pages>307-312</pages>
+<year>2013</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<ee>https://doi.org/10.1145/2457317.2457369</ee>
+<crossref>conf/edbt/2013w</crossref>
+<url>db/conf/edbt/edbtw2013.html#SpinusoCA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/MissierBC13" mdate="2022-12-07">
+<author orcid="0000-0002-0978-2446" pid="28/1062">Paolo Missier</author>
+<author pid="39/3585">Khalid Belhajjame</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>The W3C PROV family of specifications for modelling provenance metadata.</title>
+<pages>773-776</pages>
+<year>2013</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/2452376.2452478</ee>
+<ee>https://www.wikidata.org/entity/Q59635417</ee>
+<crossref>conf/edbt/2013</crossref>
+<url>db/conf/edbt/edbt2013.html#MissierBC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icfp/CheneyLW13" mdate="2023-09-30">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author orcid="0000-0002-1360-4714" pid="97/4946">Sam Lindley</author>
+<author pid="w/PhilipWadler">Philip Wadler</author>
+<title>A practical theory of language-integrated query.</title>
+<pages>403-416</pages>
+<year>2013</year>
+<booktitle>ICFP</booktitle>
+<ee>https://doi.org/10.1145/2500365.2500586</ee>
+<ee>https://doi.org/10.1145/2544174.2500586</ee>
+<crossref>conf/icfp/2013</crossref>
+<url>db/conf/icfp/icfp2013.html#CheneyLW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sc/GriffisMC09" mdate="2022-12-07">
+<author pid="151/6853">Eric Griffis</author>
+<author pid="92/2442-2">Paul Martin 0002</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Semantics and provenance for processing element composition in dispel workflows.</title>
+<pages>38-47</pages>
+<year>2013</year>
+<booktitle>WORKS@SC</booktitle>
+<ee>https://doi.org/10.1145/2534248.2534252</ee>
+<crossref>conf/sc/2013works</crossref>
+<url>db/conf/sc/works2013.html#GriffisMC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/Cheney13" mdate="2018-08-13">
+<author pid="96/3253">James Cheney</author>
+<title>Static Enforceability of XPath-Based Access Control Policies.</title>
+<booktitle>DBPL</booktitle>
+<year>2013</year>
+<ee type="oa">http://arxiv.org/abs/1308.0502</ee>
+<crossref>journals/corr/GreenS13</crossref>
+<url>db/conf/dbpl/dbpl2013.html#Cheney13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/CheneyLRW13" mdate="2018-08-13">
+<author pid="96/3253">James Cheney</author>
+<author pid="97/4946">Sam Lindley</author>
+<author pid="136/5817">Gabriel Radanne</author>
+<author pid="w/PhilipWadler">Philip Wadler</author>
+<title>Effective Quotation.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1310.4780</ee>
+<volume>abs/1310.4780</volume>
+<url>db/journals/corr/corr1310.html#CheneyLRW13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AcarACP13" mdate="2022-07-05">
+<author pid="44/3421">Umut A. Acar</author>
+<author pid="a/AmalAhmed">Amal Ahmed 0001</author>
+<author pid="96/3253">James Cheney</author>
+<author pid="27/2651">Roly Perera</author>
+<title>A Core Calculus for Provenance.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1310.6299</ee>
+<volume>abs/1310.6299</volume>
+<url>db/journals/corr/corr1310.html#AcarACP13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Cheney13a" mdate="2018-08-13">
+<author pid="96/3253">James Cheney</author>
+<title>A simple sequent calculus for nominal logic.</title>
+<year>2013</year>
+<volume>abs/1312.4840</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1312.4840</ee>
+<url>db/journals/corr/corr1312.html#Cheney13a</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-1201-5240" mdate="2023-04-29">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>A dependent nominal type theory</title>
+<ee type="oa">https://doi.org/10.2168/LMCS-8(1:8)2012</ee>
+<ee type="oa">http://arxiv.org/abs/1201.5240</ee>
+<year>2012</year>
+<journal>Log. Methods Comput. Sci.</journal>
+<volume>8</volume>
+<number>1</number>
+<url>db/journals/lmcs/lmcs8.html#abs-1201-5240</url>
+</article>
+</r>
+<r><article key="journals/ijdc/GrothGCM12" mdate="2022-12-07">
+<author orcid="0000-0003-0183-6910" pid="g/PTGroth">Paul Groth</author>
+<author pid="88/2686">Yolanda Gil</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author orcid="0000-0001-9956-4217" pid="74/3469">Simon Miles</author>
+<title>Requirements for Provenance on the Web.</title>
+<pages>39-56</pages>
+<year>2012</year>
+<volume>7</volume>
+<journal>Int. J. Digit. Curation</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.2218/ijdc.v7i1.213</ee>
+<ee>https://www.wikidata.org/entity/Q57011297</ee>
+<url>db/journals/ijdc/ijdc7.html#GrothGCM12</url>
+</article>
+</r>
+<r><article key="journals/jar/CheneyNV12" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author orcid="0000-0003-1163-8467" pid="10/3457">Michael Norrish</author>
+<author pid="02/4520">Ren&#233; Vestergaard</author>
+<title>Formalizing Adequacy: A Case Study for Higher-order Abstract Syntax.</title>
+<pages>209-239</pages>
+<year>2012</year>
+<volume>49</volume>
+<journal>J. Autom. Reason.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10817-011-9221-6</ee>
+<url>db/journals/jar/jar49.html#CheneyNV12</url>
+</article>
+</r>
+<r><article key="journals/jfp/AcarCW12" mdate="2022-12-07">
+<author pid="44/3421">Umut A. Acar</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author orcid="0000-0002-6756-9168" pid="w/StephanieWeirich">Stephanie Weirich</author>
+<title>Editorial - Special issue dedicated to ICFP 2010.</title>
+<pages>379-381</pages>
+<year>2012</year>
+<volume>22</volume>
+<journal>J. Funct. Program.</journal>
+<number>4-5</number>
+<ee>https://doi.org/10.1017/S0956796812000287</ee>
+<url>db/journals/jfp/jfp22.html#AcarCW12</url>
+</article>
+</r>
+<r><article key="journals/vldb/BravoCFS12" mdate="2022-12-07">
+<author orcid="0000-0001-7299-9317" pid="b/LoretoBravo">Loreto Bravo</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="74/6086">Irini Fundulaki</author>
+<author pid="116/1415">Ricardo Segovia</author>
+<title>Consistency and repair for XML write-access control policies.</title>
+<pages>843-867</pages>
+<year>2012</year>
+<volume>21</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00778-012-0273-y</ee>
+<url>db/journals/vldb/vldb21.html#BravoCFS12</url>
+</article>
+</r>
+<r><inproceedings key="conf/icfp/PereraACL12" mdate="2022-12-07">
+<author pid="27/2651">Roly Perera</author>
+<author pid="44/3421">Umut A. Acar</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="l/PaulBlainLevy">Paul Blain Levy</author>
+<title>Functional programs that explain their work.</title>
+<pages>365-376</pages>
+<year>2012</year>
+<booktitle>ICFP</booktitle>
+<ee>https://doi.org/10.1145/2364527.2364579</ee>
+<ee>https://doi.org/10.1145/2398856.2364579</ee>
+<crossref>conf/icfp/2012</crossref>
+<url>db/conf/icfp/icfp2012.html#PereraACL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/post/AcarACP12" mdate="2022-12-07">
+<author pid="44/3421">Umut A. Acar</author>
+<author orcid="0000-0001-7424-572X" pid="a/AmalAhmed">Amal Ahmed 0001</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="27/2651">Roly Perera</author>
+<title>A Core Calculus for Provenance.</title>
+<pages>410-429</pages>
+<year>2012</year>
+<booktitle>POST</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-28641-4_22</ee>
+<ee>https://www.wikidata.org/entity/Q60142679</ee>
+<crossref>conf/post/2012</crossref>
+<url>db/conf/post/post2012.html#AcarACP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tapp/AndersonC12" mdate="2021-02-02">
+<author pid="17/3045-3">Paul Anderson 0003</author>
+<author pid="96/3253">James Cheney</author>
+<title>Toward Provenance-Based Security for Configuration Languages.</title>
+<year>2012</year>
+<booktitle>TaPP</booktitle>
+<ee type="oa">https://www.usenix.org/conference/tapp12/workshop-program/presentation/anderson</ee>
+<crossref>conf/tapp/2012</crossref>
+<url>db/conf/tapp/tapp2012.html#AndersonC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tapp/BunemanCK12" mdate="2021-02-02">
+<author pid="b/PeterBuneman">Peter Buneman</author>
+<author pid="96/3253">James Cheney</author>
+<author pid="22/7920">Egor V. Kostylev</author>
+<title>Hierarchical Models of Provenance.</title>
+<year>2012</year>
+<booktitle>TaPP</booktitle>
+<ee type="oa">https://www.usenix.org/conference/tapp12/workshop-program/presentation/buneman</ee>
+<crossref>conf/tapp/2012</crossref>
+<url>db/conf/tapp/tapp2012.html#BunemanCK12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tldi/LindleyC12" mdate="2023-09-30">
+<author orcid="0000-0002-1360-4714" pid="97/4946">Sam Lindley</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Row-based effect types for database integration.</title>
+<pages>91-102</pages>
+<year>2012</year>
+<booktitle>TLDI</booktitle>
+<ee>https://doi.org/10.1145/2103786.2103798</ee>
+<crossref>conf/tldi/2012</crossref>
+<url>db/conf/tldi/tldi2012.html#LindleyC12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/CheneyFLV12" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="f/AFinkelstein">Anthony Finkelstein</author>
+<author pid="l/BertramLudascher">Bertram Lud&#228;scher</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>Principles of Provenance (Dagstuhl Seminar 12091).</title>
+<pages>84-113</pages>
+<year>2012</year>
+<volume>2</volume>
+<journal>Dagstuhl Reports</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.2.2.84</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports2.html#CheneyFLV12</url>
+</article>
+</r>
+<r><article key="journals/mscs/CheneyAA11" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author orcid="0000-0001-7424-572X" pid="a/AmalAhmed">Amal Ahmed 0001</author>
+<author pid="44/3421">Umut A. Acar</author>
+<title>Provenance as dependency analysis.</title>
+<pages>1301-1337</pages>
+<year>2011</year>
+<volume>21</volume>
+<journal>Math. Struct. Comput. Sci.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1017/S0960129511000211</ee>
+<ee>https://www.wikidata.org/entity/Q60142684</ee>
+<url>db/journals/mscs/mscs21.html#CheneyAA11</url>
+</article>
+</r>
+<r><article key="journals/sigmod/BunemanCLM11" mdate="2023-09-30">
+<author pid="b/PeterBuneman">Peter Buneman</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author orcid="0000-0002-1360-4714" pid="97/4946">Sam Lindley</author>
+<author pid="m/HeikoMuller">Heiko M&#252;ller 0001</author>
+<title>The database Wiki project: a general-purpose platform for data curation and collaboration.</title>
+<pages>15-20</pages>
+<year>2011</year>
+<volume>40</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2070736.2070740</ee>
+<ee>https://www.wikidata.org/entity/Q66709305</ee>
+<url>db/journals/sigmod/sigmod40.html#BunemanCLM11</url>
+</article>
+</r>
+<r><article key="journals/tocl/UrbanCB11" mdate="2022-12-07">
+<author pid="u/ChristianUrban">Christian Urban</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="81/3747">Stefan Berghofer</author>
+<title>Mechanizing the metatheory of LF.</title>
+<pages>15:1-15:42</pages>
+<year>2011</year>
+<volume>12</volume>
+<journal>ACM Trans. Comput. Log.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1877714.1877721</ee>
+<url>db/journals/tocl/tocl12.html#UrbanCB11</url>
+</article>
+</r>
+<r><inproceedings key="conf/cpp/CheneyU11" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="u/ChristianUrban">Christian Urban</author>
+<title>Mechanizing the Metatheory of mini-XQuery.</title>
+<pages>280-295</pages>
+<year>2011</year>
+<booktitle>CPP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-25379-9_21</ee>
+<crossref>conf/cpp/2011</crossref>
+<url>db/conf/cpp/cpp2011.html#CheneyU11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csfw/Cheney11" mdate="2023-03-24">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>A Formal Framework for Provenance Security.</title>
+<pages>281-293</pages>
+<year>2011</year>
+<booktitle>CSF</booktitle>
+<ee>https://doi.org/10.1109/CSF.2011.26</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CSF.2011.26</ee>
+<crossref>conf/csfw/2011</crossref>
+<url>db/conf/csfw/csf2011.html#Cheney11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbpl/CheneyLM11" mdate="2023-09-30">
+<author pid="96/3253">James Cheney</author>
+<author orcid="0000-0002-1360-4714" pid="97/4946">Sam Lindley</author>
+<author pid="m/HeikoMuller">Heiko M&#252;ller 0001</author>
+<title>Using Links to prototype a Database Wiki.</title>
+<year>2011</year>
+<booktitle>DBPL</booktitle>
+<crossref>conf/dbpl/2011</crossref>
+<ee type="oa">http://www.cs.cornell.edu/conferences/dbpl2011/papers/dbpl11-cheney.pdf</ee>
+<url>db/conf/dbpl/dbpl2011.html#CheneyLM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/Cheney11" mdate="2019-06-02">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Satisfiability algorithms for conjunctive queries over trees.</title>
+<pages>150-161</pages>
+<year>2011</year>
+<booktitle>ICDT</booktitle>
+<ee>https://doi.org/10.1145/1938551.1938572</ee>
+<ee>https://www.wikidata.org/entity/Q60029898</ee>
+<crossref>conf/icdt/2011</crossref>
+<url>db/conf/icdt/icdt2011.html#Cheney11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lid/Cheney11" mdate="2019-06-02">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Is provenance logical?</title>
+<pages>2-6</pages>
+<year>2011</year>
+<booktitle>LID</booktitle>
+<ee>https://doi.org/10.1145/1966357.1966359</ee>
+<ee>https://www.wikidata.org/entity/Q60029897</ee>
+<crossref>conf/lid/2011</crossref>
+<url>db/conf/lid/lid2011.html#Cheney11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BunemanCLM11" mdate="2023-09-30">
+<author pid="b/PeterBuneman">Peter Buneman</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author orcid="0000-0002-1360-4714" pid="97/4946">Sam Lindley</author>
+<author pid="m/HeikoMuller">Heiko M&#252;ller 0001</author>
+<title>DBWiki: a structured wiki for curated data and collaborative data management.</title>
+<pages>1335-1338</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989491</ee>
+<ee>https://www.wikidata.org/entity/Q60029896</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#BunemanCLM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tapp/HalpinC11" mdate="2021-02-02">
+<author pid="23/1741">Harry Halpin</author>
+<author pid="96/3253">James Cheney</author>
+<title>Dynamic Provenance for SPARQL Updates Using Named Graphs.</title>
+<year>2011</year>
+<booktitle>TaPP</booktitle>
+<ee type="oa">https://www.usenix.org/conference/tapp11/dynamic-provenance-sparql-updates-using-named-graphs</ee>
+<crossref>conf/tapp/2011</crossref>
+<url>db/conf/tapp/tapp2011.html#HalpinC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/unif/KavanaghC11" mdate="2023-09-19">
+<author pid="356/9042">Ben Kavanagh</author>
+<author pid="96/3253">James Cheney</author>
+<title>Higher-Order Unification for the &#955;<sub>&#945;&#957;</sub> calculus.</title>
+<pages>42-51</pages>
+<year>2011</year>
+<booktitle>UNIF</booktitle>
+<ee type="oa">https://www.irif.fr/~treinen/unif/past/unif11/unif11-proceedings.pdf#page=48</ee>
+<crossref>conf/unif/2011</crossref>
+<url>db/conf/unif/unif2011.html#KavanaghC11</url>
+</inproceedings>
+</r>
+<r><article key="journals/jar/Cheney10" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Equivariant Unification.</title>
+<pages>267-300</pages>
+<year>2010</year>
+<volume>45</volume>
+<journal>J. Autom. Reason.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10817-009-9164-3</ee>
+<url>db/journals/jar/jar45.html#Cheney10</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BenediktC10" mdate="2020-04-25">
+<author pid="b/MichaelBenedikt">Michael Benedikt</author>
+<author pid="96/3253">James Cheney</author>
+<title>Destabilizers and Independence of XML Updates.</title>
+<pages>906-917</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R81.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920956</ee>
+<url>db/journals/pvldb/pvldb3.html#BenediktC10</url>
+</article>
+</r>
+<r><inproceedings key="conf/tapp/AcarBCBKV10" mdate="2021-02-02">
+<author pid="44/3421">Umut A. Acar</author>
+<author pid="b/PeterBuneman">Peter Buneman</author>
+<author pid="96/3253">James Cheney</author>
+<author pid="b/JVdBussche">Jan Van den Bussche</author>
+<author pid="22/6339">Natalia Kwasnikowska</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>A Graph Model of Data and Workflow Provenance.</title>
+<year>2010</year>
+<booktitle>TaPP</booktitle>
+<ee type="oa">https://www.usenix.org/conference/tapp-10/graph-model-data-and-workflow-provenance</ee>
+<crossref>conf/tapp/2010</crossref>
+<url>db/conf/tapp/tapp2010.html#AcarBCBKV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-1006-1429" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Causality and the Semantics of Provenance</title>
+<booktitle>DCM</booktitle>
+<year>2010</year>
+<pages>63-74</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.26.6</ee>
+<ee type="oa">http://arxiv.org/abs/1006.1429</ee>
+<crossref>journals/corr/abs-1006-1937</crossref>
+<url>db/series/eptcs/eptcs26.html#abs-1006-1429</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1004-3241" mdate="2018-08-13">
+<author pid="96/3253">James Cheney</author>
+<title>Causality and the semantics of provenance</title>
+<ee type="oa">http://arxiv.org/abs/1004.3241</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1004.3241</volume>
+<url>db/journals/corr/corr1004.html#abs-1004-3241</url>
+</article>
+</r>
+<r><article key="journals/ftdb/CheneyCT09" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="c/LauraChiticariu">Laura Chiticariu</author>
+<author pid="t/WangChiewTan">Wang Chiew Tan</author>
+<title>Provenance in Databases: Why, How, and Where.</title>
+<pages>379-474</pages>
+<year>2009</year>
+<volume>1</volume>
+<journal>Found. Trends Databases</journal>
+<number>4</number>
+<ee>https://doi.org/10.1561/1900000006</ee>
+<url>db/journals/ftdb/ftdb1.html#CheneyCT09</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BenediktC09" mdate="2020-04-25">
+<author pid="b/MichaelBenedikt">Michael Benedikt</author>
+<author pid="96/3253">James Cheney</author>
+<title>Schema-Based Independence Analysis for XML Updates.</title>
+<pages>61-72</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-684.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687635</ee>
+<url>db/journals/pvldb/pvldb2.html#BenediktC09</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Cheney09" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Workshop on theory and practice of provenance event report.</title>
+<pages>57-60</pages>
+<year>2009</year>
+<volume>38</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1815918.1815932</ee>
+<url>db/journals/sigmod/sigmod38.html#Cheney09</url>
+</article>
+</r>
+<r><inproceedings key="conf/dbpl/BenediktC09" mdate="2022-12-07">
+<author orcid="0000-0003-2964-0880" pid="b/MichaelBenedikt">Michael Benedikt</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Semantics, Types and Effects for XML Updates.</title>
+<pages>1-17</pages>
+<year>2009</year>
+<booktitle>DBPL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-03793-1_1</ee>
+<crossref>conf/dbpl/2009</crossref>
+<url>db/conf/dbpl/dbpl2009.html#BenediktC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/McKayNCKMH09" mdate="2022-12-07">
+<author orcid="0000-0003-3160-5822" pid="m/RobertIMcKay">Robert I. McKay</author>
+<author pid="51/6658">Xuan Hoai Nguyen</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="143/1347-1">Minhyeok Kim 0001</author>
+<author pid="61/4349">Naoki Mori</author>
+<author orcid="0000-0001-9742-2370" pid="20/4029">Tuan Hao Hoang</author>
+<title>Estimating the distribution and propagation of genetic programming building blocks through tree compression.</title>
+<pages>1011-1018</pages>
+<year>2009</year>
+<booktitle>GECCO</booktitle>
+<ee>https://doi.org/10.1145/1569901.1570038</ee>
+<crossref>conf/gecco/2009g</crossref>
+<url>db/conf/gecco/gecco2009.html#McKayNCKMH09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/CheneyCFSV09" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="13/2794">Stephen Chong</author>
+<author pid="15/3253">Nate Foster</author>
+<author pid="s/MargoISeltzer">Margo I. Seltzer</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>Provenance: a future history.</title>
+<pages>957-964</pages>
+<year>2009</year>
+<booktitle>OOPSLA Companion</booktitle>
+<ee>https://doi.org/10.1145/1639950.1640064</ee>
+<crossref>conf/oopsla/2009c</crossref>
+<url>db/conf/oopsla/oopsla2009c.html#CheneyCFSV09</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/fast/2009tapp" mdate="2018-07-04">
+<editor pid="96/3253">James Cheney</editor>
+<title>First Workshop on the Theory and Practice of Provenance, TaPP'09, San Francisco, CA, USA, February 23, 2009, Proceedings</title>
+<booktitle>TaPP</booktitle>
+<publisher>USENIX</publisher>
+<year>2009</year>
+<url>db/conf/fast/tapp2009.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/lfmtp/2009" mdate="2012-03-12">
+<editor pid="96/3253">James Cheney</editor>
+<editor pid="f/AmyPFelty">Amy P. Felty</editor>
+<title>Proceedings of the Fourth International Workshop on Logical Frameworks and Meta-Languages: Theory and Practice, LFMTP '09, McGill University, Montreal, Canada, August 2, 2009</title>
+<publisher>ACM</publisher>
+<booktitle>LFMTP</booktitle>
+<isbn>978-1-60558-529-1</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=1577824</ee>
+<year>2009</year>
+<url>db/conf/lfmtp/lfmtp2009.html</url>
+</proceedings>
+</r>
+<r><article key="journals/sigmod/CheneyBL08" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="b/PeterBuneman">Peter Buneman</author>
+<author pid="l/BertramLudascher">Bertram Lud&#228;scher</author>
+<title>Report on the Principles of Provenance Workshop.</title>
+<pages>62-65</pages>
+<year>2008</year>
+<volume>37</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1374780.1374798</ee>
+<url>db/journals/sigmod/sigmod37.html#CheneyBL08</url>
+</article>
+</r>
+<r><article key="journals/tods/BunemanCV08" mdate="2022-12-07">
+<author pid="b/PeterBuneman">Peter Buneman</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>On the expressiveness of implicit provenance in query and update languages.</title>
+<year>2008</year>
+<volume>33</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1412331.1412340</ee>
+<url>db/journals/tods/tods33.html#BunemanCV08</url>
+<pages>28:1-28:47</pages>
+</article>
+</r>
+<r><article key="journals/toplas/CheneyU08" mdate="2018-11-06">
+<author pid="96/3253">James Cheney</author>
+<author pid="u/ChristianUrban">Christian Urban</author>
+<title>Nominal logic programming.</title>
+<year>2008</year>
+<volume>30</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1145/1387673.1387675</ee>
+<url>db/journals/toplas/toplas30.html#CheneyU08</url>
+<pages>26:1-26:47</pages>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/BravoCF08" mdate="2022-12-07">
+<author orcid="0000-0001-7299-9317" pid="b/LoretoBravo">Loreto Bravo</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="74/6086">Irini Fundulaki</author>
+<title>ACCOn: checking consistency of XML write-access control policies.</title>
+<pages>715-719</pages>
+<year>2008</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1353343.1353433</ee>
+<crossref>conf/edbt/2008</crossref>
+<url>db/conf/edbt/edbt2008.html#BravoCF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esop/Cheney08" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Regular Expression Subtyping for XML Query and Update Languages.</title>
+<pages>32-47</pages>
+<year>2008</year>
+<booktitle>ESOP</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-78739-6_3</ee>
+<crossref>conf/esop/2008</crossref>
+<url>db/conf/esop/esop2008.html#Cheney08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icfp/Cheney08" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>FLUX: functional updates for XML.</title>
+<pages>3-14</pages>
+<year>2008</year>
+<booktitle>ICFP</booktitle>
+<ee>https://doi.org/10.1145/1411204.1411209</ee>
+<ee>https://doi.org/10.1145/1411203.1411209</ee>
+<crossref>conf/icfp/2008</crossref>
+<url>db/conf/icfp/icfp2008.html#Cheney08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/UrbanCB08" mdate="2023-03-24">
+<author pid="u/ChristianUrban">Christian Urban</author>
+<author pid="96/3253">James Cheney</author>
+<author pid="81/3747">Stefan Berghofer</author>
+<title>Mechanizing the Metatheory of LF.</title>
+<pages>45-56</pages>
+<year>2008</year>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2008.29</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2008.29</ee>
+<crossref>conf/lics/2008</crossref>
+<url>db/conf/lics/lics2008.html#UrbanCB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/CheneyD08" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="65/1405">Morten Dahl</author>
+<title>Resource bound analysis for database queries.</title>
+<pages>67-78</pages>
+<year>2008</year>
+<booktitle>PLAS</booktitle>
+<ee>https://doi.org/10.1145/1375696.1375706</ee>
+<crossref>conf/pldi/2008plas</crossref>
+<url>db/conf/pldi/plas2008.html#CheneyD08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/BunemanCTV08" mdate="2018-11-14">
+<author pid="b/PeterBuneman">Peter Buneman</author>
+<author pid="96/3253">James Cheney</author>
+<author pid="t/WangChiewTan">Wang Chiew Tan</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>Curated databases.</title>
+<pages>1-12</pages>
+<year>2008</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1376916.1376918</ee>
+<ee>https://www.wikidata.org/entity/Q18618590</ee>
+<crossref>conf/pods/2008</crossref>
+<url>db/conf/pods/pods2008.html#BunemanCTV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/Cheney09" mdate="2023-02-24">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>A Simple Nominal Type Theory.</title>
+<pages>37-52</pages>
+<year>2008</year>
+<crossref>conf/lfmtp/2008</crossref>
+<booktitle>LFMTP@LICS</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2008.12.115</ee>
+<url>db/journals/entcs/entcs228.html#Cheney09</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0801-0714" mdate="2018-08-13">
+<author pid="96/3253">James Cheney</author>
+<title>Regular Expression Subtyping for XML Query and Update Languages</title>
+<ee type="oa">http://arxiv.org/abs/0801.0714</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0801.0714</volume>
+<url>db/journals/corr/corr0801.html#abs-0801-0714</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0804-1667" mdate="2018-08-13">
+<author pid="u/ChristianUrban">Christian Urban</author>
+<author pid="96/3253">James Cheney</author>
+<author pid="81/3747">Stefan Berghofer</author>
+<title>Mechanizing the Metatheory of LF</title>
+<ee type="oa">http://arxiv.org/abs/0804.1667</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0804.1667</volume>
+<url>db/journals/corr/corr0804.html#abs-0804-1667</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0807-1211" mdate="2018-08-13">
+<author pid="96/3253">James Cheney</author>
+<title>Flux: FunctionaL Updates for XML (extended report)</title>
+<ee type="oa">http://arxiv.org/abs/0807.1211</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0807.1211</volume>
+<url>db/journals/corr/corr0807.html#abs-0807-1211</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0812-0564" mdate="2022-07-05">
+<author pid="96/3253">James Cheney</author>
+<author pid="44/3421">Umut A. Acar</author>
+<author pid="a/AmalAhmed">Amal Ahmed 0001</author>
+<title>Provenance Traces</title>
+<ee type="oa">http://arxiv.org/abs/0812.0564</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0812.0564</volume>
+<url>db/journals/corr/corr0812.html#abs-0812-0564</url>
+</article>
+</r>
+<r><article key="journals/debu/Cheney07" mdate="2020-03-10">
+<author pid="96/3253">James Cheney</author>
+<title>Program Slicing and Data Provenance.</title>
+<pages>22-28</pages>
+<year>2007</year>
+<volume>30</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A07dec/cheney.pdf</ee>
+<url>db/journals/debu/debu30.html#Cheney07</url>
+</article>
+</r>
+<r><article key="journals/debu/VansummerenC07" mdate="2020-03-10">
+<author pid="28/3797">Stijn Vansummeren</author>
+<author pid="96/3253">James Cheney</author>
+<title>Recording Provenance for SQL Queries and Updates.</title>
+<pages>29-37</pages>
+<year>2007</year>
+<volume>30</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A07dec/stijn.pdf</ee>
+<url>db/journals/debu/debu30.html#VansummerenC07</url>
+</article>
+</r>
+<r><inproceedings key="conf/dbpl/BravoCF07" mdate="2017-05-25">
+<author pid="b/LoretoBravo">Loreto Bravo</author>
+<author pid="96/3253">James Cheney</author>
+<author pid="74/6086">Irini Fundulaki</author>
+<title>Repairing Inconsistent XML Write-Access Control Policies.</title>
+<pages>97-111</pages>
+<year>2007</year>
+<crossref>conf/dbpl/2007</crossref>
+<booktitle>DBPL</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-75987-4_7</ee>
+<url>db/conf/dbpl/dbpl2007.html#BravoCF07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbpl/CheneyAA07" mdate="2022-07-05">
+<author pid="96/3253">James Cheney</author>
+<author pid="a/AmalAhmed">Amal Ahmed 0001</author>
+<author pid="44/3421">Umut A. Acar</author>
+<title>Provenance as Dependency Analysis.</title>
+<pages>138-152</pages>
+<year>2007</year>
+<crossref>conf/dbpl/2007</crossref>
+<booktitle>DBPL</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-75987-4_10</ee>
+<url>db/conf/dbpl/dbpl2007.html#CheneyAA07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/BunemanCV07" mdate="2022-12-07">
+<author pid="b/PeterBuneman">Peter Buneman</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>On the Expressiveness of Implicit Provenance in Query and Update Languages.</title>
+<pages>209-223</pages>
+<year>2007</year>
+<crossref>conf/icdt/2007</crossref>
+<booktitle>ICDT</booktitle>
+<ee>https://doi.org/10.1007/11965893_15</ee>
+<url>db/conf/icdt/icdt2007.html#BunemanCV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/planX/Cheney07" mdate="2018-06-27">
+<author pid="96/3253">James Cheney</author>
+<title>Lux: A Lightweight, Statically Typed XML Update Language.</title>
+<pages>25-36</pages>
+<year>2007</year>
+<crossref>conf/planX/2007</crossref>
+<booktitle>PLAN-X</booktitle>
+<ee>http://www.plan-x-2007.org/plan-x-2007.pdf</ee>
+<url>db/conf/planx/planX2007.html#Cheney07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppdp/CheneyM07" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author orcid="0000-0003-0942-4777" pid="88/6655">Alberto Momigliano</author>
+<title>Mechanized metatheory model-checking.</title>
+<pages>75-86</pages>
+<year>2007</year>
+<crossref>conf/ppdp/2007</crossref>
+<booktitle>PPDP</booktitle>
+<ee>https://doi.org/10.1145/1273920.1273931</ee>
+<url>db/conf/ppdp/ppdp2007.html#CheneyM07</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0708-2076" mdate="2018-08-13">
+<author pid="b/LoretoBravo">Loreto Bravo</author>
+<author pid="96/3253">James Cheney</author>
+<author pid="74/6086">Irini Fundulaki</author>
+<title>Repairing Inconsistent XML Write-Access Control Policies</title>
+<ee type="oa">http://arxiv.org/abs/0708.2076</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0708.2076</volume>
+<url>db/journals/corr/corr0708.html#abs-0708-2076</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0708-2173" mdate="2022-07-05">
+<author pid="96/3253">James Cheney</author>
+<author pid="a/AmalAhmed">Amal Ahmed 0001</author>
+<author pid="44/3421">Umut A. Acar</author>
+<title>Provenance as Dependency Analysis</title>
+<ee type="oa">http://arxiv.org/abs/0708.2173</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0708.2173</volume>
+<url>db/journals/corr/corr0708.html#abs-0708-2173</url>
+</article>
+</r>
+<r><article key="journals/jsyml/Cheney06" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Completeness and Herbrand theorems for nominal logic.</title>
+<pages>299-320</pages>
+<year>2006</year>
+<volume>71</volume>
+<journal>J. Symb. Log.</journal>
+<number>1</number>
+<ee>https://doi.org/10.2178/jsl/1140641176</ee>
+<ee>http://projecteuclid.org/euclid.jsl/1140641176</ee>
+<url>db/journals/jsyml/jsyml71.html#Cheney06</url>
+</article>
+</r>
+<r><inproceedings key="conf/dcc/Cheney06" mdate="2023-03-24">
+<author pid="96/3253">James Cheney</author>
+<title>Tradeoffs in XML Database Compression.</title>
+<pages>392-401</pages>
+<year>2006</year>
+<crossref>conf/dcc/2006</crossref>
+<booktitle>DCC</booktitle>
+<ee>https://doi.org/10.1109/DCC.2006.79</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DCC.2006.79</ee>
+<url>db/conf/dcc/dcc2006.html#Cheney06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclp/Cheney06" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>The Semantics of Nominal Logic Programs.</title>
+<pages>361-375</pages>
+<year>2006</year>
+<crossref>conf/iclp/2006</crossref>
+<booktitle>ICLP</booktitle>
+<ee>https://doi.org/10.1007/11799573_27</ee>
+<url>db/conf/iclp/iclp2006.html#Cheney06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipaw/BunemanCCV06" mdate="2022-12-07">
+<author pid="b/PeterBuneman">Peter Buneman</author>
+<author pid="54/4551">Adriane Chapman</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>A Provenance Model for Manually Curated Data.</title>
+<pages>162-170</pages>
+<year>2006</year>
+<crossref>conf/ipaw/2006</crossref>
+<booktitle>IPAW</booktitle>
+<ee type="oa">https://doi.org/10.1007/11890850_17</ee>
+<url>db/conf/ipaw/ipaw2006.html#BunemanCCV06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BunemanCC06" mdate="2022-12-07">
+<author pid="b/PeterBuneman">Peter Buneman</author>
+<author pid="54/4551">Adriane Chapman</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Provenance management in curated databases.</title>
+<pages>539-550</pages>
+<year>2006</year>
+<crossref>conf/sigmod/2006</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1142473.1142534</ee>
+<url>db/conf/sigmod/sigmod2006.html#BunemanCC06</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0609062" mdate="2018-08-13">
+<author pid="96/3253">James Cheney</author>
+<author pid="u/ChristianUrban">Christian Urban</author>
+<title>Nominal Logic Programming</title>
+<ee type="oa">http://arxiv.org/abs/cs/0609062</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0609062</volume>
+<url>db/journals/corr/corr0609.html#abs-cs-0609062</url>
+</article>
+</r>
+<r><inproceedings key="conf/fossacs/Cheney05" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>A Simpler Proof Theory for Nominal Logic.</title>
+<pages>379-394</pages>
+<ee type="oa">https://doi.org/10.1007/978-3-540-31982-5_24</ee>
+<year>2005</year>
+<crossref>conf/fossacs/2005</crossref>
+<booktitle>FoSSaCS</booktitle>
+<url>db/conf/fossacs/fossacs2005.html#Cheney05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icfp/Cheney05a" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Toward a general theory of names: binding and scope.</title>
+<pages>33-40</pages>
+<year>2005</year>
+<booktitle>MERLIN</booktitle>
+<ee>https://doi.org/10.1145/1088454.1088459</ee>
+<crossref>conf/icfp/2005merlin</crossref>
+<url>db/conf/icfp/merlin2005.html#Cheney05a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icfp/Cheney05" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Scrap your nameplate: (functional pearl).</title>
+<pages>180-191</pages>
+<year>2005</year>
+<crossref>conf/icfp/2005</crossref>
+<booktitle>ICFP</booktitle>
+<ee>https://doi.org/10.1145/1086365.1086389</ee>
+<ee>https://doi.org/10.1145/1090189.1086389</ee>
+<url>db/conf/icfp/icfp2005.html#Cheney05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rta/Cheney05" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Equivariant Unification.</title>
+<pages>74-89</pages>
+<ee>https://doi.org/10.1007/978-3-540-32033-3_7</ee>
+<year>2005</year>
+<crossref>conf/rta/2005</crossref>
+<booktitle>RTA</booktitle>
+<url>db/conf/rta/rta2005.html#Cheney05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tlca/UrbanC05" mdate="2022-12-07">
+<author pid="u/ChristianUrban">Christian Urban</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Avoiding Equivariance in Alpha-Prolog.</title>
+<pages>401-416</pages>
+<ee>https://doi.org/10.1007/11417170_29</ee>
+<year>2005</year>
+<crossref>conf/tlca/2005</crossref>
+<booktitle>TLCA</booktitle>
+<url>db/conf/tlca/tlca2005.html#UrbanC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webdb/Cheney05" mdate="2005-07-06">
+<author pid="96/3253">James Cheney</author>
+<title>An Empirical Evaluation of Simple DTD-Conscious Compression Techniques.</title>
+<pages>43-48</pages>
+<year>2005</year>
+<crossref>conf/webdb/2005</crossref>
+<booktitle>WebDB</booktitle>
+<url>db/conf/webdb/webdb2005.html#Cheney05</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0511025" mdate="2018-08-13">
+<author pid="96/3253">James Cheney</author>
+<title>Logic Column 14: Nominal Logic and Abstract Syntax</title>
+<ee type="oa">http://arxiv.org/abs/cs/0511025</ee>
+<year>2005</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0511025</volume>
+<url>db/journals/corr/corr0511.html#abs-cs-0511025</url>
+</article>
+</r>
+<r><phdthesis key="phd/us/Cheney04" mdate="2022-03-28">
+<author pid="96/3253">James Cheney</author>
+<title>Nominal Logic Programming.</title>
+<school>Cornell University, USA</school>
+<year>2004</year>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/icalp/Cheney04" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>The Complexity of Equivariant Unification.</title>
+<pages>332-344</pages>
+<ee>https://doi.org/10.1007/978-3-540-27836-8_30</ee>
+<year>2004</year>
+<crossref>conf/icalp/2004</crossref>
+<booktitle>ICALP</booktitle>
+<url>db/conf/icalp/icalp2004.html#Cheney04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclp/CheneyU04" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="u/ChristianUrban">Christian Urban</author>
+<title>alpha-Prolog: A Logic Programming Language with Names, Binding and a-Equivalence.</title>
+<pages>269-283</pages>
+<ee>https://doi.org/10.1007/978-3-540-27775-0_19</ee>
+<year>2004</year>
+<crossref>conf/iclp/2004</crossref>
+<booktitle>ICLP</booktitle>
+<url>db/conf/iclp/iclp2004.html#CheneyU04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lics/GabbayC04" mdate="2023-03-24">
+<author pid="g/MurdochGabbay">Murdoch Gabbay</author>
+<author pid="96/3253">James Cheney</author>
+<title>A Sequent Calculus for Nominal Logic.</title>
+<pages>139-148</pages>
+<year>2004</year>
+<crossref>conf/lics/2004</crossref>
+<booktitle>LICS</booktitle>
+<ee>https://doi.org/10.1109/LICS.2004.1319608</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LICS.2004.1319608</ee>
+<url>db/conf/lics/lics2004.html#GabbayC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/haskell/CheneyH02" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="h/RalfHinze">Ralf Hinze</author>
+<title>A lightweight implementation of generics and dynamics.</title>
+<pages>90-104</pages>
+<year>2002</year>
+<booktitle>Haskell</booktitle>
+<ee>https://doi.org/10.1145/581690.581698</ee>
+<crossref>conf/haskell/2002</crossref>
+<url>db/conf/haskell/haskell2002.html#CheneyH02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/GrossmanMJHWC02" mdate="2022-12-07">
+<author pid="g/DanGrossman">Dan Grossman</author>
+<author pid="m/JGMorrisett">J. Gregory Morrisett</author>
+<author pid="21/2627">Trevor Jim</author>
+<author orcid="0000-0002-2759-9223" pid="h/MichaelWHicks">Michael W. Hicks</author>
+<author pid="89/894">Yanling Wang</author>
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Region-Based Memory Management in Cyclone.</title>
+<pages>282-293</pages>
+<year>2002</year>
+<crossref>conf/pldi/2002</crossref>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/512529.512563</ee>
+<ee>https://doi.org/10.1145/543552.512563</ee>
+<url>db/conf/pldi/pldi2002.html#GrossmanMJHWC02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/JimMGHCW02" mdate="2021-02-01">
+<author pid="21/2627">Trevor Jim</author>
+<author pid="m/JGMorrisett">J. Gregory Morrisett</author>
+<author pid="g/DanGrossman">Dan Grossman</author>
+<author pid="h/MichaelWHicks">Michael W. Hicks</author>
+<author pid="96/3253">James Cheney</author>
+<author pid="89/894">Yanling Wang</author>
+<title>Cyclone: A Safe Dialect of C.</title>
+<pages>275-288</pages>
+<year>2002</year>
+<crossref>conf/usenix/2002g</crossref>
+<booktitle>USENIX Annual Technical Conference, General Track</booktitle>
+<ee type="oa">http://www.usenix.org/publications/library/proceedings/usenix02/jim.html</ee>
+<url>db/conf/usenix/usenix2002g.html#JimMGHCW02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dcc/Cheney01" mdate="2023-03-24">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Compressing XML with Multiplexed Hierarchical PPM Models.</title>
+<pages>163-</pages>
+<year>2001</year>
+<crossref>conf/dcc/2001</crossref>
+<booktitle>Data Compression Conference</booktitle>
+<ee>https://doi.org/10.1109/DCC.2001.917147</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DCC.2001.917147</ee>
+<url>db/conf/dcc/dcc2001.html#Cheney01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ercimdl/CheneyLB01" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="l/CarlLagoze">Carl Lagoze</author>
+<author pid="11/4995">Peter Botticelli</author>
+<title>Towards a Theory of Information Preservation.</title>
+<pages>340-351</pages>
+<year>2001</year>
+<crossref>conf/ercimdl/2001</crossref>
+<booktitle>ECDL</booktitle>
+<ee>https://doi.org/10.1007/3-540-44796-2_29</ee>
+<url>db/conf/ercimdl/ecdl2001.html#CheneyLB01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dcc/Cheney00" mdate="2023-03-24">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<title>Statistical Models for Term Compression.</title>
+<pages>550</pages>
+<year>2000</year>
+<crossref>conf/dcc/2000</crossref>
+<booktitle>Data Compression Conference</booktitle>
+<ee>https://doi.org/10.1109/DCC.2000.838197</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DCC.2000.838197</ee>
+<url>db/conf/dcc/dcc2000.html#Cheney00</url>
+</inproceedings>
+</r>
+<coauthors n="133" nc="6">
+<co c="0"><na f="a/Abell=oacute=:Alberto" pid="88/2053">Alberto Abell&#243;</na></co>
+<co c="0"><na f="a/Abou=Saleh:Faris" pid="21/10454">Faris Abou-Saleh</na></co>
+<co c="0"><na f="a/Abreu_0001:Rui" pid="00/6243">Rui Abreu 0001</na></co>
+<co c="0"><na f="a/Acar:Umut_A=" pid="44/3421">Umut A. Acar</na></co>
+<co c="0"><na f="a/Ahmed_0001:Amal" pid="a/AmalAhmed">Amal Ahmed 0001</na></co>
+<co c="0"><na f="a/Anderson_0003:Paul" pid="17/3045-3">Paul Anderson 0003</na></co>
+<co c="0"><na f="a/Anjorin:Anthony" pid="30/9523">Anthony Anjorin</na></co>
+<co c="0" n="2"><na f="a/Archer:David_W=" pid="64/4957">David W. Archer</na><na>Dave Archer 0001</na></co>
+<co c="0"><na f="a/Atkinson_0001:Malcolm_P=" pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</na></co>
+<co c="0"><na f="a/Aulenbach:Steve" pid="159/1809">Steve Aulenbach</na></co>
+<co c="3"><na f="b/Bartha:S=aacute=ndor" pid="245/7606">S&#225;ndor Bartha</na></co>
+<co c="0"><na f="b/Belhajjame:Khalid" pid="39/3585">Khalid Belhajjame</na></co>
+<co c="3"><na f="b/Belle:Vaishak" pid="52/570">Vaishak Belle</na></co>
+<co c="0"><na f="b/Benabderrahmane:Sidahmed" pid="65/7758">Sidahmed Benabderrahmane</na></co>
+<co c="0"><na f="b/Benedikt:Michael" pid="b/MichaelBenedikt">Michael Benedikt</na></co>
+<co c="0"><na f="b/Berghofer:Stefan" pid="81/3747">Stefan Berghofer</na></co>
+<co c="0"><na f="b/Berrada:Ghita" pid="55/9687">Ghita Berrada</na></co>
+<co c="0"><na f="b/Bhatotia:Pramod" pid="35/8319">Pramod Bhatotia</na></co>
+<co c="0"><na f="b/Bieda:Mark" pid="115/9113">Mark Bieda</na></co>
+<co c="0"><na f="b/Bocinsky:Kyle" pid="159/1763">Kyle Bocinsky</na></co>
+<co c="4"><na f="b/Botticelli:Peter" pid="11/4995">Peter Botticelli</na></co>
+<co c="0"><na f="b/Bravo:Loreto" pid="b/LoretoBravo">Loreto Bravo</na></co>
+<co c="0"><na f="b/Buneman:Peter" pid="b/PeterBuneman">Peter Buneman</na></co>
+<co c="0"><na f="b/Bussche:Jan_Van_den" pid="b/JVdBussche">Jan Van den Bussche</na></co>
+<co c="0"><na f="c/Cao:Yang" pid="25/7045">Yang Cao</na></co>
+<co c="0"><na f="c/Carata:Lucian" pid="128/5699">Lucian Carata</na></co>
+<co c="0"><na f="c/Chan:Sheung_Chi" pid="205/2028">Sheung Chi Chan</na></co>
+<co c="0"><na f="c/Chapman:Adriane" pid="54/4551">Adriane Chapman</na></co>
+<co c="0"><na f="c/Chapman:Erin" pid="205/2163">Erin Chapman</na></co>
+<co c="0" n="2"><na f="c/Chirigati:Fernando_Seabra" pid="04/5404">Fernando Seabra Chirigati</na><na>Fernando Chirigati</na></co>
+<co c="0"><na f="c/Chiticariu:Laura" pid="c/LauraChiticariu">Laura Chiticariu</na></co>
+<co c="0"><na f="c/Choi_0001:Kwanghoon" pid="19/1318">Kwanghoon Choi 0001</na></co>
+<co c="0"><na f="c/Chong:Stephen" pid="13/2794">Stephen Chong</na></co>
+<co c="0"><na f="c/Coates:Jonathan" pid="262/3260">Jonathan Coates</na></co>
+<co c="-1"><na f="d/Dahl:Morten" pid="65/1405">Morten Dahl</na></co>
+<co c="0"><na f="d/Davidson:Joy" pid="23/3489">Joy Davidson</na></co>
+<co c="0"><na f="d/Dey:Saumen_C=" pid="25/9884">Saumen C. Dey</na></co>
+<co c="0"><na f="e/Eldardiry:Hoda" pid="51/9923">Hoda Eldardiry</na></co>
+<co c="0"><na f="e/Emrich:Frank" pid="197/9599">Frank Emrich</na></co>
+<co c="-1"><na f="f/Fehrenbach:Stefan" pid="136/7691">Stefan Fehrenbach</na></co>
+<co c="2"><na f="f/Felty:Amy_P=" pid="f/AmyPFelty">Amy P. Felty</na></co>
+<co c="0"><na f="f/Fern=aacute=ndez:Maribel" pid="54/6017">Maribel Fern&#225;ndez</na></co>
+<co c="0"><na f="f/Finkelstein:Anthony" pid="f/AFinkelstein">Anthony Finkelstein</na></co>
+<co c="0"><na f="f/Forbes:Alistair" pid="97/2805">Alistair Forbes</na></co>
+<co c="0"><na f="f/Foster:Nate" pid="15/3253">Nate Foster</na></co>
+<co c="0"><na f="f/Fowler_0001:Simon" pid="08/1840-1">Simon Fowler 0001</na></co>
+<co c="0"><na f="f/Freire:Juliana" pid="f/JulianaFreire">Juliana Freire</na></co>
+<co c="0"><na f="f/Fu:Weili" pid="44/11443">Weili Fu</na></co>
+<co c="0"><na f="f/Fundulaki:Irini" pid="74/6086">Irini Fundulaki</na></co>
+<co c="0" n="2"><na f="g/Gabbay:Murdoch_James" pid="g/MurdochGabbay">Murdoch James Gabbay</na><na>Murdoch Gabbay</na></co>
+<co c="0"><na f="g/Galpin:Vashti" pid="g/VashtiCGalpin">Vashti Galpin</na></co>
+<co c="0"><na f="g/Garg_0001:Deepak" pid="45/6786-1">Deepak Garg 0001</na></co>
+<co c="0"><na f="g/Gasc=oacute=n:Adri=agrave=" pid="90/3256">Adri&#224; Gasc&#243;n</na></co>
+<co c="0"><na f="g/Gehani:Ashish" pid="21/2267">Ashish Gehani</na></co>
+<co c="0"><na f="g/Gibbons:Jeremy" pid="53/1090">Jeremy Gibbons</na></co>
+<co c="0"><na f="g/Gil:Yolanda" pid="88/2686">Yolanda Gil</na></co>
+<co c="0"><na f="g/Gombau:Xavier" pid="267/5578">Xavier Gombau</na></co>
+<co c="0"><na f="g/Griffis:Eric" pid="151/6853">Eric Griffis</na></co>
+<co c="0"><na f="g/Grossman:Dan" pid="g/DanGrossman">Dan Grossman</na></co>
+<co c="0"><na f="g/Groth:Paul" pid="g/PTGroth">Paul Groth</na></co>
+<co c="0"><na f="g/Grust:Torsten" pid="g/TorstenGrust">Torsten Grust</na></co>
+<co c="-1"><na f="h/Halpin:Harry" pid="23/1741">Harry Halpin</na></co>
+<co c="0"><na f="h/Harding:Simon_D=" pid="213/6808">Simon D. Harding</na></co>
+<co c="0" n="2"><na f="h/Hicks_0001:Michael" pid="h/MichaelWHicks">Michael Hicks 0001</na><na>Michael W. Hicks</na></co>
+<co c="0"><na f="h/Hinze:Ralf" pid="h/RalfHinze">Ralf Hinze</na></co>
+<co c="1" n="2"><na f="h/Hoai:Nguyen_Xuan" pid="51/6658">Nguyen Xuan Hoai</na><na>Xuan Hoai Nguyen</na></co>
+<co c="1"><na f="h/Hoang:Tuan_Hao" pid="20/4029">Tuan Hao Hoang</na></co>
+<co c="0"><na f="h/Horn:Rudi" pid="223/4299">Rudi Horn</na></co>
+<co c="0"><na f="h/Huntzinger:Deborah_N=" pid="153/7761">Deborah N. Huntzinger</na></co>
+<co c="0"><na f="i/Irshad:Hassaan" pid="166/4235">Hassaan Irshad</na></co>
+<co c="0"><na f="j/Jim:Trevor" pid="21/2627">Trevor Jim</na></co>
+<co c="0"><na f="j/Jones:Christopher" pid="26/5924">Christopher Jones</na></co>
+<co c="-1"><na f="k/Kavanagh:Ben" pid="356/9042">Ben Kavanagh</na></co>
+<co c="1"><na f="k/Kim_0001:Minhyeok" pid="143/1347-1">Minhyeok Kim 0001</na></co>
+<co c="0"><na f="k/Ko:Hsiang=Shang" pid="60/985">Hsiang-Shang Ko</na></co>
+<co c="0"><na f="k/Kolisnik:Tyler" pid="159/2053">Tyler Kolisnik</na></co>
+<co c="0"><na f="k/Koop:David" pid="54/1720">David Koop</na></co>
+<co c="0"><na f="k/Kostylev:Egor_V=" pid="22/7920">Egor V. Kostylev</na></co>
+<co c="0"><na f="k/Kwasnikowska:Natalia" pid="22/6339">Natalia Kwasnikowska</na></co>
+<co c="4"><na f="l/Lagoze:Carl" pid="l/CarlLagoze">Carl Lagoze</na></co>
+<co c="0"><na f="l/Lebo:Timothy" pid="32/8503">Timothy Lebo</na></co>
+<co c="0"><na f="l/Levy:Paul_Blain" pid="l/PaulBlainLevy">Paul Blain Levy</na></co>
+<co c="0"><na f="l/Lindley:Sam" pid="97/4946">Sam Lindley</na></co>
+<co c="0"><na f="l/Lud=auml=scher:Bertram" pid="l/BertramLudascher">Bertram Lud&#228;scher</na></co>
+<co c="0"><na f="m/Martin_0002:Paul" pid="92/2442-2">Paul Martin 0002</na></co>
+<co c="0"><na f="m/Maxwell:William" pid="223/2693">William Maxwell</na></co>
+<co c="1"><na f="m/McKay:Robert_I=" pid="m/RobertIMcKay">Robert I. McKay</na></co>
+<co c="0"><na f="m/McKinna:James" pid="31/3265">James McKinna</na></co>
+<co c="0"><na f="m/McPhillips:Timothy_M=" pid="17/1047">Timothy M. McPhillips</na></co>
+<co c="5"><na f="m/Mikolajczak:Arek" pid="241/5052">Arek Mikolajczak</na></co>
+<co c="0"><na f="m/Miles:Simon" pid="74/3469">Simon Miles</na></co>
+<co c="0"><na f="m/Missier:Paolo" pid="28/1062">Paolo Missier</na></co>
+<co c="2"><na f="m/Momigliano:Alberto" pid="88/6655">Alberto Momigliano</na></co>
+<co c="0"><na f="m/Mookherjee:Himan" pid="243/3150">Himan Mookherjee</na></co>
+<co c="0"><na f="m/Moreau_0001:Luc" pid="31/5619">Luc Moreau 0001</na></co>
+<co c="1"><na f="m/Mori:Naoki" pid="61/4349">Naoki Mori</na></co>
+<co c="0"><na f="m/Morrisett:J=_Gregory" pid="m/JGMorrisett">J. Gregory Morrisett</na></co>
+<co c="0"><na f="m/M=uuml=ller_0001:Heiko" pid="m/HeikoMuller">Heiko M&#252;ller 0001</na></co>
+<co c="0"><na f="n/Neumann_0001:Thomas" pid="n/ThomasNeumann">Thomas Neumann 0001</na></co>
+<co c="0"><na f="n/Norrish:Michael" pid="10/3457">Michael Norrish</na></co>
+<co c="0" n="2"><na f="p/Pasquier:Thomas" pid="144/4204">Thomas Pasquier</na><na>Thomas F. J.-M. Pasquier</na></co>
+<co c="0"><na f="p/Perera:Roly" pid="27/2651">Roly Perera</na></co>
+<co c="-1"><na f="p/Perri:Simona" pid="80/5264">Simona Perri</na></co>
+<co c="2"><na f="p/Pessina:Matteo" pid="179/2383">Matteo Pessina</na></co>
+<co c="0"><na f="r/Radanne:Gabriel" pid="136/5817">Gabriel Radanne</na></co>
+<co c="0"><na f="r/Rajkumar:Raghu" pid="143/4038">Raghu Rajkumar</na></co>
+<co c="0"><na f="r/Reynders:Bob" pid="152/2930">Bob Reynders</na></co>
+<co c="0"><na f="r/Ricciotti:Wilmer" pid="05/7050">Wilmer Ricciotti</na></co>
+<co c="0"><na f="s/Schildhauer:Mark" pid="80/6547">Mark Schildhauer</na></co>
+<co c="0"><na f="s/Schwalm:Christopher_R=" pid="153/7479">Christopher R. Schwalm</na></co>
+<co c="0"><na f="s/Segovia:Ricardo" pid="116/1415">Ricardo Segovia</na></co>
+<co c="0"><na f="s/Seltzer:Margo_I=" pid="s/MargoISeltzer">Margo I. Seltzer</na></co>
+<co c="0"><na f="s/Sharman:Joanna_L=" pid="26/5013">Joanna L. Sharman</na></co>
+<co c="0"><na f="s/Sohan:Ripduman" pid="01/1718">Ripduman Sohan</na></co>
+<co c="0"><na f="s/Song:Tianhong" pid="129/5627">Tianhong Song</na></co>
+<co c="0"><na f="s/Spinuso:Alessandro" pid="127/6423">Alessandro Spinuso</na></co>
+<co c="0"><na f="s/Stevens:Perdita" pid="s/PerditaStevens">Perdita Stevens</na></co>
+<co c="0"><na f="s/Stolarek:Jan" pid="15/9437">Jan Stolarek</na></co>
+<co c="0" n="2"><na f="t/Tan:Wang_Chiew" pid="t/WangChiewTan">Wang Chiew Tan</na><na>Wang-Chiew Tan</na></co>
+<co c="0"><na f="t/Theriault:Alec" pid="223/2709">Alec Theriault</na></co>
+<co c="0"><na f="u/Urban:Christian" pid="u/ChristianUrban">Christian Urban</na></co>
+<co c="0"><na f="v/Valtchev:Petko" pid="v/PetkoValtchev">Petko Valtchev</na></co>
+<co c="0"><na f="v/Vansummeren:Stijn" pid="28/3797">Stijn Vansummeren</na></co>
+<co c="0"><na f="v/Vestergaard:Ren=eacute=" pid="02/4520">Ren&#233; Vestergaard</na></co>
+<co c="-1"><na f="v/Vidal:Germ=aacute=n" pid="v/GermanVidal">Germ&#225;n Vidal</na></co>
+<co c="0"><na f="v/Vytiniotis:Dimitrios" pid="00/6362">Dimitrios Vytiniotis</na></co>
+<co c="0"><na f="w/Wadler:Philip" pid="w/PhilipWadler">Philip Wadler</na></co>
+<co c="0"><na f="w/Wang:Yanling" pid="89/894">Yanling Wang</na></co>
+<co c="0"><na f="w/Wei:Yaxing" pid="78/5628">Yaxing Wei</na></co>
+<co c="0"><na f="w/Weidmann:Nils" pid="86/438">Nils Weidmann</na></co>
+<co c="0"><na f="w/Weirich:Stephanie" pid="w/StephanieWeirich">Stephanie Weirich</na></co>
+<co c="0"><na f="w/Wright:Ryan" pid="00/10658">Ryan Wright</na></co>
+<co c="5"><na f="w/Wu:Junao" pid="241/5099">Junao Wu</na></co>
+</coauthors>
+</dblpperson>

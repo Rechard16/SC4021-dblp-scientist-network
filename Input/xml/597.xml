@@ -1,0 +1,873 @@
+<dblpperson name="Natacha Crooks" pid="161/0113" n="48">
+<person key="homepages/161/0113" mdate="2022-02-15">
+<author pid="161/0113">Natacha Crooks</author>
+<url>https://nacrooks.github.io/</url>
+<url>https://scholar.google.com/citations?user=Qajl4Z8AAAAJ</url>
+<url>https://dl.acm.org/profile/99658707494</url>
+<url>https://twitter.com/siobhcroo</url>
+<note type="affiliation">UC Berkeley, CA, USA</note>
+</person>
+<r><inproceedings key="conf/cidr/BangPACH24" mdate="2024-04-05">
+<author pid="257/5532">Tiemo Bang</author>
+<author pid="32/7788">Conor Power</author>
+<author pid="176/9026">Siavash Ameli</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Optimizing the cloud? Don't train models. Build oracles!</title>
+<year>2024</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2024/papers/p47-bang.pdf</ee>
+<crossref>conf/cidr/2024</crossref>
+<url>db/conf/cidr/cidr2024.html#BangPACH24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/papoc/ChuLCHH24" mdate="2024-04-17">
+<author pid="373/2161">David C. Y. Chu</author>
+<author pid="15/2127">Chris Liu</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="06/4997">Heidi Howard</author>
+<title>Bigger, not Badder: Safely Scaling BFT Protocols.</title>
+<pages>30-36</pages>
+<year>2024</year>
+<booktitle>PaPoC@EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3642976.3653033</ee>
+<crossref>conf/papoc/2024</crossref>
+<url>db/conf/papoc/papoc2024.html#ChuLCHH24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-10369" mdate="2024-02-02">
+<author pid="182/4795">Neil Giridharan</author>
+<author pid="232/8132">Florian Suri-Payer</author>
+<author pid="36/5720">Ittai Abraham</author>
+<author pid="a/LAlvisi">Lorenzo Alvisi</author>
+<author pid="161/0113">Natacha Crooks</author>
+<title>Motorway: Seamless high speed BFT.</title>
+<year>2024</year>
+<volume>abs/2401.10369</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.10369</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-10369</url>
+</article>
+</r>
+<r><article key="journals/pvldb/WoodersMNLSHCG23" mdate="2024-03-26">
+<author pid="235/2534">Sarah Wooders</author>
+<author pid="232/2059">Xiangxi Mo</author>
+<author pid="371/6111">Amit Narang</author>
+<author pid="69/10883">Kevin Lin</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="61/8262">Joseph E. Gonzalez</author>
+<title>RALF: Accuracy-Aware Scheduling for Feature Store Maintenance.</title>
+<pages>563-576</pages>
+<year>2023</year>
+<month>November</month>
+<volume>17</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol17/p563-wooders.pdf</ee>
+<url>db/journals/pvldb/pvldb17.html#WoodersMNLSHCG23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChengWFCS23" mdate="2024-03-26">
+<author pid="263/3719">Audrey Cheng</author>
+<author pid="256/1560">Jack Waudby</author>
+<author pid="147/5256">Hugo Firth</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<title>Mammoths Are Slow: The Overlooked Transactions of Graph Data.</title>
+<pages>904-911</pages>
+<year>2023</year>
+<month>December</month>
+<volume>17</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol17/p904-cheng.pdf</ee>
+<url>db/journals/pvldb/pvldb17.html#ChengWFCS23</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Crooks23" mdate="2023-10-16">
+<author pid="161/0113">Natacha Crooks</author>
+<title>Efficient Data Sharing across Trust Domains.</title>
+<pages>36-37</pages>
+<year>2023</year>
+<month>June</month>
+<volume>52</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3615952.3615962</ee>
+<url>db/journals/sigmod/sigmod52.html#Crooks23</url>
+</article>
+</r>
+<r><inproceedings key="conf/eurosys/GuptaRPCS23" mdate="2023-05-17">
+<author orcid="0000-0002-3240-1840" pid="136/5662">Suyash Gupta</author>
+<author orcid="0000-0001-8480-0897" pid="252/5735">Sajjad Rahnama</author>
+<author orcid="0009-0000-0445-1229" pid="271/5421">Shubham Pandey</author>
+<author orcid="0000-0002-3567-801X" pid="161/0113">Natacha Crooks</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<title>Dissecting BFT Consensus: In Trusted Components we Trust!</title>
+<pages>521-539</pages>
+<year>2023</year>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3552326.3587455</ee>
+<crossref>conf/eurosys/2023</crossref>
+<url>db/conf/eurosys/eurosys2023.html#GuptaRPCS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurosys/0001SHAC23" mdate="2023-05-17">
+<author orcid="0000-0002-6142-5534" pid="207/1878-1">Matthew Burke 0001</author>
+<author orcid="0000-0003-3948-6725" pid="232/8132">Florian Suri-Payer</author>
+<author orcid="0000-0003-1192-7111" pid="200/8024">Jeffrey Helt</author>
+<author orcid="0000-0002-9857-5528" pid="a/LAlvisi">Lorenzo Alvisi</author>
+<author orcid="0000-0002-3567-801X" pid="161/0113">Natacha Crooks</author>
+<title>Morty: Scaling Concurrency Control with Re-Execution.</title>
+<pages>687-702</pages>
+<year>2023</year>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3552326.3567500</ee>
+<crossref>conf/eurosys/2023</crossref>
+<url>db/conf/eurosys/eurosys2023.html#0001SHAC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nsdi/LuoFCHMRS23" mdate="2023-05-11">
+<author pid="127/3190">Zhihong Luo</author>
+<author pid="176/9039">Silvery Fu</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="47/11303">Shaddi Hasan</author>
+<author pid="83/3053">Christian Maciocco</author>
+<author pid="68/5579">Sylvia Ratnasamy</author>
+<author pid="34/5593">Scott Shenker</author>
+<title>LOCA: A Location-Oblivious Cellular Architecture.</title>
+<pages>1621-1646</pages>
+<year>2023</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi23/presentation/luo</ee>
+<crossref>conf/nsdi/2023</crossref>
+<url>db/conf/nsdi/nsdi2023.html#LuoFCHMRS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/osdi/ChengCLCCHSY23" mdate="2023-07-15">
+<author pid="263/3719">Audrey Cheng</author>
+<author pid="80/2263">David Chu</author>
+<author pid="351/6008">Terrance Li</author>
+<author pid="55/5064">Jason Chan</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<title>Take Out the TraChe: Maximizing (Tra)nsactional Ca(che) Hit Rate.</title>
+<pages>419-439</pages>
+<year>2023</year>
+<booktitle>OSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/osdi23/presentation/cheng</ee>
+<crossref>conf/osdi/2023</crossref>
+<url>db/conf/osdi/osdi2023.html#ChengCLCCHSY23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/GiridharanSDHAC23" mdate="2023-07-07">
+<author orcid="0009-0008-2175-2611" pid="182/4795">Neil Giridharan</author>
+<author orcid="0000-0003-3948-6725" pid="232/8132">Florian Suri-Payer</author>
+<author orcid="0000-0001-7674-0548" pid="276/5834">Matthew Ding</author>
+<author orcid="0000-0001-5256-7664" pid="06/4997">Heidi Howard</author>
+<author orcid="0000-0001-9568-7674" pid="36/5720">Ittai Abraham</author>
+<author orcid="0000-0002-3567-801X" pid="161/0113">Natacha Crooks</author>
+<title>BeeGees: Stayin' Alive in Chained BFT.</title>
+<pages>233-243</pages>
+<year>2023</year>
+<booktitle>PODC</booktitle>
+<ee>https://doi.org/10.1145/3583668.3594572</ee>
+<crossref>conf/podc/2023</crossref>
+<url>db/conf/podc/podc2023.html#GiridharanSDHAC23</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/hotos/2023" mdate="2023-06-23">
+<editor pid="49/7988">Malte Schwarzkopf</editor>
+<editor pid="53/6957">Andrew Baumann</editor>
+<editor pid="161/0113">Natacha Crooks</editor>
+<title>Proceedings of the 19th Workshop on Hot Topics in Operating Systems, HOTOS 2023, Providence, RI, USA, June 22-24, 2023</title>
+<booktitle>HOTOS</booktitle>
+<publisher>ACM</publisher>
+<year>2023</year>
+<ee>https://doi.org/10.1145/3593856?af=R</ee>
+<url>db/conf/hotos/hotos2023.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2308-06815" mdate="2023-08-23">
+<author pid="257/5532">Tiemo Bang</author>
+<author pid="32/7788">Conor Power</author>
+<author pid="176/9026">Siavash Ameli</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Optimizing the cloud? Don't train models. Build oracles!</title>
+<year>2023</year>
+<volume>abs/2308.06815</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2308.06815</ee>
+<url>db/journals/corr/corr2308.html#abs-2308-06815</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-11029" mdate="2024-01-16">
+<author pid="223/4336">Reginald Frank</author>
+<author pid="358/2671">Micah Murray</author>
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="365/4247">Ethan Xu</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="23/6695">Manos Kapritsos</author>
+<title>Picsou: Enabling Efficient Cross-Consensus Communication.</title>
+<year>2023</year>
+<volume>abs/2312.11029</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.11029</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-11029</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChengSKLQCTZBBB22" mdate="2023-10-23">
+<author pid="263/3719">Audrey Cheng</author>
+<author pid="179/9306">Xiao Shi</author>
+<author pid="325/0062">Aaron N. Kabcenell</author>
+<author pid="82/2188">Shilpa Lawande</author>
+<author pid="244/8814">Hamza Qadeer</author>
+<author pid="55/5064">Jason Chan</author>
+<author pid="325/0364">Harrison Tin</author>
+<author pid="71/5850">Ryan Zhao</author>
+<author pid="47/8816">Peter Bailis</author>
+<author pid="b/MBalakrishnan">Mahesh Balakrishnan 0001</author>
+<author pid="53/3628">Nathan Bronson</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<title>TAOBench: An End-to-End Benchmark for Social Networking Workloads.</title>
+<pages>1965-1977</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p1965-cheng.pdf</ee>
+<ee>https://doi.org/10.14778/3538598.3538616</ee>
+<url>db/journals/pvldb/pvldb15.html#ChengSKLQCTZBBB22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LaddadPMCCH22" mdate="2023-11-12">
+<author pid="280/8310">Shadaj Laddad</author>
+<author pid="32/7788">Conor Power</author>
+<author pid="321/0647">Mae Milano</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Keep CALM and CRDT On.</title>
+<pages>856-863</pages>
+<year>2022</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p856-power.pdf</ee>
+<ee>https://doi.org/10.14778/3574245.3574268</ee>
+<url>db/journals/pvldb/pvldb16.html#LaddadPMCCH22</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsn/GiantsidiBCB22" mdate="2022-07-29">
+<author pid="245/6130">Dimitra Giantsidi</author>
+<author pid="237/0900">Maurice Bailleu</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="35/8319">Pramod Bhatotia</author>
+<title>Treaty: Secure Distributed Transactions.</title>
+<pages>14-27</pages>
+<year>2022</year>
+<booktitle>DSN</booktitle>
+<ee>https://doi.org/10.1109/DSN53405.2022.00015</ee>
+<crossref>conf/dsn/2022</crossref>
+<url>db/conf/dsn/dsn2022.html#GiantsidiBCB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hotnets/DautermanFCP22" mdate="2022-11-17">
+<author pid="228/8084">Emma Dauterman</author>
+<author pid="276/2386">Vivian Fang</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Reflections on trusting distributed trust.</title>
+<pages>38-45</pages>
+<year>2022</year>
+<booktitle>HotNets</booktitle>
+<ee>https://doi.org/10.1145/3563766.3564089</ee>
+<crossref>conf/hotnets/2022</crossref>
+<url>db/conf/hotnets/hotnets2022.html#DautermanFCP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/AbrahamCGHS22" mdate="2022-10-17">
+<author pid="36/5720">Ittai Abraham</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="182/4795">Neil Giridharan</author>
+<author pid="06/4997">Heidi Howard</author>
+<author pid="232/8132">Florian Suri-Payer</author>
+<title>Brief Announcement: It's not easy to relax: liveness in chained BFT protocols.</title>
+<pages>39:1-39:3</pages>
+<year>2022</year>
+<booktitle>DISC</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.DISC.2022.39</ee>
+<crossref>conf/wdag/2022</crossref>
+<url>db/conf/wdag/disc2022.html#AbrahamCGHS22</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/fab/2022" mdate="2022-09-26">
+<editor orcid="0000-0001-9738-9021" pid="p/SaraTucciPiergiovanni">Sara Tucci Piergiovanni</editor>
+<editor pid="161/0113">Natacha Crooks</editor>
+<title>5th International Symposium on Foundations and Applications of Blockchain 2022, FAB 2022, June 3, 2022, Berkeley, CA, USA.</title>
+<booktitle>FAB</booktitle>
+<publisher>Schloss Dagstuhl - Leibniz-Zentrum f&#252;r Informatik</publisher>
+<year>2022</year>
+<series href="db/series/oasics/index.html">OASIcs</series>
+<volume>101</volume>
+<isbn>978-3-95977-248-8</isbn>
+<ee>https://www.dagstuhl.de/dagpub/978-3-95977-248-8</ee>
+<url>db/conf/fab/fab2022.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2202-01354" mdate="2022-02-09">
+<author pid="136/5662">Suyash Gupta</author>
+<author pid="252/5735">Sajjad Rahnama</author>
+<author pid="271/5421">Shubham Pandey</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>Dissecting BFT Consensus: In Trusted Components we Trust!</title>
+<year>2022</year>
+<volume>abs/2202.01354</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2202.01354</ee>
+<url>db/journals/corr/corr2202.html#abs-2202-01354</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-07147" mdate="2023-11-12">
+<author pid="76/10322">Sarah E. Chasins</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="71/4226-2">Ali Ghodsi 0002</author>
+<author orcid="0000-0002-2661-4524" pid="g/KennethYGoldberg">Ken Goldberg</author>
+<author orcid="0000-0003-2921-956X" pid="61/8262">Joseph E. Gonzalez</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="j/MichaelIJordan">Michael I. Jordan</author>
+<author pid="30/2317">Anthony D. Joseph</author>
+<author pid="10/6978">Michael W. Mahoney</author>
+<author orcid="0000-0002-4538-4752" pid="40/7459">Aditya G. Parameswaran</author>
+<author pid="p/DAPatterson">David A. Patterson 0001</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="04/418">Koushik Sen</author>
+<author pid="34/5593">Scott Shenker</author>
+<author pid="s/DXSong">Dawn Song</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<title>The Sky Above The Clouds.</title>
+<year>2022</year>
+<volume>abs/2205.07147</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.07147</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-07147</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-10929" mdate="2023-10-25">
+<author pid="77/2224">Alain Tchana</author>
+<author pid="355/0933">Rapha&#235;l Colin</author>
+<author pid="321/3136">Adrien Le Berre</author>
+<author pid="321/0879">Vincent Berger</author>
+<author pid="24/757">Beno&#238;t Combemale</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="321/0768">Ludovic Pailler</author>
+<title>rgpdOS: GDPR Enforcement By The Operating System.</title>
+<year>2022</year>
+<volume>abs/2205.10929</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.10929</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-10929</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-11652" mdate="2022-05-30">
+<author pid="36/5720">Ittai Abraham</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="182/4795">Neil Giridharan</author>
+<author pid="06/4997">Heidi Howard</author>
+<author pid="232/8132">Florian Suri-Payer</author>
+<title>It's not easy to relax: liveness in chained BFT protocols.</title>
+<year>2022</year>
+<volume>abs/2205.11652</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.11652</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-11652</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-08127" mdate="2022-10-18">
+<author pid="228/8084">Emma Dauterman</author>
+<author pid="276/2386">Vivian Fang</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Reflections on trusting distributed trust.</title>
+<year>2022</year>
+<volume>abs/2210.08127</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.08127</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-08127</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-12605" mdate="2023-11-12">
+<author pid="280/8310">Shadaj Laddad</author>
+<author pid="32/7788">Conor Power</author>
+<author pid="321/0647">Mae Milano</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Keep CALM and CRDT On.</title>
+<year>2022</year>
+<volume>abs/2210.12605</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.12605</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-12605</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChengSPSWLBBCS21" mdate="2022-04-21">
+<author pid="263/3719">Audrey Cheng</author>
+<author pid="179/9306">Xiao Shi</author>
+<author pid="67/8970">Lu Pan</author>
+<author pid="222/9619">Anthony Simpson</author>
+<author pid="300/4488">Neil Wheaton</author>
+<author pid="82/2188">Shilpa Lawande</author>
+<author pid="53/3628">Nathan Bronson</author>
+<author pid="47/8816">Peter Bailis</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<title>RAMP-TAO: Layering Atomic Transactions on Facebook's Online TAO Data Store.</title>
+<pages>3014-3027</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p3014-cheng.pdf</ee>
+<ee>https://doi.org/10.14778/3476311.3476379</ee>
+<url>db/journals/pvldb/pvldb14.html#ChengSPSWLBBCS21</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/CheungCHM21" mdate="2022-10-25">
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="321/0647">Mae Milano</author>
+<title>New Directions in Cloud Programming.</title>
+<year>2021</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2021/papers/cidr2021_paper16.pdf</ee>
+<crossref>conf/cidr/2021</crossref>
+<url>db/conf/cidr/cidr2021.html#CheungCHM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Crooks21" mdate="2021-06-21">
+<author pid="161/0113">Natacha Crooks</author>
+<title>A Client-centric Approach to Transactional Datastores.</title>
+<pages>3-5</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3461471</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#Crooks21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sosp/Suri-Payer0WZAC21" mdate="2022-12-07">
+<author pid="232/8132">Florian Suri-Payer</author>
+<author orcid="0000-0002-6142-5534" pid="207/1878-1">Matthew Burke 0001</author>
+<author pid="181/2834">Zheng Wang</author>
+<author pid="10/2569">Yunhao Zhang</author>
+<author pid="a/LAlvisi">Lorenzo Alvisi</author>
+<author pid="161/0113">Natacha Crooks</author>
+<title>Basil: Breaking up BFT with ACID (transactions).</title>
+<pages>1-17</pages>
+<year>2021</year>
+<booktitle>SOSP</booktitle>
+<ee>https://doi.org/10.1145/3477132.3483552</ee>
+<crossref>conf/sosp/2021</crossref>
+<url>db/conf/sosp/sosp2021.html#Suri-Payer0WZAC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sosp/DautermanFDCP21" mdate="2021-10-21">
+<author pid="228/8084">Emma Dauterman</author>
+<author pid="276/2386">Vivian Fang</author>
+<author pid="181/5758">Ioannis Demertzis</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Snoopy: Surpassing the Scalability Bottleneck of Oblivious Storage.</title>
+<pages>655-671</pages>
+<year>2021</year>
+<booktitle>SOSP</booktitle>
+<ee>https://doi.org/10.1145/3477132.3483562</ee>
+<crossref>conf/sosp/2021</crossref>
+<url>db/conf/sosp/sosp2021.html#DautermanFDCP21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-01159" mdate="2022-10-25">
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="321/0647">Mae Milano</author>
+<title>New Directions in Cloud Programming.</title>
+<year>2021</year>
+<volume>abs/2101.01159</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.01159</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-01159</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2109-12443" mdate="2021-10-04">
+<author pid="232/8132">Florian Suri-Payer</author>
+<author pid="207/1878-1">Matthew Burke 0001</author>
+<author pid="181/2834">Zheng Wang</author>
+<author pid="10/2569">Yunhao Zhang</author>
+<author pid="a/LAlvisi">Lorenzo Alvisi</author>
+<author pid="161/0113">Natacha Crooks</author>
+<title>Basil: Breaking up BFT with ACID (transactions).</title>
+<year>2021</year>
+<volume>abs/2109.12443</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2109.12443</ee>
+<url>db/journals/corr/corr2109.html#abs-2109-12443</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/DautermanFDCP21" mdate="2021-10-25">
+<author pid="228/8084">Emma Dauterman</author>
+<author pid="276/2386">Vivian Fang</author>
+<author pid="181/5758">Ioannis Demertzis</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Snoopy: Surpassing the Scalability Bottleneck of Oblivious Storage.</title>
+<pages>1280</pages>
+<year>2021</year>
+<volume>2021</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2021/1280</ee>
+<url>db/journals/iacr/iacr2021.html#DautermanFDCP21</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/GiridharanHACT21" mdate="2021-10-25">
+<author pid="182/4795">Neil Giridharan</author>
+<author pid="06/4997">Heidi Howard</author>
+<author pid="36/5720">Ittai Abraham</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="119/7737">Alin Tomescu</author>
+<title>No-Commit Proofs: Defeating Livelock in BFT.</title>
+<pages>1308</pages>
+<year>2021</year>
+<volume>2021</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2021/1308</ee>
+<url>db/journals/iacr/iacr2021.html#GiridharanHACT21</url>
+</article>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/bdt/Crooks19" mdate="2019-02-14">
+<author pid="161/0113">Natacha Crooks</author>
+<title>TARDiS: A Branch-and-Merge Approach to Weak Consistency.</title>
+<year>2019</year>
+<booktitle>Encyclopedia of Big Data Technologies</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-63962-8_160-1</ee>
+<crossref>reference/bdt/2019</crossref>
+<url>db/reference/bdt/1.html#Crooks19</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/osdi/Crooks0CHAA18" mdate="2021-02-02">
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="207/1878-1">Matthew Burke 0001</author>
+<author pid="177/2245">Ethan Cecchetti</author>
+<author pid="227/2811">Sitar Harel</author>
+<author pid="41/5447-1">Rachit Agarwal 0001</author>
+<author pid="a/LAlvisi">Lorenzo Alvisi</author>
+<title>Obladi: Oblivious Serializable Transactions in the Cloud.</title>
+<pages>727-743</pages>
+<year>2018</year>
+<booktitle>OSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/osdi18/presentation/crooks</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3291222</ee>
+<crossref>conf/osdi/2018</crossref>
+<url>db/conf/osdi/osdi2018.html#Crooks0CHAA18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-10559" mdate="2021-10-14">
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="207/1878-1">Matthew Burke 0001</author>
+<author orcid="0000-0001-7900-8328" pid="177/2245">Ethan Cecchetti</author>
+<author pid="227/2811">Sitar Harel</author>
+<author pid="41/5447-1">Rachit Agarwal 0001</author>
+<author pid="a/LAlvisi">Lorenzo Alvisi</author>
+<title>Obladi: Oblivious Serializable Transactions in the Cloud.</title>
+<year>2018</year>
+<volume>abs/1809.10559</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.10559</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-10559</url>
+</article>
+</r>
+<r><article key="journals/debu/AlvisiCM17" mdate="2020-03-10">
+<author pid="a/LAlvisi">Lorenzo Alvisi</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="96/10928">Syed Akbar Mehdi</author>
+<title>Writes: the dirty secret of causal consistency.</title>
+<pages>15-25</pages>
+<year>2017</year>
+<volume>40</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A17dec/p15.pdf</ee>
+<url>db/journals/debu/debu40.html#AlvisiCM17</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/BernsteinBBCFKK17" mdate="2021-02-17">
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="84/1935">Sebastian Burckhardt</author>
+<author pid="127/9192">Sergey Bykov</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="70/2810">Gabriel Kliot</author>
+<author pid="207/6553">Alok Kumbhare</author>
+<author pid="53/7891">Muntasir Raihan Rahman</author>
+<author pid="93/932-1">Vivek Shah 0001</author>
+<author pid="69/9867">Adriana Szekeres</author>
+<author orcid="0000-0003-0602-8939" pid="127/9189">Jorgen Thelin</author>
+<title>Geo-distribution of actor-based services.</title>
+<pages>107:1-107:26</pages>
+<year>2017</year>
+<volume>1</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>OOPSLA</number>
+<ee type="oa">https://doi.org/10.1145/3133931</ee>
+<url>db/journals/pacmpl/pacmpl1.html#BernsteinBBCFKK17</url>
+</article>
+</r>
+<r><inproceedings key="conf/nsdi/MehdiLCABL17" mdate="2021-02-02">
+<author pid="96/10928">Syed Akbar Mehdi</author>
+<author pid="142/3140">Cody Littley</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="a/LAlvisi">Lorenzo Alvisi</author>
+<author pid="53/3628">Nathan Bronson</author>
+<author pid="21/1059">Wyatt Lloyd</author>
+<title>I Can't Believe It's Not Causal! Scalable Causal Consistency with No Slowdown Cascades.</title>
+<pages>453-468</pages>
+<year>2017</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/mehdi</ee>
+<crossref>conf/nsdi/2017</crossref>
+<url>db/conf/nsdi/nsdi2017.html#MehdiLCABL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/CrooksPAC17" mdate="2018-11-06">
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="181/5698">Youer Pu</author>
+<author pid="a/LAlvisi">Lorenzo Alvisi</author>
+<author pid="17/597">Allen Clement</author>
+<title>Seeing is Believing: A Client-Centric Specification of Database Isolation.</title>
+<pages>73-82</pages>
+<year>2017</year>
+<booktitle>PODC</booktitle>
+<ee>https://doi.org/10.1145/3087801.3087802</ee>
+<crossref>conf/podc/2017</crossref>
+<url>db/conf/podc/podc2017.html#CrooksPAC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SuCDAX17" mdate="2020-04-02">
+<author pid="18/10537">Chunzhi Su</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="50/7680-1">Cong Ding 0001</author>
+<author pid="a/LAlvisi">Lorenzo Alvisi</author>
+<author pid="04/5576">Chao Xie</author>
+<title>Bringing Modular Concurrency Control to the Next Level.</title>
+<pages>283-297</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3064031</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#SuCDAX17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nsdi/GuptaCMSAW16" mdate="2021-02-02">
+<author pid="20/7539">Trinabh Gupta</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="197/7120">Whitney Mulhern</author>
+<author pid="68/8463">Srinath T. V. Setty</author>
+<author pid="a/LAlvisi">Lorenzo Alvisi</author>
+<author pid="00/2879">Michael Walfish</author>
+<title>Scalable and Private Media Consumption with Popcorn.</title>
+<pages>91-107</pages>
+<year>2016</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/gupta-trinabh</ee>
+<crossref>conf/nsdi/2016</crossref>
+<url>db/conf/nsdi/nsdi2016.html#GuptaCMSAW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/CrooksPEGAC16" mdate="2018-11-06">
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="181/5698">Youer Pu</author>
+<author pid="181/5706">Nancy Estrada</author>
+<author pid="20/7539">Trinabh Gupta</author>
+<author pid="a/LAlvisi">Lorenzo Alvisi</author>
+<author pid="17/597">Allen Clement</author>
+<title>TARDiS: A Branch-and-Merge Approach To Weak Consistency.</title>
+<pages>1615-1628</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2882951</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#CrooksPEGAC16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/CrooksPAC16" mdate="2018-08-13">
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="181/5698">Youer Pu</author>
+<author pid="a/LAlvisi">Lorenzo Alvisi</author>
+<author pid="17/597">Allen Clement</author>
+<title>Seeing is Believing: A Unified Model for Consistency and Isolation via States.</title>
+<year>2016</year>
+<volume>abs/1609.06670</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1609.06670</ee>
+<url>db/journals/corr/corr1609.html#CrooksPAC16</url>
+</article>
+</r>
+<r><inproceedings key="conf/eurosys/GogSCGCH15" mdate="2022-12-20">
+<author pid="161/0169">Ionel Gog</author>
+<author pid="49/7988">Malte Schwarzkopf</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="117/4261">Matthew P. Grosvenor</author>
+<author pid="17/597">Allen Clement</author>
+<author pid="69/6457">Steven Hand 0001</author>
+<title>Musketeer: all for one, one for all in data processing systems.</title>
+<pages>2:1-2:16</pages>
+<year>2015</year>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/2741948.2741968</ee>
+<crossref>conf/eurosys/2015</crossref>
+<url>db/conf/eurosys/eurosys2015.html#GogSCGCH15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/GuptaCSAW15" mdate="2020-05-11">
+<author pid="20/7539">Trinabh Gupta</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="68/8463">Srinath T. V. Setty</author>
+<author pid="a/LAlvisi">Lorenzo Alvisi</author>
+<author pid="00/2879">Michael Walfish</author>
+<title>Scalable and private media consumption with Popcorn.</title>
+<pages>489</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/489</ee>
+<url>db/journals/iacr/iacr2015.html#GuptaCSAW15</url>
+</article>
+</r>
+<coauthors n="114" nc="2">
+<co c="0"><na f="a/Abraham:Ittai" pid="36/5720">Ittai Abraham</na></co>
+<co c="0"><na f="a/Agarwal_0001:Rachit" pid="41/5447-1">Rachit Agarwal 0001</na></co>
+<co c="0"><na f="a/Alvisi:Lorenzo" pid="a/LAlvisi">Lorenzo Alvisi</na></co>
+<co c="0"><na f="a/Ameli:Siavash" pid="176/9026">Siavash Ameli</na></co>
+<co c="0"><na f="b/Bailis:Peter" pid="47/8816">Peter Bailis</na></co>
+<co c="0"><na f="b/Bailleu:Maurice" pid="237/0900">Maurice Bailleu</na></co>
+<co c="0"><na f="b/Balakrishnan_0001:Mahesh" pid="b/MBalakrishnan">Mahesh Balakrishnan 0001</na></co>
+<co c="0"><na f="b/Bang:Tiemo" pid="257/5532">Tiemo Bang</na></co>
+<co c="0"><na f="b/Baumann:Andrew" pid="53/6957">Andrew Baumann</na></co>
+<co c="1"><na f="b/Berger:Vincent" pid="321/0879">Vincent Berger</na></co>
+<co c="0"><na f="b/Bernstein:Philip_A=" pid="b/PhilipABernstein">Philip A. Bernstein</na></co>
+<co c="1"><na f="b/Berre:Adrien_Le" pid="321/3136">Adrien Le Berre</na></co>
+<co c="0"><na f="b/Bhatotia:Pramod" pid="35/8319">Pramod Bhatotia</na></co>
+<co c="0"><na f="b/Bronson:Nathan" pid="53/3628">Nathan Bronson</na></co>
+<co c="0"><na f="b/Burckhardt:Sebastian" pid="84/1935">Sebastian Burckhardt</na></co>
+<co c="0"><na f="b/Burke_0001:Matthew" pid="207/1878-1">Matthew Burke 0001</na></co>
+<co c="0"><na f="b/Bykov:Sergey" pid="127/9192">Sergey Bykov</na></co>
+<co c="0"><na f="c/Cecchetti:Ethan" pid="177/2245">Ethan Cecchetti</na></co>
+<co c="0"><na f="c/Chan:Jason" pid="55/5064">Jason Chan</na></co>
+<co c="0"><na f="c/Chasins:Sarah_E=" pid="76/10322">Sarah E. Chasins</na></co>
+<co c="0"><na f="c/Cheng:Audrey" pid="263/3719">Audrey Cheng</na></co>
+<co c="0"><na f="c/Cheung:Alvin" pid="16/4915">Alvin Cheung</na></co>
+<co c="0"><na f="c/Chu:David" pid="80/2263">David Chu</na></co>
+<co c="0"><na f="c/Chu:David_C=_Y=" pid="373/2161">David C. Y. Chu</na></co>
+<co c="0"><na f="c/Clement:Allen" pid="17/597">Allen Clement</na></co>
+<co c="1"><na f="c/Colin:Rapha=euml=l" pid="355/0933">Rapha&#235;l Colin</na></co>
+<co c="1"><na f="c/Combemale:Beno=icirc=t" pid="24/757">Beno&#238;t Combemale</na></co>
+<co c="0"><na f="d/Dauterman:Emma" pid="228/8084">Emma Dauterman</na></co>
+<co c="0"><na f="d/Demertzis:Ioannis" pid="181/5758">Ioannis Demertzis</na></co>
+<co c="0"><na f="d/Ding_0001:Cong" pid="50/7680-1">Cong Ding 0001</na></co>
+<co c="0"><na f="d/Ding:Matthew" pid="276/5834">Matthew Ding</na></co>
+<co c="0"><na f="e/Estrada:Nancy" pid="181/5706">Nancy Estrada</na></co>
+<co c="0"><na f="f/Faleiro:Jose_M=" pid="147/1195">Jose M. Faleiro</na></co>
+<co c="0"><na f="f/Fang:Vivian" pid="276/2386">Vivian Fang</na></co>
+<co c="0"><na f="f/Firth:Hugo" pid="147/5256">Hugo Firth</na></co>
+<co c="0"><na f="f/Frank:Reginald" pid="223/4336">Reginald Frank</na></co>
+<co c="0"><na f="f/Fu:Silvery" pid="176/9039">Silvery Fu</na></co>
+<co c="0"><na f="g/Ghodsi_0002:Ali" pid="71/4226-2">Ali Ghodsi 0002</na></co>
+<co c="0"><na f="g/Giantsidi:Dimitra" pid="245/6130">Dimitra Giantsidi</na></co>
+<co c="0"><na f="g/Giridharan:Neil" pid="182/4795">Neil Giridharan</na></co>
+<co c="0"><na f="g/Gog:Ionel" pid="161/0169">Ionel Gog</na></co>
+<co c="0" n="2"><na f="g/Goldberg:Kenneth_Y=" pid="g/KennethYGoldberg">Kenneth Y. Goldberg</na><na>Ken Goldberg</na></co>
+<co c="0" n="2"><na f="g/Gonzalez_0001:Joseph" pid="61/8262">Joseph Gonzalez 0001</na><na>Joseph E. Gonzalez</na></co>
+<co c="0"><na f="g/Grosvenor:Matthew_P=" pid="117/4261">Matthew P. Grosvenor</na></co>
+<co c="0"><na f="g/Gupta:Suyash" pid="136/5662">Suyash Gupta</na></co>
+<co c="0"><na f="g/Gupta:Trinabh" pid="20/7539">Trinabh Gupta</na></co>
+<co c="0"><na f="h/Hand_0001:Steven" pid="69/6457">Steven Hand 0001</na></co>
+<co c="0"><na f="h/Harel:Sitar" pid="227/2811">Sitar Harel</na></co>
+<co c="0"><na f="h/Hasan:Shaddi" pid="47/11303">Shaddi Hasan</na></co>
+<co c="0"><na f="h/Hellerstein:Joseph_M=" pid="h/JosephMHellerstein">Joseph M. Hellerstein</na></co>
+<co c="0"><na f="h/Helt:Jeffrey" pid="200/8024">Jeffrey Helt</na></co>
+<co c="0"><na f="h/Howard:Heidi" pid="06/4997">Heidi Howard</na></co>
+<co c="0"><na f="j/Jordan:Michael_I=" pid="j/MichaelIJordan">Michael I. Jordan</na></co>
+<co c="0"><na f="j/Joseph:Anthony_D=" pid="30/2317">Anthony D. Joseph</na></co>
+<co c="0"><na f="k/Kabcenell:Aaron_N=" pid="325/0062">Aaron N. Kabcenell</na></co>
+<co c="0"><na f="k/Kapritsos:Manos" pid="23/6695">Manos Kapritsos</na></co>
+<co c="0"><na f="k/Kliot:Gabriel" pid="70/2810">Gabriel Kliot</na></co>
+<co c="0"><na f="k/Kumbhare:Alok" pid="207/6553">Alok Kumbhare</na></co>
+<co c="0"><na f="l/Laddad:Shadaj" pid="280/8310">Shadaj Laddad</na></co>
+<co c="0"><na f="l/Lawande:Shilpa" pid="82/2188">Shilpa Lawande</na></co>
+<co c="0"><na f="l/Li:Terrance" pid="351/6008">Terrance Li</na></co>
+<co c="0"><na f="l/Lin:Kevin" pid="69/10883">Kevin Lin</na></co>
+<co c="0"><na f="l/Littley:Cody" pid="142/3140">Cody Littley</na></co>
+<co c="0"><na f="l/Liu:Chris" pid="15/2127">Chris Liu</na></co>
+<co c="0"><na f="l/Lloyd:Wyatt" pid="21/1059">Wyatt Lloyd</na></co>
+<co c="0"><na f="l/Luo:Zhihong" pid="127/3190">Zhihong Luo</na></co>
+<co c="0"><na f="m/Maciocco:Christian" pid="83/3053">Christian Maciocco</na></co>
+<co c="0"><na f="m/Mahoney:Michael_W=" pid="10/6978">Michael W. Mahoney</na></co>
+<co c="0"><na f="m/Mehdi:Syed_Akbar" pid="96/10928">Syed Akbar Mehdi</na></co>
+<co c="0"><na f="m/Milano:Mae" pid="321/0647">Mae Milano</na></co>
+<co c="0"><na f="m/Mo:Xiangxi" pid="232/2059">Xiangxi Mo</na></co>
+<co c="0"><na f="m/Mulhern:Whitney" pid="197/7120">Whitney Mulhern</na></co>
+<co c="0"><na f="m/Murray:Micah" pid="358/2671">Micah Murray</na></co>
+<co c="0"><na f="n/Narang:Amit" pid="371/6111">Amit Narang</na></co>
+<co c="1"><na f="p/Pailler:Ludovic" pid="321/0768">Ludovic Pailler</na></co>
+<co c="0"><na f="p/Pan:Lu" pid="67/8970">Lu Pan</na></co>
+<co c="0"><na f="p/Pandey:Shubham" pid="271/5421">Shubham Pandey</na></co>
+<co c="0"><na f="p/Parameswaran:Aditya_G=" pid="40/7459">Aditya G. Parameswaran</na></co>
+<co c="0"><na f="p/Patterson_0001:David_A=" pid="p/DAPatterson">David A. Patterson 0001</na></co>
+<co c="-1"><na f="p/Piergiovanni:Sara_Tucci" pid="p/SaraTucciPiergiovanni" bibtex="Sara {Tucci Piergiovanni}">Sara Tucci Piergiovanni</na></co>
+<co c="0" n="2"><na f="p/Popa:Raluca_A=" pid="91/275">Raluca A. Popa</na><na>Raluca Ada Popa</na></co>
+<co c="0"><na f="p/Power:Conor" pid="32/7788">Conor Power</na></co>
+<co c="0"><na f="p/Pu:Youer" pid="181/5698">Youer Pu</na></co>
+<co c="0"><na f="q/Qadeer:Hamza" pid="244/8814">Hamza Qadeer</na></co>
+<co c="0"><na f="r/Rahman:Muntasir_Raihan" pid="53/7891">Muntasir Raihan Rahman</na></co>
+<co c="0"><na f="r/Rahnama:Sajjad" pid="252/5735">Sajjad Rahnama</na></co>
+<co c="0"><na f="r/Ratnasamy:Sylvia" pid="68/5579">Sylvia Ratnasamy</na></co>
+<co c="0"><na f="s/Sadoghi:Mohammad" pid="56/7016">Mohammad Sadoghi</na></co>
+<co c="0"><na f="s/Schwarzkopf:Malte" pid="49/7988">Malte Schwarzkopf</na></co>
+<co c="0"><na f="s/Sen:Koushik" pid="04/418">Koushik Sen</na></co>
+<co c="0"><na f="s/Setty:Srinath_T=_V=" pid="68/8463">Srinath T. V. Setty</na></co>
+<co c="0"><na f="s/Shah_0001:Vivek" pid="93/932-1">Vivek Shah 0001</na></co>
+<co c="0"><na f="s/Shenker:Scott" pid="34/5593">Scott Shenker</na></co>
+<co c="0"><na f="s/Shi:Xiao" pid="179/9306">Xiao Shi</na></co>
+<co c="0"><na f="s/Simpson:Anthony" pid="222/9619">Anthony Simpson</na></co>
+<co c="0"><na f="s/Song:Dawn" pid="s/DXSong">Dawn Song</na></co>
+<co c="0"><na f="s/Stoica:Ion" pid="s/IonStoica">Ion Stoica</na></co>
+<co c="0"><na f="s/Su:Chunzhi" pid="18/10537">Chunzhi Su</na></co>
+<co c="0"><na f="s/Suri=Payer:Florian" pid="232/8132">Florian Suri-Payer</na></co>
+<co c="0"><na f="s/Szekeres:Adriana" pid="69/9867">Adriana Szekeres</na></co>
+<co c="1"><na f="t/Tchana:Alain" pid="77/2224">Alain Tchana</na></co>
+<co c="0"><na f="t/Thelin:Jorgen" pid="127/9189">Jorgen Thelin</na></co>
+<co c="0"><na f="t/Tin:Harrison" pid="325/0364">Harrison Tin</na></co>
+<co c="0"><na f="t/Tomescu:Alin" pid="119/7737">Alin Tomescu</na></co>
+<co c="0"><na f="w/Walfish:Michael" pid="00/2879">Michael Walfish</na></co>
+<co c="0"><na f="w/Wang:Zheng" pid="181/2834">Zheng Wang</na></co>
+<co c="0"><na f="w/Waudby:Jack" pid="256/1560">Jack Waudby</na></co>
+<co c="0"><na f="w/Wheaton:Neil" pid="300/4488">Neil Wheaton</na></co>
+<co c="0"><na f="w/Wooders:Sarah" pid="235/2534">Sarah Wooders</na></co>
+<co c="0"><na f="x/Xie:Chao" pid="04/5576">Chao Xie</na></co>
+<co c="0"><na f="x/Xu:Ethan" pid="365/4247">Ethan Xu</na></co>
+<co c="0"><na f="y/Yu:Xiangyao" pid="126/6015">Xiangyao Yu</na></co>
+<co c="0"><na f="z/Zhang:Yunhao" pid="10/2569">Yunhao Zhang</na></co>
+<co c="0"><na f="z/Zhao:Ryan" pid="71/5850">Ryan Zhao</na></co>
+</coauthors>
+</dblpperson>

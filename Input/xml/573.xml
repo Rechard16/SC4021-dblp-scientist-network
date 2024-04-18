@@ -1,0 +1,1506 @@
+<dblpperson name="Mirek Riedewald" pid="r/MirekRiedewald" n="92">
+<person key="homepages/r/MirekRiedewald" mdate="2022-05-05">
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<note type="affiliation">Northeastern University, Boston, USA</note>
+<url>http://www.ccs.neu.edu/home/mirek/</url>
+<url>https://dl.acm.org/profile/81100207912</url>
+<url>https://orcid.org/0000-0002-6102-7472</url>
+</person>
+<r><article key="journals/pacmmod/KhatiwadaFSCGMR23" mdate="2023-06-15">
+<author orcid="0000-0001-5720-1207" pid="330/3045">Aamod Khatiwada</author>
+<author orcid="0000-0001-9020-3642" pid="146/8297">Grace Fan</author>
+<author orcid="0000-0001-8803-8481" pid="200/9072">Roee Shraga</author>
+<author orcid="0000-0003-2872-1865" pid="200/0201">Zixuan Chen</author>
+<author orcid="0000-0002-9614-0504" pid="36/5673">Wolfgang Gatterbauer</author>
+<author orcid="0000-0002-1484-4787" pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author orcid="0000-0002-6102-7472" pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>SANTOS: Relationship-based Semantic Table Union Search.</title>
+<pages>9:1-9:25</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3588689</ee>
+<url>db/journals/pacmmod/pacmmod1.html#KhatiwadaFSCGMR23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChenMR23" mdate="2023-10-23">
+<author pid="200/0201">Zixuan Chen</author>
+<author pid="40/4888">Panagiotis Manolios</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Why Not Yet: Fixing a Top-k Ranking that Is Not Fair to Individuals.</title>
+<pages>2377-2390</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p2377-chen.pdf</ee>
+<ee>https://doi.org/10.14778/3598581.3598606</ee>
+<url>db/journals/pvldb/pvldb16.html#ChenMR23</url>
+</article>
+</r>
+<r><article key="journals/tods/CarmeliTGKR23" mdate="2023-05-17">
+<author orcid="0000-0003-0673-5510" pid="179/2145">Nofar Carmeli</author>
+<author orcid="0000-0001-8342-2177" pid="254/0972">Nikolaos Tziavelis</author>
+<author orcid="0000-0002-9614-0504" pid="36/5673">Wolfgang Gatterbauer</author>
+<author orcid="0000-0002-7156-1572" pid="74/3195">Benny Kimelfeld</author>
+<author orcid="0000-0002-6102-7472" pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Tractable Orders for Direct Access to Ranked Answers of Conjunctive Queries.</title>
+<pages>1:1-1:45</pages>
+<year>2023</year>
+<month>March</month>
+<volume>48</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3578517</ee>
+<url>db/journals/tods/tods48.html#CarmeliTGKR23</url>
+</article>
+</r>
+<r><article key="journals/tods/LeventidisRGMR23" mdate="2023-11-09">
+<author orcid="0000-0002-7229-3936" pid="206/9438">Aristotelis Leventidis</author>
+<author orcid="0000-0002-8134-909X" pid="192/0602">Laura Di Rocco</author>
+<author orcid="0000-0002-9614-0504" pid="36/5673">Wolfgang Gatterbauer</author>
+<author orcid="0000-0002-1484-4787" pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author orcid="0000-0002-6102-7472" pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>DomainNet: Homograph Detection and Understanding in Data Lake Disambiguation.</title>
+<pages>9:1-9:40</pages>
+<year>2023</year>
+<month>September</month>
+<volume>48</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3612919</ee>
+<url>db/journals/tods/tods48.html#LeventidisRGMR23</url>
+</article>
+</r>
+<r><inproceedings key="conf/pods/TziavelisCGKR23" mdate="2023-06-15">
+<author orcid="0000-0001-8342-2177" pid="254/0972">Nikolaos Tziavelis</author>
+<author orcid="0000-0003-0673-5510" pid="179/2145">Nofar Carmeli</author>
+<author orcid="0000-0002-9614-0504" pid="36/5673">Wolfgang Gatterbauer</author>
+<author orcid="0000-0002-7156-1572" pid="74/3195">Benny Kimelfeld</author>
+<author orcid="0000-0002-6102-7472" pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Efficient Computation of Quantiles over Joins.</title>
+<pages>303-315</pages>
+<year>2023</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/3584372.3588670</ee>
+<crossref>conf/pods/2023</crossref>
+<url>db/conf/pods/pods2023.html#TziavelisCGKR23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-16525" mdate="2023-06-07">
+<author pid="254/0972">Nikolaos Tziavelis</author>
+<author pid="179/2145">Nofar Carmeli</author>
+<author pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="74/3195">Benny Kimelfeld</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Efficient Computation of Quantiles over Joins.</title>
+<year>2023</year>
+<volume>abs/2305.16525</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.16525</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-16525</url>
+</article>
+</r>
+<r><article key="journals/debu/GatterbauerDJR22" mdate="2023-01-17">
+<author pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="03/5973">Cody Dunne</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Principles of Query Visualization.</title>
+<pages>47-67</pages>
+<year>2022</year>
+<volume>45</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<ee type="oa">http://sites.computer.org/debull/A22sept/p47.pdf</ee>
+<url>db/journals/debu/debu45.html#GatterbauerDJR22</url>
+</article>
+</r>
+<r><article key="journals/tvcg/BartolomeoRGD22" mdate="2024-02-05">
+<author pid="225/8158">Sara Di Bartolomeo</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author orcid="0000-0002-9614-0504" pid="36/5673">Wolfgang Gatterbauer</author>
+<author orcid="0000-0002-1609-9776" pid="03/5973">Cody Dunne</author>
+<title>STRATISFIMAL LAYOUT: A modular optimization model for laying out layered node-link network visualizations.</title>
+<pages>324-334</pages>
+<year>2022</year>
+<volume>28</volume>
+<journal>IEEE Trans. Vis. Comput. Graph.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TVCG.2021.3114756</ee>
+<url>db/journals/tvcg/tvcg28.html#BartolomeoRGD22</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/TziavelisGR22" mdate="2022-08-25">
+<author orcid="0000-0001-8342-2177" pid="254/0972">Nikolaos Tziavelis</author>
+<author orcid="0000-0002-9614-0504" pid="36/5673">Wolfgang Gatterbauer</author>
+<author orcid="0000-0002-6102-7472" pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Toward Responsive DBMS: Optimal Join Algorithms, Enumeration, Factorization, Ranking, and Dynamic Programming.</title>
+<pages>3205-3208</pages>
+<year>2022</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE53745.2022.00299</ee>
+<crossref>conf/icde/2022</crossref>
+<url>db/conf/icde/icde2022.html#TziavelisGR22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-07284" mdate="2022-03-16">
+<author pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="03/5973">Cody Dunne</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Relational Diagrams: a pattern-preserving diagrammatic representation of non-disjunctive Relational Queries.</title>
+<year>2022</year>
+<volume>abs/2203.07284</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.07284</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-07284</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-05649" mdate="2022-05-17">
+<author pid="254/0972">Nikolaos Tziavelis</author>
+<author pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Any-k Algorithms for Enumerating Ranked Answers to Conjunctive Queries.</title>
+<year>2022</year>
+<volume>abs/2205.05649</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.05649</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-05649</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2208-01613" mdate="2022-08-09">
+<author pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="03/5973">Cody Dunne</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Principles of Query Visualization.</title>
+<year>2022</year>
+<volume>abs/2208.01613</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2208.01613</ee>
+<url>db/journals/corr/corr2208.html#abs-2208-01613</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2209-13589" mdate="2022-10-06">
+<author pid="330/3045">Aamod Khatiwada</author>
+<author pid="146/8297">Grace Fan</author>
+<author pid="200/9072">Roee Shraga</author>
+<author pid="200/0201">Zixuan Chen</author>
+<author pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>SANTOS: Relationship-based Semantic Table Union Search.</title>
+<year>2022</year>
+<volume>abs/2209.13589</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2209.13589</ee>
+<url>db/journals/corr/corr2209.html#abs-2209-13589</url>
+</article>
+</r>
+<r><article key="journals/pvldb/TziavelisGR21" mdate="2022-08-16">
+<author orcid="0000-0001-8342-2177" pid="254/0972">Nikolaos Tziavelis</author>
+<author orcid="0000-0002-9614-0504" pid="36/5673">Wolfgang Gatterbauer</author>
+<author orcid="0000-0002-6102-7472" pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Beyond Equi-joins: Ranking, Enumeration and Factorization.</title>
+<pages>2599-2612</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2599-tziavelis.pdf</ee>
+<ee>https://doi.org/10.14778/3476249.3476306</ee>
+<ee>https://www.wikidata.org/entity/Q112684073</ee>
+<url>db/journals/pvldb/pvldb14.html#TziavelisGR21</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/LeventidisRMRG21" mdate="2024-02-05">
+<author pid="206/9438">Aristotelis Leventidis</author>
+<author pid="192/0602">Laura Di Rocco</author>
+<author orcid="0000-0002-9614-0504" pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>DomainNet: Homograph Detection for Data Lake Disambiguation.</title>
+<pages>13-24</pages>
+<year>2021</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.5441/002/edbt.2021.03</ee>
+<crossref>conf/edbt/2021</crossref>
+<url>db/conf/edbt/edbt2021.html#LeventidisRMRG21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/CarmeliTGKR21" mdate="2024-02-05">
+<author pid="179/2145">Nofar Carmeli</author>
+<author orcid="0000-0001-8342-2177" pid="254/0972">Nikolaos Tziavelis</author>
+<author orcid="0000-0002-9614-0504" pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="74/3195">Benny Kimelfeld</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Tractable Orders for Direct Access to Ranked Answers of Conjunctive Queries.</title>
+<pages>325-341</pages>
+<year>2021</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/3452021.3458331</ee>
+<crossref>conf/pods/2021</crossref>
+<url>db/conf/pods/pods2021.html#CarmeliTGKR21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-12158" mdate="2021-01-31">
+<author pid="254/0972">Nikolaos Tziavelis</author>
+<author pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Beyond Equi-joins: Ranking, Enumeration and Factorization.</title>
+<year>2021</year>
+<volume>abs/2101.12158</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.12158</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-12158</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-09940" mdate="2021-03-23">
+<author pid="206/9438">Aristotelis Leventidis</author>
+<author pid="192/0602">Laura Di Rocco</author>
+<author pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>DomainNet: Homograph Detection for Data Lake Disambiguation.</title>
+<year>2021</year>
+<volume>abs/2103.09940</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.09940</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-09940</url>
+</article>
+</r>
+<r><article key="journals/pvldb/TziavelisAGRY20" mdate="2024-02-05">
+<author pid="254/0972">Nikolaos Tziavelis</author>
+<author pid="24/2712">Deepak Ajwani</author>
+<author orcid="0000-0002-9614-0504" pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="10/2453">Xiaofeng Yang</author>
+<title>Optimal Algorithms for Ranked Enumeration of Answers to Full Conjunctive Queries.</title>
+<pages>1582-1597</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p1582-tziavelis.pdf</ee>
+<ee>https://doi.org/10.14778/3397230.3397250</ee>
+<ee>https://www.wikidata.org/entity/Q112725817</ee>
+<url>db/journals/pvldb/pvldb13.html#TziavelisAGRY20</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/LeventidisZDGJR20" mdate="2024-02-05">
+<author orcid="0000-0002-7229-3936" pid="206/9438">Aristotelis Leventidis</author>
+<author pid="131/4074">Jiahui Zhang</author>
+<author orcid="0000-0002-1609-9776" pid="03/5973">Cody Dunne</author>
+<author orcid="0000-0002-9614-0504" pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>QueryVis: Logic-based Diagrams help Users Understand Complicated SQL Queries Faster.</title>
+<pages>2303-2318</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389767</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#LeventidisZDGJR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LiGR20" mdate="2024-02-05">
+<author pid="76/10447">Rundong Li</author>
+<author orcid="0000-0002-9614-0504" pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Near-Optimal Distributed Band-Joins through Recursive Partitioning.</title>
+<pages>2375-2390</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389750</ee>
+<ee>https://www.wikidata.org/entity/Q112692044</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#LiGR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/TziavelisGR20" mdate="2024-02-05">
+<author pid="254/0972">Nikolaos Tziavelis</author>
+<author orcid="0000-0002-9614-0504" pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Optimal Join Algorithms Meet Top-k.</title>
+<pages>2659-2665</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3383132</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#TziavelisGR20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-06101" mdate="2020-04-14">
+<author pid="76/10447">Rundong Li</author>
+<author pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Near-Optimal Distributed Band-Joins through Recursive Partitioning.</title>
+<year>2020</year>
+<volume>abs/2004.06101</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.06101</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-06101</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-11375" mdate="2021-01-23">
+<author pid="206/9438">Aristotelis Leventidis</author>
+<author pid="131/4074">Jiahui Zhang</author>
+<author orcid="0000-0002-1609-9776" pid="03/5973">Cody Dunne</author>
+<author pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>QueryVis: Logic-based diagrams help users understand complicated SQL queries faster.</title>
+<year>2020</year>
+<volume>abs/2004.11375</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.11375</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-11375</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-00448" mdate="2020-05-08">
+<author pid="254/0972">Nikolaos Tziavelis</author>
+<author pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Optimal Join Algorithms Meet Top-k.</title>
+<year>2020</year>
+<volume>abs/2005.00448</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.00448</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-00448</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-11965" mdate="2021-01-05">
+<author pid="179/2145">Nofar Carmeli</author>
+<author pid="254/0972">Nikolaos Tziavelis</author>
+<author pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="74/3195">Benny Kimelfeld</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Tractable Orders for Direct Access to Ranked Answers of Conjunctive Queries.</title>
+<year>2020</year>
+<volume>abs/2012.11965</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.11965</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-11965</url>
+</article>
+</r>
+<r><article key="journals/dpd/LiMRSY19" mdate="2020-05-30">
+<author pid="76/10447">Rundong Li</author>
+<author pid="03/4718">Ningfang Mi</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="37/3868">Yizhou Sun</author>
+<author pid="59/179">Yi Yao</author>
+<title>Abstract cost models for distributed data-intensive computations.</title>
+<pages>411-439</pages>
+<year>2019</year>
+<volume>37</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10619-018-7244-2</ee>
+<ee>https://www.wikidata.org/entity/Q92339204</ee>
+<url>db/journals/dpd/dpd37.html#LiMRSY19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/IbrahimRWZ19" mdate="2019-06-11">
+<author pid="162/1568">Yusra Ibrahim</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="w/GerhardWeikum">Gerhard Weikum</author>
+<author pid="z/DemetriosZeinalipourYazti">Demetrios Zeinalipour-Yazti</author>
+<title>Bridging Quantities in Tables and Text.</title>
+<pages>1010-1021</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00094</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#IbrahimRWZ19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-05582" mdate="2021-01-23">
+<author orcid="0000-0001-8342-2177" pid="254/0972">Nikolaos Tziavelis</author>
+<author pid="24/2712">Deepak Ajwani</author>
+<author pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="10/2453">Xiaofeng Yang</author>
+<title>Optimal Algorithms for Ranked Enumeration of Answers to Full Conjunctive Queries.</title>
+<year>2019</year>
+<volume>abs/1911.05582</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.05582</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-05582</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/YangRLG18" mdate="2024-02-05">
+<author orcid="0000-0002-4364-3458" pid="10/2453">Xiaofeng Yang</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="76/10447">Rundong Li</author>
+<author orcid="0000-0002-9614-0504" pid="36/5673">Wolfgang Gatterbauer</author>
+<title>Any-k Algorithms for Exploratory Analysis with Conjunctive Queries.</title>
+<pages>2:1-2:3</pages>
+<year>2018</year>
+<booktitle>ExploreDB@SIGMOD/PODS</booktitle>
+<ee>https://doi.org/10.1145/3214708.3214711</ee>
+<ee>https://www.wikidata.org/entity/Q112690487</ee>
+<crossref>conf/sigmod/2018exploredb</crossref>
+<url>db/conf/sigmod/exploredb2018.html#YangRLG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LiRD18" mdate="2020-05-30">
+<author pid="76/10447">Rundong Li</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="33/2032">Xinyan Deng</author>
+<title>Submodularity of Distributed Join Computation.</title>
+<pages>1237-1252</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3183728</ee>
+<ee>https://www.wikidata.org/entity/Q92254350</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#LiRD18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/YangAGNRS18" mdate="2023-09-30">
+<author orcid="0000-0002-4364-3458" pid="10/2453">Xiaofeng Yang</author>
+<author pid="24/2712">Deepak Ajwani</author>
+<author orcid="0000-0002-9614-0504" pid="36/5673">Wolfgang Gatterbauer</author>
+<author orcid="0000-0001-5867-5973" pid="40/7591">Patrick K. Nicholson</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="27/4656">Alessandra Sala</author>
+<title>Any-k: Anytime Top-k Tree Pattern Retrieval in Labeled Graphs.</title>
+<pages>489-498</pages>
+<year>2018</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3178876.3186115</ee>
+<ee>https://www.wikidata.org/entity/Q90017995</ee>
+<crossref>conf/www/2018</crossref>
+<url>db/conf/www/www2018.html#YangAGNRS18</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/HongDGR18" mdate="2019-02-14">
+<author pid="h/MingshengHong">Mingsheng Hong</author>
+<author pid="03/5860">Alan J. Demers</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Event and Pattern Detection over Streams.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_155</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/e2.html#HongDGR18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/PandaGR18" mdate="2019-02-14">
+<author pid="p/BiswanathPanda">Biswanath Panda</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Database Techniques to Improve Scientific Simulations.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_1289</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/d2.html#PandaGR18</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-06060" mdate="2021-10-14">
+<author pid="10/2453">Xiaofeng Yang</author>
+<author pid="24/2712">Deepak Ajwani</author>
+<author orcid="0000-0002-9614-0504" pid="36/5673">Wolfgang Gatterbauer</author>
+<author pid="40/7591">Patrick K. Nicholson</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="27/4656">Alessandra Sala</author>
+<title>Any-k: Anytime Top-k Tree Pattern Retrieval in Labeled Graphs.</title>
+<year>2018</year>
+<volume>abs/1802.06060</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.06060</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-06060</url>
+</article>
+</r>
+<r><inproceedings key="conf/dawak/LiMRSY17" mdate="2020-05-30">
+<author pid="76/10447">Rundong Li</author>
+<author pid="03/4718">Ningfang Mi</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="37/3868">Yizhou Sun</author>
+<author pid="59/179">Yi Yao</author>
+<title>A Case for Abstract Cost Models for Distributed Execution of Analytics Operators.</title>
+<pages>149-163</pages>
+<year>2017</year>
+<booktitle>DaWaK</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-64283-3_11</ee>
+<ee>https://www.wikidata.org/entity/Q90469562</ee>
+<crossref>conf/dawak/2017</crossref>
+<url>db/conf/dawak/dawak2017.html#LiMRSY17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/AbujabalYRW17" mdate="2018-11-06">
+<author pid="162/9092">Abdalghani Abujabal</author>
+<author pid="71/9605">Mohamed Yahya</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="w/GerhardWeikum">Gerhard Weikum</author>
+<title>Automated Template Generation for Question Answering over Knowledge Graphs.</title>
+<pages>1191-1200</pages>
+<year>2017</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3038912.3052583</ee>
+<crossref>conf/www/2017</crossref>
+<url>db/conf/www/www2017.html#AbujabalYRW17</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/RoySKLR16" mdate="2022-01-03">
+<author pid="97/3301">Senjuti Basu Roy</author>
+<author orcid="0000-0003-1317-8062" pid="76/3486">Kostas Stefanidis</author>
+<author pid="k/GeorgiaKoutrika">Georgia Koutrika</author>
+<author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Report on the Third International Workshop on Exploratory Search in Databases and the Web (ExploreDB 2016).</title>
+<pages>35-38</pages>
+<year>2016</year>
+<volume>45</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3022860.3022867</ee>
+<url>db/journals/sigmod/sigmod45.html#RoySKLR16</url>
+</article>
+</r>
+<r><article key="journals/tkde/QarabaqiR16" mdate="2017-05-20">
+<author pid="145/6046">Bahar Qarabaqi</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Merlin: Exploratory Analysis with Imprecise Queries.</title>
+<pages>342-355</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TKDE.2015.2496270</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2015.2496270</ee>
+<url>db/journals/tkde/tkde28.html#QarabaqiR16</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/IbrahimRW16" mdate="2018-11-06">
+<author pid="162/1568">Yusra Ibrahim</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="w/GerhardWeikum">Gerhard Weikum</author>
+<title>Making Sense of Entities and Quantities in Web Tables.</title>
+<pages>1703-1712</pages>
+<year>2016</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2983323.2983772</ee>
+<crossref>conf/cikm/2016</crossref>
+<url>db/conf/cikm/cikm2016.html#IbrahimRW16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigmod/2016exploredb" mdate="2018-11-06">
+<editor pid="97/3301">Senjuti Basu Roy</editor>
+<editor pid="76/3486">Kostas Stefanidis</editor>
+<editor pid="k/GeorgiaKoutrika">Georgia Koutrika</editor>
+<editor pid="r/MirekRiedewald">Mirek Riedewald</editor>
+<editor pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</editor>
+<title>Proceedings of the Third International Workshop on Exploratory Search in Databases and the Web, San Francisco, CA, USA, July 1, 2016</title>
+<booktitle>ExploreDB@SIGMOD/PODS</booktitle>
+<publisher>ACM</publisher>
+<year>2016</year>
+<isbn>978-1-4503-4312-1</isbn>
+<ee>https://doi.org/10.1145/2948674</ee>
+<url>db/conf/sigmod/exploredb2016.html</url>
+</proceedings>
+</r>
+<r><article key="journals/sigmod/KoutrikaLRSS15" mdate="2023-03-21">
+<author pid="k/GeorgiaKoutrika">Georgia Koutrika</author>
+<author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="s/MohamedASharaf">Mohamed A. Sharaf</author>
+<author orcid="0000-0003-1317-8062" pid="76/3486">Kostas Stefanidis</author>
+<title>Report on the Second International Workshop on Exploratory Search in Databases and the Web (ExploreDB 2015).</title>
+<pages>49-52</pages>
+<year>2015</year>
+<volume>44</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2935694.2935706</ee>
+<url>db/journals/sigmod/sigmod44.html#KoutrikaLRSS15</url>
+</article>
+</r>
+<r><proceedings key="conf/sigmod/2015exploredb" mdate="2015-11-23">
+<editor pid="k/GeorgiaKoutrika">Georgia Koutrika</editor>
+<editor pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</editor>
+<editor pid="r/MirekRiedewald">Mirek Riedewald</editor>
+<editor pid="76/3486">Kostas Stefanidis</editor>
+<title>Proceedings of the Second International Workshop on Exploratory Search in Databases and the Web, ExploreDB 2015, Melbourne, VIC, Australia, May 31 - June 04, 2015</title>
+<booktitle>ExploreDB@SIGMOD/PODS</booktitle>
+<publisher>ACM</publisher>
+<year>2015</year>
+<isbn>978-1-4503-3740-3</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=2795218</ee>
+<url>db/conf/sigmod/exploredb2015.html</url>
+</proceedings>
+</r>
+<r><article key="journals/sigmod/KoutrikaLRS14" mdate="2020-10-26">
+<author pid="k/GeorgiaKoutrika">Georgia Koutrika</author>
+<author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author orcid="0000-0003-1317-8062" pid="76/3486">Kostas Stefanidis</author>
+<title>Report on the First International Workshop on Exploratory Search in Databases and the Web (ExploreDB 2014).</title>
+<pages>49-52</pages>
+<year>2014</year>
+<volume>43</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2694413.2694425</ee>
+<url>db/journals/sigmod/sigmod43.html#KoutrikaLRS14</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/KoutrikaLRS14" mdate="2023-03-10">
+<author pid="k/GeorgiaKoutrika">Georgia Koutrika</author>
+<author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="76/3486">Kostas Stefanidis</author>
+<title>Exploratory Search in Databases and the Web.</title>
+<pages>158-159</pages>
+<year>2014</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1133/paper-25.pdf</ee>
+<crossref>conf/edbt/2014w</crossref>
+<url>db/conf/edbt/edbtw2014.html#KoutrikaLRS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fmcad/ManoliosPR14" mdate="2023-03-21">
+<author orcid="0000-0003-0519-9699" pid="40/4888">Panagiotis Manolios</author>
+<author pid="43/9861">Vasilis Papavasileiou</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>ILP Modulo Data.</title>
+<pages>171-178</pages>
+<year>2014</year>
+<booktitle>FMCAD</booktitle>
+<ee>https://doi.org/10.1109/FMCAD.2014.6987610</ee>
+<crossref>conf/fmcad/2014</crossref>
+<url>db/conf/fmcad/fmcad2014.html#ManoliosPR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/QarabaqiR14" mdate="2023-03-24">
+<author pid="145/6046">Bahar Qarabaqi</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>User-driven refinement of imprecise queries.</title>
+<pages>916-927</pages>
+<year>2014</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2014.6816711</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2014.6816711</ee>
+<crossref>conf/icde/2014</crossref>
+<url>db/conf/icde/icde2014.html#QarabaqiR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/OkcanR14" mdate="2018-11-06">
+<author pid="96/797">Alper Okcan</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Anti-combining for MapReduce.</title>
+<pages>839-850</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2610499</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#OkcanR14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/ManoliosPR14" mdate="2020-06-23">
+<author pid="40/4888">Panagiotis Manolios</author>
+<author pid="43/9861">Vasilis Papavasileiou</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>ILP Modulo Data.</title>
+<year>2014</year>
+<volume>abs/1404.5665</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1404.5665</ee>
+<url>db/journals/corr/corr1404.html#ManoliosPR14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/OkcanRPF13" mdate="2023-02-03">
+<author pid="96/797">Alper Okcan</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="p/BiswanathPanda">Biswanath Panda</author>
+<author pid="47/5171-2">Daniel Fink 0002</author>
+<title>Scolopax: Exploratory Analysis of Scientific Data.</title>
+<pages>1298-1301</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p1298-okcan.pdf</ee>
+<ee>https://doi.org/10.14778/2536274.2536300</ee>
+<url>db/journals/pvldb/pvldb6.html#OkcanRPF13</url>
+</article>
+</r>
+<r><inproceedings key="conf/gamesem/AghabeigiCER12" mdate="2017-05-17">
+<author pid="03/979">Bardia Aghabeigi</author>
+<author pid="c/TWCalvert">Tom Calvert</author>
+<author pid="19/170">Magy Seif El-Nasr</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Assistive design and production in computer games: Parametric systems, data mining, visual analytics.</title>
+<pages>1-4</pages>
+<year>2012</year>
+<booktitle>IGIC</booktitle>
+<ee>https://doi.org/10.1109/IGIC.2012.6329860</ee>
+<crossref>conf/gamesem/2012</crossref>
+<url>db/conf/gamesem/igic2012.html#AghabeigiCER12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwsm/HannakABLMR12" mdate="2021-02-05">
+<author pid="83/11516">Aniko Hannak</author>
+<author pid="38/4483-1">Eric Anderson 0001</author>
+<author pid="99/9411">Lisa Feldman Barrett</author>
+<author pid="33/7479">Sune Lehmann</author>
+<author pid="31/3833">Alan Mislove</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Tweetin' in the Rain: Exploring Societal-Scale Effects of Weather on Mood.</title>
+<year>2012</year>
+<booktitle>ICWSM</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/ICWSM/ICWSM12/paper/view/4648</ee>
+<crossref>conf/icwsm/2012</crossref>
+<url>db/conf/icwsm/icwsm2012.html#HannakABLMR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChandramouliGBRS11" mdate="2023-03-23">
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="b/RogerSBarga">Roger S. Barga</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="26/7259">Ivo Santos</author>
+<title>Accurate latency estimation in a distributed event processing system.</title>
+<pages>255-266</pages>
+<year>2011</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2011.5767926</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2011.5767926</ee>
+<crossref>conf/icde/2011</crossref>
+<url>db/conf/icde/icde2011.html#ChandramouliGBRS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/OkcanR11" mdate="2018-11-06">
+<author pid="96/797">Alper Okcan</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Processing theta-joins using MapReduce.</title>
+<pages>949-960</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989423</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#OkcanR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/PandaRF10" mdate="2023-03-24">
+<author pid="p/BiswanathPanda">Biswanath Panda</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="47/5171-2">Daniel Fink 0002</author>
+<title>The model-summary problem and a solution for trees.</title>
+<pages>449-460</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447912</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447912</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#PandaRF10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/HongRKGD09" mdate="2018-11-06">
+<author pid="h/MingshengHong">Mingsheng Hong</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="03/5860">Alan J. Demers</author>
+<title>Rule-based multi-query optimization.</title>
+<pages>120-131</pages>
+<year>2009</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1516360.1516376</ee>
+<crossref>conf/edbt/2009</crossref>
+<url>db/conf/edbt/edbt2009.html#HongRKGD09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/SorokinaCRHK09" mdate="2023-03-24">
+<author pid="75/5959">Daria Sorokina</author>
+<author pid="c/RichCaruana">Rich Caruana</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="76/4844">Wesley M. Hochachka</author>
+<author pid="36/2102">Steve Kelling</author>
+<title>Detecting and Interpreting Variable Interactions in Observational Ornithology Data.</title>
+<pages>64-69</pages>
+<year>2009</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2009.84</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDMW.2009.84</ee>
+<crossref>conf/icdm/2009w</crossref>
+<url>db/conf/icdm/icdmw2009.html#SorokinaCRHK09</url>
+</inproceedings>
+</r>
+<r><incollection key="books/tf/09/RischMBGNIZGPR09" mdate="2023-08-08">
+<author pid="r/TRisch">Tore Risch</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="b/HariBalakrishnan">Hari Balakrishnan</author>
+<author pid="16/1646">Lewis Girod</author>
+<author pid="34/3982">Ryan Newton</author>
+<author pid="i/MilenaIvanova">Milena Ivanova</author>
+<author pid="53/2184">Erik Zeitler</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="p/BiswanathPanda">Biswanath Panda</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Analyzing Data Streams in Scientific Applications.</title>
+<year>2009</year>
+<booktitle>Scientific Data Management</booktitle>
+<ee>https://doi.org/10.1201/9781420069815-c11</ee>
+<crossref>books/tf/09/SRO2009</crossref>
+<url>db/books/collections/SRO2009.html#RischMBGNIZGPR09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/PandaGR09" mdate="2017-07-12">
+<author pid="p/BiswanathPanda">Biswanath Panda</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Database Techniques to Improve Scientific Simulations.</title>
+<pages>733-738</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_1289</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/d.html#PandaGR09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/HongDGR09" mdate="2017-07-12">
+<author pid="h/MingshengHong">Mingsheng Hong</author>
+<author pid="03/5860">Alan J. Demers</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Event and Pattern Detection over Streams.</title>
+<pages>1029-1033</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_155</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/e.html#HongDGR09</url>
+</incollection>
+</r>
+<r><article key="journals/cse/DolgertGJKRRSW08" mdate="2022-08-16">
+<author pid="46/7585">Andrew Dolgert</author>
+<author pid="87/4143">Lawrence Gibbons</author>
+<author pid="35/3629">Christopher D. Jones</author>
+<author pid="16/6120">Valentin Kuznetsov</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="16/1039">Daniel Riley</author>
+<author pid="52/641">Gregory J. Sharp</author>
+<author pid="40/7585">Peter Wittich</author>
+<title>Provenance in High-Energy Physics Workflows.</title>
+<pages>22-29</pages>
+<year>2008</year>
+<volume>10</volume>
+<journal>Comput. Sci. Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MCSE.2008.81</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MCSE.2008.81</ee>
+<ee>https://www.wikidata.org/entity/Q113312922</ee>
+<url>db/journals/cse/cse10.html#DolgertGJKRRSW08</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LachmannR08" mdate="2020-04-25">
+<author pid="79/4860">Alexander Lachmann</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Finding relevant patterns in bursty sequences.</title>
+<pages>78-89</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1453870.pdf</ee>
+<ee>https://doi.org/10.14778/1453856.1453870</ee>
+<url>db/journals/pvldb/pvldb1.html#LachmannR08</url>
+</article>
+</r>
+<r><article key="journals/pvldb/WeigelPRGC08" mdate="2020-04-25">
+<author pid="33/6915">Felix Weigel</author>
+<author pid="p/BiswanathPanda">Biswanath Panda</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="98/6039">Manuel Calimlim</author>
+<title>Large-scale collaborative analysis and extraction of web data.</title>
+<pages>1476-1479</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1454205.pdf</ee>
+<ee>https://doi.org/10.14778/1454159.1454205</ee>
+<url>db/journals/pvldb/pvldb1.html#WeigelPRGC08</url>
+</article>
+</r>
+<r><inproceedings key="conf/icml/SorokinaCRF08" mdate="2023-03-10">
+<author pid="75/5959">Daria Sorokina</author>
+<author pid="c/RichCaruana">Rich Caruana</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="47/5171-2">Daniel Fink 0002</author>
+<title>Detecting statistical interactions with additive groves of trees.</title>
+<pages>1000-1007</pages>
+<year>2008</year>
+<booktitle>ICML</booktitle>
+<ee>https://doi.org/10.1145/1390156.1390282</ee>
+<crossref>conf/icml/2008</crossref>
+<url>db/conf/icml/icml2008.html#SorokinaCRF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/DemersGPRSW07" mdate="2020-03-12">
+<author pid="03/5860">Alan J. Demers</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="p/BiswanathPanda">Biswanath Panda</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="90/4848">Varun Sharma</author>
+<author pid="w/WalkerMWhite">Walker M. White</author>
+<title>Cayuga: A General Purpose Event Monitoring System.</title>
+<pages>412-422</pages>
+<year>2007</year>
+<crossref>conf/cidr/2007</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2007/papers/cidr07p47.pdf</ee>
+<url>db/conf/cidr/cidr2007.html#DemersGPRSW07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecml/SorokinaCR07" mdate="2023-03-10">
+<author pid="75/5959">Daria Sorokina</author>
+<author pid="c/RichCaruana">Rich Caruana</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Additive Groves of Regression Trees.</title>
+<pages>323-334</pages>
+<year>2007</year>
+<crossref>conf/ecml/2007</crossref>
+<booktitle>ECML</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-74958-5_31</ee>
+<url>db/conf/ecml/ecml2007.html#SorokinaCR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/PandaRGP07" mdate="2023-03-24">
+<author pid="p/BiswanathPanda">Biswanath Panda</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="17/4563">Stephen B. Pope</author>
+<title>High-Speed Function Approximation.</title>
+<pages>613-618</pages>
+<year>2007</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2007.107</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDM.2007.107</ee>
+<crossref>conf/icdm/2007</crossref>
+<url>db/conf/icdm/icdm2007.html#PandaRGP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/WhiteRGD07" mdate="2018-11-06">
+<author pid="w/WalkerMWhite">Walker M. White</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="03/5860">Alan J. Demers</author>
+<title>What is "next" in event processing?</title>
+<pages>263-272</pages>
+<year>2007</year>
+<crossref>conf/pods/2007</crossref>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1265530.1265567</ee>
+<url>db/conf/pods/pods2007.html#WhiteRGD07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HongDGKRW07" mdate="2018-11-06">
+<author pid="h/MingshengHong">Mingsheng Hong</author>
+<author pid="03/5860">Alan J. Demers</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="w/WalkerMWhite">Walker M. White</author>
+<title>Massively multi-query join processing in publish/subscribe systems.</title>
+<pages>761-772</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247564</ee>
+<url>db/conf/sigmod/sigmod2007.html#HongDGKRW07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BrennaDGHOPRTW07" mdate="2018-11-06">
+<author pid="52/2740">Lars Brenna</author>
+<author pid="03/5860">Alan J. Demers</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="h/MingshengHong">Mingsheng Hong</author>
+<author pid="95/4745">Joel Ossher</author>
+<author pid="p/BiswanathPanda">Biswanath Panda</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="37/5455">Mohit Thatte</author>
+<author pid="w/WalkerMWhite">Walker M. White</author>
+<title>Cayuga: a high-performance event processing engine.</title>
+<pages>1100-1102</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247620</ee>
+<url>db/conf/sigmod/sigmod2007.html#BrennaDGHOPRTW07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/DemersGHRW06" mdate="2017-05-21">
+<author pid="03/5860">Alan J. Demers</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="h/MingshengHong">Mingsheng Hong</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="w/WalkerMWhite">Walker M. White</author>
+<title>Towards Expressive Publish/Subscribe Systems.</title>
+<pages>627-644</pages>
+<year>2006</year>
+<crossref>conf/edbt/2006</crossref>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1007/11687238_38</ee>
+<url>db/conf/edbt/edbt2006.html#DemersGHRW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YangSRG06" mdate="2023-03-23">
+<author pid="y/FanYang2">Fan Yang 0002</author>
+<author pid="s/JShanmugasundaram">Jayavel Shanmugasundaram</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<title>Hilda: A High-Level Language for Data-DrivenWeb Applications.</title>
+<pages>32</pages>
+<year>2006</year>
+<crossref>conf/icde/2006</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2006.75</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2006.75</ee>
+<url>db/conf/icde/icde2006.html#YangSRG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ArmsACCDDGGJKLRRRS06" mdate="2023-03-24">
+<author pid="a/WYArms">William Y. Arms</author>
+<author pid="94/4841">Selcuk Aya</author>
+<author pid="98/6039">Manuel Calimlim</author>
+<author pid="75/2750">Jim Cordes</author>
+<author pid="52/4744">Julia Deneva</author>
+<author pid="52/6697">Pavel A. Dmitriev</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="87/4143">Lawrence Gibbons</author>
+<author pid="35/3629">Christopher D. Jones</author>
+<author pid="16/6120">Valentin Kuznetsov</author>
+<author pid="l/DavidALifka">David A. Lifka</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="16/1039">Daniel Riley</author>
+<author pid="25/5992">Anders Ryd</author>
+<author pid="52/641">Gregory J. Sharp</author>
+<title>Three Case Studies of Large-Scale Data Flows.</title>
+<pages>66</pages>
+<year>2006</year>
+<crossref>conf/icde/2006w</crossref>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2006.148</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2006.148</ee>
+<url>db/conf/icde/icdew2006.html#ArmsACCDDGGJKLRRRS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/CaruanaEMRSFHK06" mdate="2023-03-10">
+<author pid="c/RichCaruana">Rich Caruana</author>
+<author pid="e/MohamedElhawary">Mohamed Farid Elhawary</author>
+<author pid="27/5102">Art Munson</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="75/5959">Daria Sorokina</author>
+<author pid="47/5171-2">Daniel Fink 0002</author>
+<author pid="76/4844">Wesley M. Hochachka</author>
+<author pid="36/2102">Steve Kelling</author>
+<title>Mining citizen science data to predict orevalence of wild bird species.</title>
+<pages>909-915</pages>
+<year>2006</year>
+<crossref>conf/kdd/2006</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/1150402.1150527</ee>
+<url>db/conf/kdd/kdd2006.html#CaruanaEMRSFHK06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GernerYDGRS06" mdate="2018-11-06">
+<author pid="40/43">Nicholas Gerner</author>
+<author pid="y/FanYang2">Fan Yang 0002</author>
+<author pid="03/5860">Alan J. Demers</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="s/JShanmugasundaram">Jayavel Shanmugasundaram</author>
+<title>Automatic client-server partitioning of data-driven web applications.</title>
+<pages>760-762</pages>
+<year>2006</year>
+<crossref>conf/sigmod/2006</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1142473.1142580</ee>
+<url>db/conf/sigmod/sigmod2006.html#GernerYDGRS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/PandaRPGC06" mdate="2020-03-12">
+<author pid="p/BiswanathPanda">Biswanath Panda</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="17/4563">Stephen B. Pope</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="69/6168">L. Paul Chew</author>
+<title>Indexing for Function Approximation.</title>
+<pages>523-534</pages>
+<year>2006</year>
+<crossref>conf/vldb/2006</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1164173</ee>
+<ee type="oa">http://www.vldb.org/conf/2006/p523-panda.pdf</ee>
+<url>db/conf/vldb/vldb2006.html#PandaRPGC06</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/DasGR05" mdate="2017-05-20">
+<author pid="06/6865">Abhinandan Das</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Semantic Approximation of Data Stream Joins.</title>
+<pages>44-59</pages>
+<year>2005</year>
+<volume>17</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TKDE.2005.17</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2005.17</ee>
+<url>db/journals/tkde/tkde17.html#DasGR05</url>
+</article>
+</r>
+<r><inproceedings key="conf/isi/DemersGHR05" mdate="2017-05-26">
+<author pid="03/5860">Alan J. Demers</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="h/MingshengHong">Mingsheng Hong</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Processing High-Speed Intelligence Feeds in Real-Time.</title>
+<pages>617-618</pages>
+<year>2005</year>
+<crossref>conf/isi/2005</crossref>
+<booktitle>ISI</booktitle>
+<ee>https://doi.org/10.1007/11427995_75</ee>
+<url>db/conf/isi/isi2005.html#DemersGHR05</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="books/idea/encyclopedia2005/RiedewaldAA05" mdate="2017-07-09">
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="a/DivyakantAgrawal">Divyakant Agrawal</author>
+<author pid="a/AmrElAbbadi">Amr El Abbadi</author>
+<title>Dynamic Multidimensional Data Cubes for Interactive Analysis of Massive Datasets.</title>
+<pages>924-929</pages>
+<year>2005</year>
+<crossref>books/idea/Ency05</crossref>
+<booktitle>Encyclopedia of Information Science and Technology (II)</booktitle>
+<url>db/books/collections/encyclopedia2005.html#RiedewaldAA05</url>
+<ee>http://www.igi-global.com/Bookstore/Chapter.aspx?TitleId=14361</ee>
+</incollection>
+</r>
+<r><article key="journals/debu/CalimlimCDDGKRS04" mdate="2020-08-19">
+<author pid="98/6039">Manuel Calimlim</author>
+<author pid="75/2750">Jim Cordes</author>
+<author pid="03/5860">Alan J. Demers</author>
+<author pid="52/4744">Julia Deneva</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="84/114">Daniel Kifer</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="s/JShanmugasundaram">Jayavel Shanmugasundaram</author>
+<title>A Vision for PetaByte Data Management and Analyis Services for the Arecibo Telescope.</title>
+<pages>12-20</pages>
+<year>2004</year>
+<volume>27</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A04dec/johannes.ps</ee>
+<url>db/journals/debu/debu27.html#CalimlimCDDGKRS04</url>
+</article>
+</r>
+<r><inproceedings key="conf/isi/DemersGR04" mdate="2017-05-26">
+<author pid="03/5860">Alan J. Demers</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>The Architecture of the Cornell Knowledge Broker.</title>
+<pages>146-162</pages>
+<year>2004</year>
+<crossref>conf/isi/2004</crossref>
+<booktitle>ISI</booktitle>
+<url>db/conf/isi/isi2004.html#DemersGR04</url>
+<ee>https://doi.org/10.1007/978-3-540-25952-7_11</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DasGR04" mdate="2018-11-06">
+<author pid="06/6865">Abhinandan Das</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Approximation Techniques for Spatial Data.</title>
+<year>2004</year>
+<crossref>conf/sigmod/2004</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2004.html#DasGR04</url>
+<pages>695-706</pages>
+<ee>https://doi.org/10.1145/1007568.1007646</ee>
+<ee>http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/R-253.pdf</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DasGR03" mdate="2018-11-06">
+<author pid="06/6865">Abhinandan Das</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Approximate Join Processing Over Data Streams.</title>
+<pages>40-51</pages>
+<year>2003</year>
+<crossref>conf/sigmod/2003</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2003.html#DasGR03</url>
+<ee>https://doi.org/10.1145/872757.872765</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/LiAAR03" mdate="2017-05-24">
+<author pid="32/2042">Hua-Gang Li</author>
+<author pid="a/DivyakantAgrawal">Divyakant Agrawal</author>
+<author pid="a/AmrElAbbadi">Amr El Abbadi</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<title>Exploiting the Multi-Append-Only-Trend Property of Historical Data in Data Warehouses.</title>
+<pages>179-198</pages>
+<ee>https://doi.org/10.1007/978-3-540-45072-6_11</ee>
+<year>2003</year>
+<crossref>conf/ssd/2003</crossref>
+<booktitle>SSTD</booktitle>
+<url>db/conf/ssd/sstd2003.html#LiAAR03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/RiedewaldAAK03" mdate="2017-05-24">
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="a/DivyakantAgrawal">Divyakant Agrawal</author>
+<author pid="a/AmrElAbbadi">Amr El Abbadi</author>
+<author pid="k/FlipKorn">Flip Korn</author>
+<title>Accessing Scientifgic Data: Simpler is Better.</title>
+<pages>214-232</pages>
+<ee>https://doi.org/10.1007/978-3-540-45072-6_13</ee>
+<year>2003</year>
+<crossref>conf/ssd/2003</crossref>
+<booktitle>SSTD</booktitle>
+<url>db/conf/ssd/sstd2003.html#RiedewaldAAK03</url>
+</inproceedings>
+</r>
+<r><incollection key="books/idea/mddb2003/RiedewaldAA03" mdate="2019-08-03">
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="a/DivyakantAgrawal">Divyakant Agrawal</author>
+<author pid="a/AmrElAbbadi">Amr El Abbadi</author>
+<title>Dynamic Multidimensional Data Cubes.</title>
+<pages>200-221</pages>
+<year>2003</year>
+<crossref>books/idea/Rafanelli03</crossref>
+<booktitle>Multidimensional Databases</booktitle>
+<url>db/books/collections/mddb2003.html#RiedewaldAA03</url>
+<ee>https://doi.org/10.4018/978-1-59140-053-0.ch007</ee>
+</incollection>
+</r>
+<r><inproceedings key="conf/sigmod/RiedewaldAA02" mdate="2018-11-06">
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="a/DivyakantAgrawal">Divyakant Agrawal</author>
+<author pid="a/AmrElAbbadi">Amr El Abbadi</author>
+<title>Efficient integration and aggregation of historical information.</title>
+<pages>13-24</pages>
+<year>2002</year>
+<crossref>conf/sigmod/2002</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/564691.564694</ee>
+<url>db/conf/sigmod/sigmod2002.html#RiedewaldAA02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/RiedewaldAA01" mdate="2017-05-23">
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="a/DivyakantAgrawal">Divyakant Agrawal</author>
+<author pid="a/AmrElAbbadi">Amr El Abbadi</author>
+<title>Flexible Data Cubes for Online Aggregation.</title>
+<year>2001</year>
+<crossref>conf/icdt/2001</crossref>
+<booktitle>ICDT</booktitle>
+<url>db/conf/icdt/icdt2001.html#RiedewaldAA01</url>
+<pages>159-173</pages>
+<ee>https://doi.org/10.1007/3-540-44503-X_11</ee>
+<cite>conf/vldb/BaralisPT97</cite>
+<cite>conf/sigmod/BeyerR99</cite>
+<cite>conf/vldb/ChanI99</cite>
+<cite>...</cite>
+<cite>conf/edbt/GeffnerAA00</cite>
+<cite>conf/icde/GeffnerAAS99</cite>
+<cite>journals/datamine/GrayCBLRVPP97</cite>
+<cite>conf/icdt/Gupta97</cite>
+<cite>conf/icde/GuptaHRU97</cite>
+<cite>conf/sigmod/HarinarayanRU96</cite>
+<cite>conf/sigmod/HoAMS97</cite>
+<cite>journals/debu/JohnsonS97</cite>
+<cite>conf/sigmod/KotidisR98</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/ssdbm/RiedewaldAA00</cite>
+<cite>conf/dawak/RiedewaldAAP00</cite>
+<cite>conf/pods/SmithLCJ98</cite>
+<cite>...</cite>
+<cite>conf/sigmod/VitterW99</cite>
+<cite>conf/cikm/VitterWI98</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/StanoiRAA01" mdate="2020-03-12">
+<author pid="s/IoanaStanoi">Ioana Stanoi</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="a/DivyakantAgrawal">Divyakant Agrawal</author>
+<author pid="a/AmrElAbbadi">Amr El Abbadi</author>
+<title>Discovery of Influence Sets in Frequently Updated Databases.</title>
+<year>2001</year>
+<crossref>conf/vldb/2001</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2001.html#StanoiRAA01</url>
+<pages>99-108</pages>
+<ee type="oa">http://www.vldb.org/conf/2001/P099.pdf</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dawak/RiedewaldAAP00" mdate="2017-05-21">
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="a/DivyakantAgrawal">Divyakant Agrawal</author>
+<author pid="a/AmrElAbbadi">Amr El Abbadi</author>
+<author pid="96/6330">Renato Pajarola</author>
+<title>Space-Efficient Data Cubes for Dynamic Environments.</title>
+<pages>24-33</pages>
+<ee>https://doi.org/10.1007/3-540-44466-1_3</ee>
+<year>2000</year>
+<crossref>conf/dawak/2000</crossref>
+<booktitle>DaWaK</booktitle>
+<url>db/conf/dawak/dawak2000.html#RiedewaldAAP00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/RiedewaldAA00" mdate="2023-03-24">
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="a/DivyakantAgrawal">Divyakant Agrawal</author>
+<author pid="a/AmrElAbbadi">Amr El Abbadi</author>
+<title>pCube: Update-Efficient Online Aggregation with Progressive Feedback and Error Bounds.</title>
+<pages>95-108</pages>
+<year>2000</year>
+<crossref>conf/ssdbm/2000</crossref>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1109/SSDM.2000.869781</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SSDM.2000.869781</ee>
+<url>db/conf/ssdbm/ssdbm2000.html#RiedewaldAA00</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/GeffnerRAA99" mdate="2020-03-10">
+<author pid="39/2781">Steven Geffner</author>
+<author pid="r/MirekRiedewald">Mirek Riedewald</author>
+<author pid="a/DivyakantAgrawal">Divyakant Agrawal</author>
+<author pid="a/AmrElAbbadi">Amr El Abbadi</author>
+<title>Data Cubes in Dynamic Environments.</title>
+<pages>31-40</pages>
+<year>1999</year>
+<volume>22</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<url>db/journals/debu/debu22.html#GeffnerRAA99</url>
+<cdrom>DEBU22-4/P31.pdf</cdrom>
+<ee type="oa">http://sites.computer.org/debull/99dec/mirek.ps</ee>
+<cite>conf/icde/AgrawalGS97</cite>
+<cite>conf/vldb/ChanI99</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/edbt/GeffnerAA00</cite>
+<cite>conf/icde/GeffnerAAS99</cite>
+<cite>journals/datamine/GrayCBLRVPP97</cite>
+<cite>conf/sigmod/HoAMS97</cite>
+</article>
+</r>
+<coauthors n="105" nc="1">
+<co c="0"><na f="a/Abbadi:Amr_El" pid="a/AmrElAbbadi">Amr El Abbadi</na></co>
+<co c="0"><na f="a/Abujabal:Abdalghani" pid="162/9092">Abdalghani Abujabal</na></co>
+<co c="0"><na f="a/Aghabeigi:Bardia" pid="03/979">Bardia Aghabeigi</na></co>
+<co c="0"><na f="a/Agrawal:Divyakant" pid="a/DivyakantAgrawal">Divyakant Agrawal</na></co>
+<co c="0"><na f="a/Ajwani:Deepak" pid="24/2712">Deepak Ajwani</na></co>
+<co c="0"><na f="a/Anderson_0001:Eric" pid="38/4483-1">Eric Anderson 0001</na></co>
+<co c="0"><na f="a/Arms:William_Y=" pid="a/WYArms">William Y. Arms</na></co>
+<co c="0"><na f="a/Aya:Selcuk" pid="94/4841">Selcuk Aya</na></co>
+<co c="0"><na f="b/Balakrishnan:Hari" pid="b/HariBalakrishnan">Hari Balakrishnan</na></co>
+<co c="0"><na f="b/Barga:Roger_S=" pid="b/RogerSBarga">Roger S. Barga</na></co>
+<co c="0"><na f="b/Barrett:Lisa_Feldman" pid="99/9411">Lisa Feldman Barrett</na></co>
+<co c="0"><na f="b/Bartolomeo:Sara_Di" pid="225/8158">Sara Di Bartolomeo</na></co>
+<co c="0"><na f="b/Brenna:Lars" pid="52/2740">Lars Brenna</na></co>
+<co c="0"><na f="c/Calimlim:Manuel" pid="98/6039">Manuel Calimlim</na></co>
+<co c="0" n="2"><na f="c/Calvert:Thomas_W=" pid="c/TWCalvert">Thomas W. Calvert</na><na>Tom Calvert</na></co>
+<co c="0"><na f="c/Carmeli:Nofar" pid="179/2145">Nofar Carmeli</na></co>
+<co c="0"><na f="c/Caruana:Rich" pid="c/RichCaruana">Rich Caruana</na></co>
+<co c="0"><na f="c/Chandramouli:Badrish" pid="01/2861">Badrish Chandramouli</na></co>
+<co c="0"><na f="c/Chen:Zixuan" pid="200/0201">Zixuan Chen</na></co>
+<co c="0"><na f="c/Chew:L=_Paul" pid="69/6168">L. Paul Chew</na></co>
+<co c="0"><na f="c/Cordes:Jim" pid="75/2750">Jim Cordes</na></co>
+<co c="0"><na f="d/Das:Abhinandan" pid="06/6865">Abhinandan Das</na></co>
+<co c="0"><na f="d/Demers:Alan_J=" pid="03/5860">Alan J. Demers</na></co>
+<co c="0"><na f="d/Deneva:Julia" pid="52/4744">Julia Deneva</na></co>
+<co c="0"><na f="d/Deng:Xinyan" pid="33/2032">Xinyan Deng</na></co>
+<co c="0"><na f="d/Dmitriev:Pavel_A=" pid="52/6697">Pavel A. Dmitriev</na></co>
+<co c="0"><na f="d/Dolgert:Andrew" pid="46/7585">Andrew Dolgert</na></co>
+<co c="0"><na f="d/Dunne:Cody" pid="03/5973">Cody Dunne</na></co>
+<co c="0"><na f="e/El=Nasr:Magy_Seif" pid="19/170">Magy Seif El-Nasr</na></co>
+<co c="0"><na f="e/Elhawary:Mohamed_Farid" pid="e/MohamedElhawary">Mohamed Farid Elhawary</na></co>
+<co c="0"><na f="f/Fan:Grace" pid="146/8297">Grace Fan</na></co>
+<co c="0"><na f="f/Fink_0002:Daniel" pid="47/5171-2">Daniel Fink 0002</na></co>
+<co c="0"><na f="g/Gatterbauer:Wolfgang" pid="36/5673">Wolfgang Gatterbauer</na></co>
+<co c="0"><na f="g/Geffner:Steven" pid="39/2781">Steven Geffner</na></co>
+<co c="0"><na f="g/Gehrke:Johannes" pid="g/JohannesGehrke">Johannes Gehrke</na></co>
+<co c="0"><na f="g/Gerner:Nicholas" pid="40/43">Nicholas Gerner</na></co>
+<co c="0"><na f="g/Gibbons:Lawrence" pid="87/4143">Lawrence Gibbons</na></co>
+<co c="0"><na f="g/Girod:Lewis" pid="16/1646">Lewis Girod</na></co>
+<co c="0"><na f="g/Goldstein:Jonathan" pid="g/JonathanGoldstein">Jonathan Goldstein</na></co>
+<co c="0"><na f="h/Hannak:Aniko" pid="83/11516">Aniko Hannak</na></co>
+<co c="0"><na f="h/Hochachka:Wesley_M=" pid="76/4844">Wesley M. Hochachka</na></co>
+<co c="0"><na f="h/Hong:Mingsheng" pid="h/MingshengHong">Mingsheng Hong</na></co>
+<co c="0"><na f="i/Ibrahim:Yusra" pid="162/1568">Yusra Ibrahim</na></co>
+<co c="0"><na f="i/Ivanova:Milena" pid="i/MilenaIvanova">Milena Ivanova</na></co>
+<co c="0"><na f="j/Jagadish:H=_V=" pid="j/HVJagadish">H. V. Jagadish</na></co>
+<co c="0"><na f="j/Jones:Christopher_D=" pid="35/3629">Christopher D. Jones</na></co>
+<co c="0"><na f="k/Kelling:Steve" pid="36/2102">Steve Kelling</na></co>
+<co c="0"><na f="k/Khatiwada:Aamod" pid="330/3045">Aamod Khatiwada</na></co>
+<co c="0"><na f="k/Kifer:Daniel" pid="84/114">Daniel Kifer</na></co>
+<co c="0"><na f="k/Kimelfeld:Benny" pid="74/3195">Benny Kimelfeld</na></co>
+<co c="0"><na f="k/Koch_0001:Christoph" pid="k/ChristophKoch">Christoph Koch 0001</na></co>
+<co c="0"><na f="k/Korn:Flip" pid="k/FlipKorn">Flip Korn</na></co>
+<co c="0"><na f="k/Koutrika:Georgia" pid="k/GeorgiaKoutrika">Georgia Koutrika</na></co>
+<co c="0"><na f="k/Kuznetsov:Valentin" pid="16/6120">Valentin Kuznetsov</na></co>
+<co c="-1"><na f="l/Lachmann:Alexander" pid="79/4860">Alexander Lachmann</na></co>
+<co c="0"><na f="l/Lakshmanan:Laks_V=_S=" pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</na></co>
+<co c="0"><na f="l/Lehmann:Sune" pid="33/7479">Sune Lehmann</na></co>
+<co c="0"><na f="l/Leventidis:Aristotelis" pid="206/9438">Aristotelis Leventidis</na></co>
+<co c="0"><na f="l/Li:Hua=Gang" pid="32/2042">Hua-Gang Li</na></co>
+<co c="0"><na f="l/Li:Rundong" pid="76/10447">Rundong Li</na></co>
+<co c="0"><na f="l/Lifka:David_A=" pid="l/DavidALifka">David A. Lifka</na></co>
+<co c="0"><na f="m/Madden_0001:Samuel" pid="m/SamuelMadden">Samuel Madden 0001</na></co>
+<co c="0"><na f="m/Manolios:Panagiotis" pid="40/4888">Panagiotis Manolios</na></co>
+<co c="0"><na f="m/Mi:Ningfang" pid="03/4718">Ningfang Mi</na></co>
+<co c="0"><na f="m/Miller:Ren=eacute=e_J=" pid="m/RJMiller">Ren&#233;e J. Miller</na></co>
+<co c="0"><na f="m/Mislove:Alan" pid="31/3833">Alan Mislove</na></co>
+<co c="0"><na f="m/Munson:Art" pid="27/5102">Art Munson</na></co>
+<co c="0"><na f="n/Newton:Ryan" pid="34/3982">Ryan Newton</na></co>
+<co c="0"><na f="n/Nicholson:Patrick_K=" pid="40/7591">Patrick K. Nicholson</na></co>
+<co c="0"><na f="o/Okcan:Alper" pid="96/797">Alper Okcan</na></co>
+<co c="0"><na f="o/Ossher:Joel" pid="95/4745">Joel Ossher</na></co>
+<co c="0"><na f="p/Pajarola:Renato" pid="96/6330">Renato Pajarola</na></co>
+<co c="0"><na f="p/Panda:Biswanath" pid="p/BiswanathPanda">Biswanath Panda</na></co>
+<co c="0"><na f="p/Papavasileiou:Vasilis" pid="43/9861">Vasilis Papavasileiou</na></co>
+<co c="0"><na f="p/Pope:Stephen_B=" pid="17/4563">Stephen B. Pope</na></co>
+<co c="-1"><na f="q/Qarabaqi:Bahar" pid="145/6046">Bahar Qarabaqi</na></co>
+<co c="0"><na f="r/Riley:Daniel" pid="16/1039">Daniel Riley</na></co>
+<co c="0"><na f="r/Risch:Tore" pid="r/TRisch">Tore Risch</na></co>
+<co c="0"><na f="r/Rocco:Laura_Di" pid="192/0602">Laura Di Rocco</na></co>
+<co c="0"><na f="r/Roy:Senjuti_Basu" pid="97/3301">Senjuti Basu Roy</na></co>
+<co c="0"><na f="r/Ryd:Anders" pid="25/5992">Anders Ryd</na></co>
+<co c="0"><na f="s/Sala:Alessandra" pid="27/4656">Alessandra Sala</na></co>
+<co c="0"><na f="s/Santos:Ivo" pid="26/7259">Ivo Santos</na></co>
+<co c="0"><na f="s/Shanmugasundaram:Jayavel" pid="s/JShanmugasundaram">Jayavel Shanmugasundaram</na></co>
+<co c="0"><na f="s/Sharaf:Mohamed_A=" pid="s/MohamedASharaf">Mohamed A. Sharaf</na></co>
+<co c="0"><na f="s/Sharma:Varun" pid="90/4848">Varun Sharma</na></co>
+<co c="0"><na f="s/Sharp:Gregory_J=" pid="52/641">Gregory J. Sharp</na></co>
+<co c="0"><na f="s/Shraga:Roee" pid="200/9072">Roee Shraga</na></co>
+<co c="0"><na f="s/Sorokina:Daria" pid="75/5959">Daria Sorokina</na></co>
+<co c="0"><na f="s/Stanoi:Ioana" pid="s/IoanaStanoi">Ioana Stanoi</na></co>
+<co c="0"><na f="s/Stefanidis:Kostas" pid="76/3486">Kostas Stefanidis</na></co>
+<co c="0"><na f="s/Sun:Yizhou" pid="37/3868">Yizhou Sun</na></co>
+<co c="0"><na f="t/Thatte:Mohit" pid="37/5455">Mohit Thatte</na></co>
+<co c="0"><na f="t/Tziavelis:Nikolaos" pid="254/0972">Nikolaos Tziavelis</na></co>
+<co c="0"><na f="w/Weigel:Felix" pid="33/6915">Felix Weigel</na></co>
+<co c="0"><na f="w/Weikum:Gerhard" pid="w/GerhardWeikum">Gerhard Weikum</na></co>
+<co c="0"><na f="w/White:Walker_M=" pid="w/WalkerMWhite">Walker M. White</na></co>
+<co c="0"><na f="w/Wittich:Peter" pid="40/7585">Peter Wittich</na></co>
+<co c="0"><na f="y/Yahya:Mohamed" pid="71/9605">Mohamed Yahya</na></co>
+<co c="0"><na f="y/Yang_0002:Fan" pid="y/FanYang2">Fan Yang 0002</na></co>
+<co c="0"><na f="y/Yang:Xiaofeng" pid="10/2453">Xiaofeng Yang</na></co>
+<co c="0"><na f="y/Yao:Yi" pid="59/179">Yi Yao</na></co>
+<co c="0" n="2"><na f="z/Zeinalipour:Demetris" pid="z/DemetriosZeinalipourYazti">Demetris Zeinalipour</na><na>Demetrios Zeinalipour-Yazti</na></co>
+<co c="0"><na f="z/Zeitler:Erik" pid="53/2184">Erik Zeitler</na></co>
+<co c="0"><na f="z/Zhang:Jiahui" pid="131/4074">Jiahui Zhang</na></co>
+</coauthors>
+</dblpperson>

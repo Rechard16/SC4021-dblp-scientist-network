@@ -1,0 +1,2018 @@
+<dblpperson name="Alvin Cheung" pid="16/4915" n="119">
+<person key="homepages/16/4915" mdate="2023-02-18">
+<author pid="16/4915">Alvin Cheung</author>
+<url>https://people.eecs.berkeley.edu/~akcheung/</url>
+<url>https://twitter.com/alvinkcheung</url>
+<url>https://github.com/akcheung</url>
+<url>https://orcid.org/0000-0001-6261-6263</url>
+<note type="affiliation">UC Berkeley, CA, USA</note>
+<note type="affiliation" label="former">University of Washington, Seattle</note>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2401-03003" mdate="2024-01-24">
+<author pid="213/8172">Linyuan Gong</author>
+<author pid="157/6350">Mostafa Elhoushi</author>
+<author pid="16/4915">Alvin Cheung</author>
+<title>AST-T5: Structure-Aware Pretraining for Code Generation and Understanding.</title>
+<year>2024</year>
+<volume>abs/2401.03003</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.03003</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-03003</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-04814" mdate="2024-04-03">
+<author pid="213/8172">Linyuan Gong</author>
+<author pid="34/10207">Sida Wang</author>
+<author pid="157/6350">Mostafa Elhoushi</author>
+<author pid="16/4915">Alvin Cheung</author>
+<title>Evaluation of LLMs on Syntax-Aware Code Fill-in-the-Middle Tasks.</title>
+<year>2024</year>
+<volume>abs/2403.04814</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.04814</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-04814</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiuWSPLJYYLC23" mdate="2023-11-12">
+<author pid="232/8368">Xiaoxuan Liu</author>
+<author pid="81/8385">Shuxian Wang</author>
+<author pid="225/0129">Mengzhu Sun</author>
+<author pid="253/0900">Sicheng Pan</author>
+<author pid="24/712">Ge Li</author>
+<author pid="190/7819">Siddharth Jha</author>
+<author pid="129/2744">Cong Yan</author>
+<author pid="208/0023">Junwen Yang</author>
+<author pid="31/5916-1">Shan Lu 0001</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>Leveraging Application Data Constraints to Optimize Database-Backed Web Applications.</title>
+<pages>1208-1221</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p1208-liu.pdf</ee>
+<ee>https://doi.org/10.14778/3583140.3583141</ee>
+<url>db/journals/pvldb/pvldb16.html#LiuWSPLJYYLC23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/CheungAHKLLWY23" mdate="2023-11-12">
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="190/7596">Maaz Bin Safeer Ahmad</author>
+<author pid="180/5761">Brandon Haynes</author>
+<author pid="284/8705">Chanwut Kittivorawong</author>
+<author pid="280/8310">Shadaj Laddad</author>
+<author pid="232/8368">Xiaoxuan Liu</author>
+<author pid="94/9817">Chenglong Wang</author>
+<author pid="129/2744">Cong Yan</author>
+<title>Towards Auto-Generated Data Systems.</title>
+<pages>4116-4129</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p4116-cheung.pdf</ee>
+<ee>https://doi.org/10.14778/3611540.3611635</ee>
+<url>db/journals/pvldb/pvldb16.html#CheungAHKLLWY23</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/GongXLBXCGS23" mdate="2024-04-11">
+<author pid="213/8172">Linyuan Gong</author>
+<author pid="18/10886">Chenyan Xiong</author>
+<author pid="65/622">Xiaodong Liu</author>
+<author pid="175/5244">Payal Bajaj</author>
+<author pid="147/6506">Yiqing Xie</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="92/5339">Jianfeng Gao 0001</author>
+<author pid="165/6299">Xia Song</author>
+<title>Model-Generated Pretraining Signals Improves Zero-Shot Generalization of Text-to-Text Transformers.</title>
+<pages>12933-12950</pages>
+<year>2023</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.acl-long.724</ee>
+<ee type="oa">https://aclanthology.org/2023.acl-long.724</ee>
+<crossref>conf/acl/2023-1</crossref>
+<url>db/conf/acl/acl2023-1.html#GongXLBXCGS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecoop/BhatiaKSC23" mdate="2023-11-12">
+<author pid="177/9301">Sahil Bhatia</author>
+<author orcid="0000-0003-1387-8763" pid="294/1426">Sumer Kohli</author>
+<author pid="s/SanjitASeshia">Sanjit A. Seshia</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>Building Code Transpilers for Domain-Specific Languages Using Program Synthesis (Experience Paper).</title>
+<pages>38:1-38:30</pages>
+<year>2023</year>
+<booktitle>ECOOP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ECOOP.2023.38</ee>
+<crossref>conf/ecoop/2023</crossref>
+<url>db/conf/ecoop/ecoop2023.html#BhatiaKSC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pakdd/LuLFLCDTL23" mdate="2024-02-05">
+<author orcid="0000-0002-4664-419X" pid="315/4111">Yixiao Lu</author>
+<author pid="348/2131">Yokiu Lee</author>
+<author orcid="0009-0005-8608-6961" pid="43/6249">Haoran Feng</author>
+<author pid="348/1816">Johnathan Leung</author>
+<author pid="16/4915">Alvin Cheung</author>
+<author orcid="0000-0002-1514-0685" pid="285/3277">Katharina Dost</author>
+<author pid="71/10314">Katerina Taskova</author>
+<author pid="234/1983">Thomas Lacombe</author>
+<title>Interpretability Meets Generalizability: A Hybrid Machine Learning System to Identify Nonlinear Granger Causality in Global Stock Indices.</title>
+<pages>322-334</pages>
+<year>2023</year>
+<booktitle>PAKDD (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-33377-4_25</ee>
+<crossref>conf/pakdd/2023-2</crossref>
+<url>db/conf/pakdd/pakdd2023-2.html#LuLFLCDTL23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-03593" mdate="2023-11-12">
+<author pid="213/8172">Linyuan Gong</author>
+<author pid="28/4853">Jiayi Wang</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>ADELT: Transpilation Between Deep Learning Frameworks.</title>
+<year>2023</year>
+<volume>abs/2303.03593</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.03593</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-03593</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-14633" mdate="2023-11-12">
+<author pid="232/8368">Xiaoxuan Liu</author>
+<author pid="190/7819">Siddharth Jha</author>
+<author pid="344/2180">Chuyan Zhu</author>
+<author pid="96/9986">Zhuohan Li</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>What is the State of Memory Saving for Model Training?</title>
+<year>2023</year>
+<volume>abs/2303.14633</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.14633</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-14633</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-12567" mdate="2024-04-11">
+<author pid="213/8172">Linyuan Gong</author>
+<author pid="18/10886">Chenyan Xiong</author>
+<author pid="65/622">Xiaodong Liu</author>
+<author pid="175/5244">Payal Bajaj</author>
+<author pid="147/6506">Yiqing Xie</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="92/5339">Jianfeng Gao 0001</author>
+<author pid="165/6299">Xia Song</author>
+<title>Model-Generated Pretraining Signals Improves Zero-Shot Generalization of Text-to-Text Transformers.</title>
+<year>2023</year>
+<volume>abs/2305.12567</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.12567</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-12567</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-18513" mdate="2023-11-12">
+<author pid="133/4133">Arash Ardakani</author>
+<author pid="267/9582">Altan Haan</author>
+<author pid="280/5457">Shangyin Tan</author>
+<author pid="136/0337">Doru-Thom Popovici</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="97/662">Costin Iancu</author>
+<author pid="04/418">Koushik Sen</author>
+<title>SlimFit: Memory-Efficient Fine-Tuning of Transformer-based Models Using Training Dynamics.</title>
+<year>2023</year>
+<volume>abs/2305.18513</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.18513</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-18513</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2306-10585" mdate="2023-11-12">
+<author pid="280/8310">Shadaj Laddad</author>
+<author pid="32/7788">Conor Power</author>
+<author pid="349/7699">Tyler Hou</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Optimizing Stateful Dataflow with Local Rewrites.</title>
+<year>2023</year>
+<volume>abs/2306.10585</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2306.10585</ee>
+<url>db/journals/corr/corr2306.html#abs-2306-10585</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2308-03276" mdate="2023-11-12">
+<author pid="284/8705">Chanwut Kittivorawong</author>
+<author pid="300/4051">Yongming Ge</author>
+<author pid="354/6096">Yousef Helal</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>Spatialyze: A Geospatial Video Analytics System with Spatial-Aware Optimizations.</title>
+<year>2023</year>
+<volume>abs/2308.03276</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2308.03276</ee>
+<url>db/journals/corr/corr2308.html#abs-2308-03276</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2308-06410" mdate="2023-11-12">
+<author pid="342/5439">Yuto Nishida</author>
+<author pid="177/9301">Sahil Bhatia</author>
+<author pid="280/8310">Shadaj Laddad</author>
+<author pid="210/3164">Hasan Genc</author>
+<author pid="133/9941">Yakun Sophia Shao</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>Code Transpilation for Hardware Accelerators.</title>
+<year>2023</year>
+<volume>abs/2308.06410</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2308.06410</ee>
+<url>db/journals/corr/corr2308.html#abs-2308-06410</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-07177" mdate="2023-10-24">
+<author pid="232/8368">Xiaoxuan Liu</author>
+<author pid="335/3984">Lanxiang Hu</author>
+<author pid="47/8816">Peter Bailis</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<author pid="209/4959">Zhijie Deng</author>
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="55/2270">Hao Zhang</author>
+<title>Online Speculative Decoding.</title>
+<year>2023</year>
+<volume>abs/2310.07177</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.07177</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-07177</url>
+</article>
+</r>
+<r><article key="journals/cacm/AbadiAABBBBCCDD22" mdate="2024-02-05">
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="a/DavidGAndersen">David G. Andersen</author>
+<author pid="47/8816">Peter Bailis</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="d/XinLunaDong">Luna Dong</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="f/JulianaFreire">Juliana Freire</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="m/SergeyMelnik">Sergey Melnik 0001</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="o/BengChinOoi">Beng Chin Ooi</author>
+<author pid="o/FatmaOzcan">Fatma Ozcan</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<title>The Seattle report on database research.</title>
+<pages>72-79</pages>
+<year>2022</year>
+<volume>65</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<ee>https://doi.org/10.1145/3524284</ee>
+<url>db/journals/cacm/cacm65.html#AbadiAABBBBCCDD22</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/LaddadPMCH22" mdate="2022-12-05">
+<author orcid="0000-0002-6658-6548" pid="280/8310">Shadaj Laddad</author>
+<author orcid="0000-0002-0660-5110" pid="32/7788">Conor Power</author>
+<author orcid="0000-0003-3126-7771" pid="321/0647">Mae Milano</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author orcid="0000-0002-7712-4306" pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Katara: synthesizing CRDTs with verified lifting.</title>
+<pages>1349-1377</pages>
+<year>2022</year>
+<volume>6</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>OOPSLA2</number>
+<ee type="oa">https://doi.org/10.1145/3563336</ee>
+<url>db/journals/pacmpl/pacmpl6.html#LaddadPMCH22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LaddadPMCCH22" mdate="2023-11-12">
+<author pid="280/8310">Shadaj Laddad</author>
+<author pid="32/7788">Conor Power</author>
+<author pid="321/0647">Mae Milano</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Keep CALM and CRDT On.</title>
+<pages>856-863</pages>
+<year>2022</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p856-power.pdf</ee>
+<ee>https://doi.org/10.14778/3574245.3574268</ee>
+<url>db/journals/pvldb/pvldb16.html#LaddadPMCCH22</url>
+</article>
+</r>
+<r><inproceedings key="conf/asplos/AhmadRAKC22" mdate="2023-11-12">
+<author orcid="0000-0002-8113-7580" pid="190/7596">Maaz Bin Safeer Ahmad</author>
+<author orcid="0000-0001-6221-1389" pid="314/7068">Alexander J. Root</author>
+<author pid="04/5122">Andrew Adams</author>
+<author pid="57/3523">Shoaib Kamil 0001</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>Vector instruction selection for digital signal processors using program synthesis.</title>
+<pages>1004-1016</pages>
+<year>2022</year>
+<booktitle>ASPLOS</booktitle>
+<ee>https://doi.org/10.1145/3503222.3507714</ee>
+<crossref>conf/asplos/2022</crossref>
+<url>db/conf/asplos/asplos2022.html#AhmadRAKC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/LiuZWCCHCLTGMC22" mdate="2023-11-12">
+<author pid="232/8368">Xiaoxuan Liu</author>
+<author pid="211/7027">Lianmin Zheng</author>
+<author pid="168/4711">Dequan Wang</author>
+<author pid="241/4994">Yukuo Cen</author>
+<author pid="245/7488">Weize Chen</author>
+<author pid="19/3011-7">Xu Han 0007</author>
+<author pid="145/2814">Jianfei Chen</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="280/1587">Joey Gonzalez</author>
+<author pid="10/6978">Michael W. Mahoney</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>GACT: Activation Compressed Training for Generic Network Architectures.</title>
+<pages>14139-14152</pages>
+<year>2022</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v162/liu22v.html</ee>
+<crossref>conf/icml/2022</crossref>
+<url>db/conf/icml/icml2022.html#LiuZWCCHCLTGMC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/ZhouBCW22" mdate="2023-11-12">
+<author pid="187/3858">Xiangyu Zhou</author>
+<author pid="20/1858">Rastislav Bod&#237;k</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="94/9817">Chenglong Wang</author>
+<title>Synthesizing analytical SQL queries from computation demonstration.</title>
+<pages>168-182</pages>
+<year>2022</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3519939.3523712</ee>
+<crossref>conf/pldi/2022</crossref>
+<url>db/conf/pldi/pldi2022.html#ZhouBCW22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2204-07102" mdate="2023-11-12">
+<author pid="187/3858">Xiangyu Zhou</author>
+<author pid="20/1858">Rastislav Bod&#237;k</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="94/9817">Chenglong Wang</author>
+<title>Synthesizing Analytical SQL Queries from Computation Demonstration.</title>
+<year>2022</year>
+<volume>abs/2204.07102</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2204.07102</ee>
+<url>db/journals/corr/corr2204.html#abs-2204-07102</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-02954" mdate="2023-11-12">
+<author pid="232/8368">Xiaoxuan Liu</author>
+<author pid="81/8385">Shuxian Wang</author>
+<author pid="225/0129">Mengzhu Sun</author>
+<author pid="51/758">Sharon Lee</author>
+<author pid="253/0900">Sicheng Pan</author>
+<author pid="237/5796">Joshua Wu</author>
+<author pid="129/2744">Cong Yan</author>
+<author pid="208/0023">Junwen Yang</author>
+<author pid="31/5916-1">Shan Lu 0001</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>Leveraging Application Data Constraints to Optimize Database-Backed Web Applications.</title>
+<year>2022</year>
+<volume>abs/2205.02954</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.02954</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-02954</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-07147" mdate="2023-11-12">
+<author pid="76/10322">Sarah E. Chasins</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="71/4226-2">Ali Ghodsi 0002</author>
+<author orcid="0000-0002-2661-4524" pid="g/KennethYGoldberg">Ken Goldberg</author>
+<author orcid="0000-0003-2921-956X" pid="61/8262">Joseph E. Gonzalez</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="j/MichaelIJordan">Michael I. Jordan</author>
+<author pid="30/2317">Anthony D. Joseph</author>
+<author pid="10/6978">Michael W. Mahoney</author>
+<author orcid="0000-0002-4538-4752" pid="40/7459">Aditya G. Parameswaran</author>
+<author pid="p/DAPatterson">David A. Patterson 0001</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="04/418">Koushik Sen</author>
+<author pid="34/5593">Scott Shenker</author>
+<author pid="s/DXSong">Dawn Song</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<title>The Sky Above The Clouds.</title>
+<year>2022</year>
+<volume>abs/2205.07147</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.07147</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-07147</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-12425" mdate="2023-11-12">
+<author pid="280/8310">Shadaj Laddad</author>
+<author pid="32/7788">Conor Power</author>
+<author pid="321/0647">Mae Milano</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Synthesizing CRDTs from Sequential Data Types with Verified Lifting.</title>
+<year>2022</year>
+<volume>abs/2205.12425</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.12425</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-12425</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-11357" mdate="2023-11-12">
+<author pid="232/8368">Xiaoxuan Liu</author>
+<author pid="211/7027">Lianmin Zheng</author>
+<author pid="168/4711">Dequan Wang</author>
+<author pid="241/4994">Yukuo Cen</author>
+<author pid="245/7488">Weize Chen</author>
+<author pid="19/3011-7">Xu Han 0007</author>
+<author pid="145/2814">Jianfei Chen</author>
+<author pid="53/3245-1">Zhiyuan Liu 0001</author>
+<author pid="t/JieTang">Jie Tang 0001</author>
+<author pid="280/1587">Joey Gonzalez</author>
+<author pid="10/6978">Michael W. Mahoney</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>GACT: Activation Compressed Training for General Architectures.</title>
+<year>2022</year>
+<volume>abs/2206.11357</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.11357</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-11357</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-14276" mdate="2023-11-12">
+<author pid="228/0272">Melih Elibol</author>
+<author pid="185/5780">Vinamra Benara</author>
+<author pid="323/5642">Samyu Yagati</author>
+<author pid="211/7027">Lianmin Zheng</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="j/MichaelIJordan">Michael I. Jordan</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<title>NumS: Scalable Array Programming for the Cloud.</title>
+<year>2022</year>
+<volume>abs/2206.14276</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.14276</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-14276</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-12605" mdate="2023-11-12">
+<author pid="280/8310">Shadaj Laddad</author>
+<author pid="32/7788">Conor Power</author>
+<author pid="321/0647">Mae Milano</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Keep CALM and CRDT On.</title>
+<year>2022</year>
+<volume>abs/2210.12605</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.12605</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-12605</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LinGDCHB21" mdate="2023-11-12">
+<author pid="260/0916">Vanessa Lin</author>
+<author pid="300/4051">Yongming Ge</author>
+<author pid="239/5084">Maureen Daum</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="180/5761">Brandon Haynes</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<title>Demonstration of Apperception: A Database Management System for Geospatial Video Data.</title>
+<pages>2767-2770</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2767-lin.pdf</ee>
+<ee>https://doi.org/10.14778/3476311.3476340</ee>
+<url>db/journals/pvldb/pvldb14.html#LinGDCHB21</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/ChenGCS20" mdate="2023-11-12">
+<author pid="03/8495">Xinyun Chen</author>
+<author pid="213/8172">Linyuan Gong</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="s/DXSong">Dawn Song</author>
+<title>PlotCoder: Hierarchical Decoding for Synthesizing Visualization Code in Programmatic Context.</title>
+<pages>2169-2181</pages>
+<year>2021</year>
+<booktitle>ACL/IJCNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2021.acl-long.169</ee>
+<ee type="oa">https://aclanthology.org/2021.acl-long.169</ee>
+<crossref>conf/acl/2021-1</crossref>
+<url>db/conf/acl/acl2021-1.html#ChenGCS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chi/WangFBDCK21" mdate="2024-02-05">
+<author pid="94/9817">Chenglong Wang</author>
+<author orcid="0000-0003-1000-1229" pid="30/4550-1">Yu Feng 0001</author>
+<author pid="20/1858">Rastislav Bod&#237;k</author>
+<author pid="85/3688">Isil Dillig</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="181/2345">Amy J. Ko</author>
+<title>Falx: Synthesis-Powered Visualization Authoring.</title>
+<pages>106:1-106:15</pages>
+<year>2021</year>
+<booktitle>CHI</booktitle>
+<ee>https://doi.org/10.1145/3411764.3445249</ee>
+<crossref>conf/chi/2021</crossref>
+<url>db/conf/chi/chi2021.html#WangFBDCK21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/CheungCHM21" mdate="2022-10-25">
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="321/0647">Mae Milano</author>
+<title>New Directions in Cloud Programming.</title>
+<year>2021</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2021/papers/cidr2021_paper16.pdf</ee>
+<crossref>conf/cidr/2021</crossref>
+<url>db/conf/cidr/cidr2021.html#CheungCHM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbpl/Cheung21" mdate="2023-11-12">
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>A PACTful Agenda for Cloud Programming Research: (Invited Talk).</title>
+<pages>1</pages>
+<year>2021</year>
+<booktitle>DBPL</booktitle>
+<ee>https://doi.org/10.1145/3475726.3476450</ee>
+<crossref>conf/dbpl/2021</crossref>
+<url>db/conf/dbpl/dbpl2021.html#Cheung21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HaynesDHMBCC21" mdate="2023-11-12">
+<author pid="180/5761">Brandon Haynes</author>
+<author pid="239/5084">Maureen Daum</author>
+<author orcid="0000-0003-4698-7915" pid="16/5283-2">Dong He 0002</author>
+<author pid="202/2236">Amrita Mazumdar</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="95/5263">Luis Ceze</author>
+<title>VSS: A Storage System for Video Analytics.</title>
+<pages>685-696</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3459242</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#HaynesDHMBCC21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-01159" mdate="2022-10-25">
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="321/0647">Mae Milano</author>
+<title>New Directions in Cloud Programming.</title>
+<year>2021</year>
+<volume>abs/2101.01159</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.01159</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-01159</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-01024" mdate="2022-03-28">
+<author pid="94/9817">Chenglong Wang</author>
+<author pid="30/4550-1">Yu Feng 0001</author>
+<author pid="20/1858">Rastislav Bod&#237;k</author>
+<author pid="85/3688">Isil Dillig</author>
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="181/2345">Amy J. Ko</author>
+<title>Falx: Synthesis-Powered Visualization Authoring.</title>
+<year>2021</year>
+<volume>abs/2102.01024</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.01024</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-01024</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-16604" mdate="2023-03-28">
+<author pid="180/5761">Brandon Haynes</author>
+<author pid="239/5084">Maureen Daum</author>
+<author pid="16/5283-2">Dong He 0002</author>
+<author pid="202/2236">Amrita Mazumdar</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="95/5263">Luis Ceze</author>
+<title>VSS: A Storage System for Video Analytics [Technical Report].</title>
+<year>2021</year>
+<volume>abs/2103.16604</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.16604</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-16604</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/WangFBCD20" mdate="2023-11-12">
+<author pid="94/9817">Chenglong Wang</author>
+<author pid="30/4550-1">Yu Feng 0001</author>
+<author pid="20/1858">Rastislav Bod&#237;k</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="85/3688">Isil Dillig</author>
+<title>Visualization by example.</title>
+<pages>49:1-49:28</pages>
+<year>2020</year>
+<volume>4</volume>
+<number>POPL</number>
+<journal>Proc. ACM Program. Lang.</journal>
+<ee type="oa">https://doi.org/10.1145/3371117</ee>
+<url>db/journals/pacmpl/pacmpl4.html#WangFBCD20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/HaynesDMBCC20" mdate="2023-11-12">
+<author pid="180/5761">Brandon Haynes</author>
+<author pid="239/5084">Maureen Daum</author>
+<author pid="202/2236">Amrita Mazumdar</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="95/5263">Luis Ceze</author>
+<title>VisualWorldDB: A DBMS for the Visual World.</title>
+<year>2020</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2020/papers/p12-haynes-cidr20.pdf</ee>
+<crossref>conf/cidr/2020</crossref>
+<url>db/conf/cidr/cidr2020.html#HaynesDMBCC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/YanCYL20" mdate="2023-11-12">
+<author pid="129/2744">Cong Yan</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="208/0023">Junwen Yang</author>
+<author pid="31/5916-1">Shan Lu 0001</author>
+<title>View-Driven Optimization of Database-Backed Web Applications.</title>
+<year>2020</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2020/papers/p21-yan-cidr20.pdf</ee>
+<crossref>conf/cidr/2020</crossref>
+<url>db/conf/cidr/cidr2020.html#YanCYL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/YangSYC020a" mdate="2023-11-12">
+<author pid="208/0023">Junwen Yang</author>
+<author pid="276/3282">Utsav Sethi</author>
+<author pid="129/2744">Cong Yan</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="31/5916-1">Shan Lu 0001</author>
+<title>Managing data constraints in database-backed web applications.</title>
+<pages>302-303</pages>
+<year>2020</year>
+<booktitle>ICSE (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/3377812.3390798</ee>
+<ee>https://ieeexplore.ieee.org/document/9270299</ee>
+<crossref>conf/icse/2020c</crossref>
+<url>db/conf/icse/icse2020c.html#YangSYC020a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/YangSYC020" mdate="2023-11-12">
+<author pid="208/0023">Junwen Yang</author>
+<author pid="276/3282">Utsav Sethi</author>
+<author pid="129/2744">Cong Yan</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="31/5916-1">Shan Lu 0001</author>
+<title>Managing data constraints in database-backed web applications.</title>
+<pages>1098-1109</pages>
+<year>2020</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/3377811.3380375</ee>
+<ee>https://ieeexplore.ieee.org/document/9284009</ee>
+<crossref>conf/icse/2020</crossref>
+<url>db/conf/icse/icse2020.html#YangSYC020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChenWC20" mdate="2023-11-12">
+<author pid="124/5261">Xinyue Chen</author>
+<author pid="94/9817">Chenglong Wang</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>Testing query execution engines with mutations.</title>
+<pages>6:1-6:5</pages>
+<year>2020</year>
+<booktitle>DBTest@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3395032.3395322</ee>
+<crossref>conf/sigmod/2020dbtest</crossref>
+<url>db/conf/sigmod/dbtest2020.html#ChenWC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/PrasaadCS20" mdate="2024-02-05">
+<author pid="217/3619">Guna Prasaad</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<title>Handling Highly Contended OLTP Workloads Using Fast Dynamic Partitioning.</title>
+<pages>527-542</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389764</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#PrasaadCS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SamuelYC20" mdate="2023-11-12">
+<author orcid="0009-0004-9873-6266" pid="266/6089">Mingwei Samuel</author>
+<author pid="129/2744">Cong Yan</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>Demonstration of Chestnut: An In-memory Data Layout Designer for Database Applications.</title>
+<pages>2813-2816</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3384712</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#SamuelYC20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-02958" mdate="2023-03-28">
+<author pid="239/5084">Maureen Daum</author>
+<author pid="180/5761">Brandon Haynes</author>
+<author pid="16/5283-2">Dong He 0002</author>
+<author pid="202/2236">Amrita Mazumdar</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="16/4915">Alvin Cheung</author>
+<title>TASM: A Tile-Based Storage Manager for Video Analytics.</title>
+<year>2020</year>
+<volume>abs/2006.02958</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.02958</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-02958</url>
+</article>
+</r>
+<r><article key="journals/pvldb/YanC19" mdate="2023-11-12">
+<author pid="129/2744">Cong Yan</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>Generating Application-specific Data Layouts for In-memory Databases.</title>
+<pages>1513-1525</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1513-yan.pdf</ee>
+<ee>https://doi.org/10.14778/3342263.3342630</ee>
+<url>db/journals/pvldb/pvldb12.html#YanC19</url>
+</article>
+</r>
+<r><article key="journals/sigmod/AbadiAABBBBCCDD19" mdate="2024-02-05">
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="a/DavidGAndersen">David G. Andersen</author>
+<author pid="47/8816">Peter Bailis</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="d/XinLunaDong">Luna Dong</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="f/JulianaFreire">Juliana Freire</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="m/SergeyMelnik">Sergey Melnik 0001</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="o/BengChinOoi">Beng Chin Ooi</author>
+<author orcid="0000-0002-4418-4724" pid="o/FatmaOzcan">Fatma Ozcan</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<title>The Seattle Report on Database Research.</title>
+<pages>44-53</pages>
+<year>2019</year>
+<volume>48</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3385658.3385668</ee>
+<ee>https://www.wikidata.org/entity/Q118946092</ee>
+<url>db/journals/sigmod/sigmod48.html#AbadiAABBBBCCDD19</url>
+</article>
+</r>
+<r><article key="journals/tcad/WillseyLCBC19" mdate="2023-11-12">
+<author orcid="0000-0001-8066-4218" pid="194/2846">Max Willsey</author>
+<author orcid="0000-0001-7440-0291" pid="76/11027">Vincent T. Lee</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="20/1858">Rastislav Bod&#237;k</author>
+<author orcid="0000-0002-1377-6217" pid="95/5263">Luis Ceze</author>
+<title>Iterative Search for Reconfigurable Accelerator Blocks With a Compiler in the Loop.</title>
+<pages>407-418</pages>
+<year>2019</year>
+<volume>38</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCAD.2018.2878194</ee>
+<ee>https://www.wikidata.org/entity/Q121174551</ee>
+<url>db/journals/tcad/tcad38.html#WillseyLCBC19</url>
+</article>
+</r>
+<r><article key="journals/tog/AhmadRCK19" mdate="2023-11-12">
+<author orcid="0000-0002-8113-7580" pid="190/7596">Maaz Bin Safeer Ahmad</author>
+<author pid="09/1000">Jonathan Ragan-Kelley</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="57/3523">Shoaib Kamil 0001</author>
+<title>Automatically translating image processing libraries to halide.</title>
+<pages>204:1-204:13</pages>
+<year>2019</year>
+<volume>38</volume>
+<journal>ACM Trans. Graph.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/3355089.3356549</ee>
+<url>db/journals/tog/tog38.html#AhmadRCK19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cloud/MazumdarHBCCO19" mdate="2023-11-12">
+<author pid="202/2236">Amrita Mazumdar</author>
+<author pid="180/5761">Brandon Haynes</author>
+<author pid="b/MagdalenaBalazinska">Magda Balazinska</author>
+<author pid="95/5263">Luis Ceze</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="o/MarkOskin">Mark Oskin</author>
+<title>Perceptual Compression for Video Storage and Processing Systems.</title>
+<pages>179-192</pages>
+<year>2019</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/3357223.3362725</ee>
+<crossref>conf/cloud/2019</crossref>
+<url>db/conf/cloud/socc2019.html#MazumdarHBCCO19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/IyerCZ19" mdate="2023-11-12">
+<author pid="78/4928-1">Srinivasan Iyer 0001</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="21/6793">Luke Zettlemoyer</author>
+<title>Learning Programmatic Idioms for Scalable Semantic Parsing.</title>
+<pages>5425-5434</pages>
+<year>2019</year>
+<booktitle>EMNLP/IJCNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/D19-1545</ee>
+<crossref>conf/emnlp/2019-1</crossref>
+<url>db/conf/emnlp/emnlp2019-1.html#IyerCZ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/YangYWLC19" mdate="2023-11-12">
+<author pid="208/0023">Junwen Yang</author>
+<author pid="129/2744">Cong Yan</author>
+<author orcid="0000-0001-9162-9688" pid="183/4488">Chengcheng Wan</author>
+<author pid="31/5916-1">Shan Lu 0001</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>View-centric performance optimization for database-backed web applications.</title>
+<pages>994-1004</pages>
+<year>2019</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2019.00104</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3339629</ee>
+<crossref>conf/icse/2019</crossref>
+<url>db/conf/icse/icse2019.html#YangYWLC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HaynesMBCC19" mdate="2023-11-12">
+<author pid="180/5761">Brandon Haynes</author>
+<author pid="202/2236">Amrita Mazumdar</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="95/5263">Luis Ceze</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>Visual Road: A Video Data Management Benchmark.</title>
+<pages>972-987</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3324955</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#HaynesMBCC19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dbpl/2019" mdate="2023-11-12">
+<editor orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</editor>
+<editor pid="72/5342-1">Kim Nguyen 0001</editor>
+<title>Proceedings of the 17th ACM SIGPLAN International Symposium on Database Programming Languages, DBPL 2019, Phoenix, AZ, USA, June 23, 2019.</title>
+<publisher>ACM</publisher>
+<booktitle>DBPL</booktitle>
+<year>2019</year>
+<isbn>978-1-4503-6718-9</isbn>
+<ee>https://doi.org/10.1145/3315507</ee>
+<url>db/conf/dbpl/dbpl2019.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-01372" mdate="2019-05-21">
+<author pid="202/2236">Amrita Mazumdar</author>
+<author pid="180/5761">Brandon Haynes</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="95/5263">Luis Ceze</author>
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="o/MarkOskin">Mark Oskin</author>
+<title>Vignette: Perceptual Compression for Video Storage and Processing Systems.</title>
+<year>2019</year>
+<volume>abs/1902.01372</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.01372</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-01372</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-09086" mdate="2023-05-09">
+<author pid="78/4928-1">Srinivasan Iyer 0001</author>
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="21/6793">Luke Zettlemoyer</author>
+<title>Learning Programmatic Idioms for Scalable Semantic Parsing.</title>
+<year>2019</year>
+<volume>abs/1904.09086</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.09086</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-09086</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-09668" mdate="2022-03-28">
+<author pid="94/9817">Chenglong Wang</author>
+<author pid="30/4550-1">Yu Feng 0001</author>
+<author pid="20/1858">Rastislav Bod&#237;k</author>
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="85/3688">Isil Dillig</author>
+<title>Visualization by Example.</title>
+<year>2019</year>
+<volume>abs/1911.09668</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.09668</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-09668</url>
+</article>
+</r>
+<r><article key="journals/pacmpl/WangCB18" mdate="2023-11-12">
+<author pid="94/9817">Chenglong Wang</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="20/1858">Rastislav Bod&#237;k</author>
+<title>Speeding up symbolic reasoning for relational queries.</title>
+<pages>157:1-157:25</pages>
+<year>2018</year>
+<volume>2</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>OOPSLA</number>
+<ee type="oa">https://doi.org/10.1145/3276527</ee>
+<url>db/journals/pacmpl/pacmpl2.html#WangCB18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/HaynesMABCC18" mdate="2023-11-12">
+<author pid="180/5761">Brandon Haynes</author>
+<author pid="202/2236">Amrita Mazumdar</author>
+<author pid="33/198">Armin Alaghi</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="95/5263">Luis Ceze</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>LightDB: A DBMS for Virtual Reality Video.</title>
+<pages>1192-1205</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1192-haynes.pdf</ee>
+<ee>https://doi.org/10.14778/3231751.3231768</ee>
+<url>db/journals/pvldb/pvldb11.html#HaynesMABCC18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChuMRCS18" mdate="2024-02-05">
+<author pid="29/9582">Shumo Chu</author>
+<author pid="24/4066">Brendan Murphy</author>
+<author pid="141/1779">Jared Roesch</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<title>Axiomatic Foundations and Algorithms for Deciding Semantic Equivalences of SQL Queries.</title>
+<pages>1482-1495</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1482-chu.pdf</ee>
+<ee>https://doi.org/10.14778/3236187.3236200</ee>
+<ee>https://www.wikidata.org/entity/Q113237140</ee>
+<url>db/journals/pvldb/pvldb11.html#ChuMRCS18</url>
+</article>
+</r>
+<r><inproceedings key="conf/emnlp/IyerKCZ18" mdate="2023-11-12">
+<author pid="78/4928-1">Srinivasan Iyer 0001</author>
+<author pid="69/241">Ioannis Konstas</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="21/6793">Luke Zettlemoyer</author>
+<title>Mapping Language to Code in Programmatic Context.</title>
+<pages>1643-1652</pages>
+<year>2018</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/d18-1192</ee>
+<ee type="oa">https://aclanthology.org/D18-1192/</ee>
+<crossref>conf/emnlp/2018</crossref>
+<url>db/conf/emnlp/emnlp2018.html#IyerKCZ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/YangSLYC18" mdate="2023-11-12">
+<author pid="208/0023">Junwen Yang</author>
+<author pid="159/1150">Pranav Subramaniam</author>
+<author pid="31/5916-1">Shan Lu 0001</author>
+<author pid="129/2744">Cong Yan</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>How <i>not</i> to structure your database-backed web applications: a study of performance bugs in the wild.</title>
+<pages>800-810</pages>
+<year>2018</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/3180155.3180194</ee>
+<ee>https://ieeexplore.ieee.org/document/8453153</ee>
+<crossref>conf/icse/2018</crossref>
+<url>db/conf/icse/icse2018.html#YangSLYC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AhmadC18" mdate="2023-11-12">
+<author orcid="0000-0002-8113-7580" pid="190/7596">Maaz Bin Safeer Ahmad</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>Automatically Leveraging MapReduce Frameworks for Data-Intensive Applications.</title>
+<pages>1205-1220</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3196891</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#AhmadC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/YangYSLC18" mdate="2023-11-12">
+<author pid="208/0023">Junwen Yang</author>
+<author pid="129/2744">Cong Yan</author>
+<author pid="159/1150">Pranav Subramaniam</author>
+<author pid="31/5916-1">Shan Lu 0001</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>PowerStation: automatically detecting and fixing inefficiencies of database-backed web applications in IDE.</title>
+<pages>884-887</pages>
+<year>2018</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3236024.3264589</ee>
+<crossref>conf/sigsoft/2018</crossref>
+<url>db/conf/sigsoft/fse2018.html#YangYSLC18</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/pldi/2018mapl" mdate="2023-11-12">
+<editor pid="56/2013">Justin Gottschlich</editor>
+<editor orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</editor>
+<title>Proceedings of the 2nd ACM SIGPLAN International Workshop on Machine Learning and Programming Languages, MAPL@PLDI 2018, Philadelphia, PA, USA, June 18-22, 2018</title>
+<publisher>ACM</publisher>
+<booktitle>MAPL@PLDI</booktitle>
+<year>2018</year>
+<ee>https://doi.org/10.1145/3211346</ee>
+<url>db/conf/pldi/mapl2018.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-09802" mdate="2018-08-13">
+<author pid="190/7596">Maaz Bin Safeer Ahmad</author>
+<author pid="16/4915">Alvin Cheung</author>
+<title>Automatically Leveraging MapReduce Frameworks for Data-Intensive Applications.</title>
+<year>2018</year>
+<volume>abs/1801.09802</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.09802</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-09802</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-02229" mdate="2018-08-13">
+<author pid="29/9582">Shumo Chu</author>
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="s/DanSuciu">Dan Suciu</author>
+<title>Axiomatic Foundations and Algorithms for Deciding Semantic Equivalences of SQL Queries.</title>
+<year>2018</year>
+<volume>abs/1802.02229</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.02229</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-02229</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-09180" mdate="2018-08-13">
+<author pid="163/0478">Tomer Kaftan</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<title>Cuttlefish: A Lightweight Primitive for Adaptive Query Processing.</title>
+<year>2018</year>
+<volume>abs/1802.09180</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.09180</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-09180</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-09588" mdate="2023-05-09">
+<author pid="78/4928-1">Srinivasan Iyer 0001</author>
+<author pid="69/241">Ioannis Konstas</author>
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="21/6793">Luke Zettlemoyer</author>
+<title>Mapping Language to Code in Programmatic Context.</title>
+<year>2018</year>
+<volume>abs/1808.09588</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.09588</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-09588</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-01997" mdate="2018-10-30">
+<author pid="217/3619">Guna Prasaad</author>
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="s/DanSuciu">Dan Suciu</author>
+<title>Improving High Contention OLTP Performance via Transaction Scheduling.</title>
+<year>2018</year>
+<volume>abs/1810.01997</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.01997</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-01997</url>
+</article>
+</r>
+<r><article key="journals/pvldb/MehtaDZKCBRCVA17" mdate="2023-11-12">
+<author pid="192/2090">Parmita Mehta</author>
+<author pid="192/1354">Sven Dorkenwald</author>
+<author pid="25/5030-1">Dongfang Zhao 0001</author>
+<author pid="163/0478">Tomer Kaftan</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="155/1883">Ariel Rokem</author>
+<author orcid="0000-0001-5576-8189" pid="117/4231">Andrew J. Connolly</author>
+<author pid="04/10551">Jacob VanderPlas</author>
+<author pid="81/9883">Yusra AlSayyad</author>
+<title>Comparative Evaluation of Big-Data Systems on Scientific Image Analytics Workloads.</title>
+<pages>1226-1237</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p1226-mehta.pdf</ee>
+<ee>https://doi.org/10.14778/3137628.3137634</ee>
+<url>db/journals/pvldb/pvldb10.html#MehtaDZKCBRCVA17</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/IyerKCKZ17" mdate="2023-11-12">
+<author pid="78/4928-1">Srinivasan Iyer 0001</author>
+<author pid="69/241">Ioannis Konstas</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="29/5765">Jayant Krishnamurthy</author>
+<author pid="21/6793">Luke Zettlemoyer</author>
+<title>Learning a Neural Semantic Parser from User Feedback.</title>
+<pages>963-973</pages>
+<year>2017</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/P17-1089</ee>
+<crossref>conf/acl/2017-1</crossref>
+<url>db/conf/acl/acl2017-1.html#IyerKCKZ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/BalazinskaCCCS17" mdate="2020-03-12">
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="95/5263">Luis Ceze</author>
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="c/BrianCurless">Brian Curless</author>
+<author pid="s/StevenMSeitz">Steven M. Seitz</author>
+<title>A Visual Cloud for Virtual Reality Applications.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_94.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#BalazinskaCCCS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/ChuWWC17" mdate="2023-11-12">
+<author pid="29/9582">Shumo Chu</author>
+<author pid="94/9817">Chenglong Wang</author>
+<author pid="132/8683">Konstantin Weitz</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>Cosette: An Automated Prover for SQL.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/papers/p51-chu-cidr17.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#ChuWWC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/YanCYL17" mdate="2023-11-12">
+<author pid="129/2744">Cong Yan</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="208/0023">Junwen Yang</author>
+<author pid="31/5916-1">Shan Lu 0001</author>
+<title>Understanding Database Performance Inefficiencies in Real-world Web Applications.</title>
+<pages>1299-1308</pages>
+<year>2017</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3132847.3132954</ee>
+<crossref>conf/cikm/2017</crossref>
+<url>db/conf/cikm/cikm2017.html#YanCYL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/WangCB17" mdate="2023-11-12">
+<author pid="94/9817">Chenglong Wang</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="20/1858">Rastislav Bod&#237;k</author>
+<title>Synthesizing highly expressive SQL queries from input-output examples.</title>
+<pages>452-466</pages>
+<year>2017</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3062341.3062365</ee>
+<ee>https://doi.org/10.1145/3140587.3062365</ee>
+<crossref>conf/pldi/2017</crossref>
+<url>db/conf/pldi/pldi2017.html#WangCB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/ChuWCS17" mdate="2024-02-05">
+<author pid="29/9582">Shumo Chu</author>
+<author pid="132/8683">Konstantin Weitz</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<title>HoTTSQL: proving query rewrites with univalent SQL semantics.</title>
+<pages>510-524</pages>
+<year>2017</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/3062341.3062348</ee>
+<ee>https://doi.org/10.1145/3140587.3062348</ee>
+<crossref>conf/pldi/2017</crossref>
+<url>db/conf/pldi/pldi2017.html#ChuWCS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChuLWCS17" mdate="2024-02-05">
+<author pid="29/9582">Shumo Chu</author>
+<author pid="16/383">Daniel Li</author>
+<author pid="94/9817">Chenglong Wang</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<title>Demonstration of the Cosette Automated SQL Prover.</title>
+<pages>1591-1594</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3058728</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#ChuLWCS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HaynesMBCC17" mdate="2023-11-12">
+<author pid="180/5761">Brandon Haynes</author>
+<author pid="199/2693">Artem Minyaylov</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="95/5263">Luis Ceze</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>VisualCloud Demonstration: A DBMS for Virtual Reality.</title>
+<pages>1615-1618</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3058734</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#HaynesMBCC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/WangCB17" mdate="2023-11-12">
+<author pid="94/9817">Chenglong Wang</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="20/1858">Rastislav Bod&#237;k</author>
+<title>Interactive Query Synthesis from Input-Output Examples.</title>
+<pages>1631-1634</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3058738</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#WangCB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AhmadC17" mdate="2023-11-12">
+<author orcid="0000-0002-8113-7580" pid="190/7596">Maaz Bin Safeer Ahmad</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>Optimizing Data-Intensive Applications Automatically By Leveraging Parallel Data Processing Frameworks.</title>
+<pages>1675-1678</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3056440</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#AhmadC17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/IyerKCKZ17" mdate="2023-05-09">
+<author pid="78/4928-1">Srinivasan Iyer 0001</author>
+<author pid="69/241">Ioannis Konstas</author>
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="29/5765">Jayant Krishnamurthy</author>
+<author pid="21/6793">Luke Zettlemoyer</author>
+<title>Learning a Neural Semantic Parser from User Feedback.</title>
+<year>2017</year>
+<volume>abs/1704.08760</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1704.08760</ee>
+<url>db/journals/corr/corr1704.html#IyerKCKZ17</url>
+</article>
+</r>
+<r><article key="journals/ftpl/CheungS16" mdate="2023-11-12">
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author orcid="0000-0001-7604-8252" pid="95/6919">Armando Solar-Lezama</author>
+<title>Computer-Assisted Query Formulation.</title>
+<pages>1-94</pages>
+<year>2016</year>
+<volume>3</volume>
+<journal>Found. Trends Program. Lang.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1561/2500000018</ee>
+<url>db/journals/ftpl/ftpl3.html#CheungS16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/YanC16" mdate="2023-11-12">
+<author pid="129/2744">Cong Yan</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>Leveraging Lock Contention to Improve OLTP Application Performance.</title>
+<pages>444-455</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p444-yan.pdf</ee>
+<ee>https://doi.org/10.14778/2876473.2876479</ee>
+<url>db/journals/pvldb/pvldb9.html#YanC16</url>
+</article>
+</r>
+<r><article key="journals/tods/CheungMS16" mdate="2023-11-12">
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author orcid="0000-0001-7604-8252" pid="95/6919">Armando Solar-Lezama</author>
+<title>Sloth: Being Lazy Is a Virtue (When Issuing Database Queries).</title>
+<pages>8:1-8:42</pages>
+<year>2016</year>
+<volume>41</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2894749</ee>
+<url>db/journals/tods/tods41.html#CheungMS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/IyerKCZ16" mdate="2023-11-12">
+<author pid="78/4928-1">Srinivasan Iyer 0001</author>
+<author pid="69/241">Ioannis Konstas</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="21/6793">Luke Zettlemoyer</author>
+<title>Summarizing Source Code using a Neural Attention Model.</title>
+<year>2016</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/p16-1195</ee>
+<ee type="oa">https://aclanthology.org/P16-1195/</ee>
+<crossref>conf/acl/2016-1</crossref>
+<url>db/conf/acl/acl2016-1.html#IyerKCZ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloud/HaynesCB16" mdate="2023-11-12">
+<author pid="180/5761">Brandon Haynes</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<title>PipeGen: Data Pipe Generator for Hybrid Analytics.</title>
+<pages>470-483</pages>
+<year>2016</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/2987550.2987567</ee>
+<crossref>conf/cloud/2016</crossref>
+<url>db/conf/cloud/socc2016.html#HaynesCB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/KamilCIS16" mdate="2023-11-12">
+<author pid="57/3523">Shoaib Kamil 0001</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="62/8636">Shachar Itzhaky</author>
+<author orcid="0000-0001-7604-8252" pid="95/6919">Armando Solar-Lezama</author>
+<title>Verified lifting of stencil computations.</title>
+<pages>711-726</pages>
+<year>2016</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/2908080.2908117</ee>
+<ee>https://doi.org/10.1145/2980983.2908117</ee>
+<crossref>conf/pldi/2016</crossref>
+<url>db/conf/pldi/pldi2016.html#KamilCIS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcomm/SivaramanCBKABV16" mdate="2023-11-12">
+<author pid="123/2342">Anirudh Sivaraman</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="b/MihaiBudiu">Mihai Budiu</author>
+<author pid="55/4381">Changhoon Kim</author>
+<author pid="37/8397">Mohammad Alizadeh</author>
+<author pid="b/HariBalakrishnan">Hari Balakrishnan</author>
+<author pid="v/GeorgeVarghese">George Varghese</author>
+<author pid="m/NickMcKeown">Nick McKeown</author>
+<author pid="173/5213">Steve Licking</author>
+<title>Packet Transactions: High-Level Programming for Line-Rate Switches.</title>
+<pages>15-28</pages>
+<year>2016</year>
+<booktitle>SIGCOMM</booktitle>
+<ee>https://doi.org/10.1145/2934872.2934900</ee>
+<crossref>conf/sigcomm/2016</crossref>
+<url>db/conf/sigcomm/sigcomm2016.html#SivaramanCBKABV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/AhmadC16" mdate="2023-11-12">
+<author orcid="0000-0002-8113-7580" pid="190/7596">Maaz Bin Safeer Ahmad</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>Leveraging Parallel Data Processing Frameworks with Verified Lifting.</title>
+<booktitle>SYNT@CAV</booktitle>
+<year>2016</year>
+<pages>67-83</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.229.7</ee>
+<ee type="oa">http://arxiv.org/abs/1611.07623</ee>
+<crossref>journals/corr/PiskacD16</crossref>
+<url>db/series/eptcs/eptcs229.html#AhmadC16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/HaynesCB16" mdate="2018-08-13">
+<author pid="180/5761">Brandon Haynes</author>
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<title>PipeGen: Data Pipe Generator for Hybrid Analytics.</title>
+<year>2016</year>
+<volume>abs/1605.01664</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1605.01664</ee>
+<url>db/journals/corr/corr1605.html#HaynesCB16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/YanCCL16" mdate="2020-08-20">
+<author pid="129/2744">Cong Yan</author>
+<author pid="169/6786">Zewei Chu</author>
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="31/5916-1">Shan Lu 0001</author>
+<title>Database-Backed Applications in the Wild: How Well Do They Work?</title>
+<year>2016</year>
+<volume>abs/1607.02561</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1607.02561</ee>
+<url>db/journals/corr/corr1607.html#YanCCL16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ChuWCS16" mdate="2018-08-13">
+<author pid="29/9582">Shumo Chu</author>
+<author pid="132/8683">Konstantin Weitz</author>
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="s/DanSuciu">Dan Suciu</author>
+<title>HoTTSQL: Proving Query Rewrites with Univalent SQL Semantics.</title>
+<year>2016</year>
+<volume>abs/1607.04822</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1607.04822</ee>
+<url>db/journals/corr/corr1607.html#ChuWCS16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/MehtaDZKCBRCVA16" mdate="2019-12-06">
+<author pid="192/2090">Parmita Mehta</author>
+<author pid="192/1354">Sven Dorkenwald</author>
+<author pid="25/5030-1">Dongfang Zhao 0001</author>
+<author pid="163/0478">Tomer Kaftan</author>
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="155/1883">Ariel Rokem</author>
+<author pid="117/4231">Andrew J. Connolly</author>
+<author pid="04/10551">Jacob VanderPlas</author>
+<author pid="81/9883">Yusra AlSayyad</author>
+<title>Comparative Evaluation of Big-Data Systems on Scientific Image Analytics Workloads.</title>
+<year>2016</year>
+<volume>abs/1612.02485</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1612.02485</ee>
+<url>db/journals/corr/corr1612.html#MehtaDZKCBRCVA16</url>
+</article>
+</r>
+<r><phdthesis key="phd/ndltd/Cheung15" mdate="2023-11-12">
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>Rethinking the application-database interface.</title>
+<year>2015</year>
+<school>Massachusetts Institute of Technology, Cambridge, MA, USA</school>
+<ee>https://hdl.handle.net/1721.1/101565</ee>
+<note type="source">ndltd.org (oai:dspace.mit.edu:1721.1/101565)</note>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/cidr/Cheung15" mdate="2020-03-12">
+<author pid="16/4915">Alvin Cheung</author>
+<title>Towards Generating Application-Specific Data Management Systems.</title>
+<year>2015</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2015/Papers/17_Abstract83CA.pdf</ee>
+<crossref>conf/cidr/2015</crossref>
+<url>db/conf/cidr/cidr2015.html#Cheung15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/snapl/CheungKS15" mdate="2023-11-12">
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="57/3523">Shoaib Kamil 0001</author>
+<author orcid="0000-0001-7604-8252" pid="95/6919">Armando Solar-Lezama</author>
+<title>Bridging the Gap Between General-Purpose and Domain-Specific Compilers with Synthesis.</title>
+<pages>51-62</pages>
+<year>2015</year>
+<booktitle>SNAPL</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.SNAPL.2015.51</ee>
+<crossref>conf/snapl/2015</crossref>
+<url>db/conf/snapl/snapl2015.html#CheungKS15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/SivaramanBCKLVB15" mdate="2018-08-13">
+<author pid="123/2342">Anirudh Sivaraman</author>
+<author pid="b/MihaiBudiu">Mihai Budiu</author>
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="55/4381">Changhoon Kim</author>
+<author pid="173/5213">Steve Licking</author>
+<author pid="v/GeorgeVarghese">George Varghese</author>
+<author pid="b/HariBalakrishnan">Hari Balakrishnan</author>
+<author pid="37/8397">Mohammad Alizadeh</author>
+<author pid="m/NickMcKeown">Nick McKeown</author>
+<title>Packet Transactions: A Programming Model for Data-Plane Algorithms at Hardware Speed.</title>
+<year>2015</year>
+<volume>abs/1512.05023</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1512.05023</ee>
+<url>db/journals/corr/corr1512.html#SivaramanBCKLVB15</url>
+</article>
+</r>
+<r><article key="journals/debu/CheungMSAM14" mdate="2023-11-12">
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author orcid="0000-0001-7604-8252" pid="95/6919">Armando Solar-Lezama</author>
+<author pid="116/8396">Owen Arden</author>
+<author pid="m/AndrewCMyers">Andrew C. Myers</author>
+<title>Using Program Analysis to Improve Database Applications.</title>
+<pages>48-59</pages>
+<year>2014</year>
+<volume>37</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A14mar/p48.pdf</ee>
+<url>db/journals/debu/debu37.html#CheungMSAM14</url>
+</article>
+</r>
+<r><inproceedings key="conf/hpdc/Cheung14" mdate="2023-11-12">
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<title>Rethinking the application-database interface.</title>
+<pages>1-2</pages>
+<year>2014</year>
+<booktitle>PSFW@HPDC</booktitle>
+<ee>https://doi.org/10.1145/2603941.2603947</ee>
+<crossref>conf/hpdc/2014psfw</crossref>
+<url>db/conf/hpdc/psfw2014.html#Cheung14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/CheungMS14" mdate="2023-11-12">
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author orcid="0000-0001-7604-8252" pid="95/6919">Armando Solar-Lezama</author>
+<title>Sloth: being lazy is a virtue (when issuing database queries).</title>
+<pages>931-942</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2593672</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#CheungMS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apsys/CheungR0MB13" mdate="2023-11-12">
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="22/4453">Lenin Ravindranath</author>
+<author pid="41/3679">Eugene Wu 0002</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="b/HariBalakrishnan">Hari Balakrishnan</author>
+<title>Mobile applications need targeted micro-updates.</title>
+<pages>8:1-8:6</pages>
+<year>2013</year>
+<booktitle>APSys</booktitle>
+<ee>https://doi.org/10.1145/2500727.2500744</ee>
+<crossref>conf/apsys/2013</crossref>
+<url>db/conf/apsys/apsys2013.html#CheungR0MB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/CheungAMSM13" mdate="2023-08-08">
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="116/8396">Owen Arden</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="95/6919">Armando Solar-Lezama</author>
+<author pid="m/AndrewCMyers">Andrew C. Myers</author>
+<title>StatusQuo: Making Familiar Abstractions Perform Using Program Analysis.</title>
+<year>2013</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2013/Papers/CIDR13_Paper117.pdf</ee>
+<crossref>conf/cidr/2013</crossref>
+<url>db/conf/cidr/cidr2013.html#CheungAMSM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/CheungSM13" mdate="2023-11-12">
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author orcid="0000-0001-7604-8252" pid="95/6919">Armando Solar-Lezama</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>Optimizing database-backed applications with query synthesis.</title>
+<pages>3-14</pages>
+<year>2013</year>
+<booktitle>PLDI</booktitle>
+<ee>https://doi.org/10.1145/2491956.2462180</ee>
+<ee>https://doi.org/10.1145/2499370.2462180</ee>
+<crossref>conf/pldi/2013</crossref>
+<url>db/conf/pldi/pldi2013.html#CheungSM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/CheungAMM13" mdate="2023-11-12">
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="116/8396">Owen Arden</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="m/AndrewCMyers">Andrew C. Myers</author>
+<title>Speeding up database applications with Pyxis.</title>
+<pages>969-972</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2465265</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#CheungAMM13</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/CheungAMM12" mdate="2023-11-12">
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="116/8396">Owen Arden</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="m/AndrewCMyers">Andrew C. Myers</author>
+<title>Automatic Partitioning of Database Applications.</title>
+<pages>1471-1482</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p1471_alvincheung_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2350229.2350262</ee>
+<url>db/journals/pvldb/pvldb5.html#CheungAMM12</url>
+</article>
+</r>
+<r><inproceedings key="conf/apsys/WangCCJZK12" mdate="2023-11-12">
+<author pid="08/5760-5">Xi Wang 0005</author>
+<author pid="12/3578-1">Haogang Chen 0001</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="129/3026">Zhihao Jia</author>
+<author pid="99/5780">Nickolai Zeldovich</author>
+<author pid="k/MFransKaashoek">M. Frans Kaashoek</author>
+<title>Undefined behavior: what happened to my code?</title>
+<pages>9</pages>
+<year>2012</year>
+<booktitle>APSys</booktitle>
+<ee>https://doi.org/10.1145/2349896.2349905</ee>
+<crossref>conf/apsys/2012</crossref>
+<url>db/conf/apsys/apsys2012.html#WangCCJZK12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/CheungSM12" mdate="2023-11-12">
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author orcid="0000-0001-7604-8252" pid="95/6919">Armando Solar-Lezama</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>Using program synthesis for social recommendations.</title>
+<pages>1732-1736</pages>
+<year>2012</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2396761.2398507</ee>
+<crossref>conf/cikm/2012</crossref>
+<url>db/conf/cikm/cikm2012.html#CheungSM12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1208-0271" mdate="2023-08-08">
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="116/8396">Owen Arden</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="m/AndrewCMyers">Andrew C. Myers</author>
+<title>Automatic Partitioning of Database Applications</title>
+<ee type="oa">http://arxiv.org/abs/1208.0271</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1208.0271</volume>
+<url>db/journals/corr/corr1208.html#abs-1208-0271</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1208-2013" mdate="2023-08-08">
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="95/6919">Armando Solar-Lezama</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>Inferring SQL Queries Using Program Synthesis</title>
+<ee type="oa">http://arxiv.org/abs/1208.2013</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1208.2013</volume>
+<url>db/journals/corr/corr1208.html#abs-1208-2013</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1208-2925" mdate="2023-08-08">
+<author pid="16/4915">Alvin Cheung</author>
+<author pid="95/6919">Armando Solar-Lezama</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>Using Program Synthesis for Social Recommendations</title>
+<ee type="oa">http://arxiv.org/abs/1208.2925</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1208.2925</volume>
+<url>db/journals/corr/corr1208.html#abs-1208-2925</url>
+</article>
+</r>
+<r><inproceedings key="conf/sensys/CheungTM11" mdate="2023-11-12">
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="47/1858">Arvind Thiagarajan</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>Automatically generating interesting events with LifeJoin.</title>
+<pages>411-412</pages>
+<year>2011</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/2070942.2071015</ee>
+<crossref>conf/sensys/2011</crossref>
+<url>db/conf/sensys/sensys2011.html#CheungTM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/CheungSM11" mdate="2023-11-12">
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author orcid="0000-0001-7604-8252" pid="95/6919">Armando Solar-Lezama</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>Partial replay of long-running applications.</title>
+<pages>135-145</pages>
+<year>2011</year>
+<booktitle>SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/2025113.2025135</ee>
+<crossref>conf/sigsoft/2011</crossref>
+<url>db/conf/sigsoft/fse2011.html#CheungSM11</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/CheungM08" mdate="2023-11-12">
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>Performance profiling with EndoScope, an acquisitional software monitoring framework.</title>
+<pages>42-53</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1453866.pdf</ee>
+<ee>https://doi.org/10.14778/1453856.1453866</ee>
+<url>db/journals/pvldb/pvldb1.html#CheungM08</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/CheungKS07" mdate="2023-11-12">
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="k/KarinKailing">Karin Kailing</author>
+<author pid="s/StefanSchonauer">Stefan Sch&#246;nauer</author>
+<title>Theseos: A Query Engine for Traceability across Sovereign, Distributed RFID Databases.</title>
+<pages>1495-1496</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.369050</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2007.369050</ee>
+<url>db/conf/icde/icde2007.html#CheungKS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobide/CheungGJS07" mdate="2023-11-12">
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author orcid="0000-0003-1989-3913" pid="g/TyroneGrandison">Tyrone Grandison</author>
+<author pid="71/4768">Christopher M. Johnson</author>
+<author pid="s/StefanSchonauer">Stefan Sch&#246;nauer</author>
+<title>&#207;nf&#239;n&#239;ty: a generic platform for application development and information sharing on mobile devices.</title>
+<pages>25-32</pages>
+<year>2007</year>
+<crossref>conf/mobide/2007</crossref>
+<booktitle>MobiDE</booktitle>
+<ee>https://doi.org/10.1145/1254850.1254856</ee>
+<url>db/conf/mobide/mobide2007.html#CheungGJS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ideas/AgrawalCKS06" mdate="2023-11-12">
+<author pid="a/RAgrawal">Rakesh Agrawal 0001</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="k/KarinKailing">Karin Kailing</author>
+<author pid="s/StefanSchonauer">Stefan Sch&#246;nauer</author>
+<title>Towards Traceability across Sovereign, Distributed RFID Databases.</title>
+<pages>174-184</pages>
+<year>2006</year>
+<crossref>conf/ideas/2006</crossref>
+<booktitle>IDEAS</booktitle>
+<ee>https://doi.org/10.1109/IDEAS.2006.47</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IDEAS.2006.47</ee>
+<url>db/conf/ideas/ideas2006.html#AgrawalCKS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/PatilYKCHB05" mdate="2023-11-12">
+<author pid="49/4093">Dinesh Patil</author>
+<author pid="06/3258">Sunghee Yun</author>
+<author pid="35/3828">Seung-Jean Kim</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="h/MarkHorowitz">Mark Horowitz</author>
+<author pid="b/SPBoyd">Stephen P. Boyd</author>
+<title>A New Method for Design of Robust Digital Circuits.</title>
+<pages>676-681</pages>
+<year>2005</year>
+<crossref>conf/isqed/2005</crossref>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2005.11</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISQED.2005.11</ee>
+<url>db/conf/isqed/isqed2005.html#PatilYKCHB05</url>
+</inproceedings>
+</r>
+<coauthors n="192" nc="2">
+<co c="0" n="2"><na f="a/Abadi:Daniel_J=" pid="a/DJAbadi">Daniel J. Abadi</na><na>Daniel Abadi</na></co>
+<co c="0"><na f="a/Adams:Andrew" pid="04/5122">Andrew Adams</na></co>
+<co c="0"><na f="a/Agrawal_0001:Rakesh" pid="a/RAgrawal">Rakesh Agrawal 0001</na></co>
+<co c="0"><na f="a/Ahmad:Maaz_Bin_Safeer" pid="190/7596">Maaz Bin Safeer Ahmad</na></co>
+<co c="0"><na f="a/Ailamaki:Anastasia" pid="a/AnastassiaAilamaki">Anastasia Ailamaki</na></co>
+<co c="0"><na f="a/Alaghi:Armin" pid="33/198">Armin Alaghi</na></co>
+<co c="0"><na f="a/Alizadeh:Mohammad" pid="37/8397">Mohammad Alizadeh</na></co>
+<co c="0"><na f="a/AlSayyad:Yusra" pid="81/9883">Yusra AlSayyad</na></co>
+<co c="0"><na f="a/Andersen:David_G=" pid="a/DavidGAndersen">David G. Andersen</na></co>
+<co c="0"><na f="a/Ardakani:Arash" pid="133/4133">Arash Ardakani</na></co>
+<co c="0"><na f="a/Arden:Owen" pid="116/8396">Owen Arden</na></co>
+<co c="0"><na f="b/Bailis:Peter" pid="47/8816">Peter Bailis</na></co>
+<co c="0"><na f="b/Bajaj:Payal" pid="175/5244">Payal Bajaj</na></co>
+<co c="0"><na f="b/Balakrishnan:Hari" pid="b/HariBalakrishnan">Hari Balakrishnan</na></co>
+<co c="0" n="2"><na f="b/Balazinska:Magdalena" pid="b/MagdalenaBalazinska">Magdalena Balazinska</na><na>Magda Balazinska</na></co>
+<co c="0"><na f="b/Benara:Vinamra" pid="185/5780">Vinamra Benara</na></co>
+<co c="0"><na f="b/Bernstein:Philip_A=" pid="b/PhilipABernstein">Philip A. Bernstein</na></co>
+<co c="0"><na f="b/Bhatia:Sahil" pid="177/9301">Sahil Bhatia</na></co>
+<co c="0"><na f="b/Bod=iacute=k:Rastislav" pid="20/1858">Rastislav Bod&#237;k</na></co>
+<co c="0"><na f="b/Boncz:Peter_A=" pid="b/PeterABoncz">Peter A. Boncz</na></co>
+<co c="0"><na f="b/Boyd:Stephen_P=" pid="b/SPBoyd">Stephen P. Boyd</na></co>
+<co c="0"><na f="b/Budiu:Mihai" pid="b/MihaiBudiu">Mihai Budiu</na></co>
+<co c="0"><na f="c/Cen:Yukuo" pid="241/4994">Yukuo Cen</na></co>
+<co c="0"><na f="c/Ceze:Luis" pid="95/5263">Luis Ceze</na></co>
+<co c="0"><na f="c/Chasins:Sarah_E=" pid="76/10322">Sarah E. Chasins</na></co>
+<co c="0"><na f="c/Chaudhuri:Surajit" pid="c/SurajitChaudhuri">Surajit Chaudhuri</na></co>
+<co c="0"><na f="c/Chen_0001:Haogang" pid="12/3578-1">Haogang Chen 0001</na></co>
+<co c="0"><na f="c/Chen:Jianfei" pid="145/2814">Jianfei Chen</na></co>
+<co c="0"><na f="c/Chen:Weize" pid="245/7488">Weize Chen</na></co>
+<co c="0"><na f="c/Chen:Xinyue" pid="124/5261">Xinyue Chen</na></co>
+<co c="0"><na f="c/Chen:Xinyun" pid="03/8495">Xinyun Chen</na></co>
+<co c="0"><na f="c/Chu:Shumo" pid="29/9582">Shumo Chu</na></co>
+<co c="0"><na f="c/Chu:Zewei" pid="169/6786">Zewei Chu</na></co>
+<co c="0"><na f="c/Connolly:Andrew_J=" pid="117/4231">Andrew J. Connolly</na></co>
+<co c="0"><na f="c/Crooks:Natacha" pid="161/0113">Natacha Crooks</na></co>
+<co c="0"><na f="c/Curless:Brian" pid="c/BrianCurless">Brian Curless</na></co>
+<co c="0"><na f="d/Daum:Maureen" pid="239/5084">Maureen Daum</na></co>
+<co c="0"><na f="d/Deng:Zhijie" pid="209/4959">Zhijie Deng</na></co>
+<co c="0"><na f="d/Dillig:Isil" pid="85/3688">Isil Dillig</na></co>
+<co c="0"><na f="d/Doan:AnHai" pid="d/AnHaiDoan">AnHai Doan</na></co>
+<co c="0" n="2"><na f="d/Dong_0001:Xin" pid="d/XinLunaDong">Xin Dong 0001</na><na>Luna Dong</na></co>
+<co c="0"><na f="d/Dorkenwald:Sven" pid="192/1354">Sven Dorkenwald</na></co>
+<co c="1"><na f="d/Dost:Katharina" pid="285/3277">Katharina Dost</na></co>
+<co c="0"><na f="e/Elhoushi:Mostafa" pid="157/6350">Mostafa Elhoushi</na></co>
+<co c="0"><na f="e/Elibol:Melih" pid="228/0272">Melih Elibol</na></co>
+<co c="1"><na f="f/Feng:Haoran" pid="43/6249">Haoran Feng</na></co>
+<co c="0"><na f="f/Feng_0001:Yu" pid="30/4550-1">Yu Feng 0001</na></co>
+<co c="0"><na f="f/Franklin:Michael_J=" pid="f/MJFranklin">Michael J. Franklin</na></co>
+<co c="0"><na f="f/Freire:Juliana" pid="f/JulianaFreire">Juliana Freire</na></co>
+<co c="0"><na f="g/Gao_0001:Jianfeng" pid="92/5339">Jianfeng Gao 0001</na></co>
+<co c="0"><na f="g/Ge:Yongming" pid="300/4051">Yongming Ge</na></co>
+<co c="0"><na f="g/Gehrke:Johannes" pid="g/JohannesGehrke">Johannes Gehrke</na></co>
+<co c="0"><na f="g/Genc:Hasan" pid="210/3164">Hasan Genc</na></co>
+<co c="0"><na f="g/Ghodsi_0002:Ali" pid="71/4226-2">Ali Ghodsi 0002</na></co>
+<co c="0" n="2"><na f="g/Goldberg:Kenneth_Y=" pid="g/KennethYGoldberg">Kenneth Y. Goldberg</na><na>Ken Goldberg</na></co>
+<co c="0"><na f="g/Gong:Linyuan" pid="213/8172">Linyuan Gong</na></co>
+<co c="0"><na f="g/Gonzalez:Joey" pid="280/1587">Joey Gonzalez</na></co>
+<co c="0" n="2"><na f="g/Gonzalez_0001:Joseph" pid="61/8262">Joseph Gonzalez 0001</na><na>Joseph E. Gonzalez</na></co>
+<co c="0" n="2"><na f="g/Gottschlich:Justin_Emile" pid="56/2013">Justin Emile Gottschlich</na><na>Justin Gottschlich</na></co>
+<co c="0"><na f="g/Grandison:Tyrone" pid="g/TyroneGrandison">Tyrone Grandison</na></co>
+<co c="0"><na f="h/Haan:Altan" pid="267/9582">Altan Haan</na></co>
+<co c="0"><na f="h/Halevy:Alon_Y=" pid="h/AlonYHalevy">Alon Y. Halevy</na></co>
+<co c="0"><na f="h/Han_0007:Xu" pid="19/3011-7">Xu Han 0007</na></co>
+<co c="0"><na f="h/Haynes:Brandon" pid="180/5761">Brandon Haynes</na></co>
+<co c="0"><na f="h/He_0002:Dong" pid="16/5283-2">Dong He 0002</na></co>
+<co c="0"><na f="h/Helal:Yousef" pid="354/6096">Yousef Helal</na></co>
+<co c="0"><na f="h/Hellerstein:Joseph_M=" pid="h/JosephMHellerstein">Joseph M. Hellerstein</na></co>
+<co c="0"><na f="h/Horowitz:Mark" pid="h/MarkHorowitz">Mark Horowitz</na></co>
+<co c="0"><na f="h/Hou:Tyler" pid="349/7699">Tyler Hou</na></co>
+<co c="0"><na f="h/Hu:Lanxiang" pid="335/3984">Lanxiang Hu</na></co>
+<co c="0"><na f="i/Iancu:Costin" pid="97/662">Costin Iancu</na></co>
+<co c="0"><na f="i/Idreos:Stratos" pid="i/StratosIdreos">Stratos Idreos</na></co>
+<co c="0"><na f="i/Itzhaky:Shachar" pid="62/8636">Shachar Itzhaky</na></co>
+<co c="0"><na f="i/Iyer_0001:Srinivasan" pid="78/4928-1">Srinivasan Iyer 0001</na></co>
+<co c="0"><na f="j/Jha:Siddharth" pid="190/7819">Siddharth Jha</na></co>
+<co c="0"><na f="j/Jia:Zhihao" pid="129/3026">Zhihao Jia</na></co>
+<co c="0"><na f="j/Johnson:Christopher_M=" pid="71/4768">Christopher M. Johnson</na></co>
+<co c="0"><na f="j/Jordan:Michael_I=" pid="j/MichaelIJordan">Michael I. Jordan</na></co>
+<co c="0"><na f="j/Joseph:Anthony_D=" pid="30/2317">Anthony D. Joseph</na></co>
+<co c="0"><na f="k/Kaashoek:M=_Frans" pid="k/MFransKaashoek">M. Frans Kaashoek</na></co>
+<co c="0"><na f="k/Kaftan:Tomer" pid="163/0478">Tomer Kaftan</na></co>
+<co c="0"><na f="k/Kamil_0001:Shoaib" pid="57/3523">Shoaib Kamil 0001</na></co>
+<co c="0"><na f="k/Kim:Changhoon" pid="55/4381">Changhoon Kim</na></co>
+<co c="0"><na f="k/Kim:Seung=Jean" pid="35/3828">Seung-Jean Kim</na></co>
+<co c="0"><na f="k/Kittivorawong:Chanwut" pid="284/8705">Chanwut Kittivorawong</na></co>
+<co c="0"><na f="k/Ko:Amy_J=" pid="181/2345">Amy J. Ko</na></co>
+<co c="0"><na f="k/Kohli:Sumer" pid="294/1426">Sumer Kohli</na></co>
+<co c="0"><na f="k/Konstas:Ioannis" pid="69/241">Ioannis Konstas</na></co>
+<co c="0"><na f="k/Kossmann:Donald" pid="k/DonaldKossmann">Donald Kossmann</na></co>
+<co c="0"><na f="k/Kraska:Tim" pid="26/6037">Tim Kraska</na></co>
+<co c="0"><na f="k/Krishnamurthy:Jayant" pid="29/5765">Jayant Krishnamurthy</na></co>
+<co c="0"><na f="k/Krishnamurthy:Sailesh" pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</na></co>
+<co c="1"><na f="l/Lacombe:Thomas" pid="234/1983">Thomas Lacombe</na></co>
+<co c="0"><na f="l/Laddad:Shadaj" pid="280/8310">Shadaj Laddad</na></co>
+<co c="0"><na f="l/Lee:Sharon" pid="51/758">Sharon Lee</na></co>
+<co c="0"><na f="l/Lee:Vincent_T=" pid="76/11027">Vincent T. Lee</na></co>
+<co c="1"><na f="l/Lee:Yokiu" pid="348/2131">Yokiu Lee</na></co>
+<co c="1"><na f="l/Leung:Johnathan" pid="348/1816">Johnathan Leung</na></co>
+<co c="0"><na f="l/Li:Daniel" pid="16/383">Daniel Li</na></co>
+<co c="0"><na f="l/Li:Ge" pid="24/712">Ge Li</na></co>
+<co c="0"><na f="l/Li:Zhuohan" pid="96/9986">Zhuohan Li</na></co>
+<co c="0"><na f="l/Licking:Steve" pid="173/5213">Steve Licking</na></co>
+<co c="0"><na f="l/Lin:Vanessa" pid="260/0916">Vanessa Lin</na></co>
+<co c="0"><na f="l/Liu:Xiaodong" pid="65/622">Xiaodong Liu</na></co>
+<co c="0"><na f="l/Liu:Xiaoxuan" pid="232/8368">Xiaoxuan Liu</na></co>
+<co c="0"><na f="l/Liu_0001:Zhiyuan" pid="53/3245-1">Zhiyuan Liu 0001</na></co>
+<co c="0"><na f="l/Lu_0001:Shan" pid="31/5916-1">Shan Lu 0001</na></co>
+<co c="1"><na f="l/Lu:Yixiao" pid="315/4111">Yixiao Lu</na></co>
+<co c="0"><na f="m/Madden_0001:Samuel" pid="m/SamuelMadden">Samuel Madden 0001</na></co>
+<co c="0"><na f="m/Mahoney:Michael_W=" pid="10/6978">Michael W. Mahoney</na></co>
+<co c="0"><na f="m/Markl:Volker" pid="m/VMarkl">Volker Markl</na></co>
+<co c="0"><na f="m/Mazumdar:Amrita" pid="202/2236">Amrita Mazumdar</na></co>
+<co c="0"><na f="m/McKeown:Nick" pid="m/NickMcKeown">Nick McKeown</na></co>
+<co c="0"><na f="m/Mehta:Parmita" pid="192/2090">Parmita Mehta</na></co>
+<co c="0"><na f="m/Melnik_0001:Sergey" pid="m/SergeyMelnik">Sergey Melnik 0001</na></co>
+<co c="0"><na f="m/Milano:Mae" pid="321/0647">Mae Milano</na></co>
+<co c="0"><na f="m/Milo:Tova" pid="m/TovaMilo">Tova Milo</na></co>
+<co c="0"><na f="m/Minyaylov:Artem" pid="199/2693">Artem Minyaylov</na></co>
+<co c="0"><na f="m/Mohan_0001:C=" pid="m/CMohan">C. Mohan 0001</na></co>
+<co c="0"><na f="m/Murphy:Brendan" pid="24/4066">Brendan Murphy</na></co>
+<co c="0" n="2"><na f="m/Murthy:Karin" pid="k/KarinKailing">Karin Murthy</na><na>Karin Kailing</na></co>
+<co c="0"><na f="m/Myers:Andrew_C=" pid="m/AndrewCMyers">Andrew C. Myers</na></co>
+<co c="0"><na f="n/Neumann_0001:Thomas" pid="n/ThomasNeumann">Thomas Neumann 0001</na></co>
+<co c="-1"><na f="n/Nguyen_0001:Kim" pid="72/5342-1">Kim Nguyen 0001</na></co>
+<co c="0"><na f="n/Nishida:Yuto" pid="342/5439">Yuto Nishida</na></co>
+<co c="0"><na f="o/Ooi:Beng_Chin" pid="o/BengChinOoi">Beng Chin Ooi</na></co>
+<co c="0"><na f="o/Oskin:Mark" pid="o/MarkOskin">Mark Oskin</na></co>
+<co c="0" n="2"><na f="=/=Ouml=zcan:Fatma" pid="o/FatmaOzcan">Fatma &#214;zcan</na><na>Fatma Ozcan</na></co>
+<co c="0"><na f="p/Pan:Sicheng" pid="253/0900">Sicheng Pan</na></co>
+<co c="0"><na f="p/Parameswaran:Aditya_G=" pid="40/7459">Aditya G. Parameswaran</na></co>
+<co c="0"><na f="p/Patel:Jignesh_M=" pid="p/JMPatel">Jignesh M. Patel</na></co>
+<co c="0"><na f="p/Patil:Dinesh" pid="49/4093">Dinesh Patil</na></co>
+<co c="0"><na f="p/Patterson_0001:David_A=" pid="p/DAPatterson">David A. Patterson 0001</na></co>
+<co c="0"><na f="p/Pavlo:Andrew" pid="58/4127">Andrew Pavlo</na></co>
+<co c="0" n="2"><na f="p/Popa:Raluca_A=" pid="91/275">Raluca A. Popa</na><na>Raluca Ada Popa</na></co>
+<co c="0"><na f="p/Popovici:Doru=Thom" pid="136/0337">Doru-Thom Popovici</na></co>
+<co c="0"><na f="p/Power:Conor" pid="32/7788">Conor Power</na></co>
+<co c="0"><na f="p/Prasaad:Guna" pid="217/3619">Guna Prasaad</na></co>
+<co c="0"><na f="r/Ragan=Kelley:Jonathan" pid="09/1000">Jonathan Ragan-Kelley</na></co>
+<co c="0"><na f="r/Ramakrishnan:Raghu" pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</na></co>
+<co c="0"><na f="r/Ravindranath:Lenin" pid="22/4453">Lenin Ravindranath</na></co>
+<co c="0"><na f="r/R=eacute=:Christopher" pid="r/ChristopherRe">Christopher R&#233;</na></co>
+<co c="0"><na f="r/Roesch:Jared" pid="141/1779">Jared Roesch</na></co>
+<co c="0"><na f="r/Rokem:Ariel" pid="155/1883">Ariel Rokem</na></co>
+<co c="0"><na f="r/Root:Alexander_J=" pid="314/7068">Alexander J. Root</na></co>
+<co c="0"><na f="s/Samuel:Mingwei" pid="266/6089">Mingwei Samuel</na></co>
+<co c="0"><na f="s/Sch=ouml=nauer:Stefan" pid="s/StefanSchonauer">Stefan Sch&#246;nauer</na></co>
+<co c="0"><na f="s/Seitz:Steven_M=" pid="s/StevenMSeitz">Steven M. Seitz</na></co>
+<co c="0"><na f="s/Sen:Koushik" pid="04/418">Koushik Sen</na></co>
+<co c="0"><na f="s/Seshia:Sanjit_A=" pid="s/SanjitASeshia">Sanjit A. Seshia</na></co>
+<co c="0"><na f="s/Sethi:Utsav" pid="276/3282">Utsav Sethi</na></co>
+<co c="0"><na f="s/Shao:Yakun_Sophia" pid="133/9941">Yakun Sophia Shao</na></co>
+<co c="0"><na f="s/Shenker:Scott" pid="34/5593">Scott Shenker</na></co>
+<co c="0"><na f="s/Sivaraman:Anirudh" pid="123/2342">Anirudh Sivaraman</na></co>
+<co c="0"><na f="s/Solar=Lezama:Armando" pid="95/6919">Armando Solar-Lezama</na></co>
+<co c="0"><na f="s/Song:Dawn" pid="s/DXSong">Dawn Song</na></co>
+<co c="0"><na f="s/Song:Xia" pid="165/6299">Xia Song</na></co>
+<co c="0"><na f="s/Stoica:Ion" pid="s/IonStoica">Ion Stoica</na></co>
+<co c="0"><na f="s/Stonebraker:Michael" pid="s/MichaelStonebraker">Michael Stonebraker</na></co>
+<co c="0"><na f="s/Subramaniam:Pranav" pid="159/1150">Pranav Subramaniam</na></co>
+<co c="0"><na f="s/Suciu:Dan" pid="s/DanSuciu">Dan Suciu</na></co>
+<co c="0"><na f="s/Sun:Mengzhu" pid="225/0129">Mengzhu Sun</na></co>
+<co c="0"><na f="t/Tan:Shangyin" pid="280/5457">Shangyin Tan</na></co>
+<co c="0"><na f="t/Tang_0001:Jie" pid="t/JieTang">Jie Tang 0001</na></co>
+<co c="1" n="2"><na f="t/Tashkova:Katerina" pid="71/10314">Katerina Tashkova</na><na>Katerina Taskova</na></co>
+<co c="0"><na f="t/Thiagarajan:Arvind" pid="47/1858">Arvind Thiagarajan</na></co>
+<co c="0"><na f="v/VanderPlas:Jacob" pid="04/10551">Jacob VanderPlas</na></co>
+<co c="0"><na f="v/Varghese:George" pid="v/GeorgeVarghese">George Varghese</na></co>
+<co c="0"><na f="w/Wan:Chengcheng" pid="183/4488">Chengcheng Wan</na></co>
+<co c="0"><na f="w/Wang:Chenglong" pid="94/9817">Chenglong Wang</na></co>
+<co c="0"><na f="w/Wang:Dequan" pid="168/4711">Dequan Wang</na></co>
+<co c="0"><na f="w/Wang:Jiayi" pid="28/4853">Jiayi Wang</na></co>
+<co c="0"><na f="w/Wang:Shuxian" pid="81/8385">Shuxian Wang</na></co>
+<co c="0"><na f="w/Wang:Sida" pid="34/10207">Sida Wang</na></co>
+<co c="0"><na f="w/Wang_0005:Xi" pid="08/5760-5">Xi Wang 0005</na></co>
+<co c="0"><na f="w/Weitz:Konstantin" pid="132/8683">Konstantin Weitz</na></co>
+<co c="0"><na f="w/Willsey:Max" pid="194/2846">Max Willsey</na></co>
+<co c="0"><na f="w/Wu_0002:Eugene" pid="41/3679">Eugene Wu 0002</na></co>
+<co c="0"><na f="w/Wu:Joshua" pid="237/5796">Joshua Wu</na></co>
+<co c="0"><na f="x/Xie:Yiqing" pid="147/6506">Yiqing Xie</na></co>
+<co c="0"><na f="x/Xiong:Chenyan" pid="18/10886">Chenyan Xiong</na></co>
+<co c="0"><na f="y/Yagati:Samyu" pid="323/5642">Samyu Yagati</na></co>
+<co c="0"><na f="y/Yan:Cong" pid="129/2744">Cong Yan</na></co>
+<co c="0"><na f="y/Yang:Junwen" pid="208/0023">Junwen Yang</na></co>
+<co c="0"><na f="y/Yun:Sunghee" pid="06/3258">Sunghee Yun</na></co>
+<co c="0"><na f="z/Zeldovich:Nickolai" pid="99/5780">Nickolai Zeldovich</na></co>
+<co c="0"><na f="z/Zettlemoyer:Luke" pid="21/6793">Luke Zettlemoyer</na></co>
+<co c="0"><na f="z/Zhang:Hao" pid="55/2270">Hao Zhang</na></co>
+<co c="0"><na f="z/Zhao_0001:Dongfang" pid="25/5030-1">Dongfang Zhao 0001</na></co>
+<co c="0"><na f="z/Zheng:Lianmin" pid="211/7027">Lianmin Zheng</na></co>
+<co c="0"><na f="z/Zhou:Xiangyu" pid="187/3858">Xiangyu Zhou</na></co>
+<co c="0"><na f="z/Zhu:Chuyan" pid="344/2180">Chuyan Zhu</na></co>
+</coauthors>
+</dblpperson>

@@ -1,0 +1,831 @@
+<dblpperson name="Ravishankar Ramamurthy" pid="02/4973" n="46">
+<person key="homepages/02/4973" mdate="2013-06-27">
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+</person>
+<r><inproceedings key="conf/cpp/ArasuRRSFHPR23" mdate="2023-01-13">
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="04/10">Tahina Ramananandro</author>
+<author pid="81/10809">Aseem Rastogi</author>
+<author pid="11/5568">Nikhil Swamy</author>
+<author pid="193/3445">Aymeric Fromherz</author>
+<author pid="203/8410">Kesha Hietala</author>
+<author pid="49/6324">Bryan Parno</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<title>FastVer2: A Provably Correct Monitor for Concurrent, Key-Value Stores.</title>
+<pages>30-46</pages>
+<year>2023</year>
+<booktitle>CPP</booktitle>
+<ee>https://doi.org/10.1145/3573105.3575687</ee>
+<crossref>conf/cpp/2023</crossref>
+<url>db/conf/cpp/cpp2023.html#ArasuRRSFHPR23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/CuiZBCHLR0SI23" mdate="2023-07-07">
+<author orcid="0009-0005-9362-3585" pid="42/3805">Wei Cui</author>
+<author orcid="0000-0002-0646-5365" pid="291/4798">Qianxi Zhang</author>
+<author orcid="0009-0004-2703-7177" pid="65/5338">Spyros Blanas</author>
+<author orcid="0009-0008-9151-6024" pid="26/8398">Jes&#250;s Camacho-Rodr&#237;guez</author>
+<author orcid="0000-0002-1501-9586" pid="180/5761">Brandon Haynes</author>
+<author orcid="0009-0004-5483-2862" pid="49/612">Yinan Li</author>
+<author orcid="0000-0002-3484-0038" pid="02/4973">Ravi Ramamurthy</author>
+<author orcid="0000-0003-4014-4757" pid="76/185-5">Peng Cheng 0005</author>
+<author orcid="0000-0003-4736-2837" pid="08/2832">Rathijit Sen</author>
+<author orcid="0000-0002-5756-8321" pid="49/10034">Matteo Interlandi</author>
+<title>Query Processing on Gaming Consoles.</title>
+<pages>86-88</pages>
+<year>2023</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3592980.3595313</ee>
+<crossref>conf/damon/2023</crossref>
+<url>db/conf/damon/damon2023.html#CuiZBCHLR0SI23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/ArasuKKR21" mdate="2022-07-18">
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<title>Integrity-based Attacks for Encrypted Databases and Implications.</title>
+<year>2021</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2021/papers/cidr2021_paper22.pdf</ee>
+<crossref>conf/cidr/2021</crossref>
+<url>db/conf/cidr/cidr2021.html#ArasuKKR21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ArasuCGGKPRRRSS21" mdate="2021-06-21">
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="48/9365">Esha Ghosh</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="132/3972">Jonathan Protzenko</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<author pid="04/10">Tahina Ramananandro</author>
+<author pid="81/10809">Aseem Rastogi</author>
+<author pid="68/8463">Srinath T. V. Setty</author>
+<author pid="11/5568">Nikhil Swamy</author>
+<author pid="219/9679">Alexander van Renen</author>
+<author pid="09/0">Min Xu</author>
+<title>FastVer: Making Data Integrity a Commodity.</title>
+<pages>89-101</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3457312</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#ArasuCGGKPRRRSS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AntonopoulosASE20" mdate="2020-06-05">
+<author pid="119/6881">Panagiotis Antonopoulos</author>
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="266/6008">Kunal D. Singh</author>
+<author pid="66/786">Ken Eguro</author>
+<author pid="45/10343">Nitish Gupta</author>
+<author pid="28/7328">Rajat Jain</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="15/3353">Hanuma Kodavalla</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="266/5882">Nikolas Ogg</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<author pid="03/2047">Jakub Szymaszek</author>
+<author pid="266/5782">Jeffrey Trimmer</author>
+<author pid="48/1784">Kapil Vaswani</author>
+<author pid="v/RamarathnamVenkatesan">Ramarathnam Venkatesan</author>
+<author pid="74/1997">Mike Zwilling</author>
+<title>Azure SQL Database Always Encrypted.</title>
+<pages>1511-1525</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3386141</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#AntonopoulosASE20</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/El-HindiBAKR19" mdate="2023-10-22">
+<author pid="164/1407">Muhammad El-Hindi</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<title>BlockchainDB - A Shared Database on Blockchains.</title>
+<pages>1597-1609</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1597-el-hindi.pdf</ee>
+<ee>https://doi.org/10.14778/3342263.3342636</ee>
+<ee>https://www.wikidata.org/entity/Q121980738</ee>
+<url>db/journals/pvldb/pvldb12.html#El-HindiBAKR19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/GehrkeAAAHHKKRS19" mdate="2020-11-24">
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="162/3919">Lindsay Allen</author>
+<author pid="119/6881">Panagiotis Antonopoulos</author>
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="h/JoachimHammer">Joachim Hammer</author>
+<author pid="48/6924">James Hunter</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<author pid="68/8463">Srinath T. V. Setty</author>
+<author pid="03/2047">Jakub Szymaszek</author>
+<author pid="219/9679">Alexander van Renen</author>
+<author pid="30/3557-3">Jonathan Lee 0003</author>
+<author pid="v/RamarathnamVenkatesan">Ramarathnam Venkatesan</author>
+<title>Veritas: Shared Verifiable Databases and Tables in the Cloud.</title>
+<year>2019</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2019/papers/p111-gehrke-cidr19.pdf</ee>
+<crossref>conf/cidr/2019</crossref>
+<url>db/conf/cidr/cidr2019.html#GehrkeAAAHHKKRS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/El-HindiHBRAK19" mdate="2019-06-22">
+<author pid="164/1407">Muhammad El-Hindi</author>
+<author pid="231/1325">Martin Heyden</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>BlockchainDB - Towards a Shared Database on Blockchains.</title>
+<pages>1905-1908</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3320237</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#El-HindiHBRAK19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-02631" mdate="2018-10-05">
+<author pid="119/6881">Panagiotis Antonopoulos</author>
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="66/786">Ken Eguro</author>
+<author pid="h/JoachimHammer">Joachim Hammer</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<author pid="03/2047">Jakub Szymaszek</author>
+<title>Pushing the Limits of Encrypted Databases with Secure Hardware.</title>
+<year>2018</year>
+<volume>abs/1809.02631</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.02631</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-02631</url>
+</article>
+</r>
+<r><inproceedings key="conf/cloud/DuR17" mdate="2023-03-07">
+<author pid="78/1658-3">Min Du 0003</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<title>Towards verifiable metering for database as a service providers.</title>
+<pages>651</pages>
+<year>2017</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/3127479.3134349</ee>
+<crossref>conf/cloud/2017</crossref>
+<url>db/conf/cloud/socc2017.html#DuR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ArasuEKKMPR17" mdate="2018-11-06">
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="66/786">Ken Eguro</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="124/7251">Pingfan Meng</author>
+<author pid="83/7560">Vineet Pandey</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<title>Concerto: A High Concurrency Key-Value Store with Integrity.</title>
+<pages>251-266</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3064030</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#ArasuEKKMPR17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/VaswaniRV16" mdate="2018-08-13">
+<author pid="48/1784">Kapil Vaswani</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<author pid="v/RamarathnamVenkatesan">Ramarathnam Venkatesan</author>
+<title>Information Flows in Encrypted Databases.</title>
+<year>2016</year>
+<volume>abs/1605.01092</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1605.01092</ee>
+<url>db/journals/corr/corr1605.html#VaswaniRV16</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/MohapatraRK15" mdate="2020-03-12">
+<author pid="117/8445">Abhijeet Mohapatra</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<title>Raising Authorization Awareness in a DBMS.</title>
+<year>2015</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2015/Papers/CIDR15_Paper11.pdf</ee>
+<crossref>conf/cidr/2015</crossref>
+<url>db/conf/cidr/cidr2015.html#MohapatraRK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ArasuEJKKR15" mdate="2023-03-24">
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="66/786">Ken Eguro</author>
+<author pid="15/9508">Manas Joglekar</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<title>Transaction processing on confidential data using cipherbase.</title>
+<pages>435-446</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113304</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113304</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#ArasuEJKKR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ArasuEKR14" mdate="2018-11-06">
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="66/786">Ken Eguro</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>Querying encrypted data.</title>
+<pages>1259-1261</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2588893</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#ArasuEKR14</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/FuKR13" mdate="2020-04-25">
+<author pid="10/655">Yupeng Fu</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>On Scaling Up Sensitive Data Auditing.</title>
+<pages>313-324</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p313-kaushik.pdf</ee>
+<ee>https://doi.org/10.14778/2535573.2488338</ee>
+<url>db/journals/pvldb/pvldb6.html#FuKR13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/ArasuBEKKRV13" mdate="2020-03-12">
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="65/5338">Spyros Blanas</author>
+<author pid="66/786">Ken Eguro</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<author pid="v/RamarathnamVenkatesan">Ramarathnam Venkatesan</author>
+<title>Orthogonal Security with Cipherbase.</title>
+<year>2013</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2013/Papers/CIDR13_Paper33.pdf</ee>
+<crossref>conf/cidr/2013</crossref>
+<url>db/conf/cidr/cidr2013.html#ArasuBEKKRV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/UpadhyayaABHKRS13" mdate="2020-09-14">
+<author pid="54/1412">Prasang Upadhyaya</author>
+<author pid="40/7308">Nick R. Anderson 0001</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="h/BillHowe">Bill Howe</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<author pid="s/DanSuciu">Dan Suciu</author>
+<title>Stop That Query! The Need for Managing Data Use.</title>
+<year>2013</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2013/Papers/CIDR13_Paper64.pdf</ee>
+<crossref>conf/cidr/2013</crossref>
+<url>db/conf/cidr/cidr2013.html#UpadhyayaABHKRS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/ArasuEKKRV13" mdate="2017-05-21">
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="66/786">Ken Eguro</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<author pid="v/RamarathnamVenkatesan">Ramarathnam Venkatesan</author>
+<title>A secure coprocessor for database applications.</title>
+<pages>1-8</pages>
+<year>2013</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2013.6645524</ee>
+<crossref>conf/fpl/2013</crossref>
+<url>db/conf/fpl/fpl2013.html#ArasuEKKRV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/FabbriRK13" mdate="2023-03-23">
+<author pid="17/7449">Daniel Fabbri</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<title>SELECT triggers for data auditing.</title>
+<pages>1141-1152</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544904</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544904</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#FabbriRK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ArasuEKR13" mdate="2023-03-23">
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="66/786">Ken Eguro</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="02/4973">Ravi Ramamurthy</author>
+<title>Querying encrypted data.</title>
+<pages>1262-1263</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544919</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544919</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#ArasuEKR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ArasuBEJKKRUV13" mdate="2018-11-06">
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="65/5338">Spyros Blanas</author>
+<author pid="66/786">Ken Eguro</author>
+<author pid="15/9508">Manas Joglekar</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<author pid="54/1412">Prasang Upadhyaya</author>
+<author pid="v/RamarathnamVenkatesan">Ramarathnam Venkatesan</author>
+<title>Secure database-as-a-service with Cipherbase.</title>
+<pages>1033-1036</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2467797</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#ArasuBEJKKRUV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/UpadhyayaABHKRS13" mdate="2024-02-05">
+<author pid="54/1412">Prasang Upadhyaya</author>
+<author orcid="0000-0002-2999-7284" pid="40/7308">Nick R. Anderson 0001</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author orcid="0000-0001-8588-8472" pid="h/BillHowe">Bill Howe</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<title>The power of data use management in action.</title>
+<pages>1117-1120</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2465264</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#UpadhyayaABHKRS13</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/ArasuBEJKKRUV12" mdate="2020-03-10">
+<author pid="a/ArvindArasu">Arvind Arasu</author>
+<author pid="65/5338">Spyros Blanas</author>
+<author pid="66/786">Ken Eguro</author>
+<author pid="15/9508">Manas Joglekar</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<author pid="54/1412">Prasang Upadhyaya</author>
+<author pid="v/RamarathnamVenkatesan">Ramarathnam Venkatesan</author>
+<title>Engineering Security and Performance with Cipherbase.</title>
+<pages>65-72</pages>
+<year>2012</year>
+<volume>35</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A12dec/cipher.pdf</ee>
+<url>db/journals/debu/debu35.html#ArasuBEJKKRUV12</url>
+</article>
+</r>
+<r><article key="journals/debu/BrunoCKNRS11" mdate="2020-03-10">
+<author pid="b/NicolasBruno">Nicolas Bruno</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="k/ACKonig">Arnd Christian K&#246;nig</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<author pid="33/882">Manoj Syamala</author>
+<title>AutoAdmin Project at Microsoft Research: Lessons Learned.</title>
+<pages>12-19</pages>
+<year>2011</year>
+<volume>34</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A11dec/AutoAdmin1.pdf</ee>
+<url>db/journals/debu/debu34.html#BrunoCKNRS11</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KaushikR11" mdate="2020-04-25">
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>Whodunit: An Auditing Tool for Detecting Data Breaches.</title>
+<pages>1410-1413</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p1410-kaushik.pdf</ee>
+<url>db/journals/pvldb/pvldb4.html#KaushikR11</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/ChaudhuriKR11" mdate="2020-03-12">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>Database Access Control and Privacy: Is there a common ground?</title>
+<pages>96-103</pages>
+<year>2011</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2011/Papers/CIDR11_Paper11.pdf</ee>
+<crossref>conf/cidr/2011</crossref>
+<url>db/conf/cidr/cidr2011.html#ChaudhuriKR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KaushikR11" mdate="2018-11-06">
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>Efficient auditing for complex SQL queries.</title>
+<pages>697-708</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989396</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#KaushikR11</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/BrunoNR10" mdate="2020-04-25">
+<author pid="b/NicolasBruno">Nicolas Bruno</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>Slicing Long-Running Queries.</title>
+<pages>530-541</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R47.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920910</ee>
+<url>db/journals/pvldb/pvldb3.html#BrunoNR10</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/IdreosKNR10" mdate="2023-03-24">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>Estimating the compression fraction of an index using sampling.</title>
+<pages>441-444</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447871</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447871</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#IdreosKNR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChaudhuriGNR10" mdate="2023-03-24">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="31/3294">Leo Giakoumakis</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>Rule profiling for query optimizers and their implications.</title>
+<pages>1072-1080</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447870</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447870</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#ChaudhuriGNR10</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/ChaudhuriNR09" mdate="2020-04-25">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>Exact Cardinality Query Optimization for Optimizer Testing.</title>
+<pages>994-1005</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-294.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687739</ee>
+<url>db/journals/pvldb/pvldb2.html#ChaudhuriNR09</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/BrunoCR09" mdate="2023-03-23">
+<author pid="b/NicolasBruno">Nicolas Bruno</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>Power Hints for Query Optimization.</title>
+<pages>469-480</pages>
+<year>2009</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2009.68</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2009.68</ee>
+<crossref>conf/icde/2009</crossref>
+<url>db/conf/icde/icde2009.html#BrunoCR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ElmonguiNR09" mdate="2018-11-06">
+<author pid="15/5649">Hicham G. Elmongui</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>A framework for testing query transformation rules.</title>
+<pages>257-268</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559874</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#ElmonguiNR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BrunoCR09" mdate="2018-11-06">
+<author pid="b/NicolasBruno">Nicolas Bruno</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>Interactive plan hints for query optimization.</title>
+<pages>1043-1046</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559976</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#BrunoCR09</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/ChaudhuriNR08" mdate="2020-04-25">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>A pay-as-you-go framework for query execution feedback.</title>
+<pages>1141-1152</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1453977.pdf</ee>
+<ee>https://doi.org/10.14778/1453856.1453977</ee>
+<url>db/journals/pvldb/pvldb1.html#ChaudhuriNR08</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/ChaudhuriNR08" mdate="2023-03-24">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>Diagnosing Estimation Errors in Page Counts Using Execution Feedback.</title>
+<pages>1013-1022</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497510</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497510</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#ChaudhuriNR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ChaudhuriKRP07" mdate="2020-03-12">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<author pid="96/4590">Abhijit Pol</author>
+<title>Stop-and-Restart Style Execution for Long Running Decision Support Queries.</title>
+<pages>735-745</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/research/p735-chaudhuri.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#ChaudhuriKRP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KabraRS06" mdate="2018-11-06">
+<author pid="09/3999">Govind Kabra</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<author pid="s/SSudarshan1">S. Sudarshan 0001</author>
+<title>Redundancy and information leakage in fine-grained access control.</title>
+<pages>133-144</pages>
+<year>2006</year>
+<crossref>conf/sigmod/2006</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1142473.1142489</ee>
+<url>db/conf/sigmod/sigmod2006.html#KabraRS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/RamamurthyD05" mdate="2020-03-12">
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<title>Buffer-pool Aware Query Optimization.</title>
+<pages>250-261</pages>
+<year>2005</year>
+<crossref>conf/cidr/2005</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2005/papers/P21.pdf</ee>
+<url>db/conf/cidr/cidr2005.html#RamamurthyD05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChaudhuriKR05" mdate="2018-11-06">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="09/2901">Raghav Kaushik</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>When Can We Trust Progress Estimators for SQL Queries?</title>
+<pages>575-586</pages>
+<year>2005</year>
+<crossref>conf/sigmod/2005</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1066157.1066223</ee>
+<url>db/conf/sigmod/sigmod2005.html#ChaudhuriKR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChaudhuriNR04" mdate="2018-11-06">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<title>Estimating Progress of Long Running SQL Queries.</title>
+<year>2004</year>
+<crossref>conf/sigmod/2004</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2004.html#ChaudhuriNR04</url>
+<pages>803-814</pages>
+<ee>https://doi.org/10.1145/1007568.1007659</ee>
+<ee>http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/R-631.pdf</ee>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/RamamurthyDS03" mdate="2017-05-28">
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="25/221">Qi Su</author>
+<title>A case for fractured mirrors.</title>
+<pages>89-101</pages>
+<year>2003</year>
+<volume>12</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-003-0093-1</ee>
+<url>db/journals/vldb/vldb12.html#RamamurthyDS03</url>
+</article>
+</r>
+<r><inproceedings key="conf/vldb/RamamurthyDS02" mdate="2020-03-12">
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="25/221">Qi Su</author>
+<title>A Case for Fractured Mirrors.</title>
+<year>2002</year>
+<crossref>conf/vldb/2002</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2002.html#RamamurthyDS02</url>
+<ee type="oa">http://www.vldb.org/conf/2002/S12P03.pdf</ee>
+<ee>https://doi.org/10.1016/B978-155860869-6/50045-7</ee>
+<pages>430-441</pages>
+</inproceedings>
+</r>
+<r><article key="journals/debu/NaughtonDMACGKKLPRSTTVWZJGC01" mdate="2020-03-10">
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<author pid="01/3996">Ashraf Aboulnaga</author>
+<author pid="20/1036-1">Jianjun Chen 0001</author>
+<author pid="43/578">Leonidas Galanis</author>
+<author pid="k/JaewooKang">Jaewoo Kang</author>
+<author pid="51/6067">Rajasekar Krishnamurthy</author>
+<author pid="l/QiongLuo">Qiong Luo 0001</author>
+<author pid="55/3343">Naveen Prakash</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<author pid="s/JShanmugasundaram">Jayavel Shanmugasundaram</author>
+<author pid="78/3204">Feng Tian</author>
+<author pid="t/KristinTufte">Kristin Tufte</author>
+<author pid="v/SViglas">Stratis Viglas</author>
+<author pid="41/3241">Yuan Wang</author>
+<author pid="77/2866">Chun Zhang</author>
+<author pid="52/6481">Bruce Jackson</author>
+<author pid="82/9277">Anurag Kumar Gupta</author>
+<author pid="18/8237">Rushan Chen</author>
+<title>The Niagara Internet Query System.</title>
+<pages>27-33</pages>
+<year>2001</year>
+<ee type="oa">http://sites.computer.org/debull/A01JUN-CD.pdf</ee>
+<volume>24</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<url>db/journals/debu/debu24.html#NaughtonDMACGKKLPRSTTVWZJGC01</url>
+</article>
+</r>
+<r><inproceedings key="conf/java/GlobusLLRST00" mdate="2018-11-06">
+<author pid="18/2845">Al Globus</author>
+<author pid="80/185">Eric Langhirt</author>
+<author pid="l/MironLivny">Miron Livny</author>
+<author pid="02/4973">Ravishankar Ramamurthy</author>
+<author pid="s/MarvinHSolomon">Marvin H. Solomon</author>
+<author pid="55/89">Steve Traugott</author>
+<title>JavaGenes and Condor: cycle-scavenging genetic algorithms.</title>
+<pages>134-139</pages>
+<year>2000</year>
+<crossref>conf/java/2000</crossref>
+<booktitle>Java Grande</booktitle>
+<ee>https://doi.org/10.1145/337449.337524</ee>
+<url>db/conf/java/java2000.html#GlobusLLRST00</url>
+</inproceedings>
+</r>
+<coauthors n="92" nc="1">
+<co c="0"><na f="a/Aboulnaga:Ashraf" pid="01/3996">Ashraf Aboulnaga</na></co>
+<co c="0"><na f="a/Allen:Lindsay" pid="162/3919">Lindsay Allen</na></co>
+<co c="0" n="2"><na f="a/Anderson_0001:Nicholas_R=" pid="40/7308">Nicholas R. Anderson 0001</na><na>Nick R. Anderson 0001</na></co>
+<co c="0"><na f="a/Antonopoulos:Panagiotis" pid="119/6881">Panagiotis Antonopoulos</na></co>
+<co c="0"><na f="a/Arasu:Arvind" pid="a/ArvindArasu">Arvind Arasu</na></co>
+<co c="0"><na f="b/Balazinska:Magdalena" pid="b/MagdalenaBalazinska">Magdalena Balazinska</na></co>
+<co c="0"><na f="b/Binnig:Carsten" pid="45/1559">Carsten Binnig</na></co>
+<co c="0"><na f="b/Blanas:Spyros" pid="65/5338">Spyros Blanas</na></co>
+<co c="0"><na f="b/Bruno:Nicolas" pid="b/NicolasBruno">Nicolas Bruno</na></co>
+<co c="0"><na f="c/Camacho=Rodr=iacute=guez:Jes=uacute=s" pid="26/8398">Jes&#250;s Camacho-Rodr&#237;guez</na></co>
+<co c="0"><na f="c/Chandramouli:Badrish" pid="01/2861">Badrish Chandramouli</na></co>
+<co c="0"><na f="c/Chaudhuri:Surajit" pid="c/SurajitChaudhuri">Surajit Chaudhuri</na></co>
+<co c="0"><na f="c/Chen_0001:Jianjun" pid="20/1036-1">Jianjun Chen 0001</na></co>
+<co c="0" n="2"><na f="c/Chen:Ru=Shan" pid="18/8237">Ru-Shan Chen</na><na>Rushan Chen</na></co>
+<co c="0"><na f="c/Cheng_0005:Peng" pid="76/185-5">Peng Cheng 0005</na></co>
+<co c="0"><na f="c/Cui:Wei" pid="42/3805">Wei Cui</na></co>
+<co c="0"><na f="d/DeWitt:David_J=" pid="d/DJDeWitt">David J. DeWitt</na></co>
+<co c="-1"><na f="d/Du_0003:Min" pid="78/1658-3">Min Du 0003</na></co>
+<co c="0" n="2"><na f="e/Eguro:Kenneth" pid="66/786">Kenneth Eguro</na><na>Ken Eguro</na></co>
+<co c="0"><na f="e/El=Hindi:Muhammad" pid="164/1407">Muhammad El-Hindi</na></co>
+<co c="0"><na f="e/Elmongui:Hicham_G=" pid="15/5649">Hicham G. Elmongui</na></co>
+<co c="0"><na f="f/Fabbri:Daniel" pid="17/7449">Daniel Fabbri</na></co>
+<co c="0"><na f="f/Fromherz:Aymeric" pid="193/3445">Aymeric Fromherz</na></co>
+<co c="0"><na f="f/Fu:Yupeng" pid="10/655">Yupeng Fu</na></co>
+<co c="0"><na f="g/Galanis:Leonidas" pid="43/578">Leonidas Galanis</na></co>
+<co c="0"><na f="g/Gehrke:Johannes" pid="g/JohannesGehrke">Johannes Gehrke</na></co>
+<co c="0"><na f="g/Ghosh:Esha" pid="48/9365">Esha Ghosh</na></co>
+<co c="0"><na f="g/Giakoumakis:Leo" pid="31/3294">Leo Giakoumakis</na></co>
+<co c="0"><na f="g/Globus:Al" pid="18/2845">Al Globus</na></co>
+<co c="0"><na f="g/Gupta:Anurag_Kumar" pid="82/9277">Anurag Kumar Gupta</na></co>
+<co c="0"><na f="g/Gupta:Nitish" pid="45/10343">Nitish Gupta</na></co>
+<co c="0"><na f="h/Hammer:Joachim" pid="h/JoachimHammer">Joachim Hammer</na></co>
+<co c="0"><na f="h/Haynes:Brandon" pid="180/5761">Brandon Haynes</na></co>
+<co c="0"><na f="h/Heyden:Martin" pid="231/1325">Martin Heyden</na></co>
+<co c="0"><na f="h/Hietala:Kesha" pid="203/8410">Kesha Hietala</na></co>
+<co c="0"><na f="h/Howe:Bill" pid="h/BillHowe">Bill Howe</na></co>
+<co c="0" n="2"><na f="h/Hunter:Jim" pid="48/6924">Jim Hunter</na><na>James Hunter</na></co>
+<co c="0"><na f="i/Idreos:Stratos" pid="i/StratosIdreos">Stratos Idreos</na></co>
+<co c="0"><na f="i/Interlandi:Matteo" pid="49/10034">Matteo Interlandi</na></co>
+<co c="0"><na f="j/Jackson:Bruce" pid="52/6481">Bruce Jackson</na></co>
+<co c="0"><na f="j/Jain:Rajat" pid="28/7328">Rajat Jain</na></co>
+<co c="0"><na f="j/Joglekar:Manas" pid="15/9508">Manas Joglekar</na></co>
+<co c="0"><na f="k/Kabra:Govind" pid="09/3999">Govind Kabra</na></co>
+<co c="0"><na f="k/Kang:Jaewoo" pid="k/JaewooKang">Jaewoo Kang</na></co>
+<co c="0"><na f="k/Kaushik:Raghav" pid="09/2901">Raghav Kaushik</na></co>
+<co c="0"><na f="k/Kodavalla:Hanuma" pid="15/3353">Hanuma Kodavalla</na></co>
+<co c="0"><na f="k/K=ouml=nig:Arnd_Christian" pid="k/ACKonig">Arnd Christian K&#246;nig</na></co>
+<co c="0"><na f="k/Kossmann:Donald" pid="k/DonaldKossmann">Donald Kossmann</na></co>
+<co c="0"><na f="k/Krishnamurthy:Rajasekar" pid="51/6067">Rajasekar Krishnamurthy</na></co>
+<co c="0"><na f="l/Langhirt:Eric" pid="80/185">Eric Langhirt</na></co>
+<co c="0"><na f="l/Lee_0003:Jonathan" pid="30/3557-3">Jonathan Lee 0003</na></co>
+<co c="0"><na f="l/Li:Yinan" pid="49/612">Yinan Li</na></co>
+<co c="0"><na f="l/Livny:Miron" pid="l/MironLivny">Miron Livny</na></co>
+<co c="0"><na f="l/Luo_0001:Qiong" pid="l/QiongLuo">Qiong Luo 0001</na></co>
+<co c="0"><na f="m/Maier_0001:David" pid="m/DavidMaier">David Maier 0001</na></co>
+<co c="0"><na f="m/Meng:Pingfan" pid="124/7251">Pingfan Meng</na></co>
+<co c="0"><na f="m/Mohapatra:Abhijeet" pid="117/8445">Abhijeet Mohapatra</na></co>
+<co c="0"><na f="n/Narasayya:Vivek_R=" pid="n/VivekRNarasayya">Vivek R. Narasayya</na></co>
+<co c="0"><na f="n/Naughton:Jeffrey_F=" pid="n/JeffreyFNaughton">Jeffrey F. Naughton</na></co>
+<co c="0"><na f="o/Ogg:Nikolas" pid="266/5882">Nikolas Ogg</na></co>
+<co c="0"><na f="p/Pandey:Vineet" pid="83/7560">Vineet Pandey</na></co>
+<co c="0"><na f="p/Parno:Bryan" pid="49/6324">Bryan Parno</na></co>
+<co c="0"><na f="p/Pol:Abhijit" pid="96/4590">Abhijit Pol</na></co>
+<co c="0"><na f="p/Prakash:Naveen" pid="55/3343">Naveen Prakash</na></co>
+<co c="0"><na f="p/Protzenko:Jonathan" pid="132/3972">Jonathan Protzenko</na></co>
+<co c="0"><na f="r/Ramananandro:Tahina" pid="04/10">Tahina Ramananandro</na></co>
+<co c="0"><na f="r/Rastogi:Aseem" pid="81/10809">Aseem Rastogi</na></co>
+<co c="0"><na f="r/Renen:Alexander_van" pid="219/9679">Alexander van Renen</na></co>
+<co c="0"><na f="s/Sen:Rathijit" pid="08/2832">Rathijit Sen</na></co>
+<co c="0"><na f="s/Setty:Srinath_T=_V=" pid="68/8463">Srinath T. V. Setty</na></co>
+<co c="0"><na f="s/Shanmugasundaram:Jayavel" pid="s/JShanmugasundaram">Jayavel Shanmugasundaram</na></co>
+<co c="0"><na f="s/Singh:Kunal_D=" pid="266/6008">Kunal D. Singh</na></co>
+<co c="0"><na f="s/Solomon:Marvin_H=" pid="s/MarvinHSolomon">Marvin H. Solomon</na></co>
+<co c="0"><na f="s/Su:Qi" pid="25/221">Qi Su</na></co>
+<co c="0"><na f="s/Suciu:Dan" pid="s/DanSuciu">Dan Suciu</na></co>
+<co c="0"><na f="s/Sudarshan_0001:S=" pid="s/SSudarshan1">S. Sudarshan 0001</na></co>
+<co c="0"><na f="s/Swamy:Nikhil" pid="11/5568">Nikhil Swamy</na></co>
+<co c="0"><na f="s/Syamala:Manoj" pid="33/882">Manoj Syamala</na></co>
+<co c="0"><na f="s/Szymaszek:Jakub" pid="03/2047">Jakub Szymaszek</na></co>
+<co c="0"><na f="t/Tian:Feng" pid="78/3204">Feng Tian</na></co>
+<co c="0"><na f="t/Traugott:Steve" pid="55/89">Steve Traugott</na></co>
+<co c="0"><na f="t/Trimmer:Jeffrey" pid="266/5782">Jeffrey Trimmer</na></co>
+<co c="0"><na f="t/Tufte:Kristin" pid="t/KristinTufte">Kristin Tufte</na></co>
+<co c="0"><na f="u/Upadhyaya:Prasang" pid="54/1412">Prasang Upadhyaya</na></co>
+<co c="0"><na f="v/Vaswani:Kapil" pid="48/1784">Kapil Vaswani</na></co>
+<co c="0"><na f="v/Venkatesan:Ramarathnam" pid="v/RamarathnamVenkatesan">Ramarathnam Venkatesan</na></co>
+<co c="0"><na f="v/Viglas:Stratis" pid="v/SViglas">Stratis Viglas</na></co>
+<co c="0"><na f="w/Wang:Yuan" pid="41/3241">Yuan Wang</na></co>
+<co c="0"><na f="x/Xu:Min" pid="09/0">Min Xu</na></co>
+<co c="0"><na f="z/Zhang:Chun" pid="77/2866">Chun Zhang</na></co>
+<co c="0"><na f="z/Zhang:Qianxi" pid="291/4798">Qianxi Zhang</na></co>
+<co c="0"><na f="z/Zwilling:Mike" pid="74/1997">Mike Zwilling</na></co>
+</coauthors>
+</dblpperson>

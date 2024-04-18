@@ -1,0 +1,3632 @@
+<dblpperson name="Goetz Graefe" pid="g/GoetzGraefe" n="180">
+<person key="homepages/g/GoetzGraefe" mdate="2023-02-14">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<url>https://research.google/people/105119/</url>
+<url>https://scholar.google.com/citations?user=pdDeRScAAAAJ</url>
+<url>https://dl.acm.org/profile/81100438965</url>
+<url>https://mathgenealogy.org/id.php?id=82462</url>
+<url>https://www.linkedin.com/in/goetz-graefe-342a26226</url>
+<url>https://orcid.org/0000-0003-0194-6466</url>
+<note type="affiliation">Google, Madison, WI, USA</note>
+<note type="affiliation" label="former">Hewlett Packard Labs, Palo Alto, CA, USA</note>
+<note type="affiliation" label="former">Microsoft, Redmond, WA, USA</note>
+<note type="affiliation" label="former">Portland State University, Computer Science Department, Portland, OR, USA</note>
+<note type="affiliation" label="former">University of Colorado, Department of Computer Science, Boulder, CO, USA</note>
+<note type="affiliation" label="former">University of Wisconsin, Computer Sciences Department, Madison, WI, USA</note>
+<note type="award">ACM SIGMOD Edgar F. Codd Innovations Award, 2017</note>
+<cite>journals/sigmod/WinslettB20</cite>
+</person>
+<r><article key="journals/pvldb/0027KCDGKSSYZ23" mdate="2024-02-05">
+<author pid="69/5902-27">Qian Li 0027</author>
+<author pid="62/4022">Peter Kraft</author>
+<author pid="82/231">Michael J. Cafarella</author>
+<author pid="74/20">&#199;agatay Demiralp</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="k/ChristoforosEKozyrakis">Christos Kozyrakis</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="206/4530">Lalith Suresh</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author orcid="0000-0002-7547-7204" pid="36/2133">Matei Zaharia</author>
+<title>R<sup>3</sup>: Record-Replay-Retroaction for Database-Backed Applications.</title>
+<pages>3085-3097</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p3085-li.pdf</ee>
+<ee>https://doi.org/10.14778/3611479.3611510</ee>
+<url>db/journals/pvldb/pvldb16.html#0027KCDGKSSYZ23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/Tatemura0SHCZLZ23" mdate="2023-10-23">
+<author pid="84/284">Jun'ichi Tatemura</author>
+<author pid="61/6876-2">Tao Zou 0002</author>
+<author pid="57/2958">Jagan Sankaranarayanan</author>
+<author pid="300/4302">Yanlai Huang</author>
+<author pid="60/5999">Jim Chen</author>
+<author pid="33/7992">Yupu Zhang</author>
+<author pid="83/713">Kevin Lai</author>
+<author pid="55/2270">Hao Zhang</author>
+<author pid="181/5860">Gokul Nath Babu Manoharan</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="a/DivyakantAgrawal">Divyakant Agrawal</author>
+<author pid="40/3607">Brad Adelberg</author>
+<author pid="358/1940">Shilpa Kolhar</author>
+<author pid="r/IndrajitRoy">Indrajit Roy 0001</author>
+<title>Progressive Partitioning for Parallelized Query Execution in Google's Napa.</title>
+<pages>3475-3487</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p3475-sankaranarayanan.pdf</ee>
+<ee>https://doi.org/10.14778/3611540.3611541</ee>
+<url>db/journals/pvldb/pvldb16.html#Tatemura0SHCZLZ23</url>
+</article>
+</r>
+<r><article key="journals/tods/DoG23" mdate="2023-05-17">
+<author orcid="0000-0001-9893-5725" pid="03/6177">Thanh Do</author>
+<author orcid="0000-0003-0194-6466" pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Robust and Efficient Sorting with Offset-value Coding.</title>
+<pages>2:1-2:23</pages>
+<year>2023</year>
+<month>March</month>
+<volume>48</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3570956</ee>
+<url>db/journals/tods/tods48.html#DoG23</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/Graefe23" mdate="2023-02-23">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Priority queues for database query processing.</title>
+<pages>27-46</pages>
+<year>2023</year>
+<booktitle>BTW</booktitle>
+<ee>https://doi.org/10.18420/BTW2023-01</ee>
+<crossref>conf/btw/2023</crossref>
+<url>db/conf/btw/btw2023.html#Graefe23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/0027KCDGKSSZ23" mdate="2023-07-19">
+<author pid="69/5902-27">Qian Li 0027</author>
+<author pid="62/4022">Peter Kraft</author>
+<author pid="82/231">Michael J. Cafarella</author>
+<author pid="74/20">&#199;agatay Demiralp</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="k/ChristoforosEKozyrakis">Christos Kozyrakis</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="206/4530">Lalith Suresh</author>
+<author pid="36/2133">Matei Zaharia</author>
+<title>Transactions Make Debugging Easy.</title>
+<year>2023</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2023/papers/p26-li.pdf</ee>
+<crossref>conf/cidr/2023</crossref>
+<url>db/conf/cidr/cidr2023.html#0027KCDGKSSZ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/ZhouYGS23" mdate="2023-07-19">
+<author pid="255/9363">Xinjing Zhou</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>Two is Better Than One: The Case for 2-Tree for Skewed Data Sets.</title>
+<year>2023</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2023/papers/p57-zhou.pdf</ee>
+<crossref>conf/cidr/2023</crossref>
+<url>db/conf/cidr/cidr2023.html#ZhouYGS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/GraefeD23" mdate="2023-04-17">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="03/6177">Thanh Do</author>
+<title>Offset-value coding in database query processing.</title>
+<pages>464-470</pages>
+<year>2023</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.48786/edbt.2023.38</ee>
+<crossref>conf/edbt/2023</crossref>
+<url>db/conf/edbt/edbt2023.html#GraefeD23</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/ZhouYGS22" mdate="2023-10-23">
+<author pid="255/9363">Xinjing Zhou</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>Lotus: Scalable Multi-Partition Transactions on Single-Threaded Partitioned Databases.</title>
+<pages>2939-2952</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p2939-zhou.pdf</ee>
+<ee>https://doi.org/10.14778/3551793.3551843</ee>
+<url>db/journals/pvldb/pvldb15.html#ZhouYGS22</url>
+</article>
+</r>
+<r><article key="journals/tods/DoGN22" mdate="2023-01-31">
+<author orcid="0000-0001-9893-5725" pid="03/6177">Thanh Do</author>
+<author orcid="0000-0003-0194-6466" pid="g/GoetzGraefe">Goetz Graefe</author>
+<author orcid="0000-0002-3710-8096" pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<title>Efficient Sorting, Duplicate Removal, Grouping, and Aggregation.</title>
+<pages>16:1-16:35</pages>
+<year>2022</year>
+<volume>47</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3568027</ee>
+<url>db/journals/tods/tods47.html#DoGN22</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/0027KKSKLCGKKSS22" mdate="2022-07-18">
+<author pid="69/5902-27">Qian Li 0027</author>
+<author pid="62/4022">Peter Kraft</author>
+<author pid="237/0852">Kostis Kaffes</author>
+<author pid="310/1377">Athinagoras Skiadopoulos</author>
+<author pid="307/3594">Deeptaanshu Kumar</author>
+<author pid="12/975">Jason Li</author>
+<author pid="82/231">Michael J. Cafarella</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="25/6583">Jeremy Kepner</author>
+<author pid="k/ChristoforosEKozyrakis">Christos Kozyrakis</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="206/4530">Lalith Suresh</author>
+<author pid="36/2133">Matei Zaharia</author>
+<title>A Progress Report on DBOS: A Database-oriented Operating System.</title>
+<year>2022</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2022/papers/p26-li.pdf</ee>
+<crossref>conf/cidr/2022</crossref>
+<url>db/conf/cidr/cidr2022.html#0027KKSKLCGKKSS22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2208-13068" mdate="2022-09-02">
+<author pid="62/4022">Peter Kraft</author>
+<author pid="69/5902-27">Qian Li 0027</author>
+<author pid="237/0852">Kostis Kaffes</author>
+<author pid="310/1377">Athinagoras Skiadopoulos</author>
+<author pid="307/3594">Deeptaanshu Kumar</author>
+<author pid="327/9506">Danny Cho</author>
+<author pid="12/975">Jason Li</author>
+<author pid="326/5858">Robert Redmond</author>
+<author pid="326/5201">Nathan W. Weckwerth</author>
+<author pid="326/5692">Brian S. Xia</author>
+<author pid="47/8816">Peter Bailis</author>
+<author pid="82/231">Michael J. Cafarella</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="25/6583">Jeremy Kepner</author>
+<author pid="k/ChristoforosEKozyrakis">Christos Kozyrakis</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="206/4530">Lalith Suresh</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="36/2133">Matei Zaharia</author>
+<title>Apiary: A DBMS-Backed Transactional Function-as-a-Service Framework.</title>
+<year>2022</year>
+<volume>abs/2208.13068</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2208.13068</ee>
+<url>db/journals/corr/corr2208.html#abs-2208-13068</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2209-08420" mdate="2022-09-28">
+<author pid="03/6177">Thanh Do</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Robust and Efficient Sorting with Offset-Value Coding.</title>
+<year>2022</year>
+<volume>abs/2209.08420</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2209.08420</ee>
+<url>db/journals/corr/corr2209.html#abs-2209-08420</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-00034" mdate="2022-10-07">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="03/6177">Thanh Do</author>
+<title>Offset-value coding in database query processing.</title>
+<year>2022</year>
+<volume>abs/2210.00034</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.00034</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-00034</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2212-14161" mdate="2024-02-05">
+<author pid="69/5902-27">Qian Li 0027</author>
+<author pid="62/4022">Peter Kraft</author>
+<author pid="82/231">Michael J. Cafarella</author>
+<author pid="74/20">&#199;agatay Demiralp</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="k/ChristoforosEKozyrakis">Christos Kozyrakis</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="206/4530">Lalith Suresh</author>
+<author orcid="0000-0002-7547-7204" pid="36/2133">Matei Zaharia</author>
+<title>Transactions Make Debugging Easy.</title>
+<year>2022</year>
+<volume>abs/2212.14161</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2212.14161</ee>
+<url>db/journals/corr/corr2212.html#abs-2212-14161</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/Borovica-GajicG22" mdate="2022-11-15">
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="211/1749">Allison W. Lee</author>
+<author pid="37/10151">Caetano Sauer</author>
+<author pid="86/9726">Pinar T&#246;z&#252;n</author>
+<title>Database Indexing and Query Processing (Dagstuhl Seminar 22111).</title>
+<pages>82-96</pages>
+<year>2022</year>
+<volume>12</volume>
+<journal>Dagstuhl Reports</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.12.3.82</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports12.html#Borovica-GajicG22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AgiwalLMRSZZCCD21" mdate="2023-10-12">
+<author pid="09/5497">Ankur Agiwal</author>
+<author pid="83/713">Kevin Lai</author>
+<author pid="181/5860">Gokul Nath Babu Manoharan</author>
+<author pid="r/IndrajitRoy">Indrajit Roy 0001</author>
+<author pid="57/2958">Jagan Sankaranarayanan</author>
+<author pid="55/2270">Hao Zhang</author>
+<author pid="61/6876-2">Tao Zou 0002</author>
+<author pid="60/5999">Jim Chen</author>
+<author pid="50/6996">Min Chen</author>
+<author pid="61/6981">Ming Dai</author>
+<author pid="03/6177">Thanh Do</author>
+<author pid="97/11269">Haoyu Gao</author>
+<author pid="138/8037">Haoyan Geng</author>
+<author pid="99/6359">Raman Grover</author>
+<author pid="95/6229">Bo Huang</author>
+<author pid="300/4302">Yanlai Huang</author>
+<author pid="176/3454">Adam Li</author>
+<author pid="129/8164">Jianyi Liang</author>
+<author pid="64/4492">Tao Lin</author>
+<author pid="33/4528">Li Liu</author>
+<author pid="64/424">Yao Liu</author>
+<author pid="07/10342">Xi Mao</author>
+<author pid="300/4364">Maya Meng</author>
+<author pid="164/5082">Prashant Mishra</author>
+<author pid="65/3147">Jay Patel</author>
+<author pid="300/4456">Rajesh Sr</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="05/6852">Sourashis Roy</author>
+<author pid="125/1222">Mayank Singh Shishodia</author>
+<author pid="215/5537">Tianhang Sun</author>
+<author pid="26/8239">Justin Tang</author>
+<author pid="84/284">Jun'ichi Tatemura</author>
+<author pid="165/3098">Sagar Trehan</author>
+<author pid="125/2331">Ramkumar Vadali</author>
+<author pid="300/4338">Prasanna Venkatasubramanian</author>
+<author pid="300/4097">Joey Zhang</author>
+<author pid="88/1075">Kefei Zhang</author>
+<author pid="33/7992">Yupu Zhang</author>
+<author pid="142/2235">Zeleng Zhuang</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="a/DivyakantAgrawal">Divy Agrawal</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<author pid="300/4622">Sujata Kosalge</author>
+<author pid="59/2465">Hakan Hacig&#252;m&#252;s</author>
+<title>Napa: Powering Scalable Data Warehousing with Robust Query Performance at Google.</title>
+<pages>2986-2998</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2986-sankaranarayanan.pdf</ee>
+<ee>https://doi.org/10.14778/3476311.3476377</ee>
+<url>db/journals/pvldb/pvldb14.html#AgiwalLMRSZZCCD21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SkiadopoulosLKK21" mdate="2024-02-05">
+<author orcid="0000-0003-2933-0380" pid="310/1377">Athinagoras Skiadopoulos</author>
+<author pid="69/5902-27">Qian Li 0027</author>
+<author pid="62/4022">Peter Kraft</author>
+<author pid="237/0852">Kostis Kaffes</author>
+<author pid="266/7726">Daniel Hong</author>
+<author pid="310/1081">Shana Mathew</author>
+<author pid="124/2385">David Bestor</author>
+<author pid="82/231">Michael J. Cafarella</author>
+<author pid="86/7615">Vijay Gadepally</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="25/6583">Jeremy Kepner</author>
+<author pid="k/ChristoforosEKozyrakis">Christos Kozyrakis</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="206/4530">Lalith Suresh</author>
+<author orcid="0000-0002-7547-7204" pid="36/2133">Matei Zaharia</author>
+<title>DBOS: A DBMS-oriented Operating System.</title>
+<pages>21-30</pages>
+<year>2021</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol15/p21-skiadopoulos.pdf</ee>
+<ee>https://doi.org/10.14778/3485450.3485454</ee>
+<url>db/journals/pvldb/pvldb15.html#SkiadopoulosLKK21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/YangRXSYLZZMCGD20" mdate="2024-02-27">
+<author pid="66/8350">Jiacheng Yang</author>
+<author pid="87/7992">Ian Rae</author>
+<author pid="90/514">Jun Xu</author>
+<author pid="31/11411">Jeff Shute</author>
+<author pid="117/6307">Zhan Yuan</author>
+<author pid="81/3122">Kelvin Lau</author>
+<author pid="81/583">Qiang Zeng</author>
+<author pid="95/6322">Xi Zhao</author>
+<author pid="91/4845">Jun Ma</author>
+<author pid="96/4424">Ziyang Chen</author>
+<author pid="76/2452">Yuan Gao</author>
+<author pid="203/8445">Qilin Dong</author>
+<author pid="253/3810-2">Junxiong Zhou 0002</author>
+<author pid="49/6275">Jeremy Wood</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<author pid="98/1786">John Cieslewicz</author>
+<title>F1 Lightning: HTAP as a Service.</title>
+<pages>3313-3325</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p3313-yang.pdf</ee>
+<ee>https://doi.org/10.14778/3415478.3415553</ee>
+<url>db/journals/pvldb/pvldb13.html#YangRXSYLZZMCGD20</url>
+</article>
+</r>
+<r><article key="journals/vldb/PohlSG20" mdate="2020-07-06">
+<author orcid="0000-0002-5965-4047" pid="201/6155">Constantin Pohl</author>
+<author orcid="0000-0003-1608-7721" pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Joins on high-bandwidth memory: a new level in the memory hierarchy.</title>
+<pages>797-817</pages>
+<year>2020</year>
+<volume>29</volume>
+<journal>VLDB J.</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1007/s00778-019-00546-z</ee>
+<url>db/journals/vldb/vldb29.html#PohlSG20</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/ChronisDGP20" mdate="2020-06-05">
+<author pid="176/4991">Yannis Chronis</author>
+<author pid="03/6177">Thanh Do</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="56/9134">Keith Peters</author>
+<title>External Merge Sort for Top-K Queries: Eager input filtering guided by histograms.</title>
+<pages>2423-2437</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389729</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#ChronisDGP20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-00152" mdate="2020-10-12">
+<author pid="03/6177">Thanh Do</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Sort-based grouping and aggregation.</title>
+<year>2020</year>
+<volume>abs/2010.00152</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.00152</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-00152</url>
+</article>
+</r>
+<r><book key="series/synthesis/2019Graefe" mdate="2023-10-19">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>On Transactional Concurrency Control</title>
+<publisher>Morgan &amp; Claypool Publishers</publisher>
+<year>2019</year>
+<series href="db/series/synthesis-dtm/index.html">Synthesis Lectures on Data Management</series>
+<isbn>978-3-031-00745-3</isbn>
+<isbn>978-3-031-01873-2</isbn>
+<ee>https://doi.org/10.2200/S00912ED2V01Y201904DTM059</ee>
+<ee>https://doi.org/10.1007/978-3-031-01873-2</ee>
+</book>
+</r>
+<r><article key="journals/cacm/AppuswamyGBA19" mdate="2020-10-26">
+<author orcid="0000-0001-5887-4091" pid="57/1978">Raja Appuswamy</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author orcid="0000-0003-3503-4123" pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>The five-minute rule 30 years later and its impact on the storage hierarchy.</title>
+<pages>114-120</pages>
+<year>2019</year>
+<volume>62</volume>
+<journal>Commun. ACM</journal>
+<number>11</number>
+<ee>https://doi.org/10.1145/3318163</ee>
+<url>db/journals/cacm/cacm62.html#AppuswamyGBA19</url>
+</article>
+</r>
+<r><article key="journals/is/SauerHG19" mdate="2019-05-07">
+<author pid="37/10151">Caetano Sauer</author>
+<author pid="h/TheoHarder">Theo H&#228;rder</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Instant restore after a media failure (extended version).</title>
+<pages>90-101</pages>
+<year>2019</year>
+<volume>82</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2018.11.001</ee>
+<url>db/journals/is/is82.html#SauerHG19</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/GlombiewskiSG19" mdate="2021-01-13">
+<author pid="127/0401">Nikolaus Glombiewski</author>
+<author pid="s/BernhardSeeger">Bernhard Seeger</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Waves of Misery After Index Creation.</title>
+<pages>77-96</pages>
+<year>2019</year>
+<booktitle>BTW</booktitle>
+<ee type="oa">https://doi.org/10.18420/btw2019-06</ee>
+<crossref>conf/btw/2019</crossref>
+<url>db/conf/btw/btw2019.html#GlombiewskiSG19</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/SamwelCHGVYPSTA18" mdate="2020-10-26">
+<author pid="15/780">Bart Samwel</author>
+<author orcid="0000-0002-1074-6223" pid="98/1786">John Cieslewicz</author>
+<author pid="81/3648">Ben Handy</author>
+<author pid="87/6558">Jason Govig</author>
+<author pid="58/8344">Petros Venetis</author>
+<author pid="08/6291">Chanjun Yang</author>
+<author pid="56/9134">Keith Peters</author>
+<author pid="31/11411">Jeff Shute</author>
+<author pid="65/10024">Daniel Tenedorio</author>
+<author pid="89/4877">Himani Apte</author>
+<author pid="33/6915">Felix Weigel</author>
+<author pid="32/5091">David Wilhite</author>
+<author pid="66/8350">Jiacheng Yang</author>
+<author pid="90/514">Jun Xu</author>
+<author pid="79/796">Jiexing Li</author>
+<author pid="117/6307">Zhan Yuan</author>
+<author pid="134/6795">Craig Chasseur</author>
+<author pid="81/583">Qiang Zeng</author>
+<author pid="87/7992">Ian Rae</author>
+<author pid="224/6353">Anurag Biyani</author>
+<author pid="224/6705">Andrew Harn</author>
+<author pid="35/2011">Yang Xia</author>
+<author pid="01/8701">Andrey Gubichev</author>
+<author pid="80/951">Amr El-Helw</author>
+<author pid="47/2397">Orri Erling</author>
+<author pid="92/8164">Zhepeng Yan</author>
+<author pid="34/8165">Mohan Yang</author>
+<author pid="182/7685">Yiqun Wei</author>
+<author pid="03/6177">Thanh Do</author>
+<author pid="224/6547">Colin Zheng</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="11/2545">Somayeh Sardashti</author>
+<author pid="39/8165">Ahmed M. Aly</author>
+<author pid="a/DivyakantAgrawal">Divy Agrawal</author>
+<author pid="27/4744">Ashish Gupta</author>
+<author pid="85/3595">Shivakumar Venkataraman</author>
+<title>F1 Query: Declarative Querying at Scale.</title>
+<pages>1835-1848</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1835-samwel.pdf</ee>
+<ee>https://doi.org/10.14778/3229863.3229871</ee>
+<url>db/journals/pvldb/pvldb11.html#SamwelCHGVYPSTA18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SauerGH18" mdate="2020-04-25">
+<author pid="37/10151">Caetano Sauer</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="h/TheoHarder">Theo H&#228;rder</author>
+<title>FineLine: log-structured transactional storage and recovery.</title>
+<pages>2249-2262</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p2249-sauer.pdf</ee>
+<ee>https://doi.org/10.14778/3275366.3275373</ee>
+<url>db/journals/pvldb/pvldb11.html#SauerGH18</url>
+</article>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Graefe18" mdate="2019-02-14">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>B-Tree Locking.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_35</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/b2.html#Graefe18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Graefe18a" mdate="2019-02-14">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Buffer Manager.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_677</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/b2.html#Graefe18a</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Graefe18b" mdate="2019-02-14">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Buffer Pool.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_682</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/b2.html#Graefe18b</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Graefe18c" mdate="2019-02-14">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Parallel Hash Join, Parallel Merge Join, Parallel Nested Loops Join.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_1086</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/p2.html#Graefe18c</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Graefe18d" mdate="2019-02-14">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Parallel Query Execution Algorithms.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_1078</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/p2.html#Graefe18d</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Graefe18e" mdate="2019-02-14">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Storage Manager.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_678</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/s2.html#Graefe18e</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/ZellerG18" mdate="2019-02-14">
+<author pid="09/6853">Hans Zeller</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Parallel Query Optimization.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_1079</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/p2.html#ZellerG18</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/BonczGHS18" mdate="2019-01-08">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<title>Database Architectures for Modern Hardware (Dagstuhl Seminar 18251).</title>
+<pages>63-76</pages>
+<year>2018</year>
+<volume>8</volume>
+<journal>Dagstuhl Reports</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.8.6.63</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports8.html#BonczGHS18</url>
+</article>
+</r>
+<r><article key="journals/csur/RheinlanderLG17" mdate="2022-01-08">
+<author orcid="0000-0002-2042-8720" pid="52/8234">Astrid Rheinl&#228;nder</author>
+<author pid="l/UlfLeser">Ulf Leser</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Optimization of Complex Dataflows with User-Defined Functions.</title>
+<pages>38:1-38:39</pages>
+<year>2017</year>
+<volume>50</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3078752</ee>
+<url>db/journals/csur/csur50.html#RheinlanderLG17</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/SauerGH17" mdate="2017-09-15">
+<author pid="37/10151">Caetano Sauer</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="h/TheoHarder">Theo H&#228;rder</author>
+<title>Instant Restore After a Media Failure.</title>
+<pages>311-325</pages>
+<year>2017</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-66917-5_21</ee>
+<crossref>conf/adbis/2017</crossref>
+<url>db/conf/adbis/adbis2017.html#SauerGH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/SauerSGH17" mdate="2021-01-29">
+<author pid="37/10151">Caetano Sauer</author>
+<author pid="196/1454">Gilson Souza</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="h/TheoHarder">Theo H&#228;rder</author>
+<title>Come and crash our database! - Instant recovery in action.</title>
+<pages>554-557</pages>
+<year>2017</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2017.68</ee>
+<crossref>conf/edbt/2017</crossref>
+<url>db/conf/edbt/edbt2017.html#SauerSGH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/AppuswamyBGA17" mdate="2020-03-12">
+<author pid="57/1978">Raja Appuswamy</author>
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>The Five-minute Rule Thirty Years Later and its Impact on the Storage Hierarchy.</title>
+<pages>1-8</pages>
+<year>2017</year>
+<booktitle>ADMS@VLDB</booktitle>
+<ee type="oa">http://www.adms-conf.org/2017/camera-ready/5minute-rule.pdf</ee>
+<crossref>conf/vldb/2017adms</crossref>
+<url>db/conf/vldb/adms2017.html#AppuswamyBGA17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/SauerGH17" mdate="2018-08-13">
+<author pid="37/10151">Caetano Sauer</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="h/TheoHarder">Theo H&#228;rder</author>
+<title>Instant restore after a media failure.</title>
+<year>2017</year>
+<volume>abs/1702.08042</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1702.08042</ee>
+<url>db/journals/corr/corr1702.html#SauerGH17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/Borovica-GajicG17" mdate="2020-10-01">
+<author pid="36/10568">Renata Borovica-Gajic</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="211/1749">Allison W. Lee</author>
+<title>Robust Performance in Database Query Processing (Dagstuhl Seminar 17222).</title>
+<pages>169-180</pages>
+<year>2017</year>
+<volume>7</volume>
+<journal>Dagstuhl Reports</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.7.5.169</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports7.html#Borovica-GajicG17</url>
+</article>
+</r>
+<r><book key="series/synthesis/2016Graefe" mdate="2023-10-19">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="23/9583">Wey Guy</author>
+<author pid="37/10151">Caetano Sauer</author>
+<title>Instant Recovery with Write-Ahead Logging: Page Repair, System Restart, Media Restore, and System Failover, Second Edition</title>
+<year>2016</year>
+<series href="db/series/synthesis-dtm/index.html">Synthesis Lectures on Data Management</series>
+<publisher>Morgan &amp; Claypool Publishers</publisher>
+<pages>1-113</pages>
+<isbn>978-3-031-00729-3</isbn>
+<isbn>978-3-031-01857-2</isbn>
+<ee>https://doi.org/10.2200/S00710ED2V01Y201603DTM044</ee>
+<ee>https://doi.org/10.1007/978-3-031-01857-2</ee>
+</book>
+</r>
+<r><inproceedings key="conf/adbis/SauerLHG16" mdate="2017-05-21">
+<author pid="37/10151">Caetano Sauer</author>
+<author pid="180/3171">Lucas Lersch</author>
+<author pid="h/TheoHarder">Theo H&#228;rder</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Update Propagation Strategies for High-Performance OLTP.</title>
+<pages>152-165</pages>
+<year>2016</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44039-2_11</ee>
+<crossref>conf/adbis/2016</crossref>
+<url>db/conf/adbis/adbis2016.html#SauerLHG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/comad/ManamohanSMSBG16" mdate="2020-03-12">
+<author pid="153/1556">Sathyanarayanan Manamohan</author>
+<author pid="153/1557">Krishnaprasad Shastry</author>
+<author pid="153/1550">Shine Mathew</author>
+<author pid="192/4171">Ravi Sarveswara</author>
+<author pid="59/1752">Kirk Bresniker</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>BaSE(Byte addressable Storage Engine) Transaction Manager.</title>
+<pages>47-55</pages>
+<year>2016</year>
+<booktitle>COMAD</booktitle>
+<ee type="oa">http://comad.in/comad2016/proceedings/paper_9.pdf</ee>
+<crossref>conf/comad/2016</crossref>
+<url>db/conf/comad/comad2016.html#ManamohanSMSBG16</url>
+</inproceedings>
+</r>
+<r><article key="journals/dbsk/HarderSGG15" mdate="2017-05-18">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="37/10151">Caetano Sauer</author>
+<author pid="23/9583">Wey Guy</author>
+<author pid="h/TheoHarder">Theo H&#228;rder</author>
+<title>Instant recovery with write-ahead logging.</title>
+<pages>235-239</pages>
+<year>2015</year>
+<volume>15</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s13222-015-0204-3</ee>
+<url>db/journals/dbsk/dbsk15.html#HarderSGG15</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Graefe15" mdate="2020-03-06">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Instant recovery for data center savings.</title>
+<pages>29-34</pages>
+<year>2015</year>
+<volume>44</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2814710.2814716</ee>
+<url>db/journals/sigmod/sigmod44.html#Graefe15</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/SauerGH15" mdate="2015-05-28">
+<author pid="37/10151">Caetano Sauer</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="h/TheoHarder">Theo H&#228;rder</author>
+<title>Single-pass restore after a media failure.</title>
+<pages>217-236</pages>
+<year>2015</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2015</crossref>
+<url>db/conf/btw/btw2015.html#SauerGH15</url>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings241/article11.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/GraefeK15" mdate="2022-01-18">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="98/5721-1">Hideaki Kimura 0001</author>
+<title>Orthogonal key-value locking.</title>
+<pages>237-256</pages>
+<year>2015</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2015</crossref>
+<url>db/conf/btw/btw2015.html#GraefeK15</url>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings241/article28.html</ee>
+</inproceedings>
+</r>
+<r><book key="series/synthesis/2014Graefe" mdate="2023-10-23">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="23/9583">Wey Guy</author>
+<author pid="37/10151">Caetano Sauer</author>
+<title>Instant Recovery with Write-Ahead Logging: Page Repair, System Restart, and Media Restore</title>
+<year>2014</year>
+<series href="db/series/synthesis-dtm/index.html">Synthesis Lectures on Data Management</series>
+<publisher>Morgan &amp; Claypool Publishers</publisher>
+<pages>1-85</pages>
+<isbn>978-3-031-01852-7</isbn>
+<ee>https://doi.org/10.2200/S00617ED1V01Y201411DTM039</ee>
+<ee>https://doi.org/10.1007/978-3-031-01852-7</ee>
+</book>
+</r>
+<r><article key="journals/pvldb/GraefeVKKTLV14" mdate="2023-10-12">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="26/1498">Haris Volos 0001</author>
+<author pid="98/5721-1">Hideaki Kimura 0001</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<author pid="78/7202">Joseph A. Tucek</author>
+<author pid="99/6098">Mark Lillibridge</author>
+<author pid="28/2712">Alistair C. Veitch</author>
+<title>In-Memory Performance for Big Data.</title>
+<pages>37-48</pages>
+<year>2014</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p37-graefe.pdf</ee>
+<ee>https://doi.org/10.14778/2735461.2735465</ee>
+<url>db/journals/pvldb/pvldb8.html#GraefeVKKTLV14</url>
+</article>
+</r>
+<r><article key="journals/vldb/GraefeHIKMS14" mdate="2017-05-28">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="38/648">Felix Halim</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="s/BernhardSeeger">Bernhard Seeger</author>
+<title>Transactional support for adaptive indexing.</title>
+<pages>303-328</pages>
+<year>2014</year>
+<volume>23</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-013-0345-7</ee>
+<url>db/journals/vldb/vldb23.html#GraefeHIKMS14</url>
+</article>
+</r>
+<r><article key="journals/jdwm/GraefeNS0EPPF13" mdate="2022-03-21">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="76/4130">Anisoara Nica</author>
+<author pid="s/KnutStolze">Knut Stolze</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="e/ToddEavis">Todd Eavis</author>
+<author pid="p/IliaPetrov">Ilia Petrov 0001</author>
+<author pid="73/3737">Elaheh Pourabbas</author>
+<author pid="30/9451">David Fekete</author>
+<title>Elasticity in Cloud Databases and Their Query Processing.</title>
+<pages>1-20</pages>
+<year>2013</year>
+<volume>9</volume>
+<journal>Int. J. Data Warehous. Min.</journal>
+<number>2</number>
+<ee>https://doi.org/10.4018/jdwm.2013040101</ee>
+<url>db/journals/jdwm/ijdwm9.html#GraefeNS0EPPF13</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/GraefeS13" mdate="2023-07-04">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="s/BernhardSeeger">Bernhard Seeger</author>
+<title>Logical recovery from single-page failures.</title>
+<pages>113-132</pages>
+<year>2013</year>
+<booktitle>BTW</booktitle>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/17358</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings214/article6866.html</ee>
+<crossref>conf/btw/2013</crossref>
+<url>db/conf/btw/btw2013.html#GraefeS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/Graefe13" mdate="2023-07-04">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Keynote: The story of instant recovery.</title>
+<pages>213-215</pages>
+<year>2013</year>
+<booktitle>BTW Workshops</booktitle>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/17435</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings216/article19.html</ee>
+<crossref>conf/btw/2013w</crossref>
+<url>db/conf/btw/btw2013w.html#Graefe13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/comad/ShastryMMG13" mdate="2020-03-12">
+<author pid="153/1557">Krishnaprasad Shastry</author>
+<author pid="153/1550">Shine Mathew</author>
+<author pid="153/1556">Sathyanarayanan Manamohan</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>BaSE (Byte addressable Storage Engine) Access Method.</title>
+<pages>15-23</pages>
+<year>2013</year>
+<booktitle>COMAD</booktitle>
+<ee type="oa">http://comad.in/comad2013/pdfs/shastry.pdf</ee>
+<crossref>conf/comad/2013</crossref>
+<url>db/conf/comad/comad2013.html#ShastryMMG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dnis/KunoGK13" mdate="2022-01-18">
+<author pid="02/451">Harumi A. Kuno</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="98/5721-1">Hideaki Kimura 0001</author>
+<title>Making Transaction Execution the Bottleneck - (Instead of All the Overheads).</title>
+<pages>71-85</pages>
+<year>2013</year>
+<booktitle>DNIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-37134-9_6</ee>
+<crossref>conf/dnis/2013</crossref>
+<url>db/conf/dnis/dnis2013.html#KunoGK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ideas/GraefePIM13" mdate="2022-03-21">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="p/IliaPetrov">Ilia Petrov 0001</author>
+<author pid="49/10021">Todor Ivanov</author>
+<author pid="136/1146">Veselin Marinov</author>
+<title>A hybrid page layout integrating PAX and NSM.</title>
+<pages>86-95</pages>
+<year>2013</year>
+<booktitle>IDEAS</booktitle>
+<ee>https://doi.org/10.1145/2513591.2513643</ee>
+<crossref>conf/ideas/2013</crossref>
+<url>db/conf/ideas/ideas2013.html#GraefePIM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GraefeLKTV13" mdate="2023-10-12">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="99/6098">Mark Lillibridge</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<author pid="78/7202">Joseph A. Tucek</author>
+<author pid="28/2712">Alistair C. Veitch</author>
+<title>Controlled lock violation.</title>
+<pages>85-96</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2465325</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#GraefeLKTV13</url>
+</inproceedings>
+</r>
+<r><article key="journals/ife/Graefe12" mdate="2020-03-04">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>New algorithms for join and grouping operations.</title>
+<pages>3-27</pages>
+<year>2012</year>
+<volume>27</volume>
+<journal>Comput. Sci. Res. Dev.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00450-011-0186-9</ee>
+<url>db/journals/ife/ife27.html#Graefe12</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GraefeK12" mdate="2020-04-25">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<title>Definition, Detection, and Recovery of Single-Page Failures, a Fourth Class of Database Failures.</title>
+<pages>646-655</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>7</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p646_goetzgraefe_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2180912.2180917</ee>
+<url>db/journals/pvldb/pvldb5.html#GraefeK12</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GraefeHIKM12" mdate="2020-04-25">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="38/648">Felix Halim</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<title>Concurrency Control for Adaptive Indexing.</title>
+<pages>656-667</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>7</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p656_goetzgraefe_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2180912.2180918</ee>
+<url>db/journals/pvldb/pvldb5.html#GraefeHIKM12</url>
+</article>
+</r>
+<r><article key="journals/tods/Graefe12" mdate="2018-11-06">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>A survey of B-tree logging and recovery techniques.</title>
+<pages>1:1-1:35</pages>
+<year>2012</year>
+<volume>37</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2109196.2109197</ee>
+<url>db/journals/tods/tods37.html#Graefe12</url>
+</article>
+</r>
+<r><article key="journals/tods/GraefeKK12" mdate="2022-01-18">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="98/5721-1">Hideaki Kimura 0001</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<title>Foster b-trees.</title>
+<pages>17:1-17:29</pages>
+<year>2012</year>
+<volume>37</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2338626.2338630</ee>
+<url>db/journals/tods/tods37.html#GraefeKK12</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/IdreosMG12" mdate="2018-11-06">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Adaptive indexing in modern database kernels.</title>
+<pages>566-569</pages>
+<year>2012</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/2247596.2247667</ee>
+<crossref>conf/edbt/2012</crossref>
+<url>db/conf/edbt/edbt2012.html#IdreosMG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GraefeKS12" mdate="2018-11-06">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<author pid="s/BernhardSeeger">Bernhard Seeger</author>
+<title>Self-diagnosing and self-healing indexes.</title>
+<pages>8</pages>
+<year>2012</year>
+<booktitle>DBTest</booktitle>
+<ee>https://doi.org/10.1145/2304510.2304521</ee>
+<crossref>conf/sigmod/2012dbtest</crossref>
+<url>db/conf/sigmod/dbtest2012.html#GraefeKS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/KimuraGK12" mdate="2022-01-18">
+<author pid="98/5721-1">Hideaki Kimura 0001</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<title>Efficient Locking Techniques for Databases on Modern Hardware.</title>
+<pages>1-12</pages>
+<year>2012</year>
+<booktitle>ADMS@VLDB</booktitle>
+<crossref>conf/vldb/2012adms</crossref>
+<ee type="oa">http://www.adms-conf.org/kimura_adms12.pdf</ee>
+<url>db/conf/vldb/adms2012.html#KimuraGK12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1203-6404" mdate="2018-08-13">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<title>Definition, Detection, and Recovery of Single-Page Failures, a Fourth Class of Database Failures</title>
+<ee type="oa">http://arxiv.org/abs/1203.6404</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1203.6404</volume>
+<url>db/journals/corr/corr1203.html#abs-1203-6404</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1203-6405" mdate="2018-08-13">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="38/648">Felix Halim</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<title>Concurrency Control for Adaptive Indexing</title>
+<ee type="oa">http://arxiv.org/abs/1203.6405</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1203.6405</volume>
+<url>db/journals/corr/corr1203.html#abs-1203-6405</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/BabuGK12" mdate="2017-06-07">
+<author pid="b/ShivnathBabu">Shivnath Babu</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<title>Database Workload Management (Dagstuhl Seminar 12282).</title>
+<pages>73-91</pages>
+<year>2012</year>
+<volume>2</volume>
+<journal>Dagstuhl Reports</journal>
+<number>7</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.2.7.73</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports2.html#BabuGK12</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/GraefeGKP12" mdate="2017-06-07">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="23/9583">Wey Guy</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<author pid="p/GNPaulley">Glenn N. Paulley</author>
+<title>Robust Query Processing (Dagstuhl Seminar 12321).</title>
+<pages>1-15</pages>
+<year>2012</year>
+<volume>2</volume>
+<journal>Dagstuhl Reports</journal>
+<number>8</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.2.8.1</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports2.html#GraefeGKP12</url>
+</article>
+</r>
+<r><article key="journals/dbsk/Graefe11" mdate="2017-05-18">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Sorting in a Memory Hierarchy with Flash Memory.</title>
+<pages>83-90</pages>
+<year>2011</year>
+<volume>11</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s13222-011-0062-6</ee>
+<url>db/journals/dbsk/dbsk11.html#Graefe11</url>
+</article>
+</r>
+<r><article key="journals/ftdb/Graefe11" mdate="2020-04-25">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Modern B-Tree Techniques.</title>
+<pages>203-402</pages>
+<year>2011</year>
+<volume>3</volume>
+<journal>Found. Trends Databases</journal>
+<number>4</number>
+<ee>https://doi.org/10.1561/1900000028</ee>
+<url>db/journals/ftdb/ftdb3.html#Graefe11</url>
+</article>
+</r>
+<r><article key="journals/pvldb/IdreosMKG11" mdate="2020-04-25">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Merging What's Cracked, Cracking What's Merged: Adaptive Indexing in Main-Memory Column-Stores.</title>
+<pages>585-597</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p586-idreos.pdf</ee>
+<ee>https://doi.org/10.14778/2002938.2002944</ee>
+<url>db/journals/pvldb/pvldb4.html#IdreosMKG11</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/Graefe09" mdate="2023-07-04">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>A Generalized Join Algorithm.</title>
+<pages>267-286</pages>
+<year>2011</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2011</crossref>
+<url>db/conf/btw/btw2011.html#Graefe09</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/19583</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings180/article51.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/DittrichFGLRS09" mdate="2023-07-04">
+<author pid="d/JensPeterDittrich">Jens Dittrich</author>
+<author pid="36/7116">Franz F&#228;rber</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="l/HenrikLoeser">Henrik Loeser</author>
+<author pid="37/9320">Wilfried Reimann</author>
+<author pid="60/5572">Harald Sch&#246;ning</author>
+<title>"One Size Fits All": An Idea Whose Time Has Come and Gone?</title>
+<pages>703-704</pages>
+<year>2011</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2011</crossref>
+<url>db/conf/btw/btw2011.html#DittrichFGLRS09</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/19613</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings180/article54.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dnis/KunoG11" mdate="2017-05-17">
+<author pid="02/451">Harumi A. Kuno</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Deferred Maintenance of Indexes and of Materialized Views.</title>
+<pages>312-323</pages>
+<year>2011</year>
+<booktitle>DNIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-25731-5_24</ee>
+<crossref>conf/dnis/2011</crossref>
+<url>db/conf/dnis/dnis2011.html#KunoG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GraefeGK11" mdate="2023-03-24">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="23/9583">Wey Guy</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<title>'Pause and resume' functionality for index operations.</title>
+<pages>28-33</pages>
+<year>2011</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2011.5767655</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2011.5767655</ee>
+<crossref>conf/icde/2011w</crossref>
+<url>db/conf/icde/icdew2011.html#GraefeGK11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/Graefe11" mdate="2023-03-23">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Robust query processing.</title>
+<pages>1361</pages>
+<year>2011</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2011.5767961</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2011.5767961</ee>
+<crossref>conf/icde/2011</crossref>
+<url>db/conf/icde/icde2011.html#Graefe11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GraefeK11" mdate="2023-03-23">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<title>Modern B-tree techniques.</title>
+<pages>1370-1373</pages>
+<year>2011</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2011.5767956</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2011.5767956</ee>
+<crossref>conf/icde/2011</crossref>
+<url>db/conf/icde/icde2011.html#GraefeK11</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigmod/2011dbtest" mdate="2021-03-11">
+<editor pid="g/GoetzGraefe">Goetz Graefe</editor>
+<editor pid="s/KennethSalem">Kenneth Salem</editor>
+<title>Proceedings of the Fourth International Workshop on Testing Database Systems, DBTest 2011, Athens, Greece, June 13, 2011</title>
+<booktitle>DBTest</booktitle>
+<publisher>ACM</publisher>
+<year>2011</year>
+<isbn>978-1-4503-0655-3</isbn>
+<ee>https://doi.org/10.1145/1988842</ee>
+<url>db/conf/sigmod/dbtest2011.html</url>
+</proceedings>
+</r>
+<r><article key="journals/debu/GraefeHKSTW10" mdate="2020-03-10">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="38/6308">Stavros Harizopoulos</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<author pid="s/MehulAShah">Mehul A. Shah</author>
+<author pid="77/228">Dimitris Tsirogiannis</author>
+<author pid="w/JanetLWiener">Janet L. Wiener</author>
+<title>Designing Database Operators for Flash-enabled Memory Hierarchies.</title>
+<pages>21-27</pages>
+<year>2010</year>
+<volume>33</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A10dec/hp-paper.pdf</ee>
+<url>db/journals/debu/debu33.html#GraefeHKSTW10</url>
+</article>
+</r>
+<r><article key="journals/tlsdkcs/GraefeK10" mdate="2020-05-19">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<title>Fast Loads and Queries.</title>
+<pages>31-72</pages>
+<year>2010</year>
+<volume>2</volume>
+<journal>Trans. Large Scale Data Knowl. Centered Syst.</journal>
+<ee>https://doi.org/10.1007/978-3-642-16175-9_2</ee>
+<crossref>journals/tlsdkcs/2010-2</crossref>
+<url>db/journals/tlsdkcs/tlsdkcs2.html#GraefeK10</url>
+</article>
+</r>
+<r><article key="journals/tods/Graefe10" mdate="2018-11-06">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>A survey of B-tree locking techniques.</title>
+<year>2010</year>
+<volume>35</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1806907.1806908</ee>
+<url>db/journals/tods/tods35.html#Graefe10</url>
+<pages>16:1-16:26</pages>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/GraefeK10" mdate="2018-11-06">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<title>Self-selecting, self-tuning, incrementally optimized indexes.</title>
+<pages>371-381</pages>
+<year>2010</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1739041.1739087</ee>
+<crossref>conf/edbt/2010</crossref>
+<url>db/conf/edbt/edbt2010.html#GraefeK10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GraefeK10" mdate="2023-03-23">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<title>Adaptive indexing for relational keys.</title>
+<pages>69-74</pages>
+<year>2010</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2010.5452743</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2010.5452743</ee>
+<crossref>conf/icde/2010w</crossref>
+<url>db/conf/icde/icdew2010.html#GraefeK10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpctc/GraefeIKM10" mdate="2017-05-23">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<title>Benchmarking Adaptive Indexing.</title>
+<pages>169-184</pages>
+<year>2010</year>
+<booktitle>TPCTC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-18206-8_13</ee>
+<crossref>conf/tpctc/2010</crossref>
+<url>db/conf/tpctc/tpctc2010.html#GraefeIKM10</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dagstuhl/2010P10381" mdate="2021-06-10">
+<editor pid="g/GoetzGraefe">Goetz Graefe</editor>
+<editor pid="k/ACKonig">Arnd Christian K&#246;nig</editor>
+<editor pid="02/451">Harumi Anne Kuno</editor>
+<editor pid="m/VMarkl">Volker Markl</editor>
+<editor pid="s/KaiUweSattler">Kai-Uwe Sattler</editor>
+<title>Robust Query Processing, 19.09. - 24.09.2010</title>
+<booktitle>Robust Query Processing</booktitle>
+<volume>10381</volume>
+<year>2010</year>
+<publisher>Schloss Dagstuhl - Leibniz-Zentrum f&#252;r Informatik, Germany</publisher>
+<series href="db/series/dagstuhl/index.html">Dagstuhl Seminar Proceedings</series>
+<url>db/conf/dagstuhl/P10381.html</url>
+<ee type="oa">http://drops.dagstuhl.de/portals/10381/</ee>
+</proceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/GraefeKKMS10" mdate="2018-08-23">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="k/ACKonig">Arnd Christian K&#246;nig</author>
+<author pid="02/451">Harumi Anne Kuno</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<title>10381 Summary and Abstracts Collection - Robust Query Processing.</title>
+<year>2010</year>
+<booktitle>Robust Query Processing</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2011/2984/</ee>
+<crossref>conf/dagstuhl/2010P10381</crossref>
+<url>db/conf/dagstuhl/P10381.html#GraefeKKMS10</url>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/Graefe09" mdate="2018-11-06">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Technical perspective - Integrating flash devices.</title>
+<pages>97</pages>
+<year>2009</year>
+<volume>52</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1498765.1498790</ee>
+<url>db/journals/cacm/cacm52.html#Graefe09</url>
+</article>
+</r>
+<r><article key="journals/cacm/Graefe09a" mdate="2018-11-06">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>The five-minute rule 20 years later (and how flash memory changes the rules).</title>
+<pages>48-59</pages>
+<year>2009</year>
+<volume>52</volume>
+<journal>Commun. ACM</journal>
+<number>7</number>
+<ee>https://doi.org/10.1145/1538788.1538805</ee>
+<url>db/journals/cacm/cacm52.html#Graefe09a</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/GraefeS09" mdate="2023-07-04">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="46/6760">Ryan Stonecipher</author>
+<title>Efficient Verification of B-tree Integrity.</title>
+<pages>27-46</pages>
+<year>2009</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2009</crossref>
+<url>db/conf/btw/btw2009.html#GraefeS09</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/20482</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings144/article4690.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/GraefeKW09" mdate="2020-03-12">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<author pid="w/JanetLWiener">Janet L. Wiener</author>
+<title>Visualizing the robustness of query execution.</title>
+<year>2009</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://www-db.cs.wisc.edu/cidr/cidr2009/Paper_82.pdf</ee>
+<crossref>conf/cidr/2009</crossref>
+<url>db/conf/cidr/cidr2009.html#GraefeKW09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dawak/Graefe09" mdate="2017-05-21">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Fast Loads and Fast Queries.</title>
+<pages>111-124</pages>
+<year>2009</year>
+<booktitle>DaWaK</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-03730-6_10</ee>
+<crossref>conf/dawak/2009</crossref>
+<url>db/conf/dawak/dawak2009.html#Graefe09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/TsirogiannisHSWG09" mdate="2018-11-06">
+<author pid="77/228">Dimitris Tsirogiannis</author>
+<author pid="38/6308">Stavros Harizopoulos</author>
+<author pid="s/MehulAShah">Mehul A. Shah</author>
+<author pid="w/JanetLWiener">Janet L. Wiener</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Query processing techniques for solid state drives.</title>
+<pages>59-72</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559854</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#TsirogiannisHSWG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpctc/WienerKG09" mdate="2017-05-23">
+<author pid="w/JanetLWiener">Janet L. Wiener</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Benchmarking Query Execution Robustness.</title>
+<pages>153-166</pages>
+<year>2009</year>
+<booktitle>TPCTC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-10424-4_12</ee>
+<crossref>conf/tpctc/2009</crossref>
+<url>db/conf/tpctc/tpctc2009.html#WienerKG09</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Graefe09" mdate="2017-07-12">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>B-Tree Locking.</title>
+<pages>273-277</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_35</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/b.html#Graefe09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Graefe09a" mdate="2017-07-12">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Buffer Manager.</title>
+<pages>282-285</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_677</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/b.html#Graefe09a</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Graefe09b" mdate="2017-07-12">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Buffer Pool.</title>
+<pages>285-287</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_682</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/b.html#Graefe09b</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Graefe09c" mdate="2017-07-12">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Parallel Hash Join, Parallel Merge Join, Parallel Nested Loops Join.</title>
+<pages>2029-2030</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_1086</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/p.html#Graefe09c</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Graefe09d" mdate="2017-07-12">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Parallel Query Execution Algorithms.</title>
+<pages>2030-2035</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_1078</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/p.html#Graefe09d</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/ZellerG09" mdate="2017-07-12">
+<author pid="09/6853">Hans Zeller</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Parallel Query Optimization.</title>
+<pages>2035-2038</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_1079</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/p.html#ZellerG09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Graefe09e" mdate="2017-07-12">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Storage Manager.</title>
+<pages>2807-2812</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_678</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/s.html#Graefe09e</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0909-1772" mdate="2018-08-13">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="02/451">Harumi A. Kuno</author>
+<author pid="w/JanetLWiener">Janet L. Wiener</author>
+<title>Visualizing the robustness of query execution</title>
+<ee type="oa">http://arxiv.org/abs/0909.1772</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0909.1772</volume>
+<url>db/journals/corr/corr0909.html#abs-0909-1772</url>
+</article>
+</r>
+<r><article key="journals/queue/Graefe08" mdate="2018-11-06">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>The Five-Minute Rule 20 Years Later: and How Flash Memory Changes the Rules.</title>
+<pages>40-52</pages>
+<year>2008</year>
+<volume>6</volume>
+<journal>ACM Queue</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1413254.1413264</ee>
+<url>db/journals/queue/queue6.html#Graefe08</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/ShahHWG08" mdate="2018-11-06">
+<author pid="s/MehulAShah">Mehul A. Shah</author>
+<author pid="38/6308">Stavros Harizopoulos</author>
+<author pid="w/JanetLWiener">Janet L. Wiener</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Fast scans and joins using flash drives.</title>
+<pages>17-24</pages>
+<year>2008</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/1457150.1457154</ee>
+<crossref>conf/damon/2008</crossref>
+<url>db/conf/damon/damon2008.html#ShahHWG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/Graefe08" mdate="2021-12-20">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Database Servers Tailored to Improve Energy Efficiency.</title>
+<pages>24-28</pages>
+<year>2008</year>
+<booktitle>Software Engineering for Tailor-made Data Management</booktitle>
+<ee>https://doi.org/10.1145/1385486.1385494</ee>
+<crossref>conf/edbt/2008setmdm</crossref>
+<url>db/conf/edbt/setmdm2008.html#Graefe08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/Graefe08" mdate="2023-03-24">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>A general and efficient algorithm for "top" queries.</title>
+<pages>548-555</pages>
+<year>2008</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2008.4498379</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2008.4498379</ee>
+<crossref>conf/icde/2008w</crossref>
+<url>db/conf/icde/icdew2008.html#Graefe08</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dagstuhl/2008P8281" mdate="2023-09-30">
+<editor orcid="0000-0003-3687-2233" pid="a/SvenApel">Sven Apel</editor>
+<editor pid="b/DSBatory">Don S. Batory</editor>
+<editor pid="g/GoetzGraefe">Goetz Graefe</editor>
+<editor pid="s/GunterSaake">Gunter Saake</editor>
+<editor pid="160/7787">O. Spynczyk</editor>
+<title>Software Engineering for Tailor-made Data Management, 06.07. - 11.07.2008</title>
+<booktitle>Software Engineering for Tailor-made Data Management</booktitle>
+<volume>08281</volume>
+<year>2008</year>
+<publisher>Schloss Dagstuhl - Leibniz-Zentrum f&#252;r Informatik, Germany</publisher>
+<series href="db/series/dagstuhl/index.html">Dagstuhl Seminar Proceedings</series>
+<url>db/conf/dagstuhl/P8281.html</url>
+<ee type="oa">http://drops.dagstuhl.de/portals/08281/</ee>
+</proceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/ApelBGSS08" mdate="2023-09-30">
+<author orcid="0000-0003-3687-2233" pid="a/SvenApel">Sven Apel</author>
+<author pid="b/DSBatory">Don S. Batory</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="s/GunterSaake">Gunter Saake</author>
+<author pid="s/OlafSpinczyk">Olaf Spinczyk</author>
+<title>08281 Abstracts Collection - Software Engineering for Trailor-made Data Management.</title>
+<year>2008</year>
+<booktitle>Software Engineering for Tailor-made Data Management</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2008/1579/</ee>
+<crossref>conf/dagstuhl/2008P8281</crossref>
+<url>db/conf/dagstuhl/P8281.html#ApelBGSS08</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/ApelBGSS08a" mdate="2023-09-30">
+<author orcid="0000-0003-3687-2233" pid="a/SvenApel">Sven Apel</author>
+<author pid="b/DSBatory">Don S. Batory</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="s/GunterSaake">Gunter Saake</author>
+<author pid="s/OlafSpinczyk">Olaf Spinczyk</author>
+<title>08281 Executive Summary - Software Engineering for Tailor-made Data Management.</title>
+<year>2008</year>
+<booktitle>Software Engineering for Tailor-made Data Management</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2008/1578/</ee>
+<crossref>conf/dagstuhl/2008P8281</crossref>
+<url>db/conf/dagstuhl/P8281.html#ApelBGSS08a</url>
+</inproceedings>
+</r>
+<r><article key="journals/ife/Graefe07" mdate="2020-05-21">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Master-detail clustering using merged indexes.</title>
+<pages>127-145</pages>
+<year>2007</year>
+<volume>21</volume>
+<journal>Inform. Forsch. Entwickl.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1007/s00450-007-0022-4</ee>
+<url>db/journals/ife/ife21.html#Graefe07</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Graefe07" mdate="2020-03-06">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Efficient columnar storage in B-trees.</title>
+<pages>3-6</pages>
+<year>2007</year>
+<volume>36</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1276301.1276302</ee>
+<url>db/journals/sigmod/sigmod36.html#Graefe07</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/Graefe07" mdate="2023-07-04">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Hierarchical locking in B-tree indexes.</title>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/31818</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings103/article1390.html</ee>
+<pages>18-42</pages>
+<year>2007</year>
+<crossref>conf/btw/2007</crossref>
+<booktitle>BTW</booktitle>
+<url>db/conf/btw/btw2007.html#Graefe07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/Graefe07a" mdate="2023-07-04">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Algorithms for merged indexes.</title>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/31832</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings103/article1395.html</ee>
+<pages>112-131</pages>
+<year>2007</year>
+<crossref>conf/btw/2007</crossref>
+<booktitle>BTW</booktitle>
+<url>db/conf/btw/btw2007.html#Graefe07a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/Graefe07" mdate="2018-11-06">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>The five-minute rule twenty years later, and how flash memory changes the rules.</title>
+<pages>6</pages>
+<year>2007</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/1363189.1363198</ee>
+<crossref>conf/damon/2007</crossref>
+<url>db/conf/damon/damon2007.html#Graefe07</url>
+</inproceedings>
+</r>
+<r><article key="journals/csur/Graefe06" mdate="2018-11-06">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Implementing sorting in database systems.</title>
+<year>2006</year>
+<volume>38</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1132960.1132964</ee>
+<url>db/journals/csur/csur38.html#Graefe06</url>
+<pages>10</pages>
+</article>
+</r>
+<r><article key="journals/sigmod/Graefe06" mdate="2020-03-06">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>B-tree indexes for high update rates.</title>
+<pages>39-44</pages>
+<year>2006</year>
+<volume>35</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1121995.1122002</ee>
+<url>db/journals/sigmod/sigmod35.html#Graefe06</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/Graefe06" mdate="2018-11-06">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>B-tree indexes, interpolation search, and skew.</title>
+<pages>5</pages>
+<year>2006</year>
+<crossref>conf/damon/2006</crossref>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/1140402.1140409</ee>
+<url>db/conf/damon/damon2006.html#Graefe06</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/Graefe05" mdate="2018-08-23">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>B-tree indexes for high update rates.</title>
+<year>2005</year>
+<booktitle>Data Always and Everywhere - Management of Mobile, Ubiquitous, Pervasive, and Sensor Data</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2006/763</ee>
+<crossref>conf/dagstuhl/2005P5421</crossref>
+<url>db/conf/dagstuhl/P5421.html#Graefe05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GraefeZ04" mdate="2018-11-06">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="74/1997">Michael J. Zwilling</author>
+<title>Transaction support for indexed views.</title>
+<year>2004</year>
+<crossref>conf/sigmod/2004</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2004.html#GraefeZ04</url>
+<ee>https://doi.org/10.1145/1007568.1007606</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/Graefe04" mdate="2019-06-07">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Write-Optimized B-Trees.</title>
+<year>2004</year>
+<crossref>conf/vldb/2004</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2004.html#Graefe04</url>
+<pages>672-683</pages>
+<ee>http://www.vldb.org/conf/2004/RS18P2.PDF</ee>
+<ee>https://doi.org/10.1016/B978-012088469-8.50060-7</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/CunninghamGG04" mdate="2019-06-07">
+<author pid="33/5504">Conor Cunningham</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="84/3247">C&#233;sar A. Galindo-Legaria</author>
+<title>PIVOT and UNPIVOT: Optimization and Execution Strategies in an RDBMS.</title>
+<year>2004</year>
+<crossref>conf/vldb/2004</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2004.html#CunninghamGG04</url>
+<pages>998-1009</pages>
+<ee>http://www.vldb.org/conf/2004/IND1P2.PDF</ee>
+<ee>https://doi.org/10.1016/B978-012088469-8.50087-5</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/Graefe03" mdate="2023-07-04">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Executing Nested Queries.</title>
+<pages>58-77</pages>
+<year>2003</year>
+<crossref>conf/btw/2003</crossref>
+<booktitle>BTW</booktitle>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/30081</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings26/article625.html</ee>
+<url>db/conf/btw/btw2003.html#Graefe03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/Graefe03a" mdate="2023-07-04">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Partitioned B-trees - a user's guide.</title>
+<pages>668-671</pages>
+<year>2003</year>
+<crossref>conf/btw/2003</crossref>
+<booktitle>BTW</booktitle>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/30089</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings26/article668.html</ee>
+<url>db/conf/btw/btw2003.html#Graefe03a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/Graefe03" mdate="2020-03-12">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Sorting And Indexing With Partitioned B-Trees.</title>
+<year>2003</year>
+<crossref>conf/cidr/2003</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://www-db.cs.wisc.edu/cidr/cidr2003/program/p1.pdf</ee>
+<url>db/conf/cidr/cidr2003.html#Graefe03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GraefeL01" mdate="2023-03-23">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<title>B-Tree Indexes and CPU Caches.</title>
+<year>2001</year>
+<crossref>conf/icde/2001</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2001.html#GraefeL01</url>
+<pages>349-358</pages>
+<ee>https://doi.org/10.1109/ICDE.2001.914847</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2001.914847</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/OConnellWG01" mdate="2020-03-12">
+<author pid="61/6990">William O'Connell</author>
+<author pid="63/3671">Andrew Witkowski</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Collaborative Analytical Processing - Dream or Reality? (Panel abstract).</title>
+<pages>613</pages>
+<ee type="oa">http://www.vldb.org/conf/2001/P613.pdf</ee>
+<year>2001</year>
+<crossref>conf/vldb/2001</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2001.html#OConnellWG01</url>
+</inproceedings>
+</r>
+<r><incollection key="books/mg/AgarwalBC01" mdate="2018-05-03">
+<author pid="50/40">Sameet Agarwal</author>
+<author pid="79/2594">Jos&#233; A. Blakeley</author>
+<author pid="01/3644">Thomas Casey</author>
+<author pid="90/5302">Kalen Delaney</author>
+<author pid="84/3247">C&#233;sar A. Galindo-Legaria</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="59/3443">Michael Rys</author>
+<author pid="74/1997">Michael J. Zwilling</author>
+<title>Microsoft SQL Server (Chapter 27)</title>
+<pages>969-1006</pages>
+<crossref>books/mg/SilberschatzKS01</crossref>
+<booktitle>Database System Concepts, 4th Edition.</booktitle>
+<year>2001</year>
+<url>db/books/dbtext/SilberschatzKS01.html#AgarwalBC01</url>
+</incollection>
+</r>
+<r><article key="journals/debu/Graefe00" mdate="2024-04-04">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Dynamic Query Evaluation Plans: Some Course Corrections?</title>
+<pages>3-6</pages>
+<year>2000</year>
+<ee type="oa">http://sites.computer.org/debull/A00june/A00JUN-CD.pdf</ee>
+<volume>23</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<url>db/journals/debu/debu23.html#Graefe00</url>
+</article>
+</r>
+<r><article key="journals/debu/ChaudhuriCGNZ99" mdate="2020-03-10">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="11/1472">Eric Christensen</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="n/VivekRNarasayya">Vivek R. Narasayya</author>
+<author pid="74/1997">Michael J. Zwilling</author>
+<title>Self-Tuning Technology in Microsoft SQL Server.</title>
+<pages>20-26</pages>
+<year>1999</year>
+<volume>22</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<url>db/journals/debu/debu22.html#ChaudhuriCGNZ99</url>
+<cdrom>DEBU22-2/P20.pdf</cdrom>
+<ee type="oa">http://sites.computer.org/debull/99june/msft.ps</ee>
+<cite>...</cite>
+<cite>conf/vldb/ChaudhuriN97</cite>
+<cite>...</cite>
+<cite>conf/sigmod/ChaudhuriN98</cite>
+<cite>conf/vldb/GraefeBC98</cite>
+<cite>...</cite>
+<cite>...</cite>
+</article>
+</r>
+<r><inproceedings key="conf/vldb/Graefe99" mdate="2020-03-12">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>The Value of Merge-Join and Hash-Join in SQL Server.</title>
+<pages>250-253</pages>
+<year>1999</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb99.html#Graefe99</url>
+<crossref>conf/vldb/99</crossref>
+<ee type="oa">http://www.vldb.org/conf/1999/P26.pdf</ee>
+<cite label="Blasgen and Eswaran 1977">journals/ibmsj/BlasgenE77</cite>
+<cite label="Chaudhuri and Narasayya 1998">conf/sigmod/ChaudhuriN98a</cite>
+<cite label="DeWitt et al. 1984">conf/sigmod/DeWittKOSSW84</cite>
+<cite label="DeWitt et al. 1993">conf/pdis/DeWittNB93</cite>
+<cite label="Graefe et al. 1998">conf/vldb/GraefeBC98</cite>
+<cite label="Kitsuregawa et al. 1983">journals/ngc/KitsuregawaTM83</cite>
+<cite label="Sacco 1986">journals/tods/Sacco86</cite>
+<cite label="Selinger et al. 1979">conf/sigmod/SelingerACLP79</cite>
+<cite label="Shapiro 1986">journals/tods/Shapiro86</cite>
+<cite label="TPC-D">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/Graefe98" mdate="2023-03-23">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>The New Database Imperatives.</title>
+<pages>69-72</pages>
+<cdrom>ICDE98/P069.pdf</cdrom>
+<year>1998</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde98.html#Graefe98</url>
+<crossref>conf/icde/98</crossref>
+<ee>https://doi.org/10.1109/ICDE.1998.655759</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.1998.655759</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/GraefeFC98" mdate="2012-12-12">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="f/UsamaMFayyad">Usama M. Fayyad</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<title>On the Efficient Gathering of Sufficient Statistics for Classification from Large SQL Databases.</title>
+<pages>204-208</pages>
+<year>1998</year>
+<crossref>conf/kdd/1998</crossref>
+<booktitle>KDD</booktitle>
+<url>db/conf/kdd/kdd98.html#GraefeFC98</url>
+<ee>http://www.aaai.org/Library/KDD/1998/kdd98-034.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LarsonG98" mdate="2021-03-11">
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Memory Management During Run Generation in External Sorting.</title>
+<pages>472-483</pages>
+<year>1998</year>
+<crossref>conf/sigmod/98</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod98.html#LarsonG98</url>
+<ee>https://doi.org/10.1145/276304.276346</ee>
+<ee>https://doi.org/10.1145/276305.276346</ee>
+<cdrom>SIGMOD98/P472.PDF</cdrom>
+<cite>journals/csur/Estivill-CastroW92</cite>
+<cite>journals/csur/Graefe93</cite>
+<cite>conf/icde/Graefe94</cite>
+<cite>conf/vldb/NakayamaK88</cite>
+<cite>books/aw/Knuth73a</cite>
+<cite>books/aw/Knuth73</cite>
+<cite>...</cite>
+<cite>conf/icde/PaiV92</cite>
+<cite>journals/acta/Salzberg89</cite>
+<cite>conf/iwmm/WilsonJNB95</cite>
+<cite>journals/tkde/ZhengL96</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/GraefeBC98" mdate="2020-03-12">
+<crossref>conf/vldb/98</crossref>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="51/3194">Ross Bunker</author>
+<author pid="77/4236">Shaun Cooper</author>
+<title>Hash Joins and Hash Teams in Microsoft SQL Server.</title>
+<pages>86-97</pages>
+<year>1998</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb98.html#GraefeBC98</url>
+<ee type="oa">http://www.vldb.org/conf/1998/p086.pdf</ee>
+<cite label="Bratbergsengen 1984">conf/vldb/Bratbergsengen84</cite>
+<cite label="DeWitt 1984">conf/sigmod/DeWittKOSSW84</cite>
+<cite label="DeWitt 1985">conf/vldb/DeWittG85</cite>
+<cite label="DeWitt 1993">conf/pdis/DeWittNB93</cite>
+<cite label="Fushimi 1986">conf/vldb/FushimiKT86</cite>
+<cite label="Graefe 1993">journals/csur/Graefe93</cite>
+<cite label="Graefe 1994">conf/icde/Graefe94</cite>
+<cite label="Gray 1987">conf/sigmod/GrayP87</cite>
+<cite label="Hellerstein 1996">conf/sigmod/HellersteinN96</cite>
+<cite label="Kitsuregawa 1989">conf/vldb/KitsuregawaNT89</cite>
+<cite label="Red Brick 1996">...</cite>
+<cite label="Sacco 1986">journals/tods/Sacco86</cite>
+<cite label="Schneider 1990">conf/vldb/SchneiderD90</cite>
+<cite label="Sedgewick 1984">...</cite>
+<cite label="Selinger 1979">conf/sigmod/SelingerACLP79</cite>
+<cite label="Zeller 1990">conf/vldb/ZellerG90</cite>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DB-9809005" mdate="2020-01-10">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb</title>
+<ee type="oa">https://arxiv.org/abs/cs/9809005</ee>
+<year>1998</year>
+<journal>CoRR</journal>
+<volume>cs.DB/9809005</volume>
+<url>db/journals/corr/corr9809.html#cs-DB-9809005</url>
+</article>
+</r>
+<r><article key="journals/sigmod/GrayG97" mdate="2020-03-06">
+<ee>https://doi.org/10.1145/271074.271094</ee>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb.</title>
+<pages>63-68</pages>
+<cdrom>sigmodR/26-4/P063.pdf</cdrom>
+<year>1997</year>
+<volume>26</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<url>db/journals/sigmod/sigmod26.html#GrayG97</url>
+</article>
+</r>
+<r><article key="journals/spe/Graefe96" mdate="2020-04-09">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Iterators, Schedulers, and Distributed-memory Parallelism.</title>
+<pages>427-452</pages>
+<year>1996</year>
+<volume>26</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>4</number>
+<url>db/journals/spe/spe26.html#Graefe96</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(199604)26:4&lt;427::AID-SPE20&gt;3.0.CO;2-H</ee>
+</article>
+</r>
+<r><inproceedings key="conf/icde/Graefe96" mdate="2023-03-24">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>The Microsoft Relational Engine.</title>
+<pages>160-161</pages>
+<cdrom>ICDE96/P160.pdf</cdrom>
+<year>1996</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde96.html#Graefe96</url>
+<crossref>conf/icde/96</crossref>
+<ee>https://doi.org/10.1109/ICDE.1996.492100</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.1996.492100</ee>
+</inproceedings>
+</r>
+<r><article key="journals/debu/Graefe95" mdate="2020-03-10">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Letter from the Special Issue Editor.</title>
+<pages>2</pages>
+<year>1995</year>
+<volume>18</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<cdrom>DEBU/95SEP-CD.PDF</cdrom>
+<url>db/journals/debu/debu18.html#Graefe95</url>
+<ee type="oa">http://sites.computer.org/debull/95SEP-CD.pdf</ee>
+</article>
+</r>
+<r><article key="journals/debu/Graefe95a" mdate="2020-03-10">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>The Cascades Framework for Query Optimization.</title>
+<pages>19-29</pages>
+<year>1995</year>
+<volume>18</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<cdrom>DEBU/95SEP-CD.PDF</cdrom>
+<url>db/journals/debu/debu18.html#Graefe95a</url>
+<ee type="oa">http://sites.computer.org/debull/95SEP-CD.pdf</ee>
+<cite label="BMG93">conf/sigmod/BlakeleyMG93</cite>
+<cite label="GrD87">conf/sigmod/GraefeD87</cite>
+<cite label="Gra93">journals/csur/Graefe93</cite>
+<cite label="GrM93">conf/icde/GraefeM93</cite>
+<cite label="Loh88">conf/sigmod/Lohman88</cite>
+<cite label="MDZ93">conf/vldb/MitchellDZ93</cite>
+<cite label="SAC79">conf/sigmod/SelingerACLP79</cite>
+<cite label="WoG93">conf/vldb/WolniewiczG93</cite>
+</article>
+</r>
+<r><article key="journals/sigmod/ONeilG95" mdate="2020-03-06">
+<ee>https://doi.org/10.1145/211990.212001</ee>
+<author pid="o/PatrickEONeil">Patrick E. O'Neil</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Multi-Table Joins Through Bitmapped Join Indices.</title>
+<pages>8-11</pages>
+<cdrom>sigmodR/24-3/P008.pdf</cdrom>
+<year>1995</year>
+<volume>24</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<url>db/journals/sigmod/sigmod24.html#ONeilG95</url>
+</article>
+</r>
+<r><article key="journals/tods/GraefeC95" mdate="2018-11-06">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="44/1222">Richard L. Cole</author>
+<title>Fast Algorithms for Universal Quantification in Large Databases.</title>
+<pages>187-236</pages>
+<year>1995</year>
+<volume>20</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<url>db/journals/tods/tods20.html#GraefeC95</url>
+<cdrom>TODS20/P187.PDF</cdrom>
+<ee>https://doi.org/10.1145/210197.210202</ee>
+<cite label="Astrahan et al. 1976">journals/tods/AstrahanBCEGGKLMMPTWW76</cite>
+<cite label="Bitton and DeWitt 1983">journals/tods/BittonD83</cite>
+<cite label="Bratbergsengen 1984">conf/vldb/Bratbergsengen84</cite>
+<cite label="Carlis 1986">conf/icde/Carlis86</cite>
+<cite label="Cheng et al. 1985">journals/ibmsj/ChengLSW84</cite>
+<cite label="Codd 1972">persons/Codd72</cite>
+<cite label="Date and Darwen 1993">books/aw/DateD93</cite>
+<cite label="DeWitt et al. 1984">conf/sigmod/DeWittKOSSW84</cite>
+<cite label="DeWitt and Gerber 1985">conf/vldb/DeWittG85</cite>
+<cite label="DeWitt et al. 1986">conf/vldb/DeWittGGHKM86</cite>
+<cite label="DeWitt et al. 1990">journals/tkde/DeWittGSBHR90</cite>
+<cite label="Epstein 1979">...</cite>
+<cite label="Fushimi et al. 1986">conf/vldb/FushimiKT86</cite>
+<cite label="Graefe 1989">conf/icde/Graefe89</cite>
+<cite label="Graefe and Thakkar 1992">journals/spe/GraefeT92</cite>
+<cite label="Graefe 1993">journals/csur/Graefe93</cite>
+<cite label="Graefe and Davison 1993">journals/tse/GraefeD93</cite>
+<cite label="Graefe 1994">journals/tkde/Graefe94</cite>
+<cite label="Graefe et al. 1994">journals/tkde/GraefeLS94</cite>
+<cite label="Kitsuregawa et al. 1983">journals/ngc/KitsuregawaTM83</cite>
+<cite label="Kitsuregawa et al. 1989">conf/vldb/KitsuregawaNT89</cite>
+<cite label="Knuth 1973">books/aw/Knuth73</cite>
+<cite label="Maier 1983">books/cs/Maier83</cite>
+<cite label="Nakayama et al. 1988">conf/vldb/NakayamaK88</cite>
+<cite label="O'Neil 1994">...</cite>
+<cite label="Sacco 1986">journals/tods/Sacco86</cite>
+<cite label="Salzberg et al. 1990">conf/sigmod/SalzbergTGSUV90</cite>
+<cite label="Schneider and DeWitt 1989">conf/sigmod/SchneiderD89</cite>
+<cite label="Shapiro 1986">journals/tods/Shapiro86</cite>
+<cite label="Smith and Chang 1975">journals/cacm/SmithC75</cite>
+<cite label="Stonebraker 1986">journals/debu/Stonebraker86</cite>
+<cite label="Whang et al. 1990">conf/icde/WhangMSB90</cite>
+<cite label="Zeller and Gray 1990">conf/vldb/ZellerG90</cite>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/DavisonG95" mdate="2021-06-11">
+<author pid="80/2085">Diane L. Davison</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Dynamic Resource Brokering for Multi-User Query Execution.</title>
+<pages>281-292</pages>
+<year>1995</year>
+<crossref>conf/sigmod/95</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod95.html#DavisonG95</url>
+<ee>https://doi.org/10.1145/223784.223845</ee>
+<ee>https://doi.org/10.1145/568271.223845</ee>
+<cdrom>SIGMOD95/P281.PDF</cdrom>
+<cite label="BiG88">conf/vldb/BittonG88</cite>
+<cite label="BMC94">conf/vldb/BrownMCL94</cite>
+<cite label="CLL85">conf/icdcs/CareyLL85</cite>
+<cite label="CoG94">conf/sigmod/ColeG94</cite>
+<cite label="DaG94">conf/vldb/DavisonG94</cite>
+<cite label="Dav95">...</cite>
+<cite label="DGS90">journals/tkde/DeWittGSBHR90</cite>
+<cite label="FNS91">conf/vldb/FaloutsosNS91</cite>
+<cite label="FYN88">conf/icdcs/FergusonYN88</cite>
+<cite label="GlL89">...</cite>
+<cite label="GrD93">journals/tse/GraefeD93</cite>
+<cite label="Gru91">...</cite>
+<cite label="MeD93a">conf/vldb/MehtaD93</cite>
+<cite label="MeD93b">...</cite>
+<cite label="NF91">conf/sigmod/NgFS91</cite>
+<cite label="PCL93a">conf/vldb/PangCL93</cite>
+<cite label="PCL93b">conf/sigmod/PangCL93</cite>
+<cite label="PCL94">conf/sigmod/PangCL94</cite>
+<cite label="SDK94">conf/pdis/StonebrakerDKLPSS94</cite>
+<cite label="WHH92">journals/tse/WaldspurgerHHKS92</cite>
+<cite label="Yu93">journals/vldb/YuC93</cite>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/Graefe94" mdate="2017-05-20">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Volcano - An Extensible and Parallel Query Evaluation System.</title>
+<pages>120-135</pages>
+<cdrom>TKDE6/P0120.pdf</cdrom>
+<year>1994</year>
+<volume>6</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>1</number>
+<url>db/journals/tkde/tkde6.html#Graefe94</url>
+<ee>https://doi.org/10.1109/69.273032</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/69.273032</ee>
+<cite>journals/tse/BatoryBGSTTW88</cite>
+<cite>journals/tods/BittonD83</cite>
+<cite>journals/tods/BittonBDW83</cite>
+<cite>conf/vldb/Bratbergsengen84</cite>
+<cite>conf/vldb/CareyDRS86</cite>
+<cite>conf/sigmod/CareyDV88</cite>
+<cite>...</cite>
+<cite>conf/icde/Carlis86</cite>
+<cite>journals/cacm/ChamberlinABGKLLMPPSSSTWY81</cite>
+<cite>journals/spe/ChouDKK85</cite>
+<cite>journals/tkde/DeWittGSBHR90</cite>
+<cite>conf/vldb/FushimiKT86</cite>
+<cite>conf/sigmod/GraefeD87</cite>
+<cite>phd/Graefe87</cite>
+<cite>conf/oodbs/GraefeM88</cite>
+<cite>conf/icde/Graefe89</cite>
+<cite>conf/sigmod/GraefeW89</cite>
+<cite>journals/spe/GraefeT92</cite>
+<cite>journals/tse/GraefeD93</cite>
+<cite>conf/sigmod/Graefe90</cite>
+<cite>...</cite>
+<cite>conf/sigmod/Guttman84</cite>
+<cite>journals/tkde/HaasCLMWLLPCS90</cite>
+<cite>journals/tods/HudsonK89</cite>
+<cite>...</cite>
+<cite>conf/sigmod/KellerGM91</cite>
+<cite>conf/sigmod/RichardsonC87</cite>
+<cite>...</cite>
+<cite>conf/icde/SalemG86</cite>
+<cite>journals/tkde/SchekPSW90</cite>
+<cite>journals/tods/Shapiro86</cite>
+<cite>journals/tods/Stonebraker80</cite>
+<cite>...</cite>
+<cite>conf/vldb/StonebrakerKPO88</cite>
+<cite>journals/tkde/StonebrakerRH90</cite>
+</article>
+</r>
+<r><article key="journals/tkde/GraefeLS94" mdate="2017-05-20">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="44/1397">Ann Linville</author>
+<author pid="s/LeonardDShapiro">Leonard D. Shapiro</author>
+<title>Sort versus Hash Revisited.</title>
+<pages>934-944</pages>
+<cdrom>TKDE6/P0934.pdf</cdrom>
+<year>1994</year>
+<volume>6</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>6</number>
+<url>db/journals/tkde/tkde6.html#GraefeLS94</url>
+<ee>https://doi.org/10.1109/69.334883</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/69.334883</ee>
+<cite>journals/cacm/AggarwalV88</cite>
+<cite>journals/tods/AstrahanBCEGGKLMMPTWW76</cite>
+<cite>journals/tc/BeckBW88</cite>
+<cite>journals/tods/BittonD83</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/ibmsj/BlasgenE77</cite>
+<cite>conf/vldb/Bratbergsengen84</cite>
+<cite>journals/spe/ChouDKK85</cite>
+<cite>conf/sigmod/DeWittKOSSW84</cite>
+<cite>conf/vldb/DeWittG85</cite>
+<cite>conf/vldb/DeWittGGHKM86</cite>
+<cite>conf/sigmod/DeWittGS88</cite>
+<cite>books/mk/gray91/DeWitt91</cite>
+<cite>conf/pdis/DeWittNS91</cite>
+<cite>...</cite>
+<cite>journals/tods/FaginNPS79</cite>
+<cite>conf/vldb/FushimiKT86</cite>
+<cite>conf/sigmod/Graefe90</cite>
+<cite>journals/tse/GraefeD93</cite>
+<cite>...</cite>
+<cite>journals/tkde/Graefe94</cite>
+<cite>journals/spe/GraefeT92</cite>
+<cite>...</cite>
+<cite>conf/icde/IyerD90</cite>
+<cite>...</cite>
+<cite>conf/sigmod/KemperM90</cite>
+<cite>journals/ngc/KitsuregawaTM83</cite>
+<cite>conf/vldb/KitsuregawaNT89</cite>
+<cite>conf/sigmod/Klug82</cite>
+<cite>books/aw/Knuth73</cite>
+<cite>phd/Kooi80</cite>
+<cite>conf/vldb/LorieY89</cite>
+<cite>conf/vldb/Menon86</cite>
+<cite>conf/vldb/NakayamaK88</cite>
+<cite>conf/usenix/Ousterhout90a</cite>
+<cite>conf/sigmod/RichardsonC87</cite>
+<cite>books/ph/Salzberg88</cite>
+<cite>journals/acta/Salzberg89</cite>
+<cite>conf/sigmod/SalzbergTGSUV90</cite>
+<cite>conf/sigmod/SchneiderD89</cite>
+<cite>conf/sigmod/SelingerACLP79</cite>
+<cite>journals/tods/Shapiro86</cite>
+<cite>journals/tods/StonebrakerWKH76</cite>
+<cite>...</cite>
+<cite>conf/vldb/Todd75</cite>
+<cite>conf/vldb/ZellerG90</cite>
+<cite>books/aw/Zipf49</cite>
+</article>
+</r>
+<r><inproceedings key="conf/icde/Graefe94" mdate="2023-03-24">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Sort-Merge-Join: An Idea Whose Time Has(h) Passed?</title>
+<pages>406-417</pages>
+<cdrom>ICDE94/P406.pdf</cdrom>
+<year>1994</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde94.html#Graefe94</url>
+<crossref>conf/icde/94</crossref>
+<ee>https://doi.org/10.1109/ICDE.1994.283062</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.1994.283062</ee>
+<cite>journals/ibmsj/BlasgenE77</cite>
+<cite>conf/vldb/Bratbergsengen84</cite>
+<cite>conf/vldb/ChenLYY92</cite>
+<cite>conf/sigmod/DeWittKOSSW84</cite>
+<cite>conf/vldb/DeWittG85</cite>
+<cite>conf/vldb/DeWittGGHKM86</cite>
+<cite>conf/sigmod/DeWittGS88</cite>
+<cite>journals/tkde/DeWittGSBHR90</cite>
+<cite>conf/vldb/FushimiKT86</cite>
+<cite>...</cite>
+<cite>journals/csur/Graefe93</cite>
+<cite>...</cite>
+<cite>journals/tkde/Graefe94</cite>
+<cite>journals/tkde/GraefeLS94</cite>
+<cite>conf/sigmod/IoannidisC91</cite>
+<cite>journals/tc/JanusL85</cite>
+<cite>journals/ngc/KitsuregawaTM83</cite>
+<cite>conf/vldb/KitsuregawaNT89</cite>
+<cite>books/aw/Knuth73a</cite>
+<cite>journals/tc/KwanB85</cite>
+<cite>journals/tc/McCulloch85</cite>
+<cite>books/ph/Salzberg88</cite>
+<cite>journals/acta/Salzberg89</cite>
+<cite>conf/sigmod/SchneiderD89</cite>
+<cite>conf/vldb/SchneiderD90</cite>
+<cite>conf/sigmod/SelingerACLP79</cite>
+<cite>journals/tods/Shapiro86</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ColeG94" mdate="2021-03-22">
+<author pid="44/1222">Richard L. Cole</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Optimization of Dynamic Query Evaluation Plans.</title>
+<pages>150-160</pages>
+<year>1994</year>
+<crossref>conf/sigmod/94</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod94.html#ColeG94</url>
+<ee>https://doi.org/10.1145/191839.191872</ee>
+<ee>https://doi.org/10.1145/191843.191872</ee>
+<cdrom>SIGMOD94/P150.PDF</cdrom>
+<cite label="Ant93">conf/icde/Antoshenkov93</cite>
+<cite label="BMG93">conf/sigmod/BlakeleyMG93</cite>
+<cite label="BPR90">conf/dpds/BodorikPR90</cite>
+<cite label="CAK81">journals/tods/ChamberlinAKLMPSSSWY81</cite>
+<cite label="Chr84">journals/tods/Christodoulakis84</cite>
+<cite label="CAB93">journals/debu/ColeAB93</cite>
+<cite label="CLR89">books/mg/CormenLR89</cite>
+<cite label="DMP93">conf/sigmod/DerrMP93</cite>
+<cite label="GHK92">conf/sigmod/GangulyHK92</cite>
+<cite label="GrW89">conf/sigmod/GraefeW89</cite>
+<cite label="Gra93">journals/csur/Graefe93</cite>
+<cite label="GrM93">conf/icde/GraefeM93</cite>
+<cite label="HaP88">...</cite>
+<cite label="HoS93">journals/dpd/HongS93</cite>
+<cite label="IoC91">conf/sigmod/IoannidisC91</cite>
+<cite label="INS92">conf/vldb/IoannidisNSS92</cite>
+<cite label="KGM91">conf/sigmod/KellerGM91</cite>
+<cite label="Loh89">...</cite>
+<cite label="MaL89">journals/tods/MackertL89</cite>
+<cite label="MHW90">conf/edbt/MohanHWC90</cite>
+<cite label="OnL90">conf/vldb/OnoL90</cite>
+<cite label="OHM92">conf/sigmod/OrensteinHMS92</cite>
+<cite label="SAC79">conf/sigmod/SelingerACLP79</cite>
+<cite label="SBM89">...</cite>
+<cite label="TsN92">conf/sigmod/TsangarisN92</cite>
+<cite label="WoG93">conf/vldb/WolniewiczG93</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/DavisonG94" mdate="2017-03-29">
+<crossref>conf/vldb/94</crossref>
+<author pid="80/2085">Diane L. Davison</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Memory-Contention Responsive Hash Joins.</title>
+<pages>379-390</pages>
+<year>1994</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb94.html#DavisonG94</url>
+<ee>http://www.vldb.org/conf/1994/P379.PDF</ee>
+<cite label="BiG88">conf/vldb/BittonG88</cite>
+<cite label="Bra84">conf/vldb/Bratbergsengen84</cite>
+<cite label="DKO84">conf/sigmod/DeWittKOSSW84</cite>
+<cite label="DeG85">conf/vldb/DeWittG85</cite>
+<cite label="Gra93a">journals/csur/Graefe93</cite>
+<cite label="Gr93b">...</cite>
+<cite label="Gr94">conf/icde/Graefe94</cite>
+<cite label="GLS94">journals/tkde/GraefeLS94</cite>
+<cite label="KNT89">conf/vldb/KitsuregawaNT89</cite>
+<cite label="NKT88">conf/vldb/NakayamaK88</cite>
+<cite label="PCL93a">conf/sigmod/PangCL93</cite>
+<cite label="PCL93b">...</cite>
+<cite label="Sal90">journals/acta/Salzberg89</cite>
+<cite label="Sha86">journals/tods/Shapiro86</cite>
+<cite label="SSU91">journals/cacm/SilberschatzSU91</cite>
+<cite label="ZeG90">conf/vldb/ZellerG90</cite>
+</inproceedings>
+</r>
+<r><article key="journals/csur/Graefe93" mdate="2018-11-06">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Query Evaluation Techniques for Large Databases.</title>
+<pages>73-170</pages>
+<year>1993</year>
+<volume>25</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>2</number>
+<url>db/journals/csur/csur25.html#Graefe93</url>
+<ee>https://doi.org/10.1145/152610.152611</ee>
+<cdrom>CSURs1/csur25/P073.pdf</cdrom>
+<cite label="Adam and Wortmann 1989">journals/csur/AdamW89</cite>
+<cite label="Ahn and Snodgrass 1988">journals/is/AhnS88</cite>
+<cite label="Albert 1991">conf/vldb/Albert91</cite>
+<cite label="Analyti and Pramanik 1992">conf/sigmod/AnalytiP92</cite>
+<cite label="Anderson et al. 1988">...</cite>
+<cite label="Antoshenkov 1993">conf/icde/Antoshenkov93</cite>
+<cite label="Astrahan et al. 1976">journals/tods/AstrahanBCEGGKLMMPTWW76</cite>
+<cite label="Astrahan et al. 1987">journals/is/AstrahanSW87</cite>
+<cite label="Atkinson and Bunemann 1987">journals/csur/AtkinsonB87</cite>
+<cite label="Babb 1982">journals/tods/Babb82</cite>
+<cite label="Babb 1979">journals/tods/Babb79</cite>
+<cite label="Baeza-Yates and Larson 1989">journals/tkde/Baeza-YatesL89</cite>
+<cite label="Bancilhon and Ramakrishnan 1986">conf/sigmod/BancilhonR86</cite>
+<cite label="Barghouti and Kaiser 1991">journals/csur/BarghoutiK91</cite>
+<cite label="Baru and Frieder 1989">journals/tc/BaruF89</cite>
+<cite label="Batini et al. 1986">journals/csur/BatiniL86</cite>
+<cite label="Batory et al. 1988a">journals/tse/BatoryBGSTTW88</cite>
+<cite label="Batory et al. 1988b">journals/tods/BatoryLW88</cite>
+<cite label="Baugsto and Greipsland 1989">conf/iwdm/BaugstoG89</cite>
+<cite label="Bayer and McCreighton 1972">journals/acta/BayerM72</cite>
+<cite label="Beck et al. 1988">journals/tc/BeckBW88</cite>
+<cite label="Becker et al. 1991">conf/sigmod/BeckerSW91</cite>
+<cite label="Beckmann et al. 1990">conf/sigmod/BeckmannKSS90</cite>
+<cite label="Bell et al. 1989">journals/csur/BellWC89</cite>
+<cite label="Bentley 1975">journals/cacm/Bentley75</cite>
+<cite label="Bernstein and Goodman 1981">journals/csur/BernsteinG81</cite>
+<cite label="Bernstein et al. 1981">journals/tods/BernsteinGWRR81</cite>
+<cite label="Bernstein et al. 1987">books/aw/BernsteinHG87</cite>
+<cite label="Berra et al. 1987">journals/computer/BerraCH87</cite>
+<cite label="Bertino 1991">conf/icde/Bertino91</cite>
+<cite label="Bertino 1990">conf/edbt/Bertino90</cite>
+<cite label="Bertino and Kim 1989">journals/tkde/BertinoK89</cite>
+<cite label="Bhide 1988">conf/vldb/Bhide88</cite>
+<cite label="Bhide and Stonebraker 1988">conf/icde/BhideS88</cite>
+<cite label="Bitton and DeWitt 1983">journals/tods/BittonD83</cite>
+<cite label="Bitton-Friedland 1982">...</cite>
+<cite label="Bitton and Gray 1988">conf/vldb/BittonG88</cite>
+<cite label="Bitton et al. 1984">journals/csur/BittonDHM84</cite>
+<cite label="Bitton et al. 1987">conf/icde/BittonHT87</cite>
+<cite label="Blakeley and Martin 1990">conf/icde/BlakeleyM90</cite>
+<cite label="Blakeley et al. 1989">journals/tods/BlakeleyCL89</cite>
+<cite label="Blasgen and Eswaran 1977">journals/ibmsj/BlasgenE77</cite>
+<cite label="Blasgen and Eswaran 1976">...</cite>
+<cite label="Bloom 1970">journals/cacm/Bloom70</cite>
+<cite label="Boral 1988">conf/dpds/Boral88</cite>
+<cite label="Boral and DeWitt 1983">conf/iwdm/BoralD83</cite>
+<cite label="Boral et al. 1990">journals/tkde/BoralACCDFHSV90</cite>
+<cite label="Bratbergsengen 1984">conf/vldb/Bratbergsengen84</cite>
+<cite label="Brown et al. 1992">...</cite>
+<cite label="Bucheral et al. 1990">conf/vldb/PucheralTV90</cite>
+<cite label="Buneman and Frankel 1979">conf/sigmod/BunemanF79</cite>
+<cite label="Buneman et al. 1982">journals/tods/BunemanFN82</cite>
+<cite label="Cacace et al. 1992">journals/dpd/CacaceCH93</cite>
+<cite label="Carey et al. 1986">conf/vldb/CareyDRS86</cite>
+<cite label="Carlis 1986">conf/icde/Carlis86</cite>
+<cite label="Carter and Wegman 1979">journals/jcss/CarterW79</cite>
+<cite label="Chamberlin et al. 1981a">journals/cacm/ChamberlinABGKLLMPPSSSTWY81</cite>
+<cite label="Chamberlin et al. 1981b">journals/tods/ChamberlinAKLMPSSSWY81</cite>
+<cite label="Chen 1976">journals/tods/Chen76</cite>
+<cite label="Chen and Kuck 1984">conf/sigmod/ChenK84</cite>
+<cite label="Chen et al. 1992">conf/vldb/ChenLYY92</cite>
+<cite label="Cheng et al. 1991">conf/icde/ChengHHIMMW91</cite>
+<cite label="Cheriton et al. 1991">journals/computer/CheritonGB91</cite>
+<cite label="Chiu and Ho 1980">conf/sigmod/ChiuH80</cite>
+<cite label="Chou 1985">...</cite>
+<cite label="Chou and DeWitt 1985">conf/vldb/ChouD85</cite>
+<cite label="Christodoulakis 1984">journals/tods/Christodoulakis84</cite>
+<cite label="Chung and Berra 1988">conf/edbt/ChungB88</cite>
+<cite label="Cluet et al. 1989">conf/dood/CluetDLR89</cite>
+<cite label="Comer 1979">journals/csur/Comer79</cite>
+<cite label="Copeland et al. 1988">conf/sigmod/CopelandABK88</cite>
+<cite label="Dadam et al. 1986">conf/sigmod/DadamKABEGLPW86</cite>
+<cite label="Daniels and Ng 1982">journals/debu/DanielsN82</cite>
+<cite label="Daniels et al. 1991">journals/debu/DanielsGKMSV91</cite>
+<cite label="Davidson et al. 1985">journals/csur/DavidsonG85</cite>
+<cite label="Davis 1992">...</cite>
+<cite label="Davison 1992">conf/sigmod/Davidson92</cite>
+<cite label="Deppisch and Schek 1986">conf/oodbs/DeppischPS86</cite>
+<cite label="Deshpande and Larson 1991">conf/icde/DeshpandeL92</cite>
+<cite label="Deshpande and Larson 1991">...</cite>
+<cite label="Deshpande and van Gucht 1988">conf/vldb/DeshpandeG88</cite>
+<cite label="DeWitt 1991">books/mk/gray91/DeWitt91</cite>
+<cite label="DeWitt and Gerber 1985">conf/vldb/DeWittG85</cite>
+<cite label="DeWitt and Gray 1992">journals/cacm/DeWittG92</cite>
+<cite label="DeWitt and Hawthorn 1981">conf/vldb/DeWittH81</cite>
+<cite label="DeWitt et al. 1986">conf/vldb/DeWittGGHKM86</cite>
+<cite label="DeWitt et al. 1988">conf/sigmod/DeWittGS88</cite>
+<cite label="DeWitt et al. 1990">journals/tkde/DeWittGSBHR90</cite>
+<cite label="DeWitt et al. 1984">conf/sigmod/DeWittKOSSW84</cite>
+<cite label="DeWitt et al. 1993">conf/pdis/DeWittNB93</cite>
+<cite label="DeWitt et al. 1991a">conf/vldb/DeWittNS91</cite>
+<cite label="DeWitt et al. 1991b">conf/pdis/DeWittNS91</cite>
+<cite label="Dozier 1992">conf/sigmod/Dozier92</cite>
+<cite label="Effelsberg and Haerder 1984">journals/tods/EffelsbergH84</cite>
+<cite label="Enbody and Du 1988">journals/csur/EnbodyD88</cite>
+<cite label="Englert et al. 1989">conf/sigmetrics/EnglertGKS90</cite>
+<cite label="Epstein 1979">...</cite>
+<cite label="Epstein and Stonebraker 1980">conf/vldb/EpsteinS80</cite>
+<cite label="Epstein et al. 1978">conf/sigmod/EpsteinSW78</cite>
+<cite label="Fagin et al. 1979">journals/tods/FaginNPS79</cite>
+<cite label="Faloutsos 1985">journals/csur/Faloutsos85</cite>
+<cite label="Faloutsos and Sellis 1991">conf/vldb/FaloutsosNS91</cite>
+<cite label="Fang et al. 1986">conf/vldb/FangLC86</cite>
+<cite label="Finkel and Bentley 1974">journals/acta/FinkelB74</cite>
+<cite label="Freytag and Goodman 1989">journals/tods/FreytagG89</cite>
+<cite label="Fushimi et al. 1986">conf/vldb/FushimiKT86</cite>
+<cite label="Gallaire et al. 1984">journals/csur/GallaireMN84</cite>
+<cite label="Gerber 1986">...</cite>
+<cite label="Ghandeharizadeh and DeWitt 1990">conf/vldb/GhandeharizadehD90</cite>
+<cite label="Goodman and Woest 1988">conf/isca/GoodmanW88</cite>
+<cite label="Gouda and Dayal 1981">conf/sigmod/GoudaD81</cite>
+<cite label="Graefe 1993a">journals/tkde/Graefe94</cite>
+<cite label="Graefe 1993b">...</cite>
+<cite label="Graefe 1993c">conf/icde/Graefe94</cite>
+<cite label="Graefe 1991">journals/tse/Graefe91</cite>
+<cite label="Graefe 1990a">...</cite>
+<cite label="Graefe 1990b">conf/sigmod/Graefe90</cite>
+<cite label="Graefe 1989">conf/icde/Graefe89</cite>
+<cite label="Graefe and Cole 1993">journals/tods/GraefeC95</cite>
+<cite label="Graefe and Davison 1993">journals/tse/GraefeD93</cite>
+<cite label="Graefe and DeWitt 1987">conf/sigmod/GraefeD87</cite>
+<cite label="Graefe and Maier 1988">conf/oodbs/GraefeM88</cite>
+<cite label="Graefe and McKenna 1993">conf/icde/GraefeM93</cite>
+<cite label="Graefe and Shapiro 1991">...</cite>
+<cite label="Graefe and Ward 1989">conf/sigmod/GraefeW89</cite>
+<cite label="Graefe and Wolniewicz 1992">journals/debu/WolniewiczG93</cite>
+<cite label="Graefe et al. 1992">books/mk/freytagMV91/GraefeCDMW91</cite>
+<cite label="Graefe et al. 1993">journals/tkde/GraefeLS94</cite>
+<cite label="Gray 1990">...</cite>
+<cite label="Gray and Putzolo 1987">conf/sigmod/GrayP87</cite>
+<cite label="Gray and Reuter 1991">books/mk/GrayR93</cite>
+<cite label="Gray et al. 1981">journals/csur/GrayMBLLPPT81</cite>
+<cite label="Gruenwald and Eich 1991">conf/sigmod/GruenwaldE91</cite>
+<cite label="Guenther and Bilmes 1991">journals/tkde/GuntherB91</cite>
+<cite label="Guibas and Sedgewick 1978">conf/focs/GuibasS78</cite>
+<cite label="Gunadhi and Segev 1991">conf/icde/GunadhiS91</cite>
+<cite label="Gunadhi and Segev 1990">conf/ssdbm/GunadhiS90</cite>
+<cite label="Gunther 1989">conf/icde/Gunther89</cite>
+<cite label="Gunther and Wong 1987">conf/vldb/GuntherW87</cite>
+<cite label="Guo et al. 1991">conf/icde/GuoSL91</cite>
+<cite label="Guttman 1984">conf/sigmod/Guttman84</cite>
+<cite label="Haas et al. 1990">journals/tkde/HaasCLMWLLPCS90</cite>
+<cite label="Haas et al. 1989">conf/sigmod/HaasFLP89</cite>
+<cite label="Haas et al. 1982">journals/debu/HaasSBDLLMMNWY82</cite>
+<cite label="Haerder and Reuter 1983">journals/csur/HarderR83</cite>
+<cite label="Hafez and Ozsoyoglu 1988">journals/debu/Hafez88</cite>
+<cite label="Hagmann 1986">conf/vldb/Hagmann86</cite>
+<cite label="Hamming 1977">...</cite>
+<cite label="Hanson 1987">conf/sigmod/Hanson87</cite>
+<cite label="Henrich et al. 1989">conf/vldb/HenrichSW89</cite>
+<cite label="Hoel and Samet 1992">conf/sigmod/HoelS92</cite>
+<cite label="Hong and Stonebraker 1993">journals/dpd/HongS93</cite>
+<cite label="Hong and Stonebraker 1991">conf/pdis/HongS91</cite>
+<cite label="Hou and Ozsoyoglu 1993">journals/tods/HouO93</cite>
+<cite label="Hou and Ozsoyoglu 1991">journals/tods/HouO91</cite>
+<cite label="Hou et al. 1991">conf/sigmod/HouOD91</cite>
+<cite label="Hsiao and DeWitt 1990">conf/icde/HsiaoD90</cite>
+<cite label="Hua and Lee 1991">conf/vldb/HuaL91</cite>
+<cite label="Hua and Lee 1990">conf/vldb/HuaL90</cite>
+<cite label="Hudson and King 1989">journals/tods/HudsonK89</cite>
+<cite label="Hull and King 1987">journals/csur/HullK87</cite>
+<cite label="Hutflesz et al. 1990">conf/icde/HutfleszSW90</cite>
+<cite label="Hutflesz et al. 1988a">conf/sigmod/HutfleszSW88</cite>
+<cite label="Hutflesz et al. 1988b">conf/edbt/HutfleszSW88</cite>
+<cite label="Ioannidis and Christodoulakis 1991">conf/sigmod/IoannidisC91</cite>
+<cite label="Iyer and Dias 1990">conf/icde/IyerD90</cite>
+<cite label="Jagadish 1991">conf/sigmod/Jagadish91</cite>
+<cite label="Jarke and Koch 1984">journals/csur/JarkeK84</cite>
+<cite label="Jarke and Vassiliou 1985">journals/csur/JarkeV85</cite>
+<cite label="Katz 1990">journals/csur/Katz90</cite>
+<cite label="Katz and Wong 1983">journals/tods/KatzW83</cite>
+<cite label="Keller et al. 1991">conf/sigmod/KellerGM91</cite>
+<cite label="Kemper and Moerkotte 1990a">conf/sigmod/KemperM90</cite>
+<cite label="Kemper and Moerkotte 1990b">conf/vldb/KemperM90</cite>
+<cite label="Kemper and Wallrath 1987">journals/csur/KemperW87</cite>
+<cite label="Kemper et al. 1991">conf/sigmod/KemperKM91</cite>
+<cite label="Kernighan and Ritchie 1978">books/ph/KernighanR78</cite>
+<cite label="Kim 1984">journals/csur/Kim84</cite>
+<cite label="Kim 1980">conf/sigmod/Kim80</cite>
+<cite label="Kitsuregawa and Ogawa 1990">conf/vldb/KitsuregawaO90</cite>
+<cite label="Kitsuregawa et al. 1989a">conf/vldb/KitsuregawaNT89</cite>
+<cite label="Kitsuregawa et al. 1983">journals/ngc/KitsuregawaTM83</cite>
+<cite label="Kitsuregawa et al. 1989b">conf/iwdm/KitsuregawaYF89</cite>
+<cite label="Klug 1982">journals/jacm/Klug82</cite>
+<cite label="Knapp 1987">journals/csur/Knapp87</cite>
+<cite label="Knuth 1973">books/aw/Knuth73</cite>
+<cite label="Kolovson and Stonebraker 1991">conf/sigmod/KolovsonS91</cite>
+<cite label="Kooi 1980">phd/Kooi80</cite>
+<cite label="Kooi and Frankforth 1982">journals/debu/KooiF82</cite>
+<cite label="Kriegel and Seeger 1988">conf/icde/KriegelS88</cite>
+<cite label="Kriegel and Seeger 1987">conf/icde/KriegelS87</cite>
+<cite label="Krishnamurthy et al. 1986">conf/vldb/KrishnamurthyBZ86</cite>
+<cite label="Kuespert et al. 1989">conf/fodo/KuspertSW89</cite>
+<cite label="Kumar and Burger 1991">conf/icde/KumarB91</cite>
+<cite label="Lakshmi and Yu 1990">journals/tkde/LakshmiY90</cite>
+<cite label="Lakshmi and Yu 1988">conf/dpds/LakshmiY88</cite>
+<cite label="Lanka and Mays 1991">conf/sigmod/LankaM91</cite>
+<cite label="Larson 1981">journals/tods/Larson81</cite>
+<cite label="Larson and Yang 1985">conf/vldb/LarsonY85</cite>
+<cite label="Lehman and Carey 1986">conf/sigmod/LehmanC86</cite>
+<cite label="Lelewer and Hirschberg 1987">journals/csur/LelewerH87</cite>
+<cite label="Leung and Muntz 1992">conf/vldb/LeungM92</cite>
+<cite label="Leung and Muntz 1990">conf/icde/LeungM90</cite>
+<cite label="Li and Naughton 1988">conf/dpds/LiN88</cite>
+<cite label="Litwin 1980">conf/vldb/Litwin80</cite>
+<cite label="Litwin et al. 1990">journals/csur/LitwinMR90</cite>
+<cite label="Lohman et al. 1985">books/sp/kimrb85/LohmanMHDLSW85</cite>
+<cite label="Lomet 1992">journals/sigmod/Lomet92</cite>
+<cite label="Lomet and Salzberg 1990a">conf/sigmod/LometS90</cite>
+<cite label="Lomet and Salzberg 1990b">journals/tods/LometS90</cite>
+<cite label="Lorie and Nilsson 1979">journals/ibmrd/LorieN79</cite>
+<cite label="Lorie and Young 1989">conf/vldb/LorieY89</cite>
+<cite label="Lynch and Brownrigg 1981">conf/vldb/LynchB81</cite>
+<cite label="Lyytinen 1987">journals/csur/Lyytinen87</cite>
+<cite label="Mackert and Lohman 1989">journals/tods/MackertL89</cite>
+<cite label="Maier 1983">books/cs/Maier83</cite>
+<cite label="Maier and Stein 1986">conf/oodbs/MaierS86</cite>
+<cite label="Maier et al. 1992">conf/oodbs/MaierGSDKV92</cite>
+<cite label="Mannino et al. 1988">journals/csur/ManninoCS88</cite>
+<cite label="McKenzie and Snodgrass 1991">journals/csur/McKenzieS91</cite>
+<cite label="Medeiros and Tompa 1985">conf/vldb/MedeirosT85</cite>
+<cite label="Menon 1986">conf/vldb/Menon86</cite>
+<cite label="Mishra and Eich 1992">journals/csur/MishraE92</cite>
+<cite label="Mitschang 1989">conf/vldb/Mitschang89</cite>
+<cite label="Mohan et al. 1990">conf/edbt/MohanHWC90</cite>
+<cite label="Motro 1989">conf/icde/Motro89</cite>
+<cite label="Mullin 1990">journals/tse/Mullin90</cite>
+<cite label="Nakayama et al. 1988">conf/vldb/NakayamaK88</cite>
+<cite label="Neches 1988">...</cite>
+<cite label="Neches 1984">journals/computer/Neches84</cite>
+<cite label="Neugebauer 1991">conf/sigmod/Neugebauer91</cite>
+<cite label="Ng et al. 1991">conf/sigmod/NgFS91</cite>
+<cite label="Nievergelt et al. 1984">journals/tods/NievergeltHS84</cite>
+<cite label="Nyberg et al. 1993">conf/sigmod/NybergBCGL94</cite>
+<cite label="Omiecinski 1991">conf/vldb/Omiecinski91</cite>
+<cite label="Omiecinski 1985">conf/vldb/Omiecinski85</cite>
+<cite label="Omiecinski and Lin 1989">journals/tkde/OmiecinskiL89</cite>
+<cite label="Ono and Lohman 1990">conf/vldb/OnoL90</cite>
+<cite label="Ousterhout 1990">conf/usenix/Ousterhout90a</cite>
+<cite label="Ozsoyoglu  and Wang 1992">conf/icde/OzsoyogluW92</cite>
+<cite label="Ozsoyoglu et al. 1987">journals/tods/OzsoyogluOM87</cite>
+<cite label="Ozsu and Valduriez 1991a">journals/computer/OzsuV91</cite>
+<cite label="Ozsu and Valduriez 1991b">books/ph/OzsuV91</cite>
+<cite label="Palmer and Zdonik 1991">conf/vldb/PalmerZ91</cite>
+<cite label="Peckham and Maryanski 1988">journals/csur/PeckhamM88</cite>
+<cite label="Pirahesh et al. 1990">conf/dpds/PiraheshMCLS90</cite>
+<cite label="Qadah 1988">conf/edbt/Qadah88</cite>
+<cite label="Rew and Davis 1990">...</cite>
+<cite label="Richardson and Carey 1987">conf/sigmod/RichardsonC87</cite>
+<cite label="Richardson et al. 1987">conf/sigmod/RichardsonLM87</cite>
+<cite label="Robinson 1981">conf/sigmod/Robinson81</cite>
+<cite label="Rosenthal and Reiner 1985">books/sp/kimrb85/RosenthalR85</cite>
+<cite label="Rosenthal et al. 1991">...</cite>
+<cite label="Rotem and Segev 1987">conf/icde/RotemS87</cite>
+<cite label="Roth et al. 1988">journals/tods/RothKS88</cite>
+<cite label="Rothnie et al. 1980">journals/tods/RothnieBFGHLRSW80</cite>
+<cite label="Roussopoulos 1991">journals/tods/Roussopoulos91</cite>
+<cite label="Roussopoulos 1991">journals/tkde/RoussopoulosK91</cite>
+<cite label="Ruth and Keutzer 1972">...</cite>
+<cite label="Saake et al. 1989">conf/vldb/SaakeLPW89</cite>
+<cite label="Sacco 1987">conf/vldb/Sacco87</cite>
+<cite label="Sacco and Schkolnik 1986">journals/tods/SaccoS86</cite>
+<cite label="Sacco and Schkolnik 1982">conf/vldb/SaccoS82</cite>
+<cite label="Sacks-Davis and Ramamohanarao 1983">journals/is/Sacks-DavisR83</cite>
+<cite label="Sacks-Davis et al. 1987">journals/tods/Sacks-DavisK87</cite>
+<cite label="Salzberg 1990">journals/acta/Salzberg89</cite>
+<cite label="Salzberg 1988">books/ph/Salzberg88</cite>
+<cite label="Salzberg et al. 1990">conf/sigmod/SalzbergTGSUV90</cite>
+<cite label="Samet 1984">journals/csur/Samet84</cite>
+<cite label="Schek and Scholl 1986">journals/is/SchekS86</cite>
+<cite label="Schneider 1991">...</cite>
+<cite label="Schneider 1990">...</cite>
+<cite label="Schneider and DeWitt 1990">conf/vldb/SchneiderD90</cite>
+<cite label="Schneider and DeWitt 1989">conf/sigmod/SchneiderD89</cite>
+<cite label="Scholl 1988">...</cite>
+<cite label="Scholl et al. 1987">conf/vldb/SchollPS87</cite>
+<cite label="Seeger and Larson 1991">conf/sigmod/SeegerL91</cite>
+<cite label="Segev and Gunadhi 1989">conf/vldb/SegevG89</cite>
+<cite label="Selinger et al. 1979">conf/sigmod/SelingerACLP79</cite>
+<cite label="Sellis 1987">conf/sigmod/Sellis87</cite>
+<cite label="Seppi et al. 1989">...</cite>
+<cite label="Serlin 1991">...</cite>
+<cite label="Seshadri and Naughton 1992">conf/edbt/SeshadriN92</cite>
+<cite label="Severance 1983">journals/is/Severance83</cite>
+<cite label="Severance and Lohman 1976">journals/tods/SeveranceL76</cite>
+<cite label="Severance et al. 1990">conf/vldb/SeverancePW90</cite>
+<cite label="Shapiro 1986">journals/tods/Shapiro86</cite>
+<cite label="Shaw and Zdonik 1990">conf/icde/ShawZ90</cite>
+<cite label="Shaw and Zdonik 1989a">journals/debu/ShawZ89</cite>
+<cite label="Shaw and Zdonik 1989b">conf/dbpl/ShawZ89</cite>
+<cite label="Shekita and Carey 1990">conf/sigmod/ShekitaC90</cite>
+<cite label="Sherman and Brice 1976">journals/tods/ShermanB76</cite>
+<cite label="Sheth and Larson 1990">journals/csur/ShethL90</cite>
+<cite label="Shipman 1981">journals/tods/Shipman81</cite>
+<cite label="Sikeler 1988">conf/edbt/Sikeler88</cite>
+<cite label="Silberschatz et al. 1991">journals/cacm/SilberschatzSU91</cite>
+<cite label="Six and Widmayer 1988">conf/icde/SixW88</cite>
+<cite label="Smith and Chang 1975">journals/cacm/SmithC75</cite>
+<cite label="Snodgrass 1990">journals/sigmod/Snodgrass90</cite>
+<cite label="Sockut and Goldberg 1979">journals/csur/SockutG79</cite>
+<cite label="Srinavasan and Carey 1992">conf/edbt/SrinivasanC92</cite>
+<cite label="Srinavasan and Carey 1991">conf/sigmod/SrinivasanC91</cite>
+<cite label="Stamos and Young 1989">...</cite>
+<cite label="Stonebraker 1991">conf/sigmod/Stonebraker91</cite>
+<cite label="Stonebraker 1987">conf/vldb/Stonebraker87</cite>
+<cite label="Stonebraker 1986a">journals/debu/Stonebraker86</cite>
+<cite label="Stonebraker 1986b">...</cite>
+<cite label="Stonebraker 1981">journals/cacm/Stonebraker81</cite>
+<cite label="Stonebraker 1975">conf/sigmod/Stonebraker75</cite>
+<cite label="Stonebraker et al. ">...</cite>
+<cite label="Stonebraker et al. 1990a">conf/sigmod/StonebrakerJGP90</cite>
+<cite label="Stonebraker et al. 1988b">conf/vldb/StonebrakerKPO88</cite>
+<cite label="Stonebraker et al. 1990b">journals/tkde/StonebrakerRH90</cite>
+<cite label="Straube and Ozsu 1989">...</cite>
+<cite label="Su 1988">...</cite>
+<cite label="Tansel and Garnett 1992">journals/tods/TanselG92</cite>
+<cite label="Teoroy et al. 1986">journals/csur/TeoreyYF86</cite>
+<cite label="Teradata 1983">...</cite>
+<cite label="Thomas et al. 1990">journals/csur/ThomasTCBCTFH90</cite>
+<cite label="Tompa and Blakeley 1988">journals/is/TompaB88</cite>
+<cite label="Traiger 1982">journals/sigops/Traiger82</cite>
+<cite label="Traiger et al. 1982">journals/tods/TraigerGGL82</cite>
+<cite label="Tsur and Zaniolo 1984">conf/sigmod/TsurZ84</cite>
+<cite label="Tukey 1977">...</cite>
+<cite label="Unidata 1991">...</cite>
+<cite label="Valduriez 1987">journals/tods/Valduriez87</cite>
+<cite label="Vandenberg and DeWitt 1991">conf/sigmod/VandenbergD91</cite>
+<cite label="Walton 1989">...</cite>
+<cite label="Walton et al. 1991">conf/vldb/WaltonDJ91</cite>
+<cite label="Whang and Krishnamurthy 1990">journals/tods/WhangK90</cite>
+<cite label="Whang et al. 1985">books/sp/kimrb85/WhangWS85</cite>
+<cite label="Whang et al. 1984">journals/tc/WhangWS84</cite>
+<cite label="Williams et al. 1982">conf/jcdkb/WilliamsDHLLNOSWWY82</cite>
+<cite label="Wilschut 1993">...</cite>
+<cite label="Wilschut 1993">journals/dpd/WilschutA93</cite>
+<cite label="Wolf et al. 1990">conf/dpds/WolfDY90</cite>
+<cite label="Wolf et al. 1991">conf/icde/WolfDYT91</cite>
+<cite label="Wolniewicz and Graefe 1993">conf/vldb/WolniewiczG93</cite>
+<cite label="Wong and Katz 1983">conf/sigmod/WongK83</cite>
+<cite label="Wong and Youssefi 1976">journals/tods/WongY76</cite>
+<cite label="Yang and Larson 1987">conf/vldb/YangL87</cite>
+<cite label="Youssefi and Wong 1979">conf/vldb/YoussefiW79</cite>
+<cite label="Yu and Chang 1984">journals/csur/YuC84</cite>
+<cite label="Yu and Osborn 1991">conf/icde/YuO91</cite>
+<cite label="Zaniolo 1983">conf/sigmod/Zaniolo83</cite>
+<cite label="Zaniolo 1979">conf/sigmod/Zaniolo79</cite>
+<cite label="Zeller 1990">...</cite>
+<cite label="Zeller and Gray 1990">conf/vldb/ZellerG90</cite>
+</article>
+</r>
+<r><article key="journals/debu/WolniewiczG93" mdate="2020-03-10">
+<author pid="06/2951">Richard H. Wolniewicz</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Algebraic Optimization of Computations over Scientific Databases.</title>
+<pages>48-51</pages>
+<year>1993</year>
+<volume>16</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<cdrom>DEBU/93MAR-CD.PDF</cdrom>
+<url>db/journals/debu/debu16.html#WolniewiczG93</url>
+<ee type="oa">http://sites.computer.org/debull/93MAR-CD.pdf</ee>
+<cite>journals/tkde/Graefe94</cite>
+<cite>conf/icde/GraefeM93</cite>
+<cite>...</cite>
+</article>
+</r>
+<r><article key="journals/debu/Graefe93" mdate="2020-03-10">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Letter from the Special Issue Editor.</title>
+<pages>3</pages>
+<year>1993</year>
+<volume>16</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<cdrom>DEBU/93DEC-CD.PDF</cdrom>
+<url>db/journals/debu/debu16.html#Graefe93</url>
+<ee type="oa">http://sites.computer.org/debull/93DEC-CD.pdf</ee>
+</article>
+</r>
+<r><article key="journals/sigmod/Graefe93" mdate="2020-03-06">
+<ee>https://doi.org/10.1145/163090.163100</ee>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Options in Physical Database Design.</title>
+<pages>76-83</pages>
+<cdrom>sigmodR/22-3/P076.pdf</cdrom>
+<year>1993</year>
+<volume>22</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<url>db/journals/sigmod/sigmod22.html#Graefe93</url>
+</article>
+</r>
+<r><article key="journals/sigmod/MaierDPWGS93" mdate="2020-03-06">
+<ee>https://doi.org/10.1145/166635.166661</ee>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<author pid="d/LMLDelcambre">Lois M. L. Delcambre</author>
+<author pid="p/CaltonPu">Calton Pu</author>
+<author pid="50/3443">Jonathan Walpole</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="s/LeonardDShapiro">Leonard D. Shapiro</author>
+<title>Database Research at the Data-Intensive Systems Center.</title>
+<pages>81-86</pages>
+<cdrom>sigmodR/22-4/P081.pdf</cdrom>
+<year>1993</year>
+<volume>22</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<url>db/journals/sigmod/sigmod22.html#MaierDPWGS93</url>
+</article>
+</r>
+<r><article key="journals/tse/GraefeD93" mdate="2017-05-17">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="80/2085">Diane L. Davison</author>
+<title>Encapsulation of Parallelism and Architecture-Independence in Extensible Database Query Execution.</title>
+<pages>749-764</pages>
+<ee>https://doi.org/10.1109/32.238579</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/32.238579</ee>
+<year>1993</year>
+<volume>19</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>8</number>
+<url>db/journals/tse/tse19.html#GraefeD93</url>
+</article>
+</r>
+<r><inproceedings key="conf/fmldo/ColeG93" mdate="2014-02-11">
+<author pid="44/1222">Richard L. Cole</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Dynamic Plan Optimization.</title>
+<pages>45-58</pages>
+<year>1993</year>
+<crossref>conf/fmldo/1993</crossref>
+<booktitle>FMLDO</booktitle>
+<url>db/conf/fmldo/fmldo93.html#ColeG93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fmldo/GraefeCD93" mdate="2014-02-11">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="44/1222">Richard L. Cole</author>
+<author pid="80/2085">Diane L. Davison</author>
+<title>Dynamic Techniques for Very Complex Database Queries.</title>
+<pages>139-142</pages>
+<year>1993</year>
+<crossref>conf/fmldo/1993</crossref>
+<booktitle>FMLDO</booktitle>
+<url>db/conf/fmldo/fmldo93.html#GraefeCD93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GraefeM93" mdate="2023-03-23">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="11/2209">William J. McKenna</author>
+<title>The Volcano Optimizer Generator: Extensibility and Efficient Search.</title>
+<pages>209-218</pages>
+<cdrom>ICDE93/P209.pdf</cdrom>
+<year>1993</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde93.html#GraefeM93</url>
+<crossref>conf/icde/93</crossref>
+<ee>https://doi.org/10.1109/ICDE.1993.344061</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.1993.344061</ee>
+<cite>conf/sigmod/BlakeleyMG93</cite>
+<cite>journals/debu/Graefe86</cite>
+<cite>conf/sigmod/GraefeD87</cite>
+<cite>books/mk/freytagMV91/GraefeCDMW91</cite>
+<cite>conf/sigmod/KellerGM91</cite>
+<cite>conf/vldb/KemperM90</cite>
+<cite>conf/sigmod/KemperM90</cite>
+<cite>conf/vldb/LeeFL88</cite>
+<cite>conf/sigmod/LieuwenD92</cite>
+<cite>conf/sigmod/Lohman88</cite>
+<cite>books/mk/freytagMV91/MaierDKVGM91</cite>
+<cite>...</cite>
+<cite>conf/vldb/OnoL90</cite>
+<cite>conf/icde/ScioreS90</cite>
+<cite>conf/sigmod/SelingerACLP79</cite>
+<cite>conf/icde/ShawZ90</cite>
+<cite>conf/dood/StraubeO91</cite>
+<cite>conf/sigmod/VandenbergD91</cite>
+<cite>journals/computer/WellsBT92</cite>
+<cite>conf/vldb/WolniewiczG93</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BlakeleyMG93" mdate="2021-03-11">
+<author pid="79/2594">Jos&#233; A. Blakeley</author>
+<author pid="11/2209">William J. McKenna</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Experiences Building the Open OODB Query Optimizer.</title>
+<pages>287-296</pages>
+<year>1993</year>
+<crossref>conf/sigmod/93</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod93.html#BlakeleyMG93</url>
+<ee>https://doi.org/10.1145/170035.170080</ee>
+<ee>https://doi.org/10.1145/170036.170080</ee>
+<cdrom>SIGMOD93/P287.PDF</cdrom>
+<cite>journals/sigmod/BancilhonK90</cite>
+<cite>...</cite>
+<cite>conf/sigmod/CluetD92</cite>
+<cite>conf/oodbs/GraefeM88</cite>
+<cite>journals/tkde/Graefe94</cite>
+<cite>conf/icde/GraefeM93</cite>
+<cite>conf/sigmod/KellerGM91</cite>
+<cite>conf/vldb/KemperM90</cite>
+<cite>...</cite>
+<cite>conf/oodbs/MaierS86</cite>
+<cite>...</cite>
+<cite>conf/vldb/Muralikrishna92</cite>
+<cite>journals/tkde/Deux90</cite>
+<cite>conf/sigmod/OrensteinHMS92</cite>
+<cite>conf/icde/ScioreS90</cite>
+<cite>conf/sigmod/SelingerACLP79</cite>
+<cite>conf/icde/ShawZ90</cite>
+<cite>conf/sigmod/ShekitaC90</cite>
+<cite>journals/tois/StraubeO90</cite>
+<cite>...</cite>
+<cite>conf/sigmod/VandenbergD91</cite>
+<cite>journals/computer/WellsBT92</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/WolniewiczG93" mdate="2017-03-29">
+<crossref>conf/vldb/93</crossref>
+<author pid="06/2951">Richard H. Wolniewicz</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Algebraic Optimization of Computations over Scientific Databases.</title>
+<pages>13-24</pages>
+<year>1993</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb93.html#WolniewiczG93</url>
+<ee>http://www.vldb.org/conf/1993/P013.PDF</ee>
+<cite>conf/sigmod/BlakeleyMG93</cite>
+<cite>journals/sigmod/BolourADW82</cite>
+<cite>...</cite>
+<cite>conf/vldb/DeWittNS91</cite>
+<cite>journals/sigmod/FrenchJP90</cite>
+<cite>journals/tkde/Graefe94</cite>
+<cite>books/mk/freytagMV91/GraefeCDMW91</cite>
+<cite>conf/icde/GraefeM93</cite>
+<cite>conf/ssdbm/GunadhiS90</cite>
+<cite>conf/icde/GunadhiS91</cite>
+<cite>conf/sigmod/HaasFLP89</cite>
+<cite>conf/ssdbm/Kim90</cite>
+<cite>conf/sigmod/Neugebauer91</cite>
+<cite>conf/vldb/OlkenR86</cite>
+<cite>conf/vldb/OlkenR89</cite>
+<cite>conf/ssdbm/OlkenR90</cite>
+<cite>conf/sigmod/OlkenRX90</cite>
+<cite>...</cite>
+<cite>conf/icde/RotemS87</cite>
+<cite>conf/sigmod/SegevS87</cite>
+<cite>conf/ssdbm/SegevS88</cite>
+<cite>conf/vldb/SegevG89</cite>
+<cite>conf/sigmod/SnodgrassA85</cite>
+<cite>conf/vldb/Shoshani82</cite>
+<cite>conf/vldb/ShoshaniOW84</cite>
+<cite>journals/tse/ShoshaniW85</cite>
+<cite>conf/vldb/ShoshaniK86</cite>
+<cite>journals/sigmod/SilberschatzSU90</cite>
+</inproceedings>
+</r>
+<r><article key="journals/spe/GraefeT92" mdate="2020-04-09">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="94/6472">Shreekant S. Thakkar</author>
+<title>Tuning a Parallel Database Algorithm on a Shared-memory Multiprocessor.</title>
+<pages>495-517</pages>
+<year>1992</year>
+<volume>22</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>7</number>
+<url>db/journals/spe/spe22.html#GraefeT92</url>
+<ee>https://doi.org/10.1002/spe.4380220702</ee>
+</article>
+</r>
+<r><inproceedings key="conf/oodbs/MaierGSDKV92" mdate="2017-11-07">
+<author pid="m/DavidMaier">David Maier 0001</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="s/LeonardDShapiro">Leonard D. Shapiro</author>
+<author pid="61/5034">Scott Daniels</author>
+<author pid="48/2739-5">Thomas Keller 0005</author>
+<author pid="35/6080">Bennet Vance</author>
+<title>Issues in Distributed Object Assembly.</title>
+<pages>165-181</pages>
+<year>1992</year>
+<crossref>conf/oodbs/92</crossref>
+<booktitle>IWDOM</booktitle>
+<url>db/conf/oodbs/oodbs92.html#MaierGSDKV92</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/DanielsGKMSV91" mdate="2020-03-10">
+<author pid="61/5034">Scott Daniels</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="48/2739-5">Thomas Keller 0005</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<author pid="92/6489">Duri Schmidt</author>
+<author pid="35/6080">Bennet Vance</author>
+<title>Query Optimization in Revelation, an Overview.</title>
+<pages>58-62</pages>
+<year>1991</year>
+<ee type="oa">http://sites.computer.org/debull/91JUN-CD.pdf</ee>
+<volume>14</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<url>db/journals/debu/debu14.html#DanielsGKMSV91</url>
+</article>
+</r>
+<r><article key="journals/tse/Graefe91" mdate="2017-05-17">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Heap-Filter Merge Join: A New Algorithm For Joining Medium-Size Inputs.</title>
+<pages>979-982</pages>
+<ee>https://doi.org/10.1109/32.92919</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/32.92919</ee>
+<year>1991</year>
+<volume>17</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>9</number>
+<url>db/journals/tse/tse17.html#Graefe91</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/KellerGM91" mdate="2021-06-21">
+<author pid="48/2739-5">Thomas Keller 0005</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<title>Efficient Assembly of Complex Objects.</title>
+<pages>148-157</pages>
+<year>1991</year>
+<crossref>conf/sigmod/91</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod91.html#KellerGM91</url>
+<ee>https://doi.org/10.1145/115790.115809</ee>
+<ee>https://doi.org/10.1145/119995.115809</ee>
+<cdrom>SIGMOD91/P148.PDF</cdrom>
+<cite>conf/oodbs/GraefeM88</cite>
+<cite>phd/Kooi80</cite>
+<cite>journals/tods/Valduriez87</cite>
+<cite>conf/vldb/CareySLLM90</cite>
+<cite>journals/tkde/HaasCLMWLLPCS90</cite>
+<cite>conf/sigmod/ShekitaC90</cite>
+<cite>conf/sigmod/GraefeD87</cite>
+<cite>phd/Graefe87</cite>
+<cite>...</cite>
+<cite>journals/spe/ChouDKK85</cite>
+<cite>conf/vldb/DeWittGGHKM86</cite>
+<cite>journals/tods/AstrahanBCEGGKLMMPTWW76</cite>
+<cite>conf/sigmod/RichardsonC87</cite>
+<cite>...</cite>
+<cite>journals/cacm/Hanani77</cite>
+<cite>conf/vldb/BatoryB84</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/vldb/BittonDT83</cite>
+<cite>conf/edbt/AndersonBMPS90</cite>
+<cite>...</cite>
+<cite>conf/vldb/DeWittFMV90</cite>
+<cite>...</cite>
+<cite>journals/tse/BanerjeeKKG88</cite>
+<cite>conf/sigmod/ChangK89</cite>
+<cite>...</cite>
+<cite>conf/vldb/DrewKH90</cite>
+<cite>journals/tois/HornickZ87</cite>
+<cite>conf/oopsla/KimBCGW87</cite>
+<cite>journals/cacm/TeoreyP72</cite>
+<cite>conf/sigmod/Graefe90</cite>
+</inproceedings>
+</r>
+<r><incollection key="books/mk/freytagMV91/GraefeCDMW91" mdate="2021-06-10">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="44/1222">Richard L. Cole</author>
+<author pid="80/2085">Diane L. Davison</author>
+<author pid="11/2209">William J. McKenna</author>
+<author pid="06/2951">Richard H. Wolniewicz</author>
+<title>Extensible Query Optimization and Parallel Execution in Volcano.</title>
+<pages>305-335</pages>
+<booktitle>Query Processing for Advanced Database Systems</booktitle>
+<publisher href="db/publishers/mkp.html">Morgan Kaufmann</publisher>
+<year>1991</year>
+<crossref>books/mk/FreytagMV91</crossref>
+<url>db/books/collections/dagstuhl91.html#GraefeCDMW91</url>
+</incollection>
+</r>
+<r><incollection key="books/mk/freytagMV91/MaierDKVGM91" mdate="2021-06-10">
+<author pid="m/DavidMaier">David Maier 0001</author>
+<author pid="61/5034">Scott Daniels</author>
+<author pid="48/2739-5">Thomas Keller 0005</author>
+<author pid="35/6080">Bennet Vance</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="11/2209">William J. McKenna</author>
+<title>Challenges for Query Processing in Object-Oriented Databases.</title>
+<pages>337-380</pages>
+<booktitle>Query Processing for Advanced Database Systems</booktitle>
+<publisher href="db/publishers/mkp.html">Morgan Kaufmann</publisher>
+<year>1991</year>
+<crossref>books/mk/FreytagMV91</crossref>
+<url>db/books/collections/dagstuhl91.html#MaierDKVGM91</url>
+</incollection>
+</r>
+<r><incollection key="books/sp/dittrichDB91/CareyDFGRSM91" mdate="2019-08-03">
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="94/2846">Daniel Frank</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="41/538">Joel E. Richardson</author>
+<author pid="03/6706">Eugene J. Shekita</author>
+<author pid="60/1433">M. Muralikrishna</author>
+<title>The Architecture of the EXODUS Extensible DBMS.</title>
+<pages>231-256</pages>
+<year>1991</year>
+<crossref>books/sp/DittrichDB91</crossref>
+<booktitle>On Object-Oriented Database System</booktitle>
+<url>db/books/collections/dittrichDB91.html#CareyDFGRSM91</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/compcon/Graefe90" mdate="2017-05-30">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Parallelizing the Volcano database query processor.</title>
+<pages>490-493</pages>
+<year>1990</year>
+<booktitle>Compcon</booktitle>
+<ee>https://doi.org/10.1109/CMPCON.1990.63729</ee>
+<crossref>conf/compcon/1990</crossref>
+<url>db/conf/compcon/compcon90.html#Graefe90</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Graefe90" mdate="2021-06-21">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Encapsulation of Parallelism in the Volcano Query Processing System.</title>
+<pages>102-111</pages>
+<year>1990</year>
+<crossref>conf/sigmod/90</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod90.html#Graefe90</url>
+<ee>https://doi.org/10.1145/93597.98720</ee>
+<ee>https://doi.org/10.1145/93605.98720</ee>
+<cdrom>SIGMOD90/P102.PDF</cdrom>
+<cite>...</cite>
+<cite>conf/sigmod/AlexanderC88</cite>
+<cite>journals/tods/AstrahanBCEGGKLMMPTWW76</cite>
+<cite>conf/iwdm/BaruFKS87</cite>
+<cite>conf/oodbs/Batory86</cite>
+<cite>conf/vldb/BittonDT83</cite>
+<cite>journals/tods/BittonBDW83</cite>
+<cite>conf/iwdm/BoralD83</cite>
+<cite>conf/sigmod/BoralD84</cite>
+<cite>conf/vldb/CareyDRS86</cite>
+<cite>journals/spe/ChouDKK85</cite>
+<cite>conf/vldb/DeWittGGHKM86</cite>
+<cite>journals/tkde/DeWittGSBHR90</cite>
+<cite>conf/sigmetrics/EnglertGKS90</cite>
+<cite>...</cite>
+<cite>conf/oodbs/GraefeM88</cite>
+<cite>journals/tkde/Graefe94</cite>
+<cite>...</cite>
+<cite>conf/icde/Graefe89</cite>
+<cite>conf/sigmod/GraefeW89</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigmod/RichardsonC87</cite>
+<cite>conf/icde/SalemG86</cite>
+<cite>conf/oodbs/SchwarzCFLMMP86</cite>
+<cite>journals/tods/StonebrakerWKH76</cite>
+<cite>conf/sigmod/StonebrakerR86</cite>
+<cite>conf/vldb/StonebrakerKPO88</cite>
+<cite>conf/icde/ToriiKKSYT88</cite>
+<cite>conf/jcdkb/WilliamsDHLLNOSWWY82</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/compcon/DoshiKSG89" mdate="2017-05-31">
+<author pid="200/7579">Sadish Doshi</author>
+<author pid="200/7399">Gary Kelly</author>
+<author pid="200/7563">Frank Symonds</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Parallel processing in database management systems.</title>
+<year>1989</year>
+<booktitle>COMPCON</booktitle>
+<ee>https://doi.org/10.1109/CMPCON.1989.301921</ee>
+<crossref>conf/compcon/1989</crossref>
+<url>db/conf/compcon/compcon89.html#DoshiKSG89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/Graefe89" mdate="2023-03-24">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Relational Division: Four Algorithms and Their Performance.</title>
+<pages>94-101</pages>
+<cdrom>ICDE89/P094.pdf</cdrom>
+<year>1989</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde89.html#Graefe89</url>
+<crossref>conf/icde/89</crossref>
+<ee>https://doi.org/10.1109/ICDE.1989.47204</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.1989.47204</ee>
+<cite>persons/Codd72</cite>
+<cite>journals/cacm/SmithC75</cite>
+<cite>...</cite>
+<cite>conf/vldb/Bratbergsengen84</cite>
+<cite>conf/sigmod/DeWittKOSSW84</cite>
+<cite>conf/vldb/DeWittG85</cite>
+<cite>conf/vldb/DeWittGGHKM86</cite>
+<cite>...</cite>
+<cite>journals/spe/ChouDKK85</cite>
+<cite>journals/tods/Babb79</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GraefeW89" mdate="2021-06-21">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="73/3729">Karen Ward</author>
+<title>Dynamic Query Evaluation Plans.</title>
+<pages>358-366</pages>
+<year>1989</year>
+<crossref>conf/sigmod/89</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod89.html#GraefeW89</url>
+<ee>https://doi.org/10.1145/67544.66960</ee>
+<ee>https://doi.org/10.1145/66926.66960</ee>
+<cdrom>SIGMOD89/P358.PDF</cdrom>
+<cite>conf/sigmod/SelingerACLP79</cite>
+<cite>journals/tods/ChamberlinAKLMPSSSWY81</cite>
+<cite>journals/tods/WongY76</cite>
+<cite>conf/vldb/YoussefiW79</cite>
+<cite>conf/sigmod/YuC83</cite>
+<cite>journals/csur/ManninoCS88</cite>
+<cite>conf/sigmod/MackertL86</cite>
+<cite>conf/vldb/MackertL86</cite>
+<cite>...</cite>
+<cite>conf/vldb/StonebrakerKPO88</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>books/aw/GoldbergR83</cite>
+<cite>conf/sigmod/CopelandM84</cite>
+<cite>journals/tkde/Graefe94</cite>
+<cite>conf/oodbs/GraefeM88</cite>
+<cite>journals/tods/Yao79</cite>
+<cite>conf/sigmod/Christodoulakis83</cite>
+<cite>journals/is/Christodoulakis83</cite>
+<cite>journals/is/Christodoulakis84</cite>
+<cite>conf/vldb/ZandenTB86</cite>
+<cite>journals/is/ZandenTB87</cite>
+<cite>conf/icde/Graefe89</cite>
+<cite>conf/sigmod/RichardsonC87</cite>
+<cite>...</cite>
+<cite>conf/sigmod/GraefeD87</cite>
+<cite>phd/Graefe87</cite>
+<cite>journals/debu/Graefe86</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oodbs/GraefeM88" mdate="2017-11-07">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<title>Query Optimization in Object-Oriented Database Systems: A Prospectus.</title>
+<pages>358-363</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#GraefeM88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_36</ee>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/Graefe87" mdate="2002-01-03">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Rule-Based Query Optimization in Extensible Database Systems</title>
+<year>1987</year>
+<school>Univ. of Wisconsin-Madison</school>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/sigmod/GraefeD87" mdate="2021-06-21">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<title>The EXODUS Optimizer Generator.</title>
+<pages>160-172</pages>
+<year>1987</year>
+<crossref>conf/sigmod/87</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod87.html#GraefeD87</url>
+<cdrom>SIGMOD87/P160.PDF</cdrom>
+<ee>https://doi.org/10.1145/38713.38734</ee>
+<ee>https://doi.org/10.1145/38714.38734</ee>
+<cite label="ASTR76">journals/tods/AstrahanBCEGGKLMMPTWW76</cite>
+<cite label="BARR81">...</cite>
+<cite label="BOBR83">...</cite>
+<cite label="CARE85">...</cite>
+<cite label="CARE86a">conf/vldb/CareyDRS86</cite>
+<cite label="CARE86b">conf/oodbs/CareyDFGMRS86</cite>
+<cite label="CLOC81">...</cite>
+<cite label="COPE84">conf/sigmod/CopelandM84</cite>
+<cite label="DAYA85">...</cite>
+<cite label="DEWI86">conf/vldb/DeWittGGHKM86</cite>
+<cite label="FORG81">...</cite>
+<cite label="FREY85">...</cite>
+<cite label="FREY86a">conf/sigmod/FreytagG86</cite>
+<cite label="FrEY86b">conf/sigmod/Freytag87</cite>
+<cite label="HANA77">journals/cacm/Hanani77</cite>
+<cite label="HART68">...</cite>
+<cite label="JARK84">journals/csur/JarkeK84</cite>
+<cite label="KLUG82">conf/sigmod/Klug82</cite>
+<cite label="KLUG82a">journals/jacm/Klug82</cite>
+<cite label="KOOI80">phd/Kooi80</cite>
+<cite label="LYNG86">conf/oodbs/LyngbaekK86</cite>
+<cite label="MANO86">conf/oodbs/ManolaD86</cite>
+<cite label="NGUY82">...</cite>
+<cite label="RICH87">conf/sigmod/RichardsonC87</cite>
+<cite label="ROSE86">...</cite>
+<cite label="SELI79">conf/sigmod/SelingerACLP79</cite>
+<cite label="SHIP81">journals/tods/Shipman81</cite>
+<cite label="SMIT75">journals/cacm/SmithC75</cite>
+<cite label="STON76">journals/tods/StonebrakerWKH76</cite>
+<cite label="STON86">conf/sigmod/StonebrakerR86</cite>
+<cite label="TSUR86">conf/vldb/TsurZ86</cite>
+<cite label="WARR77">...</cite>
+<cite label="WONG76">journals/tods/WongY76</cite>
+<cite label="YOU79">conf/vldb/YoussefiW79</cite>
+<cite label="ZANI83">conf/sigmod/Zaniolo83</cite>
+</inproceedings>
+</r>
+<r><article key="journals/debu/Graefe86" mdate="2020-03-10">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Software Modularization with the EXODUS Optimizer Generator.</title>
+<pages>37-45</pages>
+<year>1986</year>
+<ee type="oa">http://sites.computer.org/debull/86DEC-CD.pdf</ee>
+<volume>9</volume>
+<journal>IEEE Database Eng. Bull.</journal>
+<number>4</number>
+<url>db/journals/debu/debu9.html#Graefe86</url>
+</article>
+</r>
+<r><inproceedings key="conf/oodbs/CareyDFGMRS86" mdate="2017-11-06">
+<ee>http://dl.acm.org/citation.cfm?id=318839</ee>
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="94/2846">Daniel Frank</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="60/1433">M. Muralikrishna</author>
+<author pid="41/538">Joel E. Richardson</author>
+<author pid="03/6706">Eugene J. Shekita</author>
+<title>The Architecture of the EXODUS Extensible DBMS.</title>
+<pages>52-65</pages>
+<cdrom>OODBS1986/P052.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#CareyDFGMRS86</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/DeWittGGHKM86" mdate="2017-03-29">
+<crossref>conf/vldb/86</crossref>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="75/3399">Robert H. Gerber</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="98/4201">Michael L. Heytens</author>
+<author pid="36/6176">Krishna B. Kumar</author>
+<author pid="60/1433">M. Muralikrishna</author>
+<title>GAMMA - A High Performance Dataflow Database Machine.</title>
+<pages>228-237</pages>
+<year>1986</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb86.html#DeWittGGHKM86</url>
+<ee>http://www.vldb.org/conf/1986/P228.PDF</ee>
+<cite label="AGRA85">conf/sigmod/AgrawalD85</cite>
+<cite label="BABB79">journals/tods/Babb79</cite>
+<cite label="BARU84">conf/sigmod/BaruS84</cite>
+<cite label="BITT83">conf/vldb/BittonDT83</cite>
+<cite label="BLAS79">journals/sigops/BlasgenGMP79</cite>
+<cite label="BORA83">conf/iwdm/BoralD83</cite>
+<cite label="BRAT84">conf/vldb/Bratbergsengen84</cite>
+<cite label="BROW85">...</cite>
+<cite label="CHOU85">journals/spe/ChouDKK85</cite>
+<cite label="DEMU86">conf/icde/DemurjianHM86</cite>
+<cite label="DEWI79">...</cite>
+<cite label="DEWI84a">conf/sigmod/DeWittKOSSW84</cite>
+<cite label="DEWI84b">journals/tse/DeWittFS87</cite>
+<cite label="DEWI85">conf/vldb/DeWittG85</cite>
+<cite label="ENSC85">...</cite>
+<cite label="FISH84">conf/sigmod/FishmanLW84</cite>
+<cite label="GARD83">...</cite>
+<cite label="GOOD81">...</cite>
+<cite label="HELL81">...</cite>
+<cite label="HEYT85a">...</cite>
+<cite label="IDM85">...</cite>
+<cite label="Jark84">journals/csur/JarkeK84</cite>
+<cite label="KAKU85">...</cite>
+<cite label="KIM85">...</cite>
+<cite label="KITS83a">journals/ngc/KitsuregawaTM83</cite>
+<cite label="KITS83b">...</cite>
+<cite label="LEIL78">conf/vldb/LeilichSZ78</cite>
+<cite label="LIVN85">conf/hpts/LivnyKB85</cite>
+<cite label="OZKA75">...</cite>
+<cite label="RIES78">...</cite>
+<cite label="SALE84">conf/icde/SalemG86</cite>
+<cite label="SELI79">conf/sigmod/SelingerACLP79</cite>
+<cite label="STON76">journals/tods/StonebrakerWKH76</cite>
+<cite label="STON79">...</cite>
+<cite label="SU82">conf/vldb/SuM82</cite>
+<cite label="TAND85">...</cite>
+<cite label="TANE81">...</cite>
+<cite label="TERA83">...</cite>
+<cite label="UBEL85">...</cite>
+<cite label="VALD84">journals/tods/ValduriezG84</cite>
+<cite label="WAGN73">...</cite>
+<cite label="WATS81">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eds/CareyDG84" mdate="2019-07-29">
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>Mechanisms for Concurrency Control and Recovery in Prolog - A Proposal.</title>
+<pages>271-291</pages>
+<year>1984</year>
+<crossref>conf/eds/84</crossref>
+<booktitle>Expert Database Workshop</booktitle>
+<url>db/conf/eds/eds84.html#CareyDG84</url>
+</inproceedings>
+</r>
+<coauthors n="221" nc="4">
+<co c="0"><na f="a/Adelberg:Brad" pid="40/3607">Brad Adelberg</na></co>
+<co c="0"><na f="a/Agarwal:Sameet" pid="50/40">Sameet Agarwal</na></co>
+<co c="0"><na f="a/Agiwal:Ankur" pid="09/5497">Ankur Agiwal</na></co>
+<co c="0" n="2"><na f="a/Agrawal:Divyakant" pid="a/DivyakantAgrawal">Divyakant Agrawal</na><na>Divy Agrawal</na></co>
+<co c="0"><na f="a/Ailamaki:Anastasia" pid="a/AnastassiaAilamaki">Anastasia Ailamaki</na></co>
+<co c="0"><na f="a/Aly:Ahmed_M=" pid="39/8165">Ahmed M. Aly</na></co>
+<co c="0"><na f="a/Apel:Sven" pid="a/SvenApel">Sven Apel</na></co>
+<co c="0"><na f="a/Appuswamy:Raja" pid="57/1978">Raja Appuswamy</na></co>
+<co c="0"><na f="a/Apte:Himani" pid="89/4877">Himani Apte</na></co>
+<co c="0"><na f="b/Babu:Shivnath" pid="b/ShivnathBabu">Shivnath Babu</na></co>
+<co c="0"><na f="b/Bailis:Peter" pid="47/8816">Peter Bailis</na></co>
+<co c="0"><na f="b/Batory:Don_S=" pid="b/DSBatory">Don S. Batory</na></co>
+<co c="0"><na f="b/Bestor:David" pid="124/2385">David Bestor</na></co>
+<co c="0"><na f="b/Biyani:Anurag" pid="224/6353">Anurag Biyani</na></co>
+<co c="0"><na f="b/Blakeley:Jos=eacute=_A=" pid="79/2594">Jos&#233; A. Blakeley</na></co>
+<co c="0"><na f="b/Boncz:Peter_A=" pid="b/PeterABoncz">Peter A. Boncz</na></co>
+<co c="0" n="2"><na f="b/Borovica:Renata" pid="36/10568">Renata Borovica</na><na>Renata Borovica-Gajic</na></co>
+<co c="1"><na f="b/Bresniker:Kirk" pid="59/1752">Kirk Bresniker</na></co>
+<co c="3"><na f="b/Bunker:Ross" pid="51/3194">Ross Bunker</na></co>
+<co c="0"><na f="c/Cafarella:Michael_J=" pid="82/231">Michael J. Cafarella</na></co>
+<co c="0"><na f="c/Carey_0001:Michael_J=" pid="31/3455">Michael J. Carey 0001</na></co>
+<co c="0"><na f="c/Casey:Thomas" pid="01/3644">Thomas Casey</na></co>
+<co c="0"><na f="c/Chasseur:Craig" pid="134/6795">Craig Chasseur</na></co>
+<co c="0"><na f="c/Chaudhuri:Surajit" pid="c/SurajitChaudhuri">Surajit Chaudhuri</na></co>
+<co c="0"><na f="c/Chen:Jim" pid="60/5999">Jim Chen</na></co>
+<co c="0"><na f="c/Chen:Min" pid="50/6996">Min Chen</na></co>
+<co c="0"><na f="c/Chen:Ziyang" pid="96/4424">Ziyang Chen</na></co>
+<co c="0"><na f="c/Cho:Danny" pid="327/9506">Danny Cho</na></co>
+<co c="0"><na f="c/Christensen:Eric" pid="11/1472">Eric Christensen</na></co>
+<co c="0"><na f="c/Chronis:Yannis" pid="176/4991">Yannis Chronis</na></co>
+<co c="0"><na f="c/Cieslewicz:John" pid="98/1786">John Cieslewicz</na></co>
+<co c="0"><na f="c/Cole:Richard_L=" pid="44/1222">Richard L. Cole</na></co>
+<co c="3"><na f="c/Cooper:Shaun" pid="77/4236">Shaun Cooper</na></co>
+<co c="0"><na f="c/Cunningham:Conor" pid="33/5504">Conor Cunningham</na></co>
+<co c="0"><na f="d/Dai:Ming" pid="61/6981">Ming Dai</na></co>
+<co c="0"><na f="d/Daniels:Scott" pid="61/5034">Scott Daniels</na></co>
+<co c="0"><na f="d/Davison:Diane_L=" pid="80/2085">Diane L. Davison</na></co>
+<co c="0"><na f="d/Delaney:Kalen" pid="90/5302">Kalen Delaney</na></co>
+<co c="0"><na f="d/Delcambre:Lois_M=_L=" pid="d/LMLDelcambre">Lois M. L. Delcambre</na></co>
+<co c="0"><na f="d/Demiralp:=Ccedil=agatay" pid="74/20">&#199;agatay Demiralp</na></co>
+<co c="0"><na f="d/DeWitt:David_J=" pid="d/DJDeWitt">David J. DeWitt</na></co>
+<co c="0"><na f="d/Dittrich:Jens" pid="d/JensPeterDittrich">Jens Dittrich</na></co>
+<co c="0"><na f="d/Do:Thanh" pid="03/6177">Thanh Do</na></co>
+<co c="0"><na f="d/Dong:Qilin" pid="203/8445">Qilin Dong</na></co>
+<co c="2"><na f="d/Doshi:Sadish" pid="200/7579">Sadish Doshi</na></co>
+<co c="0"><na f="e/Eavis:Todd" pid="e/ToddEavis">Todd Eavis</na></co>
+<co c="0"><na f="e/El=Helw:Amr" pid="80/951">Amr El-Helw</na></co>
+<co c="0"><na f="e/Erling:Orri" pid="47/2397">Orri Erling</na></co>
+<co c="0"><na f="f/F=auml=rber:Franz" pid="36/7116">Franz F&#228;rber</na></co>
+<co c="0"><na f="f/Fayyad:Usama_M=" pid="f/UsamaMFayyad">Usama M. Fayyad</na></co>
+<co c="0"><na f="f/Fekete:David" pid="30/9451">David Fekete</na></co>
+<co c="0"><na f="f/Frank:Daniel" pid="94/2846">Daniel Frank</na></co>
+<co c="0"><na f="g/Gadepally:Vijay" pid="86/7615">Vijay Gadepally</na></co>
+<co c="0"><na f="g/Galindo=Legaria:C=eacute=sar_A=" pid="84/3247">C&#233;sar A. Galindo-Legaria</na></co>
+<co c="0"><na f="g/Gao:Haoyu" pid="97/11269">Haoyu Gao</na></co>
+<co c="0"><na f="g/Gao:Yuan" pid="76/2452">Yuan Gao</na></co>
+<co c="0"><na f="g/Geng:Haoyan" pid="138/8037">Haoyan Geng</na></co>
+<co c="0"><na f="g/Gerber:Robert_H=" pid="75/3399">Robert H. Gerber</na></co>
+<co c="0"><na f="g/Glombiewski:Nikolaus" pid="127/0401">Nikolaus Glombiewski</na></co>
+<co c="0"><na f="g/Govig:Jason" pid="87/6558">Jason Govig</na></co>
+<co c="0"><na f="g/Gray_0001:Jim" pid="g/JimGray">Jim Gray 0001</na></co>
+<co c="0"><na f="g/Grover:Raman" pid="99/6359">Raman Grover</na></co>
+<co c="0"><na f="g/Gubichev:Andrey" pid="01/8701">Andrey Gubichev</na></co>
+<co c="0"><na f="g/Gupta:Ashish" pid="27/4744">Ashish Gupta</na></co>
+<co c="0"><na f="g/Guy:Wey" pid="23/9583">Wey Guy</na></co>
+<co c="0"><na f="h/Hacig=uuml=m=uuml=s:Hakan" pid="59/2465">Hakan Hacig&#252;m&#252;s</na></co>
+<co c="0"><na f="h/Halim:Felix" pid="38/648">Felix Halim</na></co>
+<co c="0"><na f="h/Handy:Ben" pid="81/3648">Ben Handy</na></co>
+<co c="0"><na f="h/H=auml=rder:Theo" pid="h/TheoHarder">Theo H&#228;rder</na></co>
+<co c="0"><na f="h/Harizopoulos:Stavros" pid="38/6308">Stavros Harizopoulos</na></co>
+<co c="0"><na f="h/Harn:Andrew" pid="224/6705">Andrew Harn</na></co>
+<co c="0"><na f="h/He:Bingsheng" pid="h/BingshengHe">Bingsheng He</na></co>
+<co c="0"><na f="h/Heytens:Michael_L=" pid="98/4201">Michael L. Heytens</na></co>
+<co c="0"><na f="h/Hong:Daniel" pid="266/7726">Daniel Hong</na></co>
+<co c="0"><na f="h/Huang:Bo" pid="95/6229">Bo Huang</na></co>
+<co c="0"><na f="h/Huang:Yanlai" pid="300/4302">Yanlai Huang</na></co>
+<co c="0"><na f="i/Idreos:Stratos" pid="i/StratosIdreos">Stratos Idreos</na></co>
+<co c="0"><na f="i/Ivanov:Todor" pid="49/10021">Todor Ivanov</na></co>
+<co c="0"><na f="k/Kaffes:Kostis" pid="237/0852">Kostis Kaffes</na></co>
+<co c="0"><na f="k/Keller_0005:Thomas" pid="48/2739-5">Thomas Keller 0005</na></co>
+<co c="2"><na f="k/Kelly:Gary" pid="200/7399">Gary Kelly</na></co>
+<co c="0"><na f="k/Kepner:Jeremy" pid="25/6583">Jeremy Kepner</na></co>
+<co c="0"><na f="k/Kimura_0001:Hideaki" pid="98/5721-1">Hideaki Kimura 0001</na></co>
+<co c="0"><na f="k/Kolhar:Shilpa" pid="358/1940">Shilpa Kolhar</na></co>
+<co c="0"><na f="k/K=ouml=nig:Arnd_Christian" pid="k/ACKonig">Arnd Christian K&#246;nig</na></co>
+<co c="0"><na f="k/Kosalge:Sujata" pid="300/4622">Sujata Kosalge</na></co>
+<co c="0" n="2"><na f="k/Kozyrakis:Christoforos_E=" pid="k/ChristoforosEKozyrakis">Christoforos E. Kozyrakis</na><na>Christos Kozyrakis</na></co>
+<co c="0"><na f="k/Kraft:Peter" pid="62/4022">Peter Kraft</na></co>
+<co c="0"><na f="k/Kraska:Tim" pid="26/6037">Tim Kraska</na></co>
+<co c="0"><na f="k/Kumar:Deeptaanshu" pid="307/3594">Deeptaanshu Kumar</na></co>
+<co c="0"><na f="k/Kumar:Krishna_B=" pid="36/6176">Krishna B. Kumar</na></co>
+<co c="0" n="2"><na f="k/Kuno:Harumi_A=" pid="02/451">Harumi A. Kuno</na><na>Harumi Anne Kuno</na></co>
+<co c="0"><na f="l/Lai:Kevin" pid="83/713">Kevin Lai</na></co>
+<co c="0"><na f="l/Larson:Per==Aring=ke" pid="l/PALarson">Per-&#197;ke Larson</na></co>
+<co c="0"><na f="l/Lau:Kelvin" pid="81/3122">Kelvin Lau</na></co>
+<co c="0"><na f="l/Lee:Allison_W=" pid="211/1749">Allison W. Lee</na></co>
+<co c="0"><na f="l/Lersch:Lucas" pid="180/3171">Lucas Lersch</na></co>
+<co c="0"><na f="l/Leser:Ulf" pid="l/UlfLeser">Ulf Leser</na></co>
+<co c="0"><na f="l/Li:Adam" pid="176/3454">Adam Li</na></co>
+<co c="0"><na f="l/Li:Jason" pid="12/975">Jason Li</na></co>
+<co c="0"><na f="l/Li:Jiexing" pid="79/796">Jiexing Li</na></co>
+<co c="0"><na f="l/Li_0027:Qian" pid="69/5902-27">Qian Li 0027</na></co>
+<co c="0"><na f="l/Liang:Jianyi" pid="129/8164">Jianyi Liang</na></co>
+<co c="0"><na f="l/Lillibridge:Mark" pid="99/6098">Mark Lillibridge</na></co>
+<co c="0"><na f="l/Lin:Tao" pid="64/4492">Tao Lin</na></co>
+<co c="0"><na f="l/Linville:Ann" pid="44/1397">Ann Linville</na></co>
+<co c="0"><na f="l/Liu:Li" pid="33/4528">Li Liu</na></co>
+<co c="0"><na f="l/Liu:Yao" pid="64/424">Yao Liu</na></co>
+<co c="0"><na f="l/Loeser:Henrik" pid="l/HenrikLoeser">Henrik Loeser</na></co>
+<co c="0"><na f="m/Ma:Jun" pid="91/4845">Jun Ma</na></co>
+<co c="0"><na f="m/Maier_0001:David" pid="m/DavidMaier">David Maier 0001</na></co>
+<co c="1"><na f="m/Manamohan:Sathyanarayanan" pid="153/1556">Sathyanarayanan Manamohan</na></co>
+<co c="0"><na f="m/Manegold:Stefan" pid="m/StefanManegold">Stefan Manegold</na></co>
+<co c="0"><na f="m/Manoharan:Gokul_Nath_Babu" pid="181/5860">Gokul Nath Babu Manoharan</na></co>
+<co c="0"><na f="m/Mao:Xi" pid="07/10342">Xi Mao</na></co>
+<co c="0"><na f="m/Marinov:Veselin" pid="136/1146">Veselin Marinov</na></co>
+<co c="0"><na f="m/Markl:Volker" pid="m/VMarkl">Volker Markl</na></co>
+<co c="0"><na f="m/Mathew:Shana" pid="310/1081">Shana Mathew</na></co>
+<co c="1"><na f="m/Mathew:Shine" pid="153/1550">Shine Mathew</na></co>
+<co c="0"><na f="m/McKenna:William_J=" pid="11/2209">William J. McKenna</na></co>
+<co c="0"><na f="m/Meng:Maya" pid="300/4364">Maya Meng</na></co>
+<co c="0"><na f="m/Mishra:Prashant" pid="164/5082">Prashant Mishra</na></co>
+<co c="0"><na f="m/Muralikrishna:M=" pid="60/1433">M. Muralikrishna</na></co>
+<co c="0"><na f="n/Narasayya:Vivek_R=" pid="n/VivekRNarasayya">Vivek R. Narasayya</na></co>
+<co c="0"><na f="n/Naughton:Jeffrey_F=" pid="n/JeffreyFNaughton">Jeffrey F. Naughton</na></co>
+<co c="0"><na f="n/Neumann_0001:Thomas" pid="n/ThomasNeumann">Thomas Neumann 0001</na></co>
+<co c="0"><na f="n/Nica:Anisoara" pid="76/4130">Anisoara Nica</na></co>
+<co c="0"><na f="o/O=Connell:William" pid="61/6990">William O'Connell</na></co>
+<co c="0"><na f="o/O=Neil:Patrick_E=" pid="o/PatrickEONeil">Patrick E. O'Neil</na></co>
+<co c="0"><na f="p/Patel:Jay" pid="65/3147">Jay Patel</na></co>
+<co c="0" n="2"><na f="p/Paulley:G=_N=" pid="p/GNPaulley">G. N. Paulley</na><na>Glenn N. Paulley</na></co>
+<co c="0"><na f="p/Peters:Keith" pid="56/9134">Keith Peters</na></co>
+<co c="0"><na f="p/Petrov_0001:Ilia" pid="p/IliaPetrov">Ilia Petrov 0001</na></co>
+<co c="0"><na f="p/Pohl:Constantin" pid="201/6155">Constantin Pohl</na></co>
+<co c="0"><na f="p/Pourabbas:Elaheh" pid="73/3737">Elaheh Pourabbas</na></co>
+<co c="0"><na f="p/Pu:Calton" pid="p/CaltonPu">Calton Pu</na></co>
+<co c="0"><na f="r/Rae:Ian" pid="87/7992">Ian Rae</na></co>
+<co c="0"><na f="r/Raman:Vijayshankar" pid="r/VijayshankarRaman">Vijayshankar Raman</na></co>
+<co c="0"><na f="r/Redmond:Robert" pid="326/5858">Robert Redmond</na></co>
+<co c="0"><na f="r/Reimann:Wilfried" pid="37/9320">Wilfried Reimann</na></co>
+<co c="0"><na f="r/Rheinl=auml=nder:Astrid" pid="52/8234">Astrid Rheinl&#228;nder</na></co>
+<co c="0"><na f="r/Richardson:Joel_E=" pid="41/538">Joel E. Richardson</na></co>
+<co c="0"><na f="r/Roy_0001:Indrajit" pid="r/IndrajitRoy">Indrajit Roy 0001</na></co>
+<co c="0"><na f="r/Roy:Sourashis" pid="05/6852">Sourashis Roy</na></co>
+<co c="0"><na f="r/Rys:Michael" pid="59/3443">Michael Rys</na></co>
+<co c="0"><na f="s/Saake:Gunter" pid="s/GunterSaake">Gunter Saake</na></co>
+<co c="0"><na f="s/Salem:Kenneth" pid="s/KennethSalem">Kenneth Salem</na></co>
+<co c="0"><na f="s/Samwel:Bart" pid="15/780">Bart Samwel</na></co>
+<co c="0"><na f="s/Sankaranarayanan:Jagan" pid="57/2958">Jagan Sankaranarayanan</na></co>
+<co c="0"><na f="s/Sardashti:Somayeh" pid="11/2545">Somayeh Sardashti</na></co>
+<co c="1"><na f="s/Sarveswara:Ravi" pid="192/4171">Ravi Sarveswara</na></co>
+<co c="0"><na f="s/Sattler:Kai=Uwe" pid="s/KaiUweSattler">Kai-Uwe Sattler</na></co>
+<co c="0"><na f="s/Sauer:Caetano" pid="37/10151">Caetano Sauer</na></co>
+<co c="0"><na f="s/Schmidt:Duri" pid="92/6489">Duri Schmidt</na></co>
+<co c="0"><na f="s/Sch=ouml=ning:Harald" pid="60/5572">Harald Sch&#246;ning</na></co>
+<co c="0"><na f="s/Seeger:Bernhard" pid="s/BernhardSeeger">Bernhard Seeger</na></co>
+<co c="0"><na f="s/Shah:Mehul_A=" pid="s/MehulAShah">Mehul A. Shah</na></co>
+<co c="0"><na f="s/Shapiro:Leonard_D=" pid="s/LeonardDShapiro">Leonard D. Shapiro</na></co>
+<co c="1"><na f="s/Shastry:Krishnaprasad" pid="153/1557">Krishnaprasad Shastry</na></co>
+<co c="0"><na f="s/Shekita:Eugene_J=" pid="03/6706">Eugene J. Shekita</na></co>
+<co c="0"><na f="s/Shishodia:Mayank_Singh" pid="125/1222">Mayank Singh Shishodia</na></co>
+<co c="0"><na f="s/Shute:Jeff" pid="31/11411">Jeff Shute</na></co>
+<co c="0"><na f="s/Skiadopoulos:Athinagoras" pid="310/1377">Athinagoras Skiadopoulos</na></co>
+<co c="0"><na f="s/Souza:Gilson" pid="196/1454">Gilson Souza</na></co>
+<co c="0"><na f="s/Spinczyk:Olaf" pid="s/OlafSpinczyk">Olaf Spinczyk</na></co>
+<co c="0"><na f="s/Spynczyk:O=" pid="160/7787">O. Spynczyk</na></co>
+<co c="0"><na f="s/Sr:Rajesh" pid="300/4456">Rajesh Sr</na></co>
+<co c="0"><na f="s/Stolze:Knut" pid="s/KnutStolze">Knut Stolze</na></co>
+<co c="0"><na f="s/Stonebraker:Michael" pid="s/MichaelStonebraker">Michael Stonebraker</na></co>
+<co c="0"><na f="s/Stonecipher:Ryan" pid="46/6760">Ryan Stonecipher</na></co>
+<co c="0"><na f="s/Sun:Tianhang" pid="215/5537">Tianhang Sun</na></co>
+<co c="0"><na f="s/Suresh:Lalith" pid="206/4530">Lalith Suresh</na></co>
+<co c="2"><na f="s/Symonds:Frank" pid="200/7563">Frank Symonds</na></co>
+<co c="0"><na f="t/Tang:Justin" pid="26/8239">Justin Tang</na></co>
+<co c="0"><na f="t/Tatemura:Jun=ichi" pid="84/284">Jun'ichi Tatemura</na></co>
+<co c="0"><na f="t/Tenedorio:Daniel" pid="65/10024">Daniel Tenedorio</na></co>
+<co c="0"><na f="t/Thakkar:Shreekant_S=" pid="94/6472">Shreekant S. Thakkar</na></co>
+<co c="0"><na f="t/T=ouml=z=uuml=n:Pinar" pid="86/9726">Pinar T&#246;z&#252;n</na></co>
+<co c="0"><na f="t/Trehan:Sagar" pid="165/3098">Sagar Trehan</na></co>
+<co c="0"><na f="t/Tsirogiannis:Dimitris" pid="77/228">Dimitris Tsirogiannis</na></co>
+<co c="0"><na f="t/Tucek:Joseph_A=" pid="78/7202">Joseph A. Tucek</na></co>
+<co c="0"><na f="v/Vadali:Ramkumar" pid="125/2331">Ramkumar Vadali</na></co>
+<co c="0"><na f="v/Vance:Bennet" pid="35/6080">Bennet Vance</na></co>
+<co c="0"><na f="v/Veitch:Alistair_C=" pid="28/2712">Alistair C. Veitch</na></co>
+<co c="0"><na f="v/Venetis:Petros" pid="58/8344">Petros Venetis</na></co>
+<co c="0"><na f="v/Venkataraman:Shivakumar" pid="85/3595">Shivakumar Venkataraman</na></co>
+<co c="0"><na f="v/Venkatasubramanian:Prasanna" pid="300/4338">Prasanna Venkatasubramanian</na></co>
+<co c="0"><na f="v/Volos_0001:Haris" pid="26/1498">Haris Volos 0001</na></co>
+<co c="0"><na f="w/Walpole:Jonathan" pid="50/3443">Jonathan Walpole</na></co>
+<co c="-1"><na f="w/Ward:Karen" pid="73/3729">Karen Ward</na></co>
+<co c="0"><na f="w/Weckwerth:Nathan_W=" pid="326/5201">Nathan W. Weckwerth</na></co>
+<co c="0"><na f="w/Wei:Yiqun" pid="182/7685">Yiqun Wei</na></co>
+<co c="0"><na f="w/Weigel:Felix" pid="33/6915">Felix Weigel</na></co>
+<co c="0"><na f="w/Wiener:Janet_L=" pid="w/JanetLWiener">Janet L. Wiener</na></co>
+<co c="0"><na f="w/Wilhite:David" pid="32/5091">David Wilhite</na></co>
+<co c="0"><na f="w/Witkowski:Andrew" pid="63/3671">Andrew Witkowski</na></co>
+<co c="0"><na f="w/Wolniewicz:Richard_H=" pid="06/2951">Richard H. Wolniewicz</na></co>
+<co c="0"><na f="w/Wood:Jeremy" pid="49/6275">Jeremy Wood</na></co>
+<co c="0"><na f="x/Xia:Brian_S=" pid="326/5692">Brian S. Xia</na></co>
+<co c="0"><na f="x/Xia:Yang" pid="35/2011">Yang Xia</na></co>
+<co c="0"><na f="x/Xu:Jun" pid="90/514">Jun Xu</na></co>
+<co c="0"><na f="y/Yan:Zhepeng" pid="92/8164">Zhepeng Yan</na></co>
+<co c="0"><na f="y/Yang:Chanjun" pid="08/6291">Chanjun Yang</na></co>
+<co c="0"><na f="y/Yang:Jiacheng" pid="66/8350">Jiacheng Yang</na></co>
+<co c="0"><na f="y/Yang:Mohan" pid="34/8165">Mohan Yang</na></co>
+<co c="0"><na f="y/Yu:Xiangyao" pid="126/6015">Xiangyao Yu</na></co>
+<co c="0"><na f="y/Yuan:Zhan" pid="117/6307">Zhan Yuan</na></co>
+<co c="0"><na f="z/Zaharia:Matei" pid="36/2133">Matei Zaharia</na></co>
+<co c="0" n="2"><na f="z/Zeller:Hansj=ouml=rg" pid="09/6853">Hansj&#246;rg Zeller</na><na>Hans Zeller</na></co>
+<co c="0"><na f="z/Zeng:Qiang" pid="81/583">Qiang Zeng</na></co>
+<co c="0"><na f="z/Zhang:Hao" pid="55/2270">Hao Zhang</na></co>
+<co c="0"><na f="z/Zhang:Joey" pid="300/4097">Joey Zhang</na></co>
+<co c="0"><na f="z/Zhang:Kefei" pid="88/1075">Kefei Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yupu" pid="33/7992">Yupu Zhang</na></co>
+<co c="0"><na f="z/Zhao:Xi" pid="95/6322">Xi Zhao</na></co>
+<co c="0"><na f="z/Zheng:Colin" pid="224/6547">Colin Zheng</na></co>
+<co c="0"><na f="z/Zhou_0002:Junxiong" pid="253/3810-2">Junxiong Zhou 0002</na></co>
+<co c="0"><na f="z/Zhou:Xinjing" pid="255/9363">Xinjing Zhou</na></co>
+<co c="0"><na f="z/Zhuang:Zeleng" pid="142/2235">Zeleng Zhuang</na></co>
+<co c="0"><na f="z/Zou_0002:Tao" pid="61/6876-2">Tao Zou 0002</na></co>
+<co c="0" n="2"><na f="z/Zwilling:Mike" pid="74/1997">Mike Zwilling</na><na>Michael J. Zwilling</na></co>
+</coauthors>
+</dblpperson>

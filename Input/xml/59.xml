@@ -1,0 +1,1282 @@
+<dblpperson name="Antonios Deligiannakis" pid="d/ADeligiannakis" n="78">
+<person key="homepages/d/ADeligiannakis" mdate="2023-08-11">
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<note type="affiliation">Technical University of Crete, Greece</note>
+<note label="former" type="affiliation">University of Maryland, College Park, USA</note>
+<url>http://users.softnet.tuc.gr/~adeli/</url>
+<url>https://orcid.org/0000-0001-9449-1573</url>
+</person>
+<r><article key="journals/is/KontaxakisGSD23" mdate="2023-06-26">
+<author pid="261/2671">Antonios Kontaxakis</author>
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="19/4428">Dimitris Sacharidis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<title>And synopses for all: A synopses data engine for extreme scale analytics-as-a-service.</title>
+<pages>102221</pages>
+<year>2023</year>
+<month>June</month>
+<volume>116</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2023.102221</ee>
+<url>db/journals/is/is116.html#KontaxakisGSD23</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/GiatrakosADKA23" mdate="2023-10-27">
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author orcid="0000-0002-9260-0024" pid="144/6631">Elias Alevizos</author>
+<author orcid="0000-0001-9449-1573" pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author orcid="0000-0002-5387-9464" pid="k/RalfKlinkenberg">Ralf Klinkenberg</author>
+<author orcid="0000-0001-6899-4599" pid="a/AArtikis">Alexander Artikis</author>
+<title>Proactive Streaming Analytics at Scale: A Journey from the State-of-the-art to a Production Platform.</title>
+<pages>5204-5207</pages>
+<year>2023</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3583780.3615293</ee>
+<crossref>conf/cikm/2023</crossref>
+<url>db/conf/cikm/cikm2023.html#GiatrakosADKA23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/0002KSGD22" mdate="2022-04-19">
+<author pid="40/1572-2">George Stamatakis 0002</author>
+<author pid="261/2671">Antonis Kontaxakis</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<title>SheerMP: Optimized Streaming Analytics-as-a-Service over Multi-site and Multi-platform Settings.</title>
+<pages>2:558-2:561</pages>
+<year>2022</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.48786/edbt.2022.50</ee>
+<crossref>conf/edbt/2022</crossref>
+<url>db/conf/edbt/edbt2022.html#0002KSGD22</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/22/GiatrakosDBVZAAA22" mdate="2023-02-28">
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="117/5974">Konstantina Bereta</author>
+<author pid="96/10440">Marios Vodas</author>
+<author pid="38/838">Dimitris Zissis</author>
+<author pid="144/6631">Elias Alevizos</author>
+<author pid="17/11285">Charilaos Akasiadis</author>
+<author pid="a/AArtikis">Alexander Artikis</author>
+<title>Processing Big Data in Motion: Core Components and System Architectures with Applications to the Maritime Domain.</title>
+<pages>497-518</pages>
+<year>2022</year>
+<booktitle>Technologies and Applications for Big Data Value</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-78307-5_22</ee>
+<crossref>books/sp/22/CA2022</crossref>
+<url>db/books/collections/CA2022.html#GiatrakosDBVZAAA22</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/bigdataconf/VodasBKZANADKGA21" mdate="2024-02-05">
+<author orcid="0000-0002-6992-9497" pid="96/10440">Marios Vodas</author>
+<author pid="117/5974">Konstantina Bereta</author>
+<author pid="311/0739">Dimitris Kladis</author>
+<author orcid="0000-0003-2870-2656" pid="38/838">Dimitris Zissis</author>
+<author pid="144/6631">Elias Alevizos</author>
+<author pid="289/9813">Emmanouil Ntoulias</author>
+<author pid="a/AArtikis">Alexander Artikis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="261/2671">Antonios Kontaxakis</author>
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="185/2494">David Arnu</author>
+<author pid="59/10810">Edwin Yaqub</author>
+<author pid="225/9460">Fabian Temme</author>
+<author pid="276/5033">Mate Torok</author>
+<author pid="k/RalfKlinkenberg">Ralf Klinkenberg</author>
+<title>Online Distributed Maritime Event Detection &amp; Forecasting over Big Vessel Tracking Data.</title>
+<pages>2052-2057</pages>
+<year>2021</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData52589.2021.9671732</ee>
+<crossref>conf/bigdataconf/2021</crossref>
+<url>db/conf/bigdataconf/bigdataconf2021.html#VodasBKZANADKGA21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/GiatrakosKKDK21" mdate="2022-01-03">
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="295/9453">Eleni Kougioumtzi</author>
+<author pid="261/2671">Antonios Kontaxakis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<title>EasyFlinkCEP: Big Event Data Analytics for Everyone.</title>
+<pages>3029-3033</pages>
+<year>2021</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3459637.3482094</ee>
+<crossref>conf/cikm/2021</crossref>
+<url>db/conf/cikm/cikm2021.html#GiatrakosKKDK21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/KougioumtziKDK21" mdate="2021-06-30">
+<author pid="295/9453">Eleni Kougioumtzi</author>
+<author pid="261/2671">Antonios Kontaxakis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<title>Towards creating a generalized complex event processing operator using FlinkCEP: architecture &amp; benchmark.</title>
+<pages>188-189</pages>
+<year>2021</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/3465480.3467841</ee>
+<crossref>conf/debs/2021</crossref>
+<url>db/conf/debs/debs2021.html#KougioumtziKDK21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/KontaxakisDABKP21" mdate="2023-08-02">
+<author pid="261/2671">Antonios Kontaxakis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="47/3719-3">Holger Arndt 0003</author>
+<author pid="184/9978">Stefan Burkard</author>
+<author pid="295/9558">Claus-Peter Kettner</author>
+<author pid="295/9619">Elke Pelikan</author>
+<author pid="295/9579">Kathleen Noack</author>
+<title>Real-time processing of geo-distributed financial data.</title>
+<pages>190-191</pages>
+<year>2021</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/3465480.3467842</ee>
+<crossref>conf/debs/2021</crossref>
+<url>db/conf/debs/debs2021.html#KontaxakisDABKP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/DeligiannakisGK21" mdate="2023-03-10">
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="17/1242">Nikos Giatrakos</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<author pid="17/5839">Vasilis Samoladas</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<title>Extreme-Scale Interactive Cross-Platform Streaming Analytics - The INFORE Approach.</title>
+<pages>7-13</pages>
+<year>2021</year>
+<booktitle>SEA-Data@VLDB</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2929/paper2.pdf</ee>
+<crossref>conf/vldb/2021seadata</crossref>
+<url>db/conf/vldb/seadata2021.html#DeligiannakisGK21</url>
+</inproceedings>
+</r>
+<r><article key="journals/fgcs/GiatrakosDGK20" mdate="2020-09-05">
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<title>Omnibus outlier detection in sensor networks using windowed locality sensitive hashing.</title>
+<pages>587-609</pages>
+<year>2020</year>
+<volume>110</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2018.04.046</ee>
+<url>db/journals/fgcs/fgcs110.html#GiatrakosDGK20</url>
+</article>
+</r>
+<r><article key="journals/is/FlourisGDG20" mdate="2020-03-27">
+<author pid="172/5485">Ioannis Flouris</author>
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Network-wide complex event processing over geographically distributed data sources.</title>
+<year>2020</year>
+<volume>88</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2019.101442</ee>
+<url>db/journals/is/is88.html#FlourisGDG20</url>
+</article>
+</r>
+<r><article key="journals/vldb/GiatrakosAADG20" mdate="2020-10-26">
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author orcid="0000-0002-9260-0024" pid="144/6631">Elias Alevizos</author>
+<author pid="a/AArtikis">Alexander Artikis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Complex event recognition in the Big Data era: a survey.</title>
+<pages>313-352</pages>
+<year>2020</year>
+<volume>29</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-019-00557-w</ee>
+<url>db/journals/vldb/vldb29.html#GiatrakosAADG20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/KontaxakisGD20" mdate="2020-12-29">
+<author pid="261/2671">Antonis Kontaxakis</author>
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<title>A Synopses Data Engine for Interactive Extreme-Scale Analytics.</title>
+<pages>2085-2088</pages>
+<year>2020</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3340531.3412154</ee>
+<crossref>conf/cikm/2020</crossref>
+<url>db/conf/cikm/cikm2020.html#KontaxakisGD20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/GiatrakosABDGKK20" mdate="2023-09-30">
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="185/2494">David Arnu</author>
+<author pid="276/4999">Theodoros Bitsakis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="k/RalfKlinkenberg">Ralf Klinkenberg</author>
+<author pid="276/5085">Aris Konidaris</author>
+<author pid="261/2671">Antonis Kontaxakis</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<author pid="17/5839">Vasilis Samoladas</author>
+<author pid="s/ASimitsis">Alkis Simitsis</author>
+<author pid="40/1572-2">George Stamatakis 0002</author>
+<author pid="225/9460">Fabian Temme</author>
+<author pid="276/5033">Mate Torok</author>
+<author pid="59/10810">Edwin Yaqub</author>
+<author orcid="0000-0002-7696-1241" pid="122/8910">Arnau Montagud</author>
+<author orcid="0000-0002-7496-844X" pid="74/4153">Miguel Ponce de Leon</author>
+<author pid="47/3719-3">Holger Arndt 0003</author>
+<author pid="184/9978">Stefan Burkard</author>
+<title>INforE: Interactive Cross-platform Analytics for Everyone.</title>
+<pages>3389-3392</pages>
+<year>2020</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3340531.3417435</ee>
+<crossref>conf/cikm/2020</crossref>
+<url>db/conf/cikm/cikm2020.html#GiatrakosABDGKK20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-09541" mdate="2021-01-23">
+<author pid="261/2671">Antonis Kontaxakis</author>
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<title>A Synopses Data Engine for Interactive Extreme-Scale Analytics.</title>
+<year>2020</year>
+<volume>abs/2003.09541</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.09541</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-09541</url>
+</article>
+</r>
+<r><article key="journals/tasm/GiatrakosKDAGPA19" mdate="2023-08-02">
+<author pid="17/1242">Nikos Giatrakos</author>
+<author pid="135/6786">Nikos Katzouris</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="a/AArtikis">Alexander Artikis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="55/2039">George Paliouras</author>
+<author pid="47/3719-3">Holger Arndt 0003</author>
+<author pid="96/7770">Raffaele Grasso</author>
+<author pid="k/RalfKlinkenberg">Ralf Klinkenberg</author>
+<author pid="74/4153">Miguel Ponce de Leon</author>
+<author pid="136/5663">Gian Gaetano Tartaglia</author>
+<author orcid="0000-0002-8937-6789" pid="49/1173">Alfonso Valencia</author>
+<author pid="38/838">Dimitrios Zissis</author>
+<title>Interactive Extreme: Scale Analytics Towards Battling Cancer.</title>
+<pages>54-61</pages>
+<year>2019</year>
+<volume>38</volume>
+<journal>IEEE Technol. Soc. Mag.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MTS.2019.2913071</ee>
+<url>db/journals/tasm/tasm38.html#GiatrakosKDAGPA19</url>
+</article>
+</r>
+<r><inproceedings key="conf/debs/GiatrakosADG19" mdate="2020-03-27">
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="a/AArtikis">Alexander Artikis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Uncertainty-Aware Event Analytics over Distributed Settings.</title>
+<pages>175-186</pages>
+<year>2019</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/3328905.3329763</ee>
+<crossref>conf/debs/2019</crossref>
+<url>db/conf/debs/debs2019.html#GiatrakosADG19</url>
+</inproceedings>
+</r>
+<r><article key="journals/is/GiatrakosDGKS18" mdate="2020-03-27">
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="16/3921">Daniel Keren</author>
+<author pid="17/5839">Vasilis Samoladas</author>
+<title>Scalable approximate query tracking over highly distributed data streams with tunable accuracy guarantees.</title>
+<pages>59-87</pages>
+<year>2018</year>
+<volume>76</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2018.05.001</ee>
+<url>db/journals/is/is76.html#GiatrakosDGKS18</url>
+</article>
+</r>
+<r><article key="journals/tods/DemertzisPPDGP18" mdate="2020-10-26">
+<author pid="181/5758">Ioannis Demertzis</author>
+<author pid="82/75">Stavros Papadopoulos 0001</author>
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="p/CharalamposPapamanthou">Charalampos Papamanthou</author>
+<title>Practical Private Range Search in Depth.</title>
+<pages>2:1-2:52</pages>
+<year>2018</year>
+<volume>43</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3167971</ee>
+<url>db/journals/tods/tods43.html#DemertzisPPDGP18</url>
+</article>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Deligiannakis18" mdate="2019-02-14">
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<title>View Maintenance Aspects.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_838</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/v2.html#Deligiannakis18</url>
+</incollection>
+</r>
+<r><article key="journals/jss/FlourisGDGKM17" mdate="2023-10-22">
+<author pid="172/5485">Ioannis Flouris</author>
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="133/7744">Michael Kamp</author>
+<author pid="64/5523">Michael Mock</author>
+<title>Issues in complex event processing: Status and prospects in the Big Data era.</title>
+<pages>217-236</pages>
+<year>2017</year>
+<volume>127</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2016.06.011</ee>
+<ee>https://www.wikidata.org/entity/Q122241193</ee>
+<url>db/journals/jss/jss127.html#FlourisGDGKM17</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GiatrakosADG17" mdate="2020-04-25">
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="a/AArtikis">Alexander Artikis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Complex Event Recognition in the Big Data Era.</title>
+<pages>1996-1999</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p1996-giatrakos.pdf</ee>
+<ee>https://doi.org/10.14778/3137765.3137829</ee>
+<url>db/journals/pvldb/pvldb10.html#GiatrakosADG17</url>
+</article>
+</r>
+<r><inproceedings key="conf/imcl/MoumoutzisBVPXM17" mdate="2018-03-20">
+<author orcid="0000-0002-3657-9267" pid="65/4105">Nektarios Moumoutzis</author>
+<author pid="17/717">George Boukeas</author>
+<author pid="30/6625">Vassilis Vassilakis</author>
+<author pid="07/3891">Nikos Pappas</author>
+<author pid="06/713">Chara Xanthaki</author>
+<author pid="45/1589">Ioannis Maragkoudakis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="66/2056">Stavros Christodoulakis</author>
+<title>Design, Implementation and Evaluation of a Computer Science Teacher Training Programme for Learning and Teaching of Python Inside and Outside School - Establishing and Supporting Code Clubs to Learn Computer Programming by Self-contained Examples.</title>
+<pages>575-586</pages>
+<year>2017</year>
+<booktitle>IMCL</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-75175-7_56</ee>
+<crossref>conf/imcl/2017</crossref>
+<url>db/conf/imcl/imcl2017.html#MoumoutzisBVPXM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/FlourisMGDGMBSF16" mdate="2020-03-27">
+<author pid="172/5485">Ioannis Flouris</author>
+<author pid="159/7930">Vasiliki Manikaki</author>
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="64/5523">Michael Mock</author>
+<author pid="41/8426">Sebastian Bothe</author>
+<author pid="65/2329">Inna Skarbovsky</author>
+<author pid="64/1885">Fabiana Fournier</author>
+<author pid="181/4901">Marko Stajcer</author>
+<author pid="165/6881">Tomislav Krizan</author>
+<author pid="181/4783">Jonathan Yom-Tov</author>
+<author pid="57/4027">Marijo Volarevic</author>
+<title>Complex event processing over streaming multi-cloud platforms: the FERARI approach: demo.</title>
+<pages>348-349</pages>
+<year>2016</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/2933267.2933289</ee>
+<crossref>conf/debs/2016</crossref>
+<url>db/conf/debs/debs2016.html#FlourisMGDGMBSF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DemertzisPPDG16" mdate="2020-10-25">
+<author pid="181/5758">Ioannis Demertzis</author>
+<author pid="82/75">Stavros Papadopoulos 0001</author>
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Practical Private Range Search Revisited.</title>
+<pages>185-198</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2882911</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#DemertzisPPDG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GiatrakosDG16" mdate="2020-03-27">
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Scalable Approximate Query Tracking over Highly Distributed Data Streams.</title>
+<pages>1497-1512</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2915225</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#GiatrakosDG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/FlourisMGDGMBSF16" mdate="2020-03-27">
+<author pid="172/5485">Ioannis Flouris</author>
+<author pid="159/7930">Vasiliki Manikaki</author>
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="64/5523">Michael Mock</author>
+<author pid="41/8426">Sebastian Bothe</author>
+<author pid="65/2329">Inna Skarbovsky</author>
+<author pid="64/1885">Fabiana Fournier</author>
+<author pid="181/4901">Marko Stajcer</author>
+<author pid="165/6881">Tomislav Krizan</author>
+<author pid="181/4783">Jonathan Yom-Tov</author>
+<author pid="181/5855">Taji Curin</author>
+<title>FERARI: A Prototype for Complex Event Processing over Streaming Multi-cloud Platforms.</title>
+<pages>2093-2096</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2899395</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#FlourisMGDGMBSF16</url>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/PapapetrouGD15" mdate="2020-10-26">
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<title>Sketching distributed sliding-window data streams.</title>
+<pages>345-368</pages>
+<year>2015</year>
+<volume>24</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00778-015-0380-7</ee>
+<url>db/journals/vldb/vldb24.html#PapapetrouGD15</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/Bothe15" mdate="2023-03-10">
+<author pid="41/8426">Sebastian Bothe</author>
+<author pid="159/7930">Vasiliki Manikaki</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="64/5523">Michael Mock</author>
+<title>Towards Flexible Event Processing in Distributed Data Streams.</title>
+<pages>111-117</pages>
+<year>2015</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1330/paper-20.pdf</ee>
+<crossref>conf/edbt/2015w</crossref>
+<url>db/conf/edbt/edbtw2015.html#Bothe15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/SacharidisD15" mdate="2021-04-09">
+<author orcid="0000-0001-5022-1483" pid="19/4428">Dimitris Sacharidis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<title>Spatial cohesion queries.</title>
+<pages>19:1-19:10</pages>
+<year>2015</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/2820783.2820834</ee>
+<crossref>conf/gis/2015</crossref>
+<url>db/conf/gis/gis2015.html#SacharidisD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trustcom/FlourisGGD15" mdate="2020-03-27">
+<author pid="172/5485">Ioannis Flouris</author>
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<title>Issues in Complex Event Processing Systems.</title>
+<pages>241-246</pages>
+<year>2015</year>
+<booktitle>TrustCom/BigDataSE/ISPA (2)</booktitle>
+<ee>https://doi.org/10.1109/Trustcom.2015.590</ee>
+<crossref>conf/trustcom/2015-2</crossref>
+<url>db/conf/trustcom/trustcom2015-2.html#FlourisGGD15</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/KerenSABSSD14" mdate="2017-05-20">
+<author pid="16/3921">Daniel Keren</author>
+<author pid="27/6566">Guy Sagy</author>
+<author pid="129/1654">Amir Abboud</author>
+<author pid="33/8883">David Ben-David</author>
+<author pid="s/AssafSchuster">Assaf Schuster</author>
+<author pid="07/1209">Izchak Sharfman</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<title>Geometric Monitoring of Heterogeneous Streams.</title>
+<pages>1890-1903</pages>
+<year>2014</year>
+<volume>26</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TKDE.2013.180</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2013.180</ee>
+<url>db/journals/tkde/tkde26.html#KerenSABSSD14</url>
+</article>
+</r>
+<r><article key="journals/tods/GiatrakosDGSS14" mdate="2020-03-27">
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="07/1209">Izchak Sharfman</author>
+<author pid="s/AssafSchuster">Assaf Schuster</author>
+<title>Distributed Geometric Query Monitoring Using Prediction Models.</title>
+<pages>16:1-16:42</pages>
+<year>2014</year>
+<volume>39</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2602137</ee>
+<url>db/journals/tods/tods39.html#GiatrakosDGSS14</url>
+</article>
+</r>
+<r><article key="journals/tods/PapadopoulosCDG14" mdate="2018-11-06">
+<author pid="82/75">Stavros Papadopoulos 0001</author>
+<author pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Lightweight Query Authentication on Streams.</title>
+<pages>30:1-30:45</pages>
+<year>2014</year>
+<volume>39</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2656336</ee>
+<url>db/journals/tods/tods39.html#PapadopoulosCDG14</url>
+</article>
+</r>
+<r><inproceedings key="conf/cicare/DeligiannakisGP14" mdate="2020-03-27">
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="00/9178">Nicolas Pallikarakis</author>
+<title>Towards a prototype medical system for devices vigilance and patient safety.</title>
+<pages>180-186</pages>
+<year>2014</year>
+<booktitle>CICARE</booktitle>
+<ee>https://doi.org/10.1109/CICARE.2014.7007852</ee>
+<crossref>conf/cicare/2014</crossref>
+<url>db/conf/cicare/cicare2014.html#DeligiannakisGP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icaa/KerenSABSSD14" mdate="2017-05-21">
+<author pid="16/3921">Daniel Keren</author>
+<author pid="27/6566">Guy Sagy</author>
+<author pid="129/1654">Amir Abboud</author>
+<author pid="33/8883">David Ben-David</author>
+<author pid="s/AssafSchuster">Assaf Schuster</author>
+<author pid="07/1209">Izchak Sharfman</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<title>Monitoring Distributed, Heterogeneous Data Streams: The Emergence of Safe Zones.</title>
+<pages>17-28</pages>
+<year>2014</year>
+<booktitle>ICAA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-04126-1_2</ee>
+<crossref>conf/icaa/2014</crossref>
+<url>db/conf/icaa/icaa2014.html#KerenSABSSD14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/IgglezakisDB14" mdate="2017-05-19">
+<author pid="149/0131">Antonios Igglezakis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="21/6408">Aggelos Bletsas</author>
+<title>Geometric monitoring for CSI reduction in amplify-and-forward relay networks.</title>
+<pages>2729-2733</pages>
+<year>2014</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2014.6854096</ee>
+<crossref>conf/icassp/2014</crossref>
+<url>db/conf/icassp/icassp2014.html#IgglezakisDB14</url>
+</inproceedings>
+</r>
+<r><article key="journals/is/GiatrakosKDVT13" mdate="2020-10-26">
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="v/VVassalos">Vasilis Vassalos</author>
+<author orcid="0000-0003-2589-7881" pid="t/YannisTheodoridis">Yannis Theodoridis</author>
+<title>In-network approximate computation of outliers with quality guarantees.</title>
+<pages>1285-1308</pages>
+<year>2013</year>
+<volume>38</volume>
+<journal>Inf. Syst.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/j.is.2011.08.005</ee>
+<url>db/journals/is/is38.html#GiatrakosKDVT13</url>
+</article>
+</r>
+<r><article key="journals/sigmod/ChristodoulakisGPDSIPS13" mdate="2022-01-03">
+<author orcid="0000-0003-4786-0924" pid="66/2056">Stavros Christodoulakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author orcid="0000-0001-7436-5852" pid="91/2869">Euripides G. M. Petrakis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="17/5839">Vasilis Samoladas</author>
+<author orcid="0000-0002-4922-6639" pid="68/3366">Ekaterini Ioannou</author>
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="17/7550">Stelios Sotiriadis</author>
+<title>Data management research at the technical university of crete.</title>
+<pages>61-66</pages>
+<year>2013</year>
+<volume>42</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2590989.2590999</ee>
+<url>db/journals/sigmod/sigmod42.html#ChristodoulakisGPDSIPS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/PapadopoulosCDG13" mdate="2018-11-06">
+<author pid="82/75">Stavros Papadopoulos 0001</author>
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<title>Lightweight authentication of linear algebraic queries on data streams.</title>
+<pages>881-892</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2465281</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#PapadopoulosCDG13</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/vldb/2013bd3" mdate="2023-03-10">
+<editor pid="c/GrahamCormode">Graham Cormode</editor>
+<editor pid="43/1219-1">Ke Yi 0001</editor>
+<editor pid="d/ADeligiannakis">Antonios Deligiannakis</editor>
+<editor pid="g/MinosNGarofalakis">Minos N. Garofalakis</editor>
+<title>Proceedings of the First International Workshop on Big Dynamic Distributed Data, Riva del Garda, Italy, August 30, 2013</title>
+<booktitle>BD3@VLDB</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>1018</volume>
+<year>2013</year>
+<ee type="oa">https://ceur-ws.org/Vol-1018</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-1018-1</ee>
+<url>db/conf/vldb/bd32013.html</url>
+</proceedings>
+</r>
+<r><article key="journals/pvldb/PapapetrouGD12" mdate="2020-10-26">
+<author orcid="0000-0003-0045-1648" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<title>Sketch-based Querying of Distributed Sliding-Window Data Streams.</title>
+<pages>992-1003</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p992_odysseaspapapetrou_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2336664.2336672</ee>
+<url>db/journals/pvldb/pvldb5.html#PapapetrouGD12</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/ArvanitisDV12" mdate="2018-11-06">
+<author pid="08/7993">Anastasios Arvanitis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="v/YannisVassiliou">Yannis Vassiliou</author>
+<title>Efficient influence-based processing of market research queries.</title>
+<pages>1193-1202</pages>
+<year>2012</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2396761.2398420</ee>
+<crossref>conf/cikm/2012</crossref>
+<url>db/conf/cikm/cikm2012.html#ArvanitisDV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BurdakisD12" mdate="2023-03-24">
+<author pid="116/5265">Sabbas Burdakis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<title>Detecting Outliers in Sensor Networks Using the Geometric Approach.</title>
+<pages>1108-1119</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.85</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2012.85</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#BurdakisD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GiatrakosDGSS12" mdate="2020-03-27">
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="07/1209">Izchak Sharfman</author>
+<author pid="s/AssafSchuster">Assaf Schuster</author>
+<title>Prediction-based geometric monitoring over distributed data streams.</title>
+<pages>265-276</pages>
+<year>2012</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2213836.2213867</ee>
+<crossref>conf/sigmod/2012</crossref>
+<url>db/conf/sigmod/sigmod2012.html#GiatrakosDGSS12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1207-0139" mdate="2018-08-13">
+<author pid="p/OdysseasPapapetrou">Odysseas Papapetrou</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<title>Sketch-based Querying of Distributed Sliding-Window Data Streams</title>
+<ee type="oa">http://arxiv.org/abs/1207.0139</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1207.0139</volume>
+<url>db/journals/corr/corr1207.html#abs-1207-0139</url>
+</article>
+</r>
+<r><article key="journals/is/DeligiannakisKSD11" mdate="2017-05-20">
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<author pid="40/800">Vassilis Stoumpos</author>
+<author pid="d/AlexDelis">Alex Delis</author>
+<title>Collection trees for event-monitoring queries.</title>
+<pages>386-405</pages>
+<year>2011</year>
+<volume>36</volume>
+<journal>Inf. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.is.2010.08.003</ee>
+<url>db/journals/is/is36.html#DeligiannakisKSD11</url>
+</article>
+</r>
+<r><article key="journals/is/DeligiannakisK11" mdate="2017-05-20">
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<title>Detecting proximity events in sensor networks.</title>
+<pages>1044-1063</pages>
+<year>2011</year>
+<volume>36</volume>
+<journal>Inf. Syst.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/j.is.2011.03.004</ee>
+<url>db/journals/is/is36.html#DeligiannakisK11</url>
+</article>
+</r>
+<r><inproceedings key="conf/esws/DritsouCDK11" mdate="2021-10-14">
+<author pid="74/878">Vicky Dritsou</author>
+<author orcid="0000-0001-6149-441X" pid="c/PConstantopoulos">Panos Constantopoulos</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<title>Optimizing Query Shortcuts in RDF Databases.</title>
+<pages>77-92</pages>
+<year>2011</year>
+<booktitle>ESWC (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-21064-8_6</ee>
+<crossref>conf/esws/2011-2</crossref>
+<url>db/conf/esws/eswc2011-2.html#DritsouCDK11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BorneaDKV11" mdate="2023-03-24">
+<author pid="45/6755">Mihaela A. Bornea</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<author pid="v/VVassalos">Vasilis Vassalos</author>
+<title>Semi-Streamed Index Join for near-real time execution of ETL transformations.</title>
+<pages>159-170</pages>
+<year>2011</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2011.5767906</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2011.5767906</ee>
+<crossref>conf/icde/2011</crossref>
+<url>db/conf/icde/icde2011.html#BorneaDKV11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/DritsouCDK11" mdate="2023-03-23">
+<author pid="74/878">Vicky Dritsou</author>
+<author orcid="0000-0001-6149-441X" pid="c/PConstantopoulos">Panos Constantopoulos</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<title>Shortcut selection in RDF databases.</title>
+<pages>194-199</pages>
+<year>2011</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2011.5767659</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2011.5767659</ee>
+<crossref>conf/icde/2011w</crossref>
+<url>db/conf/icde/icdew2011.html#DritsouCDK11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1107-4924" mdate="2018-08-13">
+<author pid="08/7993">Anastasios Arvanitis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<title>Discovering Attractive Products based on Influence Sets</title>
+<ee type="oa">http://arxiv.org/abs/1107.4924</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1107.4924</volume>
+<url>db/journals/corr/corr1107.html#abs-1107-4924</url>
+</article>
+</r>
+<r><article key="journals/tkde/BorneaVKD10" mdate="2017-05-20">
+<author pid="45/6755">Mihaela A. Bornea</author>
+<author pid="v/VVassalos">Vasilis Vassalos</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<title>Adaptive Join Operators for Result Rate Optimization on Streaming Inputs.</title>
+<pages>1110-1125</pages>
+<year>2010</year>
+<volume>22</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TKDE.2010.64</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2010.64</ee>
+<url>db/journals/tkde/tkde22.html#BorneaVKD10</url>
+</article>
+</r>
+<r><inproceedings key="conf/dmsn/GiatrakosKD10" mdate="2020-03-27">
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<title>PAO: power-efficient attribution of outliers in wireless sensor networks.</title>
+<pages>33-38</pages>
+<year>2010</year>
+<booktitle>DMSN</booktitle>
+<ee>https://doi.org/10.1145/1858158.1858168</ee>
+<crossref>conf/dmsn/2010</crossref>
+<url>db/conf/dmsn/dmsn2010.html#GiatrakosKD10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GiatrakosKDVT10" mdate="2020-10-25">
+<author orcid="0000-0002-8218-707X" pid="17/1242">Nikos Giatrakos</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="v/VVassalos">Vasilis Vassalos</author>
+<author orcid="0000-0003-2589-7881" pid="t/YannisTheodoridis">Yannis Theodoridis</author>
+<title>TACO: tunable approximate computation of outliers in wireless sensor networks.</title>
+<pages>279-290</pages>
+<year>2010</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1807167.1807199</ee>
+<crossref>conf/sigmod/2010</crossref>
+<url>db/conf/sigmod/sigmod2010.html#GiatrakosKDVT10</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijdc/ConstantopoulosDAADGKP09" mdate="2023-09-30">
+<author pid="c/PConstantopoulos">Panos Constantopoulos</author>
+<author orcid="0000-0001-9462-0478" pid="76/6698">Costis J. Dallas</author>
+<author pid="87/6723">Ion Androutsopoulos</author>
+<author pid="38/8419">Stavros Angelis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="75/5309">Dimitris Gavrilis</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<author pid="91/4324">Christos Papatheodorou</author>
+<title>DCC&amp;U: An Extended Digital Curation Lifecycle Model.</title>
+<pages>34-45</pages>
+<year>2009</year>
+<volume>4</volume>
+<journal>Int. J. Digit. Curation</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.2218/ijdc.v4i1.76</ee>
+<url>db/journals/ijdc/ijdc4.html#ConstantopoulosDAADGKP09</url>
+</article>
+</r>
+<r><article key="journals/pvldb/CormodeDGM09" mdate="2020-04-25">
+<author orcid="0000-0002-0698-0922" pid="c/GrahamCormode">Graham Cormode</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="51/1169">Andrew McGregor 0001</author>
+<title>Probabilistic Histograms for Probabilistic Data.</title>
+<pages>526-537</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-394.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687687</ee>
+<url>db/journals/pvldb/pvldb2.html#CormodeDGM09</url>
+</article>
+</r>
+<r><article key="journals/vldb/SacharidisDS09" mdate="2018-11-30">
+<author orcid="0000-0001-5022-1483" pid="19/4428">Dimitris Sacharidis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author orcid="0000-0002-9067-5639" pid="s/TimosKSellis">Timos K. Sellis</author>
+<title>Hierarchically compressed wavelet synopses.</title>
+<pages>203-231</pages>
+<year>2009</year>
+<volume>18</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-008-0096-z</ee>
+<url>db/journals/vldb/vldb18.html#SacharidisDS09</url>
+</article>
+</r>
+<r><inproceedings key="conf/gsn/DeligiannakisKSD09" mdate="2017-05-17">
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<author pid="40/800">Vassilis Stoumpos</author>
+<author pid="d/AlexDelis">Alex Delis</author>
+<title>Building Efficient Aggregation Trees for Sensor Network Event-Monitoring Queries.</title>
+<pages>63-76</pages>
+<year>2009</year>
+<booktitle>GSN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02903-5_7</ee>
+<crossref>conf/gsn/2009</crossref>
+<url>db/conf/gsn/gsn2009.html#DeligiannakisKSD09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BorneaVKD09" mdate="2023-03-24">
+<author pid="45/6755">Mihaela A. Bornea</author>
+<author pid="v/VVassalos">Vasilis Vassalos</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<title>Double Index NEsted-Loop Reactive Join for Result Rate Optimization.</title>
+<pages>481-492</pages>
+<year>2009</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2009.101</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2009.101</ee>
+<crossref>conf/icde/2009</crossref>
+<url>db/conf/icde/icde2009.html#BorneaVKD09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/DeligiannakisKVSD09" mdate="2023-03-24">
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<author pid="v/VVassalos">Vasilis Vassalos</author>
+<author pid="40/800">Vassilis Stoumpos</author>
+<author pid="d/AlexDelis">Alex Delis</author>
+<title>Another Outlier Bites the Dust: Computing Meaningful Aggregates in Sensor Networks.</title>
+<pages>988-999</pages>
+<year>2009</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2009.100</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2009.100</ee>
+<crossref>conf/icde/2009</crossref>
+<url>db/conf/icde/icde2009.html#DeligiannakisKVSD09</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Deligiannakis09" mdate="2017-07-12">
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<title>View Maintenance Aspects.</title>
+<pages>3328-3331</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_838</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/v.html#Deligiannakis09</url>
+</incollection>
+</r>
+<r><article key="journals/vldb/DeligiannakisKR08" mdate="2017-05-28">
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<author pid="r/NickRoussopoulos">Nick Roussopoulos</author>
+<title>Bandwidth-constrained queries in sensor networks.</title>
+<year>2008</year>
+<volume>17</volume>
+<number>3</number>
+<pages>443-467</pages>
+<journal>VLDB J.</journal>
+<ee>https://doi.org/10.1007/s00778-006-0016-z</ee>
+<url>db/journals/vldb/vldb17.html#DeligiannakisKR08</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/StoumposDKD08" mdate="2023-03-23">
+<author pid="40/800">Vassilis Stoumpos</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<author pid="d/AlexDelis">Alex Delis</author>
+<title>Processing Event-Monitoring Queries in Sensor Networks.</title>
+<pages>1436-1438</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497581</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497581</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#StoumposDKD08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/DeligiannakisSKVD08" mdate="2023-03-24">
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="40/800">Vassilis Stoumpos</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<author pid="v/VVassalos">Vasilis Vassalos</author>
+<author pid="d/AlexDelis">Alex Delis</author>
+<title>Outlier-Aware Data Aggregation in Sensor Networks.</title>
+<pages>1448-1450</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497585</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497585</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#DeligiannakisSKVD08</url>
+</inproceedings>
+</r>
+<r><article key="journals/tods/DeligiannakisGR07" mdate="2018-11-06">
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="r/NickRoussopoulos">Nick Roussopoulos</author>
+<title>Extended wavelets for multiple measures.</title>
+<pages>10</pages>
+<year>2007</year>
+<volume>32</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1242524.1242527</ee>
+<url>db/journals/tods/tods32.html#DeligiannakisGR07</url>
+</article>
+</r>
+<r><article key="journals/vldb/DeligiannakisKR07" mdate="2017-05-28">
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<author pid="r/NickRoussopoulos">Nick Roussopoulos</author>
+<title>Dissemination of compressed historical information in sensor networks.</title>
+<pages>439-461</pages>
+<year>2007</year>
+<volume>16</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00778-005-0173-5</ee>
+<url>db/journals/vldb/vldb16.html#DeligiannakisKR07</url>
+</article>
+</r>
+<r><inproceedings key="conf/mobide/KotidisVDSD07" mdate="2018-11-06">
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<author pid="v/VVassalos">Vasilis Vassalos</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="40/800">Vassilis Stoumpos</author>
+<author pid="d/AlexDelis">Alex Delis</author>
+<title>Robust management of outliers in sensor network aggregate queries.</title>
+<pages>17-24</pages>
+<year>2007</year>
+<crossref>conf/mobide/2007</crossref>
+<booktitle>MobiDE</booktitle>
+<ee>https://doi.org/10.1145/1254850.1254854</ee>
+<url>db/conf/mobide/mobide2007.html#KotidisVDSD07</url>
+</inproceedings>
+</r>
+<r><article key="journals/is/DeligiannakisKR06" mdate="2017-05-20">
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<author pid="r/NickRoussopoulos">Nick Roussopoulos</author>
+<title>Processing approximate aggregate queries in wireless sensor networks.</title>
+<pages>770-792</pages>
+<year>2006</year>
+<volume>31</volume>
+<journal>Inf. Syst.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/j.is.2005.02.001</ee>
+<url>db/journals/is/is31.html#DeligiannakisKR06</url>
+</article>
+</r>
+<r><inproceedings key="conf/gsn/DeligiannakisK06" mdate="2017-05-17">
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<title>Exploiting Spatio-temporal Correlations for Data Processing in Sensor Networks.</title>
+<pages>45-65</pages>
+<year>2006</year>
+<booktitle>GSN</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-79996-2_4</ee>
+<crossref>conf/gsn/2006</crossref>
+<url>db/conf/gsn/gsn2006.html#DeligiannakisK06</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/basesearch/Deligiannakis05" mdate="2022-05-04">
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<title>Accurate Data Approximation in Constrained Environments.</title>
+<year>2005</year>
+<school>University of Maryland, College Park, MD, USA</school>
+<ee>https://hdl.handle.net/1903/2681</ee>
+<ee>https://www.base-search.net/Record/9c5d926a66ab5b4790dd6950f73aa8ed9e8a6f21f056601d3c6acc98cf8af822</ee>
+<note type="source">base-search.net (ftunivmaryland:oai:drum.lib.umd.edu:1903/2681)</note>
+</phdthesis>
+</r>
+<r><article key="journals/debu/DeligiannakisK05" mdate="2020-08-19">
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<title>Data Reduction Techniques in Sensor Networks.</title>
+<pages>19-25</pages>
+<year>2005</year>
+<volume>28</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A05mar/kotidis.ps</ee>
+<url>db/journals/debu/debu28.html#DeligiannakisK05</url>
+</article>
+</r>
+<r><inproceedings key="conf/ssdbm/DeligiannakisGR05" mdate="2012-09-18">
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="r/NickRoussopoulos">Nick Roussopoulos</author>
+<title>A Fast Approximation Scheme for Probabilistic Wavelet Synopses.</title>
+<pages>243-252</pages>
+<year>2005</year>
+<crossref>conf/ssdbm/2005</crossref>
+<booktitle>SSDBM</booktitle>
+<url>db/conf/ssdbm/ssdbm2005.html#DeligiannakisGR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/DeligiannakisKR04" mdate="2017-05-21">
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<author pid="r/NickRoussopoulos">Nick Roussopoulos</author>
+<title>Hierarchical In-Network Data Aggregation with Quality Guarantees.</title>
+<pages>658-675</pages>
+<ee>https://doi.org/10.1007/978-3-540-24741-8_38</ee>
+<year>2004</year>
+<crossref>conf/edbt/2004</crossref>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt2004.html#DeligiannakisKR04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DeligiannakisKR04" mdate="2018-11-06">
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<author pid="r/NickRoussopoulos">Nick Roussopoulos</author>
+<title>Compressing Historical Information in Sensor Networks.</title>
+<year>2004</year>
+<crossref>conf/sigmod/2004</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2004.html#DeligiannakisKR04</url>
+<pages>527-538</pages>
+<ee>https://doi.org/10.1145/1007568.1007628</ee>
+<ee>http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/R-542.pdf</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dolap/SismanisDKR03" mdate="2018-11-06">
+<author pid="65/5468">Yannis Sismanis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<author pid="r/NickRoussopoulos">Nick Roussopoulos</author>
+<title>Hierarchical dwarfs for the rollup cube.</title>
+<pages>17-24</pages>
+<year>2003</year>
+<crossref>conf/dolap/2003</crossref>
+<booktitle>DOLAP</booktitle>
+<ee>https://doi.org/10.1145/956060.956064</ee>
+<url>db/conf/dolap/dolap2003.html#SismanisDKR03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DeligiannakisR03" mdate="2018-11-06">
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="r/NickRoussopoulos">Nick Roussopoulos</author>
+<title>Extended Wavelets for Multiple Measures.</title>
+<pages>229-240</pages>
+<year>2003</year>
+<crossref>conf/sigmod/2003</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2003.html#DeligiannakisR03</url>
+<ee>https://doi.org/10.1145/872757.872786</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SismanisDRK02" mdate="2018-11-06">
+<author pid="65/5468">Yannis Sismanis</author>
+<author pid="d/ADeligiannakis">Antonios Deligiannakis</author>
+<author pid="r/NickRoussopoulos">Nick Roussopoulos</author>
+<author pid="k/YannisKotidis">Yannis Kotidis</author>
+<title>Dwarf: shrinking the PetaCube.</title>
+<pages>464-475</pages>
+<year>2002</year>
+<crossref>conf/sigmod/2002</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/564691.564745</ee>
+<url>db/conf/sigmod/sigmod2002.html#SismanisDRK02</url>
+</inproceedings>
+</r>
+<coauthors n="92" nc="2">
+<co c="0"><na f="a/Abboud:Amir" pid="129/1654">Amir Abboud</na></co>
+<co c="0"><na f="a/Akasiadis:Charilaos" pid="17/11285">Charilaos Akasiadis</na></co>
+<co c="0"><na f="a/Alevizos:Elias" pid="144/6631">Elias Alevizos</na></co>
+<co c="0"><na f="a/Androutsopoulos:Ion" pid="87/6723">Ion Androutsopoulos</na></co>
+<co c="0"><na f="a/Angelis:Stavros" pid="38/8419">Stavros Angelis</na></co>
+<co c="0"><na f="a/Arndt_0003:Holger" pid="47/3719-3">Holger Arndt 0003</na></co>
+<co c="0"><na f="a/Arnu:David" pid="185/2494">David Arnu</na></co>
+<co c="0"><na f="a/Artikis:Alexander" pid="a/AArtikis">Alexander Artikis</na></co>
+<co c="0"><na f="a/Arvanitis:Anastasios" pid="08/7993">Anastasios Arvanitis</na></co>
+<co c="0"><na f="b/Ben=David:David" pid="33/8883">David Ben-David</na></co>
+<co c="0"><na f="b/Bereta:Konstantina" pid="117/5974">Konstantina Bereta</na></co>
+<co c="0"><na f="b/Bitsakis:Theodoros" pid="276/4999">Theodoros Bitsakis</na></co>
+<co c="1"><na f="b/Bletsas:Aggelos" pid="21/6408">Aggelos Bletsas</na></co>
+<co c="0"><na f="b/Bornea:Mihaela_A=" pid="45/6755">Mihaela A. Bornea</na></co>
+<co c="0"><na f="b/Bothe:Sebastian" pid="41/8426">Sebastian Bothe</na></co>
+<co c="0"><na f="b/Boukeas:George" pid="17/717">George Boukeas</na></co>
+<co c="-1"><na f="b/Burdakis:Sabbas" pid="116/5265">Sabbas Burdakis</na></co>
+<co c="0"><na f="b/Burkard:Stefan" pid="184/9978">Stefan Burkard</na></co>
+<co c="0"><na f="c/Christodoulakis:Stavros" pid="66/2056">Stavros Christodoulakis</na></co>
+<co c="0"><na f="c/Constantopoulos:Panos" pid="c/PConstantopoulos">Panos Constantopoulos</na></co>
+<co c="0"><na f="c/Cormode:Graham" pid="c/GrahamCormode">Graham Cormode</na></co>
+<co c="0"><na f="c/Curin:Taji" pid="181/5855">Taji Curin</na></co>
+<co c="0"><na f="d/Dallas:Costis_J=" pid="76/6698">Costis J. Dallas</na></co>
+<co c="0"><na f="d/Delis:Alex" pid="d/AlexDelis">Alex Delis</na></co>
+<co c="0"><na f="d/Demertzis:Ioannis" pid="181/5758">Ioannis Demertzis</na></co>
+<co c="0"><na f="d/Dritsou:Vicky" pid="74/878">Vicky Dritsou</na></co>
+<co c="0"><na f="f/Flouris:Ioannis" pid="172/5485">Ioannis Flouris</na></co>
+<co c="0"><na f="f/Fournier:Fabiana" pid="64/1885">Fabiana Fournier</na></co>
+<co c="0"><na f="g/Garofalakis:Minos_N=" pid="g/MinosNGarofalakis">Minos N. Garofalakis</na></co>
+<co c="0"><na f="g/Gavrilis:Dimitris" pid="75/5309">Dimitris Gavrilis</na></co>
+<co c="0"><na f="g/Giatrakos:Nikos" pid="17/1242">Nikos Giatrakos</na></co>
+<co c="0"><na f="g/Grasso:Raffaele" pid="96/7770">Raffaele Grasso</na></co>
+<co c="1"><na f="i/Igglezakis:Antonios" pid="149/0131">Antonios Igglezakis</na></co>
+<co c="0"><na f="i/Ioannou:Ekaterini" pid="68/3366">Ekaterini Ioannou</na></co>
+<co c="0"><na f="k/Kamp:Michael" pid="133/7744">Michael Kamp</na></co>
+<co c="0"><na f="k/Katzouris:Nikos" pid="135/6786">Nikos Katzouris</na></co>
+<co c="0"><na f="k/Keren:Daniel" pid="16/3921">Daniel Keren</na></co>
+<co c="0"><na f="k/Kettner:Claus=Peter" pid="295/9558">Claus-Peter Kettner</na></co>
+<co c="0"><na f="k/Kladis:Dimitris" pid="311/0739">Dimitris Kladis</na></co>
+<co c="0"><na f="k/Klinkenberg:Ralf" pid="k/RalfKlinkenberg">Ralf Klinkenberg</na></co>
+<co c="0"><na f="k/Konidaris:Aris" pid="276/5085">Aris Konidaris</na></co>
+<co c="0" n="2"><na f="k/Kontaxakis:Antonis" pid="261/2671">Antonis Kontaxakis</na><na>Antonios Kontaxakis</na></co>
+<co c="0"><na f="k/Kotidis:Yannis" pid="k/YannisKotidis">Yannis Kotidis</na></co>
+<co c="0"><na f="k/Kougioumtzi:Eleni" pid="295/9453">Eleni Kougioumtzi</na></co>
+<co c="0"><na f="k/Krizan:Tomislav" pid="165/6881">Tomislav Krizan</na></co>
+<co c="0"><na f="l/Leon:Miguel_Ponce_de" pid="74/4153">Miguel Ponce de Leon</na></co>
+<co c="0"><na f="m/Manikaki:Vasiliki" pid="159/7930">Vasiliki Manikaki</na></co>
+<co c="0" n="2"><na f="m/Maragoudakis:Ioannis" pid="45/1589">Ioannis Maragoudakis</na><na>Ioannis Maragkoudakis</na></co>
+<co c="0"><na f="m/McGregor_0001:Andrew" pid="51/1169">Andrew McGregor 0001</na></co>
+<co c="0"><na f="m/Mock:Michael" pid="64/5523">Michael Mock</na></co>
+<co c="0"><na f="m/Montagud:Arnau" pid="122/8910">Arnau Montagud</na></co>
+<co c="0"><na f="m/Moumoutzis:Nektarios" pid="65/4105">Nektarios Moumoutzis</na></co>
+<co c="0"><na f="n/Noack:Kathleen" pid="295/9579">Kathleen Noack</na></co>
+<co c="0"><na f="n/Ntoulias:Emmanouil" pid="289/9813">Emmanouil Ntoulias</na></co>
+<co c="0" n="2"><na f="p/Paliouras:Georgios" pid="55/2039">Georgios Paliouras</na><na>George Paliouras</na></co>
+<co c="0"><na f="p/Pallikarakis:Nicolas" pid="00/9178">Nicolas Pallikarakis</na></co>
+<co c="0"><na f="p/Papadopoulos_0001:Stavros" pid="82/75">Stavros Papadopoulos 0001</na></co>
+<co c="0"><na f="p/Papamanthou:Charalampos" pid="p/CharalamposPapamanthou">Charalampos Papamanthou</na></co>
+<co c="0"><na f="p/Papapetrou:Odysseas" pid="p/OdysseasPapapetrou">Odysseas Papapetrou</na></co>
+<co c="0"><na f="p/Papatheodorou:Christos" pid="91/4324">Christos Papatheodorou</na></co>
+<co c="0"><na f="p/Pappas:Nikos" pid="07/3891">Nikos Pappas</na></co>
+<co c="0"><na f="p/Pelikan:Elke" pid="295/9619">Elke Pelikan</na></co>
+<co c="0"><na f="p/Petrakis:Euripides_G=_M=" pid="91/2869">Euripides G. M. Petrakis</na></co>
+<co c="0"><na f="r/Roussopoulos:Nick" pid="r/NickRoussopoulos">Nick Roussopoulos</na></co>
+<co c="0"><na f="s/Sacharidis:Dimitris" pid="19/4428">Dimitris Sacharidis</na></co>
+<co c="0"><na f="s/Sagy:Guy" pid="27/6566">Guy Sagy</na></co>
+<co c="0"><na f="s/Samoladas:Vasilis" pid="17/5839">Vasilis Samoladas</na></co>
+<co c="0"><na f="s/Schuster:Assaf" pid="s/AssafSchuster">Assaf Schuster</na></co>
+<co c="0"><na f="s/Sellis:Timos_K=" pid="s/TimosKSellis">Timos K. Sellis</na></co>
+<co c="0"><na f="s/Sharfman:Izchak" pid="07/1209">Izchak Sharfman</na></co>
+<co c="0"><na f="s/Simitsis:Alkis" pid="s/ASimitsis">Alkis Simitsis</na></co>
+<co c="0"><na f="s/Sismanis:Yannis" pid="65/5468">Yannis Sismanis</na></co>
+<co c="0"><na f="s/Skarbovsky:Inna" pid="65/2329">Inna Skarbovsky</na></co>
+<co c="0"><na f="s/Sotiriadis:Stelios" pid="17/7550">Stelios Sotiriadis</na></co>
+<co c="0"><na f="s/Stajcer:Marko" pid="181/4901">Marko Stajcer</na></co>
+<co c="0"><na f="s/Stamatakis_0002:George" pid="40/1572-2">George Stamatakis 0002</na></co>
+<co c="0"><na f="s/Stoumpos:Vassilis" pid="40/800">Vassilis Stoumpos</na></co>
+<co c="0"><na f="t/Tartaglia:Gian_Gaetano" pid="136/5663">Gian Gaetano Tartaglia</na></co>
+<co c="0"><na f="t/Temme:Fabian" pid="225/9460">Fabian Temme</na></co>
+<co c="0"><na f="t/Theodoridis:Yannis" pid="t/YannisTheodoridis">Yannis Theodoridis</na></co>
+<co c="0"><na f="t/Torok:Mate" pid="276/5033">Mate Torok</na></co>
+<co c="0"><na f="v/Valencia:Alfonso" pid="49/1173">Alfonso Valencia</na></co>
+<co c="0"><na f="v/Vassalos:Vasilis" pid="v/VVassalos">Vasilis Vassalos</na></co>
+<co c="0"><na f="v/Vassilakis:Vassilis" pid="30/6625">Vassilis Vassilakis</na></co>
+<co c="0"><na f="v/Vassiliou:Yannis" pid="v/YannisVassiliou">Yannis Vassiliou</na></co>
+<co c="0"><na f="v/Vodas:Marios" pid="96/10440">Marios Vodas</na></co>
+<co c="0"><na f="v/Volarevic:Marijo" pid="57/4027">Marijo Volarevic</na></co>
+<co c="0"><na f="x/Xanthaki:Chara" pid="06/713">Chara Xanthaki</na></co>
+<co c="0"><na f="y/Yaqub:Edwin" pid="59/10810">Edwin Yaqub</na></co>
+<co c="0"><na f="y/Yi_0001:Ke" pid="43/1219-1">Ke Yi 0001</na></co>
+<co c="0"><na f="y/Yom=Tov:Jonathan" pid="181/4783">Jonathan Yom-Tov</na></co>
+<co c="0" n="2"><na f="z/Zissis:Dimitrios" pid="38/838">Dimitrios Zissis</na><na>Dimitris Zissis</na></co>
+</coauthors>
+</dblpperson>

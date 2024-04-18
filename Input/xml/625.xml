@@ -1,0 +1,1479 @@
+<dblpperson name="Norman May" pid="89/6071" n="88">
+<person key="homepages/89/6071" mdate="2022-04-12">
+<author pid="89/6071">Norman May</author>
+<note type="affiliation">SAP SE, Walldorf, Germany</note>
+<url>https://orcid.org/0000-0001-9671-0856</url>
+</person>
+<r><inproceedings key="conf/cidr/May0DFD23" mdate="2023-07-19">
+<author pid="89/6071">Norman May</author>
+<author pid="82/8248">Daniel Ritter 0001</author>
+<author pid="351/9679">Andre Dossinger</author>
+<author pid="186/8776">Christian Faerber</author>
+<author pid="62/5784">S&#252;leyman Sirri Demirsoy</author>
+<title>DASH: Asynchronous Hardware Data Processing Services.</title>
+<year>2023</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2023/papers/p6-may.pdf</ee>
+<crossref>conf/cidr/2023</crossref>
+<url>db/conf/cidr/cidr2023.html#May0DFD23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpga/MoghaddamfarMFL23" mdate="2023-09-30">
+<author orcid="0000-0002-6617-6944" pid="266/6823">Mehdi Moghaddamfar</author>
+<author orcid="0000-0001-9671-0856" pid="89/6071">Norman May</author>
+<author orcid="0000-0003-0053-5403" pid="186/8776">Christian F&#228;rber</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>A Study of Early Aggregation in Database Query Processing on FPGAs.</title>
+<pages>55-65</pages>
+<year>2023</year>
+<booktitle>FPGA</booktitle>
+<ee>https://doi.org/10.1145/3543622.3573194</ee>
+<crossref>conf/fpga/2023</crossref>
+<url>db/conf/fpga/fpga2023.html#MoghaddamfarMFL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MayT23" mdate="2023-06-15">
+<author orcid="0000-0001-9671-0856" pid="89/6071">Norman May</author>
+<author orcid="0000-0002-0416-7022" pid="t/NesimeTatbul">Nesime Tatbul</author>
+<title>International Workshop on Data Management on New Hardware (DaMoN).</title>
+<pages>299-300</pages>
+<year>2023</year>
+<booktitle>SIGMOD Conference Companion</booktitle>
+<ee>https://doi.org/10.1145/3555041.3590816</ee>
+<crossref>conf/sigmod/2023c</crossref>
+<url>db/conf/sigmod/sigmod2023c.html#MayT23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/simod/LaschLMSS23" mdate="2023-07-21">
+<author orcid="0000-0001-6491-001X" pid="243/2617">Robert Lasch</author>
+<author orcid="0009-0006-8775-0446" pid="57/5597">Thomas Legler</author>
+<author orcid="0000-0001-9671-0856" pid="89/6071">Norman May</author>
+<author orcid="0009-0004-4188-1454" pid="200/5322">Bernhard Scheirle</author>
+<author orcid="0000-0003-1608-7721" pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<title>Cooperative Memory Management for Table and Temporary Data.</title>
+<pages>2:1-2:5</pages>
+<year>2023</year>
+<booktitle>SiMoD@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3596225.3596230</ee>
+<crossref>conf/simod/2023</crossref>
+<url>db/conf/simod/simod2023.html#LaschLMSS23</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/damon/2023" mdate="2023-06-22">
+<editor pid="89/6071">Norman May</editor>
+<editor pid="t/NesimeTatbul">Nesime Tatbul</editor>
+<title>Proceedings of the 19th International Workshop on Data Management on New Hardware, DaMoN 2023, Seattle, WA, USA, June 18-23, 2023</title>
+<booktitle>DaMoN</booktitle>
+<publisher>ACM</publisher>
+<year>2023</year>
+<ee>https://doi.org/10.1145/3592980</ee>
+<url>db/conf/damon/damon2023.html</url>
+</proceedings>
+</r>
+<r><article key="journals/dbsk/BachASBLRHSSRGMHFRJMJSSSSHKKSL22" mdate="2023-02-28">
+<author orcid="0000-0002-9993-2814" pid="152/9554">Thomas Bach</author>
+<author pid="00/336">Artur Andrzejak 0001</author>
+<author pid="177/4361">Changyun Seo</author>
+<author pid="340/1274">Christian Bierstedt</author>
+<author pid="41/1981">Christian Lemke</author>
+<author pid="82/8248">Daniel Ritter 0001</author>
+<author pid="177/4359">Dongwon Hwang</author>
+<author pid="340/1130">Erda Sheshi</author>
+<author pid="320/7532">Felix Schabernack</author>
+<author pid="121/4087">Frank Renkes</author>
+<author pid="136/7868">Gordon Gaumnitz</author>
+<author pid="340/1137">Jakob Martens</author>
+<author pid="89/2103">Lars H&#246;mke</author>
+<author pid="49/2990">Michael Felderer</author>
+<author pid="69/1420-1">Michael Rudolf 0001</author>
+<author pid="284/4174">Neetha Jambigi</author>
+<author pid="89/6071">Norman May</author>
+<author pid="340/1645">Robin Joy</author>
+<author pid="340/1360">Ruben Scheja</author>
+<author pid="223/6319">Sascha Schwedes</author>
+<author pid="340/1282">Sebastian Seibel</author>
+<author pid="34/137">Sebastian Seifert</author>
+<author pid="45/2399">Stefan Haas</author>
+<author pid="77/6748">Stephan Kraft</author>
+<author pid="59/2323">Thomas Kroll</author>
+<author pid="135/3664">Tobias Scheuer</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>Testing Very Large Database Management Systems: The Case of SAP HANA.</title>
+<pages>195-215</pages>
+<year>2022</year>
+<month>November</month>
+<volume>22</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s13222-022-00426-x</ee>
+<url>db/journals/dbsk/dbsk22.html#BachASBLRHSSRGMHFRJMJSSSSHKKSL22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LaschLMSS22" mdate="2023-10-23">
+<author pid="243/2617">Robert Lasch</author>
+<author pid="57/5597">Thomas Legler</author>
+<author pid="89/6071">Norman May</author>
+<author pid="200/5322">Bernhard Scheirle</author>
+<author pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<title>Cost Modelling for Optimal Data Placement in Heterogeneous Main Memory.</title>
+<pages>2867-2880</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p2867-lasch.pdf</ee>
+<ee>https://doi.org/10.14778/3551793.3551837</ee>
+<url>db/journals/pvldb/pvldb15.html#LaschLMSS22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChiosaMMAM22" mdate="2023-10-28">
+<author pid="263/7109">Monica Chiosa</author>
+<author orcid="0000-0003-1576-417X" pid="266/5766">Fabio Maschi</author>
+<author pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="89/6071">Norman May</author>
+<title>Hardware Acceleration of Compression and Encryption in SAP HANA.</title>
+<pages>3277-3291</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p3277-chiosa.pdf</ee>
+<ee>https://doi.org/10.14778/3554821.3554822</ee>
+<url>db/journals/pvldb/pvldb15.html#ChiosaMMAM22</url>
+</article>
+</r>
+<r><article key="journals/vldb/BangMPB22" mdate="2023-08-28">
+<author orcid="0000-0003-0826-8645" pid="257/5532">Tiemo Bang</author>
+<author pid="89/6071">Norman May</author>
+<author pid="p/IliaPetrov">Ilia Petrov 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>The full story of 1000 cores.</title>
+<pages>1185-1213</pages>
+<year>2022</year>
+<volume>31</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00778-022-00742-4</ee>
+<ee>https://www.wikidata.org/entity/Q113904883</ee>
+<url>db/journals/vldb/vldb31.html#BangMPB22</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/BrendleWVMS0MG22" mdate="2022-04-07">
+<author pid="224/6533">Michael Brendle</author>
+<author pid="217/5457">Nick Weber</author>
+<author pid="205/3780">Mahammad Valiyev</author>
+<author pid="89/6071">Norman May</author>
+<author orcid="0000-0003-0041-9701" pid="87/9883">Robert Schulze</author>
+<author pid="92/6505">Alexander B&#246;hm 0002</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<author pid="73/6114">Michael Grossniklaus</author>
+<title>SAHARA: Memory Footprint Reduction of Cloud Databases with Automated Table Partitioning.</title>
+<pages>1:13-1:26</pages>
+<year>2022</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.5441/002/edbt.2022.02</ee>
+<crossref>conf/edbt/2022</crossref>
+<url>db/conf/edbt/edbt2022.html#BrendleWVMS0MG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/LaschMMDFS22" mdate="2022-04-07">
+<author pid="243/2617">Robert Lasch</author>
+<author pid="266/6823">Mehdi Moghaddamfar</author>
+<author pid="89/6071">Norman May</author>
+<author pid="62/5784">S&#252;leyman Sirri Demirsoy</author>
+<author pid="186/8776">Christian F&#228;rber</author>
+<author pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<title>Bandwidth-optimal Relational Joins on FPGAs.</title>
+<pages>1:27-1:39</pages>
+<year>2022</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.5441/002/edbt.2022.03</ee>
+<crossref>conf/edbt/2022</crossref>
+<url>db/conf/edbt/edbt2022.html#LaschMMDFS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fccm/MoghaddamfarFML22" mdate="2023-09-30">
+<author pid="266/6823">Mehdi Moghaddamfar</author>
+<author pid="186/8776">Christian F&#228;rber</author>
+<author pid="89/6071">Norman May</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>FPGA-Based Database Query Processing on Arbitrarily Wide Tables.</title>
+<pages>1</pages>
+<year>2022</year>
+<booktitle>FCCM</booktitle>
+<ee>https://doi.org/10.1109/FCCM53951.2022.9786091</ee>
+<crossref>conf/fccm/2022</crossref>
+<url>db/conf/fccm/fccm2022.html#MoghaddamfarFML22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BlanasM22" mdate="2022-06-14">
+<author pid="65/5338">Spyros Blanas</author>
+<author pid="89/6071">Norman May</author>
+<title>International Workshop on Data Management on New Hardware (DaMoN).</title>
+<pages>2558-2559</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3524080</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#BlanasM22</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/damon/2022" mdate="2022-06-15">
+<editor pid="65/5338">Spyros Blanas</editor>
+<editor pid="89/6071">Norman May</editor>
+<title>International Conference on Management of Data, DaMoN 2022, Philadelphia, PA, USA, 13 June 2022</title>
+<publisher>ACM</publisher>
+<booktitle>DaMoN</booktitle>
+<year>2022</year>
+<isbn>978-1-4503-9378-2</isbn>
+<ee>https://doi.org/10.1145/3533737</ee>
+<url>db/conf/damon/damon2022.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/btw/BrendleWVMS0MG21" mdate="2021-04-09">
+<author pid="224/6533">Michael Brendle</author>
+<author pid="217/5457">Nick Weber</author>
+<author pid="205/3780">Mahammad Valiyev</author>
+<author pid="89/6071">Norman May</author>
+<author orcid="0000-0003-0041-9701" pid="87/9883">Robert Schulze</author>
+<author pid="92/6505">Alexander B&#246;hm 0002</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<author pid="73/6114">Michael Grossniklaus</author>
+<title>Precise, Compact, and Fast Data Access Counters for Automated Physical Database Design.</title>
+<pages>79-100</pages>
+<year>2021</year>
+<booktitle>BTW</booktitle>
+<ee>https://doi.org/10.18420/btw2021-04</ee>
+<crossref>conf/btw/2021</crossref>
+<url>db/conf/btw/btw2021.html#BrendleWVMS0MG21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/BangMPB21" mdate="2022-07-18">
+<author pid="257/5532">Tiemo Bang</author>
+<author pid="89/6071">Norman May</author>
+<author pid="p/IliaPetrov">Ilia Petrov 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>AnyDB: An Architecture-less DBMS for Any Workload.</title>
+<year>2021</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2021/papers/cidr2021_paper10.pdf</ee>
+<crossref>conf/cidr/2021</crossref>
+<url>db/conf/cidr/cidr2021.html#BangMPB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/MoghaddamfarFLM21" mdate="2023-09-30">
+<author pid="266/6823">Mehdi Moghaddamfar</author>
+<author pid="186/8776">Christian F&#228;rber</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="89/6071">Norman May</author>
+<author pid="29/414">Akash Kumar 0001</author>
+<title>Resource-Efficient Database Query Processing on FPGAs.</title>
+<pages>4:1-4:8</pages>
+<year>2021</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3465998.3466006</ee>
+<crossref>conf/damon/2021</crossref>
+<url>db/conf/damon/damon2021.html#MoghaddamfarFLM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HertzschuchMLMW21" mdate="2023-09-30">
+<author pid="257/5494">Axel Hertzschuch</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="89/6071">Norman May</author>
+<author pid="12/4465">Florian Wolf</author>
+<author pid="295/3245">Lars Fricke</author>
+<title>Small Selectivities Matter: Lifting the Burden of Empty Samples.</title>
+<pages>697-709</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3452805</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#HertzschuchMLMW21</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dbpl/2021" mdate="2021-11-02">
+<editor pid="143/6186">Amir Shaikhha</editor>
+<editor pid="89/6071">Norman May</editor>
+<title>DBPL '21: The 18th International Symposium on Database Programming Languages, Copenhagen, Denmark, 16 August 2021</title>
+<publisher>ACM</publisher>
+<booktitle>DBPL</booktitle>
+<year>2021</year>
+<isbn>978-1-4503-8646-3</isbn>
+<ee>https://doi.org/10.1145/3475726</ee>
+<url>db/conf/dbpl/dbpl2021.html</url>
+</proceedings>
+</r>
+<r><article key="journals/vldb/LaschODMDS20" mdate="2021-05-14">
+<author orcid="0000-0001-6491-001X" pid="243/2617">Robert Lasch</author>
+<author pid="135/3665">Ismail Oukid</author>
+<author pid="d/RomanDementiev">Roman Dementiev</author>
+<author pid="89/6071">Norman May</author>
+<author pid="62/5784">S&#252;leyman Sirri Demirsoy</author>
+<author pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<title>Faster &amp; strong: string dictionary compression using sampling and fast vectorized decompression.</title>
+<pages>1263-1285</pages>
+<year>2020</year>
+<volume>29</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.1007/s00778-020-00620-x</ee>
+<url>db/journals/vldb/vldb29.html#LaschODMDS20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/NollTMB20" mdate="2020-03-12">
+<author pid="67/1152">Stefan Noll</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="89/6071">Norman May</author>
+<author pid="92/6505">Alexander Boehm 0002</author>
+<title>Shared Load(ing): Efficient Bulk Loading into Optimized Storage.</title>
+<year>2020</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2020/papers/p2-noll-cidr20.pdf</ee>
+<crossref>conf/cidr/2020</crossref>
+<url>db/conf/cidr/cidr2020.html#NollTMB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/NollTM020" mdate="2020-06-07">
+<author pid="67/1152">Stefan Noll</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="89/6071">Norman May</author>
+<author pid="92/6505">Alexander B&#246;hm 0002</author>
+<title>Analyzing memory accesses with modern processors.</title>
+<pages>1:1-1:9</pages>
+<year>2020</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3399666.3399896</ee>
+<crossref>conf/damon/2020</crossref>
+<url>db/conf/damon/damon2020.html#NollTM020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/BangMPB20" mdate="2022-03-21">
+<author pid="257/5532">Tiemo Bang</author>
+<author pid="89/6071">Norman May</author>
+<author pid="p/IliaPetrov">Ilia Petrov 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>The tale of 1000 Cores: an evaluation of concurrency control on real(ly) large multi-socket hardware.</title>
+<pages>3:1-3:9</pages>
+<year>2020</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3399666.3399910</ee>
+<crossref>conf/damon/2020</crossref>
+<url>db/conf/damon/damon2020.html#BangMPB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/LaschDMRFS20" mdate="2021-01-21">
+<author orcid="0000-0001-6491-001X" pid="243/2617">Robert Lasch</author>
+<author pid="62/5784">S&#252;leyman Sirri Demirsoy</author>
+<author pid="89/6071">Norman May</author>
+<author pid="266/6909">Veeraraghavan Ramamurthy</author>
+<author pid="186/8776">Christian F&#228;rber</author>
+<author pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<title>Accelerating re-pair compression using FPGAs.</title>
+<pages>8:1-8:8</pages>
+<year>2020</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3399666.3399931</ee>
+<crossref>conf/damon/2020</crossref>
+<url>db/conf/damon/damon2020.html#LaschDMRFS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/MohsenMFB20" mdate="2020-06-07">
+<author pid="185/5300">Mahmoud Mohsen</author>
+<author pid="89/6071">Norman May</author>
+<author pid="186/8776">Christian F&#228;rber</author>
+<author pid="98/11442">David Broneske</author>
+<title>FPGA-Accelerated compression of integer vectors.</title>
+<pages>9:1-9:10</pages>
+<year>2020</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3399666.3399932</ee>
+<crossref>conf/damon/2020</crossref>
+<url>db/conf/damon/damon2020.html#MohsenMFB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/MoghaddamfarFLM20" mdate="2023-09-30">
+<author pid="266/6823">Mehdi Moghaddamfar</author>
+<author pid="186/8776">Christian F&#228;rber</author>
+<author orcid="0000-0001-8107-2775" pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="89/6071">Norman May</author>
+<title>Comparative analysis of OpenCL and RTL for sort-merge primitives on FPGA.</title>
+<pages>11:1-11:7</pages>
+<year>2020</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3399666.3399897</ee>
+<crossref>conf/damon/2020</crossref>
+<url>db/conf/damon/damon2020.html#MoghaddamfarFLM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/HavensteinLMMS20" mdate="2021-01-29">
+<author pid="261/1899">Diego Havenstein</author>
+<author pid="261/2073">Peter Lysakovski</author>
+<author pid="89/6071">Norman May</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<author pid="48/2024">Gabriele Steidl</author>
+<title>Fast Entropy Maximization for Selectivity Estimation of Conjunctive Predicates on CPUs and GPUs.</title>
+<pages>546-554</pages>
+<year>2020</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2020.65</ee>
+<crossref>conf/edbt/2020</crossref>
+<url>db/conf/edbt/edbt2020.html#HavensteinLMMS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BangOMPB20" mdate="2022-03-21">
+<author pid="257/5532">Tiemo Bang</author>
+<author pid="135/3665">Ismail Oukid</author>
+<author pid="89/6071">Norman May</author>
+<author pid="p/IliaPetrov">Ilia Petrov 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>Robust Performance of Main Memory Data Structures by Configuration.</title>
+<pages>1651-1666</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389725</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#BangOMPB20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-02258" mdate="2022-03-21">
+<author pid="257/5532">Tiemo Bang</author>
+<author pid="89/6071">Norman May</author>
+<author pid="p/IliaPetrov">Ilia Petrov 0001</author>
+<author pid="45/1559">Carsten Binnig</author>
+<title>AnyDB: An Architecture-less DBMS for Any Workload.</title>
+<year>2020</year>
+<volume>abs/2009.02258</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.02258</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-02258</url>
+</article>
+</r>
+<r><article key="journals/debu/NollM0MT19" mdate="2020-03-10">
+<author pid="67/1152">Stefan Noll</author>
+<author pid="89/6071">Norman May</author>
+<author pid="92/6505">Alexander B&#246;hm 0002</author>
+<author pid="222/6290">Jan M&#252;hlig</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>From the Application to the CPU: Holistic Resource Management for Modern Database Management Systems.</title>
+<pages>10-21</pages>
+<year>2019</year>
+<volume>42</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A19mar/p10.pdf</ee>
+<url>db/journals/debu/debu42.html#NollM0MT19</url>
+</article>
+</r>
+<r><article key="journals/vldb/PsaropoulosLMA19" mdate="2019-09-05">
+<author orcid="0000-0003-4173-2059" pid="209/7554">Georgios Psaropoulos</author>
+<author pid="57/5597">Thomas Legler</author>
+<author pid="89/6071">Norman May</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Interleaving with coroutines: a systematic and practical approach to hide memory latency in index joins.</title>
+<pages>451-471</pages>
+<year>2019</year>
+<volume>28</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00778-018-0533-6</ee>
+<url>db/journals/vldb/vldb28.html#PsaropoulosLMA19</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/LaschODMDS19" mdate="2021-01-21">
+<author orcid="0000-0001-6491-001X" pid="243/2617">Robert Lasch</author>
+<author pid="135/3665">Ismail Oukid</author>
+<author pid="d/RomanDementiev">Roman Dementiev</author>
+<author pid="89/6071">Norman May</author>
+<author pid="62/5784">S&#252;leyman Sirri Demirsoy</author>
+<author pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<title>Fast &amp; Strong: The Case of Compressed String Dictionaries on Modern CPUs.</title>
+<pages>4:1-4:10</pages>
+<year>2019</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3329785.3329924</ee>
+<crossref>conf/damon/2019</crossref>
+<url>db/conf/damon/damon2019.html#LaschODMDS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/PsaropoulosOLMA19" mdate="2019-06-23">
+<author pid="209/7554">Georgios Psaropoulos</author>
+<author pid="135/3665">Ismail Oukid</author>
+<author pid="57/5597">Thomas Legler</author>
+<author pid="89/6071">Norman May</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Bridging the Latency Gap between NVM and DRAM for Latency-bound Operations.</title>
+<pages>13:1-13:8</pages>
+<year>2019</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3329785.3329917</ee>
+<crossref>conf/damon/2019</crossref>
+<url>db/conf/damon/damon2019.html#PsaropoulosOLMA19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-01005" mdate="2019-01-31">
+<author pid="82/8248">Daniel Ritter 0001</author>
+<author pid="26/8342">Fredrik Nordvall Forsberg</author>
+<author pid="r/StefanieRinderle">Stefanie Rinderle-Ma</author>
+<author pid="89/6071">Norman May</author>
+<title>Catalog of Optimization Strategies and Realizations for Composed Integration Patterns.</title>
+<year>2019</year>
+<volume>abs/1901.01005</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.01005</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-01005</url>
+</article>
+</r>
+<r><article key="journals/pvldb/WolfBMWSG18" mdate="2020-04-25">
+<author pid="12/4465">Florian Wolf</author>
+<author pid="224/6533">Michael Brendle</author>
+<author pid="89/6071">Norman May</author>
+<author pid="58/9308">Paul R. Willems</author>
+<author pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<author pid="73/6114">Michael Grossniklaus</author>
+<title>Robustness Metrics for Relational Query Execution Plans.</title>
+<pages>1360-1372</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1360-wolf.pdf</ee>
+<ee>https://doi.org/10.14778/3236187.3236191</ee>
+<url>db/journals/pvldb/pvldb11.html#WolfBMWSG18</url>
+</article>
+</r>
+<r><inproceedings key="conf/debs/0001MFR18" mdate="2020-10-25">
+<author orcid="0000-0001-6146-3365" pid="82/8248">Daniel Ritter 0001</author>
+<author pid="89/6071">Norman May</author>
+<author pid="26/8342">Fredrik Nordvall Forsberg</author>
+<author pid="r/StefanieRinderle">Stefanie Rinderle-Ma</author>
+<title>Optimization Strategies for Integration Pattern Compositions.</title>
+<pages>88-99</pages>
+<year>2018</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/3210284.3210295</ee>
+<crossref>conf/debs/2018</crossref>
+<url>db/conf/debs/debs2018.html#0001MFR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/NollTMB18" mdate="2023-03-24">
+<author pid="67/1152">Stefan Noll</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="89/6071">Norman May</author>
+<author pid="92/6505">Alexander B&#246;hm 0002</author>
+<title>Accelerating Concurrent Workloads with CPU Cache Partitioning.</title>
+<pages>437-448</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00047</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00047</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#NollTMB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/WolfMWS18" mdate="2018-11-21">
+<author pid="12/4465">Florian Wolf</author>
+<author pid="89/6071">Norman May</author>
+<author pid="58/9308">Paul R. Willems</author>
+<author pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<title>On the Calculation of Optimality Ranges for Relational Query Execution Plans.</title>
+<pages>663-675</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3183742</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#WolfMWS18</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/edbt/2018" mdate="2020-08-28">
+<editor pid="b/MichaelHBohlen">Michael H. B&#246;hlen</editor>
+<editor pid="26/5252">Reinhard Pichler</editor>
+<editor pid="89/6071">Norman May</editor>
+<editor pid="r/ERahm">Erhard Rahm</editor>
+<editor pid="94/2844">Shan-Hung Wu</editor>
+<editor pid="h/KatjaHose">Katja Hose</editor>
+<title>Proceedings of the 21st International Conference on Extending Database Technology, EDBT 2018, Vienna, Austria, March 26-29, 2018.</title>
+<booktitle>EDBT</booktitle>
+<publisher>OpenProceedings.org</publisher>
+<year>2018</year>
+<isbn>978-3-89318-078-3</isbn>
+<url>db/conf/edbt/edbt2018.html</url>
+</proceedings>
+</r>
+<r><article key="journals/is/RitterMR17" mdate="2020-10-26">
+<author orcid="0000-0001-6146-3365" pid="82/8248">Daniel Ritter 0001</author>
+<author pid="89/6071">Norman May</author>
+<author pid="r/StefanieRinderle">Stefanie Rinderle-Ma</author>
+<title>Patterns for emerging application integration scenarios: A survey.</title>
+<pages>36-57</pages>
+<year>2017</year>
+<volume>67</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2017.03.003</ee>
+<url>db/journals/is/is67.html#RitterMR17</url>
+</article>
+</r>
+<r><article key="journals/pvldb/PsaropoulosLMA17" mdate="2020-04-25">
+<author orcid="0000-0003-4173-2059" pid="209/7554">Georgios Psaropoulos</author>
+<author pid="57/5597">Thomas Legler</author>
+<author pid="89/6071">Norman May</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Interleaving with Coroutines: A Practical Approach for Robust Index Joins.</title>
+<pages>230-242</pages>
+<year>2017</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p230-psaropoulos.pdf</ee>
+<ee>https://doi.org/10.14778/3149193.3149202</ee>
+<url>db/journals/pvldb/pvldb11.html#PsaropoulosLMA17</url>
+</article>
+</r>
+<r><article key="journals/vldb/FinisBK0MF17" mdate="2018-11-30">
+<author orcid="0000-0001-5508-3841" pid="127/0410">Jan Finis</author>
+<author pid="118/6621">Robert Brunel</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="89/6071">Norman May</author>
+<author pid="36/7116">Franz F&#228;rber</author>
+<title>Order Indexes: supporting highly dynamic hierarchical data in relational main-memory database systems.</title>
+<pages>55-80</pages>
+<year>2017</year>
+<volume>26</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-016-0436-3</ee>
+<url>db/journals/vldb/vldb26.html#FinisBK0MF17</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/May0L17" mdate="2023-07-04">
+<author pid="89/6071">Norman May</author>
+<author pid="92/6505">Alexander B&#246;hm 0002</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>SAP HANA - The Evolution of an In-Memory DBMS from Pure OLAP Processing Towards Mixed Workloads.</title>
+<pages>545-563</pages>
+<year>2017</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2017</crossref>
+<url>db/conf/btw/btw2017.html#May0L17</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/656</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/RitterDMR17" mdate="2020-10-25">
+<author orcid="0000-0001-6146-3365" pid="82/8248">Daniel Ritter 0001</author>
+<author pid="201/4785">Jonas Dann</author>
+<author pid="89/6071">Norman May</author>
+<author pid="r/StefanieRinderle">Stefanie Rinderle-Ma</author>
+<title>Hardware Accelerated Application Integration Processing: Industry Paper.</title>
+<pages>215-226</pages>
+<year>2017</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/3093742.3093911</ee>
+<crossref>conf/debs/2017</crossref>
+<url>db/conf/debs/debs2017.html#RitterDMR17</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/BrunelMK16" mdate="2020-04-25">
+<author pid="118/6621">Robert Brunel</author>
+<author pid="89/6071">Norman May</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Index-Assisted Hierarchical Computations in Main-Memory RDBMS.</title>
+<pages>1065-1076</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p1065-brunel.pdf</ee>
+<ee>https://doi.org/10.14778/2994509.2994524</ee>
+<url>db/journals/pvldb/pvldb9.html#BrunelMK16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ScheuerMBS16" mdate="2020-04-25">
+<author pid="135/3664">Tobias Scheuer</author>
+<author pid="89/6071">Norman May</author>
+<author pid="92/6505">Alexander B&#246;hm 0002</author>
+<author pid="06/9676">Daniel Scheibli</author>
+<title>JexLog: A Sonar for the Abyss.</title>
+<pages>1493-1496</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p1493-scheuer.pdf</ee>
+<ee>https://doi.org/10.14778/3007263.3007292</ee>
+<url>db/journals/pvldb/pvldb9.html#ScheuerMBS16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/PsaroudakisSMSA16" mdate="2020-04-25">
+<author pid="133/9910">Iraklis Psaroudakis</author>
+<author pid="135/3664">Tobias Scheuer</author>
+<author pid="89/6071">Norman May</author>
+<author pid="166/8369">Abdelkader Sellami</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Adaptive NUMA-aware data placement and task scheduling for analytical workloads in main-memory column-stores.</title>
+<pages>37-48</pages>
+<year>2016</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p37-psaroudakis.pdf</ee>
+<ee>https://doi.org/10.14778/3015274.3015275</ee>
+<url>db/journals/pvldb/pvldb10.html#PsaroudakisSMSA16</url>
+</article>
+</r>
+<r><inproceedings key="conf/debs/RitterMSR16" mdate="2020-10-25">
+<author orcid="0000-0001-6146-3365" pid="82/8248">Daniel Ritter 0001</author>
+<author pid="89/6071">Norman May</author>
+<author pid="64/1395">Kai Sachs</author>
+<author pid="r/StefanieRinderle">Stefanie Rinderle-Ma</author>
+<title>Benchmarking integration pattern implementations.</title>
+<pages>125-136</pages>
+<year>2016</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/2933267.2933269</ee>
+<crossref>conf/debs/2016</crossref>
+<url>db/conf/debs/debs2016.html#RitterMSR16</url>
+</inproceedings>
+</r>
+<r><article key="journals/dbsk/May0BL15" mdate="2017-05-18">
+<author pid="89/6071">Norman May</author>
+<author pid="92/6505">Alexander B&#246;hm 0002</author>
+<author pid="164/7241">Meinolf Block</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>Managed Query Processing within the SAP HANA Database Platform.</title>
+<pages>141-152</pages>
+<year>2015</year>
+<volume>15</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s13222-015-0185-2</ee>
+<url>db/journals/dbsk/dbsk15.html#May0BL15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/FinisBK0MF15" mdate="2020-04-25">
+<author pid="127/0410">Jan Finis</author>
+<author pid="118/6621">Robert Brunel</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="89/6071">Norman May</author>
+<author pid="36/7116">Franz F&#228;rber</author>
+<title>Indexing Highly Dynamic Hierarchical Data.</title>
+<pages>986-997</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p986-finis.pdf</ee>
+<ee>https://doi.org/10.14778/2794367.2794369</ee>
+<url>db/journals/pvldb/pvldb8.html#FinisBK0MF15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/PsaroudakisSMSA15" mdate="2020-04-25">
+<author pid="133/9910">Iraklis Psaroudakis</author>
+<author pid="135/3664">Tobias Scheuer</author>
+<author pid="89/6071">Norman May</author>
+<author pid="166/8369">Abdelkader Sellami</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Scaling Up Concurrent Main-Memory Column-Store Scans: Towards Adaptive NUMA-aware Data and Task Placement.</title>
+<pages>1442-1453</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1442-psaroudakis.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824043</ee>
+<url>db/journals/pvldb/pvldb8.html#PsaroudakisSMSA15</url>
+</article>
+</r>
+<r><inproceedings key="conf/data/KernertMHWL15" mdate="2018-08-07">
+<author pid="147/2923">David Kernert</author>
+<author pid="89/6071">Norman May</author>
+<author pid="166/4106">Michael Hladik</author>
+<author pid="30/5641-5">Klaus Werner 0005</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>From Static to Agile - Interactive Particle Physics Analysis in the SAP HANA DB.</title>
+<pages>16-25</pages>
+<year>2015</year>
+<booktitle>DATA</booktitle>
+<ee>https://doi.org/10.5220/0005503700160025</ee>
+<crossref>conf/data/2015</crossref>
+<url>db/conf/data/data2015.html#KernertMHWL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/MayLPMMCG15" mdate="2021-01-29">
+<author pid="89/6071">Norman May</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="160/1032">Shahul Hameed P.</author>
+<author pid="05/9256">Nitesh Maheshwari</author>
+<author pid="94/2836-1">Carsten M&#252;ller 0001</author>
+<author pid="90/7115">Sudipto Chowdhuri</author>
+<author pid="59/5488">Anil K. Goel</author>
+<title>SAP HANA - From Relational OLAP Database to Big Data Infrastructure.</title>
+<pages>581-592</pages>
+<year>2015</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2015.59</ee>
+<crossref>conf/edbt/2015</crossref>
+<url>db/conf/edbt/edbt2015.html#MayLPMMCG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KaufmannFMGGK15" mdate="2023-03-24">
+<author pid="54/7064">Martin Kaufmann</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="89/6071">Norman May</author>
+<author orcid="0000-0001-8788-4379" pid="122/5424-2">Chang Ge 0002</author>
+<author pid="59/5488">Anil K. Goel</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Bi-temporal Timeline Index: A data structure for Processing Queries on bi-temporal data.</title>
+<pages>471-482</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113307</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113307</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#KaufmannFMGGK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BrunelFFMK0F15" mdate="2023-03-24">
+<author pid="118/6621">Robert Brunel</author>
+<author pid="127/0410">Jan Finis</author>
+<author pid="21/5155">Gerald Franz</author>
+<author pid="89/6071">Norman May</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="36/7116">Franz F&#228;rber</author>
+<title>Supporting hierarchical data in SAP HANA.</title>
+<pages>1280-1291</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113376</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113376</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#BrunelFFMK0F15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/WolfPMAS15" mdate="2018-11-06">
+<author pid="12/4465">Florian Wolf</author>
+<author pid="133/9910">Iraklis Psaroudakis</author>
+<author pid="89/6071">Norman May</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<title>Extending database task schedulers for multi-threaded application code.</title>
+<pages>25:1-25:12</pages>
+<year>2015</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1145/2791347.2791379</ee>
+<crossref>conf/ssdbm/2015</crossref>
+<url>db/conf/ssdbm/ssdbm2015.html#WolfPMAS15</url>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/BinnigHFKLM14" mdate="2017-05-28">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="48/6743">Stefan Hildenbrand</author>
+<author pid="36/7116">Franz F&#228;rber</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="46/6759">Juchang Lee</author>
+<author pid="89/6071">Norman May</author>
+<title>Distributed snapshot isolation: global transactions pay globally, local transactions pay locally.</title>
+<pages>987-1011</pages>
+<year>2014</year>
+<volume>23</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00778-014-0359-9</ee>
+<url>db/journals/vldb/vldb23.html#BinnigHFKLM14</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/KaufmannFMK14" mdate="2021-01-29">
+<author pid="54/7064">Martin Kaufmann</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="89/6071">Norman May</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Benchmarking Bitemporal Database Systems: Ready for the Future or Stuck in the Past?</title>
+<pages>738-749</pages>
+<year>2014</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2014.80</ee>
+<crossref>conf/edbt/2014</crossref>
+<url>db/conf/edbt/edbt2014.html#KaufmannFMK14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MoerkotteDMNB14" mdate="2018-11-06">
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<author pid="16/5835">David DeHaan</author>
+<author pid="89/6071">Norman May</author>
+<author pid="76/4130">Anisoara Nica</author>
+<author pid="92/6505">Alexander B&#246;hm 0002</author>
+<title>Exploiting ordered dictionaries to efficiently construct histograms with q-error guarantees in SAP HANA.</title>
+<pages>361-372</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2595629</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#MoerkotteDMNB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/GrosseML14" mdate="2018-11-06">
+<author pid="08/8622">Philipp Gro&#223;e</author>
+<author pid="89/6071">Norman May</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<title>A study of partitioning and parallel UDF execution with the SAP HANA database.</title>
+<pages>36:1-36:4</pages>
+<year>2014</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1145/2618243.2618274</ee>
+<crossref>conf/ssdbm/2014</crossref>
+<url>db/conf/ssdbm/ssdbm2014.html#GrosseML14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpctc/PsaroudakisWM00AS14" mdate="2018-11-02">
+<author pid="133/9910">Iraklis Psaroudakis</author>
+<author pid="12/4465">Florian Wolf</author>
+<author pid="89/6071">Norman May</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="92/6505">Alexander B&#246;hm 0002</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="s/KaiUweSattler">Kai-Uwe Sattler</author>
+<title>Scaling Up Mixed Workloads: A Battle of Data Freshness, Flexibility, and Scheduling.</title>
+<pages>97-112</pages>
+<year>2014</year>
+<booktitle>TPCTC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-15350-6_7</ee>
+<crossref>conf/tpctc/2014</crossref>
+<url>db/conf/tpctc/tpctc2014.html#PsaroudakisWM00AS14</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/LeeMMFSPKG13" mdate="2020-03-10">
+<author pid="46/6759">Juchang Lee</author>
+<author pid="131/4482">Michael Muehle</author>
+<author pid="89/6071">Norman May</author>
+<author pid="36/7116">Franz Faerber</author>
+<author pid="87/1055">Vishal Sikka</author>
+<author pid="58/3831">Hasso Plattner</author>
+<author pid="41/3476-3">Jens Kr&#252;ger 0003</author>
+<author pid="90/5189">Martin Grund</author>
+<title>High-Performance Transaction Processing in SAP HANA.</title>
+<pages>28-33</pages>
+<year>2013</year>
+<volume>36</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<ee type="oa">http://sites.computer.org/debull/A13june/hana1.pdf</ee>
+<url>db/journals/debu/debu36.html#LeeMMFSPKG13</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/BinnigMM13" mdate="2023-07-04">
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="89/6071">Norman May</author>
+<author pid="60/3146">Tobias Mindnich</author>
+<title>SQLScript: Efficiently Analyzing Big Enterprise Data in SAP HANA.</title>
+<pages>363-382</pages>
+<year>2013</year>
+<booktitle>BTW</booktitle>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/17332</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings214/article6849.html</ee>
+<crossref>conf/btw/2013</crossref>
+<url>db/conf/btw/btw2013.html#BinnigMM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/data/GrosseLM13" mdate="2017-05-19">
+<author pid="08/8622">Philipp Gro&#223;e</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="89/6071">Norman May</author>
+<title>Advanced Analytics with the SAP HANA Database.</title>
+<pages>61-71</pages>
+<year>2013</year>
+<booktitle>DATA</booktitle>
+<ee>https://doi.org/10.5220/0004430800610071</ee>
+<crossref>conf/data/2013</crossref>
+<url>db/conf/data/data2013.html#GrosseLM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KaufmannFKM13" mdate="2023-03-24">
+<author pid="54/7064">Martin Kaufmann</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="89/6071">Norman May</author>
+<title>A generic database benchmarking service.</title>
+<pages>1276-1279</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544923</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544923</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#KaufmannFKM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/FinisBK0FM13" mdate="2018-11-06">
+<author pid="127/0410">Jan Finis</author>
+<author pid="118/6621">Robert Brunel</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="36/7116">Franz F&#228;rber</author>
+<author pid="89/6071">Norman May</author>
+<title>DeltaNI: an efficient labeling scheme for versioned hierarchical data.</title>
+<pages>905-916</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2465329</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#FinisBK0FM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KaufmannMVFKFM13" mdate="2018-11-06">
+<author pid="54/7064">Martin Kaufmann</author>
+<author pid="131/4158">Amin Amiri Manjili</author>
+<author pid="43/11411">Panagiotis Vagenas</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="36/7116">Franz F&#228;rber</author>
+<author pid="89/6071">Norman May</author>
+<title>Timeline index: a unified data structure for processing queries on temporal data in SAP HANA.</title>
+<pages>1173-1184</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2465293</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#KaufmannMVFKFM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpctc/KaufmannFMTK13" mdate="2017-05-23">
+<author pid="54/7064">Martin Kaufmann</author>
+<author pid="f/PeterMFischer1">Peter M. Fischer 0001</author>
+<author pid="89/6071">Norman May</author>
+<author pid="131/4823">Andreas Tonder</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>TPC-BiH: A Benchmark for Bitemporal Databases.</title>
+<pages>16-31</pages>
+<year>2013</year>
+<booktitle>TPCTC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-04936-6_2</ee>
+<crossref>conf/tpctc/2013</crossref>
+<url>db/conf/tpctc/tpctc2013.html#KaufmannFMTK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/PsaroudakisSMA13" mdate="2020-03-12">
+<author pid="133/9910">Iraklis Psaroudakis</author>
+<author pid="135/3664">Tobias Scheuer</author>
+<author pid="89/6071">Norman May</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Task Scheduling for Highly Concurrent Analytical and Transactional Main-Memory Workloads.</title>
+<pages>36-45</pages>
+<year>2013</year>
+<booktitle>ADMS@VLDB</booktitle>
+<crossref>conf/vldb/2013adms</crossref>
+<ee type="oa">http://www.adms-conf.org/2013/psaroudakis_adms13.pdf</ee>
+<url>db/conf/vldb/adms2013.html#PsaroudakisSMA13</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/FarberMLGMRD12" mdate="2020-03-10">
+<author pid="36/7116">Franz F&#228;rber</author>
+<author pid="89/6071">Norman May</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<author pid="08/8622">Philipp Gro&#223;e</author>
+<author pid="76/3160-2">Ingo M&#252;ller 0002</author>
+<author pid="01/11155">Hannes Rauhe</author>
+<author pid="90/7867">Jonathan Dees</author>
+<title>The SAP HANA Database -- An Architecture Overview.</title>
+<pages>28-33</pages>
+<year>2012</year>
+<volume>35</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A12mar/hana.pdf</ee>
+<url>db/journals/debu/debu35.html#FarberMLGMRD12</url>
+</article>
+</r>
+<r><incollection key="books/sp/12/HeinzlKM12" mdate="2017-05-16">
+<author pid="95/2459">Steffen Heinzl</author>
+<author pid="05/7584">Uwe Kylau</author>
+<author pid="89/6071">Norman May</author>
+<title>Modeling Foundations.</title>
+<pages>327-354</pages>
+<year>2012</year>
+<booktitle>Handbook of Service Description</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-1864-1_13</ee>
+<crossref>books/sp/BO2012</crossref>
+<url>db/books/collections/BO2012.html#HeinzlKM12</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/IEEEscc/MaySF11" mdate="2023-03-24">
+<author pid="89/6071">Norman May</author>
+<author pid="29/7424">Ulrich Scholten</author>
+<author pid="38/7423">Robin Fischer</author>
+<title>Towards an Automated Gap Analysis for E-Service Portfolios.</title>
+<pages>274-281</pages>
+<year>2011</year>
+<booktitle>IEEE SCC</booktitle>
+<ee>https://doi.org/10.1109/SCC.2011.93</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCC.2011.93</ee>
+<crossref>conf/IEEEscc/2011</crossref>
+<url>db/conf/IEEEscc/scc2011.html#MaySF11</url>
+</inproceedings>
+</r>
+<r><incollection key="books/igi/11/RiedlMFSKK11" mdate="2019-07-03">
+<author pid="70/150">Christoph Riedl</author>
+<author pid="89/6071">Norman May</author>
+<author pid="57/1156">Jan Finzen</author>
+<author pid="14/7121">Stephan Stathel</author>
+<author pid="48/5180">Viktor Kaufman</author>
+<author pid="k/HelmutKrcmar">Helmut Krcmar</author>
+<title>An Idea Ontology for Innovation Management.</title>
+<pages>303-321</pages>
+<year>2011</year>
+<booktitle>Semantic Services, Interoperability and Web Applications</booktitle>
+<ee>https://doi.org/10.4018/978-1-60960-593-3.ch012</ee>
+<crossref>books/igi/11/S2011</crossref>
+<url>db/books/collections/S2011.html#RiedlMFSKK11</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/IEEEscc/CardosoBMK10" mdate="2023-03-24">
+<author orcid="0000-0001-8992-3466" pid="65/1225">Jorge Cardoso 0001</author>
+<author orcid="0000-0001-8980-6841" pid="81/1413">Alistair Barros</author>
+<author pid="89/6071">Norman May</author>
+<author pid="05/7584">Uwe Kylau</author>
+<title>Towards a Unified Service Description Language for the Internet of Services: Requirements and First Developments.</title>
+<pages>602-609</pages>
+<year>2010</year>
+<booktitle>IEEE SCC</booktitle>
+<ee>https://doi.org/10.1109/SCC.2010.93</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCC.2010.93</ee>
+<crossref>conf/IEEEscc/2010</crossref>
+<url>db/conf/IEEEscc/scc2010.html#CardosoBMK10</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijswis/RiedlMFSKK09" mdate="2017-05-20">
+<author pid="70/150">Christoph Riedl</author>
+<author pid="89/6071">Norman May</author>
+<author pid="57/1156">Jan Finzen</author>
+<author pid="14/7121">Stephan Stathel</author>
+<author pid="48/5180">Viktor Kaufman</author>
+<author pid="k/HelmutKrcmar">Helmut Krcmar</author>
+<title>An Idea Ontology for Innovation Management.</title>
+<pages>1-18</pages>
+<year>2009</year>
+<volume>5</volume>
+<journal>Int. J. Semantic Web Inf. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.4018/jswis.2009100101</ee>
+<url>db/journals/ijswis/ijswis5.html#RiedlMFSKK09</url>
+</article>
+</r>
+<r><inproceedings key="conf/icws/WeberBMHK09" mdate="2023-03-24">
+<author pid="59/1213">Ingo Weber</author>
+<author orcid="0000-0001-8980-6841" pid="81/1413">Alistair Barros</author>
+<author pid="89/6071">Norman May</author>
+<author pid="26/836">J&#246;rg Hoffmann 0001</author>
+<author pid="23/1469">Tomasz Kaczmarek</author>
+<title>Composing Services for Third-party Service Delivery.</title>
+<pages>823-830</pages>
+<year>2009</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2009.85</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICWS.2009.85</ee>
+<crossref>conf/icws/2009</crossref>
+<url>db/conf/icws/icws2009.html#WeberBMHK09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/caise/MayW08" mdate="2017-05-24">
+<author pid="89/6071">Norman May</author>
+<author pid="59/1213">Ingo Weber</author>
+<title>Information Gathering for Semantic Service Discovery and Composition in Business Process Modeling.</title>
+<pages>46-60</pages>
+<year>2008</year>
+<booktitle>CIAO! / EOMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-68644-6_4</ee>
+<crossref>conf/caise/2008ciao</crossref>
+<url>db/conf/caise/ciao2008.html#MayW08</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/de/May2008" mdate="2021-07-17">
+<author pid="89/6071">Norman May</author>
+<title>An algebraic approach to XQuery optimization.</title>
+<year>2007</year>
+<school>University of Mannheim, Germany</school>
+<pages>1-217</pages>
+<ee>http://madoc.bib.uni-mannheim.de/madoc/volltexte/2008/1784/</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:bsz:180-madoc-17849</ee>
+<ee>https://d-nb.info/987608118</ee>
+<ee>https://d-nb.info/987911023</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/icde/BrantnerMM07" mdate="2023-03-24">
+<author pid="82/1740">Matthias Brantner</author>
+<author pid="89/6071">Norman May</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Unnesting Scalar SQL Queries in the Presence of Disjunction.</title>
+<pages>46-55</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.367850</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2007.367850</ee>
+<url>db/conf/icde/icde2007.html#BrantnerMM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/xsym/MayM07" mdate="2017-05-17">
+<author pid="89/6071">Norman May</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Efficient XQuery Evaluation of Grouping Conditions with Duplicate Removals.</title>
+<pages>62-76</pages>
+<year>2007</year>
+<crossref>conf/xsym/2007</crossref>
+<booktitle>XSym</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-75288-2_6</ee>
+<url>db/conf/xsym/xsym2007.html#MayM07</url>
+</inproceedings>
+</r>
+<r><article key="journals/tods/MayHM06" mdate="2019-06-02">
+<author pid="89/6071">Norman May</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Strategies for query unnesting in XML databases.</title>
+<pages>968-1013</pages>
+<year>2006</year>
+<volume>31</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1166074.1166081</ee>
+<ee>https://www.wikidata.org/entity/Q57985654</ee>
+<url>db/journals/tods/tods31.html#MayHM06</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/BohmBKMM06" mdate="2017-05-21">
+<author pid="92/6505">Alexander B&#246;hm 0002</author>
+<author pid="82/1740">Matthias Brantner</author>
+<author pid="k/CarlChristianKanne">Carl-Christian Kanne</author>
+<author pid="89/6071">Norman May</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Natix Visual Interfaces.</title>
+<pages>1125-1129</pages>
+<year>2006</year>
+<crossref>conf/edbt/2006</crossref>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1007/11687238_74</ee>
+<url>db/conf/edbt/edbt2006.html#BohmBKMM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/xsym/MayBBKM06" mdate="2017-05-17">
+<author pid="89/6071">Norman May</author>
+<author pid="82/1740">Matthias Brantner</author>
+<author pid="92/6505">Alexander B&#246;hm 0002</author>
+<author pid="k/CarlChristianKanne">Carl-Christian Kanne</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Index vs. Navigation in XPath Evaluation.</title>
+<pages>16-30</pages>
+<year>2006</year>
+<crossref>conf/xsym/2006</crossref>
+<booktitle>XSym</booktitle>
+<ee>https://doi.org/10.1007/11841920_2</ee>
+<url>db/conf/xsym/xsym2006.html#MayBBKM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/xsym/MayM05" mdate="2017-05-17">
+<author pid="89/6071">Norman May</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Main Memory Implementations for Binary Grouping.</title>
+<pages>162-176</pages>
+<year>2005</year>
+<crossref>conf/xsym/2005</crossref>
+<booktitle>XSym</booktitle>
+<ee>https://doi.org/10.1007/11547273_12</ee>
+<url>db/conf/xsym/xsym2005.html#MayM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/MayHM04" mdate="2023-03-24">
+<author pid="89/6071">Norman May</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Nested Queries and Quantifiers in an Ordered Context.</title>
+<pages>239-250</pages>
+<year>2004</year>
+<crossref>conf/icde/2004</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2004.1320001</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2004.1320001</ee>
+<ee>https://www.wikidata.org/entity/Q57985668</ee>
+<url>db/conf/icde/icde2004.html#MayHM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ximep/MayHKM04" mdate="2004-06-24">
+<author pid="89/6071">Norman May</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="k/CarlChristianKanne">Carl-Christian Kanne</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>XQuery Processing in Natix with an Emphasis on Join Ordering.</title>
+<pages>49-54</pages>
+<year>2004</year>
+<crossref>conf/ximep/2004</crossref>
+<booktitle>XIME-P</booktitle>
+<url>db/conf/ximep/ximep2004.html#MayHKM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/MayHM03" mdate="2023-03-24">
+<author pid="89/6071">Norman May</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Quantifiers in XQuery.</title>
+<pages>313-316</pages>
+<year>2003</year>
+<crossref>conf/wise/2003</crossref>
+<booktitle>WISE</booktitle>
+<ee>https://doi.org/10.1109/WISE.2003.1254501</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WISE.2003.1254501</ee>
+<ee>https://www.wikidata.org/entity/Q57985685</ee>
+<url>db/conf/wise/wise2003.html#MayHM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/xsym/MayHM03" mdate="2017-05-17">
+<author pid="89/6071">Norman May</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Three Cases for Query Decorrelation in XQuery.</title>
+<pages>70-84</pages>
+<ee>https://doi.org/10.1007/978-3-540-39429-7_5</ee>
+<year>2003</year>
+<crossref>conf/xsym/2003</crossref>
+<booktitle>Xsym</booktitle>
+<url>db/conf/xsym/xsym2003.html#MayHM03</url>
+</inproceedings>
+</r>
+<coauthors n="133" nc="1">
+<co c="0"><na f="a/Ailamaki:Anastasia" pid="a/AnastassiaAilamaki">Anastasia Ailamaki</na></co>
+<co c="0"><na f="a/Alonso:Gustavo" pid="a/GustavoAlonso">Gustavo Alonso</na></co>
+<co c="0"><na f="a/Andrzejak_0001:Artur" pid="00/336">Artur Andrzejak 0001</na></co>
+<co c="0"><na f="b/Bach:Thomas" pid="152/9554">Thomas Bach</na></co>
+<co c="0"><na f="b/Bang:Tiemo" pid="257/5532">Tiemo Bang</na></co>
+<co c="0"><na f="b/Barros:Alistair" pid="81/1413">Alistair Barros</na></co>
+<co c="0"><na f="b/Bierstedt:Christian" pid="340/1274">Christian Bierstedt</na></co>
+<co c="0"><na f="b/Binnig:Carsten" pid="45/1559">Carsten Binnig</na></co>
+<co c="0"><na f="b/Blanas:Spyros" pid="65/5338">Spyros Blanas</na></co>
+<co c="0"><na f="b/Block:Meinolf" pid="164/7241">Meinolf Block</na></co>
+<co c="0"><na f="b/B=ouml=hlen:Michael_H=" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</na></co>
+<co c="0" n="2"><na f="b/B=ouml=hm_0002:Alexander" pid="92/6505">Alexander B&#246;hm 0002</na><na>Alexander Boehm 0002</na></co>
+<co c="0"><na f="b/Brantner:Matthias" pid="82/1740">Matthias Brantner</na></co>
+<co c="0"><na f="b/Brendle:Michael" pid="224/6533">Michael Brendle</na></co>
+<co c="0"><na f="b/Broneske:David" pid="98/11442">David Broneske</na></co>
+<co c="0"><na f="b/Brunel:Robert" pid="118/6621">Robert Brunel</na></co>
+<co c="0"><na f="c/Cardoso_0001:Jorge" pid="65/1225">Jorge Cardoso 0001</na></co>
+<co c="0"><na f="c/Chiosa:Monica" pid="263/7109">Monica Chiosa</na></co>
+<co c="0"><na f="c/Chowdhuri:Sudipto" pid="90/7115">Sudipto Chowdhuri</na></co>
+<co c="0"><na f="d/Dann:Jonas" pid="201/4785">Jonas Dann</na></co>
+<co c="0"><na f="d/Dees:Jonathan" pid="90/7867">Jonathan Dees</na></co>
+<co c="0"><na f="d/DeHaan:David" pid="16/5835">David DeHaan</na></co>
+<co c="0"><na f="d/Dementiev:Roman" pid="d/RomanDementiev">Roman Dementiev</na></co>
+<co c="0"><na f="d/Demirsoy:S=uuml=leyman_Sirri" pid="62/5784">S&#252;leyman Sirri Demirsoy</na></co>
+<co c="0"><na f="d/Dossinger:Andre" pid="351/9679">Andre Dossinger</na></co>
+<co c="0" n="2"><na f="f/F=auml=rber:Christian" pid="186/8776">Christian F&#228;rber</na><na>Christian Faerber</na></co>
+<co c="0" n="2"><na f="f/F=auml=rber:Franz" pid="36/7116">Franz F&#228;rber</na><na>Franz Faerber</na></co>
+<co c="0"><na f="f/Felderer:Michael" pid="49/2990">Michael Felderer</na></co>
+<co c="0"><na f="f/Finis:Jan" pid="127/0410">Jan Finis</na></co>
+<co c="0"><na f="f/Finzen:Jan" pid="57/1156">Jan Finzen</na></co>
+<co c="0"><na f="f/Fischer_0001:Peter_M=" pid="f/PeterMFischer1">Peter M. Fischer 0001</na></co>
+<co c="0"><na f="f/Fischer:Robin" pid="38/7423">Robin Fischer</na></co>
+<co c="0"><na f="f/Forsberg:Fredrik_Nordvall" pid="26/8342">Fredrik Nordvall Forsberg</na></co>
+<co c="0"><na f="f/Franz:Gerald" pid="21/5155">Gerald Franz</na></co>
+<co c="0"><na f="f/Fricke:Lars" pid="295/3245">Lars Fricke</na></co>
+<co c="0"><na f="g/Gaumnitz:Gordon" pid="136/7868">Gordon Gaumnitz</na></co>
+<co c="0"><na f="g/Ge_0002:Chang" pid="122/5424-2">Chang Ge 0002</na></co>
+<co c="0"><na f="g/Goel:Anil_K=" pid="59/5488">Anil K. Goel</na></co>
+<co c="0"><na f="g/Gro=szlig=e:Philipp" pid="08/8622">Philipp Gro&#223;e</na></co>
+<co c="0"><na f="g/Grossniklaus:Michael" pid="73/6114">Michael Grossniklaus</na></co>
+<co c="0"><na f="g/Grund:Martin" pid="90/5189">Martin Grund</na></co>
+<co c="0"><na f="h/Haas:Stefan" pid="45/2399">Stefan Haas</na></co>
+<co c="0"><na f="h/Havenstein:Diego" pid="261/1899">Diego Havenstein</na></co>
+<co c="0"><na f="h/Heinzl:Steffen" pid="95/2459">Steffen Heinzl</na></co>
+<co c="0"><na f="h/Helmer:Sven" pid="h/SvenHelmer">Sven Helmer</na></co>
+<co c="0"><na f="h/Hertzschuch:Axel" pid="257/5494">Axel Hertzschuch</na></co>
+<co c="0"><na f="h/Hildenbrand:Stefan" pid="48/6743">Stefan Hildenbrand</na></co>
+<co c="0"><na f="h/Hladik:Michael" pid="166/4106">Michael Hladik</na></co>
+<co c="0"><na f="h/Hoffmann_0001:J=ouml=rg" pid="26/836">J&#246;rg Hoffmann 0001</na></co>
+<co c="0"><na f="h/H=ouml=mke:Lars" pid="89/2103">Lars H&#246;mke</na></co>
+<co c="0"><na f="h/Hose:Katja" pid="h/KatjaHose">Katja Hose</na></co>
+<co c="0"><na f="h/Hwang:Dongwon" pid="177/4359">Dongwon Hwang</na></co>
+<co c="0"><na f="j/Jambigi:Neetha" pid="284/4174">Neetha Jambigi</na></co>
+<co c="0"><na f="j/Joy:Robin" pid="340/1645">Robin Joy</na></co>
+<co c="0"><na f="k/Kaczmarek:Tomasz" pid="23/1469">Tomasz Kaczmarek</na></co>
+<co c="0"><na f="k/Kanne:Carl=Christian" pid="k/CarlChristianKanne">Carl-Christian Kanne</na></co>
+<co c="0"><na f="k/Kaufman:Viktor" pid="48/5180">Viktor Kaufman</na></co>
+<co c="0"><na f="k/Kaufmann:Martin" pid="54/7064">Martin Kaufmann</na></co>
+<co c="0"><na f="k/Kemper:Alfons" pid="k/AlfonsKemper">Alfons Kemper</na></co>
+<co c="0"><na f="k/Kernert:David" pid="147/2923">David Kernert</na></co>
+<co c="0"><na f="k/Kossmann:Donald" pid="k/DonaldKossmann">Donald Kossmann</na></co>
+<co c="0"><na f="k/Kraft:Stephan" pid="77/6748">Stephan Kraft</na></co>
+<co c="0"><na f="k/Krcmar:Helmut" pid="k/HelmutKrcmar">Helmut Krcmar</na></co>
+<co c="0"><na f="k/Kroll:Thomas" pid="59/2323">Thomas Kroll</na></co>
+<co c="0"><na f="k/Kr=uuml=ger_0003:Jens" pid="41/3476-3">Jens Kr&#252;ger 0003</na></co>
+<co c="0"><na f="k/Kumar_0001:Akash" pid="29/414">Akash Kumar 0001</na></co>
+<co c="0"><na f="k/Kylau:Uwe" pid="05/7584">Uwe Kylau</na></co>
+<co c="0"><na f="l/Lasch:Robert" pid="243/2617">Robert Lasch</na></co>
+<co c="0"><na f="l/Lee:Juchang" pid="46/6759">Juchang Lee</na></co>
+<co c="0"><na f="l/Legler:Thomas" pid="57/5597">Thomas Legler</na></co>
+<co c="0"><na f="l/Lehner:Wolfgang" pid="l/WLehner">Wolfgang Lehner</na></co>
+<co c="0"><na f="l/Lemke:Christian" pid="41/1981">Christian Lemke</na></co>
+<co c="0"><na f="l/Lysakovski:Peter" pid="261/2073">Peter Lysakovski</na></co>
+<co c="0"><na f="m/Maheshwari:Nitesh" pid="05/9256">Nitesh Maheshwari</na></co>
+<co c="0"><na f="m/Manjili:Amin_Amiri" pid="131/4158">Amin Amiri Manjili</na></co>
+<co c="0"><na f="m/Martens:Jakob" pid="340/1137">Jakob Martens</na></co>
+<co c="0"><na f="m/Maschi:Fabio" pid="266/5766">Fabio Maschi</na></co>
+<co c="0"><na f="m/Mindnich:Tobias" pid="60/3146">Tobias Mindnich</na></co>
+<co c="0"><na f="m/Moerkotte:Guido" pid="m/GuidoMoerkotte">Guido Moerkotte</na></co>
+<co c="0"><na f="m/Moghaddamfar:Mehdi" pid="266/6823">Mehdi Moghaddamfar</na></co>
+<co c="0"><na f="m/Mohsen:Mahmoud" pid="185/5300">Mahmoud Mohsen</na></co>
+<co c="0"><na f="m/Muehle:Michael" pid="131/4482">Michael Muehle</na></co>
+<co c="0"><na f="m/M=uuml=hlig:Jan" pid="222/6290">Jan M&#252;hlig</na></co>
+<co c="0"><na f="m/M=uuml=ller_0001:Carsten" pid="94/2836-1">Carsten M&#252;ller 0001</na></co>
+<co c="0"><na f="m/M=uuml=ller_0002:Ingo" pid="76/3160-2">Ingo M&#252;ller 0002</na></co>
+<co c="0"><na f="n/Neumann_0001:Thomas" pid="n/ThomasNeumann">Thomas Neumann 0001</na></co>
+<co c="0"><na f="n/Nica:Anisoara" pid="76/4130">Anisoara Nica</na></co>
+<co c="0"><na f="n/Noll:Stefan" pid="67/1152">Stefan Noll</na></co>
+<co c="0"><na f="o/Oukid:Ismail" pid="135/3665">Ismail Oukid</na></co>
+<co c="0"><na f="p/P=:Shahul_Hameed" pid="160/1032">Shahul Hameed P.</na></co>
+<co c="0"><na f="p/Petrov_0001:Ilia" pid="p/IliaPetrov">Ilia Petrov 0001</na></co>
+<co c="0"><na f="p/Pichler:Reinhard" pid="26/5252">Reinhard Pichler</na></co>
+<co c="0"><na f="p/Plattner:Hasso" pid="58/3831">Hasso Plattner</na></co>
+<co c="0"><na f="p/Psaropoulos:Georgios" pid="209/7554">Georgios Psaropoulos</na></co>
+<co c="0"><na f="p/Psaroudakis:Iraklis" pid="133/9910">Iraklis Psaroudakis</na></co>
+<co c="0"><na f="r/Rahm:Erhard" pid="r/ERahm">Erhard Rahm</na></co>
+<co c="0"><na f="r/Ramamurthy:Veeraraghavan" pid="266/6909">Veeraraghavan Ramamurthy</na></co>
+<co c="0"><na f="r/Rauhe:Hannes" pid="01/11155">Hannes Rauhe</na></co>
+<co c="0"><na f="r/Renkes:Frank" pid="121/4087">Frank Renkes</na></co>
+<co c="0"><na f="r/Riedl:Christoph" pid="70/150">Christoph Riedl</na></co>
+<co c="0"><na f="r/Rinderle=Ma:Stefanie" pid="r/StefanieRinderle">Stefanie Rinderle-Ma</na></co>
+<co c="0"><na f="r/Ritter_0001:Daniel" pid="82/8248">Daniel Ritter 0001</na></co>
+<co c="0"><na f="r/Rudolf_0001:Michael" pid="69/1420-1">Michael Rudolf 0001</na></co>
+<co c="0"><na f="s/Sachs:Kai" pid="64/1395">Kai Sachs</na></co>
+<co c="0"><na f="s/Sattler:Kai=Uwe" pid="s/KaiUweSattler">Kai-Uwe Sattler</na></co>
+<co c="0"><na f="s/Schabernack:Felix" pid="320/7532">Felix Schabernack</na></co>
+<co c="0"><na f="s/Scheibli:Daniel" pid="06/9676">Daniel Scheibli</na></co>
+<co c="0"><na f="s/Scheirle:Bernhard" pid="200/5322">Bernhard Scheirle</na></co>
+<co c="0"><na f="s/Scheja:Ruben" pid="340/1360">Ruben Scheja</na></co>
+<co c="0"><na f="s/Scheuer:Tobias" pid="135/3664">Tobias Scheuer</na></co>
+<co c="0"><na f="s/Scholten:Ulrich" pid="29/7424">Ulrich Scholten</na></co>
+<co c="0"><na f="s/Schulze:Robert" pid="87/9883">Robert Schulze</na></co>
+<co c="0"><na f="s/Schwedes:Sascha" pid="223/6319">Sascha Schwedes</na></co>
+<co c="0"><na f="s/Seibel:Sebastian" pid="340/1282">Sebastian Seibel</na></co>
+<co c="0"><na f="s/Seifert:Sebastian" pid="34/137">Sebastian Seifert</na></co>
+<co c="0"><na f="s/Sellami:Abdelkader" pid="166/8369">Abdelkader Sellami</na></co>
+<co c="0"><na f="s/Seo:Changyun" pid="177/4361">Changyun Seo</na></co>
+<co c="-1"><na f="s/Shaikhha:Amir" pid="143/6186">Amir Shaikhha</na></co>
+<co c="0"><na f="s/Sheshi:Erda" pid="340/1130">Erda Sheshi</na></co>
+<co c="0"><na f="s/Sikka:Vishal" pid="87/1055">Vishal Sikka</na></co>
+<co c="0"><na f="s/Stathel:Stephan" pid="14/7121">Stephan Stathel</na></co>
+<co c="0"><na f="s/Steidl:Gabriele" pid="48/2024">Gabriele Steidl</na></co>
+<co c="0"><na f="t/Tatbul:Nesime" pid="t/NesimeTatbul">Nesime Tatbul</na></co>
+<co c="0"><na f="t/Teubner:Jens" pid="t/JensTeubner">Jens Teubner</na></co>
+<co c="0"><na f="t/Tonder:Andreas" pid="131/4823">Andreas Tonder</na></co>
+<co c="0"><na f="v/Vagenas:Panagiotis" pid="43/11411">Panagiotis Vagenas</na></co>
+<co c="0"><na f="v/Valiyev:Mahammad" pid="205/3780">Mahammad Valiyev</na></co>
+<co c="0"><na f="w/Weber:Ingo" pid="59/1213">Ingo Weber</na></co>
+<co c="0"><na f="w/Weber:Nick" pid="217/5457">Nick Weber</na></co>
+<co c="0"><na f="w/Werner_0005:Klaus" pid="30/5641-5">Klaus Werner 0005</na></co>
+<co c="0"><na f="w/Willems:Paul_R=" pid="58/9308">Paul R. Willems</na></co>
+<co c="0"><na f="w/Wolf:Florian" pid="12/4465">Florian Wolf</na></co>
+<co c="0"><na f="w/Wu:Shan=Hung" pid="94/2844">Shan-Hung Wu</na></co>
+</coauthors>
+</dblpperson>

@@ -1,0 +1,375 @@
+<dblpperson name="Prashanth Menon" pid="145/6329" n="16">
+<person key="homepages/145/6329" mdate="2014-05-21">
+<author pid="145/6329">Prashanth Menon</author>
+</person>
+<r><article key="journals/tkde/MenonQRSJ22" mdate="2022-08-08">
+<author orcid="0000-0003-1345-6050" pid="145/6329">Prashanth Menon</author>
+<author orcid="0000-0003-0754-0504" pid="166/8355">Thamir M. Qadah</author>
+<author pid="10/760">Tilmann Rabl</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author orcid="0000-0003-0813-0101" pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>LogStore: A Workload-Aware, Adaptable Key-Value Store on Hybrid Storage Systems.</title>
+<pages>3867-3882</pages>
+<year>2022</year>
+<volume>34</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TKDE.2020.3027191</ee>
+<url>db/journals/tkde/tkde34.html#MenonQRSJ22</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/BehmPAACDGHJKLL22" mdate="2024-02-05">
+<author pid="88/573">Alexander Behm</author>
+<author pid="168/9023">Shoumik Palkar</author>
+<author pid="217/0988">Utkarsh Agarwal</author>
+<author pid="25/3861">Timothy Armstrong</author>
+<author pid="40/87">David Cashman</author>
+<author pid="74/10101">Ankur Dave</author>
+<author pid="322/1480">Todd Greenstein</author>
+<author pid="11/6201">Shant Hovsepian</author>
+<author pid="98/3414">Ryan Johnson</author>
+<author pid="322/1400">Arvind Sai Krishnan</author>
+<author pid="39/3656">Paul Leventis</author>
+<author pid="322/1583">Ala Luszczak</author>
+<author pid="145/6329">Prashanth Menon</author>
+<author pid="131/4245">Mostafa Mokhtar</author>
+<author pid="99/11140">Gene Pang</author>
+<author pid="197/7188">Sameer Paranjpye</author>
+<author pid="181/5686">Greg Rahn</author>
+<author pid="15/780">Bart Samwel</author>
+<author pid="227/2992">Tom van Bussel</author>
+<author pid="273/6960">Herman Van Hovell</author>
+<author pid="322/1470">Maryann Xue</author>
+<author pid="47/7258">Reynold Xin</author>
+<author orcid="0000-0002-7547-7204" pid="36/2133">Matei Zaharia</author>
+<title>Photon: A Fast Query Engine for Lakehouse Systems.</title>
+<pages>2326-2339</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3526054</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#BehmPAACDGHJKLL22</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/us/Menon21" mdate="2022-07-13">
+<author pid="145/6329">Prashanth Menon</author>
+<title>On Building Robustness into Compilation-Based Main-Memory Database Query Engines.</title>
+<school>Carnegie Mellon University, USA</school>
+<year>2021</year>
+<ee>https://doi.org/10.1184/r1/16630882.v1</ee>
+</phdthesis>
+</r>
+<r><article key="journals/pvldb/Pavlo21" mdate="2023-09-30">
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andy Pavlo</author>
+<author pid="254/6674">Matthew Butrovich</author>
+<author pid="74/3608-6">Lin Ma 0006</author>
+<author pid="145/6329">Prashanth Menon</author>
+<author pid="251/5311">Wan Shen Lim</author>
+<author pid="154/0932">Dana Van Aken</author>
+<author pid="165/0511">William Zhang</author>
+<title>Make Your Database System Dream of Electric Sheep: Towards Self-Driving Operation.</title>
+<pages>3211-3221</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p3211-pavlo.pdf</ee>
+<ee>https://doi.org/10.14778/3476311.3476411</ee>
+<url>db/journals/pvldb/pvldb14.html#Pavlo21</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/ZhangBLPNRZBBDE21" mdate="2022-07-18">
+<author pid="76/5973">Ling Zhang</author>
+<author pid="254/6674">Matthew Butrovich</author>
+<author pid="92/9835-1">Tianyu Li 0001</author>
+<author pid="58/4127">Andrew Pavlo</author>
+<author pid="288/0493">Yash Nannapaneni</author>
+<author pid="287/8972">John Rollinson</author>
+<author pid="13/8730">Huanchen Zhang</author>
+<author pid="288/0351">Ambarish Balakumar</author>
+<author pid="287/9684">Daniel Biales</author>
+<author pid="242/2063">Ziqi Dong</author>
+<author pid="288/0373">Emmanuel J. Eppinger</author>
+<author pid="288/0045">Jordi E. Gonzalez</author>
+<author pid="251/5311">Wan Shen Lim</author>
+<author pid="163/3153">Jianqiao Liu</author>
+<author pid="74/3608-6">Lin Ma 0006</author>
+<author pid="145/6329">Prashanth Menon</author>
+<author pid="287/9401">Soumil Mukherjee</author>
+<author pid="287/9601">Tanuj Nayak</author>
+<author pid="264/0039">Amadou Ngom</author>
+<author pid="230/8646">Dong Niu</author>
+<author pid="287/9665">Deepayan Patra</author>
+<author pid="288/0617">Poojita Raj</author>
+<author pid="175/6757">Stephanie Wang</author>
+<author pid="287/9761">Wuwen Wang</author>
+<author pid="40/3778">Yao Yu</author>
+<author pid="165/0511">William Zhang</author>
+<title>Everything is a Transaction: Unifying Logical Concurrency Control and Physical Data Structure Maintenance in Database Management Systems.</title>
+<year>2021</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2021/papers/cidr2021_paper06.pdf</ee>
+<crossref>conf/cidr/2021</crossref>
+<url>db/conf/cidr/cidr2021.html#ZhangBLPNRZBBDE21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/NgomMB0LMP21" mdate="2023-09-30">
+<author pid="264/0039">Amadou Ngom</author>
+<author pid="145/6329">Prashanth Menon</author>
+<author pid="254/6674">Matthew Butrovich</author>
+<author pid="74/3608-6">Lin Ma 0006</author>
+<author pid="251/5311">Wan Shen Lim</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<title>Filter Representation in Vectorized Query Execution.</title>
+<pages>6:1-6:7</pages>
+<year>2021</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3465998.3466009</ee>
+<crossref>conf/damon/2021</crossref>
+<url>db/conf/damon/damon2021.html#NgomMB0LMP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/MenonQRSJ21" mdate="2022-01-03">
+<author pid="145/6329">Prashanth Menon</author>
+<author orcid="0000-0003-0754-0504" pid="166/8355">Thamir M. Qadah</author>
+<author pid="10/760">Tilmann Rabl</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>LogStore: A Workload-aware, Adaptable Key-Value Store on Hybrid Storage Systems (Extended abstract).</title>
+<pages>2321-2322</pages>
+<year>2021</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE51399.2021.00246</ee>
+<crossref>conf/icde/2021</crossref>
+<url>db/conf/icde/icde2021.html#MenonQRSJ21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/0006ZJWBLMP21" mdate="2023-09-30">
+<author pid="74/3608-6">Lin Ma 0006</author>
+<author pid="165/0511">William Zhang</author>
+<author pid="249/6270">Jie Jiao</author>
+<author pid="287/9761">Wuwen Wang</author>
+<author pid="254/6674">Matthew Butrovich</author>
+<author pid="251/5311">Wan Shen Lim</author>
+<author pid="145/6329">Prashanth Menon</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<title>MB2: Decomposed Behavior Modeling for Self-Driving Database Management Systems.</title>
+<pages>1248-1261</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3457276</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#0006ZJWBLMP21</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/MenonNMP020" mdate="2023-09-30">
+<author pid="145/6329">Prashanth Menon</author>
+<author pid="264/0039">Amadou Ngom</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="74/3608-6">Lin Ma 0006</author>
+<title>Permutable Compiled Queries: Dynamically Adapting Compiled Queries without Recompiling.</title>
+<pages>101-113</pages>
+<year>2020</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p101-menon.pdf</ee>
+<ee>https://doi.org/10.14778/3425879.3425882</ee>
+<url>db/journals/pvldb/pvldb14.html#MenonNMP020</url>
+</article>
+</r>
+<r><article key="journals/debu/PavloBJMMALS19" mdate="2023-07-26">
+<author pid="58/4127">Andrew Pavlo</author>
+<author pid="254/6674">Matthew Butrovich</author>
+<author pid="339/0027">Ananya Joshi 0001</author>
+<author pid="74/3608-6">Lin Ma 0006</author>
+<author pid="145/6329">Prashanth Menon</author>
+<author pid="154/0932">Dana Van Aken</author>
+<author pid="97/9403">Lisa Lee</author>
+<author pid="62/5884">Ruslan Salakhutdinov</author>
+<title>External vs. Internal: An Essay on Machine Learning Agents for Autonomous Database Management Systems.</title>
+<pages>32-46</pages>
+<year>2019</year>
+<volume>42</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<ee type="oa">http://sites.computer.org/debull/A19june/p32.pdf</ee>
+<url>db/journals/debu/debu42.html#PavloBJMMALS19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/MenonPM17" mdate="2023-09-30">
+<author pid="145/6329">Prashanth Menon</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<title>Relaxed Operator Fusion for In-Memory Databases: Making Compilation, Vectorization, and Prefetching Work Together At Last.</title>
+<pages>1-13</pages>
+<year>2017</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1-menon.pdf</ee>
+<ee>https://doi.org/10.14778/3151113.3151114</ee>
+<url>db/journals/pvldb/pvldb11.html#MenonPM17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/PavloAALLMMMPQS17" mdate="2022-04-09">
+<author pid="58/4127">Andrew Pavlo</author>
+<author pid="118/6502">Gustavo Angulo</author>
+<author pid="127/3025">Joy Arulraj</author>
+<author pid="142/1829">Haibin Lin</author>
+<author pid="19/3721">Jiexi Lin</author>
+<author pid="74/3608-6">Lin Ma 0006</author>
+<author pid="145/6329">Prashanth Menon</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<author pid="191/3842">Matthew Perron</author>
+<author orcid="0000-0003-3980-5132" pid="192/4553">Ian Quah</author>
+<author pid="152/5627">Siddharth Santurkar</author>
+<author pid="t/AnthonyTomasic">Anthony Tomasic</author>
+<author pid="192/4563">Skye Toor</author>
+<author pid="154/0932">Dana Van Aken</author>
+<author pid="38/8097">Ziqi Wang</author>
+<author pid="07/11533">Yingjun Wu</author>
+<author pid="153/2452">Ran Xian</author>
+<author pid="88/2750">Tieying Zhang</author>
+<title>Self-Driving Database Management Systems.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/papers/p42-pavlo-cidr17.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#PavloAALLMMMPQS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ArulrajPM16" mdate="2023-09-30">
+<author pid="127/3025">Joy Arulraj</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="145/6329">Prashanth Menon</author>
+<title>Bridging the Archipelago between Row-Stores and Column-Stores for Hybrid Workloads.</title>
+<pages>583-598</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2915231</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#ArulrajPM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/Song0RMJ15" mdate="2018-11-06">
+<author pid="164/3438">Dantong Song</author>
+<author pid="12/4550-1">Kaiwen Zhang 0001</author>
+<author pid="10/760">Tilmann Rabl</author>
+<author pid="145/6329">Prashanth Menon</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>High performance stream queries in scala.</title>
+<pages>322-323</pages>
+<year>2015</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/2675743.2776761</ee>
+<crossref>conf/debs/2015</crossref>
+<url>db/conf/debs/debs2015.html#Song0RMJ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cascon/MenonRSJ14" mdate="2021-07-25">
+<author pid="145/6329">Prashanth Menon</author>
+<author pid="10/760">Tilmann Rabl</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>Optimizing key-value stores for hybrid storage architectures.</title>
+<pages>355-358</pages>
+<year>2014</year>
+<booktitle>CASCON</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2735582</ee>
+<crossref>conf/cascon/2014</crossref>
+<url>db/conf/cascon/cascon2014.html#MenonRSJ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/MenonRSJ14" mdate="2023-03-23">
+<author pid="145/6329">Prashanth Menon</author>
+<author pid="10/760">Tilmann Rabl</author>
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<title>CaSSanDra: An SSD boosted key-value store.</title>
+<pages>1162-1167</pages>
+<year>2014</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2014.6816732</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2014.6816732</ee>
+<crossref>conf/icde/2014</crossref>
+<url>db/conf/icde/icde2014.html#MenonRSJ14</url>
+</inproceedings>
+</r>
+<coauthors n="72" nc="3">
+<co c="1"><na f="a/Agarwal:Utkarsh" pid="217/0988">Utkarsh Agarwal</na></co>
+<co c="0"><na f="a/Aken:Dana_Van" pid="154/0932">Dana Van Aken</na></co>
+<co c="0"><na f="a/Angulo:Gustavo" pid="118/6502">Gustavo Angulo</na></co>
+<co c="1"><na f="a/Armstrong:Timothy" pid="25/3861">Timothy Armstrong</na></co>
+<co c="0"><na f="a/Arulraj:Joy" pid="127/3025">Joy Arulraj</na></co>
+<co c="0"><na f="b/Balakumar:Ambarish" pid="288/0351">Ambarish Balakumar</na></co>
+<co c="1"><na f="b/Behm:Alexander" pid="88/573">Alexander Behm</na></co>
+<co c="0"><na f="b/Biales:Daniel" pid="287/9684">Daniel Biales</na></co>
+<co c="1"><na f="b/Bussel:Tom_van" pid="227/2992">Tom van Bussel</na></co>
+<co c="0"><na f="b/Butrovich:Matthew" pid="254/6674">Matthew Butrovich</na></co>
+<co c="1"><na f="c/Cashman:David" pid="40/87">David Cashman</na></co>
+<co c="1"><na f="d/Dave:Ankur" pid="74/10101">Ankur Dave</na></co>
+<co c="0"><na f="d/Dong:Ziqi" pid="242/2063">Ziqi Dong</na></co>
+<co c="0"><na f="e/Eppinger:Emmanuel_J=" pid="288/0373">Emmanuel J. Eppinger</na></co>
+<co c="0"><na f="g/Gonzalez:Jordi_E=" pid="288/0045">Jordi E. Gonzalez</na></co>
+<co c="1"><na f="g/Greenstein:Todd" pid="322/1480">Todd Greenstein</na></co>
+<co c="1"><na f="h/Hovell:Herman_Van" pid="273/6960">Herman Van Hovell</na></co>
+<co c="1"><na f="h/Hovsepian:Shant" pid="11/6201">Shant Hovsepian</na></co>
+<co c="2"><na f="j/Jacobsen:Hans=Arno" pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</na></co>
+<co c="0"><na f="j/Jiao:Jie" pid="249/6270">Jie Jiao</na></co>
+<co c="1"><na f="j/Johnson:Ryan" pid="98/3414">Ryan Johnson</na></co>
+<co c="0"><na f="j/Joshi_0001:Ananya" pid="339/0027">Ananya Joshi 0001</na></co>
+<co c="1"><na f="k/Krishnan:Arvind_Sai" pid="322/1400">Arvind Sai Krishnan</na></co>
+<co c="0"><na f="l/Lee:Lisa" pid="97/9403">Lisa Lee</na></co>
+<co c="1"><na f="l/Leventis:Paul" pid="39/3656">Paul Leventis</na></co>
+<co c="0"><na f="l/Li_0001:Tianyu" pid="92/9835-1">Tianyu Li 0001</na></co>
+<co c="0"><na f="l/Lim:Wan_Shen" pid="251/5311">Wan Shen Lim</na></co>
+<co c="0"><na f="l/Lin:Haibin" pid="142/1829">Haibin Lin</na></co>
+<co c="0"><na f="l/Lin:Jiexi" pid="19/3721">Jiexi Lin</na></co>
+<co c="0"><na f="l/Liu:Jianqiao" pid="163/3153">Jianqiao Liu</na></co>
+<co c="1"><na f="l/Luszczak:Ala" pid="322/1583">Ala Luszczak</na></co>
+<co c="0"><na f="m/Ma_0006:Lin" pid="74/3608-6">Lin Ma 0006</na></co>
+<co c="1"><na f="m/Mokhtar:Mostafa" pid="131/4245">Mostafa Mokhtar</na></co>
+<co c="0"><na f="m/Mowry:Todd_C=" pid="65/4120">Todd C. Mowry</na></co>
+<co c="0"><na f="m/Mukherjee:Soumil" pid="287/9401">Soumil Mukherjee</na></co>
+<co c="0"><na f="n/Nannapaneni:Yash" pid="288/0493">Yash Nannapaneni</na></co>
+<co c="0"><na f="n/Nayak:Tanuj" pid="287/9601">Tanuj Nayak</na></co>
+<co c="0"><na f="n/Ngom:Amadou" pid="264/0039">Amadou Ngom</na></co>
+<co c="0"><na f="n/Niu:Dong" pid="230/8646">Dong Niu</na></co>
+<co c="1"><na f="p/Palkar:Shoumik" pid="168/9023">Shoumik Palkar</na></co>
+<co c="1"><na f="p/Pang:Gene" pid="99/11140">Gene Pang</na></co>
+<co c="1"><na f="p/Paranjpye:Sameer" pid="197/7188">Sameer Paranjpye</na></co>
+<co c="0"><na f="p/Patra:Deepayan" pid="287/9665">Deepayan Patra</na></co>
+<co c="0" n="2"><na f="p/Pavlo:Andrew" pid="58/4127">Andrew Pavlo</na><na>Andy Pavlo</na></co>
+<co c="0"><na f="p/Perron:Matthew" pid="191/3842">Matthew Perron</na></co>
+<co c="2" n="2"><na f="q/Qadah:Thamir" pid="166/8355">Thamir Qadah</na><na>Thamir M. Qadah</na></co>
+<co c="0"><na f="q/Quah:Ian" pid="192/4553">Ian Quah</na></co>
+<co c="2"><na f="r/Rabl:Tilmann" pid="10/760">Tilmann Rabl</na></co>
+<co c="1"><na f="r/Rahn:Greg" pid="181/5686">Greg Rahn</na></co>
+<co c="0"><na f="r/Raj:Poojita" pid="288/0617">Poojita Raj</na></co>
+<co c="0"><na f="r/Rollinson:John" pid="287/8972">John Rollinson</na></co>
+<co c="2"><na f="s/Sadoghi:Mohammad" pid="56/7016">Mohammad Sadoghi</na></co>
+<co c="0"><na f="s/Salakhutdinov:Ruslan" pid="62/5884">Ruslan Salakhutdinov</na></co>
+<co c="1"><na f="s/Samwel:Bart" pid="15/780">Bart Samwel</na></co>
+<co c="0"><na f="s/Santurkar:Siddharth" pid="152/5627">Siddharth Santurkar</na></co>
+<co c="2"><na f="s/Song:Dantong" pid="164/3438">Dantong Song</na></co>
+<co c="0"><na f="t/Tomasic:Anthony" pid="t/AnthonyTomasic">Anthony Tomasic</na></co>
+<co c="0"><na f="t/Toor:Skye" pid="192/4563">Skye Toor</na></co>
+<co c="0"><na f="w/Wang:Stephanie" pid="175/6757">Stephanie Wang</na></co>
+<co c="0"><na f="w/Wang:Wuwen" pid="287/9761">Wuwen Wang</na></co>
+<co c="0"><na f="w/Wang:Ziqi" pid="38/8097">Ziqi Wang</na></co>
+<co c="0"><na f="w/Wu:Yingjun" pid="07/11533">Yingjun Wu</na></co>
+<co c="0"><na f="x/Xian:Ran" pid="153/2452">Ran Xian</na></co>
+<co c="1"><na f="x/Xin:Reynold" pid="47/7258">Reynold Xin</na></co>
+<co c="1"><na f="x/Xue:Maryann" pid="322/1470">Maryann Xue</na></co>
+<co c="0"><na f="y/Yu:Yao" pid="40/3778">Yao Yu</na></co>
+<co c="1"><na f="z/Zaharia:Matei" pid="36/2133">Matei Zaharia</na></co>
+<co c="0"><na f="z/Zhang:Huanchen" pid="13/8730">Huanchen Zhang</na></co>
+<co c="2"><na f="z/Zhang_0001:Kaiwen" pid="12/4550-1">Kaiwen Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Ling" pid="76/5973">Ling Zhang</na></co>
+<co c="0"><na f="z/Zhang:Tieying" pid="88/2750">Tieying Zhang</na></co>
+<co c="0"><na f="z/Zhang:William" pid="165/0511">William Zhang</na></co>
+</coauthors>
+</dblpperson>

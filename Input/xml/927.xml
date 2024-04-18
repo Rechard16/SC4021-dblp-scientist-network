@@ -1,0 +1,348 @@
+<dblpperson name="Weize Kong" pid="49/8024" n="20">
+<person key="homepages/49/8024" mdate="2010-04-28">
+<author pid="49/8024">Weize Kong</author>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2401-06954" mdate="2024-02-01">
+<author pid="196/3817">Zixuan Ke</author>
+<author pid="49/8024">Weize Kong</author>
+<author pid="16/6465-12">Cheng Li 0012</author>
+<author pid="76/4874-1">Mingyang Zhang 0001</author>
+<author pid="30/5059">Qiaozhu Mei</author>
+<author pid="80/4305">Michael Bendersky</author>
+<title>Bridging the Preference Gap between Retrievers and LLMs.</title>
+<year>2024</year>
+<volume>abs/2401.06954</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.06954</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-06954</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-08189" mdate="2024-02-01">
+<author pid="49/8024">Weize Kong</author>
+<author pid="290/8216">Spurthi Amba Hombaiah</author>
+<author pid="76/4874-1">Mingyang Zhang 0001</author>
+<author pid="30/5059">Qiaozhu Mei</author>
+<author pid="80/4305">Michael Bendersky</author>
+<title>PRewrite: Prompt Rewriting with Reinforcement Learning.</title>
+<year>2024</year>
+<volume>abs/2401.08189</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.08189</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-08189</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/DudekK0ZB23" mdate="2023-10-27">
+<author orcid="0000-0001-9980-0320" pid="183/0916">Jeffrey M. Dudek</author>
+<author orcid="0009-0004-2201-0127" pid="49/8024">Weize Kong</author>
+<author orcid="0000-0003-0678-1357" pid="16/6465-12">Cheng Li 0012</author>
+<author orcid="0000-0002-1685-2895" pid="76/4874-1">Mingyang Zhang 0001</author>
+<author orcid="0000-0002-2941-6240" pid="80/4305">Michael Bendersky</author>
+<title>Learning Sparse Lexical Representations Over Specified Vocabularies for Retrieval.</title>
+<pages>3865-3869</pages>
+<year>2023</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3583780.3615207</ee>
+<crossref>conf/cikm/2023</crossref>
+<url>db/conf/cikm/cikm2023.html#DudekK0ZB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/SamelLKCZGKXWKB23" mdate="2023-08-21">
+<author orcid="0009-0002-8788-5624" pid="223/3208">Karan Samel</author>
+<author orcid="0000-0003-0678-1357" pid="16/6465-12">Cheng Li 0012</author>
+<author orcid="0009-0004-2201-0127" pid="49/8024">Weize Kong</author>
+<author orcid="0000-0002-5334-219X" pid="69/510-8">Tao Chen 0008</author>
+<author orcid="0000-0002-1685-2895" pid="76/4874-1">Mingyang Zhang 0001</author>
+<author orcid="0009-0006-1130-5725" pid="326/3702">Shaleen Kumar Gupta</author>
+<author orcid="0009-0007-9280-3474" pid="224/0143">Swaraj Khadanga</author>
+<author orcid="0009-0002-7187-1324" pid="00/9726">Wensong Xu</author>
+<author orcid="0009-0004-2712-7674" pid="59/6939">Xingyu Wang</author>
+<author orcid="0009-0001-1013-2408" pid="353/7722">Kashyap Kolipaka</author>
+<author orcid="0000-0002-2941-6240" pid="80/4305">Michael Bendersky</author>
+<author orcid="0000-0003-1423-0854" pid="n/MarcNajork">Marc Najork</author>
+<title>End-to-End Query Term Weighting.</title>
+<pages>4778-4786</pages>
+<year>2023</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/3580305.3599815</ee>
+<crossref>conf/kdd/2023</crossref>
+<url>db/conf/kdd/kdd2023.html#SamelLKCZGKXWKB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/KongD0ZB23" mdate="2023-07-21">
+<author orcid="0009-0004-2201-0127" pid="49/8024">Weize Kong</author>
+<author orcid="0000-0001-9980-0320" pid="183/0916">Jeffrey M. Dudek</author>
+<author orcid="0000-0003-0678-1357" pid="16/6465-12">Cheng Li 0012</author>
+<author orcid="0000-0002-1685-2895" pid="76/4874-1">Mingyang Zhang 0001</author>
+<author orcid="0000-0002-2941-6240" pid="80/4305">Michael Bendersky</author>
+<title>SparseEmbed: Learning Sparse Lexical Representations with Contextual Embeddings for Retrieval.</title>
+<pages>2399-2403</pages>
+<year>2023</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3539618.3592065</ee>
+<crossref>conf/sigir/2023</crossref>
+<url>db/conf/sigir/sigir2023.html#KongD0ZB23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-00152" mdate="2023-10-18">
+<author pid="16/6465-12">Cheng Li 0012</author>
+<author pid="76/4874-1">Mingyang Zhang 0001</author>
+<author pid="30/5059">Qiaozhu Mei</author>
+<author pid="49/8024">Weize Kong</author>
+<author pid="80/4305">Michael Bendersky</author>
+<title>Automatic Prompt Rewriting for Personalized Text Generation.</title>
+<year>2023</year>
+<volume>abs/2310.00152</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.00152</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-00152</url>
+</article>
+</r>
+<r><inproceedings key="conf/kdd/KongK0G0XB22" mdate="2023-08-19">
+<author pid="49/8024">Weize Kong</author>
+<author pid="224/0143">Swaraj Khadanga</author>
+<author pid="16/6465-12">Cheng Li 0012</author>
+<author orcid="0009-0006-1130-5725" pid="326/3702">Shaleen Kumar Gupta</author>
+<author pid="76/4874-1">Mingyang Zhang 0001</author>
+<author pid="00/9726">Wensong Xu</author>
+<author pid="80/4305">Michael Bendersky</author>
+<title>Multi-Aspect Dense Retrieval.</title>
+<pages>3178-3186</pages>
+<year>2022</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/3534678.3539137</ee>
+<crossref>conf/kdd/2022</crossref>
+<url>db/conf/kdd/kdd2022.html#KongK0G0XB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/QuKY0BN21" mdate="2023-09-30">
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="49/8024">Weize Kong</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="76/4874-1">Mingyang Zhang 0001</author>
+<author pid="80/4305">Michael Bendersky</author>
+<author orcid="0000-0003-1423-0854" pid="n/MarcNajork">Marc Najork</author>
+<title>Natural Language Understanding with Privacy-Preserving BERT.</title>
+<pages>1488-1497</pages>
+<year>2021</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3459637.3482281</ee>
+<crossref>conf/cikm/2021</crossref>
+<url>db/conf/cikm/cikm2021.html#QuKY0BN21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/JagermanKPQBN21" mdate="2023-09-30">
+<author orcid="0000-0002-5169-495X" pid="144/7357">Rolf Jagerman</author>
+<author pid="49/8024">Weize Kong</author>
+<author pid="125/3197">Rama Kumar Pasumarthi</author>
+<author pid="06/864-1">Zhen Qin 0001</author>
+<author pid="80/4305">Michael Bendersky</author>
+<author orcid="0000-0003-1423-0854" pid="n/MarcNajork">Marc Najork</author>
+<title>Improving Cloud Storage Search with User Activity.</title>
+<pages>508-516</pages>
+<year>2021</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/3437963.3441780</ee>
+<crossref>conf/wsdm/2021</crossref>
+<url>db/conf/wsdm/wsdm2021.html#JagermanKPQBN21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-07504" mdate="2022-01-25">
+<author pid="148/7268-1">Chen Qu 0001</author>
+<author pid="49/8024">Weize Kong</author>
+<author pid="27/3367-5">Liu Yang 0005</author>
+<author pid="76/4874-1">Mingyang Zhang 0001</author>
+<author pid="80/4305">Michael Bendersky</author>
+<author orcid="0000-0003-1423-0854" pid="n/MarcNajork">Marc Najork</author>
+<title>Privacy-Adaptive BERT for Natural Language Understanding.</title>
+<year>2021</year>
+<volume>abs/2104.07504</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.07504</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-07504</url>
+</article>
+</r>
+<r><inproceedings key="conf/kdd/KongBNVC20" mdate="2021-04-09">
+<author pid="49/8024">Weize Kong</author>
+<author pid="80/4305">Michael Bendersky</author>
+<author orcid="0000-0003-1423-0854" pid="n/MarcNajork">Marc Najork</author>
+<author pid="193/2901">Brandon Vargo</author>
+<author pid="204/3354">Mike Colagrosso</author>
+<title>Learning to Cluster Documents into Workspaces Using Large Scale Activity Logs.</title>
+<pages>2416-2424</pages>
+<year>2020</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/3394486.3403291</ee>
+<crossref>conf/kdd/2020</crossref>
+<url>db/conf/kdd/kdd2020.html#KongBNVC20</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigir/Kong16" mdate="2018-11-06">
+<author pid="49/8024">Weize Kong</author>
+<title>Extending Faceted Search to the Open-Domain Web.</title>
+<pages>90-91</pages>
+<year>2016</year>
+<volume>50</volume>
+<journal>SIGIR Forum</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2964797.2964814</ee>
+<url>db/journals/sigir/sigir50.html#Kong16</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/KongA16" mdate="2018-11-06">
+<author pid="49/8024">Weize Kong</author>
+<author pid="10/4537">James Allan</author>
+<title>Precision-Oriented Query Facet Extraction.</title>
+<pages>1433-1442</pages>
+<year>2016</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2983323.2983824</ee>
+<crossref>conf/cikm/2016</crossref>
+<url>db/conf/cikm/cikm2016.html#KongA16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/ZhangGKDDCGH15" mdate="2022-10-02">
+<author pid="142/9150">Aston Zhang</author>
+<author pid="03/3019-1">Amit Goyal 0001</author>
+<author pid="49/8024">Weize Kong</author>
+<author pid="09/43">Hongbo Deng</author>
+<author pid="28/6385">Anlei Dong</author>
+<author orcid="0000-0003-2697-8093" pid="02/5438">Yi Chang 0001</author>
+<author pid="g/CarlAGunter">Carl A. Gunter</author>
+<author pid="h/JiaweiHan">Jiawei Han 0001</author>
+<title>adaQAC: Adaptive Query Auto-Completion via Implicit Negative Feedback.</title>
+<pages>143-152</pages>
+<year>2015</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2766462.2767697</ee>
+<crossref>conf/sigir/2015</crossref>
+<url>db/conf/sigir/sigir2015.html#ZhangGKDDCGH15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/KongLLZCA15" mdate="2022-10-02">
+<author pid="49/8024">Weize Kong</author>
+<author pid="96/4282-49">Rui Li 0049</author>
+<author pid="29/186">Jie Luo</author>
+<author pid="142/9150">Aston Zhang</author>
+<author orcid="0000-0003-2697-8093" pid="02/5438">Yi Chang 0001</author>
+<author pid="10/4537">James Allan</author>
+<title>Predicting Search Intent Based on Pre-Search Context.</title>
+<pages>503-512</pages>
+<year>2015</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2766462.2767757</ee>
+<crossref>conf/sigir/2015</crossref>
+<url>db/conf/sigir/sigir2015.html#KongLLZCA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/KongA14" mdate="2018-11-06">
+<author pid="49/8024">Weize Kong</author>
+<author pid="10/4537">James Allan</author>
+<title>Extending Faceted Search to the General Web.</title>
+<pages>839-848</pages>
+<year>2014</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2661829.2661964</ee>
+<crossref>conf/cikm/2014</crossref>
+<url>db/conf/cikm/cikm2014.html#KongA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/KongAA13" mdate="2018-11-06">
+<author pid="49/8024">Weize Kong</author>
+<author pid="15/707">Elif Aktolga</author>
+<author pid="10/4537">James Allan</author>
+<title>Improving passage ranking with user behavior information.</title>
+<pages>1999-2008</pages>
+<year>2013</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2505515.2505719</ee>
+<crossref>conf/cikm/2013</crossref>
+<url>db/conf/cikm/cikm2013.html#KongAA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/KongA13" mdate="2018-11-06">
+<author pid="49/8024">Weize Kong</author>
+<author pid="10/4537">James Allan</author>
+<title>Extracting query facets from search results.</title>
+<pages>93-102</pages>
+<year>2013</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2484028.2484097</ee>
+<crossref>conf/sigir/2013</crossref>
+<url>db/conf/sigir/sigir2013.html#KongA13</url>
+</inproceedings>
+</r>
+<r><article key="journals/tweb/LiuCKYZMR12" mdate="2023-08-28">
+<author pid="49/1579-1">Yiqun Liu 0001</author>
+<author pid="81/4345">Fei Chen</author>
+<author pid="49/8024">Weize Kong</author>
+<author pid="27/7404">Huijia Yu</author>
+<author pid="83/5342-6">Min Zhang 0006</author>
+<author pid="40/1949">Shaoping Ma</author>
+<author pid="50/3014">Liyun Ru</author>
+<title>Identifying Web Spam with the Wisdom of the Crowds.</title>
+<pages>2:1-2:30</pages>
+<year>2012</year>
+<volume>6</volume>
+<journal>ACM Trans. Web</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2109205.2109207</ee>
+<ee>https://www.wikidata.org/entity/Q114371311</ee>
+<url>db/journals/tweb/tweb6.html#LiuCKYZMR12</url>
+</article>
+</r>
+<r><inproceedings key="conf/www/KongLMR10" mdate="2020-09-16">
+<author pid="49/8024">Weize Kong</author>
+<author pid="49/1579-1">Yiqun Liu 0001</author>
+<author pid="40/1949">Shaoping Ma</author>
+<author pid="50/3014">Liyun Ru</author>
+<title>Detecting epidemic tendency by mining search logs.</title>
+<pages>1133-1134</pages>
+<year>2010</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/1772690.1772840</ee>
+<crossref>conf/www/2010</crossref>
+<url>db/conf/www/www2010.html#KongLMR10</url>
+</inproceedings>
+</r>
+<coauthors n="39" nc="1">
+<co c="0"><na f="a/Aktolga:Elif" pid="15/707">Elif Aktolga</na></co>
+<co c="0"><na f="a/Allan:James" pid="10/4537">James Allan</na></co>
+<co c="0"><na f="b/Bendersky:Michael" pid="80/4305">Michael Bendersky</na></co>
+<co c="0"><na f="c/Chang_0001:Yi" pid="02/5438">Yi Chang 0001</na></co>
+<co c="0"><na f="c/Chen:Fei" pid="81/4345">Fei Chen</na></co>
+<co c="0"><na f="c/Chen_0008:Tao" pid="69/510-8">Tao Chen 0008</na></co>
+<co c="0"><na f="c/Colagrosso:Mike" pid="204/3354">Mike Colagrosso</na></co>
+<co c="0"><na f="d/Deng:Hongbo" pid="09/43">Hongbo Deng</na></co>
+<co c="0"><na f="d/Dong:Anlei" pid="28/6385">Anlei Dong</na></co>
+<co c="0"><na f="d/Dudek:Jeffrey_M=" pid="183/0916">Jeffrey M. Dudek</na></co>
+<co c="0"><na f="g/Goyal_0001:Amit" pid="03/3019-1">Amit Goyal 0001</na></co>
+<co c="0"><na f="g/Gunter:Carl_A=" pid="g/CarlAGunter">Carl A. Gunter</na></co>
+<co c="0"><na f="g/Gupta:Shaleen_Kumar" pid="326/3702">Shaleen Kumar Gupta</na></co>
+<co c="0"><na f="h/Han_0001:Jiawei" pid="h/JiaweiHan">Jiawei Han 0001</na></co>
+<co c="0"><na f="h/Hombaiah:Spurthi_Amba" pid="290/8216">Spurthi Amba Hombaiah</na></co>
+<co c="0"><na f="j/Jagerman:Rolf" pid="144/7357">Rolf Jagerman</na></co>
+<co c="0"><na f="k/Ke:Zixuan" pid="196/3817">Zixuan Ke</na></co>
+<co c="0"><na f="k/Khadanga:Swaraj" pid="224/0143">Swaraj Khadanga</na></co>
+<co c="0"><na f="k/Kolipaka:Kashyap" pid="353/7722">Kashyap Kolipaka</na></co>
+<co c="0"><na f="l/Li_0012:Cheng" pid="16/6465-12">Cheng Li 0012</na></co>
+<co c="0"><na f="l/Li_0049:Rui" pid="96/4282-49">Rui Li 0049</na></co>
+<co c="0"><na f="l/Liu_0001:Yiqun" pid="49/1579-1">Yiqun Liu 0001</na></co>
+<co c="0"><na f="l/Luo:Jie" pid="29/186">Jie Luo</na></co>
+<co c="0"><na f="m/Ma:Shaoping" pid="40/1949">Shaoping Ma</na></co>
+<co c="0"><na f="m/Mei:Qiaozhu" pid="30/5059">Qiaozhu Mei</na></co>
+<co c="0"><na f="n/Najork:Marc" pid="n/MarcNajork">Marc Najork</na></co>
+<co c="0"><na f="p/Pasumarthi:Rama_Kumar" pid="125/3197">Rama Kumar Pasumarthi</na></co>
+<co c="0"><na f="q/Qin_0001:Zhen" pid="06/864-1">Zhen Qin 0001</na></co>
+<co c="0"><na f="q/Qu_0001:Chen" pid="148/7268-1">Chen Qu 0001</na></co>
+<co c="0"><na f="r/Ru:Liyun" pid="50/3014">Liyun Ru</na></co>
+<co c="0"><na f="s/Samel:Karan" pid="223/3208">Karan Samel</na></co>
+<co c="0"><na f="v/Vargo:Brandon" pid="193/2901">Brandon Vargo</na></co>
+<co c="0"><na f="w/Wang:Xingyu" pid="59/6939">Xingyu Wang</na></co>
+<co c="0"><na f="x/Xu:Wensong" pid="00/9726">Wensong Xu</na></co>
+<co c="0"><na f="y/Yang_0005:Liu" pid="27/3367-5">Liu Yang 0005</na></co>
+<co c="0"><na f="y/Yu:Huijia" pid="27/7404">Huijia Yu</na></co>
+<co c="0"><na f="z/Zhang:Aston" pid="142/9150">Aston Zhang</na></co>
+<co c="0"><na f="z/Zhang_0006:Min" pid="83/5342-6">Min Zhang 0006</na></co>
+<co c="0"><na f="z/Zhang_0001:Mingyang" pid="76/4874-1">Mingyang Zhang 0001</na></co>
+</coauthors>
+</dblpperson>

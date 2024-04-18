@@ -1,0 +1,1263 @@
+<dblpperson name="Xiangyao Yu" pid="126/6015" n="72">
+<person key="homepages/126/6015" mdate="2013-03-04">
+<author pid="126/6015">Xiangyao Yu</author>
+</person>
+<r><inproceedings key="conf/cidr/YangZYK24" mdate="2024-04-05">
+<author pid="133/7657">Yifei Yang</author>
+<author pid="307/7991">Hangdong Zhao</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="49/8316">Paraschos Koutris</author>
+<title>Predicate Transfer: Efficient Pre-Filtering on Multi-Join Queries.</title>
+<year>2024</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2024/papers/p22-yang.pdf</ee>
+<crossref>conf/cidr/2024</crossref>
+<url>db/conf/cidr/cidr2024.html#YangZYK24</url>
+</inproceedings>
+</r>
+<r><article key="journals/pacmmod/YeHCY23" mdate="2023-06-15">
+<author orcid="0000-0002-1029-4175" pid="304/2139">Chenhao Ye</author>
+<author orcid="0009-0007-8819-4901" pid="337/3094">Wuh-Chwen Hwang</author>
+<author orcid="0009-0009-8601-1416" pid="256/6769">Keren Chen</author>
+<author orcid="0009-0001-0785-2519" pid="126/6015">Xiangyao Yu</author>
+<title>Polaris: Enabling Transaction Priority in Optimistic Concurrency Control.</title>
+<pages>44:1-44:24</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3588724</ee>
+<url>db/journals/pacmmod/pacmmod1.html#YeHCY23</url>
+</article>
+</r>
+<r><article key="journals/pomacs/LinJHCLYA23" mdate="2023-07-21">
+<author orcid="0009-0008-4428-2771" pid="179/5126">Jiaxin Lin</author>
+<author orcid="0009-0002-0494-5768" pid="76/1774">Tao Ji</author>
+<author orcid="0009-0001-9554-9084" pid="255/9284">Xiangpeng Hao</author>
+<author orcid="0009-0007-4305-5721" pid="237/0718">Hokeun Cha</author>
+<author orcid="0000-0002-5680-9015" pid="148/1943">Yanfang Le</author>
+<author orcid="0009-0001-0785-2519" pid="126/6015">Xiangyao Yu</author>
+<author orcid="0000-0002-5920-170X" pid="a/AdityaAkella">Aditya Akella</author>
+<title>Towards Accelerating Data Intensive Application's Shuffle Process Using SmartNICs.</title>
+<pages>36:1-36:23</pages>
+<year>2023</year>
+<volume>7</volume>
+<journal>Proc. ACM Meas. Anal. Comput. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3589980</ee>
+<url>db/journals/pomacs/pomacs7.html#LinJHCLYA23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChaHWZAY23" mdate="2023-10-28">
+<author orcid="0009-0007-4305-5721" pid="237/0718">Hokeun Cha</author>
+<author pid="255/9284">Xiangpeng Hao</author>
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<author pid="13/8730">Huanchen Zhang</author>
+<author pid="a/AdityaAkella">Aditya Akella</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<title>Blink-hash: An Adaptive Hybrid Index for In-Memory Time-Series Databases.</title>
+<pages>1235-1248</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p1235-cha.pdf</ee>
+<ee>https://doi.org/10.14778/3583140.3583143</ee>
+<url>db/journals/pvldb/pvldb16.html#ChaHWZAY23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/Kraft0ZBSYZ23" mdate="2024-02-05">
+<author pid="62/4022">Peter Kraft</author>
+<author pid="69/5902-27">Qian Li 0027</author>
+<author pid="255/9363">Xinjing Zhou</author>
+<author pid="47/8816">Peter Bailis</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author orcid="0000-0002-7547-7204" pid="36/2133">Matei Zaharia</author>
+<title>Epoxy: ACID Transactions Across Diverse Data Stores.</title>
+<pages>2742-2754</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p2742-kraft.pdf</ee>
+<ee>https://doi.org/10.14778/3611479.3611484</ee>
+<url>db/journals/pvldb/pvldb16.html#Kraft0ZBSYZ23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/0027KCDGKSSYZ23" mdate="2024-02-05">
+<author pid="69/5902-27">Qian Li 0027</author>
+<author pid="62/4022">Peter Kraft</author>
+<author pid="82/231">Michael J. Cafarella</author>
+<author pid="74/20">&#199;agatay Demiralp</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="k/ChristoforosEKozyrakis">Christos Kozyrakis</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="206/4530">Lalith Suresh</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author orcid="0000-0002-7547-7204" pid="36/2133">Matei Zaharia</author>
+<title>R<sup>3</sup>: Record-Replay-Retroaction for Database-Backed Applications.</title>
+<pages>3085-3097</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p3085-li.pdf</ee>
+<ee>https://doi.org/10.14778/3611479.3611510</ee>
+<url>db/journals/pvldb/pvldb16.html#0027KCDGKSSYZ23</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/ZhouYGS23" mdate="2023-07-19">
+<author pid="255/9363">Xinjing Zhou</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>Two is Better Than One: The Case for 2-Tree for Skewed Data Sets.</title>
+<year>2023</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2023/papers/p57-zhou.pdf</ee>
+<crossref>conf/cidr/2023</crossref>
+<url>db/conf/cidr/cidr2023.html#ZhouYGS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/YogatamaMWMHKY23" mdate="2023-07-07">
+<author orcid="0009-0002-7101-1068" pid="236/7075">Bobbi Yogatama</author>
+<author orcid="0009-0002-9240-4872" pid="25/8100">Brandon Miller</author>
+<author orcid="0000-0001-5809-8141" pid="182/0203">Yunsong Wang</author>
+<author orcid="0009-0003-9005-1716" pid="55/8769">Graham R. Markall</author>
+<author orcid="0009-0009-5777-3657" pid="349/0386">Jacob Hemstad</author>
+<author orcid="0000-0003-1075-1417" pid="349/1002">Gregory Kimball</author>
+<author orcid="0009-0001-0785-2519" pid="126/6015">Xiangyao Yu</author>
+<title>Accelerating User-Defined Aggregate Functions (UDAF) with Block-wide Execution and JIT Compilation on GPUs.</title>
+<pages>19-26</pages>
+<year>2023</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3592980.3595307</ee>
+<crossref>conf/damon/2023</crossref>
+<url>db/conf/damon/damon2023.html#YogatamaMWMHKY23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/osdi/ChengCLCCHSY23" mdate="2023-07-15">
+<author pid="263/3719">Audrey Cheng</author>
+<author pid="80/2263">David Chu</author>
+<author pid="351/6008">Terrance Li</author>
+<author pid="55/5064">Jason Chan</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<title>Take Out the TraChe: Maximizing (Tra)nsactional Ca(che) Hit Rate.</title>
+<pages>419-439</pages>
+<year>2023</year>
+<booktitle>OSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/osdi23/presentation/cheng</ee>
+<crossref>conf/osdi/2023</crossref>
+<url>db/conf/osdi/osdi2023.html#ChengCLCCHSY23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmetrics/LinJHCLYA23" mdate="2023-07-07">
+<author orcid="0009-0008-4428-2771" pid="179/5126">Jiaxin Lin</author>
+<author orcid="0009-0002-0494-5768" pid="76/1774">Tao Ji</author>
+<author orcid="0009-0001-9554-9084" pid="255/9284">Xiangpeng Hao</author>
+<author orcid="0009-0007-4305-5721" pid="237/0718">Hokeun Cha</author>
+<author orcid="0000-0002-5680-9015" pid="148/1943">Yanfang Le</author>
+<author orcid="0009-0001-0785-2519" pid="126/6015">Xiangyao Yu</author>
+<author orcid="0000-0002-5920-170X" pid="a/AdityaAkella">Aditya Akella</author>
+<title>Towards Accelerating Data Intensive Application's Shuffle Process Using SmartNICs.</title>
+<pages>9-10</pages>
+<year>2023</year>
+<booktitle>SIGMETRICS (Abstracts)</booktitle>
+<ee>https://doi.org/10.1145/3578338.3593577</ee>
+<crossref>conf/sigmetrics/2023</crossref>
+<url>db/conf/sigmetrics/sigmetrics2023.html#LinJHCLYA23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-15255" mdate="2023-08-02">
+<author pid="133/7657">Yifei Yang</author>
+<author pid="307/7991">Hangdong Zhao</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="49/8316">Paraschos Koutris</author>
+<title>Predicate Transfer: Efficient Pre-Filtering on Multi-Join Queries.</title>
+<year>2023</year>
+<volume>abs/2307.15255</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.15255</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-15255</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-04824" mdate="2023-11-15">
+<author pid="37/4465-1">Xi Wu 0001</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="139/9356">Shaleen Deep</author>
+<author pid="120/1508">Ahmed Mahmood</author>
+<author pid="210/0937">Uyeong Jang</author>
+<author pid="v/SViglas">Stratis Viglas</author>
+<author pid="j/SomeshJha">Somesh Jha</author>
+<author pid="98/1786">John Cieslewicz</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<title>Bilevel Relations and Their Applications to Data Insights.</title>
+<year>2023</year>
+<volume>abs/2311.04824</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.04824</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-04824</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-15405" mdate="2024-01-18">
+<author pid="133/7657">Yifei Yang</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="02/6087">Marco Serafini</author>
+<author pid="01/3996">Ashraf Aboulnaga</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>Enhancing Computation Pushdown for Cloud OLAP Databases.</title>
+<year>2023</year>
+<volume>abs/2312.15405</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.15405</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-15405</url>
+</article>
+</r>
+<r><article key="journals/pvldb/YogatamaGY22" mdate="2023-10-23">
+<author pid="236/7075">Bobbi W. Yogatama</author>
+<author pid="30/841">Weiwei Gong</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<title>Orchestrating Data Placement and Query Execution in Heterogeneous CPU-GPU DBMS.</title>
+<pages>2491-2503</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p2491-yogatama.pdf</ee>
+<ee>https://doi.org/10.14778/3551793.3551809</ee>
+<url>db/journals/pvldb/pvldb15.html#YogatamaGY22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ZhouYGS22" mdate="2023-10-23">
+<author pid="255/9363">Xinjing Zhou</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>Lotus: Scalable Multi-Partition Transactions on Single-Threaded Partitioned Databases.</title>
+<pages>2939-2952</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p2939-zhou.pdf</ee>
+<ee>https://doi.org/10.14778/3551793.3551843</ee>
+<url>db/journals/pvldb/pvldb15.html#ZhouYGS22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GuoZWHRY0B22" mdate="2023-10-23">
+<author pid="241/5293">Zhihan Guo</author>
+<author pid="127/2112">Xinyu Zeng</author>
+<author pid="20/1552">Kan Wu</author>
+<author pid="337/3094">Wuh-Chwen Hwang</author>
+<author pid="09/7641">Ziwei Ren</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="b/MBalakrishnan">Mahesh Balakrishnan 0001</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<title>Cornus: Atomic Commit for a Cloud DBMS with Storage Disaggregation.</title>
+<pages>379-392</pages>
+<year>2022</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p379-guo.pdf</ee>
+<ee>https://doi.org/10.14778/3565816.3565837</ee>
+<url>db/journals/pvldb/pvldb16.html#GuoZWHRY0B22</url>
+</article>
+</r>
+<r><inproceedings key="conf/hpca/YadalamSYS22" mdate="2023-09-30">
+<author orcid="0009-0005-6850-5579" pid="284/8679">Sujay Yadalam</author>
+<author pid="320/7654">Nisarg Shah 0004</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="s/MichaelMSwift">Michael M. Swift</author>
+<title>ASAP: A Speculative Approach to Persistence.</title>
+<pages>892-907</pages>
+<year>2022</year>
+<booktitle>HPCA</booktitle>
+<ee>https://doi.org/10.1109/HPCA53966.2022.00070</ee>
+<crossref>conf/hpca/2022</crossref>
+<url>db/conf/hpca/hpca2022.html#YadalamSYS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/ZhangYQG22" mdate="2022-07-22">
+<author pid="43/6657">Jin Zhang</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="17/1970">Zhengwei Qi</author>
+<author pid="96/5680">Haibing Guan</author>
+<title>Falcon: A Timestamp-based Protocol to Maximize the Cache Efficiency in the Distributed Shared Memory.</title>
+<pages>974-984</pages>
+<year>2022</year>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS53621.2022.00099</ee>
+<crossref>conf/ipps/2022</crossref>
+<url>db/conf/ipps/ipdps2022.html#ZhangYQG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChenYKAAS22" mdate="2023-11-12">
+<author pid="203/1564">Youmin Chen</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="49/8316">Paraschos Koutris</author>
+<author orcid="0000-0001-8618-2738" pid="a/AndreaCArpaciDusseau">Andrea C. Arpaci-Dusseau</author>
+<author pid="a/RemziHArpaciDusseau">Remzi H. Arpaci-Dusseau</author>
+<author pid="60/3690">Jiwu Shu</author>
+<title>Plor: General Transactions with Predictable, Low Tail Latency.</title>
+<pages>19-33</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3517879</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#ChenYKAAS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ShanbhagYYM22" mdate="2023-08-08">
+<author pid="149/5876">Anil Shanbhag</author>
+<author pid="236/7075">Bobbi W. Yogatama</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>Tile-based Lightweight Integer Compression in GPU.</title>
+<pages>1390-1403</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3526132</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#ShanbhagYYM22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/0005YBPD22" mdate="2023-09-30">
+<author pid="28/4326-5">Yu Xia 0005</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="254/6674">Matthew Butrovich</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>Litmus: Towards a Practical Database Management System with Verifiable ACID Properties and Transaction Correctness.</title>
+<pages>1478-1492</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3517851</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#0005YBPD22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MilkaiCGGPY22" mdate="2022-06-14">
+<author pid="322/1627">Elena Milkai</author>
+<author pid="176/4991">Yannis Chronis</author>
+<author pid="212/9589">Kevin P. Gaffney</author>
+<author pid="241/5293">Zhihan Guo</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<title>How Good is My HTAP System?</title>
+<pages>1810-1824</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3526148</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#MilkaiCGGPY22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2208-13068" mdate="2022-09-02">
+<author pid="62/4022">Peter Kraft</author>
+<author pid="69/5902-27">Qian Li 0027</author>
+<author pid="237/0852">Kostis Kaffes</author>
+<author pid="310/1377">Athinagoras Skiadopoulos</author>
+<author pid="307/3594">Deeptaanshu Kumar</author>
+<author pid="327/9506">Danny Cho</author>
+<author pid="12/975">Jason Li</author>
+<author pid="326/5858">Robert Redmond</author>
+<author pid="326/5201">Nathan W. Weckwerth</author>
+<author pid="326/5692">Brian S. Xia</author>
+<author pid="47/8816">Peter Bailis</author>
+<author pid="82/231">Michael J. Cafarella</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="25/6583">Jeremy Kepner</author>
+<author pid="k/ChristoforosEKozyrakis">Christos Kozyrakis</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="206/4530">Lalith Suresh</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="36/2133">Matei Zaharia</author>
+<title>Apiary: A DBMS-Backed Transactional Function-as-a-Service Framework.</title>
+<year>2022</year>
+<volume>abs/2208.13068</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2208.13068</ee>
+<url>db/journals/corr/corr2208.html#abs-2208-13068</url>
+</article>
+</r>
+<r><article key="journals/pvldb/0010Y0M21" mdate="2023-08-08">
+<author pid="67/1328-10">Yi Lu 0010</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author orcid="0000-0001-9909-8607" pid="17/6060-4">Lei Cao 0004</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>Epoch-based Commit and Replication in Distributed OLTP Databases.</title>
+<pages>743-756</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p743-lu.pdf</ee>
+<ee>https://doi.org/10.14778/3446095.3446098</ee>
+<url>db/journals/pvldb/pvldb14.html#0010Y0M21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/YangYWLYSAS21" mdate="2022-10-02">
+<author orcid="0000-0002-7481-1979" pid="133/7657">Yifei Yang</author>
+<author pid="259/1265">Matt Youill</author>
+<author pid="222/7847">Matthew E. Woicik</author>
+<author pid="23/4344">Yizhou Liu</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="02/6087">Marco Serafini</author>
+<author pid="01/3996">Ashraf Aboulnaga</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>FlexPushdownDB: Hybrid Pushdown and Caching in a Cloud DBMS.</title>
+<pages>2101-2113</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2101-yang.pdf</ee>
+<ee>https://doi.org/10.14778/3476249.3476265</ee>
+<url>db/journals/pvldb/pvldb14.html#YangYWLYSAS21</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/GuoWYY21" mdate="2021-06-21">
+<author pid="241/5293">Zhihan Guo</author>
+<author pid="20/1552">Kan Wu</author>
+<author pid="129/2744">Cong Yan</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<title>Releasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking.</title>
+<pages>658-670</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3457294</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#GuoWYY21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-10185" mdate="2021-02-24">
+<author pid="241/5293">Zhihan Guo</author>
+<author pid="127/2112">Xinyu Zeng</author>
+<author pid="09/7641">Ziwei Ren</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<title>Cornus: One-Phase Commit for Cloud Databases with Storage Disaggregation.</title>
+<year>2021</year>
+<volume>abs/2102.10185</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.10185</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-10185</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-09906" mdate="2021-03-23">
+<author pid="241/5293">Zhihan Guo</author>
+<author pid="20/1552">Kan Wu</author>
+<author pid="129/2744">Cong Yan</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<title>Releasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking (Extended Version).</title>
+<year>2021</year>
+<volume>abs/2103.09906</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.09906</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-09906</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LuYCM20" mdate="2023-08-08">
+<author pid="67/1328-10">Yi Lu 0010</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="17/6060-4">Lei Cao 0004</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>Aria: A Fast and Practical Deterministic OLTP Database.</title>
+<pages>2047-2060</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2047-lu.pdf</ee>
+<url>db/journals/pvldb/pvldb13.html#LuYCM20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/XiaYPD20" mdate="2023-09-30">
+<author pid="28/4326-5">Yu Xia 0005</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>Taurus: Lightweight Parallel Logging for In-Memory Database Management Systems.</title>
+<pages>189-201</pages>
+<year>2020</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p189-xia.pdf</ee>
+<ee>https://doi.org/10.14778/3425879.3425889</ee>
+<url>db/journals/pvldb/pvldb14.html#XiaYPD20</url>
+</article>
+</r>
+<r><article key="journals/tcad/StefanovDSF0YD20" mdate="2021-10-14">
+<author pid="61/9827">Emil Stefanov</author>
+<author orcid="0000-0001-9388-8050" pid="32/1399">Marten van Dijk</author>
+<author pid="80/4580">Elaine Shi</author>
+<author orcid="0000-0002-9995-5995" pid="25/8166">Christopher W. Fletcher</author>
+<author orcid="0000-0003-3437-7570" pid="30/10661">Ling Ren 0001</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>A Retrospective on Path ORAM.</title>
+<pages>1572-1576</pages>
+<year>2020</year>
+<volume>39</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TCAD.2019.2925398</ee>
+<url>db/journals/tcad/tcad39.html#StefanovDSF0YD20</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/YuYWGSAS20" mdate="2023-09-30">
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="259/1265">Matt Youill</author>
+<author pid="222/7847">Matthew E. Woicik</author>
+<author pid="178/3717">Abdurrahman Ghanem</author>
+<author pid="02/6087">Marco Serafini</author>
+<author orcid="0000-0001-6693-7099" pid="01/3996">Ashraf Aboulnaga</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>PushdownDB: Accelerating a DBMS Using S3 Computation.</title>
+<pages>1802-1805</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00174</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#YuYWGSAS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ShanbhagMY20" mdate="2023-08-08">
+<author pid="149/5876">Anil Shanbhag</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<title>A Study of the Fundamental Performance Characteristics of GPUs and CPUs for Database Analytics.</title>
+<pages>1617-1632</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3380595</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#ShanbhagMY20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-05837" mdate="2020-03-02">
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="259/1265">Matt Youill</author>
+<author pid="222/7847">Matthew E. Woicik</author>
+<author pid="178/3717">Abdurrahman Ghanem</author>
+<author pid="02/6087">Marco Serafini</author>
+<author pid="01/3996">Ashraf Aboulnaga</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>PushdownDB: Accelerating a DBMS using S3 Computation.</title>
+<year>2020</year>
+<volume>abs/2002.05837</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.05837</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-05837</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-01178" mdate="2023-08-08">
+<author pid="149/5876">Anil Shanbhag</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<title>A Study of the Fundamental Performance Characteristics of GPUs and CPUs for Database Analytics (Extended Version).</title>
+<year>2020</year>
+<volume>abs/2003.01178</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.01178</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-01178</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-06760" mdate="2021-08-23">
+<author pid="28/4326-5">Yu Xia 0005</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="58/4127">Andrew Pavlo</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>Taurus: Lightweight Parallel Logging for In-Memory Database Management Systems (Extended Version).</title>
+<year>2020</year>
+<volume>abs/2010.06760</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.06760</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-06760</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LuYM19" mdate="2023-08-08">
+<author pid="67/1328-10">Yi Lu 0010</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>STAR: Scaling Transactions through Asymmetric Replication.</title>
+<pages>1316-1329</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1316-lu.pdf</ee>
+<ee>https://doi.org/10.14778/3342263.3342270</ee>
+<url>db/journals/pvldb/pvldb12.html#LuYM19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ZamanianYSK19" mdate="2020-04-25">
+<author pid="141/9169">Erfan Zamanian</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Rethinking Database High Availability with RDMA Networks.</title>
+<pages>1637-1650</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1637-zamanian.pdf</ee>
+<ee>https://doi.org/10.14778/3342263.3342639</ee>
+<url>db/journals/pvldb/pvldb12.html#ZamanianYSK19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/TanGPYSDSAK19" mdate="2024-02-05">
+<author pid="239/9464">Junjay Tan</author>
+<author pid="09/3546">Thanaa M. Ghanem</author>
+<author orcid="0000-0002-2879-977X" pid="191/3842">Matthew Perron</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="02/6087">Marco Serafini</author>
+<author orcid="0000-0001-6693-7099" pid="01/3996">Ashraf Aboulnaga</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Choosing A Cloud DBMS: Architectures and Tradeoffs.</title>
+<pages>2170-2182</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p2170-tan.pdf</ee>
+<ee>https://doi.org/10.14778/3352063.3352133</ee>
+<url>db/journals/pvldb/pvldb12.html#TanGPYSDSAK19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ppopp/XiaYMSD19" mdate="2022-06-12">
+<author pid="28/4326-5">Yu Xia 0005</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="183/6515">William S. Moses</author>
+<author pid="82/9876">Julian Shun</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>LiTM: A Lightweight Deterministic Software Transactional Memory System.</title>
+<pages>1-10</pages>
+<year>2019</year>
+<booktitle>PMAM@PPoPP</booktitle>
+<ee>https://doi.org/10.1145/3303084.3309487</ee>
+<crossref>conf/ppopp/2019pmam</crossref>
+<url>db/conf/ppopp/pmam2019.html#XiaYMSD19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-00424" mdate="2023-08-08">
+<author pid="67/1328-10">Yi Lu 0010</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>SCAR: Strong Consistency using Asynchronous Replication with Minimal Coordination.</title>
+<year>2019</year>
+<volume>abs/1903.00424</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.00424</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-00424</url>
+</article>
+</r>
+<r><phdthesis key="phd/ndltd/Yu18" mdate="2022-05-04">
+<author pid="126/6015">Xiangyao Yu</author>
+<title>Logical leases: scalable hardware and software systems through time traveling.</title>
+<year>2018</year>
+<school>Massachusetts Institute of Technology, Cambridge, USA</school>
+<ee>https://hdl.handle.net/1721.1/115775</ee>
+<note type="source">ndltd.org (oai:dspace.mit.edu:1721.1/115775)</note>
+</phdthesis>
+</r>
+<r><article key="journals/jacm/StefanovDSCFRYD18" mdate="2021-07-25">
+<author pid="61/9827">Emil Stefanov</author>
+<author pid="32/1399">Marten van Dijk</author>
+<author pid="80/4580">Elaine Shi</author>
+<author pid="c/THHubertChan">T.-H. Hubert Chan</author>
+<author pid="25/8166">Christopher W. Fletcher</author>
+<author orcid="0000-0003-3437-7570" pid="30/10661">Ling Ren 0001</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>Path ORAM: An Extremely Simple Oblivious RAM Protocol.</title>
+<pages>18:1-18:26</pages>
+<year>2018</year>
+<volume>65</volume>
+<journal>J. ACM</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3177872</ee>
+<url>db/journals/jacm/jacm65.html#StefanovDSCFRYD18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/YuXPSRD18" mdate="2023-09-30">
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="28/4326-5">Yu Xia 0005</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="67/2030-3">Daniel S&#225;nchez 0003</author>
+<author pid="56/3748">Larry Rudolph</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>Sundial: Harmonizing Concurrency Control and Caching in a Distributed OLTP Database Management System.</title>
+<pages>1289-1302</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1289-yu.pdf</ee>
+<ee>https://doi.org/10.14778/3231751.3231763</ee>
+<url>db/journals/pvldb/pvldb11.html#YuXPSRD18</url>
+</article>
+</r>
+<r><inproceedings key="conf/vldb/YuGZKS18" mdate="2019-03-21">
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="86/7615">Vijay Gadepally</author>
+<author pid="z/SBZdonik">Stan Zdonik</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>FastDAWG: Improving Data Migration in the BigDAWG Polystore System.</title>
+<pages>3-15</pages>
+<year>2018</year>
+<booktitle>Poly/DMAH@VLDB</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-14177-6_1</ee>
+<crossref>conf/vldb/2018polydmah</crossref>
+<url>db/conf/vldb/polydmah2018.html#YuGZKS18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-02059" mdate="2023-08-08">
+<author pid="67/1328-10">Yi Lu 0010</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>STAR: Scaling Transactions through Asymmetric Replication.</title>
+<year>2018</year>
+<volume>abs/1811.02059</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.02059</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-02059</url>
+</article>
+</r>
+<r><inproceedings key="conf/micro/YuHSMD17" mdate="2021-08-11">
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="43/3660">Christopher J. Hughes</author>
+<author pid="29/1091">Nadathur Satish</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>Banshee: bandwidth-efficient DRAM caching via software/hardware cooperation.</title>
+<pages>1-14</pages>
+<year>2017</year>
+<booktitle>MICRO</booktitle>
+<ee>https://doi.org/10.1145/3123939.3124555</ee>
+<ee>https://ieeexplore.ieee.org/document/8686528</ee>
+<crossref>conf/micro/2017</crossref>
+<url>db/conf/micro/micro2017.html#YuHSMD17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/YuHSMD17" mdate="2018-08-13">
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="43/3660">Christopher J. Hughes</author>
+<author pid="29/1091">Nadathur Satish</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>Banshee: Bandwidth-Efficient DRAM Caching Via Software/Hardware Cooperation.</title>
+<year>2017</year>
+<volume>abs/1704.02677</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1704.02677</ee>
+<url>db/journals/corr/corr1704.html#YuHSMD17</url>
+</article>
+</r>
+<r><article key="journals/pc/Ausavarungnirun16" mdate="2020-02-22">
+<author pid="117/0573">Rachata Ausavarungnirun</author>
+<author pid="56/9226">Chris Fallin</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="117/0580">Kevin Kai-Wei Chang</author>
+<author pid="133/9567">Greg Nazario</author>
+<author pid="41/1231">Reetuparna Das</author>
+<author pid="03/2782">Gabriel H. Loh</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<title>A case for hierarchical rings with deflection routing: An energy-efficient on-chip communication substrate.</title>
+<pages>29-45</pages>
+<year>2016</year>
+<volume>54</volume>
+<journal>Parallel Comput.</journal>
+<ee>https://doi.org/10.1016/j.parco.2016.01.009</ee>
+<url>db/journals/pc/pc54.html#Ausavarungnirun16</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEpact/YuLZD16" mdate="2021-08-11">
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="02/3832">Hongzhe Liu</author>
+<author pid="157/8444">Ethan Zou</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>Tardis 2.0: Optimized Time Traveling Coherence for Relaxed Consistency Models.</title>
+<pages>261-274</pages>
+<year>2016</year>
+<booktitle>PACT</booktitle>
+<ee>https://doi.org/10.1145/2967938.2967942</ee>
+<ee>https://ieeexplore.ieee.org/document/7756759/</ee>
+<crossref>conf/IEEEpact/2016</crossref>
+<url>db/conf/IEEEpact/pact2016.html#YuLZD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/YuPSD16" mdate="2023-09-30">
+<author pid="126/6015">Xiangyao Yu</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="67/2030-3">Daniel S&#225;nchez 0003</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>TicToc: Time Traveling Optimistic Concurrency Control.</title>
+<pages>1629-1642</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2882935</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#YuPSD16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/Ausavarungnirun16" mdate="2018-08-13">
+<author pid="117/0573">Rachata Ausavarungnirun</author>
+<author pid="56/9226">Chris Fallin</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="117/0580">Kevin Kai-Wei Chang</author>
+<author pid="133/9567">Greg Nazario</author>
+<author pid="41/1231">Reetuparna Das</author>
+<author pid="03/2782">Gabriel H. Loh</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<title>Achieving both High Energy Efficiency and High Performance in On-Chip Communication using Hierarchical Rings with Deflection Routing.</title>
+<year>2016</year>
+<volume>abs/1602.06005</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.06005</ee>
+<url>db/journals/corr/corr1602.html#Ausavarungnirun16</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEpact/YuD15" mdate="2023-03-24">
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>Tardis: Time Traveling Coherence Algorithm for Distributed Shared Memory.</title>
+<pages>227-240</pages>
+<year>2015</year>
+<booktitle>PACT</booktitle>
+<ee>https://doi.org/10.1109/PACT.2015.12</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PACT.2015.12</ee>
+<crossref>conf/IEEEpact/2015</crossref>
+<url>db/conf/IEEEpact/pact2015.html#YuD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isca/YuHRFKDD15" mdate="2021-10-14">
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="156/0451">Syed Kamran Haider</author>
+<author pid="30/10661">Ling Ren 0001</author>
+<author pid="25/8166">Christopher W. Fletcher</author>
+<author pid="17/1201">Albert Kwon</author>
+<author orcid="0000-0001-9388-8050" pid="32/1399">Marten van Dijk</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>PrORAM: dynamic prefetcher for oblivious RAM.</title>
+<pages>616-628</pages>
+<year>2015</year>
+<booktitle>ISCA</booktitle>
+<ee>https://doi.org/10.1145/2749469.2750413</ee>
+<crossref>conf/isca/2015</crossref>
+<url>db/conf/isca/isca2015.html#YuHRFKDD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micro/YuHSD15" mdate="2021-08-11">
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="43/3660">Christopher J. Hughes</author>
+<author pid="29/1091">Nadathur Satish</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>IMP: indirect memory prefetcher.</title>
+<pages>178-190</pages>
+<year>2015</year>
+<booktitle>MICRO</booktitle>
+<ee>https://doi.org/10.1145/2830772.2830807</ee>
+<ee>https://ieeexplore.ieee.org/document/7856597/</ee>
+<crossref>conf/micro/2015</crossref>
+<url>db/conf/micro/micro2015.html#YuHSD15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/WolfeZRY15" mdate="2018-08-13">
+<author pid="157/8427">Nathan Wolfe</author>
+<author pid="157/8444">Ethan Zou</author>
+<author pid="30/10661">Ling Ren 0001</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<title>Optimizing Path ORAM for Cloud Storage Applications.</title>
+<year>2015</year>
+<volume>abs/1501.01721</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1501.01721</ee>
+<url>db/journals/corr/corr1501.html#WolfeZRY15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/YuD15" mdate="2018-08-13">
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>TARDIS: Timestamp based Coherence Algorithm for Distributed Shared Memory.</title>
+<year>2015</year>
+<volume>abs/1501.04504</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1501.04504</ee>
+<url>db/journals/corr/corr1501.html#YuD15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/YuVD15" mdate="2018-08-13">
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="67/3086">Muralidaran Vijayaraghavan</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>A Proof of Correctness for the Tardis Cache Coherence Protocol.</title>
+<year>2015</year>
+<volume>abs/1505.06459</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1505.06459</ee>
+<url>db/journals/corr/corr1505.html#YuVD15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/YuD15a" mdate="2018-08-13">
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>Tardis 2.0: An Optimized Time Traveling Coherence Protocol.</title>
+<year>2015</year>
+<volume>abs/1511.08774</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1511.08774</ee>
+<url>db/journals/corr/corr1511.html#YuD15a</url>
+</article>
+</r>
+<r><article key="journals/pvldb/YuBPDS14" mdate="2023-09-30">
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="147/5006">George Bezerra</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>Staring into the Abyss: An Evaluation of Concurrency Control with One Thousand Cores.</title>
+<pages>209-220</pages>
+<year>2014</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p209-yu.pdf</ee>
+<ee>https://doi.org/10.14778/2735508.2735511</ee>
+<url>db/journals/pvldb/pvldb8.html#YuBPDS14</url>
+</article>
+</r>
+<r><inproceedings key="conf/hpca/FletcherRYDKD14" mdate="2023-03-24">
+<author pid="25/8166">Christopher W. Fletcher</author>
+<author pid="30/10661">Ling Ren 0001</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author orcid="0000-0001-9388-8050" pid="32/1399">Marten van Dijk</author>
+<author pid="10/5005">Omer Khan</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>Suppressing the Oblivious RAM timing channel while making information leakage and program efficiency trade-offs.</title>
+<pages>213-224</pages>
+<year>2014</year>
+<booktitle>HPCA</booktitle>
+<ee>https://doi.org/10.1109/HPCA.2014.6835932</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HPCA.2014.6835932</ee>
+<crossref>conf/hpca/2014</crossref>
+<url>db/conf/hpca/hpca2014.html#FletcherRYDKD14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/AusavarungnirunFYCNDLM14" mdate="2023-03-23">
+<author pid="117/0573">Rachata Ausavarungnirun</author>
+<author pid="56/9226">Chris Fallin</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="117/0580">Kevin Kai-Wei Chang</author>
+<author pid="133/9567">Greg Nazario</author>
+<author pid="41/1231">Reetuparna Das</author>
+<author pid="03/2782">Gabriel H. Loh</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<title>Design and Evaluation of Hierarchical Rings with Deflection Routing.</title>
+<pages>230-237</pages>
+<year>2014</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2014.31</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2014.31</ee>
+<crossref>conf/sbac-pad/2014</crossref>
+<url>db/conf/sbac-pad/sbac-pad2014.html#AusavarungnirunFYCNDLM14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/RenFYKDD14" mdate="2020-05-11">
+<author pid="30/10661">Ling Ren 0001</author>
+<author pid="25/8166">Christopher W. Fletcher</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="17/1201">Albert Kwon</author>
+<author pid="32/1399">Marten van Dijk</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>Unified Oblivious-RAM: Improving Recursive ORAM with Locality and Pseudorandomness.</title>
+<pages>205</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2014/205</ee>
+<url>db/journals/iacr/iacr2014.html#RenFYKDD14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/YuRFKDD14" mdate="2020-05-11">
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="30/10661">Ling Ren 0001</author>
+<author pid="25/8166">Christopher W. Fletcher</author>
+<author pid="17/1201">Albert Kwon</author>
+<author pid="32/1399">Marten van Dijk</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>Enhancing Oblivious RAM Performance Using Dynamic Prefetching.</title>
+<pages>234</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2014/234</ee>
+<url>db/journals/iacr/iacr2014.html#YuRFKDD14</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccs/YuFRDD13" mdate="2021-10-14">
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="25/8166">Christopher W. Fletcher</author>
+<author pid="30/10661">Ling Ren 0001</author>
+<author orcid="0000-0001-9388-8050" pid="32/1399">Marten van Dijk</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>Generalized external interaction with tamper-resistant hardware with bounded information leakage.</title>
+<pages>23-34</pages>
+<year>2013</year>
+<booktitle>CCSW</booktitle>
+<ee>https://doi.org/10.1145/2517488.2517498</ee>
+<crossref>conf/ccs/2013ccsw</crossref>
+<url>db/conf/ccs/ccsw2013.html#YuFRDD13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/StefanovDSFRYD13" mdate="2021-10-14">
+<author pid="61/9827">Emil Stefanov</author>
+<author orcid="0000-0001-9388-8050" pid="32/1399">Marten van Dijk</author>
+<author pid="80/4580">Elaine Shi</author>
+<author pid="25/8166">Christopher W. Fletcher</author>
+<author pid="30/10661">Ling Ren 0001</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>Path ORAM: an extremely simple oblivious RAM protocol.</title>
+<pages>299-310</pages>
+<year>2013</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/2508859.2516660</ee>
+<crossref>conf/ccs/2013</crossref>
+<url>db/conf/ccs/ccs2013.html#StefanovDSFRYD13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpec/RenFYDD13" mdate="2021-10-14">
+<author pid="30/10661">Ling Ren 0001</author>
+<author pid="25/8166">Christopher W. Fletcher</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author orcid="0000-0001-9388-8050" pid="32/1399">Marten van Dijk</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>Integrity verification for path Oblivious-RAM.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>HPEC</booktitle>
+<ee>https://doi.org/10.1109/HPEC.2013.6670339</ee>
+<crossref>conf/hpec/2013</crossref>
+<url>db/conf/hpec/hpec2013.html#RenFYDD13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isca/RenYFDD13" mdate="2021-10-14">
+<author pid="30/10661">Ling Ren 0001</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="25/8166">Christopher W. Fletcher</author>
+<author orcid="0000-0001-9388-8050" pid="32/1399">Marten van Dijk</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>Design space exploration and optimization of path oblivious RAM in secure processors.</title>
+<pages>571-582</pages>
+<year>2013</year>
+<booktitle>ISCA</booktitle>
+<ee>https://doi.org/10.1145/2485922.2485971</ee>
+<crossref>conf/isca/2013</crossref>
+<url>db/conf/isca/isca2013.html#RenYFDD13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/YeohWYK13" mdate="2022-04-09">
+<author pid="133/4397">Yuan Lin Yeoh</author>
+<author orcid="0000-0001-9199-0799" pid="72/6811-20">Bo Wang 0020</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="125/7918">Tony T. Kim</author>
+<title>A 0.4V 7T SRAM with write through virtual ground and ultra-fine grain power gating switches.</title>
+<pages>3030-3033</pages>
+<year>2013</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2013.6572517</ee>
+<crossref>conf/iscas/2013</crossref>
+<url>db/conf/iscas/iscas2013.html#YeohWYK13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/RenYFDD13" mdate="2020-05-11">
+<author pid="30/10661">Ling Ren 0001</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="25/8166">Christopher W. Fletcher</author>
+<author pid="32/1399">Marten van Dijk</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>Design Space Exploration and Optimization of Path Oblivious RAM in Secure Processors.</title>
+<pages>76</pages>
+<year>2013</year>
+<volume>2013</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2013/076</ee>
+<url>db/journals/iacr/iacr2013.html#RenYFDD13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/StefanovDSFRYD13" mdate="2020-05-11">
+<author pid="61/9827">Emil Stefanov</author>
+<author pid="32/1399">Marten van Dijk</author>
+<author pid="80/4580">Elaine Shi</author>
+<author pid="25/8166">Christopher W. Fletcher</author>
+<author pid="30/10661">Ling Ren 0001</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="14/3973">Srinivas Devadas</author>
+<title>Path ORAM: An Extremely Simple Oblivious RAM Protocol.</title>
+<pages>280</pages>
+<year>2013</year>
+<volume>2013</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2013/280</ee>
+<url>db/journals/iacr/iacr2013.html#StefanovDSFRYD13</url>
+</article>
+</r>
+<r><inproceedings key="conf/nocs/FallinNYCAM12" mdate="2023-03-23">
+<author pid="56/9226">Chris Fallin</author>
+<author pid="133/9567">Greg Nazario</author>
+<author pid="126/6015">Xiangyao Yu</author>
+<author pid="117/0580">Kevin Kai-Wei Chang</author>
+<author pid="117/0573">Rachata Ausavarungnirun</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<title>MinBD: Minimally-Buffered Deflection Routing for Energy-Efficient Interconnect.</title>
+<pages>1-10</pages>
+<year>2012</year>
+<booktitle>NOCS</booktitle>
+<ee>https://doi.org/10.1109/NOCS.2012.8</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/NOCS.2012.8</ee>
+<crossref>conf/nocs/2012</crossref>
+<url>db/conf/nocs/nocs2012.html#FallinNYCAM12</url>
+</inproceedings>
+</r>
+<coauthors n="129" nc="3">
+<co c="0"><na f="a/Aboulnaga:Ashraf" pid="01/3996">Ashraf Aboulnaga</na></co>
+<co c="0"><na f="a/Akella:Aditya" pid="a/AdityaAkella">Aditya Akella</na></co>
+<co c="0"><na f="a/Arpaci=Dusseau:Andrea_C=" pid="a/AndreaCArpaciDusseau">Andrea C. Arpaci-Dusseau</na></co>
+<co c="0"><na f="a/Arpaci=Dusseau:Remzi_H=" pid="a/RemziHArpaciDusseau">Remzi H. Arpaci-Dusseau</na></co>
+<co c="0"><na f="a/Ausavarungnirun:Rachata" pid="117/0573">Rachata Ausavarungnirun</na></co>
+<co c="0"><na f="b/Bailis:Peter" pid="47/8816">Peter Bailis</na></co>
+<co c="0"><na f="b/Balakrishnan_0001:Mahesh" pid="b/MBalakrishnan">Mahesh Balakrishnan 0001</na></co>
+<co c="0"><na f="b/Bernstein:Philip_A=" pid="b/PhilipABernstein">Philip A. Bernstein</na></co>
+<co c="0"><na f="b/Bezerra:George" pid="147/5006">George Bezerra</na></co>
+<co c="0"><na f="b/Butrovich:Matthew" pid="254/6674">Matthew Butrovich</na></co>
+<co c="0"><na f="c/Cafarella:Michael_J=" pid="82/231">Michael J. Cafarella</na></co>
+<co c="0"><na f="c/Cao_0004:Lei" pid="17/6060-4">Lei Cao 0004</na></co>
+<co c="0"><na f="c/Cha:Hokeun" pid="237/0718">Hokeun Cha</na></co>
+<co c="0"><na f="c/Chan:Jason" pid="55/5064">Jason Chan</na></co>
+<co c="0"><na f="c/Chan:T==H=_Hubert" pid="c/THHubertChan">T.-H. Hubert Chan</na></co>
+<co c="0"><na f="c/Chang:Kevin_Kai=Wei" pid="117/0580">Kevin Kai-Wei Chang</na></co>
+<co c="0"><na f="c/Chen:Keren" pid="256/6769">Keren Chen</na></co>
+<co c="0"><na f="c/Chen:Youmin" pid="203/1564">Youmin Chen</na></co>
+<co c="0"><na f="c/Cheng:Audrey" pid="263/3719">Audrey Cheng</na></co>
+<co c="0"><na f="c/Cho:Danny" pid="327/9506">Danny Cho</na></co>
+<co c="0"><na f="c/Chronis:Yannis" pid="176/4991">Yannis Chronis</na></co>
+<co c="0"><na f="c/Chu:David" pid="80/2263">David Chu</na></co>
+<co c="0"><na f="c/Cieslewicz:John" pid="98/1786">John Cieslewicz</na></co>
+<co c="0"><na f="c/Crooks:Natacha" pid="161/0113">Natacha Crooks</na></co>
+<co c="0"><na f="d/Das:Reetuparna" pid="41/1231">Reetuparna Das</na></co>
+<co c="0"><na f="d/Deep:Shaleen" pid="139/9356">Shaleen Deep</na></co>
+<co c="0"><na f="d/Demiralp:=Ccedil=agatay" pid="74/20">&#199;agatay Demiralp</na></co>
+<co c="0" n="2"><na f="d/Devadas:Srini" pid="14/3973">Srini Devadas</na><na>Srinivas Devadas</na></co>
+<co c="0"><na f="d/DeWitt:David_J=" pid="d/DJDeWitt">David J. DeWitt</na></co>
+<co c="0"><na f="d/Dijk:Marten_van" pid="32/1399">Marten van Dijk</na></co>
+<co c="0"><na f="f/Fallin:Chris" pid="56/9226">Chris Fallin</na></co>
+<co c="0"><na f="f/Fletcher:Christopher_W=" pid="25/8166">Christopher W. Fletcher</na></co>
+<co c="0"><na f="g/Gadepally:Vijay" pid="86/7615">Vijay Gadepally</na></co>
+<co c="0"><na f="g/Gaffney:Kevin_P=" pid="212/9589">Kevin P. Gaffney</na></co>
+<co c="0"><na f="g/Ghanem:Abdurrahman" pid="178/3717">Abdurrahman Ghanem</na></co>
+<co c="0"><na f="g/Ghanem:Thanaa_M=" pid="09/3546">Thanaa M. Ghanem</na></co>
+<co c="0"><na f="g/Gong:Weiwei" pid="30/841">Weiwei Gong</na></co>
+<co c="0"><na f="g/Graefe:Goetz" pid="g/GoetzGraefe">Goetz Graefe</na></co>
+<co c="1"><na f="g/Guan:Haibing" pid="96/5680">Haibing Guan</na></co>
+<co c="0"><na f="g/Guo:Zhihan" pid="241/5293">Zhihan Guo</na></co>
+<co c="0"><na f="h/Haider:Syed_Kamran" pid="156/0451">Syed Kamran Haider</na></co>
+<co c="0"><na f="h/Hao:Xiangpeng" pid="255/9284">Xiangpeng Hao</na></co>
+<co c="0"><na f="h/Hellerstein:Joseph_M=" pid="h/JosephMHellerstein">Joseph M. Hellerstein</na></co>
+<co c="0"><na f="h/Hemstad:Jacob" pid="349/0386">Jacob Hemstad</na></co>
+<co c="0"><na f="h/Hughes:Christopher_J=" pid="43/3660">Christopher J. Hughes</na></co>
+<co c="0"><na f="h/Hwang:Wuh=Chwen" pid="337/3094">Wuh-Chwen Hwang</na></co>
+<co c="0"><na f="j/Jang:Uyeong" pid="210/0937">Uyeong Jang</na></co>
+<co c="0"><na f="j/Jha:Somesh" pid="j/SomeshJha">Somesh Jha</na></co>
+<co c="0"><na f="j/Ji:Tao" pid="76/1774">Tao Ji</na></co>
+<co c="0"><na f="k/Kaffes:Kostis" pid="237/0852">Kostis Kaffes</na></co>
+<co c="0"><na f="k/Kepner:Jeremy" pid="25/6583">Jeremy Kepner</na></co>
+<co c="0"><na f="k/Khan:Omer" pid="10/5005">Omer Khan</na></co>
+<co c="2" n="2"><na f="k/Kim:Tony_Tae=Hyoung" pid="125/7918">Tony Tae-Hyoung Kim</na><na>Tony T. Kim</na></co>
+<co c="0"><na f="k/Kimball:Gregory" pid="349/1002">Gregory Kimball</na></co>
+<co c="0"><na f="k/Koutris:Paraschos" pid="49/8316">Paraschos Koutris</na></co>
+<co c="0" n="2"><na f="k/Kozyrakis:Christoforos_E=" pid="k/ChristoforosEKozyrakis">Christoforos E. Kozyrakis</na><na>Christos Kozyrakis</na></co>
+<co c="0"><na f="k/Kraft:Peter" pid="62/4022">Peter Kraft</na></co>
+<co c="0"><na f="k/Kraska:Tim" pid="26/6037">Tim Kraska</na></co>
+<co c="0"><na f="k/Kumar:Deeptaanshu" pid="307/3594">Deeptaanshu Kumar</na></co>
+<co c="0"><na f="k/Kwon:Albert" pid="17/1201">Albert Kwon</na></co>
+<co c="0"><na f="l/Le:Yanfang" pid="148/1943">Yanfang Le</na></co>
+<co c="0"><na f="l/Li:Jason" pid="12/975">Jason Li</na></co>
+<co c="0"><na f="l/Li_0027:Qian" pid="69/5902-27">Qian Li 0027</na></co>
+<co c="0"><na f="l/Li:Terrance" pid="351/6008">Terrance Li</na></co>
+<co c="0"><na f="l/Lin:Jiaxin" pid="179/5126">Jiaxin Lin</na></co>
+<co c="0"><na f="l/Liu:Hongzhe" pid="02/3832">Hongzhe Liu</na></co>
+<co c="0"><na f="l/Liu:Yizhou" pid="23/4344">Yizhou Liu</na></co>
+<co c="0"><na f="l/Loh:Gabriel_H=" pid="03/2782">Gabriel H. Loh</na></co>
+<co c="0"><na f="l/Lu_0010:Yi" pid="67/1328-10">Yi Lu 0010</na></co>
+<co c="0"><na f="m/Madden_0001:Samuel" pid="m/SamuelMadden">Samuel Madden 0001</na></co>
+<co c="0"><na f="m/Mahmood:Ahmed" pid="120/1508">Ahmed Mahmood</na></co>
+<co c="0"><na f="m/Markall:Graham_R=" pid="55/8769">Graham R. Markall</na></co>
+<co c="0"><na f="m/Milkai:Elena" pid="322/1627">Elena Milkai</na></co>
+<co c="0"><na f="m/Miller:Brandon" pid="25/8100">Brandon Miller</na></co>
+<co c="0"><na f="m/Moses:William_S=" pid="183/6515">William S. Moses</na></co>
+<co c="0"><na f="m/Mutlu:Onur" pid="m/OnurMutlu">Onur Mutlu</na></co>
+<co c="0"><na f="n/Naughton:Jeffrey_F=" pid="n/JeffreyFNaughton">Jeffrey F. Naughton</na></co>
+<co c="0"><na f="n/Nazario:Greg" pid="133/9567">Greg Nazario</na></co>
+<co c="0"><na f="p/Patel:Jignesh_M=" pid="p/JMPatel">Jignesh M. Patel</na></co>
+<co c="0"><na f="p/Pavlo:Andrew" pid="58/4127">Andrew Pavlo</na></co>
+<co c="0"><na f="p/Perron:Matthew" pid="191/3842">Matthew Perron</na></co>
+<co c="1"><na f="q/Qi:Zhengwei" pid="17/1970">Zhengwei Qi</na></co>
+<co c="0"><na f="r/Redmond:Robert" pid="326/5858">Robert Redmond</na></co>
+<co c="0"><na f="r/Ren_0001:Ling" pid="30/10661">Ling Ren 0001</na></co>
+<co c="0"><na f="r/Ren:Ziwei" pid="09/7641">Ziwei Ren</na></co>
+<co c="0"><na f="r/Rudolph:Larry" pid="56/3748">Larry Rudolph</na></co>
+<co c="0"><na f="s/S=aacute=nchez_0003:Daniel" pid="67/2030-3">Daniel S&#225;nchez 0003</na></co>
+<co c="0"><na f="s/Satish:Nadathur" pid="29/1091">Nadathur Satish</na></co>
+<co c="0"><na f="s/Serafini:Marco" pid="02/6087">Marco Serafini</na></co>
+<co c="0"><na f="s/Shah_0004:Nisarg" pid="320/7654">Nisarg Shah 0004</na></co>
+<co c="0"><na f="s/Shanbhag:Anil" pid="149/5876">Anil Shanbhag</na></co>
+<co c="0"><na f="s/Shi:Elaine" pid="80/4580">Elaine Shi</na></co>
+<co c="0"><na f="s/Shu:Jiwu" pid="60/3690">Jiwu Shu</na></co>
+<co c="0"><na f="s/Shun:Julian" pid="82/9876">Julian Shun</na></co>
+<co c="0"><na f="s/Skiadopoulos:Athinagoras" pid="310/1377">Athinagoras Skiadopoulos</na></co>
+<co c="0"><na f="s/Stefanov:Emil" pid="61/9827">Emil Stefanov</na></co>
+<co c="0"><na f="s/Stoica:Ion" pid="s/IonStoica">Ion Stoica</na></co>
+<co c="0"><na f="s/Stonebraker:Michael" pid="s/MichaelStonebraker">Michael Stonebraker</na></co>
+<co c="0"><na f="s/Suresh:Lalith" pid="206/4530">Lalith Suresh</na></co>
+<co c="0"><na f="s/Swift:Michael_M=" pid="s/MichaelMSwift">Michael M. Swift</na></co>
+<co c="0"><na f="t/Tan:Junjay" pid="239/9464">Junjay Tan</na></co>
+<co c="0"><na f="v/Viglas:Stratis" pid="v/SViglas">Stratis Viglas</na></co>
+<co c="0"><na f="v/Vijayaraghavan:Muralidaran" pid="67/3086">Muralidaran Vijayaraghavan</na></co>
+<co c="2"><na f="w/Wang_0020:Bo" pid="72/6811-20">Bo Wang 0020</na></co>
+<co c="0"><na f="w/Wang_0001:Tianzheng" pid="57/10948-1">Tianzheng Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Yunsong" pid="182/0203">Yunsong Wang</na></co>
+<co c="0"><na f="w/Weckwerth:Nathan_W=" pid="326/5201">Nathan W. Weckwerth</na></co>
+<co c="0"><na f="w/Woicik:Matthew_E=" pid="222/7847">Matthew E. Woicik</na></co>
+<co c="0"><na f="w/Wolfe:Nathan" pid="157/8427">Nathan Wolfe</na></co>
+<co c="0"><na f="w/Wu:Kan" pid="20/1552">Kan Wu</na></co>
+<co c="0"><na f="w/Wu_0001:Xi" pid="37/4465-1">Xi Wu 0001</na></co>
+<co c="0"><na f="x/Xia:Brian_S=" pid="326/5692">Brian S. Xia</na></co>
+<co c="0"><na f="x/Xia_0005:Yu" pid="28/4326-5">Yu Xia 0005</na></co>
+<co c="0"><na f="y/Yadalam:Sujay" pid="284/8679">Sujay Yadalam</na></co>
+<co c="0"><na f="y/Yan:Cong" pid="129/2744">Cong Yan</na></co>
+<co c="0"><na f="y/Yang:Yifei" pid="133/7657">Yifei Yang</na></co>
+<co c="0"><na f="y/Ye:Chenhao" pid="304/2139">Chenhao Ye</na></co>
+<co c="2"><na f="y/Yeoh:Yuan_Lin" pid="133/4397">Yuan Lin Yeoh</na></co>
+<co c="0" n="2"><na f="y/Yogatama:Bobbi_W=" pid="236/7075">Bobbi W. Yogatama</na><na>Bobbi Yogatama</na></co>
+<co c="0"><na f="y/Youill:Matt" pid="259/1265">Matt Youill</na></co>
+<co c="0"><na f="z/Zaharia:Matei" pid="36/2133">Matei Zaharia</na></co>
+<co c="0"><na f="z/Zamanian:Erfan" pid="141/9169">Erfan Zamanian</na></co>
+<co c="0" n="2"><na f="z/Zdonik:Stanley_B=" pid="z/SBZdonik">Stanley B. Zdonik</na><na>Stan Zdonik</na></co>
+<co c="0"><na f="z/Zeng:Xinyu" pid="127/2112">Xinyu Zeng</na></co>
+<co c="0"><na f="z/Zhang:Huanchen" pid="13/8730">Huanchen Zhang</na></co>
+<co c="1"><na f="z/Zhang:Jin" pid="43/6657">Jin Zhang</na></co>
+<co c="0"><na f="z/Zhao:Hangdong" pid="307/7991">Hangdong Zhao</na></co>
+<co c="0"><na f="z/Zhou:Xinjing" pid="255/9363">Xinjing Zhou</na></co>
+<co c="0"><na f="z/Zou:Ethan" pid="157/8444">Ethan Zou</na></co>
+</coauthors>
+</dblpperson>

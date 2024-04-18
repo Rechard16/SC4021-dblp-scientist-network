@@ -1,0 +1,3454 @@
+<dblpperson name="Kenneth A. Ross" pid="r/KARoss" n="184">
+<person key="homepages/r/KARoss" mdate="2022-05-05">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<note type="affiliation">Columbia University, New York City, USA</note>
+<url>http://www.cs.columbia.edu/~kar/</url>
+<url>https://dl.acm.org/profile/81100266442</url>
+<url>https://orcid.org/0000-0001-9397-6990</url>
+</person>
+<r><inproceedings key="conf/damon/KimRSS23" mdate="2023-07-07">
+<author orcid="0009-0008-5789-2026" pid="99/7290">Junyoung Kim</author>
+<author orcid="0000-0001-9397-6990" pid="r/KARoss">Kenneth A. Ross</author>
+<author orcid="0009-0007-1334-6317" pid="91/3406">Eric Sedlar</author>
+<author orcid="0009-0008-3156-2475" pid="36/8026">Lukas Stadler</author>
+<title>AMULET: Adaptive Matrix-Multiplication-Like Tasks.</title>
+<pages>77-81</pages>
+<year>2023</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3592980.3595301</ee>
+<crossref>conf/damon/2023</crossref>
+<url>db/conf/damon/damon2023.html#KimRSS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/XieKR23" mdate="2023-08-28">
+<author pid="351/5976">Xincheng Xie</author>
+<author pid="99/7290">Junyoung Kim</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>GAMUT: Matrix Multiplication-Like Tasks on GPUs.</title>
+<year>2023</year>
+<booktitle>VLDB Workshops</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3462/ADMS6.pdf</ee>
+<crossref>conf/vldb/2023w</crossref>
+<url>db/conf/vldb/w2023.html#XieKR23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-08872" mdate="2023-05-24">
+<author pid="99/7290">Junyoung Kim</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="91/3406">Eric Sedlar</author>
+<author pid="36/8026">Lukas Stadler</author>
+<title>AMULET: Adaptive Matrix-Multiplication-Like Tasks.</title>
+<year>2023</year>
+<volume>abs/2305.08872</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.08872</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-08872</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-14874" mdate="2024-01-18">
+<author pid="124/6700">Wangda Zhang</author>
+<author pid="224/1800">Yanbin Wang</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Parallel Prefix Sum with SIMD.</title>
+<year>2023</year>
+<volume>abs/2312.14874</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.14874</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-14874</url>
+</article>
+</r>
+<r><article key="journals/tkde/ZhangR22" mdate="2022-06-10">
+<author orcid="0000-0002-4965-8132" pid="124/6700">Wangda Zhang</author>
+<author orcid="0000-0001-9397-6990" pid="r/KARoss">Kenneth A. Ross</author>
+<title>Exploiting Data Skew for Improved Query Performance.</title>
+<pages>2176-2189</pages>
+<year>2022</year>
+<volume>34</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TKDE.2020.3006446</ee>
+<url>db/journals/tkde/tkde34.html#ZhangR22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ZhangKRSS21" mdate="2023-08-28">
+<author pid="124/6700">Wangda Zhang</author>
+<author pid="99/7290">Junyoung Kim</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="91/3406">Eric Sedlar</author>
+<author pid="36/8026">Lukas Stadler</author>
+<title>Adaptive Code Generation for Data-Intensive Analytics.</title>
+<pages>929-942</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p929-zhang.pdf</ee>
+<ee>https://doi.org/10.14778/3447689.3447697</ee>
+<ee>https://www.wikidata.org/entity/Q114596028</ee>
+<url>db/journals/pvldb/pvldb14.html#ZhangKRSS21</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Ross21" mdate="2021-07-13">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Technical Perspective: Scaling Dynamic Hash Tables on Real Persistent Memory.</title>
+<pages>86</pages>
+<year>2021</year>
+<volume>50</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3471485.3471505</ee>
+<url>db/journals/sigmod/sigmod50.html#Ross21</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/Ross21" mdate="2021-06-21">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Utilizing (and Designing) Modern Hardware for Data-Intensive Computations: The Role of Abstraction.</title>
+<pages>1</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3460535</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#Ross21</url>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/PolychroniouR20" mdate="2020-12-31">
+<author orcid="0000-0002-3164-0137" pid="131/4377">Orestis Polychroniou</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>VIP: A SIMD vectorized analytical query engine.</title>
+<pages>1243-1261</pages>
+<year>2020</year>
+<volume>29</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00778-020-00621-w</ee>
+<url>db/journals/vldb/vldb29.html#PolychroniouR20</url>
+</article>
+</r>
+<r><inproceedings key="conf/adms/ZhangWR20" mdate="2022-06-10">
+<author pid="124/6700">Wangda Zhang</author>
+<author pid="224/1800">Yanbin Wang</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Parallel Prefix Sum with SIMD.</title>
+<pages>1-11</pages>
+<year>2020</year>
+<booktitle>ADMS@VLDB</booktitle>
+<ee>http://www.adms-conf.org/2020-camera-ready/ADMS20_05.pdf</ee>
+<crossref>conf/adms/2020</crossref>
+<url>db/conf/adms/adms2020.html#ZhangWR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhangR20" mdate="2022-06-10">
+<author pid="124/6700">Wangda Zhang</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Permutation Index: Exploiting Data Skew for Improved Query Performance.</title>
+<pages>1982-1985</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00219</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#ZhangR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/ZhangLR20" mdate="2022-06-10">
+<author pid="124/6700">Wangda Zhang</author>
+<author pid="271/3818">Mengdi Lin</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Efficient Search over Genomic Short Read Data.</title>
+<pages>3:1-3:12</pages>
+<year>2020</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1145/3400903.3400907</ee>
+<crossref>conf/ssdbm/2020</crossref>
+<url>db/conf/ssdbm/ssdbm2020.html#ZhangLR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/PolychroniouR19" mdate="2019-06-23">
+<author pid="131/4377">Orestis Polychroniou</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Towards Practical Vectorized Analytical Query Engines.</title>
+<pages>10:1-10:7</pages>
+<year>2019</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3329785.3329928</ee>
+<crossref>conf/damon/2019</crossref>
+<url>db/conf/damon/damon2019.html#PolychroniouR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isca/LottariniCRERSK19" mdate="2022-06-23">
+<author pid="142/3206">Andrea Lottarini</author>
+<author pid="186/1274">Jo&#227;o Pedro Cerqueira</author>
+<author pid="207/1840">Thomas J. Repetti</author>
+<author orcid="0000-0003-2609-4861" pid="60/5638">Stephen A. Edwards</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="64/3916">Mingoo Seok</author>
+<author orcid="0000-0001-6243-5753" pid="29/10949">Martha A. Kim</author>
+<title>Master of none acceleration: a comparison of accelerator architectures for analytical query processing.</title>
+<pages>762-773</pages>
+<year>2019</year>
+<booktitle>ISCA</booktitle>
+<ee>https://doi.org/10.1145/3307650.3322220</ee>
+<ee>https://ieeexplore.ieee.org/document/8980357</ee>
+<crossref>conf/isca/2019</crossref>
+<url>db/conf/isca/isca2019.html#LottariniCRERSK19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-10063" mdate="2022-06-10">
+<author pid="124/6700">Wangda Zhang</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Exploiting Data Skew for Improved Query Performance.</title>
+<year>2019</year>
+<volume>abs/1910.10063</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.10063</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-10063</url>
+</article>
+</r>
+<r><article key="journals/tods/PolychroniouZR18" mdate="2022-06-10">
+<author pid="131/4377">Orestis Polychroniou</author>
+<author pid="124/6700">Wangda Zhang</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Distributed Joins and Data Placement for Minimal Network Traffic.</title>
+<pages>14:1-14:45</pages>
+<year>2018</year>
+<volume>43</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3241039</ee>
+<url>db/journals/tods/tods43.html#PolychroniouZR18</url>
+</article>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/CieslewiczR18" mdate="2019-02-14">
+<author pid="98/1786">John Cieslewicz</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Architecture-Conscious Database System.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_659</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/a2.html#CieslewiczR18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Ross18" mdate="2019-02-14">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Cache-Conscious Query Processing.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_658</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/c2.html#Ross18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Ross18a" mdate="2019-02-14">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>View Adaptation.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_855</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/v2.html#Ross18a</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/dac/LottariniERK17" mdate="2022-06-23">
+<author pid="142/3206">Andrea Lottarini</author>
+<author orcid="0000-0003-2609-4861" pid="60/5638">Stephen A. Edwards</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author orcid="0000-0001-6243-5753" pid="29/10949">Martha A. Kim</author>
+<title>Network Synthesis for Database Processing Units.</title>
+<pages>90:1-90:6</pages>
+<year>2017</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/3061639.3062289</ee>
+<crossref>conf/dac/2017</crossref>
+<url>db/conf/dac/dac2017.html#LottariniERK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/CaoREK17" mdate="2022-06-23">
+<author pid="130/7624">Bingyi Cao</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author orcid="0000-0003-2609-4861" pid="60/5638">Stephen A. Edwards</author>
+<author orcid="0000-0001-6243-5753" pid="29/10949">Martha A. Kim</author>
+<title>Deadlock-free joins in DB-mesh, an asynchronous systolic array accelerator.</title>
+<pages>5:1-5:8</pages>
+<year>2017</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3076113.3076118</ee>
+<crossref>conf/damon/2017</crossref>
+<url>db/conf/damon/damon2017.html#CaoREK17</url>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/SadoghiRCB16" mdate="2021-07-25">
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="71/6902">Mustafa Canim</author>
+<author pid="19/2910">Bishwaranjan Bhattacharjee</author>
+<title>Exploiting SSDs in operational multiversion databases.</title>
+<pages>651-672</pages>
+<year>2016</year>
+<volume>25</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-015-0410-5</ee>
+<url>db/journals/vldb/vldb25.html#SadoghiRCB16</url>
+</article>
+</r>
+<r><article key="journals/vldb/SitaridiR16" mdate="2017-05-28">
+<author pid="15/11515">Evangelia A. Sitaridi</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>GPU-accelerated string matching for database applications.</title>
+<pages>719-740</pages>
+<year>2016</year>
+<volume>25</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-015-0409-y</ee>
+<url>db/journals/vldb/vldb25.html#SitaridiR16</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/SitaridiPR16" mdate="2018-11-06">
+<author pid="15/11515">Evangelia A. Sitaridi</author>
+<author pid="131/4377">Orestis Polychroniou</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>SIMD-accelerated regular expression matching.</title>
+<pages>8:1-8:7</pages>
+<year>2016</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2933349.2933357</ee>
+<crossref>conf/damon/2016</crossref>
+<url>db/conf/damon/damon2016.html#SitaridiPR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/SitaridiMKLR16" mdate="2023-03-24">
+<author pid="15/11515">Evangelia A. Sitaridi</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="35/908">Tim Kaldewey</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Massively-Parallel Lossless Data Decompression.</title>
+<pages>242-247</pages>
+<year>2016</year>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1109/ICPP.2016.35</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICPP.2016.35</ee>
+<crossref>conf/icpp/2016</crossref>
+<url>db/conf/icpp/icpp2016.html#SitaridiMKLR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcse/ShethMRS16" mdate="2023-09-30">
+<author pid="48/1013">Swapneel Sheth</author>
+<author orcid="0009-0007-6420-698X" pid="84/2038">Christian Murphy</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="s/DennisShasha">Dennis E. Shasha</author>
+<title>A Course on Programming and Problem Solving.</title>
+<pages>323-328</pages>
+<year>2016</year>
+<booktitle>SIGCSE</booktitle>
+<ee>https://doi.org/10.1145/2839509.2844594</ee>
+<crossref>conf/sigcse/2016</crossref>
+<url>db/conf/sigcse/sigcse2016.html#ShethMRS16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/SitaridiMKLR16" mdate="2020-09-30">
+<author pid="15/11515">Evangelia A. Sitaridi</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="35/908">Tim Kaldewey</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Massively-Parallel Lossless Data Decompression.</title>
+<year>2016</year>
+<volume>abs/1606.00519</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1606.00519</ee>
+<url>db/journals/corr/corr1606.html#SitaridiMKLR16</url>
+</article>
+</r>
+<r><article key="journals/micro/WuLPKR15" mdate="2023-06-26">
+<author orcid="0000-0002-3574-3440" pid="23/3943">Lisa Wu 0001</author>
+<author pid="142/3206">Andrea Lottarini</author>
+<author pid="142/3197">Timothy K. Paine</author>
+<author orcid="0000-0001-6243-5753" pid="29/10949">Martha A. Kim</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>The Q100 Database Processing Unit.</title>
+<pages>34-46</pages>
+<year>2015</year>
+<volume>35</volume>
+<journal>IEEE Micro</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MM.2015.51</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MM.2015.51</ee>
+<url>db/journals/micro/micro35.html#WuLPKR15</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/PolychroniouR15" mdate="2018-11-06">
+<author pid="131/4377">Orestis Polychroniou</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Efficient Lightweight Compression Alongside Fast Scans.</title>
+<pages>9:1-9:6</pages>
+<year>2015</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2771937.2771943</ee>
+<crossref>conf/damon/2015</crossref>
+<url>db/conf/damon/damon2015.html#PolychroniouR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/memocode/CaoRKE15" mdate="2017-05-23">
+<author pid="130/7624">Bingyi Cao</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="29/10949">Martha A. Kim</author>
+<author pid="60/5638">Stephen A. Edwards</author>
+<title>Implementing latency-insensitive dataflow blocks.</title>
+<pages>179-187</pages>
+<year>2015</year>
+<booktitle>MEMOCODE</booktitle>
+<ee>https://doi.org/10.1109/MEMCOD.2015.7340485</ee>
+<crossref>conf/memocode/2015</crossref>
+<url>db/conf/memocode/memocode2015.html#CaoRKE15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/PolychroniouRR15" mdate="2018-11-06">
+<author pid="131/4377">Orestis Polychroniou</author>
+<author pid="61/4142">Arun Raghavan</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Rethinking SIMD Vectorization for In-Memory Databases.</title>
+<pages>1493-1508</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2747645</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#PolychroniouRR15</url>
+</inproceedings>
+</r>
+<r><article key="journals/micro/WuBKR14" mdate="2023-06-26">
+<author orcid="0000-0002-3574-3440" pid="23/3943">Lisa Wu 0001</author>
+<author pid="131/5135">Raymond J. Barker</author>
+<author pid="29/10949">Martha A. Kim</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Hardware Partitioning for Big Data Analytics.</title>
+<pages>109-119</pages>
+<year>2014</year>
+<volume>34</volume>
+<journal>IEEE Micro</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MM.2014.11</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MM.2014.11</ee>
+<url>db/journals/micro/micro34.html#WuBKR14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SadoghiCBNR14" mdate="2021-07-25">
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="71/6902">Mustafa Canim</author>
+<author pid="19/2910">Bishwaranjan Bhattacharjee</author>
+<author pid="131/4779">Fabian Nagel</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Reducing Database Locking Contention Through Multi-version Concurrency.</title>
+<pages>1331-1342</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p1331-sadoghi.pdf</ee>
+<ee>https://doi.org/10.14778/2733004.2733006</ee>
+<url>db/journals/pvldb/pvldb7.html#SadoghiCBNR14</url>
+</article>
+</r>
+<r><article key="journals/tamm/Ross14" mdate="2020-06-18">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Review: <i>In the Dark on the Sunny Side: a Memoir of an Out-of-Sight Mathematician</i>, Mathematical Association of America, Washington, DC, 2012, 206 pp., ISBN 978-0883855812, $50. by Larry Baggett.</title>
+<pages>91-92</pages>
+<year>2014</year>
+<volume>121</volume>
+<journal>Am. Math. Mon.</journal>
+<number>1</number>
+<ee>https://doi.org/10.4169/amer.math.monthly.121.01.091</ee>
+<url>db/journals/tamm/tamm121.html#Ross14</url>
+</article>
+</r>
+<r><article key="journals/tamm/RossW14" mdate="2020-06-18">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="126/6735">Ann E. Watkins</author>
+<title>Yueh-Gin Gung and Dr. Charles Y. Hu Award for 2014 to Joan Leitzel for Distinguished Service to Mathematics.</title>
+<pages>187-190</pages>
+<year>2014</year>
+<volume>121</volume>
+<journal>Am. Math. Mon.</journal>
+<number>3</number>
+<ee>https://doi.org/10.4169/amer.math.monthly.121.03.187</ee>
+<url>db/journals/tamm/tamm121.html#RossW14</url>
+</article>
+</r>
+<r><article key="journals/tocs/WuPBKR14" mdate="2023-06-26">
+<author orcid="0000-0002-3574-3440" pid="23/3943">Lisa Wu 0001</author>
+<author pid="131/4377">Orestis Polychroniou</author>
+<author pid="131/5135">Raymond J. Barker</author>
+<author orcid="0000-0001-6243-5753" pid="29/10949">Martha A. Kim</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Energy Analysis of Hardware and Software Range Partitioning.</title>
+<pages>8:1-8:24</pages>
+<year>2014</year>
+<volume>32</volume>
+<journal>ACM Trans. Comput. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2638550</ee>
+<url>db/journals/tocs/tocs32.html#WuPBKR14</url>
+</article>
+</r>
+<r><article key="journals/ubiquity/Ross14" mdate="2018-11-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Multicore Processors and Database Systems: The multicore transformation (Ubiquity symposium).</title>
+<pages>4:1-4:7</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>Ubiquity</journal>
+<number>August</number>
+<ee>https://doi.org/10.1145/2618403</ee>
+<url>db/journals/ubiquity/ubiquity2014.html#Ross14</url>
+</article>
+</r>
+<r><inproceedings key="conf/asplos/WuLPKR14" mdate="2023-06-26">
+<author orcid="0000-0002-3574-3440" pid="23/3943">Lisa Wu 0001</author>
+<author pid="142/3206">Andrea Lottarini</author>
+<author pid="142/3197">Timothy K. Paine</author>
+<author orcid="0000-0001-6243-5753" pid="29/10949">Martha A. Kim</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Q100: the architecture and design of a database processing unit.</title>
+<pages>255-268</pages>
+<year>2014</year>
+<booktitle>ASPLOS</booktitle>
+<ee>https://doi.org/10.1145/2541940.2541961</ee>
+<ee>https://doi.org/10.1145/2644865.2541961</ee>
+<ee>https://doi.org/10.1145/2654822.2541961</ee>
+<crossref>conf/asplos/2014</crossref>
+<url>db/conf/asplos/asplos2014.html#WuLPKR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/PolychroniouR14" mdate="2018-11-06">
+<author pid="131/4377">Orestis Polychroniou</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Vectorized Bloom filters for advanced SIMD processors.</title>
+<pages>6:1-6:6</pages>
+<year>2014</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2619228.2619234</ee>
+<crossref>conf/damon/2014</crossref>
+<url>db/conf/damon/damon2014.html#PolychroniouR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/PolychroniouR14" mdate="2018-11-06">
+<author pid="131/4377">Orestis Polychroniou</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>A comprehensive study of main-memory partitioning and its application to large-scale comparison- and radix-sort.</title>
+<pages>755-766</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2610522</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#PolychroniouR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/PolychroniouSR14" mdate="2018-11-06">
+<author pid="131/4377">Orestis Polychroniou</author>
+<author pid="40/2065">Rajkumar Sen</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Track join: distributed joins with minimal network traffic.</title>
+<pages>1483-1494</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2610521</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#PolychroniouSR14</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/YuanL013a" mdate="2021-07-25">
+<author orcid="0000-0003-2779-6080" pid="56/7016">Mohammad Sadoghi</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="71/6902">Mustafa Canim</author>
+<author pid="19/2910">Bishwaranjan Bhattacharjee</author>
+<title>Making Updates Disk-I/O Friendly Using SSDs.</title>
+<pages>997-1008</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p997-sadoghi.pdf</ee>
+<ee>https://doi.org/10.14778/2536222.2536226</ee>
+<url>db/journals/pvldb/pvldb6.html#YuanL013a</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/SitaridiR13" mdate="2018-11-06">
+<author pid="15/11515">Evangelia A. Sitaridi</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Optimizing select conditions on GPUs.</title>
+<pages>4</pages>
+<year>2013</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2485278.2485282</ee>
+<crossref>conf/damon/2013</crossref>
+<url>db/conf/damon/damon2013.html#SitaridiR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/PolychroniouR13" mdate="2018-11-06">
+<author pid="131/4377">Orestis Polychroniou</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>High throughput heavy hitter aggregation for modern SIMD processors.</title>
+<pages>6</pages>
+<year>2013</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2485278.2485284</ee>
+<crossref>conf/damon/2013</crossref>
+<url>db/conf/damon/damon2013.html#PolychroniouR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isca/WuBKR13" mdate="2023-06-26">
+<author orcid="0000-0002-3574-3440" pid="23/3943">Lisa Wu 0001</author>
+<author pid="131/5135">Raymond J. Barker</author>
+<author orcid="0000-0001-6243-5753" pid="29/10949">Martha A. Kim</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Navigating big data with high-throughput, energy-efficient data partitioning.</title>
+<pages>249-260</pages>
+<year>2013</year>
+<booktitle>ISCA</booktitle>
+<ee>https://doi.org/10.1145/2485922.2485944</ee>
+<crossref>conf/isca/2013</crossref>
+<url>db/conf/isca/isca2013.html#WuBKR13</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigmod/2013" mdate="2013-06-26">
+<editor pid="r/KARoss">Kenneth A. Ross</editor>
+<editor pid="s/DiveshSrivastava">Divesh Srivastava</editor>
+<editor pid="p/DimitrisPapadias">Dimitris Papadias</editor>
+<title>Proceedings of the ACM SIGMOD International Conference on Management of Data, SIGMOD 2013, New York, NY, USA, June 22-27, 2013</title>
+<publisher>ACM</publisher>
+<year>2013</year>
+<isbn>978-1-4503-2037-5</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=2463676</ee>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2013.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/damon/SitaridiR12" mdate="2018-11-06">
+<author pid="15/11515">Evangelia A. Sitaridi</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Ameliorating memory contention of OLAP operators on GPU processors.</title>
+<pages>39-47</pages>
+<year>2012</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2236584.2236590</ee>
+<crossref>conf/damon/2012</crossref>
+<url>db/conf/damon/damon2012.html#SitaridiR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/AthanassoulisBCR12" mdate="2022-12-07">
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<author pid="19/2910">Bishwaranjan Bhattacharjee</author>
+<author pid="71/6902">Mustafa Canim</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Path processing using Solid State Storage.</title>
+<pages>23-32</pages>
+<year>2012</year>
+<booktitle>ADMS@VLDB</booktitle>
+<crossref>conf/vldb/2012adms</crossref>
+<ee type="oa">http://www.adms-conf.org/athanassoulis_adms12.pdf</ee>
+<url>db/conf/vldb/adms2012.html#AthanassoulisBCR12</url>
+</inproceedings>
+</r>
+<r><article key="journals/mst/AtseriasBCFGR11" mdate="2022-04-08">
+<author pid="66/5890">Albert Atserias</author>
+<author pid="53/4804">Mikolaj Bojanczyk</author>
+<author pid="91/5696">Balder ten Cate</author>
+<author pid="f/RonaldFagin">Ronald Fagin</author>
+<author orcid="0000-0002-8967-2473" pid="g/FlorisGeerts">Floris Geerts</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Foreword.</title>
+<pages>365-366</pages>
+<year>2011</year>
+<volume>49</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00224-011-9329-4</ee>
+<url>db/journals/mst/mst49.html#AtseriasBCFGR11</url>
+</article>
+</r>
+<r><article key="journals/tamm/Ross11" mdate="2020-06-18">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Benford's Law, A Growth Industry.</title>
+<pages>571-583</pages>
+<year>2011</year>
+<volume>118</volume>
+<journal>Am. Math. Mon.</journal>
+<number>7</number>
+<ee>https://doi.org/10.4169/amer.math.monthly.118.07.571</ee>
+<ee>https://www.wikidata.org/entity/Q58120810</ee>
+<url>db/journals/tamm/tamm118.html#Ross11</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/YeRV11" mdate="2018-11-06">
+<author pid="55/4341">Yang Ye</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="85/9733">Norases Vesdapunt</author>
+<title>Scalable aggregation on multicore processors.</title>
+<pages>1-9</pages>
+<year>2011</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/1995441.1995442</ee>
+<crossref>conf/damon/2011</crossref>
+<url>db/conf/damon/damon2011.html#YeRV11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/BhattacharjeeRLMB11" mdate="2019-10-19">
+<author pid="19/2910">Bishwaranjan Bhattacharjee</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="l/ChristianALang">Christian A. Lang</author>
+<author orcid="0000-0002-6185-9658" pid="m/GeorgeAMihaila">George A. Mihaila</author>
+<author pid="18/6845">Mohammad Banikazemi</author>
+<title>Enhancing recovery using an SSD buffer pool extension.</title>
+<pages>10-16</pages>
+<year>2011</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/1995441.1995443</ee>
+<crossref>conf/damon/2011</crossref>
+<url>db/conf/damon/damon2011.html#BhattacharjeeRLMB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dolap/El-HelwRBLM11" mdate="2019-10-19">
+<author pid="80/951">Amr El-Helw</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="19/2910">Bishwaranjan Bhattacharjee</author>
+<author pid="l/ChristianALang">Christian A. Lang</author>
+<author orcid="0000-0002-6185-9658" pid="m/GeorgeAMihaila">George A. Mihaila</author>
+<title>Column-oriented query processing for row stores.</title>
+<pages>67-74</pages>
+<year>2011</year>
+<booktitle>DOLAP</booktitle>
+<ee>https://doi.org/10.1145/2064676.2064689</ee>
+<crossref>conf/dolap/2011</crossref>
+<url>db/conf/dolap/dolap2011.html#El-HelwRBLM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/StoyanovichLMR11" mdate="2018-11-06">
+<author pid="s/JuliaStoyanovich">Julia Stoyanovich</author>
+<author pid="06/9727">Mayur Lodha</author>
+<author pid="12/7406">William Mee</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>SkylineSearch: semantic ranking and result visualization for pubmed.</title>
+<pages>1247-1250</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989467</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#StoyanovichLMR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/SidlauskasRJS11" mdate="2022-12-07">
+<author pid="44/7094">Darius Sidlauskas</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author orcid="0000-0002-2046-6110" pid="48/2122">Simonas Saltenis</author>
+<title>Thread-Level Parallel Indexing of Update Intensive Moving-Object Workloads.</title>
+<pages>186-204</pages>
+<year>2011</year>
+<booktitle>SSTD</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-22922-0_12</ee>
+<crossref>conf/ssd/2011</crossref>
+<url>db/conf/ssd/sstd2011.html#SidlauskasRJS11</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/BhattacharjeeCLMR10" mdate="2020-03-10">
+<author pid="19/2910">Bishwaranjan Bhattacharjee</author>
+<author pid="71/6902">Mustafa Canim</author>
+<author pid="l/ChristianALang">Christian A. Lang</author>
+<author pid="m/GeorgeAMihaila">George A. Mihaila</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Storage Class Memory Aware Data Management.</title>
+<pages>35-40</pages>
+<year>2010</year>
+<volume>33</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A10dec/bish.pdf</ee>
+<url>db/journals/debu/debu33.html#BhattacharjeeCLMR10</url>
+</article>
+</r>
+<r><article key="journals/pvldb/CanimMBRL10" mdate="2020-04-25">
+<author pid="71/6902">Mustafa Canim</author>
+<author orcid="0000-0002-6185-9658" pid="m/GeorgeAMihaila">George A. Mihaila</author>
+<author pid="19/2910">Bishwaranjan Bhattacharjee</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="l/ChristianALang">Christian A. Lang</author>
+<title>SSD Bufferpool Extensions for Database Systems.</title>
+<pages>1435-1446</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/I06.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1921017</ee>
+<url>db/journals/pvldb/pvldb3.html#CanimMBRL10</url>
+</article>
+</r>
+<r><article key="journals/vldb/BunemanMOR10" mdate="2017-05-28">
+<author pid="b/PeterBuneman">Peter Buneman</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="o/BengChinOoi">Beng Chin Ooi</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Special issue: best papers of VLDB 2008.</title>
+<pages>1-2</pages>
+<year>2010</year>
+<volume>19</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-009-0173-y</ee>
+<url>db/journals/vldb/vldb19.html#BunemanMOR10</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/Ross10" mdate="2018-11-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Optimizing read convoys in main-memory query processing.</title>
+<pages>27-33</pages>
+<year>2010</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/1869389.1869393</ee>
+<crossref>conf/damon/2010</crossref>
+<url>db/conf/damon/damon2010.html#Ross10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/StoyanovichMR10" mdate="2023-03-23">
+<author pid="s/JuliaStoyanovich">Julia Stoyanovich</author>
+<author pid="12/7406">William Mee</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Semantic ranking and result visualization for life sciences publications.</title>
+<pages>860-871</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447931</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447931</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#StoyanovichMR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/CieslewiczRSY10" mdate="2018-11-06">
+<author pid="98/1786">John Cieslewicz</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="53/8166">Kyoho Satsumi</author>
+<author pid="55/4341">Yang Ye</author>
+<title>Automatic contention detection and amelioration for data-intensive operations.</title>
+<pages>483-494</pages>
+<year>2010</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1807167.1807221</ee>
+<crossref>conf/sigmod/2010</crossref>
+<url>db/conf/sigmod/sigmod2010.html#CieslewiczRSY10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/CanimMBLR10" mdate="2020-03-12">
+<author pid="71/6902">Mustafa Canim</author>
+<author pid="m/GeorgeAMihaila">George A. Mihaila</author>
+<author pid="19/2910">Bishwaranjan Bhattacharjee</author>
+<author pid="l/ChristianALang">Christian A. Lang</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Buffered Bloom Filters on Solid State Storage.</title>
+<pages>1-8</pages>
+<year>2010</year>
+<booktitle>ADMS@VLDB</booktitle>
+<crossref>conf/vldb/2010adms</crossref>
+<ee type="oa">http://www.vldb.org/archives/workshop/2010/proceedings/files/vldb_2010_workshop/ADMS_2010/adms10-canim.pdf</ee>
+<url>db/conf/vldb/adms2010.html#CanimMBLR10</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/VarbanescuSRLNSL09" mdate="2020-03-02">
+<author pid="62/3310">Ana Lucia Varbanescu</author>
+<author pid="s/HJSips">Henk J. Sips</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="61/3234">Qiang Liu</author>
+<author pid="10/4267">Apostol Natsev</author>
+<author pid="s/JohnRSmith">John R. Smith</author>
+<author pid="13/1904">Lurng-Kuo Liu</author>
+<title>Evaluating application mapping scenarios on the Cell/B.E.</title>
+<pages>85-100</pages>
+<year>2009</year>
+<volume>21</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/cpe.1335</ee>
+<url>db/journals/concurrency/concurrency21.html#VarbanescuSRLNSL09</url>
+</article>
+</r>
+<r><article key="journals/pvldb/CanimBMLR09" mdate="2020-04-25">
+<author pid="71/6902">Mustafa Canim</author>
+<author pid="19/2910">Bishwaranjan Bhattacharjee</author>
+<author orcid="0000-0002-6185-9658" pid="m/GeorgeAMihaila">George A. Mihaila</author>
+<author pid="l/ChristianALang">Christian A. Lang</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>An Object Placement Advisor for DB2 Using Solid State Storage.</title>
+<pages>1318-1329</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-853.pdf</ee>
+<ee>https://doi.org/10.14778/1687553.1687557</ee>
+<url>db/journals/pvldb/pvldb2.html#CanimBMLR09</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BhattacharjeeLMMRLMTS09" mdate="2020-04-25">
+<author pid="19/2910">Bishwaranjan Bhattacharjee</author>
+<author pid="55/2304">Lipyeow Lim</author>
+<author pid="31/4691">Timothy Malkemus</author>
+<author orcid="0000-0002-6185-9658" pid="m/GeorgeAMihaila">George A. Mihaila</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="08/517">Sherman Lau</author>
+<author pid="13/7259">Cathy McCarthur</author>
+<author pid="29/7259">Zoltan Toth</author>
+<author pid="02/5500">Reza Sherkat</author>
+<title>Efficient Index Compression in DB2 LUW.</title>
+<pages>1462-1473</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-798.pdf</ee>
+<ee>https://doi.org/10.14778/1687553.1687573</ee>
+<url>db/journals/pvldb/pvldb2.html#BhattacharjeeLMMRLMTS09</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/CieslewiczMR09" mdate="2018-11-06">
+<author pid="98/1786">John Cieslewicz</author>
+<author pid="12/7406">William Mee</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Cache-conscious buffering for database operators with state.</title>
+<pages>43-51</pages>
+<year>2009</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/1565694.1565704</ee>
+<crossref>conf/damon/2009</crossref>
+<url>db/conf/damon/damon2009.html#CieslewiczMR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/RossC09" mdate="2018-11-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="98/1786">John Cieslewicz</author>
+<title>Optimal splitters for database partitioning with size bounds.</title>
+<pages>98-110</pages>
+<year>2009</year>
+<booktitle>ICDT</booktitle>
+<ee>https://doi.org/10.1145/1514894.1514907</ee>
+<crossref>conf/icdt/2009</crossref>
+<url>db/conf/icdt/icdt2009.html#RossC09</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/damon/2009" mdate="2018-11-06">
+<editor pid="b/PeterABoncz">Peter A. Boncz</editor>
+<editor pid="r/KARoss">Kenneth A. Ross</editor>
+<title>Proceedings of the Fifth International Workshop on Data Management on New Hardware, DaMoN 2009, Providence, Rhode Island, USA, June 28, 2009</title>
+<year>2009</year>
+<booktitle>DaMoN</booktitle>
+<url>db/conf/damon/damon2009.html</url>
+<publisher>ACM</publisher>
+<isbn>978-1-60558-701-1</isbn>
+<ee>https://doi.org/10.1145/1565694</ee>
+</proceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/CieslewiczR09" mdate="2017-07-12">
+<author pid="98/1786">John Cieslewicz</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Architecture-Conscious Database System.</title>
+<pages>127-132</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_659</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/a.html#CieslewiczR09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Ross09" mdate="2017-07-12">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Cache-Conscious Query Processing.</title>
+<pages>301-304</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_658</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/c.html#Ross09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Ross09a" mdate="2017-07-12">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>View Adaptation.</title>
+<pages>3324-3325</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_855</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/v.html#Ross09a</url>
+</incollection>
+</r>
+<r><article key="journals/pieee/CieslewiczR08" mdate="2020-10-02">
+<author pid="98/1786">John Cieslewicz</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Database Optimizations for Modern Hardware.</title>
+<pages>863-878</pages>
+<year>2008</year>
+<volume>96</volume>
+<journal>Proc. IEEE</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/JPROC.2008.917744</ee>
+<url>db/journals/pieee/pieee96.html#CieslewiczR08</url>
+</article>
+</r>
+<r><article key="journals/pvldb/HuRCLZ08" mdate="2020-04-25">
+<author pid="42/5567">Ling Hu</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="14/2029">Yuan-Chi Chang</author>
+<author pid="l/ChristianALang">Christian A. Lang</author>
+<author pid="79/2619">Donghui Zhang</author>
+<title>QueryScope: visualizing queries for repeatable database tuning.</title>
+<pages>1488-1491</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1454209.pdf</ee>
+<ee>https://doi.org/10.14778/1454159.1454209</ee>
+<url>db/journals/pvldb/pvldb1.html#HuRCLZ08</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/Ross08" mdate="2018-11-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Modeling the performance of algorithms on flash memory devices.</title>
+<pages>11-16</pages>
+<year>2008</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/1457150.1457153</ee>
+<crossref>conf/damon/2008</crossref>
+<url>db/conf/damon/damon2008.html#Ross08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/CieslewiczR08" mdate="2018-11-06">
+<author pid="98/1786">John Cieslewicz</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Data partitioning on chip multiprocessors.</title>
+<pages>25-34</pages>
+<year>2008</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/1457150.1457156</ee>
+<crossref>conf/damon/2008</crossref>
+<url>db/conf/damon/damon2008.html#CieslewiczR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/RossS08" mdate="2018-11-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="s/JuliaStoyanovich">Julia Stoyanovich</author>
+<title>Schema polynomials and applications.</title>
+<pages>404-415</pages>
+<year>2008</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1353343.1353394</ee>
+<crossref>conf/edbt/2008</crossref>
+<url>db/conf/edbt/edbt2008.html#RossS08</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/damon/2008" mdate="2018-11-06">
+<editor pid="l/QiongLuo">Qiong Luo 0001</editor>
+<editor pid="r/KARoss">Kenneth A. Ross</editor>
+<title>4th Workshop on Data Management on New Hardware, DaMoN 2008, Vancouver, BC, Canada, June 13, 2008</title>
+<year>2008</year>
+<booktitle>DaMoN</booktitle>
+<url>db/conf/damon/damon2008.html</url>
+<publisher>ACM</publisher>
+<isbn>978-1-60558-184-2</isbn>
+<ee>https://doi.org/10.1145/1457150</ee>
+</proceedings>
+</r>
+<r><article key="journals/is/ChatziantoniouR07" mdate="2017-05-20">
+<author pid="c/DChatziantoniou">Damianos Chatziantoniou</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Partitioned optimization of complex queries.</title>
+<pages>248-282</pages>
+<year>2007</year>
+<volume>32</volume>
+<journal>Inf. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.is.2005.09.003</ee>
+<url>db/journals/is/is32.html#ChatziantoniouR07</url>
+</article>
+</r>
+<r><article key="journals/sigmod/RossVHJ07" mdate="2020-03-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="30/1802">David Vespe</author>
+<author pid="87/1983">David Hessing</author>
+<author pid="43/4464">Pranay Jain</author>
+<title>Finding shapes in a set of points.</title>
+<pages>7-12</pages>
+<year>2007</year>
+<volume>36</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1276301.1276303</ee>
+<url>db/journals/sigmod/sigmod36.html#RossVHJ07</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/CieslewiczRG07" mdate="2018-11-06">
+<author pid="98/1786">John Cieslewicz</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="75/2805">Ioannis Giannakakis</author>
+<title>Parallel buffers for chip multiprocessors.</title>
+<pages>2</pages>
+<year>2007</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/1363189.1363192</ee>
+<crossref>conf/damon/2007</crossref>
+<url>db/conf/damon/damon2007.html#CieslewiczRG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/RossSM07" mdate="2023-03-23">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<author pid="m/AmelieMarian">Am&#233;lie Marian</author>
+<title>Practical Preference Relations for Large Data Sets.</title>
+<pages>229-236</pages>
+<year>2007</year>
+<crossref>conf/icde/2007w</crossref>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2007.4400997</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2007.4400997</ee>
+<url>db/conf/icde/icdew2007.html#RossSM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/Ross07" mdate="2023-03-24">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Efficient Hash Probes on Modern Processors.</title>
+<pages>1297-1301</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.368997</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2007.368997</ee>
+<url>db/conf/icde/icde2007.html#Ross07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/LiuLNRSV07" mdate="2023-03-24">
+<author pid="13/1904">Lurng-Kuo Liu</author>
+<author pid="61/3234">Qiang Liu</author>
+<author pid="10/4267">Apostol Natsev</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="s/JohnRSmith">John R. Smith</author>
+<author pid="62/3310">Ana Lucia Varbanescu</author>
+<title>Digital Media Indexing on the Cell Processor.</title>
+<pages>1866-1869</pages>
+<year>2007</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2007.4285038</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICME.2007.4285038</ee>
+<crossref>conf/icmcs/2007</crossref>
+<url>db/conf/icmcs/icme2007.html#LiuLNRSV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/VarbanescuSRLLNS07" mdate="2023-03-24">
+<author pid="62/3310">Ana Lucia Varbanescu</author>
+<author pid="s/HJSips">Henk J. Sips</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="61/3234">Qiang Liu</author>
+<author pid="13/1904">Lurng-Kuo Liu</author>
+<author pid="10/4267">Apostol Natsev</author>
+<author pid="s/JohnRSmith">John R. Smith</author>
+<title>An Effective Strategy for Porting C++ Applications on Cell.</title>
+<pages>59</pages>
+<year>2007</year>
+<crossref>conf/icpp/2007</crossref>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1109/ICPP.2007.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICPP.2007.15</ee>
+<url>db/conf/icpp/icpp2007.html#VarbanescuSRLLNS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/CieslewiczR07" mdate="2020-03-12">
+<author pid="98/1786">John Cieslewicz</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Adaptive Aggregation on Chip Multiprocessors.</title>
+<pages>339-350</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/research/p339-cieslewicz.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#CieslewiczR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/CieslewiczBHR06" mdate="2018-11-06">
+<author pid="98/1786">John Cieslewicz</author>
+<author pid="48/646">Jonathan W. Berry</author>
+<author pid="h/BruceHendrickson">Bruce Hendrickson</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Realizing parallelism in database operations: insights from a massively multithreaded architecture.</title>
+<pages>4</pages>
+<year>2006</year>
+<crossref>conf/damon/2006</crossref>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/1140402.1140408</ee>
+<url>db/conf/damon/damon2006.html#CieslewiczBHR06</url>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/Ross05" mdate="2018-11-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Academic dishonesty and the Internet.</title>
+<pages>29-31</pages>
+<year>2005</year>
+<volume>48</volume>
+<journal>Commun. ACM</journal>
+<number>10</number>
+<ee>https://doi.org/10.1145/1089107.1089131</ee>
+<url>db/journals/cacm/cacm48.html#Ross05</url>
+</article>
+</r>
+<r><article key="journals/debu/RossCRZ05" mdate="2020-08-19">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="98/1786">John Cieslewicz</author>
+<author pid="r/JunRao">Jun Rao</author>
+<author pid="84/2644">Jingren Zhou</author>
+<title>Architecture Sensitive Database Design: Examples from the Columbia Group.</title>
+<pages>5-10</pages>
+<year>2005</year>
+<volume>28</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<ee type="oa">http://sites.computer.org/debull/A05june/kross.ps</ee>
+<url>db/journals/debu/debu28.html#RossCRZ05</url>
+</article>
+</r>
+<r><article key="journals/sigmod/RossCGPYZ05" mdate="2023-03-05">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="01/3589">Rada Chirkova</author>
+<author pid="g/DimitriosGunopulos">Dimitrios Gunopulos</author>
+<author pid="68/1297">Rachel Pottinger</author>
+<author pid="y/JunYang1">Jun Yang 0001</author>
+<author pid="84/2644">Jingren Zhou</author>
+<title>Reminiscences on influential papers.</title>
+<pages>74-76</pages>
+<year>2005</year>
+<volume>34</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1058150.1058168</ee>
+<url>db/journals/sigmod/sigmod34.html#RossCGPYZ05</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Ross05" mdate="2020-03-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Reminiscences on influential papers.</title>
+<pages>68-70</pages>
+<year>2005</year>
+<volume>34</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1083784.1083801</ee>
+<url>db/journals/sigmod/sigmod34.html#Ross05</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Ross05a" mdate="2020-03-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Reminiscences on influential papers.</title>
+<pages>111-113</pages>
+<year>2005</year>
+<volume>34</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1084805.1084831</ee>
+<url>db/journals/sigmod/sigmod34.html#Ross05a</url>
+</article>
+</r>
+<r><article key="journals/sigmod/Ross05b" mdate="2020-03-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Reminiscences on influential papers.</title>
+<pages>90-91</pages>
+<year>2005</year>
+<volume>34</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1107499.1107520</ee>
+<url>db/journals/sigmod/sigmod34.html#Ross05b</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/CarmeanFKPR05" mdate="2020-03-12">
+<author pid="11/4277">Doug Carmean</author>
+<author pid="f/BabakFalsafi">Babak Falsafi</author>
+<author pid="77/1312">Bradley C. Kuszmaul</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Architecture-Conscious Databases: sub-optimization or the next big leap?</title>
+<year>2005</year>
+<crossref>conf/damon/2005</crossref>
+<booktitle>DaMoN</booktitle>
+<ee type="oa">http://www-2.cs.cmu.edu/%7Edamon2005/damonpdf/9%20panel%20-%20architecture-conscious%20databases%20-%20sub-optimization%20or%20next%20big%20leap.pdf</ee>
+<url>db/conf/damon/damon2005.html#CarmeanFKPR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ZhouCRS05" mdate="2020-03-12">
+<author pid="84/2644">Jingren Zhou</author>
+<author pid="98/1786">John Cieslewicz</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="73/2032">Mihir Shah</author>
+<title>Improving Database Performance on Simultaneous Multithreading Processors.</title>
+<pages>49-60</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/archives/website/2005/program/paper/tue/p49-zhou.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083602</ee>
+<url>db/conf/vldb/vldb2005.html#ZhouCRS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/RossJS05" mdate="2020-03-12">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="90/364">Angel Janevski</author>
+<author pid="s/JuliaStoyanovich">Julia Stoyanovich</author>
+<title>A Faceted Query Engine Applied to Archaeology.</title>
+<pages>1334-1337</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2005/papers/p1334-ross.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083768</ee>
+<url>db/conf/vldb/vldb2005.html#RossJS05</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/BrunoMW04" mdate="2023-08-09">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Reminiscences on Influential Papers: Nicolas Bruno, Samuel Madden, Wei Wang.</title>
+<pages>103-104</pages>
+<year>2004</year>
+<volume>33</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1024694.1024715</ee>
+<url>db/journals/sigmod/sigmod33.html#BrunoMW04</url>
+</article>
+</r>
+<r><article key="journals/sigmod/RossBIMV04" mdate="2020-03-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="v/VVassalos">Vasilis Vassalos</author>
+<title>Reminiscences on Influential Papers.</title>
+<pages>91-92</pages>
+<year>2004</year>
+<volume>33</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1041410.1041431</ee>
+<ee>https://www.wikidata.org/entity/Q56654159</ee>
+<url>db/journals/sigmod/sigmod33.html#RossBIMV04</url>
+</article>
+</r>
+<r><article key="journals/tods/Ross04" mdate="2018-11-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Selection conditions in main memory.</title>
+<pages>132-161</pages>
+<year>2004</year>
+<volume>29</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<ee>https://doi.org/10.1145/974750.974755</ee>
+<url>db/journals/tods/tods29.html#Ross04</url>
+</article>
+</r>
+<r><inproceedings key="conf/jcdl/AllenFMRTBISC04" mdate="2023-03-23">
+<author pid="a/PeterKAllen">Peter K. Allen</author>
+<author pid="f/StevenFeiner">Steven Feiner</author>
+<author pid="80/4992">Lynn Meskell</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="66/6314">Alejandro J. Troccoli</author>
+<author pid="73/5679">Hrvoje Benko</author>
+<author pid="97/3029">Edward W. Ishak</author>
+<author pid="40/3180-1">Benjamin Smith 0001</author>
+<author pid="10/6629">James Conlon</author>
+<title>Digitally modeling, visualizing and preserving archaeological sites.</title>
+<pages>389</pages>
+<year>2004</year>
+<crossref>conf/jcdl/2004</crossref>
+<booktitle>JCDL</booktitle>
+<ee>https://doi.org/10.1145/996350.996455</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/JCDL.2004.1336168</ee>
+<url>db/conf/jcdl/jcdl2004.html#AllenFMRTBISC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/RossJ04" mdate="2017-05-22">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="90/364">Angel Janevski</author>
+<title>Querying Faceted Databases.</title>
+<pages>199-218</pages>
+<ee>https://doi.org/10.1007/978-3-540-31839-2_15</ee>
+<year>2004</year>
+<crossref>conf/semweb/2004swdb</crossref>
+<booktitle>SWDB</booktitle>
+<url>db/conf/semweb/swdb2004.html#RossJ04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZhouR04" mdate="2018-11-06">
+<author pid="84/2644">Jingren Zhou</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Buffering Database Operations for Enhanced Instruction Cache Performance.</title>
+<year>2004</year>
+<crossref>conf/sigmod/2004</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2004.html#ZhouR04</url>
+<pages>191-202</pages>
+<ee>https://doi.org/10.1145/1007568.1007592</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/RossS04" mdate="2019-06-07">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="s/JuliaStoyanovich">Julia Stoyanovich</author>
+<title>Symmetric Relations and Cardinality-Bounded Multisets in Database Systems.</title>
+<year>2004</year>
+<crossref>conf/vldb/2004</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2004.html#RossS04</url>
+<pages>912-923</pages>
+<ee>http://www.vldb.org/conf/2004/RS23P2.PDF</ee>
+<ee>https://doi.org/10.1016/B978-012088469-8.50080-2</ee>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/RossGN03" mdate="2020-03-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="g/MinosNGarofalakis">Minos N. Garofalakis</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<title>Reminiscences an Influential Papers.</title>
+<pages>62-63</pages>
+<year>2003</year>
+<volume>32</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/640990.641001</ee>
+<url>db/journals/sigmod/sigmod32.html#RossGN03</url>
+</article>
+</r>
+<r><article key="journals/sigmod/RossNO03" mdate="2020-03-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="n/FrankNeven">Frank Neven</author>
+<author pid="o/BengChinOoi">Beng Chin Ooi</author>
+<title>Reminiscences on Influential Papers.</title>
+<pages>89</pages>
+<year>2003</year>
+<volume>32</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>http://www.acm.org/sigmod/record/issues/0306/D4-KenRoss.pdf</ee>
+<url>db/journals/sigmod/sigmod32.html#RossNO03</url>
+</article>
+</r>
+<r><article key="journals/sigmod/CherniakV03" mdate="2020-03-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="c/MitchCherniack">Mitch Cherniack</author>
+<author pid="v/GottfriedVossen">Gottfried Vossen</author>
+<title>Reminiscences on Influential Papers.</title>
+<pages>91</pages>
+<year>2003</year>
+<volume>32</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<url>db/journals/sigmod/sigmod32.html#CherniakV03</url>
+<ee>http://www.acm.org/sigmod/record/issues/0309/IP16.KenRoss.pdf</ee>
+</article>
+</r>
+<r><article key="journals/sigmod/RossGR03" mdate="2020-03-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="r/JunRao">Jun Rao</author>
+<title>Reminiscences on Influential Papers.</title>
+<pages>104-105</pages>
+<year>2003</year>
+<volume>32</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>http://www.acm.org/sigmod/record/issues/0312/18.KenRossdec2003.pdf</ee>
+<url>db/journals/sigmod/sigmod32.html#RossGR03</url>
+</article>
+</r>
+<r><inproceedings key="conf/ideas/ZhouR03" mdate="2023-03-24">
+<author pid="84/2644">Jingren Zhou</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>A Multi-Resolution Block Storage Model for Database Design.</title>
+<pages>22-33</pages>
+<year>2003</year>
+<crossref>conf/ideas/2003</crossref>
+<booktitle>IDEAS</booktitle>
+<ee>https://doi.org/10.1109/IDEAS.2003.1214908</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IDEAS.2003.1214908</ee>
+<url>db/conf/ideas/ideas2003.html#ZhouR03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ZhouR03" mdate="2020-03-12">
+<ee type="oa">http://www.vldb.org/conf/2003/papers/S13P02.pdf</ee>
+<ee>https://doi.org/10.1016/B978-012722442-8/50043-4</ee>
+<author pid="84/2644">Jingren Zhou</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Buffering Accesses to Memory-Resident Index Structures.</title>
+<year>2003</year>
+<crossref>conf/vldb/2003</crossref>
+<booktitle>VLDB</booktitle>
+<pages>405-416</pages>
+<url>db/conf/vldb/vldb2003.html#ZhouR03</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/RossKMV02" mdate="2020-03-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="k/FlipKorn">Flip Korn</author>
+<author pid="m/RJMiller">Ren&#233;e J. Miller</author>
+<author pid="v/KaladharVoruganti">Kaladhar Voruganti</author>
+<title>Reminiscences on Influential Papers.</title>
+<pages>107-108</pages>
+<year>2002</year>
+<volume>31</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/507338.507364</ee>
+<url>db/journals/sigmod/sigmod31.html#RossKMV02</url>
+</article>
+</r>
+<r><article key="journals/sigmod/RossFS02" mdate="2020-03-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="f/MaryFFernandez">Mary F. Fernandez</author>
+<author pid="s/KyuseokShim">Kyuseok Shim</author>
+<title>Reminiscences on Influential Papers.</title>
+<pages>63-64</pages>
+<year>2002</year>
+<volume>31</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>http://www.acm.org/sigmod/record/issues/0206/kenross.pdf</ee>
+<url>db/journals/sigmod/sigmod31.html#RossFS02</url>
+</article>
+</r>
+<r><article key="journals/sigmod/RossAJS02" mdate="2020-03-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="a/AmrElAbbadi">Amr El Abbadi</author>
+<author pid="j/TheodoreJohnson">Theodore Johnson</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>Reminiscences on Influential Papers.</title>
+<pages>62-63</pages>
+<year>2002</year>
+<volume>31</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/601858.601875</ee>
+<url>db/journals/sigmod/sigmod31.html#RossAJS02</url>
+</article>
+</r>
+<r><article key="journals/sigmod/RossAA02" mdate="2020-03-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="a/AVAho">Alfred V. Aho</author>
+<author pid="a/AnastassiaAilamaki">Anastassia Ailamaki</author>
+<title>Reminiscences on Influential Papers.</title>
+<pages>97</pages>
+<year>2002</year>
+<volume>31</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>http://www.acm.org/sigmod/record/issues/0212/KenRoss.pdf</ee>
+<url>db/journals/sigmod/sigmod31.html#RossAA02</url>
+</article>
+</r>
+<r><inproceedings key="conf/dgo/AmbiteABDHKPPRSSTZ02" mdate="2015-11-20">
+<author pid="75/6070">Jos&#233; Luis Ambite</author>
+<author pid="a/YigalArens">Yigal Arens</author>
+<author pid="69/2313">Walter Bourne</author>
+<author pid="66/2679">Peter T. Davis</author>
+<author pid="47/2454">Eduard H. Hovy</author>
+<author pid="k/JudithKlavans">Judith L. Klavans</author>
+<author pid="20/4002">Andrew Philpot</author>
+<author pid="99/2123">Samuel D. Popper</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="65/478">Ju-Ling Shih</author>
+<author pid="84/6699">Peter Sommer</author>
+<author pid="33/5037">Surabhan Temiyabutr</author>
+<author pid="38/4016">Laura Zadoff</author>
+<title>A Portal for Access to Complex Distributed Information about Energy.</title>
+<year>2002</year>
+<crossref>conf/dgo/2002</crossref>
+<booktitle>DG.O</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1123161</ee>
+<url>db/conf/dgo/dgo2002.html#AmbiteABDHKPPRSSTZ02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/Ross02" mdate="2018-11-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Conjunctive Selection Conditions in Main Memory.</title>
+<pages>109-120</pages>
+<year>2002</year>
+<crossref>conf/pods/2002</crossref>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/543613.543628</ee>
+<ee>http://www.acm.org/sigs/sigmod/pods/proc02/papers/109-Ross.pdf</ee>
+<url>db/conf/pods/pods02.html#Ross02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZhouR02" mdate="2018-11-06">
+<author pid="84/2644">Jingren Zhou</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Implementing database operations using SIMD instructions.</title>
+<pages>145-156</pages>
+<year>2002</year>
+<crossref>conf/sigmod/2002</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/564691.564709</ee>
+<url>db/conf/sigmod/sigmod2002.html#ZhouR02</url>
+</inproceedings>
+</r>
+<r><incollection key="series/ads/AmbiteABFGHHKPRRSSSSSTWZ02" mdate="2017-05-16">
+<author pid="75/6070">Jos&#233; Luis Ambite</author>
+<author pid="a/YigalArens">Yigal Arens</author>
+<author pid="69/2313">Walter Bourne</author>
+<author pid="f/StevenFeiner">Steven Feiner</author>
+<author pid="g/LuisGravano">Luis Gravano</author>
+<author pid="15/4175">Vasileios Hatzivassiloglou</author>
+<author pid="47/2454">Eduard H. Hovy</author>
+<author pid="k/JudithKlavans">Judith Klavans</author>
+<author pid="20/4002">Andrew Philpot</author>
+<author pid="20/5420">Usha Ramachandran</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="65/4111">Jay Sandhaus</author>
+<author pid="69/8725">Deniz Sari&#246;z</author>
+<author pid="37/4391">Rolfe R. Schmidt</author>
+<author pid="s/CyrusShahabi">Cyrus Shahabi</author>
+<author pid="45/2530">Anurag Singla</author>
+<author pid="33/5037">Surabhan Temiyabutr</author>
+<author pid="86/5977">Brian Whitman</author>
+<author pid="66/5080">Kazi A. Zaman</author>
+<title>Data Integration and Access - The Digital Government Research Center's Energy Data Collection (EDC) Project.</title>
+<pages>85-106</pages>
+<year>2002</year>
+<booktitle>Advances in Digital Government</booktitle>
+<ee>https://doi.org/10.1007/0-306-47374-7_5</ee>
+<crossref>series/ads/2002-26</crossref>
+<url>db/series/ads/ads26.html#AmbiteABFGHHKPRRSSSSSTWZ02</url>
+</incollection>
+</r>
+<r><article key="journals/is/ONeilR01" mdate="2017-05-20">
+<author pid="o/PatrickEONeil">Patrick E. O'Neil</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Preface.</title>
+<pages>321-322</pages>
+<year>2001</year>
+<volume>26</volume>
+<journal>Inf. Syst.</journal>
+<number>5</number>
+<url>db/journals/is/is26.html#ONeilR01</url>
+<ee>https://doi.org/10.1016/S0306-4379(01)00030-8</ee>
+</article>
+</r>
+<r><article key="journals/is/GuptaMRR01" mdate="2017-05-20">
+<author pid="27/4744-1">Ashish Gupta 0001</author>
+<author pid="m/ISMumick">Inderpal Singh Mumick</author>
+<author pid="r/JunRao">Jun Rao</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Adapting materialized views after redefinitions: techniques and a performance study.</title>
+<pages>323-362</pages>
+<year>2001</year>
+<volume>26</volume>
+<journal>Inf. Syst.</journal>
+<number>5</number>
+<url>db/journals/is/is26.html#GuptaMRR01</url>
+<ee>https://doi.org/10.1016/S0306-4379(01)00024-2</ee>
+</article>
+</r>
+<r><article key="journals/sigmod/RossCGLLM01" mdate="2020-03-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="c/StefanoCeri">Stefano Ceri</author>
+<author pid="g/LuisGravano">Luis Gravano</author>
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<author pid="l/LeonidLibkin">Leonid Libkin</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<title>Reminiscences on Influential Papers.</title>
+<pages>55-57</pages>
+<year>2001</year>
+<volume>30</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/373626.604262</ee>
+<url>db/journals/sigmod/sigmod30.html#RossCGLLM01</url>
+</article>
+</r>
+<r><article key="journals/sigmod/RossHKRRSS01" mdate="2020-03-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="h/JiaweiHan">Jiawei Han 0001</author>
+<author pid="k/NickKoudas">Nick Koudas</author>
+<author pid="r/RajeevRastogi">Rajeev Rastogi</author>
+<author pid="80/6105">Daniel J. Rosenkrantz</author>
+<author pid="s/PeterScheuermann">Peter Scheuermann</author>
+<author pid="s/DanSuciu">Dan Suciu</author>
+<title>Reminiscences on Influential Papers.</title>
+<pages>101-104</pages>
+<year>2001</year>
+<volume>30</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/603867.603882</ee>
+<url>db/journals/sigmod/sigmod30.html#RossHKRRSS01</url>
+</article>
+</r>
+<r><article key="journals/sigmod/RossHLW01" mdate="2020-03-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="h/JamesRHamilton">James R. Hamilton</author>
+<author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author>
+<author pid="w/LimsoonWong">Limsoon Wong</author>
+<title>Reminiscences on Influential Papers.</title>
+<pages>90-91</pages>
+<year>2001</year>
+<volume>30</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>http://www.acm.org/sigmod/record/issues/0112/kenross.pdf</ee>
+<url>db/journals/sigmod/sigmod30.html#RossHLW01</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/FabretJLPRS01" mdate="2021-03-12">
+<author pid="72/6766">Fran&#231;oise Fabret</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<author pid="l/FLlirbat">Fran&#231;ois Llirbat</author>
+<author pid="166/9107">Jo&#227;o L. M. Pereira</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="s/DennisShasha">Dennis E. Shasha</author>
+<title>Filtering Algorithms and Implementation for Very Fast Publish/Subscribe.</title>
+<pages>115-126</pages>
+<year>2001</year>
+<crossref>conf/sigmod/2001</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2001.html#FabretJLPRS01</url>
+<ee>https://doi.org/10.1145/375663.375677</ee>
+<ee>https://doi.org/10.1145/376284.375677</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/RossSS01" mdate="2023-03-24">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="94/4613">Inga Sitzmann</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<title>Cost-based Unbalanced R-Trees.</title>
+<pages>203-212</pages>
+<year>2001</year>
+<crossref>conf/ssdbm/2001</crossref>
+<booktitle>SSDBM</booktitle>
+<url>db/conf/ssdbm/ssdbm2001.html#RossSS01</url>
+<ee>https://doi.org/10.1109/SSDM.2001.938552</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SSDM.2001.938552</ee>
+</inproceedings>
+</r>
+<r><article key="journals/jei/BerchtoldJR00" mdate="2018-11-14">
+<author pid="b/SBerchtold">Stefan Berchtold</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Independence diagrams: A technique for data visualization.</title>
+<pages>375-384</pages>
+<year>2000</year>
+<volume>9</volume>
+<journal>J. Electronic Imaging</journal>
+<number>4</number>
+<ee>https://doi.org/10.1117/1.1289356</ee>
+<ee>https://www.wikidata.org/entity/Q56953605</ee>
+<url>db/journals/jei/jei9.html#BerchtoldJR00</url>
+</article>
+</r>
+<r><article key="journals/sigmod/RossFLOSSVW00" mdate="2022-03-24">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="f/CFaloutsos">Christos Faloutsos</author>
+<author pid="h/AlonYHalevy">Alon Y. Levy</author>
+<author pid="o/PatrickEONeil">Patrick E. O'Neil</author>
+<author pid="s/EricSimon">Eric Simon</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<author pid="v/VictorVianu">Victor Vianu</author>
+<author pid="w/GerhardWeikum">Gerhard Weikum</author>
+<title>Reminiscences on Influential Papers.</title>
+<pages>52-65</pages>
+<cdrom>sigmodR/29-1/P052.pdf</cdrom>
+<year>2000</year>
+<volume>29</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<url>db/journals/sigmod/sigmod29.html#RossFLOSSVW00</url>
+</article>
+</r>
+<r><article key="journals/sigmod/RossAKSSY00" mdate="2022-03-24">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="a/CharuCAggarwal">Charu C. Aggarwal</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="s/SunitaSarawagi">Sunita Sarawagi</author>
+<author pid="s/SSudarshan1">S. Sudarshan 0001</author>
+<author pid="y/MihalisYannakakis">Mihalis Yannakakis</author>
+<title>Reminiscences on Influential Papers.</title>
+<pages>52-54</pages>
+<cdrom>sigmodR/29-3/P052.pdf</cdrom>
+<year>2000</year>
+<volume>29</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<url>db/journals/sigmod/sigmod29.html#RossAKSSY00</url>
+</article>
+</r>
+<r><article key="journals/sigmod/RossIJP00" mdate="2020-03-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<author pid="55/603">Anant Jhingran</author>
+<author pid="p/CHPapadimitriou">Christos H. Papadimitriou</author>
+<title>Reminiscences on Influential Papers.</title>
+<pages>48-49</pages>
+<year>2000</year>
+<volume>29</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/369275.602302</ee>
+<url>db/journals/sigmod/sigmod29.html#RossIJP00</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/RaoR00" mdate="2021-03-12">
+<ee>https://doi.org/10.1145/342009.335449</ee>
+<ee>https://doi.org/10.1145/335191.335449</ee>
+<author pid="r/JunRao">Jun Rao</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Making B<sup>+</sup>-Trees Cache Conscious in Main Memory.</title>
+<pages>475-486</pages>
+<year>2000</year>
+<crossref>conf/sigmod/2000</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2000.html#RaoR00</url>
+<cite label="ADW99">conf/vldb/AilamakiDHW99</cite>
+<cite label="BBC+98">journals/sigmod/BernsteinBCDFGGHHJLMNPSU98</cite>
+<cite label="BMK99">conf/vldb/BonczMK99</cite>
+<cite label="CLH98">...</cite>
+<cite label="Com79">journals/csur/Comer79</cite>
+<cite label="Enb99">...</cite>
+<cite label="Eng98">...</cite>
+<cite label="HP96">books/mk/HennessyP96</cite>
+<cite label="Inc99">...</cite>
+<cite label="Ker89">conf/fodo/Kersten89</cite>
+<cite label="LC86">conf/vldb/LehmanC86</cite>
+<cite label="O'N92">journals/acta/ONeil92</cite>
+<cite label="Pro99">...</cite>
+<cite label="Ram97">books/mg/Ramakrishnan98</cite>
+<cite label="RR99">conf/vldb/RaoR99</cite>
+<cite label="SKN94">conf/vldb/ShatdalKN94</cite>
+<cite label="Smi82">journals/csur/Smith82</cite>
+<cite label="TMJ98">journals/tkde/TorpMJ98</cite>
+<cite label="Wri85">journals/acta/Wright85</cite>
+<cite label="Yao78">journals/acta/Yao78</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/RossZ00" mdate="2023-03-24">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="66/5080">Kazi A. Zaman</author>
+<title>Optimizing Selections over Datacubes.</title>
+<pages>139-152</pages>
+<year>2000</year>
+<crossref>conf/ssdbm/2000</crossref>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1109/SSDM.2000.869784</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SSDM.2000.869784</ee>
+<url>db/conf/ssdbm/ssdbm2000.html#RossZ00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/RossZ00a" mdate="2023-03-24">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="66/5080">Kazi A. Zaman</author>
+<title>Serving Datacube Tuples from Main Memory.</title>
+<pages>182-195</pages>
+<year>2000</year>
+<crossref>conf/ssdbm/2000</crossref>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1109/SSDM.2000.869787</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SSDM.2000.869787</ee>
+<url>db/conf/ssdbm/ssdbm2000.html#RossZ00a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/PereiraFLS00" mdate="2022-02-28">
+<author pid="51/1587-2">Jo&#227;o Pereira 0002</author>
+<author pid="72/6766">Fran&#231;oise Fabret</author>
+<author pid="l/FLlirbat">Fran&#231;ois Llirbat</author>
+<author pid="26/6879">Radu Preotiuc-Pietro</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="s/DennisShasha">Dennis E. Shasha</author>
+<title>Publish/Subscribe on the Web at Extreme Speed.</title>
+<year>2000</year>
+<crossref>conf/vldb/2000</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2000.html#PereiraFLS00</url>
+<pages>627-630</pages>
+<ee type="oa">http://www.vldb.org/conf/2000/P627.pdf</ee>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/dr/Ross00" mdate="2023-08-16">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Review - Description Logics in Data Management</title>
+<year>2000</year>
+<volume>2</volume>
+<journal>ACM SIGMOD Digit. Rev.</journal>
+<url>db/journals/dr/dr2.html#Ross00</url>
+<ee type="oa">https://dblp.org/db/journals/dr/Ross00.html</ee>
+<cite>journals/tkde/Borgida95</cite>
+</article>
+</r>
+<r><article key="journals/dke/LeiR99" mdate="2020-03-11">
+<author pid="l/HuiLei">Hui Lei 0001</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Faster Joins, Self-Joins and Multi-Way Joins Using Join Indices.</title>
+<pages>179-200</pages>
+<year>1999</year>
+<volume>29</volume>
+<journal>Data Knowl. Eng.</journal>
+<number>2</number>
+<url>db/journals/dke/dke29.html#LeiR99</url>
+<ee>https://doi.org/10.1016/S0169-023X(98)00031-7</ee>
+</article>
+</r>
+<r><article key="journals/sigmod/SnodgrassACFLLORRSV99" mdate="2020-03-06">
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<author pid="a/SergeAbiteboul">Serge Abiteboul</author>
+<author pid="c/SophieCluet">Sophie Cluet</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="l/DavidBLomet">David B. Lomet</author>
+<author pid="o/GultekinOzsoyoglu">Gultekin &#214;zsoyoglu</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="s/TimosKSellis">Timos K. Sellis</author>
+<author pid="v/PatrickValduriez">Patrick Valduriez</author>
+<title>Reminiscences on Influential Papers.</title>
+<pages>110-114</pages>
+<cdrom>sigmodR/28-1/P110.pdf</cdrom>
+<year>1999</year>
+<volume>28</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<url>db/journals/sigmod/sigmod28.html#SnodgrassACFLLORRSV99</url>
+<cite label="Chandra and Harel, 1980">journals/jcss/ChandraH80</cite>
+<cite label="Jenq et al., 1990">conf/edbt/JenqWKL90</cite>
+<cite label="Copeland and Maier, 1984">conf/sigmod/CopelandM84</cite>
+<cite label="Selinger et al., 1979">conf/sigmod/SelingerACLP79</cite>
+<cite label="Gray, 1978">conf/ac/Gray78</cite>
+<cite label="Smith and Smith, 1977">journals/tods/SmithS77</cite>
+<cite label="Bancilhon et al., 1986">conf/pods/BancilhonMSU86</cite>
+<cite label="Nyberg et al., 1994">journals/vldb/NybergBCGL95</cite>
+<cite label="Guttman, 1984">conf/sigmod/Guttman84</cite>
+<cite label="Zloof, 1984">...</cite>
+</article>
+</r>
+<r><article key="journals/sigmod/RossCGJBV99" mdate="2020-03-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="g/GostaGrahne">G&#246;sta Grahne</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<author pid="b/JVdBussche">Jan Van den Bussche</author>
+<author pid="v/MosheYVardi">Moshe Y. Vardi</author>
+<title>Reminiscences on Influential Papers.</title>
+<pages>39-41</pages>
+<cdrom>sigmodR/28-4/P039.pdf</cdrom>
+<year>1999</year>
+<volume>28</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>http://www.acm.org/sigmod/record/issues/9912/influential.pdf.gz</ee>
+<url>db/journals/sigmod/sigmod28.html#RossCGJBV99</url>
+<cite>conf/sigmod/SelingerACLP79</cite>
+<cite>journals/jacm/ImielinskiL84</cite>
+<cite>conf/sigmod/GrayP87</cite>
+<cite>journals/jacm/AbiteboulK98</cite>
+<cite>journals/tods/MaierMS79</cite>
+</article>
+</r>
+<r><article key="journals/vldb/LiR99" mdate="2017-05-28">
+<author pid="11/751">Zhe Li</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Fast Joins Using Join Indices.</title>
+<pages>1-24</pages>
+<year>1999</year>
+<volume>8</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s007780050071</ee>
+<cdrom>VLDBJ8/90080001.pdf</cdrom>
+<url>db/journals/vldb/vldb8.html#LiR99</url>
+<cite label="Agrawal et al. 1994">conf/sigmod/AgrawalCFGHIIMMSS94</cite>
+<cite label="Batory 1979">journals/tods/Batory79</cite>
+<cite label="Bitton et al. 1983">conf/vldb/BittonDT83</cite>
+<cite label="Blakeley and Martin 1990">conf/icde/BlakeleyM90</cite>
+<cite label="Blasgen and Eswaran 1977">journals/ibmsj/BlasgenE77</cite>
+<cite label="Bratbergsengen 1984">conf/vldb/Bratbergsengen84</cite>
+<cite label="Brown et al. 1992">...</cite>
+<cite label="Cheng et al. 1991">conf/icde/ChengHHIMMW91</cite>
+<cite label="Chou et al. 1985">journals/spe/ChouDKK85</cite>
+<cite label="Colby et al. 1994">conf/pdis/ColbyMW94</cite>
+<cite label="DeWitt et al. 1984">conf/sigmod/DeWittKOSSW84</cite>
+<cite label="Dozier 1992">conf/sigmod/Dozier92</cite>
+<cite label="Graefe 1992">...</cite>
+<cite label="Graefe et al. 1994">journals/tkde/GraefeLS94</cite>
+<cite label="Gupta and Mumick 1997">...</cite>
+<cite label="Haas et al. 1997">...</cite>
+<cite label="Haas et al. 1997">journals/vldb/HaasCLS97</cite>
+<cite label="Hoare 1962">journals/cj/Hoare62</cite>
+<cite label="Kemper and Moerkotte 1990">conf/sigmod/KemperM90</cite>
+<cite label="Kim 1980">conf/sigmod/Kim80</cite>
+<cite label="Kimball and Strehlo 1995">journals/sigmod/KimballS95</cite>
+<cite label="Kooi 1980">phd/Kooi80</cite>
+<cite label="Lei and Ross 1998">journals/dke/LeiR98</cite>
+<cite label="Li and Ross 1995">...</cite>
+<cite label="Li and Ross 1996">...</cite>
+<cite label="Lu and Han 1992">conf/icde/LuH92</cite>
+<cite label="MacNicol 1997">...</cite>
+<cite label="Mishra and Eich 1992">journals/csur/MishraE92</cite>
+<cite label="Mohan et al. 1990">conf/edbt/MohanHWC90</cite>
+<cite label="Murphy and rotem 1993">journals/tkde/MurphyR93</cite>
+<cite label="O'Neilland Graefe 1995">journals/sigmod/ONeilG95</cite>
+<cite label="Ross 1995">conf/dood/Ross95</cite>
+<cite label="Rotem 1991">conf/icde/Rotem91</cite>
+<cite label="Shapiro 1986">journals/tods/Shapiro86</cite>
+<cite label="Shekita and Carey 1990">conf/sigmod/ShekitaC90</cite>
+<cite label="Silberschatz et al. 1997">books/mg/SilberschatzKS97</cite>
+<cite label="Stonebraker 1981">journals/cacm/Stonebraker81</cite>
+<cite label="Valduriez 1987">journals/tods/Valduriez87</cite>
+<cite label="Xie and Han 1994">conf/vldb/XieH94</cite>
+<cite label="Yao 1977">journals/cacm/Yao77</cite>
+</article>
+</r>
+<r><inproceedings key="conf/vldb/RaoR99" mdate="2020-03-12">
+<author pid="r/JunRao">Jun Rao</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Cache Conscious Indexing for Decision-Support in Main Memory.</title>
+<pages>78-89</pages>
+<year>1999</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb99.html#RaoR99</url>
+<crossref>conf/vldb/99</crossref>
+<ee type="oa">http://www.vldb.org/conf/1999/P7.pdf</ee>
+<cite label="AHK85">...</cite>
+<cite label="BBC+98">journals/sigmod/BernsteinBCDFGGHHJLMNPSU98</cite>
+<cite label="CLH98">...</cite>
+<cite label="Com79">journals/csur/Comer79</cite>
+<cite label="CS83">journals/ipl/CesariniS83</cite>
+<cite label="Eng98">...</cite>
+<cite label="Fre95">conf/sigmod/French95</cite>
+<cite label="Fre97">conf/icde/French97</cite>
+<cite label="GBC98">conf/vldb/GraefeBC98</cite>
+<cite label="GMS86">...</cite>
+<cite label="GR93">books/mk/GrayR93</cite>
+<cite label="Hag86">journals/tc/Hagmann86</cite>
+<cite label="Inc99">...</cite>
+<cite label="JLRS94">conf/vldb/JagadishLRSS94</cite>
+<cite label="JTR87">journals/tse/JongeTR87</cite>
+<cite label="Knu73">books/aw/Knuth73</cite>
+<cite label="LC86a">conf/sigmod/LehmanC86</cite>
+<cite label="LC86b">conf/vldb/LehmanC86</cite>
+<cite label="LC87">conf/sigmod/LehmanC87</cite>
+<cite label="LL96">journals/jea/LaMarcaL96</cite>
+<cite label="LL97">conf/soda/LaMarcaL97</cite>
+<cite label="LN88">conf/dpds/LiN88</cite>
+<cite label="LSC92">journals/tkde/LehmanSC92</cite>
+<cite label="NBC+94">conf/sigmod/NybergBCGL94</cite>
+<cite label="Pet57">...</cite>
+<cite label="SAC+79">conf/sigmod/SelingerACLP79</cite>
+<cite label="SKN94">conf/vldb/ShatdalKN94</cite>
+<cite label="Smi82">journals/csur/Smith82</cite>
+<cite label="Sof97">...</cite>
+<cite label="Syb97">...</cite>
+<cite label="WK90">journals/tods/WhangK90</cite>
+<cite label="WL91">conf/pldi/WolfL91</cite>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/dr/Ross99" mdate="2023-08-16">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Review - Providing Better Support for a Class of Decision Support Queries.</title>
+<year>1999</year>
+<volume>1</volume>
+<journal>ACM SIGMOD Digit. Rev.</journal>
+<url>db/journals/dr/dr1.html#Ross99</url>
+<ee type="oa">https://dblp.org/db/journals/dr/Ross99.html</ee>
+<cite>conf/sigmod/RaoBG96</cite>
+<cite>conf/vldb/ChatziantoniouR96</cite>
+</article>
+</r>
+<r><article publtype="informal" key="journals/dr/Ross99a" mdate="2023-08-16">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Review - AlphaSort: A RISC Machine Sort.</title>
+<year>1999</year>
+<volume>1</volume>
+<journal>ACM SIGMOD Digit. Rev.</journal>
+<url>db/journals/dr/dr1.html#Ross99a</url>
+<ee type="oa">https://dblp.org/db/journals/dr/Ross99a.html</ee>
+<cite>conf/sigmod/NybergBCGL94</cite>
+<note type="reviewid">DBLP:conf/sigmod/NybergBCGL94__kar</note>
+<note type="rating">POS</note>
+</article>
+</r>
+<r><article key="journals/dke/LeiR98" mdate="2020-03-11">
+<author pid="l/HuiLei">Hui Lei 0001</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Faster Joins, Self-Joins and Multi-Way Joins Using Join Indices.</title>
+<pages>277-298</pages>
+<year>1998</year>
+<volume>28</volume>
+<journal>Data Knowl. Eng.</journal>
+<number>3</number>
+<url>db/journals/dke/dke28.html#LeiR98</url>
+<ee>https://doi.org/10.1016/S0169-023X(98)00025-1</ee>
+</article>
+</r>
+<r><article key="journals/sigmod/ChangGKRS98" mdate="2020-03-06">
+<ee>https://doi.org/10.1145/290593.290607</ee>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<author pid="g/LuisGravano">Luis Gravano</author>
+<author pid="k/GailEKaiser">Gail E. Kaiser</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="s/SalvatoreJStolfo">Salvatore J. Stolfo</author>
+<title>Database Research at Columbia University.</title>
+<pages>75-80</pages>
+<cdrom>sigmodR/27-3/P075.pdf</cdrom>
+<year>1998</year>
+<volume>27</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<url>db/journals/sigmod/sigmod27.html#ChangGKRS98</url>
+<cite>conf/vldb/ChatziantoniouR96</cite>
+<cite>conf/vldb/ChatziantoniouR97</cite>
+<cite>conf/sigmod/RaoR98</cite>
+<cite>journals/vldb/LiR99</cite>
+<cite>conf/ngits/LeiR97</cite>
+<cite>conf/vldb/RossS97</cite>
+<cite>conf/edbt/RossSC98</cite>
+<cite>conf/sigmod/RossSS96</cite>
+<cite>conf/sigmod/GuptaMR95</cite>
+<cite>conf/icdt/KawaguchiLMQR97</cite>
+<cite>conf/sigmod/ColbyKLMR97</cite>
+<cite>conf/dbpl/KawaguchiLMR97</cite>
+<cite>journals/debu/BarbaraDFHHIJJNPRS97</cite>
+<cite>conf/kdd/BerchtoldJR98</cite>
+<cite>conf/kdd/LeeSM98</cite>
+<cite>conf/kdd/ChanS98</cite>
+<cite>conf/kdd/Stolfo98</cite>
+<cite>...</cite>
+<cite>conf/kdd/StolfoPTLFC97</cite>
+<cite>conf/kdd/ChanS96</cite>
+<cite>journals/jiis/ChanS97</cite>
+<cite>...</cite>
+<cite>conf/sigmod/GravanoGT94</cite>
+<cite>conf/vldb/GravanoG95</cite>
+<cite>conf/pdis/GravanoGT94</cite>
+<cite>conf/sigmod/GravanoCGP97</cite>
+<cite>journals/cacm/ChangSBB97</cite>
+<cite>conf/mm/ChangCMSZ97</cite>
+<cite>conf/mm/SmithC96</cite>
+<cite>conf/mm/MengC96</cite>
+<cite>...</cite>
+<cite>conf/spieSR/BeigiBC98</cite>
+<cite>journals/ieeemm/SmithC97</cite>
+<cite>conf/icse/HeinemanK95</cite>
+<cite>conf/icde/HeinemanK97</cite>
+<cite>conf/ht/YangK98</cite>
+<cite>...</cite>
+</article>
+</r>
+<r><article key="journals/tcs/RossSSS98" mdate="2021-02-17">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<author pid="s/SSudarshan1">S. Sudarshan 0001</author>
+<title>Foundations of Aggregation Constraints.</title>
+<pages>149-179</pages>
+<year>1998</year>
+<volume>193</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs193.html#RossSSS98</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(97)00011-X</ee>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/RossSC98" mdate="2017-05-23">
+<ee>https://doi.org/10.1007/BFb0100990</ee>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<author pid="c/DChatziantoniou">Damianos Chatziantoniou</author>
+<title>Complex Aggregation at Multiple Granularities.</title>
+<pages>263-277</pages>
+<cdrom>EDBT/1998/13770263.pdf</cdrom>
+<year>1998</year>
+<crossref>conf/edbt/98</crossref>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt98.html#RossSC98</url>
+<cite label="AAD+96">conf/vldb/AgarwalADGNRS96</cite>
+<cite label="AGS97">conf/icde/AgrawalGS97</cite>
+<cite label="CR96">conf/vldb/ChatziantoniouR96</cite>
+<cite label="GBLP96">conf/icde/GrayBLP96</cite>
+<cite label="HWL94">...</cite>
+<cite label="LW96">conf/cikm/LiW96</cite>
+<cite label="RS97">conf/vldb/RossS97</cite>
+<cite label="RSC97">...</cite>
+<cite label="Tra95">...</cite>
+<cite label="ZDN97">conf/sigmod/ZhaoDN97</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/BerchtoldJR98" mdate="2012-12-12">
+<author pid="b/SBerchtold">Stefan Berchtold</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Independence Diagrams: A Technique for Visual Data Mining.</title>
+<pages>139-143</pages>
+<year>1998</year>
+<crossref>conf/kdd/1998</crossref>
+<booktitle>KDD</booktitle>
+<url>db/conf/kdd/kdd98.html#BerchtoldJR98</url>
+<ee>http://www.aaai.org/Library/KDD/1998/kdd98-021.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/RaoR98" mdate="2021-03-11">
+<author pid="r/JunRao">Jun Rao</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Reusing Invariants: A New Strategy for Correlated Queries.</title>
+<pages>37-48</pages>
+<year>1998</year>
+<crossref>conf/sigmod/98</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod98.html#RaoR98</url>
+<ee>https://doi.org/10.1145/276304.276309</ee>
+<ee>https://doi.org/10.1145/276305.276309</ee>
+<cdrom>SIGMOD98/P037.PDF</cdrom>
+<cite label="Bel96">...</cite>
+<cite label="CD85">conf/vldb/ChouD85</cite>
+<cite label="Cha97">...</cite>
+<cite label="CR97">conf/vldb/ChatziantoniouR97</cite>
+<cite label="Day87">conf/vldb/Dayal87</cite>
+<cite label="Gra94">journals/tkde/Graefe94</cite>
+<cite label="GW87">conf/sigmod/GanskiW87</cite>
+<cite label="Hel94">conf/sigmod/Hellerstein94</cite>
+<cite label="HHW97">conf/sigmod/HellersteinHW97</cite>
+<cite label="HN96">conf/sigmod/HellersteinN96</cite>
+<cite label="JM96">conf/cikm/BayardoM96</cite>
+<cite label="Kim82">journals/tods/Kim82</cite>
+<cite label="Lea96">...</cite>
+<cite label="Mic68">...</cite>
+<cite label="OL90">conf/vldb/OnoL90</cite>
+<cite label="OQ97">conf/sigmod/ONeilQ97</cite>
+<cite label="Pau97">...</cite>
+<cite label="PHH92">conf/sigmod/PiraheshHH92</cite>
+<cite label="SAC+79">conf/sigmod/SelingerACLP79</cite>
+<cite label="Sel88">journals/tods/Sellis88</cite>
+<cite label="SG90">journals/tkde/SellisG90</cite>
+<cite label="SPL96">conf/icde/SeshadriPL96</cite>
+<cite label="SSM96">conf/sigmod/SimmenSM96</cite>
+<cite label="Syb97a">...</cite>
+<cite label="Syb97b">...</cite>
+<cite label="TPC95">...</cite>
+<cite label="YL95">conf/vldb/YanL95</cite>
+</inproceedings>
+</r>
+<r><article key="journals/debu/BarbaraDFHHIJJNPRS97" mdate="2020-03-10">
+<author pid="b/DBarbara">Daniel Barbar&#225;</author>
+<author pid="41/2359">William DuMouchel</author>
+<author pid="f/CFaloutsos">Christos Faloutsos</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<author pid="j/TheodoreJohnson">Theodore Johnson</author>
+<author pid="n/RTNg">Raymond T. Ng</author>
+<author pid="p/VPoosala">Viswanath Poosala</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="s/KennethCSevcik">Kenneth C. Sevcik</author>
+<title>The New Jersey Data Reduction Report.</title>
+<pages>3-45</pages>
+<year>1997</year>
+<volume>20</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<cdrom>DEBU/97DEC-CD.PDF</cdrom>
+<url>db/journals/debu/debu20.html#BarbaraDFHHIJJNPRS97</url>
+<ee type="oa">http://sites.computer.org/debull/97DEC-CD.pdf</ee>
+<cite label="ACD+88">...</cite>
+<cite label="Agr90">...</cite>
+<cite label="Ant92">conf/vldb/Antoshenkov92</cite>
+<cite label="Ant93a">conf/icde/Antoshenkov93</cite>
+<cite label="Ant93b">journals/debu/Antoshenkov93</cite>
+<cite label="Aok97">conf/icde/Aoki98</cite>
+<cite label="Ben75">journals/cacm/Bentley75</cite>
+<cite label="Ber92">...</cite>
+<cite label="BFH75">...</cite>
+<cite label="Bir63">...</cite>
+<cite label="BKK96">conf/vldb/BerchtoldKK96</cite>
+<cite label="BKSS90">conf/sigmod/BeckmannKSS90</cite>
+<cite label="BM72">journals/acta/BayerM72</cite>
+<cite label="BS97">journals/sigmod/BarbaraS97</cite>
+<cite label="Cat92">...</cite>
+<cite label="Coc77">...</cite>
+<cite label="Com79">journals/csur/Comer79</cite>
+<cite label="CR94">conf/sigmod/ChenR94</cite>
+<cite label="Cra46">...</cite>
+<cite label="Cra94">...</cite>
+<cite label="Dau92">...</cite>
+<cite label="DC72">...</cite>
+<cite label="DH73">...</cite>
+<cite label="DNSS92">conf/vldb/DeWittNSS92</cite>
+<cite label="DS40">...</cite>
+<cite label="Dum94">conf/trec/Dumais94</cite>
+<cite label="EKX95">conf/ssd/EsterKX95</cite>
+<cite label="EKXS96">conf/kdd/EsterKSX96</cite>
+<cite label="EN82">journals/cj/ErnvallN82</cite>
+<cite label="Fal96">...</cite>
+<cite label="FD92">journals/cacm/FoltzD92</cite>
+<cite label="Fie93">...</cite>
+<cite label="FB74">journals/acta/FinkelB74</cite>
+<cite label="Fis87">journals/ml/Fisher87</cite>
+<cite label="FL95">conf/sigmod/FaloutsosL95</cite>
+<cite label="GG97">journals/csur/GaedeG98</cite>
+<cite label="GGMS96">conf/sigmod/GangulyGMS96</cite>
+<cite label="Gly82">...</cite>
+<cite label="GM96">...</cite>
+<cite label="GMP97">conf/vldb/GibbonsMP97</cite>
+<cite label="Gut84">conf/sigmod/Guttman84</cite>
+<cite label="Haa96">...</cite>
+<cite label="Haa97">conf/ssdbm/Haas97</cite>
+<cite label="HHW97">conf/sigmod/HellersteinHW97</cite>
+<cite label="HKP97">conf/pods/HellersteinKP97</cite>
+<cite label="HNP95">conf/vldb/HellersteinNP95</cite>
+<cite label="HNSS95">conf/vldb/HaasNSS95</cite>
+<cite label="HNSS96">journals/jcss/HaasNSS96</cite>
+<cite label="HOD91">conf/sigmod/HouOD91</cite>
+<cite label="Hoe48">...</cite>
+<cite label="Hoe63">...</cite>
+<cite label="HOT88">conf/pods/HouOT88</cite>
+<cite label="HOT89">conf/sigmod/HouOT89</cite>
+<cite label="HS92">conf/sigmod/HaasS92</cite>
+<cite label="HS95">conf/icde/HaasS95</cite>
+<cite label="HS96">...</cite>
+<cite label="IC93">journals/tods/IoannidisC93</cite>
+<cite label="Inf97">...</cite>
+<cite label="Ioa93">conf/vldb/Ioannidis93</cite>
+<cite label="IP95a">conf/sigmod/IoannidisP95</cite>
+<cite label="IP95b">journals/debu/IoannidisP95</cite>
+<cite label="Jag90">conf/sigmod/Jagadish90</cite>
+<cite label="JL96">conf/kdd/JohnL96</cite>
+<cite label="Jol86">...</cite>
+<cite label="KD80">...</cite>
+<cite label="KJF97">conf/sigmod/KornJF97</cite>
+<cite label="KM94">conf/pods/KivinenM94</cite>
+<cite label="Knu73">books/aw/Knuth73</cite>
+<cite label="Koo80">phd/Kooi80</cite>
+<cite label="KK69">...</cite>
+<cite label="KR90">...</cite>
+<cite label="Kuk93">...</cite>
+<cite label="LJF94">journals/vldb/LinJF94</cite>
+<cite label="LNS90">conf/sigmod/LiptonNS90</cite>
+<cite label="LNSS93">journals/tcs/LiptonNSS93</cite>
+<cite label="LRS93">conf/sigmod/LiRS93</cite>
+<cite label="LS90">journals/tods/LometS90</cite>
+<cite label="LSS97">...</cite>
+<cite label="Mal89">...</cite>
+<cite label="Mal91">...</cite>
+<cite label="MCS88">journals/csur/ManninoCS88</cite>
+<cite label="MD88">conf/sigmod/MuralikrishnaD88</cite>
+<cite label="NH94">conf/vldb/NgH94</cite>
+<cite label="NS90">conf/icdt/NaughtonS90</cite>
+<cite label="ODT+91">conf/dexa/OzsoyogluDTHR91</cite>
+<cite label="Olk93">...</cite>
+<cite label="OR86">conf/vldb/OlkenR86</cite>
+<cite label="OR89">conf/vldb/OlkenR89</cite>
+<cite label="OR92">conf/icde/OlkenR92</cite>
+<cite label="OR93">conf/icde/OlkenR93</cite>
+<cite label="ORX90">conf/sigmod/OlkenRX90</cite>
+<cite label="Pea88">...</cite>
+<cite label="PI96">conf/vldb/PoosalaI96</cite>
+<cite label="PI97">conf/vldb/PoosalaI97</cite>
+<cite label="PIHS96">conf/sigmod/PoosalaIHS96</cite>
+<cite label="Poo97">phd/Poosala97</cite>
+<cite label="PSC84">conf/sigmod/Piatetsky-ShapiroC84</cite>
+<cite label="PTVF96">...</cite>
+<cite label="RKM90">...</cite>
+<cite label="Rob81">conf/sigmod/Robinson81</cite>
+<cite label="SBM93">...</cite>
+<cite label="Sch81">journals/tods/Scholl81</cite>
+<cite label="SN92">conf/edbt/SeshadriN92</cite>
+<cite label="SRF87">conf/vldb/SellisRF87</cite>
+<cite label="SS88">...</cite>
+<cite label="SSW92">...</cite>
+<cite label="Str80">...</cite>
+<cite label="Sud76">...</cite>
+<cite label="TP91">...</cite>
+<cite label="VM">...</cite>
+<cite label="Wil91">journals/jacm/Willard91</cite>
+<cite label="WS93">...</cite>
+<cite label="WW85">...</cite>
+<cite label="WYM97">conf/vldb/WangYM97</cite>
+<cite label="You84">...</cite>
+<cite label="ZRL96">conf/sigmod/ZhangRL96</cite>
+</article>
+</r>
+<r><article key="journals/jcss/RossS97" mdate="2021-02-16">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="26/5086">Yehoshua Sagiv</author>
+<title>Monotonic Aggregation in Deductive Database.</title>
+<pages>79-97</pages>
+<year>1997</year>
+<volume>54</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>1</number>
+<url>db/journals/jcss/jcss54.html#RossS97</url>
+<ee type="oa">https://doi.org/10.1006/jcss.1997.1453</ee>
+</article>
+</r>
+<r><inproceedings key="conf/dbpl/KawaguchiLMR97" mdate="2017-05-23">
+<author pid="92/5851">Akira Kawaguchi</author>
+<author pid="l/DFLieuwen">Daniel F. Lieuwen</author>
+<author pid="m/ISMumick">Inderpal Singh Mumick</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Implementing Incremental View Maintenance in Nested Data Models.</title>
+<pages>202-221</pages>
+<cdrom>DBPL1997/P202.pdf</cdrom>
+<year>1997</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl97.html#KawaguchiLMR97</url>
+<crossref>conf/dbpl/97</crossref>
+<ee>https://doi.org/10.1007/3-540-64823-2_12</ee>
+<cite>conf/pods/AbiteboulB84</cite>
+<cite>conf/vldb/AdibaL80</cite>
+<cite>conf/sigmod/AgrawalG89</cite>
+<cite>conf/vldb/ArisawaMM83</cite>
+<cite>conf/vldb/BancilhonRS82</cite>
+<cite>books/mk/freytagMV91/Bertino91</cite>
+<cite>journals/tkde/BertinoK89</cite>
+<cite>conf/sigmod/BlakeleyLT86</cite>
+<cite>journals/tods/BunemanC79</cite>
+<cite>conf/vldb/CeriW91</cite>
+<cite>conf/slp/ChenKW89</cite>
+<cite>conf/sigmod/ColbyGLMT96</cite>
+<cite>...</cite>
+<cite>conf/sigmod/ColbyKLMR97</cite>
+<cite>conf/sigmod/DadamKABEGLPW86</cite>
+<cite>conf/sigmod/GriffinL95</cite>
+<cite>conf/sigmod/GuptaMS93</cite>
+<cite>conf/sigmod/HaskinL82</cite>
+<cite>conf/pods/JaeschkeS82</cite>
+<cite>conf/vldb/KahlerR87</cite>
+<cite>conf/icdt/KawaguchiLMQR97</cite>
+<cite>conf/views/KawaguchiLMR96</cite>
+<cite>conf/sigmod/LindsayHM86</cite>
+<cite>conf/icde/Linnemann87</cite>
+<cite>conf/sigmod/LuMSS95</cite>
+<cite>conf/oodbs/MaierS86</cite>
+<cite>conf/vldb/Makinouchi77</cite>
+<cite>conf/dood/MumickR93</cite>
+<cite>...</cite>
+<cite>conf/vldb/PistorA86</cite>
+<cite>journals/tkde/QianW91</cite>
+<cite>conf/pods/Ross92</cite>
+<cite>journals/is/RothKB87</cite>
+<cite>conf/vldb/SchollPS87</cite>
+<cite>journals/tkde/SegevP89</cite>
+<cite>conf/sigmod/ShekitaC89</cite>
+<cite>conf/sigmod/ShmueliI84</cite>
+<cite>books/mit/SterlingS86</cite>
+<cite>journals/acr/ThomasF86</cite>
+<cite>conf/sigmod/ZhugeGHW95</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dood/MumickR97" mdate="2017-05-23">
+<author pid="m/ISMumick">Inderpal Singh Mumick</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Attribute-Oriented View Definitions in Relational and Deductive Databases.</title>
+<pages>122-139</pages>
+<year>1997</year>
+<crossref>conf/dood/1997</crossref>
+<booktitle>DOOD</booktitle>
+<url>db/conf/dood/dood97.html#MumickR97</url>
+<ee>https://doi.org/10.1007/3-540-63792-3_12</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/KawaguchiLMQR97" mdate="2017-05-22">
+<author pid="92/5851">Akira Kawaguchi</author>
+<author pid="l/DFLieuwen">Daniel F. Lieuwen</author>
+<author pid="m/ISMumick">Inderpal Singh Mumick</author>
+<author pid="q/DQuass">Dallan Quass</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Concurrency Control Theory for Deferred Materialized Views.</title>
+<pages>306-320</pages>
+<cdrom>ICDT1997/P306.pdf</cdrom>
+<year>1997</year>
+<booktitle>ICDT</booktitle>
+<url>db/conf/icdt/icdt97.html#KawaguchiLMQR97</url>
+<crossref>conf/icdt/97</crossref>
+<ee>https://doi.org/10.1007/3-540-62222-5_53</ee>
+<cite>books/aw/BernsteinHG87</cite>
+<cite>conf/sigmod/BlakeleyLT86</cite>
+<cite>conf/sigmod/95</cite>
+<cite>conf/vldb/CeriW91</cite>
+<cite>conf/sigmod/ColbyGLMT96</cite>
+<cite>...</cite>
+<cite>conf/sigmod/GriffinL95</cite>
+<cite>conf/edbt/GuptaJM96</cite>
+<cite>journals/debu/GuptaM95</cite>
+<cite>conf/sigmod/GuptaMS93</cite>
+<cite>conf/sigmod/Hanson87</cite>
+<cite>conf/pods/JagadishMS95</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/cismod/Mumick95</cite>
+<cite>journals/tkde/QianW91</cite>
+<cite>journals/computer/RoussopoulosK86</cite>
+<cite>conf/icde/SegevF90</cite>
+<cite>journals/tkde/SegevP89</cite>
+<cite>conf/sigmod/ZhugeGHW95</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ngits/LeiR97" mdate="2020-03-11">
+<author pid="l/HuiLei">Hui Lei 0001</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Faster Joins, Self Joins and Multi-Way Joins Using Join Indices.</title>
+<pages>89-101</pages>
+<year>1997</year>
+<crossref>conf/ngits/1997</crossref>
+<booktitle>NGITS</booktitle>
+<url>db/conf/ngits/ngits97.html#LeiR97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ColbyKLMR97" mdate="2021-06-14">
+<author pid="83/5689">Latha S. Colby</author>
+<author pid="92/5851">Akira Kawaguchi</author>
+<author pid="l/DFLieuwen">Daniel F. Lieuwen</author>
+<author pid="m/ISMumick">Inderpal Singh Mumick</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Supporting Multiple View Maintenance Policies.</title>
+<pages>405-416</pages>
+<year>1997</year>
+<crossref>conf/sigmod/97</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod97.html#ColbyKLMR97</url>
+<ee>https://doi.org/10.1145/253260.253353</ee>
+<ee>https://doi.org/10.1145/253262.253353</ee>
+<cdrom>SIGMOD97/P405.PDF</cdrom>
+<cite label="AG89">conf/sigmod/AgrawalG89</cite>
+<cite label="AGK95">conf/sigmod/AdelbergGK95</cite>
+<cite label="AKG96">conf/edbt/AdelbergKG96</cite>
+<cite label="AL80">conf/vldb/AdibaL80</cite>
+<cite label="BC79">journals/tods/BunemanC79</cite>
+<cite label="BLT86">conf/sigmod/BlakeleyLT86</cite>
+<cite label="BM90">conf/icde/BlakeleyM90</cite>
+<cite label="CG96">conf/views/ColbyG96</cite>
+<cite label="CGL+96">conf/sigmod/ColbyGLMT96</cite>
+<cite label="CKL+96">...</cite>
+<cite label="CM96">conf/views/ColbyM96</cite>
+<cite label="CW91">conf/vldb/CeriW91</cite>
+<cite label="GL95">conf/sigmod/GriffinL95</cite>
+<cite label="GM95">journals/debu/GuptaM95</cite>
+<cite label="GMS93">conf/sigmod/GuptaMS93</cite>
+<cite label="Han87">conf/sigmod/Hanson87</cite>
+<cite label="HZ96">conf/sigmod/HullZ96</cite>
+<cite label="KLM+96">conf/views/KawaguchiLMR96</cite>
+<cite label="KLM+97">conf/icdt/KawaguchiLMQR97</cite>
+<cite label="KR87">conf/vldb/KahlerR87</cite>
+<cite label="LHM+86">conf/sigmod/LindsayHM86</cite>
+<cite label="LMSS95">conf/sigmod/LuMSS95</cite>
+<cite label="MRS93">...</cite>
+<cite label="Mum95">conf/cismod/Mumick95</cite>
+<cite label="QW91">journals/tkde/QianW91</cite>
+<cite label="RK86">journals/computer/RoussopoulosK86</cite>
+<cite label="Rou91">journals/tods/Roussopoulos91</cite>
+<cite label="SI84">conf/sigmod/ShmueliI84</cite>
+<cite label="SP89">journals/tkde/SegevP89</cite>
+<cite label="SR88">conf/pods/SrivastavaR88</cite>
+<cite label="ZGHW95">conf/sigmod/ZhugeGHW95</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/RossS97" mdate="2012-09-17">
+<crossref>conf/vldb/97</crossref>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Fast Computation of Sparse Datacubes.</title>
+<pages>116-125</pages>
+<year>1997</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb97.html#RossS97</url>
+<ee>http://www.vldb.org/conf/1997/P116.PDF</ee>
+<cite label="AAD+96">conf/vldb/AgarwalADGNRS96</cite>
+<cite label="DANR96">...</cite>
+<cite label="GBLP96">conf/icde/GrayBLP96</cite>
+<cite label="Hoa62">journals/cj/Hoare62</cite>
+<cite label="HRU96">conf/sigmod/HarinarayanRU96</cite>
+<cite label="HWL94">...</cite>
+<cite label="SAG96">...</cite>
+<cite label="Tra95">...</cite>
+<cite label="ZDN97">conf/sigmod/ZhaoDN97</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ChatziantoniouR97" mdate="2012-09-17">
+<crossref>conf/vldb/97</crossref>
+<author pid="c/DChatziantoniou">Damianos Chatziantoniou</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Groupwise Processing of Relational Queries.</title>
+<pages>476-485</pages>
+<year>1997</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb97.html#ChatziantoniouR97</url>
+<ee>http://www.vldb.org/conf/1997/P476.PDF</ee>
+<cite label="AGS96">conf/icde/AgrawalGS97</cite>
+<cite label="Cha97">...</cite>
+<cite label="Syb94">...</cite>
+<cite label="CR96">conf/vldb/ChatziantoniouR96</cite>
+<cite label="CS94">conf/vldb/ChaudhuriS94</cite>
+<cite label="CS96">conf/edbt/ChaudhuriS96</cite>
+<cite label="Day83">conf/vldb/Dayal83</cite>
+<cite label="Day87">conf/vldb/Dayal87</cite>
+<cite label="DG92">journals/cacm/DeWittG92</cite>
+<cite label="DiP69">journals/jacm/Paola69a</cite>
+<cite label="ESW78">conf/sigmod/EpsteinSW78</cite>
+<cite label="GHQ95">conf/vldb/GuptaHQ95</cite>
+<cite label="Gra93">...</cite>
+</inproceedings>
+</r>
+<r><article key="journals/tods/Ross96" mdate="2018-11-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Tail Recursion Elimination in Deductive Databases.</title>
+<pages>208-237</pages>
+<year>1996</year>
+<volume>21</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<url>db/journals/tods/tods21.html#Ross96</url>
+<cdrom>TODS21/P208.PDF</cdrom>
+<ee>https://doi.org/10.1145/232616.232628</ee>
+<cite label="Apt and van Emden 1982">journals/jacm/AptE82</cite>
+<cite label="Bancilhon et al. 1986">conf/pods/BancilhonMSU86</cite>
+<cite label="Beeri and Ramakrishnan 1991">journals/jlp/BeeriR91</cite>
+<cite label="Bry 1989">conf/dood/Bry89</cite>
+<cite label="Chen et al. 1989">conf/slp/ChenKW89</cite>
+<cite label="Chen et al. 1993">journals/jlp/ChenKW93</cite>
+<cite label="Clark 1979">...</cite>
+<cite label="Codish et al. 1994">journals/tcs/CodishDY94</cite>
+<cite label="Hill 1974">...</cite>
+<cite label="Kemp et al. 1990">conf/vldb/KempRS90</cite>
+<cite label="Kemp et al. 1992">conf/iclp/KempSS92</cite>
+<cite label="Lloyd 1987">books/sp/Lloyd87</cite>
+<cite label="Morishita 1993">conf/pods/Morishita93</cite>
+<cite label="Mumick and Pirahesh 1991">conf/pods/MumickP91</cite>
+<cite label="Naughton et al. 1989a">conf/vldb/NaughtonRSU89</cite>
+<cite label="Naughton et al. 1989b">conf/sigmod/NaughtonRSU89</cite>
+<cite label="Ramakrishnan 1991">journals/jlp/Ramakrishnan91</cite>
+<cite label="Ramakrishnan et al. 1992">conf/iclp/RamakrishnanSS92</cite>
+<cite label="Ross 1991">conf/pods/Ross91</cite>
+<cite label="Ross 1994">journals/jacm/Ross94</cite>
+<cite label="Sacc&#224; and Zaniolo 1987">conf/iclp/SaccaZ87</cite>
+<cite label="Sethi 1989">...</cite>
+<cite label="Sudarshan 1992">phd/Sudarshan92</cite>
+<cite label="Ullman 1989a">conf/pods/Ullman89</cite>
+<cite label="Ullman 1989b-1">books/cs/Ullman88</cite>
+<cite label="Ullman 1989b-2">books/cs/Ullman89</cite>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/RossSS96" mdate="2021-06-21">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<author pid="s/SSudarshan1">S. Sudarshan 0001</author>
+<title>Materialized View Maintenance and Integrity Constraint Checking: Trading Space for Time.</title>
+<pages>447-458</pages>
+<year>1996</year>
+<crossref>conf/sigmod/96</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod96.html#RossSS96</url>
+<ee>https://doi.org/10.1145/233269.233361</ee>
+<ee>https://doi.org/10.1145/235968.233361</ee>
+<cdrom>SIGMOD96/P447.PDF</cdrom>
+<cite>journals/jlp/BeeriR91</cite>
+<cite>conf/sigmod/BlakeleyLT86</cite>
+<cite>...</cite>
+<cite>conf/vldb/CeriW91</cite>
+<cite>conf/icde/ChaudhuriKPS95</cite>
+<cite>conf/vldb/FabretRS93</cite>
+<cite>conf/icde/GraefeM93</cite>
+<cite>conf/sigmod/GriffinL95</cite>
+<cite>conf/vldb/GuptaHQ95</cite>
+<cite>journals/debu/GuptaM95</cite>
+<cite>conf/sigmod/GuptaMR95</cite>
+<cite>conf/sigmod/GuptaMS93</cite>
+<cite>conf/sigmod/Hanson92</cite>
+<cite>conf/pods/LevyMSS95</cite>
+<cite>phd/McKenna93</cite>
+<cite>books/mk/MeltonS93</cite>
+<cite>...</cite>
+<cite>journals/tkde/QianW91</cite>
+<cite>conf/icde/SegevF90</cite>
+<cite>journals/tkde/SegevP89</cite>
+<cite>journals/tods/Sellis88</cite>
+<cite>...</cite>
+<cite>conf/icde/WangH92</cite>
+<cite>conf/icde/YanL94</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/views/KawaguchiLMR96" mdate="2019-08-07">
+<author pid="92/5851">Akira Kawaguchi</author>
+<author pid="l/DFLieuwen">Daniel F. Lieuwen</author>
+<author pid="m/ISMumick">Inderpal Singh Mumick</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>View Maintenance in Nested Data Models.</title>
+<pages>72-83</pages>
+<year>1996</year>
+<crossref>conf/views/1996</crossref>
+<booktitle>VIEWS</booktitle>
+<url>db/conf/views/views96.html#KawaguchiLMR96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ChatziantoniouR96" mdate="2012-09-17">
+<crossref>conf/vldb/96</crossref>
+<author pid="c/DChatziantoniou">Damianos Chatziantoniou</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Querying Multiple Features of Groups in Relational Databases.</title>
+<pages>295-306</pages>
+<year>1996</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb96.html#ChatziantoniouR96</url>
+<ee>http://www.vldb.org/conf/1996/P295.PDF</ee>
+<cite label="Cor94">...</cite>
+<cite label="Cou95">...</cite>
+<cite label="CS94">conf/vldb/ChaudhuriS94</cite>
+<cite label="CS96">conf/edbt/ChaudhuriS96</cite>
+<cite label="DD92">books/aw/DateD92</cite>
+<cite label="EN89">books/bc/ElmasriN89</cite>
+<cite label="GB+96">conf/icde/GrayBLP96</cite>
+<cite label="GHQ95">conf/vldb/GuptaHQ95</cite>
+<cite label="KLK91">conf/sigmod/KrishnamurthyLK91</cite>
+<cite label="KS91">journals/computer/KimS91</cite>
+<cite label="KS95">journals/sigmod/KimballS95</cite>
+<cite label="LM96">conf/edbt/LevyM96</cite>
+<cite label="LMS94">conf/vldb/LevyMS94</cite>
+<cite label="Mum91">phd/Mumick91</cite>
+<cite label="RBV96">conf/sigmod/RaoBG96</cite>
+<cite label="Roz94">...</cite>
+<cite label="SCG93">conf/ds/SaltorCG92</cite>
+<cite label="YL94">conf/icde/YanL94</cite>
+<cite label="YL95">conf/vldb/YanL95</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/LiR95" mdate="2018-11-06">
+<author pid="11/751">Zhe Li</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>PERF Join: An Alternative to Two-way Semijoin and Bloomjoin.</title>
+<pages>137-144</pages>
+<cdrom>CIKM1995/P137.pdf</cdrom>
+<year>1995</year>
+<crossref>conf/cikm/95</crossref>
+<booktitle>CIKM</booktitle>
+<url>db/conf/cikm/cikm95.html#LiR95</url>
+<ee>https://doi.org/10.1145/221270.221360</ee>
+<cite label="AHY83">journals/tse/ApersHY83</cite>
+<cite label="Bab79">journals/tods/Babb79</cite>
+<cite label="BC81">journals/jacm/BernsteinC81</cite>
+<cite label="BG81">journals/siamcomp/BernsteinG81</cite>
+<cite label="BGW+81">journals/tods/BernsteinGWRR81</cite>
+<cite label="Blo70">journals/cacm/Bloom70</cite>
+<cite label="CY93">journals/tkde/ChenY93</cite>
+<cite label="Dan82">...</cite>
+<cite label="DNS91">conf/vldb/DeWittNS91</cite>
+<cite label="GL94">conf/pdis/GuptaL94</cite>
+<cite label="Gra93">journals/csur/Graefe93</cite>
+<cite label="HS95">conf/sigmod/HernandezS95</cite>
+<cite label="HY79">journals/tse/HevnerY79</cite>
+<cite label="LR94">...</cite>
+<cite label="LR95">...</cite>
+<cite label="ML86">conf/vldb/MackertL86</cite>
+<cite label="Mul83">journals/cacm/Mullin83</cite>
+<cite label="Mul90">journals/tse/Mullin90</cite>
+<cite label="RK91">journals/tkde/RoussopoulosK91</cite>
+<cite label="Seg86">journals/tods/Segev86</cite>
+<cite label="Tem94">conf/pdis/Templeton94</cite>
+<cite label="WCS92">...</cite>
+<cite label="YC84">journals/csur/YuC84</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dood/Ross95" mdate="2017-05-22">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Efficiently Following Object References for Large Object Collections and Small Main Memory.</title>
+<pages>73-90</pages>
+<year>1995</year>
+<crossref>conf/dood/1995</crossref>
+<booktitle>DOOD</booktitle>
+<url>db/conf/dood/dood95.html#Ross95</url>
+<ee>https://doi.org/10.1007/3-540-60608-4_35</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/Ross95" mdate="2018-11-06">
+<crossref>conf/pods/95</crossref>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Structural Totality and Constraint Stratification.</title>
+<pages>184-195</pages>
+<year>1995</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods95.html#Ross95</url>
+<ee>https://doi.org/10.1145/212433.220211</ee>
+<cite label="AB90">conf/iclp/AptB90</cite>
+<cite label="BF91">journals/tcs/BidoitF91</cite>
+<cite label="BS89">conf/pods/BrodskyS89</cite>
+<cite label="CC77">conf/popl/CousotC77</cite>
+<cite label="DE92">...</cite>
+<cite label="GL88">conf/iclp/GelfondL88</cite>
+<cite label="JL87">conf/popl/JaffarL87</cite>
+<cite label="JM94">journals/jlp/JaffarM94</cite>
+<cite label="PP90">...</cite>
+<cite label="Prz88">...</cite>
+<cite label="Prz89">conf/pods/Przymusinski89</cite>
+<cite label="PY92">conf/pods/PapadimitriouY92</cite>
+<cite label="Ros91">...</cite>
+<cite label="Ros94a">journals/jacm/Ross94</cite>
+<cite label="Ros94b">conf/slp/Ross94</cite>
+<cite label="Ull88">books/cs/Ullman88</cite>
+<cite label="Ull89">books/cs/Ullman89</cite>
+<cite label="VGRS91">journals/jacm/GelderRS91</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GuptaMR95" mdate="2021-06-11">
+<author pid="27/4744-1">Ashish Gupta 0001</author>
+<author pid="m/ISMumick">Inderpal Singh Mumick</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Adapting Materialized Views after Redefinitions.</title>
+<pages>211-222</pages>
+<year>1995</year>
+<crossref>conf/sigmod/95</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod95.html#GuptaMR95</url>
+<ee>https://doi.org/10.1145/223784.223817</ee>
+<ee>https://doi.org/10.1145/568271.223817</ee>
+<cdrom>SIGMOD95/P211.PDF</cdrom>
+<cite label="AWS93">...</cite>
+<cite label="BBMS89">conf/sigmod/BorgidaBMR89</cite>
+<cite label="BST+92">...</cite>
+<cite label="BST+93">journals/ijcis/BrachmanSTAHKL93</cite>
+<cite label="CKPS95">conf/icde/ChaudhuriKPS95</cite>
+<cite label="GMR95">...</cite>
+<cite label="GMS93">conf/sigmod/GuptaMS93</cite>
+<cite label="GSUW94">conf/pods/GuptaSUW94</cite>
+<cite label="LMS94">conf/vldb/LevyMS94</cite>
+<cite label="LMSS95">conf/pods/LevyMSS95</cite>
+<cite label="LY85">conf/vldb/LarsonY85</cite>
+<cite label="MPR90">conf/vldb/MumickPR90</cite>
+<cite label="RSU95">conf/pods/RajaramanSU95</cite>
+<cite label="TSI94">conf/vldb/TsatalosSI94</cite>
+<cite label="Ull89">books/cs/Ullman89</cite>
+<cite label="WS93">...</cite>
+<cite label="YL87">conf/vldb/YangL87</cite>
+</inproceedings>
+</r>
+<r><article key="journals/jacm/Ross94" mdate="2018-11-06">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Modular Stratification and Magic Sets for Datalog Programs with Negation.</title>
+<pages>1216-1266</pages>
+<year>1994</year>
+<volume>41</volume>
+<journal>J. ACM</journal>
+<number>6</number>
+<url>db/journals/jacm/jacm41.html#Ross94</url>
+<ee>https://doi.org/10.1145/195613.195646</ee>
+<cdrom>JACM/41/P1216.pdf</cdrom>
+</article>
+</r>
+<r><article key="journals/jlp/Ross94" mdate="2021-02-17">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>On Negation in HiLog.</title>
+<pages>27-53</pages>
+<year>1994</year>
+<volume>18</volume>
+<journal>J. Log. Program.</journal>
+<number>1</number>
+<url>db/journals/jlp/jlp18.html#Ross94</url>
+<ee type="oa">https://doi.org/10.1016/0743-1066(94)90040-X</ee>
+</article>
+</r>
+<r><inproceedings key="conf/deductive/Ross94" mdate="2012-05-29">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Constraint Stratification in Deductive Databases.</title>
+<pages>101-115</pages>
+<year>1994</year>
+<crossref>conf/deductive/1994</crossref>
+<booktitle>Workshop on Deductive Databases and Logic Programming</booktitle>
+<url>db/conf/deductive/deductive94.html#Ross94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppcp/RossSSS94" mdate="2017-05-20">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<author pid="s/SSudarshan1">S. Sudarshan 0001</author>
+<title>Foundations of Aggregation Constraints.</title>
+<pages>193-204</pages>
+<year>1994</year>
+<crossref>conf/ppcp/1994</crossref>
+<booktitle>PPCP</booktitle>
+<url>db/conf/ppcp/ppcp94-lncs.html#RossSSS94</url>
+<ee>https://doi.org/10.1007/3-540-58601-6_101</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/slp/Ross94" mdate="2013-12-04">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>A Syntactic Stratification Condition Using Constraints.</title>
+<pages>76-90</pages>
+<year>1994</year>
+<crossref>conf/slp/1994</crossref>
+<booktitle>ILPS</booktitle>
+<url>db/conf/slp/slp94.html#Ross94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/slp/RamakrishnanRSS94" mdate="2013-12-04">
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<author pid="s/SSudarshan1">S. Sudarshan 0001</author>
+<title>Efficient Incremental Evaluation of Queries with Aggregation.</title>
+<pages>204-218</pages>
+<year>1994</year>
+<crossref>conf/slp/1994</crossref>
+<booktitle>ILPS</booktitle>
+<url>db/conf/slp/slp94.html#RamakrishnanRSS94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dood/MumickR93" mdate="2019-08-07">
+<author pid="m/ISMumick">Inderpal Singh Mumick</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Noodle: A Language for Declarative Querying in an Object-Oriented Database.</title>
+<pages>360-378</pages>
+<year>1993</year>
+<crossref>conf/dood/93</crossref>
+<booktitle>DOOD</booktitle>
+<url>db/conf/dood/dood93.html#MumickR93</url>
+<ee>https://doi.org/10.1007/3-540-57530-8_24</ee>
+</inproceedings>
+</r>
+<r><book key="books/daglib/0067074" mdate="2012-10-31">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="89/6159">Charles R. B. Wright</author>
+<title>Discrete mathematics (3. ed.).</title>
+<pages>I-XIV, 1-753</pages>
+<publisher>Prentice Hall</publisher>
+<year>1992</year>
+<isbn>978-0-13-218207-2</isbn>
+</book>
+</r>
+<r><article key="journals/jlp/Ross92" mdate="2021-02-17">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>A Prodedural Semantics for Well-Founded Negation in Logic Programs.</title>
+<pages>1-22</pages>
+<year>1992</year>
+<volume>13</volume>
+<journal>J. Log. Program.</journal>
+<number>1</number>
+<url>db/journals/jlp/jlp13.html#Ross92</url>
+<ee type="oa">https://doi.org/10.1016/0743-1066(92)90019-Y</ee>
+<note>preliminary version: PODS 1989: 22-33</note>
+</article>
+</r>
+<r><inproceedings key="conf/deductive/MumickR92" mdate="2012-05-29">
+<author pid="m/ISMumick">Inderpal Singh Mumick</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>An Architecture for Declarative Object-Oriented Databases.</title>
+<pages>21-30</pages>
+<year>1992</year>
+<crossref>conf/deductive/1992</crossref>
+<booktitle>Workshop on Deductive Databases, JICSLP</booktitle>
+<url>db/conf/deductive/deductive92.html#MumickR92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/RossS92" mdate="2018-11-06">
+<crossref>conf/pods/92</crossref>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="26/5086">Yehoshua Sagiv</author>
+<title>Monotonic Aggregation in Deductive Databases.</title>
+<pages>114-126</pages>
+<year>1992</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods92.html#RossS92</url>
+<ee>https://doi.org/10.1145/137097.137852</ee>
+<cdrom>journals/anthology/cd1-3:PODS92/P114.PDF</cdrom>
+<cdrom>journals/anthology/dvd1:text/1-3/PODS92/P114.PDF</cdrom>
+<cite label="AH88">conf/sigmod/AbiteboulH88</cite>
+<cite label="CGT90">books/sp/CeriGT90</cite>
+<cite label="GGZ91">conf/pods/GangulyGZ91</cite>
+<cite label="GL88">conf/iclp/GelfondL88</cite>
+<cite label="KS91">conf/slp/KempS91</cite>
+<cite label="MPR90">conf/vldb/MumickPR90</cite>
+<cite label="Ros90">journals/jacm/Ross94</cite>
+<cite label="SR91">conf/vldb/SudarshanR91</cite>
+<cite label="Tar55">...</cite>
+<cite label="VG92a">journals/jcss/Gelder93</cite>
+<cite label="VG92b">conf/pods/Gelder92</cite>
+<cite label="VGRS91">journals/jacm/GelderRS91</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/Ross92" mdate="2018-11-06">
+<crossref>conf/pods/92</crossref>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Relations with Relation Names as Arguments: Algebra and Calculus.</title>
+<pages>346-353</pages>
+<year>1992</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods92.html#Ross92</url>
+<ee>https://doi.org/10.1145/137097.137905</ee>
+<cdrom>journals/anthology/cd1-3:PODS92/P346.PDF</cdrom>
+<cdrom>journals/anthology/dvd1:text/1-3/PODS92/P346.PDF</cdrom>
+<cite label="C+76">...</cite>
+<cite label="CKW89">conf/slp/ChenKW89</cite>
+<cite label="Cod70">journals/cacm/Codd70</cite>
+<cite label="Cod72">...</cite>
+<cite label="DiP69">journals/jacm/Paola69a</cite>
+<cite label="Klu82">journals/jacm/Klug82</cite>
+<cite label="PDR91">conf/sigmod/PhippsDR91</cite>
+<cite label="Ros91">journals/jlp/Ross94</cite>
+<cite label="SS77">journals/tods/SmithS77</cite>
+<cite label="Ull88">books/cs/Ullman88</cite>
+<cite label="Ull89">books/cs/Ullman89</cite>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/us/Ross91" mdate="2022-08-31">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>The semantics of deductive databases.</title>
+<school>Stanford University, USA</school>
+<year>1991</year>
+<ee>https://searchworks.stanford.edu/view/2180008</ee>
+</phdthesis>
+</r>
+<r><article key="journals/jacm/GelderRS91" mdate="2018-11-06">
+<author pid="g/AllenVanGelder">Allen Van Gelder</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="s/JohnSSchlipf">John S. Schlipf</author>
+<title>The Well-Founded Semantics for General Logic Programs.</title>
+<pages>620-650</pages>
+<year>1991</year>
+<volume>38</volume>
+<journal>J. ACM</journal>
+<number>3</number>
+<url>db/journals/jacm/jacm38.html#GelderRS91</url>
+<ee>https://doi.org/10.1145/116825.116838</ee>
+<note>preliminary version: PODS 1988: 221-230</note>
+</article>
+</r>
+<r><inproceedings key="conf/pods/Ross91" mdate="2018-11-06">
+<crossref>conf/pods/91</crossref>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Modular Acyclicity and Tail Recursion in Logic Programs.</title>
+<pages>92-101</pages>
+<year>1991</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods91.html#Ross91</url>
+<ee>https://doi.org/10.1145/113413.113422</ee>
+<cdrom>journals/anthology/cd1-3:PODS91/P092.PDF</cdrom>
+<cdrom>journals/anthology/dvd1:text/1-3/PODS91/P092.PDF</cdrom>
+<cite label="AB90">conf/iclp/AptB90</cite>
+<cite label="Bry89">conf/dood/Bry89</cite>
+<cite label="BS89">conf/pods/BrodskyS89</cite>
+<cite label="Cav89">conf/iclp/Cavedon89</cite>
+<cite label="Cho88">...</cite>
+<cite label="CKW89">conf/slp/ChenKW89</cite>
+<cite label="Fit85">journals/jlp/Fitting85a</cite>
+<cite label="KRS90">conf/vldb/KempRS90</cite>
+<cite label="Llo87">books/sp/Lloyd87</cite>
+<cite label="MPR90">conf/vldb/MumickPR90</cite>
+<cite label="MR89">conf/slp/MaherR89</cite>
+<cite label="Mum90">conf/pods/MumickP91</cite>
+<cite label="NRSU89a">conf/vldb/NaughtonRSU89</cite>
+<cite label="NRSU89b">conf/sigmod/NaughtonRSU89</cite>
+<cite label="Ram88">journals/jlp/Ramakrishnan91</cite>
+<cite label="Ros90">conf/pods/Ross90</cite>
+<cite label="Sag90">...</cite>
+<cite label="Shm87">conf/pods/Shmueli87</cite>
+<cite label="Ull89a">conf/pods/Ullman89</cite>
+<cite label="Ull89b">books/cs/Ullman89</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/Ross91a" mdate="2018-11-06">
+<crossref>conf/pods/91</crossref>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>On Negation in HiLog.</title>
+<pages>206-215</pages>
+<year>1991</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods91.html#Ross91a</url>
+<ee>https://doi.org/10.1145/113413.113432</ee>
+<cdrom>journals/anthology/cd1-3:PODS91/P206.PDF</cdrom>
+<cdrom>journals/anthology/dvd1:text/1-3/PODS91/P206.PDF</cdrom>
+<cite label="ABW88">...</cite>
+<cite label="CH85">journals/jlp/ChandraH85</cite>
+<cite label="CKW89">conf/slp/ChenKW89</cite>
+<cite label="DiP69">journals/jacm/Paola69a</cite>
+<cite label="GL88">conf/iclp/GelfondL88</cite>
+<cite label="Kol90">journals/iandc/Kolaitis91</cite>
+<cite label="Nic82">journals/acta/Nicolas82</cite>
+<cite label="Prz88">...</cite>
+<cite label="Prz89">journals/jar/Przymusinski89</cite>
+<cite label="Ros90">conf/pods/Ross90</cite>
+<cite label="VG86">conf/slp/Gelder86</cite>
+<cite label="VGRS88">journals/jacm/GelderRS91</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/PhippsDR91" mdate="2021-06-21">
+<author pid="00/1536">Geoffrey Phipps</author>
+<author pid="71/1021">Marcia A. Derr</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Glue-Nail: A Deductive Database System.</title>
+<pages>308-317</pages>
+<cdrom>SIGMOD91/P308.PDF</cdrom>
+<year>1991</year>
+<crossref>conf/sigmod/91</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod91.html#PhippsDR91</url>
+<ee>https://doi.org/10.1145/115790.115840</ee>
+<ee>https://doi.org/10.1145/119995.115840</ee>
+<cite>conf/dbpl/ChenKW89</cite>
+<cite>...</cite>
+<cite>conf/iclp/MorrisUG86</cite>
+<cite>books/cs/NaqviT89</cite>
+<cite>conf/deductive/Phipps90</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/deductive/RamakrishnanBSS90</cite>
+<cite>conf/deductive/VaghaniRKSS90</cite>
+<cite>conf/edbt/Zaniolo90</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/Ross90" mdate="2018-11-06">
+<crossref>conf/pods/90</crossref>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>Modular Stratification and Magic Sets for DATALOG Programs with Negation.</title>
+<pages>161-171</pages>
+<year>1990</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods90.html#Ross90</url>
+<ee>https://doi.org/10.1145/298514.298558</ee>
+<cdrom>journals/anthology/cd1-3:PODS90/P161.PDF</cdrom>
+<cdrom>journals/anthology/dvd1:text/1-3/PODS90/P161.PDF</cdrom>
+<cite label="BMR88">...</cite>
+<cite label="BPR87">...</cite>
+<cite label="BPRMar">journals/jlp/BalbinPRM91</cite>
+<cite label="BR86">conf/sigmod/BancilhonR86</cite>
+<cite label="BR87">conf/pods/BeeriR87</cite>
+<cite label="BRSS89">...</cite>
+<cite label="Bry89a">...</cite>
+<cite label="Bry89b">conf/pods/Bry89</cite>
+<cite label="BS89">conf/pods/BrodskyS89</cite>
+<cite label="DW85">...</cite>
+<cite label="GL88">conf/iclp/GelfondL88</cite>
+<cite label="Kol87">...</cite>
+<cite label="KP88">conf/fgcs/KerisitP88</cite>
+<cite label="KT88">conf/iclp/KempT88</cite>
+<cite label="PP88">conf/iclp/PrzymusinskaP88</cite>
+<cite label="Prz88">...</cite>
+<cite label="Ram88">conf/iclp/Ramakrishnan88</cite>
+<cite label="Ros89">conf/pods/Ross89</cite>
+<cite label="SI88">conf/iclp/SekiI88</cite>
+<cite label="Ull98a">conf/pods/Ullman89</cite>
+<cite label="Ull89b1">books/cs/Ullman88</cite>
+<cite label="Ull89b2">books/cs/Ullman89</cite>
+<cite label="VGRS88">journals/jacm/GelderRS91</cite>
+<cite label="Vie86">conf/eds/Vieille86</cite>
+<cite label="Vie87">conf/iclp/Vieille87</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dood/Ross89" mdate="2019-07-30">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>The Well Founded Semantics for Disjunctive Logic Programs.</title>
+<pages>385-402</pages>
+<year>1989</year>
+<crossref>conf/dood/89</crossref>
+<booktitle>DOOD</booktitle>
+<url>db/conf/dood/dood89.html#Ross89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/Ross89" mdate="2018-11-06">
+<crossref>conf/pods/89</crossref>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<title>A Procedural Semantics for Well Founded Negation in Logic Programs.</title>
+<pages>22-33</pages>
+<year>1989</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods89.html#Ross89</url>
+<ee>https://doi.org/10.1145/73721.73724</ee>
+<cdrom>journals/anthology/cd1-3:PODS89/P022.PDF</cdrom>
+<cdrom>journals/anthology/dvd1:text/1-3/PODS89/P022.PDF</cdrom>
+<cite label="ABW88">...</cite>
+<cite label="CH85">journals/jlp/ChandraH85</cite>
+<cite label="Cha88">conf/iclp/Chan88</cite>
+<cite label="Cla78">...</cite>
+<cite label="Fit85">journals/jlp/Fitting85a</cite>
+<cite label="GL88">conf/iclp/GelfondL88</cite>
+<cite label="KT88">conf/iclp/KempT88</cite>
+<cite label="Kun87">journals/jlp/Kunen87</cite>
+<cite label="Llo87">books/sp/Lloyd87</cite>
+<cite label="LM86">...</cite>
+<cite label="Mah88">...</cite>
+<cite label="McC80">...</cite>
+<cite label="Min82">conf/cade/Minker82</cite>
+<cite label="Mos74">...</cite>
+<cite label="PP88">conf/iclp/PrzymusinskaP88</cite>
+<cite label="Prz87">...</cite>
+<cite label="Prz88a">conf/slp/Przymusinski89</cite>
+<cite label="Prz88b">...</cite>
+<cite label="Prz89">conf/pods/Przymusinski89</cite>
+<cite label="Ross88">...</cite>
+<cite label="RT87">journals/jar/RossT88</cite>
+<cite label="She85">journals/jlp/Shepherdson85</cite>
+<cite label="She88">...</cite>
+<cite label="SI88">conf/iclp/SekiI88</cite>
+<cite label="VEK76">journals/jacm/EmdenK76</cite>
+<cite label="VG86">conf/slp/Gelder86</cite>
+<cite label="VGRS88a">conf/pods/GelderRS88</cite>
+<cite label="VGRS88b">journals/jacm/GelderRS91</cite>
+</inproceedings>
+</r>
+<r><article key="journals/jar/RossT88" mdate="2020-09-02">
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="t/RWTopor">Rodney W. Topor</author>
+<title>Inferring Negative Information from Disjunctive Databases.</title>
+<pages>397-424</pages>
+<year>1988</year>
+<volume>4</volume>
+<journal>J. Autom. Reason.</journal>
+<number>4</number>
+<url>db/journals/jar/jar4.html#RossT88</url>
+<ee>https://doi.org/10.1007/BF00297247</ee>
+</article>
+</r>
+<r><inproceedings key="conf/pods/GelderRS88" mdate="2018-11-06">
+<crossref>conf/pods/88</crossref>
+<author pid="g/AllenVanGelder">Allen Van Gelder</author>
+<author pid="r/KARoss">Kenneth A. Ross</author>
+<author pid="s/JohnSSchlipf">John S. Schlipf</author>
+<title>Unfounded Sets and Well-Founded Semantics for General Logic Programs.</title>
+<pages>221-230</pages>
+<year>1988</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods88.html#GelderRS88</url>
+<ee>https://doi.org/10.1145/308386.308444</ee>
+<cdrom>journals/anthology/cd1-3:PODS88/P221.PDF</cdrom>
+<cdrom>journals/anthology/dvd1:text/1-3/PODS88/P221.PDF</cdrom>
+<cite label="ABW86">...</cite>
+<cite label="AVE82">journals/jacm/AptE82</cite>
+<cite label="CH85">journals/jlp/ChandraH85</cite>
+<cite label="Cla78">...</cite>
+<cite label="Fit85">journals/jlp/Fitting85a</cite>
+<cite label="GL87">conf/iclp/GelfondL88</cite>
+<cite label="HM86">conf/aaai/HanksM86</cite>
+<cite label="JLL83">conf/ijcai/JaffarLL83</cite>
+<cite label="Kun87">journals/jlp/Kunen87</cite>
+<cite label="Lif86">...</cite>
+<cite label="Llo84">books/sp/Lloyd84</cite>
+<cite label="Prz86">...</cite>
+<cite label="RT87">journals/jar/RossT88</cite>
+<cite label="Sch87">...</cite>
+<cite label="She85">journals/jlp/Shepherdson85</cite>
+<cite label="She86">...</cite>
+<cite label="VEK76">journals/jacm/EmdenK76</cite>
+<cite label="VG86">conf/slp/Gelder86</cite>
+<cite label="VG88">journals/jlp/Gelder90</cite>
+</inproceedings>
+</r>
+<coauthors n="216" nc="2">
+<co c="0"><na f="a/Abbadi:Amr_El" pid="a/AmrElAbbadi">Amr El Abbadi</na></co>
+<co c="0"><na f="a/Abiteboul:Serge" pid="a/SergeAbiteboul">Serge Abiteboul</na></co>
+<co c="0"><na f="a/Aggarwal:Charu_C=" pid="a/CharuCAggarwal">Charu C. Aggarwal</na></co>
+<co c="0"><na f="a/Aho:Alfred_V=" pid="a/AVAho">Alfred V. Aho</na></co>
+<co c="0" n="2"><na f="a/Ailamaki:Anastasia" pid="a/AnastassiaAilamaki">Anastasia Ailamaki</na><na>Anastassia Ailamaki</na></co>
+<co c="0"><na f="a/Allen:Peter_K=" pid="a/PeterKAllen">Peter K. Allen</na></co>
+<co c="0"><na f="a/Ambite:Jos=eacute=_Luis" pid="75/6070">Jos&#233; Luis Ambite</na></co>
+<co c="0"><na f="a/Arens:Yigal" pid="a/YigalArens">Yigal Arens</na></co>
+<co c="0"><na f="a/Athanassoulis:Manos" pid="82/7402">Manos Athanassoulis</na></co>
+<co c="0"><na f="a/Atserias:Albert" pid="66/5890">Albert Atserias</na></co>
+<co c="0"><na f="b/Banikazemi:Mohammad" pid="18/6845">Mohammad Banikazemi</na></co>
+<co c="0"><na f="b/Barbar=aacute=:Daniel" pid="b/DBarbara">Daniel Barbar&#225;</na></co>
+<co c="0"><na f="b/Barker:Raymond_J=" pid="131/5135">Raymond J. Barker</na></co>
+<co c="0"><na f="b/Benko:Hrvoje" pid="73/5679">Hrvoje Benko</na></co>
+<co c="0"><na f="b/Berchtold:Stefan" pid="b/SBerchtold">Stefan Berchtold</na></co>
+<co c="0"><na f="b/Berry:Jonathan_W=" pid="48/646">Jonathan W. Berry</na></co>
+<co c="0"><na f="b/Bhattacharjee:Bishwaranjan" pid="19/2910">Bishwaranjan Bhattacharjee</na></co>
+<co c="0"><na f="b/Bojanczyk:Mikolaj" pid="53/4804">Mikolaj Bojanczyk</na></co>
+<co c="0"><na f="b/Boncz:Peter_A=" pid="b/PeterABoncz">Peter A. Boncz</na></co>
+<co c="0"><na f="b/Bourne:Walter" pid="69/2313">Walter Bourne</na></co>
+<co c="0"><na f="b/Buneman:Peter" pid="b/PeterBuneman">Peter Buneman</na></co>
+<co c="0"><na f="b/Bussche:Jan_Van_den" pid="b/JVdBussche">Jan Van den Bussche</na></co>
+<co c="0"><na f="c/Canim:Mustafa" pid="71/6902">Mustafa Canim</na></co>
+<co c="0"><na f="c/Cao:Bingyi" pid="130/7624">Bingyi Cao</na></co>
+<co c="0"><na f="c/Carmean:Doug" pid="11/4277">Doug Carmean</na></co>
+<co c="0"><na f="c/Cate:Balder_ten" pid="91/5696">Balder ten Cate</na></co>
+<co c="0"><na f="c/Ceri:Stefano" pid="c/StefanoCeri">Stefano Ceri</na></co>
+<co c="0" n="2"><na f="c/Cerqueira:Joao_Pedro" pid="186/1274">Joao Pedro Cerqueira</na><na>Jo&#227;o Pedro Cerqueira</na></co>
+<co c="0"><na f="c/Chang:Shih=Fu" pid="c/ShihFuChang">Shih-Fu Chang</na></co>
+<co c="0"><na f="c/Chang:Yuan=Chi" pid="14/2029">Yuan-Chi Chang</na></co>
+<co c="0"><na f="c/Chatziantoniou:Damianos" pid="c/DChatziantoniou">Damianos Chatziantoniou</na></co>
+<co c="0"><na f="c/Chaudhuri:Surajit" pid="c/SurajitChaudhuri">Surajit Chaudhuri</na></co>
+<co c="0"><na f="c/Cherniack:Mitch" pid="c/MitchCherniack">Mitch Cherniack</na></co>
+<co c="0"><na f="c/Chirkova:Rada" pid="01/3589">Rada Chirkova</na></co>
+<co c="0"><na f="c/Cieslewicz:John" pid="98/1786">John Cieslewicz</na></co>
+<co c="0"><na f="c/Cluet:Sophie" pid="c/SophieCluet">Sophie Cluet</na></co>
+<co c="0"><na f="c/Colby:Latha_S=" pid="83/5689">Latha S. Colby</na></co>
+<co c="0"><na f="c/Conlon:James" pid="10/6629">James Conlon</na></co>
+<co c="0"><na f="d/Davis:Peter_T=" pid="66/2679">Peter T. Davis</na></co>
+<co c="1"><na f="d/Derr:Marcia_A=" pid="71/1021">Marcia A. Derr</na></co>
+<co c="0"><na f="d/DuMouchel:William" pid="41/2359">William DuMouchel</na></co>
+<co c="0"><na f="e/Edwards:Stephen_A=" pid="60/5638">Stephen A. Edwards</na></co>
+<co c="0"><na f="e/El=Helw:Amr" pid="80/951">Amr El-Helw</na></co>
+<co c="0"><na f="f/Fabret:Fran=ccedil=oise" pid="72/6766">Fran&#231;oise Fabret</na></co>
+<co c="0"><na f="f/Fagin:Ronald" pid="f/RonaldFagin">Ronald Fagin</na></co>
+<co c="0"><na f="f/Faloutsos:Christos" pid="f/CFaloutsos">Christos Faloutsos</na></co>
+<co c="0"><na f="f/Falsafi:Babak" pid="f/BabakFalsafi">Babak Falsafi</na></co>
+<co c="0" n="2"><na f="f/Feiner:Steven_K=" pid="f/StevenFeiner">Steven K. Feiner</na><na>Steven Feiner</na></co>
+<co c="0" n="2"><na f="f/Fern=aacute=ndez:Mary_F=" pid="f/MaryFFernandez">Mary F. Fern&#225;ndez</na><na>Mary F. Fernandez</na></co>
+<co c="0"><na f="f/Franklin:Michael_J=" pid="f/MJFranklin">Michael J. Franklin</na></co>
+<co c="0"><na f="g/Garofalakis:Minos_N=" pid="g/MinosNGarofalakis">Minos N. Garofalakis</na></co>
+<co c="0"><na f="g/Geerts:Floris" pid="g/FlorisGeerts">Floris Geerts</na></co>
+<co c="0"><na f="g/Gehrke:Johannes" pid="g/JohannesGehrke">Johannes Gehrke</na></co>
+<co c="0"><na f="g/Gelder:Allen_Van" pid="g/AllenVanGelder">Allen Van Gelder</na></co>
+<co c="0"><na f="g/Giannakakis:Ioannis" pid="75/2805">Ioannis Giannakakis</na></co>
+<co c="0"><na f="g/Grahne:G=ouml=sta" pid="g/GostaGrahne">G&#246;sta Grahne</na></co>
+<co c="0"><na f="g/Gravano:Luis" pid="g/LuisGravano">Luis Gravano</na></co>
+<co c="0"><na f="g/Gunopulos:Dimitrios" pid="g/DimitriosGunopulos">Dimitrios Gunopulos</na></co>
+<co c="0"><na f="g/Gupta_0001:Ashish" pid="27/4744-1">Ashish Gupta 0001</na></co>
+<co c="0"><na f="h/Haas:Peter_J=" pid="h/PeterJHaas">Peter J. Haas</na></co>
+<co c="0" n="2"><na f="h/Halevy:Alon_Y=" pid="h/AlonYHalevy">Alon Y. Halevy</na><na>Alon Y. Levy</na></co>
+<co c="0"><na f="h/Hamilton:James_R=" pid="h/JamesRHamilton">James R. Hamilton</na></co>
+<co c="0"><na f="h/Han_0001:Jiawei" pid="h/JiaweiHan">Jiawei Han 0001</na></co>
+<co c="0"><na f="h/Hatzivassiloglou:Vasileios" pid="15/4175">Vasileios Hatzivassiloglou</na></co>
+<co c="0"><na f="h/Hellerstein:Joseph_M=" pid="h/JosephMHellerstein">Joseph M. Hellerstein</na></co>
+<co c="0"><na f="h/Hendrickson:Bruce" pid="h/BruceHendrickson">Bruce Hendrickson</na></co>
+<co c="0"><na f="h/Hessing:David" pid="87/1983">David Hessing</na></co>
+<co c="0"><na f="h/Hovy:Eduard_H=" pid="47/2454">Eduard H. Hovy</na></co>
+<co c="0"><na f="h/Hu:Ling" pid="42/5567">Ling Hu</na></co>
+<co c="0"><na f="i/Ilyas:Ihab_F=" pid="i/IhabFIlyas">Ihab F. Ilyas</na></co>
+<co c="0"><na f="i/Ioannidis:Yannis_E=" pid="i/YEIoannidis">Yannis E. Ioannidis</na></co>
+<co c="0"><na f="i/Ishak:Edward_W=" pid="97/3029">Edward W. Ishak</na></co>
+<co c="0"><na f="j/Jacobsen:Hans=Arno" pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</na></co>
+<co c="0"><na f="j/Jagadish:H=_V=" pid="j/HVJagadish">H. V. Jagadish</na></co>
+<co c="0"><na f="j/Jain:Pranay" pid="43/4464">Pranay Jain</na></co>
+<co c="0"><na f="j/Janevski:Angel" pid="90/364">Angel Janevski</na></co>
+<co c="0"><na f="j/Jensen:Christian_S=" pid="j/ChristianSJensen">Christian S. Jensen</na></co>
+<co c="0"><na f="j/Jhingran:Anant" pid="55/603">Anant Jhingran</na></co>
+<co c="0"><na f="j/Johnson:Theodore" pid="j/TheodoreJohnson">Theodore Johnson</na></co>
+<co c="0"><na f="k/Kaiser:Gail_E=" pid="k/GailEKaiser">Gail E. Kaiser</na></co>
+<co c="0"><na f="k/Kaldewey:Tim" pid="35/908">Tim Kaldewey</na></co>
+<co c="0"><na f="k/Kawaguchi:Akira" pid="92/5851">Akira Kawaguchi</na></co>
+<co c="0"><na f="k/Kemper:Alfons" pid="k/AlfonsKemper">Alfons Kemper</na></co>
+<co c="0"><na f="k/Kim:Junyoung" pid="99/7290">Junyoung Kim</na></co>
+<co c="0"><na f="k/Kim:Martha_A=" pid="29/10949">Martha A. Kim</na></co>
+<co c="0" n="2"><na f="k/Klavans:Judith_L=" pid="k/JudithKlavans">Judith L. Klavans</na><na>Judith Klavans</na></co>
+<co c="0"><na f="k/Korn:Flip" pid="k/FlipKorn">Flip Korn</na></co>
+<co c="0"><na f="k/Koudas:Nick" pid="k/NickKoudas">Nick Koudas</na></co>
+<co c="0"><na f="k/Kuszmaul:Bradley_C=" pid="77/1312">Bradley C. Kuszmaul</na></co>
+<co c="0"><na f="l/Lakshmanan:Laks_V=_S=" pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</na></co>
+<co c="0"><na f="l/Lang:Christian_A=" pid="l/ChristianALang">Christian A. Lang</na></co>
+<co c="0"><na f="l/Larson:Per==Aring=ke" pid="l/PALarson">Per-&#197;ke Larson</na></co>
+<co c="0"><na f="l/Lau:Sherman" pid="08/517">Sherman Lau</na></co>
+<co c="0"><na f="l/Lei_0001:Hui" pid="l/HuiLei">Hui Lei 0001</na></co>
+<co c="-1"><na f="l/Li:Zhe" pid="11/751">Zhe Li</na></co>
+<co c="0"><na f="l/Libkin:Leonid" pid="l/LeonidLibkin">Leonid Libkin</na></co>
+<co c="0"><na f="l/Lieuwen:Daniel_F=" pid="l/DFLieuwen">Daniel F. Lieuwen</na></co>
+<co c="0"><na f="l/Lim:Lipyeow" pid="55/2304">Lipyeow Lim</na></co>
+<co c="0"><na f="l/Lin:Mengdi" pid="271/3818">Mengdi Lin</na></co>
+<co c="0"><na f="l/Liu:Lurng=Kuo" pid="13/1904">Lurng-Kuo Liu</na></co>
+<co c="0"><na f="l/Liu:Qiang" pid="61/3234">Qiang Liu</na></co>
+<co c="0"><na f="l/Llirbat:Fran=ccedil=ois" pid="l/FLlirbat">Fran&#231;ois Llirbat</na></co>
+<co c="0"><na f="l/Lodha:Mayur" pid="06/9727">Mayur Lodha</na></co>
+<co c="0"><na f="l/Lohman:Guy_M=" pid="21/2457">Guy M. Lohman</na></co>
+<co c="0"><na f="l/Lomet:David_B=" pid="l/DavidBLomet">David B. Lomet</na></co>
+<co c="0"><na f="l/Lottarini:Andrea" pid="142/3206">Andrea Lottarini</na></co>
+<co c="0"><na f="l/Luo_0001:Qiong" pid="l/QiongLuo">Qiong Luo 0001</na></co>
+<co c="0"><na f="m/Malkemus:Timothy" pid="31/4691">Timothy Malkemus</na></co>
+<co c="0"><na f="m/Marian:Am=eacute=lie" pid="m/AmelieMarian">Am&#233;lie Marian</na></co>
+<co c="0"><na f="m/Markl:Volker" pid="m/VMarkl">Volker Markl</na></co>
+<co c="0"><na f="m/McCarthur:Cathy" pid="13/7259">Cathy McCarthur</na></co>
+<co c="0"><na f="m/Mee:William" pid="12/7406">William Mee</na></co>
+<co c="0"><na f="m/Meskell:Lynn" pid="80/4992">Lynn Meskell</na></co>
+<co c="0"><na f="m/Mihaila:George_A=" pid="m/GeorgeAMihaila">George A. Mihaila</na></co>
+<co c="0"><na f="m/Miller:Ren=eacute=e_J=" pid="m/RJMiller">Ren&#233;e J. Miller</na></co>
+<co c="0"><na f="m/Milo:Tova" pid="m/TovaMilo">Tova Milo</na></co>
+<co c="0"><na f="m/M=uuml=ller_0001:Ren=eacute=" pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</na></co>
+<co c="0"><na f="m/Mumick:Inderpal_Singh" pid="m/ISMumick">Inderpal Singh Mumick</na></co>
+<co c="0"><na f="m/Murphy:Christian" pid="84/2038">Christian Murphy</na></co>
+<co c="0"><na f="n/Nagel:Fabian" pid="131/4779">Fabian Nagel</na></co>
+<co c="0"><na f="n/Natsev:Apostol" pid="10/4267">Apostol Natsev</na></co>
+<co c="0"><na f="n/Naughton:Jeffrey_F=" pid="n/JeffreyFNaughton">Jeffrey F. Naughton</na></co>
+<co c="0"><na f="n/Neven:Frank" pid="n/FrankNeven">Frank Neven</na></co>
+<co c="0"><na f="n/Ng:Raymond_T=" pid="n/RTNg">Raymond T. Ng</na></co>
+<co c="0"><na f="o/O=Neil:Patrick_E=" pid="o/PatrickEONeil">Patrick E. O'Neil</na></co>
+<co c="0"><na f="o/Ooi:Beng_Chin" pid="o/BengChinOoi">Beng Chin Ooi</na></co>
+<co c="0"><na f="=/=Ouml=zsoyoglu:Gultekin" pid="o/GultekinOzsoyoglu">Gultekin &#214;zsoyoglu</na></co>
+<co c="0"><na f="p/Paine:Timothy_K=" pid="142/3197">Timothy K. Paine</na></co>
+<co c="0"><na f="p/Papadias:Dimitris" pid="p/DimitrisPapadias">Dimitris Papadias</na></co>
+<co c="0"><na f="p/Papadimitriou:Christos_H=" pid="p/CHPapadimitriou">Christos H. Papadimitriou</na></co>
+<co c="0"><na f="p/Patel:Jignesh_M=" pid="p/JMPatel">Jignesh M. Patel</na></co>
+<co c="0"><na f="p/Pereira_0002:Jo=atilde=o" pid="51/1587-2">Jo&#227;o Pereira 0002</na></co>
+<co c="0"><na f="p/Pereira:Jo=atilde=o_L=_M=" pid="166/9107">Jo&#227;o L. M. Pereira</na></co>
+<co c="0"><na f="p/Philpot:Andrew" pid="20/4002">Andrew Philpot</na></co>
+<co c="1"><na f="p/Phipps:Geoffrey" pid="00/1536">Geoffrey Phipps</na></co>
+<co c="0"><na f="p/Polychroniou:Orestis" pid="131/4377">Orestis Polychroniou</na></co>
+<co c="0"><na f="p/Poosala:Viswanath" pid="p/VPoosala">Viswanath Poosala</na></co>
+<co c="0"><na f="p/Popper:Samuel_D=" pid="99/2123">Samuel D. Popper</na></co>
+<co c="0"><na f="p/Pottinger:Rachel" pid="68/1297">Rachel Pottinger</na></co>
+<co c="0"><na f="p/Preotiuc=Pietro:Radu" pid="26/6879">Radu Preotiuc-Pietro</na></co>
+<co c="0"><na f="q/Quass:Dallan" pid="q/DQuass">Dallan Quass</na></co>
+<co c="0"><na f="r/Raghavan:Arun" pid="61/4142">Arun Raghavan</na></co>
+<co c="0"><na f="r/Ramachandran:Usha" pid="20/5420">Usha Ramachandran</na></co>
+<co c="0"><na f="r/Ramakrishnan:Raghu" pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</na></co>
+<co c="0"><na f="r/Rao:Jun" pid="r/JunRao">Jun Rao</na></co>
+<co c="0"><na f="r/Rastogi:Rajeev" pid="r/RajeevRastogi">Rajeev Rastogi</na></co>
+<co c="0"><na f="r/Repetti:Thomas_J=" pid="207/1840">Thomas J. Repetti</na></co>
+<co c="0"><na f="r/Rosenkrantz:Daniel_J=" pid="80/6105">Daniel J. Rosenkrantz</na></co>
+<co c="0"><na f="s/Sadoghi:Mohammad" pid="56/7016">Mohammad Sadoghi</na></co>
+<co c="0"><na f="s/Sagiv:Yehoshua" pid="26/5086">Yehoshua Sagiv</na></co>
+<co c="0"><na f="s/Saltenis:Simonas" pid="48/2122">Simonas Saltenis</na></co>
+<co c="0"><na f="s/Sandhaus:Jay" pid="65/4111">Jay Sandhaus</na></co>
+<co c="0"><na f="s/Sarawagi:Sunita" pid="s/SunitaSarawagi">Sunita Sarawagi</na></co>
+<co c="0"><na f="s/Sari=ouml=z:Deniz" pid="69/8725">Deniz Sari&#246;z</na></co>
+<co c="0"><na f="s/Satsumi:Kyoho" pid="53/8166">Kyoho Satsumi</na></co>
+<co c="0"><na f="s/Scheuermann:Peter" pid="s/PeterScheuermann">Peter Scheuermann</na></co>
+<co c="0"><na f="s/Schlipf:John_S=" pid="s/JohnSSchlipf">John S. Schlipf</na></co>
+<co c="0"><na f="s/Schmidt:Rolfe_R=" pid="37/4391">Rolfe R. Schmidt</na></co>
+<co c="0"><na f="s/Sedlar:Eric" pid="91/3406">Eric Sedlar</na></co>
+<co c="0"><na f="s/Sellis:Timos_K=" pid="s/TimosKSellis">Timos K. Sellis</na></co>
+<co c="0"><na f="s/Sen:Rajkumar" pid="40/2065">Rajkumar Sen</na></co>
+<co c="0"><na f="s/Seok:Mingoo" pid="64/3916">Mingoo Seok</na></co>
+<co c="0"><na f="s/Sevcik:Kenneth_C=" pid="s/KennethCSevcik">Kenneth C. Sevcik</na></co>
+<co c="0"><na f="s/Shah:Mihir" pid="73/2032">Mihir Shah</na></co>
+<co c="0"><na f="s/Shahabi:Cyrus" pid="s/CyrusShahabi">Cyrus Shahabi</na></co>
+<co c="0"><na f="s/Shasha:Dennis_E=" pid="s/DennisShasha">Dennis E. Shasha</na></co>
+<co c="0"><na f="s/Sherkat:Reza" pid="02/5500">Reza Sherkat</na></co>
+<co c="0"><na f="s/Sheth:Swapneel" pid="48/1013">Swapneel Sheth</na></co>
+<co c="0"><na f="s/Shih:Ju=Ling" pid="65/478">Ju-Ling Shih</na></co>
+<co c="0"><na f="s/Shim:Kyuseok" pid="s/KyuseokShim">Kyuseok Shim</na></co>
+<co c="0"><na f="s/Sidlauskas:Darius" pid="44/7094">Darius Sidlauskas</na></co>
+<co c="0"><na f="s/Simon:Eric" pid="s/EricSimon">Eric Simon</na></co>
+<co c="0"><na f="s/Singla:Anurag" pid="45/2530">Anurag Singla</na></co>
+<co c="0"><na f="s/Sips:Henk_J=" pid="s/HJSips">Henk J. Sips</na></co>
+<co c="0"><na f="s/Sitaridi:Evangelia_A=" pid="15/11515">Evangelia A. Sitaridi</na></co>
+<co c="0"><na f="s/Sitzmann:Inga" pid="94/4613">Inga Sitzmann</na></co>
+<co c="0"><na f="s/Smith_0001:Benjamin" pid="40/3180-1">Benjamin Smith 0001</na></co>
+<co c="0"><na f="s/Smith:John_R=" pid="s/JohnRSmith">John R. Smith</na></co>
+<co c="0"><na f="s/Snodgrass:Richard_T=" pid="s/RichardTSnodgrass">Richard T. Snodgrass</na></co>
+<co c="0"><na f="s/Sommer:Peter" pid="84/6699">Peter Sommer</na></co>
+<co c="0"><na f="s/Srivastava:Divesh" pid="s/DiveshSrivastava">Divesh Srivastava</na></co>
+<co c="0"><na f="s/Stadler:Lukas" pid="36/8026">Lukas Stadler</na></co>
+<co c="0"><na f="s/Stolfo:Salvatore_J=" pid="s/SalvatoreJStolfo">Salvatore J. Stolfo</na></co>
+<co c="0"><na f="s/Stoyanovich:Julia" pid="s/JuliaStoyanovich">Julia Stoyanovich</na></co>
+<co c="0"><na f="s/Stuckey:Peter_J=" pid="s/PeterJStuckey">Peter J. Stuckey</na></co>
+<co c="0"><na f="s/Suciu:Dan" pid="s/DanSuciu">Dan Suciu</na></co>
+<co c="0"><na f="s/Sudarshan_0001:S=" pid="s/SSudarshan1">S. Sudarshan 0001</na></co>
+<co c="0"><na f="t/Temiyabutr:Surabhan" pid="33/5037">Surabhan Temiyabutr</na></co>
+<co c="0"><na f="t/Topor:Rodney_W=" pid="t/RWTopor">Rodney W. Topor</na></co>
+<co c="0"><na f="t/Toth:Zoltan" pid="29/7259">Zoltan Toth</na></co>
+<co c="0"><na f="t/Troccoli:Alejandro_J=" pid="66/6314">Alejandro J. Troccoli</na></co>
+<co c="0"><na f="v/Valduriez:Patrick" pid="v/PatrickValduriez">Patrick Valduriez</na></co>
+<co c="0"><na f="v/Varbanescu:Ana_Lucia" pid="62/3310">Ana Lucia Varbanescu</na></co>
+<co c="0"><na f="v/Vardi:Moshe_Y=" pid="v/MosheYVardi">Moshe Y. Vardi</na></co>
+<co c="0"><na f="v/Vassalos:Vasilis" pid="v/VVassalos">Vasilis Vassalos</na></co>
+<co c="0"><na f="v/Vesdapunt:Norases" pid="85/9733">Norases Vesdapunt</na></co>
+<co c="0"><na f="v/Vespe:David" pid="30/1802">David Vespe</na></co>
+<co c="0"><na f="v/Vianu:Victor" pid="v/VictorVianu">Victor Vianu</na></co>
+<co c="0"><na f="v/Voruganti:Kaladhar" pid="v/KaladharVoruganti">Kaladhar Voruganti</na></co>
+<co c="0"><na f="v/Vossen:Gottfried" pid="v/GottfriedVossen">Gottfried Vossen</na></co>
+<co c="0"><na f="w/Wang:Yanbin" pid="224/1800">Yanbin Wang</na></co>
+<co c="-1"><na f="w/Watkins:Ann_E=" pid="126/6735">Ann E. Watkins</na></co>
+<co c="0"><na f="w/Weikum:Gerhard" pid="w/GerhardWeikum">Gerhard Weikum</na></co>
+<co c="0"><na f="w/Whitman:Brian" pid="86/5977">Brian Whitman</na></co>
+<co c="0" n="2"><na f="w/Wills:Lisa_Wu" pid="23/3943">Lisa Wu Wills</na><na>Lisa Wu 0001</na></co>
+<co c="0"><na f="w/Wong:Limsoon" pid="w/LimsoonWong">Limsoon Wong</na></co>
+<co c="-1"><na f="w/Wright:Charles_R=_B=" pid="89/6159">Charles R. B. Wright</na></co>
+<co c="0"><na f="x/Xie:Xincheng" pid="351/5976">Xincheng Xie</na></co>
+<co c="0"><na f="y/Yang_0001:Jun" pid="y/JunYang1">Jun Yang 0001</na></co>
+<co c="0" n="2"><na f="y/Yang:Ye" pid="55/4341">Ye Yang</na><na>Yang Ye</na></co>
+<co c="0"><na f="y/Yannakakis:Mihalis" pid="y/MihalisYannakakis">Mihalis Yannakakis</na></co>
+<co c="0"><na f="z/Zadoff:Laura" pid="38/4016">Laura Zadoff</na></co>
+<co c="0"><na f="z/Zaman:Kazi_A=" pid="66/5080">Kazi A. Zaman</na></co>
+<co c="0"><na f="z/Zhang:Donghui" pid="79/2619">Donghui Zhang</na></co>
+<co c="0"><na f="z/Zhang:Wangda" pid="124/6700">Wangda Zhang</na></co>
+<co c="0"><na f="z/Zhou:Jingren" pid="84/2644">Jingren Zhou</na></co>
+</coauthors>
+</dblpperson>

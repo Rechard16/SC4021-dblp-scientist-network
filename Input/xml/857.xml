@@ -1,0 +1,1278 @@
+<dblpperson name="Torsten Grust" pid="g/TorstenGrust" n="87">
+<person key="homepages/g/TorstenGrust" mdate="2022-02-15">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<url>http://www-db.informatik.uni-tuebingen.de/team/grust</url>
+<url>https://scholar.google.com/citations?user=8z0TuC0AAAAJ</url>
+<url>https://dl.acm.org/profile/81100208294</url>
+<url>https://twitter.com/teggy</url>
+<url>https://orcid.org/0000-0002-8279-0493</url>
+<url>https://www.wikidata.org/entity/Q104735299</url>
+<note type="affiliation">Eberhard Karls University of T&#252;bingen, Department of Computer Science</note>
+</person>
+<r><inproceedings key="conf/cidr/FranzAHGMP24" mdate="2024-04-05">
+<author pid="372/1939">Kai Franz</author>
+<author pid="328/9642">Samuel Arch</author>
+<author pid="238/4353">Denis Hirn</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="65/4120">Todd C. Mowry</author>
+<author pid="58/4127">Andrew Pavlo</author>
+<title>Dear User-Defined Functions, Inlining isn't working out so great for us. Let's try batching to make our relationship work. Sincerely, SQL.</title>
+<year>2024</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2024/papers/p13-franz.pdf</ee>
+<crossref>conf/cidr/2024</crossref>
+<url>db/conf/cidr/cidr2024.html#FranzAHGMP24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/HirnG23" mdate="2023-07-19">
+<author pid="238/4353">Denis Hirn</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>A Fix for the Fixation on Fixpoints.</title>
+<year>2023</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2023/papers/p14-hirn.pdf</ee>
+<crossref>conf/cidr/2023</crossref>
+<url>db/conf/cidr/cidr2023.html#HirnG23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/padl/BurghardtHG22" mdate="2022-01-21">
+<author orcid="0000-0002-9168-9012" pid="310/8391">Tobias Burghardt</author>
+<author orcid="0000-0001-7040-1780" pid="238/4353">Denis Hirn</author>
+<author orcid="0000-0002-8279-0493" pid="g/TorstenGrust">Torsten Grust</author>
+<title>Functional Programming on Top of SQL Engines.</title>
+<pages>59-78</pages>
+<year>2022</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-94479-7_5</ee>
+<crossref>conf/padl/2022</crossref>
+<url>db/conf/padl/padl2022.html#BurghardtHG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/FischerHG22" mdate="2023-05-24">
+<author orcid="0000-0002-6625-9627" pid="38/2368-3">Tim Fischer 0003</author>
+<author pid="238/4353">Denis Hirn</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>Snakes on a Plan: Compiling Python Functions into Plain SQL Queries.</title>
+<pages>2389-2392</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3520175</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#FischerHG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tapp/Dietrich0G22" mdate="2022-05-24">
+<author pid="163/0521">Benjamin Dietrich</author>
+<author pid="59/1656-6">Tobias M&#252;ller 0006</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>Data provenance for recursive SQL queries.</title>
+<pages>9:1-9:8</pages>
+<year>2022</year>
+<booktitle>TaPP</booktitle>
+<ee>https://doi.org/10.1145/3530800.3534536</ee>
+<crossref>conf/tapp/2022</crossref>
+<url>db/conf/tapp/tapp2022.html#Dietrich0G22</url>
+</inproceedings>
+</r>
+<r><article key="journals/dbsk/Grust21" mdate="2021-06-01">
+<author orcid="0000-0002-8279-0493" pid="g/TorstenGrust">Torsten Grust</author>
+<title>From Blackboard to Green Screen.</title>
+<pages>29-39</pages>
+<year>2021</year>
+<volume>21</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s13222-020-00362-8</ee>
+<ee>https://www.wikidata.org/entity/Q104735301</ee>
+<url>db/journals/dbsk/dbsk21.html#Grust21</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/HirnG21" mdate="2021-06-21">
+<author pid="238/4353">Denis Hirn</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>One WITH RECURSIVE is Worth Many GOTOs.</title>
+<pages>723-735</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3457272</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#HirnG21</url>
+</inproceedings>
+</r>
+<r><article key="journals/jfp/Grust20" mdate="2020-12-01">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>Review of "Algorithm Design with Haskell" by Richard Bird and Jeremy Gibbons, Cambridge University Press, 2020.</title>
+<pages>e29</pages>
+<year>2020</year>
+<volume>30</volume>
+<journal>J. Funct. Program.</journal>
+<ee>https://doi.org/10.1017/S0956796820000258</ee>
+<url>db/journals/jfp/jfp30.html#Grust20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/DutaHG20" mdate="2020-03-12">
+<author pid="248/8206">Christian Duta</author>
+<author pid="238/4353">Denis Hirn</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>Compiling PL/SQL Away.</title>
+<year>2020</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2020/papers/p1-duta-cidr20.pdf</ee>
+<crossref>conf/cidr/2020</crossref>
+<url>db/conf/cidr/cidr2020.html#DutaHG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DutaG20" mdate="2022-10-02">
+<author orcid="0000-0002-8652-2111" pid="248/8206">Christian Duta</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>Functional-Style SQL UDFs With a Capital 'F'.</title>
+<pages>1273-1287</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389707</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#DutaG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HirnG20" mdate="2020-06-05">
+<author pid="238/4353">Denis Hirn</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>PL/SQL Without the PL.</title>
+<pages>2677-2680</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3384678</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#HirnG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HirnG19" mdate="2019-06-22">
+<author pid="238/4353">Denis Hirn</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>PgCuckoo: Laying Plan Eggs in PostgreSQL's Nest.</title>
+<pages>1929-1932</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3320211</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#HirnG19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/btw/2019" mdate="2019-11-13">
+<editor pid="g/TorstenGrust">Torsten Grust</editor>
+<editor pid="n/FelixNaumann">Felix Naumann</editor>
+<editor pid="92/6505">Alexander B&#246;hm 0002</editor>
+<editor pid="l/WLehner">Wolfgang Lehner</editor>
+<editor pid="h/TheoHarder">Theo H&#228;rder</editor>
+<editor pid="r/ERahm">Erhard Rahm</editor>
+<editor pid="h/AHeuer">Andreas Heuer 0001</editor>
+<editor pid="k/MeikeKlettke">Meike Klettke</editor>
+<editor pid="m/HolgerMeyer">Holger Meyer 0001</editor>
+<title>Datenbanksysteme f&#252;r Business, Technologie und Web (BTW 2019), 18. Fachtagung des GI-Fachbereichs &#8222;Datenbanken und Informationssysteme" (DBIS), 4.-8. M&#228;rz 2019, Rostock, Germany, Proceedings</title>
+<booktitle>BTW</booktitle>
+<publisher>Gesellschaft f&#252;r Informatik, Bonn</publisher>
+<year>2019</year>
+<series href="db/series/lni/index.html">LNI</series>
+<volume>P-289</volume>
+<isbn>978-3-88579-683-1</isbn>
+<ee>https://dl.gi.de/handle/20.500.12116/21526</ee>
+<url>db/conf/btw/btw2019.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-03291" mdate="2019-09-17">
+<author pid="248/8206">Christian Duta</author>
+<author pid="238/4353">Denis Hirn</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>Compiling PL/SQL Away.</title>
+<year>2019</year>
+<volume>abs/1909.03291</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.03291</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-03291</url>
+</article>
+</r>
+<r><article key="journals/jfp/CheneyG18" mdate="2022-12-07">
+<author orcid="0000-0002-1307-9286" pid="96/3253">James Cheney</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>Special Issue on Programming Languages for Big Data Editorial.</title>
+<pages>e8</pages>
+<year>2018</year>
+<volume>28</volume>
+<journal>J. Funct. Program.</journal>
+<ee>https://doi.org/10.1017/S0956796818000084</ee>
+<url>db/journals/jfp/jfp28.html#CheneyG18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/MullerDG18" mdate="2022-08-16">
+<author pid="59/1656-6">Tobias M&#252;ller 0006</author>
+<author pid="163/0521">Benjamin Dietrich</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>You Say 'What', I Hear 'Where' and 'Why'? (Mis-)Interpreting SQL to Derive Fine-Grained Provenance.</title>
+<pages>1536-1549</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1536-muller.pdf</ee>
+<ee>https://doi.org/10.14778/3236187.3236204</ee>
+<ee>https://www.wikidata.org/entity/Q113237139</ee>
+<url>db/journals/pvldb/pvldb11.html#MullerDG18</url>
+</article>
+</r>
+<r><inproceedings key="conf/tapp/OGradyMG18" mdate="2021-02-02">
+<author pid="223/0828">Daniel O'Grady</author>
+<author pid="59/1656-6">Tobias M&#252;ller 0006</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>How "How" Explains What "What" Computes - How-Provenance for SQL and Query Compilers.</title>
+<year>2018</year>
+<booktitle>TaPP</booktitle>
+<ee type="oa">https://www.usenix.org/conference/tapp2018/presentation/o%E2%80%99grady</ee>
+<crossref>conf/tapp/2018</crossref>
+<url>db/conf/tapp/tapp2018.html#OGradyMG18</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/GrustJO018" mdate="2019-02-14">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<author pid="o/FatmaOzcan">Fatma &#214;zcan</author>
+<author pid="58/3771">Cong Yu 0001</author>
+<title>XQuery Processors.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_800</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/x2.html#GrustJO018</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-11517" mdate="2020-10-27">
+<author pid="59/1656-6">Tobias M&#252;ller 0006</author>
+<author pid="163/0521">Benjamin Dietrich</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>You Say 'What', I Hear 'Where' and 'Why': (Mis-)Interpreting SQL to Derive Fine-Grained Provenance.</title>
+<year>2018</year>
+<volume>abs/1805.11517</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.11517</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-11517</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/ButtersteinG17" mdate="2023-07-04">
+<author pid="185/4381">Dennis Butterstein</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>Invest Once, Save a Million Times - LLVM-based Expression Compilation in PostgreSQL.</title>
+<pages>623-624</pages>
+<year>2017</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2017</crossref>
+<url>db/conf/btw/btw2017.html#ButtersteinG17</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/672</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbpl/Grust17" mdate="2018-11-06">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>Take everything from me, but leave me the comprehension: invited talk.</title>
+<pages>1:1</pages>
+<year>2017</year>
+<booktitle>DBPL</booktitle>
+<ee>https://doi.org/10.1145/3122831.3130856</ee>
+<crossref>conf/dbpl/2017</crossref>
+<url>db/conf/dbpl/dbpl2017.html#Grust17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbpl/KatoIG17" mdate="2018-11-06">
+<author pid="67/1744">Hiroyuki Kato</author>
+<author pid="28/2411">Yasunori Ishihara</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>DDO-Free XQuery.</title>
+<pages>4:1-4:13</pages>
+<year>2017</year>
+<booktitle>DBPL</booktitle>
+<ee>https://doi.org/10.1145/3122831.3122832</ee>
+<crossref>conf/dbpl/2017</crossref>
+<url>db/conf/dbpl/dbpl2017.html#KatoIG17</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/ButtersteinG16" mdate="2020-04-25">
+<author pid="185/4381">Dennis Butterstein</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>Precision Performance Surgery for PostgreSQL: LLVM-based Expression Compilation, Just in Time.</title>
+<pages>1517-1520</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p1517-butterstein.pdf</ee>
+<ee>https://doi.org/10.14778/3007263.3007298</ee>
+<url>db/journals/pvldb/pvldb9.html#ButtersteinG16</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/DietrichMG16" mdate="2021-01-29">
+<author pid="163/0521">Benjamin Dietrich</author>
+<author pid="59/1656-6">Tobias M&#252;ller 0006</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>The Best Bang for Your Bu(ck)g.</title>
+<pages>674-675</pages>
+<year>2016</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2016.81</ee>
+<crossref>conf/edbt/2016</crossref>
+<url>db/conf/edbt/edbt2016.html#DietrichMG16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/vldb/2016phd" mdate="2023-03-10">
+<editor pid="g/TorstenGrust">Torsten Grust</editor>
+<editor pid="k/KKarlapalem">Kamal Karlapalem</editor>
+<editor pid="58/4127">Andy Pavlo</editor>
+<title>Proceedings of the VLDB 2016 PhD Workshop co-located with the 42nd International Conference on Very Large Databases (VLDB 2016), New Delhi, India, September 9, 2016.</title>
+<booktitle>PhD@VLDB</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>1671</volume>
+<year>2016</year>
+<ee type="oa">https://ceur-ws.org/Vol-1671</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-1671-7</ee>
+<url>db/conf/vldb/phd2016.html</url>
+</proceedings>
+</r>
+<r><article key="journals/jfp/Grust15" mdate="2017-05-27">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title><i>Thinking Functionally with Haskell</i> by Richard Bird, Cambridge University Press, 2014.</title>
+<year>2015</year>
+<volume>25</volume>
+<journal>J. Funct. Program.</journal>
+<ee>https://doi.org/10.1017/S0956796815000076</ee>
+<url>db/journals/jfp/jfp25.html#Grust15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/MullerG15" mdate="2022-08-16">
+<author pid="59/1656-6">Tobias M&#252;ller 0006</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>Provenance for SQL through Abstract Interpretation: Value-less, but Worthwhile.</title>
+<pages>1872-1875</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1872-mnller.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824089</ee>
+<ee>https://www.wikidata.org/entity/Q113237164</ee>
+<url>db/journals/pvldb/pvldb8.html#MullerG15</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/DietrichG15" mdate="2018-11-06">
+<author pid="163/0521">Benjamin Dietrich</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>A SQL Debugger Built from Spare Parts: Turning a SQL: 1999 Database System into Its Own Debugger.</title>
+<pages>865-870</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2735358</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#DietrichG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/UlrichG15" mdate="2018-11-06">
+<author pid="18/7857">Alexander Ulrich</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>The Flatter, the Better: Query Compilation Based on the Flattening Transformation.</title>
+<pages>1421-1426</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2735359</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#UlrichG15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/CheneyGV14" mdate="2017-06-07">
+<author pid="96/3253">James Cheney</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="00/6362">Dimitrios Vytiniotis</author>
+<title>Programming Languages for Big Data (PlanBig) (Dagstuhl Seminar 14511).</title>
+<pages>48-67</pages>
+<year>2014</year>
+<volume>4</volume>
+<journal>Dagstuhl Reports</journal>
+<number>12</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.4.12.48</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports4.html#CheneyGV14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GrustSU13" mdate="2022-08-16">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="17/10734">Nils Schweinsberg</author>
+<author pid="18/7857">Alexander Ulrich</author>
+<title>Functions Are Data Too (Defunctionalization for PL/SQL).</title>
+<pages>1214-1217</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p1214-grust.pdf</ee>
+<ee>https://doi.org/10.14778/2536274.2536279</ee>
+<ee>https://www.wikidata.org/entity/Q113237175</ee>
+<url>db/journals/pvldb/pvldb6.html#GrustSU13</url>
+</article>
+</r>
+<r><article key="journals/tods/GrustR13" mdate="2022-06-10">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<title>Observing SQL queries in their natural habitat.</title>
+<pages>3</pages>
+<year>2013</year>
+<volume>38</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2445583.2445586</ee>
+<url>db/journals/tods/tods38.html#GrustR13</url>
+</article>
+</r>
+<r><inproceedings key="conf/padl/GiorgidzeGHK13" mdate="2017-05-17">
+<author pid="93/5778">George Giorgidze</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="90/8308">Iassen Halatchliyski</author>
+<author pid="139/1527">Michael E. Kummer</author>
+<title>Analysing the Entire Wikipedia History with Database Supported Haskell.</title>
+<pages>19-25</pages>
+<year>2013</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-45284-0_2</ee>
+<crossref>conf/padl/2013</crossref>
+<url>db/conf/padl/padl2013.html#GiorgidzeGHK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/popl/GiorgidzeGUW12" mdate="2018-11-06">
+<author pid="93/5778">George Giorgidze</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="18/7857">Alexander Ulrich</author>
+<author pid="99/10310">Jeroen Weijers</author>
+<title>Algebraic data types for language-integrated queries.</title>
+<pages>5-10</pages>
+<year>2013</year>
+<booktitle>DDFP</booktitle>
+<ee>https://doi.org/10.1145/2429376.2429379</ee>
+<crossref>conf/popl/2013ddfp</crossref>
+<url>db/conf/popl/ddfp2013.html#GiorgidzeGUW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/GrustU13" mdate="2018-08-13">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="18/7857">Alexander Ulrich</author>
+<title>First-Class Functions for First-Order Database Engines.</title>
+<booktitle>DBPL</booktitle>
+<year>2013</year>
+<ee type="oa">http://arxiv.org/abs/1308.0158</ee>
+<crossref>journals/corr/GreenS13</crossref>
+<url>db/conf/dbpl/dbpl2013.html#GrustU13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GrustM12" mdate="2023-03-23">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="36/177">Manuel Mayr</author>
+<title>A Deep Embedding of Queries into Ruby.</title>
+<pages>1257-1260</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.121</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2012.121</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#GrustM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/GrustKRS11" mdate="2018-11-06">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="93/9378">Fabian Kliebhan</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="93/7116">Tom Schreiber</author>
+<title>True language-level SQL debugging.</title>
+<pages>562-565</pages>
+<year>2011</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1951365.1951441</ee>
+<crossref>conf/edbt/2011</crossref>
+<url>db/conf/edbt/edbt2011.html#GrustKRS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/haskell/GiorgidzeGSW11" mdate="2021-06-24">
+<author pid="93/5778">George Giorgidze</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="17/10734">Nils Schweinsberg</author>
+<author pid="99/10310">Jeroen Weijers</author>
+<title>Bringing back monad comprehensions.</title>
+<pages>13-22</pages>
+<year>2011</year>
+<booktitle>Haskell</booktitle>
+<ee>https://doi.org/10.1145/2034675.2034678</ee>
+<ee>https://doi.org/10.1145/2096148.2034678</ee>
+<crossref>conf/haskell/2011</crossref>
+<url>db/conf/haskell/haskell2011.html#GiorgidzeGSW11</url>
+</inproceedings>
+</r>
+<r><article key="journals/dbsk/Grust10" mdate="2017-05-18">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>Der Lehrstuhl f&#252;r Datenbanksysteme am Wilhelm-Schickard-Institut der Universit&#228;t T&#252;bingen.</title>
+<pages>105-106</pages>
+<year>2010</year>
+<volume>10</volume>
+<journal>Datenbank-Spektrum</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s13222-010-0013-7</ee>
+<url>db/journals/dbsk/dbsk10.html#Grust10</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GrustRS10" mdate="2020-04-25">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="93/7116">Tom Schreiber</author>
+<title>Avalanche-Safe LINQ Compilation.</title>
+<pages>162-172</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R14.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920866</ee>
+<url>db/journals/pvldb/pvldb3.html#GrustRS10</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SchreiberBGMR10" mdate="2022-08-16">
+<author pid="93/7116">Tom Schreiber</author>
+<author pid="27/8510">Simone Bonetti</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="36/177">Manuel Mayr</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<title>Thirteen New Players in the Team: A Ferry-based LINQ to SQL Provider.</title>
+<pages>1549-1552</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/D09.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1921035</ee>
+<ee>https://www.wikidata.org/entity/Q113237184</ee>
+<url>db/journals/pvldb/pvldb3.html#SchreiberBGMR10</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/GrustMR10" mdate="2018-11-06">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="36/177">Manuel Mayr</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<title>Let SQL drive the XQuery workhorse (XQuery join graph isolation).</title>
+<pages>147-158</pages>
+<year>2010</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1739041.1739062</ee>
+<crossref>conf/edbt/2010</crossref>
+<url>db/conf/edbt/edbt2010.html#GrustMR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifl/GiorgidzeGSW10" mdate="2017-05-25">
+<author pid="93/5778">George Giorgidze</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="93/7116">Tom Schreiber</author>
+<author pid="99/10310">Jeroen Weijers</author>
+<title>Haskell Boards the Ferry - Database-Supported Program Execution for Haskell.</title>
+<pages>1-18</pages>
+<year>2010</year>
+<booktitle>IFL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-24276-2_1</ee>
+<crossref>conf/ifl/2010</crossref>
+<url>db/conf/ifl/ifl2010.html#GiorgidzeGSW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/AfanasievGMRT09" mdate="2019-10-19">
+<author pid="36/3556">Loredana Afanasiev</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author orcid="0000-0003-3255-3729" pid="m/MaartenMarx">Maarten Marx</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Recursion in XQuery: put your distributivity safety belt on.</title>
+<pages>345-356</pages>
+<year>2009</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1516360.1516401</ee>
+<crossref>conf/edbt/2009</crossref>
+<url>db/conf/edbt/edbt2009.html#AfanasievGMRT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GrustMR09" mdate="2023-03-24">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="36/177">Manuel Mayr</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<title>XQuery Join Graph Isolation: Celebrating 30+ Years of XQuery Processing Technology.</title>
+<pages>1167-1170</pages>
+<year>2009</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2009.192</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2009.192</ee>
+<crossref>conf/icde/2009</crossref>
+<url>db/conf/icde/icde2009.html#GrustMR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GrustMRS09" mdate="2018-11-06">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="36/177">Manuel Mayr</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="93/7116">Tom Schreiber</author>
+<title>FERRY: database-supported program execution.</title>
+<pages>1063-1066</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559982</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#GrustMRS09</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/GrustJOY09" mdate="2017-07-12">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<author pid="o/FatmaOzcan">Fatma &#214;zcan</author>
+<author pid="58/3771">Cong Yu 0001</author>
+<title>XQuery Processors.</title>
+<pages>3671-3676</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_800</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/x.html#GrustJOY09</url>
+</incollection>
+</r>
+<r><article key="journals/debu/GrustRT08" mdate="2020-03-10">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Pathfinder: XQuery Off the Relational Shelf.</title>
+<pages>7-14</pages>
+<year>2008</year>
+<volume>31</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A08dec/pathfinder.pdf</ee>
+<url>db/journals/debu/debu31.html#GrustRT08</url>
+</article>
+</r>
+<r><article key="journals/pvldb/TeubnerGMS08" mdate="2020-04-25">
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="m/SebastianManeth">Sebastian Maneth</author>
+<author pid="s/SherifSakr">Sherif Sakr</author>
+<title>Dependable cardinality forecasts for XQuery.</title>
+<pages>463-477</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1453908.pdf</ee>
+<ee>https://doi.org/10.14778/1453856.1453908</ee>
+<url>db/journals/pvldb/pvldb1.html#TeubnerGMS08</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/AfanasievGMRT08" mdate="2023-03-24">
+<author pid="36/3556">Loredana Afanasiev</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author orcid="0000-0003-3255-3729" pid="m/MaartenMarx">Maarten Marx</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>An Inflationary Fixed Point Operator in XQuery.</title>
+<pages>1504-1506</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497604</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497604</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#AfanasievGMRT08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AulbachGJKR08" mdate="2018-11-06">
+<author pid="67/6041">Stefan Aulbach</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="96/2901">Dean Jacobs</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<title>Multi-tenant databases for software as a service: schema-mapping techniques.</title>
+<pages>1195-1206</pages>
+<year>2008</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1376616.1376736</ee>
+<crossref>conf/sigmod/2008</crossref>
+<url>db/conf/sigmod/sigmod2008.html#AulbachGJKR08</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0810-4809" mdate="2018-08-13">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="36/177">Manuel Mayr</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<title>XQuery Join Graph Isolation</title>
+<ee type="oa">http://arxiv.org/abs/0810.4809</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0810.4809</volume>
+<url>db/journals/corr/corr0810.html#abs-0810-4809</url>
+</article>
+</r>
+<r><article key="journals/sigmod/CareyG07" mdate="2020-03-06">
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>Report on the Third International Workshop on XQuery Implementation, Experience and Perspectives (XIME-P 2006).</title>
+<pages>35-37</pages>
+<year>2007</year>
+<volume>36</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1328854.1328862</ee>
+<url>db/journals/sigmod/sigmod36.html#CareyG07</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/RittingerTG07" mdate="2011-05-31">
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>Pathfinder: A Relational Query Optimizer Explores XQuery Terrain.</title>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings103/article1429.html</ee>
+<pages>617-620</pages>
+<year>2007</year>
+<crossref>conf/btw/2007</crossref>
+<booktitle>BTW</booktitle>
+<url>db/conf/btw/btw2007.html#RittingerTG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GrustRT07" mdate="2023-03-24">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>eXrQuy: Order Indifference in XQuery.</title>
+<pages>226-235</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.367868</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2007.367868</ee>
+<url>db/conf/icde/icde2007.html#GrustRT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GrustRT07" mdate="2018-11-06">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Why off-the-shelf RDBMSs are better at XPath than you might expect.</title>
+<pages>949-958</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247591</ee>
+<url>db/conf/sigmod/sigmod2007.html#GrustRT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GrustMRST07" mdate="2019-06-02">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="36/177">Manuel Mayr</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author orcid="0000-0002-2503-523X" pid="s/SherifSakr">Sherif Sakr</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>A SQL: 1999 code generator for the pathfinder xquery compiler.</title>
+<pages>1162-1164</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247642</ee>
+<ee>https://www.wikidata.org/entity/Q62752783</ee>
+<url>db/conf/sigmod/sigmod2007.html#GrustMRST07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ximep/GrustRT07" mdate="2018-11-06">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Data-intensive XQuery debugging with instant replay.</title>
+<year>2007</year>
+<crossref>conf/ximep/2007</crossref>
+<booktitle>XIME-P</booktitle>
+<ee>https://doi.org/10.1145/1328158.1328162</ee>
+<url>db/conf/ximep/ximep2007.html#GrustRT07</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dagstuhl/2006P6472" mdate="2021-06-10">
+<editor pid="b/PeterABoncz">Peter A. Boncz</editor>
+<editor pid="g/TorstenGrust">Torsten Grust</editor>
+<editor pid="15/4061">J&#233;r&#244;me Sim&#233;on</editor>
+<editor pid="k/MauricevanKeulen">Maurice van Keulen</editor>
+<title>XQuery Implementation Paradigms, 19.11. - 22.11.2006</title>
+<booktitle>XQuery Implementation Paradigms</booktitle>
+<volume>06472</volume>
+<year>2007</year>
+<publisher>Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI), Schloss Dagstuhl, Germany</publisher>
+<series href="db/series/dagstuhl/index.html">Dagstuhl Seminar Proceedings</series>
+<url>db/conf/dagstuhl/P6472.html</url>
+<ee type="oa">http://drops.dagstuhl.de/portals/06472/</ee>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0711-3375" mdate="2018-08-13">
+<author pid="36/3556">Loredana Afanasiev</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="m/MaartenMarx">Maarten Marx</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>An Inflationary Fixed Point Operator in XQuery</title>
+<ee type="oa">http://arxiv.org/abs/0711.3375</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0711.3375</volume>
+<url>db/journals/corr/corr0711.html#abs-0711-3375</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/BonczFGKMMRT06" mdate="2017-06-02">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="f/JanFlokstra">Jan Flokstra</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author orcid="0000-0003-2436-1372" pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="66/4188">K. Sjoerd Mullender</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>MonetDB/XQuery-Consistent and Efficient Updates on the Pre/Post Plane.</title>
+<pages>1190-1193</pages>
+<year>2006</year>
+<crossref>conf/edbt/2006</crossref>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1007/11687238_89</ee>
+<url>db/conf/edbt/edbt2006.html#BonczFGKMMRT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BonczGKMRT06" mdate="2018-11-06">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author orcid="0000-0003-2436-1372" pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>MonetDB/XQuery: a fast XQuery processor powered by a relational engine.</title>
+<pages>479-490</pages>
+<year>2006</year>
+<crossref>conf/sigmod/2006</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1142473.1142527</ee>
+<url>db/conf/sigmod/sigmod2006.html#BonczGKMRT06</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/edbt/2006" mdate="2024-01-30">
+<editor pid="i/YEIoannidis">Yannis E. Ioannidis</editor>
+<editor orcid="0000-0002-4304-4092" pid="s/MarcHScholl">Marc H. Scholl</editor>
+<editor pid="s/JoachimWSchmidt">Joachim W. Schmidt</editor>
+<editor pid="m/FlorianMatthes">Florian Matthes</editor>
+<editor pid="54/6350">Michael Hatzopoulos</editor>
+<editor pid="b/KBohm">Klemens B&#246;hm</editor>
+<editor pid="k/AlfonsKemper">Alfons Kemper</editor>
+<editor pid="g/TorstenGrust">Torsten Grust</editor>
+<editor pid="323/2652-1">Christian B&#246;hm 0001</editor>
+<title>Advances in Database Technology - EDBT 2006, 10th International Conference on Extending Database Technology, Munich, Germany, March 26-31, 2006, Proceedings</title>
+<volume>3896</volume>
+<year>2006</year>
+<isbn>3-540-32960-9</isbn>
+<booktitle>EDBT</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<ee>https://doi.org/10.1007/11687238</ee>
+<ee>https://www.wikidata.org/entity/Q119145619</ee>
+<url>db/conf/edbt/edbt2006.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/edbtw/2006" mdate="2019-05-14">
+<editor pid="g/TorstenGrust">Torsten Grust</editor>
+<editor pid="h/HHopfner">Hagen H&#246;pfner</editor>
+<editor pid="98/2200">Arantza Illarramendi</editor>
+<editor pid="j/StefanJablonski">Stefan Jablonski</editor>
+<editor pid="48/4862">Marco Mesiti</editor>
+<editor pid="m/SaschaMuller-4">Sascha M&#252;ller 0004</editor>
+<editor pid="p/PaulaLaviniaPatranjan">Paula-Lavinia Patranjan</editor>
+<editor pid="s/KaiUweSattler">Kai-Uwe Sattler</editor>
+<editor pid="s/MyraSpiliopoulou">Myra Spiliopoulou</editor>
+<editor pid="w/JefWijsen">Jef Wijsen</editor>
+<title>Current Trends in Database Technology - EDBT 2006, EDBT 2006 Workshops PhD, DataX, IIDB, IIHA, ICSNW, QLQP, PIM, PaRMA, and Reactivity on the Web, Munich, Germany, March 26-31, 2006, Revised Selected Papers</title>
+<booktitle>EDBT Workshops</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>4254</volume>
+<publisher>Springer</publisher>
+<year>2006</year>
+<isbn>3-540-46788-2</isbn>
+<ee>https://doi.org/10.1007/11896548</ee>
+<url>db/conf/edbtw/edbtw2006.html</url>
+</proceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/BonczGSK06" mdate="2018-08-23">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="15/4061">J&#233;r&#244;me Sim&#233;on</author>
+<author pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<title>06472 Executive Summary -- XQuery Implementation Paradigms.</title>
+<year>2006</year>
+<booktitle>XQuery Implementation Paradigms</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2007/1022</ee>
+<crossref>conf/dagstuhl/2006P6472</crossref>
+<url>db/conf/dagstuhl/P6472.html#BonczGSK06</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/BonczGSK06a" mdate="2018-08-23">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="15/4061">J&#233;r&#244;me Sim&#233;on</author>
+<author pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<title>06472 Abstracts Collection -- XQuery Implementation Paradigms.</title>
+<year>2006</year>
+<booktitle>XQuery Implementation Paradigms</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2007/893</ee>
+<crossref>conf/dagstuhl/2006P6472</crossref>
+<url>db/conf/dagstuhl/P6472.html#BonczGSK06a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/BonczGKMRT05" mdate="2020-03-12">
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="r/JanRittinger">Jan Rittinger</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Pathfinder: XQuery - The Relational Way.</title>
+<pages>1322-1325</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2005/papers/p1322-boncz.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083764</ee>
+<url>db/conf/vldb/vldb2005.html#BonczGKMRT05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ximep/Grust05" mdate="2020-03-12">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>Purely Relational FLWORs.</title>
+<year>2005</year>
+<crossref>conf/ximep/2005</crossref>
+<booktitle>XIME-P</booktitle>
+<ee type="oa">http://www.ximeco.org/Xime/PurelyRelationalFLWORsGrust.pdf</ee>
+<url>db/conf/ximep/ximep2005.html#Grust05</url>
+</inproceedings>
+</r>
+<r><article key="journals/tods/GrustKT04" mdate="2018-11-06">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author orcid="0000-0003-2436-1372" pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Accelerating XPath evaluation in any RDBMS.</title>
+<pages>91-131</pages>
+<year>2004</year>
+<volume>29</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<ee>https://doi.org/10.1145/974750.974754</ee>
+<url>db/journals/tods/tods29.html#GrustKT04</url>
+</article>
+</r>
+<r><inproceedings key="conf/tdm/GrustT04" mdate="2007-02-28">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Relational Algebra: Mother Tongue - XQuery: Fluent.</title>
+<pages>9-16</pages>
+<year>2004</year>
+<crossref>conf/tdm/2004</crossref>
+<booktitle>TDM</booktitle>
+<ee>http://www.ctit.utwente.nl/library/proceedings/tdm04.pdf</ee>
+<url>db/conf/tdm/tdm2004.html#GrustT04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/GrustST04" mdate="2019-06-07">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="s/SherifSakr">Sherif Sakr</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>XQuery on SQL Hosts.</title>
+<year>2004</year>
+<crossref>conf/vldb/2004</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2004.html#GrustST04</url>
+<pages>252-263</pages>
+<ee>http://www.vldb.org/conf/2004/RS7P1.PDF</ee>
+<ee>https://doi.org/10.1016/B978-012088469-8.50025-5</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/MayerGKT04" mdate="2019-06-07">
+<author pid="19/1463">Sabine Mayer</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>An Injection of Tree Awareness: Adding Staircase Join to PostgreSQL.</title>
+<pages>1305-1308</pages>
+<year>2004</year>
+<crossref>conf/vldb/2004</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://www.vldb.org/conf/2004/DEMP14.PDF</ee>
+<ee>https://doi.org/10.1016/B978-012088469-8.50133-9</ee>
+<url>db/conf/vldb/vldb2004.html#MayerGKT04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ximep/GrustK04" mdate="2004-06-24">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="74/1951">Stefan Klinger</author>
+<title>Schema Validation and Type Annotation for Encoded Trees.</title>
+<pages>55-60</pages>
+<year>2004</year>
+<crossref>conf/ximep/2004</crossref>
+<booktitle>XIME-P</booktitle>
+<url>db/conf/ximep/ximep2004.html#GrustK04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gvd/TeubnerGK03" mdate="2003-06-03">
+<author pid="t/JensTeubner">Jens Teubner</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<title>Bridging the GAP Between Relational and Native XML Storage with Staircase Join.</title>
+<pages>85-89</pages>
+<year>2003</year>
+<crossref>conf/gvd/2003</crossref>
+<booktitle>Grundlagen von Datenbanken</booktitle>
+<url>db/conf/gvd/gvd2003.html#TeubnerGK03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/GrustKT03" mdate="2020-03-12">
+<ee type="oa">http://www.vldb.org/conf/2003/papers/S16P03.pdf</ee>
+<ee>https://doi.org/10.1016/B978-012722442-8/50053-7</ee>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<author pid="t/JensTeubner">Jens Teubner</author>
+<title>Staircase Join: Teach a Relational DBMS to Watch its (Axis) Steps.</title>
+<year>2003</year>
+<crossref>conf/vldb/2003</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2003.html#GrustKT03</url>
+<pages>524-525</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/xml/GrustK03" mdate="2017-05-23">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<title>Tree Awareness for Relational DBMS Kernels: Staircase Join.</title>
+<pages>231-245</pages>
+<ee>https://doi.org/10.1007/978-3-540-45194-5_16</ee>
+<year>2003</year>
+<crossref>conf/xml/2003</crossref>
+<booktitle>Intelligent Search on XML Data</booktitle>
+<url>db/conf/xml/xml2003.html#GrustK03</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/vldb/2003phd" mdate="2023-03-10">
+<editor orcid="0000-0002-4304-4092" pid="s/MarcHScholl">Marc H. Scholl</editor>
+<editor pid="g/TorstenGrust">Torsten Grust</editor>
+<title>Proceedings of the VLDB 2003 PhD Workshop. Co-located with the 29th International Conference on Very Large Data Bases (VLDB 2003). Berlin, September 12-13, 2003</title>
+<booktitle>VLDB PhD Workshop</booktitle>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<publisher>CEUR-WS.org</publisher>
+<year>2003</year>
+<volume>76</volume>
+<ee type="oa">https://ceur-ws.org/Vol-76</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-76-9</ee>
+<url>db/conf/vldb/vldb2003phd.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Grust02" mdate="2018-11-06">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>Accelerating XPath location steps.</title>
+<pages>109-120</pages>
+<year>2002</year>
+<crossref>conf/sigmod/2002</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/564691.564705</ee>
+<url>db/conf/sigmod/sigmod2002.html#Grust02</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/edbt/2000" mdate="2022-06-23">
+<editor pid="z/CZaniolo">Carlo Zaniolo</editor>
+<editor pid="l/PCLockemann">Peter C. Lockemann</editor>
+<editor orcid="0000-0002-4304-4092" pid="s/MarcHScholl">Marc H. Scholl</editor>
+<editor pid="g/TorstenGrust">Torsten Grust</editor>
+<title>Advances in Database Technology - EDBT 2000, 7th International Conference on Extending Database Technology, Konstanz, Germany, March 27-31, 2000, Proceedings</title>
+<booktitle>EDBT</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>1777</volume>
+<publisher>Springer</publisher>
+<year>2000</year>
+<isbn>3-540-67227-3</isbn>
+<ee>https://doi.org/10.1007/3-540-46439-5</ee>
+<url>db/conf/edbt/edbt2000.html</url>
+</proceedings>
+</r>
+<r><phdthesis key="books/daglib/0008584" mdate="2021-07-17">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>Comprehending queries.</title>
+<pages>I-VIII, 1-161</pages>
+<school>University of Konstanz, Germany</school>
+<year>1999</year>
+<ee>http://www.ub.uni-konstanz.de/kops/volltexte/1999/312/312_1.pdf</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:bsz:352-opus-3120</ee>
+<ee>https://d-nb.info/957714041</ee>
+</phdthesis>
+</r>
+<r><article key="journals/jiis/GrustS99" mdate="2022-06-23">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author orcid="0000-0002-4304-4092" pid="s/MarcHScholl">Marc H. Scholl</author>
+<title>How to Comprehend Queries Functionally.</title>
+<pages>191-218</pages>
+<year>1999</year>
+<volume>12</volume>
+<journal>J. Intell. Inf. Syst.</journal>
+<number>2-3</number>
+<url>db/journals/jiis/jiis12.html#GrustS99</url>
+<ee>https://doi.org/10.1023/A:1008705026446</ee>
+</article>
+</r>
+<r><incollection key="conf/gi/Grust99" mdate="2021-09-24">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>Comprehending Queries.</title>
+<pages>74-83</pages>
+<year>1999</year>
+<booktitle>Ausgezeichnete Informatikdissertationen</booktitle>
+<ee>https://doi.org/10.1007/978-3-322-84823-9_7</ee>
+<crossref>conf/gi/1999diss</crossref>
+<url>db/conf/gi/diss1999.html#Grust99</url>
+</incollection>
+</r>
+<r><proceedings key="conf/gvd/1998" mdate="2008-06-10">
+<editor pid="s/MarcHScholl">Marc H. Scholl</editor>
+<editor pid="91/2981">Holger Riedel</editor>
+<editor pid="g/TorstenGrust">Torsten Grust</editor>
+<editor pid="02/5602">Dieter Gluche</editor>
+<title>Kurzfassungen - 10. Workshop "Grundlagen von Datenbanken", Workshop des GI-Arbeitskreises in Konstanz, 2.6.-5.6.1998</title>
+<series>Konstanzer Schriften in Mathematik und Informatik</series>
+<volume>63</volume>
+<booktitle>Grundlagen von Datenbanken</booktitle>
+<year>1998</year>
+<publisher>Universit&#228;t Konstanz</publisher>
+<url>db/conf/gvd/gvd98.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/bncod/GrustKGHS97" mdate="2022-06-23">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="00/6347">Joachim Kr&#246;ger</author>
+<author pid="02/5602">Dieter Gluche</author>
+<author pid="h/AHeuer">Andreas Heuer 0001</author>
+<author orcid="0000-0002-4304-4092" pid="s/MarcHScholl">Marc H. Scholl</author>
+<title>Query Evaluation in CROQUE - Calculus and Algebra Coincide.</title>
+<pages>84-100</pages>
+<year>1997</year>
+<crossref>conf/bncod/1997</crossref>
+<booktitle>BNCOD</booktitle>
+<url>db/conf/bncod/bncod97.html#GrustKGHS97</url>
+<ee>https://doi.org/10.1007/3-540-63263-8_6</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dood/GlucheGMS97" mdate="2022-06-23">
+<author pid="02/5602">Dieter Gluche</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="32/6194">Christof Mainberger</author>
+<author orcid="0000-0002-4304-4092" pid="s/MarcHScholl">Marc H. Scholl</author>
+<title>Incremental Updates for Materialized OQL Views.</title>
+<pages>52-66</pages>
+<year>1997</year>
+<crossref>conf/dood/1997</crossref>
+<booktitle>DOOD</booktitle>
+<url>db/conf/dood/dood97.html#GlucheGMS97</url>
+<ee>https://doi.org/10.1007/3-540-63792-3_8</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gvd/GlucheGMS97" mdate="2019-07-26">
+<author pid="02/5602">Dieter Gluche</author>
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<author pid="32/6194">Christof Mainberger</author>
+<author pid="s/MarcHScholl">Marc H. Scholl</author>
+<title>Incremental Updates for Materialized Views with User-Defined Functions.</title>
+<pages>21-25</pages>
+<year>1997</year>
+<crossref>conf/gvd/1997</crossref>
+<booktitle>Grundlagen von Datenbanken</booktitle>
+<url>db/conf/gvd/gvd97.html#GlucheGMS97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gvd/Grust96" mdate="2019-07-26">
+<author pid="g/TorstenGrust">Torsten Grust</author>
+<title>Monoid Comprehensions as a Target for the Translation of OQL.</title>
+<pages>31-35</pages>
+<year>1996</year>
+<crossref>conf/gvd/1996</crossref>
+<booktitle>Grundlagen von Datenbanken</booktitle>
+<url>db/conf/gvd/gvd96.html#Grust96</url>
+</inproceedings>
+</r>
+<coauthors n="78" nc="4">
+<co c="0"><na f="a/Afanasiev:Loredana" pid="36/3556">Loredana Afanasiev</na></co>
+<co c="0"><na f="a/Arch:Samuel" pid="328/9642">Samuel Arch</na></co>
+<co c="0"><na f="a/Aulbach:Stefan" pid="67/6041">Stefan Aulbach</na></co>
+<co c="0"><na f="b/B=ouml=hm_0002:Alexander" pid="92/6505">Alexander B&#246;hm 0002</na></co>
+<co c="0"><na f="b/B=ouml=hm_0001:Christian" pid="323/2652-1">Christian B&#246;hm 0001</na></co>
+<co c="0"><na f="b/B=ouml=hm:Klemens" pid="b/KBohm">Klemens B&#246;hm</na></co>
+<co c="0"><na f="b/Boncz:Peter_A=" pid="b/PeterABoncz">Peter A. Boncz</na></co>
+<co c="0"><na f="b/Bonetti:Simone" pid="27/8510">Simone Bonetti</na></co>
+<co c="0"><na f="b/Burghardt:Tobias" pid="310/8391">Tobias Burghardt</na></co>
+<co c="-1"><na f="b/Butterstein:Dennis" pid="185/4381">Dennis Butterstein</na></co>
+<co c="0"><na f="c/Carey_0001:Michael_J=" pid="31/3455">Michael J. Carey 0001</na></co>
+<co c="2"><na f="c/Cheney:James" pid="96/3253">James Cheney</na></co>
+<co c="1"><na f="d/Dietrich:Benjamin" pid="163/0521">Benjamin Dietrich</na></co>
+<co c="0"><na f="d/Duta:Christian" pid="248/8206">Christian Duta</na></co>
+<co c="0"><na f="f/Fischer_0003:Tim" pid="38/2368-3">Tim Fischer 0003</na></co>
+<co c="0"><na f="f/Flokstra:Jan" pid="f/JanFlokstra">Jan Flokstra</na></co>
+<co c="0"><na f="f/Franz:Kai" pid="372/1939">Kai Franz</na></co>
+<co c="0"><na f="g/Giorgidze:George" pid="93/5778">George Giorgidze</na></co>
+<co c="0"><na f="g/Gluche:Dieter" pid="02/5602">Dieter Gluche</na></co>
+<co c="0"><na f="h/Halatchliyski:Iassen" pid="90/8308">Iassen Halatchliyski</na></co>
+<co c="0"><na f="h/H=auml=rder:Theo" pid="h/TheoHarder">Theo H&#228;rder</na></co>
+<co c="0"><na f="h/Hatzopoulos:Michael" pid="54/6350">Michael Hatzopoulos</na></co>
+<co c="0"><na f="h/Heuer_0001:Andreas" pid="h/AHeuer">Andreas Heuer 0001</na></co>
+<co c="0"><na f="h/Hirn:Denis" pid="238/4353">Denis Hirn</na></co>
+<co c="0"><na f="h/H=ouml=pfner:Hagen" pid="h/HHopfner">Hagen H&#246;pfner</na></co>
+<co c="0"><na f="i/Illarramendi:Arantza" pid="98/2200">Arantza Illarramendi</na></co>
+<co c="0"><na f="i/Ioannidis:Yannis_E=" pid="i/YEIoannidis">Yannis E. Ioannidis</na></co>
+<co c="3"><na f="i/Ishihara:Yasunori" pid="28/2411">Yasunori Ishihara</na></co>
+<co c="0"><na f="j/Jablonski:Stefan" pid="j/StefanJablonski">Stefan Jablonski</na></co>
+<co c="0"><na f="j/Jacobs:Dean" pid="96/2901">Dean Jacobs</na></co>
+<co c="0"><na f="j/Jagadish:H=_V=" pid="j/HVJagadish">H. V. Jagadish</na></co>
+<co c="0" n="2"><na f="k/Karlapalem:Kamalakar" pid="k/KKarlapalem">Kamalakar Karlapalem</na><na>Kamal Karlapalem</na></co>
+<co c="3"><na f="k/Kato:Hiroyuki" pid="67/1744">Hiroyuki Kato</na></co>
+<co c="0"><na f="k/Kemper:Alfons" pid="k/AlfonsKemper">Alfons Kemper</na></co>
+<co c="0"><na f="k/Keulen:Maurice_van" pid="k/MauricevanKeulen">Maurice van Keulen</na></co>
+<co c="0"><na f="k/Klettke:Meike" pid="k/MeikeKlettke">Meike Klettke</na></co>
+<co c="0"><na f="k/Kliebhan:Fabian" pid="93/9378">Fabian Kliebhan</na></co>
+<co c="0"><na f="k/Klinger:Stefan" pid="74/1951">Stefan Klinger</na></co>
+<co c="0"><na f="k/Kr=ouml=ger:Joachim" pid="00/6347">Joachim Kr&#246;ger</na></co>
+<co c="0"><na f="k/Kummer:Michael_E=" pid="139/1527">Michael E. Kummer</na></co>
+<co c="0"><na f="l/Lehner:Wolfgang" pid="l/WLehner">Wolfgang Lehner</na></co>
+<co c="0"><na f="l/Lockemann:Peter_C=" pid="l/PCLockemann">Peter C. Lockemann</na></co>
+<co c="0"><na f="m/Mainberger:Christof" pid="32/6194">Christof Mainberger</na></co>
+<co c="0"><na f="m/Manegold:Stefan" pid="m/StefanManegold">Stefan Manegold</na></co>
+<co c="0"><na f="m/Maneth:Sebastian" pid="m/SebastianManeth">Sebastian Maneth</na></co>
+<co c="0"><na f="m/Marx:Maarten" pid="m/MaartenMarx">Maarten Marx</na></co>
+<co c="0"><na f="m/Matthes:Florian" pid="m/FlorianMatthes">Florian Matthes</na></co>
+<co c="0"><na f="m/Mayer:Sabine" pid="19/1463">Sabine Mayer</na></co>
+<co c="0"><na f="m/Mayr:Manuel" pid="36/177">Manuel Mayr</na></co>
+<co c="0"><na f="m/Mesiti:Marco" pid="48/4862">Marco Mesiti</na></co>
+<co c="0"><na f="m/Meyer_0001:Holger" pid="m/HolgerMeyer">Holger Meyer 0001</na></co>
+<co c="0"><na f="m/Mowry:Todd_C=" pid="65/4120">Todd C. Mowry</na></co>
+<co c="0"><na f="m/Mullender:K=_Sjoerd" pid="66/4188">K. Sjoerd Mullender</na></co>
+<co c="0"><na f="m/M=uuml=ller_0004:Sascha" pid="m/SaschaMuller-4">Sascha M&#252;ller 0004</na></co>
+<co c="1"><na f="m/M=uuml=ller_0006:Tobias" pid="59/1656-6">Tobias M&#252;ller 0006</na></co>
+<co c="0"><na f="n/Naumann:Felix" pid="n/FelixNaumann">Felix Naumann</na></co>
+<co c="1"><na f="o/O=Grady:Daniel" pid="223/0828">Daniel O'Grady</na></co>
+<co c="0"><na f="=/=Ouml=zcan:Fatma" pid="o/FatmaOzcan">Fatma &#214;zcan</na></co>
+<co c="0"><na f="p/Patranjan:Paula=Lavinia" pid="p/PaulaLaviniaPatranjan">Paula-Lavinia Patranjan</na></co>
+<co c="0" n="2"><na f="p/Pavlo:Andrew" pid="58/4127">Andrew Pavlo</na><na>Andy Pavlo</na></co>
+<co c="0"><na f="r/Rahm:Erhard" pid="r/ERahm">Erhard Rahm</na></co>
+<co c="0"><na f="r/Riedel:Holger" pid="91/2981">Holger Riedel</na></co>
+<co c="0"><na f="r/Rittinger:Jan" pid="r/JanRittinger">Jan Rittinger</na></co>
+<co c="0"><na f="s/Sakr:Sherif" pid="s/SherifSakr">Sherif Sakr</na></co>
+<co c="0"><na f="s/Sattler:Kai=Uwe" pid="s/KaiUweSattler">Kai-Uwe Sattler</na></co>
+<co c="0"><na f="s/Schmidt:Joachim_W=" pid="s/JoachimWSchmidt">Joachim W. Schmidt</na></co>
+<co c="0"><na f="s/Scholl:Marc_H=" pid="s/MarcHScholl">Marc H. Scholl</na></co>
+<co c="0"><na f="s/Schreiber:Tom" pid="93/7116">Tom Schreiber</na></co>
+<co c="0"><na f="s/Schweinsberg:Nils" pid="17/10734">Nils Schweinsberg</na></co>
+<co c="0"><na f="s/Sim=eacute=on:J=eacute=r=ocirc=me" pid="15/4061">J&#233;r&#244;me Sim&#233;on</na></co>
+<co c="0"><na f="s/Spiliopoulou:Myra" pid="s/MyraSpiliopoulou">Myra Spiliopoulou</na></co>
+<co c="0"><na f="t/Teubner:Jens" pid="t/JensTeubner">Jens Teubner</na></co>
+<co c="0"><na f="u/Ulrich:Alexander" pid="18/7857">Alexander Ulrich</na></co>
+<co c="2"><na f="v/Vytiniotis:Dimitrios" pid="00/6362">Dimitrios Vytiniotis</na></co>
+<co c="0"><na f="w/Weijers:Jeroen" pid="99/10310">Jeroen Weijers</na></co>
+<co c="0"><na f="w/Wijsen:Jef" pid="w/JefWijsen">Jef Wijsen</na></co>
+<co c="0"><na f="y/Yu_0001:Cong" pid="58/3771">Cong Yu 0001</na></co>
+<co c="0"><na f="z/Zaniolo:Carlo" pid="z/CZaniolo">Carlo Zaniolo</na></co>
+</coauthors>
+</dblpperson>

@@ -1,0 +1,294 @@
+<dblpperson name="Shoumik Palkar" pid="168/9023" n="15">
+<person key="homepages/168/9023" mdate="2015-10-02">
+<author pid="168/9023">Shoumik Palkar</author>
+</person>
+<r><inproceedings key="conf/cidr/BehmP22" mdate="2022-07-18">
+<author pid="88/573">Alexander Behm</author>
+<author pid="168/9023">Shoumik Palkar</author>
+<title>Photon: A High-Performance Query Engine for the Lakehouse.</title>
+<year>2022</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">https://www.cidrdb.org/cidr2022/papers/a100-behm.pdf</ee>
+<crossref>conf/cidr/2022</crossref>
+<url>db/conf/cidr/cidr2022.html#BehmP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BehmPAACDGHJKLL22" mdate="2024-02-05">
+<author pid="88/573">Alexander Behm</author>
+<author pid="168/9023">Shoumik Palkar</author>
+<author pid="217/0988">Utkarsh Agarwal</author>
+<author pid="25/3861">Timothy Armstrong</author>
+<author pid="40/87">David Cashman</author>
+<author pid="74/10101">Ankur Dave</author>
+<author pid="322/1480">Todd Greenstein</author>
+<author pid="11/6201">Shant Hovsepian</author>
+<author pid="98/3414">Ryan Johnson</author>
+<author pid="322/1400">Arvind Sai Krishnan</author>
+<author pid="39/3656">Paul Leventis</author>
+<author pid="322/1583">Ala Luszczak</author>
+<author pid="145/6329">Prashanth Menon</author>
+<author pid="131/4245">Mostafa Mokhtar</author>
+<author pid="99/11140">Gene Pang</author>
+<author pid="197/7188">Sameer Paranjpye</author>
+<author pid="181/5686">Greg Rahn</author>
+<author pid="15/780">Bart Samwel</author>
+<author pid="227/2992">Tom van Bussel</author>
+<author pid="273/6960">Herman Van Hovell</author>
+<author pid="322/1470">Maryann Xue</author>
+<author pid="47/7258">Reynold Xin</author>
+<author orcid="0000-0002-7547-7204" pid="36/2133">Matei Zaharia</author>
+<title>Photon: A Fast Query Engine for Lakehouse Systems.</title>
+<pages>2326-2339</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3526054</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#BehmPAACDGHJKLL22</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/us/Palkar20" mdate="2022-09-02">
+<author pid="168/9023">Shoumik Palkar</author>
+<title>Interfaces for efficient software composition on modern hardware.</title>
+<school>Stanford University, USA</school>
+<year>2020</year>
+<ee>https://searchworks.stanford.edu/view/13595445</ee>
+</phdthesis>
+</r>
+<r><article key="journals/pvldb/KraftKNPBZ20" mdate="2024-02-05">
+<author pid="62/4022">Peter Kraft</author>
+<author pid="40/6300">Daniel Kang</author>
+<author pid="177/8846">Deepak Narayanan</author>
+<author pid="168/9023">Shoumik Palkar</author>
+<author pid="47/8816">Peter Bailis</author>
+<author orcid="0000-0002-7547-7204" pid="36/2133">Matei Zaharia</author>
+<title>A Demonstration of Willump: A Statistically-Aware End-to-end Optimizer for Machine Learning Inference.</title>
+<pages>2833-2836</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2833-kraft.pdf</ee>
+<ee>https://doi.org/10.14778/3415478.3415487</ee>
+<url>db/journals/pvldb/pvldb13.html#KraftKNPBZ20</url>
+</article>
+</r>
+<r><inproceedings key="conf/mlsys/KraftKNPBZ20" mdate="2020-06-18">
+<author pid="62/4022">Peter Kraft</author>
+<author pid="40/6300">Daniel Kang</author>
+<author pid="177/8846">Deepak Narayanan</author>
+<author pid="168/9023">Shoumik Palkar</author>
+<author pid="47/8816">Peter Bailis</author>
+<author pid="36/2133">Matei Zaharia</author>
+<title>Willump: A Statistically-Aware End-to-end Optimizer for Machine Learning Inference.</title>
+<year>2020</year>
+<booktitle>MLSys</booktitle>
+<ee>https://proceedings.mlsys.org/book/297.pdf</ee>
+<crossref>conf/mlsys/2020</crossref>
+<url>db/conf/mlsys/mlsys2020.html#KraftKNPBZ20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/YuanPNZ20" mdate="2021-02-01">
+<author pid="228/6090">Gina Yuan</author>
+<author pid="168/9023">Shoumik Palkar</author>
+<author pid="177/8846">Deepak Narayanan</author>
+<author pid="36/2133">Matei Zaharia</author>
+<title>Offload Annotations: Bringing Heterogeneous Computing to Existing Libraries and Workloads.</title>
+<pages>293-306</pages>
+<year>2020</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/atc20/presentation/yuan</ee>
+<crossref>conf/usenix/2020</crossref>
+<url>db/conf/usenix/usenix2020.html#YuanPNZ20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sosp/PalkarZ19" mdate="2024-02-05">
+<author pid="168/9023">Shoumik Palkar</author>
+<author orcid="0000-0002-7547-7204" pid="36/2133">Matei Zaharia</author>
+<title>Optimizing data-intensive computations in existing libraries with split annotations.</title>
+<pages>291-305</pages>
+<year>2019</year>
+<booktitle>SOSP</booktitle>
+<ee>https://doi.org/10.1145/3341301.3359652</ee>
+<crossref>conf/sosp/2019</crossref>
+<url>db/conf/sosp/sosp2019.html#PalkarZ19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-01974" mdate="2019-06-13">
+<author pid="62/4022">Peter Kraft</author>
+<author pid="40/6300">Daniel Kang</author>
+<author pid="177/8846">Deepak Narayanan</author>
+<author pid="168/9023">Shoumik Palkar</author>
+<author pid="47/8816">Peter Bailis</author>
+<author pid="36/2133">Matei Zaharia</author>
+<title>Willump: A Statistically-Aware End-to-end Optimizer for Machine Learning Inference.</title>
+<year>2019</year>
+<volume>abs/1906.01974</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.01974</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-01974</url>
+</article>
+</r>
+<r><article key="journals/pvldb/PalkarTNTPNSSPA18" mdate="2024-02-05">
+<author pid="168/9023">Shoumik Palkar</author>
+<author pid="34/8156-3">James Thomas 0003</author>
+<author pid="177/8846">Deepak Narayanan</author>
+<author pid="123/5171">Pratiksha Thaker</author>
+<author pid="173/9263">Rahul Palamuttam</author>
+<author pid="221/2301">Parimarjan Negi</author>
+<author pid="149/5876">Anil Shanbhag</author>
+<author pid="49/7988">Malte Schwarzkopf</author>
+<author pid="08/3969">Holger Pirk</author>
+<author pid="a/SPAmarasinghe">Saman P. Amarasinghe</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author orcid="0000-0002-7547-7204" pid="36/2133">Matei Zaharia</author>
+<title>Evaluating End-to-End Optimization for Data Analytics Applications in Weld.</title>
+<pages>1002-1015</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1002-palkar.pdf</ee>
+<ee>https://doi.org/10.14778/3213880.3213890</ee>
+<url>db/journals/pvldb/pvldb11.html#PalkarTNTPNSSPA18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/PalkarABZ18" mdate="2024-02-05">
+<author pid="168/9023">Shoumik Palkar</author>
+<author pid="161/9956">Firas Abuzaid</author>
+<author pid="47/8816">Peter Bailis</author>
+<author orcid="0000-0002-7547-7204" pid="36/2133">Matei Zaharia</author>
+<title>Filter Before You Parse: Faster Analytics on Raw Data with Sparser.</title>
+<pages>1576-1589</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1576-palkar.pdf</ee>
+<ee>https://doi.org/10.14778/3236187.3236207</ee>
+<url>db/journals/pvldb/pvldb11.html#PalkarABZ18</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-12297" mdate="2018-11-08">
+<author pid="168/9023">Shoumik Palkar</author>
+<author pid="36/2133">Matei Zaharia</author>
+<title>Splitability Annotations: Optimizing Black-Box Function Composition in Existing Libraries.</title>
+<year>2018</year>
+<volume>abs/1810.12297</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.12297</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-12297</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/PalkarTSSAZ17" mdate="2023-05-17">
+<author pid="168/9023">Shoumik Palkar</author>
+<author pid="34/8156-3">James Thomas 0003</author>
+<author pid="149/5876">Anil Shanbhag</author>
+<author pid="177/8846">Deepak Narayanan</author>
+<author pid="08/3969">Holger Pirk</author>
+<author pid="49/7988">Malte Schwarzkopf</author>
+<author pid="a/SPAmarasinghe">Saman P. Amarasinghe</author>
+<author pid="36/2133">Matei Zaharia</author>
+<title>A Common Runtime for High Performance Data Analysis.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/papers/p127-palkar-cidr17.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#PalkarTSSAZ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hotnets/PalkarZ17" mdate="2024-02-05">
+<author pid="168/9023">Shoumik Palkar</author>
+<author orcid="0000-0002-7547-7204" pid="36/2133">Matei Zaharia</author>
+<title>DIY Hosting for Online Privacy.</title>
+<pages>1-7</pages>
+<year>2017</year>
+<booktitle>HotNets</booktitle>
+<ee>https://doi.org/10.1145/3152434.3152459</ee>
+<crossref>conf/hotnets/2017</crossref>
+<url>db/conf/hotnets/hotnets2017.html#PalkarZ17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-06416" mdate="2023-08-08">
+<author pid="168/9023">Shoumik Palkar</author>
+<author pid="34/8156-3">James Thomas 0003</author>
+<author pid="177/8846">Deepak Narayanan</author>
+<author pid="149/5876">Anil Shanbhag</author>
+<author pid="173/9263">Rahul Palamuttam</author>
+<author pid="08/3969">Holger Pirk</author>
+<author pid="49/7988">Malte Schwarzkopf</author>
+<author pid="a/SPAmarasinghe">Saman P. Amarasinghe</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="36/2133">Matei Zaharia</author>
+<title>Weld: Rethinking the Interface Between Data-Intensive Applications.</title>
+<year>2017</year>
+<volume>abs/1709.06416</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.06416</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-06416</url>
+</article>
+</r>
+<r><inproceedings key="conf/sosp/PalkarLHJPRRS15" mdate="2021-10-14">
+<author pid="168/9023">Shoumik Palkar</author>
+<author pid="116/8770">Chang Lan</author>
+<author pid="87/6455">Sangjin Han</author>
+<author pid="40/503">Keon Jang</author>
+<author pid="55/925">Aurojit Panda</author>
+<author pid="68/5579">Sylvia Ratnasamy</author>
+<author orcid="0000-0003-2483-1565" pid="27/3297">Luigi Rizzo</author>
+<author orcid="0000-0002-1357-7533" pid="34/5593">Scott Shenker</author>
+<title>E2: a framework for NFV applications.</title>
+<pages>121-136</pages>
+<year>2015</year>
+<booktitle>SOSP</booktitle>
+<ee>https://doi.org/10.1145/2815400.2815423</ee>
+<crossref>conf/sosp/2015</crossref>
+<url>db/conf/sosp/sosp2015.html#PalkarLHJPRRS15</url>
+</inproceedings>
+</r>
+<coauthors n="44" nc="1">
+<co c="0"><na f="a/Abuzaid:Firas" pid="161/9956">Firas Abuzaid</na></co>
+<co c="0"><na f="a/Agarwal:Utkarsh" pid="217/0988">Utkarsh Agarwal</na></co>
+<co c="0"><na f="a/Amarasinghe:Saman_P=" pid="a/SPAmarasinghe">Saman P. Amarasinghe</na></co>
+<co c="0"><na f="a/Armstrong:Timothy" pid="25/3861">Timothy Armstrong</na></co>
+<co c="0"><na f="b/Bailis:Peter" pid="47/8816">Peter Bailis</na></co>
+<co c="0"><na f="b/Behm:Alexander" pid="88/573">Alexander Behm</na></co>
+<co c="0"><na f="b/Bussel:Tom_van" pid="227/2992">Tom van Bussel</na></co>
+<co c="0"><na f="c/Cashman:David" pid="40/87">David Cashman</na></co>
+<co c="0"><na f="d/Dave:Ankur" pid="74/10101">Ankur Dave</na></co>
+<co c="0"><na f="g/Greenstein:Todd" pid="322/1480">Todd Greenstein</na></co>
+<co c="0"><na f="h/Han:Sangjin" pid="87/6455">Sangjin Han</na></co>
+<co c="0"><na f="h/Hovell:Herman_Van" pid="273/6960">Herman Van Hovell</na></co>
+<co c="0"><na f="h/Hovsepian:Shant" pid="11/6201">Shant Hovsepian</na></co>
+<co c="0"><na f="j/Jang:Keon" pid="40/503">Keon Jang</na></co>
+<co c="0"><na f="j/Johnson:Ryan" pid="98/3414">Ryan Johnson</na></co>
+<co c="0"><na f="k/Kang:Daniel" pid="40/6300">Daniel Kang</na></co>
+<co c="0"><na f="k/Kraft:Peter" pid="62/4022">Peter Kraft</na></co>
+<co c="0"><na f="k/Krishnan:Arvind_Sai" pid="322/1400">Arvind Sai Krishnan</na></co>
+<co c="0"><na f="l/Lan:Chang" pid="116/8770">Chang Lan</na></co>
+<co c="0"><na f="l/Leventis:Paul" pid="39/3656">Paul Leventis</na></co>
+<co c="0"><na f="l/Luszczak:Ala" pid="322/1583">Ala Luszczak</na></co>
+<co c="0"><na f="m/Madden_0001:Samuel" pid="m/SamuelMadden">Samuel Madden 0001</na></co>
+<co c="0"><na f="m/Menon:Prashanth" pid="145/6329">Prashanth Menon</na></co>
+<co c="0"><na f="m/Mokhtar:Mostafa" pid="131/4245">Mostafa Mokhtar</na></co>
+<co c="0"><na f="n/Narayanan:Deepak" pid="177/8846">Deepak Narayanan</na></co>
+<co c="0"><na f="n/Negi:Parimarjan" pid="221/2301">Parimarjan Negi</na></co>
+<co c="0"><na f="p/Palamuttam:Rahul" pid="173/9263">Rahul Palamuttam</na></co>
+<co c="0"><na f="p/Panda:Aurojit" pid="55/925">Aurojit Panda</na></co>
+<co c="0"><na f="p/Pang:Gene" pid="99/11140">Gene Pang</na></co>
+<co c="0"><na f="p/Paranjpye:Sameer" pid="197/7188">Sameer Paranjpye</na></co>
+<co c="0"><na f="p/Pirk:Holger" pid="08/3969">Holger Pirk</na></co>
+<co c="0"><na f="r/Rahn:Greg" pid="181/5686">Greg Rahn</na></co>
+<co c="0"><na f="r/Ratnasamy:Sylvia" pid="68/5579">Sylvia Ratnasamy</na></co>
+<co c="0"><na f="r/Rizzo:Luigi" pid="27/3297">Luigi Rizzo</na></co>
+<co c="0"><na f="s/Samwel:Bart" pid="15/780">Bart Samwel</na></co>
+<co c="0"><na f="s/Schwarzkopf:Malte" pid="49/7988">Malte Schwarzkopf</na></co>
+<co c="0"><na f="s/Shanbhag:Anil" pid="149/5876">Anil Shanbhag</na></co>
+<co c="0"><na f="s/Shenker:Scott" pid="34/5593">Scott Shenker</na></co>
+<co c="0"><na f="t/Thaker:Pratiksha" pid="123/5171">Pratiksha Thaker</na></co>
+<co c="0"><na f="t/Thomas_0003:James" pid="34/8156-3">James Thomas 0003</na></co>
+<co c="0"><na f="x/Xin:Reynold" pid="47/7258">Reynold Xin</na></co>
+<co c="0"><na f="x/Xue:Maryann" pid="322/1470">Maryann Xue</na></co>
+<co c="0"><na f="y/Yuan:Gina" pid="228/6090">Gina Yuan</na></co>
+<co c="0"><na f="z/Zaharia:Matei" pid="36/2133">Matei Zaharia</na></co>
+</coauthors>
+</dblpperson>

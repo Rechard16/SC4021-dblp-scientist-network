@@ -1,0 +1,1448 @@
+<dblpperson name="Daniel J. Abadi" pid="a/DJAbadi" n="80">
+<person key="homepages/a/DJAbadi" mdate="2020-02-12">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<note type="affiliation">Yale University, New Haven, Connecticut, USA</note>
+<url>http://cs-www.cs.yale.edu/homes/dna/</url>
+<url>https://scholar.google.com/citations?user=zxeEF2gAAAAJ</url>
+<url>https://dl.acm.org/profile/81100545599</url>
+</person>
+<r><article key="journals/pacmmod/NguyenMA23" mdate="2023-07-07">
+<author orcid="0000-0003-4250-2896" pid="350/5694">Cuong D. T. Nguyen</author>
+<author orcid="0000-0001-5290-7796" pid="350/5935">Johann K. Miller</author>
+<author orcid="0000-0003-3771-2995" pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Detock: High Performance Multi-region Transactions at Scale.</title>
+<pages>148:1-148:27</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3589293</ee>
+<url>db/journals/pacmmod/pacmmod1.html#NguyenMA23</url>
+</article>
+</r>
+<r><inproceedings key="conf/cloud/LiaoA23" mdate="2023-11-09">
+<author orcid="0000-0002-8280-9094" pid="35/11471">Gang Liao</author>
+<author orcid="0000-0003-3771-2995" pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>FileScale: Fast and Elastic Metadata Management for Distributed File Systems.</title>
+<pages>459-474</pages>
+<year>2023</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/3620678.3624784</ee>
+<crossref>conf/cloud/2023</crossref>
+<url>db/conf/cloud/socc2023.html#LiaoA23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-16735" mdate="2024-01-18">
+<author pid="35/11471">Gang Liao</author>
+<author pid="d/AmolDeshpande">Amol Deshpande</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Flock: A Low-Cost Streaming Query Engine on FaaS Platforms.</title>
+<year>2023</year>
+<volume>abs/2312.16735</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.16735</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-16735</url>
+</article>
+</r>
+<r><article key="journals/cacm/AbadiAABBBBCCDD22" mdate="2024-02-05">
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="a/DavidGAndersen">David G. Andersen</author>
+<author pid="47/8816">Peter Bailis</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="d/XinLunaDong">Luna Dong</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="f/JulianaFreire">Juliana Freire</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="m/SergeyMelnik">Sergey Melnik 0001</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="o/BengChinOoi">Beng Chin Ooi</author>
+<author pid="o/FatmaOzcan">Fatma Ozcan</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<title>The Seattle report on database research.</title>
+<pages>72-79</pages>
+<year>2022</year>
+<volume>65</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<ee>https://doi.org/10.1145/3524284</ee>
+<url>db/journals/cacm/cacm65.html#AbadiAABBBBCCDD22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/HeltSALF22" mdate="2023-10-23">
+<author pid="200/8024">Jeffrey Helt</author>
+<author pid="57/7446">Abhinav Sharma</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="21/1059">Wyatt Lloyd</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<title>C5: Cloned Concurrency Control That Always Keeps Up.</title>
+<pages>1-14</pages>
+<year>2022</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p1-helt.pdf</ee>
+<ee>https://doi.org/10.14778/3561261.3561262</ee>
+<url>db/journals/pvldb/pvldb16.html#HeltSALF22</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-02746" mdate="2022-07-13">
+<author pid="200/8024">Jeffrey Helt</author>
+<author pid="57/7446">Abhinav Sharma</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="21/1059">Wyatt Lloyd</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<title>C5: Cloned Concurrency Control that Always Keeps Up.</title>
+<year>2022</year>
+<volume>abs/2207.02746</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.02746</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-02746</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/BhattacherjeeLH21" mdate="2021-06-23">
+<author pid="27/7987">Souvik Bhattacherjee</author>
+<author pid="35/11471">Gang Liao</author>
+<author pid="h/MichaelWHicks">Michael Hicks 0001</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>BullFrog: Online Schema Evolution via Lazy Evaluation.</title>
+<pages>194-206</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3452842</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#BhattacherjeeLH21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/AbadiANS20" mdate="2020-03-12">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="116/8396">Owen Arden</author>
+<author pid="55/11299">Faisal Nawab</author>
+<author pid="87/5483">Moshe Shadmon</author>
+<title>AnyLog: a Grand Unification of the Internet of Things.</title>
+<year>2020</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2020/papers/p9-abadi-cidr20.pdf</ee>
+<crossref>conf/cidr/2020</crossref>
+<url>db/conf/cidr/cidr2020.html#AbadiANS20</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/RenLA19" mdate="2020-04-25">
+<author pid="04/9715">Kun Ren</author>
+<author pid="219/3032">Dennis Li</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>SLOG: Serializable, Low-latency, Geo-replicated Transactions.</title>
+<pages>1747-1761</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1747-ren.pdf</ee>
+<ee>https://doi.org/10.14778/3342263.3342647</ee>
+<url>db/journals/pvldb/pvldb12.html#RenLA19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AbouziedABS19" mdate="2020-04-25">
+<author pid="57/7259">Azza Abouzied</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="87/7258">Kamil Bajda-Pawlikowski</author>
+<author pid="s/AbrahamSilberschatz">Avi Silberschatz</author>
+<title>Integration of Large-Scale Data Processing Systems and Traditional Parallel Database Technology.</title>
+<pages>2290-2299</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p2290-abouzied.pdf</ee>
+<ee>https://doi.org/10.14778/3352063.3352145</ee>
+<url>db/journals/pvldb/pvldb12.html#AbouziedABS19</url>
+</article>
+</r>
+<r><article key="journals/sigmod/AbadiAABBBBCCDD19" mdate="2024-02-05">
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="a/DavidGAndersen">David G. Andersen</author>
+<author pid="47/8816">Peter Bailis</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="d/XinLunaDong">Luna Dong</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="f/JulianaFreire">Juliana Freire</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="m/SergeyMelnik">Sergey Melnik 0001</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="o/BengChinOoi">Beng Chin Ooi</author>
+<author orcid="0000-0002-4418-4724" pid="o/FatmaOzcan">Fatma Ozcan</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<title>The Seattle Report on Database Research.</title>
+<pages>44-53</pages>
+<year>2019</year>
+<volume>48</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3385658.3385668</ee>
+<ee>https://www.wikidata.org/entity/Q118946092</ee>
+<url>db/journals/sigmod/sigmod48.html#AbadiAABBBBCCDD19</url>
+</article>
+</r>
+<r><incollection key="books/mc/19/Abadi14" mdate="2019-01-13">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>C-store: through the eyes of a Ph.D. student.</title>
+<pages>235-244</pages>
+<year>2019</year>
+<booktitle>Making Databases Work</booktitle>
+<ee>https://doi.org/10.1145/3226595.3226616</ee>
+<crossref>books/mc/B2019</crossref>
+<url>db/books/collections/B2019.html#Abadi14</url>
+</incollection>
+</r>
+<r><incollection key="books/mc/19/HarizopoulosAMS14" mdate="2023-08-08">
+<author pid="38/6308">Stavros Harizopoulos</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>OLTP through the looking glass, and what we found there.</title>
+<pages>409-439</pages>
+<year>2019</year>
+<booktitle>Making Databases Work</booktitle>
+<ee>https://doi.org/10.1145/3226595.3226635</ee>
+<crossref>books/mc/B2019</crossref>
+<url>db/books/collections/B2019.html#HarizopoulosAMS14</url>
+</incollection>
+</r>
+<r><incollection key="books/mc/19/StonebrakerMAHHH14" mdate="2023-08-08">
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="38/6308">Stavros Harizopoulos</author>
+<author pid="44/4141">Nabil Hachem</author>
+<author pid="h/PatHelland">Pat Helland</author>
+<title>The end of an architectural era: it's time for a complete rewrite.</title>
+<pages>463-489</pages>
+<year>2019</year>
+<booktitle>Making Databases Work</booktitle>
+<ee>https://doi.org/10.1145/3226595.3226637</ee>
+<crossref>books/mc/B2019</crossref>
+<url>db/books/collections/B2019.html#StonebrakerMAHHH14</url>
+</incollection>
+</r>
+<r><incollection key="books/mc/19/StonebrakerABCCFLLMOORTZ14" mdate="2019-01-13">
+<author pid="s/MichaelStonebraker">Mike Stonebraker</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="82/6358">Adam Batkin</author>
+<author pid="84/5751">Xuedong Chen</author>
+<author pid="c/MitchCherniack">Mitch Cherniack</author>
+<author pid="19/7">Miguel Ferreira</author>
+<author pid="09/3689">Edmond Lau</author>
+<author pid="92/747">Amerson Lin</author>
+<author pid="m/SamuelMadden">Sam Madden</author>
+<author pid="40/6709">Elizabeth J. O'Neil</author>
+<author pid="o/PatrickEONeil">Patrick E. O'Neil</author>
+<author pid="39/998">Alex Rasin</author>
+<author pid="80/4976">Nga Tran</author>
+<author pid="z/SBZdonik">Stan Zdonik</author>
+<title>C-store: a column-oriented DBMS.</title>
+<pages>491-518</pages>
+<year>2019</year>
+<booktitle>Making Databases Work</booktitle>
+<ee>https://doi.org/10.1145/3226595.3226638</ee>
+<crossref>books/mc/B2019</crossref>
+<url>db/books/collections/B2019.html#StonebrakerABCCFLLMOORTZ14</url>
+</incollection>
+</r>
+<r><article key="journals/cacm/AbadiF18" mdate="2018-11-21">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<title>An overview of deterministic database systems.</title>
+<pages>78-88</pages>
+<year>2018</year>
+<volume>61</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<ee>https://doi.org/10.1145/3181853</ee>
+<url>db/journals/cacm/cacm61.html#AbadiF18</url>
+</article>
+</r>
+<r><inproceedings key="conf/osdi/LockermanFKSAA018" mdate="2021-02-02">
+<author pid="180/8181">Joshua Lockerman</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="59/8200">Juno Kim</author>
+<author pid="228/0279">Soham Sankaran</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="a/JamesAspnes">James Aspnes</author>
+<author pid="58/968">Siddhartha Sen 0001</author>
+<author pid="b/MBalakrishnan">Mahesh Balakrishnan 0001</author>
+<title>The FuzzyLog: A Partially Ordered Shared Log.</title>
+<pages>357-372</pages>
+<year>2018</year>
+<booktitle>OSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/osdi18/presentation/lockerman</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3291195</ee>
+<crossref>conf/osdi/2018</crossref>
+<url>db/conf/osdi/osdi2018.html#LockermanFKSAA018</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Abadi18" mdate="2019-02-14">
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<title>Data Partitioning.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_688</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/d2.html#Abadi18</url>
+</incollection>
+</r>
+<r><article key="journals/pvldb/FaleiroAH17" mdate="2020-04-25">
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>High Performance Transactions via Early Write Visibility.</title>
+<pages>613-624</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p613-faleiro.pdf</ee>
+<ee>https://doi.org/10.14778/3055540.3055553</ee>
+<url>db/journals/pvldb/pvldb10.html#FaleiroAH17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/FaleiroA17" mdate="2020-03-12">
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Latch-free Synchronization in Database Systems: Silver Bullet or Fool's Gold?</title>
+<pages>9-</pages>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/papers/p121-faleiro-cidr17.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#FaleiroA17</url>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/AbadiAABBCCDDFG16" mdate="2024-02-05">
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<author pid="a/RAgrawal">Rakesh Agrawal 0001</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="d/JeffreyDean">Jeffrey Dean</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="m/SharadMehrotra">Sharad Mehrotra</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="o/ChristopherOlston">Christopher Olston</author>
+<author pid="o/BengChinOoi">Beng Chin Ooi</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="00/11358">Todd Walter</author>
+<author pid="w/JenniferWidom">Jennifer Widom</author>
+<title>The Beckman report on database research.</title>
+<pages>92-99</pages>
+<year>2016</year>
+<volume>59</volume>
+<journal>Commun. ACM</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2845915</ee>
+<url>db/journals/cacm/cacm59.html#AbadiAABBCCDDFG16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/HuangA16" mdate="2020-04-25">
+<author pid="14/775">Jiewen Huang</author>
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<title>LEOPARD: Lightweight Edge-Oriented Partitioning and Replication for Dynamic Graphs.</title>
+<pages>540-551</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>7</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p540-huang.pdf</ee>
+<ee>https://doi.org/10.14778/2904483.2904486</ee>
+<url>db/journals/pvldb/pvldb9.html#HuangA16</url>
+</article>
+</r>
+<r><inproceedings key="conf/kdd/MaccioniA16" mdate="2018-11-06">
+<author pid="82/8707">Antonio Maccioni</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Scalable Pattern Matching over Compressed Graphs via Dedensification.</title>
+<pages>1755-1764</pages>
+<year>2016</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/2939672.2939856</ee>
+<crossref>conf/kdd/2016</crossref>
+<url>db/conf/kdd/kdd2016.html#MaccioniA16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DiScalaA16" mdate="2018-11-06">
+<author pid="181/5703">Michael DiScala</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Automatic Generation of Normalized Relational Schemas from Nested Key-Value Data.</title>
+<pages>295-310</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2882924</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#DiScalaA16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/RenDAT16" mdate="2018-11-06">
+<author pid="04/9715">Kun Ren</author>
+<author pid="72/11411">Thaddeus Diamond</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="21/8510">Alexander Thomson</author>
+<title>Low-Overhead Asynchronous Checkpointing in Main-Memory Database Systems.</title>
+<pages>1539-1551</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2915966</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#RenDAT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/RenFA16" mdate="2018-11-06">
+<author pid="04/9715">Kun Ren</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Design Principles for Scaling Multi-core OLTP Under High Contention.</title>
+<pages>1583-1598</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2882958</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#RenFA16</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/16/CetintemelAABBCHMMRRSTXZ16" mdate="2023-08-08">
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="99/770">Yanif Ahmad</author>
+<author pid="b/HariBalakrishnan">Hari Balakrishnan</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="c/MitchCherniack">Mitch Cherniack</author>
+<author pid="97/5585">Jeong-Hyon Hwang</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="36/1442">Anurag Maskey</author>
+<author pid="39/998">Alexander Rasin</author>
+<author pid="79/5102">Esther Ryvkina</author>
+<author pid="s/MichaelStonebraker">Mike Stonebraker</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="79/5063">Ying Xing</author>
+<author pid="z/SBZdonik">Stan Zdonik</author>
+<title>The Aurora and Borealis Stream Processing Engines.</title>
+<pages>337-359</pages>
+<year>2016</year>
+<booktitle>Data Stream Management</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-28608-0_17</ee>
+<crossref>books/sp/GGR2016</crossref>
+<url>db/books/collections/GGR2016.html#CetintemelAABBCHMMRRSTXZ16</url>
+</incollection>
+</r>
+<r><incollection key="books/sp/16/AbadiML16" mdate="2023-08-08">
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="l/WolfgangLindner">Wolfgang Lindner 0001</author>
+<title>Sensor Network Integration with Streaming Database Systems.</title>
+<pages>409-428</pages>
+<year>2016</year>
+<booktitle>Data Stream Management</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-28608-0_20</ee>
+<crossref>books/sp/GGR2016</crossref>
+<url>db/books/collections/GGR2016.html#AbadiML16</url>
+</incollection>
+</r>
+<r><article key="journals/debu/FaleiroA15" mdate="2020-03-10">
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>FIT: A Distributed Database Performance Tradeoff.</title>
+<pages>10-17</pages>
+<year>2015</year>
+<volume>38</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A15mar/p10.pdf</ee>
+<url>db/journals/debu/debu38.html#FaleiroA15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/FaleiroA15" mdate="2020-04-25">
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Rethinking serializable multiversion concurrency control.</title>
+<pages>1190-1201</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1190-faleiro.pdf</ee>
+<ee>https://doi.org/10.14778/2809974.2809981</ee>
+<url>db/journals/pvldb/pvldb8.html#FaleiroA15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AbadiBOP15" mdate="2022-08-16">
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<author pid="b/ShivnathBabu">Shivnath Babu</author>
+<author orcid="0000-0002-4418-4724" pid="o/FatmaOzcan">Fatma Ozcan</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<title>Tutorial: SQL-on-Hadoop Systems.</title>
+<pages>2050-2051</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p2050-fatma.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824137</ee>
+<ee>https://www.wikidata.org/entity/Q113237162</ee>
+<url>db/journals/pvldb/pvldb8.html#AbadiBOP15</url>
+</article>
+</r>
+<r><article key="journals/vldb/RenTA15" mdate="2017-05-28">
+<author pid="04/9715">Kun Ren</author>
+<author pid="21/8510">Alexander Thomson</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>VLL: a lock manager redesign for main memory database systems.</title>
+<pages>681-705</pages>
+<year>2015</year>
+<volume>24</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-014-0377-7</ee>
+<url>db/journals/vldb/vldb24.html#RenTA15</url>
+</article>
+</r>
+<r><inproceedings key="conf/fast/ThomsonA15" mdate="2021-02-02">
+<author pid="21/8510">Alexander Thomson</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>CalvinFS: Consistent WAN Replication and Scalable Metadata Management for Distributed File Systems.</title>
+<pages>1-14</pages>
+<year>2015</year>
+<booktitle>FAST</booktitle>
+<ee type="oa">https://www.usenix.org/conference/fast15/technical-sessions/presentation/thomson</ee>
+<crossref>conf/fast/2015</crossref>
+<url>db/conf/fast/fast2015.html#ThomsonA15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/RenFA15" mdate="2018-08-13">
+<author pid="04/9715">Kun Ren</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Design Principles for Scaling Multi-core OLTP Under High Contention.</title>
+<year>2015</year>
+<volume>abs/1512.06168</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1512.06168</ee>
+<url>db/journals/corr/corr1512.html#RenFA15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/RenTA14" mdate="2020-04-25">
+<author pid="04/9715">Kun Ren</author>
+<author pid="21/8510">Alexander Thomson</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>An Evaluation of the Advantages and Disadvantages of Deterministic Database Systems.</title>
+<pages>821-832</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p821-ren.pdf</ee>
+<ee>https://doi.org/10.14778/2732951.2732955</ee>
+<url>db/journals/pvldb/pvldb7.html#RenTA14</url>
+</article>
+</r>
+<r><article key="journals/sigmod/AbadiAABBCCDDFGHHHIJKMMMNRMOORSSWW14" mdate="2024-02-05">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="a/RAgrawal">Rakesh Agrawal 0001</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="d/JeffreyDean">Jeffrey Dean</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="m/SharadMehrotra">Sharad Mehrotra</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="o/ChristopherOlston">Christopher Olston</author>
+<author pid="o/BengChinOoi">Beng Chin Ooi</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="00/11358">Todd Walter</author>
+<author pid="w/JenniferWidom">Jennifer Widom</author>
+<title>The Beckman Report on Database Research.</title>
+<pages>61-70</pages>
+<year>2014</year>
+<volume>43</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2694428.2694441</ee>
+<url>db/journals/sigmod/sigmod43.html#AbadiAABBCCDDFGHHHIJKMMMNRMOORSSWW14</url>
+</article>
+</r>
+<r><article key="journals/tods/ThomsonDWRSA14" mdate="2018-11-06">
+<author pid="21/8510">Alexander Thomson</author>
+<author pid="72/11411">Thaddeus Diamond</author>
+<author pid="54/1737">Shu-Chun Weng</author>
+<author pid="04/9715">Kun Ren</author>
+<author pid="64/11411">Philip Shao</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Fast Distributed Transactions and Strongly Consistent Replication for OLTP Database Systems.</title>
+<pages>11:1-11:39</pages>
+<year>2014</year>
+<volume>39</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2556685</ee>
+<url>db/journals/tods/tods39.html#ThomsonDWRSA14</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/HuangVA14" mdate="2023-03-23">
+<author pid="14/775">Jiewen Huang</author>
+<author pid="145/6365">Kartik Venkatraman</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Query optimization of distributed pattern matching.</title>
+<pages>64-75</pages>
+<year>2014</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2014.6816640</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2014.6816640</ee>
+<crossref>conf/icde/2014</crossref>
+<url>db/conf/icde/icde2014.html#HuangVA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/FaleiroTA14" mdate="2018-11-06">
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="21/8510">Alexander Thomson</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Lazy evaluation of transactions in database systems.</title>
+<pages>15-26</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2610529</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#FaleiroTA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/TaharaDA14" mdate="2018-11-06">
+<author pid="139/4239">Daniel Tahara</author>
+<author pid="72/11411">Thaddeus Diamond</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Sinew: a SQL system for multi-structured data.</title>
+<pages>815-826</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2612183</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#TaharaDA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/OzcanTAKMRW14" mdate="2018-11-06">
+<author pid="o/FatmaOzcan">Fatma &#214;zcan</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="11/6425">Marcel Kornacker</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="r/KRamasamy">Karthik Ramasamy</author>
+<author pid="w/JanetLWiener">Janet L. Wiener</author>
+<title>Are we experiencing a big data bubble?</title>
+<pages>1407-1408</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2618215</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#OzcanTAKMRW14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/FaleiroA14" mdate="2018-08-13">
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Rethinking serializable multiversion concurrency control.</title>
+<year>2014</year>
+<volume>abs/1412.2324</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1412.2324</ee>
+<url>db/journals/corr/corr1412.html#FaleiroA14</url>
+</article>
+</r>
+<r><article key="journals/debu/ThomsonA13" mdate="2020-03-10">
+<author pid="21/8510">Alexander Thomson</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Modularity and Scalability in Calvin.</title>
+<pages>48-55</pages>
+<year>2013</year>
+<volume>36</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<ee type="oa">http://sites.computer.org/debull/A13june/calvin1.pdf</ee>
+<url>db/journals/debu/debu36.html#ThomsonA13</url>
+</article>
+</r>
+<r><article key="journals/ftdb/AbadiBHIM13" mdate="2023-08-08">
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="38/6308">Stavros Harizopoulos</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>The Design and Implementation of Modern Column-Oriented Database Systems.</title>
+<pages>197-280</pages>
+<year>2013</year>
+<volume>5</volume>
+<journal>Found. Trends Databases</journal>
+<number>3</number>
+<ee>https://doi.org/10.1561/1900000024</ee>
+<url>db/journals/ftdb/ftdb5.html#AbadiBHIM13</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/AbouziedAS13" mdate="2018-11-06">
+<author pid="57/7259">Azza Abouzied</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="s/AbrahamSilberschatz">Avi Silberschatz</author>
+<title>Invisible loading: access-driven data transfer from raw files into database systems.</title>
+<pages>1-10</pages>
+<year>2013</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/2452376.2452377</ee>
+<crossref>conf/edbt/2013</crossref>
+<url>db/conf/edbt/edbt2013.html#AbouziedAS13</url>
+</inproceedings>
+</r>
+<r><article key="journals/computer/Abadi12" mdate="2020-08-12">
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<title>Consistency Tradeoffs in Modern Distributed Database System Design: CAP is Only Part of the Story.</title>
+<pages>37-42</pages>
+<year>2012</year>
+<volume>45</volume>
+<journal>Computer</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MC.2012.33</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MC.2012.33</ee>
+<url>db/journals/computer/computer45.html#Abadi12</url>
+</article>
+</r>
+<r><article key="journals/pvldb/RenTA12" mdate="2020-04-25">
+<author pid="04/9715">Kun Ren</author>
+<author pid="21/8510">Alexander Thomson</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Lightweight Locking for Main Memory Database Systems.</title>
+<pages>145-156</pages>
+<year>2012</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p145-ren.pdf</ee>
+<ee>https://doi.org/10.14778/2535568.2448947</ee>
+<url>db/journals/pvldb/pvldb6.html#RenTA12</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/ThomsonDWRSA12" mdate="2018-11-06">
+<author pid="21/8510">Alexander Thomson</author>
+<author pid="72/11411">Thaddeus Diamond</author>
+<author pid="54/1737">Shu-Chun Weng</author>
+<author pid="04/9715">Kun Ren</author>
+<author pid="64/11411">Philip Shao</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Calvin: fast distributed transactions for partitioned database systems.</title>
+<pages>1-12</pages>
+<year>2012</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2213836.2213838</ee>
+<crossref>conf/sigmod/2012</crossref>
+<url>db/conf/sigmod/sigmod2012.html#ThomsonDWRSA12</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/HuangAR11" mdate="2020-04-25">
+<author pid="14/775">Jiewen Huang</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="04/9715">Kun Ren</author>
+<title>Scalable SPARQL Querying of Large RDF Graphs.</title>
+<pages>1123-1134</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p1123-huang.pdf</ee>
+<url>db/journals/pvldb/pvldb4.html#HuangAR11</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/Bajda-PawlikowskiASP11" mdate="2020-06-16">
+<author pid="87/7258">Kamil Bajda-Pawlikowski</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="s/AbrahamSilberschatz">Avi Silberschatz</author>
+<author pid="22/3083-1">Erik Paulson 0001</author>
+<title>Efficient processing of data warehousing queries in a split execution environment.</title>
+<pages>1165-1176</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989447</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#Bajda-PawlikowskiASP11</url>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/StonebrakerADMPPR10" mdate="2023-09-30">
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="22/3083-1">Erik Paulson 0001</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="39/998">Alexander Rasin</author>
+<title>MapReduce and parallel DBMSs: friends or foes?</title>
+<pages>64-71</pages>
+<year>2010</year>
+<volume>53</volume>
+<journal>Commun. ACM</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1629175.1629197</ee>
+<ee>https://www.wikidata.org/entity/Q56569159</ee>
+<url>db/journals/cacm/cacm53.html#StonebrakerADMPPR10</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ThomsonA10" mdate="2020-04-25">
+<author pid="21/8510">Alexander Thomson</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>The Case for Determinism in Database Systems.</title>
+<pages>70-80</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R06.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920855</ee>
+<url>db/journals/pvldb/pvldb3.html#ThomsonA10</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AbadiCCGPR10" mdate="2020-04-25">
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="g/HGarciaMolina">Hector Garcia-Molina</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<title>Cloud Databases: What's New?</title>
+<pages>1657</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/P01.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1921069</ee>
+<url>db/journals/pvldb/pvldb3.html#AbadiCCGPR10</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/JonesAM10" mdate="2023-08-08">
+<author pid="83/4223">Evan P. C. Jones</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>Low overhead concurrency control for partitioned main memory databases.</title>
+<pages>603-614</pages>
+<year>2010</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1807167.1807233</ee>
+<crossref>conf/sigmod/2010</crossref>
+<url>db/conf/sigmod/sigmod2010.html#JonesAM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AbouziedBHAS10" mdate="2018-11-06">
+<author pid="57/7259">Azza Abouzied</author>
+<author pid="87/7258">Kamil Bajda-Pawlikowski</author>
+<author pid="14/775">Jiewen Huang</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="s/AbrahamSilberschatz">Avi Silberschatz</author>
+<title>HadoopDB in action: building real world applications.</title>
+<pages>1111-1114</pages>
+<year>2010</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1807167.1807294</ee>
+<crossref>conf/sigmod/2010</crossref>
+<url>db/conf/sigmod/sigmod2010.html#AbouziedBHAS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/Abadi10" mdate="2017-05-21">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Tradeoffs between Parallel Database Systems, Hadoop, and HadoopDB as Platforms for Petabyte-Scale Analysis.</title>
+<pages>1-3</pages>
+<year>2010</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-13818-8_1</ee>
+<crossref>conf/ssdbm/2010</crossref>
+<url>db/conf/ssdbm/ssdbm2010.html#Abadi10</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/Abadi09" mdate="2020-03-10">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Data Management in the Cloud: Limitations and Opportunities.</title>
+<pages>3-12</pages>
+<year>2009</year>
+<volume>32</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A09mar/abadi.pdf</ee>
+<url>db/journals/debu/debu32.html#Abadi09</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AbouzeidBARS09" mdate="2020-04-25">
+<author pid="57/7259">Azza Abouzeid</author>
+<author pid="87/7258">Kamil Bajda-Pawlikowski</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="39/998">Alexander Rasin</author>
+<author pid="s/AbrahamSilberschatz">Avi Silberschatz</author>
+<title>HadoopDB: An Architectural Hybrid of MapReduce and DBMS Technologies for Analytical Workloads.</title>
+<pages>922-933</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-861.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687731</ee>
+<url>db/journals/pvldb/pvldb2.html#AbouzeidBARS09</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AbadiCHKMB09" mdate="2023-08-08">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="82/231">Michael J. Cafarella</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<title>How Best to Build Web-Scale Data Managers? A Panel Discussion.</title>
+<pages>1647</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-panel2.pdf</ee>
+<ee>https://doi.org/10.14778/1687553.1687616</ee>
+<url>db/journals/pvldb/pvldb2.html#AbadiCHKMB09</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AbadiBH09" mdate="2020-04-25">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="38/6308">Stavros Harizopoulos</author>
+<title>Column oriented Database Systems.</title>
+<pages>1664-1665</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-tutorial6.pdf</ee>
+<ee>https://doi.org/10.14778/1687553.1687625</ee>
+<url>db/journals/pvldb/pvldb2.html#AbadiBH09</url>
+</article>
+</r>
+<r><article key="journals/vldb/AbadiMMH09" mdate="2023-08-08">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="m/AdamMarcus2">Adam Marcus 0002</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="h/KatherineJHollenbach">Kate Hollenbach</author>
+<title>SW-Store: a vertically partitioned DBMS for Semantic Web data management.</title>
+<pages>385-406</pages>
+<year>2009</year>
+<volume>18</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-008-0125-y</ee>
+<url>db/journals/vldb/vldb18.html#AbadiMMH09</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/PavloPRADMS09" mdate="2023-09-30">
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="22/3083-1">Erik Paulson 0001</author>
+<author pid="39/998">Alexander Rasin</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>A comparison of approaches to large-scale data analysis.</title>
+<pages>165-178</pages>
+<year>2009</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1559845.1559865</ee>
+<crossref>conf/sigmod/2009</crossref>
+<url>db/conf/sigmod/sigmod2009.html#PavloPRADMS09</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Abadi09" mdate="2017-07-12">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Data Partitioning.</title>
+<pages>599-600</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_688</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/d.html#Abadi09</url>
+</incollection>
+</r>
+<r><phdthesis key="phd/ndltd/Abadi08" mdate="2022-05-04">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Query execution in column-oriented database systems.</title>
+<year>2008</year>
+<school>Massachusetts Institute of Technology, Cambridge, MA, USA</school>
+<ee>https://hdl.handle.net/1721.1/43043</ee>
+<note type="source">ndltd.org (oai:dspace.mit.edu:1721.1/43043)</note>
+</phdthesis>
+</r>
+<r><article key="journals/pvldb/KallmanKNPRZJMSZHA08" mdate="2023-09-30">
+<author pid="49/5812">Robert Kallman</author>
+<author pid="98/5721-1">Hideaki Kimura 0001</author>
+<author pid="78/1484">Jonathan Natkins</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="39/998">Alex Rasin</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<author pid="83/4223">Evan P. C. Jones</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="06/6785">Yang Zhang</author>
+<author pid="09/3149">John Hugg</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>H-store: a high-performance, distributed main memory transaction processing system.</title>
+<pages>1496-1499</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1454211.pdf</ee>
+<ee>https://doi.org/10.14778/1454159.1454211</ee>
+<url>db/journals/pvldb/pvldb1.html#KallmanKNPRZJMSZHA08</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/AbadiMH08" mdate="2023-08-08">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="44/4141">Nabil Hachem</author>
+<title>Column-stores vs. row-stores: how different are they really?</title>
+<pages>967-980</pages>
+<year>2008</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1376616.1376712</ee>
+<ee>https://www.wikidata.org/entity/Q111728455</ee>
+<crossref>conf/sigmod/2008</crossref>
+<url>db/conf/sigmod/sigmod2008.html#AbadiMH08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HarizopoulosAMS08" mdate="2023-08-08">
+<author pid="38/6308">Stavros Harizopoulos</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>OLTP through the looking glass, and what we found there.</title>
+<pages>981-992</pages>
+<year>2008</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1376616.1376713</ee>
+<crossref>conf/sigmod/2008</crossref>
+<url>db/conf/sigmod/sigmod2008.html#HarizopoulosAMS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/Abadi07" mdate="2020-03-12">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<title>Column Stores for Wide and Sparse Data.</title>
+<pages>292-297</pages>
+<year>2007</year>
+<crossref>conf/cidr/2007</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2007/papers/cidr07p33.pdf</ee>
+<url>db/conf/cidr/cidr2007.html#Abadi07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AbadiMDM07" mdate="2023-08-08">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="05/1975">Daniel S. Myers</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>Materialization Strategies in a Column-Oriented DBMS.</title>
+<pages>466-475</pages>
+<year>2007</year>
+<crossref>conf/icde/2007</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2007.367892</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2007.367892</ee>
+<url>db/conf/icde/icde2007.html#AbadiMDM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/AbadiMMH07" mdate="2023-08-08">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="m/AdamMarcus2">Adam Marcus 0002</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="h/KatherineJHollenbach">Katherine J. Hollenbach</author>
+<title>Scalable Semantic Web Data Management Using Vertical Partitioning.</title>
+<pages>411-422</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/research/p411-abadi.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#AbadiMMH07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/StonebrakerMAHHH07" mdate="2023-08-08">
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="38/6308">Stavros Harizopoulos</author>
+<author pid="44/4141">Nabil Hachem</author>
+<author pid="h/PatHelland">Pat Helland</author>
+<title>The End of an Architectural Era (It's Time for a Complete Rewrite).</title>
+<pages>1150-1160</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/industrial/p1150-stonebraker.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#StonebrakerMAHHH07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AbadiMF06" mdate="2023-08-08">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="19/7">Miguel Ferreira</author>
+<title>Integrating compression and execution in column-oriented database systems.</title>
+<pages>671-682</pages>
+<year>2006</year>
+<crossref>conf/sigmod/2006</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1142473.1142548</ee>
+<url>db/conf/sigmod/sigmod2006.html#AbadiMF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/HarizopoulosLAM06" mdate="2023-08-08">
+<author pid="38/6308">Stavros Harizopoulos</author>
+<author pid="52/1968">Velen Liang</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<title>Performance Tradeoffs in Read-Optimized Databases.</title>
+<pages>487-498</pages>
+<year>2006</year>
+<crossref>conf/vldb/2006</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1164170</ee>
+<ee type="oa">http://www.vldb.org/conf/2006/p487-harizopoulos.pdf</ee>
+<url>db/conf/vldb/vldb2006.html#HarizopoulosLAM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/AbadiABCCHLMRRTXZ05" mdate="2020-03-12">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="99/770">Yanif Ahmad</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="c/MitchCherniack">Mitch Cherniack</author>
+<author pid="97/5585">Jeong-Hyon Hwang</author>
+<author pid="l/WolfgangLindner">Wolfgang Lindner 0001</author>
+<author pid="36/1442">Anurag Maskey</author>
+<author pid="39/998">Alex Rasin</author>
+<author pid="79/5102">Esther Ryvkina</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="79/5063">Ying Xing</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>The Design of the Borealis Stream Processing Engine.</title>
+<pages>277-289</pages>
+<year>2005</year>
+<crossref>conf/cidr/2005</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2005/papers/P23.pdf</ee>
+<url>db/conf/cidr/cidr2005.html#AbadiABCCHLMRRTXZ05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/StonebrakerABCCFLLMOORTZ05" mdate="2023-08-08">
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="82/6358">Adam Batkin</author>
+<author pid="84/5751">Xuedong Chen</author>
+<author pid="c/MitchCherniack">Mitch Cherniack</author>
+<author pid="19/7">Miguel Ferreira</author>
+<author pid="09/3689">Edmond Lau</author>
+<author pid="92/747">Amerson Lin</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="40/6709">Elizabeth J. O'Neil</author>
+<author pid="o/PatrickEONeil">Patrick E. O'Neil</author>
+<author pid="39/998">Alex Rasin</author>
+<author pid="80/4976">Nga Tran</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>C-Store: A Column-oriented DBMS.</title>
+<pages>553-564</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/archives/website/2005/program/paper/thu/p553-stonebraker.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083658</ee>
+<url>db/conf/vldb/vldb2005.html#StonebrakerABCCFLLMOORTZ05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/AbadiML05" mdate="2023-08-08">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="l/WolfgangLindner">Wolfgang Lindner 0001</author>
+<title>REED: Robust, Efficient Filtering and Event Detection in Sensor Networks.</title>
+<pages>769-780</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/archives/website/2005/program/paper/thu/p769-abadi.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083681</ee>
+<url>db/conf/vldb/vldb2005.html#AbadiML05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/AbadiLMS04" mdate="2023-08-08">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="l/WolfgangLindner">Wolfgang Lindner 0001</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="77/2502">J&#246;rg Schuler</author>
+<title>An Integration Framework for Sensor Networks and Data Stream Management Systems.</title>
+<pages>1361-1364</pages>
+<year>2004</year>
+<crossref>conf/vldb/2004</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://www.vldb.org/conf/2004/DEMP28.PDF</ee>
+<ee>https://doi.org/10.1016/B978-012088469-8.50147-9</ee>
+<url>db/conf/vldb/vldb2004.html#AbadiLMS04</url>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/AbadiCCCCLSTZ03" mdate="2018-11-14">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="06/3450">Donald Carney</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="c/MitchCherniack">Mitch Cherniack</author>
+<author pid="10/3476">Christian Convey</author>
+<author pid="59/2779">Sangdon Lee</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>Aurora: a new model and architecture for data stream management.</title>
+<pages>120-139</pages>
+<year>2003</year>
+<volume>12</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-003-0095-z</ee>
+<ee>https://www.wikidata.org/entity/Q56741695</ee>
+<url>db/journals/vldb/vldb12.html#AbadiCCCCLSTZ03</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/AbadiCCCCEGHMRSSTXYZ03" mdate="2018-11-06">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="06/3450">Donald Carney</author>
+<author pid="c/UgurCetintemel">Ugur &#199;etintemel</author>
+<author pid="c/MitchCherniack">Mitch Cherniack</author>
+<author pid="10/3476">Christian Convey</author>
+<author pid="58/5415">C. Erwin</author>
+<author pid="58/6473">Eduardo F. Galvez</author>
+<author pid="97/3174">M. Hatoun</author>
+<author pid="36/1442">Anurag Maskey</author>
+<author pid="39/998">Alex Rasin</author>
+<author pid="33/5581">A. Singer</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="79/5063">Ying Xing</author>
+<author pid="32/396">R. Yan</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>Aurora: A Data Stream Management System.</title>
+<pages>666</pages>
+<year>2003</year>
+<crossref>conf/sigmod/2003</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2003.html#AbadiCCCCEGHMRSSTXYZ03</url>
+<ee>https://doi.org/10.1145/872757.872855</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AbadiC02" mdate="2018-11-06">
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="c/MitchCherniack">Mitch Cherniack</author>
+<title>Visual COKO: a debugger for query optimizer development.</title>
+<pages>617</pages>
+<year>2002</year>
+<crossref>conf/sigmod/2002</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/564691.564770</ee>
+<url>db/conf/sigmod/sigmod2002.html#AbadiC02</url>
+</inproceedings>
+</r>
+<coauthors n="129" nc="2">
+<co c="0" n="2"><na f="a/Abouzeid:Azza" pid="57/7259">Azza Abouzeid</na><na>Azza Abouzied</na></co>
+<co c="0"><na f="a/Agrawal_0001:Rakesh" pid="a/RAgrawal">Rakesh Agrawal 0001</na></co>
+<co c="0"><na f="a/Ahmad:Yanif" pid="99/770">Yanif Ahmad</na></co>
+<co c="0"><na f="a/Ailamaki:Anastasia" pid="a/AnastassiaAilamaki">Anastasia Ailamaki</na></co>
+<co c="0"><na f="a/Andersen:David_G=" pid="a/DavidGAndersen">David G. Andersen</na></co>
+<co c="0"><na f="a/Arden:Owen" pid="116/8396">Owen Arden</na></co>
+<co c="0"><na f="a/Aspnes:James" pid="a/JamesAspnes">James Aspnes</na></co>
+<co c="0"><na f="b/Babu:Shivnath" pid="b/ShivnathBabu">Shivnath Babu</na></co>
+<co c="0"><na f="b/Bailis:Peter" pid="47/8816">Peter Bailis</na></co>
+<co c="0"><na f="b/Bajda=Pawlikowski:Kamil" pid="87/7258">Kamil Bajda-Pawlikowski</na></co>
+<co c="0"><na f="b/Balakrishnan:Hari" pid="b/HariBalakrishnan">Hari Balakrishnan</na></co>
+<co c="0"><na f="b/Balakrishnan_0001:Mahesh" pid="b/MBalakrishnan">Mahesh Balakrishnan 0001</na></co>
+<co c="0"><na f="b/Balazinska:Magdalena" pid="b/MagdalenaBalazinska">Magdalena Balazinska</na></co>
+<co c="0"><na f="b/Batkin:Adam" pid="82/6358">Adam Batkin</na></co>
+<co c="0"><na f="b/Bernstein:Philip_A=" pid="b/PhilipABernstein">Philip A. Bernstein</na></co>
+<co c="0"><na f="b/Bhattacherjee:Souvik" pid="27/7987">Souvik Bhattacherjee</na></co>
+<co c="0"><na f="b/Boncz:Peter_A=" pid="b/PeterABoncz">Peter A. Boncz</na></co>
+<co c="0"><na f="c/Cafarella:Michael_J=" pid="82/231">Michael J. Cafarella</na></co>
+<co c="0"><na f="c/Carey_0001:Michael_J=" pid="31/3455">Michael J. Carey 0001</na></co>
+<co c="0"><na f="c/Carney:Donald" pid="06/3450">Donald Carney</na></co>
+<co c="0"><na f="=/=Ccedil=etintemel:Ugur" pid="c/UgurCetintemel">Ugur &#199;etintemel</na></co>
+<co c="0"><na f="c/Chaudhuri:Surajit" pid="c/SurajitChaudhuri">Surajit Chaudhuri</na></co>
+<co c="0"><na f="c/Chen:Xuedong" pid="84/5751">Xuedong Chen</na></co>
+<co c="0"><na f="c/Cherniack:Mitch" pid="c/MitchCherniack">Mitch Cherniack</na></co>
+<co c="0"><na f="c/Cheung:Alvin" pid="16/4915">Alvin Cheung</na></co>
+<co c="0"><na f="c/Convey:Christian" pid="10/3476">Christian Convey</na></co>
+<co c="0"><na f="d/Dean:Jeffrey" pid="d/JeffreyDean">Jeffrey Dean</na></co>
+<co c="0"><na f="d/Deshpande:Amol" pid="d/AmolDeshpande">Amol Deshpande</na></co>
+<co c="0"><na f="d/DeWitt:David_J=" pid="d/DJDeWitt">David J. DeWitt</na></co>
+<co c="0"><na f="d/Diamond:Thaddeus" pid="72/11411">Thaddeus Diamond</na></co>
+<co c="-1"><na f="d/DiScala:Michael" pid="181/5703">Michael DiScala</na></co>
+<co c="0"><na f="d/Doan:AnHai" pid="d/AnHaiDoan">AnHai Doan</na></co>
+<co c="0" n="2"><na f="d/Dong_0001:Xin" pid="d/XinLunaDong">Xin Dong 0001</na><na>Luna Dong</na></co>
+<co c="0"><na f="e/Erwin:C=" pid="58/5415">C. Erwin</na></co>
+<co c="0"><na f="f/Faleiro:Jose_M=" pid="147/1195">Jose M. Faleiro</na></co>
+<co c="0"><na f="f/Ferreira:Miguel" pid="19/7">Miguel Ferreira</na></co>
+<co c="0"><na f="f/Franklin:Michael_J=" pid="f/MJFranklin">Michael J. Franklin</na></co>
+<co c="0"><na f="f/Freire:Juliana" pid="f/JulianaFreire">Juliana Freire</na></co>
+<co c="0"><na f="g/Galvez:Eduardo_F=" pid="58/6473">Eduardo F. Galvez</na></co>
+<co c="0"><na f="g/Garcia=Molina:Hector" pid="g/HGarciaMolina">Hector Garcia-Molina</na></co>
+<co c="0"><na f="g/Gehrke:Johannes" pid="g/JohannesGehrke">Johannes Gehrke</na></co>
+<co c="0"><na f="h/Haas:Laura_M=" pid="h/LauraMHaas">Laura M. Haas</na></co>
+<co c="0"><na f="h/Hachem:Nabil" pid="44/4141">Nabil Hachem</na></co>
+<co c="0"><na f="h/Halevy:Alon_Y=" pid="h/AlonYHalevy">Alon Y. Halevy</na></co>
+<co c="0"><na f="h/Harizopoulos:Stavros" pid="38/6308">Stavros Harizopoulos</na></co>
+<co c="0"><na f="h/Hatoun:M=" pid="97/3174">M. Hatoun</na></co>
+<co c="0"><na f="h/Helland:Pat" pid="h/PatHelland">Pat Helland</na></co>
+<co c="0"><na f="h/Hellerstein:Joseph_M=" pid="h/JosephMHellerstein">Joseph M. Hellerstein</na></co>
+<co c="0"><na f="h/Helt:Jeffrey" pid="200/8024">Jeffrey Helt</na></co>
+<co c="0"><na f="h/Hicks_0001:Michael" pid="h/MichaelWHicks">Michael Hicks 0001</na></co>
+<co c="0" n="2"><na f="h/Hollenbach:Katherine_J=" pid="h/KatherineJHollenbach">Katherine J. Hollenbach</na><na>Kate Hollenbach</na></co>
+<co c="0"><na f="h/Huang:Jiewen" pid="14/775">Jiewen Huang</na></co>
+<co c="0"><na f="h/Hugg:John" pid="09/3149">John Hugg</na></co>
+<co c="0"><na f="h/Hwang:Jeong=Hyon" pid="97/5585">Jeong-Hyon Hwang</na></co>
+<co c="0"><na f="i/Idreos:Stratos" pid="i/StratosIdreos">Stratos Idreos</na></co>
+<co c="0"><na f="i/Ioannidis:Yannis_E=" pid="i/YEIoannidis">Yannis E. Ioannidis</na></co>
+<co c="0"><na f="j/Jagadish:H=_V=" pid="j/HVJagadish">H. V. Jagadish</na></co>
+<co c="0"><na f="j/Jones:Evan_P=_C=" pid="83/4223">Evan P. C. Jones</na></co>
+<co c="0"><na f="k/Kallman:Robert" pid="49/5812">Robert Kallman</na></co>
+<co c="0"><na f="k/Kim:Juno" pid="59/8200">Juno Kim</na></co>
+<co c="0"><na f="k/Kimura_0001:Hideaki" pid="98/5721-1">Hideaki Kimura 0001</na></co>
+<co c="0"><na f="k/Kornacker:Marcel" pid="11/6425">Marcel Kornacker</na></co>
+<co c="0"><na f="k/Kossmann:Donald" pid="k/DonaldKossmann">Donald Kossmann</na></co>
+<co c="0"><na f="k/Kraska:Tim" pid="26/6037">Tim Kraska</na></co>
+<co c="0"><na f="k/Krishnamurthy:Sailesh" pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</na></co>
+<co c="0"><na f="l/Lau:Edmond" pid="09/3689">Edmond Lau</na></co>
+<co c="0"><na f="l/Lee:Sangdon" pid="59/2779">Sangdon Lee</na></co>
+<co c="0"><na f="l/Li:Dennis" pid="219/3032">Dennis Li</na></co>
+<co c="0"><na f="l/Liang:Velen" pid="52/1968">Velen Liang</na></co>
+<co c="0"><na f="l/Liao:Gang" pid="35/11471">Gang Liao</na></co>
+<co c="0"><na f="l/Lin:Amerson" pid="92/747">Amerson Lin</na></co>
+<co c="0"><na f="l/Lindner_0001:Wolfgang" pid="l/WolfgangLindner">Wolfgang Lindner 0001</na></co>
+<co c="0"><na f="l/Lloyd:Wyatt" pid="21/1059">Wyatt Lloyd</na></co>
+<co c="0"><na f="l/Lockerman:Joshua" pid="180/8181">Joshua Lockerman</na></co>
+<co c="-1"><na f="m/Maccioni:Antonio" pid="82/8707">Antonio Maccioni</na></co>
+<co c="0" n="2"><na f="m/Madden_0001:Samuel" pid="m/SamuelMadden">Samuel Madden 0001</na><na>Sam Madden</na></co>
+<co c="0"><na f="m/Marcus_0002:Adam" pid="m/AdamMarcus2">Adam Marcus 0002</na></co>
+<co c="0"><na f="m/Markl:Volker" pid="m/VMarkl">Volker Markl</na></co>
+<co c="0"><na f="m/Maskey:Anurag" pid="36/1442">Anurag Maskey</na></co>
+<co c="0"><na f="m/Mehrotra:Sharad" pid="m/SharadMehrotra">Sharad Mehrotra</na></co>
+<co c="0"><na f="m/Melnik_0001:Sergey" pid="m/SergeyMelnik">Sergey Melnik 0001</na></co>
+<co c="1"><na f="m/Miller:Johann_K=" pid="350/5935">Johann K. Miller</na></co>
+<co c="0"><na f="m/Milo:Tova" pid="m/TovaMilo">Tova Milo</na></co>
+<co c="0"><na f="m/Mohan_0001:C=" pid="m/CMohan">C. Mohan 0001</na></co>
+<co c="0"><na f="m/Myers:Daniel_S=" pid="05/1975">Daniel S. Myers</na></co>
+<co c="0"><na f="n/Natkins:Jonathan" pid="78/1484">Jonathan Natkins</na></co>
+<co c="0"><na f="n/Naughton:Jeffrey_F=" pid="n/JeffreyFNaughton">Jeffrey F. Naughton</na></co>
+<co c="0"><na f="n/Nawab:Faisal" pid="55/11299">Faisal Nawab</na></co>
+<co c="0"><na f="n/Neumann_0001:Thomas" pid="n/ThomasNeumann">Thomas Neumann 0001</na></co>
+<co c="1"><na f="n/Nguyen:Cuong_D=_T=" pid="350/5694">Cuong D. T. Nguyen</na></co>
+<co c="0"><na f="o/Olston:Christopher" pid="o/ChristopherOlston">Christopher Olston</na></co>
+<co c="0"><na f="o/O=Neil:Elizabeth_J=" pid="40/6709">Elizabeth J. O'Neil</na></co>
+<co c="0"><na f="o/O=Neil:Patrick_E=" pid="o/PatrickEONeil">Patrick E. O'Neil</na></co>
+<co c="0"><na f="o/Ooi:Beng_Chin" pid="o/BengChinOoi">Beng Chin Ooi</na></co>
+<co c="0" n="2"><na f="=/=Ouml=zcan:Fatma" pid="o/FatmaOzcan">Fatma &#214;zcan</na><na>Fatma Ozcan</na></co>
+<co c="0"><na f="p/Pandis:Ippokratis" pid="p/IppokratisPandis">Ippokratis Pandis</na></co>
+<co c="0"><na f="p/Patel:Jignesh_M=" pid="p/JMPatel">Jignesh M. Patel</na></co>
+<co c="0"><na f="p/Paulson_0001:Erik" pid="22/3083-1">Erik Paulson 0001</na></co>
+<co c="0"><na f="p/Pavlo:Andrew" pid="58/4127">Andrew Pavlo</na></co>
+<co c="0"><na f="p/Popa:Raluca_A=" pid="91/275">Raluca A. Popa</na></co>
+<co c="0"><na f="r/Ramakrishnan:Raghu" pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</na></co>
+<co c="0" n="2"><na f="r/Ramasamy:Karthikeyan" pid="r/KRamasamy">Karthikeyan Ramasamy</na><na>Karthik Ramasamy</na></co>
+<co c="0" n="2"><na f="r/Rasin:Alexander" pid="39/998">Alexander Rasin</na><na>Alex Rasin</na></co>
+<co c="0"><na f="r/R=eacute=:Christopher" pid="r/ChristopherRe">Christopher R&#233;</na></co>
+<co c="0"><na f="r/Ren:Kun" pid="04/9715">Kun Ren</na></co>
+<co c="0"><na f="r/Ryvkina:Esther" pid="79/5102">Esther Ryvkina</na></co>
+<co c="0"><na f="s/Sankaran:Soham" pid="228/0279">Soham Sankaran</na></co>
+<co c="0"><na f="s/Schuler:J=ouml=rg" pid="77/2502">J&#246;rg Schuler</na></co>
+<co c="0"><na f="s/Sen_0001:Siddhartha" pid="58/968">Siddhartha Sen 0001</na></co>
+<co c="0"><na f="s/Shadmon:Moshe" pid="87/5483">Moshe Shadmon</na></co>
+<co c="0"><na f="s/Shao:Philip" pid="64/11411">Philip Shao</na></co>
+<co c="0"><na f="s/Sharma:Abhinav" pid="57/7446">Abhinav Sharma</na></co>
+<co c="0"><na f="s/Silberschatz:Avi" pid="s/AbrahamSilberschatz">Avi Silberschatz</na></co>
+<co c="0"><na f="s/Singer:A=" pid="33/5581">A. Singer</na></co>
+<co c="0" n="2"><na f="s/Stonebraker:Michael" pid="s/MichaelStonebraker">Michael Stonebraker</na><na>Mike Stonebraker</na></co>
+<co c="0"><na f="s/Suciu:Dan" pid="s/DanSuciu">Dan Suciu</na></co>
+<co c="0"><na f="t/Tahara:Daniel" pid="139/4239">Daniel Tahara</na></co>
+<co c="0"><na f="t/Tatbul:Nesime" pid="t/NesimeTatbul">Nesime Tatbul</na></co>
+<co c="0"><na f="t/Thomson:Alexander" pid="21/8510">Alexander Thomson</na></co>
+<co c="0"><na f="t/Tran:Nga" pid="80/4976">Nga Tran</na></co>
+<co c="0"><na f="v/Venkatraman:Kartik" pid="145/6365">Kartik Venkatraman</na></co>
+<co c="0"><na f="w/Walter:Todd" pid="00/11358">Todd Walter</na></co>
+<co c="0"><na f="w/Weng:Shu=Chun" pid="54/1737">Shu-Chun Weng</na></co>
+<co c="0"><na f="w/Widom:Jennifer" pid="w/JenniferWidom">Jennifer Widom</na></co>
+<co c="0"><na f="w/Wiener:Janet_L=" pid="w/JanetLWiener">Janet L. Wiener</na></co>
+<co c="0"><na f="x/Xing:Ying" pid="79/5063">Ying Xing</na></co>
+<co c="0"><na f="y/Yan:R=" pid="32/396">R. Yan</na></co>
+<co c="0" n="2"><na f="z/Zdonik:Stanley_B=" pid="z/SBZdonik">Stanley B. Zdonik</na><na>Stan Zdonik</na></co>
+<co c="0"><na f="z/Zhang:Yang" pid="06/6785">Yang Zhang</na></co>
+</coauthors>
+</dblpperson>

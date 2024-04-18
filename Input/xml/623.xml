@@ -1,0 +1,486 @@
+<dblpperson name="Niv Dayan" pid="129/6927" n="28">
+<person key="homepages/129/6927" mdate="2013-05-15">
+<author pid="129/6927">Niv Dayan</author>
+</person>
+<r><article key="journals/pacmmod/DayanBRP23" mdate="2023-07-07">
+<author orcid="0000-0003-0314-0167" pid="129/6927">Niv Dayan</author>
+<author orcid="0000-0001-8430-2441" pid="231/6342">Ioana O. Bercea</author>
+<author orcid="0000-0003-2540-5234" pid="60/2579">Pedro Reviriego</author>
+<author orcid="0000-0002-1516-9306" pid="p/RasmusPagh">Rasmus Pagh</author>
+<title>InfiniFilter: Expanding Filters to Infinity and Beyond.</title>
+<pages>140:1-140:27</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3589285</ee>
+<url>db/journals/pacmmod/pacmmod1.html#DayanBRP23</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/SarkarDA23" mdate="2023-11-12">
+<author orcid="0000-0001-5356-203X" pid="158/4862">Subhadeep Sarkar</author>
+<author pid="129/6927">Niv Dayan</author>
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<title>The LSM Design Space and its Read Optimizations.</title>
+<pages>3578-3584</pages>
+<year>2023</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE55515.2023.00273</ee>
+<crossref>conf/icde/2023</crossref>
+<url>db/conf/icde/icde2023.html#SarkarDA23</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/DayanWDPBT22" mdate="2023-10-23">
+<author pid="129/6927">Niv Dayan</author>
+<author pid="328/6921">Tamar Weiss</author>
+<author pid="300/4394">Shmuel Dashevsky</author>
+<author pid="90/6609">Michael Pan</author>
+<author pid="35/191">Edward Bortnikov</author>
+<author pid="37/3321">Moshe Twitto</author>
+<title>Spooky: Granulating LSM-Tree Compactions Correctly.</title>
+<pages>3071-3084</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p3071-dayan.pdf</ee>
+<ee>https://doi.org/10.14778/3551793.3551853</ee>
+<url>db/journals/pvldb/pvldb15.html#DayanWDPBT22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DayanRNDRBMFZAT21" mdate="2022-04-21">
+<author pid="129/6927">Niv Dayan</author>
+<author pid="122/1265">Yuval Rochman</author>
+<author pid="73/8909">Iddo Naiss</author>
+<author pid="300/4394">Shmuel Dashevsky</author>
+<author pid="300/3915">Noam Rabinovich</author>
+<author pid="35/191">Edward Bortnikov</author>
+<author pid="300/4039">Igal Maly</author>
+<author pid="300/4647">Ofer Frishman</author>
+<author pid="241/5856">Itai Ben Zion</author>
+<author pid="300/3961">Avraham</author>
+<author pid="37/3321">Moshe Twitto</author>
+<author pid="143/9724">Uri Beitler</author>
+<author pid="300/4223">Evgeni Ginzburg</author>
+<author pid="54/6589">Mark Mokryn</author>
+<title>The End of Moore's Law and the Rise of The Data Processor.</title>
+<pages>2932-2944</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2932-dayan.pdf</ee>
+<ee>https://doi.org/10.14778/3476311.3476373</ee>
+<url>db/journals/pvldb/pvldb14.html#DayanRNDRBMFZAT21</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/DayanT21" mdate="2021-06-21">
+<author pid="129/6927">Niv Dayan</author>
+<author pid="37/3321">Moshe Twitto</author>
+<title>Chucky: A Succinct Cuckoo Filter for LSM-Tree.</title>
+<pages>365-378</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3457273</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#DayanT21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LuoCKDQI20" mdate="2021-10-14">
+<author orcid="0000-0001-8197-0903" pid="117/5965">Siqiang Luo</author>
+<author pid="139/7927">Subarna Chatterjee</author>
+<author pid="266/5764">Rafael Ketsetsidis</author>
+<author pid="129/6927">Niv Dayan</author>
+<author pid="181/5874">Wilson Qin</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Rosetta: A Robust Space-Time Optimized Range Filter for Key-Value Stores.</title>
+<pages>2071-2086</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389731</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#LuoCKDQI20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-11474" mdate="2020-06-23">
+<author pid="24/279">Haridimos Kondylakis</author>
+<author pid="129/6927">Niv Dayan</author>
+<author pid="17/9799">Kostas Zoumpatianos</author>
+<author pid="p/ThemisPalpanas">Themis Palpanas</author>
+<title>Coconut: sortable summarizations for scalable indexes over static and streaming data series.</title>
+<year>2020</year>
+<volume>abs/2006.11474</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.11474</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-11474</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-13079" mdate="2020-07-01">
+<author pid="24/279">Haridimos Kondylakis</author>
+<author pid="129/6927">Niv Dayan</author>
+<author pid="17/9799">Kostas Zoumpatianos</author>
+<author pid="p/ThemisPalpanas">Themis Palpanas</author>
+<title>Coconut Palm: Static and Streaming Data Series Exploration Now in your Palm.</title>
+<year>2020</year>
+<volume>abs/2006.13079</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.13079</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-13079</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-13713" mdate="2020-07-01">
+<author pid="24/279">Haridimos Kondylakis</author>
+<author pid="129/6927">Niv Dayan</author>
+<author pid="17/9799">Kostas Zoumpatianos</author>
+<author pid="p/ThemisPalpanas">Themis Palpanas</author>
+<title>Coconut: a scalable bottom-up approach for building data series indexes.</title>
+<year>2020</year>
+<volume>abs/2006.13713</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.13713</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-13713</url>
+</article>
+</r>
+<r><article key="journals/debu/IdreosZCQWHKDGK19" mdate="2020-03-10">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="17/9799">Kostas Zoumpatianos</author>
+<author pid="139/7927">Subarna Chatterjee</author>
+<author pid="181/5874">Wilson Qin</author>
+<author pid="149/9304">Abdul Wasay</author>
+<author pid="213/7863">Brian Hentschel</author>
+<author pid="202/1791">Mike S. Kester</author>
+<author pid="129/6927">Niv Dayan</author>
+<author pid="215/3969">Demi Guo</author>
+<author pid="145/9914">Minseo Kang</author>
+<author pid="211/5630">Yiyou Sun</author>
+<title>Learning Data Structure Alchemy.</title>
+<pages>47-58</pages>
+<year>2019</year>
+<volume>42</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<ee type="oa">http://sites.computer.org/debull/A19june/p47.pdf</ee>
+<url>db/journals/debu/debu42.html#IdreosZCQWHKDGK19</url>
+</article>
+</r>
+<r><article key="journals/vldb/KondylakisDZP19" mdate="2019-11-26">
+<author orcid="0000-0002-9917-4486" pid="24/279">Haridimos Kondylakis</author>
+<author pid="129/6927">Niv Dayan</author>
+<author pid="17/9799">Kostas Zoumpatianos</author>
+<author pid="p/ThemisPalpanas">Themis Palpanas</author>
+<title>Coconut: sortable summarizations for scalable indexes over static and streaming data series.</title>
+<pages>847-869</pages>
+<year>2019</year>
+<volume>28</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00778-019-00573-w</ee>
+<url>db/journals/vldb/vldb28.html#KondylakisDZP19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/IdreosDQAHRLJGL19" mdate="2020-03-12">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="129/6927">Niv Dayan</author>
+<author pid="181/5874">Wilson Qin</author>
+<author pid="233/6247">Mali Akmanalp</author>
+<author pid="233/6276">Sophie Hilgard</author>
+<author pid="09/3382">Andrew Ross</author>
+<author pid="233/6273">James Lennon</author>
+<author pid="83/2171">Varun Jain</author>
+<author pid="204/7805">Harshita Gupta</author>
+<author pid="09/6661">David Li</author>
+<author pid="149/1342">Zichen Zhu</author>
+<title>Design Continuums and the Path Toward Self-Designing Key-Value Stores that Know and Learn.</title>
+<year>2019</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2019/papers/p143-idreos-cidr19.pdf</ee>
+<crossref>conf/cidr/2019</crossref>
+<url>db/conf/cidr/cidr2019.html#IdreosDQAHRLJGL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DayanI19" mdate="2019-06-22">
+<author pid="129/6927">Niv Dayan</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>The Log-Structured Merge-Bush &amp; the Wacky Continuum.</title>
+<pages>449-466</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3319903</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#DayanI19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KondylakisDZP19" mdate="2019-06-22">
+<author pid="24/279">Haridimos Kondylakis</author>
+<author pid="129/6927">Niv Dayan</author>
+<author pid="17/9799">Kostas Zoumpatianos</author>
+<author pid="p/ThemisPalpanas">Themis Palpanas</author>
+<title>Coconut Palm: Static and Streaming Data Series Exploration Now in your Palm.</title>
+<pages>1941-1944</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3320233</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#KondylakisDZP19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-05443" mdate="2019-07-17">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="129/6927">Niv Dayan</author>
+<author pid="181/5874">Wilson Qin</author>
+<author pid="233/6247">Mali Akmanalp</author>
+<author pid="233/6276">Sophie Hilgard</author>
+<author pid="09/3382">Andrew Ross</author>
+<author pid="233/6273">James Lennon</author>
+<author pid="83/2171">Varun Jain</author>
+<author pid="204/7805">Harshita Gupta</author>
+<author pid="09/6661">David Li</author>
+<author pid="149/1342">Zichen Zhu</author>
+<title>Learning Key-Value Store Design.</title>
+<year>2019</year>
+<volume>abs/1907.05443</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.05443</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-05443</url>
+</article>
+</r>
+<r><article key="journals/debu/IdreosZADHKGMQW18" mdate="2020-03-10">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="17/9799">Kostas Zoumpatianos</author>
+<author pid="82/7402">Manos Athanassoulis</author>
+<author pid="129/6927">Niv Dayan</author>
+<author pid="213/7863">Brian Hentschel</author>
+<author pid="64/10989">Michael S. Kester</author>
+<author pid="215/3969">Demi Guo</author>
+<author pid="131/4096">Lukas M. Maas</author>
+<author pid="181/5874">Wilson Qin</author>
+<author pid="149/9304">Abdul Wasay</author>
+<author pid="211/5630">Yiyou Sun</author>
+<title>The Periodic Table of Data Structures.</title>
+<pages>64-75</pages>
+<year>2018</year>
+<volume>41</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<ee type="oa">http://sites.computer.org/debull/A18sept/p64.pdf</ee>
+<url>db/journals/debu/debu41.html#IdreosZADHKGMQW18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KondylakisDZP18" mdate="2020-04-25">
+<author pid="24/279">Haridimos Kondylakis</author>
+<author pid="129/6927">Niv Dayan</author>
+<author pid="17/9799">Kostas Zoumpatianos</author>
+<author pid="p/ThemisPalpanas">Themis Palpanas</author>
+<title>Coconut: A Scalable Bottom-Up Approach for Building Data Series Indexes.</title>
+<pages>677-690</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p677-kondylakis.pdf</ee>
+<ee>https://doi.org/10.14778/3184470.3184472</ee>
+<url>db/journals/pvldb/pvldb11.html#KondylakisDZP18</url>
+</article>
+</r>
+<r><article key="journals/tods/DayanAI18" mdate="2020-09-05">
+<author pid="129/6927">Niv Dayan</author>
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Optimal Bloom Filters and Adaptive Merging for LSM-Trees.</title>
+<pages>16:1-16:48</pages>
+<year>2018</year>
+<volume>43</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3276980</ee>
+<url>db/journals/tods/tods43.html#DayanAI18</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/DayanI18" mdate="2018-11-21">
+<author pid="129/6927">Niv Dayan</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores via Adaptive Removal of Superfluous Merging.</title>
+<pages>505-520</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3196927</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#DayanI18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DayanAI17" mdate="2021-10-14">
+<author pid="129/6927">Niv Dayan</author>
+<author orcid="0000-0003-1837-0010" pid="82/7402">Manos Athanassoulis</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Monkey: Optimal Navigable Key-Value Store.</title>
+<pages>79-94</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3064054</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#DayanAI17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/WasayWDI17" mdate="2018-11-06">
+<author pid="149/9304">Abdul Wasay</author>
+<author pid="199/6364">Xinding Wei</author>
+<author pid="129/6927">Niv Dayan</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>Data Canopy: Accelerating Exploratory Statistical Analysis.</title>
+<pages>557-572</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3064051</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#WasayWDI17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/birte/IdreosADGKMZ16" mdate="2019-10-11">
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="82/7402">Manos Athanassoulis</author>
+<author pid="129/6927">Niv Dayan</author>
+<author pid="215/3969">Demi Guo</author>
+<author pid="202/1791">Mike S. Kester</author>
+<author pid="131/4096">Lukas M. Maas</author>
+<author pid="17/9799">Kostas Zoumpatianos</author>
+<title>Past and Future Steps for Adaptive Storage Data Systems: From Shallow to Deep Adaptivity.</title>
+<pages>85-94</pages>
+<year>2016</year>
+<booktitle>BIRTE (Revised Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-24124-7_6</ee>
+<crossref>conf/birte/2017s</crossref>
+<url>db/conf/birte/birte2017s.html#IdreosADGKMZ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DayanBI16" mdate="2020-03-27">
+<author pid="129/6927">Niv Dayan</author>
+<author orcid="0000-0002-0234-5374" pid="b/PBonnet">Philippe Bonnet</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<title>GeckoFTL: Scalable Flash Translation Techniques For Very Large Flash Devices.</title>
+<pages>327-342</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2915219</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#DayanBI16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/DayanBB15" mdate="2018-08-13">
+<author pid="129/6927">Niv Dayan</author>
+<author pid="b/LucBouganim">Luc Bouganim</author>
+<author pid="b/PBonnet">Philippe Bonnet</author>
+<title>Modelling and Managing SSD Write-amplification.</title>
+<year>2015</year>
+<volume>abs/1504.00229</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1504.00229</ee>
+<url>db/journals/corr/corr1504.html#DayanBB15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/DayanB15" mdate="2018-08-13">
+<author pid="129/6927">Niv Dayan</author>
+<author pid="b/PBonnet">Philippe Bonnet</author>
+<title>Garbage Collection Techniques for Flash-Resident Page-Mapping FTLs.</title>
+<year>2015</year>
+<volume>abs/1504.01666</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1504.01666</ee>
+<url>db/journals/corr/corr1504.html#DayanB15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/DayanSBBB14" mdate="2018-08-13">
+<author pid="129/6927">Niv Dayan</author>
+<author pid="135/4706">Martin Kj&#230;r Svendsen</author>
+<author pid="30/8166">Matias Bj&#248;rling</author>
+<author pid="b/PBonnet">Philippe Bonnet</author>
+<author pid="b/LucBouganim">Luc Bouganim</author>
+<title>EagleTree: Exploring the Design Space of SSD-Based Algorithms.</title>
+<year>2014</year>
+<volume>abs/1401.6360</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1401.6360</ee>
+<url>db/journals/corr/corr1401.html#DayanSBBB14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DayanSBBB13" mdate="2020-04-25">
+<author pid="129/6927">Niv Dayan</author>
+<author pid="135/4706">Martin Kj&#230;r Svendsen</author>
+<author pid="30/8166">Matias Bj&#248;rling</author>
+<author orcid="0000-0002-0234-5374" pid="b/PBonnet">Philippe Bonnet</author>
+<author pid="b/LucBouganim">Luc Bouganim</author>
+<title>EagleTree: Exploring the Design Space of SSD-Based Algorithms.</title>
+<pages>1290-1293</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p1290-dayan.pdf</ee>
+<ee>https://doi.org/10.14778/2536274.2536298</ee>
+<url>db/journals/pvldb/pvldb6.html#DayanSBBB13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/BjorlingBBD13" mdate="2020-03-12">
+<author pid="30/8166">Matias Bj&#248;rling</author>
+<author pid="b/PBonnet">Philippe Bonnet</author>
+<author pid="b/LucBouganim">Luc Bouganim</author>
+<author pid="129/6927">Niv Dayan</author>
+<title>The Necessary Death of the Block Device Interface.</title>
+<year>2013</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2013/Papers/CIDR13_Paper89.pdf</ee>
+<crossref>conf/cidr/2013</crossref>
+<url>db/conf/cidr/cidr2013.html#BjorlingBBD13</url>
+</inproceedings>
+</r>
+<coauthors n="49" nc="3">
+<co c="0"><na f="a/Akmanalp:Mali" pid="233/6247">Mali Akmanalp</na></co>
+<co c="0"><na f="a/Athanassoulis:Manos" pid="82/7402">Manos Athanassoulis</na></co>
+<co c="1"><na f="a/Avraham:" pid="300/3961">Avraham</na></co>
+<co c="1"><na f="b/Beitler:Uri" pid="143/9724">Uri Beitler</na></co>
+<co c="2"><na f="b/Bercea:Ioana_O=" pid="231/6342">Ioana O. Bercea</na></co>
+<co c="0"><na f="b/Bj=oslash=rling:Matias" pid="30/8166">Matias Bj&#248;rling</na></co>
+<co c="0"><na f="b/Bonnet:Philippe" pid="b/PBonnet">Philippe Bonnet</na></co>
+<co c="1"><na f="b/Bortnikov:Edward" pid="35/191">Edward Bortnikov</na></co>
+<co c="0"><na f="b/Bouganim:Luc" pid="b/LucBouganim">Luc Bouganim</na></co>
+<co c="0"><na f="c/Chatterjee:Subarna" pid="139/7927">Subarna Chatterjee</na></co>
+<co c="1"><na f="d/Dashevsky:Shmuel" pid="300/4394">Shmuel Dashevsky</na></co>
+<co c="1"><na f="f/Frishman:Ofer" pid="300/4647">Ofer Frishman</na></co>
+<co c="1"><na f="g/Ginzburg:Evgeni" pid="300/4223">Evgeni Ginzburg</na></co>
+<co c="0"><na f="g/Guo:Demi" pid="215/3969">Demi Guo</na></co>
+<co c="0"><na f="g/Gupta:Harshita" pid="204/7805">Harshita Gupta</na></co>
+<co c="0"><na f="h/Hentschel:Brian" pid="213/7863">Brian Hentschel</na></co>
+<co c="0"><na f="h/Hilgard:Sophie" pid="233/6276">Sophie Hilgard</na></co>
+<co c="0"><na f="i/Idreos:Stratos" pid="i/StratosIdreos">Stratos Idreos</na></co>
+<co c="0"><na f="j/Jain:Varun" pid="83/2171">Varun Jain</na></co>
+<co c="0"><na f="k/Kang:Minseo" pid="145/9914">Minseo Kang</na></co>
+<co c="0"><na f="k/Kester:Michael_S=" pid="64/10989">Michael S. Kester</na></co>
+<co c="0"><na f="k/Kester:Mike_S=" pid="202/1791">Mike S. Kester</na></co>
+<co c="0"><na f="k/Ketsetsidis:Rafael" pid="266/5764">Rafael Ketsetsidis</na></co>
+<co c="0"><na f="k/Kondylakis:Haridimos" pid="24/279">Haridimos Kondylakis</na></co>
+<co c="0"><na f="l/Lennon:James" pid="233/6273">James Lennon</na></co>
+<co c="0"><na f="l/Li:David" pid="09/6661">David Li</na></co>
+<co c="0"><na f="l/Luo:Siqiang" pid="117/5965">Siqiang Luo</na></co>
+<co c="0"><na f="m/Maas:Lukas_M=" pid="131/4096">Lukas M. Maas</na></co>
+<co c="1"><na f="m/Maly:Igal" pid="300/4039">Igal Maly</na></co>
+<co c="1"><na f="m/Mokryn:Mark" pid="54/6589">Mark Mokryn</na></co>
+<co c="1"><na f="n/Naiss:Iddo" pid="73/8909">Iddo Naiss</na></co>
+<co c="2"><na f="p/Pagh:Rasmus" pid="p/RasmusPagh">Rasmus Pagh</na></co>
+<co c="0"><na f="p/Palpanas:Themis" pid="p/ThemisPalpanas">Themis Palpanas</na></co>
+<co c="1"><na f="p/Pan:Michael" pid="90/6609">Michael Pan</na></co>
+<co c="0"><na f="q/Qin:Wilson" pid="181/5874">Wilson Qin</na></co>
+<co c="1"><na f="r/Rabinovich:Noam" pid="300/3915">Noam Rabinovich</na></co>
+<co c="2"><na f="r/Reviriego:Pedro" pid="60/2579">Pedro Reviriego</na></co>
+<co c="1"><na f="r/Rochman:Yuval" pid="122/1265">Yuval Rochman</na></co>
+<co c="0"><na f="r/Ross:Andrew" pid="09/3382">Andrew Ross</na></co>
+<co c="0"><na f="s/Sarkar:Subhadeep" pid="158/4862">Subhadeep Sarkar</na></co>
+<co c="0"><na f="s/Sun:Yiyou" pid="211/5630">Yiyou Sun</na></co>
+<co c="0"><na f="s/Svendsen:Martin_Kj=aelig=r" pid="135/4706">Martin Kj&#230;r Svendsen</na></co>
+<co c="1"><na f="t/Twitto:Moshe" pid="37/3321">Moshe Twitto</na></co>
+<co c="0"><na f="w/Wasay:Abdul" pid="149/9304">Abdul Wasay</na></co>
+<co c="0"><na f="w/Wei:Xinding" pid="199/6364">Xinding Wei</na></co>
+<co c="1"><na f="w/Weiss:Tamar" pid="328/6921">Tamar Weiss</na></co>
+<co c="0"><na f="z/Zhu:Zichen" pid="149/1342">Zichen Zhu</na></co>
+<co c="1"><na f="z/Zion:Itai_Ben" pid="241/5856">Itai Ben Zion</na></co>
+<co c="0"><na f="z/Zoumpatianos:Kostas" pid="17/9799">Kostas Zoumpatianos</na></co>
+</coauthors>
+</dblpperson>

@@ -1,0 +1,1778 @@
+<dblpperson name="Raluca A. Popa" pid="91/275" n="103">
+<person key="homepages/91/275" mdate="2023-02-18">
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<url>https://people.eecs.berkeley.edu/~raluca/</url>
+<url>https://www.acm.org/articles/people-of-acm/2014/raluca-ada-popa</url>
+<url>https://www.acm.org/articles/people-of-acm/2022/raluca-ada-popa</url>
+<url>https://scholar.google.com/citations?user=NvKHgzkAAAAJ</url>
+<url>https://twitter.com/ralucaadapopa</url>
+<note type="affiliation">University of California, Berkeley, CA, USA</note>
+</person>
+<r><article publtype="informal" key="journals/iacr/WatsonDTPDP24" mdate="2024-03-18">
+<author pid="317/1692">Jean-Luc Watson</author>
+<author pid="317/2369">Tess Despres</author>
+<author pid="57/876">Alvin Tan</author>
+<author pid="251/1906">Shishir G. Patil</author>
+<author pid="40/5390">Prabal Dutta</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Nebula: A Privacy-First Platform for Data Backhaul.</title>
+<pages>409</pages>
+<year>2024</year>
+<volume>2024</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2024/409</ee>
+<url>db/journals/iacr/iacr2024.html#WatsonDTPDP24</url>
+</article>
+</r>
+<r><inproceedings key="conf/sp/TanCDP23" mdate="2023-07-27">
+<author pid="290/8933">Sijun Tan</author>
+<author pid="160/1002">Weikeng Chen</author>
+<author pid="277/5307">Ryan Deng</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>MPCAuth: Multi-factor Authentication for Distributed-trust Systems.</title>
+<pages>829-847</pages>
+<year>2023</year>
+<booktitle>SP</booktitle>
+<ee>https://doi.org/10.1109/SP46215.2023.10179481</ee>
+<crossref>conf/sp/2023</crossref>
+<url>db/conf/sp/sp2023.html#TanCDP23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sp/RatheeSWP23" mdate="2023-07-27">
+<author pid="33/2105-2">Mayank Rathee</author>
+<author pid="336/5430">Conghao Shen</author>
+<author pid="175/1766">Sameer Wagh</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>ELSA: Secure Aggregation for Federated Learning with Malicious Actors.</title>
+<pages>1961-1979</pages>
+<year>2023</year>
+<booktitle>SP</booktitle>
+<ee>https://doi.org/10.1109/SP46215.2023.10179468</ee>
+<crossref>conf/sp/2023</crossref>
+<url>db/conf/sp/sp2023.html#RatheeSWP23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/ChangSCKP23" mdate="2023-10-18">
+<author pid="123/6988">Ian Chang</author>
+<author pid="129/1428">Katerina Sotiraki</author>
+<author pid="160/1002">Weikeng Chen</author>
+<author pid="36/195">Murat Kantarcioglu</author>
+<author pid="91/275">Raluca A. Popa</author>
+<title>HOLMES: Efficient Distribution Testing for Secure Collaborative Learning.</title>
+<year>2023</year>
+<booktitle>USENIX Security Symposium</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenixsecurity23/presentation/chang</ee>
+<crossref>conf/uss/2023</crossref>
+<url>db/conf/uss/uss2023.html#ChangSCKP23</url>
+<pages>4823-4840</pages>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/AbadiAABBBBCCDD22" mdate="2024-02-05">
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="a/DavidGAndersen">David G. Andersen</author>
+<author pid="47/8816">Peter Bailis</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="d/XinLunaDong">Luna Dong</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="f/JulianaFreire">Juliana Freire</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="m/SergeyMelnik">Sergey Melnik 0001</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="o/BengChinOoi">Beng Chin Ooi</author>
+<author pid="o/FatmaOzcan">Fatma Ozcan</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<title>The Seattle report on database research.</title>
+<pages>72-79</pages>
+<year>2022</year>
+<volume>65</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<ee>https://doi.org/10.1145/3524284</ee>
+<url>db/journals/cacm/cacm65.html#AbadiAABBBBCCDD22</url>
+</article>
+</r>
+<r><article key="journals/cacm/BarrosoCGOPSP22" mdate="2023-04-13">
+<author pid="b/LuizAndreBarroso">Luiz Andr&#233; Barroso</author>
+<author pid="86/45">Tanzeem Choudhury</author>
+<author pid="g/ManishGupta2">Manish Gupta 0002</author>
+<author pid="o/KunleOlukotun">Oyekunle A. Olukotun</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="s/DXSong">Dawn Xiaodong Song</author>
+<author pid="p/DAPatterson">David A. Patterson 0001</author>
+<title>Global perspectives of diversity, equity, and inclusion.</title>
+<pages>30-31</pages>
+<year>2022</year>
+<volume>65</volume>
+<journal>Commun. ACM</journal>
+<number>12</number>
+<ee>https://doi.org/10.1145/3548454</ee>
+<url>db/journals/cacm/cacm65.html#BarrosoCGOPSP22</url>
+</article>
+</r>
+<r><inproceedings key="conf/eurosp/FangBLZPP22" mdate="2022-06-29">
+<author pid="276/2386">Vivian Fang</author>
+<author pid="272/7111">Lloyd Brown</author>
+<author pid="28/11180">William Lin</author>
+<author pid="94/4314">Wenting Zheng</author>
+<author pid="55/925">Aurojit Panda</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>CostCO: An automatic cost modeling framework for secure multi-party computation.</title>
+<pages>140-153</pages>
+<year>2022</year>
+<booktitle>EuroS&amp;P</booktitle>
+<ee>https://doi.org/10.1109/EuroSP53844.2022.00017</ee>
+<crossref>conf/eurosp/2022</crossref>
+<url>db/conf/eurosp/eurosp2022.html#FangBLZPP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hotnets/DautermanFCP22" mdate="2022-11-17">
+<author pid="228/8084">Emma Dauterman</author>
+<author pid="276/2386">Vivian Fang</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Reflections on trusting distributed trust.</title>
+<pages>38-45</pages>
+<year>2022</year>
+<booktitle>HotNets</booktitle>
+<ee>https://doi.org/10.1145/3563766.3564089</ee>
+<crossref>conf/hotnets/2022</crossref>
+<url>db/conf/hotnets/hotnets2022.html#DautermanFCP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sp/DautermanRPS22" mdate="2023-09-21">
+<author pid="228/8084">Emma Dauterman</author>
+<author pid="33/2105-2">Mayank Rathee</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<title>Waldo: A Private Time-Series Database from Function Secret Sharing.</title>
+<pages>2450-2468</pages>
+<year>2022</year>
+<booktitle>SP</booktitle>
+<ee>https://doi.org/10.1109/SP46214.2022.9833611</ee>
+<crossref>conf/sp/2022</crossref>
+<url>db/conf/sp/sp2022.html#DautermanRPS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/WatsonWP22" mdate="2022-10-18">
+<author pid="317/1692">Jean-Luc Watson</author>
+<author pid="175/1766">Sameer Wagh</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Piranha: A GPU Platform for Secure Computation.</title>
+<pages>827-844</pages>
+<year>2022</year>
+<booktitle>USENIX Security Symposium</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenixsecurity22/presentation/watson</ee>
+<crossref>conf/uss/2022</crossref>
+<url>db/conf/uss/uss2022.html#WatsonWP22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-07147" mdate="2023-11-12">
+<author pid="76/10322">Sarah E. Chasins</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="71/4226-2">Ali Ghodsi 0002</author>
+<author orcid="0000-0002-2661-4524" pid="g/KennethYGoldberg">Ken Goldberg</author>
+<author orcid="0000-0003-2921-956X" pid="61/8262">Joseph E. Gonzalez</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="j/MichaelIJordan">Michael I. Jordan</author>
+<author pid="30/2317">Anthony D. Joseph</author>
+<author pid="10/6978">Michael W. Mahoney</author>
+<author orcid="0000-0002-4538-4752" pid="40/7459">Aditya G. Parameswaran</author>
+<author pid="p/DAPatterson">David A. Patterson 0001</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="04/418">Koushik Sen</author>
+<author pid="34/5593">Scott Shenker</author>
+<author pid="s/DXSong">Dawn Song</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<title>The Sky Above The Clouds.</title>
+<year>2022</year>
+<volume>abs/2205.07147</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.07147</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-07147</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-08127" mdate="2022-10-18">
+<author pid="228/8084">Emma Dauterman</author>
+<author pid="276/2386">Vivian Fang</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Reflections on trusting distributed trust.</title>
+<year>2022</year>
+<volume>abs/2210.08127</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.08127</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-08127</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/FangBLZPP22" mdate="2022-04-21">
+<author pid="276/2386">Vivian Fang</author>
+<author pid="272/7111">Lloyd Brown</author>
+<author pid="28/11180">William Lin</author>
+<author pid="94/4314">Wenting Zheng</author>
+<author pid="55/925">Aurojit Panda</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>CostCO: An automatic cost modeling framework for secure multi-party computation.</title>
+<pages>332</pages>
+<year>2022</year>
+<volume>2022</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2022/332</ee>
+<url>db/journals/iacr/iacr2022.html#FangBLZPP22</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/WatsonWP22" mdate="2022-09-27">
+<author pid="317/1692">Jean-Luc Watson</author>
+<author pid="175/1766">Sameer Wagh</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Piranha: A GPU Platform for Secure Computation.</title>
+<pages>892</pages>
+<year>2022</year>
+<volume>2022</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2022/892</ee>
+<url>db/journals/iacr/iacr2022.html#WatsonWP22</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/RatheeSWP22" mdate="2023-01-05">
+<author pid="33/2105-2">Mayank Rathee</author>
+<author pid="336/5430">Conghao Shen</author>
+<author pid="175/1766">Sameer Wagh</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>ELSA: Secure Aggregation for Federated Learning with Malicious Actors.</title>
+<pages>1695</pages>
+<year>2022</year>
+<volume>2022</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2022/1695</ee>
+<url>db/journals/iacr/iacr2022.html#RatheeSWP22</url>
+</article>
+</r>
+<r><article key="journals/cacm/Schleier-SmithS21" mdate="2023-11-12">
+<author pid="166/5229">Johann Schleier-Smith</author>
+<author pid="192/4561">Vikram Sreekanti</author>
+<author pid="162/1936">Anurag Khandelwal</author>
+<author pid="61/5621">Jo&#227;o Carreira</author>
+<author pid="36/8142">Neeraja Jayant Yadwadkar</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author orcid="0000-0003-2921-956X" pid="61/8262">Joseph E. Gonzalez</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<author pid="p/DAPatterson">David A. Patterson 0001</author>
+<title>What serverless computing is and should become: the next phase of cloud computing.</title>
+<pages>76-84</pages>
+<year>2021</year>
+<volume>64</volume>
+<journal>Commun. ACM</journal>
+<number>5</number>
+<ee>https://doi.org/10.1145/3406011</ee>
+<url>db/journals/cacm/cacm64.html#Schleier-SmithS21</url>
+</article>
+</r>
+<r><inproceedings key="conf/osdi/KumarCP21" mdate="2021-08-12">
+<author pid="173/8201">Sam Kumar</author>
+<author pid="c/DavidECuller">David E. Culler</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>MAGE: Nearly Zero-Cost Virtual Memory for Secure Computation.</title>
+<pages>367-385</pages>
+<year>2021</year>
+<booktitle>OSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/osdi21/presentation/kumar</ee>
+<crossref>conf/osdi/2021</crossref>
+<url>db/conf/osdi/osdi2021.html#KumarCP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sosp/DautermanFDCP21" mdate="2021-10-21">
+<author pid="228/8084">Emma Dauterman</author>
+<author pid="276/2386">Vivian Fang</author>
+<author pid="181/5758">Ioannis Demertzis</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Snoopy: Surpassing the Scalability Bottleneck of Oblivious Storage.</title>
+<pages>655-671</pages>
+<year>2021</year>
+<booktitle>SOSP</booktitle>
+<ee>https://doi.org/10.1145/3477132.3483562</ee>
+<crossref>conf/sosp/2021</crossref>
+<url>db/conf/sosp/sosp2021.html#DautermanFDCP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sp/HuHKYP21" mdate="2023-09-21">
+<author pid="241/9318">Yuncong Hu</author>
+<author pid="290/4790">Kian Hooshmand</author>
+<author pid="290/4734">Harika Kalidhindi</author>
+<author pid="290/4727">Seung Jin Yang</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Merkle<sup>2</sup>: A Low-Latency Transparency Log System.</title>
+<pages>285-303</pages>
+<year>2021</year>
+<booktitle>SP</booktitle>
+<ee>https://doi.org/10.1109/SP40001.2021.00088</ee>
+<crossref>conf/sp/2021</crossref>
+<url>db/conf/sp/sp2021.html#HuHKYP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/PoddarKYDPH21" mdate="2021-09-16">
+<author pid="39/10311">Rishabh Poddar</author>
+<author pid="190/1205">Sukrit Kalra</author>
+<author pid="164/3366">Avishay Yanai</author>
+<author pid="277/5307">Ryan Deng</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Senate: A Maliciously-Secure MPC Platform for Collaborative Analytics.</title>
+<pages>2129-2146</pages>
+<year>2021</year>
+<booktitle>USENIX Security Symposium</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenixsecurity21/presentation/poddar</ee>
+<crossref>conf/uss/2021</crossref>
+<url>db/conf/uss/uss2021.html#PoddarKYDPH21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/LehmkuhlMSP21" mdate="2021-09-16">
+<author pid="256/9139">Ryan Lehmkuhl</author>
+<author pid="161/3103">Pratyush Mishra</author>
+<author pid="153/9906">Akshayaram Srinivasan</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Muse: Secure Inference Resilient to Malicious Clients.</title>
+<pages>2201-2218</pages>
+<year>2021</year>
+<booktitle>USENIX Security Symposium</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenixsecurity21/presentation/lehmkuhl</ee>
+<crossref>conf/uss/2021</crossref>
+<url>db/conf/uss/uss2021.html#LehmkuhlMSP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/SonPPPS21" mdate="2021-09-16">
+<author pid="129/2856">Jeongseok Son</author>
+<author pid="301/5882">Griffin Prechter</author>
+<author pid="39/10311">Rishabh Poddar</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="04/418">Koushik Sen</author>
+<title>ObliCheck: Efficient Verification of Oblivious Algorithms with Unobservable State.</title>
+<pages>2219-2236</pages>
+<year>2021</year>
+<booktitle>USENIX Security Symposium</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenixsecurity21/presentation/son</ee>
+<crossref>conf/uss/2021</crossref>
+<url>db/conf/uss/uss2021.html#SonPPPS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/ZhengDCPPS21" mdate="2021-09-16">
+<author pid="94/4314">Wenting Zheng</author>
+<author pid="277/5307">Ryan Deng</author>
+<author pid="160/1002">Weikeng Chen</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="55/925">Aurojit Panda</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<title>Cerebro: A Platform for Multi-Party Cryptographic Collaborative Learning.</title>
+<pages>2723-2740</pages>
+<year>2021</year>
+<booktitle>USENIX Security Symposium</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenixsecurity21/presentation/zheng</ee>
+<crossref>conf/uss/2021</crossref>
+<url>db/conf/uss/uss2021.html#ZhengDCPPS21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2106-14651" mdate="2021-06-30">
+<author pid="173/8201">Sam Kumar</author>
+<author pid="c/DavidECuller">David E. Culler</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>MAGE: Nearly Zero-Cost Virtual Memory for Secure Computation.</title>
+<year>2021</year>
+<volume>abs/2106.14651</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2106.14651</ee>
+<url>db/journals/corr/corr2106.html#abs-2106-14651</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/ChenDP21" mdate="2021-04-07">
+<author pid="160/1002">Weikeng Chen</author>
+<author pid="277/5307">Ryan Deng</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>N-for-1 Auth: N-wise Decentralized Authentication via One Authentication.</title>
+<pages>342</pages>
+<year>2021</year>
+<volume>2021</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2021/342</ee>
+<url>db/journals/iacr/iacr2021.html#ChenDP21</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/HuHKYP21" mdate="2021-04-22">
+<author pid="241/9318">Yuncong Hu</author>
+<author pid="290/4790">Kian Hooshmand</author>
+<author pid="290/4734">Harika Kalidhindi</author>
+<author pid="290/4727">Seung Jin Yang</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Merkle^2: A Low-Latency Transparency Log System.</title>
+<pages>453</pages>
+<year>2021</year>
+<volume>2021</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2021/453</ee>
+<url>db/journals/iacr/iacr2021.html#HuHKYP21</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/ZhengDCPPS21" mdate="2021-07-07">
+<author pid="94/4314">Wenting Zheng</author>
+<author pid="277/5307">Ryan Deng</author>
+<author pid="160/1002">Weikeng Chen</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="55/925">Aurojit Panda</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<title>Cerebro: A Platform for Multi-Party Cryptographic Collaborative Learning.</title>
+<pages>759</pages>
+<year>2021</year>
+<volume>2021</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2021/759</ee>
+<url>db/journals/iacr/iacr2021.html#ZhengDCPPS21</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/LehmkuhlMSP21" mdate="2021-09-06">
+<author pid="256/9139">Ryan Lehmkuhl</author>
+<author pid="161/3103">Pratyush Mishra</author>
+<author pid="153/9906">Akshayaram Srinivasan</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>MUSE: Secure Inference Resilient to Malicious Clients.</title>
+<pages>1040</pages>
+<year>2021</year>
+<volume>2021</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2021/1040</ee>
+<url>db/journals/iacr/iacr2021.html#LehmkuhlMSP21</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/DautermanFDCP21" mdate="2021-10-25">
+<author pid="228/8084">Emma Dauterman</author>
+<author pid="276/2386">Vivian Fang</author>
+<author pid="181/5758">Ioannis Demertzis</author>
+<author pid="161/0113">Natacha Crooks</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Snoopy: Surpassing the Scalability Bottleneck of Oblivious Storage.</title>
+<pages>1280</pages>
+<year>2021</year>
+<volume>2021</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2021/1280</ee>
+<url>db/journals/iacr/iacr2021.html#DautermanFDCP21</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/ChenSCKP21" mdate="2021-12-10">
+<author pid="160/1002">Weikeng Chen</author>
+<author pid="129/1428">Katerina Sotiraki</author>
+<author pid="123/6988">Ian Chang</author>
+<author pid="36/195">Murat Kantarcioglu</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>HOLMES: A Platform for Detecting Malicious Inputs in Secure Collaborative Computation.</title>
+<pages>1517</pages>
+<year>2021</year>
+<volume>2021</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2021/1517</ee>
+<url>db/journals/iacr/iacr2021.html#ChenSCKP21</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/DautermanRPS21" mdate="2022-01-13">
+<author pid="228/8084">Emma Dauterman</author>
+<author pid="33/2105-2">Mayank Rathee</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<title>Waldo: A Private Time-Series Database from Function Secret Sharing.</title>
+<pages>1661</pages>
+<year>2021</year>
+<volume>2021</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2021/1661</ee>
+<url>db/journals/iacr/iacr2021.html#DautermanRPS21</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccs/Popa20" mdate="2021-11-17">
+<author pid="91/275">Raluca Ada Popa</author>
+<title>MC2: A Secure Collaborative Computation Platform.</title>
+<pages>5</pages>
+<year>2020</year>
+<booktitle>PPMLP@CCS</booktitle>
+<ee>https://doi.org/10.1145/3411501.3418609</ee>
+<crossref>conf/ccs/2020ppmlp</crossref>
+<url>db/conf/ccs/ppmlp2020.html#Popa20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/LawLPPSSYZZ20" mdate="2021-11-17">
+<author pid="09/6327">Andrew Law</author>
+<author pid="264/2742">Chester Leung</author>
+<author pid="39/10311">Rishabh Poddar</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="167/1754">Chenyu Shi</author>
+<author pid="276/0129">Octavian Sima</author>
+<author pid="140/4564">Chaofan Yu</author>
+<author pid="187/3103">Xingmeng Zhang</author>
+<author pid="94/4314">Wenting Zheng</author>
+<title>Secure Collaborative Training and Inference for XGBoost.</title>
+<pages>21-26</pages>
+<year>2020</year>
+<booktitle>PPMLP@CCS</booktitle>
+<ee>https://doi.org/10.1145/3411501.3419420</ee>
+<crossref>conf/ccs/2020ppmlp</crossref>
+<url>db/conf/ccs/ppmlp2020.html#LawLPPSSYZZ20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/MishraLSZP20" mdate="2021-11-17">
+<author pid="161/3103">Pratyush Mishra</author>
+<author pid="256/9139">Ryan Lehmkuhl</author>
+<author pid="153/9906">Akshayaram Srinivasan</author>
+<author pid="94/4314">Wenting Zheng</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Delphi: A Cryptographic Inference System for Neural Networks.</title>
+<pages>27-30</pages>
+<year>2020</year>
+<booktitle>PPMLP@CCS</booktitle>
+<ee>https://doi.org/10.1145/3411501.3419418</ee>
+<crossref>conf/ccs/2020ppmlp</crossref>
+<url>db/conf/ccs/ppmlp2020.html#MishraLSZP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/ZhangZJPG20" mdate="2024-02-05">
+<author pid="z/BenyuZhang">Benyu Zhang</author>
+<author orcid="0000-0002-7547-7204" pid="36/2133">Matei Zaharia</author>
+<author pid="07/8388">Shouling Ji</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="64/1147">Guofei Gu</author>
+<title>PPMLP 2020: Workshop on Privacy-Preserving Machine Learning In Practice.</title>
+<pages>2139-2140</pages>
+<year>2020</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/3372297.3416245</ee>
+<crossref>conf/ccs/2020</crossref>
+<url>db/conf/ccs/ccs2020.html#ZhangZJPG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurosp/PoddarWLP20" mdate="2020-11-10">
+<author pid="39/10311">Rishabh Poddar</author>
+<author pid="175/6757">Stephanie Wang</author>
+<author pid="44/10023">Jianan Lu</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Practical Volume-Based Attacks on Encrypted Databases.</title>
+<pages>354-369</pages>
+<year>2020</year>
+<booktitle>EuroS&amp;P</booktitle>
+<ee>https://doi.org/10.1109/EuroSP48549.2020.00030</ee>
+<crossref>conf/eurosp/2020</crossref>
+<url>db/conf/eurosp/eurosp2020.html#PoddarWLP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurosys/DaveLPGS20" mdate="2023-11-12">
+<author pid="74/10101">Ankur Dave</author>
+<author pid="264/2742">Chester Leung</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author orcid="0000-0003-2921-956X" pid="61/8262">Joseph E. Gonzalez</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<title>Oblivious coopetitive analytics using hardware enclaves.</title>
+<pages>39:1-39:17</pages>
+<year>2020</year>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3342195.3387552</ee>
+<crossref>conf/eurosys/2020</crossref>
+<url>db/conf/eurosys/eurosys2020.html#DaveLPGS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ndss/ChenP20" mdate="2021-02-01">
+<author pid="160/1002">Weikeng Chen</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Metal: A Metadata-Hiding File-Sharing System.</title>
+<year>2020</year>
+<booktitle>NDSS</booktitle>
+<ee type="oa">https://www.ndss-symposium.org/ndss-paper/metal-a-metadata-hiding-file-sharing-system/</ee>
+<crossref>conf/ndss/2020</crossref>
+<url>db/conf/ndss/ndss2020.html#ChenP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nsdi/HuKP20" mdate="2021-02-02">
+<author pid="241/9318">Yuncong Hu</author>
+<author pid="173/8201">Sam Kumar</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust.</title>
+<pages>851-877</pages>
+<year>2020</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi20/presentation/hu-yuncong</ee>
+<crossref>conf/nsdi/2020</crossref>
+<url>db/conf/nsdi/nsdi2020.html#HuKP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/osdi/DautermanFLPS20" mdate="2021-02-02">
+<author pid="228/8084">Emma Dauterman</author>
+<author pid="277/3983">Eric Feng</author>
+<author pid="277/3511">Ellen Luo</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<title>DORY: An Encrypted Search System with Distributed Trust.</title>
+<pages>1101-1119</pages>
+<year>2020</year>
+<booktitle>OSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/osdi20/presentation/dauterman-dory</ee>
+<crossref>conf/osdi/2020</crossref>
+<url>db/conf/osdi/osdi2020.html#DautermanFLPS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/LeeJFTP20" mdate="2021-01-29">
+<author pid="223/7759">Dayeol Lee</author>
+<author pid="38/1591">Dongha Jung</author>
+<author pid="255/4803">Ian T. Fang</author>
+<author pid="08/10015">Chia-che Tsai</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>An Off-Chip Attack on Hardware Enclaves via the Memory Bus.</title>
+<pages>487-504</pages>
+<year>2020</year>
+<booktitle>USENIX Security Symposium</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenixsecurity20/presentation/lee-dayeol</ee>
+<crossref>conf/uss/2020</crossref>
+<url>db/conf/uss/uss2020.html#LeeJFTP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/TsaiSJMPP20" mdate="2021-01-29">
+<author pid="08/10015">Chia-che Tsai</author>
+<author pid="129/2856">Jeongseok Son</author>
+<author pid="07/10441">Bhushan Jain</author>
+<author pid="272/7037">John McAvey</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="08/4732">Donald E. Porter</author>
+<title>Civet: An Efficient Java Partitioning Framework for Hardware Enclaves.</title>
+<pages>505-522</pages>
+<year>2020</year>
+<booktitle>USENIX Security Symposium</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenixsecurity20/presentation/tsai</ee>
+<crossref>conf/uss/2020</crossref>
+<url>db/conf/uss/uss2020.html#TsaiSJMPP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/PoddarASVP20" mdate="2023-06-05">
+<author pid="39/10311">Rishabh Poddar</author>
+<author pid="08/5351">Ganesh Ananthanarayanan</author>
+<author pid="68/8463">Srinath T. V. Setty</author>
+<author pid="77/11029">Stavros Volos</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Visor: Privacy-Preserving Video Analytics as a Cloud Service.</title>
+<pages>1039-1056</pages>
+<year>2020</year>
+<booktitle>USENIX Security Symposium</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenixsecurity20/presentation/poddar</ee>
+<crossref>conf/uss/2020</crossref>
+<url>db/conf/uss/uss2020.html#PoddarASVP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/MishraLSZP20" mdate="2021-01-29">
+<author pid="161/3103">Pratyush Mishra</author>
+<author pid="256/9139">Ryan Lehmkuhl</author>
+<author pid="153/9906">Akshayaram Srinivasan</author>
+<author pid="94/4314">Wenting Zheng</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Delphi: A Cryptographic Inference Service for Neural Networks.</title>
+<pages>2505-2522</pages>
+<year>2020</year>
+<booktitle>USENIX Security Symposium</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenixsecurity20/presentation/mishra</ee>
+<crossref>conf/uss/2020</crossref>
+<url>db/conf/uss/uss2020.html#MishraLSZP20</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ccs/2020ppmlp" mdate="2021-11-17">
+<editor pid="z/BenyuZhang">Benyu Zhang</editor>
+<editor pid="91/275">Raluca Ada Popa</editor>
+<editor pid="36/2133">Matei Zaharia</editor>
+<editor pid="64/1147">Guofei Gu</editor>
+<editor pid="07/8388">Shouling Ji</editor>
+<title>PPMLP'20: Proceedings of the 2020 Workshop on Privacy-Preserving Machine Learning in Practice, Virtual Event, USA, November, 2020</title>
+<publisher>ACM</publisher>
+<booktitle>PPMLP@CCS</booktitle>
+<year>2020</year>
+<isbn>978-1-4503-8088-1</isbn>
+<ee>https://doi.org/10.1145/3411501</ee>
+<url>db/conf/ccs/ppmlp2020.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-09628" mdate="2023-06-05">
+<author pid="39/10311">Rishabh Poddar</author>
+<author pid="08/5351">Ganesh Ananthanarayanan</author>
+<author pid="68/8463">Srinath T. V. Setty</author>
+<author pid="77/11029">Stavros Volos</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Visor: Privacy-Preserving Video Analytics as a Cloud Service.</title>
+<year>2020</year>
+<volume>abs/2006.09628</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.09628</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-09628</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-06627" mdate="2020-08-21">
+<author pid="39/10311">Rishabh Poddar</author>
+<author pid="175/6757">Stephanie Wang</author>
+<author pid="44/10023">Jianan Lu</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Practical Volume-Based Attacks on Encrypted Databases.</title>
+<year>2020</year>
+<volume>abs/2008.06627</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.06627</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-06627</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-02524" mdate="2020-10-12">
+<author pid="09/6327">Andrew Law</author>
+<author pid="264/2742">Chester Leung</author>
+<author pid="39/10311">Rishabh Poddar</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="167/1754">Chenyu Shi</author>
+<author pid="276/0129">Octavian Sima</author>
+<author pid="140/4564">Chaofan Yu</author>
+<author pid="187/3103">Xingmeng Zhang</author>
+<author pid="94/4314">Wenting Zheng</author>
+<title>Secure Collaborative Training and Inference for XGBoost.</title>
+<year>2020</year>
+<volume>abs/2010.02524</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.02524</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-02524</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-13752" mdate="2020-11-02">
+<author pid="39/10311">Rishabh Poddar</author>
+<author pid="190/1205">Sukrit Kalra</author>
+<author pid="164/3366">Avishay Yanai</author>
+<author pid="277/5307">Ryan Deng</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Senate: A Maliciously-Secure MPC Platform for Collaborative Analytics.</title>
+<year>2020</year>
+<volume>abs/2010.13752</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.13752</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-13752</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/MishraLSZP20" mdate="2020-05-11">
+<author pid="161/3103">Pratyush Mishra</author>
+<author pid="256/9139">Ryan Lehmkuhl</author>
+<author pid="153/9906">Akshayaram Srinivasan</author>
+<author pid="94/4314">Wenting Zheng</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Delphi: A Cryptographic Inference Service for Neural Networks.</title>
+<pages>50</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/050</ee>
+<url>db/journals/iacr/iacr2020.html#MishraLSZP20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/ChenP20" mdate="2020-05-11">
+<author pid="160/1002">Weikeng Chen</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Metal: A Metadata-Hiding File-Sharing System.</title>
+<pages>83</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/083</ee>
+<url>db/journals/iacr/iacr2020.html#ChenP20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/HuKP20" mdate="2020-06-30">
+<author pid="241/9318">Yuncong Hu</author>
+<author pid="173/8201">Sam Kumar</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust.</title>
+<pages>648</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/648</ee>
+<url>db/journals/iacr/iacr2020.html#HuKP20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/DautermanFLPS20" mdate="2020-10-30">
+<author pid="228/8084">Emma Dauterman</author>
+<author pid="277/3983">Eric Feng</author>
+<author pid="277/3511">Ellen Luo</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<title>DORY: An Encrypted Search System with Distributed Trust.</title>
+<pages>1280</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/1280</ee>
+<url>db/journals/iacr/iacr2020.html#DautermanFLPS20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/PoddarKYDPH20" mdate="2020-12-02">
+<author pid="39/10311">Rishabh Poddar</author>
+<author pid="190/1205">Sukrit Kalra</author>
+<author pid="164/3366">Avishay Yanai</author>
+<author pid="277/5307">Ryan Deng</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Senate: A Maliciously-Secure MPC Platform for Collaborative Analytics.</title>
+<pages>1350</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2020/1350</ee>
+<url>db/journals/iacr/iacr2020.html#PoddarKYDPH20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/PoddarBP19" mdate="2023-08-28">
+<author pid="39/10311">Rishabh Poddar</author>
+<author pid="181/1572">Tobias Boelter</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Arx: An Encrypted Database using Semantically Secure Encryption.</title>
+<pages>1664-1678</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1664-poddar.pdf</ee>
+<ee>https://doi.org/10.14778/3342263.3342641</ee>
+<ee>https://www.wikidata.org/entity/Q121326967</ee>
+<url>db/journals/pvldb/pvldb12.html#PoddarBP19</url>
+</article>
+</r>
+<r><article key="journals/sigmod/AbadiAABBBBCCDD19" mdate="2024-02-05">
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="a/DavidGAndersen">David G. Andersen</author>
+<author pid="47/8816">Peter Bailis</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="d/XinLunaDong">Luna Dong</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="f/JulianaFreire">Juliana Freire</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="m/SergeyMelnik">Sergey Melnik 0001</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="o/BengChinOoi">Beng Chin Ooi</author>
+<author orcid="0000-0002-4418-4724" pid="o/FatmaOzcan">Fatma Ozcan</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<title>The Seattle Report on Database Research.</title>
+<pages>44-53</pages>
+<year>2019</year>
+<volume>48</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3385658.3385668</ee>
+<ee>https://www.wikidata.org/entity/Q118946092</ee>
+<url>db/journals/sigmod/sigmod48.html#AbadiAABBBBCCDD19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cloud/Popa19" mdate="2020-05-19">
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Securing Data in Compromised Clouds.</title>
+<pages>286</pages>
+<year>2019</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/3357223.3365869</ee>
+<crossref>conf/cloud/2019</crossref>
+<url>db/conf/cloud/socc2019.html#Popa19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sp/ZhengPGS19" mdate="2023-11-12">
+<author pid="94/4314">Wenting Zheng</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author orcid="0000-0003-2921-956X" pid="61/8262">Joseph E. Gonzalez</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<title>Helen: Maliciously Secure Coopetitive Learning for Linear Models.</title>
+<pages>724-738</pages>
+<year>2019</year>
+<booktitle>IEEE Symposium on Security and Privacy</booktitle>
+<ee>https://doi.org/10.1109/SP.2019.00045</ee>
+<crossref>conf/sp/2019</crossref>
+<url>db/conf/sp/sp2019.html#ZhengPGS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/AndersenKAFKKCP19" mdate="2021-02-01">
+<author pid="161/6189">Michael P. Andersen</author>
+<author pid="173/8201">Sam Kumar</author>
+<author pid="10/8870">Moustafa AbdelBaky</author>
+<author pid="145/2150">Gabe Fierro</author>
+<author pid="158/5947">John Kolb</author>
+<author pid="05/9097">Hyung-Sin Kim</author>
+<author pid="c/DavidECuller">David E. Culler</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>WAVE: A Decentralized Authorization Framework with Transitive Delegation.</title>
+<pages>1375-1392</pages>
+<year>2019</year>
+<booktitle>USENIX Security Symposium</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenixsecurity19/presentation/andersen</ee>
+<crossref>conf/uss/2019</crossref>
+<url>db/conf/uss/uss2019.html#AndersenKAFKKCP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/KumarHAPC19" mdate="2021-02-01">
+<author pid="173/8201">Sam Kumar</author>
+<author pid="241/9318">Yuncong Hu</author>
+<author pid="161/6189">Michael P. Andersen</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="c/DavidECuller">David E. Culler</author>
+<title>JEDI: Many-to-Many End-to-End Encryption and Key Delegation for IoT.</title>
+<pages>1519-1536</pages>
+<year>2019</year>
+<booktitle>USENIX Security Symposium</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenixsecurity19/presentation/kumar-sam</ee>
+<crossref>conf/uss/2019</crossref>
+<url>db/conf/uss/uss2019.html#KumarHAPC19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-03383" mdate="2023-04-13">
+<author pid="99/9380">Eric Jonas</author>
+<author pid="166/5229">Johann Schleier-Smith</author>
+<author pid="192/4561">Vikram Sreekanti</author>
+<author pid="08/10015">Chia-che Tsai</author>
+<author pid="162/1936">Anurag Khandelwal</author>
+<author pid="118/3429">Qifan Pu</author>
+<author pid="159/3628">Vaishaal Shankar</author>
+<author pid="61/5621">Jo&#227;o Carreira</author>
+<author pid="208/4126">Karl Krauth</author>
+<author pid="36/8142">Neeraja Jayant Yadwadkar</author>
+<author pid="61/8262">Joseph E. Gonzalez</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<author pid="p/DAPatterson">David A. Patterson 0001</author>
+<title>Cloud Programming Simplified: A Berkeley View on Serverless Computing.</title>
+<year>2019</year>
+<volume>abs/1902.03383</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.03383</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-03383</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-13369" mdate="2019-06-03">
+<author pid="173/8201">Sam Kumar</author>
+<author pid="241/9318">Yuncong Hu</author>
+<author pid="161/6189">Michael P. Andersen</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="c/DavidECuller">David E. Culler</author>
+<title>JEDI: Many-to-Many End-to-End Encryption and Key Delegation for IoT.</title>
+<year>2019</year>
+<volume>abs/1905.13369</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.13369</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-13369</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-07212" mdate="2019-07-23">
+<author pid="94/4314">Wenting Zheng</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="61/8262">Joseph E. Gonzalez</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<title>Helen: Maliciously Secure Coopetitive Learning for Linear Models.</title>
+<year>2019</year>
+<volume>abs/1907.07212</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.07212</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-07212</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-01701" mdate="2020-01-02">
+<author pid="223/7759">Dayeol Lee</author>
+<author pid="38/1591">Dongha Jung</author>
+<author pid="255/4803">Ian T. Fang</author>
+<author pid="08/10015">Chia-che Tsai</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>An Off-Chip Attack on Hardware Enclaves via the Memory Bus.</title>
+<year>2019</year>
+<volume>abs/1912.01701</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.01701</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-01701</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/WangPLP19" mdate="2020-05-11">
+<author pid="175/6757">Stephanie Wang</author>
+<author pid="39/10311">Rishabh Poddar</author>
+<author pid="44/10023">Jianan Lu</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Practical Volume-Based Attacks on Encrypted Databases.</title>
+<pages>1224</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2019/1224</ee>
+<url>db/journals/iacr/iacr2019.html#WangPLP19</url>
+</article>
+</r>
+<r><inproceedings key="conf/nsdi/PoddarLPR18" mdate="2021-02-02">
+<author pid="39/10311">Rishabh Poddar</author>
+<author pid="116/8770">Chang Lan</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="68/5579">Sylvia Ratnasamy</author>
+<title>SafeBricks: Shielding Network Functions in the Cloud.</title>
+<pages>201-216</pages>
+<year>2018</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi18/presentation/poddar</ee>
+<crossref>conf/nsdi/2018</crossref>
+<url>db/conf/nsdi/nsdi2018.html#PoddarLPR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sp/MishraPCCP18" mdate="2023-03-24">
+<author pid="161/3103">Pratyush Mishra</author>
+<author pid="39/10311">Rishabh Poddar</author>
+<author pid="97/2370">Jerry Chen</author>
+<author pid="27/8534">Alessandro Chiesa</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Oblix: An Efficient Oblivious Search Index.</title>
+<pages>279-296</pages>
+<year>2018</year>
+<booktitle>IEEE Symposium on Security and Privacy</booktitle>
+<ee>https://doi.org/10.1109/SP.2018.00045</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SP.2018.00045</ee>
+<crossref>conf/sp/2018</crossref>
+<url>db/conf/sp/sp2018.html#MishraPCCP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/WuZCPS18" mdate="2021-02-01">
+<author pid="192/8757">Howard Wu</author>
+<author pid="94/4314">Wenting Zheng</author>
+<author pid="27/8534">Alessandro Chiesa</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<title>DIZK: A Distributed Zero Knowledge Proof System.</title>
+<pages>675-692</pages>
+<year>2018</year>
+<booktitle>USENIX Security Symposium</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenixsecurity18/presentation/wu</ee>
+<crossref>conf/uss/2018</crossref>
+<url>db/conf/uss/uss2018.html#WuZCPS18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/WuZCPS18" mdate="2020-05-11">
+<author pid="192/8757">Howard Wu</author>
+<author pid="94/4314">Wenting Zheng</author>
+<author pid="27/8534">Alessandro Chiesa</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<title>DIZK: A Distributed Zero Knowledge Proof System.</title>
+<pages>691</pages>
+<year>2018</year>
+<volume>2018</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2018/691</ee>
+<url>db/journals/iacr/iacr2018.html#WuZCPS18</url>
+</article>
+</r>
+<r><inproceedings key="conf/eurosys/ZhengLPS017" mdate="2018-11-06">
+<author pid="94/4314">Wenting Zheng</author>
+<author pid="53/10825">Frank H. Li</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<author pid="41/5447-1">Rachit Agarwal 0001</author>
+<title>MiniCrypt: Reconciling Encryption and Compression for Big Data Stores.</title>
+<pages>191-204</pages>
+<year>2017</year>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3064176.3064184</ee>
+<crossref>conf/eurosys/2017</crossref>
+<url>db/conf/eurosys/eurosys2017.html#ZhengLPS017</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nsdi/ZhengDBPGS17" mdate="2021-02-02">
+<author pid="94/4314">Wenting Zheng</author>
+<author pid="74/10101">Ankur Dave</author>
+<author pid="145/2045">Jethro G. Beekman</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="61/8262">Joseph E. Gonzalez</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<title>Opaque: An Oblivious and Encrypted Distributed Analytics Platform.</title>
+<pages>283-298</pages>
+<year>2017</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/zheng</ee>
+<crossref>conf/nsdi/2017</crossref>
+<url>db/conf/nsdi/nsdi2017.html#ZhengDBPGS17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-05855" mdate="2023-04-13">
+<author pid="s/IonStoica">Ion Stoica</author>
+<author pid="s/DXSong">Dawn Song</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="p/DAPatterson">David A. Patterson 0001</author>
+<author pid="10/6978">Michael W. Mahoney</author>
+<author pid="k/RandyHKatz">Randy H. Katz</author>
+<author pid="30/2317">Anthony D. Joseph</author>
+<author pid="j/MichaelIJordan">Michael I. Jordan</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="61/8262">Joseph E. Gonzalez</author>
+<author pid="g/KennethYGoldberg">Ken Goldberg</author>
+<author pid="71/4226-2">Ali Ghodsi 0002</author>
+<author pid="c/DavidECuller">David E. Culler</author>
+<author pid="a/PieterAbbeel">Pieter Abbeel</author>
+<title>A Berkeley View of Systems Challenges for AI.</title>
+<year>2017</year>
+<volume>abs/1712.05855</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.05855</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-05855</url>
+</article>
+</r>
+<r><inproceedings key="conf/nsdi/LanSPRL16" mdate="2021-02-02">
+<author pid="116/8770">Chang Lan</author>
+<author pid="37/8465">Justine Sherry</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="68/5579">Sylvia Ratnasamy</author>
+<author pid="40/6686">Zhi Liu</author>
+<title>Embark: Securely Outsourcing Middleboxes to the Cloud.</title>
+<pages>255-273</pages>
+<year>2016</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/lan</ee>
+<crossref>conf/nsdi/2016</crossref>
+<url>db/conf/nsdi/nsdi2016.html#LanSPRL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sp/KarapanosFPC16" mdate="2023-03-24">
+<author pid="140/6542">Nikolaos Karapanos</author>
+<author pid="146/9697">Alexandros Filios</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="51/1639">Srdjan Capkun</author>
+<title>Verena: End-to-End Integrity Protection for Web Applications.</title>
+<pages>895-913</pages>
+<year>2016</year>
+<booktitle>IEEE Symposium on Security and Privacy</booktitle>
+<ee>https://doi.org/10.1109/SP.2016.58</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SP.2016.58</ee>
+<crossref>conf/sp/2016</crossref>
+<url>db/conf/sp/sp2016.html#KarapanosFPC16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/BoelterPP16" mdate="2020-05-11">
+<author pid="181/1572">Tobias Boelter</author>
+<author pid="39/10311">Rishabh Poddar</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>A Secure One-Roundtrip Index for Range Queries.</title>
+<pages>568</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2016/568</ee>
+<url>db/journals/iacr/iacr2016.html#BoelterPP16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/PoddarBP16" mdate="2020-05-11">
+<author pid="39/10311">Rishabh Poddar</author>
+<author pid="181/1572">Tobias Boelter</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Arx: A Strongly Encrypted Database System.</title>
+<pages>591</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2016/591</ee>
+<url>db/journals/iacr/iacr2016.html#PoddarBP16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/PopaSHVZKB16" mdate="2021-11-05">
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="56/7708">Emily Stark 0001</author>
+<author pid="151/6822">Jonas Helfer</author>
+<author pid="151/6790">Steven Valdez</author>
+<author pid="99/5780">Nickolai Zeldovich</author>
+<author pid="k/MFransKaashoek">M. Frans Kaashoek</author>
+<author pid="b/HariBalakrishnan">Hari Balakrishnan</author>
+<title>Building web applications on top of encrypted data using Mylar.</title>
+<pages>893</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2016/893</ee>
+<url>db/journals/iacr/iacr2016.html#PopaSHVZKB16</url>
+</article>
+</r>
+<r><inproceedings key="conf/ndss/BostPTG15" mdate="2021-02-01">
+<author pid="146/7946">Raphael Bost</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="09/8165">Stephen Tu</author>
+<author pid="g/ShafiGoldwasser">Shafi Goldwasser</author>
+<title>Machine Learning Classification over Encrypted Data.</title>
+<year>2015</year>
+<booktitle>NDSS</booktitle>
+<ee type="oa">https://www.ndss-symposium.org/ndss2015/machine-learning-classification-over-encrypted-data</ee>
+<crossref>conf/ndss/2015</crossref>
+<url>db/conf/ndss/ndss2015.html#BostPTG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcomm/SherryLPR15" mdate="2023-10-21">
+<author pid="37/8465">Justine Sherry</author>
+<author pid="116/8770">Chang Lan</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="68/5579">Sylvia Ratnasamy</author>
+<title>BlindBox: Deep Packet Inspection over Encrypted Traffic.</title>
+<pages>213-226</pages>
+<year>2015</year>
+<booktitle>SIGCOMM</booktitle>
+<ee>https://doi.org/10.1145/2785956.2787502</ee>
+<ee>https://doi.org/10.1145/2829988.2787502</ee>
+<ee>https://www.wikidata.org/entity/Q122660881</ee>
+<crossref>conf/sigcomm/2015</crossref>
+<url>db/conf/sigcomm/sigcomm2015.html#SherryLPR15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/SherryLPR15" mdate="2020-05-11">
+<author pid="37/8465">Justine Sherry</author>
+<author pid="116/8770">Chang Lan</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="68/5579">Sylvia Ratnasamy</author>
+<title>BlindBox: Deep Packet Inspection over Encrypted Traffic.</title>
+<pages>264</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/264</ee>
+<url>db/journals/iacr/iacr2015.html#SherryLPR15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/PopaZB15" mdate="2020-05-11">
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="99/5780">Nickolai Zeldovich</author>
+<author pid="b/HariBalakrishnan">Hari Balakrishnan</author>
+<title>Guidelines for Using the CryptDB System Securely.</title>
+<pages>979</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/979</ee>
+<url>db/journals/iacr/iacr2015.html#PopaZB15</url>
+</article>
+</r>
+<r><phdthesis key="phd/ndltd/Popa14" mdate="2022-05-04">
+<author pid="91/275">Raluca Ada Popa</author>
+<title>Building practical systems that compute on encrypted data.</title>
+<year>2014</year>
+<school>Massachusetts Institute of Technology, Cambridge, MA, USA</school>
+<ee>https://hdl.handle.net/1721.1/93830</ee>
+<note type="source">ndltd.org (oai:dspace.mit.edu:1721.1/93830)</note>
+</phdthesis>
+</r>
+<r><article key="journals/usenix-login/PopaSHVZKB14" mdate="2021-11-05">
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="56/7708">Emily Stark 0001</author>
+<author pid="151/6822">Jonas Helfer</author>
+<author pid="151/6790">Steven Valdez</author>
+<author pid="99/5780">Nickolai Zeldovich</author>
+<author pid="k/MFransKaashoek">M. Frans Kaashoek</author>
+<author pid="b/HariBalakrishnan">Hari Balakrishnan</author>
+<title>Building Web Applications on Top of Encrypted Data Using Mylar.</title>
+<year>2014</year>
+<volume>39</volume>
+<journal>login Usenix Mag.</journal>
+<number>4</number>
+<ee>https://www.usenix.org/publications/login/august14/popa</ee>
+<url>db/journals/usenix-login/usenix-login39.html#PopaSHVZKB14</url>
+</article>
+</r>
+<r><inproceedings key="conf/nsdi/PopaSVHZB14" mdate="2021-11-05">
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="56/7708">Emily Stark 0001</author>
+<author pid="151/6790">Steven Valdez</author>
+<author pid="151/6822">Jonas Helfer</author>
+<author pid="99/5780">Nickolai Zeldovich</author>
+<author pid="b/HariBalakrishnan">Hari Balakrishnan</author>
+<title>Building Web Applications on Top of Encrypted Data Using Mylar.</title>
+<pages>157-172</pages>
+<year>2014</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi14/technical-sessions/presentation/popa</ee>
+<crossref>conf/nsdi/2014</crossref>
+<url>db/conf/nsdi/nsdi2014.html#PopaSVHZB14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/BostPTG14" mdate="2020-05-11">
+<author pid="146/7946">Raphael Bost</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="09/8165">Stephen Tu</author>
+<author pid="g/ShafiGoldwasser">Shafi Goldwasser</author>
+<title>Machine Learning Classification over Encrypted Data.</title>
+<pages>331</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2014/331</ee>
+<url>db/journals/iacr/iacr2014.html#BostPTG14</url>
+</article>
+</r>
+<r><inproceedings key="conf/crypto/GoldwasserKPVZ13" mdate="2018-06-26">
+<author pid="g/ShafiGoldwasser">Shafi Goldwasser</author>
+<author pid="k/YaelTaumanKalai">Yael Tauman Kalai</author>
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="v/VinodVaikuntanathan">Vinod Vaikuntanathan</author>
+<author pid="99/5780">Nickolai Zeldovich</author>
+<title>How to Run Turing Machines on Encrypted Data.</title>
+<pages>536-553</pages>
+<year>2013</year>
+<booktitle>CRYPTO (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-40084-1_30</ee>
+<crossref>conf/crypto/2013-2</crossref>
+<url>db/conf/crypto/crypto2013-2.html#GoldwasserKPVZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sp/PopaLZ13" mdate="2023-03-24">
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="53/10825">Frank H. Li</author>
+<author pid="99/5780">Nickolai Zeldovich</author>
+<title>An Ideal-Security Protocol for Order-Preserving Encoding.</title>
+<pages>463-477</pages>
+<year>2013</year>
+<booktitle>IEEE Symposium on Security and Privacy</booktitle>
+<ee>https://doi.org/10.1109/SP.2013.38</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SP.2013.38</ee>
+<crossref>conf/sp/2013</crossref>
+<url>db/conf/sp/sp2013.html#PopaLZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stoc/GoldwasserKPVZ13" mdate="2018-11-06">
+<author pid="g/ShafiGoldwasser">Shafi Goldwasser</author>
+<author pid="k/YaelTaumanKalai">Yael Tauman Kalai</author>
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="v/VinodVaikuntanathan">Vinod Vaikuntanathan</author>
+<author pid="99/5780">Nickolai Zeldovich</author>
+<title>Reusable garbled circuits and succinct functional encryption.</title>
+<pages>555-564</pages>
+<year>2013</year>
+<booktitle>STOC</booktitle>
+<ee>https://doi.org/10.1145/2488608.2488678</ee>
+<crossref>conf/stoc/2013</crossref>
+<url>db/conf/stoc/stoc2013.html#GoldwasserKPVZ13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/PopaLZ13" mdate="2020-05-11">
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="53/10825">Frank H. Li</author>
+<author pid="99/5780">Nickolai Zeldovich</author>
+<title>An Ideal-Security Protocol for Order-Preserving Encoding.</title>
+<pages>129</pages>
+<year>2013</year>
+<volume>2013</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2013/129</ee>
+<url>db/journals/iacr/iacr2013.html#PopaLZ13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/GoldwasserKPVZ13" mdate="2020-05-11">
+<author pid="g/ShafiGoldwasser">Shafi Goldwasser</author>
+<author pid="k/YaelTaumanKalai">Yael Tauman Kalai</author>
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="v/VinodVaikuntanathan">Vinod Vaikuntanathan</author>
+<author pid="99/5780">Nickolai Zeldovich</author>
+<title>Overcoming the Worst-Case Curse for Cryptographic Constructions.</title>
+<pages>229</pages>
+<year>2013</year>
+<volume>2013</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2013/229</ee>
+<url>db/journals/iacr/iacr2013.html#GoldwasserKPVZ13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/PopaZ13" mdate="2020-05-11">
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="99/5780">Nickolai Zeldovich</author>
+<title>Multi-Key Searchable Encryption.</title>
+<pages>508</pages>
+<year>2013</year>
+<volume>2013</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2013/508</ee>
+<url>db/journals/iacr/iacr2013.html#PopaZ13</url>
+</article>
+</r>
+<r><article key="journals/cacm/PopaRZB12" mdate="2023-08-28">
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="11/10322">Catherine M. S. Redfield</author>
+<author pid="99/5780">Nickolai Zeldovich</author>
+<author pid="b/HariBalakrishnan">Hari Balakrishnan</author>
+<title>CryptDB: processing queries on an encrypted database.</title>
+<pages>103-111</pages>
+<year>2012</year>
+<volume>55</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<ee>https://doi.org/10.1145/2330667.2330691</ee>
+<ee>https://www.wikidata.org/entity/Q121036437</ee>
+<url>db/journals/cacm/cacm55.html#PopaRZB12</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/GoldwasserKPVZ12" mdate="2020-05-11">
+<author pid="g/ShafiGoldwasser">Shafi Goldwasser</author>
+<author pid="k/YaelTaumanKalai">Yael Tauman Kalai</author>
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="v/VinodVaikuntanathan">Vinod Vaikuntanathan</author>
+<author pid="99/5780">Nickolai Zeldovich</author>
+<title>Succinct Functional Encryption and Applications: Reusable Garbled Circuits and Beyond.</title>
+<pages>733</pages>
+<year>2012</year>
+<volume>2012</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2012/733</ee>
+<url>db/journals/iacr/iacr2012.html#GoldwasserKPVZ12</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccs/PopaBBL11" mdate="2020-11-10">
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="93/1054">Andrew J. Blumberg</author>
+<author pid="b/HariBalakrishnan">Hari Balakrishnan</author>
+<author pid="53/10825">Frank H. Li</author>
+<title>Privacy and accountability for location-based aggregate statistics.</title>
+<pages>653-666</pages>
+<year>2011</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/2046707.2046781</ee>
+<crossref>conf/ccs/2011</crossref>
+<url>db/conf/ccs/ccs2011.html#PopaBBL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/CurinoJPMWMBZ11" mdate="2023-08-08">
+<author pid="c/CarloCurino">Carlo Curino</author>
+<author pid="83/4223">Evan P. C. Jones</author>
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="75/9492">Nirmesh Malviya</author>
+<author pid="41/3679">Eugene Wu 0002</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="b/HariBalakrishnan">Hari Balakrishnan</author>
+<author pid="99/5780">Nickolai Zeldovich</author>
+<title>Relational Cloud: a Database Service for the cloud.</title>
+<pages>235-240</pages>
+<year>2011</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2011/Papers/CIDR11_Paper33.pdf</ee>
+<crossref>conf/cidr/2011</crossref>
+<url>db/conf/cidr/cidr2011.html#CurinoJPMWMBZ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sosp/PopaRZB11" mdate="2019-06-02">
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="11/10322">Catherine M. S. Redfield</author>
+<author pid="99/5780">Nickolai Zeldovich</author>
+<author pid="b/HariBalakrishnan">Hari Balakrishnan</author>
+<title>CryptDB: protecting confidentiality with encrypted query processing.</title>
+<pages>85-100</pages>
+<year>2011</year>
+<booktitle>SOSP</booktitle>
+<ee>https://doi.org/10.1145/2043556.2043566</ee>
+<ee>https://www.wikidata.org/entity/Q61661646</ee>
+<crossref>conf/sosp/2011</crossref>
+<url>db/conf/sosp/sosp2011.html#PopaRZB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/PopaLMWZ11" mdate="2021-02-01">
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="25/3228">Jacob R. Lorch</author>
+<author pid="97/2954">David Molnar</author>
+<author pid="w/HelenJWang">Helen J. Wang</author>
+<author pid="31/2814">Li Zhuang</author>
+<title>Enabling Security in Cloud Storage SLAs with CloudProof.</title>
+<year>2011</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenixatc11/enabling-security-cloud-storage-slas-cloudproof</ee>
+<crossref>conf/usenix/2011</crossref>
+<url>db/conf/usenix/usenix2011.html#PopaLMWZ11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1108-2080" mdate="2018-08-13">
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="27/8534">Alessandro Chiesa</author>
+<author pid="05/4362">Tural Badirkhanli</author>
+<author pid="m/MurielMedard">Muriel M&#233;dard</author>
+<title>Going Beyond Pollution Attacks: Forcing Byzantine Clients to Code Correctly</title>
+<ee type="oa">http://arxiv.org/abs/1108.2080</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1108.2080</volume>
+<url>db/journals/corr/corr1108.html#abs-1108-2080</url>
+</article>
+</r>
+<r><inproceedings key="conf/usenix/CowlingPLPG09" mdate="2021-02-01">
+<author pid="50/1855">James A. Cowling</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="l/BarbaraLiskov">Barbara Liskov</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="60/6540">Abhijeet Gaikwad</author>
+<title>Census: Location-Aware Membership Management for Large-Scale Distributed Systems.</title>
+<year>2009</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenix-09/census-location-aware-membership-management-large-scale-distributed-systems</ee>
+<crossref>conf/usenix/2009</crossref>
+<url>db/conf/usenix/usenix2009.html#CowlingPLPG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/PopaBB09" mdate="2020-03-12">
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="b/HariBalakrishnan">Hari Balakrishnan</author>
+<author pid="93/1054">Andrew J. Blumberg</author>
+<title>VPriv: Protecting Privacy in Location-Based Vehicular Services.</title>
+<pages>335-350</pages>
+<year>2009</year>
+<booktitle>USENIX Security Symposium</booktitle>
+<ee type="oa">http://www.usenix.org/events/sec09/tech/full_papers/popa.pdf</ee>
+<crossref>conf/uss/2009</crossref>
+<url>db/conf/uss/uss2009.html#PopaBB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/AslamPR08" mdate="2020-03-12">
+<author pid="95/6774">Javed A. Aslam</author>
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="r/RonaldLRivest">Ronald L. Rivest</author>
+<title>On Auditing Elections When Precincts Have Different Sizes.</title>
+<year>2008</year>
+<booktitle>EVT</booktitle>
+<ee type="oa">http://www.usenix.org/events/evt08/tech/full_papers/aslam/aslam.pdf</ee>
+<crossref>conf/uss/2008evt</crossref>
+<url>db/conf/uss/evt2008.html#AslamPR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sosp/LuPHMJLPZ07" mdate="2023-11-08">
+<author orcid="0000-0002-0757-4600" pid="31/5916-1">Shan Lu 0001</author>
+<author pid="03/6317">Soyeon Park</author>
+<author pid="31/4365">Chongfeng Hu</author>
+<author pid="35/573-14">Xiao Ma 0014</author>
+<author pid="64/5433">Weihang Jiang</author>
+<author pid="41/2867">Zhenmin Li</author>
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="99/2747-1">Yuanyuan Zhou 0001</author>
+<title>MUVI: automatically inferring multi-variable access correlations and detecting related semantic and concurrency bugs.</title>
+<pages>103-116</pages>
+<year>2007</year>
+<crossref>conf/sosp/2007</crossref>
+<booktitle>SOSP</booktitle>
+<ee>https://doi.org/10.1145/1294261.1294272</ee>
+<url>db/conf/sosp/sosp2007.html#LuPHMJLPZ07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/AslamPR07" mdate="2021-02-01">
+<author pid="95/6774">Javed A. Aslam</author>
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="r/RonaldLRivest">Ronald L. Rivest</author>
+<title>On Estimating the Size and Confidence of a Statistical Audit.</title>
+<year>2007</year>
+<booktitle>EVT</booktitle>
+<ee type="oa">https://www.usenix.org/conference/evt-07/estimating-size-and-confidence-statistical-audit</ee>
+<crossref>conf/uss/2007evt</crossref>
+<url>db/conf/uss/evt2007.html#AslamPR07</url>
+</inproceedings>
+</r>
+<coauthors n="177" nc="2">
+<co c="0" n="2"><na f="a/Abadi:Daniel_J=" pid="a/DJAbadi">Daniel J. Abadi</na><na>Daniel Abadi</na></co>
+<co c="0"><na f="a/Abbeel:Pieter" pid="a/PieterAbbeel">Pieter Abbeel</na></co>
+<co c="0"><na f="a/AbdelBaky:Moustafa" pid="10/8870">Moustafa AbdelBaky</na></co>
+<co c="0"><na f="a/Agarwal_0001:Rachit" pid="41/5447-1">Rachit Agarwal 0001</na></co>
+<co c="0"><na f="a/Ailamaki:Anastasia" pid="a/AnastassiaAilamaki">Anastasia Ailamaki</na></co>
+<co c="0"><na f="a/Ananthanarayanan:Ganesh" pid="08/5351">Ganesh Ananthanarayanan</na></co>
+<co c="0"><na f="a/Andersen:David_G=" pid="a/DavidGAndersen">David G. Andersen</na></co>
+<co c="0"><na f="a/Andersen:Michael_P=" pid="161/6189">Michael P. Andersen</na></co>
+<co c="0"><na f="a/Aslam:Javed_A=" pid="95/6774">Javed A. Aslam</na></co>
+<co c="0"><na f="b/Badirkhanli:Tural" pid="05/4362">Tural Badirkhanli</na></co>
+<co c="0"><na f="b/Bailis:Peter" pid="47/8816">Peter Bailis</na></co>
+<co c="0"><na f="b/Balakrishnan:Hari" pid="b/HariBalakrishnan">Hari Balakrishnan</na></co>
+<co c="0"><na f="b/Balazinska:Magdalena" pid="b/MagdalenaBalazinska">Magdalena Balazinska</na></co>
+<co c="0"><na f="b/Barroso:Luiz_Andr=eacute=" pid="b/LuizAndreBarroso">Luiz Andr&#233; Barroso</na></co>
+<co c="0"><na f="b/Beekman:Jethro_G=" pid="145/2045">Jethro G. Beekman</na></co>
+<co c="0"><na f="b/Bernstein:Philip_A=" pid="b/PhilipABernstein">Philip A. Bernstein</na></co>
+<co c="0"><na f="b/Blumberg:Andrew_J=" pid="93/1054">Andrew J. Blumberg</na></co>
+<co c="0"><na f="b/Boelter:Tobias" pid="181/1572">Tobias Boelter</na></co>
+<co c="0"><na f="b/Boncz:Peter_A=" pid="b/PeterABoncz">Peter A. Boncz</na></co>
+<co c="0"><na f="b/Bost:Raphael" pid="146/7946">Raphael Bost</na></co>
+<co c="0"><na f="b/Brown:Lloyd" pid="272/7111">Lloyd Brown</na></co>
+<co c="1"><na f="c/Capkun:Srdjan" pid="51/1639">Srdjan Capkun</na></co>
+<co c="0"><na f="c/Carreira:Jo=atilde=o" pid="61/5621">Jo&#227;o Carreira</na></co>
+<co c="0"><na f="c/Chang:Ian" pid="123/6988">Ian Chang</na></co>
+<co c="0"><na f="c/Chasins:Sarah_E=" pid="76/10322">Sarah E. Chasins</na></co>
+<co c="0"><na f="c/Chaudhuri:Surajit" pid="c/SurajitChaudhuri">Surajit Chaudhuri</na></co>
+<co c="0"><na f="c/Chen:Jerry" pid="97/2370">Jerry Chen</na></co>
+<co c="0"><na f="c/Chen:Weikeng" pid="160/1002">Weikeng Chen</na></co>
+<co c="0"><na f="c/Cheung:Alvin" pid="16/4915">Alvin Cheung</na></co>
+<co c="0"><na f="c/Chiesa:Alessandro" pid="27/8534">Alessandro Chiesa</na></co>
+<co c="0"><na f="c/Choudhury:Tanzeem" pid="86/45">Tanzeem Choudhury</na></co>
+<co c="0"><na f="c/Cowling:James_A=" pid="50/1855">James A. Cowling</na></co>
+<co c="0"><na f="c/Crooks:Natacha" pid="161/0113">Natacha Crooks</na></co>
+<co c="0"><na f="c/Culler:David_E=" pid="c/DavidECuller">David E. Culler</na></co>
+<co c="0"><na f="c/Curino:Carlo" pid="c/CarloCurino">Carlo Curino</na></co>
+<co c="0"><na f="d/Dauterman:Emma" pid="228/8084">Emma Dauterman</na></co>
+<co c="0"><na f="d/Dave:Ankur" pid="74/10101">Ankur Dave</na></co>
+<co c="0"><na f="d/Demertzis:Ioannis" pid="181/5758">Ioannis Demertzis</na></co>
+<co c="0"><na f="d/Deng:Ryan" pid="277/5307">Ryan Deng</na></co>
+<co c="0"><na f="d/Despres:Tess" pid="317/2369">Tess Despres</na></co>
+<co c="0"><na f="d/Doan:AnHai" pid="d/AnHaiDoan">AnHai Doan</na></co>
+<co c="0" n="2"><na f="d/Dong_0001:Xin" pid="d/XinLunaDong">Xin Dong 0001</na><na>Luna Dong</na></co>
+<co c="0"><na f="d/Dutta:Prabal" pid="40/5390">Prabal Dutta</na></co>
+<co c="0"><na f="f/Fang:Ian_T=" pid="255/4803">Ian T. Fang</na></co>
+<co c="0"><na f="f/Fang:Vivian" pid="276/2386">Vivian Fang</na></co>
+<co c="0"><na f="f/Feng:Eric" pid="277/3983">Eric Feng</na></co>
+<co c="0"><na f="f/Fierro:Gabe" pid="145/2150">Gabe Fierro</na></co>
+<co c="1"><na f="f/Filios:Alexandros" pid="146/9697">Alexandros Filios</na></co>
+<co c="0"><na f="f/Franklin:Michael_J=" pid="f/MJFranklin">Michael J. Franklin</na></co>
+<co c="0"><na f="f/Freire:Juliana" pid="f/JulianaFreire">Juliana Freire</na></co>
+<co c="0"><na f="g/Gaikwad:Abhijeet" pid="60/6540">Abhijeet Gaikwad</na></co>
+<co c="0"><na f="g/Ghodsi_0002:Ali" pid="71/4226-2">Ali Ghodsi 0002</na></co>
+<co c="0" n="2"><na f="g/Goldberg:Kenneth_Y=" pid="g/KennethYGoldberg">Kenneth Y. Goldberg</na><na>Ken Goldberg</na></co>
+<co c="0"><na f="g/Goldwasser:Shafi" pid="g/ShafiGoldwasser">Shafi Goldwasser</na></co>
+<co c="0" n="2"><na f="g/Gonzalez_0001:Joseph" pid="61/8262">Joseph Gonzalez 0001</na><na>Joseph E. Gonzalez</na></co>
+<co c="0"><na f="g/Gu:Guofei" pid="64/1147">Guofei Gu</na></co>
+<co c="0"><na f="g/Gupta_0002:Manish" pid="g/ManishGupta2">Manish Gupta 0002</na></co>
+<co c="0"><na f="h/Halevy:Alon_Y=" pid="h/AlonYHalevy">Alon Y. Halevy</na></co>
+<co c="0"><na f="h/Helfer:Jonas" pid="151/6822">Jonas Helfer</na></co>
+<co c="0"><na f="h/Hellerstein:Joseph_M=" pid="h/JosephMHellerstein">Joseph M. Hellerstein</na></co>
+<co c="0"><na f="h/Hooshmand:Kian" pid="290/4790">Kian Hooshmand</na></co>
+<co c="0"><na f="h/Hu:Chongfeng" pid="31/4365">Chongfeng Hu</na></co>
+<co c="0"><na f="h/Hu:Yuncong" pid="241/9318">Yuncong Hu</na></co>
+<co c="0"><na f="i/Idreos:Stratos" pid="i/StratosIdreos">Stratos Idreos</na></co>
+<co c="0"><na f="j/Jain:Bhushan" pid="07/10441">Bhushan Jain</na></co>
+<co c="0"><na f="j/Ji:Shouling" pid="07/8388">Shouling Ji</na></co>
+<co c="0"><na f="j/Jiang:Weihang" pid="64/5433">Weihang Jiang</na></co>
+<co c="0"><na f="j/Jonas:Eric" pid="99/9380">Eric Jonas</na></co>
+<co c="0"><na f="j/Jones:Evan_P=_C=" pid="83/4223">Evan P. C. Jones</na></co>
+<co c="0"><na f="j/Jordan:Michael_I=" pid="j/MichaelIJordan">Michael I. Jordan</na></co>
+<co c="0"><na f="j/Joseph:Anthony_D=" pid="30/2317">Anthony D. Joseph</na></co>
+<co c="0"><na f="j/Jung:Dongha" pid="38/1591">Dongha Jung</na></co>
+<co c="0"><na f="k/Kaashoek:M=_Frans" pid="k/MFransKaashoek">M. Frans Kaashoek</na></co>
+<co c="0"><na f="k/Kalai:Yael_Tauman" pid="k/YaelTaumanKalai">Yael Tauman Kalai</na></co>
+<co c="0"><na f="k/Kalidhindi:Harika" pid="290/4734">Harika Kalidhindi</na></co>
+<co c="0"><na f="k/Kalra:Sukrit" pid="190/1205">Sukrit Kalra</na></co>
+<co c="0"><na f="k/Kantarcioglu:Murat" pid="36/195">Murat Kantarcioglu</na></co>
+<co c="1"><na f="k/Karapanos:Nikolaos" pid="140/6542">Nikolaos Karapanos</na></co>
+<co c="0"><na f="k/Katz:Randy_H=" pid="k/RandyHKatz">Randy H. Katz</na></co>
+<co c="0"><na f="k/Khandelwal:Anurag" pid="162/1936">Anurag Khandelwal</na></co>
+<co c="0"><na f="k/Kim:Hyung=Sin" pid="05/9097">Hyung-Sin Kim</na></co>
+<co c="0"><na f="k/Kolb:John" pid="158/5947">John Kolb</na></co>
+<co c="0"><na f="k/Kossmann:Donald" pid="k/DonaldKossmann">Donald Kossmann</na></co>
+<co c="0"><na f="k/Kraska:Tim" pid="26/6037">Tim Kraska</na></co>
+<co c="0"><na f="k/Krauth:Karl" pid="208/4126">Karl Krauth</na></co>
+<co c="0"><na f="k/Krishnamurthy:Sailesh" pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</na></co>
+<co c="0"><na f="k/Kumar:Sam" pid="173/8201">Sam Kumar</na></co>
+<co c="0"><na f="l/Lan:Chang" pid="116/8770">Chang Lan</na></co>
+<co c="0"><na f="l/Law:Andrew" pid="09/6327">Andrew Law</na></co>
+<co c="0"><na f="l/Lee:Dayeol" pid="223/7759">Dayeol Lee</na></co>
+<co c="0"><na f="l/Lehmkuhl:Ryan" pid="256/9139">Ryan Lehmkuhl</na></co>
+<co c="0"><na f="l/Leung:Chester" pid="264/2742">Chester Leung</na></co>
+<co c="0" n="2"><na f="l/Li_0001:Frank" pid="53/10825">Frank Li 0001</na><na>Frank H. Li</na></co>
+<co c="0"><na f="l/Li:Zhenmin" pid="41/2867">Zhenmin Li</na></co>
+<co c="0"><na f="l/Lin:William" pid="28/11180">William Lin</na></co>
+<co c="0"><na f="l/Liskov:Barbara" pid="l/BarbaraLiskov">Barbara Liskov</na></co>
+<co c="0"><na f="l/Liu:Zhi" pid="40/6686">Zhi Liu</na></co>
+<co c="0"><na f="l/Lorch:Jacob_R=" pid="25/3228">Jacob R. Lorch</na></co>
+<co c="0"><na f="l/Lu:Jianan" pid="44/10023">Jianan Lu</na></co>
+<co c="0"><na f="l/Lu_0001:Shan" pid="31/5916-1">Shan Lu 0001</na></co>
+<co c="0"><na f="l/Luo:Ellen" pid="277/3511">Ellen Luo</na></co>
+<co c="0"><na f="m/Ma_0014:Xiao" pid="35/573-14">Xiao Ma 0014</na></co>
+<co c="0"><na f="m/Madden_0001:Samuel" pid="m/SamuelMadden">Samuel Madden 0001</na></co>
+<co c="0"><na f="m/Mahoney:Michael_W=" pid="10/6978">Michael W. Mahoney</na></co>
+<co c="0"><na f="m/Malviya:Nirmesh" pid="75/9492">Nirmesh Malviya</na></co>
+<co c="0"><na f="m/Markl:Volker" pid="m/VMarkl">Volker Markl</na></co>
+<co c="0" n="2"><na f="m/Mayank_0002:" pid="33/2105-2">Mayank 0002</na><na>Mayank Rathee</na></co>
+<co c="0"><na f="m/McAvey:John" pid="272/7037">John McAvey</na></co>
+<co c="0"><na f="m/M=eacute=dard:Muriel" pid="m/MurielMedard">Muriel M&#233;dard</na></co>
+<co c="0"><na f="m/Melnik_0001:Sergey" pid="m/SergeyMelnik">Sergey Melnik 0001</na></co>
+<co c="0"><na f="m/Milo:Tova" pid="m/TovaMilo">Tova Milo</na></co>
+<co c="0"><na f="m/Mishra:Pratyush" pid="161/3103">Pratyush Mishra</na></co>
+<co c="0"><na f="m/Mohan_0001:C=" pid="m/CMohan">C. Mohan 0001</na></co>
+<co c="0"><na f="m/Molnar:David" pid="97/2954">David Molnar</na></co>
+<co c="0"><na f="n/Neumann_0001:Thomas" pid="n/ThomasNeumann">Thomas Neumann 0001</na></co>
+<co c="0" n="2"><na f="o/Olukotun:Kunle" pid="o/KunleOlukotun">Kunle Olukotun</na><na>Oyekunle A. Olukotun</na></co>
+<co c="0"><na f="o/Ooi:Beng_Chin" pid="o/BengChinOoi">Beng Chin Ooi</na></co>
+<co c="0" n="2"><na f="=/=Ouml=zcan:Fatma" pid="o/FatmaOzcan">Fatma &#214;zcan</na><na>Fatma Ozcan</na></co>
+<co c="0"><na f="p/Panda:Aurojit" pid="55/925">Aurojit Panda</na></co>
+<co c="0"><na f="p/Parameswaran:Aditya_G=" pid="40/7459">Aditya G. Parameswaran</na></co>
+<co c="0"><na f="p/Park:Soyeon" pid="03/6317">Soyeon Park</na></co>
+<co c="0"><na f="p/Patel:Jignesh_M=" pid="p/JMPatel">Jignesh M. Patel</na></co>
+<co c="0"><na f="p/Patil:Shishir_G=" pid="251/1906">Shishir G. Patil</na></co>
+<co c="0"><na f="p/Patterson_0001:David_A=" pid="p/DAPatterson">David A. Patterson 0001</na></co>
+<co c="0"><na f="p/Pavlo:Andrew" pid="58/4127">Andrew Pavlo</na></co>
+<co c="0"><na f="p/Poddar:Rishabh" pid="39/10311">Rishabh Poddar</na></co>
+<co c="0"><na f="p/Porter:Donald_E=" pid="08/4732">Donald E. Porter</na></co>
+<co c="0"><na f="p/Ports:Dan_R=_K=" pid="03/6105">Dan R. K. Ports</na></co>
+<co c="0"><na f="p/Prechter:Griffin" pid="301/5882">Griffin Prechter</na></co>
+<co c="0"><na f="p/Pu:Qifan" pid="118/3429">Qifan Pu</na></co>
+<co c="0"><na f="r/Ramakrishnan:Raghu" pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</na></co>
+<co c="0"><na f="r/Ratnasamy:Sylvia" pid="68/5579">Sylvia Ratnasamy</na></co>
+<co c="0"><na f="r/R=eacute=:Christopher" pid="r/ChristopherRe">Christopher R&#233;</na></co>
+<co c="0"><na f="r/Redfield:Catherine_M=_S=" pid="11/10322">Catherine M. S. Redfield</na></co>
+<co c="0"><na f="r/Rivest:Ronald_L=" pid="r/RonaldLRivest">Ronald L. Rivest</na></co>
+<co c="0"><na f="s/Schleier=Smith:Johann" pid="166/5229">Johann Schleier-Smith</na></co>
+<co c="0"><na f="s/Sen:Koushik" pid="04/418">Koushik Sen</na></co>
+<co c="0"><na f="s/Setty:Srinath_T=_V=" pid="68/8463">Srinath T. V. Setty</na></co>
+<co c="0"><na f="s/Shankar:Vaishaal" pid="159/3628">Vaishaal Shankar</na></co>
+<co c="0"><na f="s/Shen:Conghao" pid="336/5430">Conghao Shen</na></co>
+<co c="0"><na f="s/Shenker:Scott" pid="34/5593">Scott Shenker</na></co>
+<co c="0"><na f="s/Sherry:Justine" pid="37/8465">Justine Sherry</na></co>
+<co c="0"><na f="s/Shi:Chenyu" pid="167/1754">Chenyu Shi</na></co>
+<co c="0"><na f="s/Sima:Octavian" pid="276/0129">Octavian Sima</na></co>
+<co c="0"><na f="s/Son:Jeongseok" pid="129/2856">Jeongseok Son</na></co>
+<co c="0" n="2"><na f="s/Song:Dawn" pid="s/DXSong">Dawn Song</na><na>Dawn Xiaodong Song</na></co>
+<co c="0"><na f="s/Sotiraki:Katerina" pid="129/1428">Katerina Sotiraki</na></co>
+<co c="0"><na f="s/Sreekanti:Vikram" pid="192/4561">Vikram Sreekanti</na></co>
+<co c="0"><na f="s/Srinivasan:Akshayaram" pid="153/9906">Akshayaram Srinivasan</na></co>
+<co c="0"><na f="s/Stark_0001:Emily" pid="56/7708">Emily Stark 0001</na></co>
+<co c="0"><na f="s/Stoica:Ion" pid="s/IonStoica">Ion Stoica</na></co>
+<co c="0"><na f="s/Stonebraker:Michael" pid="s/MichaelStonebraker">Michael Stonebraker</na></co>
+<co c="0"><na f="s/Suciu:Dan" pid="s/DanSuciu">Dan Suciu</na></co>
+<co c="0"><na f="t/Tan:Alvin" pid="57/876">Alvin Tan</na></co>
+<co c="0"><na f="t/Tan:Sijun" pid="290/8933">Sijun Tan</na></co>
+<co c="0"><na f="t/Tsai:Chia=che" pid="08/10015">Chia-che Tsai</na></co>
+<co c="0"><na f="t/Tu:Stephen" pid="09/8165">Stephen Tu</na></co>
+<co c="0"><na f="v/Vaikuntanathan:Vinod" pid="v/VinodVaikuntanathan">Vinod Vaikuntanathan</na></co>
+<co c="0"><na f="v/Valdez:Steven" pid="151/6790">Steven Valdez</na></co>
+<co c="0"><na f="v/Volos:Stavros" pid="77/11029">Stavros Volos</na></co>
+<co c="0"><na f="w/Wagh:Sameer" pid="175/1766">Sameer Wagh</na></co>
+<co c="0"><na f="w/Wang:Helen_J=" pid="w/HelenJWang">Helen J. Wang</na></co>
+<co c="0"><na f="w/Wang:Stephanie" pid="175/6757">Stephanie Wang</na></co>
+<co c="0"><na f="w/Watson:Jean=Luc" pid="317/1692">Jean-Luc Watson</na></co>
+<co c="0"><na f="w/Wu_0002:Eugene" pid="41/3679">Eugene Wu 0002</na></co>
+<co c="0"><na f="w/Wu:Howard" pid="192/8757">Howard Wu</na></co>
+<co c="0" n="2"><na f="y/Yadwadkar:Neeraja_J=" pid="36/8142">Neeraja J. Yadwadkar</na><na>Neeraja Jayant Yadwadkar</na></co>
+<co c="0"><na f="y/Yanai:Avishay" pid="164/3366">Avishay Yanai</na></co>
+<co c="0"><na f="y/Yang:Seung_Jin" pid="290/4727">Seung Jin Yang</na></co>
+<co c="0"><na f="y/Yu:Chaofan" pid="140/4564">Chaofan Yu</na></co>
+<co c="0"><na f="z/Zaharia:Matei" pid="36/2133">Matei Zaharia</na></co>
+<co c="0"><na f="z/Zeldovich:Nickolai" pid="99/5780">Nickolai Zeldovich</na></co>
+<co c="0"><na f="z/Zhang:Benyu" pid="z/BenyuZhang">Benyu Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xingmeng" pid="187/3103">Xingmeng Zhang</na></co>
+<co c="0"><na f="z/Zheng:Wenting" pid="94/4314">Wenting Zheng</na></co>
+<co c="0"><na f="z/Zhou_0001:Yuanyuan" pid="99/2747-1">Yuanyuan Zhou 0001</na></co>
+<co c="0"><na f="z/Zhuang:Li" pid="31/2814">Li Zhuang</na></co>
+</coauthors>
+</dblpperson>

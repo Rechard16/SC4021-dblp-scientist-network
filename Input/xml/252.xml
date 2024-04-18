@@ -1,0 +1,1213 @@
+<dblpperson name="Fran&#231;ois Goasdou&#233;" pid="92/6981" n="80">
+<person key="homepages/92/6981" mdate="2009-06-10">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+</person>
+<r><inproceedings key="conf/www/HusseiniVGJ23" mdate="2023-05-17">
+<author orcid="0000-0003-2344-5769" pid="304/1169">Wafaa El Husseini</author>
+<author orcid="0000-0002-9843-3001" pid="249/1915">Cheikh Brahim El Vaigh</author>
+<author orcid="0000-0003-4532-7974" pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author orcid="0000-0002-9898-5789" pid="28/5951">H&#233;l&#232;ne Jaudoin</author>
+<title>OptiRef: Query Optimization for Knowledge Bases.</title>
+<pages>180-183</pages>
+<year>2023</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/3543873.3587342</ee>
+<crossref>conf/www/2023c</crossref>
+<url>db/conf/www/www2023c.html#HusseiniVGJ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dlog/VaighG21" mdate="2023-03-10">
+<author pid="249/1915">Cheikh Brahim El Vaigh</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<title>A Well-founded Graph-based Summarization Framework for Description Logics.</title>
+<year>2021</year>
+<booktitle>Description Logics</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2954/paper-8.pdf</ee>
+<crossref>conf/dlog/2021</crossref>
+<url>db/conf/dlog/dlog2021.html#VaighG21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/BuronVG21" mdate="2023-03-10">
+<author pid="241/5780">Maxime Buron</author>
+<author pid="249/1915">Cheikh Brahim El Vaigh</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<title>Towards Faster Reformulation-based Query Answering on RDF graphs with RDFS ontologies.</title>
+<year>2021</year>
+<booktitle>ISWC (Posters/Demos/Industry)</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2980/paper394.pdf</ee>
+<crossref>conf/semweb/2021p</crossref>
+<url>db/conf/semweb/iswc2021p.html#BuronVG21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/HusseiniVGJ21" mdate="2023-03-10">
+<author pid="304/1169">Wafaa El Husseini</author>
+<author pid="249/1915">Cheikh Brahim El Vaigh</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="28/5951">H&#233;l&#232;ne Jaudoin</author>
+<title>Ontology-mediated query answering: performance challenges and advances.</title>
+<year>2021</year>
+<booktitle>ISWC (Posters/Demos/Industry)</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2980/paper385.pdf</ee>
+<crossref>conf/semweb/2021p</crossref>
+<url>db/conf/semweb/iswc2021p.html#HusseiniVGJ21</url>
+</inproceedings>
+</r>
+<r><proceedings key="journals/tlsdkcs/2021-49" mdate="2022-04-05">
+<editor pid="74/1705">Abdelkader Hameurlain</editor>
+<editor pid="t/AMinTjoa">A Min Tjoa</editor>
+<editor pid="a/BAmann">Bernd Amann</editor>
+<editor pid="92/6981">Fran&#231;ois Goasdou&#233;</editor>
+<title>Transactions on Large-Scale Data- and Knowledge-Centered Systems XLIX - Special Issue on Data Management - Principles, Technologies and Applications</title>
+<booktitle>Trans. Large-Scale Data- and Knowledge-Centered Systems</booktitle>
+<publisher>Springer</publisher>
+<year>2021</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>12920</volume>
+<isbn>978-3-662-64147-7</isbn>
+<isbn>978-3-662-64148-4</isbn>
+<ee>https://doi.org/10.1007/978-3-662-64148-4</ee>
+<url>db/journals/tlsdkcs/tlsdkcs49.html</url>
+</proceedings>
+</r>
+<r><article key="journals/pvldb/BuronGMM20" mdate="2021-03-23">
+<author pid="241/5780">Maxime Buron</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author pid="10/88">Marie-Laure Mugnier</author>
+<title>Obi-Wan: Ontology-Based RDF Integration of Heterogeneous Data.</title>
+<pages>2933-2936</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2933-buron.pdf</ee>
+<ee>https://doi.org/10.14778/3415478.3415512</ee>
+<url>db/journals/pvldb/pvldb13.html#BuronGMM20</url>
+</article>
+</r>
+<r><article key="journals/vldb/GoasdoueGM20" mdate="2020-10-26">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="222/5493">Pawel Guzewicz</author>
+<author orcid="0000-0002-0425-2462" pid="m/IoanaManolescu">Ioana Manolescu</author>
+<title>RDF graph summarization for first-sight structure discovery.</title>
+<pages>1191-1218</pages>
+<year>2020</year>
+<volume>29</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-020-00611-y</ee>
+<url>db/journals/vldb/vldb29.html#GoasdoueGM20</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/BuronGMM20" mdate="2021-01-29">
+<author pid="241/5780">Maxime Buron</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author pid="10/88">Marie-Laure Mugnier</author>
+<title>Ontology-Based RDF Integration of Heterogeneous Data.</title>
+<pages>299-310</pages>
+<year>2020</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2020.27</ee>
+<crossref>conf/edbt/2020</crossref>
+<url>db/conf/edbt/edbt2020.html#BuronGMM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/BuronGMMM20" mdate="2023-03-10">
+<author pid="241/5780">Maxime Buron</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author pid="24/5767">Tayeb Merabti</author>
+<author pid="10/88">Marie-Laure Mugnier</author>
+<title>Revisiting RDF storage layouts for efficient query answering.</title>
+<pages>17-32</pages>
+<year>2020</year>
+<booktitle>SSWS@ISWC</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2757/SSWS2020_paper2.pdf</ee>
+<crossref>conf/semweb/2020ssws</crossref>
+<url>db/conf/semweb/ssws2020.html#BuronGMMM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/VaighGGS20" mdate="2020-12-25">
+<author pid="249/1915">Cheikh Brahim El Vaigh</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="92/4096">Guillaume Gravier</author>
+<author pid="90/3698">Pascale S&#233;billot</author>
+<title>A Novel Path-Based Entity Relatedness Measure for Efficient Collective Entity Linking.</title>
+<pages>164-182</pages>
+<year>2020</year>
+<booktitle>ISWC (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-62419-4_10</ee>
+<ee>https://www.wikidata.org/entity/Q101086624</ee>
+<crossref>conf/semweb/2020-1</crossref>
+<url>db/conf/semweb/iswc2020-1.html#VaighGGS20</url>
+</inproceedings>
+</r>
+<r><article key="journals/jair/BienvenuBG19" mdate="2021-10-14">
+<author orcid="0000-0001-6229-8103" pid="80/28">Meghyn Bienvenu</author>
+<author orcid="0000-0002-8806-6682" pid="148/7344">Camille Bourgaux</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<title>Computing and Explaining Query Answers over Inconsistent DL-Lite Knowledge Bases.</title>
+<pages>563-644</pages>
+<year>2019</year>
+<volume>64</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.1.11395</ee>
+<url>db/journals/jair/jair64.html#BienvenuBG19</url>
+</article>
+</r>
+<r><article key="journals/vldb/CebiricGKKMTZ19" mdate="2020-12-25">
+<author pid="163/5629">Sejla Cebiric</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author orcid="0000-0002-9917-4486" pid="24/279">Haridimos Kondylakis</author>
+<author pid="26/1664">Dimitris Kotzinos</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author pid="90/4446">Georgia Troullinou</author>
+<author pid="155/6777">Mussab Zneika</author>
+<title>Summarizing semantic graphs: a survey.</title>
+<pages>295-327</pages>
+<year>2019</year>
+<volume>28</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00778-018-0528-3</ee>
+<ee>https://www.wikidata.org/entity/Q99208374</ee>
+<url>db/journals/vldb/vldb28.html#CebiricGKKMTZ19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/CaoDGMT19" mdate="2020-10-25">
+<author pid="185/4294">Tien Duc Cao</author>
+<author pid="240/9261">Ludivine Duroyon</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author orcid="0000-0002-0425-2462" pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author orcid="0000-0002-2452-8868" pid="83/4811">Xavier Tannier</author>
+<title>BeLink: Querying Networks of Facts, Statements and Beliefs.</title>
+<pages>2941-2944</pages>
+<year>2019</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3357384.3357851</ee>
+<crossref>conf/cikm/2019</crossref>
+<url>db/conf/cikm/cikm2019.html#CaoDGMT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/doceng/VaighGGS19" mdate="2019-09-23">
+<author pid="249/1915">Cheikh Brahim El Vaigh</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="92/4096">Guillaume Gravier</author>
+<author pid="90/3698">Pascale S&#233;billot</author>
+<title>Using Knowledge Base Semantics in Context-Aware Entity Linking.</title>
+<pages>8:1-8:10</pages>
+<year>2019</year>
+<booktitle>DocEng</booktitle>
+<ee>https://doi.org/10.1145/3342558.3345393</ee>
+<crossref>conf/doceng/2019</crossref>
+<url>db/conf/doceng/doceng2019.html#VaighGGS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/GoasdoueGM19" mdate="2021-01-29">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="222/5493">Pawel Guzewicz</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<title>Incremental structural summarization of RDF graphs.</title>
+<pages>566-569</pages>
+<year>2019</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2019.57</ee>
+<crossref>conf/edbt/2019</crossref>
+<url>db/conf/edbt/edbt2019.html#GoasdoueGM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esws/BuronGMM19" mdate="2020-01-31">
+<author pid="241/5780">Maxime Buron</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author pid="10/88">Marie-Laure Mugnier</author>
+<title>Reformulation-Based Query Answering for RDF Graphs with RDFS Ontologies.</title>
+<pages>19-35</pages>
+<year>2019</year>
+<booktitle>ESWC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-21348-0_2</ee>
+<ee>https://www.wikidata.org/entity/Q64225261</ee>
+<crossref>conf/esws/2019</crossref>
+<url>db/conf/esws/eswc2019.html#BuronGMM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/DuroyonGMGM19" mdate="2020-10-25">
+<author pid="240/9261">Ludivine Duroyon</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author orcid="0000-0002-0425-2462" pid="m/IoanaManolescu">Ioana Manolescu</author>
+<title>A Linked Data Model for Facts, Statements and Beliefs.</title>
+<pages>988-993</pages>
+<year>2019</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/3308560.3316737</ee>
+<crossref>conf/www/2019c</crossref>
+<url>db/conf/www/www2019c.html#DuroyonGMGM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/PietrigaGADCGM18" mdate="2021-09-07">
+<author pid="40/2305">Emmanuel Pietriga</author>
+<author pid="227/0975">Hande G&#246;z&#252;kan</author>
+<author pid="34/3214">Caroline Appert</author>
+<author pid="173/2600">Marie Destandau</author>
+<author pid="163/5629">Sejla Cebiric</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<title>Browsing Linked Data Catalogs with LODAtlas.</title>
+<pages>137-153</pages>
+<year>2018</year>
+<booktitle>ISWC (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-00668-6_9</ee>
+<crossref>conf/semweb/2018-2</crossref>
+<url>db/conf/semweb/iswc2018-2.html#PietrigaGADCGM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esws/HassadGJ17a" mdate="2017-11-13">
+<author pid="199/8194">Sara El Hassad</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="28/5951">H&#233;l&#232;ne Jaudoin</author>
+<title>Towards Learning Commonalities in SPARQL.</title>
+<pages>35-39</pages>
+<year>2017</year>
+<booktitle>ESWC (Satellite Events)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-70407-4_8</ee>
+<crossref>conf/esws/2017s</crossref>
+<url>db/conf/esws/eswc2017s.html#HassadGJ17a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esws/HassadGJ17" mdate="2017-05-16">
+<author pid="199/8194">Sara El Hassad</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="28/5951">H&#233;l&#232;ne Jaudoin</author>
+<title>Learning Commonalities in RDF.</title>
+<pages>502-517</pages>
+<year>2017</year>
+<booktitle>ESWC (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-58068-5_31</ee>
+<crossref>conf/esws/2017-1</crossref>
+<url>db/conf/esws/eswc2017-1.html#HassadGJ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/CebiricGM17" mdate="2023-03-10">
+<author pid="163/5629">Sejla Cebiric</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<title>A Framework for Efficient Representative Summarization of RDF Graphs.</title>
+<year>2017</year>
+<booktitle>ISWC (Posters, Demos &amp; Industry Tracks)</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1963/paper512.pdf</ee>
+<crossref>conf/semweb/2017p</crossref>
+<url>db/conf/semweb/iswc2017p.html#CebiricGM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/HassadGJ17" mdate="2021-09-07">
+<author pid="199/8194">Sara El Hassad</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="28/5951">H&#233;l&#232;ne Jaudoin</author>
+<title>Learning Commonalities in SPARQL.</title>
+<pages>278-295</pages>
+<year>2017</year>
+<booktitle>ISWC (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-68288-4_17</ee>
+<crossref>conf/semweb/2017-1</crossref>
+<url>db/conf/semweb/iswc2017-1.html#HassadGJ17</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/BursztynGM16" mdate="2020-04-25">
+<author pid="160/1057">Damian Bursztyn</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<title>Teaching an RDBMS about ontological constraints.</title>
+<pages>1161-1172</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p1161-bursztyn.pdf</ee>
+<ee>https://doi.org/10.14778/2994509.2994532</ee>
+<url>db/journals/pvldb/pvldb9.html#BursztynGM16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BonaqueCCGLMMRT16" mdate="2022-05-12">
+<author pid="176/4966">Rapha&#235;l Bonaque</author>
+<author pid="185/4294">Tien Duc Cao</author>
+<author pid="05/6939">Bogdan Cautis</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="320/0784">Javier Letelier</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author pid="20/7753">Oscar Mendoza</author>
+<author pid="167/4860">Swen Ribeiro</author>
+<author pid="83/4811">Xavier Tannier</author>
+<author pid="94/9924">Micha&#235;l Thomazo</author>
+<title>Mixed-instance querying: a lightweight integration architecture for data journalism.</title>
+<pages>1513-1516</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p1513-bonaque.pdf</ee>
+<ee>https://doi.org/10.14778/3007263.3007297</ee>
+<url>db/journals/pvldb/pvldb9.html#BonaqueCCGLMMRT16</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/BienvenuBG16" mdate="2023-09-04">
+<author pid="80/28">Meghyn Bienvenu</author>
+<author pid="148/7344">Camille Bourgaux</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<title>Explaining Inconsistency-Tolerant Query Answering over Description Logic Knowledge Bases.</title>
+<pages>900-906</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v30i1.10092</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#BienvenuBG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dlog/BienvenuBG16" mdate="2023-03-10">
+<author pid="80/28">Meghyn Bienvenu</author>
+<author pid="148/7344">Camille Bourgaux</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<title>Query-driven Repairing of Inconsistent DL-Lite Knowledge Bases (Extended Abstract).</title>
+<year>2016</year>
+<booktitle>Description Logics</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1577/paper_5.pdf</ee>
+<crossref>conf/dlog/2016</crossref>
+<url>db/conf/dlog/dlog2016.html#BienvenuBG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/BonaqueCGM16" mdate="2021-01-29">
+<author pid="176/4966">Rapha&#235;l Bonaque</author>
+<author pid="05/6939">Bogdan Cautis</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<title>Social, Structured and Semantic Search.</title>
+<pages>29-40</pages>
+<year>2016</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2016.06</ee>
+<crossref>conf/edbt/2016</crossref>
+<url>db/conf/edbt/edbt2016.html#BonaqueCGM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/BienvenuBG16" mdate="2019-08-20">
+<author pid="80/28">Meghyn Bienvenu</author>
+<author pid="148/7344">Camille Bourgaux</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<title>Query-Driven Repairing of Inconsistent DL-Lite Knowledge Bases.</title>
+<pages>957-964</pages>
+<year>2016</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://www.ijcai.org/Abstract/16/140</ee>
+<crossref>conf/ijcai/2016</crossref>
+<url>db/conf/ijcai/ijcai2016.html#BienvenuBG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/BursztynGM16" mdate="2023-03-10">
+<author pid="160/1057">Damian Bursztyn</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<title>Optimizing FOL Reducible Query Answering: Understanding Performance Challenges.</title>
+<year>2016</year>
+<booktitle>ISWC (Posters &amp; Demos)</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1690/paper24.pdf</ee>
+<crossref>conf/semweb/2016p</crossref>
+<url>db/conf/semweb/iswc2016p.html#BursztynGM16</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/BursztynGM15" mdate="2020-04-25">
+<author pid="160/1057">Damian Bursztyn</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<title>Reformulation-based query answering in RDF: alternatives and performance.</title>
+<pages>1888-1891</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1888-bursztyn.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824093</ee>
+<url>db/journals/pvldb/pvldb8.html#BursztynGM15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/CebiricGM15" mdate="2020-04-25">
+<author pid="163/5629">Sejla Cebiric</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<title>Query-Oriented Summarization of RDF Graphs.</title>
+<pages>2012-2015</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p2012-cebiric.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824124</ee>
+<url>db/journals/pvldb/pvldb8.html#CebiricGM15</url>
+</article>
+</r>
+<r><inproceedings key="conf/bncod/CebiricGM15" mdate="2017-05-24">
+<author pid="163/5629">Sejla Cebiric</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<title>Query-Oriented Summarization of RDF Graphs.</title>
+<pages>87-91</pages>
+<year>2015</year>
+<booktitle>BICOD</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-20424-6_9</ee>
+<crossref>conf/bncod/2015</crossref>
+<url>db/conf/bncod/bicod2015.html#CebiricGM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dlog/BienvenuBG15" mdate="2023-03-10">
+<author pid="80/28">Meghyn Bienvenu</author>
+<author pid="148/7344">Camille Bourgaux</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<title>Explaining Query Answers under Inconsistency-Tolerant Semantics over Description Logic Knowledge Bases (Extended Abstract).</title>
+<year>2015</year>
+<booktitle>Description Logics</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1350/paper-09.pdf</ee>
+<crossref>conf/dlog/2015</crossref>
+<url>db/conf/dlog/dlog2015.html#BienvenuBG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dlog/BursztynGM15" mdate="2023-03-10">
+<author pid="160/1057">Damian Bursztyn</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<title>Efficient Query Answering in DL-Lite through FOL Reformulation (Extended Abstract).</title>
+<year>2015</year>
+<booktitle>Description Logics</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1350/paper-15.pdf</ee>
+<crossref>conf/dlog/2015</crossref>
+<url>db/conf/dlog/dlog2015.html#BursztynGM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/BursztynGM15" mdate="2021-01-29">
+<author pid="160/1057">Damian Bursztyn</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<title>Optimizing Reformulation-based Query Answering in RDF.</title>
+<pages>265-276</pages>
+<year>2015</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2015.24</ee>
+<crossref>conf/edbt/2015</crossref>
+<url>db/conf/edbt/edbt2015.html#BursztynGM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AziraniGMR15" mdate="2023-03-23">
+<author pid="164/1421">Elham Akbari Azirani</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author orcid="0000-0002-0425-2462" pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author pid="95/8398">Alexandra Roatis</author>
+<title>Efficient OLAP operations for RDF analytics.</title>
+<pages>71-76</pages>
+<year>2015</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2015.7129548</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2015.7129548</ee>
+<crossref>conf/icde/2015w</crossref>
+<url>db/conf/icde/icdew2015.html#AziraniGMR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GoasdoueKMQZ15" mdate="2023-06-26">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author orcid="0000-0003-4520-5360" pid="65/1457">Zoi Kaoudi</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="90/8176">Stamatis Zampetakis</author>
+<title>CliqueSquare: Flat plans for massively parallel RDF queries.</title>
+<pages>771-782</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113332</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113332</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#GoasdoueKMQZ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/DjahandidehGKMQ15" mdate="2023-06-26">
+<author pid="163/3904">Benjamin Djahandideh</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author orcid="0000-0003-4520-5360" pid="65/1457">Zoi Kaoudi</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author orcid="0000-0002-9001-825X" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</author>
+<author pid="90/8176">Stamatis Zampetakis</author>
+<title>CliqueSquare in action: Flat plans for massively parallel RDF queries.</title>
+<pages>1432-1435</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113394</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113394</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#DjahandidehGKMQ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BursztynGMR15" mdate="2023-03-23">
+<author pid="160/1057">Damian Bursztyn</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author pid="95/8398">Alexandra Roatis</author>
+<title>Reasoning on web data: Algorithms and performance.</title>
+<pages>1541-1544</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113422</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113422</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#BursztynGMR15</url>
+</inproceedings>
+</r>
+<r><article key="journals/isi/ColazzoGMR14" mdate="2022-03-16">
+<author pid="c/DarioColazzo">Dario Colazzo</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author orcid="0000-0002-0425-2462" pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author pid="95/8398">Alexandra Roatis</author>
+<title>Analyse de donn&#233;es RDF. Lentilles pour graphes s&#233;mantiques.</title>
+<pages>87-117</pages>
+<year>2014</year>
+<volume>19</volume>
+<journal>Ing&#233;nierie des Syst&#232;mes d Inf.</journal>
+<number>4</number>
+<ee type="archive">https://doi.org/10.3166/isi.19.4.87-117</ee>
+<url>db/journals/isi/isi19.html#ColazzoGMR14</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/BienvenuBG14" mdate="2023-09-04">
+<author pid="80/28">Meghyn Bienvenu</author>
+<author pid="148/7344">Camille Bourgaux</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<title>Querying Inconsistent Description Logic Knowledge Bases under Preferred Repair Semantics.</title>
+<pages>996-1002</pages>
+<year>2014</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v28i1.8855</ee>
+<crossref>conf/aaai/2014</crossref>
+<url>db/conf/aaai/aaai2014.html#BienvenuBG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dlog/BourgauxBG14" mdate="2023-03-10">
+<author pid="148/7344">Camille Bourgaux</author>
+<author pid="80/28">Meghyn Bienvenu</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<title>Querying Inconsistent Description Logic Knowledge Bases under Preferred Repair Semantics.</title>
+<pages>96-99</pages>
+<year>2014</year>
+<booktitle>Description Logics</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1193/paper_13.pdf</ee>
+<crossref>conf/dlog/2014</crossref>
+<url>db/conf/dlog/dlog2014.html#BourgauxBG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/BonaqueCGM14" mdate="2023-03-10">
+<author pid="176/4966">Rapha&#235;l Bonaque</author>
+<author pid="05/6939">Bogdan Cautis</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<title>Toward Social, Structured and Semantic Search.</title>
+<year>2014</year>
+<booktitle>SDSW@ISWC</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1310/paper6.pdf</ee>
+<crossref>conf/semweb/2014sdsw</crossref>
+<url>db/conf/semweb/sdsw2014.html#BonaqueCGM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/ColazzoGMR14" mdate="2020-10-25">
+<author pid="c/DarioColazzo">Dario Colazzo</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author orcid="0000-0002-0425-2462" pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author pid="95/8398">Alexandra Roatis</author>
+<title>RDF analytics: lenses over semantic graphs.</title>
+<pages>467-478</pages>
+<year>2014</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/2566486.2567982</ee>
+<crossref>conf/www/2014</crossref>
+<url>db/conf/www/www2014.html#ColazzoGMR14</url>
+</inproceedings>
+</r>
+<r><incollection key="books/crc/linked14/BugiottiCGKMZ14" mdate="2015-05-09">
+<author pid="42/734">Francesca Bugiotti</author>
+<author pid="26/8398">Jes&#250;s Camacho-Rodr&#237;guez</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="65/1457">Zoi Kaoudi</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author pid="90/8176">Stamatis Zampetakis</author>
+<title>SPARQL Query Processing in the Cloud.</title>
+<pages>165-192</pages>
+<year>2014</year>
+<booktitle>Linked Data Management</booktitle>
+<ee>http://www.crcnetbase.com/doi/abs/10.1201/b16859-11</ee>
+<crossref>books/crc/linked2014</crossref>
+<url>db/books/collections/linked2014.html#BugiottiCGKMZ14</url>
+</incollection>
+</r>
+<r><article key="journals/tkde/GoasdoueR13" mdate="2017-05-20">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="r/MCRousset">Marie-Christine Rousset</author>
+<title>Robust Module-Based Data Management.</title>
+<pages>648-661</pages>
+<year>2013</year>
+<volume>25</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TKDE.2011.255</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2011.255</ee>
+<url>db/journals/tkde/tkde25.html#GoasdoueR13</url>
+</article>
+</r>
+<r><article key="journals/vldb/GoasdoueKKLMZ13" mdate="2019-10-19">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="59/7992">Konstantinos Karanasos</author>
+<author pid="75/4070">Yannis Katsis</author>
+<author orcid="0000-0002-8662-0053" pid="35/8398">Julien Leblay</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author pid="90/8176">Stamatis Zampetakis</author>
+<title>Growing triples on trees: an XML-RDF hybrid model for annotated documents.</title>
+<pages>589-613</pages>
+<year>2013</year>
+<volume>22</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-013-0321-2</ee>
+<url>db/journals/vldb/vldb22.html#GoasdoueKKLMZ13</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/GoasdoueMR13" mdate="2020-10-25">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author orcid="0000-0002-0425-2462" pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author pid="95/8398">Alexandra Roatis</author>
+<title>Efficient query answering against dynamic RDF databases.</title>
+<pages>299-310</pages>
+<year>2013</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/2452376.2452412</ee>
+<crossref>conf/edbt/2013</crossref>
+<url>db/conf/edbt/edbt2013.html#GoasdoueMR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GoasdoueKKLMZ13" mdate="2019-10-19">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="59/7992">Konstantinos Karanasos</author>
+<author pid="75/4070">Yannis Katsis</author>
+<author orcid="0000-0002-8662-0053" pid="35/8398">Julien Leblay</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author pid="90/8176">Stamatis Zampetakis</author>
+<title>Fact checking and analyzing the web.</title>
+<pages>997-1000</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2463692</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#GoasdoueKKLMZ13</url>
+</inproceedings>
+</r>
+<r><book publtype="habil" key="books/hal/Goasdoue12" mdate="2017-09-30">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<title>Knowledge Representation meets DataBases for the sake of ontology-based data management.</title>
+<year>2012</year>
+<school>University of Paris-Sud, Orsay, France</school>
+<ee>https://tel.archives-ouvertes.fr/tel-00759274</ee>
+</book>
+</r>
+<r><article key="journals/isi/GoasdoueKKLMZ12" mdate="2022-03-16">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="59/7992">Konstantinos Karanasos</author>
+<author pid="75/4070">Yannis Katsis</author>
+<author orcid="0000-0002-8662-0053" pid="35/8398">Julien Leblay</author>
+<author orcid="0000-0002-0425-2462" pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author pid="90/8176">Stamatis Zampetakis</author>
+<title>Des triplets sur des arbres. Un mod&#232;le hybride XML-RDF pour documents annot&#233;s.</title>
+<pages>87-111</pages>
+<year>2012</year>
+<volume>17</volume>
+<journal>Ing&#233;nierie des Syst&#232;mes d Inf.</journal>
+<number>5</number>
+<ee type="archive">https://doi.org/10.3166/isi.17.5.87-111</ee>
+<url>db/journals/isi/isi17.html#GoasdoueKKLMZ12</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/Aranda-AndujarBCCGKM12" mdate="2022-10-02">
+<author pid="121/4218">Andr&#233;s Aranda-And&#250;jar</author>
+<author pid="42/734">Francesca Bugiotti</author>
+<author pid="26/8398">Jes&#250;s Camacho-Rodr&#237;guez</author>
+<author pid="c/DarioColazzo">Dario Colazzo</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author orcid="0000-0003-4520-5360" pid="65/1457">Zoi Kaoudi</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<title>AMADA: web data repositories in the amazon cloud.</title>
+<pages>2749-2751</pages>
+<year>2012</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2396761.2398749</ee>
+<crossref>conf/cikm/2012</crossref>
+<url>db/conf/cikm/cikm2012.html#Aranda-AndujarBCCGKM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/BugiottiGKM12" mdate="2022-10-02">
+<author pid="42/734">Francesca Bugiotti</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author orcid="0000-0003-4520-5360" pid="65/1457">Zoi Kaoudi</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<title>RDF data management in the Amazon cloud.</title>
+<pages>61-72</pages>
+<year>2012</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<ee>https://doi.org/10.1145/2320765.2320790</ee>
+<crossref>conf/edbt/2012w</crossref>
+<url>db/conf/edbt/edbtw2012.html#BugiottiGKM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/GoasdoueMR12" mdate="2018-11-06">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author pid="95/8398">Alexandra Roatis</author>
+<title>Getting more RDF support from relational databases.</title>
+<pages>515-516</pages>
+<year>2012</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2187980.2188104</ee>
+<crossref>conf/www/2012c</crossref>
+<url>db/conf/www/www2012c.html#GoasdoueMR12</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/GoasdoueKLM11" mdate="2020-04-25">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="59/7992">Konstantinos Karanasos</author>
+<author pid="35/8398">Julien Leblay</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<title>View Selection in Semantic Web Databases.</title>
+<pages>97-108</pages>
+<year>2011</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol5/p097_francoisgoasdoue_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2078324.2078326</ee>
+<url>db/journals/pvldb/pvldb5.html#GoasdoueKLM11</url>
+</article>
+</r>
+<r><inproceedings key="conf/vlds/GoasdoueKKLMZ11" mdate="2023-03-10">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="59/7992">Konstantinos Karanasos</author>
+<author pid="75/4070">Yannis Katsis</author>
+<author pid="35/8398">Julien Leblay</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author pid="90/8176">Stamatis Zampetakis</author>
+<title>Growing Triples on Trees: an XML-RDF Hybrid Model for Annotated Documents.</title>
+<pages>30-33</pages>
+<year>2011</year>
+<booktitle>VLDS</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-880/VLDS-p30-Goasdoue.pdf</ee>
+<crossref>conf/vlds/2011</crossref>
+<url>db/conf/vlds/vlds2011.html#GoasdoueKKLMZ11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1109-5716" mdate="2018-08-13">
+<author pid="33/577">Philippe Adjiman</author>
+<author pid="60/2208">Philippe Chatalic</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="r/MCRousset">Marie-Christine Rousset</author>
+<author pid="90/5314">Laurent Simon</author>
+<title>Distributed Reasoning in a Peer-to-Peer Setting: Application to the Semantic Web</title>
+<ee type="oa">http://arxiv.org/abs/1109.5716</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1109.5716</volume>
+<url>db/journals/corr/corr1109.html#abs-1109-5716</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1110-6648" mdate="2018-08-13">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="59/7992">Konstantinos Karanasos</author>
+<author pid="35/8398">Julien Leblay</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<title>View Selection in Semantic Web Databases</title>
+<ee type="oa">http://arxiv.org/abs/1110.6648</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1110.6648</volume>
+<url>db/journals/corr/corr1110.html#abs-1110-6648</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/GoasdoueKLM10" mdate="2019-10-19">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="59/7992">Konstantinos Karanasos</author>
+<author orcid="0000-0002-8662-0053" pid="35/8398">Julien Leblay</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<title>RDFViewS: a storage tuning wizard for RDF applications.</title>
+<pages>1947-1948</pages>
+<year>2010</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1871437.1871778</ee>
+<crossref>conf/cikm/2010</crossref>
+<url>db/conf/cikm/cikm2010.html#GoasdoueKLM10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1008-2186" mdate="2018-08-13">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="59/7992">Konstantinos Karanasos</author>
+<author pid="35/8398">Julien Leblay</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<title>RDFViewS: A Storage Tuning Wizard for RDF Applications</title>
+<ee type="oa">http://arxiv.org/abs/1008.2186</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1008.2186</volume>
+<url>db/journals/corr/corr1008.html#abs-1008-2186</url>
+</article>
+</r>
+<r><article key="journals/aicom/AbdallahG09" mdate="2017-05-18">
+<author pid="19/7441">Nada Abdallah</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<title>Non-conservative extension of a peer in a P2P inference system.</title>
+<pages>211-233</pages>
+<year>2009</year>
+<volume>22</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/AIC-2009-0452</ee>
+<url>db/journals/aicom/aicom22.html#AbdallahG09</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcai/AbdallahGR09" mdate="2019-08-20">
+<author pid="19/7441">Nada Abdallah</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="r/MCRousset">Marie-Christine Rousset</author>
+<title>DL-LITER in the Light of Propositional Logic for Decentralized Data Management.</title>
+<pages>2010-2015</pages>
+<year>2009</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/09/Papers/331.pdf</ee>
+<crossref>conf/ijcai/2009</crossref>
+<url>db/conf/ijcai/ijcai2009.html#AbdallahGR09</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/AbiteboulACGGGMNOSTVZ08" mdate="2021-10-14">
+<author pid="a/SergeAbiteboul">Serge Abiteboul</author>
+<author pid="05/1478">Tristan Allard</author>
+<author pid="60/2208">Philippe Chatalic</author>
+<author pid="g/GeorgesGardarin">Georges Gardarin</author>
+<author pid="36/6724">A. Ghitescu</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="m/IoanaManolescu">Ioana Manolescu</author>
+<author orcid="0000-0003-0719-9684" pid="69/6924">Benjamin Nguyen</author>
+<author pid="81/4519">M. Ouazara</author>
+<author pid="45/629">A. Somani</author>
+<author orcid="0000-0002-3502-151X" pid="75/5308">Nicolas Travers</author>
+<author pid="81/5724">Gabriel Vasile</author>
+<author pid="44/6565">Spyros Zoupanos</author>
+<title>WebContent: efficient P2P Warehousing of web data.</title>
+<pages>1428-1431</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol1/1454191.pdf</ee>
+<ee>https://doi.org/10.14778/1454159.1454191</ee>
+<url>db/journals/pvldb/pvldb1.html#AbiteboulACGGGMNOSTVZ08</url>
+</article>
+</r>
+<r><article key="journals/jods/AdjimanGR07" mdate="2020-12-16">
+<author pid="33/577">Philippe Adjiman</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="r/MCRousset">Marie-Christine Rousset</author>
+<title>SomeRDFSin the Semantic Web.</title>
+<pages>158-181</pages>
+<year>2007</year>
+<volume>8</volume>
+<journal>J. Data Semant.</journal>
+<ee>https://doi.org/10.1007/978-3-540-70664-9_6</ee>
+<url>db/journals/jods/jods8.html#AdjimanGR07</url>
+</article>
+</r>
+<r><article key="journals/jair/AdjimanCGRS06" mdate="2019-01-21">
+<author pid="33/577">Philippe Adjiman</author>
+<author pid="60/2208">Philippe Chatalic</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="r/MCRousset">Marie-Christine Rousset</author>
+<author pid="90/5314">Laurent Simon</author>
+<title>Distributed Reasoning in a Peer-to-Peer Setting: Application to the Semantic Web.</title>
+<pages>269-314</pages>
+<year>2006</year>
+<volume>25</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.1785</ee>
+<url>db/journals/jair/jair25.html#AdjimanCGRS06</url>
+</article>
+</r>
+<r><inproceedings key="conf/otm/RoussetACGS06" mdate="2017-05-25">
+<author pid="r/MCRousset">Marie-Christine Rousset</author>
+<author pid="33/577">Philippe Adjiman</author>
+<author pid="60/2208">Philippe Chatalic</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="90/5314">Laurent Simon</author>
+<title>SomeWhere: A Scalable Peer-to-Peer Infrastructure for Querying Distributed Ontologies.</title>
+<pages>698-703</pages>
+<year>2006</year>
+<crossref>conf/otm/2006-1</crossref>
+<booktitle>OTM Conferences (1)</booktitle>
+<ee>https://doi.org/10.1007/11914853_42</ee>
+<url>db/conf/otm/otm2006-1.html#RoussetACGS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rweb/LegerHNSCHG06" mdate="2022-10-02">
+<author pid="29/4280">Alain L&#233;ger</author>
+<author pid="62/5777">Johannes Heinecke</author>
+<author orcid="0000-0001-7091-4543" pid="n/LyndonJBNixon">Lyndon J. B. Nixon</author>
+<author pid="97/4603">Pavel Shvaiko</author>
+<author pid="47/2102">Jean Charlet</author>
+<author pid="12/6097">Paola Hobson</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<title>The Semantic Web from an Industry Perspective.</title>
+<pages>232-268</pages>
+<year>2006</year>
+<crossref>conf/rweb/2006</crossref>
+<booktitle>Reasoning Web</booktitle>
+<ee>https://doi.org/10.1007/11837787_10</ee>
+<url>db/conf/rweb/rweb2006.html#LegerHNSCHG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sofsem/RoussetACGS06" mdate="2017-05-23">
+<author pid="r/MCRousset">Marie-Christine Rousset</author>
+<author pid="33/577">Philippe Adjiman</author>
+<author pid="60/2208">Philippe Chatalic</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="90/5314">Laurent Simon</author>
+<title>SomeWhere in the Semantic Web.</title>
+<pages>84-99</pages>
+<year>2006</year>
+<crossref>conf/sofsem/2006</crossref>
+<booktitle>SOFSEM</booktitle>
+<ee>https://doi.org/10.1007/11611257_8</ee>
+<url>db/conf/sofsem/sofsem2006.html#RoussetACGS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/AdjimanCGRS05" mdate="2019-08-20">
+<author pid="33/577">Philippe Adjiman</author>
+<author pid="60/2208">Philippe Chatalic</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="r/MCRousset">Marie-Christine Rousset</author>
+<author pid="90/5314">Laurent Simon</author>
+<title>Scalability Study of Peer-to-Peer Consequence Finding.</title>
+<pages>351-356</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1144.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#AdjimanCGRS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppswr/AdjimanCGRS05" mdate="2017-05-25">
+<author pid="33/577">Philippe Adjiman</author>
+<author pid="60/2208">Philippe Chatalic</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="r/MCRousset">Marie-Christine Rousset</author>
+<author pid="90/5314">Laurent Simon</author>
+<title>SomeWhere in the Semantic Web.</title>
+<pages>1-16</pages>
+<year>2005</year>
+<crossref>conf/ppswr/2005</crossref>
+<booktitle>PPSWR</booktitle>
+<ee>https://doi.org/10.1007/11552222_1</ee>
+<url>db/conf/ppswr/ppswr2005.html#AdjimanCGRS05</url>
+</inproceedings>
+</r>
+<r><article key="journals/toit/GoasdoueR04" mdate="2018-11-06">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="r/MCRousset">Marie-Christine Rousset</author>
+<title>Answering queries using views: A KRDB perspective for the semantic Web.</title>
+<pages>255-288</pages>
+<year>2004</year>
+<volume>4</volume>
+<journal>ACM Trans. Internet Techn.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1013202.1013204</ee>
+<url>db/journals/toit/toit4.html#GoasdoueR04</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecai/AdjimanCGRS04" mdate="2007-07-10">
+<author pid="33/577">Philippe Adjiman</author>
+<author pid="60/2208">Philippe Chatalic</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="r/MCRousset">Marie-Christine Rousset</author>
+<author pid="90/5314">Laurent Simon</author>
+<title>Distributed Reasoning in a Peer-to-Peer Setting.</title>
+<pages>945-946</pages>
+<year>2004</year>
+<crossref>conf/ecai/2004</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2004.html#AdjimanCGRS04</url>
+</inproceedings>
+</r>
+<r><article key="journals/expert/GoasdoueR03" mdate="2023-08-28">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="r/MCRousset">Marie-Christine Rousset</author>
+<title>Querying Distributed Data through Distributed Ontologies: A Simple but Scalable Approach.</title>
+<pages>60-65</pages>
+<year>2003</year>
+<volume>18</volume>
+<journal>IEEE Intell. Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MIS.2003.1234771</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIS.2003.1234771</ee>
+<ee>https://www.wikidata.org/entity/Q114629064</ee>
+<url>db/journals/expert/expert18.html#GoasdoueR03</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcai/GoasdoueR03" mdate="2004-07-21">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="r/MCRousset">Marie-Christine Rousset</author>
+<title>Querying Distributed Data through Distributed Ontologies: A Simple but Scalable Approach.</title>
+<pages>149-154</pages>
+<year>2003</year>
+<crossref>conf/ijcai/2003iiweb</crossref>
+<booktitle>IIWeb</booktitle>
+<ee>http://www.isi.edu/info-agents/workshops/ijcai03/papers/GoasdoueRousset-IIWeb03.pdf</ee>
+<url>db/conf/ijcai/ijcai2003iiweb.html#GoasdoueR03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dlog/GoasdoueR02" mdate="2023-03-10">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="r/MCRousset">Marie-Christine Rousset</author>
+<title>Compilation and Approximation of Conjunctive Queries by Concept Descriptions.</title>
+<year>2002</year>
+<crossref>conf/dlog/2002</crossref>
+<booktitle>Description Logics</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-53/mcrusset.ps</ee>
+<url>db/conf/dlog/dlog2002.html#GoasdoueR02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/GoasdoueR02" mdate="2003-11-25">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="r/MCRousset">Marie-Christine Rousset</author>
+<title>Compilation and Approximation of Conjunctive Queries by Concept Descriptions.</title>
+<pages>267-271</pages>
+<year>2002</year>
+<crossref>conf/ecai/2002</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2002.html#GoasdoueR02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/krdb/GoasdoueR02" mdate="2002-06-18">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="r/MCRousset">Marie-Christine Rousset</author>
+<title>Compilation and Approximation of Conjunctive Queries by Concept Descriptions.</title>
+<year>2002</year>
+<crossref>conf/krdb/2002</crossref>
+<booktitle>KRDB</booktitle>
+<ee>http://www.cs.man.ac.uk/dl2002/review/camera-ready/mcrusset.ps</ee>
+<url>db/conf/krdb/krdb2002.html#GoasdoueR02</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcis/LattesR00" mdate="2017-05-18">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="72/2871">V&#233;ronique Latt&#232;s</author>
+<author pid="r/MCRousset">Marie-Christine Rousset</author>
+<title>The Use of CARIN Language and Algorithms for Information Integration: The PICSEL System.</title>
+<pages>383-401</pages>
+<year>2000</year>
+<volume>9</volume>
+<journal>Int. J. Cooperative Inf. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1142/S0218843000000181</ee>
+<url>db/journals/ijcis/ijcis9.html#LattesR00</url>
+</article>
+</r>
+<r><inproceedings key="conf/dlog/GoasdoueR00" mdate="2023-03-10">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="r/MCRousset">Marie-Christine Rousset</author>
+<title>Rewriting Conjunctive Queries using Views in Description Logics with Existential Restrictions.</title>
+<pages>113-122</pages>
+<year>2000</year>
+<crossref>conf/dlog/2000</crossref>
+<booktitle>Description Logics</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-33/Goasdoue113-122.ps</ee>
+<url>db/conf/dlog/dlog2000.html#GoasdoueR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ekaw/GoasdoueR99" mdate="2017-05-23">
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="15/3158">Chantal Reynaud</author>
+<title>Modeling Information Sources for Information Integration.</title>
+<pages>121-138</pages>
+<ee>https://doi.org/10.1007/3-540-48775-1_8</ee>
+<year>1999</year>
+<crossref>conf/ekaw/1999</crossref>
+<booktitle>EKAW</booktitle>
+<url>db/conf/ekaw/ekaw1999.html#GoasdoueR99</url>
+</inproceedings>
+</r>
+<coauthors n="71" nc="1">
+<co c="0"><na f="a/Abdallah:Nada" pid="19/7441">Nada Abdallah</na></co>
+<co c="0"><na f="a/Abiteboul:Serge" pid="a/SergeAbiteboul">Serge Abiteboul</na></co>
+<co c="0"><na f="a/Adjiman:Philippe" pid="33/577">Philippe Adjiman</na></co>
+<co c="0"><na f="a/Allard:Tristan" pid="05/1478">Tristan Allard</na></co>
+<co c="0"><na f="a/Amann:Bernd" pid="a/BAmann">Bernd Amann</na></co>
+<co c="0"><na f="a/Appert:Caroline" pid="34/3214">Caroline Appert</na></co>
+<co c="0"><na f="a/Aranda=And=uacute=jar:Andr=eacute=s" pid="121/4218">Andr&#233;s Aranda-And&#250;jar</na></co>
+<co c="0"><na f="a/Azirani:Elham_Akbari" pid="164/1421">Elham Akbari Azirani</na></co>
+<co c="0"><na f="b/Bienvenu:Meghyn" pid="80/28">Meghyn Bienvenu</na></co>
+<co c="0"><na f="b/Bonaque:Rapha=euml=l" pid="176/4966">Rapha&#235;l Bonaque</na></co>
+<co c="0"><na f="b/Bourgaux:Camille" pid="148/7344">Camille Bourgaux</na></co>
+<co c="0"><na f="b/Bugiotti:Francesca" pid="42/734">Francesca Bugiotti</na></co>
+<co c="0"><na f="b/Buron:Maxime" pid="241/5780">Maxime Buron</na></co>
+<co c="0"><na f="b/Bursztyn:Damian" pid="160/1057">Damian Bursztyn</na></co>
+<co c="0"><na f="c/Camacho=Rodr=iacute=guez:Jes=uacute=s" pid="26/8398">Jes&#250;s Camacho-Rodr&#237;guez</na></co>
+<co c="0"><na f="c/Cao:Tien_Duc" pid="185/4294">Tien Duc Cao</na></co>
+<co c="0"><na f="c/Cautis:Bogdan" pid="05/6939">Bogdan Cautis</na></co>
+<co c="0"><na f="c/Cebiric:Sejla" pid="163/5629">Sejla Cebiric</na></co>
+<co c="0"><na f="c/Charlet:Jean" pid="47/2102">Jean Charlet</na></co>
+<co c="0"><na f="c/Chatalic:Philippe" pid="60/2208">Philippe Chatalic</na></co>
+<co c="0"><na f="c/Colazzo:Dario" pid="c/DarioColazzo">Dario Colazzo</na></co>
+<co c="0"><na f="d/Destandau:Marie" pid="173/2600">Marie Destandau</na></co>
+<co c="0"><na f="d/Djahandideh:Benjamin" pid="163/3904">Benjamin Djahandideh</na></co>
+<co c="0"><na f="d/Duroyon:Ludivine" pid="240/9261">Ludivine Duroyon</na></co>
+<co c="0"><na f="g/Gardarin:Georges" pid="g/GeorgesGardarin">Georges Gardarin</na></co>
+<co c="0"><na f="g/Ghitescu:A=" pid="36/6724">A. Ghitescu</na></co>
+<co c="0"><na f="g/G=ouml=z=uuml=kan:Hande" pid="227/0975">Hande G&#246;z&#252;kan</na></co>
+<co c="0"><na f="g/Gravier:Guillaume" pid="92/4096">Guillaume Gravier</na></co>
+<co c="0"><na f="g/Guzewicz:Pawel" pid="222/5493">Pawel Guzewicz</na></co>
+<co c="0"><na f="h/Hameurlain:Abdelkader" pid="74/1705">Abdelkader Hameurlain</na></co>
+<co c="0"><na f="h/Hassad:Sara_El" pid="199/8194">Sara El Hassad</na></co>
+<co c="0"><na f="h/Heinecke:Johannes" pid="62/5777">Johannes Heinecke</na></co>
+<co c="0"><na f="h/Hobson:Paola" pid="12/6097">Paola Hobson</na></co>
+<co c="0"><na f="h/Husseini:Wafaa_El" pid="304/1169">Wafaa El Husseini</na></co>
+<co c="0"><na f="j/Jaudoin:H=eacute=l=egrave=ne" pid="28/5951">H&#233;l&#232;ne Jaudoin</na></co>
+<co c="0"><na f="k/Kaoudi:Zoi" pid="65/1457">Zoi Kaoudi</na></co>
+<co c="0"><na f="k/Karanasos:Konstantinos" pid="59/7992">Konstantinos Karanasos</na></co>
+<co c="0"><na f="k/Katsis:Yannis" pid="75/4070">Yannis Katsis</na></co>
+<co c="0"><na f="k/Kondylakis:Haridimos" pid="24/279">Haridimos Kondylakis</na></co>
+<co c="0"><na f="k/Kotzinos:Dimitris" pid="26/1664">Dimitris Kotzinos</na></co>
+<co c="0"><na f="l/Latt=egrave=s:V=eacute=ronique" pid="72/2871">V&#233;ronique Latt&#232;s</na></co>
+<co c="0"><na f="l/Leblay:Julien" pid="35/8398">Julien Leblay</na></co>
+<co c="0"><na f="l/L=eacute=ger:Alain" pid="29/4280">Alain L&#233;ger</na></co>
+<co c="0"><na f="l/Letelier:Javier" pid="320/0784">Javier Letelier</na></co>
+<co c="0"><na f="m/Manolescu:Ioana" pid="m/IoanaManolescu">Ioana Manolescu</na></co>
+<co c="0"><na f="m/Mendoza:Oscar" pid="20/7753">Oscar Mendoza</na></co>
+<co c="0"><na f="m/Merabti:Tayeb" pid="24/5767">Tayeb Merabti</na></co>
+<co c="0"><na f="m/Mugnier:Marie=Laure" pid="10/88">Marie-Laure Mugnier</na></co>
+<co c="0"><na f="n/Nguyen:Benjamin" pid="69/6924">Benjamin Nguyen</na></co>
+<co c="0"><na f="n/Nixon:Lyndon_J=_B=" pid="n/LyndonJBNixon">Lyndon J. B. Nixon</na></co>
+<co c="0"><na f="o/Ouazara:M=" pid="81/4519">M. Ouazara</na></co>
+<co c="0"><na f="p/Pietriga:Emmanuel" pid="40/2305">Emmanuel Pietriga</na></co>
+<co c="0"><na f="q/Quian=eacute==Ruiz:Jorge=Arnulfo" pid="09/6353">Jorge-Arnulfo Quian&#233;-Ruiz</na></co>
+<co c="0"><na f="r/Reynaud:Chantal" pid="15/3158">Chantal Reynaud</na></co>
+<co c="0"><na f="r/Ribeiro:Swen" pid="167/4860">Swen Ribeiro</na></co>
+<co c="0"><na f="r/Roatis:Alexandra" pid="95/8398">Alexandra Roatis</na></co>
+<co c="0"><na f="r/Rousset:Marie=Christine" pid="r/MCRousset">Marie-Christine Rousset</na></co>
+<co c="0"><na f="s/S=eacute=billot:Pascale" pid="90/3698">Pascale S&#233;billot</na></co>
+<co c="0"><na f="s/Shvaiko:Pavel" pid="97/4603">Pavel Shvaiko</na></co>
+<co c="0"><na f="s/Simon:Laurent" pid="90/5314">Laurent Simon</na></co>
+<co c="0"><na f="s/Somani:A=" pid="45/629">A. Somani</na></co>
+<co c="0"><na f="t/Tannier:Xavier" pid="83/4811">Xavier Tannier</na></co>
+<co c="0"><na f="t/Thomazo:Micha=euml=l" pid="94/9924">Micha&#235;l Thomazo</na></co>
+<co c="0"><na f="t/Tjoa:A_Min" pid="t/AMinTjoa">A Min Tjoa</na></co>
+<co c="0"><na f="t/Travers:Nicolas" pid="75/5308">Nicolas Travers</na></co>
+<co c="0"><na f="t/Troullinou:Georgia" pid="90/4446">Georgia Troullinou</na></co>
+<co c="0"><na f="v/Vaigh:Cheikh_Brahim_El" pid="249/1915">Cheikh Brahim El Vaigh</na></co>
+<co c="0"><na f="v/Vasile:Gabriel" pid="81/5724">Gabriel Vasile</na></co>
+<co c="0"><na f="z/Zampetakis:Stamatis" pid="90/8176">Stamatis Zampetakis</na></co>
+<co c="0"><na f="z/Zneika:Mussab" pid="155/6777">Mussab Zneika</na></co>
+<co c="0"><na f="z/Zoupanos:Spyros" pid="44/6565">Spyros Zoupanos</na></co>
+</coauthors>
+</dblpperson>

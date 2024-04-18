@@ -1,0 +1,1002 @@
+<dblpperson name="Jos&#233; F. Mart&#237;nez" pid="m/JFMartinez" n="57">
+<person key="homepages/m/JFMartinez" mdate="2022-02-15">
+<author pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<note type="affiliation">Cornell University, Ithaca, NY, USA</note>
+<note type="affiliation" label="PhD 2002">University of Illinois System, Urbana, IL, USA</note>
+<url>http://www.csl.cornell.edu/~martinez/</url>
+<url>https://dl.acm.org/profile/81436598957</url>
+<url>https://orcid.org/0000-0001-5451-5681</url>
+<url>https://www.wikidata.org/entity/Q61755976</url>
+<url>https://www.researcherid.com/rid/P-3650-2017</url>
+<url>https://www.scopus.com/authid/detail.uri?authorId=57189074181</url>
+<url>https://publons.com/researcher/2049232</url>
+</person>
+<r><article key="journals/publications/GalinaMM23" mdate="2023-08-18">
+<author pid="352/3543">Carlos S. Galina</author>
+<author orcid="0000-0002-3844-4489" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author orcid="0000-0001-7158-3360" pid="352/3188">Bruce D. Murphy</author>
+<title>Constraints on Research in Biological and Agricultural Science in Developing Countries: The Example of Latin America.</title>
+<pages>22</pages>
+<year>2023</year>
+<month>June</month>
+<volume>11</volume>
+<journal>Publ.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.3390/publications11020022</ee>
+<url>db/journals/publications/publications11.html#GalinaMM23</url>
+</article>
+</r>
+<r><inproceedings key="conf/dac/WongTM23" mdate="2023-11-12">
+<author pid="357/2910">Socrates S. Wong</author>
+<author pid="357/2929">Cecilio C. Tamarit</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>PUMICE: Processing-using-Memory Integration with a Scalar Pipeline for Symbiotic Execution.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1109/DAC56929.2023.10247818</ee>
+<crossref>conf/dac/2023</crossref>
+<url>db/conf/dac/dac2023.html#WongTM23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/RubambizaCRAMW23" mdate="2023-07-15">
+<author pid="227/0675">Gloire Rubambiza</author>
+<author pid="351/5939">Shiang-Wan Chin</author>
+<author pid="351/5852">Mueed Rehman</author>
+<author pid="190/8681">Sachille Atapattu</author>
+<author pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author pid="w/HakimWeatherspoon">Hakim Weatherspoon</author>
+<title>Comosum: An Extensible, Reconfigurable, and Fault-Tolerant IoT Platform for Digital Agriculture.</title>
+<pages>197-214</pages>
+<year>2023</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/atc23/presentation/rubambiza</ee>
+<crossref>conf/usenix/2023</crossref>
+<url>db/conf/usenix/usenix2023.html#RubambizaCRAMW23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpca/ChenJDM22" mdate="2022-06-23">
+<author pid="07/6433-2">Shuang Chen 0002</author>
+<author pid="320/8111">Angela Jin</author>
+<author pid="69/9942">Christina Delimitrou</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>ReTail: Opting for Learning Simplicity to Enable QoS-Aware Power Management in the Cloud.</title>
+<pages>155-168</pages>
+<year>2022</year>
+<booktitle>HPCA</booktitle>
+<ee>https://doi.org/10.1109/HPCA53966.2022.00020</ee>
+<crossref>conf/hpca/2022</crossref>
+<url>db/conf/hpca/hpca2022.html#ChenJDM22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpca/ChenJDM22a" mdate="2022-06-23">
+<author pid="07/6433-2">Shuang Chen 0002</author>
+<author pid="66/3172">Yi Jiang</author>
+<author pid="69/9942">Christina Delimitrou</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>PIMCloud: QoS-Aware Resource Management of Latency-Critical Applications in Clouds with Processing-in-Memory.</title>
+<pages>1086-1099</pages>
+<year>2022</year>
+<booktitle>HPCA</booktitle>
+<ee>https://doi.org/10.1109/HPCA53966.2022.00083</ee>
+<crossref>conf/hpca/2022</crossref>
+<url>db/conf/hpca/hpca2022.html#ChenJDM22a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isca/CaminalCWPM22" mdate="2023-11-12">
+<author orcid="0000-0002-2052-8107" pid="220/0737">Helena Caminal</author>
+<author pid="176/4991">Yannis Chronis</author>
+<author pid="16/4820">Tianshu Wu</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>Accelerating database analytic query workloads using an associative processor.</title>
+<pages>623-637</pages>
+<year>2022</year>
+<booktitle>ISCA</booktitle>
+<ee>https://doi.org/10.1145/3470496.3527435</ee>
+<crossref>conf/isca/2022</crossref>
+<url>db/conf/isca/isca2022.html#CaminalCWPM22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpca/CaminalYSRAWNBM21" mdate="2023-09-30">
+<author orcid="0000-0002-2052-8107" pid="220/0737">Helena Caminal</author>
+<author orcid="0000-0002-7762-2751" pid="231/1148">Kailin Yang</author>
+<author pid="195/4175">Srivatsa Srinivasa</author>
+<author pid="223/9602">Akshay Krishna Ramanathan</author>
+<author pid="207/1809">Khalid Al-Hawaj</author>
+<author pid="16/4820">Tianshu Wu</author>
+<author orcid="0000-0001-6266-6068" pid="v/NarayananVijaykrishnan">Vijaykrishnan Narayanan</author>
+<author pid="20/4601">Christopher Batten</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>CAPE: A Content-Addressable Processing Engine.</title>
+<pages>557-569</pages>
+<year>2021</year>
+<booktitle>HPCA</booktitle>
+<ee>https://doi.org/10.1109/HPCA51647.2021.00054</ee>
+<crossref>conf/hpca/2021</crossref>
+<url>db/conf/hpca/hpca2021.html#CaminalYSRAWNBM21</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcad/MoolchandaniKMS20" mdate="2020-12-17">
+<author orcid="0000-0001-8110-049X" pid="248/2381">Diksha Moolchandani</author>
+<author pid="09/5106">Anshul Kumar</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author orcid="0000-0002-1657-8523" pid="s/SmrutiRSarangi">Smruti R. Sarangi</author>
+<title>VisSched: An Auction-Based Scheduler for Vision Workloads on Heterogeneous Processors.</title>
+<pages>4252-4265</pages>
+<year>2020</year>
+<volume>39</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TCAD.2020.3013076</ee>
+<url>db/journals/tcad/tcad39.html#MoolchandaniKMS20</url>
+</article>
+</r>
+<r><inproceedings key="conf/asplos/ChenDM19" mdate="2023-11-12">
+<author pid="07/6433-2">Shuang Chen 0002</author>
+<author pid="69/9942">Christina Delimitrou</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>PARTIES: QoS-Aware Resource Partitioning for Multiple Interactive Services.</title>
+<pages>107-120</pages>
+<year>2019</year>
+<booktitle>ASPLOS</booktitle>
+<ee>https://doi.org/10.1145/3297858.3304005</ee>
+<crossref>conf/asplos/2019</crossref>
+<url>db/conf/asplos/asplos2019.html#ChenDM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpca/HurkatM19" mdate="2023-11-12">
+<author orcid="0000-0003-2565-3617" pid="159/9511">Skand Hurkat</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>VIP: A Versatile Inference Processor.</title>
+<pages>345-358</pages>
+<year>2019</year>
+<booktitle>HPCA</booktitle>
+<ee>https://doi.org/10.1109/HPCA.2019.00049</ee>
+<crossref>conf/hpca/2019</crossref>
+<url>db/conf/hpca/hpca2019.html#HurkatM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpca/WangCSM17" mdate="2023-03-24">
+<author pid="07/1021">Xiaodong Wang</author>
+<author pid="07/6433-2">Shuang Chen 0002</author>
+<author pid="188/5673">Jeff Setter</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>SWAP: Effective Fine-Grain Management of Shared Last-Level Caches with Minimum Hardware Support.</title>
+<pages>121-132</pages>
+<year>2017</year>
+<booktitle>HPCA</booktitle>
+<ee>https://doi.org/10.1109/HPCA.2017.65</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HPCA.2017.65</ee>
+<crossref>conf/hpca/2017</crossref>
+<url>db/conf/hpca/hpca2017.html#WangCSM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiswc/ChenGDMM17" mdate="2023-03-24">
+<author pid="07/6433-2">Shuang Chen 0002</author>
+<author pid="194/1380">Shay GalOn</author>
+<author pid="69/9942">Christina Delimitrou</author>
+<author pid="87/5027">Srilatha Manne</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>Workload characterization of interactive cloud services on big and small server platforms.</title>
+<pages>125-134</pages>
+<year>2017</year>
+<booktitle>IISWC</booktitle>
+<ee>https://doi.org/10.1109/IISWC.2017.8167770</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IISWC.2017.8167770</ee>
+<crossref>conf/iiswc/2017</crossref>
+<url>db/conf/iiswc/iiswc2017.html#ChenGDMM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asplos/WangM16" mdate="2021-07-07">
+<author pid="07/1021">Xiaodong Wang</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>ReBudget: Trading Off Efficiency vs. Fairness in Market-Based Multicore Resource Allocation via Runtime Budget Reassignment.</title>
+<pages>19-32</pages>
+<year>2016</year>
+<booktitle>ASPLOS</booktitle>
+<ee>https://doi.org/10.1145/2872362.2872382</ee>
+<ee>https://doi.org/10.1145/2954679.2872382</ee>
+<ee>https://doi.org/10.1145/2980024.2872382</ee>
+<crossref>conf/asplos/2016</crossref>
+<url>db/conf/asplos/asplos2016.html#WangM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/HurkatCNMR15" mdate="2024-03-21">
+<author orcid="0000-0003-2565-3617" pid="159/9511">Skand Hurkat</author>
+<author pid="97/4140">Jungwook Choi</author>
+<author pid="43/3042">Eriko Nurvitadhi</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author orcid="0009-0006-6193-0537" pid="r/RobARutenbar">Rob A. Rutenbar</author>
+<title>Fast hierarchical implementation of sequential tree-reweighted belief propagation for probabilistic inference.</title>
+<pages>1-8</pages>
+<year>2015</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2015.7293934</ee>
+<crossref>conf/fpl/2015</crossref>
+<url>db/conf/fpl/fpl2015.html#HurkatCNMR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpca/WangM15" mdate="2023-03-24">
+<author pid="07/1021">Xiaodong Wang</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>XChange: A market-based approach to scalable dynamic multi-resource allocation in multicore architectures.</title>
+<pages>113-125</pages>
+<year>2015</year>
+<booktitle>HPCA</booktitle>
+<ee>https://doi.org/10.1109/HPCA.2015.7056026</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HPCA.2015.7056026</ee>
+<crossref>conf/hpca/2015</crossref>
+<url>db/conf/hpca/hpca2015.html#WangM15</url>
+</inproceedings>
+</r>
+<r><article key="journals/jaise/FamiliarMG14" mdate="2020-05-12">
+<author pid="66/9135">Miguel S. Familiar</author>
+<author pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author orcid="0000-0002-4635-722X" pid="98/264">Carlos Garc&#237;a-Rubio</author>
+<title>Service architecting and dynamic composition in pervasive smart ecosystems for the internet of things based on sensor network technology.</title>
+<pages>331-333</pages>
+<year>2014</year>
+<volume>6</volume>
+<journal>J. Ambient Intell. Smart Environ.</journal>
+<number>3</number>
+<ee>https://doi.org/10.3233/AIS-140262</ee>
+<url>db/journals/jaise/jaise6.html#FamiliarMG14</url>
+</article>
+</r>
+<r><inproceedings key="conf/fccm/NurvitadhiWWHNH14" mdate="2023-09-30">
+<author pid="43/3042">Eriko Nurvitadhi</author>
+<author pid="34/10927">Gabriel Weisz</author>
+<author pid="02/5889-110">Yu Wang 0110</author>
+<author orcid="0000-0003-2565-3617" pid="159/9511">Skand Hurkat</author>
+<author pid="159/9467">Marie Nguyen</author>
+<author pid="33/3960">James C. Hoe</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author pid="38/769">Carlos Guestrin</author>
+<title>GraphGen: An FPGA Framework for Vertex-Centric Graph Computation.</title>
+<pages>25-28</pages>
+<year>2014</year>
+<booktitle>FCCM</booktitle>
+<ee>https://doi.org/10.1109/FCCM.2014.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/FCCM.2014.15</ee>
+<crossref>conf/fccm/2014</crossref>
+<url>db/conf/fccm/fccm2014.html#NurvitadhiWWHNH14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/RodriguezMCLCU14" mdate="2020-10-25">
+<author orcid="0000-0003-0645-3716" pid="159/2690">Vladimir Rodriguez</author>
+<author pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author pid="88/6286">Jes&#250;s Ariel Carrasco-Ochoa</author>
+<author orcid="0000-0001-6244-2005" pid="00/961">Manuel Sabino Lazo-Cort&#233;s</author>
+<author pid="01/3376">Ren&#233; Cumplido</author>
+<author pid="f/CFeregrinoU">Claudia Feregrino Uribe</author>
+<title>A hardware architecture for filtering irreducible testors.</title>
+<pages>1-4</pages>
+<year>2014</year>
+<booktitle>ReConFig</booktitle>
+<ee>https://doi.org/10.1109/ReConFig.2014.7032526</ee>
+<crossref>conf/reconfig/2014</crossref>
+<url>db/conf/reconfig/reconfig2014.html#RodriguezMCLCU14</url>
+</inproceedings>
+</r>
+<r><article key="journals/cal/Martinez13" mdate="2020-03-15">
+<author pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>A Message from the New Editor-in-Chief and Introduction of New Associate Editors.</title>
+<pages>2-4</pages>
+<year>2013</year>
+<volume>12</volume>
+<journal>IEEE Comput. Archit. Lett.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/L-CA.2013.12</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/L-CA.2013.12</ee>
+<url>db/journals/cal/cal12.html#Martinez13</url>
+</article>
+</r>
+<r><article key="journals/cal/Martinez13a" mdate="2020-03-15">
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>Editorial.</title>
+<pages>37-38</pages>
+<year>2013</year>
+<volume>12</volume>
+<journal>IEEE Comput. Archit. Lett.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/L-CA.2013.32</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/L-CA.2013.32</ee>
+<url>db/journals/cal/cal12.html#Martinez13a</url>
+</article>
+</r>
+<r><inproceedings key="conf/isca/MukundanHKSM13" mdate="2023-07-28">
+<author pid="99/11096">Janani Mukundan</author>
+<author pid="69/5961">Hillery C. Hunter</author>
+<author pid="287/1276">Kyu-Hyoun Kim</author>
+<author pid="12/7785">Jeffrey Stuecheli</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>Understanding and mitigating refresh overheads in high-density DDR4 DRAM systems.</title>
+<pages>48-59</pages>
+<year>2013</year>
+<booktitle>ISCA</booktitle>
+<ee>https://doi.org/10.1145/2485922.2485927</ee>
+<crossref>conf/isca/2013</crossref>
+<url>db/conf/isca/isca2013.html#MukundanHKSM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isca/GhoseLM13" mdate="2019-10-19">
+<author pid="94/7357">Saugata Ghose</author>
+<author pid="131/5133">Hyodong Lee</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>Improving memory scheduling via processor-side load criticality information.</title>
+<pages>84-95</pages>
+<year>2013</year>
+<booktitle>ISCA</booktitle>
+<ee>https://doi.org/10.1145/2485922.2485930</ee>
+<crossref>conf/isca/2013</crossref>
+<url>db/conf/isca/isca2013.html#GhoseLM13</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/FamiliarMCG12" mdate="2020-02-19">
+<author pid="66/9135">Miguel S. Familiar</author>
+<author pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author pid="64/3401">Iv&#225;n Corredor</author>
+<author orcid="0000-0002-4635-722X" pid="98/264">Carlos Garc&#237;a-Rubio</author>
+<title>Building service-oriented Smart Infrastructures over Wireless Ad Hoc Sensor Networks: A middleware perspective.</title>
+<pages>1303-1328</pages>
+<year>2012</year>
+<volume>56</volume>
+<journal>Comput. Networks</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.comnet.2011.12.005</ee>
+<url>db/journals/cn/cn56.html#FamiliarMCG12</url>
+</article>
+</r>
+<r><article key="journals/jnca/CorredorMFL12" mdate="2022-01-03">
+<author pid="64/3401">Iv&#225;n Corredor</author>
+<author pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author pid="66/9135">Miguel S. Familiar</author>
+<author orcid="0000-0002-6049-1257" pid="19/4082">Lourdes L&#243;pez-Santidri&#225;n</author>
+<title>Knowledge-Aware and Service-Oriented Middleware for deploying pervasive services.</title>
+<pages>562-576</pages>
+<year>2012</year>
+<volume>35</volume>
+<journal>J. Netw. Comput. Appl.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.jnca.2011.05.009</ee>
+<url>db/journals/jnca/jnca35.html#CorredorMFL12</url>
+</article>
+</r>
+<r><inproceedings key="conf/hpca/MukundanM12" mdate="2023-03-24">
+<author pid="99/11096">Janani Mukundan</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>MORSE: Multi-objective reconfigurable self-optimizing memory scheduler.</title>
+<pages>65-76</pages>
+<year>2012</year>
+<booktitle>HPCA</booktitle>
+<ee>https://doi.org/10.1109/HPCA.2012.6168945</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HPCA.2012.6168945</ee>
+<crossref>conf/hpca/2012</crossref>
+<url>db/conf/hpca/hpca2012.html#MukundanM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ics/MukundanGKIM12" mdate="2019-10-19">
+<author pid="99/11096">Janani Mukundan</author>
+<author pid="94/7357">Saugata Ghose</author>
+<author pid="116/0803">Robert Karmazin</author>
+<author pid="i/EnginIpek">Engin Ipek</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>Overcoming single-thread performance hurdles in the core fusion reconfigurable multicore architecture.</title>
+<pages>101-110</pages>
+<year>2012</year>
+<booktitle>ICS</booktitle>
+<ee>https://doi.org/10.1145/2304576.2304592</ee>
+<crossref>conf/ics/2012</crossref>
+<url>db/conf/ics/ics2012.html#MukundanGKIM12</url>
+</inproceedings>
+</r>
+<r><incollection key="books/daglib/p/RoelandsPMVSLCSVBHVMGRLDCFMHRNBEARTM11" mdate="2022-10-02">
+<author pid="05/8217">Marc Roelands</author>
+<author orcid="0000-0002-0425-5364" pid="47/1079">Johan Plomp</author>
+<author pid="70/11024">Diego Casado Mansilla</author>
+<author pid="73/377">Juan R. Velasco</author>
+<author pid="82/7883">Ismail Salhi</author>
+<author pid="97/5389">Gyu Myoung Lee</author>
+<author pid="84/4327">No&#235;l Crespi</author>
+<author pid="74/11024">Filipe Vinci dos Santos</author>
+<author pid="68/11024">Julien Vachaudez</author>
+<author pid="34/9279">Fr&#233;d&#233;ric Bettens</author>
+<author pid="90/11024">Joel Hanqc</author>
+<author pid="09/7792">Carlos Valderrama</author>
+<author pid="79/11024">Nilo Menezes</author>
+<author pid="07/9330">Alexandre Girardi</author>
+<author pid="06/11025">Xavier Ricco</author>
+<author pid="93/2814">Mario Lopez-Ramos</author>
+<author pid="64/11024">Nicolas Dumont</author>
+<author pid="64/3401">Iv&#225;n Corredor</author>
+<author pid="66/9135">Miguel S. Familiar</author>
+<author pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author pid="37/3392">Vicente Hern&#225;ndez</author>
+<author pid="89/7246">Dries De Roeck</author>
+<author pid="52/3099">Christof van Nimwegen</author>
+<author pid="46/1983">Leire Bastida</author>
+<author pid="47/1128">Marisa Escalante</author>
+<author pid="45/10224">Juncal Alonso</author>
+<author pid="24/7342">Quentin Reul</author>
+<author pid="56/5140">Yan Tang</author>
+<author pid="m/RobertMeersman">Robert Meersman</author>
+<title>The DiY Smart Experiences Project - A European Endeavour Removing Barriers for User-generated Internet of Things Applications.</title>
+<pages>279-315</pages>
+<year>2011</year>
+<booktitle>Architecting the Internet of Things</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-19157-2_11</ee>
+<crossref>books/daglib/0026698</crossref>
+<url>db/books/daglib/0026698.html#RoelandsPMVSLCSVBHVMGRLDCFMHRNBEARTM11</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/asplos/KirmanM10" mdate="2021-07-07">
+<author pid="80/6781">Nevin Kirman</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>A power-efficient all-optical on-chip interconnect using wavelength-based oblivious routing.</title>
+<pages>15-28</pages>
+<year>2010</year>
+<booktitle>ASPLOS</booktitle>
+<ee>https://doi.org/10.1145/1736020.1736024</ee>
+<ee>https://doi.org/10.1145/1735970.1736024</ee>
+<ee>https://doi.org/10.1145/1735971.1736024</ee>
+<crossref>conf/asplos/2010</crossref>
+<url>db/conf/asplos/asplos2010.html#KirmanM10</url>
+</inproceedings>
+</r>
+<r><article key="journals/micro/MartinezI09" mdate="2019-10-19">
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author pid="i/EnginIpek">Engin Ipek</author>
+<title>Dynamic Multicore Resource Management: A Machine Learning Approach.</title>
+<pages>8-17</pages>
+<year>2009</year>
+<volume>29</volume>
+<journal>IEEE Micro</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MM.2009.77</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MM.2009.77</ee>
+<url>db/journals/micro/micro29.html#MartinezI09</url>
+</article>
+</r>
+<r><proceedings key="conf/micro/2009" mdate="2019-10-16">
+<editor pid="44/1649">David H. Albonesi</editor>
+<editor pid="m/MargaretMartonosi">Margaret Martonosi</editor>
+<editor pid="19/5025">David I. August</editor>
+<editor pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</editor>
+<title>42st Annual IEEE/ACM International Symposium on Microarchitecture (MICRO-42 2009), December 12-16, 2009, New York, New York, USA</title>
+<booktitle>MICRO</booktitle>
+<publisher>ACM</publisher>
+<year>2009</year>
+<ee>http://dl.acm.org/citation.cfm?id=1669112</ee>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/5367268/proceeding</ee>
+<url>db/conf/micro/micro2009.html</url>
+<isbn>978-1-60558-798-1</isbn>
+</proceedings>
+</r>
+<r><inproceedings key="conf/isca/IpekMMC08" mdate="2023-03-24">
+<author pid="i/EnginIpek">Engin Ipek</author>
+<author pid="m/OnurMutlu">Onur Mutlu</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author pid="c/RichCaruana">Rich Caruana</author>
+<title>Self-Optimizing Memory Controllers: A Reinforcement Learning Approach.</title>
+<pages>39-50</pages>
+<year>2008</year>
+<booktitle>ISCA</booktitle>
+<ee>https://doi.org/10.1109/ISCA.2008.21</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCA.2008.21</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1382172</ee>
+<crossref>conf/isca/2008</crossref>
+<url>db/conf/isca/isca2008.html#IpekMMC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micro/BitirgenIM08" mdate="2022-05-31">
+<author pid="09/2207">Ramazan Bitirgen</author>
+<author pid="i/EnginIpek">Engin Ipek</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>Coordinated management of multiple interacting resources in chip multiprocessors: A machine learning approach.</title>
+<pages>318-329</pages>
+<year>2008</year>
+<booktitle>MICRO</booktitle>
+<ee>https://doi.org/10.1109/MICRO.2008.4771801</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MICRO.2008.4771801</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1521805</ee>
+<crossref>conf/micro/2008</crossref>
+<url>db/conf/micro/micro2008.html#BitirgenIM08</url>
+</inproceedings>
+</r>
+<r><article key="journals/micro/KirmanKDMAWA07" mdate="2019-10-19">
+<author pid="80/6781">Nevin Kirman</author>
+<author pid="59/2158">Meyrem Kirman</author>
+<author pid="59/5312">Rajeev K. Dokania</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author pid="a/AlyssaBApsel">Alyssa B. Apsel</author>
+<author pid="62/6354">Matthew A. Watkins</author>
+<author pid="44/1649">David H. Albonesi</author>
+<title>On-Chip Optical Technology in Future Bus-Based Multicore Designs.</title>
+<pages>56-66</pages>
+<year>2007</year>
+<volume>27</volume>
+<journal>IEEE Micro</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MM.2007.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MM.2007.18</ee>
+<url>db/journals/micro/micro27.html#KirmanKDMAWA07</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsn/LaFriedaIMM07" mdate="2023-03-24">
+<author pid="37/1058">Christopher LaFrieda</author>
+<author pid="i/EnginIpek">Engin Ipek</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author pid="m/RajitManohar">Rajit Manohar</author>
+<title>Utilizing Dynamically Coupled Cores to Form a Resilient Chip Multiprocessor.</title>
+<pages>317-326</pages>
+<year>2007</year>
+<crossref>conf/dsn/2007</crossref>
+<booktitle>DSN</booktitle>
+<ee>https://doi.org/10.1109/DSN.2007.100</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DSN.2007.100</ee>
+<url>db/conf/dsn/dsn2007.html#LaFriedaIMM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/IpekKKM07" mdate="2023-11-12">
+<author pid="i/EnginIpek">Engin Ipek</author>
+<author pid="59/2158">Meyrem Kirman</author>
+<author pid="80/6781">Nevin Kirman</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>A Reconfigurable Chip Multiprocessor Architecture to Accommodate Software Diversity.</title>
+<pages>1-6</pages>
+<year>2007</year>
+<crossref>conf/ipps/2007</crossref>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2007.370528</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IPDPS.2007.370528</ee>
+<url>db/conf/ipps/ipdps2007.html#IpekKKM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isca/IpekKKM07" mdate="2019-10-19">
+<author pid="i/EnginIpek">Engin Ipek</author>
+<author pid="59/2158">Meyrem Kirman</author>
+<author pid="80/6781">Nevin Kirman</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>Core fusion: accommodating software diversity in chip multiprocessors.</title>
+<pages>186-197</pages>
+<year>2007</year>
+<crossref>conf/isca/2007</crossref>
+<booktitle>ISCA</booktitle>
+<ee>https://doi.org/10.1145/1250662.1250686</ee>
+<url>db/conf/isca/isca2007.html#IpekKKM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micro/BasuKKCM07" mdate="2022-05-31">
+<author pid="12/6041">Arkaprava Basu</author>
+<author pid="80/6781">Nevin Kirman</author>
+<author pid="59/2158">Meyrem Kirman</author>
+<author pid="34/3071">Mainak Chaudhuri</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>Scavenger: A New Last Level Cache Architecture with Global Block Priority.</title>
+<pages>421-432</pages>
+<year>2007</year>
+<booktitle>MICRO</booktitle>
+<ee>https://doi.org/10.1109/MICRO.2007.42</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MICRO.2007.42</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1331736</ee>
+<crossref>conf/micro/2007</crossref>
+<url>db/conf/micro/micro2007.html#BasuKKCM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpca/LiM06" mdate="2023-03-24">
+<author pid="33/5448-59">Jian Li 0059</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>Dynamic power-performance adaptation of parallel computation on chip multiprocessors.</title>
+<pages>77-87</pages>
+<year>2006</year>
+<booktitle>HPCA</booktitle>
+<ee>https://doi.org/10.1109/HPCA.2006.1598114</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HPCA.2006.1598114</ee>
+<crossref>conf/hpca/2006</crossref>
+<url>db/conf/hpca/hpca2006.html#LiM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/IpekMSMS06" mdate="2023-03-24">
+<author pid="i/EnginIpek">Engin Ipek</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author pid="85/5840">Bronis R. de Supinski</author>
+<author pid="m/SallyAMcKee">Sally A. McKee</author>
+<author pid="07/6559">Martin Schulz 0001</author>
+<title>Dynamic program phase detection in distributed shared-memory multiprocessors.</title>
+<year>2006</year>
+<crossref>conf/ipps/2006</crossref>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2006.1639572</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IPDPS.2006.1639572</ee>
+<url>db/conf/ipps/ipdps2006.html#IpekMSMS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micro/KirmanKDMAWA06" mdate="2022-05-31">
+<author pid="80/6781">Nevin Kirman</author>
+<author pid="59/2158">Meyrem Kirman</author>
+<author pid="59/5312">Rajeev K. Dokania</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author pid="a/AlyssaBApsel">Alyssa B. Apsel</author>
+<author pid="62/6354">Matthew A. Watkins</author>
+<author pid="44/1649">David H. Albonesi</author>
+<title>Leveraging Optical Technology in Future Bus-based Chip Multiprocessors.</title>
+<pages>492-503</pages>
+<year>2006</year>
+<crossref>conf/micro/2006</crossref>
+<booktitle>MICRO</booktitle>
+<ee>https://doi.org/10.1109/MICRO.2006.28</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MICRO.2006.28</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1194861</ee>
+<url>db/conf/micro/micro2006.html#KirmanKDMAWA06</url>
+</inproceedings>
+</r>
+<r><article key="journals/taco/LiM05" mdate="2021-02-17">
+<author pid="33/5448-59">Jian Li 0059</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>Power-performance considerations of parallel computing on chip multiprocessors.</title>
+<pages>397-422</pages>
+<year>2005</year>
+<volume>2</volume>
+<journal>ACM Trans. Archit. Code Optim.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1145/1113841.1113844</ee>
+<url>db/journals/taco/taco2.html#LiM05</url>
+</article>
+</r>
+<r><inproceedings key="conf/hpca/KirmanKCM05" mdate="2023-03-24">
+<author pid="80/6781">Nevin Kirman</author>
+<author pid="59/2158">Meyrem Kirman</author>
+<author pid="34/3071">Mainak Chaudhuri</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>Checkpointed Early Load Retirement.</title>
+<pages>16-27</pages>
+<year>2005</year>
+<crossref>conf/hpca/2005</crossref>
+<booktitle>HPCA</booktitle>
+<ee>https://doi.org/10.1109/HPCA.2005.9</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HPCA.2005.9</ee>
+<url>db/conf/hpca/hpca2005.html#KirmanKCM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispass/LiM05" mdate="2023-03-24">
+<author pid="33/5448-59">Jian Li 0059</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>Power-Performance Implications of Thread-level Parallelism on Chip Multiprocessors.</title>
+<pages>124-134</pages>
+<year>2005</year>
+<booktitle>ISPASS</booktitle>
+<ee>https://doi.org/10.1109/ISPASS.2005.1430567</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISPASS.2005.1430567</ee>
+<crossref>conf/ispass/2005</crossref>
+<url>db/conf/ispass/ispass2005.html#LiM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micro/KirmanKM05" mdate="2022-05-31">
+<author pid="59/2158">Meyrem Kirman</author>
+<author pid="80/6781">Nevin Kirman</author>
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>Cherry-MP: Correctly Integrating Checkpointed Early Resource Recycling in Chip Multiprocessors.</title>
+<pages>245-256</pages>
+<year>2005</year>
+<crossref>conf/micro/2005</crossref>
+<booktitle>MICRO</booktitle>
+<ee>https://doi.org/10.1109/MICRO.2005.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MICRO.2005.15</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1100554</ee>
+<url>db/conf/micro/micro2005.html#KirmanKM05</url>
+</inproceedings>
+</r>
+<r><article key="journals/cys/SantosCM04" mdate="2021-02-11">
+<author pid="128/4398">Jos&#233; A. Santos</author>
+<author pid="128/4324">Ariel Carrasco</author>
+<author pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>Feature Selection Using Typical Testors Applied to Estimation of Stellar Parameters.</title>
+<year>2004</year>
+<volume>8</volume>
+<journal>Computaci&#243;n y Sistemas</journal>
+<number>1</number>
+<ee type="oa">http://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/1074</ee>
+<url>db/journals/cys/cys8.html#SantosCM04</url>
+</article>
+</r>
+<r><article key="journals/sigarch/CristalMLV04" mdate="2020-07-30">
+<author pid="41/1128">Adri&#225;n Cristal</author>
+<author pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author orcid="0000-0001-7740-3148" pid="92/1611">Josep Llosa</author>
+<author pid="v/MateoValero">Mateo Valero</author>
+<title>A case for resource-conscious out-of-order processors: towards kilo-instruction in-flight processors.</title>
+<pages>3-10</pages>
+<year>2004</year>
+<volume>32</volume>
+<journal>SIGARCH Comput. Archit. News</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1024295.1024296</ee>
+<url>db/journals/sigarch/sigarch32.html#CristalMLV04</url>
+</article>
+</r>
+<r><article key="journals/taco/CristalSVM04" mdate="2021-10-14">
+<author orcid="0000-0003-1277-9296" pid="41/1128">Adri&#225;n Cristal</author>
+<author orcid="0000-0001-7511-5783" pid="53/1848">Oliverio J. Santana</author>
+<author pid="v/MateoValero">Mateo Valero</author>
+<author pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>Toward kilo-instruction processors.</title>
+<pages>389-417</pages>
+<year>2004</year>
+<volume>1</volume>
+<journal>ACM Trans. Archit. Code Optim.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1145/1044823.1044825</ee>
+<ee>https://www.wikidata.org/entity/Q96472658</ee>
+<url>db/journals/taco/taco1.html#CristalSVM04</url>
+</article>
+</r>
+<r><inproceedings key="conf/hpca/LiMH04" mdate="2023-03-24">
+<author pid="33/5448-59">Jian Li 0059</author>
+<author pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author orcid="0000-0001-9799-2920" pid="40/1854">Michael C. Huang 0001</author>
+<title>The Thrifty Barrier: Energy-Aware Synchronization in Shared-Memory Multiprocessors.</title>
+<pages>14-23</pages>
+<year>2004</year>
+<crossref>conf/hpca/2004</crossref>
+<booktitle>HPCA</booktitle>
+<ee>https://doi.org/10.1109/HPCA.2004.10018</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HPCA.2004.10018</ee>
+<url>db/conf/hpca/hpca2004.html#LiMH04</url>
+</inproceedings>
+</r>
+<r><article key="journals/cal/CristalMLV03" mdate="2020-03-15">
+<author pid="41/1128">Adri&#225;n Cristal</author>
+<author pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author orcid="0000-0001-7740-3148" pid="92/1611">Josep Llosa</author>
+<author orcid="0000-0003-2917-2482" pid="v/MateoValero">Mateo Valero</author>
+<title>A Case for Resource-conscious Out-of-order Processors.</title>
+<year>2003</year>
+<volume>2</volume>
+<journal>IEEE Comput. Archit. Lett.</journal>
+<ee>https://doi.org/10.1109/L-CA.2003.4</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/L-CA.2003.4</ee>
+<ee>https://www.wikidata.org/entity/Q61731032</ee>
+<url>db/journals/cal/cal2.html#CristalMLV03</url>
+</article>
+</r>
+<r><article key="journals/micro/MartinezT03" mdate="2019-10-19">
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author pid="t/JosepTorrellas">Josep Torrellas</author>
+<title>Speculative Synchronization: Programmability and Performance for Parallel Codes.</title>
+<pages>126-134</pages>
+<year>2003</year>
+<volume>23</volume>
+<journal>IEEE Micro</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/MM.2003.1261396</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MM.2003.1261396</ee>
+<url>db/journals/micro/micro23.html#MartinezT03</url>
+</article>
+</r>
+<r><phdthesis key="phd/us/Martinez02" mdate="2023-09-07">
+<author pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<title>Speculative Shared -Memory Architectures</title>
+<school>University of Illinois Urbana-Champaign, USA</school>
+<year>2002</year>
+<ee>https://hdl.handle.net/2142/81609</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/asplos/MartinezT02" mdate="2023-11-12">
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author pid="t/JosepTorrellas">Josep Torrellas</author>
+<title>Speculative synchronization: applying thread-level speculation to explicitly parallel applications.</title>
+<pages>18-29</pages>
+<year>2002</year>
+<crossref>conf/asplos/2002</crossref>
+<booktitle>ASPLOS</booktitle>
+<ee>https://doi.org/10.1145/605397.605400</ee>
+<ee>https://doi.org/10.1145/605432.605400</ee>
+<ee>https://doi.org/10.1145/635506.605400</ee>
+<ee>https://doi.org/10.1145/635508.605400</ee>
+<url>db/conf/asplos/asplos2002.html#MartinezT02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micro/MartinezRHPT02" mdate="2022-05-31">
+<author orcid="0000-0001-5451-5681" pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author pid="81/6097">Jose Renau</author>
+<author orcid="0000-0001-9799-2920" pid="40/1854">Michael C. Huang 0001</author>
+<author pid="77/4185">Milos Prvulovic</author>
+<author pid="t/JosepTorrellas">Josep Torrellas</author>
+<title>Cherry: checkpointed early resource recycling in out-of-order microprocessors.</title>
+<pages>3-14</pages>
+<year>2002</year>
+<crossref>conf/micro/2002</crossref>
+<booktitle>MICRO</booktitle>
+<ee>https://doi.org/10.1109/MICRO.2002.1176234</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MICRO.2002.1176234</ee>
+<ee>https://dl.acm.org/citation.cfm?id=774863</ee>
+<url>db/conf/micro/micro2002.html#MartinezRHPT02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isca/CintraMT00" mdate="2023-03-24">
+<author pid="31/2430">Marcelo H. Cintra</author>
+<author pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author pid="t/JosepTorrellas">Josep Torrellas</author>
+<title>Architectural support for scalable speculative parallelization in shared-memory multiprocessors.</title>
+<pages>13-24</pages>
+<year>2000</year>
+<crossref>conf/isca/2000</crossref>
+<booktitle>ISCA</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCA.2000.854373</ee>
+<ee>https://doi.org/10.1145/339647.363382</ee>
+<url>db/conf/isca/isca2000.html#CintraMT00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dawak/FernandezDLLMPP99" mdate="2020-05-18">
+<author pid="264/9195">M. Covadonga Fern&#225;ndez</author>
+<author pid="79/27">Oscar Delgado</author>
+<author pid="77/7474">J. Ignacio L&#243;pez</author>
+<author pid="264/9173">M. Angeles Luna</author>
+<author pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author pid="264/9162">J. F. Borja Pardo</author>
+<author pid="16/4533">Jos&#233; M. Pe&#241;a 0002</author>
+<title>DAMISYS: An Overview.</title>
+<pages>313-317</pages>
+<ee>https://doi.org/10.1007/3-540-48298-9_33</ee>
+<year>1999</year>
+<crossref>conf/dawak/1999</crossref>
+<booktitle>DaWaK</booktitle>
+<url>db/conf/dawak/dawak99.html#FernandezDLLMPP99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ics/MartinezTD99" mdate="2018-11-06">
+<author pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author pid="t/JosepTorrellas">Josep Torrellas</author>
+<author pid="76/2766">Jos&#233; Duato</author>
+<title>Improving the performance of bristled CC-NUMA systems using virtual channels and adaptivity.</title>
+<pages>202-209</pages>
+<year>1999</year>
+<crossref>conf/ics/1999</crossref>
+<booktitle>International Conference on Supercomputing</booktitle>
+<ee>https://doi.org/10.1145/305138.305194</ee>
+<url>db/conf/ics/ics1999.html#MartinezTD99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vecpar/FernandezPSMHT96" mdate="2019-10-14">
+<author pid="250/4545">Juan Carlos Fern&#225;ndez 0002</author>
+<author pid="72/767">Lourdes Pe&#241;alver</author>
+<author pid="47/1934">M. Sobejano</author>
+<author pid="m/JFMartinez">Jos&#233; F. Mart&#237;nez</author>
+<author pid="37/3392">Vicente Hern&#225;ndez</author>
+<author pid="39/1892">Josep Tornero</author>
+<title>An Interface Based on Transputers to Simulate the Dynamic Equation of Robot Manipulators Using Parallel Computing.</title>
+<pages>365-379</pages>
+<year>1996</year>
+<crossref>conf/vecpar/1996</crossref>
+<booktitle>VECPAR</booktitle>
+<url>db/conf/vecpar/vecpar1996.html#FernandezPSMHT96</url>
+<ee>https://doi.org/10.1007/3-540-62828-2_130</ee>
+</inproceedings>
+</r>
+<coauthors n="123" nc="6">
+<co c="0"><na f="a/Al=Hawaj:Khalid" pid="207/1809">Khalid Al-Hawaj</na></co>
+<co c="0"><na f="a/Albonesi:David_H=" pid="44/1649">David H. Albonesi</na></co>
+<co c="0"><na f="a/Alonso:Juncal" pid="45/10224">Juncal Alonso</na></co>
+<co c="0"><na f="a/Apsel:Alyssa_B=" pid="a/AlyssaBApsel">Alyssa B. Apsel</na></co>
+<co c="0"><na f="a/Atapattu:Sachille" pid="190/8681">Sachille Atapattu</na></co>
+<co c="0"><na f="a/August:David_I=" pid="19/5025">David I. August</na></co>
+<co c="0"><na f="b/Bastida:Leire" pid="46/1983">Leire Bastida</na></co>
+<co c="0"><na f="b/Basu:Arkaprava" pid="12/6041">Arkaprava Basu</na></co>
+<co c="0"><na f="b/Batten:Christopher" pid="20/4601">Christopher Batten</na></co>
+<co c="0"><na f="b/Bettens:Fr=eacute=d=eacute=ric" pid="34/9279">Fr&#233;d&#233;ric Bettens</na></co>
+<co c="0"><na f="b/Bitirgen:Ramazan" pid="09/2207">Ramazan Bitirgen</na></co>
+<co c="0"><na f="c/Caminal:Helena" pid="220/0737">Helena Caminal</na></co>
+<co c="4"><na f="c/Carrasco:Ariel" pid="128/4324">Ariel Carrasco</na></co>
+<co c="2"><na f="c/Carrasco=Ochoa:Jes=uacute=s_Ariel" pid="88/6286">Jes&#250;s Ariel Carrasco-Ochoa</na></co>
+<co c="0"><na f="c/Caruana:Rich" pid="c/RichCaruana">Rich Caruana</na></co>
+<co c="0"><na f="c/Chaudhuri:Mainak" pid="34/3071">Mainak Chaudhuri</na></co>
+<co c="0"><na f="c/Chen_0002:Shuang" pid="07/6433-2">Shuang Chen 0002</na></co>
+<co c="0"><na f="c/Chin:Shiang=Wan" pid="351/5939">Shiang-Wan Chin</na></co>
+<co c="0"><na f="c/Choi:Jungwook" pid="97/4140">Jungwook Choi</na></co>
+<co c="0"><na f="c/Chronis:Yannis" pid="176/4991">Yannis Chronis</na></co>
+<co c="0"><na f="c/Cintra:Marcelo_H=" pid="31/2430">Marcelo H. Cintra</na></co>
+<co c="0"><na f="c/Corredor:Iv=aacute=n" pid="64/3401">Iv&#225;n Corredor</na></co>
+<co c="0"><na f="c/Crespi:No=euml=l" pid="84/4327">No&#235;l Crespi</na></co>
+<co c="0"><na f="c/Cristal:Adri=aacute=n" pid="41/1128">Adri&#225;n Cristal</na></co>
+<co c="2"><na f="c/Cumplido:Ren=eacute=" pid="01/3376">Ren&#233; Cumplido</na></co>
+<co c="1"><na f="d/Delgado:Oscar" pid="79/27">Oscar Delgado</na></co>
+<co c="0"><na f="d/Delimitrou:Christina" pid="69/9942">Christina Delimitrou</na></co>
+<co c="0"><na f="d/Dokania:Rajeev_K=" pid="59/5312">Rajeev K. Dokania</na></co>
+<co c="0"><na f="d/Duato:Jos=eacute=" pid="76/2766">Jos&#233; Duato</na></co>
+<co c="0"><na f="d/Dumont:Nicolas" pid="64/11024">Nicolas Dumont</na></co>
+<co c="0"><na f="e/Escalante:Marisa" pid="47/1128">Marisa Escalante</na></co>
+<co c="0"><na f="f/Familiar:Miguel_S=" pid="66/9135">Miguel S. Familiar</na></co>
+<co c="0"><na f="f/Fern=aacute=ndez_0002:Juan_Carlos" pid="250/4545">Juan Carlos Fern&#225;ndez 0002</na></co>
+<co c="1"><na f="f/Fern=aacute=ndez:M=_Covadonga" pid="264/9195">M. Covadonga Fern&#225;ndez</na></co>
+<co c="5"><na f="g/Galina:Carlos_S=" pid="352/3543">Carlos S. Galina</na></co>
+<co c="0"><na f="g/GalOn:Shay" pid="194/1380">Shay GalOn</na></co>
+<co c="0"><na f="g/Garc=iacute=a=Rubio:Carlos" pid="98/264">Carlos Garc&#237;a-Rubio</na></co>
+<co c="0"><na f="g/Ghose:Saugata" pid="94/7357">Saugata Ghose</na></co>
+<co c="0"><na f="g/Girardi:Alexandre" pid="07/9330">Alexandre Girardi</na></co>
+<co c="0"><na f="g/Guestrin:Carlos" pid="38/769">Carlos Guestrin</na></co>
+<co c="0"><na f="h/Hanqc:Joel" pid="90/11024">Joel Hanqc</na></co>
+<co c="0"><na f="h/Hern=aacute=ndez:Vicente" pid="37/3392">Vicente Hern&#225;ndez</na></co>
+<co c="0"><na f="h/Hoe:James_C=" pid="33/3960">James C. Hoe</na></co>
+<co c="0"><na f="h/Huang_0001:Michael_C=" pid="40/1854">Michael C. Huang 0001</na></co>
+<co c="0"><na f="h/Hunter:Hillery_C=" pid="69/5961">Hillery C. Hunter</na></co>
+<co c="0"><na f="h/Hurkat:Skand" pid="159/9511">Skand Hurkat</na></co>
+<co c="0"><na f="i/Ipek:Engin" pid="i/EnginIpek">Engin Ipek</na></co>
+<co c="0"><na f="j/Jiang:Yi" pid="66/3172">Yi Jiang</na></co>
+<co c="0"><na f="j/Jin:Angela" pid="320/8111">Angela Jin</na></co>
+<co c="0"><na f="k/Karmazin:Robert" pid="116/0803">Robert Karmazin</na></co>
+<co c="0"><na f="k/Kim:Kyu=Hyoun" pid="287/1276">Kyu-Hyoun Kim</na></co>
+<co c="0"><na f="k/Kirman:Meyrem" pid="59/2158">Meyrem Kirman</na></co>
+<co c="0"><na f="k/Kirman:Nevin" pid="80/6781">Nevin Kirman</na></co>
+<co c="0"><na f="k/Kumar:Anshul" pid="09/5106">Anshul Kumar</na></co>
+<co c="0"><na f="l/LaFrieda:Christopher" pid="37/1058">Christopher LaFrieda</na></co>
+<co c="2" n="2"><na f="l/Lazo=Cort=eacute=s:Manuel" pid="00/961">Manuel Lazo-Cort&#233;s</na><na>Manuel Sabino Lazo-Cort&#233;s</na></co>
+<co c="0"><na f="l/Lee:Gyu_Myoung" pid="97/5389">Gyu Myoung Lee</na></co>
+<co c="0"><na f="l/Lee:Hyodong" pid="131/5133">Hyodong Lee</na></co>
+<co c="0"><na f="l/Li_0059:Jian" pid="33/5448-59">Jian Li 0059</na></co>
+<co c="0"><na f="l/Llosa:Josep" pid="92/1611">Josep Llosa</na></co>
+<co c="1"><na f="l/L=oacute=pez:J=_Ignacio" pid="77/7474">J. Ignacio L&#243;pez</na></co>
+<co c="0"><na f="l/Lopez=Ramos:Mario" pid="93/2814">Mario Lopez-Ramos</na></co>
+<co c="0"><na f="l/L=oacute=pez=Santidri=aacute=n:Lourdes" pid="19/4082">Lourdes L&#243;pez-Santidri&#225;n</na></co>
+<co c="1"><na f="l/Luna:M=_Angeles" pid="264/9173">M. Angeles Luna</na></co>
+<co c="0"><na f="m/Manne:Srilatha" pid="87/5027">Srilatha Manne</na></co>
+<co c="0"><na f="m/Manohar:Rajit" pid="m/RajitManohar">Rajit Manohar</na></co>
+<co c="0"><na f="m/Mansilla:Diego_Casado" pid="70/11024">Diego Casado Mansilla</na></co>
+<co c="0"><na f="m/Martonosi:Margaret" pid="m/MargaretMartonosi">Margaret Martonosi</na></co>
+<co c="0"><na f="m/McKee:Sally_A=" pid="m/SallyAMcKee">Sally A. McKee</na></co>
+<co c="0"><na f="m/Meersman:Robert" pid="m/RobertMeersman">Robert Meersman</na></co>
+<co c="0"><na f="m/Menezes:Nilo" pid="79/11024">Nilo Menezes</na></co>
+<co c="0"><na f="m/Moolchandani:Diksha" pid="248/2381">Diksha Moolchandani</na></co>
+<co c="0"><na f="m/Mukundan:Janani" pid="99/11096">Janani Mukundan</na></co>
+<co c="5"><na f="m/Murphy:Bruce_D=" pid="352/3188">Bruce D. Murphy</na></co>
+<co c="0"><na f="m/Mutlu:Onur" pid="m/OnurMutlu">Onur Mutlu</na></co>
+<co c="0"><na f="n/Nguyen:Marie" pid="159/9467">Marie Nguyen</na></co>
+<co c="0"><na f="n/Nimwegen:Christof_van" pid="52/3099">Christof van Nimwegen</na></co>
+<co c="0"><na f="n/Nurvitadhi:Eriko" pid="43/3042">Eriko Nurvitadhi</na></co>
+<co c="1"><na f="p/Pardo:J=_F=_Borja" pid="264/9162">J. F. Borja Pardo</na></co>
+<co c="0"><na f="p/Patel:Jignesh_M=" pid="p/JMPatel">Jignesh M. Patel</na></co>
+<co c="1"><na f="p/Pe=ntilde=a_0002:Jos=eacute=_M=" pid="16/4533">Jos&#233; M. Pe&#241;a 0002</na></co>
+<co c="0"><na f="p/Pe=ntilde=alver:Lourdes" pid="72/767">Lourdes Pe&#241;alver</na></co>
+<co c="0"><na f="p/Plomp:Johan" pid="47/1079">Johan Plomp</na></co>
+<co c="0"><na f="p/Prvulovic:Milos" pid="77/4185">Milos Prvulovic</na></co>
+<co c="0"><na f="r/Ramanathan:Akshay_Krishna" pid="223/9602">Akshay Krishna Ramanathan</na></co>
+<co c="0"><na f="r/Rehman:Mueed" pid="351/5852">Mueed Rehman</na></co>
+<co c="0"><na f="r/Renau:Jose" pid="81/6097">Jose Renau</na></co>
+<co c="0"><na f="r/Reul:Quentin" pid="24/7342">Quentin Reul</na></co>
+<co c="0"><na f="r/Ricco:Xavier" pid="06/11025">Xavier Ricco</na></co>
+<co c="2"><na f="r/Rodriguez:Vladimir" pid="159/2690">Vladimir Rodriguez</na></co>
+<co c="0"><na f="r/Roeck:Dries_De" pid="89/7246">Dries De Roeck</na></co>
+<co c="0"><na f="r/Roelands:Marc" pid="05/8217">Marc Roelands</na></co>
+<co c="0"><na f="r/Rubambiza:Gloire" pid="227/0675">Gloire Rubambiza</na></co>
+<co c="0"><na f="r/Rutenbar:Rob_A=" pid="r/RobARutenbar">Rob A. Rutenbar</na></co>
+<co c="0"><na f="s/Salhi:Ismail" pid="82/7883">Ismail Salhi</na></co>
+<co c="0"><na f="s/Santana:Oliverio_J=" pid="53/1848">Oliverio J. Santana</na></co>
+<co c="0"><na f="s/Santos:Filipe_Vinci_dos" pid="74/11024">Filipe Vinci dos Santos</na></co>
+<co c="4"><na f="s/Santos:Jos=eacute=_A=" pid="128/4398">Jos&#233; A. Santos</na></co>
+<co c="0"><na f="s/Sarangi:Smruti_R=" pid="s/SmrutiRSarangi">Smruti R. Sarangi</na></co>
+<co c="0"><na f="s/Schulz_0001:Martin" pid="07/6559">Martin Schulz 0001</na></co>
+<co c="0"><na f="s/Setter:Jeff" pid="188/5673">Jeff Setter</na></co>
+<co c="0"><na f="s/Sobejano:M=" pid="47/1934">M. Sobejano</na></co>
+<co c="0" n="2"><na f="s/Srinivasa:Srivatsa_Rangachar" pid="195/4175">Srivatsa Rangachar Srinivasa</na><na>Srivatsa Srinivasa</na></co>
+<co c="0"><na f="s/Stuecheli:Jeffrey" pid="12/7785">Jeffrey Stuecheli</na></co>
+<co c="0"><na f="s/Supinski:Bronis_R=_de" pid="85/5840">Bronis R. de Supinski</na></co>
+<co c="3"><na f="t/Tamarit:Cecilio_C=" pid="357/2929">Cecilio C. Tamarit</na></co>
+<co c="0"><na f="t/Tang:Yan" pid="56/5140">Yan Tang</na></co>
+<co c="0"><na f="t/Tornero:Josep" pid="39/1892">Josep Tornero</na></co>
+<co c="0"><na f="t/Torrellas:Josep" pid="t/JosepTorrellas">Josep Torrellas</na></co>
+<co c="2"><na f="u/Uribe:Claudia_Feregrino" pid="f/CFeregrinoU">Claudia Feregrino Uribe</na></co>
+<co c="0"><na f="v/Vachaudez:Julien" pid="68/11024">Julien Vachaudez</na></co>
+<co c="0"><na f="v/Valderrama:Carlos" pid="09/7792">Carlos Valderrama</na></co>
+<co c="0"><na f="v/Valero:Mateo" pid="v/MateoValero">Mateo Valero</na></co>
+<co c="0"><na f="v/Velasco:Juan_R=" pid="73/377">Juan R. Velasco</na></co>
+<co c="0" n="2"><na f="v/Vijaykrishnan:Narayanan" pid="v/NarayananVijaykrishnan">Narayanan Vijaykrishnan</na><na>Vijaykrishnan Narayanan</na></co>
+<co c="0"><na f="w/Wang:Xiaodong" pid="07/1021">Xiaodong Wang</na></co>
+<co c="0"><na f="w/Wang_0110:Yu" pid="02/5889-110">Yu Wang 0110</na></co>
+<co c="0"><na f="w/Watkins:Matthew_A=" pid="62/6354">Matthew A. Watkins</na></co>
+<co c="0"><na f="w/Weatherspoon:Hakim" pid="w/HakimWeatherspoon">Hakim Weatherspoon</na></co>
+<co c="0"><na f="w/Weisz:Gabriel" pid="34/10927">Gabriel Weisz</na></co>
+<co c="3"><na f="w/Wong:Socrates_S=" pid="357/2910">Socrates S. Wong</na></co>
+<co c="0"><na f="w/Wu:Tianshu" pid="16/4820">Tianshu Wu</na></co>
+<co c="0"><na f="y/Yang:Kailin" pid="231/1148">Kailin Yang</na></co>
+</coauthors>
+</dblpperson>

@@ -1,0 +1,3038 @@
+<dblpperson name="Paolo Atzeni" pid="a/PAtzeni" n="172">
+<person key="homepages/a/PAtzeni" mdate="2023-07-03">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<note type="affiliation">Roma Tre University, Rome, Italy</note>
+<url>http://www.dia.uniroma3.it/~atzeni/</url>
+<url>https://scholar.google.com/citations?user=X1xT-I0AAAAJ</url>
+<url>https://dl.acm.org/profile/81100564848</url>
+<url>https://orcid.org/0000-0003-1513-4725</url>
+<url>https://www.wikidata.org/entity/Q94518247</url>
+<url>https://id.loc.gov/authorities/names/n85298628</url>
+<url>https://mathgenealogy.org/id.php?id=111046</url>
+<url>https://d-nb.info/gnd/120933268</url>
+<url>https://zbmath.org/authors/?q=ai:atzeni.paolo</url>
+</person>
+<r><article key="journals/vldb/PiaiAMS23" mdate="2023-05-13">
+<author orcid="0000-0002-4503-4947" pid="221/7529">Federico Piai</author>
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author orcid="0000-0002-3852-8092" pid="m/PaoloMerialdo">Paolo Merialdo</author>
+<author orcid="0000-0002-7609-9217" pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Fine-grained semantic type discovery for heterogeneous sources using clustering.</title>
+<pages>305-324</pages>
+<year>2023</year>
+<month>March</month>
+<volume>32</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s00778-022-00743-3</ee>
+<url>db/journals/vldb/vldb32.html#PiaiAMS23</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/BaldazziA22" mdate="2023-03-10">
+<author pid="287/9337">Teodoro Baldazzi</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Warded Datalog+/- Reasoning in Financial Settings with Harmful Joins.</title>
+<year>2022</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3135/EcoFinKG_2022_paper13.pdf</ee>
+<crossref>conf/edbt/2022w</crossref>
+<url>db/conf/edbt/edbt2022w.html#BaldazziA22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ruleml/AtzeniBBS22" mdate="2022-12-20">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="287/9337">Teodoro Baldazzi</author>
+<author pid="86/6775">Luigi Bellomarini</author>
+<author pid="20/9117">Emanuel Sallinger</author>
+<title>iWarded: A Versatile Generator to Benchmark Warded Datalog+/- Reasoning.</title>
+<pages>113-129</pages>
+<year>2022</year>
+<booktitle>RuleML+RR</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-21541-4_8</ee>
+<crossref>conf/ruleml/2022</crossref>
+<url>db/conf/ruleml/ruleml2022.html#AtzeniBBS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sebd/BaldazziBSA22" mdate="2023-03-10">
+<author pid="287/9337">Teodoro Baldazzi</author>
+<author pid="86/6775">Luigi Bellomarini</author>
+<author pid="20/9117">Emanuel Sallinger</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Reasoning in Warded Datalog+/- with Harmful Joins.</title>
+<pages>292-299</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3194/paper35.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#BaldazziBSA22</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/CetorelliACM21" mdate="2022-04-21">
+<author pid="290/0355">Valerio Cetorelli</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="26/1870">Valter Crescenzi</author>
+<author pid="48/6501">Franco Milicchio</author>
+<title>The Smallest Extraction Problem.</title>
+<pages>2445-2458</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2445-crescenzi.pdf</ee>
+<ee>https://doi.org/10.14778/3476249.3476293</ee>
+<url>db/journals/pvldb/pvldb14.html#CetorelliACM21</url>
+</article>
+</r>
+<r><inproceedings key="conf/ruleml/BaldazziBSA21" mdate="2021-12-07">
+<author pid="287/9337">Teodoro Baldazzi</author>
+<author pid="86/6775">Luigi Bellomarini</author>
+<author pid="20/9117">Emanuel Sallinger</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Eliminating Harmful Joins in Warded Datalog+/-.</title>
+<pages>267-275</pages>
+<year>2021</year>
+<booktitle>RuleML+RR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-91167-6_18</ee>
+<crossref>conf/ruleml/2021</crossref>
+<url>db/conf/ruleml/ruleml2021.html#BaldazziBSA21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-08588" mdate="2021-03-23">
+<author pid="287/9337">Teodoro Baldazzi</author>
+<author pid="86/6775">Luigi Bellomarini</author>
+<author pid="20/9117">Emanuel Sallinger</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>iWarded: A System for Benchmarking Datalog+/- Reasoning (technical report).</title>
+<year>2021</year>
+<volume>abs/2103.08588</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.08588</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-08588</url>
+</article>
+</r>
+<r><article key="journals/csi/AtzeniBCT20" mdate="2023-08-28">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="42/734">Francesca Bugiotti</author>
+<author pid="c/LucaCabibbo">Luca Cabibbo</author>
+<author orcid="0000-0003-1484-3693" pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>Data modeling in the NoSQL world.</title>
+<year>2020</year>
+<volume>67</volume>
+<journal>Comput. Stand. Interfaces</journal>
+<ee>https://doi.org/10.1016/j.csi.2016.10.003</ee>
+<ee>https://www.wikidata.org/entity/Q114671375</ee>
+<url>db/journals/csi/csi67.html#AtzeniBCT20</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecai/AtzeniBBS20" mdate="2023-03-10">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="86/6775">Luigi Bellomarini</author>
+<author pid="307/3726">Davide Benedetto</author>
+<author pid="20/9117">Emanuel Sallinger</author>
+<title>Traversing Knowledge Graphs with Good Old (and New) Joins.</title>
+<pages>3-9</pages>
+<year>2020</year>
+<booktitle>KR4L@ECAI</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3020/KR4L_paper_4.pdf</ee>
+<crossref>conf/ecai/2020kr4l</crossref>
+<url>db/conf/ecai/kr4l2020.html#AtzeniBBS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/AtzeniBISV20" mdate="2023-03-10">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="86/6775">Luigi Bellomarini</author>
+<author pid="40/8861">Michela Iezzi</author>
+<author pid="20/9117">Emanuel Sallinger</author>
+<author pid="261/1904">Adriano Vlad</author>
+<title>Augmenting Logic-based Knowledge Graphs: The Case of Company Graphs.</title>
+<pages>22-27</pages>
+<year>2020</year>
+<booktitle>KR4L@ECAI</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3020/KR4L_paper_9.pdf</ee>
+<crossref>conf/ecai/2020kr4l</crossref>
+<url>db/conf/ecai/kr4l2020.html#AtzeniBISV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/AtzeniBISV20" mdate="2021-01-29">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="86/6775">Luigi Bellomarini</author>
+<author pid="40/8861">Michela Iezzi</author>
+<author pid="20/9117">Emanuel Sallinger</author>
+<author pid="261/1904">Adriano Vlad</author>
+<title>Weaving Enterprise Knowledge Graphs: The Case of Company Ownership Graphs.</title>
+<pages>555-566</pages>
+<year>2020</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2020.66</ee>
+<crossref>conf/edbt/2020</crossref>
+<url>db/conf/edbt/edbt2020.html#AtzeniBISV20</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/AtzeniBPT19" mdate="2022-01-03">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="86/6775">Luigi Bellomarini</author>
+<author orcid="0000-0003-0651-4128" pid="p/PaoloPapotti">Paolo Papotti</author>
+<author orcid="0000-0003-1484-3693" pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>Meta-Mappings for Schema Mapping Reuse.</title>
+<pages>557-569</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p557-atzeni.pdf</ee>
+<ee>https://doi.org/10.14778/3303753.3303761</ee>
+<url>db/journals/pvldb/pvldb12.html#AtzeniBPT19</url>
+</article>
+</r>
+<r><inproceedings key="conf/sebd/AtzeniBPT19" mdate="2023-03-10">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="86/6775">Luigi Bellomarini</author>
+<author pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>GAIA: A Framework for Schema Mapping Reuse (extended abstract).</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2400/paper-10.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#AtzeniBPT19</url>
+</inproceedings>
+</r>
+<r><article key="journals/dpd/AtzeniBBL18" mdate="2020-05-18">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="86/6775">Luigi Bellomarini</author>
+<author pid="42/734">Francesca Bugiotti</author>
+<author pid="174/4568">Marco De Leonardis</author>
+<title>Executable schema mappings for statistical data processing.</title>
+<pages>265-300</pages>
+<year>2018</year>
+<volume>36</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10619-017-7212-2</ee>
+<url>db/journals/dpd/dpd36.html#AtzeniBBL18</url>
+</article>
+</r>
+<r><inproceedings key="conf/sebd/TancaAABCCCCMFF18" mdate="2023-03-10">
+<author pid="t/LetiziaTanca">Letizia Tanca</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="206/3236">Davide Azzalini</author>
+<author pid="b/IlariaBartolini">Ilaria Bartolini</author>
+<author pid="c/LucaCabibbo">Luca Cabibbo</author>
+<author pid="124/0084">Luca Calderoni</author>
+<author pid="c/PaoloCiaccia">Paolo Ciaccia</author>
+<author pid="26/1870">Valter Crescenzi</author>
+<author pid="89/6365">Juan Carlos De Martin</author>
+<author pid="225/2006">Selina Fenoglietto</author>
+<author pid="05/10127">Donatella Firmani</author>
+<author pid="g/SergioGreco">Sergio Greco</author>
+<author pid="i/FrancescoIsgro">Francesco Isgr&#242;</author>
+<author pid="m/DarioMaio">Dario Maio</author>
+<author pid="14/6896">Davide Martinenghi</author>
+<author pid="47/1654">Maristella Matera</author>
+<author pid="m/PaoloMerialdo">Paolo Merialdo</author>
+<author pid="06/6866">Cristian Molinaro</author>
+<author pid="p/MPatella">Marco Patella</author>
+<author pid="01/929">Roberto Prevete</author>
+<author pid="85/6716">Elisa Quintarelli</author>
+<author pid="225/1728">Antonio Santangelo</author>
+<author pid="t/AndreaTagarelli">Andrea Tagarelli</author>
+<author pid="17/1897">Guglielmo Tamburrini</author>
+<author pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>Ethics-aware Data Governance (Vision Paper).</title>
+<pages>49</pages>
+<year>2018</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2161/paper7.pdf</ee>
+<crossref>conf/sebd/2018</crossref>
+<url>db/conf/sebd/sebd2018.html#TancaAABCCCCMFF18</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/18/AtzeniCT18" mdate="2017-07-13">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="c/LucaCabibbo">Luca Cabibbo</author>
+<author pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>Data Modeling Across the Evolution of Database Technology.</title>
+<pages>221-234</pages>
+<year>2018</year>
+<booktitle>A Comprehensive Guide Through the Italian Database Research</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-61893-7_13</ee>
+<crossref>books/sp/FGMS2018</crossref>
+<url>db/books/collections/FGMS2018.html#AtzeniCT18</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/birthday/BritellDA17" mdate="2017-11-09">
+<author pid="37/8510">Scott Britell</author>
+<author pid="d/LMLDelcambre">Lois M. L. Delcambre</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Web System Development Using Polymorphic Widgets and Generic Schemas.</title>
+<pages>121-135</pages>
+<year>2017</year>
+<booktitle>Conceptual Modeling Perspectives</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-67271-7_9</ee>
+<crossref>conf/birthday/2017olive</crossref>
+<url>db/conf/birthday/olive2017.html#BritellDA17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/caise/AtzeniBLL16" mdate="2023-03-10">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="86/6775">Luigi Bellomarini</author>
+<author pid="168/2890">Eleonora Laurenza</author>
+<author pid="81/1376-2">Marco Lippi 0002</author>
+<title>SAMIZDATA: A Scale-independent Data Management System for Time Series.</title>
+<year>2016</year>
+<booktitle>CAiSE Industry Track</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1600/session2p2.pdf</ee>
+<crossref>conf/caise/2016it</crossref>
+<url>db/conf/caise/caiseit2016.html#AtzeniBLL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/compsystech/Atzeni16" mdate="2016-11-15">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Data Modelling in the NoSQL world: A contradiction?</title>
+<pages>1-4</pages>
+<year>2016</year>
+<booktitle>CompSysTech</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2983469</ee>
+<crossref>conf/compsystech/2016</crossref>
+<url>db/conf/compsystech/compsystech2016.html#Atzeni16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/BritellDA16" mdate="2017-05-25">
+<author pid="37/8510">Scott Britell</author>
+<author pid="d/LMLDelcambre">Lois M. L. Delcambre</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Facilitating Data-Metadata Transformation by Domain Specialists in a Web-Based Information System Using Simple Correspondences.</title>
+<pages>445-459</pages>
+<year>2016</year>
+<booktitle>ER</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-46397-1_34</ee>
+<crossref>conf/er/2016</crossref>
+<url>db/conf/er/er2016.html#BritellDA16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/amw/BellomariniAC15" mdate="2023-03-10">
+<author pid="86/6775">Luigi Bellomarini</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="c/LucaCabibbo">Luca Cabibbo</author>
+<title>Data integration with Many Heterogeneous Sources and Dynamic Target Schemas (Extended Abstract).</title>
+<year>2015</year>
+<booktitle>AMW</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1378/AMW_2015_paper_29.pdf</ee>
+<crossref>conf/amw/2015</crossref>
+<url>db/conf/amw/amw2015.html#BellomariniAC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/Atzeni15" mdate="2018-06-26">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Models for NoSQL Databases: A Contradiction?</title>
+<pages>133</pages>
+<year>2015</year>
+<booktitle>ER Workshops</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-25747-1_13</ee>
+<crossref>conf/er/2015w</crossref>
+<url>db/conf/er/erw2015.html#Atzeni15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sebd/BellomariniALS15" mdate="2016-01-18">
+<author pid="86/6775">Luigi Bellomarini</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="174/4568">Marco De Leonardis</author>
+<author pid="174/4634">Fabio Sor&#224;</author>
+<title>Handling high-dimensional data in statistical compilation: a relational approach.</title>
+<pages>72-79</pages>
+<year>2015</year>
+<booktitle>SEBD</booktitle>
+<crossref>conf/sebd/2015</crossref>
+<url>db/conf/sebd/sebd2015.html#BellomariniALS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sebd/BugiottiCAT15" mdate="2016-01-18">
+<author pid="42/734">Francesca Bugiotti</author>
+<author pid="c/LucaCabibbo">Luca Cabibbo</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>How I Learned to Stop Worrying and Love NoSQL Databases.</title>
+<pages>216-223</pages>
+<year>2015</year>
+<booktitle>SEBD</booktitle>
+<crossref>conf/sebd/2015</crossref>
+<url>db/conf/sebd/sebd2015.html#BugiottiCAT15</url>
+</inproceedings>
+</r>
+<r><article key="journals/is/AtzeniB014" mdate="2017-06-06">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="42/734">Francesca Bugiotti</author>
+<author pid="61/7974-1">Luca Rossi 0001</author>
+<title>Uniform access to NoSQL systems.</title>
+<pages>117-133</pages>
+<year>2014</year>
+<volume>43</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2013.05.002</ee>
+<url>db/journals/is/is43.html#AtzeniB014</url>
+</article>
+</r>
+<r><inproceedings key="conf/ejc/BritellDA14" mdate="2017-06-02">
+<author pid="37/8510">Scott Britell</author>
+<author pid="d/LMLDelcambre">Lois M. L. Delcambre</author>
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Flexible Information Integration with Local Dominance.</title>
+<pages>21-40</pages>
+<year>2014</year>
+<booktitle>EJC</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-472-5-21</ee>
+<crossref>conf/ejc/2014</crossref>
+<url>db/conf/ejc/ejc2014.html#BritellDA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/BugiottiCAT14" mdate="2017-05-25">
+<author pid="42/734">Francesca Bugiotti</author>
+<author pid="c/LucaCabibbo">Luca Cabibbo</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>Database Design for NoSQL Systems.</title>
+<pages>223-231</pages>
+<year>2014</year>
+<booktitle>ER</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-12206-9_18</ee>
+<crossref>conf/er/2014</crossref>
+<url>db/conf/er/er2014.html#BugiottiCAT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/BritellDA14" mdate="2017-05-25">
+<author pid="37/8510">Scott Britell</author>
+<author pid="d/LMLDelcambre">Lois M. L. Delcambre</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Generic Data Manipulation in a Mixed Global/Local Conceptual Model.</title>
+<pages>246-259</pages>
+<year>2014</year>
+<booktitle>ER</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-12206-9_20</ee>
+<crossref>conf/er/2014</crossref>
+<url>db/conf/er/er2014.html#BritellDA14</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/AtzeniJORTT13" mdate="2022-12-07">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="60/909">Giorgio Orsi 0001</author>
+<author pid="17/3798">Sudha Ram</author>
+<author pid="t/LetiziaTanca">Letizia Tanca</author>
+<author orcid="0000-0003-1484-3693" pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>The relational model is dead, SQL is dead, and I don't feel so good myself.</title>
+<pages>64-68</pages>
+<year>2013</year>
+<volume>42</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2503792.2503808</ee>
+<url>db/journals/sigmod/sigmod42.html#AtzeniJORTT13</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/AtzeniBB13" mdate="2018-11-06">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="86/6775">Luigi Bellomarini</author>
+<author pid="42/734">Francesca Bugiotti</author>
+<title>EXLEngine: executable schema mappings for statistical data processing.</title>
+<pages>672-682</pages>
+<year>2013</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/2452376.2452455</ee>
+<crossref>conf/edbt/2013</crossref>
+<url>db/conf/edbt/edbt2013.html#AtzeniBB13</url>
+</inproceedings>
+</r>
+<r><article key="journals/bams/TotiAP12" mdate="2020-08-20">
+<author orcid="0000-0002-9668-6961" pid="07/7855">Daniele Toti</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="51/7237">Fabio Polticelli</author>
+<title>Automatic Protein Abbreviations Discovery and Resolution from Full-Text Scientific Papers: The PRAISED Framework.</title>
+<pages>13-52</pages>
+<year>2012</year>
+<volume>8</volume>
+<journal>Bio Algorithms Med Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.2478/bams-2012-0002</ee>
+<url>db/journals/bams/bams8.html#TotiAP12</url>
+</article>
+</r>
+<r><article key="journals/is/AtzeniBBCG12" mdate="2017-06-06">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="86/6775">Luigi Bellomarini</author>
+<author pid="42/734">Francesca Bugiotti</author>
+<author orcid="0000-0002-8459-3805" pid="11/10734">Fabrizio Celli</author>
+<author pid="08/5586">Giorgio Gianforme</author>
+<title>A runtime approach to model-generic translation of schema and data.</title>
+<pages>269-287</pages>
+<year>2012</year>
+<volume>37</volume>
+<journal>Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.is.2011.11.003</ee>
+<url>db/journals/is/is37.html#AtzeniBBCG12</url>
+</article>
+</r>
+<r><article key="journals/tlsdkcs/AtzeniNP12" mdate="2020-05-19">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="62/6005">Pierluigi Del Nostro</author>
+<author pid="94/4722">Stefano Paolozzi</author>
+<title>Temporal Content Management and Website Modeling: Putting Them Together.</title>
+<pages>158-182</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Trans. Large Scale Data Knowl. Centered Syst.</journal>
+<ee>https://doi.org/10.1007/978-3-642-28148-8_7</ee>
+<crossref>journals/tlsdkcs/2012-5</crossref>
+<url>db/journals/tlsdkcs/tlsdkcs5.html#AtzeniNP12</url>
+</article>
+</r>
+<r><article key="journals/vldb/AtzeniBKT12" mdate="2021-10-14">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="b/ElisaBertino">Elisa Bertino</author>
+<author pid="k/MasaruKitsuregawa">Masaru Kitsuregawa</author>
+<author orcid="0000-0001-9315-4057" pid="t/KianLeeTan">Kian-Lee Tan</author>
+<title>Special issue: best papers of VLDB 2010.</title>
+<pages>167-168</pages>
+<year>2012</year>
+<volume>21</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s00778-012-0267-9</ee>
+<url>db/journals/vldb/vldb21.html#AtzeniBKT12</url>
+</article>
+</r>
+<r><inproceedings key="conf/caise/AtzeniBR12" mdate="2018-12-23">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="42/734">Francesca Bugiotti</author>
+<author pid="61/7974-1">Luca Rossi 0001</author>
+<title>Uniform Access to Non-relational Database Systems: The SOS Platform.</title>
+<pages>160-174</pages>
+<year>2012</year>
+<booktitle>CAiSE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-31095-9_11</ee>
+<crossref>conf/caise/2012</crossref>
+<url>db/conf/caise/caise2012.html#AtzeniBR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/AtzeniBR12" mdate="2018-11-06">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="42/734">Francesca Bugiotti</author>
+<author pid="61/7974-1">Luca Rossi 0001</author>
+<title>SOS (save our systems): a uniform programming interface for non-relational systems.</title>
+<pages>582-585</pages>
+<year>2012</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/2247596.2247671</ee>
+<crossref>conf/edbt/2012</crossref>
+<url>db/conf/edbt/edbt2012.html#AtzeniBR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/BollatiAMV12" mdate="2021-10-14">
+<author pid="85/6747">Ver&#243;nica Andrea Bollati</author>
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author orcid="0000-0003-2666-9995" pid="m/EsperanzaMarcos">Esperanza Marcos</author>
+<author orcid="0000-0002-8637-6580" pid="15/5055">Juan M. Vara</author>
+<title>Model Management Systems vs. Model Driven Engineering: a case study.</title>
+<pages>865-872</pages>
+<year>2012</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2245276.2245445</ee>
+<crossref>conf/sac/2012</crossref>
+<url>db/conf/sac/sac2012.html#BollatiAMV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sebd/AtzeniPT12" mdate="2012-10-18">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="51/7237">Fabio Polticelli</author>
+<author pid="07/7855">Daniele Toti</author>
+<title>Knowledge Discovery from Textual Sources by using Semantic Similarity.</title>
+<pages>213-220</pages>
+<year>2012</year>
+<booktitle>SEBD</booktitle>
+<ee>http://sebd2012.dei.unipd.it/documents/188475/1b2a025c-d17a-4b97-b761-92af966a50c0</ee>
+<crossref>conf/sebd/2012</crossref>
+<url>db/conf/sebd/sebd2012.html#AtzeniPT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sitis/TotiAP12" mdate="2017-06-05">
+<author orcid="0000-0002-9668-6961" pid="07/7855">Daniele Toti</author>
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="51/7237">Fabio Polticelli</author>
+<title>A Knowledge Discovery Methodology for Semantic Categorization of Unstructured Textual Sources.</title>
+<pages>944-951</pages>
+<year>2012</year>
+<booktitle>SITIS</booktitle>
+<ee>https://doi.org/10.1109/SITIS.2012.140</ee>
+<crossref>conf/sitis/2012</crossref>
+<url>db/conf/sitis/sitis2012.html#TotiAP12</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/er/2012" mdate="2019-05-14">
+<editor pid="a/PAtzeni">Paolo Atzeni</editor>
+<editor pid="c/DWLCheung">David W. Cheung</editor>
+<editor pid="17/3798">Sudha Ram</editor>
+<title>Conceptual Modeling - 31st International Conference ER 2012, Florence, Italy, October 15-18, 2012. Proceedings</title>
+<volume>7532</volume>
+<year>2012</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<ee>https://doi.org/10.1007/978-3-642-34002-4</ee>
+<isbn>978-3-642-34001-7</isbn>
+<booktitle>ER</booktitle>
+<url>db/conf/er/er2012.html</url>
+</proceedings>
+</r>
+<r><article key="journals/amai/AtzeniGC11" mdate="2017-06-05">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="08/5586">Giorgio Gianforme</author>
+<author pid="28/1886">Paolo Cappellari</author>
+<title>Data model descriptions and translation signatures in a multi-model framework.</title>
+<pages>287-315</pages>
+<year>2011</year>
+<volume>63</volume>
+<journal>Ann. Math. Artif. Intell.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1007/s10472-012-9277-y</ee>
+<url>db/journals/amai/amai63.html#AtzeniGC11</url>
+</article>
+</r>
+<r><inproceedings key="conf/bcb/AtzeniPT11" mdate="2018-11-06">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="51/7237">Fabio Polticelli</author>
+<author orcid="0000-0002-9668-6961" pid="07/7855">Daniele Toti</author>
+<title>Experimentation of an automatic resolution method for protein abbreviations in full-text papers.</title>
+<pages>465-467</pages>
+<year>2011</year>
+<booktitle>BCB</booktitle>
+<ee>https://doi.org/10.1145/2147805.2147871</ee>
+<crossref>conf/bcb/2011</crossref>
+<url>db/conf/bcb/bcb2011.html#AtzeniPT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/evoW/AtzeniPT11" mdate="2017-06-02">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="51/7237">Fabio Polticelli</author>
+<author orcid="0000-0002-9668-6961" pid="07/7855">Daniele Toti</author>
+<title>An Automatic Identification and Resolution System for Protein-Related Abbreviations in Scientific Papers.</title>
+<pages>171-176</pages>
+<year>2011</year>
+<booktitle>EvoBio</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-20389-3_18</ee>
+<crossref>conf/evoW/2011bio</crossref>
+<url>db/conf/evoW/evobio2011.html#AtzeniPT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AtzeniPT11" mdate="2023-03-23">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="51/7237">Fabio Polticelli</author>
+<author orcid="0000-0002-9668-6961" pid="07/7855">Daniele Toti</author>
+<title>A framework for semi-automatic identification, disambiguation and storage of protein-related abbreviations in scientific literature.</title>
+<pages>59-61</pages>
+<year>2011</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2011.5767646</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2011.5767646</ee>
+<crossref>conf/icde/2011w</crossref>
+<url>db/conf/icde/icdew2011.html#AtzeniPT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sebd/AtzeniPT11" mdate="2012-05-28">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="51/7237">Fabio Polticelli</author>
+<author pid="07/7855">Daniele Toti</author>
+<title>Automatic Discovery and Resolution of Protein Abbreviations from Full-Text Scientific Papers: A Light-Weight Approach Towards Data Extraction from Unstructured Biological Sources (Extended Abstract).</title>
+<pages>318-325</pages>
+<year>2011</year>
+<booktitle>SEBD</booktitle>
+<crossref>conf/sebd/2011</crossref>
+<url>db/conf/sebd/sebd2011.html#AtzeniPT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/foiks/AtzeniGT09" mdate="2017-06-02">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="08/5586">Giorgio Gianforme</author>
+<author orcid="0000-0002-9668-6961" pid="07/7855">Daniele Toti</author>
+<title>Polymorphism in Datalog and Inheritance in a Metamodel.</title>
+<pages>114-132</pages>
+<year>2010</year>
+<booktitle>FoIKS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11829-6_10</ee>
+<crossref>conf/foiks/2009</crossref>
+<url>db/conf/foiks/foiks2009.html#AtzeniGT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CappellariBA10" mdate="2023-03-24">
+<author pid="28/1886">Paolo Cappellari</author>
+<author pid="b/DBarbosa">Denilson Barbosa 0001</author>
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<title>A framework for automatic schema mapping verification through reasoning.</title>
+<pages>245-250</pages>
+<year>2010</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2010.5452703</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2010.5452703</ee>
+<crossref>conf/icde/2010w</crossref>
+<url>db/conf/icde/icdew2010.html#CappellariBA10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sebd/AtzeniGT10" mdate="2011-06-08">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="08/5586">Giorgio Gianforme</author>
+<author pid="07/7855">Daniele Toti</author>
+<title>Polymorphism in Datalog and Inheritance in a Metamodel (Extended Abstract).</title>
+<pages>398-405</pages>
+<year>2010</year>
+<booktitle>SEBD</booktitle>
+<crossref>conf/sebd/2010</crossref>
+<url>db/conf/sebd/sebd2010.html#AtzeniGT10</url>
+</inproceedings>
+</r>
+<r><article key="journals/jods/AtzeniBBG09" mdate="2020-12-16">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="86/6775">Luigi Bellomarini</author>
+<author pid="42/734">Francesca Bugiotti</author>
+<author pid="08/5586">Giorgio Gianforme</author>
+<title>MISM: A Platform for Model-Independent Solutions to Model Management Problems.</title>
+<pages>133-161</pages>
+<year>2009</year>
+<volume>14</volume>
+<journal>J. Data Semant.</journal>
+<ee>https://doi.org/10.1007/978-3-642-10562-3_5</ee>
+<crossref>journals/jods/2009-14</crossref>
+<url>db/journals/jods/jods14.html#AtzeniBBG09</url>
+</article>
+</r>
+<r><article key="journals/tlsdkcs/AtzeniGC09" mdate="2020-05-19">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="08/5586">Giorgio Gianforme</author>
+<author pid="28/1886">Paolo Cappellari</author>
+<title>A Universal Metamodel and Its Dictionary.</title>
+<pages>38-62</pages>
+<year>2009</year>
+<volume>1</volume>
+<journal>Trans. Large Scale Data Knowl. Centered Syst.</journal>
+<ee>https://doi.org/10.1007/978-3-642-03722-1_2</ee>
+<crossref>journals/tlsdkcs/2009-1</crossref>
+<url>db/journals/tlsdkcs/tlsdkcs1.html#AtzeniGC09</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/AtzeniBBG09" mdate="2018-11-06">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="86/6775">Luigi Bellomarini</author>
+<author pid="42/734">Francesca Bugiotti</author>
+<author pid="08/5586">Giorgio Gianforme</author>
+<title>A runtime approach to model-independent schema and data translation.</title>
+<pages>275-286</pages>
+<year>2009</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1516360.1516393</ee>
+<crossref>conf/edbt/2009</crossref>
+<url>db/conf/edbt/edbt2009.html#AtzeniBBG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sebd/AtzeniBBG09" mdate="2010-03-11">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="86/6775">Luigi Bellomarini</author>
+<author pid="42/734">Francesca Bugiotti</author>
+<author pid="08/5586">Giorgio Gianforme</author>
+<title>A runtime approach to model-independent schema and data translation.</title>
+<pages>245-252</pages>
+<year>2009</year>
+<booktitle>SEBD</booktitle>
+<crossref>conf/sebd/2009</crossref>
+<url>db/conf/sebd/sebd2009.html#AtzeniBBG09</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/virgilio09/AtzeniT09" mdate="2017-05-29">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author orcid="0000-0003-1484-3693" pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>Data and Metadata Management.</title>
+<pages>9-24</pages>
+<year>2009</year>
+<booktitle>Semantic Web Information Management</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04329-1_2</ee>
+<crossref>books/sp/Virgilio2009</crossref>
+<url>db/books/collections/Virgilio2009.html#AtzeniT09</url>
+</incollection>
+</r>
+<r><incollection key="books/sp/virgilio09/AtzeniNP09" mdate="2023-09-30">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author orcid="0000-0002-5174-8508" pid="62/6005">Pierluigi Del Nostro</author>
+<author pid="94/4722">Stefano Paolozzi</author>
+<title>MIDST: Interoperability for Semantic Annotations.</title>
+<pages>479-500</pages>
+<year>2009</year>
+<booktitle>Semantic Web Information Management</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04329-1_20</ee>
+<crossref>books/sp/Virgilio2009</crossref>
+<url>db/books/collections/Virgilio2009.html#AtzeniNP09</url>
+</incollection>
+</r>
+<r><article key="journals/vldb/AtzeniCTBG09" mdate="2017-06-09">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="28/1886">Paolo Cappellari</author>
+<author orcid="0000-0003-1484-3693" pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="08/5586">Giorgio Gianforme</author>
+<title>Model-independent schema translation.</title>
+<year>2008</year>
+<volume>17</volume>
+<number>6</number>
+<pages>1347-1370</pages>
+<journal>VLDB J.</journal>
+<ee>https://doi.org/10.1007/s00778-008-0105-2</ee>
+<url>db/journals/vldb/vldb17.html#AtzeniCTBG09</url>
+</article>
+</r>
+<r><inproceedings key="conf/bncod/AtzeniBBG07" mdate="2017-06-01">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="86/6775">Luigi Bellomarini</author>
+<author pid="42/734">Francesca Bugiotti</author>
+<author pid="08/5586">Giorgio Gianforme</author>
+<title>From Schema and Model Translation to a Model Management System.</title>
+<pages>227-240</pages>
+<year>2008</year>
+<booktitle>BNCOD</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-70504-8_24</ee>
+<crossref>conf/bncod/2008</crossref>
+<url>db/conf/bncod/bncod2008.html#AtzeniBBG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexaw/NostroPA08" mdate="2023-03-24">
+<author pid="62/6005">Pierluigi Del Nostro</author>
+<author pid="94/4722">Stefano Paolozzi</author>
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Extending MIDST to Semantic Annotation.</title>
+<pages>207-211</pages>
+<year>2008</year>
+<booktitle>DEXA Workshops</booktitle>
+<ee>https://doi.org/10.1109/DEXA.2008.14</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DEXA.2008.14</ee>
+<crossref>conf/dexaw/2008</crossref>
+<url>db/conf/dexaw/dexaw2008.html#NostroPA08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ejc/AtzeniG08" mdate="2017-06-02">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="08/5586">Giorgio Gianforme</author>
+<title>Inheritance and Polymorphism in Datalog: an experience in Model Management.</title>
+<pages>354-358</pages>
+<year>2008</year>
+<booktitle>EJC</booktitle>
+<ee>https://doi.org/10.3233/978-1-58603-957-8-354</ee>
+<crossref>conf/ejc/2008</crossref>
+<url>db/conf/ejc/ejc2008.html#AtzeniG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/foiks/AtzeniGC08" mdate="2017-06-02">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="08/5586">Giorgio Gianforme</author>
+<author pid="28/1886">Paolo Cappellari</author>
+<title>Reasoning on Data Models in Schema Translation.</title>
+<pages>158-177</pages>
+<year>2008</year>
+<crossref>conf/foiks/2008</crossref>
+<booktitle>FoIKS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-77684-0_13</ee>
+<url>db/conf/foiks/foiks2008.html#AtzeniGC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/odbis/AtzeniPN08" mdate="2008-12-08">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="94/4722">Stefano Paolozzi</author>
+<author pid="62/6005">Pierluigi Del Nostro</author>
+<title>Ontologies And Databases: Going Back And Forth.</title>
+<pages>9-16</pages>
+<year>2008</year>
+<booktitle>ODBIS</booktitle>
+<ee>http://www.vldb.org/conf/2008/workshops/WProc_ODBIS/paper_12.pdf</ee>
+<crossref>conf/odbis/2008</crossref>
+<url>db/conf/odbis/odbis2008.html#AtzeniPN08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sebd/AtzeniBBG08" mdate="2008-07-30">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="86/6775">Luigi Bellomarini</author>
+<author pid="42/734">Francesca Bugiotti</author>
+<author pid="08/5586">Giorgio Gianforme</author>
+<title>A platform for model-independent solutions to model management problems.</title>
+<pages>310-317</pages>
+<year>2008</year>
+<booktitle>SEBD</booktitle>
+<crossref>conf/sebd/2008</crossref>
+<url>db/conf/sebd/sebd2008.html#AtzeniBBG08</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/adbis/2008" mdate="2019-05-14">
+<editor pid="a/PAtzeni">Paolo Atzeni</editor>
+<editor pid="92/229">Albertas Caplinskas</editor>
+<editor pid="77/5221">Hannu Jaakkola</editor>
+<title>Advances in Databases and Information Systems, 12th East European Conference, ADBIS 2008, Pori, Finland, September 5-9, 2008. Proceedings</title>
+<volume>5207</volume>
+<year>2008</year>
+<isbn>978-3-540-85712-9</isbn>
+<booktitle>ADBIS</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<ee>https://doi.org/10.1007/978-3-540-85713-6</ee>
+<url>db/conf/adbis/adbis2008.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/adbis/2008l" mdate="2008-09-10">
+<editor pid="a/PAtzeni">Paolo Atzeni</editor>
+<editor pid="92/229">Albertas Caplinskas</editor>
+<editor pid="77/5221">Hannu Jaakkola</editor>
+<title>Advances in Databases and Information Systems, Proceedings of the 12th East European Conference, ADBIS 2008, September 5-9, 2008, Pori, Finland</title>
+<publisher>Tampere University of Technology. Pori. Publication</publisher>
+<year>2008</year>
+<isbn>978-952-15-2014-3</isbn>
+<booktitle>ADBIS (local proceedings)</booktitle>
+<url>db/conf/adbis/adbis2008l.html</url>
+</proceedings>
+</r>
+<r><article key="journals/www/AtzeniCP07" mdate="2022-06-23">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author orcid="0000-0002-3578-1121" pid="c/TCatarci">Tiziana Catarci</author>
+<author orcid="0000-0002-2034-9774" pid="p/BarbaraPernici">Barbara Pernici</author>
+<title>Multi-channel Adaptive Information Systems.</title>
+<pages>345-347</pages>
+<year>2007</year>
+<volume>10</volume>
+<journal>World Wide Web</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s11280-007-0034-9</ee>
+<url>db/journals/www/www10.html#AtzeniCP07</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/Atzeni07" mdate="2017-05-21">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Schema and Data Translation: A Personal Perspective.</title>
+<pages>14-27</pages>
+<year>2007</year>
+<crossref>conf/adbis/2007</crossref>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-75185-4_3</ee>
+<url>db/conf/adbis/adbis2007.html#Atzeni07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexaw/PaolozziA07" mdate="2023-03-24">
+<author pid="94/4722">Stefano Paolozzi</author>
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Interoperability for Semantic Annotations.</title>
+<pages>445-449</pages>
+<year>2007</year>
+<crossref>conf/dexaw/2007</crossref>
+<booktitle>DEXA Workshops</booktitle>
+<ee>https://doi.org/10.1109/DEXA.2007.52</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DEXA.2007.52</ee>
+<url>db/conf/dexaw/dexaw2007.html#PaolozziA07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AtzeniCG07" mdate="2018-11-06">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="28/1886">Paolo Cappellari</author>
+<author pid="08/5586">Giorgio Gianforme</author>
+<title>MIDST: model independent schema and data translation.</title>
+<pages>1134-1136</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247632</ee>
+<url>db/conf/sigmod/sigmod2007.html#AtzeniCG07</url>
+</inproceedings>
+</r>
+<r><proceedings key="journals/jods/2007-8" mdate="2021-06-09">
+<editor pid="s/StefanoSpaccapietra">Stefano Spaccapietra</editor>
+<editor pid="a/PAtzeni">Paolo Atzeni</editor>
+<editor pid="f/FrancoisFages">Fran&#231;ois Fages</editor>
+<editor pid="h/MohandSaidHacid">Mohand-Said Hacid</editor>
+<editor pid="k/MichaelKifer">Michael Kifer</editor>
+<editor pid="m/JohnMylopoulos">John Mylopoulos</editor>
+<editor pid="p/BarbaraPernici">Barbara Pernici</editor>
+<editor pid="97/4603">Pavel Shvaiko</editor>
+<editor pid="50/2311">Juan Trujillo 0001</editor>
+<editor pid="82/1159">Ilya Zaihrayeu</editor>
+<title>Journal on Data Semantics VIII</title>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>4380</volume>
+<publisher>Springer</publisher>
+<year>2007</year>
+<isbn>978-3-540-70663-2</isbn>
+<booktitle>Journal on Data Semantics VIII</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-70664-9</ee>
+<url>db/journals/jods/jods8.html</url>
+</proceedings>
+</r>
+<r><proceedings key="journals/jods/2007-9" mdate="2021-06-09">
+<editor pid="s/StefanoSpaccapietra">Stefano Spaccapietra</editor>
+<editor pid="a/PAtzeni">Paolo Atzeni</editor>
+<editor pid="f/FrancoisFages">Fran&#231;ois Fages</editor>
+<editor pid="h/MohandSaidHacid">Mohand-Said Hacid</editor>
+<editor pid="k/MichaelKifer">Michael Kifer</editor>
+<editor pid="m/JohnMylopoulos">John Mylopoulos</editor>
+<editor pid="p/BarbaraPernici">Barbara Pernici</editor>
+<editor pid="97/4603">Pavel Shvaiko</editor>
+<editor pid="50/2311">Juan Trujillo 0001</editor>
+<editor pid="82/1159">Ilya Zaihrayeu</editor>
+<title>Journal on Data Semantics IX</title>
+<booktitle>Journal on Data Semantics IX</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>4601</volume>
+<publisher>Springer</publisher>
+<year>2007</year>
+<isbn>978-3-540-74982-0</isbn>
+<ee>https://doi.org/10.1007/978-3-540-74987-5</ee>
+<url>db/journals/jods/jods9.html</url>
+</proceedings>
+</r>
+<r><article key="journals/dke/AtzeniC06" mdate="2017-06-05">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="c/WesleyWChu">Wesley W. Chu</author>
+<title>Guest editorial.</title>
+<pages>205-206</pages>
+<year>2006</year>
+<volume>58</volume>
+<journal>Data Knowl. Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.datak.2005.07.004</ee>
+<url>db/journals/dke/dke58.html#AtzeniC06</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/AtzeniCB06" mdate="2017-06-02">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="28/1886">Paolo Cappellari</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<title>Model-Independent Schema and Data Translation.</title>
+<pages>368-385</pages>
+<year>2006</year>
+<crossref>conf/edbt/2006</crossref>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1007/11687238_24</ee>
+<url>db/conf/edbt/edbt2006.html#AtzeniCB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AtzeniN06" mdate="2023-03-24">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="62/6005">Pierluigi Del Nostro</author>
+<title>Management of Heterogeneity in the SemanticWeb.</title>
+<pages>60</pages>
+<year>2006</year>
+<crossref>conf/icde/2006w</crossref>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2006.74</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2006.74</ee>
+<url>db/conf/icde/icdew2006.html#AtzeniN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/Atzeni06" mdate="2023-03-24">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Schema and Data Translation.</title>
+<pages>103</pages>
+<year>2006</year>
+<crossref>conf/icde/2006</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2006.134</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2006.134</ee>
+<url>db/conf/icde/icde2006.html#Atzeni06</url>
+</inproceedings>
+</r>
+<r><proceedings key="journals/jods/2006-5" mdate="2020-12-01">
+<editor pid="s/StefanoSpaccapietra">Stefano Spaccapietra</editor>
+<editor pid="a/PAtzeni">Paolo Atzeni</editor>
+<editor pid="c/WesleyWChu">Wesley W. Chu</editor>
+<editor pid="c/TCatarci">Tiziana Catarci</editor>
+<editor pid="s/KatiaPSycara">Katia P. Sycara</editor>
+<title>Journal on Data Semantics V</title>
+<year>2006</year>
+<isbn>3-540-31426-1</isbn>
+<booktitle>Journal on Data Semantics V</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<ee>https://doi.org/10.1007/11617808</ee>
+<url>db/journals/jods/jods5.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/er/AtzeniCB05" mdate="2017-06-02">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="28/1886">Paolo Cappellari</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<title>A Multilevel Dictionary for Model Management.</title>
+<pages>160-175</pages>
+<year>2005</year>
+<crossref>conf/er/2005</crossref>
+<booktitle>ER</booktitle>
+<ee>https://doi.org/10.1007/11568322_11</ee>
+<url>db/conf/er/er2005.html#AtzeniCB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/Atzeni05" mdate="2017-06-02">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Tutorial 5: Schema and Data Translation.</title>
+<pages>468-469</pages>
+<year>2005</year>
+<crossref>conf/er/2005w</crossref>
+<booktitle>ER (Workshops)</booktitle>
+<ee>https://doi.org/10.1007/11568346_52</ee>
+<url>db/conf/er/erw2005.html#Atzeni05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AtzeniCB05" mdate="2023-03-24">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="28/1886">Paolo Cappellari</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<title>ModelGen: Model Independent Schema Translation.</title>
+<pages>1111-1112</pages>
+<year>2005</year>
+<crossref>conf/icde/2005</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2005.90</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2005.90</ee>
+<url>db/conf/icde/icde2005.html#AtzeniCB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sebd/AtzeniCB05" mdate="2005-06-27">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="28/1886">Paolo Cappellari</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<title>Model Independent Schema and Data Translation (Extended abstract).</title>
+<pages>177-183</pages>
+<year>2005</year>
+<crossref>conf/sebd/2005</crossref>
+<booktitle>SEBD</booktitle>
+<url>db/conf/sebd/sebd2005.html#AtzeniCB05</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/TorloneA04" mdate="2020-03-06">
+<author orcid="0000-0003-1484-3693" pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Report on the 7th EDBT Summer School: XML and Databases.</title>
+<pages>93-96</pages>
+<year>2004</year>
+<volume>33</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1041410.1041433</ee>
+<url>db/journals/sigmod/sigmod33.html#TorloneA04</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/AtzeniN04" mdate="2017-05-21">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="62/6005">Pierluigi Del Nostro</author>
+<title>T-Araneus: Management of Temporal Data-Intensive Web Sites.</title>
+<pages>862-864</pages>
+<ee>https://doi.org/10.1007/978-3-540-24741-8_59</ee>
+<year>2004</year>
+<crossref>conf/edbt/2004</crossref>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt2004.html#AtzeniN04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/AtzeniN04" mdate="2017-05-25">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="62/6005">Pierluigi Del Nostro</author>
+<title>Towards the Managment of Time in Data-Intensive Web Sites.</title>
+<pages>390-401</pages>
+<ee>https://doi.org/10.1007/978-3-540-30466-1_36</ee>
+<year>2004</year>
+<crossref>conf/er/2004w</crossref>
+<booktitle>ER (Workshops)</booktitle>
+<url>db/conf/er/erw2004.html#AtzeniN04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nldb/AtzeniBHMPPZ04" mdate="2024-02-05">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="79/2000">Roberto Basili 0001</author>
+<author pid="65/2130">Dorte Haltrup Hansen</author>
+<author orcid="0000-0002-0978-2446" pid="28/1062">Paolo Missier</author>
+<author pid="31/6683">Patrizia Paggio</author>
+<author pid="98/2076">Maria Teresa Pazienza</author>
+<author pid="32/797">Fabio Massimo Zanzotto</author>
+<title>Ontology-Based Question Answering in a Federation of University Sites: The MOSES Case Study.</title>
+<pages>413-420</pages>
+<ee>https://doi.org/10.1007/978-3-540-27779-8_40</ee>
+<year>2004</year>
+<crossref>conf/nldb/2004</crossref>
+<booktitle>NLDB</booktitle>
+<url>db/conf/nldb/nldb2004.html#AtzeniBHMPPZ04</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/er/2004" mdate="2019-05-14">
+<editor pid="a/PAtzeni">Paolo Atzeni</editor>
+<editor pid="c/WesleyWChu">Wesley W. Chu</editor>
+<editor pid="l/HongjunLu">Hongjun Lu</editor>
+<editor pid="52/6744">Shuigeng Zhou</editor>
+<editor pid="l/TokWangLing">Tok Wang Ling</editor>
+<title>Conceptual Modeling - ER 2004, 23rd International Conference on Conceptual Modeling, Shanghai, China, November 2004, Proceedings</title>
+<booktitle>ER</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>3288</volume>
+<publisher>Springer</publisher>
+<year>2004</year>
+<isbn>3-540-23723-2</isbn>
+<ee>https://doi.org/10.1007/b101693</ee>
+<url>db/conf/er/er2004.html</url>
+</proceedings>
+</r>
+<r><article key="journals/toit/MerialdoAM03" mdate="2018-11-06">
+<author orcid="0000-0002-3852-8092" pid="m/PaoloMerialdo">Paolo Merialdo</author>
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<title>Design and development of data-intensive web sites: The araneus approach.</title>
+<pages>49-92</pages>
+<year>2003</year>
+<volume>3</volume>
+<journal>ACM Trans. Internet Techn.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/643477.643480</ee>
+<url>db/journals/toit/toit3.html#MerialdoAM03</url>
+</article>
+</r>
+<r><inproceedings key="conf/vldb/TorloneA03" mdate="2020-03-12">
+<ee type="oa">http://www.vldb.org/conf/2003/papers/S36P02.pdf</ee>
+<ee>https://doi.org/10.1016/B978-012722442-8/50111-7</ee>
+<author pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Chameleon: an Extensible and Customizable Tool for Web Data Translation.</title>
+<pages>1085-1088</pages>
+<year>2003</year>
+<crossref>conf/vldb/2003</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2003.html#TorloneA03</url>
+</inproceedings>
+</r>
+<r><article key="journals/internet/AtzeniMM02" mdate="2020-03-13">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<author orcid="0000-0002-3852-8092" pid="m/PaoloMerialdo">Paolo Merialdo</author>
+<title>Managing Web-Based Data: Database Models and Transformations.</title>
+<pages>33-37</pages>
+<year>2002</year>
+<volume>6</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/MIC.2002.1020323</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.2002.1020323</ee>
+<url>db/journals/internet/internet6.html#AtzeniMM02</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/Atzeni02" mdate="2017-05-21">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Time: A Coordinate for Web Site Modelling.</title>
+<pages>1-7</pages>
+<year>2002</year>
+<crossref>conf/adbis/2002</crossref>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45710-0_1</ee>
+<url>db/conf/adbis/adbis2002.html#Atzeni02</url>
+</inproceedings>
+</r>
+<r><article key="journals/www/AtzeniMM01" mdate="2017-05-20">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="m/PaoloMerialdo">Paolo Merialdo</author>
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<title>Data-Intensive Web Sites: Design and Maintenance.</title>
+<pages>21-47</pages>
+<year>2001</year>
+<volume>4</volume>
+<journal>World Wide Web</journal>
+<number>1-2</number>
+<url>db/journals/www/www4.html#AtzeniMM01</url>
+<ee>https://doi.org/10.1023/A:1012456311864</ee>
+</article>
+</r>
+<r><inproceedings key="conf/er/AtzeniMS01" mdate="2017-05-25">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="m/PaoloMerialdo">Paolo Merialdo</author>
+<author pid="52/3314">Giuseppe Sindoni</author>
+<title>Web Site Evaluation: Methodology and Case Study.</title>
+<pages>253-263</pages>
+<year>2001</year>
+<crossref>conf/er/2001w</crossref>
+<booktitle>ER (Workshops)</booktitle>
+<ee>https://doi.org/10.1007/3-540-46140-X_20</ee>
+<url>db/conf/er/erw2001.html#AtzeniMS01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sebd/TorloneA01" mdate="2016-01-18">
+<author pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Management and Translation of XML Databases.</title>
+<pages>289-296</pages>
+<year>2001</year>
+<crossref>conf/sebd/2001</crossref>
+<booktitle>SEBD</booktitle>
+<url>db/conf/sebd/sebd2001.html#TorloneA01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/TorloneA01" mdate="2023-03-24">
+<author orcid="0000-0003-1484-3693" pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>A Unified Framework for Data Translation over the Web.</title>
+<pages>350-358</pages>
+<year>2001</year>
+<crossref>conf/wise/2001-1</crossref>
+<booktitle>WISE (1)</booktitle>
+<ee>https://doi.org/10.1109/WISE.2001.996496</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WISE.2001.996496</ee>
+<url>db/conf/wise/wise2001-1.html#TorloneA01</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/vldb/2001" mdate="2012-09-17">
+<editor pid="a/PeterMGApers">Peter M. G. Apers</editor>
+<editor pid="a/PAtzeni">Paolo Atzeni</editor>
+<editor pid="c/StefanoCeri">Stefano Ceri</editor>
+<editor pid="05/600">Stefano Paraboschi</editor>
+<editor pid="r/KRamamohanarao">Kotagiri Ramamohanarao</editor>
+<editor pid="s/RichardTSnodgrass">Richard T. Snodgrass</editor>
+<title>VLDB 2001, Proceedings of 27th International Conference on Very Large Data Bases, September 11-14, 2001, Roma, Italy</title>
+<publisher href="db/publishers/mkp.html">Morgan Kaufmann</publisher>
+<year>2001</year>
+<isbn>1-55860-804-4</isbn>
+<url>db/conf/vldb/vldb2001.html</url>
+</proceedings>
+</r>
+<r><article key="journals/jdm/AtzeniCM00" mdate="2017-05-20">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="c/LucaCabibbo">Luca Cabibbo</author>
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<title>Database Cooperation: Classification and Middleware Tools.</title>
+<pages>3-11</pages>
+<year>2000</year>
+<volume>11</volume>
+<journal>J. Database Manag.</journal>
+<number>2</number>
+<url>db/journals/jdm/jdm11.html#AtzeniCM00</url>
+<ee>https://doi.org/10.4018/jdm.2000040101</ee>
+</article>
+</r>
+<r><article key="journals/vldb/AtzeniM00" mdate="2017-05-28">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="m/AOMendelzon">Alberto O. Mendelzon</author>
+<title>Guest Editorial: Databases and the Web.</title>
+<pages>1</pages>
+<year>2000</year>
+<volume>9</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s007780050079</ee>
+<url>db/journals/vldb/vldb9.html#AtzeniM00</url>
+</article>
+</r>
+<r><inproceedings key="conf/sebd/MeccaMAC00" mdate="2016-01-18">
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<author pid="m/PaoloMerialdo">Paolo Merialdo</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="26/1870">Valter Crescenzi</author>
+<title>Experiences in XML data management.</title>
+<pages>109-119</pages>
+<year>2000</year>
+<crossref>conf/sebd/2000</crossref>
+<booktitle>SEBD</booktitle>
+<url>db/conf/sebd/sebd2000.html#MeccaMAC00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MerialdoAMMP00" mdate="2021-04-09">
+<ee>https://doi.org/10.1145/342009.335497</ee>
+<ee>https://doi.org/10.1145/335191.335497</ee>
+<author orcid="0000-0002-3852-8092" pid="m/PaoloMerialdo">Paolo Merialdo</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="63/4494">Marco Magnante</author>
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<author pid="56/6006">Marco Pecorone</author>
+<title>Homer: a Model-Based CASE Tool for Data-Intensive Web Sites.</title>
+<pages>586</pages>
+<year>2000</year>
+<crossref>conf/sigmod/2000</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2000.html#MerialdoAMMP00</url>
+<cite>conf/vldb/AtzeniMM97</cite>
+<cite>conf/edbt/AtzeniMM98</cite>
+<cite>conf/webdb/MeccaMAC99</cite>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/dr/Atzeni00" mdate="2023-08-16">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Review - The Entity-Relationship Model - Toward a Unified View of Data.</title>
+<year>2000</year>
+<volume>2</volume>
+<journal>ACM SIGMOD Digit. Rev.</journal>
+<url>db/journals/dr/dr2.html#Atzeni00</url>
+<ee type="oa">https://dblp.org/db/journals/dr/Atzeni00.html</ee>
+<cite>journals/tods/Chen76</cite>
+<note type="reviewid">DBLP:journals/tods/Chen76__atzeni</note>
+<note type="rating">SUPERB</note>
+</article>
+</r>
+<r><article publtype="informal" key="journals/dr/Atzeni00a" mdate="2023-08-16">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Review - Database Tuning - A Principled Approach.</title>
+<year>2000</year>
+<volume>2</volume>
+<journal>ACM SIGMOD Digit. Rev.</journal>
+<url>db/journals/dr/dr2.html#Atzeni00a</url>
+<ee type="oa">https://dblp.org/db/journals/dr/Atzeni00a.html</ee>
+<cite>books/ph/Shasha92</cite>
+<note type="reviewid">BookShashaTuning__atzeni</note>
+<note type="rating">SUPERB</note>
+</article>
+</r>
+<r><book key="books/mg/AtzeniCPT99" mdate="2019-07-10">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="c/StefanoCeri">Stefano Ceri</author>
+<author pid="05/600">Stefano Paraboschi</author>
+<author pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>Database Systems - Concepts, Languages and Architectures</title>
+<publisher>McGraw-Hill Book Company</publisher>
+<year>1999</year>
+<isbn>0-07-709500-6</isbn>
+<ee>http://www.mcgraw-hill.co.uk/atzeni/</ee>
+</book>
+</r>
+<r><article key="journals/debu/MeccaMA99" mdate="2020-03-10">
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<author pid="m/PaoloMerialdo">Paolo Merialdo</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Araneus in the Era of XML.</title>
+<pages>19-26</pages>
+<year>1999</year>
+<volume>22</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>3</number>
+<url>db/journals/debu/debu22.html#MeccaMA99</url>
+<cdrom>DEBU22-3/P19.pdf</cdrom>
+<ee type="oa">http://sites.computer.org/debull/99sept/araneus.ps</ee>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>www/org/w3/ql98</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/jodl/AbiteboulCCMMS97</cite>
+<cite>conf/vldb/AtzeniMM97</cite>
+<cite>conf/edbt/AtzeniMM98</cite>
+<cite>conf/adb/BlakeCKLST94</cite>
+<cite>conf/sigmod/ChristophidesACS94</cite>
+<cite>journals/is/CrescenziM98</cite>
+<cite>journals/sigmod/FlorescuLM98</cite>
+<cite>conf/icdt/GrumbachM99</cite>
+<cite>...</cite>
+<cite>journals/jcss/MeccaA99</cite>
+<cite>conf/edbt/MeccaMM98</cite>
+<cite>conf/webdb/MeccaMAC99</cite>
+<cite>conf/sigmod/Suciu99</cite>
+</article>
+</r>
+<r><article key="journals/jcss/MeccaA99" mdate="2021-02-16">
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Cut and Paste.</title>
+<pages>453-482</pages>
+<year>1999</year>
+<volume>58</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>3</number>
+<url>db/journals/jcss/jcss58.html#MeccaA99</url>
+<ee type="oa">https://doi.org/10.1006/jcss.1999.1623</ee>
+</article>
+</r>
+<r><article key="journals/siamcomp/TorloneA99" mdate="2017-05-27">
+<author pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Efficient Database Updates with Independent Schemes.</title>
+<pages>1112-1135</pages>
+<year>1999</year>
+<volume>28</volume>
+<journal>SIAM J. Comput.</journal>
+<number>3</number>
+<url>db/journals/siamcomp/siamcomp28.html#TorloneA99</url>
+<ee>https://doi.org/10.1137/S009753979325799X</ee>
+</article>
+</r>
+<r><inproceedings key="conf/sebd/MeccaMAC99" mdate="2016-01-18">
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<author pid="m/PaoloMerialdo">Paolo Merialdo</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="26/1870">Valter Crescenzi</author>
+<title>The ARANEUS Guide to Web-Site Development.</title>
+<pages>167-177</pages>
+<year>1999</year>
+<crossref>conf/sebd/1999</crossref>
+<booktitle>SEBD</booktitle>
+<url>db/conf/sebd/sebd1999.html#MeccaMAC99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sofsem/Atzeni99" mdate="2017-05-23">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Databases and the World Wide Web.</title>
+<pages>150-162</pages>
+<ee>https://doi.org/10.1007/3-540-47849-3_9</ee>
+<year>1999</year>
+<crossref>conf/sofsem/1999</crossref>
+<booktitle>SOFSEM</booktitle>
+<url>db/conf/sofsem/sofsem1999.html#Atzeni99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webdb/MeccaMAC99" mdate="2017-02-08">
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<author pid="m/PaoloMerialdo">Paolo Merialdo</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="26/1870">Valter Crescenzi</author>
+<title>The (Short) Araneus Guide to Web-Site Development.</title>
+<pages>13-18</pages>
+<year>1999</year>
+<crossref>conf/webdb/1999</crossref>
+<booktitle>WebDB (Informal Proceedings)</booktitle>
+<ee>http://www-rocq.inria.fr/~cluet/WEBDB/mecca.ps</ee>
+<url>db/conf/webdb/webdb1999.html#MeccaMAC99</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/webdb/1998" mdate="2019-05-14">
+<editor pid="a/PAtzeni">Paolo Atzeni</editor>
+<editor pid="m/AOMendelzon">Alberto O. Mendelzon</editor>
+<editor pid="m/GMecca">Giansalvatore Mecca</editor>
+<title>The World Wide Web and Databases, International Workshop WebDB'98, Valencia, Spain, March 27-28, 1998, Selected Papers</title>
+<booktitle>WebDB</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>1590</volume>
+<publisher>Springer</publisher>
+<year>1999</year>
+<isbn>3-540-65890-4</isbn>
+<ee>https://doi.org/10.1007/10704656</ee>
+<url>db/conf/webdb/webdb1998.html</url>
+</proceedings>
+</r>
+<r><article key="journals/sigmod/AtzeniM98" mdate="2020-03-06">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="m/AOMendelzon">Alberto O. Mendelzon</author>
+<title>WebDB '98: International Workshop on the Web and Databases.</title>
+<pages>6-9</pages>
+<cdrom>sigmodR/27-3/P006.pdf</cdrom>
+<year>1998</year>
+<volume>27</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>http://www.acm.org/sigmod/record/issues/9809/atzeni.ps</ee>
+<url>db/journals/sigmod/sigmod27.html#AtzeniM98</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/AtzeniMM98" mdate="2019-09-25">
+<ee>https://doi.org/10.1007/BFb0101001</ee>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<author orcid="0000-0002-3852-8092" pid="m/PaoloMerialdo">Paolo Merialdo</author>
+<title>Design and Maintenance of Data-Intensive Web Sites.</title>
+<pages>436-450</pages>
+<cdrom>EDBT/1998/13770436.pdf</cdrom>
+<year>1998</year>
+<crossref>conf/edbt/98</crossref>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt98.html#AtzeniMM98</url>
+<cite>...</cite>
+<cite>conf/vldb/AtzeniMM97</cite>
+<cite>books/bc/BatiniCN92</cite>
+<cite>conf/edbt/FraternaliP98</cite>
+<cite>journals/tois/GarzottoPS93</cite>
+<cite>journals/csur/HullK87</cite>
+<cite>journals/cacm/IsakowitzSB95</cite>
+<cite>journals/cacm/SchwabeR95</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/Atzeni98" mdate="2017-05-23">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Web Sites Need Models and Schemes.</title>
+<pages>165-167</pages>
+<cdrom>er98/ER98-P165.pdf</cdrom>
+<year>1998</year>
+<booktitle>ER</booktitle>
+<url>db/conf/er/er98.html#Atzeni98</url>
+<crossref>conf/er/98</crossref>
+<ee>https://doi.org/10.1007/978-3-540-49524-6_14</ee>
+<cite>conf/edbt/AtzeniMM98</cite>
+<cite>conf/vldb/AtzeniMM97</cite>
+<cite>conf/sigmod/FernandezFKLS98</cite>
+<cite>conf/edbt/FraternaliP98</cite>
+<cite>journals/tois/GarzottoPS93</cite>
+<cite>journals/cacm/IsakowitzSB95</cite>
+<cite>journals/cacm/SchwabeR95</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MeccaAMMS98" mdate="2021-03-11">
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author orcid="0000-0003-2518-2931" pid="m/AMasci">Alessandro Masci 0001</author>
+<author pid="m/PaoloMerialdo">Paolo Merialdo</author>
+<author pid="52/3314">Giuseppe Sindoni</author>
+<title>The Araneus Web-Base Management System.</title>
+<pages>544-546</pages>
+<year>1998</year>
+<crossref>conf/sigmod/98</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod98.html#MeccaAMMS98</url>
+<ee>https://doi.org/10.1145/276304.276375</ee>
+<ee>https://doi.org/10.1145/276305.276375</ee>
+<cdrom>SIGMOD98/P544.PDF</cdrom>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/pods/AtzeniM97</cite>
+<cite>conf/vldb/AtzeniMM97</cite>
+<cite>conf/edbt/AtzeniMM98</cite>
+<cite>...</cite>
+<cite>conf/sigmod/FernandezFKLS97</cite>
+<cite>...</cite>
+<cite>conf/edbt/MeccaMM98</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/w3c/MeccaMA98" mdate="2021-02-05">
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<author pid="m/PaoloMerialdo">Paolo Merialdo</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Do we really need a new query language for XML?</title>
+<year>1998</year>
+<crossref>conf/w3c/1998ql</crossref>
+<booktitle>QL</booktitle>
+<ee type="oa">http://www.w3.org/TandS/QL/QL98/pp/MeMAql98.html</ee>
+<url>db/conf/w3c/ql1998.html#MeccaMA98</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sebd/1998" mdate="2016-01-18">
+<editor pid="a/PAtzeni">Paolo Atzeni</editor>
+<editor pid="c/LucaCabibbo">Luca Cabibbo</editor>
+<editor pid="31/4106">Maurizio Panti</editor>
+<title>Atti del Sesto Convegno Nazionale Sistemi Evolluti per Basi di Dati, SEBD 1998, Ancona, Italy, 23-25 Giugno 1998</title>
+<booktitle>SEBD</booktitle>
+<year>1998</year>
+<url>db/conf/sebd/sebd1998.html</url>
+</proceedings>
+</r>
+<r><article key="journals/dke/AtzeniCM97" mdate="2017-05-20">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="c/LucaCabibbo">Luca Cabibbo</author>
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<title>ISALOG<sup>(&#172;)</sup>: A Deductive Language with Negation for Complex-Object Databases with Hierarchies.</title>
+<pages>1-38</pages>
+<year>1997</year>
+<volume>24</volume>
+<journal>Data Knowl. Eng.</journal>
+<number>1</number>
+<url>db/journals/dke/dke24.html#AtzeniCM97</url>
+<ee>https://doi.org/10.1016/S0169-023X(96)00051-1</ee>
+</article>
+</r>
+<r><article key="journals/sigmod/AtzeniMM97" mdate="2023-08-28">
+<ee>https://doi.org/10.1145/271074.271080</ee>
+<ee>https://www.wikidata.org/entity/Q114614132</ee>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<author pid="m/PaoloMerialdo">Paolo Merialdo</author>
+<title>Semistructured und Structured Data in the Web: Going Back and Forth.</title>
+<pages>16-23</pages>
+<cdrom>sigmodR/26-4/P016.pdf</cdrom>
+<year>1997</year>
+<volume>26</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<url>db/journals/sigmod/sigmod26.html#AtzeniMM97</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/AtzeniMMMT97" mdate="2023-03-24">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author orcid="0000-0003-2518-2931" pid="m/AMasci">Alessandro Masci 0001</author>
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<author pid="m/PaoloMerialdo">Paolo Merialdo</author>
+<author pid="79/2279">Elena Tabet</author>
+<title>ULIXES: Building Relational Views over the Web.</title>
+<pages>576</pages>
+<cdrom>ICDE97/P576.pdf</cdrom>
+<year>1997</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde97.html#AtzeniMMMT97</url>
+<crossref>conf/icde/97</crossref>
+<ee>https://doi.org/10.1109/ICDE.1997.582030</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.1997.582030</ee>
+<cite>conf/pods/AtzeniM97</cite>
+<cite>...</cite>
+<cite>conf/vldb/KonopnickiS95</cite>
+<cite>conf/ride/LakshmananSS96</cite>
+<cite>conf/pdis/MendelzonMM96</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/AtzeniM97" mdate="2018-11-06">
+<crossref>conf/pods/97</crossref>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<title>Cut &amp; Paste.</title>
+<pages>144-153</pages>
+<year>1997</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods97.html#AtzeniM97</url>
+<ee>https://doi.org/10.1145/263661.263678</ee>
+<cdrom>journals/anthology/cd1-3:PODS97/P144.PDF</cdrom>
+<cdrom>journals/anthology/dvd1:text/1-3/PODS97/P144.PDF</cdrom>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/icdt/Abiteboul97</cite>
+<cite>conf/vldb/AbiteboulCM93</cite>
+<cite>conf/sigmod/AbiteboulCM95</cite>
+<cite>conf/icdt/AbiteboulV97</cite>
+<cite>...</cite>
+<cite>journals/cacm/AhoC75</cite>
+<cite>...</cite>
+<cite>conf/stoc/BellantoniC92</cite>
+<cite>journals/cacm/Berners-LeeCLNS94</cite>
+<cite>conf/adb/BlakeCKLST94</cite>
+<cite>conf/sigmod/BunemanDHS96</cite>
+<cite>conf/ipsj/ChawatheGHPUW94</cite>
+<cite>conf/sigmod/ChristophidesACS94</cite>
+<cite>...</cite>
+<cite>journals/cj/ClarkeCB95</cite>
+<cite>conf/pods/ColbyRSG94</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/pods/Gonnet94</cite>
+<cite>conf/vldb/GonnetT87</cite>
+<cite>...</cite>
+<cite>conf/icdt/GrumbachM95</cite>
+<cite>books/aw/HopcroftU79</cite>
+<cite>...</cite>
+<cite>conf/vldb/KonopnickiS95</cite>
+<cite>conf/ride/LakshmananSS96</cite>
+<cite>...</cite>
+<cite>journals/sigmod/Loeffen94</cite>
+<cite>journals/jacm/MarcusS96</cite>
+<cite>...</cite>
+<cite>conf/pods/MeccaB95</cite>
+<cite>conf/pdis/MendelzonMM96</cite>
+<cite>conf/pods/MendelzonM97</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sebd/AtzeniMMMT97" mdate="2019-04-25">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="m/AMasci">Alessandro Masci 0001</author>
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<author pid="m/PaoloMerialdo">Paolo Merialdo</author>
+<author pid="79/2279">Elena Tabet</author>
+<title>Structures in the Web.</title>
+<pages>229-248</pages>
+<year>1997</year>
+<crossref>conf/sebd/1997</crossref>
+<booktitle>SEBD</booktitle>
+<url>db/conf/sebd/sebd1997.html#AtzeniMMMT97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AtzeniT97" mdate="2021-06-14">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>MDM: a Multiple-Data-Model Tool for the Management of Heterogeneous Database Schemes.</title>
+<pages>528-531</pages>
+<year>1997</year>
+<crossref>conf/sigmod/97</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod97.html#AtzeniT97</url>
+<ee>https://doi.org/10.1145/253260.253393</ee>
+<ee>https://doi.org/10.1145/253262.253393</ee>
+<cdrom>SIGMOD97/P528.PDF</cdrom>
+<cite>journals/tcs/AtzeniABM82</cite>
+<cite>journals/is/AtzeniT93</cite>
+<cite>conf/ds/AtzeniT95</cite>
+<cite>conf/edbt/AtzeniT96</cite>
+<cite>books/bc/BatiniCN92</cite>
+<cite>journals/tods/Chen76</cite>
+<cite>journals/siamcomp/Hull86</cite>
+<cite>journals/csur/HullK87</cite>
+<cite>conf/edbt/Kalinichenko90</cite>
+<cite>journals/jacm/Lien82</cite>
+<cite>conf/vldb/MillerIR93</cite>
+<cite>conf/pods/Rissanen82</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/AtzeniMM97" mdate="2017-03-29">
+<crossref>conf/vldb/97</crossref>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<author pid="m/PaoloMerialdo">Paolo Merialdo</author>
+<title>To Weave the Web.</title>
+<pages>206-215</pages>
+<year>1997</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb97.html#AtzeniMM97</url>
+<ee>http://www.vldb.org/conf/1997/P206.PDF</ee>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/icdt/Abiteboul97</cite>
+<cite>journals/jodl/AbiteboulCCMMS97</cite>
+<cite>books/aw/AbiteboulHV95</cite>
+<cite>journals/jodl/AbiteboulQMWW97</cite>
+<cite>conf/ewdw/Apers94</cite>
+<cite>conf/pods/AtzeniM97</cite>
+<cite>journals/cacm/Berners-LeeCLNS94</cite>
+<cite>conf/sigmod/BunemanDHS96</cite>
+<cite>books/mk/Cattell94</cite>
+<cite>conf/ipsj/ChawatheGHPUW94</cite>
+<cite>conf/vldb/HullY90</cite>
+<cite>journals/csur/HullK87</cite>
+<cite>conf/sigmod/KiferKS92</cite>
+<cite>books/acm/Kim95</cite>
+<cite>conf/vldb/KonopnickiS95</cite>
+<cite>conf/ride/LakshmananSS96</cite>
+<cite>conf/vldb/LevyRO96</cite>
+<cite>...</cite>
+<cite>journals/jodl/MendelzonMM97</cite>
+<cite>journals/tods/RothKS88</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/AtzeniT96" mdate="2017-05-21">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>Management of Multiple Models in an Extensible Database Design Tool.</title>
+<pages>79-95</pages>
+<cdrom>EDBT96/P079.pdf</cdrom>
+<year>1996</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt96.html#AtzeniT96</url>
+<crossref>conf/edbt/96</crossref>
+<ee>https://doi.org/10.1007/BFb0014144</ee>
+<cite>journals/tcs/AbiteboulH88</cite>
+<cite>journals/tcs/AtzeniABM82</cite>
+<cite>journals/is/AtzeniT93</cite>
+<cite>conf/ds/AtzeniT95</cite>
+<cite>conf/icde/BarsalouG92</cite>
+<cite>books/bc/BatiniCN92</cite>
+<cite>journals/tods/Chen76</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/siamcomp/Hull86</cite>
+<cite>journals/csur/HullK87</cite>
+<cite>conf/edbt/Kalinichenko90</cite>
+<cite>journals/jacm/Lien82</cite>
+<cite>conf/vldb/MillerIR93</cite>
+<cite>conf/pods/Rissanen82</cite>
+<cite>journals/csur/ShethL90</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sebd/AtzeniCM96" mdate="2016-01-18">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="c/LucaCabibbo">Luca Cabibbo</author>
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<title>Cooperazione di basi di dati autonome: criteri di classificazione e strumenti di middleware.</title>
+<pages>119-138</pages>
+<year>1996</year>
+<crossref>conf/sebd/1996</crossref>
+<booktitle>SEBD</booktitle>
+<url>db/conf/sebd/sebd1996.html#AtzeniCM96</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dbpl/95" mdate="2019-05-27">
+<editor pid="a/PAtzeni">Paolo Atzeni</editor>
+<editor pid="t/ValTannen">Val Tannen</editor>
+<title>Database Programming Languages (DBPL-5), Proceedings of the Fifth International Workshop on Database Programming Languages, Gubbio, Umbria, Italy, 6-8 September 1995</title>
+<series href="db/series/wic/index.html">Electronic Workshops in Computing</series>
+<publisher>Springer</publisher>
+<year>1996</year>
+<isbn>3-540-76086-5</isbn>
+<booktitle>DBPL</booktitle>
+<ee>http://ewic.bcs.org/category/17157</ee>
+<url>db/conf/dbpl/dbpl95.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/ds/AtzeniT95" mdate="2002-01-03">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>Schema Translation between Heterogeneous Data Models in a Lattice Framework.</title>
+<pages>345-364</pages>
+<year>1995</year>
+<crossref>conf/ds/1995</crossref>
+<booktitle>DS-6</booktitle>
+<url>db/conf/ds/ds95.html#AtzeniT95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sebd/AtzeniPT95" mdate="2016-01-18">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="55/985">Alessandro Paci</author>
+<author pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>Schema Translation Server: uno Strumento per la Traduzione di Schemi Concettuali Eterogenei.</title>
+<pages>83-98</pages>
+<year>1995</year>
+<crossref>conf/sebd/1995</crossref>
+<booktitle>SEBD</booktitle>
+<url>db/conf/sebd/sebd1995.html#AtzeniPT95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ewdw/AtzeniT94" mdate="2019-06-24">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>Management and Translation of Heterogeneous Database Schemes.</title>
+<pages>346-355</pages>
+<year>1994</year>
+<crossref>conf/ewdw/94</crossref>
+<booktitle>East/West Database Workshop</booktitle>
+<url>db/conf/ewdw/ewdw94.html#AtzeniT94</url>
+<ee>https://doi.org/10.1007/978-1-4471-3577-7_25</ee>
+</inproceedings>
+</r>
+<r><book key="books/bc/AtzeniA93" mdate="2002-01-03">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="a/ValeriaDeAntonellis">Valeria De Antonellis</author>
+<title>Relational Database Theory</title>
+<publisher>Benjamin/Cummings</publisher>
+<isbn>0-8053-0249-2</isbn>
+<year>1993</year>
+</book>
+</r>
+<r><article key="journals/is/AtzeniT93" mdate="2017-06-06">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author orcid="0000-0003-1484-3693" pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>A metamodel approach for the management of multiple models and translation of schemes.</title>
+<pages>349-362</pages>
+<year>1993</year>
+<volume>18</volume>
+<journal>Inf. Syst.</journal>
+<number>6</number>
+<url>db/journals/is/is18.html#AtzeniT93</url>
+<ee>https://doi.org/10.1016/0306-4379(93)90012-P</ee>
+</article>
+</r>
+<r><inproceedings key="conf/cism/AtzeniT93" mdate="2019-08-08">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>The Weak Instance Model.</title>
+<pages>95-114</pages>
+<year>1993</year>
+<crossref>conf/cism/1993</crossref>
+<booktitle>CISM - Advances in Database Systems</booktitle>
+<url>db/conf/cism/cism347.html#AtzeniT93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dood/AtzeniCM93" mdate="2019-08-07">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="c/LucaCabibbo">Luca Cabibbo</author>
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<title>ISALOG- : A Deductive Language with Negation for Complex-Object Databases with Hierarchies.</title>
+<pages>222-235</pages>
+<year>1993</year>
+<crossref>conf/dood/93</crossref>
+<booktitle>DOOD</booktitle>
+<url>db/conf/dood/dood93.html#AtzeniCM93</url>
+<ee>https://doi.org/10.1007/3-540-57530-8_14</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AtzeniCM93" mdate="2023-03-24">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="c/LucaCabibbo">Luca Cabibbo</author>
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<title>IsaLog: A declarative language for complex objects with hierarchies.</title>
+<pages>219-228</pages>
+<cdrom>ICDE93/P219.pdf</cdrom>
+<year>1993</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde93.html#AtzeniCM93</url>
+<crossref>conf/icde/93</crossref>
+<ee>https://doi.org/10.1109/ICDE.1993.344060</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.1993.344060</ee>
+<cite>conf/sigmod/AbiteboulK89</cite>
+<cite>journals/jlp/Ait-KaciN86</cite>
+<cite>...</cite>
+<cite>conf/ewdw/AtzeniT90</cite>
+<cite>journals/dke/Beeri90</cite>
+<cite>conf/sigmod/CacaceCCTZ90</cite>
+<cite>journals/iandc/Cardelli88</cite>
+<cite>books/sp/CeriGT90</cite>
+<cite>conf/vldb/HullY90</cite>
+<cite>conf/oopsla/KhoshafianC86</cite>
+<cite>conf/pods/KiferW89</cite>
+<cite>books/sp/Lloyd87</cite>
+<cite>...</cite>
+<cite>conf/ifip/Maier89</cite>
+<cite>books/cs/Ullman88</cite>
+</inproceedings>
+</r>
+<r><incollection key="journals/lncs/Atzeni93" mdate="2017-05-20">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>LOGIDATA+: Overview.</title>
+<pages>1-6</pages>
+<year>1993</year>
+<crossref>books/sp/Atzeni93</crossref>
+<booktitle>LOGIDATA+: Deductive Databases with Complex Objects</booktitle>
+<url>db/journals/lncs/lncs701.html#Atzeni93</url>
+<ee>https://doi.org/10.1007/BFb0021885</ee>
+</incollection>
+</r>
+<r><incollection key="journals/lncs/AtzeniCCT93" mdate="2017-05-20">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="64/7029">Filippo Cacace</author>
+<author pid="c/StefanoCeri">Stefano Ceri</author>
+<author pid="t/LetiziaTanca">Letizia Tanca</author>
+<title>The LOGIDATA+ Model.</title>
+<pages>20-29</pages>
+<year>1993</year>
+<crossref>books/sp/Atzeni93</crossref>
+<booktitle>LOGIDATA+: Deductive Databases with Complex Objects</booktitle>
+<url>db/journals/lncs/lncs701.html#AtzeniCCT93</url>
+<ee>https://doi.org/10.1007/BFb0021887</ee>
+</incollection>
+</r>
+<r><incollection key="journals/lncs/AtzeniCMT93" mdate="2017-05-20">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="c/LucaCabibbo">Luca Cabibbo</author>
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<author pid="t/LetiziaTanca">Letizia Tanca</author>
+<title>The LOGIDATA+ Language and Semantics.</title>
+<pages>30-41</pages>
+<year>1993</year>
+<crossref>books/sp/Atzeni93</crossref>
+<booktitle>LOGIDATA+: Deductive Databases with Complex Objects</booktitle>
+<url>db/journals/lncs/lncs701.html#AtzeniCMT93</url>
+<ee>https://doi.org/10.1007/BFb0021888</ee>
+</incollection>
+</r>
+<r><book key="books/sp/Atzeni93" mdate="2019-05-14">
+<editor pid="a/PAtzeni">Paolo Atzeni</editor>
+<title>LOGIDATA+: Deductive Databases with Complex Objects</title>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>701</volume>
+<publisher>Springer</publisher>
+<year>1993</year>
+<isbn>3-540-56974-X</isbn>
+<url>db/journals/lncs/lncs701.html</url>
+<ee>https://doi.org/10.1007/BFb0021884</ee>
+</book>
+</r>
+<r><article key="journals/dke/AtzeniT92" mdate="2017-06-05">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author orcid="0000-0003-1484-3693" pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>Updating intensional predicates in Datalog.</title>
+<pages>1-17</pages>
+<year>1992</year>
+<volume>8</volume>
+<journal>Data Knowl. Eng.</journal>
+<url>db/journals/dke/dke8.html#AtzeniT92</url>
+<ee>https://doi.org/10.1016/0169-023X(92)90002-S</ee>
+</article>
+</r>
+<r><article key="journals/jcss/ChanA92" mdate="2021-02-16">
+<author pid="c/EPFChan">Edward P. F. Chan</author>
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Connection-Trap-Free Database Schemes.</title>
+<pages>1-22</pages>
+<year>1992</year>
+<volume>44</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>1</number>
+<url>db/journals/jcss/jcss44.html#ChanA92</url>
+<ee type="oa">https://doi.org/10.1016/0022-0000(92)90001-Y</ee>
+</article>
+</r>
+<r><article key="journals/tods/AtzeniT92" mdate="2018-11-06">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author orcid="0000-0003-1484-3693" pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>Updating Relational Databases Through Weak Instance Interfaces.</title>
+<pages>718-745</pages>
+<year>1992</year>
+<volume>17</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<url>db/journals/tods/tods17.html#AtzeniT92</url>
+<ee>https://doi.org/10.1145/146931.146936</ee>
+<cdrom>TODS17/P718.PDF</cdrom>
+<cite>journals/tods/AhoBU79</cite>
+<cite>journals/tods/AhoSU79</cite>
+<cite>journals/siamcomp/AhoSU79</cite>
+<cite>conf/pods/AtzeniB87</cite>
+<cite>journals/jcss/AtzeniB90</cite>
+<cite>conf/mfdbs/AtzeniT89</cite>
+<cite>conf/sigmod/AtzeniT90</cite>
+<cite>journals/dke/AtzeniT92</cite>
+<cite>journals/tods/BancilhonS81</cite>
+<cite>journals/tods/BeeriB79</cite>
+<cite>...</cite>
+<cite>journals/tods/BrosdaV88</cite>
+<cite>conf/sigmod/Chan84</cite>
+<cite>journals/jacm/ChanM87</cite>
+<cite>...</cite>
+<cite>journals/jcss/CosmadakisKS86</cite>
+<cite>journals/jacm/CosmadakisP84</cite>
+<cite>journals/tods/DayalB82</cite>
+<cite>journals/acr/FaginKUV86</cite>
+<cite>conf/pods/FaginUV83</cite>
+<cite>journals/is/FurtadoSS79</cite>
+<cite>journals/tods/GottlobPZ88</cite>
+<cite>journals/jcss/GrahamY84</cite>
+<cite>journals/jacm/Honeyman82</cite>
+<cite>conf/pods/Keller85</cite>
+<cite>conf/sigmod/KellerU84</cite>
+<cite>journals/tods/Langerak90</cite>
+<cite>conf/vldb/LecluseS88</cite>
+<cite>books/cs/Maier83</cite>
+<cite>journals/tods/MaierMS79</cite>
+<cite>journals/acr/MaierRW86</cite>
+<cite>journals/tods/MaierUV84</cite>
+<cite>journals/tods/Mendelzon84</cite>
+<cite>conf/sigmod/Sagiv81</cite>
+<cite>journals/tods/Sagiv83</cite>
+<cite>journals/tods/Spyratos87</cite>
+<cite>books/cs/Ullman82</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+</article>
+</r>
+<r><article key="journals/acta/AtzeniC91" mdate="2023-08-28">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="c/EPFChan">Edward P. F. Chan</author>
+<title>Independent Database Schemes under Functional and Inclusion Dependencies.</title>
+<pages>777-779</pages>
+<year>1991</year>
+<volume>28</volume>
+<journal>Acta Informatica</journal>
+<number>8</number>
+<url>db/journals/acta/acta28.html#AtzeniC91</url>
+<ee>https://doi.org/10.1007/BF01261656</ee>
+<ee>https://www.wikidata.org/entity/Q114693989</ee>
+</article>
+</r>
+<r><inproceedings key="conf/dbpl/AtzeniT91" mdate="2012-09-18">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>Management of Multiple Models: A Metamodel for Conceptual Models.</title>
+<pages>169-181</pages>
+<cdrom>DBPL1991/P169.pdf</cdrom>
+<year>1991</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl91.html#AtzeniT91</url>
+<crossref>conf/dbpl/91</crossref>
+<cite>conf/edbt/AbiteboulG88</cite>
+<cite>journals/tods/AbiteboulH87</cite>
+<cite>conf/sigmod/AbiteboulK89</cite>
+<cite>...</cite>
+<cite>books/mk/minker88/AptBW88</cite>
+<cite>journals/tcs/AtzeniABM82</cite>
+<cite>conf/ewdw/AtzeniT90</cite>
+<cite>journals/csur/BatiniL86</cite>
+<cite>conf/pods/BeeriNRST87</cite>
+<cite>...</cite>
+<cite>journals/tods/Chen76</cite>
+<cite>journals/cacm/Codd70</cite>
+<cite>journals/tois/HeimbignerM85</cite>
+<cite>journals/siamcomp/Hull86</cite>
+<cite>journals/csur/HullK87</cite>
+<cite>journals/jacm/HullY84</cite>
+<cite>...</cite>
+<cite>conf/pods/KuperV84</cite>
+<cite>journals/jacm/Lien82</cite>
+<cite>journals/csur/ShethL90</cite>
+<cite>journals/tods/Shipman81</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/AtzeniT91" mdate="2014-11-24">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>A metamodel approach for the management of multiple models in CASE tools.</title>
+<pages>350-355</pages>
+<year>1991</year>
+<crossref>conf/dexa/1991</crossref>
+<booktitle>DEXA</booktitle>
+<url>db/conf/dexa/dexa91.html#AtzeniT91</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dood/TorloneA91" mdate="2019-09-25">
+<author orcid="0000-0003-1484-3693" pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Updating Deductive Databases with Functional Dependencies.</title>
+<pages>278-291</pages>
+<year>1991</year>
+<crossref>conf/dood/91</crossref>
+<booktitle>DOOD</booktitle>
+<url>db/conf/dood/dood91.html#TorloneA91</url>
+<ee>https://doi.org/10.1007/3-540-55015-1_15</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mfdbs/AtzeniT91" mdate="2019-09-25">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author orcid="0000-0003-1484-3693" pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>Solving Ambiguities in Updating Deductive Databases.</title>
+<pages>104-118</pages>
+<cdrom>MFDBS1991/P104.pdf</cdrom>
+<year>1991</year>
+<booktitle>MFDBS</booktitle>
+<url>db/conf/mfdbs/mfdbs91.html#AtzeniT91</url>
+<crossref>conf/mfdbs/91</crossref>
+<ee>https://doi.org/10.1007/3-540-54009-1_8</ee>
+<cite>conf/sigmod/AtzeniT90</cite>
+<cite>conf/pods/AtzeniT89</cite>
+<cite>conf/ewdw/AtzeniT90a</cite>
+<cite>journals/tods/BancilhonS81</cite>
+<cite>books/sp/CeriGT90</cite>
+<cite>journals/jacm/CosmadakisP84</cite>
+<cite>journals/tods/DayalB82</cite>
+<cite>conf/icdt/Decker90</cite>
+<cite>journals/acr/FaginKUV86</cite>
+<cite>journals/tods/GottlobPZ88</cite>
+<cite>conf/vldb/KakasM90</cite>
+<cite>conf/pods/Keller85</cite>
+<cite>books/sp/Lloyd87</cite>
+<cite>books/mk/minker88/ManchandraW88</cite>
+<cite>conf/pods/NaqviK88</cite>
+<cite>conf/iclp/RossiN89</cite>
+<cite>conf/icdt/Tomasic88</cite>
+<cite>books/cs/Ullman88</cite>
+<cite>conf/pods/Wilkins86</cite>
+<cite>conf/pods/Winslett88</cite>
+</inproceedings>
+</r>
+<r><article key="journals/jcss/AtzeniB90" mdate="2021-02-16">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="83/1912">Maria Cristina De Bernardis</author>
+<title>A New Interpretation for Null Values in the Weak Instance Model.</title>
+<pages>25-43</pages>
+<year>1990</year>
+<volume>41</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>1</number>
+<url>db/journals/jcss/jcss41.html#AtzeniB90</url>
+<ee type="oa">https://doi.org/10.1016/0022-0000(90)90032-G</ee>
+</article>
+</r>
+<r><article key="journals/tcs/AtzeniC90" mdate="2021-02-17">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="c/EPFChan">Edward P. F. Chan</author>
+<title>Efficient and Optimal Query Answering on Independent Schemes.</title>
+<pages>291-308</pages>
+<year>1990</year>
+<volume>77</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>3</number>
+<url>db/journals/tcs/tcs77.html#AtzeniC90</url>
+<ee type="oa">https://doi.org/10.1016/0304-3975(90)90172-E</ee>
+</article>
+</r>
+<r><inproceedings key="conf/ewdw/AtzeniT90" mdate="2019-08-07">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="t/LetiziaTanca">Letizia Tanca</author>
+<title>The LOGIDATA+ Model and Language.</title>
+<pages>294-310</pages>
+<year>1990</year>
+<crossref>conf/ewdw/90</crossref>
+<booktitle>East/West Database Workshop</booktitle>
+<url>db/conf/ewdw/ewdw90.html#AtzeniT90</url>
+<ee>https://doi.org/10.1007/3-540-54141-1_16</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ewdw/AtzeniT90a" mdate="2019-09-25">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author orcid="0000-0003-1484-3693" pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>Updating Datalog Databases.</title>
+<pages>347-362</pages>
+<year>1990</year>
+<crossref>conf/ewdw/90</crossref>
+<booktitle>East/West Database Workshop</booktitle>
+<url>db/conf/ewdw/ewdw90.html#AtzeniT90a</url>
+<ee>https://doi.org/10.1007/3-540-54141-1_19</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AtzeniT90" mdate="2021-07-25">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author orcid="0000-0003-1484-3693" pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>Efficient Updates to Independent Schemes in the Weak Instance Model.</title>
+<pages>84-93</pages>
+<year>1990</year>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod90.html#AtzeniT90</url>
+<ee>https://doi.org/10.1145/93597.93626</ee>
+<ee>https://doi.org/10.1145/93605.93626</ee>
+<cdrom>SIGMOD90/P084.PDF</cdrom>
+<crossref>conf/sigmod/90</crossref>
+<cite>conf/icdt/Abiteboul88</cite>
+<cite>journals/tods/AhoSU79</cite>
+<cite>journals/siamcomp/AhoSU79</cite>
+<cite>journals/tcs/AtzeniC90</cite>
+<cite>journals/tods/AtzeniC89</cite>
+<cite>conf/pods/AtzeniC85</cite>
+<cite>conf/pods/AtzeniB87</cite>
+<cite>...</cite>
+<cite>conf/pods/AtzeniT89</cite>
+<cite>...</cite>
+<cite>conf/sigmod/Chan84</cite>
+<cite>journals/jcss/GrahamY84</cite>
+<cite>journals/jacm/Honeyman82</cite>
+<cite>journals/siamcomp/ItoIK85</cite>
+<cite>books/cs/Maier83</cite>
+<cite>journals/tods/MaierMS79</cite>
+<cite>journals/acr/MaierRW86</cite>
+<cite>journals/tods/MaierUV84</cite>
+<cite>journals/tods/Mendelzon84</cite>
+<cite>conf/sigmod/Sagiv81</cite>
+<cite>journals/tods/Sagiv83</cite>
+<cite>conf/pods/Sagiv85a</cite>
+<cite>books/cs/Ullman82</cite>
+</inproceedings>
+</r>
+<r><article key="journals/tods/AtzeniC89" mdate="2018-11-06">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="c/EPFChan">Edward P. F. Chan</author>
+<title>Efficient Optimization of Simple Chase Join Expressions.</title>
+<pages>212-230</pages>
+<cdrom>TODS14/P212.PDF</cdrom>
+<year>1989</year>
+<volume>14</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<url>db/journals/tods/tods14.html#AtzeniC89</url>
+<ee>https://doi.org/10.1145/63500.63520</ee>
+<cite>journals/siamcomp/AhoSU79</cite>
+<cite>journals/tods/AhoSU79</cite>
+<cite>conf/pods/AtzeniC85</cite>
+<cite>conf/pods/AtzeniP82</cite>
+<cite>journals/tods/BeeriB79</cite>
+<cite>...</cite>
+<cite>conf/pods/ChanA86</cite>
+<cite>journals/jacm/ChanM87</cite>
+<cite>journals/siamcomp/ChanM87</cite>
+<cite>journals/jacm/DowneyST80</cite>
+<cite>journals/ipl/GrahamM82</cite>
+<cite>journals/jcss/GrahamY84</cite>
+<cite>conf/vldb/Honeyman80</cite>
+<cite>journals/jacm/Honeyman82</cite>
+<cite>journals/siamcomp/ItoIK85</cite>
+<cite>journals/tods/Kent81</cite>
+<cite>books/cs/Maier83</cite>
+<cite>journals/tods/MaierMS79</cite>
+<cite>journals/acr/MaierRW86</cite>
+<cite>journals/tods/MaierUV84</cite>
+<cite>journals/tods/Mendelzon84</cite>
+<cite>conf/sigmod/Sagiv81</cite>
+<cite>journals/tods/Sagiv83</cite>
+<cite>journals/jacm/Sagiv91</cite>
+<cite>journals/siamcomp/Sagiv83</cite>
+<cite>journals/jacm/SagivY80</cite>
+<cite>conf/pods/Ullman82</cite>
+<cite>conf/ifip/Ullman83</cite>
+<cite>conf/vldb/Yannakakis81</cite>
+<cite>journals/acr/Yannakakis86</cite>
+</article>
+</r>
+<r><inproceedings key="conf/mfdbs/AtzeniT89" mdate="2019-09-25">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author orcid="0000-0003-1484-3693" pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>Approaches to Updates over Weak Instances.</title>
+<pages>12-23</pages>
+<cdrom>MFDBS1989/P012.pdf</cdrom>
+<year>1989</year>
+<booktitle>MFDBS</booktitle>
+<url>db/conf/mfdbs/mfdbs89.html#AtzeniT89</url>
+<crossref>conf/mfdbs/89</crossref>
+<ee>https://doi.org/10.1007/3-540-51251-9_2</ee>
+<cite>conf/icdt/Abiteboul88</cite>
+<cite>conf/pods/AtzeniB87</cite>
+<cite>conf/pods/AtzeniT89</cite>
+<cite>...</cite>
+<cite>conf/mfdbs/BiskupB87</cite>
+<cite>journals/tods/BrosdaV88</cite>
+<cite>journals/software/Codd88</cite>
+<cite>journals/jcss/CosmadakisKS86</cite>
+<cite>journals/jacm/Honeyman82</cite>
+<cite>conf/vldb/LecluseS88</cite>
+<cite>books/cs/Maier83</cite>
+<cite>journals/tods/MaierMS79</cite>
+<cite>journals/acr/MaierRW86</cite>
+<cite>journals/tods/MaierUV84</cite>
+<cite>journals/tods/Mendelzon84</cite>
+<cite>journals/tods/Sagiv83</cite>
+<cite>journals/tods/Spyratos87</cite>
+<cite>books/cs/Ullman82</cite>
+<cite>journals/software/Vardi88</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/AtzeniT89" mdate="2018-11-06">
+<crossref>conf/pods/89</crossref>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>Updating Databases in the Weak Instance Model.</title>
+<pages>101-109</pages>
+<year>1989</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods89.html#AtzeniT89</url>
+<ee>https://doi.org/10.1145/73721.73731</ee>
+<cdrom>journals/anthology/cd1-3:PODS89/P101.PDF</cdrom>
+<cdrom>journals/anthology/dvd1:text/1-3/PODS89/P101.PDF</cdrom>
+<cite>conf/icdt/Abiteboul88</cite>
+<cite>journals/siamcomp/AhoSU79</cite>
+<cite>conf/pods/AtzeniC85</cite>
+<cite>conf/pods/AtzeniB87</cite>
+<cite>...</cite>
+<cite>journals/tods/BancilhonS81</cite>
+<cite>...</cite>
+<cite>conf/mfdbs/BiskupB87</cite>
+<cite>conf/pods/BrosdaV85</cite>
+<cite>journals/jacm/ChanM87</cite>
+<cite>...</cite>
+<cite>journals/jcss/CosmadakisKS86</cite>
+<cite>...</cite>
+<cite>conf/pods/FaginUV83</cite>
+<cite>journals/jacm/Honeyman82</cite>
+<cite>conf/vldb/LecluseS88</cite>
+<cite>books/cs/Maier83</cite>
+<cite>journals/tods/MaierMS79</cite>
+<cite>...</cite>
+<cite>journals/tods/MaierUV84</cite>
+<cite>journals/tods/Mendelzon84</cite>
+<cite>journals/tods/Sagiv83</cite>
+<cite>journals/tods/Spyratos87</cite>
+<cite>books/cs/Ullman82</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><article key="journals/dke/AtzeniP88" mdate="2017-06-05">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="p/DSParkerJr">Douglas Stott Parker Jr.</author>
+<title>Formal Properties of Net-Based Knowledge Representation Schemes.</title>
+<pages>137-147</pages>
+<year>1988</year>
+<volume>3</volume>
+<journal>Data Knowl. Eng.</journal>
+<url>db/journals/dke/dke3.html#AtzeniP88</url>
+<ee>https://doi.org/10.1016/0169-023X(88)90011-0</ee>
+</article>
+</r>
+<r><article key="journals/tcs/AtzeniP88" mdate="2021-02-17">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="p/DSParkerJr">Douglas Stott Parker Jr.</author>
+<title>Set Containment Inference and Syllogisms.</title>
+<pages>39-65</pages>
+<year>1988</year>
+<volume>62</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs62.html#AtzeniP88</url>
+<ee type="oa">https://doi.org/10.1016/0304-3975(86)90011-3</ee>
+<note>preliminary version: ICDT 1986</note>
+</article>
+</r>
+<r><inproceedings key="conf/er/Atzeni88" mdate="2012-09-18">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Panel and Tutorial Sessions - Introduction.</title>
+<pages>23-24</pages>
+<year>1988</year>
+<booktitle>ER</booktitle>
+<url>db/conf/er/er88.html#Atzeni88</url>
+<crossref>conf/er/88</crossref>
+<cdrom>er88/ER88-P023.pdf</cdrom>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/WoodMA88" mdate="2017-05-19">
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<author pid="m/AOMendelzon">Alberto O. Mendelzon</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Idempotent Single-Predicate Horn Clauses.</title>
+<pages>129-143</pages>
+<cdrom>ICDT1988/P129.pdf</cdrom>
+<year>1988</year>
+<booktitle>ICDT</booktitle>
+<url>db/conf/icdt/icdt88.html#WoodMA88</url>
+<crossref>conf/icdt/88</crossref>
+<ee>https://doi.org/10.1007/3-540-50171-1_8</ee>
+<cite label="ASU79a">journals/siamcomp/AhoSU79</cite>
+<cite label="AhUl79">conf/popl/AhoU79</cite>
+<cite label="BaRa86">conf/sigmod/BancilhonR86</cite>
+<cite label="BeVa84">journals/siamcomp/BeeriV84</cite>
+<cite label="ChMe77">conf/stoc/ChandraM77</cite>
+<cite label="Codd72">persons/Codd72</cite>
+<cite label="CoKa86">conf/pods/CosmadakisK86</cite>
+<cite label="CMW87">conf/sigmod/CruzMW87</cite>
+<cite label="Ioan85">conf/vldb/Ioannidis85</cite>
+<cite label="Naug86a">conf/pods/Naughton86</cite>
+<cite label="NaSa87">conf/pods/NaughtonS87</cite>
+<cite label="Sagi85">conf/pods/Sagiv85a</cite>
+<cite label="Sagi88">journals/siamcomp/Sagiv88</cite>
+<cite label="SaYa80">journals/jacm/SagivY80</cite>
+<cite label="Ullm83">books/cs/Ullman82</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbpl/AtzeniP87" mdate="2020-05-05">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="p/DSParkerJr">Douglas Stott Parker Jr.</author>
+<title>Algorithms for Set Containment Inference.</title>
+<pages>117-127</pages>
+<cdrom>DBPL1987/P117.pdf</cdrom>
+<year>1987</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl87.html#AtzeniP87</url>
+<crossref>conf/dbpl/87</crossref>
+<cite>journals/tods/AhoBU79</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/vldb/ArisawaM86</cite>
+<cite>conf/ifip/Armstrong74</cite>
+<cite>...</cite>
+<cite>conf/icde/AtzeniP86</cite>
+<cite>conf/icdt/AtzeniP86</cite>
+<cite>journals/tcs/AtzeniP88</cite>
+<cite>conf/icde/Lenzerini87</cite>
+<cite>books/cs/Maier83</cite>
+<cite>journals/tods/MaierMS79</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/computer/SchubertPT83</cite>
+<cite>conf/icde/SpyratosL87</cite>
+<cite>books/cs/Ullman82</cite>
+<ee>https://doi.org/10.1145/101620.101627</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/AtzeniB87" mdate="2018-11-06">
+<crossref>conf/pods/87</crossref>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="83/1912">Maria Cristina De Bernardis</author>
+<title>A New Basis for the Weak Instance Model.</title>
+<pages>79-86</pages>
+<year>1987</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods87.html#AtzeniB87</url>
+<ee>https://doi.org/10.1145/28659.28667</ee>
+<cdrom>journals/anthology/cd1-3:PODS87/P079.PDF</cdrom>
+<cdrom>journals/anthology/dvd1:text/1-3/PODS87/P079.PDF</cdrom>
+<cite>conf/pods/AtzeniC85</cite>
+<cite>journals/iandc/AtzeniM86</cite>
+<cite>conf/sigmod/Chan84</cite>
+<cite>...</cite>
+<cite>journals/jcss/CosmadakisKS86</cite>
+<cite>journals/jacm/Fagin82</cite>
+<cite>journals/jcss/GrahamY84</cite>
+<cite>journals/jacm/GrahamMV86</cite>
+<cite>conf/vldb/Honeyman80</cite>
+<cite>journals/jacm/Honeyman82</cite>
+<cite>journals/siamcomp/ItoIK85</cite>
+<cite>journals/jacm/Lien82</cite>
+<cite>journals/tods/MaierMS79</cite>
+<cite>...</cite>
+<cite>journals/tods/MaierUV84</cite>
+<cite>journals/tods/Mendelzon84</cite>
+<cite>conf/sigmod/Sagiv81</cite>
+<cite>journals/tods/Sagiv83</cite>
+<cite>conf/pods/Sagiv85a</cite>
+<cite>...</cite>
+<cite>conf/vldb/Yannakakis81</cite>
+<cite>journals/jcss/Zaniolo84</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/AtzeniC87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="c/EPFChan">Edward P. F. Chan</author>
+<title>Independent Database Schemes under Functional and Inclusion Dependencies.</title>
+<pages>159-166</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#AtzeniC87</url>
+<ee>http://www.vldb.org/conf/1987/P159.PDF</ee>
+<cite>conf/pods/AtzeniC85</cite>
+<cite>conf/pods/AtzeniB87</cite>
+<cite>conf/pods/BeeriK82</cite>
+<cite>journals/jcss/CasanovaFP84</cite>
+<cite>conf/pods/CasanovaV83</cite>
+<cite>journals/jacm/ChanM87</cite>
+<cite>journals/siamcomp/ChandraV85</cite>
+<cite>journals/acr/CosmadakisK86</cite>
+<cite>journals/jcss/GrahamY84</cite>
+<cite>journals/jacm/Honeyman82</cite>
+<cite>journals/siamcomp/ItoIK85</cite>
+<cite>journals/jcss/JohnsonK84</cite>
+<cite>conf/stoc/KanellakisCV83</cite>
+<cite>books/cs/Maier83</cite>
+<cite>journals/acr/MaierRW86</cite>
+<cite>journals/tods/MaierUV84</cite>
+<cite>journals/iandc/Mitchell83</cite>
+<cite>conf/sigmod/Sagiv81</cite>
+<cite>journals/tods/Sagiv83</cite>
+<cite>journals/jacm/Sagiv91</cite>
+<cite>conf/pods/Sciore83a</cite>
+<cite>books/cs/Ullman82</cite>
+</inproceedings>
+</r>
+<r><article key="journals/iandc/AtzeniM86" mdate="2023-08-28">
+<title>Functional Dependencies and Constraints on Null Values in Database Relations</title>
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="70/5708">Nicola M. Morfuni</author>
+<pages>1-31</pages>
+<journal>Inf. Control.</journal>
+<month>July</month>
+<year>1986</year>
+<volume>70</volume>
+<number>1</number>
+<url>db/journals/iandc/iandc70.html#AtzeniM86</url>
+<ee type="oa">https://doi.org/10.1016/S0019-9958(86)80022-5</ee>
+<ee>https://www.wikidata.org/entity/Q114656778</ee>
+</article>
+</r>
+<r><inproceedings key="conf/icde/AtzeniP86" mdate="2023-03-24">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="p/DSParkerJr">Douglas Stott Parker Jr.</author>
+<title>Formal Properties of Net-Based Knowledge Representation Schemes.</title>
+<pages>700-706</pages>
+<cdrom>ICDE86/P700.pdf</cdrom>
+<year>1986</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde86.html#AtzeniP86</url>
+<crossref>conf/icde/86</crossref>
+<cite>journals/is/BatiniLS82</cite>
+<cite>...</cite>
+<cite>conf/db-workshops/Intervale</cite>
+<cite>conf/sigmod/80p</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>books/cs/Maier83</cite>
+<cite>conf/sigmod/Mylopoulos80</cite>
+<cite>conf/ijcai/ReiterGKMW83</cite>
+<cite>...</cite>
+<cite>books/cs/Ullman82</cite>
+<cite>journals/software/Wiederhold84</cite>
+<ee>https://doi.org/10.1109/ICDE.1986.7266281</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.1986.7266281</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/AtzeniP86" mdate="2017-05-19">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="p/DSParkerJr">Douglas Stott Parker Jr.</author>
+<title>Set Containment Inference.</title>
+<pages>73-90</pages>
+<cdrom>ICDT1986/P073.pdf</cdrom>
+<year>1986</year>
+<booktitle>ICDT</booktitle>
+<url>db/conf/icdt/icdt86.html#AtzeniP86</url>
+<crossref>conf/icdt/86</crossref>
+<ee>https://doi.org/10.1007/3-540-17187-8_30</ee>
+<cite>conf/icde/AtzeniP86</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>books/fm/GareyJ79</cite>
+<cite>...</cite>
+<cite>books/cs/Maier83</cite>
+<cite>books/cs/Ullman82</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/ChanA86" mdate="2018-11-06">
+<crossref>conf/pods/86</crossref>
+<author pid="c/EPFChan">Edward P. F. Chan</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>On the Properties and Characterization of Connection-tap-free Schemes.</title>
+<pages>140-147</pages>
+<year>1986</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods86.html#ChanA86</url>
+<ee>https://doi.org/10.1145/6012.15411</ee>
+<cite label="ABU">journals/tods/AhoBU79</cite>
+<cite label="ASU">journals/siamcomp/AhoSU79</cite>
+<cite label="AtC">conf/pods/AtzeniC85</cite>
+<cite label="AP">conf/pods/AtzeniP82</cite>
+<cite label="BBSK">conf/pods/BiskupBSK86</cite>
+<cite label="C">...</cite>
+<cite label="CM1">...</cite>
+<cite label="CM2">...</cite>
+<cite label="CKPS">...</cite>
+<cite label="Co">journals/cacm/Codd70</cite>
+<cite label="DM1">...</cite>
+<cite label="DM2">conf/pods/DAtriM84</cite>
+<cite label="F">journals/jacm/Fagin83</cite>
+<cite label="GMV">...</cite>
+<cite label="GY">journals/jcss/GrahamY84</cite>
+<cite label="H">journals/jacm/Honeyman82</cite>
+<cite label="IIW">journals/siamcomp/ItoIK85</cite>
+<cite label="K1">journals/tods/Kent81</cite>
+<cite label="K2">journals/tods/Kent83</cite>
+<cite label="KKFGU">journals/tods/KorthKFGU84</cite>
+<cite label="Ma">books/cs/Maier83</cite>
+<cite label="MMS">journals/tods/MaierMS79</cite>
+<cite label="MRSSW">conf/sigmod/MaierRSSW82</cite>
+<cite label="MRW">conf/sigmod/MaierRW83</cite>
+<cite label="MU">journals/tods/MaierU83</cite>
+<cite label="MUV">journals/tods/MaierUV84</cite>
+<cite label="MW">conf/sigmod/MaierW82</cite>
+<cite label="M">journals/tods/Mendelzon84</cite>
+<cite label="O">conf/vldb/Osborn79</cite>
+<cite label="S1">conf/sigmod/Sagiv81</cite>
+<cite label="S2">journals/jacm/Sagiv91</cite>
+<cite label="TL">...</cite>
+<cite label="U1">books/cs/Ullman82</cite>
+<cite label="U2">conf/pods/Ullman82</cite>
+<cite label="U3">journals/tods/Ullman83a</cite>
+<cite label="V">...</cite>
+<cite label="Y1">conf/vldb/Yannakakis81</cite>
+<cite label="Y2">...</cite>
+</inproceedings>
+</r>
+<r><proceedings key="conf/icdt/86" mdate="2019-05-14">
+<editor pid="a/GiorgioAusiello">Giorgio Ausiello</editor>
+<editor pid="a/PAtzeni">Paolo Atzeni</editor>
+<title>ICDT'86, International Conference on Database Theory, Rome, Italy, September 8-10, 1986, Proceedings</title>
+<booktitle>ICDT</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>243</volume>
+<publisher>Springer</publisher>
+<year>1986</year>
+<isbn>3-540-17187-8</isbn>
+<ee>https://doi.org/10.1007/3-540-17187-8</ee>
+<url>db/conf/icdt/icdt86.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/pods/AtzeniC85" mdate="2018-11-06">
+<crossref>conf/pods/85</crossref>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="c/EPFChan">Edward P. F. Chan</author>
+<title>Efficient Query Answering in the Representative Instance Approach.</title>
+<pages>181-188</pages>
+<year>1985</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/325405.325429</ee>
+<cdrom>journals/anthology/cd1-3:PODS85/P181.PDF</cdrom>
+<cdrom>journals/anthology/dvd1:text/1-3/PODS85/P181.PDF</cdrom>
+<url>db/conf/pods/pods85.html#AtzeniC85</url>
+<cite label="ABU">journals/tods/AhoBU79</cite>
+<cite label="AP">conf/pods/AtzeniP82</cite>
+<cite label="C1">conf/sigmod/Chan84</cite>
+<cite label="C2">...</cite>
+<cite label="CM">conf/pods/ChanM83</cite>
+<cite label="GY">journals/jcss/GrahamY84</cite>
+<cite label="H1">conf/vldb/Honeyman80</cite>
+<cite label="H2">journals/jacm/Honeyman82</cite>
+<cite label="Ke">journals/tods/Kent81</cite>
+<cite label="Ma">books/cs/Maier83</cite>
+<cite label="MMS">journals/tods/MaierMS79</cite>
+<cite label="MRW">conf/sigmod/MaierRW83</cite>
+<cite label="MUV">journals/tods/MaierUV84</cite>
+<cite label="Sa">journals/tods/Sagiv83</cite>
+<cite label="SY">journals/jacm/SagivY80</cite>
+<cite label="U1">conf/pods/Ullman82</cite>
+<cite label="U2">books/cs/Ullman82</cite>
+<cite label="U3">...</cite>
+</inproceedings>
+</r>
+<r><article key="journals/ipl/AtzeniM84" mdate="2023-08-28">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="70/5708">Nicola M. Morfuni</author>
+<title>Functional Dependencies in Relations with Null Values.</title>
+<pages>233-238</pages>
+<year>1984</year>
+<volume>18</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>4</number>
+<url>db/journals/ipl/ipl18.html#AtzeniM84</url>
+<ee>https://doi.org/10.1016/0020-0190(84)90117-0</ee>
+<ee>https://www.wikidata.org/entity/Q114685342</ee>
+</article>
+</r>
+<r><inproceedings key="conf/icalp/AtzeniM84" mdate="2017-05-19">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="70/5708">Nicola M. Morfuni</author>
+<title>Functional Dependencies and Disjunctive Existence Constraints in Database Relations with Null Values.</title>
+<pages>69-81</pages>
+<year>1984</year>
+<crossref>conf/icalp/1984</crossref>
+<booktitle>ICALP</booktitle>
+<url>db/conf/icalp/icalp84.html#AtzeniM84</url>
+<ee>https://doi.org/10.1007/3-540-13345-3_6</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/AtzeniC83" mdate="2017-03-29">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="40/5345">Enzo Carboni</author>
+<title>INCOD (A System for Interactive Conceptual Design) Revisited - After the Implementation of a Prototype.</title>
+<pages>449-464</pages>
+<year>1983</year>
+<booktitle>ER</booktitle>
+<url>db/conf/er/er83.html#AtzeniC83</url>
+<crossref>conf/er/83</crossref>
+<cdrom>er83/ER83-P449.pdf</cdrom>
+<cite>books/el/ceri83/AtzeniBCALVZ83</cite>
+<cite>...</cite>
+<cite>conf/er/AtzeniBLV81</cite>
+<cite>conf/er/AtzeniC81</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/is/BatiniLS82</cite>
+<cite>books/el/Ceri83</cite>
+<cite>journals/tods/Chen76</cite>
+<cite>conf/er/79</cite>
+<cite>conf/er/81</cite>
+<cite>...</cite>
+<cite>conf/vldb/AntonellisZ81</cite>
+<cite>conf/er/LenzeriniS83</cite>
+<cite>conf/vldb/LumGSTJSFTYRKNSABJ79</cite>
+<cite>...</cite>
+<cite>conf/ac/Petri75</cite>
+<cite>conf/er/TamassiaBT83</cite>
+<cite>...</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><incollection key="books/el/ceri83/AtzeniBCALVZ83" mdate="2019-08-07">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="69/1334">Carlo Batini</author>
+<author pid="40/5345">Enzo Carboni</author>
+<author pid="a/ValeriaDeAntonellis">Valeria De Antonellis</author>
+<author pid="l/MLenzerini">Maurizio Lenzerini</author>
+<author pid="19/6215">Fulvio Villanelli</author>
+<author pid="32/4302">Bruna Zonta</author>
+<title>INCOD-DTE: A System for Interative Conceptual Design of Data, Transactions and Events.</title>
+<pages>205-228</pages>
+<year>1983</year>
+<crossref>books/el/Ceri83</crossref>
+<booktitle>Methodology and Tools for Data Base Design</booktitle>
+<url>db/books/collections/Ceri83.html#AtzeniBCALVZ83</url>
+</incollection>
+</r>
+<r><article key="journals/tcs/AtzeniABM82" mdate="2021-02-17">
+<author orcid="0000-0003-1513-4725" pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="a/GiorgioAusiello">Giorgio Ausiello</author>
+<author pid="69/1334">Carlo Batini</author>
+<author orcid="0000-0002-3217-0915" pid="65/4096">Marina Moscarini</author>
+<title>Inclusion and Equivalence between Relational Database Schemata.</title>
+<pages>267-285</pages>
+<year>1982</year>
+<volume>19</volume>
+<journal>Theor. Comput. Sci.</journal>
+<url>db/journals/tcs/tcs19.html#AtzeniABM82</url>
+<ee type="oa">https://doi.org/10.1016/0304-3975(82)90038-X</ee>
+</article>
+</r>
+<r><inproceedings key="conf/pods/AtzeniP82" mdate="2018-11-06">
+<crossref>conf/pods/82</crossref>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="p/DSParkerJr">Douglas Stott Parker Jr.</author>
+<title>Assumptions in Relational Database Theory.</title>
+<pages>1-9</pages>
+<year>1982</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods82.html#AtzeniP82</url>
+<ee>https://doi.org/10.1145/588111.588113</ee>
+<cdrom>journals/anthology/cd1-3:PODS82/P001.PDF</cdrom>
+<cdrom>journals/anthology/dvd1:text/1-3/PODS82/P001.PDF</cdrom>
+<cite label="ANSI">...</cite>
+<cite label="ABU">journals/tods/AhoBU79</cite>
+<cite label="AABM">...</cite>
+<cite label="AP">...</cite>
+<cite label="BDM">...</cite>
+<cite label="BFMMUY">conf/stoc/BeeriFMMUY81</cite>
+<cite label="BFMY">journals/jacm/BeeriFMY83</cite>
+<cite label="B">journals/tods/Bernstein76</cite>
+<cite label="BG">conf/vldb/BernsteinG80</cite>
+<cite label="CK">conf/sigmod/CarlsonK76</cite>
+<cite label="C">...</cite>
+<cite label="F1">conf/vldb/Fagin77</cite>
+<cite label="F2">conf/sigmod/Fagin79</cite>
+<cite label="FMU">journals/tods/FaginMU82</cite>
+<cite label="Go">conf/vldb/Goldstein81</cite>
+<cite label="Gr">journals/tods/Graham83</cite>
+<cite label="HK">...</cite>
+<cite label="H">journals/jacm/Honeyman82</cite>
+<cite label="HLY">journals/ipl/HoneymanLY80</cite>
+<cite label="IL">conf/vldb/ImielinskiL81</cite>
+<cite label="K1">conf/vldb/Kent79</cite>
+<cite label="K2">journals/tods/Kent81</cite>
+<cite label="LP">...</cite>
+<cite label="L1">conf/er/Lien79</cite>
+<cite label="L2">journals/tods/Lien81</cite>
+<cite label="LT">...</cite>
+<cite label="Lipski">journals/tods/Lipski79</cite>
+<cite label="LPO">conf/er/LuskPO81</cite>
+<cite label="Mc">...</cite>
+<cite label="MU">journals/tods/MaierU83</cite>
+<cite label="Me">journals/tods/Mendelzon84</cite>
+<cite label="O">conf/vldb/Osborn79</cite>
+<cite label="R">journals/jacm/Reiter80</cite>
+<cite label="Sa1">conf/sigmod/Sagiv81</cite>
+<cite label="Sa2">journals/tods/Sagiv83</cite>
+<cite label="Sc">...</cite>
+<cite label="SS">journals/tods/SmithS77</cite>
+<cite label="U1">books/cs/Ullman82</cite>
+<cite label="U2">conf/pods/Ullman82</cite>
+<cite label="V">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/AtzeniC81" mdate="2012-09-18">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="c/PPChen">Peter P. Chen</author>
+<title>Completeness of Query Languages for the Entity-Relationship Model.</title>
+<pages>109-122</pages>
+<year>1981</year>
+<booktitle>ER</booktitle>
+<url>db/conf/er/er81.html#AtzeniC81</url>
+<crossref>conf/er/81</crossref>
+<cdrom>er81/ER81-P109.pdf</cdrom>
+<cite>conf/er/AtzeniBLV81</cite>
+<cite>...</cite>
+<cite>journals/tods/Chen76</cite>
+<cite>persons/Codd72</cite>
+<cite>books/aw/Date77</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>books/cs/Ullman80</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/AtzeniBLV81" mdate="2012-09-18">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="69/1334">Carlo Batini</author>
+<author pid="l/MLenzerini">Maurizio Lenzerini</author>
+<author pid="19/6215">Fulvio Villanelli</author>
+<title>INCOD: A System for Conceptual Design of Data and Transactions in the Entity-Relationship Model.</title>
+<pages>375-410</pages>
+<year>1981</year>
+<booktitle>ER</booktitle>
+<url>db/conf/er/er81.html#AtzeniBLV81</url>
+<crossref>conf/er/81</crossref>
+<cdrom>er81/ER81-P375.pdf</cdrom>
+<cite label="ABLV">...</cite>
+<cite label="AC">conf/er/AtzeniC81</cite>
+<cite label="AV">...</cite>
+<cite label="BD">...</cite>
+<cite label="BCBP">conf/vldb/BaldisseraCPB79</cite>
+<cite label="BL">...</cite>
+<cite label="BLS">journals/is/BatiniLS82</cite>
+<cite label="BS">conf/er/BatiniS79</cite>
+<cite label="C1">journals/tods/Chen76</cite>
+<cite label="C2">conf/er/79</cite>
+<cite label="CPB">journals/is/CeriPB81</cite>
+<cite label="DDS">...</cite>
+<cite label="K">...</cite>
+<cite label="FNS">conf/er/SantosNF79</cite>
+<cite label="NO">conf/vldb/LumGSTJSFTYRKNSABJ79</cite>
+<cite label="P">...</cite>
+<cite label="S">...</cite>
+<cite label="SS">journals/cl/SchiffnerS79</cite>
+<cite label="SSW">conf/er/ScheuermannSW79</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/xp/AtzeniP81" mdate="2012-09-18">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="p/DSParkerJr">Douglas Stott Parker Jr.</author>
+<title>Properties of acyclic database schemes: an analysis.</title>
+<year>1981</year>
+<crossref>conf/xp/1981</crossref>
+<booktitle>XP2 Workshop on Relational Database Theory</booktitle>
+<url>db/conf/xp/xp1981.html#AtzeniP81</url>
+</inproceedings>
+</r>
+<coauthors n="115" nc="2">
+<co c="0"><na f="a/Antonellis:Valeria_De" pid="a/ValeriaDeAntonellis">Valeria De Antonellis</na></co>
+<co c="0"><na f="a/Apers:Peter_M=_G=" pid="a/PeterMGApers">Peter M. G. Apers</na></co>
+<co c="0"><na f="a/Ausiello:Giorgio" pid="a/GiorgioAusiello">Giorgio Ausiello</na></co>
+<co c="0"><na f="a/Azzalini:Davide" pid="206/3236">Davide Azzalini</na></co>
+<co c="0"><na f="b/Baldazzi:Teodoro" pid="287/9337">Teodoro Baldazzi</na></co>
+<co c="0"><na f="b/Barbosa_0001:Denilson" pid="b/DBarbosa">Denilson Barbosa 0001</na></co>
+<co c="0"><na f="b/Bartolini:Ilaria" pid="b/IlariaBartolini">Ilaria Bartolini</na></co>
+<co c="0"><na f="b/Basili_0001:Roberto" pid="79/2000">Roberto Basili 0001</na></co>
+<co c="0"><na f="b/Batini:Carlo" pid="69/1334">Carlo Batini</na></co>
+<co c="0"><na f="b/Bellomarini:Luigi" pid="86/6775">Luigi Bellomarini</na></co>
+<co c="0"><na f="b/Benedetto:Davide" pid="307/3726">Davide Benedetto</na></co>
+<co c="-1"><na f="b/Bernardis:Maria_Cristina_De" pid="83/1912">Maria Cristina De Bernardis</na></co>
+<co c="0"><na f="b/Bernstein:Philip_A=" pid="b/PhilipABernstein">Philip A. Bernstein</na></co>
+<co c="0"><na f="b/Bertino:Elisa" pid="b/ElisaBertino">Elisa Bertino</na></co>
+<co c="0"><na f="b/Bollati:Ver=oacute=nica_Andrea" pid="85/6747">Ver&#243;nica Andrea Bollati</na></co>
+<co c="0"><na f="b/Britell:Scott" pid="37/8510">Scott Britell</na></co>
+<co c="0"><na f="b/Bugiotti:Francesca" pid="42/734">Francesca Bugiotti</na></co>
+<co c="0"><na f="c/Cabibbo:Luca" pid="c/LucaCabibbo">Luca Cabibbo</na></co>
+<co c="0"><na f="c/Cacace:Filippo" pid="64/7029">Filippo Cacace</na></co>
+<co c="0"><na f="c/Calderoni:Luca" pid="124/0084">Luca Calderoni</na></co>
+<co c="1"><na f="c/Caplinskas:Albertas" pid="92/229">Albertas Caplinskas</na></co>
+<co c="0"><na f="c/Cappellari:Paolo" pid="28/1886">Paolo Cappellari</na></co>
+<co c="0"><na f="c/Carboni:Enzo" pid="40/5345">Enzo Carboni</na></co>
+<co c="0"><na f="c/Catarci:Tiziana" pid="c/TCatarci">Tiziana Catarci</na></co>
+<co c="0"><na f="c/Celli:Fabrizio" pid="11/10734">Fabrizio Celli</na></co>
+<co c="0"><na f="c/Ceri:Stefano" pid="c/StefanoCeri">Stefano Ceri</na></co>
+<co c="0"><na f="c/Cetorelli:Valerio" pid="290/0355">Valerio Cetorelli</na></co>
+<co c="0"><na f="c/Chan:Edward_P=_F=" pid="c/EPFChan">Edward P. F. Chan</na></co>
+<co c="0"><na f="c/Chen:Peter_P=" pid="c/PPChen">Peter P. Chen</na></co>
+<co c="0" n="2"><na f="c/Cheung:David_Wai=Lok" pid="c/DWLCheung">David Wai-Lok Cheung</na><na>David W. Cheung</na></co>
+<co c="0"><na f="c/Chu:Wesley_W=" pid="c/WesleyWChu">Wesley W. Chu</na></co>
+<co c="0"><na f="c/Ciaccia:Paolo" pid="c/PaoloCiaccia">Paolo Ciaccia</na></co>
+<co c="0"><na f="c/Crescenzi:Valter" pid="26/1870">Valter Crescenzi</na></co>
+<co c="0"><na f="d/Delcambre:Lois_M=_L=" pid="d/LMLDelcambre">Lois M. L. Delcambre</na></co>
+<co c="0"><na f="f/Fages:Fran=ccedil=ois" pid="f/FrancoisFages">Fran&#231;ois Fages</na></co>
+<co c="0"><na f="f/Fenoglietto:Selina" pid="225/2006">Selina Fenoglietto</na></co>
+<co c="0"><na f="f/Firmani:Donatella" pid="05/10127">Donatella Firmani</na></co>
+<co c="0"><na f="g/Gianforme:Giorgio" pid="08/5586">Giorgio Gianforme</na></co>
+<co c="0"><na f="g/Greco:Sergio" pid="g/SergioGreco">Sergio Greco</na></co>
+<co c="0"><na f="h/Hacid:Mohand=Said" pid="h/MohandSaidHacid">Mohand-Said Hacid</na></co>
+<co c="0"><na f="h/Hansen:Dorte_Haltrup" pid="65/2130">Dorte Haltrup Hansen</na></co>
+<co c="0"><na f="i/Iezzi:Michela" pid="40/8861">Michela Iezzi</na></co>
+<co c="0"><na f="i/Isgr=ograve=:Francesco" pid="i/FrancescoIsgro">Francesco Isgr&#242;</na></co>
+<co c="1"><na f="j/Jaakkola:Hannu" pid="77/5221">Hannu Jaakkola</na></co>
+<co c="0"><na f="j/Jensen:Christian_S=" pid="j/ChristianSJensen">Christian S. Jensen</na></co>
+<co c="0"><na f="k/Kifer:Michael" pid="k/MichaelKifer">Michael Kifer</na></co>
+<co c="0"><na f="k/Kitsuregawa:Masaru" pid="k/MasaruKitsuregawa">Masaru Kitsuregawa</na></co>
+<co c="0"><na f="l/Laurenza:Eleonora" pid="168/2890">Eleonora Laurenza</na></co>
+<co c="0"><na f="l/Lenzerini:Maurizio" pid="l/MLenzerini">Maurizio Lenzerini</na></co>
+<co c="0"><na f="l/Leonardis:Marco_De" pid="174/4568">Marco De Leonardis</na></co>
+<co c="0"><na f="l/Ling:Tok_Wang" pid="l/TokWangLing">Tok Wang Ling</na></co>
+<co c="0"><na f="l/Lippi_0002:Marco" pid="81/1376-2">Marco Lippi 0002</na></co>
+<co c="0"><na f="l/Lu:Hongjun" pid="l/HongjunLu">Hongjun Lu</na></co>
+<co c="0"><na f="m/Magnante:Marco" pid="63/4494">Marco Magnante</na></co>
+<co c="0"><na f="m/Maio:Dario" pid="m/DarioMaio">Dario Maio</na></co>
+<co c="0"><na f="m/Marcos:Esperanza" pid="m/EsperanzaMarcos">Esperanza Marcos</na></co>
+<co c="0"><na f="m/Martin:Juan_Carlos_De" pid="89/6365">Juan Carlos De Martin</na></co>
+<co c="0"><na f="m/Martinenghi:Davide" pid="14/6896">Davide Martinenghi</na></co>
+<co c="0"><na f="m/Masci_0001:Alessandro" pid="m/AMasci">Alessandro Masci 0001</na></co>
+<co c="0"><na f="m/Matera:Maristella" pid="47/1654">Maristella Matera</na></co>
+<co c="0"><na f="m/Mecca:Giansalvatore" pid="m/GMecca">Giansalvatore Mecca</na></co>
+<co c="0"><na f="m/Mendelzon:Alberto_O=" pid="m/AOMendelzon">Alberto O. Mendelzon</na></co>
+<co c="0"><na f="m/Merialdo:Paolo" pid="m/PaoloMerialdo">Paolo Merialdo</na></co>
+<co c="0"><na f="m/Milicchio:Franco" pid="48/6501">Franco Milicchio</na></co>
+<co c="0"><na f="m/Missier:Paolo" pid="28/1062">Paolo Missier</na></co>
+<co c="0"><na f="m/Molinaro:Cristian" pid="06/6866">Cristian Molinaro</na></co>
+<co c="-1"><na f="m/Morfuni:Nicola_M=" pid="70/5708">Nicola M. Morfuni</na></co>
+<co c="0"><na f="m/Moscarini:Marina" pid="65/4096">Marina Moscarini</na></co>
+<co c="0"><na f="m/Mylopoulos:John" pid="m/JohnMylopoulos">John Mylopoulos</na></co>
+<co c="0"><na f="n/Nostro:Pierluigi_Del" pid="62/6005">Pierluigi Del Nostro</na></co>
+<co c="0"><na f="o/Orsi_0001:Giorgio" pid="60/909">Giorgio Orsi 0001</na></co>
+<co c="0"><na f="p/Paci:Alessandro" pid="55/985">Alessandro Paci</na></co>
+<co c="0"><na f="p/Paggio:Patrizia" pid="31/6683">Patrizia Paggio</na></co>
+<co c="0"><na f="p/Panti:Maurizio" pid="31/4106">Maurizio Panti</na></co>
+<co c="0"><na f="p/Paolozzi:Stefano" pid="94/4722">Stefano Paolozzi</na></co>
+<co c="0"><na f="p/Papotti:Paolo" pid="p/PaoloPapotti">Paolo Papotti</na></co>
+<co c="0"><na f="p/Paraboschi:Stefano" pid="05/600">Stefano Paraboschi</na></co>
+<co c="0"><na f="p/Parker_Jr=:Douglas_Stott" pid="p/DSParkerJr">Douglas Stott Parker Jr.</na></co>
+<co c="0"><na f="p/Patella:Marco" pid="p/MPatella">Marco Patella</na></co>
+<co c="0"><na f="p/Pazienza:Maria_Teresa" pid="98/2076">Maria Teresa Pazienza</na></co>
+<co c="0"><na f="p/Pecorone:Marco" pid="56/6006">Marco Pecorone</na></co>
+<co c="0"><na f="p/Pernici:Barbara" pid="p/BarbaraPernici">Barbara Pernici</na></co>
+<co c="0"><na f="p/Piai:Federico" pid="221/7529">Federico Piai</na></co>
+<co c="0"><na f="p/Polticelli:Fabio" pid="51/7237">Fabio Polticelli</na></co>
+<co c="0"><na f="p/Prevete:Roberto" pid="01/929">Roberto Prevete</na></co>
+<co c="0"><na f="q/Quintarelli:Elisa" pid="85/6716">Elisa Quintarelli</na></co>
+<co c="0"><na f="r/Ram:Sudha" pid="17/3798">Sudha Ram</na></co>
+<co c="0"><na f="r/Ramamohanarao:Kotagiri" pid="r/KRamamohanarao">Kotagiri Ramamohanarao</na></co>
+<co c="0"><na f="r/Rossi_0001:Luca" pid="61/7974-1">Luca Rossi 0001</na></co>
+<co c="0"><na f="s/Sallinger:Emanuel" pid="20/9117">Emanuel Sallinger</na></co>
+<co c="0"><na f="s/Santangelo:Antonio" pid="225/1728">Antonio Santangelo</na></co>
+<co c="0"><na f="s/Shvaiko:Pavel" pid="97/4603">Pavel Shvaiko</na></co>
+<co c="0"><na f="s/Sindoni:Giuseppe" pid="52/3314">Giuseppe Sindoni</na></co>
+<co c="0"><na f="s/Snodgrass:Richard_T=" pid="s/RichardTSnodgrass">Richard T. Snodgrass</na></co>
+<co c="0"><na f="s/Sor=agrave=:Fabio" pid="174/4634">Fabio Sor&#224;</na></co>
+<co c="0"><na f="s/Spaccapietra:Stefano" pid="s/StefanoSpaccapietra">Stefano Spaccapietra</na></co>
+<co c="0"><na f="s/Srivastava:Divesh" pid="s/DiveshSrivastava">Divesh Srivastava</na></co>
+<co c="0"><na f="s/Sycara:Katia_P=" pid="s/KatiaPSycara">Katia P. Sycara</na></co>
+<co c="0"><na f="t/Tabet:Elena" pid="79/2279">Elena Tabet</na></co>
+<co c="0"><na f="t/Tagarelli:Andrea" pid="t/AndreaTagarelli">Andrea Tagarelli</na></co>
+<co c="0"><na f="t/Tamburrini:Guglielmo" pid="17/1897">Guglielmo Tamburrini</na></co>
+<co c="0"><na f="t/Tan:Kian=Lee" pid="t/KianLeeTan">Kian-Lee Tan</na></co>
+<co c="0"><na f="t/Tanca:Letizia" pid="t/LetiziaTanca">Letizia Tanca</na></co>
+<co c="-1"><na f="t/Tannen:Val" pid="t/ValTannen">Val Tannen</na></co>
+<co c="0"><na f="t/Torlone:Riccardo" pid="t/RiccardoTorlone">Riccardo Torlone</na></co>
+<co c="0"><na f="t/Toti:Daniele" pid="07/7855">Daniele Toti</na></co>
+<co c="0"><na f="t/Trujillo_0001:Juan" pid="50/2311">Juan Trujillo 0001</na></co>
+<co c="0"><na f="v/Vara:Juan_M=" pid="15/5055">Juan M. Vara</na></co>
+<co c="0"><na f="v/Villanelli:Fulvio" pid="19/6215">Fulvio Villanelli</na></co>
+<co c="0"><na f="v/Vlad:Adriano" pid="261/1904">Adriano Vlad</na></co>
+<co c="0"><na f="w/Wood:Peter_T=" pid="w/PeterTWood">Peter T. Wood</na></co>
+<co c="0"><na f="z/Zaihrayeu:Ilya" pid="82/1159">Ilya Zaihrayeu</na></co>
+<co c="0"><na f="z/Zanzotto:Fabio_Massimo" pid="32/797">Fabio Massimo Zanzotto</na></co>
+<co c="0"><na f="z/Zhou:Shuigeng" pid="52/6744">Shuigeng Zhou</na></co>
+<co c="0"><na f="z/Zonta:Bruna" pid="32/4302">Bruna Zonta</na></co>
+</coauthors>
+</dblpperson>

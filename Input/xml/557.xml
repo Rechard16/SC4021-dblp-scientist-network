@@ -1,0 +1,2570 @@
+<dblpperson name="Michael H. B&#246;hlen" pid="b/MichaelHBohlen" n="165">
+<person key="homepages/b/MichaelHBohlen" mdate="2019-10-15">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<note type="affiliation">University of Zurich, Switzerland</note>
+<url>http://www.ifi.uzh.ch/dbtg/Staff/Boehlen/</url>
+<url>https://orcid.org/0000-0003-3694-9026</url>
+</person>
+<r><article key="journals/pacmmod/NikooBH23" mdate="2024-01-13">
+<author orcid="0000-0001-7956-0075" pid="363/8702">AmirReza Alizade Nikoo</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<title>Correlation Joins over Time Series Data Streams Utilizing Complementary Dimension Reduction and Transformation.</title>
+<pages>235:1-235:26</pages>
+<year>2023</year>
+<month>December</month>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3626722</ee>
+<url>db/journals/pacmmod/pacmmod1.html#NikooBH23</url>
+</article>
+</r>
+<r><article key="journals/vldb/WellenzohnBHPZ23" mdate="2023-09-12">
+<author pid="156/1683">Kevin Wellenzohn</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="241/3970">Antoine Pietri</author>
+<author pid="53/2641">Stefano Zacchiroli</author>
+<title>Robust and scalable content-and-structure indexing.</title>
+<pages>689-715</pages>
+<year>2023</year>
+<month>July</month>
+<volume>32</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1007/s00778-022-00764-y</ee>
+<url>db/journals/vldb/vldb32.html#WellenzohnBHPZ23</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/WellenzohnBHR23" mdate="2023-02-23">
+<author pid="156/1683">Kevin Wellenzohn</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="340/7423">Marcel Reutegger</author>
+<title>Workload-Aware Contention-Management in Indexes for Hierarchical Data.</title>
+<pages>71-92</pages>
+<year>2023</year>
+<booktitle>BTW</booktitle>
+<ee>https://doi.org/10.18420/BTW2023-03</ee>
+<crossref>conf/btw/2023</crossref>
+<url>db/conf/btw/btw2023.html#WellenzohnBHR23</url>
+</inproceedings>
+</r>
+<r><article key="journals/isf/TesfayeAPBJ22" mdate="2022-12-07">
+<author orcid="0000-0002-3194-6830" pid="180/3166">Bezaye Tesfaye</author>
+<author orcid="0000-0002-3036-6201" pid="76/3961">Nikolaus Augsten</author>
+<author pid="24/10719">Mateusz Pawlik 0001</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Speeding Up Reachability Queries in Public Transport Networks Using Graph Partitioning.</title>
+<pages>11-29</pages>
+<year>2022</year>
+<volume>24</volume>
+<journal>Inf. Syst. Frontiers</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s10796-021-10164-2</ee>
+<url>db/journals/isf/isf24.html#TesfayeAPBJ22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChenLHB22" mdate="2023-10-23">
+<author pid="14/928">Qing Chen</author>
+<author pid="06/6269">Oded Lachish</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Dynamic Spanning Trees for Connectivity Queries on Fully-dynamic Undirected Graphs.</title>
+<pages>3263-3276</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p3263-chen.pdf</ee>
+<ee>https://doi.org/10.14778/3551793.3551868</ee>
+<url>db/journals/pvldb/pvldb15.html#ChenLHB22</url>
+</article>
+</r>
+<r><article key="journals/vldb/DignosBGJM22" mdate="2022-02-08">
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="265/2949">Peter Moser</author>
+<title>Leveraging range joins for the computation of overlap joins.</title>
+<pages>75-99</pages>
+<year>2022</year>
+<volume>31</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-021-00692-3</ee>
+<url>db/journals/vldb/vldb31.html#DignosBGJM22</url>
+</article>
+</r>
+<r><article key="journals/vldb/LiSBS22" mdate="2023-08-28">
+<author pid="87/3555">Pei Li</author>
+<author orcid="0000-0002-3382-2890" pid="06/9379">Jaroslaw Szlichta</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>ABC of order dependencies.</title>
+<pages>825-849</pages>
+<year>2022</year>
+<volume>31</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-021-00696-z</ee>
+<ee>https://www.wikidata.org/entity/Q114228731</ee>
+<url>db/journals/vldb/vldb31.html#LiSBS22</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/LiJTBSS22" mdate="2022-08-05">
+<author pid="87/3555">Pei Li</author>
+<author pid="325/9489">Jessica Jessica</author>
+<author pid="325/9688">Naida Tania</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<author pid="06/9379">Jaroslaw Szlichta</author>
+<title>abcOD: Mining Band Order Dependencies.</title>
+<pages>3162-3165</pages>
+<year>2022</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE53745.2022.00288</ee>
+<crossref>conf/icde/2022</crossref>
+<url>db/conf/icde/icde2022.html#LiJTBSS22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-06887" mdate="2022-07-19">
+<author pid="14/928">Qing Chen</author>
+<author pid="06/6269">Oded Lachish</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Dynamic Spanning Trees for Connectivity Queries on Fully-dynamic Undirected Graphs (Extended version).</title>
+<year>2022</year>
+<volume>abs/2207.06887</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.06887</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-06887</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2209-05126" mdate="2022-09-27">
+<author pid="156/1683">Kevin Wellenzohn</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="241/3970">Antoine Pietri</author>
+<author pid="53/2641">Stefano Zacchiroli</author>
+<title>Robust and Scalable Content-and-Structure Indexing (Extended Version).</title>
+<year>2022</year>
+<volume>abs/2209.05126</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2209.05126</ee>
+<url>db/journals/corr/corr2209.html#abs-2209-05126</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/WellenzohnPBH21" mdate="2021-09-16">
+<author pid="156/1683">Kevin Wellenzohn</author>
+<author pid="301/6401">Luka Popovic</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>Inserting Keys into the Robust Content-and-Structure (RCAS) Index.</title>
+<pages>121-135</pages>
+<year>2021</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-82472-3_10</ee>
+<crossref>conf/adbis/2021</crossref>
+<url>db/conf/adbis/adbis2021.html#WellenzohnPBH21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SaadBBD21" mdate="2023-06-26">
+<author pid="181/5807-6">Muhammad Saad 0006</author>
+<author pid="b/AbrahamBernstein">Abraham Bernstein</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0003-4904-2511" pid="57/8026">Daniele Dell'Aglio</author>
+<title>Single Point Incremental Fourier Transform on 2D Data Streams.</title>
+<pages>852-863</pages>
+<year>2021</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE51399.2021.00079</ee>
+<crossref>conf/icde/2021</crossref>
+<url>db/conf/icde/icde2021.html#SaadBBD21</url>
+</inproceedings>
+</r>
+<r><article key="journals/kais/KhayatiCB20" mdate="2022-01-03">
+<author orcid="0000-0002-7512-7124" pid="90/4017">Mourad Khayati</author>
+<author orcid="0000-0003-2588-4212" pid="71/5578">Philippe Cudr&#233;-Mauroux</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Scalable recovery of missing blocks in time series with high and low cross-correlations.</title>
+<pages>2257-2280</pages>
+<year>2020</year>
+<volume>62</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s10115-019-01421-7</ee>
+<url>db/journals/kais/kais62.html#KhayatiCB20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/WellenzohnBH20" mdate="2023-08-28">
+<author orcid="0000-0001-6511-7101" pid="156/1683">Kevin Wellenzohn</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>Dynamic Interleaving of Content and Structure for Robust Indexing of Semi-Structured Hierarchical Data.</title>
+<pages>1641-1653</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p1641-wellenzohn.pdf</ee>
+<ee>https://doi.org/10.14778/3401960.3401963</ee>
+<ee>https://www.wikidata.org/entity/Q114596030</ee>
+<url>db/journals/pvldb/pvldb13.html#WellenzohnBH20</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/TesfayeA0BJ20" mdate="2023-06-26">
+<author pid="180/3166">Bezaye Tesfaye</author>
+<author orcid="0000-0002-3036-6201" pid="76/3961">Nikolaus Augsten</author>
+<author pid="24/10719">Mateusz Pawlik 0001</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>An Efficient Index for Reachability Queries in Public Transport Networks.</title>
+<pages>34-48</pages>
+<year>2020</year>
+<booktitle>ADBIS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-54832-2_5</ee>
+<crossref>conf/adbis/2020</crossref>
+<url>db/conf/adbis/adbis2020.html#TesfayeA0BJ20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adbis/BohlenDKMSS20" mdate="2023-06-26">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="262/6401">Oksana Dolmatova</author>
+<author orcid="0000-0002-4808-1845" pid="90/4978">Michael Krauthammer</author>
+<author pid="272/7040">Alphonse Mariyagnanaseelan</author>
+<author pid="182/0938">Jonathan Stahl</author>
+<author pid="244/0389">Timo Surbeck</author>
+<title>Iterations for Propensity Score Matching in MonetDB.</title>
+<pages>189-203</pages>
+<year>2020</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-54832-2_15</ee>
+<crossref>conf/adbis/2020</crossref>
+<url>db/conf/adbis/adbis2020.html#BohlenDKMSS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/MulleB20" mdate="2020-06-05">
+<author pid="117/8839">Yvonne M&#252;lle</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Query Results over Ongoing Databases that Remain Valid as Time Passes By.</title>
+<pages>1429-1440</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00127</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#MulleB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LiSBS20" mdate="2020-06-05">
+<author pid="87/3555">Pei Li</author>
+<author pid="06/9379">Jaroslaw Szlichta</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Discovering Band Order Dependencies.</title>
+<pages>1878-1881</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00193</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#LiSBS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/DolmatovaAB20" mdate="2020-10-25">
+<author pid="262/6401">Oksana Dolmatova</author>
+<author orcid="0000-0002-3036-6201" pid="76/3961">Nikolaus Augsten</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Preserving Contextual Information in Relational Matrix Operations.</title>
+<pages>1894-1897</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00197</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#DolmatovaAB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DolmatovaAB20" mdate="2020-10-25">
+<author pid="262/6401">Oksana Dolmatova</author>
+<author orcid="0000-0002-3036-6201" pid="76/3961">Nikolaus Augsten</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>A Relational Matrix Algebra and its Implementation in a Column Store.</title>
+<pages>2573-2587</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389747</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#DolmatovaAB20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-05722" mdate="2020-01-17">
+<author pid="117/8839">Yvonne M&#252;lle</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Query Results over Ongoing Databases that Remain Valid as Time Passes By (Extended Version).</title>
+<year>2020</year>
+<volume>abs/2001.05722</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2001.05722</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-05722</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-05517" mdate="2022-10-02">
+<author pid="262/6401">Oksana Dolmatova</author>
+<author orcid="0000-0002-3036-6201" pid="76/3961">Nikolaus Augsten</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>A Relational Matrix Algebra and its Implementation in a Column Store.</title>
+<year>2020</year>
+<volume>abs/2004.05517</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.05517</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-05517</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-05134" mdate="2021-10-14">
+<author orcid="0000-0001-6511-7101" pid="156/1683">Kevin Wellenzohn</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>Dynamic Interleaving of Content and Structure for Robust Indexing of Semi-Structured Hierarchical Data (Extended Version).</title>
+<year>2020</year>
+<volume>abs/2006.05134</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.05134</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-05134</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DignosGNGB19" mdate="2023-12-12">
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author pid="09/3012">Boris Glavic</author>
+<author pid="87/9555-2">Xing Niu 0002</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Snapshot Semantics for Temporal Multiset Relations.</title>
+<pages>639-652</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p639-dignoes.pdf</ee>
+<ee>https://doi.org/10.14778/3311880.3311882</ee>
+<url>db/journals/pvldb/pvldb12.html#DignosGNGB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/PapaioannouTB19" mdate="2021-10-14">
+<author pid="152/9341">Katerina Papaioannou</author>
+<author orcid="0000-0003-4067-7609" pid="t/MartinTheobald">Martin Theobald</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Outer and Anti Joins in Temporal-Probabilistic Databases.</title>
+<pages>1742-1745</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00187</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#PapaioannouTB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/time/BohlenS19" mdate="2022-12-20">
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="181/5807-6">Muhammad Saad 0006</author>
+<title>Computing the Fourier Transformation over Temporal Data Streams (Invited Talk).</title>
+<pages>1:1-1:4</pages>
+<year>2019</year>
+<booktitle>TIME</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.TIME.2019.1</ee>
+<crossref>conf/time/2019</crossref>
+<url>db/conf/time/time2019.html#BohlenS19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-04379" mdate="2019-05-21">
+<author pid="152/9341">Katerina Papaioannou</author>
+<author pid="t/MartinTheobald">Martin Theobald</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Generalized Lineage-Aware Temporal Windows: Supporting Outer and Anti Joins in Temporal-Probabilistic Databases.</title>
+<year>2019</year>
+<volume>abs/1902.04379</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.04379</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-04379</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-04938" mdate="2023-12-12">
+<author pid="96/11411">Anton Dign&#246;s</author>
+<author pid="09/3012">Boris Glavic</author>
+<author pid="87/9555-2">Xing Niu 0002</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="59/6952">Johann Gamper</author>
+<title>Snapshot Semantics for Temporal Multiset Relations (Extended Version).</title>
+<year>2019</year>
+<volume>abs/1902.04938</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.04938</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-04938</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-11948" mdate="2021-04-14">
+<author pid="87/3555">Pei Li</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="06/9379">Jaroslaw Szlichta</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Discovery of Band Order Dependencies.</title>
+<year>2019</year>
+<volume>abs/1905.11948</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.11948</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-11948</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-00474" mdate="2019-10-04">
+<author pid="152/9341">Katerina Papaioannou</author>
+<author pid="t/MartinTheobald">Martin Theobald</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Lineage-Aware Temporal Windows: Supporting Set Operations in Temporal-Probabilistic Databases.</title>
+<year>2019</year>
+<volume>abs/1910.00474</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.00474</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-00474</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/PapaioannouTB18" mdate="2023-03-24">
+<author pid="152/9341">Katerina Papaioannou</author>
+<author orcid="0000-0003-4067-7609" pid="t/MartinTheobald">Martin Theobald</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Supporting Set Operations in Temporal-Probabilistic Databases.</title>
+<pages>1180-1191</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00109</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00109</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#PapaioannouTB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/time/BohlenDGJ18" mdate="2022-12-07">
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Database Technology for Processing Temporal Data (Invited Paper).</title>
+<pages>2:1-2:7</pages>
+<year>2018</year>
+<booktitle>TIME</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.TIME.2018.2</ee>
+<crossref>conf/time/2018</crossref>
+<url>db/conf/time/time2018.html#BohlenDGJ18</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/edbt/2018" mdate="2020-08-28">
+<editor pid="b/MichaelHBohlen">Michael H. B&#246;hlen</editor>
+<editor pid="26/5252">Reinhard Pichler</editor>
+<editor pid="89/6071">Norman May</editor>
+<editor pid="r/ERahm">Erhard Rahm</editor>
+<editor pid="94/2844">Shan-Hung Wu</editor>
+<editor pid="h/KatjaHose">Katja Hose</editor>
+<title>Proceedings of the 21st International Conference on Extending Database Technology, EDBT 2018, Vienna, Austria, March 26-29, 2018.</title>
+<booktitle>EDBT</booktitle>
+<publisher>OpenProceedings.org</publisher>
+<year>2018</year>
+<isbn>978-3-89318-078-3</isbn>
+<url>db/conf/edbt/edbt2018.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/ssdbm/2018" mdate="2021-04-09">
+<editor orcid="0000-0001-5022-1483" pid="19/4428">Dimitris Sacharidis</editor>
+<editor pid="59/6952">Johann Gamper</editor>
+<editor pid="b/MichaelHBohlen">Michael H. B&#246;hlen</editor>
+<title>Proceedings of the 30th International Conference on Scientific and Statistical Database Management, SSDBM 2018, Bozen-Bolzano, Italy, July 09-11, 2018</title>
+<publisher>ACM</publisher>
+<booktitle>SSDBM</booktitle>
+<year>2018</year>
+<ee>https://doi.org/10.1145/3221269</ee>
+<url>db/conf/ssdbm/ssdbm2018.html</url>
+</proceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Bohlen18" mdate="2019-02-14">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Temporal Coalescing.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_388</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/t2.html#Bohlen18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Bohlen18a" mdate="2019-02-14">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Temporal Query Processing.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_408</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/t2.html#Bohlen18a</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/BohlenGJS18" mdate="2019-02-14">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="59/6952">Johann Gamper</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>SQL-Based Temporal Query Languages.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_1525</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/s2.html#BohlenGJS18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/BohlenJ18" mdate="2019-02-14">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Sequenced Semantics.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_1053</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/s2.html#BohlenJ18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/BohlenJS18" mdate="2019-02-14">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>Current Semantics.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_1068</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/c2.html#BohlenJS18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/BohlenJS18a" mdate="2019-02-14">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>Nonsequenced Semantics.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_1052</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/n2.html#BohlenJS18a</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/BohlenJS18b" mdate="2019-02-14">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>Temporal Compatibility.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_1059</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/t2.html#BohlenJS18b</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/GamperBJ18" mdate="2019-02-14">
+<author pid="59/6952">Johann Gamper</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Temporal Aggregation.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_386</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/t2.html#GamperBJ18</url>
+</incollection>
+</r>
+<r><article key="journals/is/CafagnaBB17" mdate="2019-10-19">
+<author pid="169/3500">Francesco Cafagna</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="169/3495">Annelies Bracher</author>
+<title>Category- and selection-enabled nearest neighbor joins.</title>
+<pages>3-16</pages>
+<year>2017</year>
+<volume>68</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2017.01.006</ee>
+<url>db/journals/is/is68.html#CafagnaBB17</url>
+</article>
+</r>
+<r><article key="journals/vldb/CafagnaB17" mdate="2019-10-19">
+<author orcid="0000-0001-9883-7375" pid="169/3500">Francesco Cafagna</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Disjoint interval partitioning.</title>
+<pages>447-466</pages>
+<year>2017</year>
+<volume>26</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00778-017-0456-7</ee>
+<url>db/journals/vldb/vldb26.html#CafagnaB17</url>
+</article>
+</r>
+<r><inproceedings key="conf/ebiss/BohlenDGJ17" mdate="2022-12-07">
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Temporal Data Management - An Overview.</title>
+<pages>51-83</pages>
+<year>2017</year>
+<booktitle>eBISS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-96655-7_3</ee>
+<crossref>conf/ebiss/2017</crossref>
+<url>db/conf/ebiss/ebiss2017.html#BohlenDGJ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/WellenzohnBDGM17" mdate="2021-10-14">
+<author orcid="0000-0001-6511-7101" pid="156/1683">Kevin Wellenzohn</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author pid="156/1592">Hannes Mitterer</author>
+<title>Continuous Imputation of Missing Values in Streams of Pattern-Determining Time Series.</title>
+<pages>330-341</pages>
+<year>2017</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2017.30</ee>
+<crossref>conf/edbt/2017</crossref>
+<url>db/conf/edbt/edbt2017.html#WellenzohnBDGM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/MahlknechtBDG17" mdate="2020-06-15">
+<author orcid="0000-0003-3415-4422" pid="166/9059">Giovanni Mahlknecht</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>VISOR: Visualizing Summaries of Ordered Data.</title>
+<pages>40:1-40:5</pages>
+<year>2017</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1145/3085504.3091115</ee>
+<crossref>conf/ssdbm/2017</crossref>
+<url>db/conf/ssdbm/ssdbm2017.html#MahlknechtBDG17</url>
+</inproceedings>
+</r>
+<r><article key="journals/tods/DignosBGJ16" mdate="2022-12-07">
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Extending the Kernel of a Relational DBMS with Comprehensive Support for Sequenced Temporal Queries.</title>
+<pages>26:1-26:46</pages>
+<year>2016</year>
+<volume>41</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2967608</ee>
+<url>db/journals/tods/tods41.html#DignosBGJ16</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/PapaioannouB16" mdate="2023-03-24">
+<author pid="152/9341">Katerina Papaioannou</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>TemProRA: Top-k temporal-probabilistic results analysis.</title>
+<pages>1382-1385</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498350</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498350</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#PapaioannouB16</url>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/BohlenK15" mdate="2019-10-19">
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Special issue on best papers of VLDB 2013.</title>
+<pages>609-610</pages>
+<year>2015</year>
+<volume>24</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.1007/s00778-015-0401-6</ee>
+<url>db/journals/vldb/vldb24.html#BohlenK15</url>
+</article>
+</r>
+<r><inproceedings key="conf/dolap/CafagnaBB15" mdate="2018-11-06">
+<author pid="169/3500">Francesco Cafagna</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="169/3495">Annelies Bracher</author>
+<title>Nearest Neighbour Join with Groups and Predicates.</title>
+<pages>39-48</pages>
+<year>2015</year>
+<booktitle>DOLAP</booktitle>
+<ee>https://doi.org/10.1145/2811222.2811225</ee>
+<crossref>conf/dolap/2015</crossref>
+<url>db/conf/dolap/dolap2015.html#CafagnaBB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/KhayatiBC15" mdate="2019-10-19">
+<author pid="90/4017">Mourad Khayati</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="71/5578">Philippe Cudr&#233;-Mauroux</author>
+<title>Using Lowly Correlated Time Series to Recover Missing Values in Time Series: A Comparison Between SVD and CD.</title>
+<pages>237-254</pages>
+<year>2015</year>
+<booktitle>SSTD</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-22363-6_13</ee>
+<crossref>conf/ssd/2015</crossref>
+<url>db/conf/ssd/sstd2015.html#KhayatiBC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adbis/CadonnaGB14" mdate="2017-05-21">
+<author pid="21/7338">Bruno Cadonna</author>
+<author pid="59/6952">Johann Gamper</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>A Robust Skip-Till-Next-Match Selection Strategy for Event Pattern Matching.</title>
+<pages>177-191</pages>
+<year>2014</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-10933-6_14</ee>
+<crossref>conf/adbis/2014</crossref>
+<url>db/conf/adbis/adbis2014.html#CadonnaGB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gvd/WellenzohnMGBK14" mdate="2023-03-10">
+<author pid="156/1683">Kevin Wellenzohn</author>
+<author pid="156/1592">Hannes Mitterer</author>
+<author pid="59/6952">Johann Gamper</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="90/4017">Mourad Khayati</author>
+<title>Missing Value Imputation in Time Series Using Top-k Case Matching.</title>
+<pages>77-82</pages>
+<year>2014</year>
+<booktitle>Grundlagen von Datenbanken</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1313/paper_14.pdf</ee>
+<crossref>conf/gvd/2014</crossref>
+<url>db/conf/gvd/gvd2014.html#WellenzohnMGBK14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/KhayatiBG14" mdate="2023-03-24">
+<author orcid="0000-0002-7512-7124" pid="90/4017">Mourad Khayati</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Memory-efficient centroid decomposition for long time series.</title>
+<pages>100-111</pages>
+<year>2014</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2014.6816643</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2014.6816643</ee>
+<crossref>conf/icde/2014</crossref>
+<url>db/conf/icde/icde2014.html#KhayatiBG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DignosBG14" mdate="2020-06-15">
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Overlap interval partition join.</title>
+<pages>1459-1470</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2612175</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#DignosBG14</url>
+</inproceedings>
+</r>
+<r><book key="series/synthesis/2013Augsten" mdate="2023-10-19">
+<author orcid="0000-0002-3036-6201" pid="76/3961">Nikolaus Augsten</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Similarity Joins in Relational Database Systems</title>
+<year>2013</year>
+<series href="db/series/synthesis-dtm/index.html">Synthesis Lectures on Data Management</series>
+<publisher>Morgan &amp; Claypool Publishers</publisher>
+<pages>1-124</pages>
+<isbn>9781627050289</isbn>
+<isbn>9781627050296</isbn>
+<isbn>978-3-031-00723-1</isbn>
+<isbn>978-3-031-01851-0</isbn>
+<ee>https://doi.org/10.2200/S00544ED1V01Y201310DTM038</ee>
+<ee>https://doi.org/10.1007/978-3-031-01851-0</ee>
+</book>
+</r>
+<r><article key="journals/kais/AugstenBG13" mdate="2020-10-26">
+<author orcid="0000-0002-3036-6201" pid="76/3961">Nikolaus Augsten</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>The address connector: noninvasive synchronization of hierarchical data sources.</title>
+<pages>639-663</pages>
+<year>2013</year>
+<volume>37</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10115-012-0582-x</ee>
+<url>db/journals/kais/kais37.html#AugstenBG13</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BohlenK12" mdate="2020-04-25">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Front Matter.</title>
+<pages>i-x</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/FrontMatterVol6No1.pdf</ee>
+<url>db/journals/pvldb/pvldb6.html#BohlenK12</url>
+</article>
+</r>
+<r><inproceedings key="conf/dawak/AmmendolaBG13" mdate="2020-06-15">
+<author pid="133/5726">Christian Ammendola</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Efficient Evaluation of Ad-Hoc Range Aggregates.</title>
+<pages>46-59</pages>
+<year>2013</year>
+<booktitle>DaWaK</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-40131-2_5</ee>
+<crossref>conf/dawak/2013</crossref>
+<url>db/conf/dawak/dawak2013.html#AmmendolaBG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/DignosBG13" mdate="2023-03-24">
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Query time scaling of attribute values in interval timestamped databases.</title>
+<pages>1304-1307</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544930</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544930</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#DignosBG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/w2gis/InnerebnerBG13" mdate="2020-06-15">
+<author pid="54/3311">Markus Innerebner</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>ISOGA: A System for Geographical Reachability Analysis.</title>
+<pages>180-189</pages>
+<year>2013</year>
+<booktitle>W2GIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-37087-8_13</ee>
+<crossref>conf/w2gis/2013</crossref>
+<url>db/conf/w2gis/w2gis2013.html#InnerebnerBG13</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijmei/KhayatiABGM12" mdate="2023-09-30">
+<author orcid="0000-0002-7512-7124" pid="90/4017">Mourad Khayati</author>
+<author pid="95/7787">Jay Martin Anderson</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0002-1036-9165" pid="48/10459">Manfred Mitterer</author>
+<title>Similarity of chemotherapy histories based on imputed values.</title>
+<pages>282-298</pages>
+<year>2012</year>
+<volume>4</volume>
+<journal>Int. J. Medical Eng. Informatics</journal>
+<number>3</number>
+<ee>https://doi.org/10.1504/IJMEI.2012.048389</ee>
+<url>db/journals/ijmei/ijmei4.html#KhayatiABGM12</url>
+</article>
+</r>
+<r><article key="journals/vldb/GordeviciusGB12" mdate="2020-06-15">
+<author pid="86/885">Juozas Gordevicius</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Parsimonious temporal aggregation.</title>
+<pages>309-332</pages>
+<year>2012</year>
+<volume>21</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00778-011-0243-9</ee>
+<url>db/journals/vldb/vldb21.html#GordeviciusGB12</url>
+</article>
+</r>
+<r><article key="journals/vldb/AugstenBDG12" mdate="2020-10-26">
+<author orcid="0000-0002-3036-6201" pid="76/3961">Nikolaus Augsten</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Windowed pq-grams for approximate joins of data-centric XML.</title>
+<pages>463-488</pages>
+<year>2012</year>
+<volume>21</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00778-011-0254-6</ee>
+<url>db/journals/vldb/vldb21.html#AugstenBDG12</url>
+</article>
+</r>
+<r><article key="journals/vldb/HelmerAB12" mdate="2020-10-26">
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author orcid="0000-0002-3036-6201" pid="76/3961">Nikolaus Augsten</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Measuring structural similarity of semistructured data based on information-theoretic approaches.</title>
+<pages>677-702</pages>
+<year>2012</year>
+<volume>21</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-012-0263-0</ee>
+<ee>https://www.wikidata.org/entity/Q57985626</ee>
+<url>db/journals/vldb/vldb21.html#HelmerAB12</url>
+</article>
+</r>
+<r><inproceedings key="conf/comad/KhayatiB12" mdate="2020-03-12">
+<author pid="90/4017">Mourad Khayati</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>REBOM: Recovery of Blocks of Missing Values in Time Series.</title>
+<pages>44-55</pages>
+<year>2012</year>
+<booktitle>COMAD</booktitle>
+<ee type="oa">http://comad.in/comad2012/pdf/khayati.pdf</ee>
+<crossref>conf/comad/2012</crossref>
+<url>db/conf/comad/comad2012.html#KhayatiB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/CadonnaGB12" mdate="2020-06-15">
+<author pid="21/7338">Bruno Cadonna</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Efficient event pattern matching with match windows.</title>
+<pages>471-479</pages>
+<year>2012</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/2339530.2339607</ee>
+<crossref>conf/kdd/2012</crossref>
+<url>db/conf/kdd/kdd2012.html#CadonnaGB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DignosBG12" mdate="2020-06-15">
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Temporal alignment.</title>
+<pages>433-444</pages>
+<year>2012</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2213836.2213886</ee>
+<crossref>conf/sigmod/2012</crossref>
+<url>db/conf/sigmod/sigmod2012.html#DignosBG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/GamperBI12" mdate="2020-06-15">
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="54/3311">Markus Innerebner</author>
+<title>Scalable Computation of Isochrones with Network Expiration.</title>
+<pages>526-543</pages>
+<year>2012</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31235-9_35</ee>
+<crossref>conf/ssdbm/2012</crossref>
+<url>db/conf/ssdbm/ssdbm2012.html#GamperBI12</url>
+</inproceedings>
+</r>
+<r><article key="journals/is/AkindeBCG11" mdate="2020-06-15">
+<author pid="06/6157">Michael O. Akinde</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="c/DChatziantoniou">Damianos Chatziantoniou</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>theta-Constrained multi-dimensional aggregation.</title>
+<pages>341-358</pages>
+<year>2011</year>
+<volume>36</volume>
+<journal>Inf. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.is.2010.07.005</ee>
+<url>db/journals/is/is36.html#AkindeBCG11</url>
+</article>
+</r>
+<r><article key="journals/tkde/AugstenBBP11" mdate="2023-01-13">
+<author orcid="0000-0002-3036-6201" pid="76/3961">Nikolaus Augsten</author>
+<author pid="b/DBarbosa">Denilson Barbosa 0001</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="p/ThemisPalpanas">Themis Palpanas</author>
+<title>Efficient Top-k Approximate Subtree Matching in Small Memory.</title>
+<pages>1123-1137</pages>
+<year>2011</year>
+<volume>23</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TKDE.2010.245</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2010.245</ee>
+<url>db/journals/tkde/tkde23.html#AugstenBBP11</url>
+</article>
+</r>
+<r><article key="journals/vldb/TimkoBG11" mdate="2020-06-15">
+<author pid="78/5835">Igor Timko</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Sequenced spatiotemporal aggregation for coarse query granularities.</title>
+<pages>721-741</pages>
+<year>2011</year>
+<volume>20</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-011-0247-5</ee>
+<url>db/journals/vldb/vldb20.html#TimkoBG11</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/ChristopeitBKM11" mdate="2019-10-19">
+<author pid="41/5452">Dietrich Christopeit</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="k/CarlChristianKanne">Carl-Christian Kanne</author>
+<author pid="m/ArturasMazeika">Arturas Mazeika</author>
+<title>Querying Versioned Software Repositories.</title>
+<pages>42-55</pages>
+<year>2011</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-23737-9_4</ee>
+<crossref>conf/adbis/2011</crossref>
+<url>db/conf/adbis/adbis2011.html#ChristopeitBKM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adbis/TilgnerGBK11" mdate="2019-10-19">
+<author pid="41/350">Christian Tilgner</author>
+<author orcid="0000-0003-2887-2452" pid="09/3012">Boris Glavic</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="k/CarlChristianKanne">Carl-Christian Kanne</author>
+<title>Declarative Serializable Snapshot Isolation.</title>
+<pages>170-184</pages>
+<year>2011</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-23737-9_13</ee>
+<crossref>conf/adbis/2011</crossref>
+<url>db/conf/adbis/adbis2011.html#TilgnerGBK11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bncod/TilgnerGBK11" mdate="2019-10-19">
+<author pid="41/350">Christian Tilgner</author>
+<author orcid="0000-0003-2887-2452" pid="09/3012">Boris Glavic</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="k/CarlChristianKanne">Carl-Christian Kanne</author>
+<title>Smile: Enabling Easy and Fast Development of Domain-Specific Scheduling Protocols.</title>
+<pages>128-131</pages>
+<year>2011</year>
+<booktitle>BNCOD</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-24577-0_13</ee>
+<crossref>conf/bncod/2011</crossref>
+<url>db/conf/bncod/bncod2011.html#TilgnerGBK11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/GamperBCI11" mdate="2020-06-15">
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="51/10440">Willi Cometti</author>
+<author pid="54/3311">Markus Innerebner</author>
+<title>Defining isochrones in multimodal spatial networks.</title>
+<pages>2381-2384</pages>
+<year>2011</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2063576.2063972</ee>
+<crossref>conf/cikm/2011</crossref>
+<url>db/conf/cikm/cikm2011.html#GamperBCI11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/CadonnaGB11" mdate="2020-06-15">
+<author pid="21/7338">Bruno Cadonna</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Sequenced event set pattern matching.</title>
+<pages>33-44</pages>
+<year>2011</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1951365.1951372</ee>
+<crossref>conf/edbt/2011</crossref>
+<url>db/conf/edbt/edbt2011.html#CadonnaGB11</url>
+</inproceedings>
+</r>
+<r><article key="journals/tods/AugstenBG10" mdate="2020-10-26">
+<author orcid="0000-0002-3036-6201" pid="76/3961">Nikolaus Augsten</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>The <i>pq</i>-gram distance between ordered labeled trees.</title>
+<year>2010</year>
+<volume>35</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1670243.1670247</ee>
+<url>db/journals/tods/tods35.html#AugstenBG10</url>
+<pages>4:1-4:36</pages>
+</article>
+</r>
+<r><inproceedings key="conf/icde/AugstenBBP10" mdate="2023-03-24">
+<author orcid="0000-0002-3036-6201" pid="76/3961">Nikolaus Augsten</author>
+<author pid="b/DBarbosa">Denilson Barbosa 0001</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="p/ThemisPalpanas">Themis Palpanas</author>
+<title>TASM: Top-k Approximate Subtree Matching.</title>
+<pages>353-364</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447905</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447905</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#AugstenBBP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/KasperovicsBG10" mdate="2020-06-15">
+<author pid="67/4705">Romans Kasperovics</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>On the Efficient Construction of Multislices from Recurrences.</title>
+<pages>42-59</pages>
+<year>2010</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-13818-8_5</ee>
+<crossref>conf/ssdbm/2010</crossref>
+<url>db/conf/ssdbm/ssdbm2010.html#KasperovicsBG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/TimkoBG09" mdate="2020-06-15">
+<author pid="78/5835">Igor Timko</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Sequenced spatio-temporal aggregation in road networks.</title>
+<pages>48-59</pages>
+<year>2009</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1516360.1516368</ee>
+<crossref>conf/edbt/2009</crossref>
+<url>db/conf/edbt/edbt2009.html#TimkoBG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/GordeviciusGB09" mdate="2020-06-15">
+<author pid="86/885">Juozas Gordevicius</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Parsimonious temporal aggregation.</title>
+<pages>1006-1017</pages>
+<year>2009</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/1516360.1516475</ee>
+<crossref>conf/edbt/2009</crossref>
+<url>db/conf/edbt/edbt2009.html#GordeviciusGB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/KasperovicsBG09" mdate="2020-06-15">
+<author pid="67/4705">Romans Kasperovics</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Evaluating Exceptions on Time Slices.</title>
+<pages>251-264</pages>
+<year>2009</year>
+<booktitle>ER</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04840-1_20</ee>
+<crossref>conf/er/2009</crossref>
+<url>db/conf/er/er2009.html#KasperovicsBG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdm/TaliunBM09" mdate="2017-05-17">
+<author pid="96/6362">Andrej Taliun</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="m/ArturasMazeika">Arturas Mazeika</author>
+<title>CORE: Nonparametric Clustering of Large Numeric Databases.</title>
+<pages>14-25</pages>
+<year>2009</year>
+<booktitle>SDM</booktitle>
+<ee>https://doi.org/10.1137/1.9781611972795.2</ee>
+<crossref>conf/sdm/2009</crossref>
+<url>db/conf/sdm/sdm2009.html#TaliunBM09</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/BohlenJS09" mdate="2017-07-12">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>Current Semantics.</title>
+<pages>544-545</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_1068</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/c.html#BohlenJS09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/BohlenJS09a" mdate="2017-07-12">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>Nonsequenced Semantics.</title>
+<pages>1913-1915</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_1052</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/n.html#BohlenJS09a</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/BohlenJ09" mdate="2017-07-12">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Sequenced Semantics.</title>
+<pages>2619-2621</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_1053</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/s.html#BohlenJ09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/BohlenGJS09" mdate="2017-07-12">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="59/6952">Johann Gamper</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>SQL-Based Temporal Query Languages.</title>
+<pages>2762-2768</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_1525</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/s.html#BohlenGJS09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/GamperBJ09" mdate="2017-07-12">
+<author pid="59/6952">Johann Gamper</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Temporal Aggregation.</title>
+<pages>2924-2929</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_386</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/t.html#GamperBJ09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Bohlen09" mdate="2017-07-12">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Temporal Coalescing.</title>
+<pages>2932-2936</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_388</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/t.html#Bohlen09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/BohlenJS09b" mdate="2017-07-12">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>Temporal Compatibility.</title>
+<pages>2936-2939</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_1059</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/t.html#BohlenJS09b</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Bohlen09a" mdate="2017-07-12">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Temporal Query Processing.</title>
+<pages>3012-3015</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_408</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/t.html#Bohlen09a</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/adbis/MazeikaBT08" mdate="2019-10-19">
+<author pid="m/ArturasMazeika">Arturas Mazeika</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="27/4538">Daniel Trivellato</author>
+<title>Analysis and Interpretation of Visual Hierarchical Heavy Hitters of Binary Relations.</title>
+<pages>168-183</pages>
+<year>2008</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85713-6_13</ee>
+<crossref>conf/adbis/2008</crossref>
+<url>db/conf/adbis/adbis2008.html#MazeikaBT08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bncod/BohlenGJ07" mdate="2022-12-07">
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Towards General Temporal Aggregation.</title>
+<pages>257-269</pages>
+<year>2008</year>
+<booktitle>BNCOD</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-70504-8_27</ee>
+<crossref>conf/bncod/2008</crossref>
+<url>db/conf/bncod/bncod2008.html#BohlenGJ07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AugstenBDG08" mdate="2023-03-24">
+<author orcid="0000-0002-3036-6201" pid="76/3961">Nikolaus Augsten</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Approximate Joins for Data-Centric XML.</title>
+<pages>814-823</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497490</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497490</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#AugstenBDG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/time/KasperovicsBG08" mdate="2023-03-24">
+<author pid="67/4705">Romans Kasperovics</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Representing Public Transport Schedules as Repeating Trips.</title>
+<pages>54-58</pages>
+<year>2008</year>
+<booktitle>TIME</booktitle>
+<ee>https://doi.org/10.1109/TIME.2008.26</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/TIME.2008.26</ee>
+<crossref>conf/time/2008</crossref>
+<url>db/conf/time/time2008.html#KasperovicsBG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/time/GordeviciusGB08" mdate="2023-03-24">
+<author pid="86/885">Juozas Gordevicius</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>A Greedy Approach Towards Parsimonious Temporal Aggregation.</title>
+<pages>88-92</pages>
+<year>2008</year>
+<booktitle>TIME</booktitle>
+<ee>https://doi.org/10.1109/TIME.2008.24</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/TIME.2008.24</ee>
+<crossref>conf/time/2008</crossref>
+<url>db/conf/time/time2008.html#GordeviciusGB08</url>
+</inproceedings>
+</r>
+<r><incollection key="series/lncs/SimoffBM08" mdate="2019-10-19">
+<author pid="39/1218">Simeon J. Simoff</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="m/ArturasMazeika">Arturas Mazeika</author>
+<title>Visual Data Mining: An Introduction and Overview.</title>
+<pages>1-12</pages>
+<year>2008</year>
+<booktitle>Visual Data Mining</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-71080-6_1</ee>
+<crossref>series/lncs/4404</crossref>
+<url>db/series/lncs/lncs4404.html#SimoffBM08</url>
+</incollection>
+</r>
+<r><incollection key="series/lncs/BohlenBMM08" mdate="2019-10-19">
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-9781-9690" pid="54/673">Linas Bukauskas</author>
+<author pid="m/ArturasMazeika">Arturas Mazeika</author>
+<author pid="08/6860">Peer Mylov</author>
+<title>The 3DVDM Approach: A Case Study with Clickstream Data.</title>
+<pages>13-29</pages>
+<year>2008</year>
+<booktitle>Visual Data Mining</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-71080-6_2</ee>
+<crossref>series/lncs/4404</crossref>
+<url>db/series/lncs/lncs4404.html#BohlenBMM08</url>
+</incollection>
+</r>
+<r><incollection key="series/lncs/MazeikaBM08" mdate="2019-10-19">
+<author pid="m/ArturasMazeika">Arturas Mazeika</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="08/6860">Peer Mylov</author>
+<title>Using Nested Surfaces for Visual Detection of Structures in Databases.</title>
+<pages>91-102</pages>
+<year>2008</year>
+<booktitle>Visual Data Mining</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-71080-6_7</ee>
+<crossref>series/lncs/4404</crossref>
+<url>db/series/lncs/lncs4404.html#MazeikaBM08</url>
+</incollection>
+</r>
+<r><incollection key="series/lncs/TrivellatoMB08" mdate="2019-10-19">
+<author pid="27/4538">Daniel Trivellato</author>
+<author pid="m/ArturasMazeika">Arturas Mazeika</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Using 2D Hierarchical Heavy Hitters to Investigate Binary Relationships.</title>
+<pages>215-235</pages>
+<year>2008</year>
+<booktitle>Visual Data Mining</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-71080-6_14</ee>
+<crossref>series/lncs/4404</crossref>
+<url>db/series/lncs/lncs4404.html#TrivellatoMB08</url>
+</incollection>
+</r>
+<r><incollection key="series/lncs/SimoffBM08a" mdate="2019-10-19">
+<author pid="39/1218">Simeon J. Simoff</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="m/ArturasMazeika">Arturas Mazeika</author>
+<title>Assisting Human Cognition in Visual Data Mining.</title>
+<pages>264-280</pages>
+<year>2008</year>
+<booktitle>Visual Data Mining</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-71080-6_17</ee>
+<crossref>series/lncs/4404</crossref>
+<url>db/series/lncs/lncs4404.html#SimoffBM08a</url>
+</incollection>
+</r>
+<r><book key="series/lncs/4404" mdate="2019-05-14">
+<editor pid="39/1218">Simeon J. Simoff</editor>
+<editor pid="b/MichaelHBohlen">Michael H. B&#246;hlen</editor>
+<editor pid="m/ArturasMazeika">Arturas Mazeika</editor>
+<title>Visual Data Mining - Theory, Techniques and Tools for Visual Analytics</title>
+<booktitle>Visual Data Mining</booktitle>
+<volume>4404</volume>
+<year>2008</year>
+<isbn>978-3-540-71079-0</isbn>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<ee>https://doi.org/10.1007/978-3-540-71080-6</ee>
+<url>db/series/lncs/lncs4404.html</url>
+</book>
+</r>
+<r><article key="journals/tods/MazeikaBKS07" mdate="2019-10-19">
+<author pid="m/ArturasMazeika">Arturas Mazeika</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="k/NickKoudas">Nick Koudas</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Estimating the selectivity of approximate string queries.</title>
+<pages>12</pages>
+<year>2007</year>
+<volume>32</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1242524.1242529</ee>
+<url>db/journals/tods/tods32.html#MazeikaBKS07</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasfaa/JorgensenB07" mdate="2017-05-26">
+<author pid="01/6871">Peter Sune J&#248;rgensen</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Versioned Relations: Support for Conditional Schema Changes and Schema Versioning.</title>
+<pages>1058-1061</pages>
+<year>2007</year>
+<crossref>conf/dasfaa/2007</crossref>
+<booktitle>DASFAA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-71703-4_104</ee>
+<url>db/conf/dasfaa/dasfaa2007.html#JorgensenB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gis/InnerebnerBT07" mdate="2019-10-19">
+<author pid="54/3311">Markus Innerebner</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="78/5835">Igor Timko</author>
+<title>A web-enabled extension of a spatio-temporal DBMS.</title>
+<pages>34</pages>
+<year>2007</year>
+<crossref>conf/gis/2007</crossref>
+<booktitle>GIS</booktitle>
+<ee>https://doi.org/10.1145/1341012.1341056</ee>
+<url>db/conf/gis/gis2007.html#InnerebnerBT07</url>
+</inproceedings>
+</r>
+<r><article key="journals/amai/BohlenGJ06" mdate="2022-12-07">
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>An algebraic framework for temporal attribute characteristics.</title>
+<pages>349-374</pages>
+<year>2006</year>
+<volume>46</volume>
+<journal>Ann. Math. Artif. Intell.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10472-006-9022-5</ee>
+<url>db/journals/amai/amai46.html#BohlenGJ06</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/LeoneHHBD06" mdate="2023-03-10">
+<author pid="81/4741">Stefania Leone</author>
+<author pid="318/5521">Ela Hunt</author>
+<author pid="h/ThomasBHodel">Thomas B. Hodel</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="d/KRDittrich">Klaus R. Dittrich</author>
+<title>Design and Implementation of a Document Database Extension.</title>
+<year>2006</year>
+<crossref>conf/adbis/2006l</crossref>
+<booktitle>ADBIS Research Communications</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-215/paper03.pdf</ee>
+<url>db/conf/adbis/adbis2006l.html#LeoneHHBD06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adbis/MazeikaPB06" mdate="2017-05-21">
+<author pid="m/ArturasMazeika">Arturas Mazeika</author>
+<author pid="74/1143">Janis Petersons</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>PPPA: Push and Pull Pedigree Analyzer for Large and Complex Pedigree Databases.</title>
+<pages>339-352</pages>
+<year>2006</year>
+<crossref>conf/adbis/2006</crossref>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/11827252_26</ee>
+<url>db/conf/adbis/adbis2006.html#MazeikaPB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cleandb/MazeikaB06" mdate="2020-03-12">
+<author pid="m/ArturasMazeika">Arturas Mazeika</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Cleansing Databases of Misspelled Proper Nouns.</title>
+<year>2006</year>
+<crossref>conf/cleandb/2006</crossref>
+<booktitle>CleanDB</booktitle>
+<ee type="oa">http://pike.psu.edu/cleandb06/papers/CameraReady_120.pdf</ee>
+<url>db/conf/cleandb/cleandb2006.html#MazeikaB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/KasperovicsB06" mdate="2017-05-26">
+<author pid="67/4705">Romans Kasperovics</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Querying Multi-granular Compact Representations.</title>
+<pages>111-124</pages>
+<year>2006</year>
+<crossref>conf/dasfaa/2006</crossref>
+<booktitle>DASFAA</booktitle>
+<ee>https://doi.org/10.1007/11733836_10</ee>
+<url>db/conf/dasfaa/dasfaa2006.html#KasperovicsB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/BohlenGJ06" mdate="2022-12-07">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Multi-dimensional Aggregation for Temporal Data.</title>
+<pages>257-275</pages>
+<year>2006</year>
+<crossref>conf/edbt/2006</crossref>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1007/11687238_18</ee>
+<url>db/conf/edbt/edbt2006.html#BohlenGJ06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/LeoneHBD06" mdate="2017-05-21">
+<author pid="81/4741">Stefania Leone</author>
+<author pid="h/ThomasBHodel">Thomas B. Hodel-Widmer</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="d/KRDittrich">Klaus R. Dittrich</author>
+<title>TeNDaX, a Collaborative Database-Based Real-Time Editor System.</title>
+<pages>1135-1138</pages>
+<year>2006</year>
+<crossref>conf/edbt/2006</crossref>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1007/11687238_76</ee>
+<url>db/conf/edbt/edbt2006.html#LeoneHBD06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ideas/BaltrunasMB06" mdate="2023-03-24">
+<author pid="79/3913">Linas Baltrunas</author>
+<author pid="m/ArturasMazeika">Arturas Mazeika</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Multi-dimensional Histograms with Tight Bounds for the Error.</title>
+<pages>105-112</pages>
+<year>2006</year>
+<crossref>conf/ideas/2006</crossref>
+<booktitle>IDEAS</booktitle>
+<ee>https://doi.org/10.1109/IDEAS.2006.31</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IDEAS.2006.31</ee>
+<url>db/conf/ideas/ideas2006.html#BaltrunasMB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jisbd/MartinBL06" mdate="2007-10-04">
+<author pid="m/CarmeMartin">Carme Mart&#237;n</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="51/4781">Carlos L&#243;pez</author>
+<title>Extending ATSQL to Support Temporally Dependent Information.</title>
+<pages>161-170</pages>
+<year>2006</year>
+<crossref>conf/jisbd/2006</crossref>
+<booktitle>JISBD</booktitle>
+<url>db/conf/jisbd/jisbd2006.html#MartinBL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/time/BohlenGJ06" mdate="2023-03-24">
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>How Would You Like to Aggregate Your Temporal Data?</title>
+<pages>121-136</pages>
+<year>2006</year>
+<crossref>conf/time/2006</crossref>
+<booktitle>TIME</booktitle>
+<ee>https://doi.org/10.1109/TIME.2006.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/TIME.2006.17</ee>
+<url>db/conf/time/time2006.html#BohlenGJ06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/AugstenBG06" mdate="2021-01-21">
+<author orcid="0000-0002-3036-6201" pid="76/3961">Nikolaus Augsten</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="59/6952">Johann Gamper</author>
+<title>An Incrementally Maintainable Index for Approximate Lookups in Hierarchical Data.</title>
+<pages>247-258</pages>
+<year>2006</year>
+<crossref>conf/vldb/2006</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1164150</ee>
+<ee type="oa">http://www.vldb.org/conf/2006/p247-augsten.pdf</ee>
+<url>db/conf/vldb/vldb2006.html#AugstenBG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/MazeikaBT06" mdate="2020-03-12">
+<author pid="m/ArturasMazeika">Arturas Mazeika</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="96/6362">Andrej Taliun</author>
+<title>Adaptive Density Estimation.</title>
+<pages>1191-1194</pages>
+<year>2006</year>
+<crossref>conf/vldb/2006</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1164241</ee>
+<ee type="oa">http://www.vldb.org/conf/2006/p1191-mazeika.pdf</ee>
+<url>db/conf/vldb/vldb2006.html#MazeikaBT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/AugstenBG05" mdate="2021-01-21">
+<author orcid="0000-0002-3036-6201" pid="76/3961">Nikolaus Augsten</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="59/6952">Johann Gamper</author>
+<title>Approximate Matching of Hierarchical Data Using pq-Grams.</title>
+<pages>301-312</pages>
+<year>2005</year>
+<crossref>conf/vldb/2005</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/archives/website/2005/program/paper/wed/p301-augsten.pdf</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1083630</ee>
+<url>db/conf/vldb/vldb2005.html#AugstenBG05</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/tcgov/2005" mdate="2019-09-09">
+<editor pid="b/MichaelHBohlen">Michael H. B&#246;hlen</editor>
+<editor pid="59/6952">Johann Gamper</editor>
+<editor pid="90/4224">Wolfgang Polasek</editor>
+<editor pid="w/MariaWimmer">Maria A. Wimmer</editor>
+<title>E-Government: Towards Electronic Democracy, International Conference, TCGOV 2005, Bolzano, Italy, March 2-4, 2005, Proceedings</title>
+<volume>3416</volume>
+<isbn>3-540-25016-6</isbn>
+<booktitle>TCGOV</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<year>2005</year>
+<ee>https://doi.org/10.1007/b106542</ee>
+<url>db/conf/tcgov/tcgov2005.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/bncod/BukauskasB04" mdate="2018-11-02">
+<author orcid="0000-0002-9781-9690" pid="54/673">Linas Bukauskas</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Incremental Observer Relative Data Extraction.</title>
+<pages>165-177</pages>
+<ee>https://doi.org/10.1007/978-3-540-27811-5_16</ee>
+<year>2004</year>
+<crossref>conf/bncod/2004</crossref>
+<booktitle>BNCOD</booktitle>
+<url>db/conf/bncod/bncod2004.html#BukauskasB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/egov/AugstenBG04" mdate="2017-05-22">
+<author pid="76/3961">Nikolaus Augsten</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="59/6952">Johann Gamper</author>
+<title>Reducing the Integration of Public Administration Databases to Approximate Tree Matching.</title>
+<pages>102-107</pages>
+<ee>https://doi.org/10.1007/978-3-540-30078-6_17</ee>
+<year>2004</year>
+<crossref>conf/egov/2004</crossref>
+<booktitle>EGOV</booktitle>
+<url>db/conf/egov/egov2004.html#AugstenBG04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/JensenB04" mdate="2017-05-25">
+<author pid="29/2643">Ole Guttorm Jensen</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Multitemporal Conditional Schema Evolution.</title>
+<pages>441-456</pages>
+<ee>https://doi.org/10.1007/978-3-540-30466-1_40</ee>
+<year>2004</year>
+<crossref>conf/er/2004w</crossref>
+<booktitle>ER (Workshops)</booktitle>
+<url>db/conf/er/erw2004.html#JensenB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/JensenB04a" mdate="2017-05-25">
+<author pid="29/2643">Ole Guttorm Jensen</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Lossless Conditional Schema Evolution.</title>
+<pages>610-623</pages>
+<ee>https://doi.org/10.1007/978-3-540-30464-7_46</ee>
+<year>2004</year>
+<crossref>conf/er/2004</crossref>
+<booktitle>ER</booktitle>
+<url>db/conf/er/er2004.html#JensenB04a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ideas/SchmidtB04" mdate="2023-03-24">
+<author pid="s/AlbrechtSchmidt2">Albrecht Schmidt 0002</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Parameter Estimation Using B-Trees.</title>
+<pages>325-333</pages>
+<year>2004</year>
+<crossref>conf/ideas/2004</crossref>
+<booktitle>IDEAS</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IDEAS.2004.47</ee>
+<url>db/conf/ideas/ideas2004.html#SchmidtB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ideas/BukauskasB04" mdate="2023-03-24">
+<author pid="54/673">Linas Bukauskas</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Query Load Balancing for Incremental Visible Object Extraction.</title>
+<pages>344-353</pages>
+<year>2004</year>
+<crossref>conf/ideas/2004</crossref>
+<booktitle>IDEAS</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IDEAS.2004.54</ee>
+<url>db/conf/ideas/ideas2004.html#BukauskasB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/time/Bohlen04" mdate="2023-03-24">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Toward a Unifying View of Point and Interval Temporal Data Model.</title>
+<pages>3-4</pages>
+<year>2004</year>
+<crossref>conf/time/2004</crossref>
+<booktitle>TIME</booktitle>
+<ee>https://doi.org/10.1109/TIME.2004.1314410</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/TIME.2004.1314410</ee>
+<url>db/conf/time/time2004.html#Bohlen04</url>
+</inproceedings>
+</r>
+<r><article key="journals/csda/BohlenBELMMM03" mdate="2020-02-18">
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-9781-9690" pid="54/673">Linas Bukauskas</author>
+<author pid="23/5094">Poul Svante Eriksen</author>
+<author orcid="0000-0001-7176-6212" pid="97/2046">Steffen L. Lauritzen</author>
+<author pid="m/ArturasMazeika">Arturas Mazeika</author>
+<author orcid="0000-0001-6062-055X" pid="89/3992">Peter Musaeus</author>
+<author pid="08/6860">Peer Mylov</author>
+<title>3D visual data mining - goals and experiences.</title>
+<pages>445-469</pages>
+<year>2003</year>
+<volume>43</volume>
+<journal>Comput. Stat. Data Anal.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/S0167-9473(02)00287-6</ee>
+<ee>https://www.wikidata.org/entity/Q57394023</ee>
+<url>db/journals/csda/csda43.html#BohlenBELMMM03</url>
+</article>
+</r>
+<r><article key="journals/is/AkindeBJLS03" mdate="2019-10-19">
+<author pid="06/6157">Michael O. Akinde</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="j/TheodoreJohnson">Theodore Johnson</author>
+<author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Efficient OLAP query processing in distributed data warehouses.</title>
+<pages>111-135</pages>
+<year>2003</year>
+<volume>28</volume>
+<journal>Inf. Syst.</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1016/S0306-4379(02)00051-0</ee>
+<url>db/journals/is/is28.html#AkindeBJLS03</url>
+</article>
+</r>
+<r><inproceedings key="conf/chorochronos/GutingBEJLNSV03" mdate="2022-12-07">
+<author pid="g/RHGuting">Ralf Hartmut G&#252;ting</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="e/MErwig">Martin Erwig</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="26/1286">Nikos A. Lorentzos</author>
+<author pid="n/EnricoNardelli">Enrico Nardelli</author>
+<author pid="s/MarkusSchneider1">Markus Schneider 0001</author>
+<author pid="76/6288">Jos&#233; Ramon Rios Viqueira</author>
+<title>Spatio-temporal Models and Languages: An Approach Based on Data Types.</title>
+<pages>117-176</pages>
+<ee>https://doi.org/10.1007/978-3-540-45081-8_4</ee>
+<year>2003</year>
+<crossref>conf/chorochronos/2003</crossref>
+<booktitle>Spatio-Temporal Databases: The CHOROCHRONOS Approach</booktitle>
+<url>db/conf/chorochronos/chorochronos2003.html#GutingBEJLNSV03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chorochronos/BreunigTBDGJRRSS03" mdate="2022-12-07">
+<author pid="b/MartinBreunig">Martin Breunig</author>
+<author pid="t/CanTurker">Can T&#252;rker</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="20/3912">Stefan Dieker</author>
+<author pid="g/RHGuting">Ralf Hartmut G&#252;ting</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="r/LukasRelly">Lukas Relly</author>
+<author pid="r/PRigaux">Philippe Rigaux</author>
+<author pid="s/HansJorgSchek">Hans-J&#246;rg Schek</author>
+<author pid="s/MichelScholl">Michel Scholl</author>
+<title>Architectures and Implementations of Spatio-temporal Database Management Systems.</title>
+<pages>263-318</pages>
+<ee>https://doi.org/10.1007/978-3-540-45081-8_7</ee>
+<year>2003</year>
+<crossref>conf/chorochronos/2003</crossref>
+<booktitle>Spatio-Temporal Databases: The CHOROCHRONOS Approach</booktitle>
+<url>db/conf/chorochronos/chorochronos2003.html#BreunigTBDGJRRSS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/BukauskasMO03" mdate="2018-11-06">
+<author orcid="0000-0002-9781-9690" pid="54/673">Linas Bukauskas</author>
+<author pid="03/5097">Leo Mark</author>
+<author pid="o/EdwardOmiecinski">Edward Omiecinski</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>iTopN: incremental extraction of the N most visible objects.</title>
+<pages>461-468</pages>
+<year>2003</year>
+<crossref>conf/cikm/2003</crossref>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/956863.956949</ee>
+<url>db/conf/cikm/cikm2003.html#BukauskasMO03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AkindeB03" mdate="2023-03-23">
+<author pid="06/6157">Michael O. Akinde</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Efficient Computation of Subqueries in Complex OLAP.</title>
+<pages>163-174</pages>
+<ee>https://doi.org/10.1109/ICDE.2003.1260790</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2003.1260790</ee>
+<year>2003</year>
+<crossref>conf/icde/2003</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2003.html#AkindeB03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/advis/JensenB02" mdate="2017-05-24">
+<author pid="29/2643">Ole Guttorm Jensen</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Current, Legacy, and Invalid Tuples in Conditionally Evolving Databases.</title>
+<pages>65-82</pages>
+<year>2002</year>
+<crossref>conf/advis/2002</crossref>
+<booktitle>ADVIS</booktitle>
+<ee>https://doi.org/10.1007/3-540-36077-8_7</ee>
+<url>db/conf/advis/advis2002.html#JensenB02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/AkindeBJLS02" mdate="2017-05-21">
+<author pid="06/6157">Michael O. Akinde</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="j/TheodoreJohnson">Theodore Johnson</author>
+<author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Efficient OLAP Query Processing in Distributed Data Warehouses.</title>
+<pages>336-353</pages>
+<year>2002</year>
+<crossref>conf/edbt/2002</crossref>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1007/3-540-45876-X_23</ee>
+<url>db/conf/edbt/edbt2002.html#AkindeBJLS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AkindJLS02" mdate="2023-03-24">
+<author pid="06/6157">Michael O. Akinde</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="j/TheodoreJohnson">Theodore Johnson</author>
+<author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Efficient OLAP Query Processing in Distributed Data Warehouse.</title>
+<pages>262</pages>
+<year>2002</year>
+<crossref>conf/icde/2002</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2002.994716</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2002.994716</ee>
+<url>db/conf/icde/icde2002.html#AkindJLS02</url>
+</inproceedings>
+</r>
+<r><incollection key="reference/ap/BohlenJ02" mdate="2020-04-17">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Temporal Data Model and Query Language Concepts.</title>
+<pages>437-453</pages>
+<year>2002</year>
+<booktitle>Encyclopedia of Information Systems</booktitle>
+<ee>https://doi.org/10.1016/b0-12-227240-4/00184-2</ee>
+<crossref>reference/ap/2002is</crossref>
+<url>db/reference/ap/is2002.html#BohlenJ02</url>
+</incollection>
+</r>
+<r><article key="journals/jodi/DyresonBJ01" mdate="2022-05-24">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>MetaXPath.</title>
+<year>2001</year>
+<volume>2</volume>
+<journal>J. Digit. Inf.</journal>
+<number>2</number>
+<ee type="oa">https://journals.tdl.org/jodi/index.php/jodi/article/view/41</ee>
+<url>db/journals/jodi/jodi2.html#DyresonBJ01</url>
+</article>
+</r>
+<r><article key="journals/tods/ChomickiTB01" mdate="2022-11-05">
+<author pid="c/JChomicki">Jan Chomicki</author>
+<author pid="t/DavidToman">David Toman 0001</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Querying ATSQL databases with temporal logic.</title>
+<pages>145-178</pages>
+<year>2001</year>
+<volume>26</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/383891.383892</ee>
+<url>db/journals/tods/tods26.html#ChomickiTB01</url>
+</article>
+</r>
+<r><inproceedings key="conf/dbtel/AkindeB01" mdate="2017-05-26">
+<author pid="06/6157">Michael O. Akinde</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Generalized MD-Joins: Evaluation and Reduction to SQL.</title>
+<pages>52-67</pages>
+<year>2001</year>
+<crossref>conf/dbtel/2001</crossref>
+<booktitle>Databases in Telecommunications</booktitle>
+<ee>https://doi.org/10.1007/3-540-45432-2_5</ee>
+<url>db/conf/dbtel/dbtel2001.html#AkindeB01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dc/DyresonBJ01" mdate="2021-02-10">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>MetaXPath.</title>
+<pages>17-23</pages>
+<year>2001</year>
+<crossref>conf/dc/2001</crossref>
+<booktitle>Dublin Core Conference</booktitle>
+<ee type="oa">http://dcpapers.dublincore.org/pubs/article/view/644</ee>
+<url>db/conf/dc/dc2001.html#DyresonBJ01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AgesenBPT01" mdate="2023-03-24">
+<author orcid="0000-0003-4416-523X" pid="74/5210">Mikkel Agesen</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="46/5182">Lasse Poulsen</author>
+<author pid="t/KristianTorp">Kristian Torp</author>
+<title>A Split Operator for Now-Relative Bitemporal Databases.</title>
+<year>2001</year>
+<crossref>conf/icde/2001</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2001.html#AgesenBPT01</url>
+<pages>41-50</pages>
+<ee>https://doi.org/10.1109/ICDE.2001.914812</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2001.914812</ee>
+</inproceedings>
+</r>
+<r><article key="journals/tods/GutingBEJLSV00" mdate="2022-12-07">
+<author pid="g/RHGuting">Ralf Hartmut G&#252;ting</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="e/MErwig">Martin Erwig</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="26/1286">Nikos A. Lorentzos</author>
+<author pid="s/MarkusSchneider1">Markus Schneider 0001</author>
+<author pid="v/MVazirgiannis">Michalis Vazirgiannis</author>
+<title>A foundation for representing and querying moving objects.</title>
+<pages>1-42</pages>
+<year>2000</year>
+<volume>25</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/352958.352963</ee>
+<url>db/journals/tods/tods25.html#GutingBEJLSV00</url>
+</article>
+</r>
+<r><article key="journals/tods/BohlenJS00" mdate="2003-11-19">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>Temporal statement modifiers.</title>
+<pages>407-456</pages>
+<year>2000</year>
+<volume>25</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>http://portal.acm.org/citation.cfm?id=377674.377665</ee>
+<url>db/journals/tods/tods25.html#BohlenJS00</url>
+</article>
+</r>
+<r><inproceedings key="conf/fmldo/JensenB00" mdate="2019-10-19">
+<author pid="29/2643">Ole Guttorm Jensen</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Evolving Relations.</title>
+<pages>115-132</pages>
+<year>2000</year>
+<crossref>conf/fmldo/2000</crossref>
+<booktitle>FMLDO</booktitle>
+<ee>https://doi.org/10.1007/3-540-48196-6_7</ee>
+<url>db/conf/fmldo/fmldo2000.html#JensenB00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dmdw/AkindeB99" mdate="2023-03-10">
+<author pid="06/6157">Michael O. Akinde</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Constructing GPSJ View Graphs.</title>
+<pages>8</pages>
+<year>1999</year>
+<crossref>conf/dmdw/1999</crossref>
+<booktitle>DMDW</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-19/paper8.pdf</ee>
+<url>db/conf/dmdw/dmdw1999.html#AkindeB99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BohlenBD99" mdate="2021-04-09">
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-9781-9690" pid="54/673">Linas Bukauskas</author>
+<author orcid="0000-0003-0236-1515" pid="d/CEDyreson">Curtis E. Dyreson</author>
+<title>The Jungle Database Search Engine.</title>
+<pages>584-586</pages>
+<year>1999</year>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod99.html#BohlenBD99</url>
+<crossref>conf/sigmod/99</crossref>
+<ee>https://doi.org/10.1145/304182.304585</ee>
+<ee>https://doi.org/10.1145/304181.304585</ee>
+<cdrom>DiSC2_1/out/papers/sigmod/thejungledatabamilic.pdf</cdrom>
+<cite label="HCF97">...</cite>
+<cite label="LG98">...</cite>
+<cite label="LSS93">conf/dood/LakshmananSS93</cite>
+<cite label="Mot86">journals/tois/Motro86</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/DyresonBJ99" mdate="2020-03-12">
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Capturing and Querying Multiple Aspects of Semistructured Data.</title>
+<pages>290-301</pages>
+<year>1999</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb99.html#DyresonBJ99</url>
+<crossref>conf/vldb/99</crossref>
+<ee type="oa">http://www.vldb.org/conf/1999/P30.pdf</ee>
+<cite>conf/dexa/AggarwalKM94</cite>
+<cite>conf/icde/ArocenaM98</cite>
+<cite>journals/jodl/AbiteboulQMWW97</cite>
+<cite>...</cite>
+<cite>conf/vldb/BohlenSS96</cite>
+<cite>conf/dbpl/BunemanDS95</cite>
+<cite>conf/sigmod/BunemanDHS96</cite>
+<cite>conf/pods/Buneman97</cite>
+<cite>...</cite>
+<cite>conf/icde/ChawatheAW98</cite>
+<cite>books/aw/CastanoFMS95</cite>
+<cite>...</cite>
+<cite>journals/sigmod/FernandezFLS97</cite>
+<cite>journals/sigmod/FlorescuLM98</cite>
+<cite>conf/vldb/GoldmanW97</cite>
+<cite>conf/webdb/GoldmanW98</cite>
+<cite>...</cite>
+<cite>conf/dagstuhl/JensenDBCEGGHJKKLMMNPPRSSSSSTTW97</cite>
+<cite>journals/is/LudascherHLMS98</cite>
+<cite>...</cite>
+<cite>journals/sigmod/McHughAGQW97</cite>
+<cite>conf/icdt/MiloS99</cite>
+<cite>journals/sigmod/NestorovAM97</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><proceedings key="conf/stdbm/1999" mdate="2019-05-14">
+<editor pid="b/MichaelHBohlen">Michael H. B&#246;hlen</editor>
+<editor pid="j/ChristianSJensen">Christian S. Jensen</editor>
+<editor pid="s/MichelScholl">Michel Scholl</editor>
+<title>Spatio-Temporal Database Management, International Workshop STDBM'99, Edinburgh, Scotland, September 10-11, 1999, Proceedings</title>
+<booktitle>STDBM</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>1678</volume>
+<publisher>Springer</publisher>
+<year>1999</year>
+<isbn>3-540-66401-7</isbn>
+<ee>https://doi.org/10.1007/3-540-48344-6</ee>
+<url>db/conf/stdbm/stdbm99.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/edbt/AkindeJB98" mdate="2017-05-23">
+<ee>https://doi.org/10.1007/BFb0100992</ee>
+<author pid="06/6157">Michael O. Akinde</author>
+<author pid="29/2643">Ole Guttorm Jensen</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Minimizing Detail Data in Data Warehouses.</title>
+<pages>293-307</pages>
+<cdrom>EDBT/1998/13770293.pdf</cdrom>
+<year>1998</year>
+<crossref>conf/edbt/98</crossref>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt98.html#AkindeJB98</url>
+<cite>...</cite>
+<cite>journals/tods/BlakeleyCL89</cite>
+<cite>conf/vldb/CeriW91</cite>
+<cite>conf/vldb/GuptaHQ95</cite>
+<cite>conf/edbt/GuptaJM96</cite>
+<cite>conf/sigmod/GriffinL95</cite>
+<cite>conf/sigmod/GuptaMS93</cite>
+<cite>conf/deductive/HarrisonD92</cite>
+<cite>conf/sigmod/HullZ96</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>books/wi/Kimball96</cite>
+<cite>conf/sigmod/MumickQM97</cite>
+<cite>conf/pdis/QuassGMW96</cite>
+<cite>conf/views/Quass96</cite>
+<cite>conf/icde/SegevF90</cite>
+<cite>...</cite>
+<cite>journals/tkde/SegevP89</cite>
+<cite>conf/cikm/Widom95</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BohlenBJ98" mdate="2023-03-24">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="65/1690">Renato Busatto</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<title>Point-Versus Interval-Based Temporal Data Models.</title>
+<pages>192-200</pages>
+<cdrom>ICDE98/P192.pdf</cdrom>
+<year>1998</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde98.html#BohlenBJ98</url>
+<crossref>conf/icde/98</crossref>
+<ee>https://doi.org/10.1109/ICDE.1998.655777</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.1998.655777</ee>
+<cite>journals/jcss/AbiteboulHB99</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/vldb/BohlenSS96</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/pods/Gadia86</cite>
+<cite>journals/tods/Gadia88</cite>
+<cite>journals/is/JensenSS94</cite>
+<cite>journals/tkde/LorentzosM97</cite>
+<cite>books/mk/MeltonS93</cite>
+<cite>journals/tods/Snodgrass87</cite>
+<cite>books/kl/Snodgrass95</cite>
+<cite>books/bc/TanselCGJSS93</cite>
+<cite>conf/pods/Toman96</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/BohlenJS98" mdate="2022-12-07">
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="93/2836">Bj&#248;rn Skjellaug</author>
+<title>Spatio-temporal database support for legacy applications.</title>
+<pages>226-234</pages>
+<year>1998</year>
+<crossref>conf/sac/1998</crossref>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/330560.330675</ee>
+<url>db/conf/sac/sac1998.html#BohlenJS98</url>
+</inproceedings>
+</r>
+<r><article key="journals/wi/BairBJS97" mdate="2021-06-15">
+<author pid="34/3303">John Bair</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>Notions of Upward Compatibility of Temporal Query Languages.</title>
+<pages>25-34</pages>
+<year>1997</year>
+<volume>39</volume>
+<journal>Wirtschaftsinf.</journal>
+<number>1</number>
+<url>db/journals/wi/wi39.html#BairBJS97</url>
+</article>
+</r>
+<r><inproceedings key="conf/dagstuhl/SnodgrassBJS97" mdate="2019-08-07">
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="s/AndreasSteiner">Andreas Steiner</author>
+<title>Transitioning Temporal Support in TSQL2 to SQL3.</title>
+<pages>150-194</pages>
+<year>1997</year>
+<crossref>conf/dagstuhl/TDB97</crossref>
+<booktitle>Temporal Databases, Dagstuhl</booktitle>
+<url>db/conf/dagstuhl/dagstuhl-tdb97.html#SnodgrassBJS97</url>
+<ee>https://doi.org/10.1007/BFb0053702</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dagstuhl/JensenDBCEGGHJKKLMMNPPRSSSSSTTW97" mdate="2022-12-07">
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="d/CEDyreson">Curtis E. Dyreson</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="11/3810">James Clifford</author>
+<author pid="e/RamezElmasri">Ramez Elmasri</author>
+<author pid="g/ShashiKGadia">Shashi K. Gadia</author>
+<author pid="268/3862-1">Fabio Grandi 0001</author>
+<author orcid="0000-0002-6639-9187" pid="11/719">Patrick J. Hayes</author>
+<author pid="j/SushilJajodia">Sushil Jajodia</author>
+<author pid="25/3777">Wolfgang K&#228;fer</author>
+<author pid="k/NickKline">Nick Kline</author>
+<author pid="26/1286">Nikos A. Lorentzos</author>
+<author pid="23/2367">Yannis G. Mitsopoulos</author>
+<author pid="68/27">Angelo Montanari</author>
+<author pid="99/1770">Daniel A. Nonen</author>
+<author pid="84/3591">Elisa Peressi</author>
+<author pid="p/BarbaraPernici">Barbara Pernici</author>
+<author pid="r/JohnFRoddick">John F. Roddick</author>
+<author pid="s/NandlalLSarda">Nandlal L. Sarda</author>
+<author pid="s/MariaRitaScalas">Maria Rita Scalas</author>
+<author pid="s/ArieSegev">Arie Segev</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<author pid="08/6667">Michael D. Soo</author>
+<author pid="10/3450">Abdullah Uz Tansel</author>
+<author pid="t/PaoloTiberio">Paolo Tiberio</author>
+<author pid="w/GioWiederhold">Gio Wiederhold</author>
+<title>The Consensus Glossary of Temporal Database Concepts - February 1998 Version.</title>
+<pages>367-405</pages>
+<year>1997</year>
+<crossref>conf/dagstuhl/TDB97</crossref>
+<booktitle>Temporal Databases, Dagstuhl</booktitle>
+<url>db/conf/dagstuhl/dagstuhl-tdb97.html#JensenDBCEGGHJKKLMMNPPRSSSSSTTW97</url>
+<ee>https://doi.org/10.1007/BFb0053710</ee>
+<ee>https://www.wikidata.org/entity/Q56580010</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/TorpJB97" mdate="2012-09-13">
+<author pid="t/KristianTorp">Kristian Torp</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Layered Temporal DBMS: Concepts and Techniques.</title>
+<pages>371-380</pages>
+<year>1997</year>
+<booktitle>DASFAA</booktitle>
+<url>db/conf/dasfaa/dasfaa97.html#TorpJB97</url>
+<crossref>conf/dasfaa/97</crossref>
+<cdrom>DASFAA97/P371.pdf</cdrom>
+<cite>journals/isci/AhnS89</cite>
+<cite>phd/Bohlen94</cite>
+<cite>...</cite>
+<cite>conf/tdb/BohlenJS95</cite>
+<cite>conf/tdb/95</cite>
+<cite>conf/tdb/DaviesLHC95</cite>
+<cite>...</cite>
+<cite>books/mk/GrayR93</cite>
+<cite>conf/tdb/LeungP95</cite>
+<cite>books/mk/MeltonS93</cite>
+<cite>...</cite>
+<cite>conf/pdis/Salzberg94</cite>
+<cite>...</cite>
+<cite>journals/tods/Snodgrass87</cite>
+<cite>journals/computer/SnodgrassA86</cite>
+<cite>...</cite>
+<cite>books/kl/Snodgrass95</cite>
+<cite>journals/cacm/StonebrakerK91</cite>
+<cite>books/bc/TanselCGJSS93</cite>
+<cite>conf/tdb/VassilakisLG95</cite>
+<cite>books/mk/ZdonikM90</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/BohlenCST96" mdate="2022-11-05">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="c/JChomicki">Jan Chomicki</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<author pid="t/DavidToman">David Toman 0001</author>
+<title>Querying TSQL2 Databases with Temporal Logic.</title>
+<pages>325-341</pages>
+<cdrom>EDBT96/P325.pdf</cdrom>
+<year>1996</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt96.html#BohlenCST96</url>
+<crossref>conf/edbt/96</crossref>
+<ee>https://doi.org/10.1007/BFb0014161</ee>
+<cite label="AHV95">books/aw/AbiteboulHV95</cite>
+<cite label="AHVdB95">journals/jcss/AbiteboulHB99</cite>
+<cite label="All83">journals/cacm/Allen83</cite>
+<cite label="BJS95">...</cite>
+<cite label="CC87">conf/icde/CliffordC87</cite>
+<cite label="CCT94">journals/tods/CliffordC94</cite>
+<cite label="Cho94">...</cite>
+<cite label="Cho95">journals/tods/Chomicki95</cite>
+<cite label="CT95">journals/tkde/ChomickiT95</cite>
+<cite label="EN94">books/bc/ElmasriN94</cite>
+<cite label="Gad88">journals/tods/Gadia88</cite>
+<cite label="GHR94">...</cite>
+<cite label="GL93">conf/icde/GertzL93</cite>
+<cite label="GM91">conf/vldb/GabbayM91</cite>
+<cite label="GN93">books/bc/tanselCGSS93/GadiaN93</cite>
+<cite label="JCE+94">journals/sigmod/JensenCEGHJ94</cite>
+<cite label="Klu82">journals/jacm/Klug82</cite>
+<cite label="LM93">books/bc/tanselCGSS93/LeungM93</cite>
+<cite label="LS87">journals/is/LipeckS87</cite>
+<cite label="MS93">books/mk/MeltonS93</cite>
+<cite label="NA93">books/bc/tanselCGSS93/NavatheA93</cite>
+<cite label="Sar90">journals/tkde/Sarda90</cite>
+<cite label="Sar93">books/bc/tanselCGSS93/Sadra93</cite>
+<cite label="Sno87">journals/tods/Snodgrass87</cite>
+<cite label="Sno95">books/kl/Snodgrass95</cite>
+<cite label="SW95">journals/tkde/SistlaW95</cite>
+<cite label="Tan86">journals/is/Tansel86</cite>
+<cite label="Tom95">...</cite>
+<cite label="TN96">conf/edbt/TomanN96</cite>
+<cite label="TC90">conf/vldb/TuzhilinC90</cite>
+<cite label="VGT91">journals/tods/GelderT91</cite>
+<cite label="W&#252;t91">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/BohlenSS96" mdate="2012-09-17">
+<crossref>conf/vldb/96</crossref>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<author pid="08/6667">Michael D. Soo</author>
+<title>Coalescing in Temporal Databases.</title>
+<pages>180-191</pages>
+<year>1996</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb96.html#BohlenSS96</url>
+<ee>http://www.vldb.org/conf/1996/P180.PDF</ee>
+<cite label="B&#246;h94">phd/Bohlen94</cite>
+<cite label="BSS96">...</cite>
+<cite label="BD83">journals/tods/BittonD83</cite>
+<cite label="Cel95">books/mk/Celko95</cite>
+<cite label="DKO+84">conf/sigmod/DeWittKOSSW84</cite>
+<cite label="DNS91">conf/vldb/DeWittNS91</cite>
+<cite label="Gad88">journals/tods/Gadia88</cite>
+<cite label="GLS94">journals/tkde/GraefeLS94</cite>
+<cite label="Gra93">journals/csur/Graefe93</cite>
+<cite label="Hel94">conf/sigmod/Hellerstein94</cite>
+<cite label="HS93">conf/sigmod/HellersteinS93</cite>
+<cite label="JCE+94">journals/sigmod/JensenCEGHJ94</cite>
+<cite label="KS95">...</cite>
+<cite label="KSL95">books/kl/snodgrass95/KlineSL95</cite>
+<cite label="LJ88">journals/is/LorentzosJ88</cite>
+<cite label="LM90">conf/icde/LeungM90</cite>
+<cite label="LM92">conf/vldb/LeungM92</cite>
+<cite label="Lor93">...</cite>
+<cite label="LP95">conf/tdb/LeungP95</cite>
+<cite label="McK88">phd/McKenzie88</cite>
+<cite label="Mel96">...</cite>
+<cite label="MS91">journals/csur/McKenzieS91</cite>
+<cite label="MS93">books/mk/MeltonS93</cite>
+<cite label="O'N94">books/mk/ONeil94</cite>
+<cite label="PL94">conf/icde/PaulleyL94</cite>
+<cite label="SJS95">books/kl/snodgrass95/SooJS95</cite>
+<cite label="Sno87">journals/tods/Snodgrass87</cite>
+<cite label="Sno95">books/kl/Snodgrass95</cite>
+<cite label="Sri91">phd/Sripada91</cite>
+<cite label="SSD87">conf/bncod/SadeghiSD88</cite>
+<cite label="SSJ94">conf/icde/SooSJ94</cite>
+<cite label="Tan86">journals/is/Tansel86</cite>
+<cite label="TCG+93">books/bc/TanselCGJSS93</cite>
+<cite label="Ull88">books/cs/Ullman88</cite>
+<cite label="YL94">conf/icde/YanL94</cite>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/Bohlen95" mdate="2020-03-06">
+<ee>https://doi.org/10.1145/219713.219758</ee>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Temporal Database System Implementations.</title>
+<pages>53-60</pages>
+<cdrom>sigmodR/24-4/P053.pdf</cdrom>
+<year>1995</year>
+<volume>24</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<url>db/journals/sigmod/sigmod24.html#Bohlen95</url>
+</article>
+</r>
+<r><inproceedings key="conf/tdb/BohlenJS95" mdate="2019-06-24">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<title>Evaluating the Completeness of TSQL2</title>
+<pages>153-172</pages>
+<crossref>conf/tdb/95</crossref>
+<booktitle>Temporal Databases</booktitle>
+<year>1995</year>
+<url>db/conf/tdb/tdb95.html#BohlenJS95</url>
+<ee>https://doi.org/10.1007/978-1-4471-3033-8_9</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tdb/CliffordJSBDS95" mdate="2019-06-24">
+<author pid="11/3810">James Clifford</author>
+<author pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="81/5475">Hasan Dewan</author>
+<author pid="92/6489">Duri Schmidt</author>
+<title>Panel: The State-of-the-Art in Temporal Data Management: Perspectives from the Research and Financial Applications Communities</title>
+<pages>356-357</pages>
+<crossref>conf/tdb/95</crossref>
+<booktitle>Temporal Databases</booktitle>
+<year>1995</year>
+<url>db/conf/tdb/tdb95.html#CliffordJSBDS95</url>
+<ee>https://doi.org/10.1007/978-1-4471-3033-8_20</ee>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/Bohlen94" mdate="2002-01-03">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>The Temporal Deductive Database System ChronoLog</title>
+<year>1994</year>
+<school>Departement Informatik, ETH Z&#252;rich</school>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/ictl/BohlenM94" mdate="2017-05-17">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="31/2440">Robert W. Marti</author>
+<title>On the Completeness of Temporal Database Query Languages.</title>
+<pages>283-300</pages>
+<year>1994</year>
+<crossref>conf/ictl/1994</crossref>
+<booktitle>ICTL</booktitle>
+<url>db/conf/ictl/ictl1994.html#BohlenM94</url>
+<ee>https://doi.org/10.1007/BFb0013994</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/BohlenM93" mdate="2019-06-25">
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="31/2440">Robert W. Marti</author>
+<title>Handling Temporal Knowledge in a Deductive Database System.</title>
+<pages>334-345</pages>
+<year>1993</year>
+<crossref>conf/btw/93</crossref>
+<booktitle>BTW</booktitle>
+<url>db/conf/btw/btw93.html#BohlenM93</url>
+<ee>https://doi.org/10.1007/978-3-642-86096-6_23</ee>
+</inproceedings>
+</r>
+<coauthors n="139" nc="3">
+<co c="0"><na f="a/Agesen:Mikkel" pid="74/5210">Mikkel Agesen</na></co>
+<co c="0"><na f="a/Akinde:Michael_O=" pid="06/6157">Michael O. Akinde</na></co>
+<co c="0"><na f="a/Ammendola:Christian" pid="133/5726">Christian Ammendola</na></co>
+<co c="0"><na f="a/Anderson:Jay_Martin" pid="95/7787">Jay Martin Anderson</na></co>
+<co c="0"><na f="a/Augsten:Nikolaus" pid="76/3961">Nikolaus Augsten</na></co>
+<co c="0"><na f="b/Bair:John" pid="34/3303">John Bair</na></co>
+<co c="0"><na f="b/Baltrunas:Linas" pid="79/3913">Linas Baltrunas</na></co>
+<co c="0"><na f="b/Barbosa_0001:Denilson" pid="b/DBarbosa">Denilson Barbosa 0001</na></co>
+<co c="0"><na f="b/Bernstein:Abraham" pid="b/AbrahamBernstein">Abraham Bernstein</na></co>
+<co c="1"><na f="b/Bracher:Annelies" pid="169/3495">Annelies Bracher</na></co>
+<co c="0"><na f="b/Breunig:Martin" pid="b/MartinBreunig">Martin Breunig</na></co>
+<co c="0"><na f="b/Bukauskas:Linas" pid="54/673">Linas Bukauskas</na></co>
+<co c="0"><na f="b/Busatto:Renato" pid="65/1690">Renato Busatto</na></co>
+<co c="0"><na f="c/Cadonna:Bruno" pid="21/7338">Bruno Cadonna</na></co>
+<co c="1"><na f="c/Cafagna:Francesco" pid="169/3500">Francesco Cafagna</na></co>
+<co c="0"><na f="c/Chatziantoniou:Damianos" pid="c/DChatziantoniou">Damianos Chatziantoniou</na></co>
+<co c="0"><na f="c/Chen:Qing" pid="14/928">Qing Chen</na></co>
+<co c="0"><na f="c/Chomicki:Jan" pid="c/JChomicki">Jan Chomicki</na></co>
+<co c="0"><na f="c/Christopeit:Dietrich" pid="41/5452">Dietrich Christopeit</na></co>
+<co c="0"><na f="c/Clifford:James" pid="11/3810">James Clifford</na></co>
+<co c="0"><na f="c/Cometti:Willi" pid="51/10440">Willi Cometti</na></co>
+<co c="0"><na f="c/Cudr=eacute==Mauroux:Philippe" pid="71/5578">Philippe Cudr&#233;-Mauroux</na></co>
+<co c="0"><na f="d/Dell=Aglio:Daniele" pid="57/8026">Daniele Dell'Aglio</na></co>
+<co c="0"><na f="d/Dewan:Hasan" pid="81/5475">Hasan Dewan</na></co>
+<co c="0"><na f="d/Dieker:Stefan" pid="20/3912">Stefan Dieker</na></co>
+<co c="0"><na f="d/Dign=ouml=s:Anton" pid="96/11411">Anton Dign&#246;s</na></co>
+<co c="0"><na f="d/Dittrich:Klaus_R=" pid="d/KRDittrich">Klaus R. Dittrich</na></co>
+<co c="0"><na f="d/Dolmatova:Oksana" pid="262/6401">Oksana Dolmatova</na></co>
+<co c="0"><na f="d/Dyreson:Curtis_E=" pid="d/CEDyreson">Curtis E. Dyreson</na></co>
+<co c="0"><na f="e/Elmasri:Ramez" pid="e/RamezElmasri">Ramez Elmasri</na></co>
+<co c="0"><na f="e/Eriksen:Poul_Svante" pid="23/5094">Poul Svante Eriksen</na></co>
+<co c="0"><na f="e/Erwig:Martin" pid="e/MErwig">Martin Erwig</na></co>
+<co c="0"><na f="g/Gadia:Shashi_K=" pid="g/ShashiKGadia">Shashi K. Gadia</na></co>
+<co c="0"><na f="g/Gamper:Johann" pid="59/6952">Johann Gamper</na></co>
+<co c="0"><na f="g/Glavic:Boris" pid="09/3012">Boris Glavic</na></co>
+<co c="0"><na f="g/Gordevicius:Juozas" pid="86/885">Juozas Gordevicius</na></co>
+<co c="0"><na f="g/Grandi_0001:Fabio" pid="268/3862-1">Fabio Grandi 0001</na></co>
+<co c="0"><na f="g/G=uuml=ting:Ralf_Hartmut" pid="g/RHGuting">Ralf Hartmut G&#252;ting</na></co>
+<co c="0"><na f="h/Hayes:Patrick_J=" pid="11/719">Patrick J. Hayes</na></co>
+<co c="0"><na f="h/Helmer:Sven" pid="h/SvenHelmer">Sven Helmer</na></co>
+<co c="0" n="2"><na f="h/Hodel=Widmer:Thomas_B=" pid="h/ThomasBHodel">Thomas B. Hodel-Widmer</na><na>Thomas B. Hodel</na></co>
+<co c="0"><na f="h/Hose:Katja" pid="h/KatjaHose">Katja Hose</na></co>
+<co c="0"><na f="i/Innerebner:Markus" pid="54/3311">Markus Innerebner</na></co>
+<co c="0"><na f="j/Jajodia:Sushil" pid="j/SushilJajodia">Sushil Jajodia</na></co>
+<co c="0"><na f="j/Jensen:Christian_S=" pid="j/ChristianSJensen">Christian S. Jensen</na></co>
+<co c="0"><na f="j/Jensen:Ole_Guttorm" pid="29/2643">Ole Guttorm Jensen</na></co>
+<co c="0"><na f="j/Jessica:Jessica" pid="325/9489">Jessica Jessica</na></co>
+<co c="0"><na f="j/Johnson:Theodore" pid="j/TheodoreJohnson">Theodore Johnson</na></co>
+<co c="-1"><na f="j/J=oslash=rgensen:Peter_Sune" pid="01/6871">Peter Sune J&#248;rgensen</na></co>
+<co c="0"><na f="k/K=auml=fer:Wolfgang" pid="25/3777">Wolfgang K&#228;fer</na></co>
+<co c="0"><na f="k/Kanne:Carl=Christian" pid="k/CarlChristianKanne">Carl-Christian Kanne</na></co>
+<co c="0"><na f="k/Kasperovics:Romans" pid="67/4705">Romans Kasperovics</na></co>
+<co c="0"><na f="k/Khayati:Mourad" pid="90/4017">Mourad Khayati</na></co>
+<co c="0"><na f="k/Kline:Nick" pid="k/NickKline">Nick Kline</na></co>
+<co c="0"><na f="k/Koch_0001:Christoph" pid="k/ChristophKoch">Christoph Koch 0001</na></co>
+<co c="0"><na f="k/Koudas:Nick" pid="k/NickKoudas">Nick Koudas</na></co>
+<co c="0"><na f="k/Krauthammer:Michael" pid="90/4978">Michael Krauthammer</na></co>
+<co c="0"><na f="l/Lachish:Oded" pid="06/6269">Oded Lachish</na></co>
+<co c="0"><na f="l/Lakshmanan:Laks_V=_S=" pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</na></co>
+<co c="0"><na f="l/Lauritzen:Steffen_L=" pid="97/2046">Steffen L. Lauritzen</na></co>
+<co c="0"><na f="l/Leone:Stefania" pid="81/4741">Stefania Leone</na></co>
+<co c="0"><na f="l/Li:Pei" pid="87/3555">Pei Li</na></co>
+<co c="2"><na f="l/L=oacute=pez:Carlos" pid="51/4781">Carlos L&#243;pez</na></co>
+<co c="0"><na f="l/Lorentzos:Nikos_A=" pid="26/1286">Nikos A. Lorentzos</na></co>
+<co c="0"><na f="m/Mahlknecht:Giovanni" pid="166/9059">Giovanni Mahlknecht</na></co>
+<co c="0"><na f="m/Mariyagnanaseelan:Alphonse" pid="272/7040">Alphonse Mariyagnanaseelan</na></co>
+<co c="0"><na f="m/Mark:Leo" pid="03/5097">Leo Mark</na></co>
+<co c="0"><na f="m/Marti:Robert_W=" pid="31/2440">Robert W. Marti</na></co>
+<co c="2"><na f="m/Mart=iacute=n:Carme" pid="m/CarmeMartin">Carme Mart&#237;n</na></co>
+<co c="0"><na f="m/May:Norman" pid="89/6071">Norman May</na></co>
+<co c="0"><na f="m/Mazeika:Arturas" pid="m/ArturasMazeika">Arturas Mazeika</na></co>
+<co c="0"><na f="m/Mitsopoulos:Yannis_G=" pid="23/2367">Yannis G. Mitsopoulos</na></co>
+<co c="0"><na f="m/Mitterer:Hannes" pid="156/1592">Hannes Mitterer</na></co>
+<co c="0"><na f="m/Mitterer:Manfred" pid="48/10459">Manfred Mitterer</na></co>
+<co c="0"><na f="m/Montanari:Angelo" pid="68/27">Angelo Montanari</na></co>
+<co c="0"><na f="m/Moser:Peter" pid="265/2949">Peter Moser</na></co>
+<co c="-1"><na f="m/M=uuml=lle:Yvonne" pid="117/8839">Yvonne M&#252;lle</na></co>
+<co c="0"><na f="m/Musaeus:Peter" pid="89/3992">Peter Musaeus</na></co>
+<co c="0"><na f="m/Mylov:Peer" pid="08/6860">Peer Mylov</na></co>
+<co c="0"><na f="n/Nardelli:Enrico" pid="n/EnricoNardelli">Enrico Nardelli</na></co>
+<co c="0"><na f="n/Nikoo:AmirReza_Alizade" pid="363/8702">AmirReza Alizade Nikoo</na></co>
+<co c="0"><na f="n/Niu_0002:Xing" pid="87/9555-2">Xing Niu 0002</na></co>
+<co c="0"><na f="n/Nonen:Daniel_A=" pid="99/1770">Daniel A. Nonen</na></co>
+<co c="0"><na f="o/Omiecinski:Edward" pid="o/EdwardOmiecinski">Edward Omiecinski</na></co>
+<co c="0"><na f="p/Palpanas:Themis" pid="p/ThemisPalpanas">Themis Palpanas</na></co>
+<co c="0"><na f="p/Papaioannou:Katerina" pid="152/9341">Katerina Papaioannou</na></co>
+<co c="0"><na f="p/Pawlik_0001:Mateusz" pid="24/10719">Mateusz Pawlik 0001</na></co>
+<co c="0"><na f="p/Peressi:Elisa" pid="84/3591">Elisa Peressi</na></co>
+<co c="0"><na f="p/Pernici:Barbara" pid="p/BarbaraPernici">Barbara Pernici</na></co>
+<co c="0"><na f="p/Petersons:Janis" pid="74/1143">Janis Petersons</na></co>
+<co c="0"><na f="p/Pichler:Reinhard" pid="26/5252">Reinhard Pichler</na></co>
+<co c="0"><na f="p/Pietri:Antoine" pid="241/3970">Antoine Pietri</na></co>
+<co c="0"><na f="p/Polasek:Wolfgang" pid="90/4224">Wolfgang Polasek</na></co>
+<co c="0"><na f="p/Popovic:Luka" pid="301/6401">Luka Popovic</na></co>
+<co c="0"><na f="p/Poulsen:Lasse" pid="46/5182">Lasse Poulsen</na></co>
+<co c="0" n="2"><na f="p/Pustulka:Elzbieta" pid="318/5521">Elzbieta Pustulka</na><na>Ela Hunt</na></co>
+<co c="0"><na f="r/Rahm:Erhard" pid="r/ERahm">Erhard Rahm</na></co>
+<co c="0"><na f="r/Relly:Lukas" pid="r/LukasRelly">Lukas Relly</na></co>
+<co c="0"><na f="r/Reutegger:Marcel" pid="340/7423">Marcel Reutegger</na></co>
+<co c="0"><na f="r/Rigaux:Philippe" pid="r/PRigaux">Philippe Rigaux</na></co>
+<co c="0"><na f="r/Roddick:John_F=" pid="r/JohnFRoddick">John F. Roddick</na></co>
+<co c="0"><na f="s/Saad_0006:Muhammad" pid="181/5807-6">Muhammad Saad 0006</na></co>
+<co c="0"><na f="s/Sacharidis:Dimitris" pid="19/4428">Dimitris Sacharidis</na></co>
+<co c="0"><na f="s/Sarda:Nandlal_L=" pid="s/NandlalLSarda">Nandlal L. Sarda</na></co>
+<co c="0"><na f="s/Scalas:Maria_Rita" pid="s/MariaRitaScalas">Maria Rita Scalas</na></co>
+<co c="0"><na f="s/Schek:Hans=J=ouml=rg" pid="s/HansJorgSchek">Hans-J&#246;rg Schek</na></co>
+<co c="0"><na f="s/Schmidt_0002:Albrecht" pid="s/AlbrechtSchmidt2">Albrecht Schmidt 0002</na></co>
+<co c="0"><na f="s/Schmidt:Duri" pid="92/6489">Duri Schmidt</na></co>
+<co c="0"><na f="s/Schneider_0001:Markus" pid="s/MarkusSchneider1">Markus Schneider 0001</na></co>
+<co c="0"><na f="s/Scholl:Michel" pid="s/MichelScholl">Michel Scholl</na></co>
+<co c="0"><na f="s/Segev:Arie" pid="s/ArieSegev">Arie Segev</na></co>
+<co c="0"><na f="s/Simoff:Simeon_J=" pid="39/1218">Simeon J. Simoff</na></co>
+<co c="0"><na f="s/Skjellaug:Bj=oslash=rn" pid="93/2836">Bj&#248;rn Skjellaug</na></co>
+<co c="0"><na f="s/Snodgrass:Richard_T=" pid="s/RichardTSnodgrass">Richard T. Snodgrass</na></co>
+<co c="0"><na f="s/Soo:Michael_D=" pid="08/6667">Michael D. Soo</na></co>
+<co c="0"><na f="s/Srivastava:Divesh" pid="s/DiveshSrivastava">Divesh Srivastava</na></co>
+<co c="0"><na f="s/Stahl:Jonathan" pid="182/0938">Jonathan Stahl</na></co>
+<co c="0"><na f="s/Steiner:Andreas" pid="s/AndreasSteiner">Andreas Steiner</na></co>
+<co c="0"><na f="s/Surbeck:Timo" pid="244/0389">Timo Surbeck</na></co>
+<co c="0"><na f="s/Szlichta:Jaroslaw" pid="06/9379">Jaroslaw Szlichta</na></co>
+<co c="0"><na f="t/Taliun:Andrej" pid="96/6362">Andrej Taliun</na></co>
+<co c="0"><na f="t/Tania:Naida" pid="325/9688">Naida Tania</na></co>
+<co c="0"><na f="t/Tansel:Abdullah_Uz" pid="10/3450">Abdullah Uz Tansel</na></co>
+<co c="0"><na f="t/Tesfaye:Bezaye" pid="180/3166">Bezaye Tesfaye</na></co>
+<co c="0"><na f="t/Theobald:Martin" pid="t/MartinTheobald">Martin Theobald</na></co>
+<co c="0"><na f="t/Tiberio:Paolo" pid="t/PaoloTiberio">Paolo Tiberio</na></co>
+<co c="0"><na f="t/Tilgner:Christian" pid="41/350">Christian Tilgner</na></co>
+<co c="0"><na f="t/Timko:Igor" pid="78/5835">Igor Timko</na></co>
+<co c="0"><na f="t/Toman_0001:David" pid="t/DavidToman">David Toman 0001</na></co>
+<co c="0"><na f="t/Torp:Kristian" pid="t/KristianTorp">Kristian Torp</na></co>
+<co c="0"><na f="t/Trivellato:Daniel" pid="27/4538">Daniel Trivellato</na></co>
+<co c="0"><na f="t/T=uuml=rker:Can" pid="t/CanTurker">Can T&#252;rker</na></co>
+<co c="0"><na f="v/Vazirgiannis:Michalis" pid="v/MVazirgiannis">Michalis Vazirgiannis</na></co>
+<co c="0" n="2"><na f="v/Viqueira:Jos=eacute=_R=_R=" pid="76/6288">Jos&#233; R. R. Viqueira</na><na>Jos&#233; Ramon Rios Viqueira</na></co>
+<co c="0"><na f="w/Wellenzohn:Kevin" pid="156/1683">Kevin Wellenzohn</na></co>
+<co c="0"><na f="w/Wiederhold:Gio" pid="w/GioWiederhold">Gio Wiederhold</na></co>
+<co c="0"><na f="w/Wimmer:Maria_A=" pid="w/MariaWimmer">Maria A. Wimmer</na></co>
+<co c="0"><na f="w/Wu:Shan=Hung" pid="94/2844">Shan-Hung Wu</na></co>
+<co c="0"><na f="z/Zacchiroli:Stefano" pid="53/2641">Stefano Zacchiroli</na></co>
+</coauthors>
+</dblpperson>

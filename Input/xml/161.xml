@@ -1,0 +1,955 @@
+<dblpperson name="Dan R. K. Ports" pid="03/6105" n="51">
+<person key="homepages/03/6105" mdate="2009-06-10">
+<author pid="03/6105">Dan R. K. Ports</author>
+</person>
+<r><article key="journals/pvldb/LernerBCHJJPT023" mdate="2023-10-23">
+<author pid="l/AlbertoLerner">Alberto Lerner</author>
+<author pid="45/1559">Carsten Binnig</author>
+<author pid="71/5578">Philippe Cudr&#233;-Mauroux</author>
+<author pid="228/2560">Rana Hussein</author>
+<author pid="266/6082">Matthias Jasny</author>
+<author pid="188/5904">Theo Jepsen</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="233/6278">Lasse Thostrup</author>
+<author pid="146/6632">Tobias Ziegler 0001</author>
+<title>Databases on Modern Networks: A Decade of Research that now comes into Practice.</title>
+<pages>3894-3897</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p3894-lerner.pdf</ee>
+<ee>https://doi.org/10.14778/3611540.3611579</ee>
+<url>db/journals/pvldb/pvldb16.html#LernerBCHJJPT023</url>
+</article>
+</r>
+<r><inproceedings key="conf/apnet/LiuN0GLWH0PY0X23" mdate="2023-09-24">
+<author orcid="0000-0002-2738-1072" pid="43/10164">Ziyuan Liu</author>
+<author orcid="0000-0001-6947-9740" pid="180/5804">Zhixiong Niu</author>
+<author orcid="0000-0002-2021-4917" pid="06/11343-1">Ran Shu 0001</author>
+<author orcid="0009-0001-6618-5402" pid="17/6853">Liang Gao</author>
+<author orcid="0009-0000-2895-2220" pid="350/2386">Guohong Lai</author>
+<author orcid="0009-0003-3457-5048" pid="44/5770">Na Wang</author>
+<author orcid="0009-0007-2249-061X" pid="356/9559">Zongying He</author>
+<author orcid="0000-0003-0791-5281" pid="35/9256-1">Jacob Nelson 0001</author>
+<author orcid="0000-0001-6093-5711" pid="03/6105">Dan R. K. Ports</author>
+<author orcid="0009-0004-7406-7600" pid="61/2443">Lihua Yuan</author>
+<author orcid="0000-0003-4014-4757" pid="76/185-5">Peng Cheng 0005</author>
+<author orcid="0000-0003-4175-0097" pid="57/4569">Yongqiang Xiong</author>
+<title>SlimeMold: Hardware Load Balancer at Scale in Datacenter.</title>
+<pages>136-142</pages>
+<year>2023</year>
+<booktitle>APNet</booktitle>
+<ee>https://doi.org/10.1145/3600061.3600067</ee>
+<crossref>conf/apnet/2023</crossref>
+<url>db/conf/apnet/apnet2023.html#LiuN0GLWH0PY0X23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apsys/ChoiWJFPZ023" mdate="2023-08-05">
+<author orcid="0009-0007-9835-4040" pid="77/3578">Inho Choi</author>
+<author orcid="0009-0005-9804-9391" pid="353/2772">Nimish Wadekar</author>
+<author orcid="0000-0003-1146-9931" pid="137/0874">Raj Joshi</author>
+<author orcid="0000-0002-5761-3516" pid="170/3621">Joshua Fried</author>
+<author orcid="0000-0001-6093-5711" pid="03/6105">Dan R. K. Ports</author>
+<author orcid="0009-0007-9033-3640" pid="68/1122">Irene Zhang</author>
+<author orcid="0000-0003-3530-7662" pid="75/4924-1">Jialin Li 0001</author>
+<title>Capybara: &#956;Second-Scale Live TCP Migration.</title>
+<pages>30-36</pages>
+<year>2023</year>
+<booktitle>APSys</booktitle>
+<ee>https://doi.org/10.1145/3609510.3609813</ee>
+<crossref>conf/apsys/2023</crossref>
+<url>db/conf/apsys/apsys2023.html#ChoiWJFPZ023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpca/YuanHSWNPWWTK23" mdate="2023-08-11">
+<author pid="167/0634">Yifan Yuan</author>
+<author pid="302/5253">Jinghan Huang</author>
+<author pid="181/2323">Yan Sun</author>
+<author pid="154/2965">Tianchen Wang</author>
+<author pid="35/9256-1">Jacob Nelson 0001</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="36/4627-2">Yipeng Wang 0002</author>
+<author pid="29/50-1">Ren Wang 0001</author>
+<author pid="82/8969">Charlie Tai</author>
+<author pid="18/1402">Nam Sung Kim</author>
+<title>Rambda: RDMA-driven Acceleration Framework for Memory-intensive &#181;s-scale Datacenter Applications.</title>
+<pages>499-515</pages>
+<year>2023</year>
+<booktitle>HPCA</booktitle>
+<ee>https://doi.org/10.1109/HPCA56546.2023.10071127</ee>
+<crossref>conf/hpca/2023</crossref>
+<url>db/conf/hpca/hpca2023.html#YuanHSWNPWWTK23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nsdi/ChoiMLP023" mdate="2023-05-11">
+<author pid="77/3578">Inho Choi</author>
+<author pid="191/4186">Ellis Michael</author>
+<author pid="80/1874">Yunfan Li</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="75/4924-1">Jialin Li 0001</author>
+<title>Hydra: Serialization-Free Network Ordering for Strongly Consistent Distributed Applications.</title>
+<pages>293-320</pages>
+<year>2023</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi23/presentation/choi</ee>
+<crossref>conf/nsdi/2023</crossref>
+<url>db/conf/nsdi/nsdi2023.html#ChoiMLP023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apnet/LiuN0CCXY0P22" mdate="2023-12-02">
+<author orcid="0000-0002-2738-1072" pid="43/10164">Ziyuan Liu</author>
+<author orcid="0000-0001-6947-9740" pid="180/5804">Zhixiong Niu</author>
+<author orcid="0000-0002-2021-4917" pid="06/11343-1">Ran Shu 0001</author>
+<author pid="180/5887">Wenxue Cheng</author>
+<author pid="76/185">Peng Cheng</author>
+<author pid="57/4569">Yongqiang Xiong</author>
+<author pid="61/2443">Lihua Yuan</author>
+<author orcid="0000-0003-0791-5281" pid="35/9256-1">Jacob Nelson 0001</author>
+<author orcid="0000-0001-6093-5711" pid="03/6105">Dan R. K. Ports</author>
+<title>A Disaggregate Data Collecting Approach for Loss-Tolerant Applications.</title>
+<pages>57-62</pages>
+<year>2022</year>
+<booktitle>APNet</booktitle>
+<ee>https://doi.org/10.1145/3542637.3542646</ee>
+<crossref>conf/apnet/2022</crossref>
+<url>db/conf/apnet/apnet2022.html#LiuN0CCXY0P22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nsdi/ZhuWHPS022" mdate="2022-07-06">
+<author pid="127/6289">Hang Zhu</author>
+<author pid="12/5838">Tao Wang</author>
+<author pid="65/5746">Yi Hong</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="123/2342">Anirudh Sivaraman</author>
+<author pid="68/3340-8">Xin Jin 0008</author>
+<title>NetVRM: Virtual Register Memory for Programmable Networks.</title>
+<pages>155-170</pages>
+<year>2022</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi22/presentation/zhu</ee>
+<crossref>conf/nsdi/2022</crossref>
+<url>db/conf/nsdi/nsdi2022.html#ZhuWHPS022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nsdi/ZenoPNKFKRRPS22" mdate="2023-08-11">
+<author pid="176/9173">Lior Zeno</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="35/9256-1">Jacob Nelson 0001</author>
+<author pid="115/6369">Daehyeok Kim</author>
+<author pid="77/6415">Shir Landau Feibish</author>
+<author pid="k/IditKeidar">Idit Keidar</author>
+<author pid="236/6349">Arik Rinberg</author>
+<author pid="259/1225">Alon Rashelbach</author>
+<author pid="289/1274">Igor Lima de Paula</author>
+<author pid="94/2996">Mark Silberstein</author>
+<title>SwiSh: Distributed Shared State Abstractions for Programmable Switches.</title>
+<pages>171-191</pages>
+<year>2022</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi22/presentation/zeno</ee>
+<crossref>conf/nsdi/2022</crossref>
+<url>db/conf/nsdi/nsdi2022.html#ZenoPNKFKRRPS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nsdi/YuanAFNPSCK22" mdate="2023-08-11">
+<author pid="167/0634">Yifan Yuan</author>
+<author pid="309/5752">Omar Alama</author>
+<author pid="203/3131">Jiawei Fei</author>
+<author pid="35/9256-1">Jacob Nelson 0001</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="155/9504">Amedeo Sapio</author>
+<author pid="24/5715">Marco Canini</author>
+<author pid="18/1402">Nam Sung Kim</author>
+<title>Unlocking the Power of Inline Floating-Point Operations on Programmable Switches.</title>
+<pages>683-700</pages>
+<year>2022</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi22/presentation/yuan</ee>
+<crossref>conf/nsdi/2022</crossref>
+<url>db/conf/nsdi/nsdi2022.html#YuanAFNPSCK22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-08906" mdate="2023-08-11">
+<author pid="167/0634">Yifan Yuan</author>
+<author pid="302/5253">Jinghan Huang</author>
+<author pid="181/2323">Yan Sun</author>
+<author pid="154/2965">Tianchen Wang</author>
+<author pid="35/9256-1">Jacob Nelson 0001</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="36/4627-2">Yipeng Wang 0002</author>
+<author pid="29/50-1">Ren Wang 0001</author>
+<author pid="82/8969">Charlie Tai</author>
+<author pid="18/1402">Nam Sung Kim</author>
+<title>ORCA: A Network and Architecture Co-design for Offloading us-scale Datacenter Applications.</title>
+<year>2022</year>
+<volume>abs/2203.08906</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.08906</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-08906</url>
+</article>
+</r>
+<r><inproceedings key="conf/nsdi/SapioC0NKKKMPR21" mdate="2023-09-30">
+<author pid="155/9504">Amedeo Sapio</author>
+<author pid="24/5715">Marco Canini</author>
+<author pid="197/0617-1">Chen-Yu Ho 0001</author>
+<author pid="35/9256-1">Jacob Nelson 0001</author>
+<author pid="97/3036">Panos Kalnis</author>
+<author pid="55/4381">Changhoon Kim</author>
+<author orcid="0000-0002-9505-9528" pid="k/AKrishnamurthy">Arvind Krishnamurthy</author>
+<author pid="134/3932">Masoud Moshref</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="62/8001">Peter Richt&#225;rik</author>
+<title>Scaling Distributed Machine Learning with In-Network Aggregation.</title>
+<pages>785-808</pages>
+<year>2021</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi21/presentation/sapio</ee>
+<crossref>conf/nsdi/2021</crossref>
+<url>db/conf/nsdi/nsdi2021.html#SapioC0NKKKMPR21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcomm/KimNPSS21" mdate="2023-11-12">
+<author pid="115/6369">Daehyeok Kim</author>
+<author pid="35/9256-1">Jacob Nelson 0001</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="45/4044">Vyas Sekar</author>
+<author orcid="0000-0002-9508-2066" pid="s/SrinivasanSeshan">Srinivasan Seshan</author>
+<title>RedPlane: enabling fault-tolerant stateful in-switch applications.</title>
+<pages>223-244</pages>
+<year>2021</year>
+<booktitle>SIGCOMM</booktitle>
+<ee>https://doi.org/10.1145/3452296.3472905</ee>
+<crossref>conf/sigcomm/2021</crossref>
+<url>db/conf/sigcomm/sigcomm2021.html#KimNPSS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sosp/0001DJSNZP21" mdate="2023-08-11">
+<author orcid="0000-0002-6142-5534" pid="207/1878-1">Matthew Burke 0001</author>
+<author pid="304/2790">Sowmya Dharanipragada</author>
+<author pid="256/1012">Shannon Joyner</author>
+<author pid="69/9867">Adriana Szekeres</author>
+<author pid="35/9256-1">Jacob Nelson 0001</author>
+<author pid="68/1122">Irene Zhang</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<title>PRISM: Rethinking the RDMA Interface for Distributed Systems.</title>
+<pages>228-242</pages>
+<year>2021</year>
+<booktitle>SOSP</booktitle>
+<ee>https://doi.org/10.1145/3477132.3483587</ee>
+<crossref>conf/sosp/2021</crossref>
+<url>db/conf/sosp/sosp2021.html#0001DJSNZP21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-06095" mdate="2023-08-11">
+<author pid="167/0634">Yifan Yuan</author>
+<author pid="309/5752">Omar Alama</author>
+<author pid="155/9504">Amedeo Sapio</author>
+<author pid="203/3131">Jiawei Fei</author>
+<author pid="35/9256-1">Jacob Nelson 0001</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author orcid="0000-0002-5051-4283" pid="24/5715">Marco Canini</author>
+<author pid="18/1402">Nam Sung Kim</author>
+<title>Unlocking the Power of Inline Floating-Point Operations on Programmable Switches.</title>
+<year>2021</year>
+<volume>abs/2112.06095</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.06095</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-06095</url>
+</article>
+</r>
+<r><inproceedings key="conf/asplos/LiHNGGPZBGB20" mdate="2020-03-16">
+<author pid="197/7182">Huaicheng Li</author>
+<author pid="141/9091">Mingzhe Hao</author>
+<author pid="142/3209">Stanko Novakovic</author>
+<author pid="175/0549">Vaibhav Gogte</author>
+<author pid="18/4286">Sriram Govindan</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="68/1122">Irene Zhang</author>
+<author pid="85/2722">Ricardo Bianchini</author>
+<author pid="84/5664">Haryadi S. Gunawi</author>
+<author pid="51/8142">Anirudh Badam</author>
+<title>LeapIO: Efficient and Portable Virtual NVMe Storage on ARM SoCs.</title>
+<pages>591-605</pages>
+<year>2020</year>
+<booktitle>ASPLOS</booktitle>
+<ee>https://doi.org/10.1145/3373376.3378531</ee>
+<crossref>conf/asplos/2020</crossref>
+<url>db/conf/asplos/asplos2020.html#LiHNGGPZBGB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurosys/SzekeresWLSKPZ20" mdate="2023-09-30">
+<author pid="69/9867">Adriana Szekeres</author>
+<author pid="247/8172">Michael J. Whittaker</author>
+<author pid="75/4924-1">Jialin Li 0001</author>
+<author pid="88/8770">Naveen Kr. Sharma</author>
+<author orcid="0000-0002-9505-9528" pid="k/AKrishnamurthy">Arvind Krishnamurthy</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="68/1122">Irene Zhang</author>
+<title>Meerkat: multicore-scalable replicated transactions following the zero-coordination principle.</title>
+<pages>17:1-17:14</pages>
+<year>2020</year>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3342195.3387529</ee>
+<crossref>conf/eurosys/2020</crossref>
+<url>db/conf/eurosys/eurosys2020.html#SzekeresWLSKPZ20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hotcloud/WangZR0SPP20" mdate="2021-02-09">
+<author pid="12/5838">Tao Wang</author>
+<author pid="127/6289">Hang Zhu</author>
+<author pid="223/0452">Fabian Ruffy</author>
+<author pid="68/3340-8">Xin Jin 0008</author>
+<author pid="123/2342">Anirudh Sivaraman</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="55/925">Aurojit Panda</author>
+<title>Multitenancy for Fast and Programmable Networks in the Cloud.</title>
+<year>2020</year>
+<booktitle>HotCloud</booktitle>
+<ee type="oa">https://www.usenix.org/conference/hotcloud20/presentation/wang</ee>
+<crossref>conf/hotcloud/2020</crossref>
+<url>db/conf/hotcloud/hotcloud2020.html#WangZR0SPP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hotnets/ZenoPNS20" mdate="2023-08-11">
+<author pid="176/9173">Lior Zeno</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="35/9256-1">Jacob Nelson 0001</author>
+<author pid="94/2996">Mark Silberstein</author>
+<title>SwiShmem: Distributed Shared State Abstractions for Programmable Switches.</title>
+<pages>160-167</pages>
+<year>2020</year>
+<booktitle>HotNets</booktitle>
+<ee>https://doi.org/10.1145/3422604.3425946</ee>
+<crossref>conf/hotnets/2020</crossref>
+<url>db/conf/hotnets/hotnets2020.html#ZenoPNS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/osdi/LiNMJP20" mdate="2023-08-11">
+<author pid="75/4924-1">Jialin Li 0001</author>
+<author pid="35/9256-1">Jacob Nelson 0001</author>
+<author pid="191/4186">Ellis Michael</author>
+<author pid="68/3340-8">Xin Jin 0008</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<title>Pegasus: Tolerating Skewed Workloads in Distributed Storage with In-Network Coherence Directories.</title>
+<pages>387-406</pages>
+<year>2020</year>
+<booktitle>OSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/osdi20/presentation/li-jialin</ee>
+<crossref>conf/osdi/2020</crossref>
+<url>db/conf/osdi/osdi2020.html#LiNMJP20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-06536" mdate="2020-08-21">
+<author pid="69/9867">Adriana Szekeres</author>
+<author pid="68/1122">Irene Zhang</author>
+<author pid="15/880">Katelin Bailey</author>
+<author pid="154/0916">Isaac Ackerman</author>
+<author pid="34/8397">Haichen Shen</author>
+<author pid="23/2758">Franziska Roesner</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author>
+<author pid="l/HenryMLevy">Henry M. Levy</author>
+<title>Making Distributed Mobile Applications SAFE: Enforcing User Privacy Policies on Untrusted Applications with Secure Application Flow Enforcement.</title>
+<year>2020</year>
+<volume>abs/2008.06536</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.06536</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-06536</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ZhuBLMPSJ19" mdate="2022-12-22">
+<author pid="127/6289">Hang Zhu</author>
+<author pid="234/8717">Zhihao Bai</author>
+<author pid="75/4924-1">Jialin Li 0001</author>
+<author pid="191/4186">Ellis Michael</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<author pid="68/3340-8">Xin Jin 0008</author>
+<title>Harmonia: Near-Linear Scalability for Replicated Storage with In-Network Conflict Detection.</title>
+<pages>376-389</pages>
+<year>2019</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p376-zhu.pdf</ee>
+<ee>https://doi.org/10.14778/3368289.3368301</ee>
+<url>db/journals/pvldb/pvldb13.html#ZhuBLMPSJ19</url>
+</article>
+</r>
+<r><inproceedings key="conf/hotos/PortsN19" mdate="2023-08-11">
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="35/9256-1">Jacob Nelson 0001</author>
+<title>When Should The Network Be The Computer?</title>
+<pages>209-215</pages>
+<year>2019</year>
+<booktitle>HotOS</booktitle>
+<ee>https://doi.org/10.1145/3317550.3321439</ee>
+<crossref>conf/hotos/2019</crossref>
+<url>db/conf/hotos/hotos2019.html#PortsN19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/hotcloud/2019" mdate="2021-02-09">
+<editor pid="69/9942">Christina Delimitrou</editor>
+<editor pid="03/6105">Dan R. K. Ports</editor>
+<title>11th USENIX Workshop on Hot Topics in Cloud Computing, HotCloud 2019, Renton, WA, USA, July 8, 2019</title>
+<booktitle>HotCloud</booktitle>
+<publisher>USENIX Association</publisher>
+<year>2019</year>
+<ee type="oa">https://www.usenix.org/conference/hotcloud19</ee>
+<url>db/conf/hotcloud/hotcloud2019.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-06701" mdate="2023-08-11">
+<author orcid="0000-0002-9191-614X" pid="155/9504">Amedeo Sapio</author>
+<author orcid="0000-0002-5051-4283" pid="24/5715">Marco Canini</author>
+<author orcid="0000-0001-6450-0280" pid="197/0617-1">Chen-Yu Ho 0001</author>
+<author pid="35/9256-1">Jacob Nelson 0001</author>
+<author orcid="0000-0002-5060-1360" pid="97/3036">Panos Kalnis</author>
+<author pid="55/4381">Changhoon Kim</author>
+<author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author>
+<author pid="134/3932">Masoud Moshref</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author orcid="0000-0003-4380-5848" pid="62/8001">Peter Richt&#225;rik</author>
+<title>Scaling Distributed Machine Learning with In-Network Aggregation.</title>
+<year>2019</year>
+<volume>abs/1903.06701</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.06701</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-06701</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-08964" mdate="2022-12-22">
+<author pid="127/6289">Hang Zhu</author>
+<author pid="234/8717">Zhihao Bai</author>
+<author pid="75/4924-1">Jialin Li 0001</author>
+<author pid="191/4186">Ellis Michael</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<author pid="68/3340-8">Xin Jin 0008</author>
+<title>Harmonia: Near-Linear Scalability for Replicated Storage with In-Network Conflict Detection.</title>
+<year>2019</year>
+<volume>abs/1904.08964</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.08964</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-08964</url>
+</article>
+</r>
+<r><inproceedings key="conf/eurosys/MichaelP18" mdate="2018-11-21">
+<author pid="191/4186">Ellis Michael</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<title>Towards causal datacenter networks.</title>
+<pages>8:1-8:4</pages>
+<year>2018</year>
+<booktitle>PaPoC@EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3194261.3194269</ee>
+<crossref>conf/eurosys/2018papoc</crossref>
+<url>db/conf/eurosys/papoc2018.html#MichaelP18</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/SalimiCPS17" mdate="2024-02-05">
+<author pid="11/6446">Babak Salimi</author>
+<author pid="204/3691">Corey Cole</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<title>ZaliQL: Causal Inference from Observational Data at Scale.</title>
+<pages>1957-1960</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p1957-salimi.pdf</ee>
+<ee>https://doi.org/10.14778/3137765.3137818</ee>
+<url>db/journals/pvldb/pvldb10.html#SalimiCPS17</url>
+</article>
+</r>
+<r><article key="journals/tocs/ZhangSSKP18" mdate="2022-11-18">
+<author pid="68/1122">Irene Zhang</author>
+<author pid="88/8770">Naveen Kr. Sharma</author>
+<author pid="69/9867">Adriana Szekeres</author>
+<author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<title>Building Consistent Transactions with Inconsistent Replication.</title>
+<pages>12:1-12:37</pages>
+<year>2017</year>
+<volume>35</volume>
+<journal>ACM Trans. Comput. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3269981</ee>
+<url>db/journals/tocs/tocs35.html#ZhangSSKP18</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/GudmundsdottirS17" mdate="2024-02-05">
+<author pid="140/7166">Helga Gudmundsdottir</author>
+<author pid="11/6446">Babak Salimi</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<title>A Demonstration of Interactive Analysis of Performance Measurements with Viska.</title>
+<pages>1707-1710</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3056448</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#GudmundsdottirS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sosp/LiMP17" mdate="2022-12-22">
+<author pid="75/4924-1">Jialin Li 0001</author>
+<author pid="191/4186">Ellis Michael</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<title>Eris: Coordination-Free Consistent Transactions Using In-Network Concurrency Control.</title>
+<pages>104-120</pages>
+<year>2017</year>
+<booktitle>SOSP</booktitle>
+<ee>https://doi.org/10.1145/3132747.3132751</ee>
+<crossref>conf/sosp/2017</crossref>
+<url>db/conf/sosp/sosp2017.html#LiMP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/MichaelPSS17" mdate="2018-08-23">
+<author pid="191/4186">Ellis Michael</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="88/8770">Naveen Kr. Sharma</author>
+<author pid="69/9867">Adriana Szekeres</author>
+<title>Recovering Shared Objects Without Stable Storage.</title>
+<pages>36:1-36:16</pages>
+<year>2017</year>
+<booktitle>DISC</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.DISC.2017.36</ee>
+<crossref>conf/wdag/2017</crossref>
+<url>db/conf/wdag/disc2017.html#MichaelPSS17</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/ZhangSSKP16" mdate="2020-03-10">
+<author pid="68/1122">Irene Zhang</author>
+<author pid="88/8770">Naveen Kr. Sharma</author>
+<author pid="69/9867">Adriana Szekeres</author>
+<author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<title>When Is Operation Ordering Required in Replicated Transactional Storage?</title>
+<pages>27-38</pages>
+<year>2016</year>
+<volume>39</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A16mar/p27.pdf</ee>
+<url>db/journals/debu/debu39.html#ZhangSSKP16</url>
+</article>
+</r>
+<r><article key="journals/tocs/PeterLZPWKAR16" mdate="2022-12-30">
+<author pid="43/3917">Simon Peter 0001</author>
+<author pid="75/4924-1">Jialin Li 0001</author>
+<author pid="68/1122">Irene Zhang</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="149/9232">Doug Woos</author>
+<author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author>
+<author pid="a/ThomasEAnderson">Thomas E. Anderson</author>
+<author pid="r/TimothyRoscoe">Timothy Roscoe</author>
+<title>Arrakis: The Operating System Is the Control Plane.</title>
+<pages>11:1-11:30</pages>
+<year>2016</year>
+<volume>33</volume>
+<journal>ACM Trans. Comput. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2812806</ee>
+<url>db/journals/tocs/tocs33.html#PeterLZPWKAR16</url>
+</article>
+</r>
+<r><inproceedings key="conf/cloud/HoltBZPOC16" mdate="2018-11-06">
+<author pid="145/7763">Brandon Holt</author>
+<author pid="142/3208">James Bornholt</author>
+<author pid="68/1122">Irene Zhang</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="o/MarkOskin">Mark Oskin</author>
+<author pid="95/5263">Luis Ceze</author>
+<title>Disciplined Inconsistency with Consistency Types.</title>
+<pages>279-293</pages>
+<year>2016</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/2987550.2987559</ee>
+<crossref>conf/cloud/2016</crossref>
+<url>db/conf/cloud/socc2016.html#HoltBZPOC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/osdi/LiESSP16" mdate="2022-12-22">
+<author pid="75/4924-1">Jialin Li 0001</author>
+<author pid="191/4186">Ellis Michael</author>
+<author pid="88/8770">Naveen Kr. Sharma</author>
+<author pid="69/9867">Adriana Szekeres</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<title>Just Say NO to Paxos Overhead: Replacing Consensus with Network Ordering.</title>
+<pages>467-483</pages>
+<year>2016</year>
+<booktitle>OSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/osdi16/technical-sessions/presentation/li</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3026914</ee>
+<crossref>conf/osdi/2016</crossref>
+<url>db/conf/osdi/osdi2016.html#LiESSP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurosys/HoltZPOC15" mdate="2018-11-06">
+<author pid="145/7763">Brandon Holt</author>
+<author pid="68/1122">Irene Zhang</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="o/MarkOskin">Mark Oskin</author>
+<author pid="95/5263">Luis Ceze</author>
+<title>Claret: using data types for highly concurrent distributed transactions.</title>
+<pages>4:1-4:4</pages>
+<year>2015</year>
+<booktitle>PaPoC@EuroSys</booktitle>
+<ee>https://doi.org/10.1145/2745947.2745951</ee>
+<crossref>conf/eurosys/2015papoc</crossref>
+<url>db/conf/eurosys/papoc2015.html#HoltZPOC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nsdi/PortsLLSK15" mdate="2022-12-22">
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="75/4924-1">Jialin Li 0001</author>
+<author pid="22/9263-1">Vincent Liu 0001</author>
+<author pid="88/8770">Naveen Kr. Sharma</author>
+<author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author>
+<title>Designing Distributed Systems Using Approximate Synchrony in Data Center Networks.</title>
+<pages>43-57</pages>
+<year>2015</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/ports</ee>
+<crossref>conf/nsdi/2015</crossref>
+<url>db/conf/nsdi/nsdi2015.html#PortsLLSK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sosp/ZhangSSKP15" mdate="2018-11-06">
+<author pid="68/1122">Irene Zhang</author>
+<author pid="88/8770">Naveen Kr. Sharma</author>
+<author pid="69/9867">Adriana Szekeres</author>
+<author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<title>Building consistent transactions with inconsistent replication.</title>
+<pages>263-278</pages>
+<year>2015</year>
+<booktitle>SOSP</booktitle>
+<ee>https://doi.org/10.1145/2815400.2815404</ee>
+<crossref>conf/sosp/2015</crossref>
+<url>db/conf/sosp/sosp2015.html#ZhangSSKP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apsys/ZhuoZPKA14" mdate="2023-08-09">
+<author pid="151/7537">Danyang Zhuo</author>
+<author pid="37/3831-1">Qiao Zhang 0001</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author>
+<author pid="a/ThomasEAnderson">Thomas E. Anderson</author>
+<title>Machine fault tolerance for reliable datacenter systems.</title>
+<pages>3:1-3:7</pages>
+<year>2014</year>
+<booktitle>APSys</booktitle>
+<ee>https://doi.org/10.1145/2637166.2637235</ee>
+<crossref>conf/apsys/2014</crossref>
+<url>db/conf/apsys/apsys2014.html#ZhuoZPKA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloud/LiSPG14" mdate="2022-12-22">
+<author pid="75/4924-1">Jialin Li 0001</author>
+<author pid="88/8770">Naveen Kr. Sharma</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author orcid="0000-0002-2624-2142" pid="g/StevenDGribble">Steven D. Gribble</author>
+<title>Tales of the Tail: Hardware, OS, and Application-level Sources of Tail Latency.</title>
+<pages>9:1-9:14</pages>
+<year>2014</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/2670979.2670988</ee>
+<crossref>conf/cloud/2014</crossref>
+<url>db/conf/cloud/socc2014.html#LiSPG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hotstorage/PeterLZPAKZW14" mdate="2022-12-30">
+<author pid="43/3917">Simon Peter 0001</author>
+<author pid="75/4924-1">Jialin Li 0001</author>
+<author pid="68/1122">Irene Zhang</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="a/ThomasEAnderson">Thomas E. Anderson</author>
+<author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author>
+<author pid="150/6043">Mark Zbikowski</author>
+<author pid="149/9232">Doug Woos</author>
+<title>Towards High-Performance Application-Level Storage Management.</title>
+<year>2014</year>
+<booktitle>HotStorage</booktitle>
+<ee type="oa">https://www.usenix.org/conference/hotstorage14/workshop-program/presentation/peter</ee>
+<crossref>conf/hotstorage/2014</crossref>
+<url>db/conf/hotstorage/hotstorage2014.html#PeterLZPAKZW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/osdi/PeterLZPWKAR14" mdate="2022-12-30">
+<author pid="43/3917">Simon Peter 0001</author>
+<author pid="75/4924-1">Jialin Li 0001</author>
+<author pid="68/1122">Irene Zhang</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="149/9232">Doug Woos</author>
+<author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author>
+<author pid="a/ThomasEAnderson">Thomas E. Anderson</author>
+<author pid="r/TimothyRoscoe">Timothy Roscoe</author>
+<title>Arrakis: The Operating System is the Control Plane.</title>
+<pages>1-16</pages>
+<year>2014</year>
+<booktitle>OSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/osdi14/technical-sessions/presentation/peter</ee>
+<crossref>conf/osdi/2014</crossref>
+<url>db/conf/osdi/osdi2014.html#PeterLZPWKAR14</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ndltd/Ports12" mdate="2022-05-04">
+<author pid="03/6105">Dan R. K. Ports</author>
+<title>Application-level caching with transactional consistency.</title>
+<year>2012</year>
+<school>Massachusetts Institute of Technology, Cambridge, MA, USA</school>
+<ee>https://hdl.handle.net/1721.1/75448</ee>
+<note type="source">ndltd.org (oai:dspace.mit.edu:1721.1/75448)</note>
+</phdthesis>
+</r>
+<r><article key="journals/pvldb/PortsG12" mdate="2020-04-25">
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="117/6013">Kevin Grittner</author>
+<title>Serializable Snapshot Isolation in PostgreSQL.</title>
+<pages>1850-1861</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://vldb.org/pvldb/vol5/p1850_danrkports_vldb2012.pdf</ee>
+<ee>https://doi.org/10.14778/2367502.2367523</ee>
+<ee>https://www.wikidata.org/entity/Q56059291</ee>
+<url>db/journals/pvldb/pvldb5.html#PortsG12</url>
+</article>
+</r>
+<r><inproceedings key="conf/usenix/ChengPSPBCCSL12" mdate="2021-02-01">
+<author pid="31/2469">Winnie Cheng</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="88/95">David A. Schultz</author>
+<author pid="131/4786">Victoria Popic</author>
+<author pid="123/8712">Aaron Blankstein</author>
+<author pid="50/1855">James A. Cowling</author>
+<author pid="c/DCurtis">Dorothy Curtis</author>
+<author pid="s/LiubaShrira">Liuba Shrira</author>
+<author pid="l/BarbaraLiskov">Barbara Liskov</author>
+<title>Abstractions for Usable Information Flow Control in Aeolus.</title>
+<pages>139-151</pages>
+<year>2012</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/atc12/technical-sessions/presentation/cheng</ee>
+<crossref>conf/usenix/2012</crossref>
+<url>db/conf/usenix/usenix2012.html#ChengPSPBCCSL12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1208-4179" mdate="2018-08-13">
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="117/6013">Kevin Grittner</author>
+<title>Serializable Snapshot Isolation in PostgreSQL</title>
+<ee type="oa">http://arxiv.org/abs/1208.4179</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1208.4179</volume>
+<url>db/journals/corr/corr1208.html#abs-1208-4179</url>
+</article>
+</r>
+<r><inproceedings key="conf/osdi/PortsCZML10" mdate="2023-08-09">
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="21/659">Austin T. Clements</author>
+<author pid="68/1122">Irene Zhang</author>
+<author pid="m/SamuelMadden">Samuel Madden 0001</author>
+<author pid="l/BarbaraLiskov">Barbara Liskov</author>
+<title>Transactional Consistency and Automatic Management in an Application Data Cache.</title>
+<pages>279-292</pages>
+<year>2010</year>
+<booktitle>OSDI</booktitle>
+<ee type="oa">http://www.usenix.org/events/osdi10/tech/full_papers/Ports.pdf</ee>
+<crossref>conf/osdi/2010</crossref>
+<url>db/conf/osdi/osdi2010.html#PortsCZML10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/CowlingPLPG09" mdate="2021-02-01">
+<author pid="50/1855">James A. Cowling</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="l/BarbaraLiskov">Barbara Liskov</author>
+<author pid="91/275">Raluca Ada Popa</author>
+<author pid="60/6540">Abhijeet Gaikwad</author>
+<title>Census: Location-Aware Membership Management for Large-Scale Distributed Systems.</title>
+<year>2009</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/usenix-09/census-location-aware-membership-management-large-scale-distributed-systems</ee>
+<crossref>conf/usenix/2009</crossref>
+<url>db/conf/usenix/usenix2009.html#CowlingPLPG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asplos/ChenGLSWBDP08" mdate="2023-09-30">
+<author pid="17/2084">Xiaoxin Chen</author>
+<author pid="55/1439">Tal Garfinkel</author>
+<author pid="58/5295">E. Christopher Lewis</author>
+<author pid="64/2373">Pratap Subrahmanyam</author>
+<author orcid="0009-0002-3587-3058" pid="40/1118">Carl A. Waldspurger</author>
+<author pid="b/DanBoneh">Dan Boneh</author>
+<author pid="58/5604">Jeffrey S. Dwoskin</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<title>Overshadow: a virtualization-based approach to retrofitting protection in commodity operating systems.</title>
+<pages>2-13</pages>
+<year>2008</year>
+<booktitle>ASPLOS</booktitle>
+<ee>https://doi.org/10.1145/1346281.1346284</ee>
+<ee>https://doi.org/10.1145/1353536.1346284</ee>
+<ee>https://doi.org/10.1145/1353534.1346284</ee>
+<ee>https://doi.org/10.1145/1353535.1346284</ee>
+<crossref>conf/asplos/2008</crossref>
+<url>db/conf/asplos/asplos2008.html#ChenGLSWBDP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/PortsG08" mdate="2020-03-12">
+<author pid="03/6105">Dan R. K. Ports</author>
+<author pid="55/1439">Tal Garfinkel</author>
+<title>Towards Application Security on Untrusted Operating Systems.</title>
+<year>2008</year>
+<booktitle>HotSec</booktitle>
+<ee type="oa">http://www.usenix.org/events/hotsec08/tech/full_papers/ports/ports.pdf</ee>
+<crossref>conf/uss/2008hotsec</crossref>
+<url>db/conf/uss/hotsec2008.html#PortsG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iptps/ClementsPK05" mdate="2022-10-02">
+<author pid="21/659">Austin T. Clements</author>
+<author pid="03/6105">Dan R. K. Ports</author>
+<author orcid="0000-0002-0024-5847" pid="k/DavidRKarger">David R. Karger</author>
+<title>Arpeggio: Metadata Searching and Content Sharing with Chord.</title>
+<pages>58-68</pages>
+<year>2005</year>
+<crossref>conf/iptps/2005</crossref>
+<booktitle>IPTPS</booktitle>
+<ee>https://doi.org/10.1007/11558989_6</ee>
+<url>db/conf/iptps/iptps2005.html#ClementsPK05</url>
+</inproceedings>
+</r>
+<coauthors n="125" nc="1">
+<co c="0"><na f="a/Ackerman:Isaac" pid="154/0916">Isaac Ackerman</na></co>
+<co c="0"><na f="a/Alama:Omar" pid="309/5752">Omar Alama</na></co>
+<co c="0"><na f="a/Anderson:Thomas_E=" pid="a/ThomasEAnderson">Thomas E. Anderson</na></co>
+<co c="0"><na f="b/Badam:Anirudh" pid="51/8142">Anirudh Badam</na></co>
+<co c="0"><na f="b/Bai:Zhihao" pid="234/8717">Zhihao Bai</na></co>
+<co c="0"><na f="b/Bailey:Katelin" pid="15/880">Katelin Bailey</na></co>
+<co c="0"><na f="b/Balazinska:Magdalena" pid="b/MagdalenaBalazinska">Magdalena Balazinska</na></co>
+<co c="0"><na f="b/Bianchini:Ricardo" pid="85/2722">Ricardo Bianchini</na></co>
+<co c="0"><na f="b/Binnig:Carsten" pid="45/1559">Carsten Binnig</na></co>
+<co c="0"><na f="b/Blankstein:Aaron" pid="123/8712">Aaron Blankstein</na></co>
+<co c="0"><na f="b/Boneh:Dan" pid="b/DanBoneh">Dan Boneh</na></co>
+<co c="0"><na f="b/Bornholt:James" pid="142/3208">James Bornholt</na></co>
+<co c="0"><na f="b/Burke_0001:Matthew" pid="207/1878-1">Matthew Burke 0001</na></co>
+<co c="0"><na f="c/Canini:Marco" pid="24/5715">Marco Canini</na></co>
+<co c="0"><na f="c/Ceze:Luis" pid="95/5263">Luis Ceze</na></co>
+<co c="0"><na f="c/Chen:Xiaoxin" pid="17/2084">Xiaoxin Chen</na></co>
+<co c="0"><na f="c/Cheng:Peng" pid="76/185">Peng Cheng</na></co>
+<co c="0"><na f="c/Cheng_0005:Peng" pid="76/185-5">Peng Cheng 0005</na></co>
+<co c="0"><na f="c/Cheng:Wenxue" pid="180/5887">Wenxue Cheng</na></co>
+<co c="0"><na f="c/Cheng:Winnie" pid="31/2469">Winnie Cheng</na></co>
+<co c="0"><na f="c/Choi:Inho" pid="77/3578">Inho Choi</na></co>
+<co c="0"><na f="c/Clements:Austin_T=" pid="21/659">Austin T. Clements</na></co>
+<co c="0"><na f="c/Cole:Corey" pid="204/3691">Corey Cole</na></co>
+<co c="0"><na f="c/Cowling:James_A=" pid="50/1855">James A. Cowling</na></co>
+<co c="0"><na f="c/Cudr=eacute==Mauroux:Philippe" pid="71/5578">Philippe Cudr&#233;-Mauroux</na></co>
+<co c="0"><na f="c/Curtis:Dorothy" pid="c/DCurtis">Dorothy Curtis</na></co>
+<co c="0"><na f="d/Delimitrou:Christina" pid="69/9942">Christina Delimitrou</na></co>
+<co c="0"><na f="d/Dharanipragada:Sowmya" pid="304/2790">Sowmya Dharanipragada</na></co>
+<co c="0"><na f="d/Dwoskin:Jeffrey_S=" pid="58/5604">Jeffrey S. Dwoskin</na></co>
+<co c="0"><na f="f/Fei:Jiawei" pid="203/3131">Jiawei Fei</na></co>
+<co c="0"><na f="f/Feibish:Shir_Landau" pid="77/6415">Shir Landau Feibish</na></co>
+<co c="0"><na f="f/Fried:Joshua" pid="170/3621">Joshua Fried</na></co>
+<co c="0"><na f="g/Gaikwad:Abhijeet" pid="60/6540">Abhijeet Gaikwad</na></co>
+<co c="0"><na f="g/Gao:Liang" pid="17/6853">Liang Gao</na></co>
+<co c="0"><na f="g/Garfinkel:Tal" pid="55/1439">Tal Garfinkel</na></co>
+<co c="0"><na f="g/Gogte:Vaibhav" pid="175/0549">Vaibhav Gogte</na></co>
+<co c="0"><na f="g/Govindan:Sriram" pid="18/4286">Sriram Govindan</na></co>
+<co c="0" n="2"><na f="g/Gribble:Steve_D=" pid="g/StevenDGribble">Steve D. Gribble</na><na>Steven D. Gribble</na></co>
+<co c="-1"><na f="g/Grittner:Kevin" pid="117/6013">Kevin Grittner</na></co>
+<co c="0"><na f="g/Gudmundsdottir:Helga" pid="140/7166">Helga Gudmundsdottir</na></co>
+<co c="0"><na f="g/Gunawi:Haryadi_S=" pid="84/5664">Haryadi S. Gunawi</na></co>
+<co c="0"><na f="h/Hao:Mingzhe" pid="141/9091">Mingzhe Hao</na></co>
+<co c="0"><na f="h/He:Zongying" pid="356/9559">Zongying He</na></co>
+<co c="0"><na f="h/Ho_0001:Chen=Yu" pid="197/0617-1">Chen-Yu Ho 0001</na></co>
+<co c="0"><na f="h/Holt:Brandon" pid="145/7763">Brandon Holt</na></co>
+<co c="0"><na f="h/Hong:Yi" pid="65/5746">Yi Hong</na></co>
+<co c="0"><na f="h/Huang:Jinghan" pid="302/5253">Jinghan Huang</na></co>
+<co c="0"><na f="h/Hussein:Rana" pid="228/2560">Rana Hussein</na></co>
+<co c="0"><na f="j/Jasny:Matthias" pid="266/6082">Matthias Jasny</na></co>
+<co c="0"><na f="j/Jepsen:Theo" pid="188/5904">Theo Jepsen</na></co>
+<co c="0"><na f="j/Jin_0008:Xin" pid="68/3340-8">Xin Jin 0008</na></co>
+<co c="0"><na f="j/Joshi:Raj" pid="137/0874">Raj Joshi</na></co>
+<co c="0"><na f="j/Joyner:Shannon" pid="256/1012">Shannon Joyner</na></co>
+<co c="0"><na f="k/Kalnis:Panos" pid="97/3036">Panos Kalnis</na></co>
+<co c="0"><na f="k/Karger:David_R=" pid="k/DavidRKarger">David R. Karger</na></co>
+<co c="0"><na f="k/Keidar:Idit" pid="k/IditKeidar">Idit Keidar</na></co>
+<co c="0"><na f="k/Kim:Changhoon" pid="55/4381">Changhoon Kim</na></co>
+<co c="0"><na f="k/Kim:Daehyeok" pid="115/6369">Daehyeok Kim</na></co>
+<co c="0"><na f="k/Kim:Nam_Sung" pid="18/1402">Nam Sung Kim</na></co>
+<co c="0"><na f="k/Krishnamurthy:Arvind" pid="k/AKrishnamurthy">Arvind Krishnamurthy</na></co>
+<co c="0"><na f="l/Lai:Guohong" pid="350/2386">Guohong Lai</na></co>
+<co c="0"><na f="l/Lerner:Alberto" pid="l/AlbertoLerner">Alberto Lerner</na></co>
+<co c="0"><na f="l/Levy:Henry_M=" pid="l/HenryMLevy">Henry M. Levy</na></co>
+<co c="0"><na f="l/Lewis:E=_Christopher" pid="58/5295">E. Christopher Lewis</na></co>
+<co c="0"><na f="l/Li:Huaicheng" pid="197/7182">Huaicheng Li</na></co>
+<co c="0"><na f="l/Li_0001:Jialin" pid="75/4924-1">Jialin Li 0001</na></co>
+<co c="0"><na f="l/Li:Yunfan" pid="80/1874">Yunfan Li</na></co>
+<co c="0"><na f="l/Liskov:Barbara" pid="l/BarbaraLiskov">Barbara Liskov</na></co>
+<co c="0"><na f="l/Liu_0001:Vincent" pid="22/9263-1">Vincent Liu 0001</na></co>
+<co c="0"><na f="l/Liu:Ziyuan" pid="43/10164">Ziyuan Liu</na></co>
+<co c="0"><na f="m/Madden_0001:Samuel" pid="m/SamuelMadden">Samuel Madden 0001</na></co>
+<co c="0"><na f="m/Michael:Ellis" pid="191/4186">Ellis Michael</na></co>
+<co c="0"><na f="m/Moshref:Masoud" pid="134/3932">Masoud Moshref</na></co>
+<co c="0"><na f="n/Nelson_0001:Jacob" pid="35/9256-1">Jacob Nelson 0001</na></co>
+<co c="0"><na f="n/Niu:Zhixiong" pid="180/5804">Zhixiong Niu</na></co>
+<co c="0"><na f="n/Novakovic:Stanko" pid="142/3209">Stanko Novakovic</na></co>
+<co c="0"><na f="o/Oskin:Mark" pid="o/MarkOskin">Mark Oskin</na></co>
+<co c="0"><na f="p/Panda:Aurojit" pid="55/925">Aurojit Panda</na></co>
+<co c="0"><na f="p/Paula:Igor_Lima_de" pid="289/1274">Igor Lima de Paula</na></co>
+<co c="0"><na f="p/Peter_0001:Simon" pid="43/3917">Simon Peter 0001</na></co>
+<co c="0" n="2"><na f="p/Popa:Raluca_A=" pid="91/275">Raluca A. Popa</na><na>Raluca Ada Popa</na></co>
+<co c="0"><na f="p/Popic:Victoria" pid="131/4786">Victoria Popic</na></co>
+<co c="0"><na f="r/Rashelbach:Alon" pid="259/1225">Alon Rashelbach</na></co>
+<co c="0"><na f="r/Richt=aacute=rik:Peter" pid="62/8001">Peter Richt&#225;rik</na></co>
+<co c="0"><na f="r/Rinberg:Arik" pid="236/6349">Arik Rinberg</na></co>
+<co c="0"><na f="r/Roesner:Franziska" pid="23/2758">Franziska Roesner</na></co>
+<co c="0"><na f="r/Roscoe:Timothy" pid="r/TimothyRoscoe">Timothy Roscoe</na></co>
+<co c="0"><na f="r/Ruffy:Fabian" pid="223/0452">Fabian Ruffy</na></co>
+<co c="0"><na f="s/Salimi:Babak" pid="11/6446">Babak Salimi</na></co>
+<co c="0"><na f="s/Sapio:Amedeo" pid="155/9504">Amedeo Sapio</na></co>
+<co c="0"><na f="s/Schultz:David_A=" pid="88/95">David A. Schultz</na></co>
+<co c="0"><na f="s/Sekar:Vyas" pid="45/4044">Vyas Sekar</na></co>
+<co c="0"><na f="s/Seshan:Srinivasan" pid="s/SrinivasanSeshan">Srinivasan Seshan</na></co>
+<co c="0"><na f="s/Sharma:Naveen_Kr=" pid="88/8770">Naveen Kr. Sharma</na></co>
+<co c="0"><na f="s/Shen:Haichen" pid="34/8397">Haichen Shen</na></co>
+<co c="0"><na f="s/Shrira:Liuba" pid="s/LiubaShrira">Liuba Shrira</na></co>
+<co c="0"><na f="s/Shu_0001:Ran" pid="06/11343-1">Ran Shu 0001</na></co>
+<co c="0"><na f="s/Silberstein:Mark" pid="94/2996">Mark Silberstein</na></co>
+<co c="0"><na f="s/Sivaraman:Anirudh" pid="123/2342">Anirudh Sivaraman</na></co>
+<co c="0"><na f="s/Stoica:Ion" pid="s/IonStoica">Ion Stoica</na></co>
+<co c="0"><na f="s/Subrahmanyam:Pratap" pid="64/2373">Pratap Subrahmanyam</na></co>
+<co c="0"><na f="s/Suciu:Dan" pid="s/DanSuciu">Dan Suciu</na></co>
+<co c="0"><na f="s/Sun:Yan" pid="181/2323">Yan Sun</na></co>
+<co c="0"><na f="s/Szekeres:Adriana" pid="69/9867">Adriana Szekeres</na></co>
+<co c="0" n="2"><na f="t/Tai:Tsung=Yuan_Charlie" pid="82/8969">Tsung-Yuan Charlie Tai</na><na>Charlie Tai</na></co>
+<co c="0"><na f="t/Thostrup:Lasse" pid="233/6278">Lasse Thostrup</na></co>
+<co c="0"><na f="w/Wadekar:Nimish" pid="353/2772">Nimish Wadekar</na></co>
+<co c="0"><na f="w/Waldspurger:Carl_A=" pid="40/1118">Carl A. Waldspurger</na></co>
+<co c="0"><na f="w/Wang:Na" pid="44/5770">Na Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Ren" pid="29/50-1">Ren Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Tao" pid="12/5838">Tao Wang</na></co>
+<co c="0"><na f="w/Wang:Tianchen" pid="154/2965">Tianchen Wang</na></co>
+<co c="0"><na f="w/Wang_0002:Yipeng" pid="36/4627-2">Yipeng Wang 0002</na></co>
+<co c="0"><na f="w/Whittaker:Michael_J=" pid="247/8172">Michael J. Whittaker</na></co>
+<co c="0"><na f="w/Woos:Doug" pid="149/9232">Doug Woos</na></co>
+<co c="0"><na f="x/Xiong:Yongqiang" pid="57/4569">Yongqiang Xiong</na></co>
+<co c="0"><na f="y/Yuan:Lihua" pid="61/2443">Lihua Yuan</na></co>
+<co c="0"><na f="y/Yuan:Yifan" pid="167/0634">Yifan Yuan</na></co>
+<co c="0"><na f="z/Zbikowski:Mark" pid="150/6043">Mark Zbikowski</na></co>
+<co c="0"><na f="z/Zeno:Lior" pid="176/9173">Lior Zeno</na></co>
+<co c="0"><na f="z/Zhang:Irene" pid="68/1122">Irene Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Qiao" pid="37/3831-1">Qiao Zhang 0001</na></co>
+<co c="0"><na f="z/Zhu:Hang" pid="127/6289">Hang Zhu</na></co>
+<co c="0"><na f="z/Zhuo:Danyang" pid="151/7537">Danyang Zhuo</na></co>
+<co c="0"><na f="z/Ziegler_0001:Tobias" pid="146/6632">Tobias Ziegler 0001</na></co>
+</coauthors>
+</dblpperson>

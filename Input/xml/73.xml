@@ -1,0 +1,1719 @@
+<dblpperson name="Barna Saha" pid="66/3027" n="122">
+<person key="homepages/66/3027" mdate="2023-12-07">
+<author pid="66/3027">Barna Saha</author>
+<url>https://barnasaha.net/</url>
+<url>https://vcresearch.berkeley.edu/faculty/barna-saha</url>
+<url>https://scholar.google.com/citations?user=BsmjRdoAAAAJ</url>
+<url>https://dl.acm.org/profile/99659539200</url>
+<url>https://mathscinet.ams.org/mathscinet/MRAuthorID/815790</url>
+<url>https://mathgenealogy.org/id.php?id=155762</url>
+<url>https://en.wikipedia.org/wiki/Barna_Saha</url>
+<url>https://www.wikidata.org/entity/Q76877611</url>
+<url>https://ieeexplore.ieee.org/author/37077381800</url>
+<note type="affiliation">University of California, San Diego, CA, USA</note>
+<note label="former" type="affiliation">University of California Berkeley, CA, USA</note>
+</person>
+<r><inproceedings key="conf/innovations/HenzingerSSY24" mdate="2024-02-05">
+<author pid="h/MonikaRauchHenzinger">Monika Henzinger</author>
+<author pid="66/3027">Barna Saha</author>
+<author orcid="0000-0001-6901-3035" pid="193/9719">Martin P. Seybold</author>
+<author pid="304/2086">Christopher Ye</author>
+<title>On the Complexity of Algorithms with Predictions for Dynamic Graph Problems.</title>
+<pages>62:1-62:25</pages>
+<year>2024</year>
+<booktitle>ITCS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ITCS.2024.62</ee>
+<crossref>conf/innovations/2024</crossref>
+<url>db/conf/innovations/innovations2024.html#HenzingerSSY24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/SahaY24" mdate="2024-04-04">
+<author pid="66/3027">Barna Saha</author>
+<author pid="304/2086">Christopher Ye</author>
+<title>Faster Approximate All Pairs Shortest Paths.</title>
+<pages>4758-4827</pages>
+<year>2024</year>
+<booktitle>SODA</booktitle>
+<ee>https://doi.org/10.1137/1.9781611977912.170</ee>
+<crossref>conf/soda/2024</crossref>
+<url>db/conf/soda/soda2024.html#SahaY24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-07443" mdate="2024-02-16">
+<author pid="66/3027">Barna Saha</author>
+<author pid="304/2086">Christopher Ye</author>
+<title>The I/O Complexity of Attention, or How Optimal is Flash Attention?</title>
+<year>2024</year>
+<volume>abs/2402.07443</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.07443</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-07443</url>
+</article>
+</r>
+<r><inproceedings key="conf/focs/Kociumaka0S23" mdate="2024-01-02">
+<author pid="38/9892">Tomasz Kociumaka</author>
+<author pid="159/2023">Anish Mukherjee 0001</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Approximating Edit Distance in the Fully Dynamic Model.</title>
+<pages>1628-1638</pages>
+<year>2023</year>
+<booktitle>FOCS</booktitle>
+<ee>https://doi.org/10.1109/FOCS57990.2023.00098</ee>
+<crossref>conf/focs/2023</crossref>
+<url>db/conf/focs/focs2023.html#Kociumaka0S23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/innovations/GoldenbergKKS23" mdate="2023-02-02">
+<author pid="72/1836">Elazar Goldenberg</author>
+<author pid="38/9892">Tomasz Kociumaka</author>
+<author pid="k/RobertKrauthgamer">Robert Krauthgamer</author>
+<author pid="66/3027">Barna Saha</author>
+<title>An Algorithmic Bridge Between Hamming and Levenshtein Distances.</title>
+<pages>58:1-58:23</pages>
+<year>2023</year>
+<booktitle>ITCS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ITCS.2023.58</ee>
+<crossref>conf/innovations/2023</crossref>
+<url>db/conf/innovations/innovations2023.html#GoldenbergKKS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stoc/0001GHKS23" mdate="2023-05-22">
+<author pid="145/0249-1">Debarati Das 0001</author>
+<author pid="270/2139">Jacob Gilbert</author>
+<author pid="334/4488">MohammadTaghi Hajiaghayi</author>
+<author pid="38/9892">Tomasz Kociumaka</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Weighted Edit Distance Computation: Strings, Trees, and Dyck.</title>
+<pages>377-390</pages>
+<year>2023</year>
+<booktitle>STOC</booktitle>
+<ee>https://doi.org/10.1145/3564246.3585178</ee>
+<crossref>conf/stoc/2023</crossref>
+<url>db/conf/stoc/stoc2023.html#0001GHKS23</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/stoc/2023" mdate="2023-05-22">
+<editor pid="66/3027">Barna Saha</editor>
+<editor pid="s/RAServedio">Rocco A. Servedio</editor>
+<title>Proceedings of the 55th Annual ACM Symposium on Theory of Computing, STOC 2023, Orlando, FL, USA, June 20-23, 2023</title>
+<booktitle>STOC</booktitle>
+<publisher>ACM</publisher>
+<year>2023</year>
+<isbn>978-1-4503-9913-5</isbn>
+<ee>https://doi.org/10.1145/3564246</ee>
+<url>db/conf/stoc/stoc2023.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-04229" mdate="2023-02-10">
+<author pid="145/0249-1">Debarati Das 0001</author>
+<author pid="270/2139">Jacob Gilbert</author>
+<author pid="334/4488">MohammadTaghi Hajiaghayi</author>
+<author pid="38/9892">Tomasz Kociumaka</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Weighted Edit Distance Computation: Strings, Trees and Dyck.</title>
+<year>2023</year>
+<volume>abs/2302.04229</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.04229</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-04229</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-07175" mdate="2023-11-13">
+<author pid="38/9892">Tomasz Kociumaka</author>
+<author pid="159/2023">Anish Mukherjee 0001</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Approximating Edit Distance in the Fully Dynamic Model.</title>
+<year>2023</year>
+<volume>abs/2307.07175</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.07175</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-07175</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-16771" mdate="2023-08-02">
+<author pid="h/MonikaRauchHenzinger">Monika Henzinger</author>
+<author pid="59/9032">Andrea Lincoln</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="193/9719">Martin P. Seybold</author>
+<author pid="304/2086">Christopher Ye</author>
+<title>On the Complexity of Algorithms with Predictions for Dynamic Graph Problems.</title>
+<year>2023</year>
+<volume>abs/2307.16771</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.16771</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-16771</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-13225" mdate="2023-09-27">
+<author pid="66/3027">Barna Saha</author>
+<author pid="304/2086">Christopher Ye</author>
+<title>Faster Approximate All Pairs Shortest Paths.</title>
+<year>2023</year>
+<volume>abs/2309.13225</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.13225</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-13225</url>
+</article>
+</r>
+<r><inproceedings key="conf/approx/DasS22" mdate="2022-09-26">
+<author pid="145/0249-1">Debarati Das 0001</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Approximating LCS and Alignment Distance over Multiple Sequences.</title>
+<pages>54:1-54:21</pages>
+<year>2022</year>
+<booktitle>APPROX/RANDOM</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2022.54</ee>
+<crossref>conf/approx/2022</crossref>
+<url>db/conf/approx/approx2022.html#DasS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/focs/GoldenbergKKS22" mdate="2023-09-30">
+<author pid="72/1836">Elazar Goldenberg</author>
+<author orcid="0000-0002-2477-1702" pid="38/9892">Tomasz Kociumaka</author>
+<author orcid="0009-0003-8154-3735" pid="k/RobertKrauthgamer">Robert Krauthgamer</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Gap Edit Distance via Non-Adaptive Queries: Simple and Optimal.</title>
+<pages>674-685</pages>
+<year>2022</year>
+<crossref>conf/focs/2022</crossref>
+<booktitle>FOCS</booktitle>
+<ee>https://doi.org/10.1109/FOCS54457.2022.00070</ee>
+<url>db/conf/focs/focs2022.html#GoldenbergKKS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/focs/0001GHKSS22" mdate="2023-06-26">
+<author pid="145/0249-1">Debarati Das 0001</author>
+<author pid="270/2139">Jacob Gilbert</author>
+<author pid="334/4488">MohammadTaghi Hajiaghayi</author>
+<author orcid="0000-0002-2477-1702" pid="38/9892">Tomasz Kociumaka</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="220/4173">Hamed Saleh</author>
+<title>&#213;(n+poly(k))-time Algorithm for Bounded Tree Edit Distance.</title>
+<pages>686-697</pages>
+<year>2022</year>
+<crossref>conf/focs/2022</crossref>
+<booktitle>FOCS</booktitle>
+<ee>https://doi.org/10.1109/FOCS54457.2022.00071</ee>
+<url>db/conf/focs/focs2022.html#0001GHKSS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/0001KS22" mdate="2022-06-28">
+<author pid="145/0249-1">Debarati Das 0001</author>
+<author pid="38/9892">Tomasz Kociumaka</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Improved Approximation Algorithms for Dyck Edit Distance and RNA Folding.</title>
+<pages>49:1-49:20</pages>
+<year>2022</year>
+<booktitle>ICALP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICALP.2022.49</ee>
+<crossref>conf/icalp/2022</crossref>
+<url>db/conf/icalp/icalp2022.html#0001KS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GalhotraFSS22" mdate="2022-06-14">
+<author pid="136/7969">Sainyam Galhotra</author>
+<author pid="05/10127">Donatella Firmani</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Hierarchical Entity Resolution using an Oracle.</title>
+<pages>414-428</pages>
+<year>2022</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3514221.3526147</ee>
+<crossref>conf/sigmod/2022</crossref>
+<url>db/conf/sigmod/sigmod2022.html#GalhotraFSS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/HenzingerLS22" mdate="2022-04-12">
+<author pid="h/MonikaRauchHenzinger">Monika Henzinger</author>
+<author pid="59/9032">Andrea Lincoln</author>
+<author pid="66/3027">Barna Saha</author>
+<title>The Complexity of Average-Case Dynamic Subgraph Counting.</title>
+<pages>459-498</pages>
+<year>2022</year>
+<booktitle>SODA</booktitle>
+<ee>https://doi.org/10.1137/1.9781611977073.23</ee>
+<crossref>conf/soda/2022</crossref>
+<url>db/conf/soda/soda2022.html#HenzingerLS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/KempaS22" mdate="2022-04-12">
+<author pid="54/11279">Dominik Kempa</author>
+<author pid="66/3027">Barna Saha</author>
+<title>An Upper Bound and Linear-Space Queries on the LZ-End Parsing.</title>
+<pages>2847-2866</pages>
+<year>2022</year>
+<booktitle>SODA</booktitle>
+<ee>https://doi.org/10.1137/1.9781611977073.111</ee>
+<crossref>conf/soda/2022</crossref>
+<url>db/conf/soda/soda2022.html#KempaS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/GaneshKLS22" mdate="2022-04-12">
+<author pid="201/4732">Arun Ganesh</author>
+<author pid="38/9892">Tomasz Kociumaka</author>
+<author pid="59/9032">Andrea Lincoln</author>
+<author pid="66/3027">Barna Saha</author>
+<title>How Compression and Approximation Affect Efficiency in String Distance Measures.</title>
+<pages>2867-2919</pages>
+<year>2022</year>
+<booktitle>SODA</booktitle>
+<ee>https://doi.org/10.1137/1.9781611977073.112</ee>
+<crossref>conf/soda/2022</crossref>
+<url>db/conf/soda/soda2022.html#GaneshKLS22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-11303" mdate="2022-06-27">
+<author pid="136/7969">Sainyam Galhotra</author>
+<author pid="77/6050">Arya Mazumdar</author>
+<author pid="206/6371">Soumyabrata Pal</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Community Recovery in the Geometric Block Model.</title>
+<year>2022</year>
+<volume>abs/2206.11303</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.11303</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-11303</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2209-07524" mdate="2022-09-27">
+<author pid="145/0249-1">Debarati Das 0001</author>
+<author pid="270/2139">Jacob Gilbert</author>
+<author pid="334/4488">MohammadTaghi Hajiaghayi</author>
+<author pid="38/9892">Tomasz Kociumaka</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="220/4173">Hamed Saleh</author>
+<title>O&#771;(n+poly(k))-time Algorithm for Bounded Tree Edit Distance.</title>
+<year>2022</year>
+<volume>abs/2209.07524</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2209.07524</ee>
+<url>db/journals/corr/corr2209.html#abs-2209-07524</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-12496" mdate="2022-11-24">
+<author pid="72/1836">Elazar Goldenberg</author>
+<author pid="38/9892">Tomasz Kociumaka</author>
+<author pid="k/RobertKrauthgamer">Robert Krauthgamer</author>
+<author pid="66/3027">Barna Saha</author>
+<title>An Algorithmic Bridge Between Hamming and Levenshtein Distances.</title>
+<year>2022</year>
+<volume>abs/2211.12496</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.12496</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-12496</url>
+</article>
+</r>
+<r><article key="journals/pvldb/AddankiGS21" mdate="2022-04-21">
+<author pid="218/5579">Raghavendra Addanki</author>
+<author pid="136/7969">Sainyam Galhotra</author>
+<author pid="66/3027">Barna Saha</author>
+<title>How to Design Robust Algorithms using Noisy Comparison Oracle.</title>
+<pages>1703-1716</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p1703-galhotra.pdf</ee>
+<ee>https://doi.org/10.14778/3467861.3467862</ee>
+<url>db/journals/pvldb/pvldb14.html#AddankiGS21</url>
+</article>
+</r>
+<r><article key="journals/vldb/GalhotraFSS21" mdate="2021-07-29">
+<author orcid="0000-0003-2529-4036" pid="136/7969">Sainyam Galhotra</author>
+<author pid="05/10127">Donatella Firmani</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Efficient and effective ER with progressive blocking.</title>
+<pages>537-557</pages>
+<year>2021</year>
+<volume>30</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00778-021-00656-7</ee>
+<url>db/journals/vldb/vldb30.html#GalhotraFSS21</url>
+</article>
+</r>
+<r><inproceedings key="conf/mfcs/Saha21" mdate="2021-08-25">
+<author pid="66/3027">Barna Saha</author>
+<title>Sublinear Algorithms for Edit Distance (Invited Talk).</title>
+<pages>5:1-5:1</pages>
+<year>2021</year>
+<booktitle>MFCS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.MFCS.2021.5</ee>
+<crossref>conf/mfcs/2021</crossref>
+<url>db/conf/mfcs/mfcs2021.html#Saha21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/Saha21" mdate="2021-06-21">
+<author pid="66/3027">Barna Saha</author>
+<title>Approximation Algorithms for Large Scale Data Analysis.</title>
+<pages>30-32</pages>
+<year>2021</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/3452021.3458813</ee>
+<crossref>conf/pods/2021</crossref>
+<url>db/conf/pods/pods2021.html#Saha21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GalhotraFSS21" mdate="2021-06-21">
+<author pid="136/7969">Sainyam Galhotra</author>
+<author pid="05/10127">Donatella Firmani</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>BEER: Blocking for Effective Entity Resolution.</title>
+<pages>2711-2715</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3452747</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#GalhotraFSS21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-05782" mdate="2021-05-18">
+<author pid="218/5579">Raghavendra Addanki</author>
+<author pid="136/7969">Sainyam Galhotra</author>
+<author pid="66/3027">Barna Saha</author>
+<title>How to Design Robust Algorithms using Noisy Comparison Oracle.</title>
+<year>2021</year>
+<volume>abs/2105.05782</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.05782</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-05782</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2108-09115" mdate="2021-08-23">
+<author pid="72/1836">Elazar Goldenberg</author>
+<author pid="11/10308">Aviad Rubinstein</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Does Preprocessing help in Fast Sequence Comparisons?</title>
+<year>2021</year>
+<volume>abs/2108.09115</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2108.09115</ee>
+<url>db/journals/corr/corr2108.html#abs-2108-09115</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2110-12402" mdate="2021-11-05">
+<author pid="145/0249-1">Debarati Das 0001</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Approximating LCS and Alignment Distance over Multiple Sequences.</title>
+<year>2021</year>
+<volume>abs/2110.12402</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2110.12402</ee>
+<url>db/journals/corr/corr2110.html#abs-2110-12402</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2111-12706" mdate="2021-11-26">
+<author pid="72/1836">Elazar Goldenberg</author>
+<author pid="38/9892">Tomasz Kociumaka</author>
+<author pid="k/RobertKrauthgamer">Robert Krauthgamer</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Gap Edit Distance via Non-Adaptive Queries: Simple and Optimal.</title>
+<year>2021</year>
+<volume>abs/2111.12706</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2111.12706</ee>
+<url>db/journals/corr/corr2111.html#abs-2111-12706</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-05836" mdate="2022-01-03">
+<author pid="201/4732">Arun Ganesh</author>
+<author pid="38/9892">Tomasz Kociumaka</author>
+<author pid="59/9032">Andrea Lincoln</author>
+<author pid="66/3027">Barna Saha</author>
+<title>How Compression and Approximation Affect Efficiency in String Distance Measures.</title>
+<year>2021</year>
+<volume>abs/2112.05836</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.05836</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-05836</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-05866" mdate="2022-01-03">
+<author pid="145/0249-1">Debarati Das 0001</author>
+<author pid="38/9892">Tomasz Kociumaka</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Improved Approximation Algorithms for Dyck Edit Distance and RNA Folding.</title>
+<year>2021</year>
+<volume>abs/2112.05866</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.05866</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-05866</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/eccc/HenzingerLS21" mdate="2022-09-27">
+<author pid="h/MonikaRauchHenzinger">Monika Henzinger</author>
+<author pid="59/9032">Andrea Lincoln</author>
+<author pid="66/3027">Barna Saha</author>
+<title>The Complexity of Average-Case Dynamic Subgraph Counting.</title>
+<publnr>TR21-157</publnr>
+<year>2021</year>
+<volume>TR21</volume>
+<journal>Electron. Colloquium Comput. Complex.</journal>
+<ee type="oa">https://eccc.weizmann.ac.il/report/2021/157</ee>
+<url>db/journals/eccc/eccc28.html#HenzingerLS21</url>
+</article>
+</r>
+<r><inproceedings key="conf/focs/KociumakaS20" mdate="2023-06-26">
+<author orcid="0000-0002-2477-1702" pid="38/9892">Tomasz Kociumaka</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Sublinear-Time Algorithms for Computing &amp; Embedding Gap Edit Distance.</title>
+<pages>1168-1179</pages>
+<year>2020</year>
+<booktitle>FOCS</booktitle>
+<ee>https://doi.org/10.1109/FOCS46700.2020.00112</ee>
+<crossref>conf/focs/2020</crossref>
+<url>db/conf/focs/focs2020.html#KociumakaS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stoc/GoldenbergRS20" mdate="2020-06-09">
+<author pid="72/1836">Elazar Goldenberg</author>
+<author pid="11/10308">Aviad Rubinstein</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Does preprocessing help in fast sequence comparisons?</title>
+<pages>657-670</pages>
+<year>2020</year>
+<booktitle>STOC</booktitle>
+<ee>https://doi.org/10.1145/3357713.3384300</ee>
+<crossref>conf/stoc/2020</crossref>
+<url>db/conf/stoc/stoc2020.html#GoldenbergRS20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-03508" mdate="2020-12-23">
+<author pid="200/9551">Saba Ahmadi</author>
+<author pid="136/7969">Sainyam Galhotra</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="19/376-2">Roy Schwartz 0002</author>
+<title>Fair Correlation Clustering.</title>
+<year>2020</year>
+<volume>abs/2002.03508</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.03508</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-03508</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2005-14326" mdate="2020-06-03">
+<author pid="136/7969">Sainyam Galhotra</author>
+<author pid="05/10127">Donatella Firmani</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Efficient and Effective ER with Progressive Blocking.</title>
+<year>2020</year>
+<volume>abs/2005.14326</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2005.14326</ee>
+<url>db/journals/corr/corr2005.html#abs-2005-14326</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-12762" mdate="2020-07-29">
+<author pid="38/9892">Tomasz Kociumaka</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Sublinear-Time Algorithms for Computing &amp; Embedding Gap Edit Distance.</title>
+<year>2020</year>
+<volume>abs/2007.12762</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.12762</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-12762</url>
+</article>
+</r>
+<r><article key="journals/siamcomp/BringmannGSW19" mdate="2022-01-03">
+<author pid="96/2643">Karl Bringmann</author>
+<author orcid="0000-0002-9676-4931" pid="g/FGrandoni">Fabrizio Grandoni 0001</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="63/8319">Virginia Vassilevska Williams</author>
+<title>Truly Subcubic Algorithms for Language Edit Distance and RNA Folding via Fast Bounded-Difference Min-Plus Product.</title>
+<pages>481-512</pages>
+<year>2019</year>
+<volume>48</volume>
+<journal>SIAM J. Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1137/17M112720X</ee>
+<url>db/journals/siamcomp/siamcomp48.html#BringmannGSW19</url>
+</article>
+</r>
+<r><inproceedings key="conf/approx/GalhotraMPS19" mdate="2019-09-17">
+<author pid="136/7969">Sainyam Galhotra</author>
+<author pid="77/6050">Arya Mazumdar</author>
+<author pid="206/6371">Soumyabrata Pal</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Connectivity of Random Annulus Graphs and the Geometric Block Model.</title>
+<pages>53:1-53:23</pages>
+<year>2019</year>
+<booktitle>APPROX-RANDOM</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.APPROX-RANDOM.2019.53</ee>
+<crossref>conf/approx/2019</crossref>
+<url>db/conf/approx/approx2019.html#GalhotraMPS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esa/SahaS19" mdate="2019-09-08">
+<author pid="66/3027">Barna Saha</author>
+<author pid="228/8258">Sanjay Subramanian</author>
+<title>Correlation Clustering with Same-Cluster Queries Bounded by Optimal Cost.</title>
+<pages>81:1-81:17</pages>
+<year>2019</year>
+<booktitle>ESA</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ESA.2019.81</ee>
+<crossref>conf/esa/2019</crossref>
+<url>db/conf/esa/esa2019.html#SahaS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/focs/GoldenbergKS19" mdate="2023-09-30">
+<author pid="72/1836">Elazar Goldenberg</author>
+<author orcid="0009-0003-8154-3735" pid="k/RobertKrauthgamer">Robert Krauthgamer</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Sublinear Algorithms for Gap Edit Distance.</title>
+<pages>1101-1120</pages>
+<year>2019</year>
+<booktitle>FOCS</booktitle>
+<ee>https://doi.org/10.1109/FOCS.2019.00070</ee>
+<crossref>conf/focs/2019</crossref>
+<url>db/conf/focs/focs2019.html#GoldenbergKS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipco/AhmadiKS19" mdate="2019-05-02">
+<author pid="200/9551">Saba Ahmadi</author>
+<author pid="k/SamirKhuller">Samir Khuller</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Min-Max Correlation Clustering via MultiCut.</title>
+<pages>13-26</pages>
+<year>2019</year>
+<booktitle>IPCO</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-17953-3_2</ee>
+<crossref>conf/ipco/2019</crossref>
+<url>db/conf/ipco/ipco2019.html#AhmadiKS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/KobrenSM19" mdate="2019-07-28">
+<author pid="162/8983">Ari Kobren</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="m/AndrewMcCallum">Andrew McCallum</author>
+<title>Paper Matching with Local Fairness Constraints.</title>
+<pages>1247-1257</pages>
+<year>2019</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/3292500.3330899</ee>
+<crossref>conf/kdd/2019</crossref>
+<url>db/conf/kdd/kdd2019.html#KobrenSM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sebd/GalhotraFSS19" mdate="2023-03-10">
+<author pid="136/7969">Sainyam Galhotra</author>
+<author pid="05/10127">Donatella Firmani</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Crowd-Sourced Entity Resolution with Control Queries.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2400/paper-26.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#GalhotraFSS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stoc/AbboudA0PS19" mdate="2022-01-03">
+<author pid="129/1654">Amir Abboud</author>
+<author pid="218/5579">Raghavendra Addanki</author>
+<author orcid="0000-0002-9676-4931" pid="g/FGrandoni">Fabrizio Grandoni 0001</author>
+<author pid="81/6547">Debmalya Panigrahi</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Dynamic set cover: improved algorithms and lower bounds.</title>
+<pages>114-125</pages>
+<year>2019</year>
+<booktitle>STOC</booktitle>
+<ee>https://doi.org/10.1145/3313276.3316376</ee>
+<crossref>conf/stoc/2019</crossref>
+<url>db/conf/stoc/stoc2019.html#AbboudA0PS19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-11924" mdate="2019-06-03">
+<author pid="162/8983">Ari Kobren</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="m/AndrewMcCallum">Andrew McCallum</author>
+<title>Paper Matching with Local Fairness Constraints.</title>
+<year>2019</year>
+<volume>abs/1905.11924</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.11924</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-11924</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-00117" mdate="2020-12-23">
+<author pid="200/9551">Saba Ahmadi</author>
+<author pid="136/7969">Sainyam Galhotra</author>
+<author pid="k/SamirKhuller">Samir Khuller</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="19/376-2">Roy Schwartz 0002</author>
+<title>Min-Max Correlation Clustering via MultiCut.</title>
+<year>2019</year>
+<volume>abs/1907.00117</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.00117</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-00117</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-04976" mdate="2019-08-19">
+<author pid="66/3027">Barna Saha</author>
+<author pid="228/8258">Sanjay Subramanian</author>
+<title>Correlation Clustering with Same-Cluster Queries Bounded by Optimal Cost.</title>
+<year>2019</year>
+<volume>abs/1908.04976</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.04976</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-04976</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-00901" mdate="2019-10-04">
+<author pid="72/1836">Elazar Goldenberg</author>
+<author pid="k/RobertKrauthgamer">Robert Krauthgamer</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Sublinear Algorithms for Gap Edit Distance.</title>
+<year>2019</year>
+<volume>abs/1910.00901</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.00901</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-00901</url>
+</article>
+</r>
+<r><article key="journals/debu/FirmaniGSS18" mdate="2020-03-10">
+<author pid="05/10127">Donatella Firmani</author>
+<author pid="136/7969">Sainyam Galhotra</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Robust Entity Resolution Using a CrowdOracle.</title>
+<pages>91-103</pages>
+<year>2018</year>
+<volume>41</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<ee type="oa">http://sites.computer.org/debull/A18june/p91.pdf</ee>
+<url>db/journals/debu/debu41.html#FirmaniGSS18</url>
+</article>
+</r>
+<r><article key="journals/rsa/SahaS18" mdate="2018-06-21">
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/AravindSrinivasan">Aravind Srinivasan</author>
+<title>A new approximation technique for resource-allocation problems.</title>
+<pages>680-715</pages>
+<year>2018</year>
+<volume>52</volume>
+<journal>Random Struct. Algorithms</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/rsa.20756</ee>
+<url>db/journals/rsa/rsa52.html#SahaS18</url>
+</article>
+</r>
+<r><article key="journals/talg/BhattacharyyaGN18" mdate="2022-01-03">
+<author pid="64/574">Arnab Bhattacharyya 0001</author>
+<author orcid="0000-0002-9676-4931" pid="g/FGrandoni">Fabrizio Grandoni 0001</author>
+<author pid="24/7867">Aleksandar Nikolov</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="11/5491">Saket Saurabh 0001</author>
+<author pid="84/7804">Aravindan Vijayaraghavan</author>
+<author pid="45/47-1">Qin Zhang 0001</author>
+<title>Editorial: ACM-SIAM Symposium on Discrete Algorithms (SODA) 2016 Special Issue.</title>
+<pages>26:1-26:2</pages>
+<year>2018</year>
+<volume>14</volume>
+<journal>ACM Trans. Algorithms</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3230647</ee>
+<url>db/journals/talg/talg14.html#BhattacharyyaGN18</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/GalhotraMPS18" mdate="2023-09-04">
+<author pid="136/7969">Sainyam Galhotra</author>
+<author pid="77/6050">Arya Mazumdar</author>
+<author pid="206/6371">Soumyabrata Pal</author>
+<author pid="66/3027">Barna Saha</author>
+<title>The Geometric Block Model.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v32i1.11905</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#GalhotraMPS18</url>
+<pages>2215-2222</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/allerton/GalhotraPMS18" mdate="2019-02-13">
+<author pid="136/7969">Sainyam Galhotra</author>
+<author pid="206/6371">Soumyabrata Pal</author>
+<author pid="77/6050">Arya Mazumdar</author>
+<author pid="66/3027">Barna Saha</author>
+<title>The Geometric Block Model and Applications.</title>
+<pages>1147-1150</pages>
+<year>2018</year>
+<booktitle>Allerton</booktitle>
+<ee>https://doi.org/10.1109/ALLERTON.2018.8635938</ee>
+<crossref>conf/allerton/2018</crossref>
+<url>db/conf/allerton/allerton2018.html#GalhotraPMS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GalhotraFSS18" mdate="2019-10-19">
+<author pid="136/7969">Sainyam Galhotra</author>
+<author orcid="0000-0003-0358-3208" pid="05/10127">Donatella Firmani</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Robust Entity Resolution using Random Graphs.</title>
+<pages>3-18</pages>
+<year>2018</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3183713.3183755</ee>
+<crossref>conf/sigmod/2018</crossref>
+<url>db/conf/sigmod/sigmod2018.html#GalhotraFSS18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-03197" mdate="2018-08-13">
+<author pid="218/5579">Raghavendra Addanki</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Fully Dynamic Set Cover - Improved and Simple.</title>
+<year>2018</year>
+<volume>abs/1804.03197</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.03197</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-03197</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-05013" mdate="2018-08-13">
+<author pid="136/7969">Sainyam Galhotra</author>
+<author pid="77/6050">Arya Mazumdar</author>
+<author pid="206/6371">Soumyabrata Pal</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Connectivity in Random Annulus Graphs and the Geometric Block Model.</title>
+<year>2018</year>
+<volume>abs/1804.05013</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.05013</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-05013</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/MazumdarS17" mdate="2023-09-04">
+<author pid="77/6050">Arya Mazumdar</author>
+<author pid="66/3027">Barna Saha</author>
+<title>A Theoretical Analysis of First Heuristics of Crowdsourced Entity Resolution.</title>
+<pages>970-976</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v31i1.10636</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#MazumdarS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/focs/Saha17" mdate="2023-03-23">
+<author pid="66/3027">Barna Saha</author>
+<title>Fast &amp; Space-Efficient Approximations of Language Edit Distance and RNA Folding: An Amnesic Dynamic Programming Approach.</title>
+<pages>295-306</pages>
+<year>2017</year>
+<booktitle>FOCS</booktitle>
+<ee>https://doi.org/10.1109/FOCS.2017.35</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/FOCS.2017.35</ee>
+<crossref>conf/focs/2017</crossref>
+<url>db/conf/focs/focs2017.html#Saha17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/JayaramS17" mdate="2018-08-23">
+<author pid="202/9970">Rajesh Jayaram</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Approximating Language Edit Distance Beyond Fast Matrix Multiplication: Ultralinear Grammars Are Where Parsing Becomes Hard!.</title>
+<pages>19:1-19:15</pages>
+<year>2017</year>
+<booktitle>ICALP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICALP.2017.19</ee>
+<crossref>conf/icalp/2017</crossref>
+<url>db/conf/icalp/icalp2017.html#JayaramS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/MazumdarS17" mdate="2021-01-21">
+<author pid="77/6050">Arya Mazumdar</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Query Complexity of Clustering with Side Information.</title>
+<pages>4682-4693</pages>
+<year>2017</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2017/hash/03e7ef47cee6fa4ae7567394b99912b7-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/7054-query-complexity-of-clustering-with-side-information</ee>
+<crossref>conf/nips/2017</crossref>
+<url>db/conf/nips/nips2017.html#MazumdarS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/MazumdarS17a" mdate="2021-01-21">
+<author pid="77/6050">Arya Mazumdar</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Clustering with Noisy Queries.</title>
+<pages>5788-5799</pages>
+<year>2017</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2017/hash/db5cea26ca37aa09e5365f3e7f5dd9eb-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/7161-clustering-with-noisy-queries</ee>
+<crossref>conf/nips/2017</crossref>
+<url>db/conf/nips/nips2017.html#MazumdarS17a</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/MazumdarS17" mdate="2018-08-13">
+<author pid="77/6050">Arya Mazumdar</author>
+<author pid="66/3027">Barna Saha</author>
+<title>A Theoretical Analysis of First Heuristics of Crowdsourced Entity Resolution.</title>
+<year>2017</year>
+<volume>abs/1702.01208</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1702.01208</ee>
+<url>db/journals/corr/corr1702.html#MazumdarS17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/MazumdarS17a" mdate="2018-08-13">
+<author pid="77/6050">Arya Mazumdar</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Clustering with Noisy Queries.</title>
+<year>2017</year>
+<volume>abs/1706.07510</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1706.07510</ee>
+<url>db/journals/corr/corr1706.html#MazumdarS17a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/MazumdarS17b" mdate="2018-08-13">
+<author pid="77/6050">Arya Mazumdar</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Query Complexity of Clustering with Side Information.</title>
+<year>2017</year>
+<volume>abs/1706.07719</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1706.07719</ee>
+<url>db/journals/corr/corr1706.html#MazumdarS17b</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BringmannGSW17" mdate="2018-08-13">
+<author pid="96/2643">Karl Bringmann</author>
+<author pid="g/FGrandoni">Fabrizio Grandoni 0001</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="63/8319">Virginia Vassilevska Williams</author>
+<title>Truly Sub-cubic Algorithms for Language Edit Distance and RNA Folding via Fast Bounded-Difference Min-Plus Product.</title>
+<year>2017</year>
+<volume>abs/1707.05095</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1707.05095</ee>
+<url>db/journals/corr/corr1707.html#BringmannGSW17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-05510" mdate="2018-08-13">
+<author pid="136/7969">Sainyam Galhotra</author>
+<author pid="77/6050">Arya Mazumdar</author>
+<author pid="206/6371">Soumyabrata Pal</author>
+<author pid="66/3027">Barna Saha</author>
+<title>The Geometric Block Model.</title>
+<year>2017</year>
+<volume>abs/1709.05510</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.05510</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-05510</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/KhullerSS16" mdate="2017-05-17">
+<author pid="k/SamirKhuller">Samir Khuller</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="13/9673">Kanthi K. Sarpatwar</author>
+<title>New Approximation Results for Resource Replication Problems.</title>
+<pages>969-991</pages>
+<year>2016</year>
+<volume>74</volume>
+<journal>Algorithmica</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00453-015-9978-9</ee>
+<url>db/journals/algorithmica/algorithmica74.html#KhullerSS16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/FirmaniSS16" mdate="2020-04-25">
+<author orcid="0000-0003-0358-3208" pid="05/10127">Donatella Firmani</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Online Entity Resolution Using an Oracle.</title>
+<pages>384-395</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p384-firmani.pdf</ee>
+<ee>https://doi.org/10.14778/2876473.2876474</ee>
+<url>db/journals/pvldb/pvldb9.html#FirmaniSS16</url>
+</article>
+</r>
+<r><article key="journals/talg/HajiaghayiHLLS16" mdate="2021-04-29">
+<author pid="334/4488">Mohammad Taghi Hajiaghayi</author>
+<author pid="52/173">Wei Hu</author>
+<author pid="33/5448-15">Jian Li 0015</author>
+<author pid="31/4501-1">Shi Li 0001</author>
+<author pid="66/3027">Barna Saha</author>
+<title>A Constant Factor Approximation Algorithm for Fault-Tolerant <i>k</i>-Median.</title>
+<pages>36:1-36:19</pages>
+<year>2016</year>
+<volume>12</volume>
+<journal>ACM Trans. Algorithms</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2854153</ee>
+<url>db/journals/talg/talg12.html#HajiaghayiHLLS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/allerton/MazumdarS16" mdate="2017-05-21">
+<author pid="77/6050">Arya Mazumdar</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Clustering with an oracle.</title>
+<pages>738-739</pages>
+<year>2016</year>
+<booktitle>Allerton</booktitle>
+<ee>https://doi.org/10.1109/ALLERTON.2016.7852305</ee>
+<crossref>conf/allerton/2016</crossref>
+<url>db/conf/allerton/allerton2016.html#MazumdarS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/focs/BringmannGSW16" mdate="2023-03-23">
+<author pid="96/2643">Karl Bringmann</author>
+<author orcid="0000-0002-9676-4931" pid="g/FGrandoni">Fabrizio Grandoni 0001</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="63/8319">Virginia Vassilevska Williams</author>
+<title>Truly Sub-cubic Algorithms for Language Edit Distance and RNA-Folding via Fast Bounded-Difference Min-Plus Product.</title>
+<pages>375-384</pages>
+<year>2016</year>
+<booktitle>FOCS</booktitle>
+<ee>https://doi.org/10.1109/FOCS.2016.48</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/FOCS.2016.48</ee>
+<crossref>conf/focs/2016</crossref>
+<url>db/conf/focs/focs2016.html#BringmannGSW16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/MazumdarS16" mdate="2018-08-13">
+<author pid="77/6050">Arya Mazumdar</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Clustering Via Crowdsourcing.</title>
+<year>2016</year>
+<volume>abs/1604.01839</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1604.01839</ee>
+<url>db/journals/corr/corr1604.html#MazumdarS16</url>
+</article>
+</r>
+<r><article key="journals/mor/Krishnaswamy0NS15" mdate="2023-09-30">
+<author pid="74/813">Ravishankar Krishnaswamy</author>
+<author orcid="0000-0002-3965-6627" pid="k/AmitKumar1">Amit Kumar 0001</author>
+<author pid="49/1951">Viswanath Nagarajan</author>
+<author pid="57/3685">Yogish Sabharwal</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Facility Location with Matroid or Knapsack Constraints.</title>
+<pages>446-459</pages>
+<year>2015</year>
+<volume>40</volume>
+<journal>Math. Oper. Res.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1287/moor.2014.0678</ee>
+<url>db/journals/mor/mor40.html#Krishnaswamy0NS15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/YingKSS15" mdate="2023-08-28">
+<author pid="80/9726">Shanshan Ying</author>
+<author pid="k/FlipKorn">Flip Korn</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>TreeScope: Finding Structural Anomalies In Semi-Structured Data.</title>
+<pages>1904-1907</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1904-Ying.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824097</ee>
+<ee>https://www.wikidata.org/entity/Q114596035</ee>
+<url>db/journals/pvldb/pvldb8.html#YingKSS15</url>
+</article>
+</r>
+<r><inproceedings key="conf/focs/Saha15" mdate="2023-03-23">
+<author pid="66/3027">Barna Saha</author>
+<title>Language Edit Distance and Maximum Likelihood Parsing of Stochastic Grammars: Faster Algorithms and Connection to Fundamental Graph Problems.</title>
+<pages>118-135</pages>
+<year>2015</year>
+<booktitle>FOCS</booktitle>
+<ee>https://doi.org/10.1109/FOCS.2015.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/FOCS.2015.17</ee>
+<crossref>conf/focs/2015</crossref>
+<url>db/conf/focs/focs2015.html#Saha15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GolabKLSS15" mdate="2023-03-23">
+<author pid="42/3296">Lukasz Golab</author>
+<author pid="k/FlipKorn">Flip Korn</author>
+<author pid="92/2954">Feng Li</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Size-Constrained Weighted Set Cover.</title>
+<pages>879-890</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113341</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113341</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#GolabKLSS15</url>
+</inproceedings>
+</r>
+<r><article key="journals/tkde/GolabKKSS14" mdate="2017-05-20">
+<author pid="42/3296">Lukasz Golab</author>
+<author pid="44/5186">Howard J. Karloff</author>
+<author pid="k/FlipKorn">Flip Korn</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Discovering Conservation Rules.</title>
+<pages>1332-1348</pages>
+<year>2014</year>
+<volume>26</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TKDE.2012.171</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2012.171</ee>
+<url>db/journals/tkde/tkde26.html#GolabKKSS14</url>
+</article>
+</r>
+<r><inproceedings key="conf/focs/Saha14" mdate="2023-03-23">
+<author pid="66/3027">Barna Saha</author>
+<title>The Dyck Language Edit Distance Problem in Near-Linear Time.</title>
+<pages>611-620</pages>
+<year>2014</year>
+<booktitle>FOCS</booktitle>
+<ee>https://doi.org/10.1109/FOCS.2014.71</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/FOCS.2014.71</ee>
+<ee>https://www.wikidata.org/entity/Q56018899</ee>
+<crossref>conf/focs/2014</crossref>
+<url>db/conf/focs/focs2014.html#Saha14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SahaS14" mdate="2023-03-24">
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Data quality: The other face of Big Data.</title>
+<pages>1294-1297</pages>
+<year>2014</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2014.6816764</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2014.6816764</ee>
+<crossref>conf/icde/2014</crossref>
+<url>db/conf/icde/icde2014.html#SahaS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/HajiaghayiHLLS14" mdate="2021-04-29">
+<author pid="334/4488">MohammadTaghi Hajiaghayi</author>
+<author pid="52/173">Wei Hu</author>
+<author pid="33/5448-15">Jian Li 0015</author>
+<author pid="31/4501-1">Shi Li 0001</author>
+<author pid="66/3027">Barna Saha</author>
+<title>A Constant Factor Approximation Algorithm for Fault-Tolerant <i>k</i>-Median.</title>
+<pages>1-12</pages>
+<year>2014</year>
+<booktitle>SODA</booktitle>
+<ee type="oa">https://doi.org/10.1137/1.9781611973402.1</ee>
+<crossref>conf/soda/2014</crossref>
+<url>db/conf/soda/soda2014.html#HajiaghayiHLLS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/HajiaghayiJKS14" mdate="2018-11-06">
+<author pid="334/4488">Mohammad Taghi Hajiaghayi</author>
+<author pid="j/TheodoreJohnson">Theodore Johnson</author>
+<author pid="12/9962">Mohammad Reza Khani</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Hierarchical graph partitioning.</title>
+<pages>51-60</pages>
+<year>2014</year>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/2612669.2612699</ee>
+<crossref>conf/spaa/2014</crossref>
+<url>db/conf/spaa/spaa2014.html#HajiaghayiJKS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/GolabHKS14" mdate="2018-11-06">
+<author pid="42/3296">Lukasz Golab</author>
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="44/5186">Howard J. Karloff</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Distributed data placement to minimize communication costs via graph partitioning.</title>
+<pages>20:1-20:12</pages>
+<year>2014</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1145/2618243.2618258</ee>
+<crossref>conf/ssdbm/2014</crossref>
+<url>db/conf/ssdbm/ssdbm2014.html#GolabHKS14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/Saha14" mdate="2018-08-13">
+<author pid="66/3027">Barna Saha</author>
+<title>Faster Language Edit Distance, Connection to All-pairs Shortest Paths and Related Problems.</title>
+<year>2014</year>
+<volume>abs/1411.7315</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1411.7315</ee>
+<url>db/journals/corr/corr1411.html#Saha14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KornSSY13" mdate="2023-08-28">
+<author pid="k/FlipKorn">Flip Korn</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<author pid="80/9726">Shanshan Ying</author>
+<title>On Repairing Structural Problems In Semi-structured Data.</title>
+<pages>601-612</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p601-korn.pdf</ee>
+<ee>https://doi.org/10.14778/2536360.2536361</ee>
+<ee>https://www.wikidata.org/entity/Q114596039</ee>
+<url>db/journals/pvldb/pvldb6.html#KornSSY13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cloud/LeePS13" mdate="2018-11-06">
+<author pid="15/4697">Seungjoon Lee</author>
+<author pid="125/2167">Manish Purohit</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Firewall placement in cloud data centers.</title>
+<pages>52:1-52:2</pages>
+<year>2013</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/2523616.2525960</ee>
+<crossref>conf/cloud/2013</crossref>
+<url>db/conf/cloud/socc2013.html#LeePS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fsttcs/Saha13" mdate="2018-08-23">
+<author pid="66/3027">Barna Saha</author>
+<title>Renting a Cloud.</title>
+<pages>437-448</pages>
+<year>2013</year>
+<booktitle>FSTTCS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.FSTTCS.2013.437</ee>
+<crossref>conf/fsttcs/2013</crossref>
+<url>db/conf/fsttcs/fsttcs2013.html#Saha13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isit/MazumdarPS13" mdate="2017-05-24">
+<author pid="77/6050">Arya Mazumdar</author>
+<author pid="74/8860">Yury Polyanskiy</author>
+<author pid="66/3027">Barna Saha</author>
+<title>On Chebyshev radius of a set in Hamming space and the closest string problem.</title>
+<pages>1401-1405</pages>
+<year>2013</year>
+<booktitle>ISIT</booktitle>
+<ee>https://doi.org/10.1109/ISIT.2013.6620457</ee>
+<crossref>conf/isit/2013</crossref>
+<url>db/conf/isit/isit2013.html#MazumdarPS13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/HajiaghayiHLLS13" mdate="2021-04-29">
+<author pid="334/4488">Mohammad Taghi Hajiaghayi</author>
+<author pid="52/173">Wei Hu</author>
+<author pid="33/5448-15">Jian Li 0015</author>
+<author pid="31/4501-1">Shi Li 0001</author>
+<author pid="66/3027">Barna Saha</author>
+<title>A Constant Factor Approximation Algorithm for Fault-Tolerant k-Median.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1307.2808</ee>
+<volume>abs/1307.2808</volume>
+<url>db/journals/corr/corr1307.html#HajiaghayiHLLS13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Saha13" mdate="2018-08-13">
+<author pid="66/3027">Barna Saha</author>
+<title>Efficiently Computing Edit Distance to Dyck Language.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1311.2557</ee>
+<volume>abs/1311.2557</volume>
+<url>db/journals/corr/corr1311.html#Saha13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/GolabHKS13" mdate="2018-08-13">
+<author pid="42/3296">Lukasz Golab</author>
+<author pid="86/6294">Marios Hadjieleftheriou</author>
+<author pid="44/5186">Howard J. Karloff</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Distributed Data Placement via Graph Partitioning.</title>
+<year>2013</year>
+<volume>abs/1312.0285</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1312.0285</ee>
+<url>db/journals/corr/corr1312.html#GolabHKS13</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DongSS12" mdate="2020-04-25">
+<author pid="d/XinLunaDong">Xin Luna Dong</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Less is More: Selecting Sources Wisely for Integration.</title>
+<pages>37-48</pages>
+<year>2012</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p37-dong.pdf</ee>
+<ee>https://doi.org/10.14778/2535568.2448938</ee>
+<url>db/journals/pvldb/pvldb6.html#DongSS12</url>
+</article>
+</r>
+<r><inproceedings key="conf/approx/KhullerSS12" mdate="2017-05-23">
+<author pid="k/SamirKhuller">Samir Khuller</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="13/9673">Kanthi K. Sarpatwar</author>
+<title>New Approximation Results for Resource Replication Problems.</title>
+<pages>218-230</pages>
+<year>2012</year>
+<booktitle>APPROX-RANDOM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-32512-0_19</ee>
+<crossref>conf/approx/2012</crossref>
+<url>db/conf/approx/approx2012.html#KhullerSS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/SahaK12" mdate="2017-05-23">
+<author pid="66/3027">Barna Saha</author>
+<author pid="k/SamirKhuller">Samir Khuller</author>
+<title>Set Cover Revisited: Hypergraph Cover with Hard Capacities.</title>
+<pages>762-773</pages>
+<year>2012</year>
+<booktitle>ICALP (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31594-7_64</ee>
+<crossref>conf/icalp/2012-1</crossref>
+<url>db/conf/icalp/icalp2012-1.html#SahaK12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GolabKKSS12" mdate="2023-03-24">
+<author pid="42/3296">Lukasz Golab</author>
+<author pid="44/5186">Howard J. Karloff</author>
+<author pid="k/FlipKorn">Flip Korn</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Discovering Conservation Rules.</title>
+<pages>738-749</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.105</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2012.105</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#GolabKKSS12</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/basesearch/Saha11" mdate="2022-05-04">
+<author pid="66/3027">Barna Saha</author>
+<title>Approximation Algorithms for Resource Allocation.</title>
+<year>2011</year>
+<school>University of Maryland, College Park, MD, USA</school>
+<ee>https://hdl.handle.net/1903/11974</ee>
+<ee>https://www.base-search.net/Record/77e04768935c2ebf243eebb90b3e44d3a796535962e7af46a078e335e8efc649</ee>
+<note type="source">base-search.net (ftunivmaryland:oai:drum.lib.umd.edu:1903/11974)</note>
+</phdthesis>
+</r>
+<r><article key="journals/jacm/HaeuplerSS11" mdate="2018-11-06">
+<author orcid="0000-0003-3381-0459" pid="39/1043">Bernhard Haeupler</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/AravindSrinivasan">Aravind Srinivasan</author>
+<title>New Constructive Aspects of the Lov&#225;sz Local Lemma.</title>
+<pages>28:1-28:28</pages>
+<year>2011</year>
+<volume>58</volume>
+<journal>J. ACM</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/2049697.2049702</ee>
+<url>db/journals/jacm/jacm58.html#HaeuplerSS11</url>
+</article>
+</r>
+<r><article key="journals/vldb/LiSD11" mdate="2018-01-06">
+<author pid="33/5448-15">Jian Li 0015</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="d/AmolDeshpande">Amol Deshpande</author>
+<title>A unified approach to ranking in probabilistic databases.</title>
+<pages>249-275</pages>
+<year>2011</year>
+<volume>20</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-011-0220-3</ee>
+<url>db/journals/vldb/vldb20.html#LiSD11</url>
+</article>
+</r>
+<r><inproceedings key="conf/approx/BansalKS11" mdate="2022-02-15">
+<author pid="69/5601">Nikhil Bansal 0001</author>
+<author pid="74/813">Ravishankar Krishnaswamy</author>
+<author pid="66/3027">Barna Saha</author>
+<title>On Capacitated Set Cover Problems.</title>
+<pages>38-49</pages>
+<year>2011</year>
+<booktitle>APPROX-RANDOM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-22935-0_4</ee>
+<crossref>conf/approx/2011</crossref>
+<url>db/conf/approx/approx2011.html#BansalKS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esa/AlaeiHLPS11" mdate="2021-10-14">
+<author orcid="0000-0002-5165-5619" pid="77/5584">Saeed Alaei</author>
+<author pid="334/4488">Mohammad Taghi Hajiaghayi</author>
+<author pid="82/9672">Vahid Liaghat</author>
+<author orcid="0000-0002-5113-838X" pid="p/DanPei">Dan Pei</author>
+<author pid="66/3027">Barna Saha</author>
+<title>AdCell: Ad Allocation in Cellular Networks.</title>
+<pages>311-322</pages>
+<year>2011</year>
+<booktitle>ESA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-23719-5_27</ee>
+<crossref>conf/esa/2011</crossref>
+<url>db/conf/esa/esa2011.html#AlaeiHLPS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/ThorARNSKZ11" mdate="2021-09-07">
+<author orcid="0000-0003-2575-2893" pid="51/508">Andreas Thor</author>
+<author pid="66/6659-3">Philip Anderson 0003</author>
+<author pid="r/LouiqaRaschid">Louiqa Raschid</author>
+<author pid="31/3315">Saket Navlakha</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="k/SamirKhuller">Samir Khuller</author>
+<author orcid="0000-0001-8650-1356" pid="09/1338">Xiao-Ning Zhang</author>
+<title>Link Prediction for Annotation Graphs Using Graph Summarization.</title>
+<pages>714-729</pages>
+<year>2011</year>
+<booktitle>ISWC (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-25073-6_45</ee>
+<crossref>conf/semweb/2011-1</crossref>
+<url>db/conf/semweb/iswc2011-1.html#ThorARNSKZ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/KrishnaswamyKNSS11" mdate="2023-09-30">
+<author pid="74/813">Ravishankar Krishnaswamy</author>
+<author orcid="0000-0002-3965-6627" pid="k/AmitKumar1">Amit Kumar 0001</author>
+<author pid="49/1951">Viswanath Nagarajan</author>
+<author pid="57/3685">Yogish Sabharwal</author>
+<author pid="66/3027">Barna Saha</author>
+<title>The Matroid Median Problem.</title>
+<pages>1117-1130</pages>
+<year>2011</year>
+<booktitle>SODA</booktitle>
+<ee type="oa">https://doi.org/10.1137/1.9781611973082.84</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2133120</ee>
+<crossref>conf/soda/2011</crossref>
+<url>db/conf/soda/soda2011.html#KrishnaswamyKNSS11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1112-5396" mdate="2018-08-13">
+<author pid="77/5584">Saeed Alaei</author>
+<author pid="334/4488">Mohammad Taghi Hajiaghayi</author>
+<author pid="82/9672">Vahid Liaghat</author>
+<author pid="p/DanPei">Dan Pei</author>
+<author pid="66/3027">Barna Saha</author>
+<title>AdCell: Ad Allocation in Cellular Networks</title>
+<ee type="oa">http://arxiv.org/abs/1112.5396</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1112.5396</volume>
+<url>db/journals/corr/corr1112.html#abs-1112-5396</url>
+</article>
+</r>
+<r><inproceedings key="conf/focs/HaeuplerSS10" mdate="2023-03-23">
+<author orcid="0000-0003-3381-0459" pid="39/1043">Bernhard Haeupler</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/AravindSrinivasan">Aravind Srinivasan</author>
+<title>New Constructive Aspects of the Lovasz Local Lemma.</title>
+<pages>397-406</pages>
+<year>2010</year>
+<booktitle>FOCS</booktitle>
+<ee>https://doi.org/10.1109/FOCS.2010.45</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/FOCS.2010.45</ee>
+<crossref>conf/focs/2010</crossref>
+<url>db/conf/focs/focs2010.html#HaeuplerSS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SahaSC10" mdate="2023-03-23">
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/IoanaStanoi">Ioana Stanoi</author>
+<author pid="89/2783">Kenneth L. Clarkson</author>
+<title>Schema covering: a step towards enabling reuse in information integration.</title>
+<pages>285-296</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447853</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447853</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#SahaSC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/innovations/SahaS10" mdate="2019-09-04">
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/AravindSrinivasan">Aravind Srinivasan</author>
+<title>A New Approximation Technique for Resource-Allocation Problems.</title>
+<pages>342-357</pages>
+<year>2010</year>
+<booktitle>ICS</booktitle>
+<ee>http://conference.iiis.tsinghua.edu.cn/ICS2010/content/papers/27.html</ee>
+<crossref>conf/innovations/2010</crossref>
+<url>db/conf/innovations/innovations2010.html#SahaS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/recomb/SahaHKRZ10" mdate="2019-10-19">
+<author pid="66/3027">Barna Saha</author>
+<author pid="73/8064">Allison Hoch</author>
+<author pid="k/SamirKhuller">Samir Khuller</author>
+<author pid="r/LouiqaRaschid">Louiqa Raschid</author>
+<author orcid="0000-0001-8650-1356" pid="09/1338">Xiao-Ning Zhang</author>
+<title>Dense Subgraphs with Restrictions and Applications to Gene Annotation Graphs.</title>
+<pages>456-472</pages>
+<year>2010</year>
+<booktitle>RECOMB</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-12683-3_30</ee>
+<crossref>conf/recomb/2010</crossref>
+<url>db/conf/recomb/recomb2010.html#SahaHKRZ10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soda/KhullerLS10" mdate="2021-02-02">
+<author pid="k/SamirKhuller">Samir Khuller</author>
+<author pid="33/5448-15">Jian Li 0015</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Energy Efficient Scheduling via Partial Shutdown.</title>
+<pages>1360-1372</pages>
+<year>2010</year>
+<booktitle>SODA</booktitle>
+<ee type="oa">https://doi.org/10.1137/1.9781611973075.110</ee>
+<crossref>conf/soda/2010</crossref>
+<url>db/conf/soda/soda2010.html#KhullerLS10</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/KhullerLS10" mdate="2018-08-23">
+<author pid="k/SamirKhuller">Samir Khuller</author>
+<author pid="33/5448-15">Jian Li 0015</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Energy Efficient Scheduling via Partial Shutdown.</title>
+<year>2010</year>
+<booktitle>Scheduling</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2010/2543/</ee>
+<crossref>conf/dagstuhl/2010P10071</crossref>
+<url>db/conf/dagstuhl/P10071.html#KhullerLS10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1001-1231" mdate="2018-08-13">
+<author pid="39/1043">Bernhard Haeupler</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/AravindSrinivasan">Aravind Srinivasan</author>
+<title>New Constructive Aspects of the Lovasz Local Lemma</title>
+<ee type="oa">http://arxiv.org/abs/1001.1231</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1001.1231</volume>
+<url>db/journals/corr/corr1001.html#abs-1001-1231</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1001-1470" mdate="2018-08-13">
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/AravindSrinivasan">Aravind Srinivasan</author>
+<title>A New Approximation Technique for Resource-Allocation Problems</title>
+<ee type="oa">http://arxiv.org/abs/1001.1470</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1001.1470</volume>
+<url>db/journals/corr/corr1001.html#abs-1001-1470</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiSD09" mdate="2020-04-25">
+<author pid="33/5448-15">Jian Li 0015</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="d/AmolDeshpande">Amol Deshpande</author>
+<title>A Unified Approach to Ranking in Probabilistic Databases.</title>
+<pages>502-513</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-769.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687685</ee>
+<url>db/journals/pvldb/pvldb2.html#LiSD09</url>
+</article>
+</r>
+<r><inproceedings key="conf/icalp/KhullerS09" mdate="2017-05-23">
+<author pid="k/SamirKhuller">Samir Khuller</author>
+<author pid="66/3027">Barna Saha</author>
+<title>On Finding Dense Subgraphs.</title>
+<pages>597-608</pages>
+<year>2009</year>
+<booktitle>ICALP (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02927-1_50</ee>
+<crossref>conf/icalp/2009-1</crossref>
+<url>db/conf/icalp/icalp2009-1.html#KhullerS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdm/SahaG09" mdate="2017-05-17">
+<author pid="66/3027">Barna Saha</author>
+<author pid="g/LiseGetoor">Lise Getoor</author>
+<title>On Maximum Coverage in the Streaming Model &amp; Application to Multi-topic Blog-Watch.</title>
+<pages>697-708</pages>
+<year>2009</year>
+<booktitle>SDM</booktitle>
+<ee>https://doi.org/10.1137/1.9781611972795.60</ee>
+<crossref>conf/sdm/2009</crossref>
+<url>db/conf/sdm/sdm2009.html#SahaG09</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0904-1366" mdate="2018-08-13">
+<author pid="33/5448-15">Jian Li 0015</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="d/AmolDeshpande">Amol Deshpande</author>
+<title>A Unified Approach to Ranking in Probabilistic Databases</title>
+<ee type="oa">http://arxiv.org/abs/0904.1366</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0904.1366</volume>
+<url>db/journals/corr/corr0904.html#abs-0904-1366</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0912-1329" mdate="2018-08-13">
+<author pid="k/SamirKhuller">Samir Khuller</author>
+<author pid="33/5448-15">Jian Li 0015</author>
+<author pid="66/3027">Barna Saha</author>
+<title>Energy Efficient Scheduling via Partial Shutdown</title>
+<ee type="oa">http://arxiv.org/abs/0912.1329</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0912.1329</volume>
+<url>db/journals/corr/corr0912.html#abs-0912-1329</url>
+</article>
+</r>
+<r><inproceedings key="conf/birte/AlexeGHHHKPSS08" mdate="2018-11-02">
+<author pid="05/6762">Bogdan Alexe</author>
+<author pid="10/5842">Michael N. Gubanov</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="h/ChingTienHo">C. T. Howard Ho</author>
+<author orcid="0000-0001-5482-8311" pid="29/5543">Jen-Wei Huang</author>
+<author pid="75/4070">Yannis Katsis</author>
+<author pid="p/LucianPopa">Lucian Popa 0001</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/IoanaStanoi">Ioana Stanoi</author>
+<title>Simplifying Information Integration: Object-Based Flow-of-Mappings Framework for Integration.</title>
+<pages>108-121</pages>
+<year>2008</year>
+<booktitle>BIRTE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-03422-0_9</ee>
+<crossref>conf/birte/2008</crossref>
+<url>db/conf/birte/birte2008.html#AlexeGHHHKPSS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdm/SahaM07" mdate="2017-05-17">
+<author pid="66/3027">Barna Saha</author>
+<author pid="m/PabitraMitra">Pabitra Mitra</author>
+<title>Dynamic Algorithm for Graph Clustering Using Minimum Cut Tree.</title>
+<year>2007</year>
+<crossref>conf/sdm/2007</crossref>
+<booktitle>SDM</booktitle>
+<ee>https://doi.org/10.1137/1.9781611972771.65</ee>
+<url>db/conf/sdm/sdm2007.html#SahaM07</url>
+<pages>581-586</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/SahaM06" mdate="2023-03-24">
+<author pid="66/3027">Barna Saha</author>
+<author pid="m/PabitraMitra">Pabitra Mitra</author>
+<title>Dynamic Algorithm for Graph Clustering Using Minimum Cut Tree.</title>
+<pages>667-671</pages>
+<year>2006</year>
+<crossref>conf/icdm/2006w</crossref>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2006.65</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDMW.2006.65</ee>
+<url>db/conf/icdm/icdmw2006.html#SahaM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isaac/GangulyS06" mdate="2017-05-19">
+<author pid="g/SumitGanguly">Sumit Ganguly</author>
+<author pid="66/3027">Barna Saha</author>
+<title>On Estimating Path Aggregates over Streaming Graphs.</title>
+<pages>163-172</pages>
+<year>2006</year>
+<crossref>conf/isaac/2006</crossref>
+<booktitle>ISAAC</booktitle>
+<ee>https://doi.org/10.1007/11940128_18</ee>
+<url>db/conf/isaac/isaac2006.html#GangulyS06</url>
+</inproceedings>
+</r>
+<coauthors n="84" nc="1">
+<co c="0"><na f="a/Abboud:Amir" pid="129/1654">Amir Abboud</na></co>
+<co c="0"><na f="a/Addanki:Raghavendra" pid="218/5579">Raghavendra Addanki</na></co>
+<co c="0"><na f="a/Ahmadi:Saba" pid="200/9551">Saba Ahmadi</na></co>
+<co c="0"><na f="a/Alaei:Saeed" pid="77/5584">Saeed Alaei</na></co>
+<co c="0"><na f="a/Alexe:Bogdan" pid="05/6762">Bogdan Alexe</na></co>
+<co c="0"><na f="a/Anderson_0003:Philip" pid="66/6659-3">Philip Anderson 0003</na></co>
+<co c="0"><na f="b/Bansal_0001:Nikhil" pid="69/5601">Nikhil Bansal 0001</na></co>
+<co c="0"><na f="b/Bhattacharyya_0001:Arnab" pid="64/574">Arnab Bhattacharyya 0001</na></co>
+<co c="0"><na f="b/Bringmann:Karl" pid="96/2643">Karl Bringmann</na></co>
+<co c="0"><na f="c/Clarkson:Kenneth_L=" pid="89/2783">Kenneth L. Clarkson</na></co>
+<co c="0"><na f="d/Das_0001:Debarati" pid="145/0249-1">Debarati Das 0001</na></co>
+<co c="0"><na f="d/Deshpande:Amol" pid="d/AmolDeshpande">Amol Deshpande</na></co>
+<co c="0" n="2"><na f="d/Dong_0001:Xin" pid="d/XinLunaDong">Xin Dong 0001</na><na>Xin Luna Dong</na></co>
+<co c="0"><na f="f/Firmani:Donatella" pid="05/10127">Donatella Firmani</na></co>
+<co c="0"><na f="g/Galhotra:Sainyam" pid="136/7969">Sainyam Galhotra</na></co>
+<co c="0"><na f="g/Ganesh:Arun" pid="201/4732">Arun Ganesh</na></co>
+<co c="0"><na f="g/Ganguly:Sumit" pid="g/SumitGanguly">Sumit Ganguly</na></co>
+<co c="0"><na f="g/Getoor:Lise" pid="g/LiseGetoor">Lise Getoor</na></co>
+<co c="0"><na f="g/Gilbert:Jacob" pid="270/2139">Jacob Gilbert</na></co>
+<co c="0"><na f="g/Golab:Lukasz" pid="42/3296">Lukasz Golab</na></co>
+<co c="0"><na f="g/Goldenberg:Elazar" pid="72/1836">Elazar Goldenberg</na></co>
+<co c="0"><na f="g/Grandoni_0001:Fabrizio" pid="g/FGrandoni">Fabrizio Grandoni 0001</na></co>
+<co c="0"><na f="g/Gubanov:Michael_N=" pid="10/5842">Michael N. Gubanov</na></co>
+<co c="0"><na f="h/Hadjieleftheriou:Marios" pid="86/6294">Marios Hadjieleftheriou</na></co>
+<co c="0"><na f="h/Haeupler:Bernhard" pid="39/1043">Bernhard Haeupler</na></co>
+<co c="0" n="3"><na f="h/Hajiaghayi:Mohammad" pid="334/4488">Mohammad Hajiaghayi</na><na>MohammadTaghi Hajiaghayi</na><na>Mohammad Taghi Hajiaghayi</na></co>
+<co c="0"><na f="h/Henzinger:Monika" pid="h/MonikaRauchHenzinger">Monika Henzinger</na></co>
+<co c="0"><na f="h/Hern=aacute=ndez:Mauricio_A=" pid="56/451">Mauricio A. Hern&#225;ndez</na></co>
+<co c="0"><na f="h/Ho:C=_T=_Howard" pid="h/ChingTienHo">C. T. Howard Ho</na></co>
+<co c="0"><na f="h/Hoch:Allison" pid="73/8064">Allison Hoch</na></co>
+<co c="0"><na f="h/Hu:Wei" pid="52/173">Wei Hu</na></co>
+<co c="0"><na f="h/Huang:Jen=Wei" pid="29/5543">Jen-Wei Huang</na></co>
+<co c="0"><na f="j/Jayaram:Rajesh" pid="202/9970">Rajesh Jayaram</na></co>
+<co c="0"><na f="j/Johnson:Theodore" pid="j/TheodoreJohnson">Theodore Johnson</na></co>
+<co c="0"><na f="k/Karloff:Howard_J=" pid="44/5186">Howard J. Karloff</na></co>
+<co c="0"><na f="k/Katsis:Yannis" pid="75/4070">Yannis Katsis</na></co>
+<co c="0"><na f="k/Kempa:Dominik" pid="54/11279">Dominik Kempa</na></co>
+<co c="0" n="2"><na f="k/Khani:M=_Reza" pid="12/9962">M. Reza Khani</na><na>Mohammad Reza Khani</na></co>
+<co c="0"><na f="k/Khuller:Samir" pid="k/SamirKhuller">Samir Khuller</na></co>
+<co c="0"><na f="k/Kobren:Ari" pid="162/8983">Ari Kobren</na></co>
+<co c="0"><na f="k/Kociumaka:Tomasz" pid="38/9892">Tomasz Kociumaka</na></co>
+<co c="0"><na f="k/Korn:Flip" pid="k/FlipKorn">Flip Korn</na></co>
+<co c="0"><na f="k/Krauthgamer:Robert" pid="k/RobertKrauthgamer">Robert Krauthgamer</na></co>
+<co c="0"><na f="k/Krishnaswamy:Ravishankar" pid="74/813">Ravishankar Krishnaswamy</na></co>
+<co c="0"><na f="k/Kumar_0001:Amit" pid="k/AmitKumar1">Amit Kumar 0001</na></co>
+<co c="0"><na f="l/Lee:Seungjoon" pid="15/4697">Seungjoon Lee</na></co>
+<co c="0"><na f="l/Li:Feng" pid="92/2954">Feng Li</na></co>
+<co c="0"><na f="l/Li_0015:Jian" pid="33/5448-15">Jian Li 0015</na></co>
+<co c="0"><na f="l/Li_0001:Shi" pid="31/4501-1">Shi Li 0001</na></co>
+<co c="0"><na f="l/Liaghat:Vahid" pid="82/9672">Vahid Liaghat</na></co>
+<co c="0"><na f="l/Lincoln:Andrea" pid="59/9032">Andrea Lincoln</na></co>
+<co c="0"><na f="m/Mazumdar:Arya" pid="77/6050">Arya Mazumdar</na></co>
+<co c="0"><na f="m/McCallum:Andrew" pid="m/AndrewMcCallum">Andrew McCallum</na></co>
+<co c="-1"><na f="m/Mitra:Pabitra" pid="m/PabitraMitra">Pabitra Mitra</na></co>
+<co c="0"><na f="m/Mukherjee_0001:Anish" pid="159/2023">Anish Mukherjee 0001</na></co>
+<co c="0"><na f="n/Nagarajan:Viswanath" pid="49/1951">Viswanath Nagarajan</na></co>
+<co c="0"><na f="n/Navlakha:Saket" pid="31/3315">Saket Navlakha</na></co>
+<co c="0"><na f="n/Nikolov:Aleksandar" pid="24/7867">Aleksandar Nikolov</na></co>
+<co c="0"><na f="p/Pal:Soumyabrata" pid="206/6371">Soumyabrata Pal</na></co>
+<co c="0"><na f="p/Panigrahi:Debmalya" pid="81/6547">Debmalya Panigrahi</na></co>
+<co c="0"><na f="p/Pei:Dan" pid="p/DanPei">Dan Pei</na></co>
+<co c="0"><na f="p/Polyanskiy:Yury" pid="74/8860">Yury Polyanskiy</na></co>
+<co c="0"><na f="p/Popa_0001:Lucian" pid="p/LucianPopa">Lucian Popa 0001</na></co>
+<co c="0"><na f="p/Purohit:Manish" pid="125/2167">Manish Purohit</na></co>
+<co c="0"><na f="r/Raschid:Louiqa" pid="r/LouiqaRaschid">Louiqa Raschid</na></co>
+<co c="0"><na f="r/Rubinstein:Aviad" pid="11/10308">Aviad Rubinstein</na></co>
+<co c="0"><na f="s/Sabharwal:Yogish" pid="57/3685">Yogish Sabharwal</na></co>
+<co c="0"><na f="s/Saleh:Hamed" pid="220/4173">Hamed Saleh</na></co>
+<co c="0"><na f="s/Sarpatwar:Kanthi_K=" pid="13/9673">Kanthi K. Sarpatwar</na></co>
+<co c="0"><na f="s/Saurabh_0001:Saket" pid="11/5491">Saket Saurabh 0001</na></co>
+<co c="0"><na f="s/Schwartz_0002:Roy" pid="19/376-2">Roy Schwartz 0002</na></co>
+<co c="-1"><na f="s/Servedio:Rocco_A=" pid="s/RAServedio">Rocco A. Servedio</na></co>
+<co c="0" n="2"><na f="s/Seybold:Martin" pid="193/9719">Martin Seybold</na><na>Martin P. Seybold</na></co>
+<co c="0"><na f="s/Srinivasan:Aravind" pid="s/AravindSrinivasan">Aravind Srinivasan</na></co>
+<co c="0"><na f="s/Srivastava:Divesh" pid="s/DiveshSrivastava">Divesh Srivastava</na></co>
+<co c="0"><na f="s/Stanoi:Ioana" pid="s/IoanaStanoi">Ioana Stanoi</na></co>
+<co c="-1"><na f="s/Subramanian:Sanjay" pid="228/8258">Sanjay Subramanian</na></co>
+<co c="0"><na f="t/Thor:Andreas" pid="51/508">Andreas Thor</na></co>
+<co c="0"><na f="v/Vijayaraghavan:Aravindan" pid="84/7804">Aravindan Vijayaraghavan</na></co>
+<co c="0"><na f="w/Williams:Virginia_Vassilevska" pid="63/8319">Virginia Vassilevska Williams</na></co>
+<co c="0"><na f="y/Ye:Christopher" pid="304/2086">Christopher Ye</na></co>
+<co c="0"><na f="y/Ying:Shanshan" pid="80/9726">Shanshan Ying</na></co>
+<co c="0"><na f="z/Zhang_0001:Qin" pid="45/47-1">Qin Zhang 0001</na></co>
+<co c="0" n="2"><na f="z/Zhang:Xiaoning" pid="09/1338">Xiaoning Zhang</na><na>Xiao-Ning Zhang</na></co>
+</coauthors>
+</dblpperson>

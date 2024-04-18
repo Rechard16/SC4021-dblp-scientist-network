@@ -1,0 +1,2874 @@
+<dblpperson name="C. Mohan 0001" pid="m/CMohan" n="125">
+<person key="homepages/m/CMohan" mdate="2022-09-25">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="m/CMohan">Chandrasekaran Mohan</author>
+<note type="uname">&#2970;&#3007; &#2990;&#3019;&#3001;&#2985;&#3021;</note>
+<note type="affiliation">Tsinghua University, School of Software, Beijing, China</note>
+<note label="former" type="affiliation">IBM Almaden Research Center, San Jose, CA, USA</note>
+<note label="former, PhD 1981" type="affiliation">University of Texas at Austin, TX, USA</note>
+<note type="award" label="1996">SIGMOD Edgar F. Codd Innovations Award</note>
+<url>https://researcher.watson.ibm.com/researcher/view.php?person=us-cmohan</url>
+<url>https://scholar.google.com/citations?user=D5K6DDcAAAAJ</url>
+<url>https://dl.acm.org/profile/81100443671</url>
+<url>https://en.wikipedia.org/wiki/C._Mohan</url>
+<url>https://www.linkedin.com/in/seemohan</url>
+<url>https://twitter.com/seemohan</url>
+<url>https://www.wikidata.org/entity/Q5006716</url>
+</person>
+<homonyms n="6">
+<h f="m/Mohan:C="><name>C. Mohan</name>
+</h>
+<h f="m/Mohan_0002:C="><person key="homepages/123/8711" mdate="2018-10-28">
+<author pid="123/8711">C. Mohan 0002</author>
+<author pid="123/8711">Chander Mohan</author>
+<note type="affiliation">Ambala College of Engineering and Applied Research, Haryana, India</note>
+<note type="affiliation">University of Roorkee, Department of Mathematics</note>
+</person>
+</h>
+<h f="m/Mohan_0003:C="><person key="homepages/123/8711-3" mdate="2019-08-08">
+<author pid="123/8711-3">C. Mohan 0003</author>
+<note type="affiliation">Geometric Ltd., Chennai, India</note>
+</person>
+</h>
+<h f="m/Mohan_0004:C="><person key="homepages/259/4298" mdate="2020-03-10">
+<author pid="259/4298">C. Mohan 0004</author>
+<note type="affiliation">Sharda University, Greater Noida, India</note>
+</person>
+</h>
+<h f="m/Mohan_0005:C="><person key="homepages/286/8292" mdate="2021-03-08">
+<author pid="286/8292">C. Mohan 0005</author>
+<note type="affiliation">University of Seville, Spain</note>
+</person>
+</h>
+<h f="m/Mohan_0006:C="><person key="homepages/369/8264" mdate="2024-04-05">
+<author pid="369/8264">C. Mohan 0006</author>
+<note type="affiliation">American College, Madurai, India</note>
+</person>
+</h>
+</homonyms>
+<r><inproceedings key="conf/icde/KesavanGTSM23" mdate="2023-08-03">
+<author pid="30/4355">Ram Kesavan</author>
+<author pid="98/3981">David Gay</author>
+<author pid="211/5747">Daniel Thevessen</author>
+<author pid="18/8571">Jimit Shah</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Firestore: The NoSQL Serverless Database for the Application Developer.</title>
+<pages>3376-3388</pages>
+<year>2023</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE55515.2023.00259</ee>
+<crossref>conf/icde/2023</crossref>
+<url>db/conf/icde/icde2023.html#KesavanGTSM23</url>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/AbadiAABBBBCCDD22" mdate="2024-02-05">
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="a/DavidGAndersen">David G. Andersen</author>
+<author pid="47/8816">Peter Bailis</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="d/XinLunaDong">Luna Dong</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="f/JulianaFreire">Juliana Freire</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="m/SergeyMelnik">Sergey Melnik 0001</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="o/BengChinOoi">Beng Chin Ooi</author>
+<author pid="o/FatmaOzcan">Fatma Ozcan</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<title>The Seattle report on database research.</title>
+<pages>72-79</pages>
+<year>2022</year>
+<volume>65</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<ee>https://doi.org/10.1145/3524284</ee>
+<url>db/journals/cacm/cacm65.html#AbadiAABBBBCCDD22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/Mohan22" mdate="2023-10-23">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Panel: Startups Founded by Database Researchers.</title>
+<pages>3823-3825</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p3823-mohan.pdf</ee>
+<ee>https://doi.org/10.14778/3554821.3554904</ee>
+<url>db/journals/pvldb/pvldb15.html#Mohan22</url>
+</article>
+</r>
+<r><article key="journals/sigmod/AbadiAABBBBCCDD19" mdate="2024-02-05">
+<author pid="a/DJAbadi">Daniel Abadi</author>
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<author pid="a/DavidGAndersen">David G. Andersen</author>
+<author pid="47/8816">Peter Bailis</author>
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author orcid="0000-0001-6261-6263" pid="16/4915">Alvin Cheung</author>
+<author pid="d/AnHaiDoan">AnHai Doan</author>
+<author pid="d/XinLunaDong">Luna Dong</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="f/JulianaFreire">Juliana Freire</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="i/StratosIdreos">Stratos Idreos</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="m/SergeyMelnik">Sergey Melnik 0001</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="o/BengChinOoi">Beng Chin Ooi</author>
+<author orcid="0000-0002-4418-4724" pid="o/FatmaOzcan">Fatma Ozcan</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<author orcid="0000-0001-6040-6991" pid="58/4127">Andrew Pavlo</author>
+<author pid="91/275">Raluca A. Popa</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author orcid="0000-0002-4144-0868" pid="s/DanSuciu">Dan Suciu</author>
+<title>The Seattle Report on Database Research.</title>
+<pages>44-53</pages>
+<year>2019</year>
+<volume>48</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3385658.3385668</ee>
+<ee>https://www.wikidata.org/entity/Q118946092</ee>
+<url>db/journals/sigmod/sigmod48.html#AbadiAABBBBCCDD19</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/BarberSTTWGGL0M19" mdate="2021-03-31">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="16/5412">Adam J. Storm</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<author pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="07/11533">Yingjun Wu</author>
+<author pid="96/122">Christian Garcia-Arellano</author>
+<author pid="192/4573">Ronen Grosman</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/3614">Richard Sidle</author>
+<title>WiSer: A Highly Available HTAP DBMS for IoT Applications.</title>
+<pages>268-277</pages>
+<year>2019</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData47090.2019.9006519</ee>
+<crossref>conf/bigdataconf/2019</crossref>
+<url>db/conf/bigdataconf/bigdataconf2019.html#BarberSTTWGGL0M19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Mohan19" mdate="2019-08-08">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>State of Public and Private Blockchains: Myths and Reality.</title>
+<pages>404-411</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3314116</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#Mohan19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-01908" mdate="2020-09-30">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="96/122">Christian Garcia-Arellano</author>
+<author pid="192/4573">Ronen Grosman</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="16/5412">Adam J. Storm</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<author pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="07/11533">Yingjun Wu</author>
+<title>WiSer: A Highly Available HTAP DBMS for IoT Applications.</title>
+<year>2019</year>
+<volume>abs/1908.01908</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.01908</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-01908</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/0001OV19" mdate="2019-11-29">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="o/BengChinOoi">Beng Chin Ooi</author>
+<author pid="v/GottfriedVossen">Gottfried Vossen</author>
+<title>Distributed Computing with Permissioned Blockchains and Databases (Dagstuhl Seminar 19261).</title>
+<pages>69-94</pages>
+<year>2019</year>
+<volume>9</volume>
+<journal>Dagstuhl Reports</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.9.6.69</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports9.html#0001OV19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/000118" mdate="2023-03-24">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Blockchains and Databases: A New Era in Distributed Computing.</title>
+<pages>1739-1740</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00227</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00227</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#000118</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/Mohan18" mdate="2019-08-08">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Landscape of Practical Blockchain Systems and their Applications.</title>
+<pages>3-4</pages>
+<year>2018</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2018.00010</ee>
+<crossref>conf/icdm/2018</crossref>
+<url>db/conf/icdm/icdm2018.html#Mohan18</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/Mohan17" mdate="2023-08-28">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Blockchains and Databases.</title>
+<pages>2000-2001</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p2000-mohan.pdf</ee>
+<ee>https://doi.org/10.14778/3137765.3137830</ee>
+<ee>https://www.wikidata.org/entity/Q121298203</ee>
+<url>db/journals/pvldb/pvldb10.html#Mohan17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/BarberGGMRSSSTT17" mdate="2021-01-21">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="96/122">Christian Garcia-Arellano</author>
+<author pid="192/4573">Ronen Grosman</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="192/4569">Matt Spilchen</author>
+<author pid="16/5412">Adam J. Storm</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<author pid="60/6783">Daniel C. Zilio</author>
+<author pid="181/5812">Matt Huras</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/CMohan">Chandrasekaran Mohan</author>
+<author pid="o/FatmaOzcan">Fatma &#214;zcan</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<title>Evolving Databases for New-Gen Big Data Applications.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/papers/p123-barber-cidr17.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#BarberGGMRSSSTT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BarberHLMMOPRSS16" mdate="2021-10-14">
+<author pid="33/3527">Ronald Barber</author>
+<author pid="181/5812">Matt Huras</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author orcid="0000-0002-4418-4724" pid="o/FatmaOzcan">Fatma &#214;zcan</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="84/3614">Richard Sidle</author>
+<author pid="181/5779">Oleg Sidorkin</author>
+<author pid="16/5412">Adam J. Storm</author>
+<author pid="27/3375">Yuanyuan Tian</author>
+<author orcid="0000-0001-6838-4854" pid="86/9726">Pinar T&#246;z&#252;n</author>
+<title>Wildfire: Concurrent Blazing Data Ingest and Analytics.</title>
+<pages>2077-2080</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2899406</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#BarberHLMMOPRSS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/Mohan15" mdate="2016-12-14">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Big Data: Hype and Reality.</title>
+<pages>21</pages>
+<year>2015</year>
+<booktitle>BTW</booktitle>
+<crossref>conf/btw/2015</crossref>
+<url>db/conf/btw/btw2015.html#Mohan15</url>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings241/article7.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sebd/Mohan15" mdate="2016-12-14">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Big Data: Hype and Reality.</title>
+<pages>11</pages>
+<year>2015</year>
+<booktitle>SEBD</booktitle>
+<crossref>conf/sebd/2015</crossref>
+<url>db/conf/sebd/sebd2015.html#Mohan15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/amw/Mohan14" mdate="2023-03-10">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>The Excitement of Research and Advanced Technology Development: A Personal Journey.</title>
+<year>2014</year>
+<booktitle>AMW</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1189/invited_paper_2.pdf</ee>
+<crossref>conf/amw/2014</crossref>
+<url>db/conf/amw/amw2014.html#Mohan14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/Mohan14" mdate="2021-01-29">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Tutorial: An In-Depth Look at Modern Database Systems.</title>
+<pages>674</pages>
+<year>2014</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2014.72</ee>
+<crossref>conf/edbt/2014</crossref>
+<url>db/conf/edbt/edbt2014.html#Mohan14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/OzcanTAKMRW14" mdate="2018-11-06">
+<author pid="o/FatmaOzcan">Fatma &#214;zcan</author>
+<author pid="t/NesimeTatbul">Nesime Tatbul</author>
+<author pid="a/DJAbadi">Daniel J. Abadi</author>
+<author pid="11/6425">Marcel Kornacker</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="r/KRamasamy">Karthik Ramasamy</author>
+<author pid="w/JanetLWiener">Janet L. Wiener</author>
+<title>Are we experiencing a big data bubble?</title>
+<pages>1407-1408</pages>
+<year>2014</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2588555.2618215</ee>
+<crossref>conf/sigmod/2014</crossref>
+<url>db/conf/sigmod/sigmod2014.html#OzcanTAKMRW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/comad/Mohan13" mdate="2020-03-12">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>An In-depth Look at Modern Database Systems.</title>
+<pages>9</pages>
+<year>2013</year>
+<booktitle>COMAD</booktitle>
+<ee type="oa">http://comad.in/comad2013/pdfs/tutorial1.pdf</ee>
+<crossref>conf/comad/2013</crossref>
+<url>db/conf/comad/comad2013.html#Mohan13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/Mohan13" mdate="2018-11-14">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>History repeats itself: sensible and NonsenSQL aspects of the NoSQL hoopla.</title>
+<pages>11-16</pages>
+<year>2013</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/2452376.2452378</ee>
+<ee>https://www.wikidata.org/entity/Q56571534</ee>
+<crossref>conf/edbt/2013</crossref>
+<url>db/conf/edbt/edbt2013.html#Mohan13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/FangHHMW11" mdate="2023-03-23">
+<author pid="18/1081">Ru Fang</author>
+<author pid="39/3931">Hui-I Hsiao</author>
+<author pid="78/4523">Bin He</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="36/3235">Yun Wang</author>
+<title>High performance database logging using storage class memory.</title>
+<pages>1221-1231</pages>
+<year>2011</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2011.5767918</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2011.5767918</ee>
+<crossref>conf/icde/2011</crossref>
+<url>db/conf/icde/icde2011.html#FangHHMW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpctc/Mohan10" mdate="2017-05-23">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Impact of Recent Hardware and Software Trends on High Performance Transaction Processing and Analytics.</title>
+<pages>85-92</pages>
+<year>2010</year>
+<booktitle>TPCTC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-18206-8_7</ee>
+<crossref>conf/tpctc/2010</crossref>
+<url>db/conf/tpctc/tpctc2010.html#Mohan10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/RaoPML06" mdate="2023-03-24">
+<author pid="r/JunRao">Jun Rao</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<title>Compiled Query Execution Engine using JVM.</title>
+<pages>23</pages>
+<year>2006</year>
+<crossref>conf/icde/2006</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2006.40</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2006.40</ee>
+<url>db/conf/icde/icde2006.html#RaoPML06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ChaAHMRSY06" mdate="2021-07-29">
+<author pid="c/SangKyunCha">Sang Kyun Cha</author>
+<author pid="34/659-1">P. Anandan 0001</author>
+<author pid="40/4895">Meichun Hsu</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="r/RajeevRastogi">Rajeev Rastogi</author>
+<author pid="87/1055">Vishal Sikka</author>
+<author pid="40/2804">Honesty C. Young</author>
+<title>Globalization: Challenges to Database Community.</title>
+<pages>1140</pages>
+<year>2006</year>
+<crossref>conf/vldb/2006</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1164228</ee>
+<ee type="oa">http://www.vldb.org/conf/2006/p1140-cha.pdf</ee>
+<url>db/conf/vldb/vldb2006.html#ChaAHMRSY06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/birthday/DoraiswamyASPPRM05" mdate="2017-05-23">
+<author pid="36/2217">Sangeeta Doraiswamy</author>
+<author pid="02/6597">Mehmet Altinel</author>
+<author pid="05/481">Lakshmikant Shrinivas</author>
+<author pid="75/1679">Stewart L. Palmer</author>
+<author pid="45/800">Francis N. Parr</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Reweaving the Tapestry: Integrating Database and Messaging Systems in the Wake of New Middleware Technologies.</title>
+<pages>91-110</pages>
+<year>2005</year>
+<crossref>conf/birthday/2005wedekind</crossref>
+<booktitle>Data Management in a Connected World</booktitle>
+<ee>https://doi.org/10.1007/11499923_6</ee>
+<url>db/conf/birthday/wedekind2005.html#DoraiswamyASPPRM05</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/BornhovdAMPR04" mdate="2020-08-19">
+<author pid="34/1731">Christof Bornh&#246;vd</author>
+<author pid="02/6597">Mehmet Altinel</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<title>Adaptive Database Caching with DBCache.</title>
+<pages>11-18</pages>
+<year>2004</year>
+<volume>27</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<ee type="oa">http://sites.computer.org/debull/A04june/bornhoevd.ps</ee>
+<url>db/journals/debu/debu27.html#BornhovdAMPR04</url>
+</article>
+</r>
+<r><article key="journals/sigmod/WinslettM04" mdate="2020-03-06">
+<author pid="w/MarianneWinslett">Marianne Winslett</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Interview: C. Mohan Speaks Out.</title>
+<pages>77-84</pages>
+<year>2004</year>
+<volume>33</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1041410.1041425</ee>
+<url>db/journals/sigmod/sigmod33.html#WinslettM04</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/Mohan03" mdate="2023-03-24">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Application Servers and Associated Technologies.</title>
+<pages>799</pages>
+<ee>https://doi.org/10.1109/ICDE.2003.1260872</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2003.1260872</ee>
+<year>2003</year>
+<crossref>conf/icde/2003</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2003.html#Mohan03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BornhovdAKMPR03" mdate="2018-11-06">
+<author pid="34/1731">Christof Bornh&#246;vd</author>
+<author pid="02/6597">Mehmet Altinel</author>
+<author pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<title>DBCache: Middle-tier Database Caching for Highly Scalable e-Business Architectures.</title>
+<pages>662</pages>
+<year>2003</year>
+<crossref>conf/sigmod/2003</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2003.html#BornhovdAKMPR03</url>
+<ee>https://doi.org/10.1145/872757.872849</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/AltinelBKMPR03" mdate="2020-03-12">
+<ee type="oa">http://www.vldb.org/conf/2003/papers/S22P01.pdf</ee>
+<ee>https://doi.org/10.1016/B978-012722442-8/50069-0</ee>
+<author pid="02/6597">Mehmet Altinel</author>
+<author pid="34/1731">Christof Bornh&#246;vd</author>
+<author pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<title>Cache Tables: Paving the Way for an Adaptive Database Cache.</title>
+<year>2003</year>
+<crossref>conf/vldb/2003</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2003.html#AltinelBKMPR03</url>
+<pages>718-729</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BhattacharyaMBNHS02" mdate="2018-11-06">
+<author pid="10/2594">Suparna Bhattacharya</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="75/7029">Karen Brannon</author>
+<author pid="n/InderpalNarang">Inderpal Narang</author>
+<author pid="39/3931">Hui-I Hsiao</author>
+<author pid="19/5054">Mahadevan Subramanian</author>
+<title>Coordinating backup/recovery and data consistency between database and file systems.</title>
+<pages>500-511</pages>
+<year>2002</year>
+<crossref>conf/sigmod/2002</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/564691.564749</ee>
+<url>db/conf/sigmod/sigmod2002.html#BhattacharyaMBNHS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LuoKMPWLN02" mdate="2018-11-06">
+<author pid="l/QiongLuo">Qiong Luo 0001</author>
+<author pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="63/6072">Honguk Woo</author>
+<author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<title>Middle-tier database caching for e-business.</title>
+<pages>600-611</pages>
+<year>2002</year>
+<crossref>conf/sigmod/2002</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/564691.564763</ee>
+<url>db/conf/sigmod/sigmod2002.html#LuoKMPWLN02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AltinelLKMPLWB02" mdate="2018-11-06">
+<author pid="02/6597">Mehmet Altinel</author>
+<author pid="l/QiongLuo">Qiong Luo 0001</author>
+<author pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author>
+<author pid="63/6072">Honguk Woo</author>
+<author pid="34/1138">Larry Brown</author>
+<title>DBCache: database caching for web application servers.</title>
+<pages>612</pages>
+<year>2002</year>
+<crossref>conf/sigmod/2002</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/564691.564765</ee>
+<url>db/conf/sigmod/sigmod2002.html#AltinelLKMPLWB02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Mohan02" mdate="2018-11-06">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Tutorial: application servers and associated technologies.</title>
+<pages>636</pages>
+<year>2002</year>
+<crossref>conf/sigmod/2002</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/564691.564796</ee>
+<url>db/conf/sigmod/sigmod2002.html#Mohan02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tes/Mohan02" mdate="2017-05-23">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Dynamic E-business: Trends in Web Services.</title>
+<pages>1-5</pages>
+<year>2002</year>
+<crossref>conf/tes/2002</crossref>
+<booktitle>TES</booktitle>
+<ee>https://doi.org/10.1007/3-540-46121-3_1</ee>
+<url>db/conf/tes/tes2002.html#Mohan02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/Mohan02" mdate="2016-12-14">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Application Servers and Associated Technologies.</title>
+<year>2002</year>
+<crossref>conf/vldb/2002</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2002.html#Mohan02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/Mohan02a" mdate="2020-03-12">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>An Efficient Method for Performing Record Deletions and Updates Using Index Scans.</title>
+<year>2002</year>
+<crossref>conf/vldb/2002</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2002.html#Mohan02a</url>
+<ee type="oa">http://www.vldb.org/conf/2002/S29P01.pdf</ee>
+<ee>https://doi.org/10.1016/B978-155860869-6/50093-7</ee>
+<pages>940-949</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Mohan01" mdate="2021-03-12">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Application Servers: Born-Again TP Monitors for the Web? (Panel Abstract).</title>
+<pages>622</pages>
+<year>2001</year>
+<crossref>conf/sigmod/2001</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/375663.375798</ee>
+<ee>https://doi.org/10.1145/376284.375798</ee>
+<url>db/conf/sigmod/sigmod2001.html#Mohan01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/Mohan01" mdate="2020-03-12">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Caching Technologies for Web Applications.</title>
+<year>2001</year>
+<crossref>conf/vldb/2001</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2001.html#Mohan01</url>
+<ee>http://www.almaden.ibm.com/u/mohan/Caching_VLDB2001.pdf</ee>
+<ee type="oa">http://www.vldb.org/conf/2001/tut3.pdf</ee>
+</inproceedings>
+</r>
+<r><article key="journals/debu/BouganimFMV00" mdate="2024-04-04">
+<author pid="b/LucBouganim">Luc Bouganim</author>
+<author pid="72/6766">Fran&#231;oise Fabret</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="v/PatrickValduriez">Patrick Valduriez</author>
+<title>A Dynamic Query Processing Architecture for Data Integration Systems.</title>
+<pages>42-48</pages>
+<year>2000</year>
+<ee type="oa">http://sites.computer.org/debull/A00june/A00JUN-CD.pdf</ee>
+<volume>23</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<url>db/journals/debu/debu23.html#BouganimFMV00</url>
+</article>
+</r>
+<r><article key="journals/ieeecc/AlonsoHAAM00" mdate="2020-03-06">
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="50/2330">Claus Hagen</author>
+<author pid="a/DivyakantAgrawal">Divyakant Agrawal</author>
+<author pid="a/AmrElAbbadi">Amr El Abbadi</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Enhancing the fault tolerance of workflow management systems.</title>
+<pages>74-81</pages>
+<year>2000</year>
+<volume>8</volume>
+<journal>IEEE Concurr.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/4434.865896</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4434.865896</ee>
+<url>db/journals/ieeecc/ieeecc8.html#AlonsoHAAM00</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/BouganimFMV00" mdate="2023-03-24">
+<author pid="b/LucBouganim">Luc Bouganim</author>
+<author pid="72/6766">Fran&#231;oise Fabret</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="v/PatrickValduriez">Patrick Valduriez</author>
+<title>Dynamic Query Scheduling in Data Integration Systems.</title>
+<pages>425-434</pages>
+<year>2000</year>
+<crossref>conf/icde/2000</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2000.839442</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2000.839442</ee>
+<url>db/conf/icde/icde2000.html#BouganimFMV00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/MohanBWSZ00" mdate="2020-03-12">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="33/3527">Ron Barber</author>
+<author pid="04/1667">S. Watts</author>
+<author pid="50/1300">Amit Somani</author>
+<author pid="44/3258">Markos Zaharioudakis</author>
+<title>Evolution of Groupware for Business Applications: A Database Perspective on Lotus Domino/Notes.</title>
+<year>2000</year>
+<crossref>conf/vldb/2000</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2000.html#MohanBWSZ00</url>
+<pages>684-687</pages>
+<ee type="oa">http://www.vldb.org/conf/2000/P684.pdf</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/BouganimFMV99" mdate="2019-07-16">
+<author pid="b/LucBouganim">Luc Bouganim</author>
+<author pid="72/6766">Fran&#231;oise Fabret</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="v/PatrickValduriez">Patrick Valduriez</author>
+<title>Dynamic Scheduling of Complex Distributed Queries.</title>
+<pages>201-220</pages>
+<year>1999</year>
+<crossref>conf/bda/1999</crossref>
+<booktitle>Proc. 15&#232;mes Journ&#233;es Bases de Donn&#233;es Avanc&#233;es, BDA</booktitle>
+<url>db/conf/bda/bda99.html#BouganimFMV99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ngits/Mohan99" mdate="2017-05-24">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Workflow Management in the Internet Age (Abstract).</title>
+<pages>237</pages>
+<ee>https://doi.org/10.1007/3-540-48521-X_18</ee>
+<year>1999</year>
+<crossref>conf/ngits/1999</crossref>
+<booktitle>NGITS</booktitle>
+<url>db/conf/ngits/ngits99.html#Mohan99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Mohan99" mdate="2021-03-12">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>A Database Perspective on Lotus Domino/Notes.</title>
+<cdrom>DiSC2_1/out/papers/sigmod/adatabaseperspec.pdf</cdrom>
+<pages>507</pages>
+<year>1999</year>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod99.html#Mohan99</url>
+<crossref>conf/sigmod/99</crossref>
+<ee>https://doi.org/10.1145/304182.304230</ee>
+<ee>https://doi.org/10.1145/304181.304230</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/Mohan99" mdate="2020-03-12">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Repeating History Beyond ARIES.</title>
+<pages>1-17</pages>
+<year>1999</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb99.html#Mohan99</url>
+<crossref>conf/vldb/99</crossref>
+<ee type="oa">http://www.vldb.org/conf/1999/P1.pdf</ee>
+<cite label="BaRa87">conf/icde/BadrinathR87</cite>
+<cite label="BeHG87">books/aw/BernsteinHG87</cite>
+<cite label="BeNe97">books/mk/BernsteinN96</cite>
+<cite label="BGHJ92">conf/sigmod/BhideGHJ92</cite>
+<cite label="Billa96">...</cite>
+<cite label="Boss84">conf/vldb/Borr84</cite>
+<cite label="CABGK81">journals/cacm/ChamberlinABGKLLMPPSSSTWY81</cite>
+<cite label="CaRH95">conf/vldb/CabreraRH95</cite>
+<cite label="CDFHM94">conf/sigmod/CareyDFHMNSSTTWZ94</cite>
+<cite label="ChGY81">conf/vldb/ChamberlinGY81</cite>
+<cite label="ChMo96">...</cite>
+<cite label="ChMy88">journals/ibmsj/ChangM88</cite>
+<cite label="ClCo89">journals/ibmsj/ClarkC89</cite>
+<cite label="CMSW93">journals/tse/CabreraMSW93</cite>
+<cite label="Crus84">journals/ibmsj/Crus84</cite>
+<cite label="DGSBH90">journals/tkde/DeWittGSBHR90</cite>
+<cite label="Dombr95">conf/adbis/Dombrowska95</cite>
+<cite label="EGLT76">journals/cacm/EswarranGLT76</cite>
+<cite label="Elmag92">books/mk/Elmagarmid92</cite>
+<cite label="FZTCD92">conf/sigmod/FranklinZTCD92</cite>
+<cite label="GaKi85">journals/debu/GawlickK85</cite>
+<cite label="GMBLL81">journals/csur/GrayMBLLPPT81</cite>
+<cite label="GrRe93">books/mk/GrayR93</cite>
+<cite label="HaJa84">journals/ibmsj/HaderleJ84</cite>
+<cite label="HaRe83">journals/csur/HarderR83</cite>
+<cite label="HaRo87">conf/sigmod/HarderR87</cite>
+<cite label="HaRo93">journals/vldb/HarderR93</cite>
+<cite label="HCLMW90">journals/tkde/HaasCLMWLLPCS90</cite>
+<cite label="HLMPS94">...</cite>
+<cite label="IBM97">...</cite>
+<cite label="JaKe97">books/kl/JajodiaK97</cite>
+<cite label="JhKh92">conf/sigmod/JhingranK92</cite>
+<cite label="JMNT97">journals/ibmsj/JostenMNT97</cite>
+<cite label="KoMH97">conf/sigmod/KornackerMH97</cite>
+<cite label="KuHs98">...</cite>
+<cite label="Kumar95">...</cite>
+<cite label="Kuo96">journals/tods/Kuo96</cite>
+<cite label="Lars88">journals/tods/Larson88</cite>
+<cite label="Lomet92">conf/sigmod/Lomet92</cite>
+<cite label="LoSa92">conf/sigmod/LometS92</cite>
+<cite label="LoTu95">conf/vldb/LometT95</cite>
+<cite label="MaRe97">books/kl/jajodiaK97/MartinR97</cite>
+<cite label="MHLPS92">journals/tods/MohanHLPS92</cite>
+<cite label="MHWC90">conf/edbt/MohanHWC90</cite>
+<cite label="MoDi94">journals/debu/MohanD94</cite>
+<cite label="MoHa94">conf/edbt/MohanH94</cite>
+<cite label="Mohan90a">conf/vldb/Mohan90</cite>
+<cite label="Mohan90b">conf/vldb/Mohan90a</cite>
+<cite label="Mohan92a">conf/ride/Mohan92</cite>
+<cite label="Mohan92b">conf/ride/Mohan92a</cite>
+<cite label="Mohan93a">conf/icde/Mohan93</cite>
+<cite label="Mohan93b">conf/sigmod/Mohan93</cite>
+<cite label="Mohan93c">conf/vldb/Mohan93</cite>
+<cite label="Mohan93d">conf/fodo/Mohan93</cite>
+<cite label="Mohan95a">conf/icde/Mohan95</cite>
+<cite label="Mohan95b">...</cite>
+<cite label="Mohan99">conf/sigmod/Mohan99</cite>
+<cite label="MoLe92">conf/sigmod/MohanL92</cite>
+<cite label="MoLO86">journals/tods/MohanLO86</cite>
+<cite label="MoNa91">conf/vldb/MohanN91</cite>
+<cite label="MoNa92a">conf/edbt/MohanN92</cite>
+<cite label="MoNa92b">conf/icdcs/MohanN92</cite>
+<cite label="MoNa92c">conf/sigmod/MohanN92</cite>
+<cite label="MoNa93">conf/sigmod/MohanN93</cite>
+<cite label="MoNa94">conf/sigmod/MohanN94</cite>
+<cite label="MoNP90">...</cite>
+<cite label="MoPi91">conf/icde/Mohan91</cite>
+<cite label="MoPL92">conf/sigmod/MohanPL92</cite>
+<cite label="MoTO93">conf/icde/MohanTO93</cite>
+<cite label="Ober80">...</cite>
+<cite label="Ober98a">...</cite>
+<cite label="Ober98b">...</cite>
+<cite label="PeSt83">conf/pods/PetersonS83</cite>
+<cite label="RaCh96">...</cite>
+<cite label="Ramak98">books/mg/Ramakrishnan98</cite>
+<cite label="RoMo89">conf/vldb/RothermelM89</cite>
+<cite label="StNC91">journals/ibmsj/StoneNC91</cite>
+<cite label="VuDo90">...</cite>
+<cite label="Weihl95">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adbis/Mohan98" mdate="2017-05-23">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Workflow Management in the Internet Age.</title>
+<pages>26-34</pages>
+<cdrom>adbis98/P026.pdf</cdrom>
+<year>1998</year>
+<booktitle>ADBIS</booktitle>
+<url>db/conf/adbis/adbis98.html#Mohan98</url>
+<crossref>conf/adbis/98</crossref>
+<ee>https://doi.org/10.1007/BFb0057714</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/Mohan98" mdate="2016-12-14">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Transaction Processing and Distributed Computing in the Internet Age (conf.invit&#233;e).</title>
+<year>1998</year>
+<crossref>conf/bda/1998</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda98.html#Mohan98</url>
+</inproceedings>
+</r>
+<r><article key="journals/ibmsj/JostenMNT97" mdate="2020-03-13">
+<author pid="63/1274">Jeffrey W. Josten</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="n/InderpalNarang">Inderpal Narang</author>
+<author pid="99/3100">James Z. Teng</author>
+<title>DB2's Use of the Coupling Facility for Data Sharing.</title>
+<pages>327-351</pages>
+<year>1997</year>
+<volume>36</volume>
+<journal>IBM Syst. J.</journal>
+<number>2</number>
+<url>db/journals/ibmsj/ibmsj36.html#JostenMNT97</url>
+<ee>https://doi.org/10.1147/sj.362.0327</ee>
+</article>
+</r>
+<r><inproceedings key="conf/ride/AlonsoRM97" mdate="2023-03-23">
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Distributed Data Management in Workflow Environments.</title>
+<pages>82-90</pages>
+<year>1997</year>
+<crossref>conf/ride/97</crossref>
+<booktitle>RIDE</booktitle>
+<url>db/conf/ride/ride97.html#AlonsoRM97</url>
+<ee>https://doi.org/10.1109/RIDE.1997.583708</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RIDE.1997.583708</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/KornackerMH97" mdate="2021-06-14">
+<author pid="11/6425">Marcel Kornacker</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Concurrency and Recovery in Generalized Search Trees.</title>
+<pages>62-72</pages>
+<year>1997</year>
+<crossref>conf/sigmod/97</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod97.html#KornackerMH97</url>
+<ee>https://doi.org/10.1145/253260.253272</ee>
+<ee>https://doi.org/10.1145/253262.253272</ee>
+<cdrom>SIGMOD97/P062.PDF</cdrom>
+<cite label="BS77">journals/acta/BayerS77</cite>
+<cite label="EGLT76">journals/cacm/EswarranGLT76</cite>
+<cite label="GR93">books/mk/GrayR93</cite>
+<cite label="Gra78">conf/ac/Gray78</cite>
+<cite label="Gut84">conf/sigmod/Guttman84</cite>
+<cite label="HNP95">conf/vldb/HellersteinNP95</cite>
+<cite label="Jag90">conf/icde/Jagadish90</cite>
+<cite label="Js93">journals/tods/JohnsonS93</cite>
+<cite label="KB95">conf/vldb/KornackerB95</cite>
+<cite label="KKAD89">...</cite>
+<cite label="KL80">journals/tods/KungL80</cite>
+<cite label="LJF94">journals/vldb/LinJF94</cite>
+<cite label="Lom93">conf/vldb/Lomet93</cite>
+<cite label="LS90">journals/tods/LometS90</cite>
+<cite label="LS92">conf/sigmod/LometS92</cite>
+<cite label="LY81">journals/tods/LehmanY81</cite>
+<cite label="MHL+92">journals/tods/MohanHLPS92</cite>
+<cite label="ML92">conf/sigmod/MohanL92</cite>
+<cite label="Moh90a">conf/vldb/Mohan90</cite>
+<cite label="Moh90b">conf/vldb/Mohan90a</cite>
+<cite label="Moh95">...</cite>
+<cite label="Sag86">journals/jcss/Sagiv86</cite>
+<cite label="SC91">conf/sigmod/SrinivasanC91</cite>
+<cite label="SG88">journals/tods/ShashaG88</cite>
+<cite label="SRF87">conf/vldb/SellisRF87</cite>
+</inproceedings>
+</r>
+<r><incollection key="books/kl/jajodiaK97/AlonsoM97" mdate="2019-08-07">
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>WFMS: The Next Generation of Distributed Processing Tools.</title>
+<year>1997</year>
+<crossref>books/kl/JajodiaK97</crossref>
+<booktitle>Advanced Transaction Models and Architectures</booktitle>
+<url>db/books/collections/JajodiaK97.html#AlonsoM97</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/expert/AlonsoAAM97" mdate="2021-01-08">
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="a/DivyakantAgrawal">Divyakant Agrawal</author>
+<author pid="a/AmrElAbbadi">Amr El Abbadi</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Functionality and Limitations of Current Workflow Management Systems.</title>
+<year>1997</year>
+<journal>unpublished</journal>
+<note>unpublished; submitted to IEEE Expert</note>
+<ee type="archive">http://www.almaden.ibm.com/cs/exotica/wfmsys.pdf</ee>
+<url>db/journals/unpublished/unpublished1997.html#AlonsoAAM97</url>
+</article>
+</r>
+<r><article key="journals/dpd/AlonsoGKAAM96" mdate="2020-05-18">
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="70/6642">Roger G&#252;nth&#246;r</author>
+<author pid="76/4667">Mohan Kamath</author>
+<author pid="a/DivyakantAgrawal">Divyakant Agrawal</author>
+<author pid="a/AmrElAbbadi">Amr El Abbadi</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Exotica/FMDC: A Workflow Management System for Mobile and Disconnected Clients.</title>
+<pages>229-247</pages>
+<cdrom>DPD/4/P229.pdf</cdrom>
+<year>1996</year>
+<volume>4</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>3</number>
+<url>db/journals/dpd/dpd4.html#AlonsoGKAAM96</url>
+<ee>https://doi.org/10.1007/BF00140951</ee>
+</article>
+</r>
+<r><inproceedings key="conf/compcon/ReinwaldM96" mdate="2023-03-23">
+<author pid="76/3381">Berthold Reinwald</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Structured Workflow Management with Lotus Notes Release 4.</title>
+<pages>451-457</pages>
+<year>1996</year>
+<crossref>conf/compcon/1996</crossref>
+<booktitle>COMPCON</booktitle>
+<url>db/conf/compcon/compcon96.html#ReinwaldM96</url>
+<ee>https://doi.org/10.1109/CMPCON.1996.501810</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CMPCON.1996.501810</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/KamathAGM96" mdate="2017-05-21">
+<author pid="76/4667">Mohan Kamath</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="70/6642">Roger G&#252;nth&#246;r</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Providing High Availability in Very Large Worklflow Management Systems.</title>
+<pages>427-442</pages>
+<cdrom>EDBT96/P427.pdf</cdrom>
+<year>1996</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt96.html#KamathAGM96</url>
+<crossref>conf/edbt/96</crossref>
+<ee>https://doi.org/10.1007/BFb0014169</ee>
+<cite label="BGHJ92">conf/sigmod/BhideGHJ92</cite>
+<cite label="BT90">conf/compcon/BurkesT90</cite>
+<cite label="CS92">conf/vldb/ChamberlinS92</cite>
+<cite label="FCK87">conf/vldb/FreytagCK87</cite>
+<cite label="Fry94">...</cite>
+<cite label="GMP90">conf/vldb/Garcia-MolinaPH90</cite>
+<cite label="GHS95">journals/dpd/GeorgakopoulosHS95</cite>
+<cite label="Gol94">...</cite>
+<cite label="GR93">books/mk/GrayR93</cite>
+<cite label="Hsu95">journals/debu/Hsu95</cite>
+<cite label="IBMa">...</cite>
+<cite label="LR94">conf/compcon/LeymannR94</cite>
+<cite label="Lyo90">...</cite>
+<cite label="MAGK95">journals/debu/MohanAGK95</cite>
+<cite label="MHL+92">journals/tods/MohanHLPS92</cite>
+<cite label="MTO93">conf/icde/MohanTO93</cite>
+<cite label="SBCM95">journals/dpd/SamarasBCM95</cite>
+<cite label="She94">...</cite>
+<cite label="WfMC94">...</cite>
+<cite label="WN94">conf/vldb/WienerN94</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AlonsoAAKGM96" mdate="2023-03-23">
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="a/DivyakantAgrawal">Divyakant Agrawal</author>
+<author pid="a/AmrElAbbadi">Amr El Abbadi</author>
+<author pid="76/4667">Mohan Kamath</author>
+<author pid="70/6642">Roger G&#252;nth&#246;r</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Advanced Transaction Models in Workflow Contexts.</title>
+<pages>574-581</pages>
+<cdrom>ICDE96/P574.pdf</cdrom>
+<year>1996</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde96.html#AlonsoAAKGM96</url>
+<crossref>conf/icde/96</crossref>
+<ee>https://doi.org/10.1109/ICDE.1996.492208</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.1996.492208</ee>
+<cite label="BDG+94">conf/sigmod/BilirisDGJR94</cite>
+<cite label="BP95">conf/vldb/BargaP95</cite>
+<cite label="CR91">conf/vldb/ChrysanthisR91</cite>
+<cite label="DHL91">conf/vldb/DayalHL91</cite>
+<cite label="ELLR90">conf/vldb/ElmagarmidLLR90</cite>
+<cite label="Elm92">books/mk/Elmagarmid92</cite>
+<cite label="Fry94">...</cite>
+<cite label="GHS95">journals/dpd/GeorgakopoulosHS95</cite>
+<cite label="GMGK+91a">...</cite>
+<cite label="GMGK+91b">journals/debu/Garcia-MolinaGKKS91</cite>
+<cite label="GMS87">conf/sigmod/Garcia-MolinaS87</cite>
+<cite label="G&#252;93">conf/ride/Gunthor93</cite>
+<cite label="Hol94">...</cite>
+<cite label="Hsu93">...</cite>
+<cite label="Kle91">...</cite>
+<cite label="KS94">...</cite>
+<cite label="LR94">conf/compcon/LeymannR94</cite>
+<cite label="Moh94">conf/sigmod/Mohan94</cite>
+<cite label="Mos81">...</cite>
+<cite label="MRSK92">conf/icdcs/MehrotraRKS92</cite>
+<cite label="MS93">journals/debu/McCarthyS93</cite>
+<cite label="SR93">journals/debu/ShethR93</cite>
+<cite label="TAC+93">journals/debu/TomlinsonACMSSW93</cite>
+<cite label="WR92">books/mk/elmagarmid92/WachterR92</cite>
+<cite label="ZNBB94">conf/sigmod/ZhangNBB94</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Mohan96" mdate="2021-06-21">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>State of the Art in Workflow Management Research and Products.</title>
+<pages>544</pages>
+<year>1996</year>
+<crossref>conf/sigmod/96</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod96.html#Mohan96</url>
+<ee>https://doi.org/10.1145/233269.280350</ee>
+<ee>https://doi.org/10.1145/235968.280350</ee>
+<cdrom>SIGMOD96/P544.PDF</cdrom>
+</inproceedings>
+</r>
+<r><incollection key="books/ph/kumar96/Mohan96" mdate="2019-08-05">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Concurrency Control and Recovery Methods for B+-Tree Indexes: ARIES/KVL and ARIES/IM.</title>
+<pages>248-306</pages>
+<year>1996</year>
+<crossref>books/ph/kumar96/KU1996</crossref>
+<booktitle>Performance of Concurrency Control Mechanisms in Centralized Database Systems</booktitle>
+<url>db/books/collections/Kumar96.html#Mohan96</url>
+</incollection>
+</r>
+<r><incollection key="books/ph/kumar96/Mohan96a" mdate="2019-08-05">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Commit_LSN: A Novel and Simple Method for Reducing Locking and Latching in Transaction Processing Systems.</title>
+<pages>307-335</pages>
+<year>1996</year>
+<crossref>books/ph/kumar96/KU1996</crossref>
+<booktitle>Performance of Concurrency Control Mechanisms in Centralized Database Systems</booktitle>
+<url>db/books/collections/Kumar96.html#Mohan96a</url>
+</incollection>
+</r>
+<r><proceedings key="conf/vldb/96" mdate="2017-03-29">
+<editor pid="51/5329">T. M. Vijayaraman</editor>
+<editor pid="b/APBuchmann">Alejandro P. Buchmann</editor>
+<editor pid="m/CMohan">C. Mohan 0001</editor>
+<editor pid="s/NandlalLSarda">Nandlal L. Sarda</editor>
+<title>VLDB'96, Proceedings of 22th International Conference on Very Large Data Bases, September 3-6, 1996, Mumbai (Bombay), India</title>
+<publisher href="db/publishers/mkp.html">Morgan Kaufmann</publisher>
+<year>1996</year>
+<isbn>1-55860-382-4</isbn>
+<url>db/conf/vldb/vldb96.html</url>
+</proceedings>
+</r>
+<r><article key="journals/debu/MohanAGK95" mdate="2020-03-10">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="70/6642">Roger G&#252;nth&#246;r</author>
+<author pid="76/4667">Mohan Kamath</author>
+<title>Exotica: A Research Perspective ob Workflow Management Systems.</title>
+<pages>19-26</pages>
+<year>1995</year>
+<volume>18</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<cdrom>DEBU/95MAR-CD.PDF</cdrom>
+<url>db/journals/debu/debu18.html#MohanAGK95</url>
+<ee type="oa">http://sites.computer.org/debull/95MAR-CD.pdf</ee>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/coopis/AlonsoGKAAM95</cite>
+<cite>conf/sigmod/BilirisDGJR94</cite>
+<cite>conf/vldb/ElmagarmidLLR90</cite>
+<cite>books/mk/Elmagarmid92</cite>
+<cite>conf/sigmod/Garcia-MolinaS87</cite>
+<cite>...</cite>
+<cite>journals/debu/Garcia-MolinaGKKS91</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/cacm/ImielinskiB94</cite>
+<cite>...</cite>
+<cite>journals/ibmsj/LeymannA94</cite>
+<cite>conf/compcon/LeymannR94</cite>
+<cite>conf/btw/Leymann95</cite>
+<cite>conf/icdcs/MehrotraRKS92</cite>
+<cite>journals/debu/MohanD94</cite>
+<cite>conf/sigmod/Mohan94</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigmod/ZhangNBB94</cite>
+</article>
+</r>
+<r><article key="journals/dpd/SamarasBCM95" mdate="2020-05-18">
+<ee>https://doi.org/10.1007/BF01299677</ee>
+<author pid="s/GeorgeSamaras">George Samaras</author>
+<author pid="15/1988">Kathryn Britton</author>
+<author pid="97/5452">Andrew Citron</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Two-Phase Commit Optimizations in a Commercial Distributed Environment.</title>
+<pages>325-360</pages>
+<cdrom>DPD/3/P325.pdf</cdrom>
+<year>1995</year>
+<volume>3</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>4</number>
+<url>db/journals/dpd/dpd3.html#SamarasBCM95</url>
+</article>
+</r>
+<r><inproceedings key="conf/coopis/AlonsoGKAAM95" mdate="2019-08-08">
+<author pid="a/GustavoAlonso">Gustavo Alonso</author>
+<author pid="70/6642">Roger G&#252;nth&#246;r</author>
+<author pid="76/4667">Mohan Kamath</author>
+<author pid="a/DivyakantAgrawal">Divyakant Agrawal</author>
+<author pid="a/AmrElAbbadi">Amr El Abbadi</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Exotica/FMDC: Handling Disconnected Clients in a Workflow Management System.</title>
+<pages>99-110</pages>
+<year>1995</year>
+<crossref>conf/coopis/1995</crossref>
+<booktitle>CoopIS</booktitle>
+<url>db/conf/coopis/coopis95.html#AlonsoGKAAM95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/Mohan95" mdate="2023-03-24">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Disk Read-Write Optimizations and Data Integrity in Transaction Systems Using Write-Ahead Logging.</title>
+<pages>324-331</pages>
+<cdrom>ICDE95/P324.pdf</cdrom>
+<year>1995</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde95.html#Mohan95</url>
+<crossref>conf/icde/95</crossref>
+<ee>https://doi.org/10.1109/ICDE.1995.380378</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.1995.380378</ee>
+<cite label="BHRS91">...</cite>
+<cite label="CrGP83">...</cite>
+<cite label="CrHT90">...</cite>
+<cite label="Crus84">journals/ibmsj/Crus84</cite>
+<cite label="GMBLL81">journals/csur/GrayMBLLPPT81</cite>
+<cite label="HaSe89">...</cite>
+<cite label="HLMPS94">...</cite>
+<cite label="IBM94">...</cite>
+<cite label="Levi89">...</cite>
+<cite label="MHLPS92">journals/tods/MohanHLPS92</cite>
+<cite label="Moha93">conf/sigmod/Mohan93</cite>
+<cite label="Moha94">...</cite>
+<cite label="MoHa94">conf/edbt/MohanH94</cite>
+<cite label="MoLe92">conf/sigmod/MohanL92</cite>
+<cite label="MoNa93">conf/sigmod/MohanN93</cite>
+<cite label="MoPi91">conf/icde/Mohan91</cite>
+<cite label="PaGK88">conf/sigmod/PattersonGK88</cite>
+<cite label="Serl91">books/mk/gray91/Serlin91</cite>
+</inproceedings>
+</r>
+<r><article key="journals/debu/MohanD94" mdate="2020-03-10">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="19/929">Dick Dievendorff</author>
+<title>Recent Work on Distributed Commit Protocolls, and Recoverable Messaging and Queuing.</title>
+<pages>22-28</pages>
+<year>1994</year>
+<volume>17</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<cdrom>DEBU/94MAR-CD.PDF</cdrom>
+<url>db/journals/debu/debu17.html#MohanD94</url>
+<ee type="oa">http://sites.computer.org/debull/94MAR-CD.pdf</ee>
+<cite label="BCMS93">...</cite>
+<cite label="CiMo91">...</cite>
+<cite label="DiMo93">...</cite>
+<cite label="IBM93a">...</cite>
+<cite label="IBM93b">...</cite>
+<cite label="IBM93c">...</cite>
+<cite label="IBM93d">...</cite>
+<cite label="MBXS93">...</cite>
+<cite label="MHLPS92">journals/tods/MohanHLPS92</cite>
+<cite label="Moha90">conf/vldb/Mohan90a</cite>
+<cite label="Moha93a">conf/sigmod/Mohan93</cite>
+<cite label="Moha93b">...</cite>
+<cite label="Moha94a">...</cite>
+<cite label="Moha94b">conf/edbt/MohanH94</cite>
+<cite label="MoLe92">conf/sigmod/MohanL92</cite>
+<cite label="MoLi83">conf/podc/MohanL83</cite>
+<cite label="MoLO86">journals/tods/MohanLO86</cite>
+<cite label="SBCM93">conf/icde/SamarasBCM93</cite>
+<cite label="SJFF89">...</cite>
+</article>
+</r>
+<r><article key="journals/ibmsj/MohanPTW94" mdate="2020-03-13">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="14/1377">W. Grace Tang</author>
+<author pid="36/3235">Yun Wang</author>
+<title>Parallelism in Relational Database Management Systems.</title>
+<pages>349-371</pages>
+<year>1994</year>
+<volume>33</volume>
+<journal>IBM Syst. J.</journal>
+<number>2</number>
+<url>db/journals/ibmsj/ibmsj33.html#MohanPTW94</url>
+<ee>https://doi.org/10.1147/sj.332.0349</ee>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/MohanH94" mdate="2019-05-29">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="11/633">Don Haderle</author>
+<title>Algorithms for Flexible Space Management in Transaction Systems Supporting Fine-Granularity Locking.</title>
+<pages>131-144</pages>
+<cdrom>EDBT94/P131.pdf</cdrom>
+<crossref>conf/edbt/94</crossref>
+<year>1994</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt94.html#MohanH94</url>
+<ee>https://doi.org/10.1007/3-540-57818-8_47</ee>
+<cite label="Astr76">journals/tods/AstrahanBCEGGKLMMPTWW76</cite>
+<cite label="CrHT90">...</cite>
+<cite label="HaSe89">...</cite>
+<cite label="LiMP86">...</cite>
+<cite label="LiMR90">...</cite>
+<cite label="MHLPS92">journals/tods/MohanHLPS92</cite>
+<cite label="Moha90a">conf/vldb/Mohan90a</cite>
+<cite label="Moha90b">conf/vldb/Mohan90</cite>
+<cite label="Moha93a">conf/sigmod/Mohan93</cite>
+<cite label="Moha93b">conf/vldb/Mohan93</cite>
+<cite label="Moha93c">...</cite>
+<cite label="MoLe92">conf/sigmod/MohanL92</cite>
+<cite label="Serl91">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MohanN94" mdate="2021-03-22">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="n/InderpalNarang">Inderpal Narang</author>
+<title>ARIES/CSA: A Method for Database Recovery in Client-Server Architectures.</title>
+<pages>55-66</pages>
+<year>1994</year>
+<crossref>conf/sigmod/94</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod94.html#MohanN94</url>
+<ee>https://doi.org/10.1145/191839.191849</ee>
+<ee>https://doi.org/10.1145/191843.191849</ee>
+<cdrom>SIGMOD94/P055.PDF</cdrom>
+<cite label="CFLS91">conf/sigmod/CareyFLS91</cite>
+<cite label="Crus84">journals/ibmsj/Crus84</cite>
+<cite label="Deux91">journals/cacm/Deux91</cite>
+<cite label="DIRY89">journals/tse/DiasIR89</cite>
+<cite label="DMFV90">conf/vldb/DeWittFMV90</cite>
+<cite label="FrCL92">conf/vldb/FranklinCL92</cite>
+<cite label="FZTCD92">conf/sigmod/FranklinZTCD92</cite>
+<cite label="KrLS86">journals/tocs/KronenbergLS86</cite>
+<cite label="Lamp78">journals/cacm/Lamport78</cite>
+<cite label="LLOW91">journals/cacm/LambLOW91</cite>
+<cite label="Lome90">...</cite>
+<cite label="MHLPS92">journals/tods/MohanHLPS92</cite>
+<cite label="Moha90">conf/vldb/Mohan90a</cite>
+<cite label="Moha93a">conf/icde/Mohan93</cite>
+<cite label="Moha93b">conf/vldb/Mohan93</cite>
+<cite label="Moh94a">...</cite>
+<cite label="Moha94b">...</cite>
+<cite label="MoLe92">conf/sigmod/MohanL92</cite>
+<cite label="MoNa91">conf/vldb/MohanN91</cite>
+<cite label="MoNa92a">conf/edbt/MohanN92</cite>
+<cite label="MoNa92b">...</cite>
+<cite label="MoHa93">conf/sigmod/MohanN93</cite>
+<cite label="MoNP90">...</cite>
+<cite label="MoNS91">...</cite>
+<cite label="MoPi91">conf/icde/Mohan91</cite>
+<cite label="Rahm91">...</cite>
+<cite label="ReSW88">...</cite>
+<cite label="RoMo89">conf/vldb/RothermelM89</cite>
+<cite label="WaRo91">conf/sigmod/WangR91</cite>
+<cite label="WiNe90">conf/vldb/WilkinsonN90</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Mohan94" mdate="2021-03-22">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>A Survey and Critique of Advanced Transaction Models.</title>
+<pages>521</pages>
+<year>1994</year>
+<crossref>conf/sigmod/94</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod94.html#Mohan94</url>
+<ee>https://doi.org/10.1145/191839.191990</ee>
+<ee>https://doi.org/10.1145/191843.191990</ee>
+<cdrom>SIGMOD94/P521.PDF</cdrom>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fodo/Mohan93" mdate="2017-05-20">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>A Survey of DBMS Research Issues in Supporting Very Large Tables.</title>
+<pages>279-300</pages>
+<year>1993</year>
+<crossref>conf/fodo/1993</crossref>
+<booktitle>FODO</booktitle>
+<url>db/conf/fodo/fodo93.html#Mohan93</url>
+<ee>https://doi.org/10.1007/3-540-57301-1_19</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpts/Mohan93" mdate="2019-08-07">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Generalized Presumed Abort: Marrying Presumed Abort and SNA LU6.2 Commit Protocols.</title>
+<year>1993</year>
+<crossref>conf/hpts/1993</crossref>
+<booktitle>HPTS</booktitle>
+<url>db/conf/hpts/hpts93.html#Mohan93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/Mohan93" mdate="2023-03-23">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>ARIES/LHS: A Concurrency Control and Recovery Method Using Write-Ahead Logging for Linear Hashing with Separators.</title>
+<pages>243-252</pages>
+<cdrom>ICDE93/P243.pdf</cdrom>
+<year>1993</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde93.html#Mohan93</url>
+<crossref>conf/icde/93</crossref>
+<ee>https://doi.org/10.1109/ICDE.1993.344058</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.1993.344058</ee>
+<cite label="BaSc77">journals/acta/BayerS77</cite>
+<cite label="Elli83">conf/pods/Ellis83</cite>
+<cite label="Elli87">journals/tods/Ellis87</cite>
+<cite label="EnDu88">journals/csur/EnbodyD88</cite>
+<cite label="Gray78">conf/ac/Gray78</cite>
+<cite label="HsTY90">...</cite>
+<cite label="HsYa86">conf/vldb/HsuY86</cite>
+<cite label="KeRu88">journals/software/KelleyR88</cite>
+<cite label="Kuma89">journals/ipl/Kumar89</cite>
+<cite label="Lars88">journals/tods/Larson88</cite>
+<cite label="MHLPS92">journals/tods/MohanHLPS92</cite>
+<cite label="Moha90">conf/vldb/Mohan90</cite>
+<cite label="Moha92">...</cite>
+<cite label="MoLe92">conf/sigmod/MohanL92</cite>
+<cite label="MoLO86">journals/tods/MohanLO86</cite>
+<cite label="MoPi91">conf/icde/Mohan91</cite>
+<cite label="OuAb89">conf/fodo/OukselA89</cite>
+<cite label="RoMo89">conf/vldb/RothermelM89</cite>
+<cite label="ShGo88">journals/tods/ShashaG88</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/MohanTO93" mdate="2023-03-23">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="67/4126">Kent Treiber</author>
+<author pid="53/6002">Ron Obermarck</author>
+<title>Algorithms for the Management of Remote Backup Data Bases for Disaster Recovery.</title>
+<pages>511-518</pages>
+<cdrom>ICDE93/P511.pdf</cdrom>
+<year>1993</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde93.html#MohanTO93</url>
+<crossref>conf/icde/93</crossref>
+<ee>https://doi.org/10.1109/ICDE.1993.344034</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.1993.344034</ee>
+<cite label="BuTr90">...</cite>
+<cite label="GaPH90">conf/vldb/Garcia-MolinaPH90</cite>
+<cite label="GaPo90">conf/compcon/Garcia-MolinaP90</cite>
+<cite label="Gray78">conf/ac/Gray78</cite>
+<cite label="HaRe83">journals/csur/HarderR83</cite>
+<cite label="IBM91">...</cite>
+<cite label="KHGP91">journals/tods/KingHGP91</cite>
+<cite label="Lyon88">conf/compcon/Lyon88</cite>
+<cite label="Lyon89">...</cite>
+<cite label="Lyon90">...</cite>
+<cite label="MBCS92">...</cite>
+<cite label="MHLPS92">journals/tods/MohanHLPS92</cite>
+<cite label="Moha90a">conf/vldb/Mohan90</cite>
+<cite label="Moha90b">conf/vldb/Mohan90a</cite>
+<cite label="Moha91">...</cite>
+<cite label="Moha92">conf/icde/Mohan93</cite>
+<cite label="MoLe92">conf/sigmod/MohanL92</cite>
+<cite label="MoLO86">journals/tods/MohanLO86</cite>
+<cite label="MoNa91">conf/vldb/MohanN91</cite>
+<cite label="MoNa92a">conf/edbt/MohanN92</cite>
+<cite label="MoNa92b">conf/icdcs/MohanN92</cite>
+<cite label="MoNS91">...</cite>
+<cite label="MoPi91">conf/icde/Mohan91</cite>
+<cite label="MoTO90">...</cite>
+<cite label="PoGa92">conf/sigmod/PolyzoisG92</cite>
+<cite label="ReSW89">...</cite>
+<cite label="RoMo89">conf/vldb/RothermelM89</cite>
+<cite label="SBCM93">conf/icde/SamarasBCM93</cite>
+<cite label="Scru87">...</cite>
+<cite label="SNOP85">...</cite>
+<cite label="StUW82">...</cite>
+<cite label="TeGu84">journals/ibmsj/TengG84</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SamarasBCM93" mdate="2023-03-23">
+<author pid="s/GeorgeSamaras">George Samaras</author>
+<author pid="15/1988">Kathryn Britton</author>
+<author pid="97/5452">Andrew Citron</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Two-Phase Commit Optimizations and Tradeoffs in the Commercial Environment.</title>
+<pages>520-529</pages>
+<cdrom>ICDE93/P520.pdf</cdrom>
+<year>1993</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde93.html#SamarasBCM93</url>
+<crossref>conf/icde/93</crossref>
+<ee>https://doi.org/10.1109/ICDE.1993.344028</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.1993.344028</ee>
+<cite label="1">...</cite>
+<cite label="3">...</cite>
+<cite label="4">conf/icde/HuangL88</cite>
+<cite label="5">journals/debu/GawlickK85</cite>
+<cite label="6">conf/ac/Gray78</cite>
+<cite label="8">...</cite>
+<cite label="9">...</cite>
+<cite label="10">conf/hpts/HellandSLCGR87</cite>
+<cite label="11">...</cite>
+<cite label="12">...</cite>
+<cite label="13">...</cite>
+<cite label="14">...</cite>
+<cite label="15">...</cite>
+<cite label="16">...</cite>
+<cite label="17">...</cite>
+<cite label="18">journals/dtj/LaingJL91</cite>
+<cite label="19">conf/ac/Lampson80</cite>
+<cite label="20">journals/tocs/LindsayHMWY84</cite>
+<cite label="21">books/sp/kimrb85/LohmanMHDLSW85</cite>
+<cite label="22">journals/ibmsj/MaslakSS91</cite>
+<cite label="23">...</cite>
+<cite label="24">conf/podc/MohanL83</cite>
+<cite label="25">journals/tods/MohanLO86</cite>
+<cite label="26">conf/sigmod/Skeen81</cite>
+<cite label="27">...</cite>
+<cite label="28">journals/dtj/SpiroJR91</cite>
+<cite label="29">journals/tse/Stonebraker79</cite>
+<cite label="30">conf/hpts/Group87</cite>
+<cite label="31">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MohanN93" mdate="2021-03-11">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="n/InderpalNarang">Inderpal Narang</author>
+<title>An Efficient and Flexible Method for Archiving a Data Base.</title>
+<pages>139-146</pages>
+<year>1993</year>
+<crossref>conf/sigmod/93</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod93.html#MohanN93</url>
+<ee>https://doi.org/10.1145/170035.170064</ee>
+<ee>https://doi.org/10.1145/170036.170064</ee>
+<cdrom>SIGMOD93/P139.PDF</cdrom>
+<cite label="CPM82">...</cite>
+<cite label="GMBLL81">journals/csur/GrayMBLLPPT81</cite>
+<cite label="IBM">...</cite>
+<cite label="Info91">...</cite>
+<cite label="MHLPS92">journals/tods/MohanHLPS92</cite>
+<cite label="Moha92">...</cite>
+<cite label="Moha93">conf/sigmod/Mohan93</cite>
+<cite label="MoHa91">conf/vldb/MohanN91</cite>
+<cite label="MoHa92a">conf/edbt/MohanN92</cite>
+<cite label="MoNa92b">...</cite>
+<cite label="TeGu84">journals/ibmsj/TengG84</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Mohan93" mdate="2021-03-11">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>IBM's Relational DBMS Products: Features and Technologies.</title>
+<pages>445-448</pages>
+<year>1993</year>
+<crossref>conf/sigmod/93</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod93.html#Mohan93</url>
+<ee>https://doi.org/10.1145/170035.170129</ee>
+<ee>https://doi.org/10.1145/170036.170129</ee>
+<cdrom>SIGMOD93/P445.PDF</cdrom>
+<cite label="ACDL88">...</cite>
+<cite label="AnCo88">...</cite>
+<cite label="CEHH90">...</cite>
+<cite label="ChGY81">conf/vldb/ChamberlinGY81</cite>
+<cite label="CHHIM91">conf/icde/ChengHHIMMW91</cite>
+<cite label="ChMo93">...</cite>
+<cite label="ChMy88">...</cite>
+<cite label="ClCo89">...</cite>
+<cite label="CLSW84">journals/ibmsj/ChengLSW84</cite>
+<cite label="CrHT90">...</cite>
+<cite label="Crus84">journals/ibmsj/Crus84</cite>
+<cite label="DHLPR89">...</cite>
+<cite label="GMBLL81">journals/csur/GrayMBLLPPT81</cite>
+<cite label="IBM90">...</cite>
+<cite label="IBM92">...</cite>
+<cite label="LeLi89">conf/vldb/LehmanL89</cite>
+<cite label="LLPS91">journals/cacm/LohmanLPS91</cite>
+<cite label="MBCS92">...</cite>
+<cite label="MHLPS92">journals/tods/MohanHLPS92</cite>
+<cite label="MHWC90">conf/edbt/MohanHWC90</cite>
+<cite label="Moh90a">conf/vldb/Mohan90</cite>
+<cite label="Moha90b">conf/vldb/Mohan90a</cite>
+<cite label="Moha92">conf/ride/Mohan92</cite>
+<cite label="MoLe92">conf/sigmod/MohanL92</cite>
+<cite label="MoLO86">journals/tods/MohanLO86</cite>
+<cite label="MoNa91">conf/vldb/MohanN91</cite>
+<cite label="MoNa93">conf/sigmod/MohanN93</cite>
+<cite label="TeGu84">journals/ibmsj/TengG84</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/Mohan93" mdate="2017-03-29">
+<crossref>conf/vldb/93</crossref>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>A Cost-Effective Method for Providing Improved Data Availability During DBMS Restart Recovery After a Failure.</title>
+<pages>368-379</pages>
+<year>1993</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb93.html#Mohan93</url>
+<ee>http://www.vldb.org/conf/1993/P368.PDF</ee>
+<cite label="CKKS89">conf/vldb/CopelandKKS89</cite>
+<cite label="Crus84">journals/ibmsj/Crus84</cite>
+<cite label="FZTCD92">conf/sigmod/FranklinZTCD92</cite>
+<cite label="Haer88">journals/is/Harder88</cite>
+<cite label="IBM87">...</cite>
+<cite label="IBM89">...</cite>
+<cite label="LeCa87">conf/sigmod/LehmanC87</cite>
+<cite label="Levy91">conf/icde/Levy91</cite>
+<cite label="Lome90">...</cite>
+<cite label="Lome92">conf/sigmod/Lomet92</cite>
+<cite label="MHLPS92">journals/tods/MohanHLPS92</cite>
+<cite label="Moha90a">conf/vldb/Mohan90a</cite>
+<cite label="Moha90b">conf/vldb/Mohan90</cite>
+<cite label="Moha93a">conf/icde/Mohan93</cite>
+<cite label="Moha93b">conf/sigmod/Mohan93</cite>
+<cite label="Moha93c">conf/fodo/Mohan93</cite>
+<cite label="MoHa93">conf/edbt/MohanH94</cite>
+<cite label="MoLe92">conf/sigmod/MohanL92</cite>
+<cite label="MoLO86">journals/tods/MohanLO86</cite>
+<cite label="MoNa91">conf/vldb/MohanN91</cite>
+<cite label="MoNa92a">conf/edbt/MohanN92</cite>
+<cite label="MoNa92b">conf/icdcs/MohanN92</cite>
+<cite label="MoNa93">conf/sigmod/MohanN94</cite>
+<cite label="MoPi91">conf/icde/Mohan91</cite>
+<cite label="MoTO93">conf/icde/MohanTO93</cite>
+<cite label="Rahm91">...</cite>
+<cite label="ReSW89">...</cite>
+<cite label="Reut86">conf/icde/Reuter86</cite>
+<cite label="RoMo89">conf/vldb/RothermelM89</cite>
+<cite label="ScRi88">...</cite>
+<cite label="Ston87">conf/vldb/Stonebraker87</cite>
+<cite label="Tand87">...</cite>
+<cite label="TeGu84">journals/ibmsj/TengG84</cite>
+</inproceedings>
+</r>
+<r><article key="journals/tods/MohanHLPS92" mdate="2019-05-29">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="11/633">Don Haderle</author>
+<author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="20/3569">Peter M. Schwarz</author>
+<title>ARIES: A Transaction Recovery Method Supporting Fine-Granularity Locking and Partial Rollbacks Using Write-Ahead Logging.</title>
+<pages>94-162</pages>
+<year>1992</year>
+<volume>17</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<url>db/journals/tods/tods17.html#MohanHLPS92</url>
+<ee>https://doi.org/10.1145/128765.128770</ee>
+<cdrom>TODS17/P094.PDF</cdrom>
+<cite>...</cite>
+<cite>conf/icde/BadrinathR87</cite>
+<cite>books/aw/BernsteinHG87</cite>
+<cite>conf/vldb/Borr84</cite>
+<cite>conf/vldb/ChamberlinGY81</cite>
+<cite>journals/tocs/ChangM88</cite>
+<cite>journals/ibmsj/ChangM88</cite>
+<cite>conf/icde/CopelandKSV86</cite>
+<cite>journals/ibmsj/ClarkC89</cite>
+<cite>journals/ibmsj/ChengLSW84</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/ibmsj/Crus84</cite>
+<cite>...</cite>
+<cite>conf/icdcs/DasguptaLA88</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/tkde/DeWittGSBHR90</cite>
+<cite>...</cite>
+<cite>journals/cj/DixonPSW89</cite>
+<cite>...</cite>
+<cite>journals/tods/EffelsbergH84</cite>
+<cite>journals/tods/ElhardB84</cite>
+<cite>journals/jcss/FeketeLMW90</cite>
+<cite>...</cite>
+<cite>journals/debu/GawlickK85</cite>
+<cite>conf/sigmod/GarzaK88</cite>
+<cite>...</cite>
+<cite>journals/csur/GrayMBLLPPT81</cite>
+<cite>conf/ac/Gray78</cite>
+<cite>journals/jacm/Hadzilacos88</cite>
+<cite>journals/is/Harder88</cite>
+<cite>journals/ibmsj/HaderleJ84</cite>
+<cite>journals/csur/HarderR83</cite>
+<cite>...</cite>
+<cite>conf/pods/HerlihyW88</cite>
+<cite>...</cite>
+<cite>journals/tocs/HaskinMSC88</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/jacm/Korth83</cite>
+<cite>conf/fodo/LumDEGPWWW85</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/tocs/LindsayHMWY84</cite>
+<cite>...</cite>
+<cite>journals/toplas/LiskovS83</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/edbt/MohanHWC90</cite>
+<cite>journals/iandc/MohanFS84</cite>
+<cite>conf/sigmod/MossGG86</cite>
+<cite>conf/vldb/Mohan90</cite>
+<cite>conf/vldb/Mohan90a</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/icde/MossLC87</cite>
+<cite>...</cite>
+<cite>conf/podc/MohanL83</cite>
+<cite>journals/tods/MohanLO86</cite>
+<cite>conf/vldb/MohanN91</cite>
+<cite>conf/edbt/MohanN92</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/icde/Mohan91</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/vldb/Moss87</cite>
+<cite>...</cite>
+<cite>conf/icdcs/NettKK86</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/tods/ONeil86</cite>
+<cite>conf/pods/Ong84</cite>
+<cite>conf/sigmod/ReuterS88</cite>
+<cite>conf/pods/PetersonS83</cite>
+<cite>...</cite>
+<cite>journals/tse/Reuter80</cite>
+<cite>conf/pods/Reuter82</cite>
+<cite>journals/tods/Reuter84</cite>
+<cite>conf/vldb/RothermelM89</cite>
+<cite>...</cite>
+<cite>conf/oodbs/SchwarzCFLMMP86</cite>
+<cite>...</cite>
+<cite>journals/tods/ShashaG88</cite>
+<cite>...</cite>
+<cite>journals/sigops/Spratt85</cite>
+<cite>conf/vldb/Stonebraker87</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/hpts/Group87</cite>
+<cite>journals/ibmsj/TengG84</cite>
+<cite>journals/sigops/Traiger82</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/tods/Weikum91</cite>
+<cite>conf/sosp/WeinsteinPLP85</cite>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/MohanN92" mdate="2021-03-05">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="n/InderpalNarang">Inderpal Narang</author>
+<title>Efficient Locking and Caching of Data in the Multisystem Shared Disks Transaction Environment.</title>
+<pages>453-468</pages>
+<cdrom>EDBT92/P453.pdf</cdrom>
+<crossref>conf/edbt/92</crossref>
+<year>1992</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt92.html#MohanN92</url>
+<ee>https://doi.org/10.1007/BFb0032448</ee>
+<cite label="CFLS91">conf/sigmod/CareyFLS91</cite>
+<cite label="CHHIM91">conf/icde/ChengHHIMMW91</cite>
+<cite label="DeRo91">journals/tse/DelisR93</cite>
+<cite label="DIRY89">journals/tse/DiasIR89</cite>
+<cite label="DMFV90">conf/vldb/DeWittFMV90</cite>
+<cite label="GLPT76">conf/vldb/GrayLPT75</cite>
+<cite label="Haer88">journals/is/Harder88</cite>
+<cite label="HaJa84">journals/ibmsj/HaderleJ84</cite>
+<cite label="HaRe83">journals/csur/HarderR83</cite>
+<cite label="Josh91">conf/vldb/Joshi91</cite>
+<cite label="KrLS86">journals/tocs/KronenbergLS86</cite>
+<cite label="KSDVM90">conf/pos/KochSDVMFB90</cite>
+<cite label="MHWC90">conf/edbt/MohanHWC90</cite>
+<cite label="MoNa91a">conf/vldb/MohanN91</cite>
+<cite label="MoNa91b">conf/icdcs/MohanN92</cite>
+<cite label="MoNP90">...</cite>
+<cite label="MoNS91">...</cite>
+<cite label="NiLo91">journals/computer/NitzbergL91</cite>
+<cite label="PeSt83">conf/pods/PetersonS83</cite>
+<cite label="Rahm86">journals/is/Rahm86</cite>
+<cite label="Rahm91">...</cite>
+<cite label="ReSW89">...</cite>
+<cite label="Reut86">conf/icde/Reuter86</cite>
+<cite label="RoDe91">...</cite>
+<cite label="Scru87">...</cite>
+<cite label="Shoe86">journals/debu/Shoens86</cite>
+<cite label="ShTr90">...</cite>
+<cite label="SNOP85">...</cite>
+<cite label="StUW82">...</cite>
+<cite label="TeGu84">journals/ibmsj/TengG84</cite>
+<cite label="WaRo91">conf/sigmod/WangR91</cite>
+<cite label="WiNe90">conf/vldb/WilkinsonN90</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/MohanN92" mdate="2023-03-24">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="n/InderpalNarang">Inderpal Narang</author>
+<title>Data Base Recovery in Shared Disks and Client-Server Architectures.</title>
+<pages>310-317</pages>
+<year>1992</year>
+<crossref>conf/icdcs/1992</crossref>
+<booktitle>ICDCS</booktitle>
+<url>db/conf/icdcs/icdcs92.html#MohanN92</url>
+<ee>https://doi.org/10.1109/ICDCS.1992.235026</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDCS.1992.235026</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ride/Mohan92" mdate="2023-03-23">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Interactions Between Query Optimization and Concurrency Control.</title>
+<pages>26-35</pages>
+<year>1992</year>
+<crossref>conf/ride/92</crossref>
+<booktitle>RIDE-TQP</booktitle>
+<url>db/conf/ride/ride92.html#Mohan92</url>
+<ee>https://doi.org/10.1109/RIDE.1992.227427</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RIDE.1992.227427</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ride/Mohan92a" mdate="2023-03-23">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Less Optimism About Optimistic Concurrency Control.</title>
+<pages>199-204</pages>
+<year>1992</year>
+<crossref>conf/ride/92</crossref>
+<booktitle>RIDE-TQP</booktitle>
+<url>db/conf/ride/ride92.html#Mohan92a</url>
+<ee>https://doi.org/10.1109/RIDE.1992.227405</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RIDE.1992.227405</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MohanPL92" mdate="2021-06-21">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="67/3397">Raymond A. Lorie</author>
+<title>Efficient and Flexible Methods for Transient Versioning of Records to Avoid Locking by Read-Only Transactions.</title>
+<pages>124-133</pages>
+<year>1992</year>
+<crossref>conf/sigmod/92</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod92.html#MohanPL92</url>
+<ee>https://doi.org/10.1145/130283.130306</ee>
+<ee>https://doi.org/10.1145/141484.130306</ee>
+<cdrom>SIGMOD92/P124.PDF</cdrom>
+<cite label="AgSe89">conf/sigmod/AgrawalS89</cite>
+<cite label="BaHR80">journals/tods/BayerHR80</cite>
+<cite label="BoCa92">conf/icde/BoberC92</cite>
+<cite label="ChGr85">journals/tse/ChanG85</cite>
+<cite label="CFLN82">conf/sigmod/ChanFLNR82</cite>
+<cite label="GMBL81">journals/csur/GrayMBLLPPT81</cite>
+<cite label="MBCS91">...</cite>
+<cite label="MHLPS92">journals/tods/MohanHLPS92</cite>
+<cite label="Moha90a">conf/vldb/Mohan90</cite>
+<cite label="Moha90b">conf/vldb/Mohan90a</cite>
+<cite label="MoLe92">conf/sigmod/MohanL92</cite>
+<cite label="MoLO86">journals/tods/MohanLO86</cite>
+<cite label="PMCLS90">conf/dpds/PiraheshMCLS90</cite>
+<cite label="RaRe91">...</cite>
+<cite label="Reed78">...</cite>
+<cite label="StRo81">conf/sigmod/StearnsR81</cite>
+<cite label="Weih87">journals/tse/Weihl87</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MohanN92" mdate="2021-06-21">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="n/InderpalNarang">Inderpal Narang</author>
+<title>Algorithms for Creating Indexes for Very Large Tables Without Quiescing Updates.</title>
+<pages>361-370</pages>
+<year>1992</year>
+<crossref>conf/sigmod/92</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod92.html#MohanN92</url>
+<ee>https://doi.org/10.1145/130283.130337</ee>
+<ee>https://doi.org/10.1145/141484.130337</ee>
+<cdrom>SIGMOD92/P361.PDF</cdrom>
+<cite label="CHHIM91">conf/icde/ChengHHIMMW91</cite>
+<cite label="DeGr90">journals/sigmod/DeWittG90</cite>
+<cite label="Gray78">conf/ac/Gray78</cite>
+<cite label="Knut73">books/aw/Knuth73</cite>
+<cite label="MHLPS92">journals/tods/MohanHLPS92</cite>
+<cite label="Moha90a">conf/vldb/Mohan90</cite>
+<cite label="Moha90b">conf/vldb/Mohan90a</cite>
+<cite label="Moha92">...</cite>
+<cite label="MoLe92">conf/sigmod/MohanL92</cite>
+<cite label="MoPL92">conf/sigmod/MohanPL92</cite>
+<cite label="Ober80">...</cite>
+<cite label="PMCLS90">conf/dpds/PiraheshMCLS90</cite>
+<cite label="SiSU91">journals/cacm/SilberschatzSU91</cite>
+<cite label="SrCa91">conf/hpts/SrinivasanC91</cite>
+<cite label="TeGu84">journals/ibmsj/TengG84</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MohanL92" mdate="2021-06-21">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="04/6125">Frank E. Levine</author>
+<title>ARIES/IM: An Efficient and High Concurrency Index Management Method Using Write-Ahead Logging.</title>
+<pages>371-380</pages>
+<year>1992</year>
+<crossref>conf/sigmod/92</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod92.html#MohanL92</url>
+<ee>https://doi.org/10.1145/130283.130338</ee>
+<ee>https://doi.org/10.1145/141484.130338</ee>
+<cdrom>SIGMOD92/P371.PDF</cdrom>
+<cite label="BaSc77">journals/acta/BayerS77</cite>
+<cite label="FuKa89">conf/pods/FuK89</cite>
+<cite label="GMBLL81">journals/csur/GrayMBLLPPT81</cite>
+<cite label="Gray78">conf/ac/Gray78</cite>
+<cite label="KuPa79">conf/sigmod/KungP79</cite>
+<cite label="LeYa81">journals/tods/LehmanY81</cite>
+<cite label="MHLPS92">journals/tods/MohanHLPS92</cite>
+<cite label="Mino84">...</cite>
+<cite label="Moha90a">conf/vldb/Mohan90</cite>
+<cite label="Moha90b">conf/vldb/Mohan90a</cite>
+<cite label="Moha92">...</cite>
+<cite label="MoLe89">...</cite>
+<cite label="MoNa91">conf/vldb/MohanN91</cite>
+<cite label="MoPi91">conf/icde/Mohan91</cite>
+<cite label="RoMo89">conf/vldb/RothermelM89</cite>
+<cite label="Sagi86">journals/jcss/Sagiv86</cite>
+<cite label="ShGo88">journals/tods/ShashaG88</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/btw/PiraheshM91" mdate="2017-05-25">
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Evolution of Relational DBMSs Toward Object Support: A Practical Viewpoint.</title>
+<pages>16-37</pages>
+<year>1991</year>
+<crossref>conf/btw/91</crossref>
+<booktitle>BTW</booktitle>
+<url>db/conf/btw/btw91.html#PiraheshM91</url>
+<ee>https://doi.org/10.1007/978-3-642-76530-8_2</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChengHHIMMW91" mdate="2023-03-23">
+<author pid="30/1628">Josephine M. Cheng</author>
+<author pid="11/633">Don Haderle</author>
+<author pid="09/1520">Richard Hedges</author>
+<author pid="90/5439">Balakrishna R. Iyer</author>
+<author pid="79/6361">Ted Messinger</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="36/3235">Yun Wang</author>
+<title>An Efficient Hybrid Join Algorithm: A DB2 Prototype.</title>
+<pages>171-180</pages>
+<cdrom>ICDE91/P171.pdf</cdrom>
+<year>1991</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde91.html#ChengHHIMMW91</url>
+<crossref>conf/icde/91</crossref>
+<ee>https://doi.org/10.1109/ICDE.1991.131464</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.1991.131464</ee>
+<cite label="BIEs76">...</cite>
+<cite label="CHHIM90">...</cite>
+<cite label="DKOSS84">conf/sigmod/DeWittKOSSW84</cite>
+<cite label="Kim80">conf/sigmod/Kim80</cite>
+<cite label="MHWC90">conf/edbt/MohanHWC90</cite>
+<cite label="Moha90">conf/vldb/Mohan90</cite>
+<cite label="PMCLS90">conf/dpds/PiraheshMCLS90</cite>
+<cite label="SACL79">conf/sigmod/SelingerACLP79</cite>
+<cite label="TeGu84">journals/ibmsj/TengG84</cite>
+<cite label="Vald87">journals/tods/Valduriez87</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/Mohan91" mdate="2023-03-23">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<title>ARIES-RRH: Restricted Repeating of History in the ARIES Transaction Recovery Method.</title>
+<pages>718-727</pages>
+<cdrom>ICDE91/P718.pdf</cdrom>
+<year>1991</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde91.html#Mohan91</url>
+<crossref>conf/icde/91</crossref>
+<ee>https://doi.org/10.1109/ICDE.1991.131521</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.1991.131521</ee>
+<cite label="BaRa87">conf/icde/BadrinathR87</cite>
+<cite label="BeHG87">books/aw/BernsteinHG87</cite>
+<cite label="ChMy88">journals/ibmsj/ChangM88</cite>
+<cite label="ClCo89">journals/ibmsj/ClarkC89</cite>
+<cite label="Curt84">journals/ibmsj/Crus84</cite>
+<cite label="Curt88">...</cite>
+<cite label="DGSBH90">journals/tkde/DeWittGSBHR90</cite>
+<cite label="GMBLL81">journals/csur/GrayMBLLPPT81</cite>
+<cite label="Gray87">conf/ac/Gray78</cite>
+<cite label="HaRe83">journals/csur/HarderR83</cite>
+<cite label="HMSC88">journals/tocs/HaskinMSC88</cite>
+<cite label="Hsia90">...</cite>
+<cite label="IBM87">...</cite>
+<cite label="KGBW90">journals/tkde/KimGBW90</cite>
+<cite label="KoLS90">conf/vldb/KorthLS90</cite>
+<cite label="Kuma90">...</cite>
+<cite label="Lome90">...</cite>
+<cite label="MHLPS89">journals/tods/MohanHLPS92</cite>
+<cite label="Moha90a">conf/vldb/Mohan90</cite>
+<cite label="Moha90b">conf/icde/Mohan93</cite>
+<cite label="MoLe89">conf/sigmod/MohanL92</cite>
+<cite label="MoLi83">conf/podc/MohanL83</cite>
+<cite label="MoNP90">...</cite>
+<cite label="PeST83">conf/pods/PetersonS83</cite>
+<cite label="Rahm89">...</cite>
+<cite label="ReSW89">...</cite>
+<cite label="RoMo89">conf/vldb/RothermelM89</cite>
+<cite label="SCFLM86">conf/oodbs/SchwarzCFLMMP86</cite>
+<cite label="Spec89">conf/pods/Spector89</cite>
+<cite label="SPSW90">journals/tkde/SchekPSW90</cite>
+<cite label="Tand87">conf/hpts/Group87</cite>
+<cite label="TeGu84">journals/ibmsj/TengG84</cite>
+<cite label="Vura90">...</cite>
+<cite label="WHBM90">conf/pods/WeikumHBM90</cite>
+<cite label="WHMZ90">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LohmanLLACMMPW91" mdate="2021-06-21">
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="27/3158">George Lapis</author>
+<author pid="53/1724">Tobin J. Lehman</author>
+<author pid="a/RAgrawal">Rakesh Agrawal 0001</author>
+<author pid="93/595">Roberta Cochrane</author>
+<author pid="02/5355">John McPherson</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="w/JenniferWidom">Jennifer Widom</author>
+<title>Starburst II: The Extender Strikes Back!</title>
+<pages>447</pages>
+<cdrom>SIGMOD91/P447.PDF</cdrom>
+<year>1991</year>
+<crossref>conf/sigmod/91</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod91.html#LohmanLLACMMPW91</url>
+<ee>https://doi.org/10.1145/115790.115864</ee>
+<ee>https://doi.org/10.1145/119995.115864</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/MohanN91" mdate="2017-03-29">
+<crossref>conf/vldb/91</crossref>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="n/InderpalNarang">Inderpal Narang</author>
+<title>Recovery and Coherency-Control Protocols for Fast Intersystem Page Transfer and Fine-Granularity Locking in a Shared Disks Transaction Environment.</title>
+<pages>193-207</pages>
+<year>1991</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb91.html#MohanN91</url>
+<ee>http://www.vldb.org/conf/1991/P193.PDF</ee>
+<cite label="BACCD90">journals/tkde/BoralACCDFHSV90</cite>
+<cite label="Bhid88">conf/vldb/Bhide88</cite>
+<cite label="CFLS91">conf/sigmod/CareyFLS91</cite>
+<cite label="DGSBH90">journals/tkde/DeWittGSBHR90</cite>
+<cite label="DIRY89">journals/tse/DiasIR89</cite>
+<cite label="DMFV90">conf/vldb/DeWittFMV90</cite>
+<cite label="HaRe83">journals/csur/HarderR83</cite>
+<cite label="KrLS86">journals/tocs/KronenbergLS86</cite>
+<cite label="Li88">...</cite>
+<cite label="MHLPS89">journals/tods/MohanHLPS92</cite>
+<cite label="Moha90">conf/vldb/Mohan90</cite>
+<cite label="MoLe89">conf/sigmod/MohanL92</cite>
+<cite label="MoLO86">journals/tods/MohanLO86</cite>
+<cite label="MoNa91a">...</cite>
+<cite label="MoNa91b">...</cite>
+<cite label="MoNP90">...</cite>
+<cite label="MoNS90">...</cite>
+<cite label="MoPi91">conf/icde/Mohan91</cite>
+<cite label="Nech88">...</cite>
+<cite label="PMCLS90">conf/dpds/PiraheshMCLS90</cite>
+<cite label="Rahm86">journals/is/Rahm86</cite>
+<cite label="Rahm89">...</cite>
+<cite label="ReSW89">...</cite>
+<cite label="RoMo89">conf/vldb/RothermelM89</cite>
+<cite label="Scru87">...</cite>
+<cite label="Shoe86">journals/debu/Shoens86</cite>
+<cite label="SNOP85">...</cite>
+<cite label="Ston86">journals/debu/Stonebraker86</cite>
+<cite label="StUW82">...</cite>
+<cite label="Tand87">conf/hpts/Group87</cite>
+<cite label="WiNe90">conf/vldb/WilkinsonN90</cite>
+<cite label="WuFu89">journals/tc/WuF90</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/RamamrithamSBDM91" mdate="2016-12-14">
+<crossref>conf/vldb/91</crossref>
+<author pid="r/KrithiRamamritham">Krithi Ramamritham</author>
+<author pid="s/SangHyukSon">Sang Hyuk Son</author>
+<author pid="b/APBuchmann">Alejandro P. Buchmann</author>
+<author pid="d/KRDittrich">Klaus R. Dittrich</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Real-Time Databases (Panel).</title>
+<pages>313</pages>
+<year>1991</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb91.html#RamamrithamSBDM91</url>
+<ee>http://www.vldb.org/conf/1991/P313.PDF</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/SchreierPAM91" mdate="2017-11-07">
+<crossref>conf/vldb/91</crossref>
+<author pid="58/5329">Ulf Schreier</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="a/RAgrawal">Rakesh Agrawal 0001</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Alert: An Architecture for Transforming a Passive DBMS into an Active DBMS.</title>
+<pages>469-478</pages>
+<year>1991</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb91.html#SchreierPAM91</url>
+<ee>http://www.vldb.org/conf/1991/P469.PDF</ee>
+<cite label="ADL91">...</cite>
+<cite label="BW77">...</cite>
+<cite label="CBB+89">...</cite>
+<cite label="DBB+88">journals/sigmod/DayalBBCHLMRSCLJ88</cite>
+<cite label="For79">...</cite>
+<cite label="For81">...</cite>
+<cite label="GLPT76">...</cite>
+<cite label="HCKW90">conf/sigmod/HansonCKW90</cite>
+<cite label="HCL+90">journals/tkde/HaasCLMWLLPCS90</cite>
+<cite label="HFLP89">conf/sigmod/HaasFLP89</cite>
+<cite label="HLM88">conf/jcdkb/HsuLM88</cite>
+<cite label="IBM88">...</cite>
+<cite label="ICD88">...</cite>
+<cite label="ISO90">...</cite>
+<cite label="KS91">...</cite>
+<cite label="LMP87">conf/sigmod/LindsayMP87</cite>
+<cite label="Mar90">conf/vldb/Markowitz90</cite>
+<cite label="MD89">conf/sigmod/McCarthyD89</cite>
+<cite label="Moh90">conf/vldb/Mohan90a</cite>
+<cite label="PMC+90">conf/dpds/PiraheshMCLS90</cite>
+<cite label="Pro89">conf/sigmod/89</cite>
+<cite label="Pro90a">conf/sigmod/90</cite>
+<cite label="Pro90b">conf/vldb/90</cite>
+<cite label="RCBB89">conf/vldb/RosenthalCBB89</cite>
+<cite label="SHP88">journals/tse/StonebrakerHP88</cite>
+<cite label="SHP89">journals/sigmod/StonebrakerHP89</cite>
+<cite label="SJGP90">conf/sigmod/StonebrakerJGP90</cite>
+<cite label="SLR88">conf/sigmod/SellisLR88</cite>
+<cite label="SRH90">journals/tkde/StonebrakerRH90</cite>
+<cite label="Syb87">...</cite>
+<cite label="TPC89">...</cite>
+<cite label="WCL91">conf/vldb/WidomCL91</cite>
+<cite label="WF90">conf/sigmod/WidomF90</cite>
+<cite label="ZB90">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dpds/PiraheshMCLS90" mdate="2022-02-03">
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="30/1628">Josephine M. Cheng</author>
+<author pid="72/6008-2">T. S. Liu 0002</author>
+<author pid="48/1954">Patricia G. Selinger</author>
+<title>Parallelism in Relational Data Base Systems: Architectural Issues and Design Approaches.</title>
+<pages>4-29</pages>
+<year>1990</year>
+<crossref>conf/dpds/1990</crossref>
+<booktitle>DPDS</booktitle>
+<url>db/conf/dpds/dpds90.html#PiraheshMCLS90</url>
+<ee>https://doi.org/10.1109/DPDS.1990.113695</ee>
+<ee>https://doi.org/10.1145/319057.319060</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/MohanHWC90" mdate="2019-05-29">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="11/633">Don Haderle</author>
+<author pid="36/3235">Yun Wang</author>
+<author pid="30/1628">Josephine M. Cheng</author>
+<title>Single Table Access Using Multiple Indexes: Optimization, Execution, and Concurrency Control Techniques.</title>
+<pages>29-43</pages>
+<cdrom>EDBT90/P029.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#MohanHWC90</url>
+<ee>https://doi.org/10.1007/BFb0022162</ee>
+<cite label="Alur89">...</cite>
+<cite label="BlEs76">...</cite>
+<cite label="BlEs77">journals/ibmsj/BlasgenE77</cite>
+<cite label="Bora88">conf/dpds/Boral88</cite>
+<cite label="CLSW84">journals/ibmsj/ChengLSW84</cite>
+<cite label="Daya87">conf/vldb/Dayal87</cite>
+<cite label="EGLT76">journals/cacm/EswarranGLT76</cite>
+<cite label="Gray78">conf/ac/Gray78</cite>
+<cite label="LoYo89">conf/vldb/LorieY89</cite>
+<cite label="Lync88">conf/vldb/Lynch88</cite>
+<cite label="MHLP89">journals/tods/MohanHLPS92</cite>
+<cite label="Moha89">conf/vldb/Mohan90</cite>
+<cite label="MoLe89">conf/sigmod/MohanL92</cite>
+<cite label="MuDe88">conf/sigmod/MuralikrishnaD88</cite>
+<cite label="Mura88">...</cite>
+<cite label="Onei87">conf/hpts/ONeil87</cite>
+<cite label="Onei89">...</cite>
+<cite label="PMCLS89">conf/dpds/PiraheshMCLS90</cite>
+<cite label="RoRe82">conf/sigmod/RosenthalR82</cite>
+<cite label="SACL79">conf/sigmod/SelingerACLP79</cite>
+<cite label="TeGu84">journals/ibmsj/TengG84</cite>
+<cite label="ValH88">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/Mohan90" mdate="2017-03-29">
+<crossref>conf/vldb/90</crossref>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>ARIES/KVL: A Key-Value Locking Method for Concurrency Control of Multiaction Transactions Operating on B-Tree Indexes.</title>
+<pages>392-405</pages>
+<year>1990</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb90.html#Mohan90</url>
+<ee>http://www.vldb.org/conf/1990/P392.PDF</ee>
+<cite label="BaSc77">journals/acta/BayerS77</cite>
+<cite label="ChGY81">conf/vldb/ChamberlinGY81</cite>
+<cite label="EGLT76">journals/cacm/EswarranGLT76</cite>
+<cite label="FuKa89">conf/pods/FuK89</cite>
+<cite label="GMBLL81">journals/csur/GrayMBLLPPT81</cite>
+<cite label="Gray78">conf/ac/Gray78</cite>
+<cite label="HaJa84">journals/ibmsj/HaderleJ84</cite>
+<cite label="IBM85">...</cite>
+<cite label="LHMWY84">journals/tocs/LindsayHMWY84</cite>
+<cite label="MHLPS89">journals/tods/MohanHLPS92</cite>
+<cite label="MHWC90">conf/edbt/MohanHWC90</cite>
+<cite label="Mino84">...</cite>
+<cite label="Moha89">...</cite>
+<cite label="Moha90">conf/vldb/Mohan90a</cite>
+<cite label="MoLe89">conf/sigmod/MohanL92</cite>
+<cite label="MoLO86">journals/tods/MohanLO86</cite>
+<cite label="MoPi90">conf/icde/Mohan91</cite>
+<cite label="RoMo89">conf/vldb/RothermelM89</cite>
+<cite label="Sagi86">journals/jcss/Sagiv86</cite>
+<cite label="Shas85">journals/debu/Shasha85</cite>
+<cite label="ShCa89">conf/sigmod/ShekitaC89</cite>
+<cite label="ShGo88">journals/tods/ShashaG88</cite>
+<cite label="Tand87">conf/hpts/Group87</cite>
+<cite label="Weik87">journals/tods/Weikum91</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/Mohan90a" mdate="2017-03-29">
+<crossref>conf/vldb/90</crossref>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Commit_LSN: A Novel and Simple Method for Reducing Locking and Latching in Transaction Processing Systems.</title>
+<pages>406-418</pages>
+<year>1990</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb90.html#Mohan90a</url>
+<ee>http://www.vldb.org/conf/1990/P406.PDF</ee>
+<cite label="CABGK81">journals/cacm/ChamberlinABGKLLMPPSSSTWY81</cite>
+<cite label="ChGY81">conf/vldb/ChamberlinGY81</cite>
+<cite label="ChMe88">journals/tocs/ChangM88</cite>
+<cite label="ChMy88">journals/ibmsj/ChangM88</cite>
+<cite label="ClCo89">journals/ibmsj/ClarkC89</cite>
+<cite label="Crus84">journals/ibmsj/Crus84</cite>
+<cite label="Curt88">...</cite>
+<cite label="DGSBH90">journals/tkde/DeWittGSBHR90</cite>
+<cite label="DHLPR89">...</cite>
+<cite label="EGLT76">journals/cacm/EswarranGLT76</cite>
+<cite label="GaKi85">journals/debu/GawlickK85</cite>
+<cite label="GMBLL81">journals/csur/GrayMBLLPPT81</cite>
+<cite label="Gray78">conf/ac/Gray78</cite>
+<cite label="HaRe83">journals/csur/HarderR83</cite>
+<cite label="HMSC88">journals/tocs/HaskinMSC88</cite>
+<cite label="KrLS86">journals/tocs/KronenbergLS86</cite>
+<cite label="LiMP86">...</cite>
+<cite label="MHLPS89">journals/tods/MohanHLPS92</cite>
+<cite label="MHWC90">conf/edbt/MohanHWC90</cite>
+<cite label="Mino84">...</cite>
+<cite label="Moha90a">conf/vldb/Mohan90</cite>
+<cite label="Moha90b">conf/icde/Mohan93</cite>
+<cite label="MoHP90">...</cite>
+<cite label="MoLe89">conf/sigmod/MohanL92</cite>
+<cite label="MoLi83">conf/podc/MohanL83</cite>
+<cite label="MoLO86">journals/tods/MohanLO86</cite>
+<cite label="MoNP90">...</cite>
+<cite label="MoPi90">conf/icde/Mohan91</cite>
+<cite label="Ober80">...</cite>
+<cite label="PeSt83">conf/pods/PetersonS83</cite>
+<cite label="PMCLS90">conf/dpds/PiraheshMCLS90</cite>
+<cite label="ReSW89">...</cite>
+<cite label="RoMo89">conf/vldb/RothermelM89</cite>
+<cite label="SCFLM86">conf/oodbs/SchwarzCFLMMP86</cite>
+<cite label="Scru87">...</cite>
+<cite label="Shoe86">journals/debu/Shoens86</cite>
+<cite label="SMMT84">...</cite>
+<cite label="SNOP85">...</cite>
+<cite label="Tand87">conf/hpts/Group87</cite>
+<cite label="Tera88">...</cite>
+<cite label="Yama83">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/RothermelM89" mdate="2017-03-29">
+<crossref>conf/vldb/89</crossref>
+<author pid="r/KurtRothermel">Kurt Rothermel</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>ARIES/NT: A Recovery Method Based on Write-Ahead Logging for Nested Transactions.</title>
+<pages>337-346</pages>
+<year>1989</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb89.html#RothermelM89</url>
+<ee>http://www.vldb.org/conf/1989/P337.PDF</ee>
+<cite label="BaRa87">conf/icde/BadrinathR87</cite>
+<cite label="ChMy88">journals/ibmsj/ChangM88</cite>
+<cite label="DaLa88">conf/icdcs/DasguptaLA88</cite>
+<cite label="GMBLL81">journals/csur/GrayMBLLPPT81</cite>
+<cite label="HaRo87a">conf/sigmod/HarderR87</cite>
+<cite label="HaRo87b">...</cite>
+<cite label="HMSC88">journals/tocs/HaskinMSC88</cite>
+<cite label="JNJBP82">...</cite>
+<cite label="LCJS87">conf/sosp/LiskovCJS87</cite>
+<cite label="LHMW84">journals/tocs/LindsayHMWY84</cite>
+<cite label="MHLPS89">...</cite>
+<cite label="Moha86">...</cite>
+<cite label="MoLe89">...</cite>
+<cite label="MoLO86">journals/tods/MohanLO86</cite>
+<cite label="MoRo89">...</cite>
+<cite label="Moss81">...</cite>
+<cite label="Moss87">conf/vldb/Moss87</cite>
+<cite label="MuMP83">conf/sosp/MuellerMP83</cite>
+<cite label="RoMo89">...</cite>
+<cite label="SpPB88">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Mohan87" mdate="2016-12-14">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Directions in System Architectures for High Transaction Rates.</title>
+<pages>6</pages>
+<year>1987</year>
+<crossref>conf/sigmod/87</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod87.html#Mohan87</url>
+<cdrom>SIGMOD87/P006.PDF</cdrom>
+</inproceedings>
+</r>
+<r><article key="journals/tods/MohanLO86" mdate="2018-11-06">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author>
+<author pid="53/6002">Ron Obermarck</author>
+<title>Transaction Management in the R* Distributed Database Management System.</title>
+<pages>378-396</pages>
+<cdrom>TODS11/P378.PDF</cdrom>
+<year>1986</year>
+<volume>11</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<url>db/journals/tods/tods11.html#MohanLO86</url>
+<ee>https://doi.org/10.1145/7239.7266</ee>
+<cite>conf/vldb/Adiba81</cite>
+<cite>conf/vldb/AdibaL80</cite>
+<cite>journals/debu/AgrawalC85</cite>
+<cite>journals/tse/AgrawalCM87</cite>
+<cite>...</cite>
+<cite>conf/vldb/BeeriO81</cite>
+<cite>conf/vldb/BertinoHL83</cite>
+<cite>conf/vldb/Borr81</cite>
+<cite>conf/sigmod/Cooper82</cite>
+<cite>journals/cacm/EswarranGLT76</cite>
+<cite>journals/debu/GawlickK85</cite>
+<cite>conf/ac/Gray78</cite>
+<cite>conf/vldb/Gray81</cite>
+<cite>journals/csur/GrayMBLLPPT81</cite>
+<cite>journals/csur/HarderR83</cite>
+<cite>journals/tods/HammerS80</cite>
+<cite>conf/ac/Lampson80</cite>
+<cite>journals/tocs/LindsayHMWY84</cite>
+<cite>...</cite>
+<cite>books/sp/kimrb85/LohmanMHDLSW85</cite>
+<cite>journals/tods/MackertL89</cite>
+<cite>...</cite>
+<cite>conf/podc/MohanSF83</cite>
+<cite>journals/tods/Obermarck82</cite>
+<cite>journals/tods/RothnieBFGHLRSW80</cite>
+<cite>conf/sigmod/Skeen81</cite>
+<cite>conf/berkeley/Skeen82</cite>
+<cite>journals/tse/Stonebraker79</cite>
+</article>
+</r>
+<r><inproceedings key="conf/oodbs/SchwarzCFLMMP86" mdate="2016-12-14">
+<ee>http://dl.acm.org/citation.cfm?id=318842</ee>
+<author pid="20/3569">Peter M. Schwarz</author>
+<author pid="19/2392">Walter Chang</author>
+<author pid="f/JCFreytag">Johann Christoph Freytag</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="02/5355">John McPherson</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<title>Extensibility in the Starburst Database System.</title>
+<pages>85-92</pages>
+<cdrom>OODBS1986/P085.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#SchwarzCFLMMP86</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LindsayHM86" mdate="2021-06-21">
+<author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="00/708">Paul F. Wilms</author>
+<title>A Snapshot Differential Refresh Algorithm.</title>
+<pages>53-60</pages>
+<year>1986</year>
+<crossref>conf/sigmod/86</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod86.html#LindsayHM86</url>
+<cdrom>SIGMOD86/P053.PDF</cdrom>
+<ee>https://doi.org/10.1145/16894.16860</ee>
+<ee>https://doi.org/10.1145/16856.16860</ee>
+<cite label="ADIBA 80">conf/vldb/AdibaL80</cite>
+<cite label="HAAS 82">journals/debu/HaasSBDLLMMNWY82</cite>
+<cite label="LOHMAN 85">books/sp/kimrb85/LohmanMHDLSW85</cite>
+</inproceedings>
+</r>
+<r><article key="journals/debu/Mohan85" mdate="2020-03-10">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Letter from the Editor.</title>
+<pages>1</pages>
+<year>1985</year>
+<ee type="oa">http://sites.computer.org/debull/85JUN-CD.pdf</ee>
+<volume>8</volume>
+<journal>IEEE Database Eng. Bull.</journal>
+<number>2</number>
+<url>db/journals/debu/debu8.html#Mohan85</url>
+</article>
+</r>
+<r><article key="journals/debu/Mohan85a" mdate="2020-03-10">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Concurrency and Recovery in Data Base Systems.</title>
+<pages>42-49</pages>
+<year>1985</year>
+<ee type="oa">http://sites.computer.org/debull/85JUN-CD.pdf</ee>
+<volume>8</volume>
+<journal>IEEE Database Eng. Bull.</journal>
+<number>2</number>
+<url>db/journals/debu/debu8.html#Mohan85a</url>
+</article>
+</r>
+<r><article key="journals/sigops/MohanL85" mdate="2020-07-14">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author>
+<title>Efficient Commit Protocols for the Tree of Process Model of Distributed Transactions.</title>
+<pages>40-52</pages>
+<year>1985</year>
+<volume>19</volume>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
+<number>2</number>
+<url>db/journals/sigops/sigops19.html#MohanL85</url>
+<ee>https://doi.org/10.1145/850770.850772</ee>
+</article>
+</r>
+<r><article key="journals/sigops/MohanSF85" mdate="2021-05-25">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="08/5863">Ray Strong</author>
+<author pid="87/6811">Sheldon J. Finkelstein</author>
+<title>Method for Distributed Transaction Commit and Recovery Using Byzantine Agreement Within Clusters of Processors.</title>
+<pages>29-43</pages>
+<year>1985</year>
+<volume>19</volume>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
+<number>3</number>
+<url>db/journals/sigops/sigops19.html#MohanSF85</url>
+<ee>https://doi.org/10.1145/850776.850779</ee>
+</article>
+</r>
+<r><article key="journals/tse/MohanFKS85" mdate="2017-05-17">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="f/DonaldSFussell">Donald S. Fussell</author>
+<author pid="k/ZviMKedem">Zvi M. Kedem</author>
+<author pid="s/AbrahamSilberschatz">Abraham Silberschatz</author>
+<title>Lock Conversion in Non-Two-Phase Locking Protocols.</title>
+<pages>15-22</pages>
+<year>1985</year>
+<volume>11</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>1</number>
+<url>db/journals/tse/tse11.html#MohanFKS85</url>
+<ee>https://doi.org/10.1109/TSE.1985.231533</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSE.1985.231533</ee>
+</article>
+</r>
+<r><inproceedings key="conf/hpts/MohanL85" mdate="2019-08-07">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author>
+<title>Commit Coordination, Deadlock Detection &amp; Concurrency Control in DBMS.</title>
+<year>1985</year>
+<crossref>conf/hpts/1985</crossref>
+<booktitle>HPTS</booktitle>
+<url>db/conf/hpts/hpts85.html#MohanL85</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/kimrb85/LohmanMHDLSW85" mdate="2019-08-03">
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="72/2374">Dean Daniels</author>
+<author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author>
+<author pid="48/1954">Patricia G. Selinger</author>
+<author pid="00/708">Paul F. Wilms</author>
+<title>Query Processing in R*</title>
+<booktitle>Query Processing in Database Systems</booktitle>
+<publisher>Springer</publisher>
+<year>1985</year>
+<crossref>books/sp/KimRB85</crossref>
+<pages>31-47</pages>
+<url>db/books/collections/kim85.html#LohmanMHDLSW85</url>
+</incollection>
+</r>
+<r><article key="journals/iandc/MohanFS84" mdate="2021-02-12">
+<title>Compatibility and Commutativity of Lock Modes</title>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="f/DonaldSFussell">Donald S. Fussell</author>
+<author pid="s/AbrahamSilberschatz">Abraham Silberschatz</author>
+<pages>38-64</pages>
+<journal>Inf. Control.</journal>
+<month>April</month>
+<year>1984</year>
+<volume>61</volume>
+<number>1</number>
+<url>db/journals/iandc/iandc61.html#MohanFS84</url>
+<ee type="oa">https://doi.org/10.1016/S0019-9958(84)80061-3</ee>
+</article>
+</r>
+<r><article key="journals/tocs/LindsayHMWY84" mdate="2018-11-06">
+<author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="00/708">Paul F. Wilms</author>
+<author pid="72/1678">Robert A. Yost</author>
+<title>Computation and Communication in R*: A Distributed Database Manager</title>
+<journal>ACM Trans. Comput. Syst.</journal>
+<volume>2</volume>
+<number>1</number>
+<year>1984</year>
+<pages>24-38</pages>
+<ee>https://doi.org/10.1145/2080.357390</ee>
+<url>db/journals/tocs/tocs2.html#LindsayHMWY84</url>
+</article>
+</r>
+<r><inproceedings key="conf/podc/MohanL83" mdate="2018-11-06">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author>
+<title>Efficient Commit Protocols for the Tree of Processes Model of Distributed Transactions.</title>
+<pages>76-88</pages>
+<year>1983</year>
+<crossref>conf/podc/1983</crossref>
+<booktitle>PODC</booktitle>
+<url>db/conf/podc/podc83.html#MohanL83</url>
+<ee>https://doi.org/10.1145/800221.806711</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/MohanSF83" mdate="2018-11-06">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="08/5863">H. Raymond Strong</author>
+<author pid="87/6811">Sheldon J. Finkelstein</author>
+<title>Method for Distributed Transaction Commit and recovery Using Byzantine Agreement Within Clusters of Processors.</title>
+<pages>89-103</pages>
+<year>1983</year>
+<crossref>conf/podc/1983</crossref>
+<booktitle>PODC</booktitle>
+<url>db/conf/podc/podc83.html#MohanSF83</url>
+<ee>https://doi.org/10.1145/800221.806712</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sosp/LindsayHMWY83" mdate="2018-11-06">
+<author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="00/708">Paul F. Wilms</author>
+<author pid="72/1678">Robert A. Yost</author>
+<title>Computation &amp; Communication in R*: A Distributed Database Manager (Extended Abstract).</title>
+<pages>1-2</pages>
+<year>1983</year>
+<crossref>conf/sosp/1983</crossref>
+<booktitle>SOSP</booktitle>
+<url>db/conf/sosp/sosp83.html#LindsayHMWY83</url>
+<ee>https://doi.org/10.1145/800217.806608</ee>
+<note>long version: ACM Trans. Comput. Syst. 2(1): 24-38(1984)</note>
+</inproceedings>
+</r>
+<r><article key="journals/debu/HaasSBDLLMMNWY82" mdate="2020-03-10">
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="48/1954">Patricia G. Selinger</author>
+<author pid="b/ElisaBertino">Elisa Bertino</author>
+<author pid="72/2374">Dean Daniels</author>
+<author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="05/850">Yoshifumi Masunaga</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="89/2013">Pui Ng</author>
+<author pid="00/708">Paul F. Wilms</author>
+<author pid="72/1678">Robert A. Yost</author>
+<title>R*: A Research Project on Distributed Relational DBMS.</title>
+<pages>28-32</pages>
+<year>1982</year>
+<ee type="oa">http://sites.computer.org/debull/82DEC-CD.pdf</ee>
+<volume>5</volume>
+<journal>IEEE Database Eng. Bull.</journal>
+<number>4</number>
+<url>db/journals/debu/debu5.html#HaasSBDLLMMNWY82</url>
+</article>
+</r>
+<r><inproceedings key="conf/ddb/DanielsSHLMWW82" mdate="2019-07-29">
+<author pid="72/2374">Dean Daniels</author>
+<author pid="48/1954">Patricia G. Selinger</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="96/2229">Adrian Walker</author>
+<author pid="00/708">Paul F. Wilms</author>
+<title>An Introduction to Distributed Query Compilation in R*.</title>
+<pages>291-309</pages>
+<year>1982</year>
+<crossref>conf/ddb/1982</crossref>
+<booktitle>DDB</booktitle>
+<url>db/conf/ddb/ddb82.html#DanielsSHLMWW82</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jcdkb/MohanFS82" mdate="2019-07-31">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="f/DonaldSFussell">Donald S. Fussell</author>
+<author pid="s/AbrahamSilberschatz">Abraham Silberschatz</author>
+<title>A Biased Non-Two-Phase Locking Protocol.</title>
+<pages>337-361</pages>
+<year>1982</year>
+<crossref>conf/jcdkb/1982</crossref>
+<booktitle>JCDKB</booktitle>
+<url>db/conf/jcdkb/jcdkb82.html#MohanFS82</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/MohanFS82" mdate="2018-11-06">
+<crossref>conf/pods/82</crossref>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="f/DonaldSFussell">Donald S. Fussell</author>
+<author pid="s/AbrahamSilberschatz">Abraham Silberschatz</author>
+<title>Compatibility and Commutativity in Non-two-phase Locking Protocols.</title>
+<pages>283-292</pages>
+<year>1982</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods82.html#MohanFS82</url>
+<ee>https://doi.org/10.1145/588111.588157</ee>
+<cdrom>journals/anthology/cd1-3:PODS82/P283.PDF</cdrom>
+<cdrom>journals/anthology/dvd1:text/1-3/PODS82/P283.PDF</cdrom>
+<cite>journals/cacm/EswarranGLT76</cite>
+<cite>conf/vldb/FussellKS81</cite>
+<cite>conf/sigmod/KedemS81</cite>
+<cite>conf/ac/Gray78</cite>
+<cite>conf/focs/KedemS79</cite>
+<cite>conf/vldb/KedemS80</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/tods/RosenkrantzSL78</cite>
+<cite>journals/jacm/SilberschatzK80</cite>
+<cite>journals/tse/SilberschatzK82</cite>
+<cite>conf/focs/StearnsLR76</cite>
+<cite>conf/focs/YannakakisPK79</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/KedemMS82" mdate="2017-03-29">
+<crossref>conf/vldb/82</crossref>
+<author pid="k/ZviMKedem">Zvi M. Kedem</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="s/AbrahamSilberschatz">Abraham Silberschatz</author>
+<title>An Efficient Deadlock Removal Scheme for Non-Two-Phase Locking Protocols.</title>
+<pages>91-97</pages>
+<year>1982</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb82.html#KedemMS82</url>
+<ee>http://www.vldb.org/conf/1982/P091.PDF</ee>
+<cite>journals/csur/CoffmanES71</cite>
+<cite>journals/cacm/EswarranGLT76</cite>
+<cite>conf/vldb/FussellKS81</cite>
+<cite>conf/sigmod/KedemS81</cite>
+<cite>conf/ac/Gray78</cite>
+<cite>conf/focs/KedemS79</cite>
+<cite>journals/jacm/KedemS83</cite>
+<cite>conf/vldb/KedemS80</cite>
+<cite>journals/tods/RosenkrantzSL78</cite>
+<cite>journals/jacm/SilberschatzK80</cite>
+<cite>journals/tse/SilberschatzK82</cite>
+<cite>conf/focs/StearnsLR76</cite>
+<cite>conf/focs/YannakakisPK79</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acm/Mohan80" mdate="2018-11-06">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Distributed data base management: Some thoughts and analyses.</title>
+<pages>399-410</pages>
+<year>1980</year>
+<booktitle>ACM Annual Conference</booktitle>
+<ee>https://doi.org/10.1145/800176.809995</ee>
+<crossref>conf/acm/1980</crossref>
+<url>db/conf/acm/acm1980.html#Mohan80</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/Mohan79" mdate="2020-03-10">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>An Overview of Recent Data Base Research.</title>
+<pages>12-13</pages>
+<year>1979</year>
+<volume>3</volume>
+<journal>IEEE Database Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/79APR-CD.pdf</ee>
+<url>db/journals/debu/debu3.html#Mohan79</url>
+</article>
+</r>
+<r><article key="journals/db/Mohan78" mdate="2020-05-20">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>An Overview of Recent Data Base Research.</title>
+<pages>3-24</pages>
+<cdrom>DataBase/10-2/P003.pdf</cdrom>
+<year>1978</year>
+<volume>10</volume>
+<journal>Data Base</journal>
+<number>2</number>
+<url>db/journals/db/db10.html#Mohan78</url>
+<ee>https://doi.org/10.1145/2579474.2579476</ee>
+</article>
+</r>
+<r><article key="journals/sigops/Mohan78" mdate="2020-07-14">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>Survey of Recent Operating Systems Research, Designs and Implementations.</title>
+<pages>53-89</pages>
+<year>1978</year>
+<volume>12</volume>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
+<number>1</number>
+<url>db/journals/sigops/sigops12.html#Mohan78</url>
+<ee>https://doi.org/10.1145/775323.775329</ee>
+<note>Errata: Operating Systems Review 12(2): 11 (1978)</note>
+</article>
+</r>
+<r><inproceedings key="conf/compsac/YehCM78" mdate="2018-10-28">
+<author pid="77/385">Raymond T. Yeh</author>
+<author pid="15/6603">Philip Chang</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<title>A multi-level approach to data base design.</title>
+<pages>370-375</pages>
+<year>1978</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/CMPSAC.1978.810416</ee>
+<crossref>conf/compsac/1978</crossref>
+<url>db/conf/compsac/compsac1978.html#YehCM78</url>
+</inproceedings>
+</r>
+<coauthors n="147" nc="2">
+<co c="0" n="2"><na f="a/Abadi:Daniel_J=" pid="a/DJAbadi">Daniel J. Abadi</na><na>Daniel Abadi</na></co>
+<co c="0"><na f="a/Abbadi:Amr_El" pid="a/AmrElAbbadi">Amr El Abbadi</na></co>
+<co c="0"><na f="a/Agrawal:Divyakant" pid="a/DivyakantAgrawal">Divyakant Agrawal</na></co>
+<co c="0"><na f="a/Agrawal_0001:Rakesh" pid="a/RAgrawal">Rakesh Agrawal 0001</na></co>
+<co c="0"><na f="a/Ailamaki:Anastasia" pid="a/AnastassiaAilamaki">Anastasia Ailamaki</na></co>
+<co c="0"><na f="a/Alonso:Gustavo" pid="a/GustavoAlonso">Gustavo Alonso</na></co>
+<co c="0"><na f="a/Altinel:Mehmet" pid="02/6597">Mehmet Altinel</na></co>
+<co c="0"><na f="a/Anandan_0001:P=" pid="34/659-1">P. Anandan 0001</na></co>
+<co c="0"><na f="a/Andersen:David_G=" pid="a/DavidGAndersen">David G. Andersen</na></co>
+<co c="0"><na f="b/Bailis:Peter" pid="47/8816">Peter Bailis</na></co>
+<co c="0"><na f="b/Balazinska:Magdalena" pid="b/MagdalenaBalazinska">Magdalena Balazinska</na></co>
+<co c="0" n="2"><na f="b/Barber:Ron" pid="33/3527">Ron Barber</na><na>Ronald Barber</na></co>
+<co c="0"><na f="b/Bernstein:Philip_A=" pid="b/PhilipABernstein">Philip A. Bernstein</na></co>
+<co c="0"><na f="b/Bertino:Elisa" pid="b/ElisaBertino">Elisa Bertino</na></co>
+<co c="0"><na f="b/Bhattacharya:Suparna" pid="10/2594">Suparna Bhattacharya</na></co>
+<co c="0"><na f="b/Boncz:Peter_A=" pid="b/PeterABoncz">Peter A. Boncz</na></co>
+<co c="0"><na f="b/Bornh=ouml=vd:Christof" pid="34/1731">Christof Bornh&#246;vd</na></co>
+<co c="0"><na f="b/Bouganim:Luc" pid="b/LucBouganim">Luc Bouganim</na></co>
+<co c="0"><na f="b/Brannon:Karen" pid="75/7029">Karen Brannon</na></co>
+<co c="0"><na f="b/Britton:Kathryn" pid="15/1988">Kathryn Britton</na></co>
+<co c="0"><na f="b/Brown:Larry" pid="34/1138">Larry Brown</na></co>
+<co c="0"><na f="b/Buchmann:Alejandro_P=" pid="b/APBuchmann">Alejandro P. Buchmann</na></co>
+<co c="0"><na f="c/Cha:Sang_Kyun" pid="c/SangKyunCha">Sang Kyun Cha</na></co>
+<co c="1"><na f="c/Chang:Philip" pid="15/6603">Philip Chang</na></co>
+<co c="0"><na f="c/Chang:Walter" pid="19/2392">Walter Chang</na></co>
+<co c="0"><na f="c/Chaudhuri:Surajit" pid="c/SurajitChaudhuri">Surajit Chaudhuri</na></co>
+<co c="0"><na f="c/Cheng:Josephine_M=" pid="30/1628">Josephine M. Cheng</na></co>
+<co c="0"><na f="c/Cheung:Alvin" pid="16/4915">Alvin Cheung</na></co>
+<co c="0"><na f="c/Citron:Andrew" pid="97/5452">Andrew Citron</na></co>
+<co c="0"><na f="c/Cochrane:Roberta" pid="93/595">Roberta Cochrane</na></co>
+<co c="0"><na f="d/Daniels:Dean" pid="72/2374">Dean Daniels</na></co>
+<co c="-1"><na f="d/Dievendorff:Dick" pid="19/929">Dick Dievendorff</na></co>
+<co c="0"><na f="d/Dittrich:Klaus_R=" pid="d/KRDittrich">Klaus R. Dittrich</na></co>
+<co c="0"><na f="d/Doan:AnHai" pid="d/AnHaiDoan">AnHai Doan</na></co>
+<co c="0" n="2"><na f="d/Dong_0001:Xin" pid="d/XinLunaDong">Xin Dong 0001</na><na>Luna Dong</na></co>
+<co c="0"><na f="d/Doraiswamy:Sangeeta" pid="36/2217">Sangeeta Doraiswamy</na></co>
+<co c="0"><na f="f/Fabret:Fran=ccedil=oise" pid="72/6766">Fran&#231;oise Fabret</na></co>
+<co c="0"><na f="f/Fang:Ru" pid="18/1081">Ru Fang</na></co>
+<co c="0"><na f="f/Finkelstein:Sheldon_J=" pid="87/6811">Sheldon J. Finkelstein</na></co>
+<co c="0"><na f="f/Franklin:Michael_J=" pid="f/MJFranklin">Michael J. Franklin</na></co>
+<co c="0"><na f="f/Freire:Juliana" pid="f/JulianaFreire">Juliana Freire</na></co>
+<co c="0" n="2"><na f="f/Freytag:Johann=Christoph" pid="f/JCFreytag">Johann-Christoph Freytag</na><na>Johann Christoph Freytag</na></co>
+<co c="0"><na f="f/Fussell:Donald_S=" pid="f/DonaldSFussell">Donald S. Fussell</na></co>
+<co c="0"><na f="g/Garcia=Arellano:Christian" pid="96/122">Christian Garcia-Arellano</na></co>
+<co c="0"><na f="g/Gay:David" pid="98/3981">David Gay</na></co>
+<co c="0"><na f="g/Grosman:Ronen" pid="192/4573">Ronen Grosman</na></co>
+<co c="0"><na f="g/G=uuml=nth=ouml=r:Roger" pid="70/6642">Roger G&#252;nth&#246;r</na></co>
+<co c="0"><na f="h/Haas:Laura_M=" pid="h/LauraMHaas">Laura M. Haas</na></co>
+<co c="0"><na f="h/Haderle:Don" pid="11/633">Don Haderle</na></co>
+<co c="0"><na f="h/Hagen:Claus" pid="50/2330">Claus Hagen</na></co>
+<co c="0"><na f="h/Halevy:Alon_Y=" pid="h/AlonYHalevy">Alon Y. Halevy</na></co>
+<co c="0"><na f="h/He:Bin" pid="78/4523">Bin He</na></co>
+<co c="0"><na f="h/Hedges:Richard" pid="09/1520">Richard Hedges</na></co>
+<co c="0"><na f="h/Hellerstein:Joseph_M=" pid="h/JosephMHellerstein">Joseph M. Hellerstein</na></co>
+<co c="0"><na f="h/Hsiao:Hui=I" pid="39/3931">Hui-I Hsiao</na></co>
+<co c="0"><na f="h/Hsu:Meichun" pid="40/4895">Meichun Hsu</na></co>
+<co c="0"><na f="h/Huras:Matt" pid="181/5812">Matt Huras</na></co>
+<co c="0"><na f="i/Idreos:Stratos" pid="i/StratosIdreos">Stratos Idreos</na></co>
+<co c="0"><na f="i/Iyer:Balakrishna_R=" pid="90/5439">Balakrishna R. Iyer</na></co>
+<co c="0"><na f="j/Josten:Jeffrey_W=" pid="63/1274">Jeffrey W. Josten</na></co>
+<co c="0"><na f="k/Kamath:Mohan" pid="76/4667">Mohan Kamath</na></co>
+<co c="0"><na f="k/Kedem:Zvi_M=" pid="k/ZviMKedem">Zvi M. Kedem</na></co>
+<co c="0"><na f="k/Kesavan:Ram" pid="30/4355">Ram Kesavan</na></co>
+<co c="0"><na f="k/Kornacker:Marcel" pid="11/6425">Marcel Kornacker</na></co>
+<co c="0"><na f="k/Kossmann:Donald" pid="k/DonaldKossmann">Donald Kossmann</na></co>
+<co c="0"><na f="k/Kraska:Tim" pid="26/6037">Tim Kraska</na></co>
+<co c="0"><na f="k/Krishnamurthy:Sailesh" pid="k/SaileshKrishnamurthy">Sailesh Krishnamurthy</na></co>
+<co c="0"><na f="l/Lapis:George" pid="27/3158">George Lapis</na></co>
+<co c="0"><na f="l/Lehman:Tobin_J=" pid="53/1724">Tobin J. Lehman</na></co>
+<co c="-1"><na f="l/Levine:Frank_E=" pid="04/6125">Frank E. Levine</na></co>
+<co c="0"><na f="l/Lindsay_0001:Bruce_G=" pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</na></co>
+<co c="0" n="2"><na f="l/Liu_0002:Tze=Shiu" pid="72/6008-2">Tze-Shiu Liu 0002</na><na>T. S. Liu 0002</na></co>
+<co c="0"><na f="l/Lohman:Guy_M=" pid="21/2457">Guy M. Lohman</na></co>
+<co c="0"><na f="l/Lorie:Raymond_A=" pid="67/3397">Raymond A. Lorie</na></co>
+<co c="0"><na f="l/Luo_0001:Qiong" pid="l/QiongLuo">Qiong Luo 0001</na></co>
+<co c="0"><na f="m/Markl:Volker" pid="m/VMarkl">Volker Markl</na></co>
+<co c="0"><na f="m/Masunaga:Yoshifumi" pid="05/850">Yoshifumi Masunaga</na></co>
+<co c="0"><na f="m/McPherson:John" pid="02/5355">John McPherson</na></co>
+<co c="0"><na f="m/Melnik_0001:Sergey" pid="m/SergeyMelnik">Sergey Melnik 0001</na></co>
+<co c="0"><na f="m/Messinger:Ted" pid="79/6361">Ted Messinger</na></co>
+<co c="0"><na f="m/Milo:Tova" pid="m/TovaMilo">Tova Milo</na></co>
+<co c="0"><na f="m/M=uuml=ller_0001:Ren=eacute=" pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</na></co>
+<co c="0"><na f="n/Narang:Inderpal" pid="n/InderpalNarang">Inderpal Narang</na></co>
+<co c="0"><na f="n/Naughton:Jeffrey_F=" pid="n/JeffreyFNaughton">Jeffrey F. Naughton</na></co>
+<co c="0"><na f="n/Neumann_0001:Thomas" pid="n/ThomasNeumann">Thomas Neumann 0001</na></co>
+<co c="0"><na f="n/Ng:Pui" pid="89/2013">Pui Ng</na></co>
+<co c="0"><na f="o/Obermarck:Ron" pid="53/6002">Ron Obermarck</na></co>
+<co c="0"><na f="o/Ooi:Beng_Chin" pid="o/BengChinOoi">Beng Chin Ooi</na></co>
+<co c="0" n="2"><na f="=/=Ouml=zcan:Fatma" pid="o/FatmaOzcan">Fatma &#214;zcan</na><na>Fatma Ozcan</na></co>
+<co c="0"><na f="p/Palmer:Stewart_L=" pid="75/1679">Stewart L. Palmer</na></co>
+<co c="0"><na f="p/Parr:Francis_N=" pid="45/800">Francis N. Parr</na></co>
+<co c="0"><na f="p/Patel:Jignesh_M=" pid="p/JMPatel">Jignesh M. Patel</na></co>
+<co c="0"><na f="p/Pavlo:Andrew" pid="58/4127">Andrew Pavlo</na></co>
+<co c="0"><na f="p/Pirahesh:Hamid" pid="p/HamidPirahesh">Hamid Pirahesh</na></co>
+<co c="0"><na f="p/Popa:Raluca_A=" pid="91/275">Raluca A. Popa</na></co>
+<co c="0"><na f="r/Ramakrishnan:Raghu" pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</na></co>
+<co c="0"><na f="r/Ramamritham:Krithi" pid="r/KrithiRamamritham">Krithi Ramamritham</na></co>
+<co c="0"><na f="r/Raman:Vijayshankar" pid="r/VijayshankarRaman">Vijayshankar Raman</na></co>
+<co c="0" n="2"><na f="r/Ramasamy:Karthikeyan" pid="r/KRamasamy">Karthikeyan Ramasamy</na><na>Karthik Ramasamy</na></co>
+<co c="0"><na f="r/Rao:Jun" pid="r/JunRao">Jun Rao</na></co>
+<co c="0"><na f="r/Rastogi:Rajeev" pid="r/RajeevRastogi">Rajeev Rastogi</na></co>
+<co c="0"><na f="r/R=eacute=:Christopher" pid="r/ChristopherRe">Christopher R&#233;</na></co>
+<co c="0"><na f="r/Reinwald:Berthold" pid="76/3381">Berthold Reinwald</na></co>
+<co c="-1"><na f="r/Rothermel:Kurt" pid="r/KurtRothermel">Kurt Rothermel</na></co>
+<co c="0"><na f="s/Samaras:George" pid="s/GeorgeSamaras">George Samaras</na></co>
+<co c="0"><na f="s/Sarda:Nandlal_L=" pid="s/NandlalLSarda">Nandlal L. Sarda</na></co>
+<co c="0"><na f="s/Schreier:Ulf" pid="58/5329">Ulf Schreier</na></co>
+<co c="0"><na f="s/Schwarz:Peter_M=" pid="20/3569">Peter M. Schwarz</na></co>
+<co c="0"><na f="s/Selinger:Patricia_G=" pid="48/1954">Patricia G. Selinger</na></co>
+<co c="0"><na f="s/Shah:Jimit" pid="18/8571">Jimit Shah</na></co>
+<co c="0"><na f="s/Shrinivas:Lakshmikant" pid="05/481">Lakshmikant Shrinivas</na></co>
+<co c="0"><na f="s/Sidle:Richard" pid="84/3614">Richard Sidle</na></co>
+<co c="0"><na f="s/Sidorkin:Oleg" pid="181/5779">Oleg Sidorkin</na></co>
+<co c="0"><na f="s/Sikka:Vishal" pid="87/1055">Vishal Sikka</na></co>
+<co c="0" n="2"><na f="s/Silberschatz:Avi" pid="s/AbrahamSilberschatz">Avi Silberschatz</na><na>Abraham Silberschatz</na></co>
+<co c="0"><na f="s/Somani:Amit" pid="50/1300">Amit Somani</na></co>
+<co c="0"><na f="s/Son:Sang_Hyuk" pid="s/SangHyukSon">Sang Hyuk Son</na></co>
+<co c="0"><na f="s/Spilchen:Matt" pid="192/4569">Matt Spilchen</na></co>
+<co c="0"><na f="s/Stonebraker:Michael" pid="s/MichaelStonebraker">Michael Stonebraker</na></co>
+<co c="0"><na f="s/Storm:Adam_J=" pid="16/5412">Adam J. Storm</na></co>
+<co c="0" n="2"><na f="s/Strong:Ray" pid="08/5863">Ray Strong</na><na>H. Raymond Strong</na></co>
+<co c="0"><na f="s/Subramanian:Mahadevan" pid="19/5054">Mahadevan Subramanian</na></co>
+<co c="0"><na f="s/Suciu:Dan" pid="s/DanSuciu">Dan Suciu</na></co>
+<co c="0"><na f="t/Tang:W=_Grace" pid="14/1377">W. Grace Tang</na></co>
+<co c="0"><na f="t/Tatbul:Nesime" pid="t/NesimeTatbul">Nesime Tatbul</na></co>
+<co c="0"><na f="t/Teng:James_Z=" pid="99/3100">James Z. Teng</na></co>
+<co c="0"><na f="t/Thevessen:Daniel" pid="211/5747">Daniel Thevessen</na></co>
+<co c="0"><na f="t/Tian:Yuanyuan" pid="27/3375">Yuanyuan Tian</na></co>
+<co c="0"><na f="t/T=ouml=z=uuml=n:Pinar" pid="86/9726">Pinar T&#246;z&#252;n</na></co>
+<co c="0"><na f="t/Treiber:Kent" pid="67/4126">Kent Treiber</na></co>
+<co c="0"><na f="v/Valduriez:Patrick" pid="v/PatrickValduriez">Patrick Valduriez</na></co>
+<co c="0"><na f="v/Vijayaraman:T=_M=" pid="51/5329">T. M. Vijayaraman</na></co>
+<co c="0"><na f="v/Vossen:Gottfried" pid="v/GottfriedVossen">Gottfried Vossen</na></co>
+<co c="0"><na f="w/Walker:Adrian" pid="96/2229">Adrian Walker</na></co>
+<co c="0"><na f="w/Wang:Yun" pid="36/3235">Yun Wang</na></co>
+<co c="0"><na f="w/Watts:S=" pid="04/1667">S. Watts</na></co>
+<co c="0"><na f="w/Widom:Jennifer" pid="w/JenniferWidom">Jennifer Widom</na></co>
+<co c="0"><na f="w/Wiener:Janet_L=" pid="w/JanetLWiener">Janet L. Wiener</na></co>
+<co c="0"><na f="w/Wilms:Paul_F=" pid="00/708">Paul F. Wilms</na></co>
+<co c="0"><na f="w/Winslett:Marianne" pid="w/MarianneWinslett">Marianne Winslett</na></co>
+<co c="0"><na f="w/Woo:Honguk" pid="63/6072">Honguk Woo</na></co>
+<co c="0"><na f="w/Wu:Yingjun" pid="07/11533">Yingjun Wu</na></co>
+<co c="1"><na f="y/Yeh:Raymond_T=" pid="77/385">Raymond T. Yeh</na></co>
+<co c="0"><na f="y/Yost:Robert_A=" pid="72/1678">Robert A. Yost</na></co>
+<co c="0"><na f="y/Young:Honesty_C=" pid="40/2804">Honesty C. Young</na></co>
+<co c="0"><na f="z/Zaharioudakis:Markos" pid="44/3258">Markos Zaharioudakis</na></co>
+<co c="0"><na f="z/Zilio:Daniel_C=" pid="60/6783">Daniel C. Zilio</na></co>
+</coauthors>
+</dblpperson>

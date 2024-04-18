@@ -1,0 +1,596 @@
+<dblpperson name="Hannes M&#252;hleisen" pid="25/9489" n="40">
+<person key="homepages/25/9489" mdate="2011-04-27">
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+</person>
+<r><inproceedings key="conf/icde/KuiperM23" mdate="2023-07-27">
+<author pid="296/9534">Laurens Kuiper</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<title>These Rows Are Made for Sorting and That's Just What We'll Do.</title>
+<pages>2050-2062</pages>
+<year>2023</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE55515.2023.00159</ee>
+<crossref>conf/icde/2023</crossref>
+<url>db/conf/icde/icde2023.html#KuiperM23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/MuhleisenPR23" mdate="2024-04-10">
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="69/9726">Danica Porobic</author>
+<author pid="133/8711">Manuel Rigger</author>
+<title>Ensuring the Reliability and Robustness of Database Management Systems (Dagstuhl Seminar 23441).</title>
+<pages>139-181</pages>
+<year>2023</year>
+<volume>13</volume>
+<journal>Dagstuhl Reports</journal>
+<number>10</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.13.10.139</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports13.html#MuhleisenPR23</url>
+</article>
+</r>
+<r><article key="journals/pvldb/KohnMRMN22" mdate="2023-10-23">
+<author pid="166/9216-1">Andr&#233; Kohn 0001</author>
+<author pid="147/1186">Dominik Moritz</author>
+<author pid="182/7109">Mark Raasveldt</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<title>DuckDB-Wasm: Fast Analytical Processing for the Web.</title>
+<pages>3574-3577</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p3574-kohn.pdf</ee>
+<ee>https://doi.org/10.14778/3554821.3554847</ee>
+<url>db/journals/pvldb/pvldb15.html#KohnMRMN22</url>
+</article>
+</r>
+<r><article key="journals/pvldb/MuhleisenP21" mdate="2021-03-23">
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="28/10440">Thorsten Papenbrock</author>
+<title>Front Matter.</title>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/FrontMatterVol14No6.pdf</ee>
+<url>db/journals/pvldb/pvldb14.html#MuhleisenP21</url>
+</article>
+</r>
+<r><inproceedings key="conf/bncod/KuiperRM21" mdate="2024-02-07">
+<author pid="296/9534">Laurens Kuiper</author>
+<author pid="182/7109">Mark Raasveldt</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<title>Efficient External Sorting in DuckDB.</title>
+<pages>40-45</pages>
+<year>2021</year>
+<booktitle>BICOD</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3163/BICOD21_paper_9.pdf</ee>
+<crossref>conf/bncod/2021</crossref>
+<url>db/conf/bncod/bicod2021.html#KuiperRM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/RaasveldtM20" mdate="2020-03-12">
+<author pid="182/7109">Mark Raasveldt</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<title>Data Management for Data Science - Towards Embedded Analytics.</title>
+<year>2020</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2020/papers/p23-raasveldt-cidr20.pdf</ee>
+<crossref>conf/cidr/2020</crossref>
+<url>db/conf/cidr/cidr2020.html#RaasveldtM20</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/HolandaMMR19" mdate="2022-04-21">
+<author pid="119/6830">Pedro Holanda</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="182/7109">Mark Raasveldt</author>
+<title>Progressive Indexes: Indexing for Interactive Data Analysis.</title>
+<pages>2366-2378</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p2366-holanda.pdf</ee>
+<ee>https://doi.org/10.14778/3358701.3358705</ee>
+<url>db/journals/pvldb/pvldb12.html#HolandaMMR19</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/HolandaM19" mdate="2019-06-23">
+<author pid="119/6830">Pedro Holanda</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<title>Relational Queries with a Tensor Processing Unit.</title>
+<pages>19:1-19:3</pages>
+<year>2019</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3329785.3329932</ee>
+<crossref>conf/damon/2019</crossref>
+<url>db/conf/damon/damon2019.html#HolandaM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/RaasveldtM19" mdate="2019-06-22">
+<author pid="182/7109">Mark Raasveldt</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<title>DuckDB: an Embeddable Analytical Database.</title>
+<pages>1981-1984</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3320212</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#RaasveldtM19</url>
+</inproceedings>
+</r>
+<r><article key="journals/ascom/ScheersBMSEKG18" mdate="2021-10-14">
+<author pid="42/225">Bart Scheers</author>
+<author pid="217/3095">Steven Bloemen</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="217/3479">Pim Schellart</author>
+<author pid="124/8099">Arjen van Elteren</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<author orcid="0000-0002-4488-726X" pid="217/3719">Paul J. Groot</author>
+<title>Fast in-database cross-matching of high-cadence, high-density source lists with an up-to-date sky model.</title>
+<pages>27-39</pages>
+<year>2018</year>
+<volume>23</volume>
+<journal>Astron. Comput.</journal>
+<ee>https://doi.org/10.1016/j.ascom.2018.02.006</ee>
+<ee>https://www.wikidata.org/entity/Q59399718</ee>
+<url>db/journals/ascom/ascom23.html#ScheersBMSEKG18</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/RaasveldtHMM18" mdate="2021-01-29">
+<author pid="182/7109">Mark Raasveldt</author>
+<author pid="119/6830">Pedro Holanda</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<title>Deep Integration of Machine Learning Into Column Stores.</title>
+<pages>473-476</pages>
+<year>2018</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2018.50</ee>
+<crossref>conf/edbt/2018</crossref>
+<url>db/conf/edbt/edbt2018.html#RaasveldtHMM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/RaasveldtHGM18" mdate="2023-08-06">
+<author pid="182/7109">Mark Raasveldt</author>
+<author pid="119/6830">Pedro Holanda</author>
+<author orcid="0009-0001-0730-1733" pid="220/2576">Tim Gubner</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<title>Fair Benchmarking Considered Difficult: Common Pitfalls In Database Performance Testing.</title>
+<pages>2:1-2:6</pages>
+<year>2018</year>
+<booktitle>DBTest@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3209950.3209955</ee>
+<crossref>conf/sigmod/2018dbtest</crossref>
+<url>db/conf/sigmod/dbtest2018.html#RaasveldtHGM18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-02601" mdate="2018-08-13">
+<author pid="42/225">Bart Scheers</author>
+<author pid="217/3095">Steven Bloemen</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="217/3479">Pim Schellart</author>
+<author pid="124/8099">Arjen van Elteren</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<author pid="217/3719">Paul J. Groot</author>
+<title>Fast in-database cross-matching of high-cadence, high-density source lists with an up-to-date sky model.</title>
+<year>2018</year>
+<volume>abs/1803.02601</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.02601</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-02601</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-08520" mdate="2018-08-13">
+<author pid="182/7109">Mark Raasveldt</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<title>MonetDBLite: An Embedded Analytical Database.</title>
+<year>2018</year>
+<volume>abs/1805.08520</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.08520</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-08520</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-05448" mdate="2018-09-02">
+<author pid="225/5458">Aleksei Kashuba</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<title>Automatic Generation of a Hybrid Query Execution Engine.</title>
+<year>2018</year>
+<volume>abs/1808.05448</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.05448</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-05448</url>
+</article>
+</r>
+<r><article key="journals/pvldb/RaasveldtM17" mdate="2020-04-25">
+<author pid="182/7109">Mark Raasveldt</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<title>Don't Hold My Data Hostage - A Case For Client Protocol Redesign.</title>
+<pages>1022-1033</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p1022-muehleisen.pdf</ee>
+<ee>https://doi.org/10.14778/3115404.3115408</ee>
+<url>db/journals/pvldb/pvldb10.html#RaasveldtM17</url>
+</article>
+</r>
+<r><inproceedings key="conf/damon/SidirourgosM17" mdate="2018-11-06">
+<author pid="01/4876">Lefteris Sidirourgos</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<title>Scaling column imprints using advanced vectorization.</title>
+<pages>4:1-4:8</pages>
+<year>2017</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3076113.3076120</ee>
+<crossref>conf/damon/2017</crossref>
+<url>db/conf/damon/damon2017.html#SidirourgosM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/DohmenMB17" mdate="2018-11-06">
+<author pid="169/5218">Till D&#246;hmen</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="b/PeterABoncz">Peter A. Boncz</author>
+<title>Multi-Hypothesis CSV Parsing.</title>
+<pages>16:1-16:12</pages>
+<year>2017</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1145/3085504.3085520</ee>
+<crossref>conf/ssdbm/2017</crossref>
+<url>db/conf/ssdbm/ssdbm2017.html#DohmenMB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/RaasveldtM16" mdate="2018-11-06">
+<author pid="182/7109">Mark Raasveldt</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<title>Vectorized UDFs in Column-Stores.</title>
+<pages>16:1-16:12</pages>
+<year>2016</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1145/2949689.2949703</ee>
+<crossref>conf/ssdbm/2016</crossref>
+<url>db/conf/ssdbm/ssdbm2016.html#RaasveldtM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cidr/MuhleisenKM15" mdate="2020-03-12">
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<author pid="m/StefanManegold">Stefan Manegold</author>
+<title>Capturing the Laws of (Data) Nature.</title>
+<year>2015</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2015/Papers/CIDR15_Paper6.pdf</ee>
+<crossref>conf/cidr/2015</crossref>
+<url>db/conf/cidr/cidr2015.html#MuhleisenKM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eScience/GoncalvesIAMKMM15" mdate="2023-03-24">
+<author pid="32/935">Romulo Goncalves</author>
+<author pid="i/MilenaIvanova">Milena Ivanova</author>
+<author pid="67/9726">Foteini Alvanaki</author>
+<author orcid="0000-0002-8172-4865" pid="48/2165">Jason Maassen</author>
+<author pid="88/8176">Kostis Kyzirakos</author>
+<author orcid="0000-0002-2970-893X" pid="161/6756">Oscar Martinez-Rubi</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<title>A Round Table for Multi-disciplinary Research on Geospatial and Climate Data.</title>
+<pages>165-170</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.65</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/eScience.2015.65</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#GoncalvesIAMKMM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/JentzschMN15" mdate="2023-03-10">
+<author pid="28/1714">Anja Jentzsch</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="n/FelixNaumann">Felix Naumann</author>
+<title>Uniqueness, Density, and Keyness: Exploring Class Hierarchies.</title>
+<year>2015</year>
+<booktitle>COLD</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1426/paper-03.pdf</ee>
+<crossref>conf/semweb/2015cold</crossref>
+<url>db/conf/semweb/cold2015.html#JentzschMN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/MuhleisenSLV14" mdate="2021-08-27">
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="143/3619">Thaer Samar</author>
+<author pid="00/7739">Jimmy Lin</author>
+<author orcid="0000-0002-2888-4202" pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<title>Column Stores as an IR Prototyping Tool.</title>
+<pages>789-792</pages>
+<year>2014</year>
+<booktitle>ECIR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-06028-6_97</ee>
+<crossref>conf/ecir/2014</crossref>
+<url>db/conf/ecir/ecir2014.html#MuhleisenSLV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/MuhleisenSLV14" mdate="2021-08-27">
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="143/3619">Thaer Samar</author>
+<author pid="00/7739">Jimmy Lin</author>
+<author orcid="0000-0002-2888-4202" pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<title>Old dogs are great at new tricks: column stores for ir prototyping.</title>
+<pages>863-866</pages>
+<year>2014</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2600428.2609460</ee>
+<crossref>conf/sigir/2014</crossref>
+<url>db/conf/sigir/sigir2014.html#MuhleisenSLV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/LajusM14" mdate="2018-11-06">
+<author pid="147/2938">Jonathan Lajus</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<title>Efficient data management and statistics with zero-copy integration.</title>
+<pages>12:1-12:10</pages>
+<year>2014</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1145/2618243.2618265</ee>
+<crossref>conf/ssdbm/2014</crossref>
+<url>db/conf/ssdbm/ssdbm2014.html#LajusM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/SteinerMVCEP14" mdate="2023-03-10">
+<author pid="47/497">Thomas Steiner</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="14/9377">Ruben Verborgh</author>
+<author pid="33/1865">Pierre-Antoine Champin</author>
+<author pid="36/5345">Beno&#238;t Encelle</author>
+<author pid="90/3274">Yannick Pri&#233;</author>
+<title>Weaving the Web(VTT) of Data.</title>
+<year>2014</year>
+<booktitle>LDOW</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1184/ldow2014_paper_11.pdf</ee>
+<crossref>conf/www/2014ldow</crossref>
+<url>db/conf/www/ldow2014.html#SteinerMVCEP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/MuhleisenGK13" mdate="2018-11-06">
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="32/935">Romulo Goncalves</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>Peak performance: remote memory revisited.</title>
+<pages>9</pages>
+<year>2013</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2485278.2485287</ee>
+<crossref>conf/damon/2013</crossref>
+<url>db/conf/damon/damon2013.html#MuhleisenGK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/Bizer0MMSV13" mdate="2021-10-14">
+<author orcid="0000-0003-2367-0237" pid="b/ChristianBizer">Christian Bizer</author>
+<author pid="22/5420-1">Kai Eckert 0001</author>
+<author pid="17/8212">Robert Meusel</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author orcid="0000-0001-8572-4072" pid="135/6568">Michael Schuhmacher</author>
+<author pid="52/6504">Johanna V&#246;lker</author>
+<title>Deployment of RDFa, Microdata, and Microformats on the Web - A Quantitative Analysis.</title>
+<pages>17-32</pages>
+<year>2013</year>
+<booktitle>ISWC (2)</booktitle>
+<crossref>conf/semweb/2013-2</crossref>
+<url>db/conf/semweb/iswc2013-2.html#Bizer0MMSV13</url>
+<ee type="oa">https://doi.org/10.1007/978-3-642-41338-4_2</ee>
+<ee>https://www.wikidata.org/entity/Q57239777</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/MuhleisenL13" mdate="2018-11-06">
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="116/9500">Thomas Lumley</author>
+<title>Best of both worlds: relational databases and statistics.</title>
+<pages>32:1-32:4</pages>
+<year>2013</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1145/2484838.2484869</ee>
+<crossref>conf/ssdbm/2013</crossref>
+<url>db/conf/ssdbm/ssdbm2013.html#MuhleisenL13</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/dnb/Muhleisen12" mdate="2021-07-17">
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<title>Architecture-independent distributed query processing.</title>
+<year>2012</year>
+<pages>1-152</pages>
+<school>Free University of Berlin</school>
+<ee>http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000042056</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:kobv:188-fudissthesis000000042056-2</ee>
+<ee>https://d-nb.info/1031100261</ee>
+<ee>https://d-nb.info/1033853135</ee>
+</phdthesis>
+</r>
+<r><article key="journals/cim/MuhleisenD12" mdate="2020-03-12">
+<author orcid="0000-0001-8552-0029" pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="42/10116">Kathrin Dentler</author>
+<title>Large-Scale Storage and Reasoning for Semantic Data Using Swarms.</title>
+<pages>32-44</pages>
+<year>2012</year>
+<volume>7</volume>
+<journal>IEEE Comput. Intell. Mag.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MCI.2012.2188586</ee>
+<url>db/journals/cim/cim7.html#MuhleisenD12</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/MendesMB12" mdate="2018-11-14">
+<author orcid="0000-0002-0079-7991" pid="m/PabloNMendes">Pablo N. Mendes</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author orcid="0000-0003-2367-0237" pid="b/ChristianBizer">Christian Bizer</author>
+<title>Sieve: linked data quality assessment and fusion.</title>
+<pages>116-123</pages>
+<year>2012</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<ee>https://doi.org/10.1145/2320765.2320803</ee>
+<ee>https://www.wikidata.org/entity/Q57239783</ee>
+<crossref>conf/edbt/2012w</crossref>
+<url>db/conf/edbt/edbtw2012.html#MendesMB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/MuhleisenB12" mdate="2023-03-10">
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="b/ChristianBizer">Christian Bizer</author>
+<title>Web Data Commons - Extracting Structured Data from Two Large Web Corpora.</title>
+<year>2012</year>
+<booktitle>LDOW</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-937/ldow2012-inv-paper-2.pdf</ee>
+<crossref>conf/www/2012ldow</crossref>
+<url>db/conf/www/ldow2012.html#MuhleisenB12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijwis/MuhleisenWT11" mdate="2020-05-20">
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="87/9489">Tilman Walther</author>
+<author pid="t/RobertTolksdorf">Robert Tolksdorf</author>
+<title>A survey on self-organized semantic storage.</title>
+<pages>205-222</pages>
+<year>2011</year>
+<volume>7</volume>
+<journal>Int. J. Web Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1108/17440081111165866</ee>
+<url>db/journals/ijwis/ijwis7.html#MuhleisenWT11</url>
+</article>
+</r>
+<r><inproceedings key="conf/cec/MuhleisenWT11" mdate="2017-05-21">
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="87/9489">Tilman Walther</author>
+<author pid="t/RobertTolksdorf">Robert Tolksdorf</author>
+<title>Multi-level indexing in a distributed self-organized storage system.</title>
+<pages>989-994</pages>
+<year>2011</year>
+<booktitle>IEEE Congress on Evolutionary Computation</booktitle>
+<ee>https://doi.org/10.1109/CEC.2011.5949725</ee>
+<crossref>conf/cec/2011</crossref>
+<url>db/conf/cec/cec2011.html#MuhleisenWT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/MuhleisenWT11" mdate="2023-03-24">
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="87/9489">Tilman Walther</author>
+<author pid="t/RobertTolksdorf">Robert Tolksdorf</author>
+<title>Web-Scale Range Queries in a Self-Organized Storage Service.</title>
+<pages>241-244</pages>
+<year>2011</year>
+<booktitle>Web Intelligence/IAT Workshops</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2011.31</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2011.31</ee>
+<crossref>conf/iat/2011w</crossref>
+<url>db/conf/iat/iatw2011.html#MuhleisenWT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nabic/MuhleisenWT11" mdate="2017-05-21">
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="87/9489">Tilman Walther</author>
+<author pid="t/RobertTolksdorf">Robert Tolksdorf</author>
+<title>Data location optimization for a self-organized distributed storage system.</title>
+<pages>176-182</pages>
+<year>2011</year>
+<booktitle>NaBIC</booktitle>
+<ee>https://doi.org/10.1109/NaBIC.2011.6089455</ee>
+<crossref>conf/nabic/2011</crossref>
+<url>db/conf/nabic/nabic2011.html#MuhleisenWT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/MuhleisenJ11" mdate="2023-03-10">
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="28/1714">Anja Jentzsch</author>
+<title>Augmenting the Web of Data using Referers.</title>
+<year>2011</year>
+<booktitle>LDOW</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-813/ldow2011-paper03.pdf</ee>
+<crossref>conf/www/2011ldow</crossref>
+<url>db/conf/www/ldow2011.html#MuhleisenJ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiwas/MuhleisenAWHTT10" mdate="2021-10-14">
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="75/8007">Anne Augustin</author>
+<author pid="87/9489">Tilman Walther</author>
+<author pid="83/8008">Marko Harasic</author>
+<author orcid="0000-0002-3183-4353" pid="62/56">Kia Teymourian</author>
+<author pid="t/RobertTolksdorf">Robert Tolksdorf</author>
+<title>A self-organized semantic storage service.</title>
+<pages>357-364</pages>
+<year>2010</year>
+<booktitle>iiWAS</booktitle>
+<ee>https://doi.org/10.1145/1967486.1967542</ee>
+<crossref>conf/iiwas/2010</crossref>
+<url>db/conf/iiwas/iiwas2010.html#MuhleisenAWHTT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esws/HartigMF09" mdate="2023-03-10">
+<author pid="29/3132">Olaf Hartig</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<author pid="f/JCFreytag">Johann-Christoph Freytag</author>
+<title>Linked Data for Building a Map of Researchers.</title>
+<year>2009</year>
+<booktitle>SFSW@ESWC</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-449/Challenge2.pdf</ee>
+<crossref>conf/esws/2009sfsw</crossref>
+<url>db/conf/esws/sfsw2009.html#HartigMF09</url>
+</inproceedings>
+</r>
+<coauthors n="53" nc="1">
+<co c="0"><na f="a/Alvanaki:Foteini" pid="67/9726">Foteini Alvanaki</na></co>
+<co c="0"><na f="a/Augustin:Anne" pid="75/8007">Anne Augustin</na></co>
+<co c="0"><na f="b/Bizer:Christian" pid="b/ChristianBizer">Christian Bizer</na></co>
+<co c="0"><na f="b/Bloemen:Steven" pid="217/3095">Steven Bloemen</na></co>
+<co c="0"><na f="b/Boncz:Peter_A=" pid="b/PeterABoncz">Peter A. Boncz</na></co>
+<co c="0"><na f="c/Champin:Pierre=Antoine" pid="33/1865">Pierre-Antoine Champin</na></co>
+<co c="-1"><na f="d/Dentler:Kathrin" pid="42/10116">Kathrin Dentler</na></co>
+<co c="0"><na f="d/D=ouml=hmen:Till" pid="169/5218">Till D&#246;hmen</na></co>
+<co c="0"><na f="e/Eckert_0001:Kai" pid="22/5420-1">Kai Eckert 0001</na></co>
+<co c="0"><na f="e/Elteren:Arjen_van" pid="124/8099">Arjen van Elteren</na></co>
+<co c="0"><na f="e/Encelle:Beno=icirc=t" pid="36/5345">Beno&#238;t Encelle</na></co>
+<co c="0"><na f="f/Freytag:Johann=Christoph" pid="f/JCFreytag">Johann-Christoph Freytag</na></co>
+<co c="0"><na f="g/Goncalves:Romulo" pid="32/935">Romulo Goncalves</na></co>
+<co c="0"><na f="g/Groot:Paul_J=" pid="217/3719">Paul J. Groot</na></co>
+<co c="0"><na f="g/Gubner:Tim" pid="220/2576">Tim Gubner</na></co>
+<co c="0"><na f="h/Harasic:Marko" pid="83/8008">Marko Harasic</na></co>
+<co c="0"><na f="h/Hartig:Olaf" pid="29/3132">Olaf Hartig</na></co>
+<co c="0"><na f="h/Holanda:Pedro" pid="119/6830">Pedro Holanda</na></co>
+<co c="0"><na f="i/Ivanova:Milena" pid="i/MilenaIvanova">Milena Ivanova</na></co>
+<co c="0"><na f="j/Jentzsch:Anja" pid="28/1714">Anja Jentzsch</na></co>
+<co c="-1"><na f="k/Kashuba:Aleksei" pid="225/5458">Aleksei Kashuba</na></co>
+<co c="0"><na f="k/Kersten:Martin_L=" pid="k/MartinLKersten">Martin L. Kersten</na></co>
+<co c="0"><na f="k/Kohn_0001:Andr=eacute=" pid="166/9216-1">Andr&#233; Kohn 0001</na></co>
+<co c="0"><na f="k/Kuiper:Laurens" pid="296/9534">Laurens Kuiper</na></co>
+<co c="0"><na f="k/Kyzirakos:Kostis" pid="88/8176">Kostis Kyzirakos</na></co>
+<co c="-1"><na f="l/Lajus:Jonathan" pid="147/2938">Jonathan Lajus</na></co>
+<co c="0"><na f="l/Lin:Jimmy" pid="00/7739">Jimmy Lin</na></co>
+<co c="-1"><na f="l/Lumley:Thomas" pid="116/9500">Thomas Lumley</na></co>
+<co c="0"><na f="m/Maassen:Jason" pid="48/2165">Jason Maassen</na></co>
+<co c="0"><na f="m/Manegold:Stefan" pid="m/StefanManegold">Stefan Manegold</na></co>
+<co c="0"><na f="m/Martinez=Rubi:Oscar" pid="161/6756">Oscar Martinez-Rubi</na></co>
+<co c="0"><na f="m/Mendes:Pablo_N=" pid="m/PabloNMendes">Pablo N. Mendes</na></co>
+<co c="0"><na f="m/Meusel:Robert" pid="17/8212">Robert Meusel</na></co>
+<co c="0"><na f="m/Moritz:Dominik" pid="147/1186">Dominik Moritz</na></co>
+<co c="0"><na f="n/Naumann:Felix" pid="n/FelixNaumann">Felix Naumann</na></co>
+<co c="0"><na f="n/Neumann_0001:Thomas" pid="n/ThomasNeumann">Thomas Neumann 0001</na></co>
+<co c="0"><na f="p/Papenbrock:Thorsten" pid="28/10440">Thorsten Papenbrock</na></co>
+<co c="0"><na f="p/Porobic:Danica" pid="69/9726">Danica Porobic</na></co>
+<co c="0"><na f="p/Pri=eacute=:Yannick" pid="90/3274">Yannick Pri&#233;</na></co>
+<co c="0"><na f="r/Raasveldt:Mark" pid="182/7109">Mark Raasveldt</na></co>
+<co c="0"><na f="r/Rigger:Manuel" pid="133/8711">Manuel Rigger</na></co>
+<co c="0"><na f="s/Samar:Thaer" pid="143/3619">Thaer Samar</na></co>
+<co c="0"><na f="s/Scheers:Bart" pid="42/225">Bart Scheers</na></co>
+<co c="0"><na f="s/Schellart:Pim" pid="217/3479">Pim Schellart</na></co>
+<co c="0"><na f="s/Schuhmacher:Michael" pid="135/6568">Michael Schuhmacher</na></co>
+<co c="0"><na f="s/Sidirourgos:Lefteris" pid="01/4876">Lefteris Sidirourgos</na></co>
+<co c="0"><na f="s/Steiner:Thomas" pid="47/497">Thomas Steiner</na></co>
+<co c="0"><na f="t/Teymourian:Kia" pid="62/56">Kia Teymourian</na></co>
+<co c="0"><na f="t/Tolksdorf:Robert" pid="t/RobertTolksdorf">Robert Tolksdorf</na></co>
+<co c="0"><na f="v/Verborgh:Ruben" pid="14/9377">Ruben Verborgh</na></co>
+<co c="0"><na f="v/V=ouml=lker:Johanna" pid="52/6504">Johanna V&#246;lker</na></co>
+<co c="0"><na f="v/Vries:Arjen_P=_de" pid="v/ArjenPdeVries">Arjen P. de Vries</na></co>
+<co c="0"><na f="w/Walther:Tilman" pid="87/9489">Tilman Walther</na></co>
+</coauthors>
+</dblpperson>

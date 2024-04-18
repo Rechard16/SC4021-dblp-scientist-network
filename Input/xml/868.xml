@@ -1,0 +1,991 @@
+<dblpperson name="Umar Farooq Minhas" pid="99/6349" n="46">
+<person key="homepages/99/6349" mdate="2023-08-25">
+<author pid="99/6349">Umar Farooq Minhas</author>
+<url>https://cs.uwaterloo.ca/~ufminhas/</url>
+<url>https://scholar.google.com/citations?user=NKYtfsYAAAAJ</url>
+<url>https://orcid.org/0009-0005-6520-3794</url>
+</person>
+<r><inproceedings key="conf/aaai/ConiaLLM024" mdate="2024-04-02">
+<author pid="254/8205">Simone Conia</author>
+<author pid="67/3206">Daniel Lee</author>
+<author pid="82/0">Min Li</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="60/2319">Yunyao Li 0001</author>
+<title>Enhancing Machine Translation Experiences with Multilingual Knowledge Graphs.</title>
+<pages>23781-23783</pages>
+<year>2024</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v38i21.30563</ee>
+<crossref>conf/aaai/2024</crossref>
+<url>db/conf/aaai/aaai2024.html#ConiaLLM024</url>
+</inproceedings>
+</r>
+<r><article key="journals/pacmmod/MohoneyPCMIMPR23" mdate="2023-12-08">
+<author orcid="0000-0001-5497-0481" pid="284/0722">Jason Mohoney</author>
+<author orcid="0000-0003-4994-8014" pid="203/0030">Anil Pacaci</author>
+<author orcid="0000-0002-6232-2027" pid="27/7208">Shihabur Rahman Chowdhury</author>
+<author orcid="0000-0002-1160-5975" pid="24/9-3">Ali Mousavi 0003</author>
+<author orcid="0000-0001-9052-9714" pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author orcid="0009-0005-6520-3794" pid="99/6349">Umar Farooq Minhas</author>
+<author orcid="0000-0001-6281-6345" pid="p/JeffreyPound">Jeffrey Pound</author>
+<author orcid="0000-0001-6148-1854" pid="51/11411">Theodoros Rekatsinas</author>
+<title>High-Throughput Vector Similarity Search in Knowledge Graphs.</title>
+<pages>197:1-197:25</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3589777</ee>
+<url>db/journals/pacmmod/pacmmod1.html#MohoneyPCMIMPR23</url>
+</article>
+</r>
+<r><inproceedings key="conf/emnlp/ConiaLLMI023" mdate="2024-04-12">
+<author pid="254/8205">Simone Conia</author>
+<author pid="82/0">Min Li</author>
+<author pid="67/3206">Daniel Lee</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="60/2319">Yunyao Li 0001</author>
+<title>Increasing Coverage and Precision of Textual Information in Multilingual Knowledge Graphs.</title>
+<pages>1612-1634</pages>
+<year>2023</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.emnlp-main.100</ee>
+<ee type="oa">https://aclanthology.org/2023.emnlp-main.100</ee>
+<crossref>conf/emnlp/2023</crossref>
+<url>db/conf/emnlp/emnlp2023.html#ConiaLLMI023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/IlyasL0MMPRS23" mdate="2024-02-05">
+<author orcid="0000-0001-9052-9714" pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author orcid="0009-0005-5328-2958" pid="347/8615">J. P. Lacerda</author>
+<author orcid="0000-0001-8433-8719" pid="60/2319">Yunyao Li 0001</author>
+<author orcid="0009-0005-6520-3794" pid="99/6349">Umar Farooq Minhas</author>
+<author orcid="0000-0002-1160-5975" pid="24/9-3">Ali Mousavi 0003</author>
+<author orcid="0000-0001-6281-6345" pid="p/JeffreyPound">Jeffrey Pound</author>
+<author orcid="0000-0001-6148-1854" pid="51/11411">Theodoros Rekatsinas</author>
+<author orcid="0009-0003-6069-9589" pid="170/4751">Chiraag Sumanth</author>
+<title>Growing and Serving Large Open-domain Knowledge Graphs.</title>
+<pages>253-259</pages>
+<year>2023</year>
+<booktitle>SIGMOD Conference Companion</booktitle>
+<ee>https://doi.org/10.1145/3555041.3589672</ee>
+<crossref>conf/sigmod/2023c</crossref>
+<url>db/conf/sigmod/sigmod2023c.html#IlyasL0MMPRS23</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/vldb/2023w" mdate="2023-11-24">
+<editor pid="28/6851">Rajesh Bordawekar</editor>
+<editor pid="17/5993">Cinzia Cappiello</editor>
+<editor pid="87/11444">Vasilis Efthymiou</editor>
+<editor pid="173/3509">Lisa Ehrlinger</editor>
+<editor pid="86/7615">Vijay Gadepally</editor>
+<editor pid="136/7969">Sainyam Galhotra</editor>
+<editor pid="11/103">Sandra Geisler</editor>
+<editor pid="g/SvenGroppe">Sven Groppe</editor>
+<editor pid="g/LeGruenwald">Le Gruenwald</editor>
+<editor pid="h/AlonYHalevy">Alon Y. Halevy</editor>
+<editor pid="181/7644">Hazar Harmouch</editor>
+<editor pid="h/OktieHassanzadeh">Oktie Hassanzadeh</editor>
+<editor pid="i/IhabFIlyas">Ihab F. Ilyas</editor>
+<editor pid="22/5749">Ernesto Jim&#233;nez-Ruiz</editor>
+<editor pid="147/1189">Sanjay Krishnan</editor>
+<editor pid="46/49">Tirthankar Lahiri</editor>
+<editor pid="l/GuoliangLi">Guoliang Li 0001</editor>
+<editor pid="l/JiahengLu">Jiaheng Lu</editor>
+<editor pid="74/694">Wolfgang Mauerer</editor>
+<editor pid="99/6349">Umar Farooq Minhas</editor>
+<editor pid="n/FelixNaumann">Felix Naumann</editor>
+<editor pid="o/MTamerOzsu">M. Tamer &#214;zsu</editor>
+<editor pid="96/8919">El Kindi Rezig</editor>
+<editor pid="39/4444">Kavitha Srinivas</editor>
+<editor pid="s/MichaelStonebraker">Michael Stonebraker</editor>
+<editor pid="46/2868">Satyanarayana R. Valluri</editor>
+<editor pid="92/654">Maria-Esther Vidal</editor>
+<editor pid="w/HaixunWang">Haixun Wang</editor>
+<editor pid="39/7183-1">Jiannan Wang 0001</editor>
+<editor pid="07/11533">Yingjun Wu</editor>
+<editor pid="22/6497">Xun Xue</editor>
+<editor pid="04/4426">Mohamed Za&#239;t</editor>
+<editor pid="80/1651">Kai Zeng</editor>
+<title>Joint Proceedings of Workshops at the 49th International Conference on Very Large Data Bases (VLDB 2023), Vancouver, Canada, August 28 - September 1, 2023.</title>
+<booktitle>VLDB Workshops</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<year>2023</year>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>3462</volume>
+<ee type="oa">https://ceur-ws.org/Vol-3462</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-3462-7</ee>
+<url>db/conf/vldb/w2023.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2304-01926" mdate="2023-12-08">
+<author pid="284/0722">Jason Mohoney</author>
+<author pid="203/0030">Anil Pacaci</author>
+<author pid="27/7208">Shihabur Rahman Chowdhury</author>
+<author pid="24/9-3">Ali Mousavi 0003</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="p/JeffreyPound">Jeffrey Pound</author>
+<author pid="51/11411">Theodoros Rekatsinas</author>
+<title>High-Throughput Vector Similarity Search in Knowledge Graphs.</title>
+<year>2023</year>
+<volume>abs/2304.01926</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.01926</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-01926</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-09464" mdate="2023-12-08">
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="347/8615">J. P. Lacerda</author>
+<author pid="60/2319">Yunyao Li 0001</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="24/9-3">Ali Mousavi 0003</author>
+<author pid="p/JeffreyPound">Jeffrey Pound</author>
+<author pid="51/11411">Theodoros Rekatsinas</author>
+<author pid="170/4751">Chiraag Sumanth</author>
+<title>Growing and Serving Large Open-domain Knowledge Graphs.</title>
+<year>2023</year>
+<volume>abs/2305.09464</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.09464</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-09464</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-15781" mdate="2023-12-01">
+<author pid="254/8205">Simone Conia</author>
+<author pid="82/0">Min Li</author>
+<author pid="67/3206">Daniel Lee</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="60/2319">Yunyao Li 0001</author>
+<title>Increasing Coverage and Precision of Textual Information in Multilingual Knowledge Graphs.</title>
+<year>2023</year>
+<volume>abs/2311.15781</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.15781</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-15781</url>
+</article>
+</r>
+<r><article key="journals/pvldb/YuMKLMK22" mdate="2023-10-28">
+<author pid="272/8767">Geoffrey X. Yu</author>
+<author orcid="0000-0003-2851-8840" pid="278/6747">Markos Markakis</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>TreeLine: An Update-In-Place Key-Value Store for Modern Storage.</title>
+<pages>99-112</pages>
+<year>2022</year>
+<volume>16</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol16/p99-yu.pdf</ee>
+<ee>https://doi.org/10.14778/3561261.3561270</ee>
+<url>db/journals/pvldb/pvldb16.html#YuMKLMK22</url>
+</article>
+</r>
+<r><article key="journals/debu/KraskaM0PPRS21" mdate="2022-03-04">
+<author pid="26/6037">Tim Kraska</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="37/3024">Olga Papaemmanouil</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>ML-In-Databases: Assessment and Prognosis.</title>
+<pages>3-10</pages>
+<year>2021</year>
+<volume>44</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A21mar/p3.pdf</ee>
+<url>db/journals/debu/debu44.html#KraskaM0PPRS21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LuDLMW21" mdate="2023-08-28">
+<author pid="256/1745">Baotong Lu</author>
+<author pid="145/8597">Jialin Ding</author>
+<author pid="80/2320">Eric Lo 0001</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<title>APEX: A High-Performance Learned Index on Persistent Memory.</title>
+<pages>597-610</pages>
+<year>2021</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol15/p597-lu.pdf</ee>
+<ee>https://doi.org/10.14778/3494124.3494141</ee>
+<ee>https://www.wikidata.org/entity/Q114053628</ee>
+<url>db/journals/pvldb/pvldb15.html#LuDLMW21</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/BindschaedlerKK21" mdate="2021-06-09">
+<author pid="116/5046">Laurent Bindschaedler</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="26/6037">Tim Kraska</author>
+<author pid="175/1473">Ryan Marcus</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<title>Towards a Benchmark for Learned Systems.</title>
+<pages>127-133</pages>
+<year>2021</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW53142.2021.00029</ee>
+<crossref>conf/icde/2021w</crossref>
+<url>db/conf/icde/icde2021w.html#BindschaedlerKK21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DingMCWLLKGK21" mdate="2022-09-15">
+<author pid="145/8597">Jialin Ding</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="09/404-1">Chi Wang 0001</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="22/1805">Ying Li</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Instance-Optimized Data Layouts for Cloud Analytics Workloads.</title>
+<pages>418-431</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3457270</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#DingMCWLLKGK21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-00683" mdate="2021-05-12">
+<author pid="256/1745">Baotong Lu</author>
+<author pid="145/8597">Jialin Ding</author>
+<author pid="80/2320">Eric Lo 0001</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="57/10948-1">Tianzheng Wang 0001</author>
+<title>APEX: A High-Performance Learned Index on Persistent Memory.</title>
+<year>2021</year>
+<volume>abs/2105.00683</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.00683</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-00683</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2111-14905" mdate="2022-09-15">
+<author pid="88/8850">Benjamin Spector</author>
+<author pid="167/6469">Andreas Kipf</author>
+<author pid="188/6341">Kapil Vaidya</author>
+<author pid="09/404-1">Chi Wang 0001</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Bounding the Last Mile: Efficient Learned String Indexing.</title>
+<year>2021</year>
+<volume>abs/2111.14905</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2111.14905</ee>
+<url>db/journals/corr/corr2111.html#abs-2111-14905</url>
+</article>
+</r>
+<r><article key="journals/pvldb/GoldsteinABBCGL20" mdate="2023-03-07">
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="166/8392">Ahmed S. Abdelhamid</author>
+<author pid="69/2517-1">Mike Barnett 0001</author>
+<author pid="84/1935">Sebastian Burckhardt</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="130/2894">Darren Gehring</author>
+<author pid="139/8104">Niel Lebeck</author>
+<author pid="140/8227">Christopher Meiklejohn</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="34/3982">Ryan Newton</author>
+<author pid="257/8737">Rahee Peshawaria</author>
+<author pid="194/3943">Tal Zaccai</author>
+<author pid="68/1122">Irene Zhang</author>
+<title>A.M.B.R.O.S.I.A: Providing Performant Virtual Resiliency for Distributed Applications.</title>
+<pages>588-601</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p588-goldstein.pdf</ee>
+<ee>https://doi.org/10.14778/3377369.3377370</ee>
+<url>db/journals/pvldb/pvldb13.html#GoldsteinABBCGL20</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/YangCWGLMLKA20" mdate="2022-09-15">
+<author pid="181/5822">Zongheng Yang</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="09/404-1">Chi Wang 0001</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="263/7214">Rajeev Acharya</author>
+<title>Qd-tree: Learning Data Layouts for Big Data Analytics.</title>
+<pages>193-208</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389770</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#YangCWGLMLKA20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DingMYWDLZCGKLK20" mdate="2022-09-15">
+<author pid="145/8597">Jialin Ding</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author orcid="0000-0003-1340-6475" pid="86/3457-1">Jia Yu 0001</author>
+<author pid="09/404-1">Chi Wang 0001</author>
+<author pid="40/7404">Jaeyoung Do</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="155/9999">Hantian Zhang</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="l/DavidBLomet">David B. Lomet</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>ALEX: An Updatable Adaptive Learned Index.</title>
+<pages>969-984</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389711</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#DingMYWDLZCGKLK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uist/BrudyLPR0WSPZJC20" mdate="2023-11-12">
+<author pid="42/11300">Frederik Brudy</author>
+<author pid="77/10579">David Ledo</author>
+<author pid="59/2625">Michel Pahud</author>
+<author pid="h/NathalieHenry">Nathalie Henry Riche</author>
+<author orcid="0000-0001-9655-9519" pid="79/7439-1">Christian Holz 0001</author>
+<author pid="276/4023">Anand Waghmare</author>
+<author pid="199/3056">Hemant Bhaskar Surale</author>
+<author pid="56/6925">Marcus Peinado</author>
+<author pid="158/4724">Xiaokuan Zhang</author>
+<author pid="256/1012">Shannon Joyner</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="b/WilliamBuxton">William Buxton</author>
+<author pid="40/5624">Ken Hinckley</author>
+<title>SurfaceFleet: Exploring Distributed Interactions Unbounded from Device, Application, User, and Time.</title>
+<pages>7-21</pages>
+<year>2020</year>
+<booktitle>UIST</booktitle>
+<ee>https://doi.org/10.1145/3379337.3415874</ee>
+<crossref>conf/uist/2020</crossref>
+<url>db/conf/uist/uist2020.html#BrudyLPR0WSPZJC20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-10898" mdate="2022-09-15">
+<author pid="181/5822">Zongheng Yang</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="09/404-1">Chi Wang 0001</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="263/7214">Rajeev Acharya</author>
+<title>Qd-tree: Learning Data Layouts for Big Data Analytics.</title>
+<year>2020</year>
+<volume>abs/2004.10898</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.10898</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-10898</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/SabekCM19" mdate="2019-06-11">
+<author pid="16/8981">Ibrahim Sabek</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<title>CRA: Enabling Data-Intensive Applications in Containerized Environments.</title>
+<pages>1762-1765</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00192</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#SabekCM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/AntonopoulosBDS19" mdate="2019-06-22">
+<author pid="119/6881">Panagiotis Antonopoulos</author>
+<author pid="243/2457">Alex Budovski</author>
+<author pid="26/10719">Cristian Diaconu</author>
+<author pid="243/2327">Alejandro Hernandez Saenz</author>
+<author pid="243/2500">Jack Hu</author>
+<author pid="15/3353">Hanuma Kodavalla</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="09/1637">Sandeep Lingam</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="55/3343">Naveen Prakash</author>
+<author pid="243/2361">Vijendra Purohit</author>
+<author pid="243/2328">Hugh Qu</author>
+<author pid="243/2479">Chaitanya Sreenivas Ravella</author>
+<author pid="243/2519">Krystyna Reisteter</author>
+<author pid="243/2394">Sheetal Shrotri</author>
+<author pid="155/5478">Dixin Tang</author>
+<author pid="243/2323">Vikram Wakade</author>
+<title>Socrates: The New SQL Server in the Cloud.</title>
+<pages>1743-1756</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3314047</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#AntonopoulosBDS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpctc/PoggiCBFGBM0MBK19" mdate="2023-09-30">
+<author pid="21/7644">Nicol&#225;s Poggi</author>
+<author orcid="0000-0001-9869-7931" pid="26/1049">V&#237;ctor Cuevas-Vicentt&#237;n</author>
+<author orcid="0000-0003-3037-3580" pid="56/5336">Josep Lluis Berral</author>
+<author pid="194/7673">Thomas Fenech</author>
+<author pid="271/1925">Gonzalo G&#243;mez</author>
+<author pid="271/1410">Davide Brini</author>
+<author pid="211/9904">Alejandro Montero</author>
+<author pid="13/6290">David Carrera 0001</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="79/2594">Jos&#233; A. Blakeley</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author orcid="0000-0002-9179-0241" pid="03/5825">Clemens A. Szyperski</author>
+<title>Benchmarking Elastic Cloud Big Data Services Under SLA Constraints.</title>
+<pages>1-18</pages>
+<year>2019</year>
+<booktitle>TPCTC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-55024-0_1</ee>
+<crossref>conf/tpctc/2019</crossref>
+<url>db/conf/tpctc/tpctc2019.html#PoggiCBFGBM0MBK19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-08898" mdate="2022-09-15">
+<author pid="145/8597">Jialin Ding</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="155/9999">Hantian Zhang</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="09/404-1">Chi Wang 0001</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="l/DavidBLomet">David B. Lomet</author>
+<title>ALEX: An Updatable Adaptive Learned Index.</title>
+<year>2019</year>
+<volume>abs/1905.08898</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.08898</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-08898</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ArulrajLML18" mdate="2020-04-25">
+<author pid="127/3025">Joy Arulraj</author>
+<author pid="02/3658">Justin J. Levandoski</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<title>BzTree: A High-Performance Latch-free Range Index for Non-Volatile Memory.</title>
+<pages>553-565</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p553-arulraj.pdf</ee>
+<ee>https://doi.org/10.1145/3187009.3164147</ee>
+<url>db/journals/pvldb/pvldb11.html#ArulrajLML18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/JonathanMHLN18" mdate="2020-04-25">
+<author pid="166/8407">Christopher Jonathan</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="48/6924">James Hunter</author>
+<author pid="02/3658">Justin J. Levandoski</author>
+<author pid="36/487">Gor V. Nishanov</author>
+<title>Exploiting Coroutines to Attack the "Killer Nanoseconds".</title>
+<pages>1702-1714</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1702-jonathan.pdf</ee>
+<ee>https://doi.org/10.14778/3236187.3236216</ee>
+<url>db/journals/pvldb/pvldb11.html#JonathanMHLN18</url>
+</article>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/MinhasF18" mdate="2019-02-14">
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="08/7992">Avrilia Floratou</author>
+<title>Distributed File Systems.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_80646</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/d2.html#MinhasF18</url>
+</incollection>
+</r>
+<r><article key="journals/pvldb/SahaFSMMO16" mdate="2021-10-14">
+<author pid="54/4272">Diptikalyan Saha</author>
+<author pid="08/7992">Avrilia Floratou</author>
+<author pid="74/4923">Karthik Sankaranarayanan</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="184/1441">Ashish R. Mittal</author>
+<author orcid="0000-0002-4418-4724" pid="o/FatmaOzcan">Fatma &#214;zcan</author>
+<title>ATHENA: An Ontology-Driven System for Natural Language Querying over Relational Data Stores.</title>
+<pages>1209-1220</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p1209-saha.pdf</ee>
+<ee>https://doi.org/10.14778/2994509.2994536</ee>
+<url>db/journals/pvldb/pvldb9.html#SahaFSMMO16</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/PoggiBFCBMV16" mdate="2023-03-24">
+<author orcid="0000-0001-6212-8016" pid="21/7644">Nicol&#225;s Poggi</author>
+<author orcid="0000-0003-3037-3580" pid="56/5336">Josep Lluis Berral</author>
+<author pid="194/7673">Thomas Fenech</author>
+<author orcid="0000-0003-4898-3424" pid="13/6290">David Carrera 0001</author>
+<author pid="79/2594">Jos&#233; A. Blakeley</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="59/4270">Nikola Vujic</author>
+<title>The state of SQL-on-Hadoop in the cloud.</title>
+<pages>1432-1443</pages>
+<year>2016</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData.2016.7840751</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BigData.2016.7840751</ee>
+<ee>https://www.wikidata.org/entity/Q61731259</ee>
+<crossref>conf/bigdataconf/2016</crossref>
+<url>db/conf/bigdataconf/bigdataconf2016.html#PoggiBFCBMV16</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/ShiQMJWRO15" mdate="2021-10-14">
+<author pid="10/5814">Juwei Shi</author>
+<author pid="168/0317">Yunjie Qiu</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="46/4987">Limei Jiao</author>
+<author pid="82/4206">Chen Wang</author>
+<author pid="76/3381">Berthold Reinwald</author>
+<author orcid="0000-0002-4418-4724" pid="o/FatmaOzcan">Fatma &#214;zcan</author>
+<title>Clash of the Titans: MapReduce vs. Spark for Large Scale Data Analytics.</title>
+<pages>2110-2121</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p2110-shi.pdf</ee>
+<ee>https://doi.org/10.14778/2831360.2831365</ee>
+<url>db/journals/pvldb/pvldb8.html#ShiQMJWRO15</url>
+</article>
+</r>
+<r><article key="journals/pvldb/SerafiniMASRM14" mdate="2023-09-30">
+<author pid="02/6087">Marco Serafini</author>
+<author pid="m/EssamMansour">Essam Mansour 0001</author>
+<author orcid="0000-0001-6693-7099" pid="01/3996">Ashraf Aboulnaga</author>
+<author pid="s/KennethSalem">Kenneth Salem</author>
+<author pid="149/5880">Taha Rafiq</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<title>Accordion: Elastic Scalability for Database Systems Supporting Distributed Transactions.</title>
+<pages>1035-1046</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p1035-serafini.pdf</ee>
+<ee>https://doi.org/10.14778/2732977.2732979</ee>
+<url>db/journals/pvldb/pvldb7.html#SerafiniMASRM14</url>
+</article>
+</r>
+<r><article key="journals/pvldb/FloratouMO14" mdate="2022-08-16">
+<author pid="08/7992">Avrilia Floratou</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author orcid="0000-0002-4418-4724" pid="o/FatmaOzcan">Fatma &#214;zcan</author>
+<title>SQL-on-Hadoop: Full Circle Back to Shared-Nothing Database Architectures.</title>
+<pages>1295-1306</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p1295-floratou.pdf</ee>
+<ee>https://doi.org/10.14778/2732977.2733002</ee>
+<ee>https://www.wikidata.org/entity/Q113237172</ee>
+<url>db/journals/pvldb/pvldb7.html#FloratouMO14</url>
+</article>
+</r>
+<r><phdthesis key="phd/basesearch/Minhas13" mdate="2022-05-04">
+<author pid="99/6349">Umar Farooq Minhas</author>
+<title>Scalable and Highly Available Database Systems in the Cloud.</title>
+<year>2013</year>
+<school>University of Waterloo, Ontario, Canada</school>
+<ee>https://hdl.handle.net/10012/7194</ee>
+<ee>https://www.base-search.net/Record/272381f2071f9661ec9cab04327d85d62b5f6cb97a73c7b6396c031f52a6585a</ee>
+<note type="source">base-search.net (ftunivwaterloo:oai:uwspace.uwaterloo.ca:10012/7194)</note>
+</phdthesis>
+</r>
+<r><article key="journals/vldb/MinhasRCASW13" mdate="2023-09-30">
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="14/10315">Shriram Rajagopalan</author>
+<author pid="33/6584">Brendan Cully</author>
+<author orcid="0000-0001-6693-7099" pid="01/3996">Ashraf Aboulnaga</author>
+<author pid="s/KennethSalem">Kenneth Salem</author>
+<author pid="70/5879">Andrew Warfield</author>
+<title>RemusDB: transparent high availability for database systems.</title>
+<pages>29-45</pages>
+<year>2013</year>
+<volume>22</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-012-0294-6</ee>
+<url>db/journals/vldb/vldb22.html#MinhasRCASW13</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/MinhasLASNR12" mdate="2023-09-30">
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="42/469">Rui Liu</author>
+<author orcid="0000-0001-6693-7099" pid="01/3996">Ashraf Aboulnaga</author>
+<author pid="s/KennethSalem">Kenneth Salem</author>
+<author pid="119/6896">Jonathan Ng</author>
+<author pid="119/6871">Sean Robertson</author>
+<title>Elastic Scale-Out for Partition-Based Database Systems.</title>
+<pages>281-288</pages>
+<year>2012</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2012.52</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2012.52</ee>
+<crossref>conf/icde/2012w</crossref>
+<url>db/conf/icde/icdew2012.html#MinhasLASNR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/FinnsonCZTM12" mdate="2023-03-10">
+<author pid="63/7581">John Finnson</author>
+<author pid="24/441">Robin Cohen</author>
+<author pid="84/6889-2">Jie Zhang 0002</author>
+<author pid="92/3508">Thomas T. Tran</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<title>Reasoning about user trustworthiness with non-binary advice from peers.</title>
+<year>2012</year>
+<booktitle>UMAP Workshops</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-872/trum2012_paper_3.pdf</ee>
+<crossref>conf/um/2012w</crossref>
+<url>db/conf/um/umap2012w.html#FinnsonCZTM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/FinnsonZTMC12" mdate="2017-05-21">
+<author pid="63/7581">John Finnson</author>
+<author pid="84/6889-2">Jie Zhang 0002</author>
+<author pid="92/3508">Thomas T. Tran</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="24/441">Robin Cohen</author>
+<title>A Framework for Modeling Trustworthiness of Users in Mobile Vehicular Ad-Hoc Networks and Its Validation through Simulated Traffic Flow.</title>
+<pages>76-87</pages>
+<year>2012</year>
+<booktitle>UMAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31454-4_7</ee>
+<crossref>conf/um/2012</crossref>
+<url>db/conf/um/umap2012.html#FinnsonZTMC12</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/MinhasRCASW11" mdate="2020-04-25">
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="14/10315">Shriram Rajagopalan</author>
+<author pid="33/6584">Brendan Cully</author>
+<author pid="01/3996">Ashraf Aboulnaga</author>
+<author pid="s/KennethSalem">Kenneth Salem</author>
+<author pid="70/5879">Andrew Warfield</author>
+<title>RemusDB: Transparent High Availability for Database Systems.</title>
+<pages>738-748</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p738-minhas.pdf</ee>
+<url>db/journals/pvldb/pvldb4.html#MinhasRCASW11</url>
+</article>
+</r>
+<r><article key="journals/tsmc/MinhasZTC11" mdate="2020-05-21">
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="84/6889-2">Jie Zhang 0002</author>
+<author pid="92/3508">Thomas T. Tran</author>
+<author pid="24/441">Robin Cohen</author>
+<title>A Multifaceted Approach to Modeling Agent Trust for Effective Communication in the Application of Mobile Ad Hoc Vehicular Networks.</title>
+<pages>407-420</pages>
+<year>2011</year>
+<volume>41</volume>
+<journal>IEEE Trans. Syst. Man Cybern. Part C</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSMCC.2010.2084571</ee>
+<url>db/journals/tsmc/tsmcc41.html#MinhasZTC11</url>
+</article>
+</r>
+<r><inproceedings key="conf/icac/SheikhMKAPT11" mdate="2023-09-30">
+<author pid="82/10781">Muhammad Bilal Sheikh</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="65/7562">Omar Zia Khan</author>
+<author orcid="0000-0001-6693-7099" pid="01/3996">Ashraf Aboulnaga</author>
+<author pid="26/2122">Pascal Poupart</author>
+<author pid="t/DavidJTaylor">David J. Taylor</author>
+<title>A bayesian approach to online performance modeling for database appliances using gaussian models.</title>
+<pages>121-130</pages>
+<year>2011</year>
+<booktitle>ICAC</booktitle>
+<ee>https://doi.org/10.1145/1998582.1998603</ee>
+<crossref>conf/icac/2011</crossref>
+<url>db/conf/icac/icac2011.html#SheikhMKAPT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ideas/MinhasLT11" mdate="2018-11-06">
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="l/DavidBLomet">David B. Lomet</author>
+<author pid="13/3927">Chandramohan A. Thekkath</author>
+<title>Chimera: data sharing flexibility, shared nothing simplicity.</title>
+<pages>152-161</pages>
+<year>2011</year>
+<booktitle>IDEAS</booktitle>
+<ee>https://doi.org/10.1145/2076623.2076642</ee>
+<crossref>conf/ideas/2011</crossref>
+<url>db/conf/ideas/ideas2011.html#MinhasLT11</url>
+</inproceedings>
+</r>
+<r><article key="journals/tods/SororMASKK10" mdate="2023-09-30">
+<author pid="88/3534">Ahmed A. Soror</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author orcid="0000-0001-6693-7099" pid="01/3996">Ashraf Aboulnaga</author>
+<author pid="s/KennethSalem">Kenneth Salem</author>
+<author pid="47/760">Peter Kokosielis</author>
+<author pid="52/1679">Sunil Kamath</author>
+<title>Automatic virtual machine configuration for database workloads.</title>
+<year>2010</year>
+<volume>35</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1670243.1670250</ee>
+<url>db/journals/tods/tods35.html#SororMASKK10</url>
+<pages>7:1-7:47</pages>
+</article>
+</r>
+<r><inproceedings key="conf/iat/MinhasZTC10" mdate="2023-03-24">
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="84/6889-2">Jie Zhang 0002</author>
+<author pid="92/3508">Thomas T. Tran</author>
+<author pid="24/441">Robin Cohen</author>
+<title>Intelligent Agents in Mobile Vehicular Ad-Hoc Networks: Leveraging Trust Modeling Based on Direct Experience with Incentives for Honesty.</title>
+<pages>243-247</pages>
+<year>2010</year>
+<booktitle>IAT</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2010.66</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2010.66</ee>
+<crossref>conf/iat/2010</crossref>
+<url>db/conf/iat/iat2010.html#MinhasZTC10</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/AboulnagaSSMKK09" mdate="2020-03-10">
+<author pid="01/3996">Ashraf Aboulnaga</author>
+<author pid="s/KennethSalem">Kenneth Salem</author>
+<author pid="88/3534">Ahmed A. Soror</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="47/760">Peter Kokosielis</author>
+<author pid="52/1679">Sunil Kamath</author>
+<title>Deploying Database Appliances in the Cloud.</title>
+<pages>13-20</pages>
+<year>2009</year>
+<volume>32</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/A09mar/aboulnaga.pdf</ee>
+<url>db/journals/debu/debu32.html#AboulnagaSSMKK09</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/MinhasYAS08" mdate="2023-09-30">
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="49/1377">Jitendra Yadav</author>
+<author orcid="0000-0001-6693-7099" pid="01/3996">Ashraf Aboulnaga</author>
+<author pid="s/KennethSalem">Kenneth Salem</author>
+<title>Database systems on virtual machines: How much do you lose?</title>
+<pages>35-41</pages>
+<year>2008</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2008.4498282</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2008.4498282</ee>
+<crossref>conf/icde/2008w</crossref>
+<url>db/conf/icde/icdew2008.html#MinhasYAS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SororMASKK08" mdate="2023-09-30">
+<author pid="88/3534">Ahmed A. Soror</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author orcid="0000-0001-6693-7099" pid="01/3996">Ashraf Aboulnaga</author>
+<author pid="s/KennethSalem">Kenneth Salem</author>
+<author pid="47/760">Peter Kokosielis</author>
+<author pid="52/1679">Sunil Kamath</author>
+<title>Automatic virtual machine configuration for database workloads.</title>
+<pages>953-966</pages>
+<year>2008</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1376616.1376711</ee>
+<crossref>conf/sigmod/2008</crossref>
+<url>db/conf/sigmod/sigmod2008.html#SororMASKK08</url>
+</inproceedings>
+</r>
+<coauthors n="163" nc="1">
+<co c="0"><na f="a/Abdelhamid:Ahmed_S=" pid="166/8392">Ahmed S. Abdelhamid</na></co>
+<co c="0"><na f="a/Aboulnaga:Ashraf" pid="01/3996">Ashraf Aboulnaga</na></co>
+<co c="0"><na f="a/Acharya:Rajeev" pid="263/7214">Rajeev Acharya</na></co>
+<co c="0"><na f="a/Antonopoulos:Panagiotis" pid="119/6881">Panagiotis Antonopoulos</na></co>
+<co c="0"><na f="a/Arulraj:Joy" pid="127/3025">Joy Arulraj</na></co>
+<co c="0" n="2"><na f="b/Barnett_0001:Michael" pid="69/2517-1">Michael Barnett 0001</na><na>Mike Barnett 0001</na></co>
+<co c="0" n="2"><na f="b/Berral:Josep_Llu=iacute=s" pid="56/5336">Josep Llu&#237;s Berral</na><na>Josep Lluis Berral</na></co>
+<co c="0"><na f="b/Bindschaedler:Laurent" pid="116/5046">Laurent Bindschaedler</na></co>
+<co c="0"><na f="b/Blakeley:Jos=eacute=_A=" pid="79/2594">Jos&#233; A. Blakeley</na></co>
+<co c="0"><na f="b/Bordawekar:Rajesh" pid="28/6851">Rajesh Bordawekar</na></co>
+<co c="0"><na f="b/Brini:Davide" pid="271/1410">Davide Brini</na></co>
+<co c="0"><na f="b/Brudy:Frederik" pid="42/11300">Frederik Brudy</na></co>
+<co c="0"><na f="b/Budovski:Alex" pid="243/2457">Alex Budovski</na></co>
+<co c="0"><na f="b/Burckhardt:Sebastian" pid="84/1935">Sebastian Burckhardt</na></co>
+<co c="0"><na f="b/Buxton:William" pid="b/WilliamBuxton">William Buxton</na></co>
+<co c="0"><na f="c/Cappiello:Cinzia" pid="17/5993">Cinzia Cappiello</na></co>
+<co c="0"><na f="c/Carrera_0001:David" pid="13/6290">David Carrera 0001</na></co>
+<co c="0"><na f="c/Chandramouli:Badrish" pid="01/2861">Badrish Chandramouli</na></co>
+<co c="0"><na f="c/Chowdhury:Shihabur_Rahman" pid="27/7208">Shihabur Rahman Chowdhury</na></co>
+<co c="0"><na f="c/Cohen:Robin" pid="24/441">Robin Cohen</na></co>
+<co c="0"><na f="c/Conia:Simone" pid="254/8205">Simone Conia</na></co>
+<co c="0"><na f="c/Cuevas=Vicentt=iacute=n:V=iacute=ctor" pid="26/1049">V&#237;ctor Cuevas-Vicentt&#237;n</na></co>
+<co c="0"><na f="c/Cully:Brendan" pid="33/6584">Brendan Cully</na></co>
+<co c="0"><na f="d/Diaconu:Cristian" pid="26/10719">Cristian Diaconu</na></co>
+<co c="0"><na f="d/Ding:Jialin" pid="145/8597">Jialin Ding</na></co>
+<co c="0"><na f="d/Do:Jaeyoung" pid="40/7404">Jaeyoung Do</na></co>
+<co c="0"><na f="e/Efthymiou:Vasilis" pid="87/11444">Vasilis Efthymiou</na></co>
+<co c="0"><na f="e/Ehrlinger:Lisa" pid="173/3509">Lisa Ehrlinger</na></co>
+<co c="0"><na f="f/Fenech:Thomas" pid="194/7673">Thomas Fenech</na></co>
+<co c="0"><na f="f/Finnson:John" pid="63/7581">John Finnson</na></co>
+<co c="0"><na f="f/Floratou:Avrilia" pid="08/7992">Avrilia Floratou</na></co>
+<co c="0"><na f="g/Gadepally:Vijay" pid="86/7615">Vijay Gadepally</na></co>
+<co c="0"><na f="g/Galhotra:Sainyam" pid="136/7969">Sainyam Galhotra</na></co>
+<co c="0"><na f="g/Gehring:Darren" pid="130/2894">Darren Gehring</na></co>
+<co c="0"><na f="g/Gehrke:Johannes" pid="g/JohannesGehrke">Johannes Gehrke</na></co>
+<co c="0"><na f="g/Geisler:Sandra" pid="11/103">Sandra Geisler</na></co>
+<co c="0"><na f="g/Goldstein:Jonathan" pid="g/JonathanGoldstein">Jonathan Goldstein</na></co>
+<co c="0"><na f="g/G=oacute=mez:Gonzalo" pid="271/1925">Gonzalo G&#243;mez</na></co>
+<co c="0"><na f="g/Groppe:Sven" pid="g/SvenGroppe">Sven Groppe</na></co>
+<co c="0"><na f="g/Gruenwald:Le" pid="g/LeGruenwald">Le Gruenwald</na></co>
+<co c="0"><na f="h/Halevy:Alon_Y=" pid="h/AlonYHalevy">Alon Y. Halevy</na></co>
+<co c="0"><na f="h/Harmouch:Hazar" pid="181/7644">Hazar Harmouch</na></co>
+<co c="0"><na f="h/Hassanzadeh:Oktie" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</na></co>
+<co c="0"><na f="h/Hinckley:Ken" pid="40/5624">Ken Hinckley</na></co>
+<co c="0"><na f="h/Holz_0001:Christian" pid="79/7439-1">Christian Holz 0001</na></co>
+<co c="0"><na f="h/Hu:Jack" pid="243/2500">Jack Hu</na></co>
+<co c="0" n="2"><na f="h/Hunter:Jim" pid="48/6924">Jim Hunter</na><na>James Hunter</na></co>
+<co c="0"><na f="i/Ilyas:Ihab_F=" pid="i/IhabFIlyas">Ihab F. Ilyas</na></co>
+<co c="0"><na f="j/Jiao:Limei" pid="46/4987">Limei Jiao</na></co>
+<co c="0"><na f="j/Jim=eacute=nez=Ruiz:Ernesto" pid="22/5749">Ernesto Jim&#233;nez-Ruiz</na></co>
+<co c="0"><na f="j/Jonathan:Christopher" pid="166/8407">Christopher Jonathan</na></co>
+<co c="0"><na f="j/Joyner:Shannon" pid="256/1012">Shannon Joyner</na></co>
+<co c="0"><na f="k/Kamath:Sunil" pid="52/1679">Sunil Kamath</na></co>
+<co c="0"><na f="k/Khan:Omar_Zia" pid="65/7562">Omar Zia Khan</na></co>
+<co c="0"><na f="k/Kipf:Andreas" pid="167/6469">Andreas Kipf</na></co>
+<co c="0"><na f="k/Kodavalla:Hanuma" pid="15/3353">Hanuma Kodavalla</na></co>
+<co c="0"><na f="k/Kokosielis:Peter" pid="47/760">Peter Kokosielis</na></co>
+<co c="0"><na f="k/Kossmann:Donald" pid="k/DonaldKossmann">Donald Kossmann</na></co>
+<co c="0"><na f="k/Kraska:Tim" pid="26/6037">Tim Kraska</na></co>
+<co c="0"><na f="k/Krishnan:Sanjay" pid="147/1189">Sanjay Krishnan</na></co>
+<co c="0"><na f="l/Lacerda:J=_P=" pid="347/8615">J. P. Lacerda</na></co>
+<co c="0"><na f="l/Lahiri:Tirthankar" pid="46/49">Tirthankar Lahiri</na></co>
+<co c="0"><na f="l/Larson:Per==Aring=ke" pid="l/PALarson">Per-&#197;ke Larson</na></co>
+<co c="0"><na f="l/Lebeck:Niel" pid="139/8104">Niel Lebeck</na></co>
+<co c="0"><na f="l/Ledo:David" pid="77/10579">David Ledo</na></co>
+<co c="0"><na f="l/Lee:Daniel" pid="67/3206">Daniel Lee</na></co>
+<co c="0"><na f="l/Levandoski:Justin_J=" pid="02/3658">Justin J. Levandoski</na></co>
+<co c="0"><na f="l/Li_0001:Guoliang" pid="l/GuoliangLi">Guoliang Li 0001</na></co>
+<co c="0"><na f="l/Li:Min" pid="82/0">Min Li</na></co>
+<co c="0"><na f="l/Li:Yinan" pid="49/612">Yinan Li</na></co>
+<co c="0"><na f="l/Li:Ying" pid="22/1805">Ying Li</na></co>
+<co c="0"><na f="l/Li_0001:Yunyao" pid="60/2319">Yunyao Li 0001</na></co>
+<co c="0"><na f="l/Lingam:Sandeep" pid="09/1637">Sandeep Lingam</na></co>
+<co c="0"><na f="l/Liu:Rui" pid="42/469">Rui Liu</na></co>
+<co c="0"><na f="l/Lo_0001:Eric" pid="80/2320">Eric Lo 0001</na></co>
+<co c="0"><na f="l/Lomet:David_B=" pid="l/DavidBLomet">David B. Lomet</na></co>
+<co c="0"><na f="l/Lu:Baotong" pid="256/1745">Baotong Lu</na></co>
+<co c="0"><na f="l/Lu:Jiaheng" pid="l/JiahengLu">Jiaheng Lu</na></co>
+<co c="0"><na f="m/Mansour_0001:Essam" pid="m/EssamMansour">Essam Mansour 0001</na></co>
+<co c="0"><na f="m/Marcus:Ryan" pid="175/1473">Ryan Marcus</na></co>
+<co c="0"><na f="m/Markakis:Markos" pid="278/6747">Markos Markakis</na></co>
+<co c="0"><na f="m/Mauerer:Wolfgang" pid="74/694">Wolfgang Mauerer</na></co>
+<co c="0"><na f="m/Meiklejohn:Christopher" pid="140/8227">Christopher Meiklejohn</na></co>
+<co c="0"><na f="m/Mittal:Ashish_R=" pid="184/1441">Ashish R. Mittal</na></co>
+<co c="0"><na f="m/Mohoney:Jason" pid="284/0722">Jason Mohoney</na></co>
+<co c="0"><na f="m/Montero:Alejandro" pid="211/9904">Alejandro Montero</na></co>
+<co c="0"><na f="m/Mousavi_0003:Ali" pid="24/9-3">Ali Mousavi 0003</na></co>
+<co c="0"><na f="n/Naumann:Felix" pid="n/FelixNaumann">Felix Naumann</na></co>
+<co c="0"><na f="n/Neumann_0001:Thomas" pid="n/ThomasNeumann">Thomas Neumann 0001</na></co>
+<co c="0"><na f="n/Newton:Ryan" pid="34/3982">Ryan Newton</na></co>
+<co c="0"><na f="n/Ng:Jonathan" pid="119/6896">Jonathan Ng</na></co>
+<co c="0"><na f="n/Nishanov:Gor_V=" pid="36/487">Gor V. Nishanov</na></co>
+<co c="0"><na f="=/=Ouml=zcan:Fatma" pid="o/FatmaOzcan">Fatma &#214;zcan</na></co>
+<co c="0"><na f="=/=Ouml=zsu:M=_Tamer" pid="o/MTamerOzsu">M. Tamer &#214;zsu</na></co>
+<co c="0"><na f="p/Pacaci:Anil" pid="203/0030">Anil Pacaci</na></co>
+<co c="0"><na f="p/Pahud:Michel" pid="59/2625">Michel Pahud</na></co>
+<co c="0"><na f="p/Papaemmanouil:Olga" pid="37/3024">Olga Papaemmanouil</na></co>
+<co c="0"><na f="p/Patel:Jignesh_M=" pid="p/JMPatel">Jignesh M. Patel</na></co>
+<co c="0"><na f="p/Peinado:Marcus" pid="56/6925">Marcus Peinado</na></co>
+<co c="0"><na f="p/Peshawaria:Rahee" pid="257/8737">Rahee Peshawaria</na></co>
+<co c="0"><na f="p/Poggi:Nicol=aacute=s" pid="21/7644">Nicol&#225;s Poggi</na></co>
+<co c="0"><na f="p/Pound:Jeffrey" pid="p/JeffreyPound">Jeffrey Pound</na></co>
+<co c="0"><na f="p/Poupart:Pascal" pid="26/2122">Pascal Poupart</na></co>
+<co c="0"><na f="p/Prakash:Naveen" pid="55/3343">Naveen Prakash</na></co>
+<co c="0"><na f="p/Purohit:Vijendra" pid="243/2361">Vijendra Purohit</na></co>
+<co c="0"><na f="q/Qiu:Yunjie" pid="168/0317">Yunjie Qiu</na></co>
+<co c="0"><na f="q/Qu:Hugh" pid="243/2328">Hugh Qu</na></co>
+<co c="0"><na f="r/Rafiq:Taha" pid="149/5880">Taha Rafiq</na></co>
+<co c="0"><na f="r/Rajagopalan:Shriram" pid="14/10315">Shriram Rajagopalan</na></co>
+<co c="0"><na f="r/Ramakrishnan:Raghu" pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</na></co>
+<co c="0"><na f="r/Ravella:Chaitanya_Sreenivas" pid="243/2479">Chaitanya Sreenivas Ravella</na></co>
+<co c="0"><na f="r/R=eacute=:Christopher" pid="r/ChristopherRe">Christopher R&#233;</na></co>
+<co c="0"><na f="r/Reinwald:Berthold" pid="76/3381">Berthold Reinwald</na></co>
+<co c="0"><na f="r/Reisteter:Krystyna" pid="243/2519">Krystyna Reisteter</na></co>
+<co c="0"><na f="r/Rekatsinas:Theodoros" pid="51/11411">Theodoros Rekatsinas</na></co>
+<co c="0"><na f="r/Rezig:El_Kindi" pid="96/8919">El Kindi Rezig</na></co>
+<co c="0"><na f="r/Riche:Nathalie_Henry" pid="h/NathalieHenry">Nathalie Henry Riche</na></co>
+<co c="0"><na f="r/Robertson:Sean" pid="119/6871">Sean Robertson</na></co>
+<co c="0"><na f="s/Sabek:Ibrahim" pid="16/8981">Ibrahim Sabek</na></co>
+<co c="0"><na f="s/Saenz:Alejandro_Hernandez" pid="243/2327">Alejandro Hernandez Saenz</na></co>
+<co c="0"><na f="s/Saha:Diptikalyan" pid="54/4272">Diptikalyan Saha</na></co>
+<co c="0"><na f="s/Salem:Kenneth" pid="s/KennethSalem">Kenneth Salem</na></co>
+<co c="0"><na f="s/Sankaranarayanan:Karthik" pid="74/4923">Karthik Sankaranarayanan</na></co>
+<co c="0"><na f="s/Serafini:Marco" pid="02/6087">Marco Serafini</na></co>
+<co c="0"><na f="s/Sheikh:Muhammad_Bilal" pid="82/10781">Muhammad Bilal Sheikh</na></co>
+<co c="0"><na f="s/Shi:Juwei" pid="10/5814">Juwei Shi</na></co>
+<co c="0"><na f="s/Shrotri:Sheetal" pid="243/2394">Sheetal Shrotri</na></co>
+<co c="0"><na f="s/Soror:Ahmed_A=" pid="88/3534">Ahmed A. Soror</na></co>
+<co c="0"><na f="s/Spector:Benjamin" pid="88/8850">Benjamin Spector</na></co>
+<co c="0"><na f="s/Srinivas:Kavitha" pid="39/4444">Kavitha Srinivas</na></co>
+<co c="0"><na f="s/Stonebraker:Michael" pid="s/MichaelStonebraker">Michael Stonebraker</na></co>
+<co c="0"><na f="s/Sumanth:Chiraag" pid="170/4751">Chiraag Sumanth</na></co>
+<co c="0"><na f="s/Surale:Hemant_Bhaskar" pid="199/3056">Hemant Bhaskar Surale</na></co>
+<co c="0"><na f="s/Szyperski:Clemens_A=" pid="03/5825">Clemens A. Szyperski</na></co>
+<co c="0"><na f="t/Tang:Dixin" pid="155/5478">Dixin Tang</na></co>
+<co c="0"><na f="t/Taylor:David_J=" pid="t/DavidJTaylor">David J. Taylor</na></co>
+<co c="0"><na f="t/Thekkath:Chandramohan_A=" pid="13/3927">Chandramohan A. Thekkath</na></co>
+<co c="0"><na f="t/Tran:Thomas_T=" pid="92/3508">Thomas T. Tran</na></co>
+<co c="0"><na f="v/Vaidya:Kapil" pid="188/6341">Kapil Vaidya</na></co>
+<co c="0"><na f="v/Valluri:Satyanarayana_R=" pid="46/2868">Satyanarayana R. Valluri</na></co>
+<co c="0"><na f="v/Vidal:Maria=Esther" pid="92/654">Maria-Esther Vidal</na></co>
+<co c="0"><na f="v/Vujic:Nikola" pid="59/4270">Nikola Vujic</na></co>
+<co c="0"><na f="w/Waghmare:Anand" pid="276/4023">Anand Waghmare</na></co>
+<co c="0"><na f="w/Wakade:Vikram" pid="243/2323">Vikram Wakade</na></co>
+<co c="0"><na f="w/Wang:Chen" pid="82/4206">Chen Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Chi" pid="09/404-1">Chi Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Haixun" pid="w/HaixunWang">Haixun Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Jiannan" pid="39/7183-1">Jiannan Wang 0001</na></co>
+<co c="0"><na f="w/Wang_0001:Tianzheng" pid="57/10948-1">Tianzheng Wang 0001</na></co>
+<co c="0" n="2"><na f="w/Warfield:Andy" pid="70/5879">Andy Warfield</na><na>Andrew Warfield</na></co>
+<co c="0"><na f="w/Wu:Yingjun" pid="07/11533">Yingjun Wu</na></co>
+<co c="0"><na f="x/Xue:Xun" pid="22/6497">Xun Xue</na></co>
+<co c="0"><na f="y/Yadav:Jitendra" pid="49/1377">Jitendra Yadav</na></co>
+<co c="0"><na f="y/Yang:Zongheng" pid="181/5822">Zongheng Yang</na></co>
+<co c="0"><na f="y/Yu:Geoffrey_X=" pid="272/8767">Geoffrey X. Yu</na></co>
+<co c="0"><na f="y/Yu_0001:Jia" pid="86/3457-1">Jia Yu 0001</na></co>
+<co c="0"><na f="z/Zaccai:Tal" pid="194/3943">Tal Zaccai</na></co>
+<co c="0"><na f="z/Za=iuml=t:Mohamed" pid="04/4426">Mohamed Za&#239;t</na></co>
+<co c="0"><na f="z/Zeng:Kai" pid="80/1651">Kai Zeng</na></co>
+<co c="0"><na f="z/Zhang:Hantian" pid="155/9999">Hantian Zhang</na></co>
+<co c="0"><na f="z/Zhang:Irene" pid="68/1122">Irene Zhang</na></co>
+<co c="0"><na f="z/Zhang_0002:Jie" pid="84/6889-2">Jie Zhang 0002</na></co>
+<co c="0"><na f="z/Zhang:Xiaokuan" pid="158/4724">Xiaokuan Zhang</na></co>
+</coauthors>
+</dblpperson>

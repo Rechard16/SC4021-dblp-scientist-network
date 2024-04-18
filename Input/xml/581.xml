@@ -1,0 +1,211 @@
+<dblpperson name="Mohammad Dashti 0001" pid="01/4316-1" n="11">
+<person key="homepages/01/4316-1" mdate="2022-07-18">
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author pid="01/4316-1">Mohammad Dashti Rahmat Abadi</author>
+<note type="affiliation">&#201;cole Polytechnique F&#233;d&#233;rale de Lausanne, Lausanne, Switzerland</note>
+<url>https://dl.acm.org/profile/99659040226</url>
+</person>
+<homonyms n="2">
+<h f="d/Dashti:Mohammad"><name>Mohammad Dashti</name>
+</h>
+<h f="d/Dashti_0002:Mohammad"><person key="homepages/01/4316-2" mdate="2020-10-12">
+<author pid="01/4316-2">Mohammad Dashti 0002</author>
+<note type="affiliation">University of British Columbia, Canada</note>
+<note type="affiliation">Simon Fraser University, BC, Canada</note>
+<note type="affiliation">King's College London, UK</note>
+<url>https://sites.google.com/site/m7ammaddashti/</url>
+<url>https://scholar.google.com/citations?user=SxUHsFkAAAAJ</url>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/jfp/ShaikhhaD018" mdate="2020-10-12">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Push versus pull-based loop fusion in query engines.</title>
+<pages>e10</pages>
+<year>2018</year>
+<volume>28</volume>
+<journal>J. Funct. Program.</journal>
+<ee>https://doi.org/10.1017/S0956796818000102</ee>
+<url>db/journals/jfp/jfp28.html#ShaikhhaD018</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1807-09887" mdate="2020-10-12">
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author pid="177/9027">Sachin Basil John</author>
+<author pid="152/5813">Thierry Coppey</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="71/9975">Vojin Jovanovic</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Compiling Database Application Programs.</title>
+<year>2018</year>
+<volume>abs/1807.09887</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1807.09887</ee>
+<url>db/journals/corr/corr1807.html#abs-1807-09887</url>
+</article>
+</r>
+<r><phdthesis key="phd/ch/Abadi17" mdate="2022-07-29">
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<title>Program Analysis and Compilation Techniques for Speeding up Transactional Database Workloads.</title>
+<school>EPFL, Switzerland</school>
+<year>2017</year>
+<ee>https://doi.org/10.5075/epfl-thesis-8023</ee>
+<ee>https://infoscience.epfl.ch/record/231714</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/cidr/BernsteinDKM17" mdate="2020-10-12">
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author pid="62/7536">Tim Kiefer</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<title>Indexing in an Actor-Oriented Database.</title>
+<year>2017</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2017/papers/p29-bernstein-cidr17.pdf</ee>
+<crossref>conf/cidr/2017</crossref>
+<url>db/conf/cidr/cidr2017.html#BernsteinDKM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DashtiJS017" mdate="2023-06-26">
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author orcid="0000-0002-1583-496X" pid="177/9027">Sachin Basil John</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Transaction Repair for Multi-Version Concurrency Control.</title>
+<pages>235-250</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3035919</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#DashtiJS017</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/VitorovicEGMEDK16" mdate="2020-10-12">
+<author pid="140/0995">Aleksandar Vitorovic</author>
+<author pid="141/4384">Mohammed Elseidy</author>
+<author pid="185/4305">Khayyam Guliyev</author>
+<author pid="185/4291">Khue Vu Minh</author>
+<author pid="185/4285">Daniel Espino</author>
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author pid="33/8291">Yannis Klonatos</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Squall: Scalable Real-time Analytics.</title>
+<pages>1553-1556</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>13</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p1553-vitorovic.pdf</ee>
+<ee>https://doi.org/10.14778/3007263.3007307</ee>
+<url>db/journals/pvldb/pvldb9.html#VitorovicEGMEDK16</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/NikolicD016" mdate="2022-10-11">
+<author pid="57/10355-1">Milos Nikolic 0001</author>
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>How to Win a Hot Dog Eating Contest: Distributed Incremental View Maintenance with Batch Updates.</title>
+<pages>511-526</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2915246</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#NikolicD016</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ShaikhhaKPBD016" mdate="2020-10-12">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="33/8291">Yannis Klonatos</author>
+<author pid="181/5785">Lionel Parreaux</author>
+<author pid="181/5819">Lewis Brown</author>
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>How to Architect a Query Compiler.</title>
+<pages>1907-1922</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2915244</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#ShaikhhaKPBD016</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/DashtiJS016" mdate="2020-10-12">
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author pid="177/9027">Sachin Basil John</author>
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Repairing Conflicts among MVCC Transactions.</title>
+<year>2016</year>
+<volume>abs/1603.00542</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1603.00542</ee>
+<url>db/journals/corr/corr1603.html#DashtiJS016</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ShaikhhaD016" mdate="2020-10-12">
+<author pid="143/6186">Amir Shaikhha</author>
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<title>Push vs. Pull-Based Loop Fusion in Query Engines.</title>
+<year>2016</year>
+<volume>abs/1610.09166</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.09166</ee>
+<url>db/journals/corr/corr1610.html#ShaikhhaD016</url>
+</article>
+</r>
+<r><inproceedings key="conf/snapl/RompfBLSJAOSKDK15" mdate="2020-10-12">
+<author pid="19/7373">Tiark Rompf</author>
+<author pid="30/9116">Kevin J. Brown</author>
+<author pid="21/276">HyoukJoong Lee</author>
+<author pid="03/7746">Arvind K. Sujeeth</author>
+<author pid="54/8643">Manohar Jonnalagedda</author>
+<author pid="88/11209">Nada Amin</author>
+<author pid="16/7184">Georg Ofenbeck</author>
+<author pid="136/0876">Alen Stojanov</author>
+<author pid="33/8291">Yannis Klonatos</author>
+<author pid="01/4316-1">Mohammad Dashti 0001</author>
+<author pid="k/ChristophKoch">Christoph Koch 0001</author>
+<author pid="37/6355">Markus P&#252;schel</author>
+<author pid="o/KunleOlukotun">Kunle Olukotun</author>
+<title>Go Meta! A Case for Generative Programming and DSLs in Performance Critical Systems.</title>
+<pages>238-261</pages>
+<year>2015</year>
+<booktitle>SNAPL</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.SNAPL.2015.238</ee>
+<crossref>conf/snapl/2015</crossref>
+<url>db/conf/snapl/snapl2015.html#RompfBLSJAOSKDK15</url>
+</inproceedings>
+</r>
+<coauthors n="27" nc="2">
+<co c="0"><na f="a/Amin:Nada" pid="88/11209">Nada Amin</na></co>
+<co c="1"><na f="b/Bernstein:Philip_A=" pid="b/PhilipABernstein">Philip A. Bernstein</na></co>
+<co c="0"><na f="b/Brown:Kevin_J=" pid="30/9116">Kevin J. Brown</na></co>
+<co c="0"><na f="b/Brown:Lewis" pid="181/5819">Lewis Brown</na></co>
+<co c="0"><na f="c/Coppey:Thierry" pid="152/5813">Thierry Coppey</na></co>
+<co c="0"><na f="e/Elseidy:Mohammed" pid="141/4384">Mohammed Elseidy</na></co>
+<co c="0"><na f="e/Espino:Daniel" pid="185/4285">Daniel Espino</na></co>
+<co c="0"><na f="g/Guliyev:Khayyam" pid="185/4305">Khayyam Guliyev</na></co>
+<co c="0"><na f="j/John:Sachin_Basil" pid="177/9027">Sachin Basil John</na></co>
+<co c="0"><na f="j/Jonnalagedda:Manohar" pid="54/8643">Manohar Jonnalagedda</na></co>
+<co c="0"><na f="j/Jovanovic:Vojin" pid="71/9975">Vojin Jovanovic</na></co>
+<co c="1"><na f="k/Kiefer:Tim" pid="62/7536">Tim Kiefer</na></co>
+<co c="0"><na f="k/Klonatos:Yannis" pid="33/8291">Yannis Klonatos</na></co>
+<co c="0"><na f="k/Koch_0001:Christoph" pid="k/ChristophKoch">Christoph Koch 0001</na></co>
+<co c="0"><na f="l/Lee:HyoukJoong" pid="21/276">HyoukJoong Lee</na></co>
+<co c="1"><na f="m/Maier_0001:David" pid="m/DavidMaier">David Maier 0001</na></co>
+<co c="0"><na f="m/Minh:Khue_Vu" pid="185/4291">Khue Vu Minh</na></co>
+<co c="0"><na f="n/Nikolic_0001:Milos" pid="57/10355-1">Milos Nikolic 0001</na></co>
+<co c="0"><na f="o/Ofenbeck:Georg" pid="16/7184">Georg Ofenbeck</na></co>
+<co c="0"><na f="o/Olukotun:Kunle" pid="o/KunleOlukotun">Kunle Olukotun</na></co>
+<co c="0"><na f="p/Parreaux:Lionel" pid="181/5785">Lionel Parreaux</na></co>
+<co c="0"><na f="p/P=uuml=schel:Markus" pid="37/6355">Markus P&#252;schel</na></co>
+<co c="0"><na f="r/Rompf:Tiark" pid="19/7373">Tiark Rompf</na></co>
+<co c="0"><na f="s/Shaikhha:Amir" pid="143/6186">Amir Shaikhha</na></co>
+<co c="0"><na f="s/Stojanov:Alen" pid="136/0876">Alen Stojanov</na></co>
+<co c="0"><na f="s/Sujeeth:Arvind_K=" pid="03/7746">Arvind K. Sujeeth</na></co>
+<co c="0"><na f="v/Vitorovic:Aleksandar" pid="140/0995">Aleksandar Vitorovic</na></co>
+</coauthors>
+</dblpperson>

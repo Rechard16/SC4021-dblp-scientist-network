@@ -1,0 +1,264 @@
+<dblpperson name="Oana Balmau" pid="157/1134" n="15">
+<person key="homepages/157/1134" mdate="2015-01-20">
+<author pid="157/1134">Oana Balmau</author>
+</person>
+<r><inproceedings key="conf/eurosys/RolonB23" mdate="2023-05-17">
+<author orcid="0009-0008-1616-5949" pid="346/0835">Sebastian Rolon</author>
+<author orcid="0000-0002-6822-8891" pid="157/1134">Oana Balmau</author>
+<title>Is Bare-metal I/O Performance with User-defined Storage Drives Inside VMs Possible?: Benchmarking libvfio-user vs. Common Storage Virtualization Configurations.</title>
+<pages>27-34</pages>
+<year>2023</year>
+<booktitle>CHEOPS@EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3578353.3589544</ee>
+<crossref>conf/eurosys/2023cheops</crossref>
+<url>db/conf/eurosys/cheops2023.html#RolonB23</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/Balmau22" mdate="2023-01-20">
+<author pid="157/1134">Oana Balmau</author>
+<title>Characterizing I/O in Machine Learning with MLPerf Storage.</title>
+<pages>47-48</pages>
+<year>2022</year>
+<volume>51</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3572751.3572765</ee>
+<url>db/journals/sigmod/sigmod51.html#Balmau22</url>
+</article>
+</r>
+<r><inproceedings key="conf/eurosys/ZhangXB22" mdate="2022-03-30">
+<author pid="66/4615">Yong Zhang</author>
+<author pid="302/4890">Xinran Xiong</author>
+<author pid="157/1134">Oana Balmau</author>
+<title>TONE: cutting tail-latency in learned indexes.</title>
+<pages>16-23</pages>
+<year>2022</year>
+<booktitle>CHEOPS@EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3503646.3524295</ee>
+<crossref>conf/eurosys/2022cheops</crossref>
+<url>db/conf/eurosys/cheops2022.html#ZhangXB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ieeesec/RamprasadMTCVGB22" mdate="2023-03-21">
+<author pid="218/9696">Brian Ramprasad</author>
+<author pid="233/9256">Pritish Mishra</author>
+<author pid="338/1548">Myles Thiessen</author>
+<author pid="36/8493">Hongkai Chen</author>
+<author orcid="0000-0001-5130-1792" pid="205/2779">Alexandre da Silva Veith</author>
+<author pid="117/8009">Moshe Gabel</author>
+<author pid="157/1134">Oana Balmau</author>
+<author pid="338/2328">Abelard Chow</author>
+<author pid="59/2063">Eyal de Lara</author>
+<title>Shepherd: Seamless Stream Processing on the Edge.</title>
+<pages>40-53</pages>
+<year>2022</year>
+<booktitle>SEC</booktitle>
+<ee>https://doi.org/10.1109/SEC54971.2022.00011</ee>
+<crossref>conf/ieeesec/2022</crossref>
+<url>db/conf/ieeesec/ieeesec2022.html#RamprasadMTCVGB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/osdi/LepersBGZ20" mdate="2021-02-02">
+<author pid="08/8330">Baptiste Lepers</author>
+<author pid="157/1134">Oana Balmau</author>
+<author pid="05/4820">Karan Gupta</author>
+<author pid="z/WZwaenepoel">Willy Zwaenepoel</author>
+<title>Kvell+: Snapshot Isolation without Snapshots.</title>
+<pages>425-441</pages>
+<year>2020</year>
+<booktitle>OSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/osdi20/presentation/lepers</ee>
+<crossref>conf/osdi/2020</crossref>
+<url>db/conf/osdi/osdi2020.html#LepersBGZ20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/netys/BalmauGKMPZ19" mdate="2023-06-26">
+<author pid="157/1134">Oana Balmau</author>
+<author pid="g/RachidGuerraoui">Rachid Guerraoui</author>
+<author orcid="0000-0001-8187-724X" pid="86/676">Anne-Marie Kermarrec</author>
+<author pid="01/10825">Alexandre Maurer</author>
+<author pid="178/5515">Matej Pavlovic</author>
+<author pid="z/WZwaenepoel">Willy Zwaenepoel</author>
+<title>The Fake News Vaccine - A Content-Agnostic System for Preventing Fake News from Becoming Viral.</title>
+<pages>347-364</pages>
+<year>2019</year>
+<booktitle>NETYS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-31277-0_23</ee>
+<crossref>conf/netys/2019</crossref>
+<url>db/conf/netys/netys2019.html#BalmauGKMPZ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sosp/LepersBGZ19" mdate="2019-10-21">
+<author pid="08/8330">Baptiste Lepers</author>
+<author pid="157/1134">Oana Balmau</author>
+<author pid="05/4820">Karan Gupta</author>
+<author pid="z/WZwaenepoel">Willy Zwaenepoel</author>
+<title>KVell: the design and implementation of a fast persistent key-value store.</title>
+<pages>447-461</pages>
+<year>2019</year>
+<booktitle>SOSP</booktitle>
+<ee>https://doi.org/10.1145/3341301.3359628</ee>
+<crossref>conf/sosp/2019</crossref>
+<url>db/conf/sosp/sosp2019.html#LepersBGZ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/BalmauDZGCD19" mdate="2021-02-01">
+<author pid="157/1134">Oana Balmau</author>
+<author pid="00/8330">Florin Dinu</author>
+<author pid="z/WZwaenepoel">Willy Zwaenepoel</author>
+<author pid="05/4820">Karan Gupta</author>
+<author pid="244/9333">Ravishankar Chandhiramoorthi</author>
+<author pid="89/11144">Diego Didona</author>
+<title>SILK: Preventing Latency Spikes in Log-Structured Merge Key-Value Stores.</title>
+<pages>753-766</pages>
+<year>2019</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/atc19/presentation/balmau</ee>
+<crossref>conf/usenix/2019</crossref>
+<url>db/conf/usenix/usenix2019.html#BalmauDZGCD19</url>
+</inproceedings>
+</r>
+<r><article key="journals/tocs/BalmauDZGCD20" mdate="2022-11-18">
+<author pid="157/1134">Oana Balmau</author>
+<author pid="00/8330">Florin Dinu</author>
+<author pid="z/WZwaenepoel">Willy Zwaenepoel</author>
+<author pid="05/4820">Karan Gupta</author>
+<author pid="244/9333">Ravishankar Chandhiramoorthi</author>
+<author pid="89/11144">Diego Didona</author>
+<title>SILK+ Preventing Latency Spikes in Log-Structured Merge Key-Value Stores Running Heterogeneous Workloads.</title>
+<pages>12:1-12:27</pages>
+<year>2018</year>
+<volume>36</volume>
+<journal>ACM Trans. Comput. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3380905</ee>
+<url>db/journals/tocs/tocs36.html#BalmauDZGCD20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-09922" mdate="2018-09-03">
+<author pid="157/1134">Oana Balmau</author>
+<author pid="g/RachidGuerraoui">Rachid Guerraoui</author>
+<author pid="86/676">Anne-Marie Kermarrec</author>
+<author pid="01/10825">Alexandre Maurer</author>
+<author pid="178/5515">Matej Pavlovic</author>
+<author pid="z/WZwaenepoel">Willy Zwaenepoel</author>
+<title>Limiting the Spread of Fake News on Social Media Platforms by Evaluating Users' Trustworthiness.</title>
+<year>2018</year>
+<volume>abs/1808.09922</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.09922</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-09922</url>
+</article>
+</r>
+<r><inproceedings key="conf/eurosys/BalmauGTZ17" mdate="2022-12-07">
+<author pid="157/1134">Oana Balmau</author>
+<author orcid="0000-0002-4794-8902" pid="g/RachidGuerraoui">Rachid Guerraoui</author>
+<author pid="93/11190">Vasileios Trigonakis</author>
+<author pid="136/1097">Igor Zablotchi</author>
+<title>FloDB: Unlocking Memory in Persistent Key-Value Stores.</title>
+<pages>80-94</pages>
+<year>2017</year>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3064176.3064193</ee>
+<crossref>conf/eurosys/2017</crossref>
+<url>db/conf/eurosys/eurosys2017.html#BalmauGTZ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/usenix/BalmauDGZYAGK17" mdate="2022-12-07">
+<author pid="157/1134">Oana Balmau</author>
+<author pid="89/11144">Diego Didona</author>
+<author orcid="0000-0002-4794-8902" pid="g/RachidGuerraoui">Rachid Guerraoui</author>
+<author pid="z/WZwaenepoel">Willy Zwaenepoel</author>
+<author pid="17/5109">Huapeng Yuan</author>
+<author pid="165/3218">Aashray Arora</author>
+<author pid="05/4820">Karan Gupta</author>
+<author pid="203/1561">Pavan Konka</author>
+<title>TRIAD: Creating Synergies Between Memory, Disk and Log in Log Structured Key-Value Stores.</title>
+<pages>363-375</pages>
+<year>2017</year>
+<booktitle>USENIX Annual Technical Conference</booktitle>
+<ee type="oa">https://www.usenix.org/conference/atc17/technical-sessions/presentation/balmau</ee>
+<crossref>conf/usenix/2017</crossref>
+<url>db/conf/usenix/usenix2017.html#BalmauDGZYAGK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaa/BalmauGHZ16" mdate="2022-12-07">
+<author pid="157/1134">Oana Balmau</author>
+<author orcid="0000-0002-4794-8902" pid="g/RachidGuerraoui">Rachid Guerraoui</author>
+<author pid="h/MauriceHerlihy">Maurice Herlihy</author>
+<author pid="136/1097">Igor Zablotchi</author>
+<title>Fast and Robust Memory Reclamation for Concurrent Data Structures.</title>
+<pages>349-359</pages>
+<year>2016</year>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/2935764.2935790</ee>
+<crossref>conf/spaa/2016</crossref>
+<url>db/conf/spaa/spaa2016.html#BalmauGHZ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smartgridcomm/BalmauDP14" mdate="2021-03-17">
+<author pid="157/1134">Oana Balmau</author>
+<author pid="83/5653">Dacfey Dzung</author>
+<author pid="90/5323">Yvonne-Anne Pignolet</author>
+<title>Recipes for faster failure recovery in Smart Grid communication networks.</title>
+<pages>248-253</pages>
+<year>2014</year>
+<booktitle>SmartGridComm</booktitle>
+<ee>https://doi.org/10.1109/SmartGridComm.2014.7007654</ee>
+<crossref>conf/smartgridcomm/2014</crossref>
+<url>db/conf/smartgridcomm/smartgridcomm2014.html#BalmauDP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smartgridcomm/BalmauDKNPPT14" mdate="2023-06-15">
+<author pid="157/1134">Oana Balmau</author>
+<author pid="83/5653">Dacfey Dzung</author>
+<author orcid="0000-0003-4924-640X" pid="88/9795">Abdulkadir Karaaga&#231;</author>
+<author pid="157/1164">Vukasin Nesovic</author>
+<author pid="157/1211">Aleksandar Paunovic</author>
+<author pid="90/5323">Yvonne-Anne Pignolet</author>
+<author pid="157/1189">Niloufar Alipour Tehrani</author>
+<title>Evaluation of RPL for medium voltage power line communication.</title>
+<pages>446-451</pages>
+<year>2014</year>
+<booktitle>SmartGridComm</booktitle>
+<ee>https://doi.org/10.1109/SmartGridComm.2014.7007687</ee>
+<crossref>conf/smartgridcomm/2014</crossref>
+<url>db/conf/smartgridcomm/smartgridcomm2014.html#BalmauDKNPPT14</url>
+</inproceedings>
+</r>
+<coauthors n="33" nc="2">
+<co c="0"><na f="a/Arora:Aashray" pid="165/3218">Aashray Arora</na></co>
+<co c="0"><na f="c/Chandhiramoorthi:Ravishankar" pid="244/9333">Ravishankar Chandhiramoorthi</na></co>
+<co c="0"><na f="c/Chen:Hongkai" pid="36/8493">Hongkai Chen</na></co>
+<co c="0"><na f="c/Chow:Abelard" pid="338/2328">Abelard Chow</na></co>
+<co c="0"><na f="d/Didona:Diego" pid="89/11144">Diego Didona</na></co>
+<co c="0"><na f="d/Dinu:Florin" pid="00/8330">Florin Dinu</na></co>
+<co c="0"><na f="d/Dzung:Dacfey" pid="83/5653">Dacfey Dzung</na></co>
+<co c="0"><na f="g/Gabel:Moshe" pid="117/8009">Moshe Gabel</na></co>
+<co c="0"><na f="g/Guerraoui:Rachid" pid="g/RachidGuerraoui">Rachid Guerraoui</na></co>
+<co c="0"><na f="g/Gupta:Karan" pid="05/4820">Karan Gupta</na></co>
+<co c="0"><na f="h/Herlihy:Maurice" pid="h/MauriceHerlihy">Maurice Herlihy</na></co>
+<co c="0"><na f="k/Karaaga=ccedil=:Abdulkadir" pid="88/9795">Abdulkadir Karaaga&#231;</na></co>
+<co c="0"><na f="k/Kermarrec:Anne=Marie" pid="86/676">Anne-Marie Kermarrec</na></co>
+<co c="0"><na f="k/Konka:Pavan" pid="203/1561">Pavan Konka</na></co>
+<co c="0"><na f="l/Lara:Eyal_de" pid="59/2063">Eyal de Lara</na></co>
+<co c="0"><na f="l/Lepers:Baptiste" pid="08/8330">Baptiste Lepers</na></co>
+<co c="0"><na f="m/Maurer:Alexandre" pid="01/10825">Alexandre Maurer</na></co>
+<co c="0"><na f="m/Mishra:Pritish" pid="233/9256">Pritish Mishra</na></co>
+<co c="0"><na f="n/Nesovic:Vukasin" pid="157/1164">Vukasin Nesovic</na></co>
+<co c="0"><na f="p/Paunovic:Aleksandar" pid="157/1211">Aleksandar Paunovic</na></co>
+<co c="0"><na f="p/Pavlovic:Matej" pid="178/5515">Matej Pavlovic</na></co>
+<co c="0"><na f="p/Pignolet:Yvonne=Anne" pid="90/5323">Yvonne-Anne Pignolet</na></co>
+<co c="0"><na f="r/Ramprasad:Brian" pid="218/9696">Brian Ramprasad</na></co>
+<co c="-1"><na f="r/Rolon:Sebastian" pid="346/0835">Sebastian Rolon</na></co>
+<co c="0"><na f="t/Tehrani:Niloufar_Alipour" pid="157/1189">Niloufar Alipour Tehrani</na></co>
+<co c="0"><na f="t/Thiessen:Myles" pid="338/1548">Myles Thiessen</na></co>
+<co c="0"><na f="t/Trigonakis:Vasileios" pid="93/11190">Vasileios Trigonakis</na></co>
+<co c="0"><na f="v/Veith:Alexandre_da_Silva" pid="205/2779">Alexandre da Silva Veith</na></co>
+<co c="1"><na f="x/Xiong:Xinran" pid="302/4890">Xinran Xiong</na></co>
+<co c="0"><na f="y/Yuan:Huapeng" pid="17/5109">Huapeng Yuan</na></co>
+<co c="0"><na f="z/Zablotchi:Igor" pid="136/1097">Igor Zablotchi</na></co>
+<co c="1"><na f="z/Zhang:Yong" pid="66/4615">Yong Zhang</na></co>
+<co c="0"><na f="z/Zwaenepoel:Willy" pid="z/WZwaenepoel">Willy Zwaenepoel</na></co>
+</coauthors>
+</dblpperson>

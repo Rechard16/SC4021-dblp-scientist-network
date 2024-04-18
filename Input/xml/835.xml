@@ -1,0 +1,1703 @@
+<dblpperson name="Sven Helmer" pid="h/SvenHelmer" n="104">
+<person key="homepages/h/SvenHelmer" mdate="2023-07-20">
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<note type="affiliation">University of Zurich, Switzerland</note>
+<note type="affiliation" label="former">Free University of Bozen-Bolzano, Italy</note>
+<note type="affiliation" label="former">University of Mannheim, Germany</note>
+<url>https://www.ifi.uzh.ch/en/dbtg/Staff/helmer.html</url>
+<url>https://scholar.google.com/citations?user=hrr5co4AAAAJ</url>
+<url>https://zbmath.org/authors/?q=ai:helmer.sven</url>
+<url>https://orcid.org/0000-0002-9666-1932</url>
+<url>https://www.wikidata.org/entity/Q57442440</url>
+<url>https://id.loc.gov/authorities/names/no2011154473</url>
+<url>https://d-nb.info/gnd/1217255893</url>
+</person>
+<r><inproceedings key="conf/semco/HelmerWS24" mdate="2024-03-27">
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<author pid="371/7168">Manuel Stuefer</author>
+<title>Optimism and Pessimism in Database Query Optimisation.</title>
+<pages>269-276</pages>
+<year>2024</year>
+<booktitle>ICSC</booktitle>
+<ee>https://doi.org/10.1109/ICSC59802.2024.00049</ee>
+<crossref>conf/semco/2024</crossref>
+<url>db/conf/semco/icsc2024.html#HelmerWS24</url>
+</inproceedings>
+</r>
+<r><article key="journals/pacmmod/NikooBH23" mdate="2024-01-13">
+<author orcid="0000-0001-7956-0075" pid="363/8702">AmirReza Alizade Nikoo</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<title>Correlation Joins over Time Series Data Streams Utilizing Complementary Dimension Reduction and Transformation.</title>
+<pages>235:1-235:26</pages>
+<year>2023</year>
+<month>December</month>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3626722</ee>
+<url>db/journals/pacmmod/pacmmod1.html#NikooBH23</url>
+</article>
+</r>
+<r><article key="journals/vldb/WellenzohnBHPZ23" mdate="2023-09-12">
+<author pid="156/1683">Kevin Wellenzohn</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="241/3970">Antoine Pietri</author>
+<author pid="53/2641">Stefano Zacchiroli</author>
+<title>Robust and scalable content-and-structure indexing.</title>
+<pages>689-715</pages>
+<year>2023</year>
+<month>July</month>
+<volume>32</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1007/s00778-022-00764-y</ee>
+<url>db/journals/vldb/vldb32.html#WellenzohnBHPZ23</url>
+</article>
+</r>
+<r><inproceedings key="conf/btw/WellenzohnBHR23" mdate="2023-02-23">
+<author pid="156/1683">Kevin Wellenzohn</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="340/7423">Marcel Reutegger</author>
+<title>Workload-Aware Contention-Management in Indexes for Hierarchical Data.</title>
+<pages>71-92</pages>
+<year>2023</year>
+<booktitle>BTW</booktitle>
+<ee>https://doi.org/10.18420/BTW2023-03</ee>
+<crossref>conf/btw/2023</crossref>
+<url>db/conf/btw/btw2023.html#WellenzohnBHR23</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/ChenLHB22" mdate="2023-10-23">
+<author pid="14/928">Qing Chen</author>
+<author pid="06/6269">Oded Lachish</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Dynamic Spanning Trees for Connectivity Queries on Fully-dynamic Undirected Graphs.</title>
+<pages>3263-3276</pages>
+<year>2022</year>
+<volume>15</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">https://www.vldb.org/pvldb/vol15/p3263-chen.pdf</ee>
+<ee>https://doi.org/10.14778/3551793.3551868</ee>
+<url>db/journals/pvldb/pvldb15.html#ChenLHB22</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-06887" mdate="2022-07-19">
+<author pid="14/928">Qing Chen</author>
+<author pid="06/6269">Oded Lachish</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Dynamic Spanning Trees for Connectivity Queries on Fully-dynamic Undirected Graphs (Extended version).</title>
+<year>2022</year>
+<volume>abs/2207.06887</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.06887</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-06887</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2209-05126" mdate="2022-09-27">
+<author pid="156/1683">Kevin Wellenzohn</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="241/3970">Antoine Pietri</author>
+<author pid="53/2641">Stefano Zacchiroli</author>
+<title>Robust and Scalable Content-and-Structure Indexing (Extended Version).</title>
+<year>2022</year>
+<volume>abs/2209.05126</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2209.05126</ee>
+<url>db/journals/corr/corr2209.html#abs-2209-05126</url>
+</article>
+</r>
+<r><article key="journals/ir/NgoHLK21" mdate="2022-06-23">
+<author orcid="0000-0002-8793-0504" pid="17/1083">Vuong M. Ngo</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author orcid="0000-0003-4373-2212" pid="37/6424">Nhien-An Le-Khac</author>
+<author orcid="0000-0002-0176-6281" pid="43/3991">M. Tahar Kechadi</author>
+<title>Structural textile pattern recognition and processing based on hypergraphs.</title>
+<pages>137-173</pages>
+<year>2021</year>
+<volume>24</volume>
+<journal>Inf. Retr. J.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s10791-020-09384-y</ee>
+<url>db/journals/ir/ir24.html#NgoHLK21</url>
+</article>
+</r>
+<r><article key="journals/vldb/PiatovHDP21" mdate="2021-06-04">
+<author pid="118/9925">Danila Piatov</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-1798-0215" pid="98/7475">Fabio Persia</author>
+<title>Cache-efficient sweeping-based interval joins for extended Allen relation predicates.</title>
+<pages>379-402</pages>
+<year>2021</year>
+<volume>30</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00778-020-00650-5</ee>
+<url>db/journals/vldb/vldb30.html#PiatovHDP21</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/WellenzohnPBH21" mdate="2021-09-16">
+<author pid="156/1683">Kevin Wellenzohn</author>
+<author pid="301/6401">Luka Popovic</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>Inserting Keys into the Robust Content-and-Structure (RCAS) Index.</title>
+<pages>121-135</pages>
+<year>2021</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-82472-3_10</ee>
+<crossref>conf/adbis/2021</crossref>
+<url>db/conf/adbis/adbis2021.html#WellenzohnPBH21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vissym/ArpatzoglouKDFH21" mdate="2023-02-25">
+<author orcid="0000-0003-0135-9536" pid="340/0627">Vasiliki Arpatzoglou</author>
+<author orcid="0000-0003-4576-5704" pid="340/0641">Artemis Kardara</author>
+<author orcid="0000-0002-2943-4051" pid="12/9053">Alexandra Diehl</author>
+<author pid="184/8437">Barbara Flueckiger</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author orcid="0000-0002-6724-526X" pid="96/6330">Renato Pajarola</author>
+<title>DanceMoves: A Visual Analytics Tool for Dance Movement Analysis.</title>
+<pages>67-71</pages>
+<year>2021</year>
+<booktitle>EuroVis (Short Papers)</booktitle>
+<ee>https://doi.org/10.2312/evs.20211057</ee>
+<crossref>conf/vissym/2021s</crossref>
+<url>db/conf/vissym/eurovis2021short.html#ArpatzoglouKDFH21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-11271" mdate="2021-03-24">
+<author pid="17/1083">Vuong M. Ngo</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="37/6424">Nhien-An Le-Khac</author>
+<author pid="43/3991">M. Tahar Kechadi</author>
+<title>Structural Textile Pattern Recognition and Processing Based on Hypergraphs.</title>
+<year>2021</year>
+<volume>abs/2103.11271</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.11271</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-11271</url>
+</article>
+</r>
+<r><article key="journals/fgcs/PersiaPGBDH20" mdate="2020-06-18">
+<author pid="98/7475">Fabio Persia</author>
+<author pid="45/4498">Giovanni Pilato</author>
+<author pid="35/6880">Mouzhi Ge</author>
+<author pid="158/9272">Paolo Bolzoni</author>
+<author pid="151/6954">Daniela D'Auria</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>Improving orienteering-based tourist trip planning with social sensing.</title>
+<pages>931-945</pages>
+<year>2020</year>
+<volume>110</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2019.10.028</ee>
+<url>db/journals/fgcs/fgcs110.html#PersiaPGBDH20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/WellenzohnBH20" mdate="2023-08-28">
+<author orcid="0000-0001-6511-7101" pid="156/1683">Kevin Wellenzohn</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>Dynamic Interleaving of Content and Structure for Robust Indexing of Semi-Structured Hierarchical Data.</title>
+<pages>1641-1653</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p1641-wellenzohn.pdf</ee>
+<ee>https://doi.org/10.14778/3401960.3401963</ee>
+<ee>https://www.wikidata.org/entity/Q114596030</ee>
+<url>db/journals/pvldb/pvldb13.html#WellenzohnBH20</url>
+</article>
+</r>
+<r><article key="journals/scientometrics/HelmerBP20" mdate="2021-05-14">
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author orcid="0000-0001-8651-750X" pid="199/6261">David B. Blumenthal</author>
+<author pid="51/11162">Kathrin Paschen</author>
+<title>What is meaningful research and how should we measure it?</title>
+<pages>153-169</pages>
+<year>2020</year>
+<volume>125</volume>
+<journal>Scientometrics</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s11192-020-03649-5</ee>
+<url>db/journals/scientometrics/scientometrics125.html#HelmerBP20</url>
+</article>
+</r>
+<r><article key="journals/sncs/NardiniHIP20" mdate="2021-05-14">
+<author pid="274/9008">Matteo Nardini</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="36/1061">Nabil El Ioini</author>
+<author orcid="0000-0002-9049-212X" pid="48/4069">Claus Pahl</author>
+<title>A Blockchain-based Decentralized Electronic Marketplace for Computing Resources.</title>
+<pages>251</pages>
+<year>2020</year>
+<volume>1</volume>
+<journal>SN Comput. Sci.</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.1007/s42979-020-00243-7</ee>
+<url>db/journals/sncs/sncs1.html#NardiniHIP20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-05134" mdate="2021-10-14">
+<author orcid="0000-0001-6511-7101" pid="156/1683">Kevin Wellenzohn</author>
+<author pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>Dynamic Interleaving of Content and Structure for Robust Indexing of Semi-Structured Hierarchical Data (Extended Version).</title>
+<year>2020</year>
+<volume>abs/2006.05134</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.05134</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-05134</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-12665" mdate="2020-09-16">
+<author pid="118/9925">Danila Piatov</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="96/11411">Anton Dign&#246;s</author>
+<author pid="98/7475">Fabio Persia</author>
+<title>Cache-Efficient Sweeping-Based Interval Joins for Extended Allen Relation Predicates (Extended Version).</title>
+<year>2020</year>
+<volume>abs/2008.12665</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.12665</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-12665</url>
+</article>
+</r>
+<r><article key="journals/is/PiatovHDG19" mdate="2019-09-25">
+<author pid="118/9925">Danila Piatov</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Interactive and space-efficient multi-dimensional time series subsequence matching.</title>
+<pages>121-135</pages>
+<year>2019</year>
+<volume>82</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2018.08.002</ee>
+<ee>https://www.wikidata.org/entity/Q57985594</ee>
+<url>db/journals/is/is82.html#PiatovHDG19</url>
+</article>
+</r>
+<r><article key="journals/itl/PahlIHL19" mdate="2022-01-31">
+<author orcid="0000-0002-9049-212X" pid="48/4069">Claus Pahl</author>
+<author pid="36/1061">Nabil El Ioini</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="42/5859-1">Brian Lee 0001</author>
+<title>A semantic pattern for trusted orchestration in IoT edge clouds.</title>
+<year>2019</year>
+<volume>2</volume>
+<journal>Internet Technol. Lett.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/itl2.95</ee>
+<url>db/journals/itl/itl2.html#PahlIHL19</url>
+</article>
+</r>
+<r><inproceedings key="conf/gramsec/PersiaH19" mdate="2019-12-19">
+<author orcid="0000-0002-1798-0215" pid="98/7475">Fabio Persia</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<title>High-Level Automatic Event Detection and User Classification in a Social Network Context.</title>
+<pages>203-219</pages>
+<year>2019</year>
+<booktitle>GraMSec@CSF</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-36537-0_10</ee>
+<crossref>conf/gramsec/2019</crossref>
+<url>db/conf/gramsec/gramsec2019.html#PersiaH19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/irc/DAuriaPBH19" mdate="2019-04-03">
+<author pid="151/6954">Daniela D'Auria</author>
+<author pid="98/7475">Fabio Persia</author>
+<author pid="198/2053">Fabio Bettini</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>Predicting and Preventing Dangerous Events via Video Surveillance Using a Robotic Platform.</title>
+<pages>549-554</pages>
+<year>2019</year>
+<booktitle>IRC</booktitle>
+<ee>https://doi.org/10.1109/IRC.2019.00113</ee>
+<crossref>conf/irc/2019</crossref>
+<url>db/conf/irc/irc2019.html#DAuriaPBH19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semco/PersiaHPP19" mdate="2019-03-29">
+<author pid="98/7475">Fabio Persia</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="224/3158">Sergejs Pugacs</author>
+<author pid="45/4498">Giovanni Pilato</author>
+<title>Social Sensing for Improving the User Experience in Orienteering.</title>
+<pages>239-246</pages>
+<year>2019</year>
+<booktitle>ICSC</booktitle>
+<ee>https://doi.org/10.1109/ICOSC.2019.8665498</ee>
+<crossref>conf/semco/2019</crossref>
+<url>db/conf/semco/icsc2019.html#PersiaHPP19</url>
+</inproceedings>
+</r>
+<r><incollection key="books/wi/19/LeonMSIHP19" mdate="2019-06-17">
+<author pid="218/7910">David von Leon</author>
+<author pid="142/7781">Lorenzo Miori</author>
+<author pid="180/5398">Julian Sanin</author>
+<author pid="36/1061">Nabil El Ioini</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="48/4069">Claus Pahl</author>
+<title>A Lightweight Container Middleware for Edge Cloud Architectures.</title>
+<pages>145-170</pages>
+<year>2019</year>
+<booktitle>Fog and Edge Computing</booktitle>
+<ee>https://doi.org/10.1002/9781119525080.ch7</ee>
+<crossref>books/wi/BS2019</crossref>
+<url>db/books/collections/BS2019.html#LeonMSIHP19</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/adbis/HelmerRIP18" mdate="2020-10-25">
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="225/8162">Matteo Roggia</author>
+<author orcid="0000-0002-1288-1082" pid="36/1061">Nabil El Ioini</author>
+<author pid="48/4069">Claus Pahl</author>
+<title>EthernityDB - Integrating Database Functionality into a Blockchain.</title>
+<pages>37-44</pages>
+<year>2018</year>
+<booktitle>ADBIS (Short Papers and Workshops)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-00063-9_5</ee>
+<crossref>conf/adbis/2018w</crossref>
+<url>db/conf/adbis/adbis2018w.html#HelmerRIP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fmec/PahlIHL18" mdate="2022-01-31">
+<author pid="48/4069">Claus Pahl</author>
+<author orcid="0000-0002-1288-1082" pid="36/1061">Nabil El Ioini</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author orcid="0000-0002-8475-4074" pid="42/5859-1">Brian Lee 0001</author>
+<title>An architecture pattern for trusted orchestration in IoT edge clouds.</title>
+<pages>63-70</pages>
+<year>2018</year>
+<booktitle>FMEC</booktitle>
+<ee>https://doi.org/10.1109/FMEC.2018.8364046</ee>
+<crossref>conf/fmec/2018</crossref>
+<url>db/conf/fmec/fmec2018.html#PahlIHL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iotbd/LeonMSIHP18" mdate="2018-05-04">
+<author pid="218/7910">David von Leon</author>
+<author pid="142/7781">Lorenzo Miori</author>
+<author pid="180/5398">Julian Sanin</author>
+<author pid="36/1061">Nabil El Ioini</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="48/4069">Claus Pahl</author>
+<title>A Performance Exploration of Architectural Options for a Middleware for Decentralised Lightweight Edge Cloud Architectures.</title>
+<pages>73-84</pages>
+<year>2018</year>
+<booktitle>IoTBDS</booktitle>
+<ee>https://doi.org/10.5220/0006677400730084</ee>
+<crossref>conf/iotbd/2018</crossref>
+<url>db/conf/iotbd/iotbd2018.html#LeonMSIHP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iotbd/PahlIH18" mdate="2018-05-04">
+<author pid="48/4069">Claus Pahl</author>
+<author pid="36/1061">Nabil El Ioini</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>A Decision Framework for Blockchain Platforms for IoT and Edge Computing.</title>
+<pages>105-113</pages>
+<year>2018</year>
+<booktitle>IoTBDS</booktitle>
+<ee>https://doi.org/10.5220/0006688601050113</ee>
+<crossref>conf/iotbd/2018</crossref>
+<url>db/conf/iotbd/iotbd2018.html#PahlIH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/irc/DAuriaPBHS18" mdate="2023-03-23">
+<author pid="151/6954">Daniela D'Auria</author>
+<author pid="98/7475">Fabio Persia</author>
+<author pid="198/2053">Fabio Bettini</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author orcid="0000-0002-1037-0588" pid="s/BrunoSiciliano">Bruno Siciliano</author>
+<title>SARRI: A SmArt Rapiro Robot Integrating a Framework for Automatic High-Level Surveillance Event Detection.</title>
+<pages>238-241</pages>
+<year>2018</year>
+<booktitle>IRC</booktitle>
+<ee>https://doi.org/10.1109/IRC.2018.00050</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IRC.2018.00050</ee>
+<crossref>conf/irc/2018</crossref>
+<url>db/conf/irc/irc2018.html#DAuriaPBHS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semco/PersiaH18" mdate="2023-03-23">
+<author pid="98/7475">Fabio Persia</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>A Framework for High-Level Event Detection in a Social Network Context Via an Extension of ISEQL.</title>
+<pages>140-147</pages>
+<year>2018</year>
+<booktitle>ICSC</booktitle>
+<ee>https://doi.org/10.1109/ICSC.2018.00028</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICSC.2018.00028</ee>
+<crossref>conf/semco/2018</crossref>
+<url>db/conf/semco/icsc2018.html#PersiaH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/Helmer18" mdate="2018-11-21">
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>May I Have Your Attention, Please: - Building a Dystopian Attention Economy.</title>
+<pages>1529-1533</pages>
+<year>2018</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/3184558.3191605</ee>
+<crossref>conf/www/2018c</crossref>
+<url>db/conf/www/www2018c.html#Helmer18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-04604" mdate="2018-10-30">
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="17/1083">Vuong M. Ngo</author>
+<title>A Similarity Measure for Weaving Patterns in Textiles.</title>
+<year>2018</year>
+<volume>abs/1810.04604</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.04604</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-04604</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/PiatovHG17" mdate="2020-06-15">
+<author pid="118/9925">Danila Piatov</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<title>Interactive Time Series Subsequence Matching.</title>
+<pages>73-87</pages>
+<year>2017</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-66917-5_6</ee>
+<crossref>conf/adbis/2017</crossref>
+<url>db/conf/adbis/adbis2017.html#PiatovHG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bncod/MioriSH17" mdate="2017-06-28">
+<author pid="142/7781">Lorenzo Miori</author>
+<author pid="180/5398">Julian Sanin</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>A Platform for Edge Computing Based on Raspberry Pi Clusters.</title>
+<pages>153-159</pages>
+<year>2017</year>
+<booktitle>BICOD</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-60795-5_16</ee>
+<crossref>conf/bncod/2017</crossref>
+<url>db/conf/bncod/bicod2017.html#MioriSH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/PersiaBH17" mdate="2018-11-06">
+<author pid="98/7475">Fabio Persia</author>
+<author pid="198/2053">Fabio Bettini</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>An Interactive Framework for Video Surveillance Event Detection and Modeling.</title>
+<pages>2515-2518</pages>
+<year>2017</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3132847.3133164</ee>
+<crossref>conf/cikm/2017</crossref>
+<url>db/conf/cikm/cikm2017.html#PersiaBH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/BolzoniPH17" mdate="2017-08-14">
+<author pid="158/9272">Paolo Bolzoni</author>
+<author pid="98/7475">Fabio Persia</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>Itinerary Planning with Category Constraints Using a Probabilistic Approach.</title>
+<pages>363-377</pages>
+<year>2017</year>
+<booktitle>DEXA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-64471-4_29</ee>
+<crossref>conf/dexa/2017-2</crossref>
+<url>db/conf/dexa/dexa2017-2.html#BolzoniPH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eics/PugacsHZ17" mdate="2023-03-10">
+<author pid="224/3158">Sergejs Pugacs</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="90/3147">Markus Zanker</author>
+<title>A Framework for Comparing Interactive Route Planning Apps in Tourism.</title>
+<pages>18-25</pages>
+<year>2017</year>
+<booktitle>EnCHIReS@EICS</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1945/paper_4.pdf</ee>
+<crossref>conf/eics/2017enchires</crossref>
+<url>db/conf/eics/enchires2017.html#PugacsHZ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jowo/HelmerGU17" mdate="2023-03-10">
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="213/4339">Gerhard Gl&#252;her</author>
+<author pid="213/4360">Christian Upmeier</author>
+<title>Show, Don't Tell: Retrieving Cultural Assets via Gestures.</title>
+<year>2017</year>
+<booktitle>JOWO</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2050/SHAPES_paper_3.pdf</ee>
+<crossref>conf/jowo/2017</crossref>
+<url>db/conf/jowo/jowo2017.html#HelmerGU17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semco/PersiaBH17" mdate="2023-03-23">
+<author pid="98/7475">Fabio Persia</author>
+<author pid="198/2053">Fabio Bettini</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>Labeling the Frames of a Video Stream with Interval Events.</title>
+<pages>204-211</pages>
+<year>2017</year>
+<booktitle>ICSC</booktitle>
+<ee>https://doi.org/10.1109/ICSC.2017.55</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICSC.2017.55</ee>
+<crossref>conf/semco/2017</crossref>
+<url>db/conf/semco/icsc2017.html#PersiaBH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/BolzoniH17" mdate="2017-08-14">
+<author pid="158/9272">Paolo Bolzoni</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>Hybrid Best-First Greedy Search for Orienteering with Category Constraints.</title>
+<pages>24-42</pages>
+<year>2017</year>
+<booktitle>SSTD</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-64367-0_2</ee>
+<crossref>conf/ssd/2017</crossref>
+<url>db/conf/ssd/sstd2017.html#BolzoniH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssd/PiatovH17" mdate="2017-08-14">
+<author pid="118/9925">Danila Piatov</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>Sweeping-Based Temporal Aggregation.</title>
+<pages>125-144</pages>
+<year>2017</year>
+<booktitle>SSTD</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-64367-0_7</ee>
+<crossref>conf/ssd/2017</crossref>
+<url>db/conf/ssd/sstd2017.html#PiatovH17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BolzoniH17" mdate="2018-08-13">
+<author pid="158/9272">Paolo Bolzoni</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>Solving Orienteering with Category Constraints Using Prioritized Search.</title>
+<year>2017</year>
+<volume>abs/1702.04304</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1702.04304</ee>
+<url>db/journals/corr/corr1702.html#BolzoniH17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-06815" mdate="2018-08-13">
+<author pid="71/5809">Pekka Abrahamsson</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="07/9660">Nattakarn Phaphoom</author>
+<author pid="28/7859">Lorenzo Nicolodi</author>
+<author pid="142/7763">Nick Preda</author>
+<author pid="142/7781">Lorenzo Miori</author>
+<author pid="142/7808">Matteo Angriman</author>
+<author pid="22/9662">Juha Rikkil&#228;</author>
+<author pid="99/2479-1">Xiaofeng Wang 0001</author>
+<author pid="142/7821">Karim Hamily</author>
+<author pid="142/7812">Sara Bugoloni</author>
+<title>Affordable and Energy-Efficient Cloud Computing Clusters: The Bolzano Raspberry Pi Cloud Cluster Experiment.</title>
+<year>2017</year>
+<volume>abs/1709.06815</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.06815</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-06815</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-00606" mdate="2018-08-13">
+<author pid="07/9660">Nattakarn Phaphoom</author>
+<author pid="99/2479-1">Xiaofeng Wang 0001</author>
+<author pid="161/7040">Sarah Samuel</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="71/5809">Pekka Abrahamsson</author>
+<title>A survey study on major technical barriers affecting the decision to adopt cloud services.</title>
+<year>2017</year>
+<volume>abs/1712.00606</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.00606</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-00606</url>
+</article>
+</r>
+<r><article key="journals/ijmdem/HelmerP16" mdate="2020-09-11">
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="98/7475">Fabio Persia</author>
+<title>ISEQL, an Interval-based Surveillance Event Query Language.</title>
+<pages>1-21</pages>
+<year>2016</year>
+<volume>7</volume>
+<journal>Int. J. Multim. Data Eng. Manag.</journal>
+<number>4</number>
+<ee>https://doi.org/10.4018/IJMDEM.2016100101</ee>
+<url>db/journals/ijmdem/ijmdem7.html#HelmerP16</url>
+</article>
+</r>
+<r><inproceedings key="conf/dev/HelmerPSMBCGMPS16" mdate="2018-11-14">
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="48/4069">Claus Pahl</author>
+<author pid="180/5398">Julian Sanin</author>
+<author pid="142/7781">Lorenzo Miori</author>
+<author pid="180/5354">Stefan Brocanelli</author>
+<author pid="180/5574">Filippo Cardano</author>
+<author pid="180/5555">Daniele Gadler</author>
+<author pid="180/5778">Daniel Morandini</author>
+<author pid="180/5434">Alessandro Piccoli</author>
+<author pid="180/5782">Saifur Salam</author>
+<author pid="180/5891">Alam Mahabub Sharear</author>
+<author pid="151/6063">Angelo Ventura</author>
+<author orcid="0000-0002-4360-2226" pid="71/5809">Pekka Abrahamsson</author>
+<author pid="55/8572">Tosin Daniel Oyetoyan</author>
+<title>Bringing the Cloud to Rural and Remote Areas via Cloudlets.</title>
+<pages>14:1-14:10</pages>
+<year>2016</year>
+<booktitle>ACM DEV</booktitle>
+<ee>https://doi.org/10.1145/3001913.3001918</ee>
+<ee>https://www.wikidata.org/entity/Q57727282</ee>
+<crossref>conf/dev/2016</crossref>
+<url>db/conf/dev/dev2016.html#HelmerPSMBCGMPS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ficloud/PahlHMSL16" mdate="2023-03-24">
+<author pid="48/4069">Claus Pahl</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="142/7781">Lorenzo Miori</author>
+<author pid="180/5398">Julian Sanin</author>
+<author orcid="0000-0002-8475-4074" pid="42/5859-1">Brian Lee 0001</author>
+<title>A Container-Based Edge Cloud PaaS Architecture Based on Raspberry Pi Clusters.</title>
+<pages>117-124</pages>
+<year>2016</year>
+<booktitle>FiCloud Workshops</booktitle>
+<ee>https://doi.org/10.1109/W-FiCloud.2016.36</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/W-FiCloud.2016.36</ee>
+<ee>https://www.wikidata.org/entity/Q57985597</ee>
+<crossref>conf/ficloud/2016w</crossref>
+<url>db/conf/ficloud/ficloud2016w.html#PahlHMSL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/PiatovHD16" mdate="2023-03-24">
+<author pid="118/9925">Danila Piatov</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<title>An interval join optimized for modern hardware.</title>
+<pages>1098-1109</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498316</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498316</ee>
+<ee>https://www.wikidata.org/entity/Q57985601</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#PiatovHD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iri/PersiaH16" mdate="2023-03-23">
+<author pid="98/7475">Fabio Persia</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<title>An Event Detection Framework Supported by a Smart Graphical User Interface.</title>
+<pages>490-495</pages>
+<year>2016</year>
+<booktitle>IRI</booktitle>
+<ee>https://doi.org/10.1109/IRI.2016.72</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IRI.2016.72</ee>
+<ee>https://www.wikidata.org/entity/Q57985598</ee>
+<crossref>conf/iri/2016</crossref>
+<url>db/conf/iri/iri2016.html#PersiaH16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sebd/HelmerP16" mdate="2016-09-12">
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="98/7475">Fabio Persia</author>
+<title>An Interval-based Query Language for High-level Surveillance Event Detection.</title>
+<pages>126-133</pages>
+<year>2016</year>
+<booktitle>SEBD</booktitle>
+<crossref>conf/sebd/2016</crossref>
+<url>db/conf/sebd/sebd2016.html#HelmerP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semco/HelmerP16" mdate="2023-03-23">
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="98/7475">Fabio Persia</author>
+<title>High-Level Surveillance Event Detection Using an Interval-Based Query Language.</title>
+<pages>39-46</pages>
+<year>2016</year>
+<booktitle>ICSC</booktitle>
+<ee>https://doi.org/10.1109/ICSC.2016.19</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICSC.2016.19</ee>
+<ee>https://www.wikidata.org/entity/Q57985603</ee>
+<crossref>conf/semco/2016</crossref>
+<url>db/conf/semco/icsc2016.html#HelmerP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/KunkelRSHBL16" mdate="2018-11-14">
+<author pid="147/1209">Anja Kunkel</author>
+<author pid="52/8234">Astrid Rheinl&#228;nder</author>
+<author pid="182/7042">Christopher Schiefer</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author orcid="0000-0002-8846-4330" pid="38/4801">Panagiotis Bouros</author>
+<author pid="l/UlfLeser">Ulf Leser</author>
+<title>PIEJoin: Towards Parallel Set Containment Joins.</title>
+<pages>11:1-11:12</pages>
+<year>2016</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1145/2949689.2949694</ee>
+<ee>https://www.wikidata.org/entity/Q57985606</ee>
+<crossref>conf/ssdbm/2016</crossref>
+<url>db/conf/ssdbm/ssdbm2016.html#KunkelRSHBL16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/AbrahamssonHOBC16" mdate="2018-08-13">
+<author pid="71/5809">Pekka Abrahamsson</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="55/8572">Tosin Daniel Oyetoyan</author>
+<author pid="180/5354">Stefan Brocanelli</author>
+<author pid="180/5574">Filippo Cardano</author>
+<author pid="180/5555">Daniele Gadler</author>
+<author pid="180/5778">Daniel Morandini</author>
+<author pid="180/5434">Alessandro Piccoli</author>
+<author pid="180/5782">Saifur Salam</author>
+<author pid="180/5398">Julian Sanin</author>
+<author pid="180/5891">Alam Mahabub Shahrear</author>
+<author pid="151/6063">Angelo Ventura</author>
+<title>Bringing the Cloud to Rural and Remote Areas - Cloudlet by Cloudlet.</title>
+<year>2016</year>
+<volume>abs/1605.03622</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1605.03622</ee>
+<url>db/journals/corr/corr1605.html#AbrahamssonHOBC16</url>
+</article>
+</r>
+<r><article key="journals/jocch/BrownlowCHMNP15" mdate="2022-10-02">
+<author orcid="0000-0001-5205-7058" pid="142/8765">Richard Brownlow</author>
+<author pid="139/1409">Stefano Capuzzi</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="160/1820">Luciana Martins</author>
+<author pid="85/3819">Immanuel Normann</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>An Ontological Approach to Creating an Andean Weaving Knowledge Base.</title>
+<pages>11:1-11:31</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>ACM Journal on Computing and Cultural Heritage</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2700427</ee>
+<ee>https://www.wikidata.org/entity/Q57985610</ee>
+<url>db/journals/jocch/jocch8.html#BrownlowCHMNP15</url>
+</article>
+</r>
+<r><article key="journals/jss/PhaphoomWSHA15" mdate="2020-02-24">
+<author pid="07/9660">Nattakarn Phaphoom</author>
+<author orcid="0000-0001-8424-419X" pid="99/2479-1">Xiaofeng Wang 0001</author>
+<author pid="161/7040">Sarah Samuel</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author orcid="0000-0002-4360-2226" pid="71/5809">Pekka Abrahamsson</author>
+<title>A survey study on major technical barriers affecting the decision to adopt cloud services.</title>
+<pages>167-181</pages>
+<year>2015</year>
+<volume>103</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2015.02.002</ee>
+<ee>https://www.wikidata.org/entity/Q57727323</ee>
+<url>db/journals/jss/jss103.html#PhaphoomWSHA15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/AlyoubiHW15" mdate="2019-09-04">
+<author pid="229/4150">Khaled Hamed Alyoubi</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Ordering Selection Operators Under Partial Ignorance.</title>
+<pages>1521-1530</pages>
+<year>2015</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2806416.2806446</ee>
+<ee>https://www.wikidata.org/entity/Q57985613</ee>
+<crossref>conf/cikm/2015</crossref>
+<url>db/conf/cikm/cikm2015.html#AlyoubiHW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/HelmerN15" mdate="2020-10-25">
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author orcid="0000-0002-8793-0504" pid="17/1083">Vuong Minh Ngo</author>
+<title>A Similarity Measure for Weaving Patterns in Textiles.</title>
+<pages>163-172</pages>
+<year>2015</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2766462.2767735</ee>
+<ee>https://www.wikidata.org/entity/Q57985607</ee>
+<crossref>conf/sigir/2015</crossref>
+<url>db/conf/sigir/sigir2015.html#HelmerN15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/AlyoubiHW15" mdate="2019-09-04">
+<author pid="229/4150">Khaled Hamed Alyoubi</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Ordering Selection Operators Using the Minmax Regret Rule.</title>
+<year>2015</year>
+<volume>abs/1507.08257</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1507.08257</ee>
+<url>db/journals/corr/corr1507.html#AlyoubiHW15</url>
+</article>
+</r>
+<r><inproceedings key="conf/gis/BolzoniHWGA14" mdate="2020-06-15">
+<author pid="158/9272">Paolo Bolzoni</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="156/1683">Kevin Wellenzohn</author>
+<author orcid="0000-0002-7128-507X" pid="59/6952">Johann Gamper</author>
+<author pid="52/1486">Periklis Andritsos</author>
+<title>Efficient itinerary planning with category constraints.</title>
+<pages>203-212</pages>
+<year>2014</year>
+<booktitle>SIGSPATIAL/GIS</booktitle>
+<ee>https://doi.org/10.1145/2666310.2666411</ee>
+<ee>https://www.wikidata.org/entity/Q57985615</ee>
+<crossref>conf/gis/2014</crossref>
+<url>db/conf/gis/gis2014.html#BolzoniHWGA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ida/JaberPHW14" mdate="2021-08-28">
+<author pid="205/3672">Mohammad Tareq Jaber</author>
+<author pid="59/3814">Panagiotis Papapetrou</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Using Time-Sensitive Rooted PageRank to Detect Hierarchical Social Relationships.</title>
+<pages>143-154</pages>
+<year>2014</year>
+<booktitle>IDA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-12571-8_13</ee>
+<crossref>conf/ida/2014</crossref>
+<url>db/conf/ida/ida2014.html#JaberPHW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/JaberWPH14" mdate="2021-08-28">
+<author pid="205/3672">Mohammad Tareq Jaber</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<author pid="59/3814">Panagiotis Papapetrou</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>Inferring offline hierarchical ties from online social networks.</title>
+<pages>1261-1266</pages>
+<year>2014</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2567948.2580070</ee>
+<crossref>conf/www/2014c</crossref>
+<url>db/conf/www/www2014c.html#JaberWPH14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloudcom/AbrahamssonHPNPMARWHB13" mdate="2023-03-24">
+<author orcid="0000-0002-4360-2226" pid="71/5809">Pekka Abrahamsson</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="07/9660">Nattakarn Phaphoom</author>
+<author pid="28/7859">Lorenzo Nicolodi</author>
+<author pid="142/7763">Nick Preda</author>
+<author pid="142/7781">Lorenzo Miori</author>
+<author pid="142/7808">Matteo Angriman</author>
+<author pid="22/9662">Juha Rikkil&#228;</author>
+<author orcid="0000-0001-8424-419X" pid="99/2479-1">Xiaofeng Wang 0001</author>
+<author pid="142/7821">Karim Hamily</author>
+<author pid="142/7812">Sara Bugoloni</author>
+<title>Affordable and Energy-Efficient Cloud Computing Clusters: The Bolzano Raspberry Pi Cloud Cluster Experiment.</title>
+<pages>170-175</pages>
+<year>2013</year>
+<booktitle>CloudCom (2)</booktitle>
+<ee>https://doi.org/10.1109/CloudCom.2013.121</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CloudCom.2013.121</ee>
+<ee>https://www.wikidata.org/entity/Q57727418</ee>
+<crossref>conf/cloudcom/2013-2</crossref>
+<url>db/conf/cloudcom/cloudcom2013-2.html#AbrahamssonHPNPMARWHB13</url>
+</inproceedings>
+</r>
+<r><article key="journals/fss/BarrancoH12" mdate="2020-02-19">
+<author orcid="0000-0001-8806-900X" pid="63/6720">Carlos D. Barranco</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<title>An impact ordering approach for indexing fuzzy sets.</title>
+<pages>33-46</pages>
+<year>2012</year>
+<volume>196</volume>
+<journal>Fuzzy Sets Syst.</journal>
+<ee>https://doi.org/10.1016/j.fss.2011.01.014</ee>
+<ee>https://www.wikidata.org/entity/Q57985621</ee>
+<url>db/journals/fss/fss196.html#BarrancoH12</url>
+</article>
+</r>
+<r><article key="journals/jdwm/GaraniH12" mdate="2023-03-21">
+<author orcid="0000-0003-1892-4183" pid="67/5176">Georgia Garani</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<title>Integrating Star and Snowflake Schemas in Data Warehouses.</title>
+<pages>22-40</pages>
+<year>2012</year>
+<volume>8</volume>
+<journal>Int. J. Data Warehous. Min.</journal>
+<number>4</number>
+<ee>https://doi.org/10.4018/jdwm.2012100102</ee>
+<ee>https://www.wikidata.org/entity/Q57985624</ee>
+<url>db/journals/jdwm/ijdwm8.html#GaraniH12</url>
+</article>
+</r>
+<r><article key="journals/vldb/HelmerAB12" mdate="2020-10-26">
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author orcid="0000-0002-3036-6201" pid="76/3961">Nikolaus Augsten</author>
+<author orcid="0000-0003-3694-9026" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</author>
+<title>Measuring structural similarity of semistructured data based on information-theoretic approaches.</title>
+<pages>677-702</pages>
+<year>2012</year>
+<volume>21</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-012-0263-0</ee>
+<ee>https://www.wikidata.org/entity/Q57985626</ee>
+<url>db/journals/vldb/vldb21.html#HelmerAB12</url>
+</article>
+</r>
+<r><article key="journals/ijthi/McDonaldH11" mdate="2020-08-25">
+<author pid="93/891-2">Andrew McDonald 0002</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<title>A Comparative Case Study of Indonesian and UK Organisational Culture Differences in IS Project Management.</title>
+<pages>28-37</pages>
+<year>2011</year>
+<volume>7</volume>
+<journal>Int. J. Technol. Hum. Interact.</journal>
+<number>2</number>
+<ee>https://doi.org/10.4018/jthi.2011040104</ee>
+<ee>https://www.wikidata.org/entity/Q57985631</ee>
+<url>db/journals/ijthi/ijthi7.html#McDonaldH11</url>
+</article>
+</r>
+<r><inproceedings key="conf/bncod/ArnoldHA09" mdate="2018-11-14">
+<author pid="17/7127">Denise Y. Arnold</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="56/7127">Rodolfo Vel&#225;squez Arando</author>
+<title>Towards Building a Knowledge Base for Research on Andean Weaving.</title>
+<pages>180-188</pages>
+<year>2009</year>
+<booktitle>BNCOD</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02843-4_18</ee>
+<ee>https://www.wikidata.org/entity/Q57985639</ee>
+<crossref>conf/bncod/2009</crossref>
+<url>db/conf/bncod/bncod2009.html#ArnoldHA09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/LitakH09" mdate="2020-06-15">
+<author orcid="0000-0003-2240-3161" pid="81/3169">Tadeusz Litak</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<title>On the Termination Problem for Declarative XML Message Processing.</title>
+<pages>83-97</pages>
+<year>2009</year>
+<booktitle>DEXA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-03573-9_7</ee>
+<ee>https://www.wikidata.org/entity/Q57985636</ee>
+<crossref>conf/dexa/2009</crossref>
+<url>db/conf/dexa/dexa2009.html#LitakH09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eusflat/BarrancoH09" mdate="2020-06-04">
+<author pid="63/6720">Carlos D. Barranco</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>Increasing the Performance of Fuzzy Retrieval Using Impact Ordering.</title>
+<pages>957-962</pages>
+<year>2009</year>
+<booktitle>IFSA/EUSFLAT Conf.</booktitle>
+<ee type="archive">http://www.eusflat.org/proceedings/IFSA-EUSFLAT_2009/pdf/tema_0957.pdf</ee>
+<crossref>conf/eusflat/2009</crossref>
+<url>db/conf/eusflat/eusflat2009.html#BarrancoH09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dcoss/GuittonTH08" mdate="2018-11-14">
+<author pid="81/6619">Alexandre Guitton</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<title>Fault-Tolerant Compression Algorithms for Delay-Sensitive Sensor Networks with Unreliable Links.</title>
+<pages>190-203</pages>
+<year>2008</year>
+<booktitle>DCOSS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-69170-9_13</ee>
+<ee>https://www.wikidata.org/entity/Q57985641</ee>
+<crossref>conf/dcoss/2008</crossref>
+<url>db/conf/dcoss/dcoss2008.html#GuittonTH08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/HelmerANM07" mdate="2018-11-02">
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author orcid="0000-0002-6787-0911" pid="14/1179">Robin Aly</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Indexing Set-Valued Attributes with a Multi-level Extendible Hashing Scheme.</title>
+<pages>98-108</pages>
+<year>2007</year>
+<crossref>conf/dexa/2007</crossref>
+<booktitle>DEXA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74469-6_11</ee>
+<url>db/conf/dexa/dexa2007.html#HelmerANM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifsa/Helmer07" mdate="2017-05-26">
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>An Interval-Based Index Structure for Structure Elucidation in Chemical Databases.</title>
+<pages>625-634</pages>
+<year>2007</year>
+<crossref>conf/ifsa/2007</crossref>
+<booktitle>IFSA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-72950-1_62</ee>
+<url>db/conf/ifsa/ifsa2007.html#Helmer07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/Helmer07" mdate="2020-03-12">
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>Measuring the Structural Similarity of Semistructured Documents Using Entropy.</title>
+<pages>1022-1032</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/research/p1022-helmer.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#Helmer07</url>
+</inproceedings>
+</r>
+<r><article key="journals/tods/MayHM06" mdate="2019-06-02">
+<author pid="89/6071">Norman May</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Strategies for query unnesting in XML databases.</title>
+<pages>968-1013</pages>
+<year>2006</year>
+<volume>31</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1166074.1166081</ee>
+<ee>https://www.wikidata.org/entity/Q57985654</ee>
+<url>db/journals/tods/tods31.html#MayHM06</url>
+</article>
+</r>
+<r><inproceedings key="conf/bncod/NeumannHM06" mdate="2018-11-02">
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>On the Optimal Ordering of Maps, Selections, and Joins Under Factorization.</title>
+<pages>115-126</pages>
+<year>2006</year>
+<crossref>conf/bncod/2006</crossref>
+<booktitle>BNCOD</booktitle>
+<ee>https://doi.org/10.1007/11788911_10</ee>
+<url>db/conf/bncod/bncod2006.html#NeumannHM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BrantnerKMH06" mdate="2023-03-24">
+<author pid="82/1740">Matthias Brantner</author>
+<author pid="k/CarlChristianKanne">Carl-Christian Kanne</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<title>Algebraic Optimization of Nested XPath Expressions.</title>
+<pages>128</pages>
+<year>2006</year>
+<crossref>conf/icde/2006</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2006.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2006.15</ee>
+<ee>https://www.wikidata.org/entity/Q57985649</ee>
+<url>db/conf/icde/icde2006.html#BrantnerKMH06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/xsym/BrantnerHKM06" mdate="2017-05-17">
+<author pid="82/1740">Matthias Brantner</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="k/CarlChristianKanne">Carl-Christian Kanne</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Kappa-Join: Efficient Execution of Existential Quantification in XML Query Languages.</title>
+<pages>1-15</pages>
+<year>2006</year>
+<crossref>conf/xsym/2006</crossref>
+<booktitle>XSym</booktitle>
+<ee>https://doi.org/10.1007/11841920_1</ee>
+<url>db/conf/xsym/xsym2006.html#BrantnerHKM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/PavlovHM05" mdate="2017-05-26">
+<author pid="09/3410">Aleksei Pavlov</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>A Model-Based Monitoring and Diagnosis System for a Space-Based Astrometry Mission.</title>
+<pages>920-929</pages>
+<year>2005</year>
+<crossref>conf/dexa/2005</crossref>
+<booktitle>DEXA</booktitle>
+<ee>https://doi.org/10.1007/11546924_90</ee>
+<url>db/conf/dexa/dexa2005.html#PavlovHM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/NeumannHM05" mdate="2023-03-23">
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>On the Optimal Ordering of Maps and Selections under Factorization.</title>
+<year>2005</year>
+<crossref>conf/icde/2005</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2005.html#NeumannHM05</url>
+<pages>490-501</pages>
+<ee>https://doi.org/10.1109/ICDE.2005.97</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2005.97</ee>
+<ee>https://www.wikidata.org/entity/Q57985662</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BrantnerHKM05" mdate="2023-03-24">
+<author pid="82/1740">Matthias Brantner</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="k/CarlChristianKanne">Carl-Christian Kanne</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Full-fledged Algebraic XPath Processing in Natix.</title>
+<year>2005</year>
+<crossref>conf/icde/2005</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2005.html#BrantnerHKM05</url>
+<pages>705-716</pages>
+<ee>https://doi.org/10.1109/ICDE.2005.69</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2005.69</ee>
+<ee>https://www.wikidata.org/entity/Q57985659</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vl/AmaralHM05" mdate="2023-03-23">
+<author orcid="0000-0003-3791-5151" pid="44/2600">Vasco Amaral 0001</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Formally Specifying the Syntax and Semantics of a Visual Query Language for the Domain of High Energy Physics Data Analysis.</title>
+<pages>251-258</pages>
+<year>2005</year>
+<crossref>conf/vl/2005</crossref>
+<booktitle>VL/HCC</booktitle>
+<ee>https://doi.org/10.1109/VLHCC.2005.38</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/VLHCC.2005.38</ee>
+<ee>https://www.wikidata.org/entity/Q57985657</ee>
+<url>db/conf/vl/vlhcc2005.html#AmaralHM05</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/HelmerKM04" mdate="2020-03-06">
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="k/CarlChristianKanne">Carl-Christian Kanne</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Evaluating lock-based protocols for cooperation on XML documents.</title>
+<pages>58-63</pages>
+<year>2004</year>
+<volume>33</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/974121.974132</ee>
+<ee>https://www.wikidata.org/entity/Q57985667</ee>
+<url>db/journals/sigmod/sigmod33.html#HelmerKM04</url>
+</article>
+</r>
+<r><inproceedings key="conf/dexa/HelmerKM04" mdate="2017-05-26">
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="k/CarlChristianKanne">Carl-Christian Kanne</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Timestamp-Based Protocols for Synchronizing Access on XML Documents.</title>
+<pages>591-600</pages>
+<ee>https://doi.org/10.1007/978-3-540-30075-5_57</ee>
+<year>2004</year>
+<crossref>conf/dexa/2004</crossref>
+<booktitle>DEXA</booktitle>
+<url>db/conf/dexa/dexa2004.html#HelmerKM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fqas/AmaralHM04" mdate="2021-04-26">
+<author pid="44/2600">Vasco Amaral 0001</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>PHEASANT: A PHysicist's EAsy ANalysis Tool.</title>
+<pages>229-242</pages>
+<ee>https://doi.org/10.1007/978-3-540-25957-2_19</ee>
+<year>2004</year>
+<crossref>conf/fqas/2004</crossref>
+<booktitle>FQAS</booktitle>
+<url>db/conf/fqas/fqas2004.html#AmaralHM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/MayHM04" mdate="2023-03-24">
+<author pid="89/6071">Norman May</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Nested Queries and Quantifiers in an Ordered Context.</title>
+<pages>239-250</pages>
+<year>2004</year>
+<crossref>conf/icde/2004</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2004.1320001</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2004.1320001</ee>
+<ee>https://www.wikidata.org/entity/Q57985668</ee>
+<url>db/conf/icde/icde2004.html#MayHM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ximep/MayHKM04" mdate="2004-06-24">
+<author pid="89/6071">Norman May</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="k/CarlChristianKanne">Carl-Christian Kanne</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>XQuery Processing in Natix with an Emphasis on Join Ordering.</title>
+<pages>49-54</pages>
+<year>2004</year>
+<crossref>conf/ximep/2004</crossref>
+<booktitle>XIME-P</booktitle>
+<url>db/conf/ximep/ximep2004.html#MayHKM04</url>
+</inproceedings>
+</r>
+<r><article key="journals/fss/Helmer03" mdate="2020-02-19">
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<title>Evaluating different approaches for indexing fuzzy sets.</title>
+<pages>167-182</pages>
+<year>2003</year>
+<volume>140</volume>
+<journal>Fuzzy Sets Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/S0165-0114(03)00033-2</ee>
+<ee>https://www.wikidata.org/entity/Q57985678</ee>
+<url>db/journals/fss/fss140.html#Helmer03</url>
+</article>
+</r>
+<r><article key="journals/fss/Helmer03a" mdate="2020-02-19">
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>Book Review: "Recent issues on fuzzy databases" by G. Bordogna and G. Pasi (Eds.); Physica Verlag, Wurzburg, 2000, 236pp., ISBN: 3-7908-1319-2.</title>
+<pages>229-230</pages>
+<year>2003</year>
+<volume>140</volume>
+<journal>Fuzzy Sets Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/S0165-0114(03)00036-8</ee>
+<url>db/journals/fss/fss140.html#Helmer03a</url>
+</article>
+</r>
+<r><article key="journals/it/HelmerKM03" mdate="2023-08-28">
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="k/CarlChristianKanne">Carl-Christian Kanne</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>XML-Datenbanksysteme und ihre Anwendung.</title>
+<pages>137-142</pages>
+<year>2003</year>
+<volume>45</volume>
+<journal>it Inf. Technol.</journal>
+<number>3</number>
+<url>db/journals/it/it45.html#HelmerKM03</url>
+<ee>https://doi.org/10.1524/itit.45.3.137.20205</ee>
+<ee>https://www.wikidata.org/entity/Q115722198</ee>
+</article>
+</r>
+<r><article key="journals/vldb/HelmerM03" mdate="2018-11-14">
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>A performance study of four index structures for set-valued attributes of low cardinality.</title>
+<pages>244-261</pages>
+<year>2003</year>
+<volume>12</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00778-003-0106-0</ee>
+<ee>https://www.wikidata.org/entity/Q57985672</ee>
+<url>db/journals/vldb/vldb12.html#HelmerM03</url>
+</article>
+</r>
+<r><inproceedings key="conf/dexaw/HelmerKM03" mdate="2023-03-24">
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="k/CarlChristianKanne">Carl-Christian Kanne</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Lock-based Protocols for Cooperation on XML Documents.</title>
+<pages>230-234</pages>
+<year>2003</year>
+<crossref>conf/dexaw/2003</crossref>
+<booktitle>DEXA Workshops</booktitle>
+<ee>https://doi.org/10.1109/DEXA.2003.1232028</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DEXA.2003.1232028</ee>
+<ee>https://www.wikidata.org/entity/Q57985680</ee>
+<url>db/conf/dexaw/dexaw2003.html#HelmerKM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscis/HelmerNM03" mdate="2018-11-02">
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author orcid="0000-0001-5787-142X" pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>A Robust Scheme for Multilevel Extendible Hashing.</title>
+<pages>220-227</pages>
+<ee>https://doi.org/10.1007/978-3-540-39737-3_28</ee>
+<year>2003</year>
+<crossref>conf/iscis/2003</crossref>
+<booktitle>ISCIS</booktitle>
+<url>db/conf/iscis/iscis2003.html#HelmerNM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/HelmerNM03" mdate="2020-03-12">
+<ee type="oa">http://www.vldb.org/conf/2003/papers/S20P02.pdf</ee>
+<ee>https://doi.org/10.1016/B978-012722442-8/50064-1</ee>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="n/ThomasNeumann">Thomas Neumann 0001</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Estimating the Output Cardinality of Partial Preaggregation with a Measure of Clusteredness.</title>
+<year>2003</year>
+<crossref>conf/vldb/2003</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2003.html#HelmerNM03</url>
+<pages>656-667</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/MayHM03" mdate="2023-03-24">
+<author pid="89/6071">Norman May</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Quantifiers in XQuery.</title>
+<pages>313-316</pages>
+<year>2003</year>
+<crossref>conf/wise/2003</crossref>
+<booktitle>WISE</booktitle>
+<ee>https://doi.org/10.1109/WISE.2003.1254501</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WISE.2003.1254501</ee>
+<ee>https://www.wikidata.org/entity/Q57985685</ee>
+<url>db/conf/wise/wise2003.html#MayHM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/xsym/MayHM03" mdate="2017-05-17">
+<author pid="89/6071">Norman May</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Three Cases for Query Decorrelation in XQuery.</title>
+<pages>70-84</pages>
+<ee>https://doi.org/10.1007/978-3-540-39429-7_5</ee>
+<year>2003</year>
+<crossref>conf/xsym/2003</crossref>
+<booktitle>Xsym</booktitle>
+<url>db/conf/xsym/xsym2003.html#MayHM03</url>
+</inproceedings>
+</r>
+<r><incollection key="books/dp/rahm2003/HelmerM03" mdate="2003-09-15">
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Indexstrukturen f&#252;r XML.</title>
+<pages>217-250</pages>
+<year>2003</year>
+<booktitle>Web &amp; Datenbanken</booktitle>
+<url>db/books/collections/RahmV03.html#HelmerM03</url>
+<crossref>books/dp/RahmV03</crossref>
+</incollection>
+</r>
+<r><article key="journals/vldb/FiebigHKMNSW02" mdate="2018-11-14">
+<author pid="66/4810">Thorsten Fiebig</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="k/CarlChristianKanne">Carl-Christian Kanne</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<author pid="06/2875">Julia Neumann</author>
+<author pid="59/5308">Robert Schiele</author>
+<author pid="28/6679">Till Westmann</author>
+<title>Anatomy of a native XML base management system.</title>
+<pages>292-314</pages>
+<year>2002</year>
+<volume>11</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00778-002-0080-y</ee>
+<ee>https://www.wikidata.org/entity/Q57985689</ee>
+<url>db/journals/vldb/vldb11.html#FiebigHKMNSW02</url>
+</article>
+</r>
+<r><inproceedings key="conf/jit/FiebigHKMNSW02" mdate="2017-05-26">
+<author pid="66/4810">Thorsten Fiebig</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="k/CarlChristianKanne">Carl-Christian Kanne</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<author pid="06/2875">Julia Neumann</author>
+<author pid="59/5308">Robert Schiele</author>
+<author pid="28/6679">Till Westmann</author>
+<title>Natix: A Technology Overview.</title>
+<pages>12-33</pages>
+<year>2002</year>
+<crossref>conf/jit/2002</crossref>
+<booktitle>Web, Web-Services, and Database Systems</booktitle>
+<ee>https://doi.org/10.1007/3-540-36560-5_2</ee>
+<url>db/conf/jit/webdb2002.html#FiebigHKMNSW02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/HelmerKM02" mdate="2023-03-24">
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="k/CarlChristianKanne">Carl-Christian Kanne</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Optimized Translation of XPath into Algebraic Expressions Parameterized by Programs Containing Navigational Primitives.</title>
+<pages>215-224</pages>
+<year>2002</year>
+<crossref>conf/wise/2002-1</crossref>
+<booktitle>WISE</booktitle>
+<ee>https://doi.org/10.1109/WISE.2002.1181658</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WISE.2002.1181658</ee>
+<ee>https://www.wikidata.org/entity/Q57985692</ee>
+<url>db/conf/wise/wise2002-1.html#HelmerKM02</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/dnb/Helmer00" mdate="2021-07-17">
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>Performance enhancements for advanced database management systems.</title>
+<year>2000</year>
+<pages>1-147</pages>
+<school>University of Mannheim, Germany</school>
+<ee>http://bibserv7.bib.uni-mannheim.de/madoc/volltexte/2001/26</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:bsz:180-madoc-268</ee>
+<ee>https://d-nb.info/961084790</ee>
+<ee>https://d-nb.info/963297708</ee>
+</phdthesis>
+</r>
+<r><article key="journals/sigmod/WestmannKHM00" mdate="2020-03-06">
+<ee>https://doi.org/10.1145/362084.362137</ee>
+<author pid="28/6679">Till Westmann</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>The Implementation and Performance of Compressed Databases.</title>
+<pages>55-67</pages>
+<cdrom>sigmodR/29-3/P055.pdf</cdrom>
+<year>2000</year>
+<volume>29</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<url>db/journals/sigmod/sigmod29.html#WestmannKHM00</url>
+<cite label="AG94">...</cite>
+<cite label="ALM96">conf/icde/AntoshenkovLM96</cite>
+<cite label="BCE76">...</cite>
+<cite label="CK98">conf/vldb/CareyK98</cite>
+<cite label="Com79">journals/csur/Comer79</cite>
+<cite label="Cor85">journals/cacm/Cormack85</cite>
+<cite label="CS94">conf/vldb/ChaudhuriS94</cite>
+<cite label="FG89">journals/tods/FreytagG89</cite>
+<cite label="GO95">journals/sigmod/ONeilG95</cite>
+<cite label="GR93">books/mk/GrayR93</cite>
+<cite label="Gra93">journals/csur/Graefe93</cite>
+<cite label="GRS98">conf/icde/GoldsteinRS98</cite>
+<cite label="GS91">...</cite>
+<cite label="HCLS97">journals/vldb/HaasCLS97</cite>
+<cite label="HR96">journals/vldb/HarrisR96</cite>
+<cite label="Huf52">...</cite>
+<cite label="IW94">conf/vldb/IyerW94</cite>
+<cite label="LW79">...</cite>
+<cite label="MZ92">conf/sigir/MoffatZ92</cite>
+<cite label="NR95">conf/icde/NgR95</cite>
+<cite label="Pal74">...</cite>
+<cite label="RH93">journals/sigmod/RothH93</cite>
+<cite label="RHS95">conf/comad/RayHS95</cite>
+<cite label="Sev83">journals/is/Severance83</cite>
+<cite label="SNG93">...</cite>
+<cite label="TPC95">...</cite>
+<cite label="VLD94">conf/vldb/94</cite>
+<cite label="Wag73">journals/ibmsj/Wagner73</cite>
+<cite label="Wel84">journals/computer/Welch84</cite>
+<cite label="WNC87">journals/cacm/WittenNC87</cite>
+<cite label="YL94">conf/icde/YanL94</cite>
+</article>
+</r>
+<r><article key="journals/fss/BossH99" mdate="2020-02-19">
+<author pid="55/5325">Birgit Boss</author>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<title>Index structures for efficiently accessing fuzzy data including cost models and measurements.</title>
+<pages>11-37</pages>
+<year>1999</year>
+<volume>108</volume>
+<journal>Fuzzy Sets Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/S0165-0114(97)00316-3</ee>
+<url>db/journals/fss/fss108.html#BossH99</url>
+</article>
+</r>
+<r><inproceedings key="conf/vldb/HelmerWM98" mdate="2020-03-12">
+<crossref>conf/vldb/98</crossref>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="28/6679">Till Westmann</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Diag-Join: An Opportunistic Join Algorithm for 1:N Relationships.</title>
+<pages>98-109</pages>
+<year>1998</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb98.html#HelmerWM98</url>
+<ee type="oa">http://www.vldb.org/conf/1998/p098.pdf</ee>
+<cite>...</cite>
+<cite>conf/vldb/Bratbergsengen84</cite>
+<cite>conf/vldb/DeWittG85</cite>
+<cite>conf/sigmod/DeWittKOSSW84</cite>
+<cite>conf/pdis/DeWittNS91</cite>
+<cite>conf/vldb/FushimiKT86</cite>
+<cite>...</cite>
+<cite>conf/icde/Graefe94</cite>
+<cite>journals/tkde/GraefeLS94</cite>
+<cite>journals/vldb/HaasCLS97</cite>
+<cite>journals/tods/Harder78</cite>
+<cite>journals/vldb/HarrisR96</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/vldb/KilgerM94</cite>
+<cite>books/aw/kimL89/KimKD89</cite>
+<cite>books/wi/Kimball96</cite>
+<cite>conf/vldb/KitsuregawaNT89</cite>
+<cite>conf/vldb/LorieY89</cite>
+<cite>conf/vldb/Menon86</cite>
+<cite>journals/csur/MishraE92</cite>
+<cite>conf/vldb/NakayamaK88</cite>
+<cite>journals/sigmod/ONeilG95</cite>
+<cite>conf/sigmod/SalzbergTGSUV90</cite>
+<cite>conf/vldb/SchneiderD90</cite>
+<cite>journals/tods/Shapiro86</cite>
+<cite>journals/sigmod/ShinM94</cite>
+<cite>...</cite>
+<cite>journals/tods/Valduriez87</cite>
+<cite>conf/vldb/XieH94</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/HelmerM97" mdate="2012-09-17">
+<crossref>conf/vldb/97</crossref>
+<author pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Evaluation of Main Memory Join Algorithms for Joins with Set Comparison Join Predicates.</title>
+<pages>386-395</pages>
+<year>1997</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb97.html#HelmerM97</url>
+<ee>http://www.vldb.org/conf/1997/P386.PDF</ee>
+<cite>...</cite>
+<cite>conf/vldb/Bratbergsengen84</cite>
+<cite>conf/sigmod/BrinkhoffKS93</cite>
+<cite>books/mk/Cattell96</cite>
+<cite>conf/dbpl/CluetM95</cite>
+<cite>conf/vldb/DeWittG85</cite>
+<cite>conf/sigmod/DeWittKOSSW84</cite>
+<cite>conf/pdis/DeWittLM93</cite>
+<cite>conf/vldb/DeWittNS91</cite>
+<cite>conf/pdis/DeWittNS91</cite>
+<cite>journals/tois/FaloutsosC84</cite>
+<cite>conf/vldb/FushimiKT86</cite>
+<cite>conf/icde/Graefe94</cite>
+<cite>journals/tkde/GraefeLS94</cite>
+<cite>conf/icde/Gunther93</cite>
+<cite>journals/tods/Harder78</cite>
+<cite>...</cite>
+<cite>conf/vldb/HoelS95</cite>
+<cite>conf/sigmod/IshikawaKO93</cite>
+<cite>...</cite>
+<cite>conf/vldb/KilgerM94</cite>
+<cite>books/aw/kimL89/KimKD89</cite>
+<cite>conf/vldb/KitsuregawaNT89</cite>
+<cite>conf/sigmod/LoR96</cite>
+<cite>conf/vldb/LorieY89</cite>
+<cite>conf/vldb/Menon86</cite>
+<cite>journals/csur/MishraE92</cite>
+<cite>conf/vldb/NakayamaK88</cite>
+<cite>journals/sigmod/ONeilG95</cite>
+<cite>conf/sigmod/PatelD96</cite>
+<cite>journals/pieee/Roberts79</cite>
+<cite>journals/tods/RothKS88</cite>
+<cite>journals/is/Sacks-DavisR83</cite>
+<cite>conf/sigmod/SalzbergTGSUV90</cite>
+<cite>journals/is/SchekS86</cite>
+<cite>conf/vldb/SchneiderD90</cite>
+<cite>journals/tods/Shapiro86</cite>
+<cite>conf/sigmod/ShekitaC90</cite>
+<cite>journals/sigmod/ShinM94</cite>
+<cite>journals/tods/Valduriez87</cite>
+<cite>conf/sigmod/VanceM96</cite>
+<cite>conf/vldb/XieH94</cite>
+</inproceedings>
+</r>
+<coauthors n="99" nc="6">
+<co c="0"><na f="a/Abrahamsson:Pekka" pid="71/5809">Pekka Abrahamsson</na></co>
+<co c="0"><na f="a/Aly:Robin" pid="14/1179">Robin Aly</na></co>
+<co c="0"><na f="a/Alyoubi:Khaled_Hamed" pid="229/4150">Khaled Hamed Alyoubi</na></co>
+<co c="0"><na f="a/Amaral_0001:Vasco" pid="44/2600">Vasco Amaral 0001</na></co>
+<co c="0"><na f="a/Andritsos:Periklis" pid="52/1486">Periklis Andritsos</na></co>
+<co c="0"><na f="a/Angriman:Matteo" pid="142/7808">Matteo Angriman</na></co>
+<co c="4"><na f="a/Arando:Rodolfo_Vel=aacute=squez" pid="56/7127">Rodolfo Vel&#225;squez Arando</na></co>
+<co c="4"><na f="a/Arnold:Denise_Y=" pid="17/7127">Denise Y. Arnold</na></co>
+<co c="1"><na f="a/Arpatzoglou:Vasiliki" pid="340/0627">Vasiliki Arpatzoglou</na></co>
+<co c="0"><na f="a/Augsten:Nikolaus" pid="76/3961">Nikolaus Augsten</na></co>
+<co c="-1"><na f="b/Barranco:Carlos_D=" pid="63/6720">Carlos D. Barranco</na></co>
+<co c="0"><na f="b/Bettini:Fabio" pid="198/2053">Fabio Bettini</na></co>
+<co c="0"><na f="b/Blumenthal:David_B=" pid="199/6261">David B. Blumenthal</na></co>
+<co c="0"><na f="b/B=ouml=hlen:Michael_H=" pid="b/MichaelHBohlen">Michael H. B&#246;hlen</na></co>
+<co c="0"><na f="b/Bolzoni:Paolo" pid="158/9272">Paolo Bolzoni</na></co>
+<co c="-1"><na f="b/Boss:Birgit" pid="55/5325">Birgit Boss</na></co>
+<co c="0"><na f="b/Bouros:Panagiotis" pid="38/4801">Panagiotis Bouros</na></co>
+<co c="0"><na f="b/Brantner:Matthias" pid="82/1740">Matthias Brantner</na></co>
+<co c="0"><na f="b/Brocanelli:Stefan" pid="180/5354">Stefan Brocanelli</na></co>
+<co c="0"><na f="b/Brownlow:Richard" pid="142/8765">Richard Brownlow</na></co>
+<co c="0"><na f="b/Bugoloni:Sara" pid="142/7812">Sara Bugoloni</na></co>
+<co c="0"><na f="c/Capuzzi:Stefano" pid="139/1409">Stefano Capuzzi</na></co>
+<co c="0"><na f="c/Cardano:Filippo" pid="180/5574">Filippo Cardano</na></co>
+<co c="0"><na f="c/Chen:Qing" pid="14/928">Qing Chen</na></co>
+<co c="0"><na f="d/D=Auria:Daniela" pid="151/6954">Daniela D'Auria</na></co>
+<co c="1"><na f="d/Diehl:Alexandra" pid="12/9053">Alexandra Diehl</na></co>
+<co c="0"><na f="d/Dign=ouml=s:Anton" pid="96/11411">Anton Dign&#246;s</na></co>
+<co c="0"><na f="f/Fiebig:Thorsten" pid="66/4810">Thorsten Fiebig</na></co>
+<co c="1" n="2"><na f="f/Fl=uuml=ckiger:Barbara" pid="184/8437">Barbara Fl&#252;ckiger</na><na>Barbara Flueckiger</na></co>
+<co c="0"><na f="g/Gadler:Daniele" pid="180/5555">Daniele Gadler</na></co>
+<co c="0"><na f="g/Gamper:Johann" pid="59/6952">Johann Gamper</na></co>
+<co c="-1"><na f="g/Garani:Georgia" pid="67/5176">Georgia Garani</na></co>
+<co c="0"><na f="g/Ge:Mouzhi" pid="35/6880">Mouzhi Ge</na></co>
+<co c="3"><na f="g/Gl=uuml=her:Gerhard" pid="213/4339">Gerhard Gl&#252;her</na></co>
+<co c="5"><na f="g/Guitton:Alexandre" pid="81/6619">Alexandre Guitton</na></co>
+<co c="0"><na f="h/Hamily:Karim" pid="142/7821">Karim Hamily</na></co>
+<co c="0"><na f="i/Ioini:Nabil_El" pid="36/1061">Nabil El Ioini</na></co>
+<co c="0"><na f="j/Jaber:Mohammad_Tareq" pid="205/3672">Mohammad Tareq Jaber</na></co>
+<co c="0"><na f="k/Kanne:Carl=Christian" pid="k/CarlChristianKanne">Carl-Christian Kanne</na></co>
+<co c="1"><na f="k/Kardara:Artemis" pid="340/0641">Artemis Kardara</na></co>
+<co c="2"><na f="k/Kechadi:M=_Tahar" pid="43/3991">M. Tahar Kechadi</na></co>
+<co c="0"><na f="k/Kossmann:Donald" pid="k/DonaldKossmann">Donald Kossmann</na></co>
+<co c="0"><na f="k/Kunkel:Anja" pid="147/1209">Anja Kunkel</na></co>
+<co c="0"><na f="l/Lachish:Oded" pid="06/6269">Oded Lachish</na></co>
+<co c="2"><na f="l/Le=Khac:Nhien=An" pid="37/6424">Nhien-An Le-Khac</na></co>
+<co c="0"><na f="l/Lee_0001:Brian" pid="42/5859-1">Brian Lee 0001</na></co>
+<co c="0"><na f="l/Leon:David_von" pid="218/7910">David von Leon</na></co>
+<co c="0"><na f="l/Leser:Ulf" pid="l/UlfLeser">Ulf Leser</na></co>
+<co c="-1"><na f="l/Litak:Tadeusz" pid="81/3169">Tadeusz Litak</na></co>
+<co c="0"><na f="m/Martins:Luciana" pid="160/1820">Luciana Martins</na></co>
+<co c="0"><na f="m/May:Norman" pid="89/6071">Norman May</na></co>
+<co c="-1"><na f="m/McDonald_0002:Andrew" pid="93/891-2">Andrew McDonald 0002</na></co>
+<co c="0"><na f="m/Miori:Lorenzo" pid="142/7781">Lorenzo Miori</na></co>
+<co c="0"><na f="m/Moerkotte:Guido" pid="m/GuidoMoerkotte">Guido Moerkotte</na></co>
+<co c="0"><na f="m/Morandini:Daniel" pid="180/5778">Daniel Morandini</na></co>
+<co c="0"><na f="n/Nardini:Matteo" pid="274/9008">Matteo Nardini</na></co>
+<co c="0"><na f="n/Neumann:Julia" pid="06/2875">Julia Neumann</na></co>
+<co c="0"><na f="n/Neumann_0001:Thomas" pid="n/ThomasNeumann">Thomas Neumann 0001</na></co>
+<co c="2" n="2"><na f="n/Ngo:Vuong_M=" pid="17/1083">Vuong M. Ngo</na><na>Vuong Minh Ngo</na></co>
+<co c="0"><na f="n/Nicolodi:Lorenzo" pid="28/7859">Lorenzo Nicolodi</na></co>
+<co c="0"><na f="n/Nikoo:AmirReza_Alizade" pid="363/8702">AmirReza Alizade Nikoo</na></co>
+<co c="0"><na f="n/Normann:Immanuel" pid="85/3819">Immanuel Normann</na></co>
+<co c="0"><na f="o/Oyetoyan:Tosin_Daniel" pid="55/8572">Tosin Daniel Oyetoyan</na></co>
+<co c="0"><na f="p/Pahl:Claus" pid="48/4069">Claus Pahl</na></co>
+<co c="1"><na f="p/Pajarola:Renato" pid="96/6330">Renato Pajarola</na></co>
+<co c="0"><na f="p/Papapetrou:Panagiotis" pid="59/3814">Panagiotis Papapetrou</na></co>
+<co c="0"><na f="p/Paschen:Kathrin" pid="51/11162">Kathrin Paschen</na></co>
+<co c="0"><na f="p/Pavlov:Aleksei" pid="09/3410">Aleksei Pavlov</na></co>
+<co c="0"><na f="p/Persia:Fabio" pid="98/7475">Fabio Persia</na></co>
+<co c="0"><na f="p/Phaphoom:Nattakarn" pid="07/9660">Nattakarn Phaphoom</na></co>
+<co c="0"><na f="p/Piatov:Danila" pid="118/9925">Danila Piatov</na></co>
+<co c="0"><na f="p/Piccoli:Alessandro" pid="180/5434">Alessandro Piccoli</na></co>
+<co c="0"><na f="p/Pietri:Antoine" pid="241/3970">Antoine Pietri</na></co>
+<co c="0"><na f="p/Pilato:Giovanni" pid="45/4498">Giovanni Pilato</na></co>
+<co c="0"><na f="p/Popovic:Luka" pid="301/6401">Luka Popovic</na></co>
+<co c="0"><na f="p/Poulovassilis:Alexandra" pid="p/APoulovassilis">Alexandra Poulovassilis</na></co>
+<co c="0"><na f="p/Preda:Nick" pid="142/7763">Nick Preda</na></co>
+<co c="0"><na f="p/Pugacs:Sergejs" pid="224/3158">Sergejs Pugacs</na></co>
+<co c="0"><na f="r/Reutegger:Marcel" pid="340/7423">Marcel Reutegger</na></co>
+<co c="0"><na f="r/Rheinl=auml=nder:Astrid" pid="52/8234">Astrid Rheinl&#228;nder</na></co>
+<co c="0"><na f="r/Rikkil=auml=:Juha" pid="22/9662">Juha Rikkil&#228;</na></co>
+<co c="0"><na f="r/Roggia:Matteo" pid="225/8162">Matteo Roggia</na></co>
+<co c="0"><na f="s/Salam:Saifur" pid="180/5782">Saifur Salam</na></co>
+<co c="0"><na f="s/Samuel:Sarah" pid="161/7040">Sarah Samuel</na></co>
+<co c="0"><na f="s/Sanin:Julian" pid="180/5398">Julian Sanin</na></co>
+<co c="0"><na f="s/Schiefer:Christopher" pid="182/7042">Christopher Schiefer</na></co>
+<co c="0"><na f="s/Schiele:Robert" pid="59/5308">Robert Schiele</na></co>
+<co c="0" n="2"><na f="s/Shahrear:Alam_Mahabub" pid="180/5891">Alam Mahabub Shahrear</na><na>Alam Mahabub Sharear</na></co>
+<co c="0"><na f="s/Siciliano:Bruno" pid="s/BrunoSiciliano">Bruno Siciliano</na></co>
+<co c="0"><na f="s/Stuefer:Manuel" pid="371/7168">Manuel Stuefer</na></co>
+<co c="5" n="2"><na f="t/Trigoni:Agathoniki" pid="t/NikiTrigoni">Agathoniki Trigoni</na><na>Niki Trigoni</na></co>
+<co c="3"><na f="u/Upmeier:Christian" pid="213/4360">Christian Upmeier</na></co>
+<co c="0"><na f="v/Ventura:Angelo" pid="151/6063">Angelo Ventura</na></co>
+<co c="0"><na f="w/Wang_0001:Xiaofeng" pid="99/2479-1">Xiaofeng Wang 0001</na></co>
+<co c="0"><na f="w/Wellenzohn:Kevin" pid="156/1683">Kevin Wellenzohn</na></co>
+<co c="0"><na f="w/Westmann:Till" pid="28/6679">Till Westmann</na></co>
+<co c="0"><na f="w/Wood:Peter_T=" pid="w/PeterTWood">Peter T. Wood</na></co>
+<co c="0"><na f="z/Zacchiroli:Stefano" pid="53/2641">Stefano Zacchiroli</na></co>
+<co c="0"><na f="z/Zanker:Markus" pid="90/3147">Markus Zanker</na></co>
+</coauthors>
+</dblpperson>

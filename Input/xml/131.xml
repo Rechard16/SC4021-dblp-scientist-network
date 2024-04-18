@@ -1,0 +1,359 @@
+<dblpperson name="Chenggang Wu 0001" pid="51/3529-1" n="19">
+<person key="homepages/51/3529-1" mdate="2023-02-22">
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<note type="affiliation">Aqueduct Inc., USA</note>
+<note type="affiliation">University of California, Berkeley, CA, USA</note>
+<url>http://cgwu.io/</url>
+<url>https://scholar.google.com/citations?user=Q8kbUQEAAAAJ</url>
+<url>https://dl.acm.org/profile/99659528811</url>
+<url>https://orcid.org/0000-0002-2716-4393</url>
+<url>https://ieeexplore.ieee.org/author/37086504487</url>
+</person>
+<homonyms n="3">
+<h f="w/Wu:Chenggang"><person publtype="disambiguation" key="homepages/51/3529" mdate="2020-08-19">
+<author pid="51/3529">Chenggang Wu</author>
+</person>
+</h>
+<h f="w/Wu_0002:Chenggang"><person key="homepages/51/3529-2" mdate="2020-09-18">
+<author pid="51/3529-2">Chenggang Wu 0002</author>
+<note type="affiliation">State Key Laboratory of Computer Architecture, Chinese Academy of Sciences, Huairou, Beijing, China</note>
+<url>https://dl.acm.org/profile/81460646326</url>
+<url>https://orcid.org/0000-0003-1777-8110</url>
+<url>https://ieeexplore.ieee.org/author/37631367200</url>
+</person>
+</h>
+<h f="w/Wu_0003:Chenggang"><person key="homepages/51/3529-3" mdate="2020-08-18">
+<author pid="51/3529-3">Chenggang Wu 0003</author>
+<note type="affiliation">Tsinghua University, Beijing, China</note>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/sigmod/Wu22" mdate="2023-02-22">
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<title>Chenggang Wu Speaks Out on his ACM SIGMOD Jim Gray Dissertation Award, Rejection, Believing in Your Work, and More.</title>
+<pages>56-59</pages>
+<year>2022</year>
+<month>December</month>
+<volume>51</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3582302.3582318</ee>
+<url>db/journals/sigmod/sigmod51.html#Wu22</url>
+</article>
+</r>
+<r><article key="journals/tkde/WuFLH21" mdate="2021-01-26">
+<author orcid="0000-0002-2716-4393" pid="51/3529-1">Chenggang Wu 0001</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="155/2490">Yihan Lin</author>
+<author orcid="0000-0002-7712-4306" pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Anna: A KVS for Any Scale.</title>
+<pages>344-358</pages>
+<year>2021</year>
+<volume>33</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TKDE.2019.2898401</ee>
+<url>db/journals/tkde/tkde33.html#WuFLH21</url>
+</article>
+</r>
+<r><article key="journals/vldb/WuSH21" mdate="2021-03-23">
+<author orcid="0000-0002-2716-4393" pid="51/3529-1">Chenggang Wu 0001</author>
+<author pid="192/4561">Vikram Sreekanti</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Autoscaling tiered cloud storage in Anna.</title>
+<pages>25-43</pages>
+<year>2021</year>
+<volume>30</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-020-00632-7</ee>
+<url>db/journals/vldb/vldb30.html#WuSH21</url>
+</article>
+</r>
+<r><inproceedings key="conf/icra/AnandI0HGG21" mdate="2023-11-12">
+<author pid="266/8334">Raghav Anand</author>
+<author orcid="0000-0003-4874-9478" pid="89/1741">Jeffrey Ichnowski</author>
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author orcid="0000-0003-2921-956X" pid="61/8262">Joseph E. Gonzalez</author>
+<author orcid="0000-0002-2661-4524" pid="g/KennethYGoldberg">Ken Goldberg</author>
+<title>Serverless Multi-Query Motion Planning for Fog Robotics.</title>
+<pages>7457-7463</pages>
+<year>2021</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA48506.2021.9561571</ee>
+<crossref>conf/icra/2021</crossref>
+<url>db/conf/icra/icra2021.html#AnandI0HGG21</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/SreekantiWLSGHT20" mdate="2020-08-18">
+<author pid="192/4561">Vikram Sreekanti</author>
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<author pid="219/9688">Xiayue Charles Lin</author>
+<author pid="166/5229">Johann Schleier-Smith</author>
+<author pid="61/8262">Joseph Gonzalez 0001</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="41/6224">Alexey Tumanov</author>
+<title>Cloudburst: Stateful Functions-as-a-Service.</title>
+<pages>2438-2452</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p2438-sreekanti.pdf</ee>
+<url>db/journals/pvldb/pvldb13.html#SreekantiWLSGHT20</url>
+</article>
+</r>
+<r><inproceedings key="conf/eurosys/SreekantiWCGHF20" mdate="2023-11-12">
+<author pid="192/4561">Vikram Sreekanti</author>
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<author pid="260/6797">Saurav Chhatrapati</author>
+<author orcid="0000-0003-2921-956X" pid="61/8262">Joseph E. Gonzalez</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<title>A fault-tolerance shim for serverless computing.</title>
+<pages>15:1-15:15</pages>
+<year>2020</year>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3342195.3387535</ee>
+<crossref>conf/eurosys/2020</crossref>
+<url>db/conf/eurosys/eurosys2020.html#SreekantiWCGHF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/WuSH20" mdate="2020-08-18">
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<author pid="192/4561">Vikram Sreekanti</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Transactional Causal Consistency for Serverless Computing.</title>
+<pages>83-97</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389710</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#WuSH20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-04592" mdate="2020-08-18">
+<author pid="192/4561">Vikram Sreekanti</author>
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<author pid="219/9688">Xiayue Charles Lin</author>
+<author pid="166/5229">Johann Schleier-Smith</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="61/8262">Joseph E. Gonzalez</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="41/6224">Alexey Tumanov</author>
+<title>Cloudburst: Stateful Functions-as-a-Service.</title>
+<year>2020</year>
+<volume>abs/2001.04592</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2001.04592</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-04592</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-06007" mdate="2020-08-18">
+<author pid="192/4561">Vikram Sreekanti</author>
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<author pid="260/6797">Saurav Chhatrapati</author>
+<author pid="61/8262">Joseph E. Gonzalez</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<title>A Fault-Tolerance Shim for Serverless Computing.</title>
+<year>2020</year>
+<volume>abs/2003.06007</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.06007</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-06007</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-05832" mdate="2020-08-18">
+<author pid="192/4561">Vikram Sreekanti</author>
+<author pid="234/6127">Harikaran Subbaraj</author>
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<author pid="61/8262">Joseph E. Gonzalez</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Optimizing Prediction Serving on Low-Latency Serverless Dataflow.</title>
+<year>2020</year>
+<volume>abs/2007.05832</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.05832</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-05832</url>
+</article>
+</r>
+<r><article key="journals/pvldb/WuSH19" mdate="2020-08-18">
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<author pid="192/4561">Vikram Sreekanti</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Autoscaling Tiered Cloud Storage in Anna.</title>
+<pages>624-638</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p624-wu.pdf</ee>
+<ee>https://doi.org/10.14778/3311880.3311881</ee>
+<url>db/journals/pvldb/pvldb12.html#WuSH19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/YangLKWDCAHKS19" mdate="2021-08-19">
+<author pid="181/5822">Zongheng Yang</author>
+<author pid="29/2973">Eric Liang</author>
+<author pid="220/4132">Amog Kamsetty</author>
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<author pid="75/3924">Yan Duan</author>
+<author pid="16/3283-22">Xi Chen 0022</author>
+<author pid="a/PieterAbbeel">Pieter Abbeel</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="147/1189">Sanjay Krishnan</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<title>Deep Unsupervised Cardinality Estimation.</title>
+<pages>279-292</pages>
+<year>2019</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p279-yang.pdf</ee>
+<ee>https://doi.org/10.14778/3368289.3368294</ee>
+<url>db/journals/pvldb/pvldb13.html#YangLKWDCAHKS19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/HellersteinFGSS19" mdate="2020-08-18">
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="61/8262">Joseph Gonzalez 0001</author>
+<author pid="166/5229">Johann Schleier-Smith</author>
+<author pid="192/4561">Vikram Sreekanti</author>
+<author pid="41/6224">Alexey Tumanov</author>
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<title>Serverless Computing: One Step Forward, Two Steps Back.</title>
+<year>2019</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2019/papers/p119-hellerstein-cidr19.pdf</ee>
+<crossref>conf/cidr/2019</crossref>
+<url>db/conf/cidr/cidr2019.html#HellersteinFGSS19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-04278" mdate="2020-08-18">
+<author pid="181/5822">Zongheng Yang</author>
+<author pid="29/2973">Eric Liang</author>
+<author pid="220/4132">Amog Kamsetty</author>
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<author pid="75/3924">Yan Duan</author>
+<author pid="16/3283-22">Xi Chen 0022</author>
+<author pid="a/PieterAbbeel">Pieter Abbeel</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="147/1189">Sanjay Krishnan</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<title>Selectivity Estimation with Deep Likelihood Models.</title>
+<year>2019</year>
+<volume>abs/1905.04278</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.04278</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-04278</url>
+</article>
+</r>
+<r><article key="journals/pvldb/WuJAPLQR18" mdate="2020-08-18">
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<author pid="24/8510">Alekh Jindal</author>
+<author pid="48/8399">Saeed Amizadeh</author>
+<author pid="23/5134">Hiren Patel</author>
+<author pid="65/3302">Wangchao Le</author>
+<author pid="157/8412-1">Shi Qiao 0001</author>
+<author pid="07/1315">Sriram Rao</author>
+<title>Towards a Learning Optimizer for Shared Clouds.</title>
+<pages>210-222</pages>
+<year>2018</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p210-wu.pdf</ee>
+<ee>https://doi.org/10.14778/3291264.3291267</ee>
+<url>db/journals/pvldb/pvldb12.html#WuJAPLQR18</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/WuFLH18" mdate="2023-03-24">
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="155/2490">Yihan Lin</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Anna: A KVS for Any Scale.</title>
+<pages>401-412</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00044</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00044</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#WuFLH18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-00089" mdate="2020-08-18">
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<author pid="192/4561">Vikram Sreekanti</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Eliminating Boundaries in Cloud Storage with Anna.</title>
+<year>2018</year>
+<volume>abs/1809.00089</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.00089</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-00089</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-03651" mdate="2020-08-18">
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="61/8262">Joseph E. Gonzalez</author>
+<author pid="166/5229">Johann Schleier-Smith</author>
+<author pid="192/4561">Vikram Sreekanti</author>
+<author pid="41/6224">Alexey Tumanov</author>
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<title>Serverless Computing: One Step Forward, Two Steps Back.</title>
+<year>2018</year>
+<volume>abs/1812.03651</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.03651</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-03651</url>
+</article>
+</r>
+<r><inproceedings key="conf/cloud/WuFLH17" mdate="2020-08-18">
+<author pid="51/3529-1">Chenggang Wu 0001</author>
+<author pid="147/1195">Jose M. Faleiro</author>
+<author pid="155/2490">Yihan Lin</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<title>Indy: a software system for the dense cloud.</title>
+<pages>650</pages>
+<year>2017</year>
+<booktitle>SoCC</booktitle>
+<ee>https://doi.org/10.1145/3127479.3134429</ee>
+<crossref>conf/cloud/2017</crossref>
+<url>db/conf/cloud/socc2017.html#WuFLH17</url>
+</inproceedings>
+</r>
+<coauthors n="27" nc="1">
+<co c="0"><na f="a/Abbeel:Pieter" pid="a/PieterAbbeel">Pieter Abbeel</na></co>
+<co c="0"><na f="a/Amizadeh:Saeed" pid="48/8399">Saeed Amizadeh</na></co>
+<co c="0"><na f="a/Anand:Raghav" pid="266/8334">Raghav Anand</na></co>
+<co c="0"><na f="c/Chen_0022:Xi" pid="16/3283-22">Xi Chen 0022</na></co>
+<co c="0"><na f="c/Chhatrapati:Saurav" pid="260/6797">Saurav Chhatrapati</na></co>
+<co c="0"><na f="d/Duan:Yan" pid="75/3924">Yan Duan</na></co>
+<co c="0"><na f="f/Faleiro:Jose_M=" pid="147/1195">Jose M. Faleiro</na></co>
+<co c="0" n="2"><na f="g/Goldberg:Kenneth_Y=" pid="g/KennethYGoldberg">Kenneth Y. Goldberg</na><na>Ken Goldberg</na></co>
+<co c="0" n="2"><na f="g/Gonzalez_0001:Joseph" pid="61/8262">Joseph Gonzalez 0001</na><na>Joseph E. Gonzalez</na></co>
+<co c="0"><na f="h/Hellerstein:Joseph_M=" pid="h/JosephMHellerstein">Joseph M. Hellerstein</na></co>
+<co c="0"><na f="i/Ichnowski:Jeffrey" pid="89/1741">Jeffrey Ichnowski</na></co>
+<co c="0"><na f="j/Jindal:Alekh" pid="24/8510">Alekh Jindal</na></co>
+<co c="0"><na f="k/Kamsetty:Amog" pid="220/4132">Amog Kamsetty</na></co>
+<co c="0"><na f="k/Krishnan:Sanjay" pid="147/1189">Sanjay Krishnan</na></co>
+<co c="0"><na f="l/Le:Wangchao" pid="65/3302">Wangchao Le</na></co>
+<co c="0"><na f="l/Liang:Eric" pid="29/2973">Eric Liang</na></co>
+<co c="0"><na f="l/Lin:Xiayue_Charles" pid="219/9688">Xiayue Charles Lin</na></co>
+<co c="0"><na f="l/Lin:Yihan" pid="155/2490">Yihan Lin</na></co>
+<co c="0"><na f="p/Patel:Hiren" pid="23/5134">Hiren Patel</na></co>
+<co c="0"><na f="q/Qiao_0001:Shi" pid="157/8412-1">Shi Qiao 0001</na></co>
+<co c="0"><na f="r/Rao:Sriram" pid="07/1315">Sriram Rao</na></co>
+<co c="0"><na f="s/Schleier=Smith:Johann" pid="166/5229">Johann Schleier-Smith</na></co>
+<co c="0"><na f="s/Sreekanti:Vikram" pid="192/4561">Vikram Sreekanti</na></co>
+<co c="0"><na f="s/Stoica:Ion" pid="s/IonStoica">Ion Stoica</na></co>
+<co c="0"><na f="s/Subbaraj:Harikaran" pid="234/6127">Harikaran Subbaraj</na></co>
+<co c="0"><na f="t/Tumanov:Alexey" pid="41/6224">Alexey Tumanov</na></co>
+<co c="0"><na f="y/Yang:Zongheng" pid="181/5822">Zongheng Yang</na></co>
+</coauthors>
+</dblpperson>
