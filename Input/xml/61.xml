@@ -1,4 +1,4 @@
-<dblpperson name="Aoying Zhou" pid="z/AoyingZhou" n="519">
+<dblpperson name="Aoying Zhou" pid="z/AoyingZhou" n="523">
 <person key="homepages/z/AoyingZhou" mdate="2024-04-02">
 <author pid="z/AoyingZhou">Aoying Zhou</author>
 <note type="affiliation">East China Normal University, School of Data Science and Engineering, Shanghai, China</note>
@@ -1344,6 +1344,22 @@
 <url>db/journals/corr/corr2112.html#abs-2112-08273</url>
 </article>
 </r>
+<r><book key="books/ws/MaoJZ20" mdate="2024-04-18">
+<author pid="04/7600">Jiali Mao</author>
+<author pid="41/2511">Cheqing Jin</author>
+<author pid="z/AoyingZhou">Aoying Zhou</author>
+<title>Clustering and Outlier Detection for Trajectory Stream Data</title>
+<publisher>WorldScientific</publisher>
+<year>2020</year>
+<series>East China Normal University Scientific Reports</series>
+<volume>10</volume>
+<pages>1-272</pages>
+<isbn>9789811210457</isbn>
+<isbn>9789811210464</isbn>
+<isbn>9789811210471</isbn>
+<ee>https://doi.org/10.1142/11555</ee>
+</book>
+</r>
 <r><book key="books/ws/DongJZH20" mdate="2021-03-30">
 <author pid="01/4765">Qiwen Dong</author>
 <author pid="174/0428">Xiaoyang Jing</author>
@@ -1840,6 +1856,24 @@
 <ee type="oa">https://arxiv.org/abs/2011.14333</ee>
 <url>db/journals/corr/corr2011.html#abs-2011-14333</url>
 </article>
+</r>
+<r><book key="books/ws/CaiGZ19" mdate="2024-04-18">
+<author pid="19/3952">Peng Cai</author>
+<author pid="162/8701">Jinwei Guo</author>
+<author pid="z/AoyingZhou">Aoying Zhou</author>
+<title>Concurrency Control and Recovery in OLTP Systems - High Scalability and Availability</title>
+<booktitle>Concurrency Control and Recovery in OLTP Systems</booktitle>
+<publisher>WorldScientific</publisher>
+<year>2019</year>
+<series>East China Normal University Scientific Reports</series>
+<volume>9</volume>
+<pages>1-192</pages>
+<isbn>9789813279223</isbn>
+<isbn>9789813279230</isbn>
+<isbn>9789813279247</isbn>
+<isbn>9789813279254</isbn>
+<ee>https://doi.org/10.1142/11242</ee>
+</book>
 </r>
 <r><article key="journals/access/WangFHZZ19" mdate="2019-11-07">
 <author orcid="0000-0003-1010-9678" pid="135/5147-1">Chengyu Wang 0001</author>
@@ -2980,6 +3014,39 @@
 <url>db/conf/www/www2017c.html#DingXGQZ17</url>
 </inproceedings>
 </r>
+<r><book key="books/ws/JinZ16" mdate="2024-04-18">
+<author pid="41/2511">Cheqing Jin</author>
+<author pid="z/AoyingZhou">Aoying Zhou</author>
+<title>Querying and Mining Uncertain Data Streams</title>
+<publisher>WorldScientific</publisher>
+<year>2016</year>
+<series>East China Normal University Scientific Reports</series>
+<volume>3</volume>
+<pages>1-164</pages>
+<isbn>9789813108776</isbn>
+<isbn>9789813108783</isbn>
+<isbn>9789813142916</isbn>
+<isbn>9789813142923</isbn>
+<ee>https://doi.org/10.1142/10009</ee>
+</book>
+</r>
+<r><book key="books/ws/LinWZ16" mdate="2024-04-18">
+<author pid="42/166">Yuming Lin</author>
+<author pid="92/6206">Xiaoling Wang</author>
+<author pid="z/AoyingZhou">Aoying Zhou</author>
+<title>Opinion Analysis for Online Reviews</title>
+<publisher>WorldScientific</publisher>
+<year>2016</year>
+<series>East China Normal University Scientific Reports</series>
+<volume>4</volume>
+<pages>1-128</pages>
+<isbn>9789813100435</isbn>
+<isbn>9789813100442</isbn>
+<isbn>9789813100459</isbn>
+<isbn>9789813100466</isbn>
+<ee>https://doi.org/10.1142/9996</ee>
+</book>
+</r>
 <r><article key="journals/fcsc/ShaWZWZ16" mdate="2018-02-19">
 <author pid="03/330">Chaofeng Sha</author>
 <author pid="01/10613">Keqiang Wang</author>
@@ -3853,9 +3920,9 @@
 <url>db/journals/dpd/dpd32.html#XuSZZ14</url>
 </article>
 </r>
-<r><article key="journals/ijcomsys/Li0JZZ14" mdate="2021-06-01">
+<r><article key="journals/ijcomsys/Li0JZZ14" mdate="2024-04-17">
 <author pid="20/4750">Chunsheng Li</author>
-<author pid="92/6289">Jie Chen</author>
+<author pid="92/6289-21">Jie Chen 0021</author>
 <author pid="41/2511">Cheqing Jin</author>
 <author pid="13/5366-2">Rong Zhang 0002</author>
 <author pid="z/AoyingZhou">Aoying Zhou</author>
@@ -7918,7 +7985,7 @@
 <url>db/journals/jcst/jcst9.html#ShiZ94</url>
 </article>
 </r>
-<coauthors n="506" nc="1">
+<coauthors n="507" nc="1">
 <co c="0"><na f="a/Agarwal:Nitin" pid="72/1395">Nitin Agarwal</na></co>
 <co c="0"><na f="b/Bai:Shuo" pid="00/1138">Shuo Bai</na></co>
 <co c="0"><na f="b/Bao:Jiajia" pid="68/8700">Jiajia Bao</na></co>
@@ -7951,6 +8018,7 @@
 <co c="0"><na f="c/Chen:Huanhuan" pid="72/5816">Huanhuan Chen</na></co>
 <co c="0"><na f="c/Chen:Hui" pid="12/417">Hui Chen</na></co>
 <co c="0"><na f="c/Chen:Jie" pid="92/6289">Jie Chen</na></co>
+<co c="0"><na f="c/Chen_0021:Jie" pid="92/6289-21">Jie Chen 0021</na></co>
 <co c="0"><na f="c/Chen:Leihui" pid="205/7610">Leihui Chen</na></co>
 <co c="0"><na f="c/Chen:Peng" pid="27/7017">Peng Chen</na></co>
 <co c="0"><na f="c/Chen:Qihang" pid="276/3517">Qihang Chen</na></co>

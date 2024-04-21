@@ -1,4 +1,4 @@
-<dblpperson name="Chaokun Wang" pid="13/1672" n="141">
+<dblpperson name="Chaokun Wang" pid="13/1672" n="142">
 <person key="homepages/13/1672" mdate="2023-07-30">
 <author pid="13/1672">Chaokun Wang</author>
 <url>https://orcid.org/0000-0002-2986-2574</url>
@@ -16,6 +16,25 @@
 <ee>https://doi.org/10.1109/TCSS.2023.3303476</ee>
 <url>db/journals/tcss/tcss11.html#LouW24</url>
 </article>
+</r>
+<r><proceedings key="conf/bigcomp/2024" mdate="2024-04-18">
+<editor pid="09/2505">Herwig Unger</editor>
+<editor pid="31/5764">Jinseok Chae</editor>
+<editor pid="53/1318">Young-Koo Lee</editor>
+<editor pid="01/2903-2">Christian Wagner 0002</editor>
+<editor pid="13/1672">Chaokun Wang</editor>
+<editor pid="09/3625">Mehdi Bennis</editor>
+<editor pid="73/1454">Mahasak Ketcham</editor>
+<editor pid="58/2945">Young-Kyoon Suh</editor>
+<editor pid="117/9378">Hyuk-Yoon Kwon</editor>
+<title>IEEE International Conference on Big Data and Smart Computing, BigComp 2024, Bangkok, Thailand, February 18-21, 2024</title>
+<booktitle>BigComp</booktitle>
+<publisher>IEEE</publisher>
+<year>2024</year>
+<isbn>979-8-3503-7002-7</isbn>
+<ee>https://doi.org/10.1109/BigComp60711.2024</ee>
+<url>db/conf/bigcomp/bigcomp2024.html</url>
+</proceedings>
 </r>
 <r><article key="journals/tkde/GuoWYLFZCHY23" mdate="2023-11-27">
 <author orcid="0000-0001-9873-8676" pid="197/0781">Gaoyang Guo</author>
@@ -2135,13 +2154,15 @@
 <url>db/conf/waim/waim2002.html#ShiLW02</url>
 </inproceedings>
 </r>
-<coauthors n="153" nc="1">
+<coauthors n="161" nc="1">
 <co c="0"><na f="b/Bai:Yiyuan" pid="92/8540">Yiyuan Bai</na></co>
 <co c="0"><na f="b/Bao:Dalei" pid="86/8097">Dalei Bao</na></co>
 <co c="0"><na f="b/Bao:Zhifeng" pid="20/3716">Zhifeng Bao</na></co>
+<co c="0"><na f="b/Bennis:Mehdi" pid="09/3625">Mehdi Bennis</na></co>
 <co c="0"><na f="b/Bourgeois:Anu_G=" pid="12/2832">Anu G. Bourgeois</na></co>
 <co c="0"><na f="c/Cai_0001:Zhipeng" pid="14/5155-1">Zhipeng Cai 0001</na></co>
 <co c="0"><na f="c/Cardei:Mihaela" pid="c/MihaelaCardei">Mihaela Cardei</na></co>
+<co c="0"><na f="c/Chae:Jinseok" pid="31/5764">Jinseok Chae</na></co>
 <co c="0" n="2"><na f="c/Chang_0001:Rong" pid="68/4237">Rong Chang 0001</na><na>Rong N. Chang</na></co>
 <co c="0"><na f="c/Chen:Guisheng" pid="53/921">Guisheng Chen</na></co>
 <co c="0"><na f="c/Chen:Haikun" pid="66/4209">Haikun Chen</na></co>
@@ -2188,7 +2209,10 @@
 <co c="0"><na f="k/Kang:Rui" pid="89/1167">Rui Kang</na></co>
 <co c="0"><na f="k/Karve:Rutvik" pid="23/10779">Rutvik Karve</na></co>
 <co c="0"><na f="k/Kedziora:Michal" pid="97/10224">Michal Kedziora</na></co>
+<co c="0"><na f="k/Ketcham:Mahasak" pid="73/1454">Mahasak Ketcham</na></co>
 <co c="0"><na f="k/Kos:Anton" pid="33/9881">Anton Kos</na></co>
+<co c="0"><na f="k/Kwon:Hyuk=Yoon" pid="117/9378">Hyuk-Yoon Kwon</na></co>
+<co c="0"><na f="l/Lee:Young=Koo" pid="53/1318">Young-Koo Lee</na></co>
 <co c="0"><na f="l/Li_0063:Bo" pid="50/3402-63">Bo Li 0063</na></co>
 <co c="0"><na f="l/Li:Deyi" pid="58/1153">Deyi Li</na></co>
 <co c="0"><na f="l/Li:Hongsong" pid="19/6359">Hongsong Li</na></co>
@@ -2226,12 +2250,15 @@
 <co c="0"><na f="s/Shi:Shengfei" pid="67/3479">Shengfei Shi</na></co>
 <co c="0"><na f="s/Song:Shaoxu" pid="20/3883">Shaoxu Song</na></co>
 <co c="0"><na f="s/Song:Yang" pid="24/4470">Yang Song</na></co>
+<co c="0"><na f="s/Suh:Young=Kyoon" pid="58/2945">Young-Kyoon Suh</na></co>
 <co c="0" n="2"><na f="s/Sun_0001:Jia=Guang" pid="s/JiaGuangSun-1">Jia-Guang Sun 0001</na><na>Jiaguang Sun 0001</na></co>
 <co c="0"><na f="t/Tao:Fangbo" pid="66/10768">Fangbo Tao</na></co>
 <co c="0"><na f="t/Thomborson:Clark_D=" pid="t/CDThomborson">Clark D. Thomborson</na></co>
 <co c="0"><na f="t/Tian:Wanpeng" pid="45/8166">Wanpeng Tian</na></co>
 <co c="0"><na f="u/Umek:Anton" pid="122/6540">Anton Umek</na></co>
+<co c="0"><na f="u/Unger:Herwig" pid="09/2505">Herwig Unger</na></co>
 <co c="0"><na f="v/Vasilakos:Athanasios_V=" pid="40/4747">Athanasios V. Vasilakos</na></co>
+<co c="0"><na f="w/Wagner_0002:Christian" pid="01/2903-2">Christian Wagner 0002</na></co>
 <co c="0"><na f="w/Wang_0021:Bin" pid="13/1898-21">Bin Wang 0021</na></co>
 <co c="0"><na f="w/Wang:Binbin" pid="49/1272">Binbin Wang</na></co>
 <co c="0"><na f="w/Wang:Changping" pid="75/4229">Changping Wang</na></co>

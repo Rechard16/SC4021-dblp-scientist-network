@@ -1,10 +1,24 @@
-<dblpperson name="Shahram Ghandeharizadeh" pid="g/SGhandeharizadeh" n="168">
+<dblpperson name="Shahram Ghandeharizadeh" pid="g/SGhandeharizadeh" n="169">
 <person key="homepages/g/SGhandeharizadeh" mdate="2021-10-28">
 <author pid="g/SGhandeharizadeh">Shahram Ghandeharizadeh</author>
 <note type="affiliation">University of Southern California, Los Angeles, USA</note>
 <url>http://perspolis.usc.edu/Users/shahram/</url>
 <url>https://orcid.org/0000-0002-1792-7879</url>
 </person>
+<r><inproceedings key="conf/mmsys/Alimohammadzadeh24" mdate="2024-04-19">
+<author pid="348/8107">Hamed Alimohammadzadeh</author>
+<author pid="190/4467">Shuqin Zhu</author>
+<author pid="373/3857">Jiadong Bai</author>
+<author pid="g/SGhandeharizadeh">Shahram Ghandeharizadeh</author>
+<title>Reliability Groups with Standby Flying Light Specks.</title>
+<pages>1-11</pages>
+<year>2024</year>
+<booktitle>MMSys</booktitle>
+<ee>https://doi.org/10.1145/3625468.3647606</ee>
+<crossref>conf/mmsys/2024</crossref>
+<url>db/conf/mmsys/mmsys2024.html#Alimohammadzadeh24</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/mmasia/Alimohammadzadeh23" mdate="2024-01-13">
 <author orcid="0000-0003-2613-5010" pid="348/8107">Hamed Alimohammadzadeh</author>
 <author orcid="0000-0002-9187-2706" pid="132/0702">Heather Culbertson</author>
@@ -2721,7 +2735,7 @@
 <ee>https://doi.org/10.1007/978-1-4613-1679-4_27</ee>
 </inproceedings>
 </r>
-<coauthors n="162" nc="7">
+<coauthors n="163" nc="7">
 <co c="4"><na f="a/Aazami:Ashkan" pid="a/AshkanAazami">Ashkan Aazami</na></co>
 <co c="-1"><na f="a/Al=Marri:Jaber" pid="99/2198">Jaber Al-Marri</na></co>
 <co c="0"><na f="a/Alabdulkarim:Yazeed" pid="181/9156">Yazeed Alabdulkarim</na></co>
@@ -2732,6 +2746,7 @@
 <co c="5"><na f="a/An:Xinghua" pid="47/4442">Xinghua An</na></co>
 <co c="0"><na f="a/Aref:Walid_G=" pid="a/WGAref">Walid G. Aref</na></co>
 <co c="0"><na f="a/Asad:Zubair" pid="49/1543">Zubair Asad</na></co>
+<co c="1"><na f="b/Bai:Jiadong" pid="373/3857">Jiadong Bai</na></co>
 <co c="0"><na f="b/Balazinska:Magdalena" pid="b/MagdalenaBalazinska">Magdalena Balazinska</na></co>
 <co c="0"><na f="b/Bar:Fran=ccedil=ois" pid="45/3079">Fran&#231;ois Bar</na></co>
 <co c="0"><na f="b/Barahmand:Sumita" pid="125/2957">Sumita Barahmand</na></co>

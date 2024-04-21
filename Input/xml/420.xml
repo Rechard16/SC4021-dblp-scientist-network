@@ -1,4 +1,4 @@
-<dblpperson name="Julian J. McAuley" pid="29/3483" n="374">
+<dblpperson name="Julian J. McAuley" pid="29/3483" n="375">
 <person key="homepages/29/3483" mdate="2023-08-27">
 <author pid="29/3483">Julian J. McAuley</author>
 <author pid="29/3483">Julian John McAuley</author>
@@ -95,6 +95,22 @@
 <ee>https://doi.org/10.1007/978-3-031-56060-6_24</ee>
 <crossref>conf/ecir/2024-2</crossref>
 <url>db/conf/ecir/ecir2024-2.html#HouZLLXMZ24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wacv/EchterhoffYHAGM24" mdate="2024-04-17">
+<author pid="227/5351">Jessica Maria Echterhoff</author>
+<author pid="37/10133">An Yan</author>
+<author pid="67/4400">Kyungtae Han</author>
+<author pid="326/4538">Amr Abdelraouf</author>
+<author pid="47/3340">Rohit Gupta</author>
+<author pid="29/3483">Julian J. McAuley</author>
+<title>Driving through the Concept Gridlock: Unraveling Explainability Bottlenecks in Automated Driving.</title>
+<pages>7331-7340</pages>
+<year>2024</year>
+<booktitle>WACV</booktitle>
+<ee>https://doi.org/10.1109/WACV57701.2024.00718</ee>
+<crossref>conf/wacv/2024</crossref>
+<url>db/conf/wacv/wacv2024.html#EchterhoffYHAGM24</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/wsdm/YueWHZMW24" mdate="2024-04-02">
@@ -3865,9 +3881,9 @@
 <url>db/conf/acl/acl2018-2.html#NiM18</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/cikm/WanWLBM18" mdate="2023-06-26">
+<r><inproceedings key="conf/cikm/WanWLBM18" mdate="2024-04-19">
 <author pid="173/4598">Mengting Wan</author>
-<author pid="18/5410">Di Wang</author>
+<author pid="18/5410-3">Di Wang 0003</author>
 <author pid="03/2134-1">Jie Liu 0001</author>
 <author pid="33/6188">Paul Bennett 0001</author>
 <author orcid="0000-0003-0955-7588" pid="29/3483">Julian J. McAuley</author>
@@ -4189,7 +4205,7 @@
 <url>db/conf/aaai/aaai2017.html#ZhangSMWZYH17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/amia/GabrielSKMH17" mdate="2021-08-04">
+<r><inproceedings key="conf/amia/GabrielSKMH17" mdate="2024-04-17">
 <author pid="154/1553">Rodney A. Gabriel</author>
 <author pid="199/2165">Sanjeev Shenoy</author>
 <author pid="29/4447">Tsung-Ting Kuo</author>
@@ -4198,7 +4214,7 @@
 <title>The presence of highly similar notes within the MIMIC-III dataset.</title>
 <year>2017</year>
 <booktitle>AMIA</booktitle>
-<ee>https://knowledge.amia.org/65881-amiab-1.4254737/t004-1.4257399/f004-1.4257400/2731593-1.4258135/2730995-1.4258132</ee>
+<ee type="archive">https://knowledge.amia.org/65881-amiab-1.4254737/t004-1.4257399/f004-1.4257400/2731593-1.4258135/2730995-1.4258132</ee>
 <crossref>conf/amia/2017</crossref>
 <url>db/conf/amia/amia2017.html#GabrielSKMH17</url>
 </inproceedings>
@@ -4386,9 +4402,9 @@
 <url>db/conf/wsdm/wsdm2017.html#RappazVMC17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/www/WanWGTRLLM17" mdate="2023-06-26">
+<r><inproceedings key="conf/www/WanWGTRLLM17" mdate="2024-04-19">
 <author pid="173/4598">Mengting Wan</author>
-<author pid="18/5410">Di Wang</author>
+<author pid="18/5410-3">Di Wang 0003</author>
 <author pid="68/10281">Matthew Goldman</author>
 <author pid="92/8896">Matt Taddy</author>
 <author pid="50/9598">Justin Rao</author>
@@ -5830,7 +5846,7 @@
 <co c="0"><na f="v/Vladarean:Maria=Luiza" pid="194/3965">Maria-Luiza Vladarean</na></co>
 <co c="0"><na f="w/Wakaki:Hiromi" pid="07/3863">Hiromi Wakaki</na></co>
 <co c="0"><na f="w/Wan:Mengting" pid="173/4598">Mengting Wan</na></co>
-<co c="0"><na f="w/Wang:Di" pid="18/5410">Di Wang</na></co>
+<co c="0"><na f="w/Wang_0003:Di" pid="18/5410-3">Di Wang 0003</na></co>
 <co c="0"><na f="w/Wang_0002:Dong" pid="40/3934-2">Dong Wang 0002</na></co>
 <co c="0"><na f="w/Wang:Han" pid="67/1771">Han Wang</na></co>
 <co c="0"><na f="w/Wang:Haoliang" pid="79/1600">Haoliang Wang</na></co>

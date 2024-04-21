@@ -1,4 +1,4 @@
-<dblpperson name="Yizhou Sun" pid="37/3868" n="299">
+<dblpperson name="Yizhou Sun" pid="37/3868" n="300">
 <person key="homepages/37/3868" mdate="2021-04-28">
 <author pid="37/3868">Yizhou Sun</author>
 <note type="uname">&#23385;&#24609;&#33311;</note>
@@ -403,7 +403,7 @@
 <url>db/conf/nips/neurips2023.html#00010H0GJS23</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/nips/0009MLJ0WHLW0LC23" mdate="2024-03-01">
+<r><inproceedings key="conf/nips/0009MLJ0WHLW0LC23" mdate="2024-04-20">
 <author pid="66/2173-9">Wei Jin 0009</author>
 <author pid="221/6516">Haitao Mao</author>
 <author pid="10/1143">Zheng Li</author>
@@ -415,7 +415,7 @@
 <author pid="09/10105">Zhengyang Wang</author>
 <author pid="12/8221-2">Ruirui Li 0002</author>
 <author pid="74/2397">Zhen Li</author>
-<author pid="353/7697">Monica Cheng</author>
+<author pid="352/4083">Monica Xiao Cheng</author>
 <author pid="127/0365">Rahul Goutam</author>
 <author pid="51/222">Haiyang Zhang</author>
 <author pid="32/5843">Karthik Subbian</author>
@@ -1034,6 +1034,23 @@
 <ee type="oa">https://aclanthology.org/2022.acl-long.36</ee>
 <crossref>conf/acl/2022-1</crossref>
 <url>db/conf/acl/acl2022-1.html#0002LJCLYSSW22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/akbc/WangZL0STOJ22" mdate="2024-04-19">
+<author pid="13/5641">Hongwei Wang</author>
+<author pid="00/7375">Zixuan Zhang</author>
+<author pid="24/899">Sha Li</author>
+<author pid="h/JiaweiHan">Jiawei Han 0001</author>
+<author pid="37/3868">Yizhou Sun</author>
+<author pid="58/1757">Hanghang Tong</author>
+<author pid="58/256">Joseph P. Olive</author>
+<author pid="61/2408">Heng Ji</author>
+<title>Schema-Guided Event Graph Completion.</title>
+<year>2022</year>
+<booktitle>AKBC</booktitle>
+<ee>https://akbc.ws/2022/papers/4_schema_guided_event_graph_comp</ee>
+<crossref>conf/akbc/2022</crossref>
+<url>db/conf/akbc/akbc2022.html#WangZL0STOJ22</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/cikm/0002S22" mdate="2022-10-19">
@@ -4613,7 +4630,7 @@
 <url>db/conf/www/www2007.html#SunXLYZC07</url>
 </inproceedings>
 </r>
-<coauthors n="510" nc="3">
+<coauthors n="509" nc="3">
 <co c="0"><na f="a/Abdelzaher:Tarek_F=" pid="a/TarekFAbdelzaher">Tarek F. Abdelzaher</na></co>
 <co c="0"><na f="a/Abuduhaibaier:Yiparemu" pid="371/3028">Yiparemu Abuduhaibaier</na></co>
 <co c="0"><na f="a/Adali:Sibel" pid="a/SAdali">Sibel Adali</na></co>
@@ -4670,7 +4687,6 @@
 <co c="0"><na f="c/Chen:Zhengzhang" pid="14/3744">Zhengzhang Chen</na></co>
 <co c="0"><na f="c/Cheng_0001:Hong" pid="85/5637-1">Hong Cheng 0001</na></co>
 <co c="0"><na f="c/Cheng:Kewei" pid="175/1247">Kewei Cheng</na></co>
-<co c="0"><na f="c/Cheng:Monica" pid="353/7697">Monica Cheng</na></co>
 <co c="0"><na f="c/Cheng:Monica_Xiao" pid="352/4083">Monica Xiao Cheng</na></co>
 <co c="0"><na f="c/Cheng:Reynold" pid="89/2619">Reynold Cheng</na></co>
 <co c="0"><na f="c/Cheng:Xiao" pid="73/1713">Xiao Cheng</na></co>
@@ -5053,7 +5069,7 @@
 <co c="0"><na f="y/Yan:Shuicheng" pid="y/ShuichengYan">Shuicheng Yan</na></co>
 <co c="0"><na f="y/Yan:Xifeng" pid="y/XifengYan">Xifeng Yan</na></co>
 <co c="0"><na f="y/Yan:Yu" pid="12/778">Yu Yan</na></co>
-<co c="0" n="2"><na f="y/Yang_0001:Carl_J=" pid="305/0254">Carl J. Yang 0001</na><na>Carl Yang 0001</na></co>
+<co c="0"><na f="y/Yang_0001:Carl" pid="305/0254">Carl Yang 0001</na></co>
 <co c="0"><na f="y/Yang_0001:Qiang" pid="82/6362-1">Qiang Yang 0001</na></co>
 <co c="0"><na f="y/Yang:Ruichao" pid="305/0169">Ruichao Yang</na></co>
 <co c="0"><na f="y/Yang:Xiao" pid="57/3385">Xiao Yang</na></co>

@@ -1,4 +1,4 @@
-<dblpperson name="Guihai Chen" pid="51/1742" n="798">
+<dblpperson name="Guihai Chen" pid="51/1742" n="800">
 <person key="homepages/51/1742" mdate="2020-07-03">
 <author pid="51/1742">Guihai Chen</author>
 <url>http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=180</url>
@@ -873,6 +873,40 @@
 <ee>https://doi.org/10.1145/3600061.3603123</ee>
 <crossref>conf/apnet/2023</crossref>
 <url>db/conf/apnet/apnet2023.html#Liu00DC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bdcloud/Wu0MKLSYYMC23" mdate="2024-04-18">
+<author pid="299/8849">Jiejian Wu</author>
+<author pid="75/3158-15">Zhe Wang 0015</author>
+<author pid="24/5931">Teng Ma</author>
+<author pid="23/7909">Linghe Kong</author>
+<author pid="65/10314">Yutong Liu</author>
+<author pid="96/3954">Zhuo Song</author>
+<author pid="85/3615">Jiadi Yu</author>
+<author pid="11/357">Yong Yang</author>
+<author pid="60/6411">Tao Ma</author>
+<author pid="51/1742">Guihai Chen</author>
+<title>DySched: Relieving Large-Scale Incast for Cloud-Native RDMA Applications.</title>
+<pages>18-25</pages>
+<year>2023</year>
+<booktitle>ISPA/BDCloud/SocialCom/SustainCom</booktitle>
+<ee>https://doi.org/10.1109/ISPA-BDCloud-SocialCom-SustainCom59178.2023.00035</ee>
+<crossref>conf/bdcloud/2023</crossref>
+<url>db/conf/bdcloud/bdcloud2023.html#Wu0MKLSYYMC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bdcloud/LiYKC23" mdate="2024-04-18">
+<author pid="181/2820">Jing Li</author>
+<author pid="265/5111">Peihao Yang</author>
+<author pid="23/7909">Linghe Kong</author>
+<author pid="51/1742">Guihai Chen</author>
+<title>A BPF-Based Task Scheduling Scheme for Heterogeneous Multiprocessor Systems.</title>
+<pages>352-359</pages>
+<year>2023</year>
+<booktitle>ISPA/BDCloud/SocialCom/SustainCom</booktitle>
+<ee>https://doi.org/10.1109/ISPA-BDCloud-SocialCom-SustainCom59178.2023.00078</ee>
+<crossref>conf/bdcloud/2023</crossref>
+<url>db/conf/bdcloud/bdcloud2023.html#LiYKC23</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/cikm/WanSWCZWC23" mdate="2023-10-31">
@@ -12672,7 +12706,7 @@
 <ee>https://doi.org/10.1007/3-540-58430-7_67</ee>
 </inproceedings>
 </r>
-<coauthors n="1011" nc="2">
+<coauthors n="1015" nc="2">
 <co c="0"><na f="a/Abdelzaher:Tarek_F=" pid="a/TarekFAbdelzaher">Tarek F. Abdelzaher</na></co>
 <co c="0"><na f="a/Arnon:Shlomi" pid="16/7666">Shlomi Arnon</na></co>
 <co c="0"><na f="b/Bai_0001:Bo" pid="10/4008-1">Bo Bai 0001</na></co>
@@ -12974,6 +13008,7 @@
 <co c="0"><na f="l/Li:Hongxing" pid="01/405">Hongxing Li</na></co>
 <co c="0"><na f="l/Li:Huiba" pid="48/9032">Huiba Li</na></co>
 <co c="0"><na f="l/Li:Jianqiang" pid="08/2185">Jianqiang Li</na></co>
+<co c="0"><na f="l/Li:Jing" pid="181/2820">Jing Li</na></co>
 <co c="0"><na f="l/Li:Jingxuan" pid="71/8313">Jingxuan Li</na></co>
 <co c="0"><na f="l/Li:Jinning" pid="211/7889">Jinning Li</na></co>
 <co c="0"><na f="l/Li:Jun" pid="116/1011">Jun Li</na></co>
@@ -13133,6 +13168,7 @@
 <co c="0"><na f="m/Ma:Mingqian" pid="317/8050">Mingqian Ma</na></co>
 <co c="0"><na f="m/Ma:Qiufang" pid="229/8840">Qiufang Ma</na></co>
 <co c="0"><na f="m/Ma_0001:Shuai" pid="35/6569">Shuai Ma 0001</na></co>
+<co c="0"><na f="m/Ma:Tao" pid="60/6411">Tao Ma</na></co>
 <co c="0"><na f="m/Ma:Teng" pid="24/5931">Teng Ma</na></co>
 <co c="0"><na f="m/Ma_0006:Xiao" pid="35/573-6">Xiao Ma 0006</na></co>
 <co c="0"><na f="m/Ma:Yue" pid="08/6794">Yue Ma</na></co>
@@ -13384,6 +13420,7 @@
 <co c="0"><na f="w/Wu:Guanhao" pid="73/9964">Guanhao Wu</na></co>
 <co c="1"><na f="w/Wu:Jianshe" pid="03/10323">Jianshe Wu</na></co>
 <co c="0"><na f="w/Wu_0001:Jie" pid="w/JieWu1">Jie Wu 0001</na></co>
+<co c="0"><na f="w/Wu:Jiejian" pid="299/8849">Jiejian Wu</na></co>
 <co c="0"><na f="w/Wu:Jiesheng" pid="64/2146">Jiesheng Wu</na></co>
 <co c="0"><na f="w/Wu:Jinbo" pid="58/7699">Jinbo Wu</na></co>
 <co c="0"><na f="w/Wu:Jintao" pid="189/4635">Jintao Wu</na></co>
@@ -13502,6 +13539,7 @@
 <co c="0"><na f="y/Yang_0001:Xiaochun" pid="86/2859-1">Xiaochun Yang 0001</na></co>
 <co c="0"><na f="y/Yang:Xiaokang" pid="06/3071">Xiaokang Yang</na></co>
 <co c="0"><na f="y/Yang:Xiaowei" pid="268/7158">Xiaowei Yang</na></co>
+<co c="0"><na f="y/Yang:Yong" pid="11/357">Yong Yang</na></co>
 <co c="0"><na f="y/Yang:Yongtian" pid="45/3470">Yongtian Yang</na></co>
 <co c="0"><na f="y/Yang:Yuchen" pid="06/7124">Yuchen Yang</na></co>
 <co c="0"><na f="y/Yang:Zhaoxiong" pid="203/0817">Zhaoxiong Yang</na></co>

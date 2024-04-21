@@ -1,4 +1,4 @@
-<dblpperson name="Mohammad Sadoghi" pid="56/7016" n="121">
+<dblpperson name="Mohammad Sadoghi" pid="56/7016" n="122">
 <person key="homepages/56/7016" mdate="2021-10-04">
 <author pid="56/7016">Mohammad Sadoghi</author>
 <note type="affiliation">University of California, Davis, USA</note>
@@ -27,6 +27,22 @@
 <ee>https://doi.org/10.48786/edbt.2024.10</ee>
 <crossref>conf/edbt/2024</crossref>
 <url>db/conf/edbt/edbt2024.html#ChakrabortyAMNSSVS24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nsdi/AmiriWAALS24" mdate="2024-04-19">
+<author pid="183/8663">Mohammad Javad Amiri</author>
+<author pid="261/2045">Chenyuan Wu</author>
+<author pid="a/DivyakantAgrawal">Divyakant Agrawal</author>
+<author pid="a/AmrElAbbadi">Amr El Abbadi</author>
+<author pid="75/3108">Boon Thau Loo</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>The Bedrock of Byzantine Fault Tolerance: A Unified Platform for BFT Protocols Analysis, Implementation, and Experimentation.</title>
+<pages>371-400</pages>
+<year>2024</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi24/presentation/amiri</ee>
+<crossref>conf/nsdi/2024</crossref>
+<url>db/conf/nsdi/nsdi2024.html#AmiriWAALS24</url>
 </inproceedings>
 </r>
 <r><article key="journals/ftdb/NawabS23" mdate="2023-09-30">

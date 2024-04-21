@@ -1,4 +1,4 @@
-<dblpperson name="Christopher R&#233;" pid="r/ChristopherRe" n="452">
+<dblpperson name="Christopher R&#233;" pid="r/ChristopherRe" n="453">
 <person key="homepages/r/ChristopherRe" mdate="2022-09-01">
 <author pid="r/ChristopherRe">Christopher R&#233;</author>
 <url>http://cs.stanford.edu/people/chrismre/</url>
@@ -27,6 +27,21 @@
 <ee>https://doi.org/10.1038/s41746-024-01008-9</ee>
 <url>db/journals/npjdm/npjdm7.html#SaabTTLRR24</url>
 </article>
+</r>
+<r><inproceedings key="conf/wacv/SarukkaiLMRF24" mdate="2024-04-17">
+<author pid="255/5601">Vishnu Sarukkai</author>
+<author pid="341/5225">Linden Li</author>
+<author pid="290/6951">Arden Ma</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author pid="11/3211">Kayvon Fatahalian</author>
+<title>Collage Diffusion.</title>
+<pages>4196-4205</pages>
+<year>2024</year>
+<booktitle>WACV</booktitle>
+<ee>https://doi.org/10.1109/WACV57701.2024.00416</ee>
+<crossref>conf/wacv/2024</crossref>
+<url>db/conf/wacv/wacv2024.html#SarukkaiLMRF24</url>
+</inproceedings>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2402-04347" mdate="2024-02-12">
 <author pid="72/5202">Michael Zhang</author>
@@ -3178,7 +3193,7 @@
 <url>db/conf/aistats/aistats2019.html#ZhangMDR19</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/amia/YuWBRASK19" mdate="2022-08-15">
+<r><inproceedings key="conf/amia/YuWBRASK19" mdate="2024-04-17">
 <author pid="148/5947">Kun-Hsing Yu</author>
 <author pid="132/7990">Feiran Wang</author>
 <author pid="212/8328">Gerald J. Berry</author>
@@ -3189,7 +3204,7 @@
 <title>Classifying Non-Small Cell Lung Cancer Histopathology Types and Transcriptomic Subtypes using Convolutional Neural Networks.</title>
 <year>2019</year>
 <booktitle>AMIA</booktitle>
-<ee>https://knowledge.amia.org/69862-amia-1.4570936/t006-1.4574499/t006-1.4574500/3199450-1.4574507/3202228-1.4574504</ee>
+<ee type="archive">https://knowledge.amia.org/69862-amia-1.4570936/t006-1.4574499/t006-1.4574500/3199450-1.4574507/3202228-1.4574504</ee>
 <crossref>conf/amia/2019</crossref>
 <url>db/conf/amia/amia2019.html#YuWBRASK19</url>
 </inproceedings>
@@ -3897,7 +3912,7 @@
 <url>db/conf/aistats/aistats2018.html#XuHSMR18</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/amia/YuBRRAS18" mdate="2022-08-15">
+<r><inproceedings key="conf/amia/YuBRRAS18" mdate="2024-04-17">
 <author pid="148/5947">Kun-Hsing Yu</author>
 <author pid="212/8328">Gerald J. Berry</author>
 <author pid="35/5410">Daniel L. Rubin</author>
@@ -3907,7 +3922,7 @@
 <title>Unraveling the Molecular Basis of Lung Adenocarcinoma Dedifferentiation and Prognosis by Integrating Omics and Histopathology.</title>
 <year>2018</year>
 <booktitle>AMIA</booktitle>
-<ee>https://knowledge.amia.org/67852-amia-1.4259402/t006-1.4263223/t006-1.4263224/2973466-1.4263237/2976036-1.4263234</ee>
+<ee type="archive">https://knowledge.amia.org/67852-amia-1.4259402/t006-1.4263223/t006-1.4263224/2973466-1.4263237/2976036-1.4263234</ee>
 <crossref>conf/amia/2018</crossref>
 <url>db/conf/amia/amia2018.html#YuBRRAS18</url>
 </inproceedings>
@@ -4379,7 +4394,7 @@
 <url>db/journals/vldb/vldb26.html#SaRR0W0Z17</url>
 </article>
 </r>
-<r><inproceedings key="conf/amia/YuZBARRS17" mdate="2022-08-15">
+<r><inproceedings key="conf/amia/YuZBARRS17" mdate="2024-04-17">
 <author pid="148/5947">Kun-Hsing Yu</author>
 <author pid="97/919-1">Ce Zhang 0001</author>
 <author pid="212/8328">Gerald J. Berry</author>
@@ -4390,7 +4405,7 @@
 <title>Predicting Non-Small Cell Lung Cancer Diagnosis and Prognosis by Fully Automated Microscopic Pathology Image Features.</title>
 <year>2017</year>
 <booktitle>AMIA</booktitle>
-<ee>https://knowledge.amia.org/65881-amiab-1.4254737/t001-1.4259018/f001-1.4259019/2730227-1.4259041/2731909-1.4259038</ee>
+<ee type="archive">https://knowledge.amia.org/65881-amiab-1.4254737/t001-1.4259018/f001-1.4259019/2730227-1.4259041/2731909-1.4259038</ee>
 <crossref>conf/amia/2017</crossref>
 <url>db/conf/amia/amia2017.html#YuZBARRS17</url>
 </inproceedings>

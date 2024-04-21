@@ -1,7 +1,36 @@
-<dblpperson name="Shanmuganathan Raman" pid="70/4688" n="149">
+<dblpperson name="Shanmuganathan Raman" pid="70/4688" n="151">
 <person key="homepages/70/4688" mdate="2009-06-10">
 <author pid="70/4688">Shanmuganathan Raman</author>
 </person>
+<r><inproceedings key="conf/wacv/VermaSSR24" mdate="2024-04-17">
+<author pid="261/7964">Shashikant Verma</author>
+<author pid="211/6908">Aman Sharma</author>
+<author pid="373/2399">Roopa Sheshadri</author>
+<author pid="70/4688">Shanmuganathan Raman</author>
+<title>GraphFill: Deep Image Inpainting using Graphs.</title>
+<pages>4984-4994</pages>
+<year>2024</year>
+<booktitle>WACV</booktitle>
+<ee>https://doi.org/10.1109/WACV57701.2024.00492</ee>
+<crossref>conf/wacv/2024</crossref>
+<url>db/conf/wacv/wacv2024.html#VermaSSR24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wacv/SinghDVMR24" mdate="2024-04-17">
+<author pid="283/5953">Prajwal Singh</author>
+<author pid="344/3845">Dwip Dalal</author>
+<author pid="334/5135">Gautam Vashishtha</author>
+<author pid="00/4508">Krishna P. Miyapuram</author>
+<author pid="70/4688">Shanmuganathan Raman</author>
+<title>Learning Robust Deep Visual Representations from EEG Brain Recordings.</title>
+<pages>7538-7547</pages>
+<year>2024</year>
+<booktitle>WACV</booktitle>
+<ee>https://doi.org/10.1109/WACV57701.2024.00738</ee>
+<crossref>conf/wacv/2024</crossref>
+<url>db/conf/wacv/wacv2024.html#SinghDVMR24</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/icassp/SinghPMR23" mdate="2023-11-05">
 <author pid="283/5953">Prajwal Singh</author>
 <author pid="150/7556">Pankaj Pandey</author>
@@ -1879,7 +1908,7 @@
 <url>db/conf/iccv/iccv2007.html#RamanC07</url>
 </inproceedings>
 </r>
-<coauthors n="85" nc="11">
+<coauthors n="87" nc="11">
 <co c="0"><na f="a/Anand:Mrinal" pid="293/9881">Mrinal Anand</na></co>
 <co c="-1"><na f="b/Bansal:Naman" pid="205/6871">Naman Bansal</na></co>
 <co c="7"><na f="b/Bapat:Akash" pid="186/1858">Akash Bapat</na></co>
@@ -1948,8 +1977,10 @@
 <co c="6"><na f="s/Shah:Purvik" pid="218/8894">Purvik Shah</na></co>
 <co c="0"><na f="s/Shah:Saprem" pid="242/6563">Saprem Shah</na></co>
 <co c="0"><na f="s/Shanmuganathan:Srivathsan" pid="242/6583">Srivathsan Shanmuganathan</na></co>
+<co c="0"><na f="s/Sharma:Aman" pid="211/6908">Aman Sharma</na></co>
 <co c="9"><na f="s/Sharma:Puneet" pid="13/5262">Puneet Sharma</na></co>
 <co c="0"><na f="s/Sharma:Tarun" pid="28/6106">Tarun Sharma</na></co>
+<co c="0"><na f="s/Sheshadri:Roopa" pid="373/2399">Roopa Sheshadri</na></co>
 <co c="0"><na f="s/Shettiwar:Parth" pid="331/0524">Parth Shettiwar</na></co>
 <co c="0"><na f="s/Singh:Kshitij" pid="202/5443">Kshitij Singh</na></co>
 <co c="0"><na f="s/Singh:Prajwal" pid="283/5953">Prajwal Singh</na></co>

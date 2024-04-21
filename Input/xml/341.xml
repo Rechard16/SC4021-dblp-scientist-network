@@ -1,4 +1,4 @@
-<dblpperson name="Iqra Altaf Gillani" pid="194/2827" n="17">
+<dblpperson name="Iqra Altaf Gillani" pid="194/2827" n="18">
 <person key="homepages/194/2827" mdate="2024-01-28">
 <author pid="194/2827">Iqra Altaf Gillani</author>
 <url>https://orcid.org/0000-0001-8656-4023</url>
@@ -40,6 +40,19 @@
 <ee>https://doi.org/10.1145/3632410.3632485</ee>
 <crossref>conf/comad/2024</crossref>
 <url>db/conf/comad/comad2024.html#ZahoorGB24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wacv/AshrafMG24" mdate="2024-04-17">
+<author pid="373/2348">Tajamul Ashraf</author>
+<author pid="373/2045">Fuzayil Bin Afzal Mir</author>
+<author pid="194/2827">Iqra Altaf Gillani</author>
+<title>TransFed: A way to epitomize Focal Modulation using Transformer-based Federated Learning.</title>
+<pages>543-552</pages>
+<year>2024</year>
+<booktitle>WACV</booktitle>
+<ee>https://doi.org/10.1109/WACV57701.2024.00061</ee>
+<crossref>conf/wacv/2024</crossref>
+<url>db/conf/wacv/wacv2024.html#AshrafMG24</url>
 </inproceedings>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2401-15363" mdate="2024-02-06">
@@ -217,17 +230,19 @@
 <url>db/journals/corr/corr1702.html#GillaniVB17</url>
 </article>
 </r>
-<coauthors n="11" nc="3">
+<coauthors n="13" nc="4">
+<co c="1"><na f="a/Ashraf:Tajamul" pid="373/2348">Tajamul Ashraf</na></co>
 <co c="0"><na f="b/Bagchi:Amitabha" pid="77/5034">Amitabha Bagchi</na></co>
-<co c="1"><na f="b/Bashir:Janibul" pid="204/3325">Janibul Bashir</na></co>
+<co c="2"><na f="b/Bashir:Janibul" pid="204/3325">Janibul Bashir</na></co>
 <co c="0"><na f="g/Gupta:Tanmay" pid="62/1086">Tanmay Gupta</na></co>
-<co c="2"><na f="i/Iqbal:Zilmarij" pid="268/3683">Zilmarij Iqbal</na></co>
+<co c="3"><na f="i/Iqbal:Zilmarij" pid="268/3683">Zilmarij Iqbal</na></co>
 <co c="-1"><na f="m/Makhdomi:Aqsa_Ashraf" pid="321/5952">Aqsa Ashraf Makhdomi</na></co>
 <co c="0"><na f="m/Medya:Sourav" pid="178/3021">Sourav Medya</na></co>
-<co c="2"><na f="r/Rahim:Rahila" pid="268/3890">Rahila Rahim</na></co>
+<co c="1"><na f="m/Mir:Fuzayil_Bin_Afzal" pid="373/2045">Fuzayil Bin Afzal Mir</na></co>
+<co c="3"><na f="r/Rahim:Rahila" pid="268/3890">Rahila Rahim</na></co>
 <co c="0"><na f="r/Ranu:Sayan" pid="38/768">Sayan Ranu</na></co>
 <co c="0"><na f="s/Sharma:Kartik" pid="121/2254">Kartik Sharma</na></co>
 <co c="0"><na f="v/Vyavahare:Pooja" pid="120/7532">Pooja Vyavahare</na></co>
-<co c="1"><na f="z/Zahoor:Aaqib" pid="364/2160">Aaqib Zahoor</na></co>
+<co c="2"><na f="z/Zahoor:Aaqib" pid="364/2160">Aaqib Zahoor</na></co>
 </coauthors>
 </dblpperson>

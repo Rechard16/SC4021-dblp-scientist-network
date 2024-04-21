@@ -1,4 +1,4 @@
-<dblpperson name="Marcelo Arenas" pid="76/6735" n="191">
+<dblpperson name="Marcelo Arenas" pid="76/6735" n="192">
 <person key="homepages/76/6735" mdate="2024-02-13">
 <author pid="76/6735">Marcelo Arenas</author>
 <url>https://marceloarenas.cl/</url>
@@ -12,6 +12,28 @@
 <url>https://orcid.org/0000-0003-3678-1868</url>
 <note type="affiliation">Pontificia Universidad Cat&#243;lica de Chile</note>
 </person>
+<r><article key="journals/dint/VrgocRAAABHNRR23" mdate="2024-04-20">
+<author pid="31/8653">Domagoj Vrgoc</author>
+<author pid="49/6791">Carlos Rojas</author>
+<author pid="36/2474">Renzo Angles</author>
+<author pid="76/6735">Marcelo Arenas</author>
+<author pid="47/901">Diego Arroyuelo</author>
+<author pid="69/4281">Carlos Buil-Aranda</author>
+<author pid="h/AidanHogan">Aidan Hogan</author>
+<author pid="n/GonzaloNavarro">Gonzalo Navarro 0001</author>
+<author pid="72/4028">Cristian Riveros</author>
+<author pid="65/3475">Juan Romero</author>
+<title>MillenniumDB: An Open-Source Graph Database System.</title>
+<pages>560-610</pages>
+<year>2023</year>
+<month>Summer</month>
+<volume>5</volume>
+<journal>Data Intell.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1162/dint_a_00229</ee>
+<url>db/journals/dint/dint5.html#VrgocRAAABHNRR23</url>
+</article>
+</r>
 <r><article key="journals/jmlr/ArenasBBM23" mdate="2023-06-13">
 <author pid="76/6735">Marcelo Arenas</author>
 <author pid="29/5169">Pablo Barcel&#243;</author>
@@ -335,13 +357,13 @@
 <url>db/journals/corr/corr2110.html#abs-2110-02376</url>
 </article>
 </r>
-<r><article publtype="informal" key="journals/corr/abs-2111-01540" mdate="2024-02-28">
+<r><article publtype="informal" key="journals/corr/abs-2111-01540" mdate="2024-04-20">
 <author pid="31/8653">Domagoj Vrgoc</author>
 <author pid="49/6791">Carlos Rojas</author>
 <author pid="36/2474">Renzo Angles</author>
 <author pid="76/6735">Marcelo Arenas</author>
 <author pid="47/901">Diego Arroyuelo</author>
-<author pid="69/4281">Carlos Buil Aranda</author>
+<author pid="69/4281">Carlos Buil-Aranda</author>
 <author pid="h/AidanHogan">Aidan Hogan</author>
 <author pid="n/GonzaloNavarro">Gonzalo Navarro 0001</author>
 <author pid="72/4028">Cristian Riveros</author>
@@ -1088,8 +1110,8 @@
 <url>db/journals/dagstuhl-reports/dagstuhl-reports6.html#ArenasHMMS16</url>
 </article>
 </r>
-<r><inproceedings key="conf/amw/ArandaUAD15" mdate="2023-03-10">
-<author pid="69/4281">Carlos Buil Aranda</author>
+<r><inproceedings key="conf/amw/ArandaUAD15" mdate="2024-04-20">
+<author pid="69/4281">Carlos Buil-Aranda</author>
 <author pid="131/4268">Mart&#237;n Ugarte</author>
 <author pid="76/6735">Marcelo Arenas</author>
 <author pid="d/MichelDumontier">Michel Dumontier</author>
@@ -1443,8 +1465,8 @@
 <url>db/journals/jidm/jidm4.html#ArenasBBG0RR13</url>
 </article>
 </r>
-<r><article key="journals/ws/ArandaACP13" mdate="2019-01-29">
-<author pid="69/4281">Carlos Buil Aranda</author>
+<r><article key="journals/ws/ArandaACP13" mdate="2024-04-20">
+<author pid="69/4281">Carlos Buil-Aranda</author>
 <author pid="76/6735">Marcelo Arenas</author>
 <author orcid="0000-0002-9260-0753" pid="50/3138">&#211;scar Corcho</author>
 <author orcid="0000-0001-5670-1146" pid="p/AxelPolleres">Axel Polleres</author>
@@ -1756,8 +1778,8 @@
 <url>db/conf/dlog/dlog2011.html#ArenasBC11</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/esws/ArandaAC11" mdate="2018-06-26">
-<author pid="69/4281">Carlos Buil Aranda</author>
+<r><inproceedings key="conf/esws/ArandaAC11" mdate="2024-04-20">
+<author pid="69/4281">Carlos Buil-Aranda</author>
 <author pid="76/6735">Marcelo Arenas</author>
 <author pid="50/3138">&#211;scar Corcho</author>
 <title>Semantics and Optimization of the SPARQL 1.1 Federation Extension.</title>
@@ -2802,7 +2824,6 @@
 <co c="0"><na f="a/Alur:Rajeev" pid="a/RAlur">Rajeev Alur</na></co>
 <co c="0"><na f="a/Ammar:Khaled" pid="29/9884">Khaled Ammar</na></co>
 <co c="0"><na f="a/Angles:Renzo" pid="36/2474">Renzo Angles</na></co>
-<co c="0"><na f="a/Aranda:Carlos_Buil" pid="69/4281">Carlos Buil Aranda</na></co>
 <co c="0"><na f="a/Aref:Walid_G=" pid="a/WGAref">Walid G. Aref</na></co>
 <co c="0"><na f="a/Arroyuelo:Diego" pid="47/901">Diego Arroyuelo</na></co>
 <co c="0"><na f="b/B=aacute=ez:Daniel" pid="303/4596">Daniel B&#225;ez</na></co>
@@ -2818,6 +2839,7 @@
 <co c="0"><na f="b/Bonifati:Angela" pid="b/ABonifati">Angela Bonifati</na></co>
 <co c="0"><na f="b/Botoeva:Elena" pid="97/8420">Elena Botoeva</na></co>
 <co c="0"><na f="b/Bravo:Loreto" pid="b/LoretoBravo">Loreto Bravo</na></co>
+<co c="0"><na f="b/Buil=Aranda:Carlos" pid="69/4281">Carlos Buil-Aranda</na></co>
 <co c="0"><na f="b/Buneman:Peter" pid="b/PeterBuneman">Peter Buneman</na></co>
 <co c="0"><na f="b/Bussche:Jan_Van_den" pid="b/JVdBussche">Jan Van den Bussche</na></co>
 <co c="0"><na f="b/Bustamente:Diego" pid="359/3424">Diego Bustamente</na></co>

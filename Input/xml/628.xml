@@ -1,7 +1,40 @@
-<dblpperson name="Oana Balmau" pid="157/1134" n="15">
+<dblpperson name="Oana Balmau" pid="157/1134" n="17">
 <person key="homepages/157/1134" mdate="2015-01-20">
 <author pid="157/1134">Oana Balmau</author>
 </person>
+<r><inproceedings key="conf/edgesys/YanM0MBL24" mdate="2024-04-19">
+<author pid="373/3644">Yuqin Yan</author>
+<author pid="233/9256">Pritish Mishra</author>
+<author pid="81/6685-27">Wei Huang 0027</author>
+<author pid="161/0164">Aastha Mehta</author>
+<author pid="157/1134">Oana Balmau</author>
+<author pid="l/DavidLie">David Lie</author>
+<title>Stream Processing with Adaptive Edge-Enhanced Confidential Computing.</title>
+<pages>37-42</pages>
+<year>2024</year>
+<booktitle>EdgeSys@EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3642968.3654819</ee>
+<crossref>conf/edgesys/2024</crossref>
+<url>db/conf/edgesys/edgesys2024.html#YanM0MBL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edgesys/MeloTPVYBL24" mdate="2024-04-19">
+<author pid="373/3842">Vinicius Dantas de Lima Melo</author>
+<author pid="338/1548">Myles Thiessen</author>
+<author pid="373/3728">Aleksey Panas</author>
+<author pid="205/2779">Alexandre da Silva Veith</author>
+<author pid="373/3903">Keijiro Yano</author>
+<author pid="157/1134">Oana Balmau</author>
+<author pid="59/2063">Eyal de Lara</author>
+<title>PathFS: A File System for the Hierarchical Edge.</title>
+<pages>55-60</pages>
+<year>2024</year>
+<booktitle>EdgeSys@EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3642968.3654822</ee>
+<crossref>conf/edgesys/2024</crossref>
+<url>db/conf/edgesys/edgesys2024.html#MeloTPVYBL24</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/eurosys/RolonB23" mdate="2023-05-17">
 <author orcid="0009-0008-1616-5949" pid="346/0835">Sebastian Rolon</author>
 <author orcid="0000-0002-6822-8891" pid="157/1134">Oana Balmau</author>
@@ -226,7 +259,7 @@
 <url>db/conf/smartgridcomm/smartgridcomm2014.html#BalmauDKNPPT14</url>
 </inproceedings>
 </r>
-<coauthors n="33" nc="2">
+<coauthors n="40" nc="2">
 <co c="0"><na f="a/Arora:Aashray" pid="165/3218">Aashray Arora</na></co>
 <co c="0"><na f="c/Chandhiramoorthi:Ravishankar" pid="244/9333">Ravishankar Chandhiramoorthi</na></co>
 <co c="0"><na f="c/Chen:Hongkai" pid="36/8493">Hongkai Chen</na></co>
@@ -238,14 +271,19 @@
 <co c="0"><na f="g/Guerraoui:Rachid" pid="g/RachidGuerraoui">Rachid Guerraoui</na></co>
 <co c="0"><na f="g/Gupta:Karan" pid="05/4820">Karan Gupta</na></co>
 <co c="0"><na f="h/Herlihy:Maurice" pid="h/MauriceHerlihy">Maurice Herlihy</na></co>
+<co c="0"><na f="h/Huang_0027:Wei" pid="81/6685-27">Wei Huang 0027</na></co>
 <co c="0"><na f="k/Karaaga=ccedil=:Abdulkadir" pid="88/9795">Abdulkadir Karaaga&#231;</na></co>
 <co c="0"><na f="k/Kermarrec:Anne=Marie" pid="86/676">Anne-Marie Kermarrec</na></co>
 <co c="0"><na f="k/Konka:Pavan" pid="203/1561">Pavan Konka</na></co>
 <co c="0"><na f="l/Lara:Eyal_de" pid="59/2063">Eyal de Lara</na></co>
 <co c="0"><na f="l/Lepers:Baptiste" pid="08/8330">Baptiste Lepers</na></co>
+<co c="0"><na f="l/Lie:David" pid="l/DavidLie">David Lie</na></co>
 <co c="0"><na f="m/Maurer:Alexandre" pid="01/10825">Alexandre Maurer</na></co>
+<co c="0"><na f="m/Mehta:Aastha" pid="161/0164">Aastha Mehta</na></co>
+<co c="0"><na f="m/Melo:Vinicius_Dantas_de_Lima" pid="373/3842">Vinicius Dantas de Lima Melo</na></co>
 <co c="0"><na f="m/Mishra:Pritish" pid="233/9256">Pritish Mishra</na></co>
 <co c="0"><na f="n/Nesovic:Vukasin" pid="157/1164">Vukasin Nesovic</na></co>
+<co c="0"><na f="p/Panas:Aleksey" pid="373/3728">Aleksey Panas</na></co>
 <co c="0"><na f="p/Paunovic:Aleksandar" pid="157/1211">Aleksandar Paunovic</na></co>
 <co c="0"><na f="p/Pavlovic:Matej" pid="178/5515">Matej Pavlovic</na></co>
 <co c="0"><na f="p/Pignolet:Yvonne=Anne" pid="90/5323">Yvonne-Anne Pignolet</na></co>
@@ -256,6 +294,8 @@
 <co c="0"><na f="t/Trigonakis:Vasileios" pid="93/11190">Vasileios Trigonakis</na></co>
 <co c="0"><na f="v/Veith:Alexandre_da_Silva" pid="205/2779">Alexandre da Silva Veith</na></co>
 <co c="1"><na f="x/Xiong:Xinran" pid="302/4890">Xinran Xiong</na></co>
+<co c="0"><na f="y/Yan:Yuqin" pid="373/3644">Yuqin Yan</na></co>
+<co c="0"><na f="y/Yano:Keijiro" pid="373/3903">Keijiro Yano</na></co>
 <co c="0"><na f="y/Yuan:Huapeng" pid="17/5109">Huapeng Yuan</na></co>
 <co c="0"><na f="z/Zablotchi:Igor" pid="136/1097">Igor Zablotchi</na></co>
 <co c="1"><na f="z/Zhang:Yong" pid="66/4615">Yong Zhang</na></co>

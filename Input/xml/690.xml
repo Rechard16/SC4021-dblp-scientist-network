@@ -1,5 +1,5 @@
-<dblpperson name="Qi Li 0002" pid="181/2688-2" n="283">
-<person key="homepages/181/2688-2" mdate="2024-03-28">
+<dblpperson name="Qi Li 0002" pid="181/2688-2" n="289">
+<person key="homepages/181/2688-2" mdate="2024-04-18">
 <author pid="181/2688-2">Qi Li 0002</author>
 <note type="affiliation">Tsinghua University, Institute for Network Sciences and Cyberspace, Beijing, China</note>
 <note type="affiliation">Beijing National Research Center for Information Science and Technology, Beijing, China</note>
@@ -10,6 +10,7 @@
 <url>https://orcid.org/0000-0001-8776-8730</url>
 <url>https://orcid.org/0000-0002-4308-3411</url>
 <url>https://ieeexplore.ieee.org/author/37085421035</url>
+<url>https://www.wikidata.org/entity/Q96252864</url>
 </person>
 <homonyms n="37">
 <h f="l/Li:Qi"><person publtype="disambiguation" key="homepages/181/2688" mdate="2018-01-24">
@@ -324,6 +325,48 @@
 <url>db/journals/ton/ton32.html#ZhangWCLSZZL24</url>
 </article>
 </r>
+<r><inproceedings key="conf/nsdi/YanXL00XW24" mdate="2024-04-19">
+<author pid="372/3821">Jinzhu Yan</author>
+<author pid="177/8793">Haotian Xu</author>
+<author pid="69/11514">Zhuotao Liu</author>
+<author pid="181/2688-2">Qi Li 0002</author>
+<author pid="181/2626-2">Ke Xu 0002</author>
+<author pid="18/6055">Mingwei Xu</author>
+<author pid="82/4905">Jianping Wu</author>
+<title>Brain-on-Switch: Towards Advanced Intelligent Network Data Plane via NN-Driven Traffic Analysis at Line-Speed.</title>
+<pages>419-440</pages>
+<year>2024</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi24/presentation/yan</ee>
+<crossref>conf/nsdi/2024</crossref>
+<url>db/conf/nsdi/nsdi2024.html#YanXL00XW24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-05778" mdate="2024-04-19">
+<author pid="197/3968">Tianyu Cui</author>
+<author pid="89/894">Yanling Wang</author>
+<author pid="274/0756">Chuanpu Fu</author>
+<author pid="28/6937">Yong Xiao</author>
+<author pid="160/3987">Sijia Li</author>
+<author pid="247/1165">Xinhao Deng</author>
+<author pid="02/8137">Yunpeng Liu</author>
+<author pid="67/4963">Qinglin Zhang</author>
+<author pid="328/2653">Ziyi Qiu</author>
+<author pid="140/1701">Peiyang Li</author>
+<author pid="186/8414">Zhixing Tan</author>
+<author pid="91/9300">Junwu Xiong</author>
+<author pid="266/4242">Xinyu Kong</author>
+<author pid="260/0351">Zujie Wen</author>
+<author pid="181/2626-2">Ke Xu 0002</author>
+<author pid="181/2688-2">Qi Li 0002</author>
+<title>Risk Taxonomy, Mitigation, and Assessment Benchmarks of Large Language Model Systems.</title>
+<year>2024</year>
+<volume>abs/2401.05778</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.05778</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-05778</url>
+</article>
+</r>
 <r><article publtype="informal" key="journals/corr/abs-2401-09740" mdate="2024-02-06">
 <author pid="255/9411">Yunjie Ge</author>
 <author pid="75/5723">Qian Wang</author>
@@ -360,12 +403,12 @@
 <url>db/journals/corr/corr2402.html#abs-2402-12716</url>
 </article>
 </r>
-<r><article publtype="informal" key="journals/corr/abs-2402-16025" mdate="2024-03-28">
+<r><article publtype="informal" key="journals/corr/abs-2402-16025" mdate="2024-04-19">
 <author pid="205/4031">Yihao Chen</author>
 <author pid="230/1810">Qilei Yin</author>
 <author pid="181/2688-2">Qi Li 0002</author>
 <author pid="69/11514">Zhuotao Liu</author>
-<author pid="181/2626">Ke Xu</author>
+<author pid="181/2626-2">Ke Xu 0002</author>
 <author pid="14/5580">Yi Xu</author>
 <author pid="18/6055">Mingwei Xu</author>
 <author pid="38/123">Ziqian Liu</author>
@@ -376,6 +419,68 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2402.16025</ee>
 <url>db/journals/corr/corr2402.html#abs-2402-16025</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-01268" mdate="2024-04-19">
+<author pid="77/6056">Qi Tan</author>
+<author pid="181/2688-2">Qi Li 0002</author>
+<author pid="51/4138-11">Yi Zhao 0011</author>
+<author pid="69/11514">Zhuotao Liu</author>
+<author pid="170/2427">Xiaobing Guo</author>
+<author pid="181/2626-2">Ke Xu 0002</author>
+<title>Defending Against Data Reconstruction Attacks in Federated Learning: An Information Theory Approach.</title>
+<year>2024</year>
+<volume>abs/2403.01268</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.01268</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-01268</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-11090" mdate="2024-04-19">
+<author pid="372/3821">Jinzhu Yan</author>
+<author pid="177/8793">Haotian Xu</author>
+<author pid="69/11514">Zhuotao Liu</author>
+<author pid="181/2688-2">Qi Li 0002</author>
+<author pid="181/2626-2">Ke Xu 0002</author>
+<author pid="18/6055">Mingwei Xu</author>
+<author pid="82/4905">Jianping Wu</author>
+<title>Brain-on-Switch: Towards Advanced Intelligent Network Data Plane via NN-Driven Traffic Analysis at Line-Speed.</title>
+<year>2024</year>
+<volume>abs/2403.11090</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.11090</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-11090</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-11166" mdate="2024-04-19">
+<author pid="234/8706">Xuanqi Liu</author>
+<author pid="69/11514">Zhuotao Liu</author>
+<author pid="181/2688-2">Qi Li 0002</author>
+<author pid="181/2626-2">Ke Xu 0002</author>
+<author pid="18/6055">Mingwei Xu</author>
+<title>Pencil: Private and Extensible Collaborative Learning without the Non-Colluding Assumption.</title>
+<year>2024</year>
+<volume>abs/2403.11166</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.11166</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-11166</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-15271" mdate="2024-04-19">
+<author pid="80/6791">Yue Xiao</author>
+<author pid="65/425">Yi He</author>
+<author pid="67/6767">Xiaoli Zhang</author>
+<author pid="75/5723">Qian Wang</author>
+<author pid="191/1022">Renjie Xie</author>
+<author pid="30/3530">Kun Sun</author>
+<author pid="181/2626-2">Ke Xu 0002</author>
+<author pid="181/2688-2">Qi Li 0002</author>
+<title>From Hardware Fingerprint to Access Token: Enhancing the Authentication on IoT Devices.</title>
+<year>2024</year>
+<volume>abs/2403.15271</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.15271</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-15271</url>
 </article>
 </r>
 <r><article key="journals/chinaf/LiZYXL23" mdate="2023-09-27">
@@ -4866,7 +4971,7 @@
 <url>db/conf/icebe/icebe2005.html#LiSQ05</url>
 </inproceedings>
 </r>
-<coauthors n="477" nc="1">
+<coauthors n="492" nc="1">
 <co c="0"><na f="a/Alam:Masoom" pid="76/5359">Masoom Alam</na></co>
 <co c="0"><na f="a/Amsaleg:Laurent" pid="a/LAmsaleg">Laurent Amsaleg</na></co>
 <co c="0"><na f="a/Azgin:Aytac" pid="63/2941">Aytac Azgin</na></co>
@@ -4905,6 +5010,7 @@
 <co c="0" n="2"><na f="c/Chiu:Dah=Ming" pid="24/4603">Dah-Ming Chiu</na><na>Dah Ming Chiu</na></co>
 <co c="0"><na f="c/Cui:Helei" pid="167/4173">Helei Cui</na></co>
 <co c="0"><na f="c/Cui:Laizhong" pid="86/10615">Laizhong Cui</na></co>
+<co c="0"><na f="c/Cui:Tianyu" pid="197/3968">Tianyu Cui</na></co>
 <co c="0"><na f="c/Cui_0001:Yong" pid="91/2346-1">Yong Cui 0001</na></co>
 <co c="0"><na f="d/Debbah:M=eacute=rouane" pid="75/4085">M&#233;rouane Debbah</na></co>
 <co c="0"><na f="d/Deng:Jing" pid="06/6599">Jing Deng</na></co>
@@ -4951,6 +5057,7 @@
 <co c="0"><na f="g/Guo:Roland" pid="353/7583">Roland Guo</na></co>
 <co c="0"><na f="g/Guo:Sheng" pid="32/319">Sheng Guo</na></co>
 <co c="0"><na f="g/Guo:Wei" pid="71/6601">Wei Guo</na></co>
+<co c="0"><na f="g/Guo:Xiaobing" pid="170/2427">Xiaobing Guo</na></co>
 <co c="0"><na f="g/Guo:Yangfei" pid="300/7087">Yangfei Guo</na></co>
 <co c="0"><na f="g/Guo:Yanhui" pid="84/7055">Yanhui Guo</na></co>
 <co c="0"><na f="g/Guo:Yunzhe" pid="257/6405">Yunzhe Guo</na></co>
@@ -4994,6 +5101,7 @@
 <co c="0" n="2"><na f="k/Ko:Ryan_Kok_Leong" pid="75/11480">Ryan Kok Leong Ko</na><na>Ryan K. L. Ko</na></co>
 <co c="0"><na f="k/Kong:Hui" pid="94/1836">Hui Kong</na></co>
 <co c="0"><na f="k/Kong:Linghe" pid="23/7909">Linghe Kong</na></co>
+<co c="0"><na f="k/Kong:Xinyu" pid="266/4242">Xinyu Kong</na></co>
 <co c="0"><na f="k/Kuang:Xiaohui" pid="18/1267">Xiaohui Kuang</na></co>
 <co c="0"><na f="k/Kwak:Kyung_Joon" pid="96/2355">Kyung Joon Kwak</na></co>
 <co c="0"><na f="l/Lai:Shangqi" pid="176/9676">Shangqi Lai</na></co>
@@ -5023,6 +5131,7 @@
 <co c="0"><na f="l/Li:Renjue" pid="276/7051">Renjue Li</na></co>
 <co c="0"><na f="l/Li:Ruoyu" pid="08/10026">Ruoyu Li</na></co>
 <co c="0"><na f="l/Li:Sainan" pid="40/11446">Sainan Li</na></co>
+<co c="0"><na f="l/Li:Sijia" pid="160/3987">Sijia Li</na></co>
 <co c="0"><na f="l/Li_0014:Tong" pid="29/3826-14">Tong Li 0014</na></co>
 <co c="0"><na f="l/Li:Xiang" pid="40/1491">Xiang Li</na></co>
 <co c="0"><na f="l/Li:Xiaoning" pid="31/5395">Xiaoning Li</na></co>
@@ -5062,6 +5171,7 @@
 <co c="0"><na f="l/Liu:Xin" pid="76/1820">Xin Liu</na></co>
 <co c="0"><na f="l/Liu:Xingtong" pid="04/1006">Xingtong Liu</na></co>
 <co c="0"><na f="l/Liu:Xuankai" pid="271/8411">Xuankai Liu</na></co>
+<co c="0"><na f="l/Liu:Xuanqi" pid="234/8706">Xuanqi Liu</na></co>
 <co c="0"><na f="l/Liu:Yan" pid="150/4295">Yan Liu</na></co>
 <co c="0"><na f="l/Liu:Yang" pid="51/3710">Yang Liu</na></co>
 <co c="0"><na f="l/Liu:Yukun" pid="62/8555">Yukun Liu</na></co>
@@ -5105,6 +5215,7 @@
 <co c="0"><na f="q/Qing:Sihan" pid="83/130">Sihan Qing</na></co>
 <co c="0"><na f="q/Qing:Yuqi" pid="356/7457">Yuqi Qing</na></co>
 <co c="0"><na f="q/Qiu_0001:Han" pid="15/4507-1">Han Qiu 0001</na></co>
+<co c="0"><na f="q/Qiu:Ziyi" pid="328/2653">Ziyi Qiu</na></co>
 <co c="0"><na f="q/Qu:Qiang" pid="92/5150">Qiang Qu</na></co>
 <co c="0"><na f="q/Qu_0001:Wenjie" pid="216/6884-1">Wenjie Qu 0001</na></co>
 <co c="0"><na f="r/Rao:Yuan" pid="73/4103">Yuan Rao</na></co>
@@ -5146,6 +5257,8 @@
 <co c="0"><na f="s/Sun:Xiaomei" pid="58/1724">Xiaomei Sun</na></co>
 <co c="0"><na f="s/Sun:Yongqian" pid="150/3609">Yongqian Sun</na></co>
 <co c="0"><na f="s/Sun:Zhenguo" pid="40/1986">Zhenguo Sun</na></co>
+<co c="0"><na f="t/Tan:Qi" pid="77/6056">Qi Tan</na></co>
+<co c="0"><na f="t/Tan:Zhixing" pid="186/8414">Zhixing Tan</na></co>
 <co c="0"><na f="t/Tang:Bo" pid="43/2474">Bo Tang</na></co>
 <co c="0"><na f="t/Tang:Jun" pid="52/6788">Jun Tang</na></co>
 <co c="0"><na f="t/Tang:Ruming" pid="183/6809">Ruming Tang</na></co>
@@ -5190,6 +5303,7 @@
 <co c="0"><na f="w/Wang_0004:Xiaoliang" pid="02/3450-4">Xiaoliang Wang 0004</na></co>
 <co c="0"><na f="w/Wang_0002:Xin" pid="10/5630-2">Xin Wang 0002</na></co>
 <co c="0"><na f="w/Wang_0001:Xinda" pid="213/2431-1">Xinda Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Yanling" pid="89/894">Yanling Wang</na></co>
 <co c="0"><na f="w/Wang:Ye" pid="44/6292">Ye Wang</na></co>
 <co c="0"><na f="w/Wang:Yixiao" pid="58/5675">Yixiao Wang</na></co>
 <co c="0"><na f="w/Wang_0096:Yu" pid="02/5889-96">Yu Wang 0096</na></co>
@@ -5200,6 +5314,7 @@
 <co c="0"><na f="w/Wang:Ziqiang" pid="68/2002">Ziqiang Wang</na></co>
 <co c="0"><na f="w/Wei:Tao" pid="64/5099">Tao Wei</na></co>
 <co c="0"><na f="w/Wen:Bihan" pid="158/9840">Bihan Wen</na></co>
+<co c="0"><na f="w/Wen:Zujie" pid="260/0351">Zujie Wen</na></co>
 <co c="0"><na f="w/Weng_0001:Jian" pid="81/1232-1">Jian Weng 0001</na></co>
 <co c="0"><na f="w/Wu:Bo" pid="47/6534">Bo Wu</na></co>
 <co c="0"><na f="w/Wu_0002:Bo" pid="47/6534-2">Bo Wu 0002</na></co>
@@ -5219,14 +5334,17 @@
 <co c="0"><na f="x/Xiao:Feng" pid="71/1116">Feng Xiao</na></co>
 <co c="0"><na f="x/Xiao:Xi" pid="83/6642">Xi Xiao</na></co>
 <co c="0"><na f="x/Xiao:Xusheng" pid="13/9656">Xusheng Xiao</na></co>
+<co c="0"><na f="x/Xiao:Yong" pid="28/6937">Yong Xiao</na></co>
 <co c="0"><na f="x/Xiao_0001:Yu" pid="54/5385-1">Yu Xiao 0001</na></co>
+<co c="0"><na f="x/Xiao:Yue" pid="80/6791">Yue Xiao</na></co>
 <co c="0"><na f="x/Xie:Renjie" pid="191/1022">Renjie Xie</na></co>
 <co c="0"><na f="x/Xie:Xinlei" pid="327/9554">Xinlei Xie</na></co>
 <co c="0"><na f="x/Xing:Yunlong" pid="300/5803">Yunlong Xing</na></co>
+<co c="0"><na f="x/Xiong:Junwu" pid="91/9300">Junwu Xiong</na></co>
 <co c="0"><na f="x/Xu:Anthony_X=_F=" pid="04/3359">Anthony X. F. Xu</na></co>
 <co c="0"><na f="x/Xu:Cheng" pid="74/5952">Cheng Xu</na></co>
 <co c="0"><na f="x/Xu:Guoai" pid="76/10013">Guoai Xu</na></co>
-<co c="0"><na f="x/Xu:Ke" pid="181/2626">Ke Xu</na></co>
+<co c="0"><na f="x/Xu:Haotian" pid="177/8793">Haotian Xu</na></co>
 <co c="0"><na f="x/Xu_0002:Ke" pid="181/2626-2">Ke Xu 0002</na></co>
 <co c="0"><na f="x/Xu:Lisong" pid="16/2866">Lisong Xu</na></co>
 <co c="0"><na f="x/Xu:Mingwei" pid="18/6055">Mingwei Xu</na></co>
@@ -5238,6 +5356,7 @@
 <co c="0"><na f="x/Xue:Tengfei" pid="31/10104">Tengfei Xue</na></co>
 <co c="0"><na f="y/Yan_0008:Fei" pid="52/4851-8">Fei Yan 0008</na></co>
 <co c="0"><na f="y/Yan:Jia" pid="18/3055">Jia Yan</na></co>
+<co c="0"><na f="y/Yan:Jinzhu" pid="372/3821">Jinzhu Yan</na></co>
 <co c="0"><na f="y/Yang:Fan" pid="29/3081">Fan Yang</na></co>
 <co c="0"><na f="y/Yang_0001:Jiahai" pid="62/2814-1">Jiahai Yang 0001</na></co>
 <co c="0"><na f="y/Yang:Jingxiao" pid="207/1738">Jingxiao Yang</na></co>
@@ -5289,6 +5408,7 @@
 <co c="0"><na f="z/Zhang_0017:Ning" pid="181/2597-17">Ning Zhang 0017</na></co>
 <co c="0"><na f="z/Zhang_0011:Peng" pid="21/1048-11">Peng Zhang 0011</na></co>
 <co c="0"><na f="z/Zhang:Qifan" pid="44/8211">Qifan Zhang</na></co>
+<co c="0"><na f="z/Zhang:Qinglin" pid="67/4963">Qinglin Zhang</na></co>
 <co c="0"><na f="z/Zhang:Ruoyi" pid="226/1153">Ruoyi Zhang</na></co>
 <co c="0"><na f="z/Zhang:Shenyi" pid="52/10864">Shenyi Zhang</na></co>
 <co c="0"><na f="z/Zhang:Shize" pid="182/6680">Shize Zhang</na></co>

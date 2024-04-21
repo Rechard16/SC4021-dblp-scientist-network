@@ -1,4 +1,4 @@
-<dblpperson name="Mohammad Javad Amiri" pid="183/8663" n="41">
+<dblpperson name="Mohammad Javad Amiri" pid="183/8663" n="42">
 <person key="homepages/183/8663" mdate="2016-08-05">
 <author pid="183/8663">Mohammad Javad Amiri</author>
 </person>
@@ -19,6 +19,22 @@
 <ee type="oa">https://www.vldb.org/pvldb/vol17/p1073-wu.pdf</ee>
 <url>db/journals/pvldb/pvldb17.html#WuAQMML24</url>
 </article>
+</r>
+<r><inproceedings key="conf/nsdi/AmiriWAALS24" mdate="2024-04-19">
+<author pid="183/8663">Mohammad Javad Amiri</author>
+<author pid="261/2045">Chenyuan Wu</author>
+<author pid="a/DivyakantAgrawal">Divyakant Agrawal</author>
+<author pid="a/AmrElAbbadi">Amr El Abbadi</author>
+<author pid="75/3108">Boon Thau Loo</author>
+<author pid="56/7016">Mohammad Sadoghi</author>
+<title>The Bedrock of Byzantine Fault Tolerance: A Unified Platform for BFT Protocols Analysis, Implementation, and Experimentation.</title>
+<pages>371-400</pages>
+<year>2024</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi24/presentation/amiri</ee>
+<crossref>conf/nsdi/2024</crossref>
+<url>db/conf/nsdi/nsdi2024.html#AmiriWAALS24</url>
+</inproceedings>
 </r>
 <r><article key="journals/pvldb/WuMAML23" mdate="2023-10-28">
 <author pid="261/2045">Chenyuan Wu</author>

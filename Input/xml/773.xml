@@ -1,4 +1,4 @@
-<dblpperson name="Xiaoyang Sean Wang" pid="w/XiaoyangSeanWang" n="211">
+<dblpperson name="Xiaoyang Sean Wang" pid="w/XiaoyangSeanWang" n="212">
 <person key="homepages/w/XiaoyangSeanWang" mdate="2022-03-10">
 <author pid="w/XiaoyangSeanWang">Xiaoyang Sean Wang</author>
 <author pid="w/XiaoyangSeanWang">X. Sean Wang</author>
@@ -45,6 +45,20 @@
 <ee>https://doi.org/10.1109/TPDS.2023.3298038</ee>
 <url>db/journals/tpds/tpds35.html#ChenCZW24</url>
 </article>
+</r>
+<r><inproceedings key="conf/bigcomp/GanWSH24" mdate="2024-04-18">
+<author pid="373/3082">Bowen Gan</author>
+<author pid="w/XiaoyangSeanWang">X. Sean Wang</author>
+<author pid="52/8456">Yibing Shi</author>
+<author pid="04/2514">Wei Hua</author>
+<title>Optimization of Incremental Join Based on Auxiliary View.</title>
+<pages>391-392</pages>
+<year>2024</year>
+<booktitle>BigComp</booktitle>
+<ee>https://doi.org/10.1109/BigComp60711.2024.00084</ee>
+<crossref>conf/bigcomp/2024</crossref>
+<url>db/conf/bigcomp/bigcomp2024.html#GanWSH24</url>
+</inproceedings>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2402-17144" mdate="2024-03-25">
 <author pid="329/3517">Yuankai Fan</author>
@@ -3350,7 +3364,7 @@
 <ee>https://doi.org/10.1002/spe.4380161105</ee>
 </article>
 </r>
-<coauthors n="232" nc="4">
+<coauthors n="235" nc="4">
 <co c="0"><na f="a/Agarwal:Abhishek" pid="43/1977">Abhishek Agarwal</na></co>
 <co c="0"><na f="a/Al=Kateb:Mohammed" pid="11/820">Mohammed Al-Kateb</na></co>
 <co c="0"><na f="a/Alexandridis:Nikitas_A=" pid="10/5083">Nikitas A. Alexandridis</na></co>
@@ -3403,6 +3417,7 @@
 <co c="0"><na f="f/Freni:Dario" pid="26/809">Dario Freni</na></co>
 <co c="3"><na f="f/Frolik:Jeff" pid="95/5200">Jeff Frolik</na></co>
 <co c="0"><na f="f/Furnell:Steven" pid="83/2392">Steven Furnell</na></co>
+<co c="0"><na f="g/Gan:Bowen" pid="373/3082">Bowen Gan</na></co>
 <co c="0"><na f="g/Gao:Feng" pid="10/2674">Feng Gao</na></co>
 <co c="0"><na f="g/Gao:Like" pid="23/1761">Like Gao</na></co>
 <co c="0"><na f="g/Gao:Qianfeng" pid="289/8867">Qianfeng Gao</na></co>
@@ -3429,6 +3444,7 @@
 <co c="0"><na f="h/He:Zhengying" pid="256/6576">Zhengying He</na></co>
 <co c="0"><na f="h/He:Zhenying" pid="23/6341">Zhenying He</na></co>
 <co c="0"><na f="h/Hertz:Paul" pid="64/1460">Paul Hertz</na></co>
+<co c="0"><na f="h/Hua:Wei" pid="04/2514">Wei Hua</na></co>
 <co c="0"><na f="h/Huang:Can" pid="46/5068">Can Huang</na></co>
 <co c="0"><na f="h/Huang:Guangyan" pid="00/1198">Guangyan Huang</na></co>
 <co c="0"><na f="h/Huang:Lingqi" pid="306/1702">Lingqi Huang</na></co>
@@ -3499,6 +3515,7 @@
 <co c="0"><na f="s/Samarati:Pierangela" pid="s/PSamarati">Pierangela Samarati</na></co>
 <co c="0"><na f="s/Schewe:Klaus=Dieter" pid="s/KlausDieterSchewe">Klaus-Dieter Schewe</na></co>
 <co c="0"><na f="s/Shekhar:Shashi" pid="s/ShashiShekhar">Shashi Shekhar</na></co>
+<co c="0"><na f="s/Shi:Yibing" pid="52/8456">Yibing Shi</na></co>
 <co c="0"><na f="s/Sibley:Edgar_H=" pid="s/EdgarHSibley">Edgar H. Sibley</na></co>
 <co c="0"><na f="s/Simonova:Katerina" pid="76/5734">Katerina Simonova</na></co>
 <co c="0"><na f="s/Simovici:Dan_A=" pid="81/6368">Dan A. Simovici</na></co>

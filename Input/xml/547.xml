@@ -1,7 +1,25 @@
-<dblpperson name="Mayukh Das" pid="186/1469" n="30">
+<dblpperson name="Mayukh Das" pid="186/1469" n="31">
 <person key="homepages/186/1469" mdate="2016-09-26">
 <author pid="186/1469">Mayukh Das</author>
 </person>
+<r><inproceedings key="conf/nsdi/SomashekarTKCHB24" mdate="2024-04-19">
+<author pid="255/0512">Gagan Somashekar</author>
+<author pid="373/3750">Karan Tandon</author>
+<author pid="359/6728">Anush Kini</author>
+<author pid="04/7450">Chieh-Chun Chang</author>
+<author pid="373/3789">Petr Husak</author>
+<author pid="94/5385">Ranjita Bhagwan</author>
+<author pid="186/1469">Mayukh Das</author>
+<author pid="62/2403">Anshul Gandhi</author>
+<author pid="82/8778">Nagarajan Natarajan</author>
+<title>OPPerTune: Post-Deployment Configuration Tuning of Services Made Easy.</title>
+<year>2024</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi24/presentation/somashekar</ee>
+<crossref>conf/nsdi/2024</crossref>
+<url>db/conf/nsdi/nsdi2024.html#SomashekarTKCHB24</url>
+</inproceedings>
+</r>
 <r><article publtype="informal" key="journals/corr/abs-2401-07033" mdate="2024-03-29">
 <author pid="49/3800">Lu Wang</author>
 <author pid="186/1469">Mayukh Das</author>
@@ -522,7 +540,7 @@
 <url>db/conf/sdm/sdm2016.html#DasWKKN16</url>
 </inproceedings>
 </r>
-<coauthors n="121" nc="4">
+<coauthors n="129" nc="4">
 <co c="0"><na f="a/al=:et" pid="82/8699">et al.</na></co>
 <co c="2"><na f="a/Allur:Sharan_Kumar" pid="172/8853">Sharan Kumar Allur</na></co>
 <co c="0"><na f="a/Anand:Sajant" pid="294/4751">Sajant Anand</na></co>
@@ -533,6 +551,7 @@
 <co c="0"><na f="b/Barthe:Lisa" pid="308/2283">Lisa Barthe</na></co>
 <co c="0"><na f="b/Behnke:Hanna" pid="298/0664">Hanna Behnke</na></co>
 <co c="0"><na f="b/Berlot=Attwell:Ian" pid="281/1624">Ian Berlot-Attwell</na></co>
+<co c="0"><na f="b/Bhagwan:Ranjita" pid="94/5385">Ranjita Bhagwan</na></co>
 <co c="1"><na f="b/Bhave:Sahil_Rajesh" pid="328/0880">Sahil Rajesh Bhave</na></co>
 <co c="0"><na f="b/Bonn:Julia" pid="146/4148">Julia Bonn</na></co>
 <co c="0"><na f="b/Boyle:Connor" pid="308/2851">Connor Boyle</na></co>
@@ -541,6 +560,7 @@
 <co c="3"><na f="c/Cabrera:Javier" pid="91/303">Javier Cabrera</na></co>
 <co c="0"><na f="c/Cahyawijaya:Samuel" pid="235/2988">Samuel Cahyawijaya</na></co>
 <co c="0"><na f="c/Cai:Jon_Z=" pid="251/3139">Jon Z. Cai</na></co>
+<co c="0"><na f="c/Chang:Chieh=Chun" pid="04/7450">Chieh-Chun Chang</na></co>
 <co c="0"><na f="c/Chapuis:Emile" pid="259/1392">Emile Chapuis</na></co>
 <co c="0"><na f="c/Che:Wanxiang" pid="98/4640">Wanxiang Che</na></co>
 <co c="2"><na f="c/Chheda:Harsh_Kanti" pid="317/4712">Harsh Kanti Chheda</na></co>
@@ -566,6 +586,7 @@
 <co c="0"><na f="d/Dubey:Suchitra" pid="308/2507">Suchitra Dubey</na></co>
 <co c="0"><na f="d/Dusek:Ondrej" pid="126/8739">Ondrej Dusek</na></co>
 <co c="0"><na f="e/Ekeinhor:Tatiana" pid="308/2803">Tatiana Ekeinhor</na></co>
+<co c="0"><na f="g/Gandhi:Anshul" pid="62/2403">Anshul Gandhi</na></co>
 <co c="0"><na f="g/Gangal:Varun" pid="178/8576">Varun Gangal</na></co>
 <co c="0"><na f="g/Gehrmann:Sebastian" pid="131/1378">Sebastian Gehrmann</na></co>
 <co c="3"><na f="g/Geys:Helena" pid="65/5223">Helena Geys</na></co>
@@ -583,6 +604,7 @@
 <co c="0"><na f="h/Hockenmaier:Julia" pid="64/2448">Julia Hockenmaier</na></co>
 <co c="0"><na f="h/Honore:Antoine" pid="94/6284">Antoine Honore</na></co>
 <co c="0"><na f="h/Hovy:Eduard_H=" pid="47/2454">Eduard H. Hovy</na></co>
+<co c="0"><na f="h/Husak:Petr" pid="373/3789">Petr Husak</na></co>
 <co c="0"><na f="i/Islam_0001:Md_Rakibul" pid="136/5279-1">Md Rakibul Islam 0001</na></co>
 <co c="2"><na f="j/Jain:Yash" pid="255/2617">Yash Jain</na></co>
 <co c="1"><na f="j/Jaitly:Akshat" pid="328/0086">Akshat Jaitly</na></co>
@@ -594,6 +616,7 @@
 <co c="2"><na f="k/Kapoor:Aakash" pid="367/0177">Aakash Kapoor</na></co>
 <co c="0"><na f="k/Kersting:Kristian" pid="40/3793">Kristian Kersting</na></co>
 <co c="0"><na f="k/Khot:Tushar" pid="83/8117">Tushar Khot</na></co>
+<co c="0"><na f="k/Kini:Anush" pid="359/6728">Anush Kini</na></co>
 <co c="0"><na f="k/Kleyko:Denis" pid="120/8238">Denis Kleyko</na></co>
 <co c="0"><na f="k/Kokel:Harsha" pid="164/7457">Harsha Kokel</na></co>
 <co c="0"><na f="k/Kovatchev:Venelin" pid="185/4325">Venelin Kovatchev</na></co>
@@ -609,6 +632,7 @@
 <co c="3"><na f="m/Mohanty:Surya" pid="213/3832">Surya Mohanty</na></co>
 <co c="2"><na f="n/Naidu:Praveen_Doreswamy" pid="302/7532">Praveen Doreswamy Naidu</na></co>
 <co c="0"><na f="n/Narayan=Chen:Anjali" pid="213/3475">Anjali Narayan-Chen</na></co>
+<co c="0"><na f="n/Natarajan:Nagarajan" pid="82/8778">Nagarajan Natarajan</na></co>
 <co c="0"><na f="n/Natarajan:Sriraam" pid="19/1038">Sriraam Natarajan</na></co>
 <co c="2"><na f="n/NS:Pradeep" pid="317/4706">Pradeep NS</na></co>
 <co c="0"><na f="o/Odom:Phillip" pid="140/9583">Phillip Odom</na></co>
@@ -630,10 +654,12 @@
 <co c="2"><na f="s/Singh:Brijraj" pid="227/2611">Brijraj Singh</na></co>
 <co c="2"><na f="s/Soans:Rajath_Elias" pid="215/6516">Rajath Elias Soans</na></co>
 <co c="0"><na f="s/Sohl=Dickstein:Jascha" pid="51/7117">Jascha Sohl-Dickstein</na></co>
+<co c="0"><na f="s/Somashekar:Gagan" pid="255/0512">Gagan Somashekar</na></co>
 <co c="0"><na f="s/Srivastava:Ashish" pid="89/934">Ashish Srivastava</na></co>
 <co c="1"><na f="s/Subramanian:Rajarajeswari" pid="328/0335">Rajarajeswari Subramanian</na></co>
 <co c="3"><na f="t/Talloen:Willem" pid="24/4044">Willem Talloen</na></co>
 <co c="0"><na f="t/Tan:Samson" pid="241/8934">Samson Tan</na></co>
+<co c="0"><na f="t/Tandon:Karan" pid="373/3750">Karan Tandon</na></co>
 <co c="1"><na f="v/Varun:M=" pid="328/0023">M. Varun</na></co>
 <co c="1"><na f="v/Venkatesh:S=" pid="84/2159">S. Venkatesh</na></co>
 <co c="3"><na f="v/Vogel:Robert" pid="10/2596">Robert Vogel</na></co>

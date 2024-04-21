@@ -1,4 +1,4 @@
-<dblpperson name="Xueyan Tang" pid="23/2460" n="164">
+<dblpperson name="Xueyan Tang" pid="23/2460" n="166">
 <person key="homepages/23/2460" mdate="2009-06-09">
 <author pid="23/2460">Xueyan Tang</author>
 </person>
@@ -61,6 +61,39 @@
 <ee>https://dl.acm.org/doi/10.5555/3545946.3598930</ee>
 <crossref>conf/atal/2023</crossref>
 <url>db/conf/atal/aamas2023.html#Ramanathan0T0L23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eitce/XuZVQWFLTC23" mdate="2024-04-19">
+<author pid="84/3456">Yufeng Xu</author>
+<author pid="68/512">Lun Zhang</author>
+<author pid="363/9108">Turan Vural</author>
+<author pid="74/8662">Peng Qian</author>
+<author pid="224/1800">Yanbin Wang</author>
+<author pid="60/4035">Yuqing Fan</author>
+<author pid="181/2821">Ming Li</author>
+<author pid="23/2460">Xueyan Tang</author>
+<author pid="11/5229">Zheng Cao</author>
+<title>STFN: Spatio-Temporal Fusion Network to Detect Ethereum Phishing Scams.</title>
+<pages>599-605</pages>
+<year>2023</year>
+<booktitle>EITCE</booktitle>
+<ee>https://doi.org/10.1145/3650400.3650499</ee>
+<crossref>conf/eitce/2023</crossref>
+<url>db/conf/eitce/eitce2023.html#XuZVQWFLTC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eitce/TangDWC23" mdate="2024-04-19">
+<author pid="23/2460">Xueyan Tang</author>
+<author pid="208/4892">Yuying Du</author>
+<author pid="09/10105">Zhengyang Wang</author>
+<author pid="373/3938">Shawn Chong</author>
+<title>EIP Security Analysis: Application Program Standards, Attack Events, and Security Vulnerabilities.</title>
+<pages>1239-1244</pages>
+<year>2023</year>
+<booktitle>EITCE</booktitle>
+<ee>https://doi.org/10.1145/3650400.3650609</ee>
+<crossref>conf/eitce/2023</crossref>
+<url>db/conf/eitce/eitce2023.html#TangDWC23</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/sigmetrics/LiuT23" mdate="2023-07-07">
@@ -2374,11 +2407,12 @@
 <url>db/conf/mda/mda1999.html#XuTLH99</url>
 </inproceedings>
 </r>
-<coauthors n="132" nc="6">
+<coauthors n="142" nc="6">
 <co c="0"><na f="a/Ayani:Rassul" pid="03/5723">Rassul Ayani</na></co>
 <co c="0"><na f="b/Bai:Funing" pid="126/4415">Funing Bai</na></co>
 <co c="0"><na f="c/Cai_0001:Wentong" pid="83/3179">Wentong Cai 0001</na></co>
 <co c="0"><na f="c/Cao:Xuan" pid="185/4253">Xuan Cao</na></co>
+<co c="0"><na f="c/Cao:Zheng" pid="11/5229">Zheng Cao</na></co>
 <co c="0"><na f="c/Chanson:Samuel_T=" pid="c/STChanson">Samuel T. Chanson</na></co>
 <co c="0"><na f="c/Chen:Changbing" pid="124/6976">Changbing Chen</na></co>
 <co c="0"><na f="c/Chen:Cheng" pid="10/217">Cheng Chen</na></co>
@@ -2388,6 +2422,7 @@
 <co c="0"><na f="c/Chen_0002:Shuang" pid="07/6433-2">Shuang Chen 0002</na></co>
 <co c="0"><na f="c/Chen_0013:Wei" pid="c/WeiChen13">Wei Chen 0013</na></co>
 <co c="0"><na f="c/Chi:Huicheng" pid="52/5001">Huicheng Chi</na></co>
+<co c="0"><na f="c/Chong:Shawn" pid="373/3938">Shawn Chong</na></co>
 <co c="1"><na f="d/Dai:Xiaoyu" pid="171/2557">Xiaoyu Dai</na></co>
 <co c="0"><na f="d/Deng:Jing" pid="06/6599">Jing Deng</na></co>
 <co c="0"><na f="d/Deng:Wantao" pid="86/6050">Wantao Deng</na></co>
@@ -2397,6 +2432,7 @@
 <co c="0"><na f="d/Du:Jing" pid="97/4461">Jing Du</na></co>
 <co c="0"><na f="d/Du:Yuying" pid="208/4892">Yuying Du</na></co>
 <co c="0" n="2"><na f="d/Duong:Ta_Nguyen_Binh" pid="71/3256">Ta Nguyen Binh Duong</na><na>Duong Nguyen Binh Ta</na></co>
+<co c="0"><na f="f/Fan:Yuqing" pid="60/4035">Yuqing Fan</na></co>
 <co c="0"><na f="f/Fu:Jialu" pid="353/1917">Jialu Fu</na></co>
 <co c="0"><na f="g/Gao:Chuansong" pid="224/2364">Chuansong Gao</na></co>
 <co c="0"><na f="g/Gao:Qing" pid="16/4671">Qing Gao</na></co>
@@ -2430,6 +2466,7 @@
 <co c="5"><na f="l/Li:Ji" pid="98/2427">Ji Li</na></co>
 <co c="0"><na f="l/Li:Jiayi" pid="130/6398">Jiayi Li</na></co>
 <co c="0"><na f="l/Li:Jingning" pid="250/0508">Jingning Li</na></co>
+<co c="0"><na f="l/Li:Ming" pid="181/2821">Ming Li</na></co>
 <co c="0"><na f="l/Li:Minghui" pid="53/5842">Minghui Li</na></co>
 <co c="0"><na f="l/Li:Qing" pid="181/2689">Qing Li</na></co>
 <co c="0"><na f="l/Li:Shanping" pid="35/1103">Shanping Li</na></co>
@@ -2457,6 +2494,7 @@
 <co c="0"><na f="p/Pan:Ke" pid="95/5257">Ke Pan</na></co>
 <co c="0"><na f="p/Panwar:Shivendra_S=" pid="87/3965">Shivendra S. Panwar</na></co>
 <co c="0"><na f="p/Pham:Huy=Hoang" pid="44/2068">Huy-Hoang Pham</na></co>
+<co c="0"><na f="q/Qian:Peng" pid="74/8662">Peng Qian</na></co>
 <co c="0"><na f="r/Ramanathan:Saravanan" pid="08/3377">Saravanan Ramanathan</na></co>
 <co c="1"><na f="r/Ren:Mengjiao" pid="350/9464">Mengjiao Ren</na></co>
 <co c="0"><na f="r/Ren:Runtian" pid="182/7021">Runtian Ren</na></co>
@@ -2474,10 +2512,13 @@
 <co c="0"><na f="t/To:Ming_Yan" pid="22/6008">Ming Yan To</na></co>
 <co c="0"><na f="t/Tong:Jiancong" pid="94/8174">Jiancong Tong</na></co>
 <co c="0"><na f="t/Turner:Stephen_John" pid="t/StephenJohnTurner">Stephen John Turner</na></co>
+<co c="0"><na f="v/Vural:Turan" pid="363/9108">Turan Vural</na></co>
 <co c="0"><na f="w/Wang_0001:Gang" pid="71/4292-1">Gang Wang 0001</na></co>
 <co c="0"><na f="w/Wang:Qiushi" pid="58/7677">Qiushi Wang</na></co>
 <co c="0"><na f="w/Wang_0001:Sibo" pid="131/6529-1">Sibo Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Yanbin" pid="224/1800">Yanbin Wang</na></co>
 <co c="0"><na f="w/Wang:Yun" pid="36/3235">Yun Wang</na></co>
+<co c="0"><na f="w/Wang:Zhengyang" pid="09/10105">Zhengyang Wang</na></co>
 <co c="3"><na f="w/Wu_0002:Bin" pid="98/4432-2">Bin Wu 0002</na></co>
 <co c="0"><na f="w/Wu:Donghong" pid="121/1957">Donghong Wu</na></co>
 <co c="0"><na f="w/Wu:Minji" pid="84/5425">Minji Wu</na></co>
@@ -2488,6 +2529,7 @@
 <co c="0"><na f="x/Xu:Jianliang" pid="x/JianliangXu">Jianliang Xu</na></co>
 <co c="4"><na f="x/Xu:Luping" pid="206/5563">Luping Xu</na></co>
 <co c="0"><na f="x/Xu:Yifan" pid="62/1662">Yifan Xu</na></co>
+<co c="0"><na f="x/Xu:Yufeng" pid="84/3456">Yufeng Xu</na></co>
 <co c="2"><na f="y/Yan:Xiaorong" pid="81/8376">Xiaorong Yan</na></co>
 <co c="0"><na f="y/Yang:Guilin" pid="49/2831">Guilin Yang</na></co>
 <co c="0"><na f="y/Yao:Yuxia" pid="72/5398">Yuxia Yao</na></co>
@@ -2498,6 +2540,7 @@
 <co c="0"><na f="z/Zhang_0097:Fan" pid="21/3626-97">Fan Zhang 0097</na></co>
 <co c="0"><na f="z/Zhang:Junwei" pid="09/4697">Junwei Zhang</na></co>
 <co c="0"><na f="z/Zhang_0021:Lu" pid="71/2843-21">Lu Zhang 0021</na></co>
+<co c="0"><na f="z/Zhang:Lun" pid="68/512">Lun Zhang</na></co>
 <co c="0"><na f="z/Zhang_0015:Ying" pid="13/6769-15">Ying Zhang 0015</na></co>
 <co c="0"><na f="z/Zhang:Yujian" pid="122/5632">Yujian Zhang</na></co>
 <co c="0"><na f="z/Zhao:Changjian" pid="252/4918">Changjian Zhao</na></co>

@@ -1,5 +1,5 @@
-<dblpperson name="Xing Xie 0001" pid="08/6809-1" n="609">
-<person key="homepages/08/6809-1" mdate="2023-06-21">
+<dblpperson name="Xing Xie 0001" pid="08/6809-1" n="611">
+<person key="homepages/08/6809-1" mdate="2024-04-18">
 <author pid="08/6809-1">Xing Xie 0001</author>
 <note type="uname">&#35874;&#24184;</note>
 <note type="affiliation">Microsoft Research Asia, Beijing, China</note>
@@ -7,8 +7,9 @@
 <url>https://scholar.google.com/citations?user=5EQfAFIAAAAJ</url>
 <url>https://dl.acm.org/profile/81385598345</url>
 <url>https://orcid.org/0000-0002-8608-8482</url>
+<url>https://www.wikidata.org/entity/Q125313089</url>
 </person>
-<homonyms n="3">
+<homonyms n="4">
 <h f="x/Xie:Xing"><person publtype="disambiguation" key="homepages/08/6809" mdate="2017-07-06">
 <author pid="08/6809">Xing Xie</author>
 </person>
@@ -21,6 +22,12 @@
 <h f="x/Xie_0003:Xing"><person key="homepages/08/6809-3" mdate="2017-07-07">
 <author pid="08/6809-3">Xing Xie 0003</author>
 <note type="affiliation">Fudan University, Shanghai, China</note>
+</person>
+</h>
+<h f="x/Xie_0004:Xing"><person key="homepages/08/6809-4" mdate="2024-04-20">
+<author pid="08/6809-4">Xing Xie 0004</author>
+<note type="affiliation">Hunan University, HNU, Changsha, China</note>
+<url>https://orcid.org/0000-0003-1596-9642</url>
 </person>
 </h>
 </homonyms>
@@ -5734,6 +5741,21 @@
 <url>db/conf/cikm/cikm2018.html#WangZWZLXG18</url>
 </inproceedings>
 </r>
+<r><inproceedings key="conf/coling/WuZLXW18" mdate="2024-04-20">
+<author pid="188/3013">Sixing Wu</author>
+<author pid="76/5684-3">Dawei Zhang 0003</author>
+<author pid="22/1805-12">Ying Li 0012</author>
+<author pid="08/6809-1">Xing Xie 0001</author>
+<author pid="01/868">Zhonghai Wu</author>
+<title>HL-EncDec: A Hybrid-Level Encoder-Decoder for Neural Response Generation.</title>
+<pages>845-856</pages>
+<year>2018</year>
+<booktitle>COLING</booktitle>
+<ee type="oa">https://aclanthology.org/C18-1072/</ee>
+<crossref>conf/coling/2018</crossref>
+<url>db/conf/coling/coling2018.html#WuZLXW18</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/huc/WuWWHX18" mdate="2022-04-09">
 <author orcid="0000-0001-5730-8792" pid="212/1864">Chuhan Wu</author>
 <author orcid="0000-0001-9138-1272" pid="136/7955">Fangzhao Wu</author>
@@ -5995,6 +6017,22 @@
 <ee>https://doi.org/10.1145/3209978.3210083</ee>
 <crossref>conf/sigir/2018</crossref>
 <url>db/conf/sigir/sigir2018.html#ChenZHAXH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smm4h/WuWLWHX18" mdate="2024-04-20">
+<author pid="212/1864">Chuhan Wu</author>
+<author pid="136/7955">Fangzhao Wu</author>
+<author pid="140/3682">Junxin Liu</author>
+<author pid="188/3013">Sixing Wu</author>
+<author pid="76/6824-1">Yongfeng Huang 0001</author>
+<author pid="08/6809-1">Xing Xie 0001</author>
+<title>Detecting Tweets Mentioning Drug Name and Adverse Drug Reaction with Hierarchical Tweet Representation and Multi-Head Self-Attention.</title>
+<pages>34-37</pages>
+<year>2018</year>
+<booktitle>SMM4H@EMNLP</booktitle>
+<ee>https://doi.org/10.18653/v1/W18-5909</ee>
+<crossref>conf/smm4h/2018</crossref>
+<url>db/conf/smm4h/smm4h2018.html#WuWLWHX18</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/uic/MuddaLGL018" mdate="2024-02-05">
@@ -9736,7 +9774,7 @@
 <url>db/conf/mm/mm2002.html#XieZM02</url>
 </inproceedings>
 </r>
-<coauthors n="808" nc="2">
+<coauthors n="811" nc="2">
 <co c="0"><na f="a/Abtahian:Maya" pid="198/1453">Maya Abtahian</na></co>
 <co c="0"><na f="a/Adachi:Ryutaro" pid="167/8271">Ryutaro Adachi</na></co>
 <co c="0"><na f="a/Agrawal_0001:Sanjay" pid="a/SanjayAgrawal">Sanjay Agrawal 0001</na></co>
@@ -10010,6 +10048,7 @@
 <co c="0"><na f="l/Li:Yafu" pid="293/9896">Yafu Li</na></co>
 <co c="0"><na f="l/Li:Yidong" pid="40/7652">Yidong Li</na></co>
 <co c="0"><na f="l/Li:Ying" pid="22/1805">Ying Li</na></co>
+<co c="0"><na f="l/Li_0012:Ying" pid="22/1805-12">Ying Li 0012</na></co>
 <co c="0"><na f="l/Li_0008:Yong" pid="93/2334-8">Yong Li 0008</na></co>
 <co c="0"><na f="l/Li:Yu" pid="34/2997">Yu Li</na></co>
 <co c="0"><na f="l/Li_0012:Yuan" pid="86/6196-12">Yuan Li 0012</na></co>
@@ -10334,6 +10373,7 @@
 <co c="0"><na f="w/Wu:Yuan" pid="41/5176">Yuan Wu</na></co>
 <co c="0"><na f="w/Wu:Zhen" pid="16/4485">Zhen Wu</na></co>
 <co c="0"><na f="w/Wu:Zhengtao" pid="232/5583">Zhengtao Wu</na></co>
+<co c="0"><na f="w/Wu:Zhonghai" pid="01/868">Zhonghai Wu</na></co>
 <co c="0"><na f="x/Xia:Yuqing" pid="211/8365">Yuqing Xia</na></co>
 <co c="0"><na f="x/Xiang:Dong" pid="74/1128">Dong Xiang</na></co>
 <co c="0"><na f="x/Xiang:Lirong" pid="217/3596">Lirong Xiang</na></co>
@@ -10443,6 +10483,7 @@
 <co c="0"><na f="z/Zhang:Chenhao" pid="337/1091">Chenhao Zhang</na></co>
 <co c="0"><na f="z/Zhang_0001:Daqing" pid="83/1359-1">Daqing Zhang 0001</na></co>
 <co c="0"><na f="z/Zhang:Dawei" pid="76/5684">Dawei Zhang</na></co>
+<co c="0"><na f="z/Zhang_0003:Dawei" pid="76/5684-3">Dawei Zhang 0003</na></co>
 <co c="0"><na f="z/Zhang:Fuzheng" pid="134/2883">Fuzheng Zhang</na></co>
 <co c="0" n="2"><na f="z/Zhang:HongJiang" pid="z/HongJiangZhang">HongJiang Zhang</na><na>Hong-Jiang Zhang</na></co>
 <co c="0"><na f="z/Zhang:Huishuai" pid="144/7537">Huishuai Zhang</na></co>

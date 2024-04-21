@@ -1,4 +1,4 @@
-<dblpperson name="Cyrus Shahabi" pid="s/CyrusShahabi" n="453">
+<dblpperson name="Cyrus Shahabi" pid="s/CyrusShahabi" n="454">
 <person key="homepages/s/CyrusShahabi" mdate="2022-02-11">
 <author pid="s/CyrusShahabi">Cyrus Shahabi</author>
 <note type="affiliation">University of Southern California, Los Angeles, USA</note>
@@ -37,6 +37,21 @@
 <ee type="oa">https://doi.org/10.1007/s00778-023-00803-2</ee>
 <url>db/journals/vldb/vldb33.html#ShahamGS24</url>
 </article>
+</r>
+<r><inproceedings key="conf/bigcomp/YooKSYS24" mdate="2024-04-18">
+<author pid="140/4457">Jooyoung Yoo</author>
+<author pid="61/6896">Seon Ho Kim</author>
+<author pid="307/1572">Krish Sukhani</author>
+<author pid="373/2653">Min Sang Yoo</author>
+<author pid="s/CyrusShahabi">Cyrus Shahabi</author>
+<title>Truck Detection and Counting in Low-Light Condition: Do We Need Infrared Camera?</title>
+<pages>317-324</pages>
+<year>2024</year>
+<booktitle>BigComp</booktitle>
+<ee>https://doi.org/10.1109/BigComp60711.2024.00057</ee>
+<crossref>conf/bigcomp/2024</crossref>
+<url>db/conf/bigcomp/bigcomp2024.html#YooKSYS24</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/edbt/ShahamGS24" mdate="2024-03-22">
 <author pid="213/7403">Sina Shaham</author>
@@ -6593,7 +6608,7 @@
 <ee>https://doi.org/10.1007/3-540-57301-1_4</ee>
 </inproceedings>
 </r>
-<coauthors n="440" nc="2">
+<coauthors n="443" nc="2">
 <co c="0"><na f="a/Abdoli:Alireza" pid="222/6959">Alireza Abdoli</na></co>
 <co c="0"><na f="a/Aberer:Karl" pid="a/KarlAberer">Karl Aberer</na></co>
 <co c="0"><na f="a/Adibi:Jafar" pid="71/1219">Jafar Adibi</na></co>
@@ -6925,6 +6940,7 @@
 <co c="0"><na f="s/Speckmann:Bettina" pid="s/BettinaSpeckmann">Bettina Speckmann</na></co>
 <co c="0"><na f="s/Stripelis:Dimitris" pid="200/2399">Dimitris Stripelis</na></co>
 <co c="0"><na f="s/Su:Han" pid="23/3419">Han Su</na></co>
+<co c="0"><na f="s/Sukhani:Krish" pid="307/1572">Krish Sukhani</na></co>
 <co c="0"><na f="s/Sun:Jiao" pid="186/5724">Jiao Sun</na></co>
 <co c="0"><na f="s/Sun:Tianshu" pid="149/0955">Tianshu Sun</na></co>
 <co c="0"><na f="s/Sun_0002:Xiaoming" pid="87/285-2">Xiaoming Sun 0002</na></co>
@@ -6997,6 +7013,8 @@
 <co c="0"><na f="y/Ye_0003:Wei" pid="09/5394-3">Wei Ye 0003</na></co>
 <co c="0"><na f="y/Yin:Hongzhi" pid="04/10606">Hongzhi Yin</na></co>
 <co c="0"><na f="y/Yin:Yifang" pid="124/3625">Yifang Yin</na></co>
+<co c="0"><na f="y/Yoo:Jooyoung" pid="140/4457">Jooyoung Yoo</na></co>
+<co c="0"><na f="y/Yoo:Min_Sang" pid="373/2653">Min Sang Yoo</na></co>
 <co c="0"><na f="y/Yoon:Hyunjin" pid="80/584">Hyunjin Yoon</na></co>
 <co c="0"><na f="y/Yoon:Sunhee" pid="08/2168">Sunhee Yoon</na></co>
 <co c="0"><na f="y/Yoshikawa:Masatoshi" pid="y/MasatoshiYoshikawa">Masatoshi Yoshikawa</na></co>

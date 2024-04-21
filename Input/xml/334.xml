@@ -1,4 +1,4 @@
-<dblpperson name="Ingemar J. Cox" pid="c/IngemarJCox" n="180">
+<dblpperson name="Ingemar J. Cox" pid="c/IngemarJCox" n="181">
 <person key="homepages/c/IngemarJCox" mdate="2020-02-12">
 <author pid="c/IngemarJCox">Ingemar J. Cox</author>
 <author pid="c/IngemarJCox">Ingemar Johansson Cox</author>
@@ -223,6 +223,19 @@
 <ee>https://doi.org/10.1145/3194658.3194667</ee>
 <crossref>conf/ehealth/2018</crossref>
 <url>db/conf/ehealth/dh2018.html#HansenMCL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smm4h/FlekovaLC18" mdate="2024-04-20">
+<author pid="268/1049">Lucie Flekova</author>
+<author pid="55/8355">Vasileios Lampos</author>
+<author pid="c/IngemarJCox">Ingemar J. Cox</author>
+<title>Changes in Psycholinguistic Attributes of Social Media Users Before, During, and After Self-Reported Influenza Symptoms.</title>
+<pages>17-21</pages>
+<year>2018</year>
+<booktitle>SMM4H@EMNLP</booktitle>
+<ee>https://doi.org/10.18653/v1/W18-5905</ee>
+<crossref>conf/smm4h/2018</crossref>
+<url>db/conf/smm4h/smm4h2018.html#FlekovaLC18</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/www/ZouLC18" mdate="2023-03-21">
@@ -2484,7 +2497,7 @@
 <url>db/journals/ivc/ivc1.html#CoxS83</url>
 </article>
 </r>
-<coauthors n="164" nc="7">
+<coauthors n="165" nc="7">
 <co c="1"><na f="a/Ai:Jieqing" pid="58/5197">Jieqing Ai</na></co>
 <co c="0"><na f="a/Aletras:Nikolaos" pid="118/9116">Nikolaos Aletras</na></co>
 <co c="0"><na f="a/Asthana:H=" pid="38/10077">H. Asthana</na></co>
@@ -2518,6 +2531,7 @@
 <co c="0"><na f="e/Edelstein:Michael" pid="218/0298">Michael Edelstein</na></co>
 <co c="0"><na f="e/Escher:Tobias" pid="59/3184">Tobias Escher</na></co>
 <co c="0"><na f="f/Feng:Xiaoying" pid="26/8357">Xiaoying Feng</na></co>
+<co c="0" n="2"><na f="f/Flek:Lucie" pid="268/1049">Lucie Flek</na><na>Lucie Flekova</na></co>
 <co c="0"><na f="f/Fontaine:Caroline" pid="22/2665">Caroline Fontaine</na></co>
 <co c="0"><na f="f/Fu:Ruoxun" pid="22/7272">Ruoxun Fu</na></co>
 <co c="0"><na f="f/Furon:Teddy" pid="00/3862">Teddy Furon</na></co>

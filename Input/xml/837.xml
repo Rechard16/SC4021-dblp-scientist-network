@@ -1,7 +1,39 @@
-<dblpperson name="Takehiro Yamamoto" pid="38/4395" n="82">
+<dblpperson name="Takehiro Yamamoto" pid="38/4395" n="84">
 <person key="homepages/38/4395" mdate="2009-06-10">
 <author pid="38/4395">Takehiro Yamamoto</author>
 </person>
+<r><inproceedings key="conf/bigcomp/PhamMYKYSO24" mdate="2024-04-18">
+<author pid="292/8665">Huu-Long Pham</author>
+<author pid="330/0186">Ryota Mibayashi</author>
+<author pid="38/4395">Takehiro Yamamoto</author>
+<author pid="14/7537">Makoto P. Kato</author>
+<author pid="17/2778">Yusuke Yamamoto</author>
+<author pid="68/7949">Yoshiyuki Shoji</author>
+<author pid="88/85">Hiroaki Ohshima</author>
+<title>Inference-Based No-Learning Approach on Pre-Trained BERT Model Retrieval.</title>
+<pages>234-241</pages>
+<year>2024</year>
+<booktitle>BigComp</booktitle>
+<ee>https://doi.org/10.1109/BigComp60711.2024.00044</ee>
+<crossref>conf/bigcomp/2024</crossref>
+<url>db/conf/bigcomp/bigcomp2024.html#PhamMYKYSO24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigcomp/ChenfuSYTD24" mdate="2024-04-18">
+<author pid="373/3075">Shen Chenfu</author>
+<author pid="68/7949">Yoshiyuki Shoji</author>
+<author pid="38/4395">Takehiro Yamamoto</author>
+<author pid="44/3648">Katsumi Tanaka</author>
+<author pid="d/MJDurst">Martin J. D&#252;rst</author>
+<title>Generating Experiential Descriptions and Estimating Evidence Using Generative Language Model and User Products Reviews.</title>
+<pages>254-261</pages>
+<year>2024</year>
+<booktitle>BigComp</booktitle>
+<ee>https://doi.org/10.1109/BigComp60711.2024.00047</ee>
+<crossref>conf/bigcomp/2024</crossref>
+<url>db/conf/bigcomp/bigcomp2024.html#ChenfuSYTD24</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/chiir/TsudaYO24" mdate="2024-04-01">
 <author orcid="0009-0002-5209-1314" pid="122/1876">Yuya Tsuda</author>
 <author orcid="0000-0003-0601-3139" pid="38/4395">Takehiro Yamamoto</author>
@@ -1216,12 +1248,13 @@
 <url>db/conf/widm/widm2007.html#NakamuraYT07</url>
 </inproceedings>
 </r>
-<coauthors n="93" nc="4">
+<coauthors n="94" nc="4">
 <co c="0"><na f="a/Aihara:Kenro" pid="49/5300">Kenro Aihara</na></co>
 <co c="0"><na f="a/Asahi:Naoto" pid="83/7536">Naoto Asahi</na></co>
 <co c="0"><na f="b/Byun:Hyeran" pid="77/5360">Hyeran Byun</na></co>
 <co c="0"><na f="c/Chen:Yu" pid="87/1254">Yu Chen</na></co>
 <co c="0"><na f="c/Chen:Zebang" pid="193/4235">Zebang Chen</na></co>
+<co c="0"><na f="c/Chenfu:Shen" pid="373/3075">Shen Chenfu</na></co>
 <co c="0"><na f="c/Clarke:Charles_L=_A=" pid="96/3666">Charles L. A. Clarke</na></co>
 <co c="0"><na f="d/Dou:Zhicheng" pid="18/5740">Zhicheng Dou</na></co>
 <co c="0"><na f="d/D=uuml=rst:Martin_J=" pid="d/MJDurst">Martin J. D&#252;rst</na></co>

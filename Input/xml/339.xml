@@ -1,4 +1,4 @@
-<dblpperson name="Ion Stoica" pid="s/IonStoica" n="476">
+<dblpperson name="Ion Stoica" pid="s/IonStoica" n="478">
 <person key="homepages/s/IonStoica" mdate="2022-11-20">
 <author pid="s/IonStoica">Ion Stoica</author>
 <note type="affiliation">University of California, Berkeley, USA</note>
@@ -33,6 +33,40 @@
 <ee>https://doi.org/10.1109/TASE.2023.3259428</ee>
 <url>db/journals/tase/tase21.html#WuWZWKSB24</url>
 </article>
+</r>
+<r><inproceedings key="conf/nsdi/WuCMYFSS24" mdate="2024-04-19">
+<author pid="260/2805">Zhanghao Wu</author>
+<author pid="174/2148">Wei-Lin Chiang</author>
+<author pid="289/6042">Ziming Mao</author>
+<author pid="181/5822">Zongheng Yang</author>
+<author pid="f/EricJFriedman">Eric J. Friedman</author>
+<author pid="34/5593">Scott Shenker</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<title>Can't Be Late: Optimizing Spot Instance Savings under Deadlines.</title>
+<pages>185-203</pages>
+<year>2024</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi24/presentation/wu-zhanghao</ee>
+<crossref>conf/nsdi/2024</crossref>
+<url>db/conf/nsdi/nsdi2024.html#WuCMYFSS24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nsdi/WoodersL0MG0S24" mdate="2024-04-19">
+<author pid="235/2534">Sarah Wooders</author>
+<author pid="57/1180">Shu Liu</author>
+<author pid="154/9514">Paras Jain 0001</author>
+<author pid="232/2059">Xiangxi Mo</author>
+<author pid="61/8262">Joseph E. Gonzalez</author>
+<author pid="22/9263-1">Vincent Liu 0001</author>
+<author pid="s/IonStoica">Ion Stoica</author>
+<title>Cloudcast: High-Throughput, Cost-Aware Overlay Multicast in the Cloud.</title>
+<pages>281-296</pages>
+<year>2024</year>
+<booktitle>NSDI</booktitle>
+<ee type="oa">https://www.usenix.org/conference/nsdi24/presentation/wooders</ee>
+<crossref>conf/nsdi/2024</crossref>
+<url>db/conf/nsdi/nsdi2024.html#WoodersL0MG0S24</url>
+</inproceedings>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2401-00588" mdate="2024-02-20">
 <author pid="262/6232">Ying Sheng 0007</author>
@@ -413,9 +447,9 @@
 <url>db/conf/osdi/osdi2023.html#ZhuangWLCS23</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/osdi/ChengCLCCHSY23" mdate="2023-07-15">
+<r><inproceedings key="conf/osdi/ChengCLCCHSY23" mdate="2024-04-18">
 <author pid="263/3719">Audrey Cheng</author>
-<author pid="80/2263">David Chu</author>
+<author pid="373/2161">David C. Y. Chu</author>
 <author pid="351/6008">Terrance Li</author>
 <author pid="55/5064">Jason Chan</author>
 <author pid="161/0113">Natacha Crooks</author>
@@ -7709,7 +7743,7 @@
 <url>db/conf/ppsc/ppsc1995.html#StoicaSK95</url>
 </inproceedings>
 </r>
-<coauthors n="706" nc="1">
+<coauthors n="708" nc="1">
 <co c="0"><na f="a/Abbeel:Pieter" pid="a/PieterAbbeel">Pieter Abbeel</na></co>
 <co c="0"><na f="a/Abdel=Wahab:Hussein_M=" pid="a/HusseinMAbdelWahab">Hussein M. Abdel-Wahab</na></co>
 <co c="0"><na f="a/Adebola:Simeon" pid="305/1404">Simeon Adebola</na></co>
@@ -7813,6 +7847,7 @@
 <co c="0"><na f="c/Chou:Christopher" pid="294/3178">Christopher Chou</na></co>
 <co c="0"><na f="c/Chowdhury:Mosharaf" pid="42/1518">Mosharaf Chowdhury</na></co>
 <co c="0"><na f="c/Chu:David" pid="80/2263">David Chu</na></co>
+<co c="0"><na f="c/Chu:David_C=_Y=" pid="373/2161">David C. Y. Chu</na></co>
 <co c="0" n="2"><na f="c/Chuang:John_C==I=" pid="c/JohnChuang">John C.-I. Chuang</na><na>John Chuang</na></co>
 <co c="0"><na f="c/Chun:Brent_N=" pid="c/BrentNChun">Brent N. Chun</na></co>
 <co c="0"><na f="c/Chun:Byung=Gon" pid="34/3515">Byung-Gon Chun</na></co>
@@ -8110,6 +8145,7 @@
 <co c="0"><na f="m/Maniatis:Petros" pid="m/PetrosManiatis">Petros Maniatis</na></co>
 <co c="0"><na f="m/Mao:Howard" pid="192/6332">Howard Mao</na></co>
 <co c="0" n="2"><na f="m/Mao:Z=_Morley" pid="91/584">Z. Morley Mao</na><na>Zhuoqing Morley Mao</na></co>
+<co c="0"><na f="m/Mao:Ziming" pid="289/6042">Ziming Mao</na></co>
 <co c="0"><na f="m/Mardanbeigi:Sam" pid="59/6872">Sam Mardanbeigi</na></co>
 <co c="0"><na f="m/Martignoni:Lorenzo" pid="20/4252">Lorenzo Martignoni</na></co>
 <co c="0" n="2"><na f="m/Mayank_0002:" pid="33/2105-2">Mayank 0002</na><na>Mayank Rathee</na></co>

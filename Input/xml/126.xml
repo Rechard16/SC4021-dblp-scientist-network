@@ -1,4 +1,4 @@
-<dblpperson name="Chen Wang 0011" pid="82/4206-11" n="61">
+<dblpperson name="Chen Wang 0011" pid="82/4206-11" n="63">
 <person key="homepages/82/4206-11" mdate="2019-01-10">
 <author pid="82/4206-11">Chen Wang 0011</author>
 <note type="uname">&#29579;&#29723;</note>
@@ -482,6 +482,39 @@
 <ee>https://doi.org/10.1109/TSC.2022.3187038</ee>
 <url>db/journals/tsc/tsc16.html#WangYZPL23</url>
 </article>
+</r>
+<r><inproceedings key="conf/bdcloud/LiuACL0ZY23" mdate="2024-04-18">
+<author pid="87/347">Chunming Liu</author>
+<author pid="83/10373">Daniyal M. Alghazzawi</author>
+<author pid="13/4938">Li Cheng</author>
+<author pid="133/3350">Gaoyang Liu</author>
+<author pid="82/4206-11">Chen Wang 0011</author>
+<author pid="01/6528">Cheng Zeng</author>
+<author pid="48/450">Yang Yang</author>
+<title>Disentangling Client Contributions: Improving Federated Learning Accuracy in the Presence of Heterogeneous Data.</title>
+<pages>381-387</pages>
+<year>2023</year>
+<booktitle>ISPA/BDCloud/SocialCom/SustainCom</booktitle>
+<ee>https://doi.org/10.1109/ISPA-BDCloud-SocialCom-SustainCom59178.2023.00082</ee>
+<crossref>conf/bdcloud/2023</crossref>
+<url>db/conf/bdcloud/bdcloud2023.html#LiuACL0ZY23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bdcloud/Li00LJL23" mdate="2024-04-19">
+<author pid="74/3697">Yuying Li</author>
+<author pid="48/450-60">Yang Yang 0060</author>
+<author pid="82/4206-11">Chen Wang 0011</author>
+<author pid="373/3465">Runqin Liu</author>
+<author pid="25/4108">Hongbo Jiang</author>
+<author pid="61/7891-1">Wenping Liu 0001</author>
+<title>Partial Deep Domain Adaptation for Non-Intrusive Load Monitoring.</title>
+<pages>648-655</pages>
+<year>2023</year>
+<booktitle>ISPA/BDCloud/SocialCom/SustainCom</booktitle>
+<ee>https://doi.org/10.1109/ISPA-BDCloud-SocialCom-SustainCom59178.2023.00117</ee>
+<crossref>conf/bdcloud/2023</crossref>
+<url>db/conf/bdcloud/bdcloud2023.html#Li00LJL23</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/cvpr/ChenGL0W23" mdate="2023-09-03">
 <author pid="50/6996">Min Chen</author>
@@ -1308,11 +1341,13 @@
 <url>db/conf/icon/icon2012.html#WangFZ12</url>
 </inproceedings>
 </r>
-<coauthors n="78" nc="1">
+<coauthors n="86" nc="1">
 <co c="0"><na f="a/Abdelmoniem:Ahmed_M=" pid="207/3449">Ahmed M. Abdelmoniem</na></co>
+<co c="0"><na f="a/Alghazzawi:Daniyal_M=" pid="83/10373">Daniyal M. Alghazzawi</na></co>
 <co c="0"><na f="c/Chen:Jian" pid="49/6002">Jian Chen</na></co>
 <co c="0"><na f="c/Chen:Min" pid="50/6996">Min Chen</na></co>
 <co c="0"><na f="c/Chen:Xiaojiang" pid="95/10521">Xiaojiang Chen</na></co>
+<co c="0"><na f="c/Cheng:Li" pid="13/4938">Li Cheng</na></co>
 <co c="0"><na f="c/Cheng:Wenqing" pid="31/1966">Wenqing Cheng</na></co>
 <co c="0"><na f="c/Choo:Kim=Kwang_Raymond" pid="c/KimKwangRaymondChoo">Kim-Kwang Raymond Choo</na></co>
 <co c="0"><na f="d/Deng:Tianping" pid="133/0321">Tianping Deng</na></co>
@@ -1328,18 +1363,22 @@
 <co c="0"><na f="h/Huang:Chengqiang" pid="156/2444">Chengqiang Huang</na></co>
 <co c="0"><na f="h/Huang:Haojun" pid="48/3258">Haojun Huang</na></co>
 <co c="0"><na f="j/Jamieson:Kyle" pid="j/KyleJamieson">Kyle Jamieson</na></co>
+<co c="0"><na f="j/Jiang:Hongbo" pid="25/4108">Hongbo Jiang</na></co>
 <co c="0"><na f="j/Jiang_0001:Hongbo" pid="25/4108-1">Hongbo Jiang 0001</na></co>
 <co c="0"><na f="j/Jiang:Wen" pid="37/6235">Wen Jiang</na></co>
 <co c="0"><na f="l/Li_0058:Jie" pid="17/2703-58">Jie Li 0058</na></co>
 <co c="0"><na f="l/Li:Meijun" pid="275/7582">Meijun Li</na></co>
 <co c="0"><na f="l/Li:Yutong" pid="55/10759">Yutong Li</na></co>
+<co c="0"><na f="l/Li:Yuying" pid="74/3697">Yuying Li</na></co>
 <co c="0"><na f="l/Li:Zhaoxi" pid="224/4667">Zhaoxi Li</na></co>
 <co c="0"><na f="l/Li:Zhetao" pid="128/3410">Zhetao Li</na></co>
 <co c="0"><na f="l/Lin:Hongzhi" pid="36/9704">Hongzhi Lin</na></co>
+<co c="0"><na f="l/Liu:Chunming" pid="87/347">Chunming Liu</na></co>
 <co c="0"><na f="l/Liu:Gaoyang" pid="133/3350">Gaoyang Liu</na></co>
 <co c="0"><na f="l/Liu:Jiangchuan" pid="l/JiangchuanLiu">Jiangchuan Liu</na></co>
 <co c="0"><na f="l/Liu:Lan" pid="43/6387">Lan Liu</na></co>
 <co c="0"><na f="l/Liu_0001:Ling" pid="l/LingLiu">Ling Liu 0001</na></co>
+<co c="0"><na f="l/Liu:Runqin" pid="373/3465">Runqin Liu</na></co>
 <co c="0"><na f="l/Liu:Tingwei" pid="174/6827">Tingwei Liu</na></co>
 <co c="0"><na f="l/Liu_0001:Wenping" pid="61/7891-1">Wenping Liu 0001</na></co>
 <co c="0"><na f="l/Liu_0064:Yang" pid="51/3710-64">Yang Liu 0064</na></co>
@@ -1374,9 +1413,11 @@
 <co c="0"><na f="x/Xing:Jing" pid="44/6771">Jing Xing</na></co>
 <co c="0"><na f="x/Xiong_0001:Jie" pid="75/198-1">Jie Xiong 0001</na></co>
 <co c="0"><na f="x/Xu:Tianlong" pid="337/6008">Tianlong Xu</na></co>
+<co c="0"><na f="y/Yang:Yang" pid="48/450">Yang Yang</na></co>
 <co c="0"><na f="y/Yang_0060:Yang" pid="48/450-60">Yang Yang 0060</na></co>
 <co c="0"><na f="y/Yu:Tianlong" pid="97/10584">Tianlong Yu</na></co>
 <co c="0"><na f="y/Yuan:Mengting" pid="06/10596">Mengting Yuan</na></co>
+<co c="0"><na f="z/Zeng:Cheng" pid="01/6528">Cheng Zeng</na></co>
 <co c="0"><na f="z/Zeng:Fanzi" pid="81/655">Fanzi Zeng</na></co>
 <co c="0"><na f="z/Zhang:Guifa" pid="280/0027">Guifa Zhang</na></co>
 <co c="0"><na f="z/Zhang:Hongmei" pid="36/687">Hongmei Zhang</na></co>

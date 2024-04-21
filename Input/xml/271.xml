@@ -1,4 +1,4 @@
-<dblpperson name="Gerard de Melo" pid="86/1747" n="263">
+<dblpperson name="Gerard de Melo" pid="86/1747" n="264">
 <person key="homepages/86/1747" mdate="2023-09-17">
 <author pid="86/1747">Gerard de Melo</author>
 <url>http://gerard.demelo.org/</url>
@@ -45,6 +45,20 @@
 <ee>https://doi.org/10.1109/WACV57701.2024.00716</ee>
 <crossref>conf/wacv/2024</crossref>
 <url>db/conf/wacv/wacv2024.html#BleidtEM24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/websci/BuzSKM24" mdate="2024-04-19">
+<author pid="177/2019">Tolga Buz</author>
+<author pid="155/4732">Moritz Schneider</author>
+<author pid="204/9536">Lucie-Aim&#233;e Kaffee</author>
+<author pid="86/1747">Gerard de Melo</author>
+<title>Highly Regarded Investors? Mining Predictive Value from the Collective Intelligence of Reddit's WallStreetBets.</title>
+<pages>320-330</pages>
+<year>2024</year>
+<booktitle>WebSci</booktitle>
+<ee>https://doi.org/10.1145/3614419.3643993</ee>
+<crossref>conf/websci/2024</crossref>
+<url>db/conf/websci/websci2024.html#BuzSKM24</url>
 </inproceedings>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2402-17682" mdate="2024-03-25">
@@ -3934,9 +3948,9 @@
 <url>db/conf/ecir/ecir2007.html#MeloS07</url>
 </inproceedings>
 </r>
-<coauthors n="406" nc="8">
-<co c="1"><na f="a/Agrawal:Pratik" pid="223/7093">Pratik Agrawal</na></co>
-<co c="1"><na f="a/Ahmadov:Ahmad" pid="176/0579">Ahmad Ahmadov</na></co>
+<coauthors n="407" nc="7">
+<co c="0"><na f="a/Agrawal:Pratik" pid="223/7093">Pratik Agrawal</na></co>
+<co c="0"><na f="a/Ahmadov:Ahmad" pid="176/0579">Ahmad Ahmadov</na></co>
 <co c="0"><na f="a/Ahn:Sungjin" pid="91/832">Sungjin Ahn</na></co>
 <co c="0"><na f="a/Alikhani:Malihe" pid="163/2171">Malihe Alikhani</na></co>
 <co c="0"><na f="a/Allwood:Jens" pid="12/555">Jens Allwood</na></co>
@@ -3951,27 +3965,27 @@
 <co c="0"><na f="b/Basile:Pierpaolo" pid="98/5082">Pierpaolo Basile</na></co>
 <co c="0" n="2"><na f="b/Bayser:Ma=iacute=ra_Gatti_de" pid="56/1793">Ma&#237;ra Gatti de Bayser</na><na>Maira Gatti</na></co>
 <co c="0"><na f="b/Berberich:Klaus" pid="b/KlausBerberich">Klaus Berberich</na></co>
-<co c="4"><na f="b/Bhowmik:Rajarshi" pid="220/4104">Rajarshi Bhowmik</na></co>
+<co c="2"><na f="b/Bhowmik:Rajarshi" pid="220/4104">Rajarshi Bhowmik</na></co>
 <co c="0"><na f="b/Bian:Yulong" pid="165/5314">Yulong Bian</na></co>
 <co c="0"><na f="b/Biswas:Russa" pid="222/9569">Russa Biswas</na></co>
 <co c="0"><na f="b/Bleidt:Tibor" pid="344/0792">Tibor Bleidt</na></co>
 <co c="0"><na f="b/Blomqvist:Eva" pid="33/2668">Eva Blomqvist</na></co>
-<co c="1"><na f="b/Boes:Paul" pid="296/6478">Paul Boes</na></co>
+<co c="0"><na f="b/Boes:Paul" pid="296/6478">Paul Boes</na></co>
 <co c="0"><na f="b/B=ouml=hm_0001:Christoph" pid="76/5838-1">Christoph B&#246;hm 0001</na></co>
 <co c="0"><na f="b/Bond:Francis" pid="61/1808">Francis Bond</na></co>
 <co c="0"><na f="b/Bonifati:Angela" pid="b/ABonifati">Angela Bonifati</na></co>
-<co c="2"><na f="b/Borchert:Florian" pid="270/1909">Florian Borchert</na></co>
+<co c="1"><na f="b/Borchert:Florian" pid="270/1909">Florian Borchert</na></co>
 <co c="0"><na f="b/Borin:Lars" pid="77/4366">Lars Borin</na></co>
 <co c="0"><na f="b/Broeck:Guy_Van_den" pid="96/7521">Guy Van den Broeck</na></co>
 <co c="-1"><na f="b/Bugue=ntilde=o:Margarita" pid="348/5480">Margarita Bugue&#241;o</na></co>
 <co c="0"><na f="b/Buitelaar:Paul" pid="08/3075">Paul Buitelaar</na></co>
 <co c="0"><na f="b/Burkett:David" pid="36/460">David Burkett</na></co>
-<co c="1"><na f="b/Buz:Tolga" pid="177/2019">Tolga Buz</na></co>
+<co c="0"><na f="b/Buz:Tolga" pid="177/2019">Tolga Buz</na></co>
 <co c="0"><na f="c/Cai_0001:Yan" pid="60/3060-1">Yan Cai 0001</na></co>
 <co c="0"><na f="c/Cai:Zefeng" pid="323/9645">Zefeng Cai</na></co>
 <co c="0"><na f="c/Cao_0010:Jie" pid="39/6191-10">Jie Cao 0010</na></co>
 <co c="0"><na f="c/Cao:Zhu" pid="149/1243">Zhu Cao</na></co>
-<co c="6"><na f="c/Ceng:Yulong" pid="188/6171">Yulong Ceng</na></co>
+<co c="5"><na f="c/Ceng:Yulong" pid="188/6171">Yulong Ceng</na></co>
 <co c="0"><na f="c/Chang:Xiaojun" pid="116/8412">Xiaojun Chang</na></co>
 <co c="0"><na f="c/Chegu:Advith" pid="309/7181">Advith Chegu</na></co>
 <co c="0"><na f="c/Chen:Baoquan" pid="23/4197">Baoquan Chen</na></co>
@@ -4080,7 +4094,7 @@
 <co c="0"><na f="k/Kacimi:Mouna" pid="93/2128">Mouna Kacimi</na></co>
 <co c="0"><na f="k/Kaffee:Lucie=Aim=eacute=e" pid="204/9536">Lucie-Aim&#233;e Kaffee</na></co>
 <co c="0"><na f="k/Kalo:Jan=Christoph" pid="146/2827">Jan-Christoph Kalo</na></co>
-<co c="2"><na f="k/Kammer:Niklas" pid="351/3689">Niklas Kammer</na></co>
+<co c="1"><na f="k/Kammer:Niklas" pid="351/3689">Niklas Kammer</na></co>
 <co c="0"><na f="k/Kang:Yipeng" pid="267/2079">Yipeng Kang</na></co>
 <co c="0"><na f="k/Kapadia:Mubbasir" pid="08/4943">Mubbasir Kapadia</na></co>
 <co c="0"><na f="k/Keet:C=_Maria" pid="42/559">C. Maria Keet</na></co>
@@ -4103,7 +4117,7 @@
 <co c="0"><na f="l/Lei:Yuecheng" pid="331/1357">Yuecheng Lei</na></co>
 <co c="0"><na f="l/Lewis=Kelham:Edwin" pid="78/9376">Edwin Lewis-Kelham</na></co>
 <co c="0"><na f="l/Li:Changqun" pid="330/7513">Changqun Li</na></co>
-<co c="7"><na f="l/Li:Chenxing" pid="169/4579">Chenxing Li</na></co>
+<co c="6"><na f="l/Li:Chenxing" pid="169/4579">Chenxing Li</na></co>
 <co c="0"><na f="l/Li:Fu" pid="37/4556">Fu Li</na></co>
 <co c="0"><na f="l/Li:Haofeng" pid="204/1032">Haofeng Li</na></co>
 <co c="0"><na f="l/Li_0001:Hongsheng" pid="27/7402-1">Hongsheng Li 0001</na></co>
@@ -4120,7 +4134,7 @@
 <co c="0"><na f="l/Liang:Zhongping" pid="169/1528">Zhongping Liang</na></co>
 <co c="0"><na f="l/Liao:Yaqing" pid="226/0189">Yaqing Liao</na></co>
 <co c="0"><na f="l/Lichtenstein:Patricia" pid="176/3470">Patricia Lichtenstein</na></co>
-<co c="1"><na f="l/Liebe:Lucas" pid="357/5689">Lucas Liebe</na></co>
+<co c="0"><na f="l/Liebe:Lucas" pid="357/5689">Lucas Liebe</na></co>
 <co c="0"><na f="l/Lin:Ming_C=" pid="l/MingCLin">Ming C. Lin</na></co>
 <co c="0"><na f="l/Lin:Xin" pid="50/3323">Xin Lin</na></co>
 <co c="0"><na f="l/Lin:Ziyi" pid="174/2038">Ziyi Lin</na></co>
@@ -4132,7 +4146,7 @@
 <co c="0"><na f="l/Liu:Junhong" pid="35/6526">Junhong Liu</na></co>
 <co c="0"><na f="l/Liu_0001:Kang" pid="42/4903">Kang Liu 0001</na></co>
 <co c="0"><na f="l/Liu:Pingsheng" pid="297/8884">Pingsheng Liu</na></co>
-<co c="6" n="2"><na f="l/Liu:S=_Cliff" pid="242/9276">S. Cliff Liu</na><na>Sixue Liu</na></co>
+<co c="5" n="2"><na f="l/Liu:S=_Cliff" pid="242/9276">S. Cliff Liu</na><na>Sixue Liu</na></co>
 <co c="0"><na f="l/Liu:Shijun" pid="04/5268">Shijun Liu</na></co>
 <co c="0"><na f="l/Liu_0022:Xiao" pid="82/1364-22">Xiao Liu 0022</na></co>
 <co c="0"><na f="l/Liu:Xiaomo" pid="20/10656">Xiaomo Liu</na></co>
@@ -4173,13 +4187,13 @@
 <co c="0"><na f="o/Omeliyanenko:Janna" pid="277/5465">Janna Omeliyanenko</na></co>
 <co c="0"><na f="o/Ommer:Bj=ouml=rn" pid="11/4098">Bj&#246;rn Ommer</na></co>
 <co c="0"><na f="o/Osenova:Petya" pid="83/1533">Petya Osenova</na></co>
-<co c="5"><na f="o/Owoyele:Babajide" pid="338/9467">Babajide Owoyele</na></co>
+<co c="4"><na f="o/Owoyele:Babajide" pid="338/9467">Babajide Owoyele</na></co>
 <co c="0"><na f="p/Paiva:Valeria_de" pid="p/ValeriadePaiva">Valeria de Paiva</na></co>
 <co c="0"><na f="p/Palumbo:Enrico" pid="166/2797">Enrico Palumbo</na></co>
 <co c="0"><na f="p/Pan:Jeff_Z=" pid="59/6490">Jeff Z. Pan</na></co>
 <co c="0"><na f="p/Pandey:Kushagra" pid="310/1480">Kushagra Pandey</na></co>
 <co c="0"><na f="p/Pang:Liang" pid="37/11078">Liang Pang</na></co>
-<co c="4"><na f="p/Paranjpe:Atharva_Prabhat" pid="277/8901">Atharva Prabhat Paranjpe</na></co>
+<co c="2"><na f="p/Paranjpe:Atharva_Prabhat" pid="277/8901">Atharva Prabhat Paranjpe</na></co>
 <co c="0"><na f="p/Pareja=Lora:Antonio" pid="14/2267">Antonio Pareja-Lora</na></co>
 <co c="0"><na f="p/Passonneau:Rebecca_J=" pid="04/696">Rebecca J. Passonneau</na></co>
 <co c="0"><na f="p/Pathak:Drashti" pid="259/8615">Drashti Pathak</na></co>
@@ -4188,7 +4202,7 @@
 <co c="0"><na f="p/Peng:Cheng" pid="82/3044">Cheng Peng</na></co>
 <co c="0"><na f="p/Polleres:Axel" pid="p/AxelPolleres">Axel Polleres</na></co>
 <co c="0"><na f="p/Pool:Jonathan" pid="91/2056">Jonathan Pool</na></co>
-<co c="5"><na f="p/Pouw:Wim_T=_J=_L=" pid="183/8833">Wim T. J. L. Pouw</na></co>
+<co c="4"><na f="p/Pouw:Wim_T=_J=_L=" pid="183/8833">Wim T. J. L. Pouw</na></co>
 <co c="0"><na f="p/Puri:Manish" pid="136/4640">Manish Puri</na></co>
 <co c="0"><na f="q/Qi:Meng" pid="89/6236">Meng Qi</na></co>
 <co c="0"><na f="q/Qi_0001:Yuan" pid="57/2210">Yuan Qi 0001</na></co>
@@ -4215,13 +4229,14 @@
 <co c="0"><na f="r/Rula:Anisa" pid="09/10282">Anisa Rula</na></co>
 <co c="0"><na f="s/Sack:Harald" pid="s/HaraldSack">Harald Sack</na></co>
 <co c="0"><na f="s/Saha:Tanay_Kumar" pid="116/9365">Tanay Kumar Saha</na></co>
-<co c="1"><na f="s/Sauerwald:Franz" pid="357/5720">Franz Sauerwald</na></co>
-<co c="1"><na f="s/Sawicki:Sylwester" pid="357/5705">Sylwester Sawicki</na></co>
+<co c="0"><na f="s/Sauerwald:Franz" pid="357/5720">Franz Sauerwald</na></co>
+<co c="0"><na f="s/Sawicki:Sylwester" pid="357/5705">Sylwester Sawicki</na></co>
 <co c="0"><na f="s/Schall:Maximilian" pid="360/4862">Maximilian Schall</na></co>
-<co c="2"><na f="s/Schapranow:Matthieu=P=" pid="92/7637">Matthieu-P. Schapranow</na></co>
+<co c="1"><na f="s/Schapranow:Matthieu=P=" pid="92/7637">Matthieu-P. Schapranow</na></co>
 <co c="0"><na f="s/Schmelzeisen:Lukas" pid="236/4710">Lukas Schmelzeisen</na></co>
-<co c="1"><na f="s/Schneider:Matthias" pid="79/2065">Matthias Schneider</na></co>
-<co c="1"><na f="s/Schuhmann:Leo" pid="357/5696">Leo Schuhmann</na></co>
+<co c="0"><na f="s/Schneider:Matthias" pid="79/2065">Matthias Schneider</na></co>
+<co c="0"><na f="s/Schneider:Moritz" pid="155/4732">Moritz Schneider</na></co>
+<co c="0"><na f="s/Schuhmann:Leo" pid="357/5696">Leo Schuhmann</na></co>
 <co c="0"><na f="s/Schwertmann:Lena" pid="346/0808">Lena Schwertmann</na></co>
 <co c="0" n="2"><na f="s/Sequeda:Juan_F=" pid="93/3423">Juan F. Sequeda</na><na>Juan Sequeda</na></co>
 <co c="0"><na f="s/Shah:Chirag" pid="04/4087">Chirag Shah</na></co>
@@ -4244,7 +4259,7 @@
 <co c="0"><na f="s/Song:Kunpeng" pid="194/1391">Kunpeng Song</na></co>
 <co c="0"><na f="s/Staab:Steffen" pid="s/SteffenStaab">Steffen Staab</na></co>
 <co c="0"><na f="s/Stone:Matthew" pid="53/3043">Matthew Stone</na></co>
-<co c="4"><na f="s/Stratos:Karl" pid="07/11293">Karl Stratos</na></co>
+<co c="2"><na f="s/Stratos:Karl" pid="07/11293">Karl Stratos</na></co>
 <co c="0"><na f="s/Su:Peng" pid="56/7620">Peng Su</na></co>
 <co c="0"><na f="s/Su:Sen" pid="63/2499">Sen Su</na></co>
 <co c="0"><na f="s/Su:Yi" pid="98/3417">Yi Su</na></co>
@@ -4260,13 +4275,13 @@
 <co c="0"><na f="t/Tetreault:Joel_R=" pid="40/4518">Joel R. Tetreault</na></co>
 <co c="0"><na f="t/Teyssandier:Alexandra" pid="06/8219">Alexandra Teyssandier</na></co>
 <co c="0"><na f="t/Theobald:Martin" pid="t/MartinTheobald">Martin Theobald</na></co>
-<co c="5"><na f="t/Trujillo:James_P=" pid="296/5469">James P. Trujillo</na></co>
+<co c="4"><na f="t/Trujillo:James_P=" pid="296/5469">James P. Trujillo</na></co>
 <co c="0"><na f="t/Tu:Changhe" pid="98/6239">Changhe Tu</na></co>
 <co c="0"><na f="u/Ullrich:Karen" pid="155/8025">Karen Ullrich</na></co>
 <co c="0"><na f="v/Vakaj:Edlira" pid="302/2573">Edlira Vakaj</na></co>
 <co c="0"><na f="v/Varde:Aparna_S=" pid="20/3559">Aparna S. Varde</na></co>
 <co c="0"><na f="v/Vogt:Julia_E=" pid="13/8412">Julia E. Vogt</na></co>
-<co c="7"><na f="w/Wang:Gerui" pid="217/4872">Gerui Wang</na></co>
+<co c="6"><na f="w/Wang:Gerui" pid="217/4872">Gerui Wang</na></co>
 <co c="0"><na f="w/Wang_0001:Guang" pid="54/1738-1">Guang Wang 0001</na></co>
 <co c="0"><na f="w/Wang:Linlin" pid="94/6774">Linlin Wang</na></co>
 <co c="0"><na f="w/Wang:Liqiang" pid="02/3331">Liqiang Wang</na></co>
@@ -4286,7 +4301,7 @@
 <co c="0"><na f="w/Wen:Zujie" pid="260/0351">Zujie Wen</na></co>
 <co c="0"><na f="w/Wenzel:Florian" pid="04/9709">Florian Wenzel</na></co>
 <co c="0"><na f="w/Westphal:Jan" pid="286/6784">Jan Westphal</na></co>
-<co c="2"><na f="w/Winkler:Silvia" pid="241/8253">Silvia Winkler</na></co>
+<co c="1"><na f="w/Winkler:Silvia" pid="241/8253">Silvia Winkler</na></co>
 <co c="0"><na f="w/Wischnewski:Patrick" pid="10/4886">Patrick Wischnewski</na></co>
 <co c="0" n="2"><na f="w/Wood:Frank_D=" pid="44/4750">Frank D. Wood</na><na>Frank Wood</na></co>
 <co c="0"><na f="w/Wu_0001:Jiajun" pid="117/4768">Jiajun Wu 0001</na></co>

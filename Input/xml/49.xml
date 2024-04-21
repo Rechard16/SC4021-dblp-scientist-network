@@ -1,4 +1,4 @@
-<dblpperson name="Animesh Mukherjee 0001" pid="m/AnimeshMukherjee" n="293">
+<dblpperson name="Animesh Mukherjee 0001" pid="m/AnimeshMukherjee" n="294">
 <person key="homepages/m/AnimeshMukherjee" mdate="2023-03-15">
 <author pid="m/AnimeshMukherjee">Animesh Mukherjee 0001</author>
 <url>http://cse.iitkgp.ac.in/~animeshm/</url>
@@ -2344,6 +2344,19 @@
 <url>db/conf/naacl/naacl2018-5.html#SinghDPBDHGM18</url>
 </inproceedings>
 </r>
+<r><inproceedings key="conf/smm4h/TokalaGM18" mdate="2024-04-20">
+<author pid="242/4243">Santosh Tokala</author>
+<author pid="373/4541">Vaibhav Gambhir</author>
+<author pid="m/AnimeshMukherjee">Animesh Mukherjee 0001</author>
+<title>Deep Learning for Social Media Health Text Classification.</title>
+<pages>61-64</pages>
+<year>2018</year>
+<booktitle>SMM4H@EMNLP</booktitle>
+<ee>https://doi.org/10.18653/v1/W18-5917</ee>
+<crossref>conf/smm4h/2018</crossref>
+<url>db/conf/smm4h/smm4h2018.html#TokalaGM18</url>
+</inproceedings>
+</r>
 <r><article publtype="informal" key="journals/corr/abs-1802-00231" mdate="2021-06-24">
 <author pid="176/4245">Binny Mathew</author>
 <author pid="65/11265">Suman Kalyan Maity</author>
@@ -4248,7 +4261,7 @@
 <url>db/conf/icalt/icalt2005.html#MukherjeeBHB05</url>
 </inproceedings>
 </r>
-<coauthors n="259" nc="4">
+<coauthors n="261" nc="4">
 <co c="0"><na f="a/Adak:Sayantan" pid="266/8290">Sayantan Adak</na></co>
 <co c="0"><na f="a/Adhikari:Bibhas" pid="23/9299">Bibhas Adhikari</na></co>
 <co c="0"><na f="a/Aditya:Somak" pid="165/0785">Somak Aditya</na></co>
@@ -4336,6 +4349,7 @@
 <co c="0"><na f="f/Freitag:Dayne" pid="80/2274">Dayne Freitag</na></co>
 <co c="0"><na f="f/Fr=ouml=be:Maik" pid="256/9118">Maik Fr&#246;be</na></co>
 <co c="0"><na f="g/Gajula:Ramanth" pid="211/3041">Ramanth Gajula</na></co>
+<co c="0"><na f="g/Gambhir:Vaibhav" pid="373/4541">Vaibhav Gambhir</na></co>
 <co c="0"><na f="g/Gamidi:Tulasi" pid="186/7931">Tulasi Gamidi</na></co>
 <co c="0"><na f="g/Ganguly:Niloy" pid="52/6987">Niloy Ganguly</na></co>
 <co c="0"><na f="g/Garg:Ashish" pid="96/6185">Ashish Garg</na></co>
@@ -4496,6 +4510,7 @@
 <co c="0"><na f="t/Tehria:Paras" pid="266/2274">Paras Tehria</na></co>
 <co c="0"><na f="t/Tharad:Hardik" pid="225/4704">Hardik Tharad</na></co>
 <co c="0"><na f="t/Thukral:Sachin" pid="227/3437">Sachin Thukral</na></co>
+<co c="0"><na f="t/Tokala:Santosh" pid="242/4243">Santosh Tokala</na></co>
 <co c="1"><na f="t/Tria:Francesca" pid="11/8805">Francesca Tria</na></co>
 <co c="0"><na f="u/Ufimtsev:Vladimir" pid="49/5642">Vladimir Ufimtsev</na></co>
 <co c="0"><na f="u/Upmanyu:Abhishek" pid="168/8269">Abhishek Upmanyu</na></co>

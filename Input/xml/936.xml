@@ -1,4 +1,4 @@
-<dblpperson name="Xiang Lian" pid="l/XianLian" n="124">
+<dblpperson name="Xiang Lian" pid="l/XianLian" n="125">
 <person key="homepages/l/XianLian" mdate="2019-09-06">
 <author pid="l/XianLian">Xiang Lian</author>
 <note type="affiliation">Kent State University, OH, USA</note>
@@ -79,6 +79,22 @@
 <ee>https://doi.org/10.1109/TKDE.2023.3243177</ee>
 <url>db/journals/tkde/tkde35.html#RaiL23</url>
 </article>
+</r>
+<r><inproceedings key="conf/bdcloud/LingYX0CL23" mdate="2024-04-18">
+<author pid="314/6682">Zhiwei Ling</author>
+<author pid="314/6918">Zhihao Yue</author>
+<author pid="22/3650">Jun Xia</author>
+<author pid="12/2633-1">Ting Wang 0001</author>
+<author pid="95/573">Mingsong Chen</author>
+<author pid="l/XianLian">Xiang Lian</author>
+<title>FedEntropy: Efficient Federated Learning for Non-IID Scenarios Using Maximum Entropy Judgment-based Client Selection.</title>
+<pages>56-63</pages>
+<year>2023</year>
+<booktitle>ISPA/BDCloud/SocialCom/SustainCom</booktitle>
+<ee>https://doi.org/10.1109/ISPA-BDCloud-SocialCom-SustainCom59178.2023.00040</ee>
+<crossref>conf/bdcloud/2023</crossref>
+<url>db/conf/bdcloud/bdcloud2023.html#LingYX0CL23</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/icde/Al-BaghdadiSL23" mdate="2023-07-27">
 <author pid="250/9744">Ahmed Al-Baghdadi</author>
@@ -1823,7 +1839,7 @@
 <ee>https://doi.org/10.1016/B978-012088469-8.50066-8</ee>
 </inproceedings>
 </r>
-<coauthors n="99" nc="3">
+<coauthors n="102" nc="3">
 <co c="0"><na f="a/Al=Baghdadi:Ahmed" pid="250/9744">Ahmed Al-Baghdadi</na></co>
 <co c="-1"><na f="b/Bavi:Kovan" pid="344/9535">Kovan Bavi</na></co>
 <co c="0"><na f="b/Bernecker:Thomas" pid="64/2434">Thomas Bernecker</na></co>
@@ -1869,6 +1885,7 @@
 <co c="0"><na f="l/Li_0002:Zijian" pid="27/10487-2">Zijian Li 0002</na></co>
 <co c="0"><na f="l/Liao:Xueting" pid="214/1071">Xueting Liao</na></co>
 <co c="0"><na f="l/Lin:Yincheng" pid="95/10440">Yincheng Lin</na></co>
+<co c="0"><na f="l/Ling:Zhiwei" pid="314/6682">Zhiwei Ling</na></co>
 <co c="0"><na f="l/Liu:Dexi" pid="75/5268">Dexi Liu</na></co>
 <co c="0"><na f="l/Liu:Qiyu" pid="209/2298">Qiyu Liu</na></co>
 <co c="0"><na f="l/Liu:Siyuan" pid="00/4516">Siyuan Liu</na></co>
@@ -1898,6 +1915,7 @@
 <co c="0"><na f="w/Wang:Zimeng" pid="212/5263">Zimeng Wang</na></co>
 <co c="0"><na f="w/Wu_0007:Gang" pid="99/6515-7">Gang Wu 0007</na></co>
 <co c="0"><na f="w/Wu:Yubao" pid="18/8107">Yubao Wu</na></co>
+<co c="0"><na f="x/Xia:Jun" pid="22/3650">Jun Xia</na></co>
 <co c="0"><na f="x/Xiao:Xiaokui" pid="33/1903">Xiaokui Xiao</na></co>
 <co c="0"><na f="x/Xu:Jianliang" pid="x/JianliangXu">Jianliang Xu</na></co>
 <co c="0"><na f="y/Yang_0001:Xiaochun" pid="86/2859-1">Xiaochun Yang 0001</na></co>
@@ -1907,6 +1925,7 @@
 <co c="0"><na f="y/Yu:Jeffrey_Xu" pid="y/JXuYu">Jeffrey Xu Yu</na></co>
 <co c="0"><na f="y/Yu:Philip_S=" pid="y/PhilipSYu">Philip S. Yu</na></co>
 <co c="0"><na f="y/Yuan_0001:Ye" pid="33/6315-1">Ye Yuan 0001</na></co>
+<co c="0"><na f="y/Yue:Zhihao" pid="314/6918">Zhihao Yue</na></co>
 <co c="0"><na f="z/Zhang:Fan" pid="21/3626">Fan Zhang</na></co>
 <co c="0"><na f="z/Zhang:Huaming" pid="87/3123">Huaming Zhang</na></co>
 <co c="0"><na f="z/Zhang:Nan" pid="28/6297">Nan Zhang</na></co>
